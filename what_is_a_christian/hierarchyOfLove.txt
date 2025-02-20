@@ -16,7 +16,8 @@ God's Perfect Wisdom (Complete knowledge of Truth, Justice & Mercy)
    │   ├── Sacred Scripture
    │   ├── Sacred Tradition
    │   ├── Church Teaching/Magisterium
-   │   └── Lives of Saints
+   │   ├── Lives of Saints
+   │   └── Domestic Church (where faith is first taught and lived)
    │
    ├── Through Liturgy and Prayer
    │   ├── Holy Mass
@@ -28,7 +29,12 @@ God's Perfect Wisdom (Complete knowledge of Truth, Justice & Mercy)
    │   ├── Mystical Experience
    │   ├── Personal Inspiration
    │   ├── Providential Events
-   │   └── Community of Believers
+   │   ├── Community of Believers
+   │   └── Family Life
+   │       ├── Daily school of love and sacrifice
+   │       ├── Living image of Trinity's communion of love
+   │       ├── First experience of Church community
+   │       └── Natural foundation for learning Truth, Justice & Mercy
    │
    ├── Through Types of Grace
    │   │   [How we RECEIVE His Love]
@@ -38,8 +44,11 @@ God's Perfect Wisdom (Complete knowledge of Truth, Justice & Mercy)
    │   │   ├── Makes us adopted children of God
    │   │   ├── Makes us temples of the Holy Spirit
    │   │   ├── Enables supernatural acts of Faith, Hope, and Charity
-   │   │   ├── Gives us the capacity for merit
-   │   │   └── Makes us partakers of divine nature
+   │   │   ├── Allows us to grow in holiness through our actions
+   │   │   ├── Makes our good works pleasing to God
+   │   │   ├── Enables us to participate in building God's kingdom
+   │   │   ├── Makes our lives a witness to God's love in the world
+   │   │   └── Calls us all to become saints
    │   │
    │   ├── Actual Grace (God's help in specific moments to choose Love)
    │   │   ├── Enlightens the mind
@@ -53,7 +62,33 @@ God's Perfect Wisdom (Complete knowledge of Truth, Justice & Mercy)
    │       ├── Confirmation (Strengthening in Holy Spirit to witness Love)
    │       ├── Eucharist (Perfect union with Divine Love)
    │       ├── Reconciliation (Experiencing God's merciful Love and healing)
-   │       ├── Matrimony (Union with spouse daily teaching us the sacrifices of Love)
+   │       ├── Matrimony
+   │       │   ├── Union with spouse daily teaching us the sacrifices of Love
+   │       │   ├── Through procreation participating in God's creative love
+   │       │   ├── Through family life forming the domestic church where:
+   │       │   │   ├── Faith is first taught and lived
+   │       │   │   ├── Love is practiced daily
+   │       │   │   ├── Virtues are formed
+   │       │   │   └── Saints are made
+   │       │   │
+   │       │   ├── Family as School of Truth
+   │       │   │   ├── Parents as first teachers of faith
+   │       │   │   ├── Daily witness of God's faithful love
+   │       │   │   ├── Learning human dignity and purpose
+   │       │   │   └── Discovering God's plan for human flourishing
+   │       │   │
+   │       │   ├── Family as School of Justice
+   │       │   │   ├── Proper ordering of relationships
+   │       │   │   ├── Learning duties and responsibilities
+   │       │   │   ├── Practicing stewardship
+   │       │   │   └── Respecting authority and dignity
+   │       │   │
+   │       │   └── Family as School of Mercy
+   │       │       ├── Daily practice of forgiveness
+   │       │       ├── Care for each member's needs
+   │       │       ├── Supporting each other in weakness
+   │       │       └── Learning patient love
+   │       │
    │       ├── Holy Orders (Serving as instrument of God's Love to Church)
    │       └── Anointing (United with Christ's Love in suffering)
    │
