@@ -13,6 +13,26 @@ When we understand love in this complete way, the rest of our faith comes into f
 the sacraments, why family life is sacred, and why every aspect of Catholic teaching ultimately serves to help us
 know, receive, and share divine love.
 
+Salvation itself is best understood as entering into a true love relationship with Christ and living that out. This is
+the true gift of Jesus dying on the Cross. He showed us the example of true love - sacrificing for another - and calls
+us to live this out. This is "the faith" that is talked about in Ephesians 2:8-9, which prepares us for every good work.
+This understanding firmly challenges the concept of "faith alone," revealing that we are saved by "the faith" -
+a complete relationship of trust and commitment. Living this way is in no way earning our salvation, but rather living out the
+reality of God's love that he has revealed to us, submitting to the wisdom He has taught us throughout salvation history,
+including the last 2000 years in His Church.
+
+The sacraments are essential in this journey, as they all point to unity with Christ. Baptism initiates us into the
+kingdom, while the Eucharist - the source and summit of our faith - is our ultimate "communion" with Him, where we
+"renew our vows" each time to live into His Truth, Justice, and Mercy. Even saints need the sacraments to keep them
+united to Christ and prevent them from veering toward sin.
+
+Jesus' invitation is radical: "If you want to follow me, deny yourself, pick up your cross and follow me." Living out
+the faith is challenging and requires dedication and sacrifice. It's not about comfortable belief but total commitment.
+
+The family plays a crucial role in this vision. Being a good, faithful Catholic in a good, faithful Catholic family is
+perhaps the most powerful and long-enduring way we participate in Jesus' plan to save the world, with ramifications that
+extend for generations.
+
 This understanding of love has been the foundation of Western civilization, giving rise to unprecedented human
 flourishing and freedom. It teaches us that true love requires both truth and mercy, justice and sacrifice -
 essential principles for building a society that respects human dignity and promotes authentic human development.
@@ -22,13 +42,16 @@ vision of love - rooted in God's wisdom and lived out in family and community - 
 a civilization of love and truth.
 
 ```
-God's Perfect Wisdom (Complete knowledge of Truth, Justice & Mercy)
-│   [What God IS: Perfect Love]
+God is Love.
+The perfect wisdom and sharing of God's Truth, Justice and Mercy is Love.
+│   [What God IS: Perfect Love, most fully revealed in the Trinitarian communion of Father, Son, and Holy Spirit]
+│   [Love is the very essence of His being, shared among the three Persons.]
 │
-├── That which is beyond what God has revealed to us...
+├── ( Here is the bucket for that which is beyond what God has revealed to us...)
 │
-├── God's Grace (His free and undeserved gift sharing divine life and wisdom with us)
+├── God's Grace (His free and undeserved gift of His Love (His perfect wisdom of Truth+Justice+Mercy))
 │   │   [How God REVEALS His Love to us, perfecting our natural capacities]
+│   │   [Note: Grace builds upon Nature and doesn't destroy it]
 │   │
 │   ├── Through Natural Revelation
 │   │   │   [Built on our natural capacity to know and love God]
@@ -42,7 +65,7 @@ God's Perfect Wisdom (Complete knowledge of Truth, Justice & Mercy)
 │   │   ├── Sacred Tradition
 │   │   ├── Church Teaching/Magisterium
 │   │   ├── Lives of Saints
-│   │   └── Domestic Church (where faith is first taught and lived)
+│   │   └── Domestic Church (where faith and virtue are first taught and lived)
 │   │
 │   ├── Through Liturgy and Prayer
 │   │   ├── Holy Mass
@@ -139,12 +162,14 @@ God's Perfect Wisdom (Complete knowledge of Truth, Justice & Mercy)
 │   └── Free Will
 │       ├── Capacity to choose to love
 │       ├── Ability to participate in salvation history
-│       └── Freedom to cooperate with grace
+│       ├── Freedom to cooperate with grace
+│       └── Wounded by Original Sin, requires grace to be properly ordered
 │
 └── Divine Love (Perfect Unity of Truth, Justice & Mercy)
     │   [How we freely PARTICIPATE in and ACT OUT God's Love as His ministers]
     │
     ├── Spans All (Truth, Justice & Mercy)
+    │   [The Gifts of the Holy Spirit assist us in practicing all three theological virtues]
     │   ├── Theological Virtues (with their perfecting Gifts of the Holy Spirit)
     │   │   │   [Perfecting our natural capacity to know and love God]
     │   │   ├── Faith (perfected by Understanding)
@@ -170,11 +195,22 @@ God's Perfect Wisdom (Complete knowledge of Truth, Justice & Mercy)
     │   │       ├── Perfects intellect: understanding of proper justice and mercy
     │   │       └── Perfects will: desire for true good
     │   │
-    │   ├── Cardinal Virtues
+    │   ├── Cardinal Virtues (with their perfecting Gifts of the Holy Spirit)
     │   │   ├── Prudence (perfected by Gift of the Holy Spirit: Counsel)
-    │   │   └── Fortitude (perfected by Gift of the Holy Spirit: Fortitude)
+    │   │   │   [Knowing the right thing to do and how to do it]
+    │   │   │   The virtue that disposes practical reason to discern our true good in every circumstance
+    │   │   │   and to choose the right means of achieving it
+    │   │   ├── Justice (perfected by Gift of the Holy Spirit: Piety)
+    │   │   │   [Giving God and neighbor what is due]
+    │   │   │   The moral virtue that consists in the constant and firm will to give God and neighbor their due; concerned with rights.
+    │   │   ├── Fortitude (perfected by Gift of the Holy Spirit: Fortitude)
+    │   │   │   [Courage to do what is right, even when difficult]
+    │   │   │   The moral virtue that ensures firmness in difficulties and constancy in the pursuit of the good.
+    │   │   └── Temperance (perfected by Gift of Holy Spirit: Fear of the Lord)
+    │   │       [Moderating our desires and pleasures for our true good]
+    │   │       The moral virtue that moderates the attraction of pleasures and provides balance in the use of created goods.
     │   │
-    │   └── Gift of the Holy Spirit: Wisdom (seeing all in divine light)
+    │   ├── Gift of the Holy Spirit: Wisdom (perfects Charity, seeing all in divine light)
     │
     ├── TRUTH
     │   ├── Knowledge of God and Reality, and our total dependence on Him
@@ -190,7 +226,8 @@ God's Perfect Wisdom (Complete knowledge of Truth, Justice & Mercy)
     │   ├── Manifested in:
     │   │   ├── Commutative Justice (fair exchanges between persons)
     │   │   ├── Distributive Justice (fair allocation of common goods)
-    │   │   └── Gift of the Holy Spirit: Fear of the Lord
+    │   │   ├── Legal/Contributive Justice (citizens obligations to common good)
+    │   │   └── Social Justice (integrates these three)
     │   ├── Requires Sacrifice of: Self-Interest
     │   └── Opposed by: Greed, Envy (refusal to sacrifice self-interest)
     │
