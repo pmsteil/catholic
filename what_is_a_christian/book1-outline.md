@@ -22,8 +22,9 @@
    * The distorted understanding of "reproductive rights"
    * The challenges posed by transgender ideology
 
-3. **The Fundamental Errors of Modern Ideologies:** Examine the root philosophical mistakes:
-   * The Marxist foundation of modern movements (wokeness, intersectionality, critical theories)
+3. **What Wokeness Is Fighting For, But Where It Went Wrong:** Examine the legitimate concerns and fundamental errors:
+   * The valid desire for justice and equality that drives these movements
+   * The Marxist foundation that derails modern movements (wokeness, intersectionality, critical theories)
    * The error of reducing human relations to power dynamics
    * Why seeking power as the primary goal creates perpetual injustice
    * The mistake of blaming groups rather than addressing individual sin and disorder
@@ -32,9 +33,10 @@
    * How these movements misdiagnose the human condition and therefore prescribe ineffective remedies
 
 4. **The Underlying Cause: A Loss of Foundation:** Explain that all of these issues stem from a deeper problem:
-   * The absence of any guiding principles or objective standards of truth
+   * The absence of any objective standard or guiding principles of truth resulting in justice and mercy run amok
    * A reliance on subjective feelings, emotions, and personal opinions
-   * A disconnect from the natural world and the wisdom of tradition
+   * A "progressive" movement that is without any boundaries or limits or "commandments" - everything is relative and fluid
+   * A disconnect from the natural world and the realities of the human body, mind, and soul
 
 5. **The Yearning for Something More:** Acknowledge that even in these misguided movements, there's a kernel of truth:
    * A genuine desire for freedom, justice, mercy, and virtue
