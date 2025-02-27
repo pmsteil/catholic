@@ -617,9 +617,9 @@ Catholic Faith will continue to be a light to the World and salt of the Earth.
    * Strategies for growth in virtue
    * The patient work of transformation
 
-### Chapter 12: Called to Sainthood: Love Perfected
+### Chapter 12: The Call to Sainthood and the New Evangelization
 
-*Premise: Every Christian is called to sainthood—the perfection of love—which is not an exceptional vocation but the normal outcome of baptismal grace lived faithfully.*
+*Premise: The call to personal holiness and the mission of evangelization are inseparable—as we grow in sanctity, we naturally become more effective witnesses to Christ's love in the world.*
 
 *Key Scriptures:*
 - "So be perfect, just as your heavenly Father is perfect." (Matthew 5:48, NABRE)
@@ -634,6 +634,9 @@ Catholic Faith will continue to be a light to the World and salt of the Earth.
 - "But as he who called you is holy, be holy yourselves in all your conduct; for it is written, 'You shall be holy, for I am holy.'" (1 Peter 1:15-16, NABRE)
 - "Therefore, since we are surrounded by so great a cloud of witnesses, let us rid ourselves of every burden and sin that clings to us and persevere in running the race that lies before us while keeping our eyes fixed on Jesus, the leader and perfecter of faith." (Hebrews 12:1-2, NABRE)
 - "For those he foreknew he also predestined to be conformed to the image of his Son, so that he might be the firstborn among many brothers." (Romans 8:29, NABRE)
+- "Go, therefore, and make disciples of all nations, baptizing them in the name of the Father, and of the Son, and of the holy Spirit, teaching them to observe all that I have commanded you." (Matthew 28:19-20, NABRE)
+- "But you will receive power when the holy Spirit comes upon you, and you will be my witnesses in Jerusalem, throughout Judea and Samaria, and to the ends of the earth." (Acts 1:8, NABRE)
+- "Always be ready to give an explanation to anyone who asks you for a reason for your hope, but do it with gentleness and reverence." (1 Peter 3:15-16, NABRE)
 
 1. **The Universal Call to Holiness:**
    * Every Christian called to become a saint
@@ -650,21 +653,20 @@ Catholic Faith will continue to be a light to the World and salt of the Earth.
    * Embracing the crosses of everyday life
    * The necessary role of grace in the journey
 
-4. **The Saint's Need for Sacramental Life:**
-   * Why especially saints need the Mass and sacraments
-   * Sacraments as the lifeline keeping us united to Christ
-   * How the Eucharist and Confession prevent veering toward sin
-   * The humility of saints in recognizing their ongoing dependence on grace
+4. **Sainthood and Evangelization: Two Sides of One Coin:**
+   * How personal holiness naturally radiates outward
+   * The most effective evangelization: the witness of a transformed life
+   * Why attempts at evangelization without personal sanctity often fail
 
-5. **Saints Who Show Us the Way:**
-   * Examples of ordinary people who lived extraordinary love
-   * How different saints embodied Truth, Justice, and Mercy
-   * Learning from their struggles and triumphs
+5. **The Family as the First Field of Evangelization:**
+   * Helping spouses grow in holiness
+   * Forming children in the faith
+   * How holy families transform neighborhoods and communities
 
-6. **Living Sainthood in Today's World:**
-   * Practical steps toward holiness in everyday life
-   * Countering cultural obstacles to sainthood
-   * Finding sanctity in your particular vocation and circumstances
+6. **The New Evangelization in Practice:**
+   * Evangelizing the baptized who have drifted from faith
+   * Reaching those who have never heard the Gospel
+   * Transforming culture through the witness of authentic love
 
 ### Chapter 13: The Family and Society: Love's First School and Broader Impact
 
@@ -722,70 +724,6 @@ Catholic Faith will continue to be a light to the World and salt of the Earth.
 
 ## PART V: THE FULFILLMENT OF LOVE
 
-### Chapter 14: The Fulfillment of Love: Heaven, Purgatory, and the Last Things
-
-*Premise: Heaven is not merely a place but perfect communion with God and others—the fulfillment of our capacity to love and be loved for eternity.*
-
-*Key Scriptures:*
-- "What eye has not seen, and ear has not heard, and what has not entered the human heart, what God has prepared for those who love him." (1 Corinthians 2:9, NABRE)
-- "Then I saw a new heaven and a new earth. The former heaven and the former earth had passed away, and the sea was no more. I also saw the holy city, a new Jerusalem, coming down out of heaven from God, prepared as a bride adorned for her husband." (Revelation 21:1-2, NABRE)
-- "For here we have no lasting city, but we seek the one that is to come." (Hebrews 13:14, NABRE)
-- "He will wipe every tear from their eyes, and there shall be no more death or mourning, wailing or pain, [for] the old order has passed away." (Revelation 21:4, NABRE)
-- "In my Father's house there are many dwelling places. If there were not, would I have told you that I am going to prepare a place for you?" (John 14:2, NABRE)
-- "But as it is written: 'What eye has not seen, and ear has not heard, and what has not entered the human heart, what God has prepared for those who love him.'" (1 Corinthians 2:9, NABRE)
-- "For we know that if our earthly dwelling, a tent, should be destroyed, we have a building from God, a dwelling not made with hands, eternal in heaven." (2 Corinthians 5:1, NABRE)
-- "But our citizenship is in heaven, and from it we also await a savior, the Lord Jesus Christ." (Philippians 3:20, NABRE)
-- "They have washed their robes and made them white in the blood of the Lamb." (Revelation 7:14, NABRE)
-
-1. **Heaven as Perfect Communion:**
-   * Union with God and others
-   * The fulfillment of all human desires
-   * The perfection of our capacity to love
-
-2. **How Earthly Love Prepares Us:**
-   * Each act of love as preparation for heaven
-   * Growing in capacity for God and others
-   * The purification of our love
-
-3. **The Beatific Vision:**
-   * Seeing God face to face
-   * Knowledge and love perfected
-   * Joy beyond all telling
-
-4. **The Resurrection of the Body:**
-   * The whole person redeemed
-   * Physical reality transformed
-   * The new heaven and new earth
-
-5. **Living Now in Light of Eternity:**
-   * How heaven changes our perspective now
-   * Finding eternal significance in daily acts
-   * The hope that sustains us through difficulties
-
-6. **Purgatory: The Final Purification of Love:**
-   * Purgatory as the cleansing fire of God's love
-   * Why even the saved may need purification
-   * How purgatory demonstrates both God's justice and mercy
-   * Praying for the dead as an act of love
-
-7. **The Communion of Saints: The Community of Love:**
-   * The Church Triumphant, Suffering, and Militant
-   * How we remain in communion with those who have died
-   * The intercession of the saints
-   * Building relationships that transcend death
-
-8. **The Last Judgment: The Revelation of Love:**
-   * Christ's criteria: "Whatever you did for the least of these..."
-   * How our capacity to love will be revealed
-   * The eternal consequences of how we have loved
-   * Living now in light of the judgment to come
-
-9. **Hell: The Rejection of Love:**
-   * Hell as the state of definitive self-exclusion from communion with God
-   * The reality of human freedom to reject love
-   * Why a God of love allows the possibility of hell
-   * The Church's hope for universal salvation while acknowledging the reality of hell
-
 ### Chapter 15: Conclusion: The Journey of Love
 
 *Premise: The Christian life is an ongoing journey of growth in love, integrating truth, justice, and mercy through the grace of God.*
@@ -801,14 +739,22 @@ Catholic Faith will continue to be a light to the World and salt of the Earth.
 - "Come to me, all you who labor and are burdened, and I will give you rest." (Matthew 11:28, NABRE)
 - "Be perfect, just as your heavenly Father is perfect." (Matthew 5:48, NABRE)
 
-**Further Horizons: The Depths of Our Faith**
+**Afterword: Further Horizons: The Depths of Our Faith**
 
 This book has only scratched the surface of the rich treasury of Catholic faith. There are many more aspects of our faith that deepen our understanding of love as the perfect unity of truth, justice, and mercy:
 
-* Heaven, Purgatory, and the Last Things: The fulfillment of our capacity to love
+**Deeper Dimensions of Prayer and Worship:**
+* Liturgical Prayer and the Divine Office: The Church's rhythm of prayer throughout the day
+* Personal Prayer Practices: Developing routines and overcoming obstacles
+* Prayer and Action: How contemplation informs and empowers loving service
+
+**The Fulfillment of Love:**
+* Heaven as Perfect Communion: Union with God and others
+* The Beatific Vision: Seeing God face to face
+* The Resurrection of the Body: The whole person redeemed
+* Purgatory: The final purification of love
 * The Communion of Saints: Our connection with those who have gone before us
-* The Beatific Vision: The ultimate encounter with Love Himself
-* The Resurrection of the Body: The redemption of the whole person
-* Eschatology: Understanding how all of history moves toward its fulfillment in Christ
+* The Last Judgment: The revelation of our capacity to love
+* Hell: The reality of human freedom to reject love
 
 These topics, while beyond the scope of this book, invite us to continue our journey of faith, always growing deeper in our understanding of God's love and our response to it. The Catholic faith is an inexhaustible well of wisdom that continues to nourish us throughout our lives as we seek to love God and neighbor more perfectly.
