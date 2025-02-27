@@ -724,7 +724,7 @@ Catholic Faith will continue to be a light to the World and salt of the Earth.
 
 ## PART V: THE FULFILLMENT OF LOVE
 
-### Chapter 15: Conclusion: The Journey of Love
+### Chapter 14: Conclusion: The Journey of Love
 
 *Premise: The Christian life is an ongoing journey of growth in love, integrating truth, justice, and mercy through the grace of God.*
 
