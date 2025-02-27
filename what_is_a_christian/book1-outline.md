@@ -1,6 +1,6 @@
 # *What is Love?: Recovering the Heart of the Gospel: Truth, Justice, and Mercy in Action*
 
-## Book Summary
+## Book Purpose
 
 This book is intended to help Catholics understand the depth and beauty of their faith through understanding the formal
 definition of objective, authentic, true love which is the God's perfect union of truth, justice, and mercy.
@@ -454,47 +454,7 @@ Catholic Faith will continue to be a light to the World and salt of the Earth.
    * The joy of living within God's design rather than constantly reinventing morality
    * How to respectfully engage with those who reject Church authority
 
-### Chapter 8: Revelation: God's Self-Disclosure**
-
-*Premise: God has revealed Himself through creation, Scripture, and Tradition, providing objective standards of truth, justice, and mercy that transcend the shifting sands of cultural opinion.*
-
-*Key Scriptures:*
-- "All scripture is inspired by God and is useful for teaching, for refutation, for correction, and for training in righteousness." (2 Timothy 3:16, NABRE)
-- "In times past, God spoke in partial and various ways to our ancestors through the prophets; in these last days, he spoke to us through a son, whom he made heir of all things and through whom he created the universe." (Hebrews 1:1-2, NABRE)
-- "Now this is eternal life, that they should know you, the only true God, and the one whom you sent, Jesus Christ." (John 17:3, NABRE)
-- "The heavens declare the glory of God; the firmament proclaims the works of his hands." (Psalm 19:2, NABRE)
-- "Ever since the creation of the world, his invisible attributes of eternal power and divinity have been able to be understood and perceived in what he has made." (Romans 1:20, NABRE)
-- "God willed that what he had revealed for the salvation of all peoples should remain in its entirety, throughout the ages, and be transmitted to all generations." (Dei Verbum 7, citing 1 Timothy 6:20 and 2 Timothy 1:14, NABRE)
-- "No one has ever seen God. The only Son, God, who is at the Father's side, has revealed him." (John 1:18, NABRE)
-- "Whoever has seen me has seen the Father." (John 14:9, NABRE)
-- "Lord, to whom shall we go? You have the words of eternal life." (John 6:68, NABRE)
-
-1. **Natural Revelation:**
-   * Knowing God through creation
-   * The limits of natural knowledge
-   * How nature points beyond itself
-
-2. **Divine Revelation:**
-   * God's self-disclosure in history
-   * Scripture as inspired testimony
-   * Tradition as living memory
-
-3. **The Church as Guardian and Interpreter:**
-   * The role of the Magisterium
-   * Why personal interpretation is insufficient
-   * How the Church preserves the fullness of revelation
-
-4. **How Revelation Shapes Our Understanding of Love:**
-   * Moving beyond natural conceptions
-   * The surprising nature of God's love
-   * How revelation challenges cultural assumptions
-
-5. **Engaging with God's Revelation:**
-   * Reading Scripture prayerfully
-   * Learning the Church's teaching
-   * Allowing revelation to transform our minds
-
-### Chapter 9: The Cross: Love's Supreme Sacrifice**
+### Chapter 8: The Cross: Love's Supreme Sacrifice**
 
 *Premise: The Cross of Christ reveals the perfect unity of truth, justice, and mercy, showing us that authentic love always involves sacrifice and that suffering can be redemptive when united to Christ.*
 
@@ -537,46 +497,7 @@ Catholic Faith will continue to be a light to the World and salt of the Earth.
 
 ## PART IV: LOVE IN ACTION
 
-### Chapter 10: The Fear of the Lord: Beginning of Wisdom
-
-*Premise: The fear of the Lord is the beginning of wisdom, leading us to a life imbued with understanding and actionable love.*
-
-*Key Scriptures:*
-- "The fear of the LORD is the beginning of wisdom, and the knowledge of the Holy One is understanding." (Proverbs 9:10, NABRE)
-- "Blessed is the man who fears the LORD, who greatly delights in his commandments." (Psalm 112:1, NABRE)
-- "The fear of the LORD is the beginning of knowledge, but fools despise wisdom and instruction." (Proverbs 1:7, NABRE)
-- "The fear of the LORD is the beginning of knowledge; fools despise wisdom and instruction." (Proverbs 1:7, NABRE)
-- "The fear of the LORD is the beginning of wisdom, and the knowledge of the Holy One is understanding." (Proverbs 9:10, NABRE)
-- "Blessed is the man who fears the LORD, who greatly delights in his commandments." (Psalm 112:1, NABRE)
-- "The fear of the LORD is the beginning of knowledge; fools despise wisdom and instruction." (Proverbs 1:7, NABRE)
-- "The fear of the LORD is the beginning of knowledge; fools despise wisdom and instruction." (Proverbs 1:7, NABRE)
-
-1. **The Fear of the Lord as the Beginning of Wisdom:**
-   * The fear of the Lord as the foundation for wisdom
-   * How fearing God leads to understanding and obedience
-   * The contrast between fools and wise people
-
-2. **Blessedness in Fearing the Lord:**
-   * The blessings that come to those who fear the Lord
-   * The relationship between fear and delight in God's commandments
-   * The joy of living in harmony with God's will
-
-3. **The Fear of the Lord in Daily Life:**
-   * Practical ways to cultivate fear of the Lord
-   * How fear can guide our actions and decisions
-   * The benefits of living in the fear of the Lord
-
-4. **The Fear of the Lord in the Christian Life:**
-   * How fear of the Lord is a prerequisite for spiritual growth
-   * The role of fear in overcoming obstacles to faith
-   * The connection between fear and faith in the Christian life
-
-5. **The Fear of the Lord in the Catholic Tradition:**
-   * The role of fear in the Catholic understanding of faith and morality
-   * How fear of the Lord is integrated into Catholic teachings and practices
-   * The relationship between fear and love in the Catholic faith
-
-### Chapter 11: The Sacramental Life: Love Made Visible
+### Chapter 9: The Sacramental Life: Love Made Visible
 
 *Premise: The sacraments are not empty rituals but encounters with Christ that heal and strengthen our capacity to love, providing the grace needed to live counter-culturally.*
 
@@ -613,49 +534,7 @@ Catholic Faith will continue to be a light to the World and salt of the Earth.
    * The communal dimension of sacraments
    * Sacraments as visible signs of an alternative way of living
 
-### Chapter 12: The Eucharist: The Source and Summit of Love
-
-*Premise: The Eucharist is not merely a symbol but the real presence of Christ—His Body, Blood, Soul, and Divinity—providing the ultimate nourishment for our journey of love.*
-
-*Key Scriptures:*
-- "This is my body, which will be given for you; do this in memory of me." (Luke 22:19, NABRE)
-- "Amen, amen, I say to you, unless you eat the flesh of the Son of Man and drink his blood, you do not have life within you. Whoever eats my flesh and drinks my blood has eternal life, and I will raise him on the last day." (John 6:53-54, NABRE)
-- "Baptism, which corresponds to this, now saves you, not as a removal of dirt from the body but as an appeal to God for a clear conscience, through the resurrection of Jesus Christ." (1 Peter 3:21, NABRE)
-- "For as often as you eat this bread and drink the cup, you proclaim the death of the Lord until he comes." (1 Corinthians 11:26, NABRE)
-- "The cup of blessing that we bless, is it not a participation in the blood of Christ? The bread that we break, is it not a participation in the body of Christ?" (1 Corinthians 10:16, NABRE)
-- "For those who eat and drink without discerning the body, eat and drink judgment on themselves." (1 Corinthians 11:29, NABRE)
-- "I am the living bread that came down from heaven; whoever eats this bread will live forever; and the bread that I will give is my flesh for the life of the world." (John 6:51, NABRE)
-- "Then the two recounted what had taken place on the way and how he was made known to them in the breaking of the bread." (Luke 24:35, NABRE)
-
-1. **The Real Presence: Christ Truly With Us:**
-   * The doctrine of transubstantiation explained
-   * Biblical foundations for the Real Presence
-   * How the Eucharist fulfills Old Testament prefigurements
-   * Why the Real Presence matters for our spiritual life
-
-2. **The Mass as Sacrifice and Meal:**
-   * The connection between Calvary and the altar
-   * How the Mass makes present Christ's sacrifice
-   * The communal dimension of Eucharistic celebration
-   * The wedding feast of the Lamb
-
-3. **Eucharistic Devotion Beyond Mass:**
-   * Adoration as gazing upon the face of Love
-   * How Eucharistic devotion transforms our daily lives
-   * Practical ways to deepen Eucharistic spirituality
-
-4. **The Eucharist as Source of Mission:**
-   * How the Eucharist empowers us for service
-   * "Go in peace, glorifying the Lord by your life"
-   * The connection between worship and witness
-
-5. **Preparing for Worthy Reception:**
-   * The importance of proper disposition
-   * The requirement of being in a state of grace
-   * How to prepare spiritually for Communion
-   * The fruits of frequent and devout Communion
-
-### Chapter 13: Prayer and Worship: Communion with Love Himself
+### Chapter 10: Prayer and Worship: Communion with Love Himself
 
 *Premise: Prayer and worship, especially the Mass, are not merely religious obligations but the means by which we enter into communion with God who is Love, receiving the grace to love authentically.*
 
@@ -697,7 +576,7 @@ Catholic Faith will continue to be a light to the World and salt of the Earth.
    * The integration of contemplation and action
    * Prayer as the source of discernment for loving well
 
-### Chapter 14: Actual Virtue: Love's Habits of Excellence
+### Chapter 11: Actual Virtue: Love's Habits of Excellence
 
 *Premise: Virtues are the habits that enable us to love well, offering a path to genuine freedom that contrasts sharply with the license promoted by modern culture.*
 
@@ -738,7 +617,7 @@ Catholic Faith will continue to be a light to the World and salt of the Earth.
    * Strategies for growth in virtue
    * The patient work of transformation
 
-### Chapter 15: Called to Sainthood: Love Perfected
+### Chapter 12: Called to Sainthood: Love Perfected
 
 *Premise: Every Christian is called to sainthood—the perfection of love—which is not an exceptional vocation but the normal outcome of baptismal grace lived faithfully.*
 
@@ -787,7 +666,7 @@ Catholic Faith will continue to be a light to the World and salt of the Earth.
    * Countering cultural obstacles to sainthood
    * Finding sanctity in your particular vocation and circumstances
 
-### Chapter 16: The Domestic Church: Love's First School
+### Chapter 13: The Family and Society: Love's First School and Broader Impact
 
 *Premise: The family is where authentic love is first learned and lived, making faithful Catholic families the primary bulwark against society's distorted understanding of love and relationships.*
 
@@ -835,109 +714,15 @@ Catholic Faith will continue to be a light to the World and salt of the Earth.
    * Grace and reconciliation in family life
    * Creating a legacy of love despite imperfection
 
-### Chapter 17: The Social Dimension of Love: Building a Civilization of Love
-
-*Premise: Authentic love extends beyond personal relationships to social structures and systems, calling Catholics to work for justice and human dignity in all aspects of society.*
-
-*Key Scriptures:*
-- "You shall love your neighbor as yourself." (Mark 12:31, NABRE)
-- "Whatever you did for one of these least brothers of mine, you did for me." (Matthew 25:40, NABRE)
-- "There is neither Jew nor Greek, there is neither slave nor free person, there is not male and female; for you are all one in Christ Jesus." (Galatians 3:28, NABRE)
-- "If a brother or sister has nothing to wear and has no food for the day, and one of you says to them, 'Go in peace, keep warm, and eat well,' but you do not give them the necessities of the body, what good is it?" (James 2:15-16, NABRE)
-- "The Spirit of the Lord is upon me, because he has anointed me to bring glad tidings to the poor. He has sent me to proclaim liberty to captives and recovery of sight to the blind, to let the oppressed go free." (Luke 4:18, NABRE)
-
-1. **The Principles of Catholic Social Teaching:**
-   * Human dignity: The foundation of all social teaching
-   * Solidarity: We are one human family
-   * Subsidiarity: Issues should be handled by the smallest, lowest competent authority
-   * Common good: The social conditions that allow people to reach their fulfillment
-   * Preferential option for the poor: Putting the needs of the vulnerable first
-
-2. **Love in Social Structures:**
-   * How authentic love manifests in just social systems
-   * The connection between personal virtue and social justice
-   * Why individual charity must be complemented by structural justice
-
-3. **Areas of Social Concern:**
-   * Life and dignity of the human person from conception to natural death
-   * Family as the fundamental cell of society
-   * Rights and responsibilities of all persons
-   * The dignity of work and the rights of workers
-   * Care for God's creation as our common home
-
-4. **Catholic Engagement in Public Life:**
-   * Forming conscience for faithful citizenship
-   * The proper relationship between Church and state
-   * Bringing Catholic principles to public discourse
-
-5. **Building a Civilization of Love:**
-   * Pope St. John Paul II's vision for society
-   * Starting with your immediate circle
-   * Creating communities of authentic love
-   * The ripple effect of transformed lives
-
-### Chapter 18: Our Mission: Understanding to Teach
-
-*Premise: The Church's mission is to spread the knowledge and love of Christ to all people, and to help them grow in their faith.*
-
-*Key Scriptures:*
-- "Go therefore and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, teaching them to observe all things that I have commanded you; and behold, I am with you always, to the end of the age." (Matthew 28:19-20, NABRE)
-- "I have been crucified with Christ; it is no longer I who live, but Christ lives in me; and the life I now live in the flesh I live by faith in the Son of God, who loved me and gave himself up for me." (Galatians 2:20, NABRE)
-- "As you go, preach this message: 'The kingdom of heaven is at hand.' Heal the sick, raise the dead, cleanse lepers, cast out demons. You received without paying; give without being paid." (Matthew 10:7-8, NABRE)
-
-1. **The Great Commission:**
-   * Jesus' command to make disciples of all nations
-   * The importance of spreading the Gospel
-   * The role of the Church in carrying out this mission
-
-2. **The Power of Love:**
-   * How love transforms lives and communities
-   * The impact of love in the world
-   * The Church's role in promoting love and unity
-
-3. **Theological Foundations:**
-   * The Church's teaching on faith and morals
-   * The role of the Magisterium in interpreting and teaching the faith
-   * The importance of living out the faith in daily life
-
-4. **Social Teaching:**
-   * The Church's role in promoting justice and human dignity
-   * The principles of Catholic social teaching
-   * The Church's involvement in social issues
-
-5. **Evangelization:**
-   * The process of sharing the Gospel with others
-   * The role of the laity in evangelization
-   * The importance of personal evangelization
-
-6. **Theological Education:**
-   * The role of education in the faith
-   * The importance of catechesis and formation
-   * The Church's commitment to teaching the faith
-
-7. **Missionary Activity:**
-   * The Church's involvement in mission work
-   * The role of missionaries in spreading the faith
-   * The importance of global outreach
-
-8. **Theological Reflection:**
-   * The role of theological reflection in the faith
-   * The importance of understanding the faith in depth
-   * The Church's commitment to theological dialogue
-
-9. **Theological Dialogue:**
-   * The Church's involvement in theological dialogue
-   * The importance of dialogue in the faith
-   * The Church's commitment to inter-religious dialogue
-
-10. **Theological Service:**
-    * The role of the Church in serving the faith
-    * The importance of service in the faith
-    * The Church's commitment to serving the faith in practical ways
+### **Catholic Education: Forming the Next Generation**
+* The original purpose of universities: to pursue universal (catholic) knowledge
+* The importance of sending children to authentic Catholic universities
+* How proper education deepens faith and prepares young Catholics to engage with the world
+* The role of Catholic education in preserving and transmitting the faith across generations
 
 ## PART V: THE FULFILLMENT OF LOVE
 
-### Chapter 19: The Fulfillment of Love: Heaven, Purgatory, and the Last Things
+### Chapter 14: The Fulfillment of Love: Heaven, Purgatory, and the Last Things
 
 *Premise: Heaven is not merely a place but perfect communion with God and others—the fulfillment of our capacity to love and be loved for eternity.*
 
@@ -1001,7 +786,7 @@ Catholic Faith will continue to be a light to the World and salt of the Earth.
    * Why a God of love allows the possibility of hell
    * The Church's hope for universal salvation while acknowledging the reality of hell
 
-### Chapter 20: Conclusion: The Journey of Love
+### Chapter 15: Conclusion: The Journey of Love
 
 *Premise: The Christian life is an ongoing journey of growth in love, integrating truth, justice, and mercy through the grace of God.*
 
@@ -1015,3 +800,15 @@ Catholic Faith will continue to be a light to the World and salt of the Earth.
 - "For I am convinced that neither death, nor life, nor angels, nor principalities, nor present things, nor future things, nor powers, nor height, nor depth, nor any other creature will be able to separate us from the love of God in Christ Jesus our Lord." (Romans 8:38-39, NABRE)
 - "Come to me, all you who labor and are burdened, and I will give you rest." (Matthew 11:28, NABRE)
 - "Be perfect, just as your heavenly Father is perfect." (Matthew 5:48, NABRE)
+
+**Further Horizons: The Depths of Our Faith**
+
+This book has only scratched the surface of the rich treasury of Catholic faith. There are many more aspects of our faith that deepen our understanding of love as the perfect unity of truth, justice, and mercy:
+
+* Heaven, Purgatory, and the Last Things: The fulfillment of our capacity to love
+* The Communion of Saints: Our connection with those who have gone before us
+* The Beatific Vision: The ultimate encounter with Love Himself
+* The Resurrection of the Body: The redemption of the whole person
+* Eschatology: Understanding how all of history moves toward its fulfillment in Christ
+
+These topics, while beyond the scope of this book, invite us to continue our journey of faith, always growing deeper in our understanding of God's love and our response to it. The Catholic faith is an inexhaustible well of wisdom that continues to nourish us throughout our lives as we seek to love God and neighbor more perfectly.
