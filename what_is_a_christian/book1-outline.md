@@ -207,11 +207,6 @@ Catholic Faith will continue to be a light to the World and salt of the Earth.
    * The paradox of finding life by losing it
    * Setting expectations: the Christian life is demanding but fulfilling
 
-9. **Mary: Model of Receiving and Extending Mercy**
-   * Mary's Magnificat: "His mercy is from age to age"
-   * Mary at the foot of the Cross: witnessing mercy's ultimate expression
-   * Mary's maternal intercession: "pray for us sinners now and at the hour of our death"
-   * How Marian devotion leads us to Christ's mercy
 
 ## PART II: THE FOUNDATION OF LOVE
 
@@ -293,7 +288,25 @@ Catholic Faith will continue to be a light to the World and salt of the Earth.
    * Why truth matters for authentic human flourishing
    * How to discern truth in a world of competing claims
 
-5. **Practical Ways to Grow in Truth:**
+5. **Sacred Tradition vs. Traditions of Men:**
+   * How Sacred Tradition differs from mere human traditions
+   * Jesus' critique of the Pharisees' traditions that nullified God's word
+   * How Sacred Tradition preserves and interprets God's revelation
+   * Sacred Tradition as the antidote to modern heresies (moral relativism, wokeism, gender ideology, liberalism)
+
+6. **The Need for an Authoritative Church:**
+   * Christ's establishment of His Church with teaching authority
+   * Why Scripture alone leads to endless interpretations and division
+   * How the Magisterium provides an objective standard for faith and morals
+   * The Protestant rejection of Church authority and its consequences
+
+7. **Submission to Authority for Freedom:**
+   * How submission to legitimate authority liberates rather than constrains
+   * The paradox of finding freedom through obedience
+   * Why an objective standard is necessary for the good of individuals and society
+   * How Church authority serves future generations by preserving truth
+
+8. **Practical Ways to Grow in Truth:**
    * Study of Scripture and Church teaching
    * The formation of conscience
    * Intellectual humility and openness to reality
@@ -351,11 +364,6 @@ Catholic Faith will continue to be a light to the World and salt of the Earth.
    * The priest as Christ's instrument of mercy and healing
    * Practical guidance for making a good Confession
 
-7. **Mary: Model of Receiving and Extending Mercy**
-   * Mary's Magnificat: "His mercy is from age to age"
-   * Mary at the foot of the Cross: witnessing mercy's ultimate expression
-   * Mary's maternal intercession: "pray for us sinners now and at the hour of our death"
-   * How Marian devotion leads us to Christ's mercy
 
 ### Chapter 6: Justice: The Right Ordering of Relationships
 
@@ -390,22 +398,7 @@ Catholic Faith will continue to be a light to the World and salt of the Earth.
    * Finding wisdom through the fear of the Lord
    * The role of fear of the Lord in maintaining love and justice
 
-4. **Living in the Fear of the Lord:**
-   * Practical ways to cultivate fear of the Lord
-   * How fear can help us live in accordance with God's will
-   * The benefits of living in the fear of the Lord
 
-5. **Mary: Model of Receiving and Extending Mercy**
-   * Mary's Magnificat: "His mercy is from age to age"
-   * Mary at the foot of the Cross: witnessing mercy's ultimate expression
-   * Mary's maternal intercession: "pray for us sinners now and at the hour of our death"
-   * How Marian devotion leads us to Christ's mercy
-
-6. **Mary: Model of Justice in Relationship with God**
-   * Giving God His due: Mary's "fiat" as perfect submission to God's will
-   * Mary's proper place in Catholic devotion: hyperdulia (special veneration) not worship
-   * How honoring Mary fulfills Jesus' command to honor our father and mother
-   * Mary as the perfect disciple: "Do whatever he tells you"
 
 ## PART III: THE TRANSFORMATION OF LOVE
 
@@ -637,6 +630,7 @@ Catholic Faith will continue to be a light to the World and salt of the Earth.
 - "Go, therefore, and make disciples of all nations, baptizing them in the name of the Father, and of the Son, and of the holy Spirit, teaching them to observe all that I have commanded you." (Matthew 28:19-20, NABRE)
 - "But you will receive power when the holy Spirit comes upon you, and you will be my witnesses in Jerusalem, throughout Judea and Samaria, and to the ends of the earth." (Acts 1:8, NABRE)
 - "Always be ready to give an explanation to anyone who asks you for a reason for your hope, but do it with gentleness and reverence." (1 Peter 3:15-16, NABRE)
+- "Behold, I am the handmaid of the Lord. May it be done to me according to your word." (Luke 1:38, NABRE)
 
 1. **The Universal Call to Holiness:**
    * Every Christian called to become a saint
@@ -662,6 +656,7 @@ Catholic Faith will continue to be a light to the World and salt of the Earth.
    * Helping spouses grow in holiness
    * Forming children in the faith
    * How holy families transform neighborhoods and communities
+   * The Holy Family as model of truth, justice, and mercy
 
 6. **The New Evangelization in Practice:**
    * Evangelizing the baptized who have drifted from faith
@@ -716,11 +711,10 @@ Catholic Faith will continue to be a light to the World and salt of the Earth.
    * Grace and reconciliation in family life
    * Creating a legacy of love despite imperfection
 
-### **Catholic Education: Forming the Next Generation**
-* The original purpose of universities: to pursue universal (catholic) knowledge
-* The importance of sending children to authentic Catholic universities
-* How proper education deepens faith and prepares young Catholics to engage with the world
-* The role of Catholic education in preserving and transmitting the faith across generations
+7. **Catholic Education: Forming the Next Generation**
+   * The original purpose of universities: to pursue universal (catholic) knowledge
+   * The importance of sending children to authentic Catholic universities
+   * The role of Catholic education in preserving and transmitting the faith across generations
 
 ## PART V: THE FULFILLMENT OF LOVE
 
@@ -756,5 +750,6 @@ This book has only scratched the surface of the rich treasury of Catholic faith.
 * The Communion of Saints: Our connection with those who have gone before us
 * The Last Judgment: The revelation of our capacity to love
 * Hell: The reality of human freedom to reject love
+* Mary's example of perfect love and her call to holiness
 
 These topics, while beyond the scope of this book, invite us to continue our journey of faith, always growing deeper in our understanding of God's love and our response to it. The Catholic faith is an inexhaustible well of wisdom that continues to nourish us throughout our lives as we seek to love God and neighbor more perfectly.
