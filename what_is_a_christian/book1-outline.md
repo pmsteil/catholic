@@ -87,9 +87,10 @@ My prayer is that the world will come to know Jesus who is the Truth, the Way, a
    * A passion for fighting for ideals and making the world a better place
    * But these desires are misdirected without a solid foundation
 
-6. **The Catholic Solution: Anchoring in Truth:** Introduce the Catholic faith as a source of objective truth and moral guidance:
-   * Explain that the Catholic faith provides a balanced and coherent understanding of Truth, Justice, and Mercy
-   * Emphasize the importance of God's wisdom in guiding our lives and shaping society
+6. **From Wokeness to True Justice and Mercy:**
+    *   The leap is from wokeness to the truth about the intuition we have about justice and mercy.
+    *   The Catholic faith is the most perfect teaching we have on how to pursue an objective and true justice and mercy.
+    *   In upholding true justice - that all human beings are God's creations and have rights to self preservation, dignity, charity, etc, the catholic answer is better than the woke answer that continually separates and divides people and even calls for more discrimination based on race.
 
 7. **A Call to Action for Catholics:** Challenge Catholics to take their faith more seriously:
    * We need to know, live, and teach our faith better than ever before
@@ -179,7 +180,7 @@ My prayer is that the world will come to know Jesus who is the Truth, the Way, a
    * What authentic human longing do you think drives our culture's obsession with love, even when misunderstood? How does the Catholic vision of love as truth, justice, and mercy in unity fulfill this longing?
    * Recall a moment when you experienced love that clearly united truth, justice, and mercy. How did this experience differ from other expressions of "love" you've encountered?
    * How does our culture's definition of love often separate it from truth, justice, or mercy? What consequences do you see from this fragmented understanding?
-   * Where in your life do you struggle most to integrate truth, justice, and mercy in your expression of love? What might be holding you back from a more complete understanding and practice of love?
+   * Where in your life do you struggle most to integrate truth, justice, and mercy in your expression of love? What would it look like to move beyond signaling to authentic action?
 
 
 ## PART II: THE FOUNDATION OF LOVE
@@ -263,61 +264,86 @@ My prayer is that the world will come to know Jesus who is the Truth, the Way, a
    * How family transparency builds trust and security
    * The damage of dishonesty and manipulation in family relationships
 
-3. **Truth as a Person: Jesus Christ**
+3. **Made in God's Image and Likeness:**
+   * What it means to be created in the image of a God who is love
+   * Our capacity for relationship, knowledge, and self-gift
+   * The dignity that comes from our divine origin
+
+4. **The Original Design:**
+   * Communion with God and others as our natural state
+   * The harmony of the garden before the fall
+   * The integration of body and soul in the human person
+
+5. **The Wound of Original Sin:**
+   * How sin disrupted our capacity to love authentically
+   * The four wounds: ignorance, malice, weakness, and desire
+   * The continuing effects of original sin in our lives
+
+6. **The Yearning That Remains:**
+   * The universal human desire for love and connection
+   * How even distorted desires point to our created purpose
+   * The restlessness of the human heart until it rests in God
+
+7. **Our Dignity as Children of God:**
+   * How our divine origin gives us inherent worth
+   * The call to live in accordance with our dignity
+   * How understanding our origin shapes our destiny
+
+8. **Truth as a Person: Jesus Christ**
    * "I am the Way, the Truth, and the Life"
    * How Jesus reveals the truth about God and humanity
    * Truth as relational, not merely propositional
 
-4. **The Church's Definition of Truth:**
+9. **The Church's Definition of Truth:**
    * The Catechism's teaching on truth (CCC 2465-2470)
    * Vatican II's Dei Verbum on divine revelation as truth
    * St. Thomas Aquinas's definition of truth as "adequation of intellect and thing"
    * Pope John Paul II's Veritatis Splendor on moral truth
    * The relationship between faith and reason in the pursuit of truth
 
-5. **Natural Law as God's Blueprint:**
-   * How the created order reveals God's wisdom
-   * The intelligibility of creation and human nature
-   * How natural law provides a foundation for moral reasoning
+10. **Natural Law as God's Blueprint:**
+    * How the created order reveals God's wisdom
+    * The intelligibility of creation and human nature
+    * How natural law provides a foundation for moral reasoning
 
-6. **The Relationship Between Truth and Freedom:**
-   * "The truth will set you free"
-   * How truth liberates us from illusion and manipulation
-   * The false freedom of relativism versus authentic freedom
+11. **The Relationship Between Truth and Freedom:**
+    * "The truth will set you free"
+    * How truth liberates us from illusion and manipulation
+    * The false freedom of relativism versus authentic freedom
 
-7. **Truth in a Post-Truth World:**
-   * The challenges of relativism and subjectivism
-   * Why truth matters for authentic human flourishing
-   * How to discern truth in a world of competing claims
+12. **Truth in a Post-Truth World:**
+    * The challenges of relativism and subjectivism
+    * Why truth matters for authentic human flourishing
+    * How to discern truth in a world of competing claims
 
-8. **Sacred Tradition vs. Traditions of Men:**
-   * How Sacred Tradition differs from mere human traditions
-   * Jesus' critique of the Pharisees' traditions that nullified God's word
-   * How Sacred Tradition preserves and interprets God's revelation
-   * Sacred Tradition as the antidote to modern heresies (moral relativism, wokeism, gender ideology, liberalism)
+13. **Sacred Tradition vs. Traditions of Men:**
+    * How Sacred Tradition differs from mere human traditions
+    * Jesus' critique of the Pharisees' traditions that nullified God's word
+    * How Sacred Tradition preserves and interprets God's revelation
+    * Sacred Tradition as the antidote to modern heresies (moral relativism, wokeism, gender ideology, liberalism)
 
-9. **The Need for an Authoritative Church:**
-   * Christ's establishment of His Church with teaching authority
-   * Why Scripture alone leads to endless interpretations and division
-   * How the Magisterium provides an objective standard for faith and morals
-   * The Protestant rejection of Church authority and its consequences
+14. **The Need for an Authoritative Church:**
+    * Christ's establishment of His Church with teaching authority
+    * Why Scripture alone leads to endless interpretations and division
+    * How the Magisterium provides an objective standard for faith and morals
+    * The Protestant rejection of Church authority and its consequences
 
-10. **Submission to Authority for Freedom:**
-   * How submission to legitimate authority liberates rather than constrains
-   * The paradox of finding freedom through obedience
-   * Why an objective standard is necessary for the good of individuals and society
-   * How Church authority serves future generations by preserving truth
+15. **Submission to Authority for Freedom:**
+    * How submission to legitimate authority liberates rather than constrains
+    * The paradox of finding freedom through obedience
+    * Why an objective standard is necessary for the good of individuals and society
+    * How Church authority serves future generations by preserving truth
 
-11. **Practical Ways to Grow in Truth:**
-   * Study of Scripture and Church teaching
-   * The formation of conscience
-   * Intellectual humility and openness to reality
+16. **Practical Ways to Grow in Truth:**
+    * Study of Scripture and Church teaching
+    * The formation of conscience
+    * Intellectual humility and openness to reality
 
-12. **For Reflection and Discussion:**
-   * What legitimate human desire for freedom and authenticity do you think underlies our culture's resistance to objective truth? How does the Catholic understanding of truth actually fulfill these desires?
-   * Recall a time when encountering a difficult truth changed your perspective or actions. What made you receptive to this truth, and how did it transform you?
-   * How does our "post-truth" culture's relativism undermine human flourishing? What examples do you see of truth being sacrificed for comfort or convenience in society today?
-   * Where in your life are you most tempted to avoid or deny truth? What first step could you take toward greater honesty and clarity in this area?
+17. **For Reflection and Discussion:**
+    * What legitimate human desire for freedom and authenticity do you think underlies our culture's resistance to objective truth? How does the Catholic understanding of truth actually fulfill these desires?
+    * Recall a time when encountering a difficult truth changed your perspective or actions. What made you receptive to this truth, and how did it transform you?
+    * How does our "post-truth" culture's relativism undermine human flourishing? What examples do you see of truth being sacrificed for comfort or convenience in society today?
+    * Where in your life are you most tempted to avoid or deny truth? What first step could you take toward greater honesty and clarity in this area?
 
 ### Chapter 5: Mercy: Love's Response to Brokenness
 
@@ -395,11 +421,20 @@ My prayer is that the world will come to know Jesus who is the Truth, the Way, a
    * The priest as Christ's instrument of mercy and healing
    * Practical guidance for making a good Confession
 
+   **Statements on Mercy/Justice in Sacraments:**
+   *   **Baptism:** Cleanses original sin, offering God's mercy and initiating us into a life of justice.
+   *   **Confirmation:** Strengthens us to live justly and mercifully in the world.
+   *   **Eucharist:** Provides the grace to act justly and mercifully, uniting us with Christ's sacrifice.
+   *   **Reconciliation:** Offers God's mercy and restores justice in our relationship with God and others.
+   *   **Anointing of the Sick:** Provides healing and strength to endure suffering with mercy and justice.
+   *   **Matrimony:** Establishes a just and merciful union between spouses, open to new life.
+   *   **Holy Orders:** Empowers priests to administer God's mercy and justice through the sacraments.
+
 10. **For Reflection and Discussion:**
-   * What authentic human longing for acceptance and healing do you think drives our culture's emphasis on unconditional affirmation? How does true mercy better fulfill this longing?
-   * Describe a time when you received mercy that you didn't deserve. How did this experience affect your understanding of God's mercy and your ability to extend mercy to others?
-   * How does our culture often confuse mercy with permissiveness or enabling? What are the consequences when mercy is divorced from truth and justice?
-   * In what relationship do you find it most difficult to extend mercy? What might be preventing you from offering genuine forgiveness and healing in this situation?
+    * What authentic human longing for acceptance and healing do you think drives our culture's emphasis on unconditional affirmation? How does true mercy better fulfill this longing?
+    * Describe a time when you received mercy that you didn't deserve. How did this experience affect your understanding of God's mercy and your ability to extend mercy to others?
+    * How does our culture often confuse mercy with permissiveness or enabling? What are the consequences when mercy is divorced from truth and justice?
+    * In what relationship do you find it most difficult to extend mercy? What might be preventing you from offering genuine forgiveness and healing in this situation?
 
 ### Chapter 6: Justice: The Right Ordering of Relationships
 
@@ -447,17 +482,22 @@ My prayer is that the world will come to know Jesus who is the Truth, the Way, a
    * Pope Benedict XVI on justice in Caritas in Veritate
    * The relationship between justice and charity
 
-5. **The Wisdom of God:**
+5. **Freedom and Order:**
+    *   It is the idea that freedom cannot be found in utter chaos.
+    *   There must be order and when we properly constrain ourselves to what is just and mercy we experience more freedom to be a human being who lives the most meaningful and free life.
+    *   All sin (disordered justice and mercy) puts chains on us and weighs us down, causes disconinection, stress, anxiety, etc.
+
+6. **The Wisdom of God:**
    * The wisdom that comes from living in justice
    * How justice leads to understanding and obedience
    * The connection between justice and faith
 
-6. **The Fear of the Lord in Action:**
+7. **The Fear of the Lord in Action:**
    * How fear of the Lord can guide our actions and decisions
    * Finding wisdom through the fear of the Lord
    * The role of fear of the Lord in maintaining love and justice
 
-7. **For Reflection and Discussion:**
+8. **For Reflection and Discussion:**
    * What legitimate human desire for fairness and right order do you think drives today's social justice movements? How does the Catholic vision of justice better fulfill this desire?
    * Reflect on a time when you experienced true justice (not merely punishment). How did this experience affect your understanding of justice as "right relationship" rather than simply "getting what one deserves"?
    * How does our culture's understanding of justice often become distorted when separated from truth and mercy? What examples do you see in current events or social movements?
@@ -478,14 +518,7 @@ My prayer is that the world will come to know Jesus who is the Truth, the Way, a
 - "I praise you, because I am wonderfully made; wonderful are your works! My very self you know." (Psalm 139:14, NABRE)
 - "For who has known the mind of the Lord, so as to counsel him?" (1 Corinthians 2:16, NABRE)
 
-1. **Sacred Tradition vs. Traditions of Men:**
-   * Begin chapter with a personal anecdote involving my own experience as a Methodist and a Catholic
-   * How Sacred Tradition differs from mere human traditions
-   * Jesus' critique of the Pharisees' traditions that nullified God's word
-   * How Sacred Tradition preserves and interprets God's revelation
-   * Sacred Tradition as the antidote to modern heresies (moral relativism, wokeism, gender ideology, liberalism)
-
-2. **The Church's Definition of Faith:**
+1. **The Church's Definition of Faith:**
    * The Catechism's formal definition of faith (CCC 153-165)
    * Vatican I's teaching on faith in Dei Filius
    * St. Thomas Aquinas on faith as "the act of the intellect assenting to divine truth"
@@ -493,31 +526,19 @@ My prayer is that the world will come to know Jesus who is the Truth, the Way, a
    * Faith as both intellectual assent and personal trust
    * The theological virtue of faith as a gift from God
 
-3. **The Need for an Authoritative Church:**
-   * Christ's establishment of His Church with teaching authority
-   * Why Scripture alone leads to endless interpretations and division
-   * How the Magisterium provides an objective standard for faith and morals
-   * The Protestant rejection of Church authority and its consequences
-
-4. **The Three Pillars of Revelation:**
+2. **The Three Pillars of Revelation:**
    * Scripture: God's inspired written word
    * Tradition: The living transmission of the apostolic faith
    * Magisterium: The authoritative interpreter of both
    * How these three work together to provide a complete and coherent understanding of God's revelation
 
-5. **Submission to Authority for Freedom:**
-   * How submission to legitimate authority liberates rather than constrains
-   * The paradox of finding freedom through obedience
-   * Why an objective standard is necessary for the good of individuals and society
-   * How Church authority serves future generations by preserving truth
-
-6. **Living According to Sacred Tradition Today:**
+3. **Living According to Sacred Tradition Today:**
    * Practical ways to align our lives with the Church's teaching
    * Finding certainty in an age of confusion
    * The joy of living within God's design rather than constantly reinventing morality
    * How to respectfully engage with those who reject Church authority
 
-7. **For Reflection and Discussion:**
+4. **For Reflection and Discussion:**
    * What genuine human desire for authenticity and personal meaning do you think drives the rejection of religious authority? How does faithful submission to the Church actually fulfill these desires?
    * Consider a time when your faith allowed you to see a situation differently than those around you. How did this "vision of faith" change your response or understanding?
    * How does our society's rejection of authority and tradition lead to confusion and instability? What examples do you see of this in contemporary debates or social issues?
@@ -558,19 +579,25 @@ My prayer is that the world will come to know Jesus who is the Truth, the Way, a
    * How the Cross teaches us to love sacrificially
    * The paradox: finding life by losing it
 
-5. **From Cross to Resurrection:**
+5. **The Justice and Mercy of God on the Cross:**
+    *   On the cross, God showed us what Justice requires for any of our sins - even the most heinous ones.
+    *   God is 100% merciful in giving us a way to be truly forgiven of our sins.
+    *   He provided a way through the church to be truly forgiven for any sin we commit against God or His Kingdom.
+    *   He showed us that perfect unity - and truth because all truth comes from Him and he showed us the very utmost example of the truth of Love.
+
+6. **From Cross to Resurrection:**
    * The Cross is not the end of the story
    * How suffering united to Christ leads to new life
    * Hope in the midst of suffering
    * The promise of resurrection
 
-6. **For Reflection and Discussion:**
+7. **For Reflection and Discussion:**
    * What legitimate human desire to find meaning in pain do you think underlies our culture's various attempts to explain or eliminate suffering? How does the Cross offer a more fulfilling response?
    * Reflect on a time when suffering in your life eventually led to growth or new life. How did this experience help you understand Christ's cross and resurrection more deeply?
    * How does our comfort-oriented culture misunderstand or avoid the redemptive value of suffering? What consequences result from this avoidance?
    * What cross in your life are you currently struggling to accept or understand? How might uniting this suffering with Christ's transform its meaning and purpose?
 
-## PART IV: LOVE IN ACTION
+## PART III: LOVE IN ACTION
 
 ### Chapter 9: The Sacramental Life: Love Made Visible
 
@@ -763,7 +790,11 @@ My prayer is that the world will come to know Jesus who is the Truth, the Way, a
    * Reaching those who have never heard the Gospel
    * Transforming culture through the witness of authentic love
 
-7. **For Reflection and Discussion:**
+7. **Defining Wokeness:**
+    *   It is the current incantation of marxism as applied to race, gender, sexual identity
+    *   It is based on the desire for power rather than the dignity of the human being and the well being of all.
+
+8. **For Reflection and Discussion:**
    * What authentic human longing for heroism and significance do you think drives our culture's fascination with celebrities and influencers? How does the call to sainthood fulfill this longing more completely?
    * Who is a saint (canonized or not) whose life has particularly inspired you? What quality in their journey toward holiness speaks most directly to your own path?
    * How does our culture often misunderstand or trivialize the call to holiness? What false narratives about sainthood do you encounter in society?
@@ -815,17 +846,23 @@ My prayer is that the world will come to know Jesus who is the Truth, the Way, a
    * Breaking negative generational patterns through intentional Catholic parenting
    * The responsibility of parents to model and teach authentic love
 
-6. **Healing Family Wounds:**
+6. **How Families Impact Society:**
+    *   **Raising virtuous children:** Families instill values of truth, justice, and mercy, shaping future generations.
+    *   **Modeling healthy relationships:** Families demonstrate loving relationships, countering distorted views of love.
+    *   **Contributing to the community:** Families engage in charitable activities, promoting justice and mercy.
+    *   **Advocating for family-friendly policies:** Families advocate for policies that support family well-being.
+
+7. **Healing Family Wounds:**
    * The reality of family brokenness
    * Grace and reconciliation in family life
    * Creating a legacy of love despite imperfection
 
-7. **Catholic Education: Forming the Next Generation**
+8. **Catholic Education: Forming the Next Generation**
    * The original purpose of universities: to pursue universal (catholic) knowledge
    * The importance of sending children to authentic Catholic universities
    * The role of Catholic education in preserving and transmitting the faith across generations
 
-8. **For Reflection and Discussion:**
+9. **For Reflection and Discussion:**
    * What legitimate human desire for belonging and unconditional acceptance do you think drives various attempts to redefine family? How does the Catholic vision of family better fulfill these desires?
    * Reflect on how your family of origin shaped your understanding of love, truth, justice, and mercy. What positive lessons did you learn, and what might you need to unlearn?
    * How does our culture's individualism and redefinition of family undermine society's foundation? What consequences do you see from the breakdown of family life?
