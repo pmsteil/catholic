@@ -453,8 +453,10 @@ Throughout this journey, we'll continually return to our central framework: love
 
 12. **Practical Ways to Grow in Truth:**
     * Study of Scripture and Church teaching
+    * Read the Catechism of the Catholic Church
     * The formation of conscience
     * Intellectual humility and openness to reality
+    * Pray for Wisdom
 
 13. **For Reflection and Discussion:**
     * What legitimate human desire for freedom and authenticity do you think underlies our culture's resistance to objective truth? How does the Catholic understanding of truth actually fulfill these desires?
@@ -617,9 +619,9 @@ Throughout this journey, we'll continually return to our central framework: love
    * The role of fear of the Lord in maintaining love and justice
 
 8. **Justice and Its Relationship to Faith:**
-   * Why justice requires faith to be properly understood and lived
-   * How faith provides the foundation for a truly just society
-   * The limitations of secular approaches to justice
+   * Why justice requires faith to be properly understood and lived - because we need a solid foundation for our lives
+   * How faith provides the foundation for a truly just society - it teaches it to each generation
+   * The limitations of secular approaches to justice - all just a matter of opinion and subject to gross manipulation
    * How faith in God's justice gives us courage to pursue justice even when it seems impossible
 
 9. **For Reflection and Discussion:**
@@ -871,7 +873,7 @@ Throughout this journey, we'll continually return to our central framework: love
    * Strategies for growth in virtue
    * The patient work of transformation
 
-7. **Virtues and the Sacramental Life:**
+7. **From Virtues to the Sacramental Life:**
    * How the sacraments nourish and strengthen virtue
    * The connection between virtuous living and sacramental participation
    * Why virtue prepares us to receive the full grace of the sacraments
@@ -962,7 +964,7 @@ Throughout this journey, we'll continually return to our central framework: love
    * These practices help family members integrate truth, justice, and mercy in daily interactions
    * The family becomes a domestic church witnessing to authentic love in a world of counterfeits
 
-11. **Sacraments as the Foundation for Family and Society:**
+11. **From the Sacraments to Family and Society:**
    * How sacramental life prepares us for authentic family relationships
    * The connection between sacramental participation and social transformation
    * Why a sacramental worldview is essential for rebuilding a culture of love
@@ -1012,9 +1014,9 @@ Throughout this journey, we'll continually return to our central framework: love
    * How parents together show children the way to God through their distinct yet harmonious approaches
 
 3. **Marriage as Icon of Christ's Love:**
-   * Sacramental marriage as covenant
+   * Sacramental marriage as covenant - a promise to love and cherish each other until death
    * The unitive and procreative dimensions
-   * How marriage witnesses to God's faithful love
+   * How marriage witnesses to God's faithful, sacrificial love imbued with truth, justice, and mercy
 
 4. **Parenting as Participation in God's Love:**
    * Cooperation in God's creative work
@@ -1114,9 +1116,10 @@ Throughout this journey, we'll continually return to our central framework: love
 
 7. **Countering Modern Ideologies Through Authentic Witness:**
    * How living the integrated vision of love provides the antidote to fragmented ideologies
-   * The power of personal testimony in a world skeptical of institutions
+   * The power of Catholic witness and the Mass to communicate the truth, justice, and mercy of Christ
    * Why authentic holiness is more persuasive than arguments alone
    * How saints throughout history have transformed their cultures
+   * Be a Saint!
 
 8. **For Reflection and Discussion:**
    * What authentic human longing for heroism and significance do you think drives our culture's fascination with celebrities and influencers? How does the call to sainthood fulfill this longing more completely?
@@ -1152,8 +1155,24 @@ Throughout this journey, we'll continually return to our central framework: love
    * The potential for cultural renewal through authentic love
 
 3. **Practical Next Steps:**
-   * Suggestions for continued growth in truth, justice, and mercy
-   * Resources for deepening understanding and practice
+   * Be part of the solution:
+      * Form your conscience
+      * Learn the Faith deeply
+      * Practice virtue
+      * Pray
+      * Serve
+      * Sacrifice
+      * Teach the Faith
+      * Make your life a proper witness to the truth, justice, and mercy of Christ
+      * Evangelization
+         * Meet new people
+         * Watch your language (speak of God, the Mass, the Sacraments, the Saints, the Bible, the Pope, the Church)
+         * Be ready to answer questions
+         * Invite people to Mass and confession
+         * Invite people to join a Bible study
+         * Invite people to join a small group
+         * Teach a Catholicism 101 or get involved with teaching OCIA
+      * Be a Saint!
    * Forming communities centered on authentic love
    * Becoming agents of transformation in family, church, and society
 
