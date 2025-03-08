@@ -507,9 +507,11 @@ My prayer is that the world will come to know Jesus who is THE Way and THE Truth
 6. **How Mercy Fulfills Justice:**
    * Mercy goes beyond justice but doesn't contradict it
    * Restoration versus mere punishment
-   * The goal of reconciliation and healing
+   * The goal of reconciliation, communion, and healing
    * The cross as the ultimate reconciliation of mercy and justice
    * Why mercy always costs something to the one showing mercy
+   * How mercy restores communion with God and the community
+   * The Eucharist as the supreme example of mercy leading to communion
 
 7. **The Works of Mercy:**
    * Corporal works: caring for physical needs
@@ -764,6 +766,9 @@ My prayer is that the world will come to know Jesus who is THE Way and THE Truth
    * Moving from external compliance to transformation of heart
    * The commandments as the beginning, not the end, of love
    * How grace enables us to fulfill the law's true purpose
+   * Jesus' summary: Love God and love neighbor according to His truth, justice, and mercy
+   * Why loving according to our own definitions falls short of Christ's command
+   * How the commandments provide the framework for authentic love
 
 5. **The Church's Teaching on the Commandments:**
    * Brief overview of the Catechism's thorough treatment
@@ -941,6 +946,13 @@ My prayer is that the world will come to know Jesus who is THE Way and THE Truth
    * How family teaches us to see reality
    * Learning rights and responsibilities
    * Experiencing forgiveness and compassion
+   * The father's primary role in teaching justice - right from wrong
+   * How paternal justice must be tempered with mercy
+   * The mother's primary role in teaching mercy and nurturing
+   * How maternal mercy must be tempered with justice
+   * Both parents modeling sacrificial love mimicking Jesus
+   * The complementary nature of maternal and paternal roles in forming children
+   * How parents together show children the way to God through their distinct yet harmonious approaches
 
 3. **Marriage as Icon of Christ's Love:**
    * Sacramental marriage as covenant
