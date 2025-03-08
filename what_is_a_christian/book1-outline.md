@@ -60,7 +60,7 @@ The Catholic Faith, guided by the Holy Spirit for 2000 years, offers this integr
 
 This book will walk through the major teachings of the Catholic Faith to show how each element helps us understand and live out our relationship between love, truth, justice, and mercy. Our Faith is not just a set of beliefs but a deep and beautiful way of life that transforms us and, through us, the world.
 
->  Jesus said to him, “I am the way and the truth[a] and the life. No one comes to the Father except through me. (John 14:6)
+>  Jesus said to him, "I am the way and the truth[a] and the life. No one comes to the Father except through me. (John 14:6)
 
 My prayer is that the world will come to know Jesus who is THE Way and THE Truth and THE Life — the incarnation of the perfect union of truth, justice, and mercy — and that the Catholic Faith will continue to be a light to the World and salt of the Earth.
 
@@ -135,7 +135,86 @@ My prayer is that the world will come to know Jesus who is THE Way and THE Truth
    * How does our culture's emphasis on public displays of virtue often miss the deeper meaning of true goodness? What consequences do you see resulting from this superficial approach?
    * In what area of your life might you be substituting the appearance of virtue for genuine love? What would it look like to move beyond signaling to authentic action?
 
-### Chapter 2: What is Love? The Heart of the Gospel
+### Chapter 2: The Intuition of Justice: Our Innate Moral Compass
+
+*Premise: Our universal human intuitions for justice, equality, freedom, and dignity are not arbitrary social constructs but evidence of our creation in God's image and signposts pointing to divine truth.*
+
+*Key Scriptures:*
+- "He has told you, O mortal, what is good; and what does the LORD require of you but to do justice, and to love kindness, and to walk humbly with your God?" (Micah 6:8, NABRE)
+- "The work of justice will be peace; the effect of justice, calm and security forever." (Isaiah 32:17, NABRE)
+- "For when the Gentiles who do not have the law by nature observe the prescriptions of the law, they are a law for themselves even though they do not have the law." (Romans 2:14, NABRE)
+- "They show that the demands of the law are written in their hearts, while their conscience also bears witness and their conflicting thoughts accuse or even defend them." (Romans 2:15, NABRE)
+
+1. **Where Modern Movements Get It Right:**
+   * Acknowledging the legitimate concerns that drive social justice movements
+   * The valid intuition that something is deeply wrong with the status quo
+   * The righteous anger against genuine oppression and exploitation
+   * The desire to create a more just and equitable society
+
+2. **What Our Intuitions Tell Us:**
+   * Our sense of justice points to an objective moral order
+   * Our desire for equality reflects our common human dignity
+   * Our longing for freedom indicates our created purpose
+   * Our capacity for mercy and forgiveness suggests a design beyond mere survival
+   * Our outrage at suffering suggests a world not designed for pain
+
+3. **Where Modern Movements Go Astray:**
+   * Disconnecting these intuitions from their divine source
+   * Attempting to build justice without a foundation in truth
+   * Pursuing freedom without understanding its purpose
+   * Seeking equality while denying human nature
+
+4. **Christianity's Foundational Claims:**
+   * **Truth:** There is objective truth about human nature and purpose, revealed by God
+   * **Human Dignity:** All humans possess inherent, equal dignity as bearers of God's image
+   * **Sin and Brokenness:** The world is not as it should be due to human sin and rebellion
+   * **Redemption:** God has not abandoned us but entered our broken world to heal it
+   * **Covenant and Community:** God establishes covenant relationships, not mere contracts, calling us into the Body of Christ
+   * **Love:** The ultimate reality behind the universe is not power but self-giving love
+   * **Justice and Mercy:** God perfectly unites justice with mercy, providing a model for human society
+   * **Transformation:** Lasting social change requires inner transformation, not just external reforms
+
+5. **Comparing Modern Ideologies with Christian Approaches:**
+   * **On Human Dignity:**
+     * Modern view: Dignity based on autonomy, self-determination, or social utility
+     * Christian view: Inherent dignity based on creation in God's image, regardless of ability, utility, or stage of development
+
+   * **On Justice:**
+     * Modern view: Justice as power redistribution or equality of outcomes
+     * Christian view: Justice as right relationships, giving each person their due according to their nature and needs
+
+   * **On Freedom:**
+     * Modern view: Freedom as absence of constraints or ability to define one's own reality
+     * Christian view: Freedom as the ability to choose the good, to become who we were created to be
+
+   * **On Suffering:**
+     * Modern view: Suffering as meaningless, to be eliminated at all costs
+     * Christian view: Suffering as potentially redemptive when united with Christ's sacrifice
+
+   * **On Community:**
+     * Modern view: Community as voluntary association of autonomous individuals
+     * Christian view: Community as organic body with mutual responsibilities and interdependence
+
+6. **The Distinctive Christian Difference:**
+   * Why Christianity offers more than just another ideology or moral system
+   * How the Incarnation changes everything: God enters human suffering
+   * The unique Christian understanding of love as self-gift rather than self-fulfillment
+   * The historical evidence of Christianity's transformative impact on human rights, dignity, and justice
+
+7. **From Intuition to Revelation:**
+   * How our moral intuitions are signposts pointing to God
+   * Why these intuitions need divine revelation for their fulfillment
+   * Christianity as the answer to our deepest moral yearnings
+   * These intuitions find their fullest expression in the Catholic tradition
+   * Introducing love as the unifying principle that integrates justice, truth, and mercy
+
+8. **For Reflection and Discussion:**
+   * Reflect on a time when you felt a strong sense of "that's not fair!" What does this reaction reveal about your innate moral compass?
+   * How do your deepest intuitions about justice, equality, and human dignity point toward God's existence and nature?
+   * In what ways do you see modern movements correctly identifying problems but prescribing inadequate solutions?
+   * Compare how a secular ideology and Christianity might approach a current social justice issue. What are the fundamental differences in their approaches?
+
+### Chapter 3: What is Love? The Heart of the Gospel
 
 *Goal: Introduce the Catholic understanding of love as the foundation of the faith.*
 
@@ -216,7 +295,7 @@ My prayer is that the world will come to know Jesus who is THE Way and THE Truth
 
 ## PART II: THE FOUNDATION OF LOVE
 
-### Chapter 3: Human Dignity: Created for Love and Our Divine Origin
+### Chapter 4: Human Dignity: Created for Love and Our Divine Origin
 
 *Goal: Establish the anthropological foundation for love in our creation and human dignity as the basis for all human rights, justice, and mercy.*
 
@@ -262,7 +341,7 @@ My prayer is that the world will come to know Jesus who is THE Way and THE Truth
    * How does our society's understanding of human dignity differ from the Catholic vision of being created in God's image? What harmful consequences result from this difference?
    * In what ways might you be living beneath your dignity as a child of God? What area of your life needs to be more aligned with your divine origin?
 
-### Chapter 4: Truth: God's Self-Disclosure Through Creation, Scripture, and Tradition
+### Chapter 5: Truth: God's Self-Disclosure Through Creation, Scripture, and Tradition
 
 *Premise: Truth is not merely a concept but a Person—Jesus Christ—who reveals reality as God sees it, offering clear standards for genuine freedom, justice, equality, and human rights.*
 
@@ -376,7 +455,7 @@ My prayer is that the world will come to know Jesus who is THE Way and THE Truth
     * How does our "post-truth" culture's relativism undermine human flourishing? What examples do you see of truth being sacrificed for comfort or convenience in society today?
     * Where in your life are you most tempted to avoid or deny truth? What first step could you take toward greater honesty and clarity in this area?
 
-### Chapter 5: Mercy: Love's Response to Brokenness
+### Chapter 6: Mercy: Love's Response to Brokenness
 
 *Premise: Mercy is not enabling or excusing sin but responding to human weakness with healing while upholding truth—a balance that modern compassion often fails to maintain.*
 
@@ -467,7 +546,7 @@ My prayer is that the world will come to know Jesus who is THE Way and THE Truth
     * How does our culture often confuse mercy with permissiveness or enabling? What are the consequences when mercy is divorced from truth and justice?
     * In what relationship do you find it most difficult to extend mercy? What might be preventing you from offering genuine forgiveness and healing in this situation?
 
-### Chapter 6: Justice: The Right Ordering of Relationships
+### Chapter 7: Justice: The Right Ordering of Relationships
 
 *Premise: Justice is not merely fairness or equity but the right ordering of relationships, giving God and others their due—a principle that provides clear standards for genuine freedom, equality, and human rights.*
 
@@ -534,7 +613,7 @@ My prayer is that the world will come to know Jesus who is THE Way and THE Truth
    * How does our culture's understanding of justice often become distorted when separated from truth and mercy? What examples do you see in current events or social movements?
    * In what relationship or area of your life do you most need to restore right order? What is one step you could take toward bringing greater justice to this situation?
 
-### Chapter 7: Faith: The Eyes of Divine Love
+### Chapter 8: Faith: The Eyes of Divine Love
 
 *Premise: This new chapter introduces faith as the lens through which we discern and experience divine love, setting the stage for the transformation that faith can bring.*
 
@@ -575,7 +654,7 @@ My prayer is that the world will come to know Jesus who is THE Way and THE Truth
    * How does our society's rejection of authority and tradition lead to confusion and instability? What examples do you see of this in contemporary debates or social issues?
    * Where do you struggle most to submit to the Church's teaching authority? What might be at the root of this resistance, and what would help you grow in faithful obedience?
 
-### Chapter 8: The Cross: Love's Supreme Sacrifice
+### Chapter 9: The Cross: Love's Supreme Sacrifice
 
 *Premise: The Cross of Christ reveals the perfect unity of truth, justice, and mercy, showing us that authentic love always involves sacrifice and that suffering can be redemptive when united to Christ.*
 
@@ -630,7 +709,7 @@ My prayer is that the world will come to know Jesus who is THE Way and THE Truth
 
 ## PART III: LOVE IN ACTION
 
-### Chapter 9: The Sacramental Life: Love Made Visible
+### Chapter 10: The Sacramental Life: Love Made Visible
 
 *Premise: The sacraments are not empty rituals but encounters with Christ that heal and strengthen our capacity to love, providing the grace needed to live counter-culturally.*
 
@@ -673,7 +752,7 @@ My prayer is that the world will come to know Jesus who is THE Way and THE Truth
    * How does our culture's materialism and individualism work against a sacramental worldview? What consequences do you see from the loss of sacred signs and rituals?
    * Which sacrament do you need to approach with renewed intention and openness? What might be preventing you from receiving its full grace and power?
 
-### Chapter 10: Prayer and Worship: Communion with Love Himself
+### Chapter 11: Prayer and Worship: Communion with Love Himself
 
 *Premise: Prayer and worship, especially the Mass, are not merely religious obligations but the means by which we enter into communion with God who is Love, receiving the grace to love authentically.*
 
@@ -721,7 +800,7 @@ My prayer is that the world will come to know Jesus who is THE Way and THE Truth
    * How does our busy, distracted culture undermine genuine prayer and worship? What consequences do you see from this disconnection from communion with God?
    * What aspect of your prayer life most needs renewal or development? What practical step could you take to deepen your communion with God?
 
-### Chapter 11: Actual Virtue: Love's Habits of Excellence
+### Chapter 12: Actual Virtue: Love's Habits of Excellence
 
 *Premise: Virtues are the habits that enable us to love well, offering a path to genuine freedom that contrasts sharply with the license promoted by modern culture.*
 
@@ -768,7 +847,7 @@ My prayer is that the world will come to know Jesus who is THE Way and THE Truth
    * How does our culture often mistake license for freedom? What examples do you see of virtues being dismissed as constraints rather than paths to authentic freedom?
    * Which cardinal or theological virtue do you find most challenging to develop? What specific habit could you cultivate to grow in this area?
 
-### Chapter 12: The Call to Sainthood and the New Evangelization
+### Chapter 13: The Call to Sainthood and the New Evangelization
 
 *Premise: The call to personal holiness and the mission of evangelization are inseparable—as we grow in sanctity, we naturally become more effective witnesses to Christ's love in the world.*
 
@@ -831,7 +910,7 @@ My prayer is that the world will come to know Jesus who is THE Way and THE Truth
    * How does our culture often misunderstand or trivialize the call to holiness? What false narratives about sainthood do you encounter in society?
    * What is the greatest obstacle to your growth in holiness right now? What concrete step could you take to overcome this obstacle?
 
-### Chapter 13: The Family and Society: Love's First School and Broader Impact
+### Chapter 14: The Family and Society: Love's First School and Broader Impact
 
 *Premise: The family is where authentic love is first learned and lived, making faithful Catholic families the primary bulwark against society's distorted understanding of love and relationships.*
 
@@ -899,7 +978,7 @@ My prayer is that the world will come to know Jesus who is THE Way and THE Truth
    * How does our culture's individualism and redefinition of family undermine society's foundation? What consequences do you see from the breakdown of family life?
    * What aspect of family life presents your greatest opportunity for growth in love? How might strengthening this area impact not just your family but your broader community?
 
-### Chapter 14: Conclusion: The Journey of Love
+### Chapter 15: Conclusion: The Journey of Love
 
 *Premise: The Christian life is an ongoing journey of growth in love, integrating truth, justice, and mercy through the grace of God.*
 
