@@ -207,6 +207,11 @@ My prayer is that the world will come to know Jesus who is THE Way and THE Truth
    * Christianity as the answer to our deepest moral yearnings
    * These intuitions find their fullest expression in the Catholic tradition
    * Introducing love as the unifying principle that integrates justice, truth, and mercy
+   * Universal moral intuitions are impossible to explain in purely materialistic worldviews
+   * If humans evolved solely for survival, consistent moral intuitions that contradict self-interest make little sense
+   * The Catholic understanding provides a more coherent explanation: these intuitions are divine signposts
+   * Romans 2:15 confirms this: "They show that the demands of the law are written in their hearts"
+   * These moral intuitions require divine revelation for their complete fulfillment
 
 8. **For Reflection and Discussion:**
    * Reflect on a time when you felt a strong sense of "that's not fair!" What does this reaction reveal about your innate moral compass?
@@ -250,29 +255,36 @@ My prayer is that the world will come to know Jesus who is THE Way and THE Truth
    * Justice: Giving God and others their due
    * Mercy: Responding to weakness with compassion
 
-4. **The Holy Spirit as the Animator of Love:**
+4. **The Connection Between Love and Human Dignity:**
+   * Human dignity REQUIRES authentic love and authentic love REQUIRES human dignity
+   * Our creation in God's image enables us to participate in unified love
+   * Because God is love—a Trinity of truth, justice, and mercy—we can reflect this integrated love
+   * Our dignity flows from being created by Love itself for the purpose of loving as God loves
+   * We are designed to be both recipients and channels of divine love
+
+5. **The Holy Spirit as the Animator of Love:**
    * The Holy Spirit as the love between Father and Son
    * How the Spirit dwells within us, enabling us to love authentically
    * The gifts of the Holy Spirit (wisdom, understanding, counsel, fortitude, knowledge, piety, and fear of the Lord) as empowering our capacity to love
    * The fruits of the Spirit (love, joy, peace, patience, kindness, etc.) as manifestations of authentic love
    * Pentecost as the birthday of the Church and the outpouring of love
 
-5. **Why Understanding Love Matters:**
+6. **Why Understanding Love Matters:**
    * Love as the heart of the Gospel message
    * How a distorted understanding of love leads to distorted faith
    * The connection between loving God and knowing God
 
-6. **The Distortion of Love in Modern Culture:**
+7. **The Distortion of Love in Modern Culture:**
    * Love reduced to sentiment or emotion
    * Love divorced from truth and commitment
    * The consequences of this distortion for individuals and society
 
-7. **Preview of the Journey Ahead:**
+8. **Preview of the Journey Ahead:**
    * How we'll explore each dimension of love
    * The promise of a more integrated and authentic faith
    * The transformation that comes from living in authentic love
 
-8. **Salvation as Love Relationship:**
+9. **Salvation as Love Relationship:**
    * Beyond "getting to heaven" - salvation as communion with God
    * How "the faith" differs from mere intellectual assent
    * Why "faith alone" misunderstands the nature of salvation: healing us FOR love
@@ -280,13 +292,13 @@ My prayer is that the world will come to know Jesus who is THE Way and THE Truth
    * Salvation as liberation for loving relationship with God and neighbor
    * Salvation as both gift and response
 
-9. **The Cost of Love:**
+10. **The Cost of Love:**
    * Jesus' invitation: "Deny yourself, take up your cross, and follow me"
    * Why authentic love always involves sacrifice
    * The paradox of finding life by losing it
    * Setting expectations: the Christian life is demanding but fulfilling
 
-10. **For Reflection and Discussion:**
+11. **For Reflection and Discussion:**
    * What authentic human longing do you think drives our culture's obsession with love, even when misunderstood? How does the Catholic vision of love as truth, justice, and mercy in unity fulfill this longing?
    * Recall a moment when you experienced love that clearly united truth, justice, and mercy. How did this experience differ from other expressions of "love" you've encountered?
    * How does our culture's definition of love often separate it from truth, justice, or mercy? What consequences do you see from this fragmented understanding?
@@ -669,10 +681,12 @@ My prayer is that the world will come to know Jesus who is THE Way and THE Truth
 - "Then Jesus said to his disciples, 'Whoever wishes to come after me must deny himself, take up his cross, and follow me.'" (Matthew 16:24, NABRE)
 
 1. **The Cross as the Perfect Unity of Truth, Justice, and Mercy:**
-   * Truth: The Cross reveals the reality of sin and God's love
-   * Justice: Christ gives the Father what is due through perfect obedience
-   * Mercy: God's compassionate response to human brokenness
-   * How the Cross reconciles what seems irreconcilable
+   * The Cross demonstrates all three dimensions of love simultaneously without compromise
+   * Truth: The Cross reveals the reality of sin's consequences is fully acknowledged rather than ignored
+   * Justice: Christ gives the Father what he is due: humble, obedient, sacrifice
+   * Mercy: God takes the punishment upon Himself rather than demanding it from us
+   * The Cross shows that authentic love never requires choosing between truth, justice, and mercy
+   * Instead, love finds their perfect integration in concrete action
 
 2. **The Scandal of the Cross:**
    * The Cross as foolishness to the world
@@ -911,7 +925,17 @@ My prayer is that the world will come to know Jesus who is THE Way and THE Truth
    * The communal dimension of sacraments and prayer
    * Sacraments and prayer as visible signs of an alternative way of living
 
-10. **For Reflection and Discussion:**
+10. **Virtues, Sacraments, and Family Life:**
+   * Virtues and sacraments directly nurture and sustain family life as the first school of love
+   * Virtues provide family members with the character needed to love consistently and authentically
+   * Sacraments offer the grace to heal relationships and strengthen family bonds
+   * Matrimony establishes a covenant mirroring Christ's faithful love for the Church
+   * Reconciliation offers healing when family relationships are wounded by sin
+   * The Eucharist nourishes families with Christ's self-giving love
+   * These practices help family members integrate truth, justice, and mercy in daily interactions
+   * The family becomes a domestic church witnessing to authentic love in a world of counterfeits
+
+11. **For Reflection and Discussion:**
    * What authentic human longing for transcendence and meaningful ritual do you think drives even secular ceremonies and celebrations? How do the sacraments fulfill this longing more completely?
    * Describe a sacramental moment that deeply affected your relationship with Christ. What made this encounter particularly meaningful, and how did it change you?
    * How does our culture's materialism and individualism work against a sacramental worldview? What consequences do you see from the loss of sacred signs and rituals?
