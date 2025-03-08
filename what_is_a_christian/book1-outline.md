@@ -1,37 +1,68 @@
-# *What is Love?: Recovering the Heart of the Gospel: Truth, Justice, and Mercy in Action*
+# *What is Love?: Recovering the Heart of the Gospel: Justice, and Mercy in Action*
 
 ## Book Purpose
 
-This book is intended to help Catholics understand the depth and beauty of their faith through the lens of
-authentic love: God's perfect union of truth, justice, and mercy. The Biblical model of Salvation is not merely about
-"getting to heaven" but entering into a transformative love relationship with Christ and living that out with our
-whole heart, soul, mind, and strength.
+Looking around in today's world, we see society breaking down and hear countless demands for justice, equity, inclusion, and an end to various forms of oppression. Yet as the song goes, many are "looking for love in all the wrong places." The solution to these societal problems is found in understanding:
 
-Looking around in today's world, we see society breaking down and hear countless demands for justice, equity,
-inclusion, and an end to various forms of oppression. Yet as the song goes, many are "looking for love in all
-the wrong places." The solution to these societal problems is found in the Gospel—in understanding and
-living out authentic love.
+> What is Love?
 
-What makes this approach distinctive is recognizing that:
-* Justice without truth and mercy becomes oppressive
-* Mercy without truth and justice becomes enabling
-* Truth without justice and mercy becomes cold and rigid
+One answer is...
 
-Only when these three elements are in perfect balance can we experience and extend authentic love. The Catholic Faith,
-guided by the Holy Spirit for 2000 years, offers this integrated understanding of love through:
+> God is Love. (1 John 4:8)
+
+This book is intended to help all Christ followers understand the depth and beauty of what it means to say God is Love.  Here is the Catholic answer of what love is:
+
+>
+> The Trinity's perfect and true union of justice, and mercy fulfilled in Jesus Christ and His New Covenant.
+
+or simply put into a more memorable phrase:
+
+>  God's perfect union of justice and mercy.
+
+The Catholic teaching is that the goal of the faith is not merely to "get to heaven" but to enter into a transformative LOVE relationship with the Trinity (and each other) LIVING that out here and now with our whole heart, soul, mind, and strength and to desire this unity both now and eternally.
+
+And so to attain this goal we must attempt to approach the truth about God's perfect wisdom and unity of love, justice, and mercy.  Of course, we are not God - we do not know the whole truth about God's perfect wisdom and unity of love, justice, and mercy.
+
+But, as Jesus promised the Disciples...
+
+> "I have much more to tell you, but you cannot bear it now. 13 But when he comes, the Spirit of truth, he will guide you to all truth." (John 16:12-13, NABRE)
+
+The same Disciples that he gave His authority to baptize and teach EVERYTHING He commanded:
+
+> Then Jesus approached and said to them,
+
+   > All power in heaven and on earth has been given to me. Go, therefore, and make disciples of all nations, baptizing them in the name of the Father, and of the Son, and of the holy Spirit, teaching them to observe all that I have commanded you. And behold, I am with you always, until the end of the age.
+
+And so, for 2000 years, the Church has been guided by the Holy Spirit to know as much as He has revealed to us about the truth about God's perfect wisdom and unity of love, justice, and mercy and to teach it to us.
+
+And the most beautiful thing about our Faith is that it is TRUE.  In other words, the Catholic Faith is so perfectly aligned with reality.  The truth of human nature, the truth of the human condition, the truth of the universe, and the truth of God's plan for His creation is all contained in the Catholic Faith.
+
+There is not a single logical leap that the Catholic Faith asks you to take that is not supported by the reality of the world we find ourselves in. God has been revealing His Truth to us for thousands of years and the Catholic Faith is the perfect summary of that truth.
+
+The book will show how the desire for true justice and mercy are deeply engrained in our souls. And how the Catholic Faith is the most perfect teaching of how we can pursue a complete and true and unified understanding of justice, mercy, and truth.
+
+We definitely see that in the real world:
+* Justice without mercy becomes oppressive
+* Mercy without justice becomes enabling
+* Truth without justice or mercy leads to literal death of millions
+
+Only when the three elements of truth, justice, and mercy are in a more perfect balance can we experience and extend and experience authentic love, peace, and joy.
+
+The Catholic Faith, guided by the Holy Spirit for 2000 years, offers this integrated understanding of love through:
 
 * UNITY in the Body of Christ, submitting to the authority Jesus established in the Church
 * COMMUNION with Christ himself, experienced most fully in the Eucharist and all Sacraments
-* WORSHIP through the Mass, forming us as reverent, humble servants
+* WORSHIP through the Mass, forming us as reverent, humble servants of His love
 * TRUTH through Scripture and the Church's Magisterium
 * JUSTICE through the Church's social teaching
-* MERCY through Christ's sacrifice and the Sacrament of Confession
+* MERCY through Christ's sacrifice on the Cross
+* GRACE (His justice and mercy) through the Holy Spirit working through the Sacraments to help perfect us
 
-This book will walk through the major teachings of the Catholic Faith to show how each element helps us
-understand and live out the relationship between love, truth, justice, and mercy. Our Faith is not just a set
-of beliefs but a way of life that transforms us and, through us, the world.
+This book will walk through the major teachings of the Catholic Faith to show how each element helps us understand and live out our relationship between love, truth, justice, and mercy. Our Faith is not just a set of beliefs but a deep and beautiful way of life that transforms us and, through us, the world.
 
-My prayer is that the world will come to know Jesus who is the Truth, the Way, and the Life—the incarnation of the perfect union of truth, justice, and mercy—and that the Catholic Faith will continue to be a light to the World and salt of the Earth.
+>  Jesus said to him, “I am the way and the truth[a] and the life. No one comes to the Father except through me. (John 14:6)
+
+My prayer is that the world will come to know Jesus who is THE Way and THE Truth and THE Life — the incarnation of the perfect union of truth, justice, and mercy — and that the Catholic Faith will continue to be a light to the World and salt of the Earth.
 
 **Audience:** Catholic Christians seeking to deepen their understanding of faith beyond ritual participation
 
