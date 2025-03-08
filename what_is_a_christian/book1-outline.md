@@ -146,10 +146,10 @@ Throughout this journey, we'll continually return to our central framework: love
 > This chapter reveals that virtue signaling is a hollow substitute for true virtue and that the Catholic faith offers a more authentic path to the good, rooted in objective truth, genuine love, true justice, and real mercy.
 
 #### For Reflection and Discussion:
-   * What legitimate human desire or need do you think underlies the phenomenon of virtue signaling? How does the Catholic understanding of virtue fulfill this desire more authentically?
-   * Reflect on a time when you encountered "virtue signaling" in your own life. How did you respond, and what did this experience reveal about the difference between authentic virtue and its counterfeit?
-   * How does our culture's emphasis on public displays of virtue often miss the deeper meaning of true goodness? What consequences do you see resulting from this superficial approach?
-   * In what area of your life might you be substituting the appearance of virtue for genuine love? What would it look like to move beyond signaling to authentic action?
+   1. What legitimate human desire or need do you think underlies the phenomenon of virtue signaling? How does the Catholic understanding of virtue fulfill this desire more authentically?
+   2. Reflect on a time when you encountered "virtue signaling" in your own life. How did you respond, and what did this experience reveal about the difference between authentic virtue and its counterfeit?
+   3. How does our culture's emphasis on public displays of virtue often miss the deeper meaning of true goodness? What consequences do you see resulting from this superficial approach?
+   4. In what area of your life might you be substituting the appearance of virtue for genuine love? What would it look like to move beyond signaling to authentic action?
 
 ### Chapter 2: The Intuition of Justice: Our Innate Moral Compass
 
@@ -233,10 +233,10 @@ Throughout this journey, we'll continually return to our central framework: love
 > This chapter argues that our innate sense of justice is a signpost pointing to God and that the Catholic faith provides the most complete framework for understanding and fulfilling these intuitions.
 
 #### For Reflection and Discussion:
-   * Reflect on a time when you felt a strong sense of "that's not fair!" What does this reaction reveal about your innate moral compass?
-   * How do your deepest intuitions about justice, equality, and human dignity point toward God's existence and nature?
-   * In what ways do you see modern movements correctly identifying problems but prescribing inadequate solutions?
-   * Compare how a secular ideology and Christianity might approach a current social justice issue. What are the fundamental differences in their approaches?
+   1. Reflect on a time when you felt a strong sense of "that's not fair!" What does this reaction reveal about your innate moral compass?
+   2. How do your deepest intuitions about justice, equality, and human dignity point toward God's existence and nature?
+   3. In what ways do you see modern movements correctly identifying problems but prescribing inadequate solutions?
+   4. Compare how a secular ideology and Christianity might approach a current social justice issue. What are the fundamental differences in their approaches?
 
 ### Chapter 3: What is Love? The Heart of the Gospel
 
@@ -321,10 +321,10 @@ Throughout this journey, we'll continually return to our central framework: love
 > This chapter introduces the Catholic understanding of love as the perfect unity of truth, justice, and mercy and emphasizes that salvation is not merely about "getting to heaven" but about entering into a transformative love relationship with God, which is the ultimate goal of our existence.
 
 #### For Reflection and Discussion:
-   * What authentic human longing do you think drives our culture's obsession with love, even when misunderstood? How does the Catholic vision of love as truth, justice, and mercy in unity fulfill this longing?
-   * Recall a moment when you experienced love that clearly united truth, justice, and mercy. How did this experience differ from other expressions of "love" you've encountered?
-   * How does our culture's definition of love often separate it from truth, justice, or mercy? What consequences do you see from this fragmented understanding?
-   * Where in your life do you struggle most to integrate truth, justice, and mercy in your expression of love? What would it look like to move beyond signaling to authentic action?
+   1. What authentic human longing do you think drives our culture's obsession with love, even when misunderstood? How does the Catholic vision of love as truth, justice, and mercy in unity fulfill this longing?
+   2. Recall a moment when you experienced love that clearly united truth, justice, and mercy. How did this experience differ from other expressions of "love" you've encountered?
+   3. How does our culture's definition of love often separate it from truth, justice, or mercy? What consequences do you see from this fragmented understanding?
+   4. Where in your life do you struggle most to integrate truth, justice, and mercy in your expression of love? What would it look like to move beyond signaling to authentic action?
 
 ## PART II: THE FOUNDATION OF LOVE
 
@@ -371,10 +371,10 @@ Throughout this journey, we'll continually return to our central framework: love
 > This chapter establishes the anthropological foundation for love in our creation and human dignity as the basis for all human rights, justice, and mercy.
 
 #### For Reflection and Discussion:
-   * What genuine human desire for significance and worth do you think drives modern identity movements? How does the Catholic understanding of human dignity better fulfill this desire?
-   * Think about a time when you felt most aware of being created in God's image. What circumstances or insights led to this awareness, and how did it affect your sense of purpose?
-   * How does our society's understanding of human dignity differ from the Catholic vision of being created in God's image? What harmful consequences result from this difference?
-   * In what ways might you be living beneath your dignity as a child of God? What area of your life needs to be more aligned with your divine origin?
+   1. What genuine human desire for significance and worth do you think drives modern identity movements? How does the Catholic understanding of human dignity better fulfill this desire?
+   2. Think about a time when you felt most aware of being created in God's image. What circumstances or insights led to this awareness, and how did it affect your sense of purpose?
+   3. How does our society's understanding of human dignity differ from the Catholic vision of being created in God's image? What harmful consequences result from this difference?
+   4. In what ways might you be living beneath your dignity as a child of God? What area of your life needs to be more aligned with your divine origin?
 
 ### Chapter 5: Truth: God's Self-Disclosure Through Creation, Scripture, and Tradition
 
@@ -471,10 +471,10 @@ Throughout this journey, we'll continually return to our central framework: love
 > This chapter shows that the truth is a person, Jesus Christ, and that the Church is the means by which we can know and live in accordance with that truth, which is essential for understanding and practicing authentic love, justice, and mercy.
 
 #### For Reflection and Discussion:
-    * What legitimate human desire for freedom and authenticity do you think underlies our culture's resistance to objective truth? How does the Catholic understanding of truth actually fulfill these desires?
-    * Recall a time when encountering a difficult truth changed your perspective or actions. What made you receptive to this truth, and how did it transform you?
-    * How does our "post-truth" culture's relativism undermine human flourishing? What examples do you see of truth being sacrificed for comfort or convenience in society today?
-    * Where in your life are you most tempted to avoid or deny truth? What first step could you take toward greater honesty and clarity in this area?
+   1. What legitimate human desire for freedom and authenticity do you think underlies our culture's resistance to objective truth? How does the Catholic understanding of truth actually fulfill these desires?
+   2. Recall a time when encountering a difficult truth changed your perspective or actions. What made you receptive to this truth, and how did it transform you?
+   3. How does our "post-truth" culture's relativism undermine human flourishing? What examples do you see of truth being sacrificed for comfort or convenience in society today?
+   4. Where in your life are you most tempted to avoid or deny truth? What first step could you take toward greater honesty and clarity in this area?
 
 ### Chapter 6: Mercy: Love's Response to Brokenness
 
@@ -568,10 +568,10 @@ Throughout this journey, we'll continually return to our central framework: love
 > This chapter explores the nature of mercy as God's loving response to our brokenness, emphasizing that true mercy always seeks our healing and restoration while upholding truth and justice.
 
 #### For Reflection and Discussion:
-    * What authentic human longing for acceptance and healing do you think drives our culture's emphasis on unconditional affirmation? How does true mercy better fulfill this longing?
-    * Describe a time when you received mercy that you didn't deserve. How did this experience affect your understanding of God's mercy and your ability to extend mercy to others?
-    * How does our culture often confuse mercy with permissiveness or enabling? What are the consequences when mercy is divorced from truth and justice?
-    * In what relationship do you find it most difficult to extend mercy? What might be preventing you from offering genuine forgiveness and healing in this situation?
+   1. What authentic human longing for acceptance and healing do you think drives our culture's emphasis on unconditional affirmation? How does true mercy better fulfill this longing?
+   2. Describe a time when you received mercy that you didn't deserve. How did this experience affect your understanding of God's mercy and your ability to extend mercy to others?
+   3. How does our culture often confuse mercy with permissiveness or enabling? What are the consequences when mercy is divorced from truth and justice?
+   4. In what relationship do you find it most difficult to extend mercy? What might be preventing you from offering genuine forgiveness and healing in this situation?
 
 ### Chapter 7: Justice: The Right Ordering of Relationships
 
@@ -643,10 +643,10 @@ Throughout this journey, we'll continually return to our central framework: love
 > This chapter defines justice not merely as fairness but as the right ordering of relationships with God and neighbor, emphasizing that faith provides the necessary foundation for a truly just society.
 
 #### For Reflection and Discussion:
-   * What legitimate human desire for fairness and right order do you think drives today's social justice movements? How does the Catholic vision of justice better fulfill this desire?
-   * Reflect on a time when you experienced true justice (not merely punishment). How did this experience affect your understanding of justice as "right relationship" rather than simply "getting what one deserves"?
-   * How does our culture's understanding of justice often become distorted when separated from truth and mercy? What examples do you see in current events or social movements?
-   * In what relationship or area of your life do you most need to restore right order? What is one step you could take toward bringing greater justice to this situation?
+   1. What legitimate human desire for fairness and right order do you think drives today's social justice movements? How does the Catholic vision of justice better fulfill this desire?
+   2. Reflect on a time when you experienced true justice (not merely punishment). How did this experience affect your understanding of justice as "right relationship" rather than simply "getting what one deserves"?
+   3. How does our culture's understanding of justice often become distorted when separated from truth and mercy? What examples do you see in current events or social movements?
+   4. In what relationship or area of your life do you most need to restore right order? What is one step you could take toward bringing greater justice to this situation?
 
 ### Chapter 8: Faith: The Eyes of Divine Love
 
@@ -721,10 +721,10 @@ Throughout this journey, we'll continually return to our central framework: love
 > This chapter introduces faith as the lens through which we understand and experience God's love, emphasizing the importance of Scripture, Tradition, and the Magisterium in forming our faith, which is essential for living out truth, justice, and mercy.
 
 #### For Reflection and Discussion:
-   * What genuine human desire for authenticity and personal meaning do you think drives the rejection of religious authority? How does faithful submission to the Church actually fulfill these desires?
-   * Consider a time when your faith allowed you to see a situation differently than those around you. How did this "vision of faith" change your response or understanding?
-   * How does our society's rejection of authority and tradition lead to confusion and instability? What examples do you see of this in contemporary debates or social issues?
-   * Where do you struggle most to submit to the Church's teaching authority? What might be at the root of this resistance, and what would help you grow in faithful obedience?
+   1. What genuine human desire for authenticity and personal meaning do you think drives the rejection of religious authority? How does faithful submission to the Church actually fulfill these desires?
+   2. Consider a time when your faith allowed you to see a situation differently than those around you. How did this "vision of faith" change your response or understanding?
+   3. How does our society's rejection of authority and tradition lead to confusion and instability? What examples do you see of this in contemporary debates or social issues?
+   4. Where do you struggle most to submit to the Church's teaching authority? What might be at the root of this resistance, and what would help you grow in faithful obedience?
 
 ### Chapter 9: The Cross: Love's Supreme Sacrifice
 
@@ -785,10 +785,10 @@ Throughout this journey, we'll continually return to our central framework: love
 > This chapter reveals the Cross as the ultimate expression of God's love, perfectly uniting truth, justice, and mercy, and transforming suffering into a source of redemption.
 
 #### For Reflection and Discussion:
-   * What legitimate human desire to find meaning in pain do you think underlies our culture's various attempts to explain or eliminate suffering? How does the Cross offer a more fulfilling response?
-   * Reflect on a time when suffering in your life eventually led to growth or new life. How did this experience help you understand Christ's cross and resurrection more deeply?
-   * How does our comfort-oriented culture misunderstand or avoid the redemptive value of suffering? What consequences result from this avoidance?
-   * What cross in your life are you currently struggling to accept or understand? How might uniting this suffering with Christ's transform its meaning and purpose?
+   1. What legitimate human desire to find meaning in pain do you think underlies our culture's various attempts to explain or eliminate suffering? How does the Cross offer a more fulfilling response?
+   2. Reflect on a time when suffering in your life eventually led to growth or new life. How did this experience help you understand Christ's cross and resurrection more deeply?
+   3. How does our comfort-oriented culture misunderstand or avoid the redemptive value of suffering? What consequences result from this avoidance?
+   4. What cross in your life are you currently struggling to accept or understand? How might uniting this suffering with Christ's transform its meaning and purpose?
 
 ## PART III: LOVE IN ACTION
 
@@ -865,10 +865,10 @@ Throughout this journey, we'll continually return to our central framework: love
 > This chapter presents the Ten Commandments not as arbitrary rules, but as expressions of God's love, providing guardrails for living in right relationship with God and neighbor, guiding us in truth, justice, and mercy.
 
 #### For Reflection and Discussion:
-   * Which commandment do you find most challenging to live out fully? What might this reveal about areas where you need growth in love?
-   * How have you experienced the commandments as liberating rather than restricting? Share an example of how following God's law has led to greater freedom in your life.
-   * In what ways does our culture misunderstand or reject the commandments? What consequences do you see from this rejection?
-   * How might you explain to a non-believer that the commandments are expressions of love rather than arbitrary rules?
+   1. Which commandment do you find most challenging to live out fully? What might this reveal about areas where you need growth in love?
+   2. How have you experienced the commandments as liberating rather than restricting? Share an example of how following God's law has led to greater freedom in your life.
+   3. In what ways does our culture misunderstand or reject the commandments? What consequences do you see from this rejection?
+   4. How might you explain to a non-believer that the commandments are expressions of love rather than arbitrary rules?
 
 ### Chapter 11: Actual Virtue: Love's Habits of Excellence
 
@@ -934,11 +934,11 @@ Throughout this journey, we'll continually return to our central framework: love
 > This chapter explores the virtues as habits of excellence that enable us to love well, revealing God's character and leading to genuine freedom, deepening our understanding of God's perfect justice and mercy.
 
 #### For Reflection and Discussion:
-   * What genuine human desire for self-improvement and excellence do you think drives popular self-help movements? How does the Catholic understanding of virtue better fulfill this desire?
-   * Think about a virtue that has become more habitual in your life over time. How did this virtue develop, and what difference has it made in your relationships and decisions?
-   * How does our culture often mistake license for freedom? What examples do you see of virtues being dismissed as constraints rather than paths to authentic freedom?
-   * Which cardinal or theological virtue do you find most challenging to develop? What specific habit could you cultivate to grow in this area?
-   * How has growing in a particular virtue helped you better understand God's justice or mercy? Share an example of how practicing virtue gave you insight into God's character.
+   1. What genuine human desire for self-improvement and excellence do you think drives popular self-help movements? How does the Catholic understanding of virtue better fulfill this desire?
+   2. Think about a virtue that has become more habitual in your life over time. How did this virtue develop, and what difference has it made in your relationships and decisions?
+   3. How does our culture often mistake license for freedom? What examples do you see of virtues being dismissed as constraints rather than paths to authentic freedom?
+   4. Which cardinal or theological virtue do you find most challenging to develop? What specific habit could you cultivate to grow in this area?
+   5. How has growing in a particular virtue helped you better understand God's justice or mercy? Share an example of how practicing virtue gave you insight into God's character.
 
 ### Chapter 12: The Sacramental Life and Prayer: Communion with Love Himself
 
@@ -1027,13 +1027,13 @@ Throughout this journey, we'll continually return to our central framework: love
 > This chapter emphasizes that the sacraments and prayer are encounters with Christ that heal and strengthen our capacity to love, providing the grace needed to live counter-culturally and transform the world through His truth, justice, and mercy.
 
 #### For Reflection and Discussion:
-   * What authentic human longing for transcendence and meaningful ritual do you think drives even secular ceremonies and celebrations? How do the sacraments fulfill this longing more completely?
-   * Describe a sacramental moment that deeply affected your relationship with Christ. What made this encounter particularly meaningful, and how did it change you?
-   * How does our culture's materialism and individualism work against a sacramental worldview? What consequences do you see from the loss of sacred signs and rituals?
-   * Which sacrament do you need to approach with renewed intention and openness? What might be preventing you from receiving its full grace and power?
-   * Recall a time when prayer significantly changed your perspective or actions. What made this prayer experience transformative?
-   * How does our busy, distracted culture undermine genuine prayer and worship? What consequences do you see from this disconnection from communion with God?
-   * What aspect of your prayer life most needs renewal or development? What practical step could you take to deepen your communion with God?
+   1. What authentic human longing for transcendence and meaningful ritual do you think drives even secular ceremonies and celebrations? How do the sacraments fulfill this longing more completely?
+   2. Describe a sacramental moment that deeply affected your relationship with Christ. What made this encounter particularly meaningful, and how did it change you?
+   3. How does our culture's materialism and individualism work against a sacramental worldview? What consequences do you see from the loss of sacred signs and rituals?
+   4. Which sacrament do you need to approach with renewed intention and openness? What might be preventing you from receiving its full grace and power?
+   5. Recall a time when prayer significantly changed your perspective or actions. What made this prayer experience transformative?
+   6. How does our busy, distracted culture undermine genuine prayer and worship? What consequences do you see from this disconnection from communion with God?
+   7. What aspect of your prayer life most needs renewal or development? What practical step could you take to deepen your communion with God?
 
 ### Chapter 13: The Family and Society: Love's First School and Broader Impact
 
@@ -1114,10 +1114,10 @@ Throughout this journey, we'll continually return to our central framework: love
 > This chapter argues that the family is the primary place where we learn and live out authentic love, and that strong, faithful Catholic families are essential for countering distorted understandings of love in society by embodying truth, justice, and mercy.
 
 #### For Reflection and Discussion:
-   * What legitimate human desire for belonging and unconditional acceptance do you think drives various attempts to redefine family? How does the Catholic vision of family better fulfill these desires?
-   * Reflect on how your family of origin shaped your understanding of love, truth, justice, and mercy. What positive lessons did you learn, and what might you need to unlearn?
-   * How does our culture's individualism and redefinition of family undermine society's foundation? What consequences do you see from the breakdown of family life?
-   * What aspect of family life presents your greatest opportunity for growth in love? How might strengthening this area impact not just your family but your broader community?
+   1. What legitimate human desire for belonging and unconditional acceptance do you think drives various attempts to redefine family? How does the Catholic vision of family better fulfill these desires?
+   2. Reflect on how your family of origin shaped your understanding of love, truth, justice, and mercy. What positive lessons did you learn, and what might you need to unlearn?
+   3. How does our culture's individualism and redefinition of family undermine society's foundation? What consequences do you see from the breakdown of family life?
+   4. What aspect of family life presents your greatest opportunity for growth in love? How might strengthening this area impact not just your family but your broader community?
 
 ### Chapter 14: The Call to Sainthood and the New Evangelization
 
@@ -1182,10 +1182,10 @@ Throughout this journey, we'll continually return to our central framework: love
 > This chapter connects the call to personal holiness with the mission of evangelization, emphasizing that our growth in sanctity makes us more effective witnesses to Christ's love in the world, reflecting truth, justice, and mercy.
 
 #### For Reflection and Discussion:
-   * What authentic human longing for heroism and significance do you think drives our culture's fascination with celebrities and influencers? How does the call to sainthood fulfill this longing more completely?
-   * Who is a saint (canonized or not) whose life has particularly inspired you? What quality in their journey toward holiness speaks most directly to your own path?
-   * How does our culture often misunderstand or trivialize the call to holiness? What false narratives about sainthood do you encounter in society?
-   * What is the greatest obstacle to your growth in holiness right now? What concrete step could you take to overcome this obstacle?
+   1. What authentic human longing for heroism and significance do you think drives our culture's fascination with celebrities and influencers? How does the call to sainthood fulfill this longing more completely?
+   2. Who is a saint (canonized or not) whose life has particularly inspired you? What quality in their journey toward holiness speaks most directly to your own path?
+   3. How does our culture often misunderstand or trivialize the call to holiness? What false narratives about sainthood do you encounter in society?
+   4. What is the greatest obstacle to your growth in holiness right now? What concrete step could you take to overcome this obstacle?
 
 ### Chapter 15: Conclusion: The Journey of Love
 
@@ -1241,9 +1241,9 @@ Throughout this journey, we'll continually return to our central framework: love
 > This chapter concludes the book by summarizing the journey of understanding love as the integration of truth, justice, and mercy, and by offering practical steps for continuing to grow in authentic love and holiness, ultimately transforming ourselves and the world around us.
 
 #### For Reflection and Discussion:
-   * Looking back on your journey of faith, what has been the most significant transformation in how you understand and practice love?
-   * How might our world be different if more people embraced love as the perfect unity of truth, justice, and mercy? What specific societal problems might be addressed through this integrated understanding?
-   * As you conclude this book, what is the one area where you feel most called to grow in authentic love? What concrete step will you take to begin this growth?
+   1. Looking back on your journey of faith, what has been the most significant transformation in how you understand and practice love?
+   2. How might our world be different if more people embraced love as the perfect unity of truth, justice, and mercy? What specific societal problems might be addressed through this integrated understanding?
+   3. As you conclude this book, what is the one area where you feel most called to grow in authentic love? What concrete step will you take to begin this growth?
 
 **Afterword: Further Horizons: The Depths of Our Faith**
 
