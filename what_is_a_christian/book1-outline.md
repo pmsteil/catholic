@@ -383,7 +383,7 @@ Throughout this journey, we'll continually return to our central framework: love
 *Key Scriptures:*
 - "The truth will set you free." (John 8:32, NABRE)
 - "I am the way and the truth and the life. No one comes to the Father except through me." (John 14:6, NABRE)
-- "Amen, I say to you, unless your righteousness surpasses that of the scribes and Pharisees, you will not enter into the kingdom of heaven." (Matthew 5:20, NABRE)
+- "But when he comes, the Spirit of truth, he will guide you to all truth." (John 16:13, NABRE)
 - "For this I was born and for this I came into the world, to testify to the truth. Everyone who belongs to the truth listens to my voice." (John 18:37, NABRE)
 - "Sanctify them in the truth. Your word is truth." (John 17:17, NABRE)
 - "God is Spirit, and those who worship him must worship in Spirit and truth." (John 4:24, NABRE)
@@ -393,6 +393,7 @@ Throughout this journey, we'll continually return to our central framework: love
 - "God is not man that he should speak falsely, nor human, that he should change his mind. Is he one to speak and not act, to decree and not fulfill?" (Numbers 23:19, NABRE)
 - "For the wrath of God is revealed from heaven against all ungodliness and wickedness of those who by their wickedness suppress the truth." (Romans 1:18, NABRE)
 - "They exchanged the truth of God for a lie and revered and worshiped the creature rather than the creator, who is blessed forever. Amen." (Romans 1:25, NABRE)
+- "God, who created all things, is the one author of Sacred Scripture and Sacred Tradition." (Dei Verbum, 9-10)
 
 1. **The Human Hunger for Truth:**
    * Begin chapter with a personal anecdote involving my own experience as a Husband and Father
@@ -406,13 +407,14 @@ Throughout this journey, we'll continually return to our central framework: love
    * How children first learn about truth through parental example
    * The generational transmission of honesty and integrity
    * Parents as the first teachers of discernment between truth and falsehood
-   * How family transparency builds trust and security
-   * The damage of dishonesty and manipulation in family relationships
+   * The damage of sin in teaching Truth in the family
+   * Influence of social media on the development of truth in children
 
 3. **Truth as a Person: Jesus Christ**
-   * "I am the Way, the Truth, and the Life"
+   * "I am the Way, the Truth, and the Life" - unpacking this profound statement
    * How Jesus reveals the truth about God and humanity
-   * Truth as relational, not merely propositional
+   * Christ as the perfect revelation of the Father
+   * How encountering Jesus in relationship transforms our understanding of truth
 
 4. **The Church's Definition of Truth:**
    * The Catechism's teaching on truth (CCC 2465-2470)
@@ -421,47 +423,66 @@ Throughout this journey, we'll continually return to our central framework: love
    * Pope John Paul II's Veritatis Splendor on moral truth
    * The relationship between faith and reason in the pursuit of truth
 
-5. **Natural Law as God's Blueprint:**
+5. **Truth as the Foundation for Authentic Justice and Mercy:**
+   * The pursuit of justice and mercy requires grounding in objective Truth
+   * Without Truth, justice and mercy become subjective and distorted by human limitations
+   * Our Creator is the source of all Truth, Justice, and Mercy
+   * Divine revelation provides the perfect standard for authentic justice and mercy
+
+6. **The Church as Guardian and Teacher of Divine Truth:**
+   * The Church's two-thousand-year tradition of exploring and preserving divine Truth
+   * Catholic moral teachings on family, marriage, sexuality, and relationships as expressions of divine Truth
+   * Church teachings not as arbitrary rules but as revelations of God's perfect justice and mercy
+   * How embracing revealed Truth liberates us to practice more perfect justice and mercy
+
+7. **The Modern Crisis of Truth:**
+   * Relativism and its consequences for society
+   * Postmodernism's denial of objective truth
+   * The "dictatorship of relativism" (Benedict XVI)
+   * How the rejection of truth leads to the manipulation of reality
+   * The social consequences of living by "my truth" instead of "the truth"
+
+8. **Natural Law as God's Blueprint:**
     * How the created order reveals God's wisdom
     * The intelligibility of creation and human nature
     * How natural law provides a foundation for moral reasoning
 
-6. **The Relationship Between Truth and Freedom:**
+9. **The Relationship Between Truth and Freedom:**
     * "The truth will set you free"
     * How truth liberates us from illusion and manipulation
     * The false freedom of relativism versus authentic freedom
 
-7. **Truth in a Post-Truth World:**
+10. **Truth in a Post-Truth World:**
     * The challenges of relativism and subjectivism
     * Why truth matters for authentic human flourishing
     * How to discern truth in a world of competing claims
 
-8. **Sacred Tradition vs. Traditions of Men:**
+11. **Sacred Tradition vs. Traditions of Men:**
     * How Sacred Tradition differs from mere human traditions
     * Jesus' critique of the Pharisees' traditions that nullified God's word
     * How Sacred Tradition preserves and interprets God's revelation
     * Sacred Tradition as the antidote to modern heresies (moral relativism, wokeism, gender ideology, liberalism)
 
-9. **The Need for an Authoritative Church:**
+12. **The Need for an Authoritative Church:**
     * Christ's establishment of His Church with teaching authority
     * Why Scripture alone leads to endless interpretations and division
     * How the Magisterium provides an objective standard for faith and morals
     * The Protestant rejection of Church authority and its consequences
 
-10. **Submission to Authority for Freedom:**
+13. **Submission to Authority for Freedom:**
     * How submission to legitimate authority liberates rather than constrains
     * The paradox of finding freedom through obedience
     * Why an objective standard is necessary for the good of individuals and society
     * This submission is not blind obedience, but a reasoned acceptance of divinely instituted authority.
     * How Church authority serves future generations by preserving truth
 
-11. **Truth's Relationship to Justice and Mercy:**
+14. **Truth's Relationship to Justice and Mercy:**
     * How truth provides the foundation for authentic justice
     * Why mercy without truth becomes enabling rather than healing
     * The inseparable connection between knowing truth and living love
     * How truth prevents both the harshness of justice without mercy and the permissiveness of mercy without justice
 
-12. **Practical Ways to Grow in Truth:**
+15. **Practical Ways to Grow in Truth:**
     * Study of Scripture and Church teaching
     * Read the Catechism of the Catholic Church
     * The formation of conscience
@@ -693,7 +714,11 @@ Throughout this journey, we'll continually return to our central framework: love
 5. **The Distortion of Faith in Modern Culture:**
    * The rise of secularism and its impact on faith
    * Protestantism and its impact on faith
+   * Liberalism and its impact on faith
    * Postmodernism and its impact on faith
+   * Feminism and its impact on faith
+   * LGBTism and its impact on faith
+   * Transgenderism and its impact on faith
    * The challenge of maintaining faith in a world of uncertainty
    * The role of faith in navigating modern challenges
    * How faith can be a source of strength and hope in a secular society
@@ -1172,12 +1197,17 @@ Throughout this journey, we'll continually return to our central framework: love
    * Reaching those who have never heard the Gospel
    * Transforming culture through the witness of authentic love
 
-7. **Countering Modern Ideologies Through Authentic Witness:**
+7. **Truth in a Post-Modern (Post-Truth) World:**
+   * Modern challenges to objective truth
+   * The consequences of relativism and subjectivism
    * How living the integrated vision of love provides the antidote to fragmented ideologies
    * The power of Catholic witness and the Mass to communicate the truth, justice, and mercy of Christ
    * Why authentic holiness is more persuasive than arguments alone
+   * How Catholics can witness to truth with charity
+   * Practical ways to discern truth in media and culture
    * How saints throughout history have transformed their cultures
    * Be a Saint!
+
 
 > This chapter connects the call to personal holiness with the mission of evangelization, emphasizing that our growth in sanctity makes us more effective witnesses to Christ's love in the world, reflecting truth, justice, and mercy.
 
