@@ -13,11 +13,13 @@ One answer is...
 This book is intended to help all Christ followers understand the depth and beauty of what it means to say God is Love.  Here is the Catholic answer of what love is:
 
 >
-> The Trinity's perfect and true union of justice, and mercy fulfilled in Jesus Christ and His New Covenant.
+> Perfect love is the sacred, sacrificial gift of covenant-binding truth, justice, and mercy into life-giving communion.
 
-or simply put into a more memorable phrase:
-
->  God's perfect union of justice and mercy.
+*Key Scriptures:*
+- "You have been told, O mortal, what is good, and what the LORD requires of you: Only to do justice and to love goodness, and to walk humbly with your God." (Micah 6:8, NABRE)
+- "Love and truth will meet; justice and peace will kiss. Truth will spring from the earth; justice will look down from heaven." (Psalm 85:10-11, NABRE)
+- "Put on then, as God's chosen ones, holy and beloved, heartfelt compassion, kindness, humility, gentleness, and patience... And over all these put on love, that is, the bond of perfection." (Colossians 3:12, 14, NABRE)
+- "Living the truth in love, we should grow in every way into him who is the head, Christ, from whom the whole body, joined and held together by every supporting ligament... builds itself up in love." (Ephesians 4:15-16, NABRE)
 
 The Catholic teaching is that the goal of the faith is not merely to "get to heaven" but to enter into a transformative LOVE relationship with the Trinity (and each other) LIVING that out here and now with our whole heart, soul, mind, and strength and to desire this unity both now and eternally.
 
@@ -62,7 +64,7 @@ This book will walk through the major teachings of the Catholic Faith to show ho
 
 >  Jesus said to him, "I am the way and the truth[a] and the life. No one comes to the Father except through me. (John 14:6)
 
-My prayer is that the world will come to know Jesus who is THE Way and THE Truth and THE Life — the incarnation of the perfect union of truth, justice, and mercy — and that the Catholic Faith will continue to be a light to the World and salt of the Earth.
+My prayer is that the world will come to know Jesus who is THE Way and THE Truth and THE Life — that He IS the incarnation of perfect love as the sacred, sacrificial gift of covenant-binding truth, justice, and mercy into a life-giving communion that we both desire and NEED — and that the Catholic Faith will continue to be a light to the World and salt of the Earth.
 
 **Audience:** Catholic Christians seeking to deepen their understanding of faith beyond ritual participation
 
@@ -72,13 +74,13 @@ My prayer is that the world will come to know Jesus who is THE Way and THE Truth
 
 This book is organized into three parts that will guide you on a journey toward a deeper understanding of love as the perfect unity of truth, justice, and mercy:
 
-1. **Part I: The Problem and the Promise** - We'll examine the challenges of our current cultural moment, the universal human intuition for justice and love, and introduce the Catholic vision of love as the solution.
+1. **Part I: The Problem and the Promise** - We'll examine the challenges of our current cultural moment, the universal human intuition for justice and mercy, and introduce the Catholic vision of love as the solution.
 
 2. **Part II: The Foundation of Love** - We'll explore the theological foundations of authentic love: human dignity, truth, mercy, justice, faith, and the Cross as the perfect integration of all these elements.
 
 3. **Part III: Love in Action** - We'll discover how to live out this integrated vision of love through the commandments, virtues, sacraments, family life, and the universal call to holiness.
 
-Throughout this journey, we'll continually return to our central framework: love as the perfect unity of truth, justice, and mercy. Each chapter will help us understand how these three elements work together in God's plan and how we can participate in this divine love in our daily lives.
+Throughout this journey, we'll continually return to our central framework: perfect love as the sacred, sacrificial gift of covenant-binding truth, justice, and mercy into life-giving communion. Each chapter will help us understand how these elements work together in God's plan and how we can participate in this divine love in our daily lives.
 
 ## PART I: THE PROBLEM AND THE PROMISE
 
@@ -270,10 +272,23 @@ Throughout this journey, we'll continually return to our central framework: love
    * How the Church's understanding of love differs from secular definitions
    * The importance of free will in choosing to love.
 
-3. **Love as the Perfect Unity:** Introducing the three dimensions of authentic love
-   * Truth: Seeing reality as God sees it
-   * Justice: Giving God and others their due
-   * Mercy: Responding to weakness with compassion
+3. **Love as Sacred, Sacrificia Gift of Covenant:** Proposing a new synthesis of love:
+   * Building upon the Church's rich theological tradition throughout the centuries
+   * While acknowledging my human limitations in defining divine love, after extensive prayer, biblical study, and consultation with others, I propose:
+   * Perfect love is the sacred, sacrificial gift of covenant-binding truth, justice, and mercy into life-giving communion.
+     - Sacred: Originating FROM and participating in God's divine nature
+     - Sacrificial: Following Christ's example showing how love REQUIRES sacrifice
+     - Covenant: Establishing a binding relationship with obligations and promises
+     - Binding: Uniting potentially competing elements of truth, justice, and mercy into harmony
+     - Truth: Seeing reality as God sees it
+     - Justice: Giving God and others their due
+     - Mercy: Responding to brokenness with compassion
+     - Life-giving: Generating new life and transformation for the good of others
+     - Communion: Creating a deep unity with God and others
+   * This definition seeks to synthesize and integrate the wisdom of Scripture, Church Fathers, and magisterial teaching
+   * Though necessarily imperfect (as all human attempts to define the divine must be), this formulation addresses modern misconceptions while preserving timeless truth
+   * It offers a more complete picture than partial understandings that emphasize one dimension at the expense of others
+   * Most importantly, this gives us a more concrete way to understand and live out love in our daily lives, and to help others who do not know God, to see how essential it is to participate in this covenant of truth, justice, and mercy. In other words, it gives us language to explain love through the human intuitions of truth, justice, and mercy.
 
 4. **The Connection Between Love and Human Dignity:**
    * Human dignity REQUIRES authentic love and authentic love REQUIRES human dignity
@@ -763,13 +778,18 @@ Throughout this journey, we'll continually return to our central framework: love
 - "For the message of the cross is foolishness to those who are perishing, but to us who are being saved it is the power of God." (1 Corinthians 1:18, NABRE)
 - "Then Jesus said to his disciples, 'Whoever wishes to come after me must deny himself, take up his cross, and follow me.'" (Matthew 16:24, NABRE)
 
-1. **The Cross as the Perfect Unity of Truth, Justice, and Mercy:**
-   * The Cross demonstrates all three dimensions of love simultaneously without compromise
-   * Truth: The Cross reveals the reality of sin's consequences is fully acknowledged rather than ignored
+1. **The Cross as the Supreme Expression of Sacred, Sacrificial Covenant Love:**
+   * The Cross is the ultimate manifestation of love as the sacred, sacrificial gift of covenant-binding truth, justice, and mercy into life-giving communion
+   * Sacred: The Cross reveals God's holy purpose and divine plan for redemption
+   * Sacrificial: Christ's self-gift is the ultimate act of love - "No one has greater love than this"
+   * Covenant: The Last Supper and the Cross establish the New Covenant in Christ's blood
+   * Truth: The Cross reveals the reality of sin's consequences, fully acknowledged and fully redeemed
    * Justice: Christ gives the Father what he is due: humble, obedient, sacrifice
    * Mercy: God takes the punishment upon Himself rather than demanding it from us
    * The Cross shows that authentic love never requires choosing between truth, justice, and mercy
    * Instead, love finds their perfect integration in concrete action
+   * The Cross is the ultimate sacrifice of love, the ultimate act of mercy, and the ultimate expression of truth and justice
+   * The Cross is both our redemption and our example
 
 2. **The Scandal of the Cross:**
    * The Cross as foolishness to the world
@@ -1277,7 +1297,7 @@ Throughout this journey, we'll continually return to our central framework: love
 
 **Afterword: Further Horizons: The Depths of Our Faith**
 
-This book has only scratched the surface of the rich treasury of Catholic faith. There are many more aspects of our faith that deepen our understanding of love as the perfect unity of truth, justice, and mercy:
+This book has only scratched the surface of the rich treasury of Catholic faith. There are many more aspects of our faith that deepen our understanding of perfect love as the sacred, sacrificial gift of covenant-binding truth, justice, and mercy into life-giving communion:
 
 **Deeper Dimensions of Prayer and Worship:**
 * Liturgical Prayer and the Divine Office: The Church's rhythm of prayer throughout the day
