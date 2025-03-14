@@ -15,9 +15,9 @@ They are all "looking for love in all the wrong places" – conducting failed ex
 
 The evidence surrounds us: these approaches lead to mental and spiritual confusion, destruction, and ultimately death – both spiritual and physical.
 
-As members of the Body of Christ, we have a sacred and moral responsibility to understand and teach the Catholic integrated vision of love, bringing it into every corner of our society. If we fail in this mission, our culture will continue its descent, imploding under the weight of its own fragmented understanding and self-centered pursuits.
+As members of the Body of Christ, we have a sacred and moral responsibility to understand and teach the Catholic integrated vision of love, bringing it into every corner of our society. If the Christian Church fails in this mission, our culture will continue its descent, imploding under the weight of its own fragmented understanding and self-centered pursuits.
 
-The stakes couldn't be higher – souls hang in the balance, and the very fabric of society depends on rediscovering authentic love.
+The stakes couldn't be higher - souls hang in the balance, and the very fabric of society depends on rediscovering authentic love.
 
 The "good news" is that the Catholic Church teaching of the faith - as it has been handed down to us from Jesus, through the Apostles - teaches that Love is at the heart of the Gospel:
 
@@ -27,13 +27,26 @@ The "good news" is that the Catholic Church teaching of the faith - as it has be
 And Paul tells us:
 > Love does no evil to the neighbor; hence, love is the fulfillment of the law. (Romans 13:10, NABRE)
 
-## First some defintions
+## First some definitions per the Catechism of the Catholic Church (CCC)
+
+### Truth
+Truth means both who God is and how we humans should live in the real world as it actually exists. (CCC 2464-2470) Without truth, there can be no real justice or mercy or love.
 
 ### Justice
-According to the Catechism, justice is
+Justice is a cardinal virtue that leads us to give God and other people what they rightfully deserve. (CCC 1807) This works in two ways: we should treat others with the proper dignity and respect they deserve as human beings, and we must also accept that our own actions have consequences, including punishment when we do wrong.
+
+### Mercy
+Mercy is how God responds with compassion when we suffer or sin, and giving us the example that we too should forgive others for the sake of peace and communion in all our relationships. (CCC 1422, 2840)
+
+### Love
+Love is choosing to put God first and to care for others as much as we care for ourselves because that's what God wants. (CCC 1822) Love is when justice and mercy work together - it ensures we treat people fairly while also showing compassion when they fall short.
+
+The Catechism teaches that love fulfills and elevates justice: "The practice of all the virtues is animated and inspired by charity, which 'binds everything together in perfect harmony'" (CCC 1827). It further states that genuine love requires justice as its minimum expression.
+
+The Bible and the Catechism portray these fundamental moral goods—truth, justice, love, and mercy—as a unified whole rather than isolated concepts, with love being the foundation from which the others flow and find their fullest meaning.
 
 
-## Love: The Heart of Our Faith
+## Love: The Heart of "The Gospel"
 
 At the center of our faith lies a profound understanding of love that goes far beyond what our culture typically recognizes. While the world often reduces love to sentiment or emotional attachment, our tradition offers something much deeper. Here is a deeply packed definition of love:
 
@@ -63,6 +76,8 @@ Holy Communion is our participation in this Trinitarian communion!
 
 > "The cup of blessing that we bless, is it not a participation in the blood of Christ? The bread that we break, is it not a participation in the body of Christ? Because the loaf of bread is one, we, though many, are one body, for we all partake of the one loaf." (1 Corinthians 10:16-17, NABRE)
 
+> "Whoever eats my flesh and drinks my blood has eternal life, and I will raise him on the last day. For my flesh is true food, and my blood is true drink. Whoever eats my flesh and drinks my blood remains in me and I in him." (John 6:54-56, NABRE)
+
 The Eucharist is the supreme example of love as the sacred, sacrificial gift that established His New Covenant with us, upholds truth and justice, extends mercy, and creates communion. This is why the Eucharist is the source and summit of our Faith. It is our best God's supreme example of where truth, justice, mercy, and love are all in perfect communion. And we have been given the gift of experience this perfect love in the Eucharist every day that we can get to Mass!
 
 
@@ -70,15 +85,18 @@ The Eucharist is the supreme example of love as the sacred, sacrificial gift tha
 
 As Catholics faithful to the Church's teaching, we often encounter modern ideologies that fragment the unity of love, truth, justice, and mercy:
 
-- **Relativism** claims there is no objective truth, rendering authentic love ordered toward anything "good"  impossible.
-- **Individualism** prioritizes personal autonomy over covenant relationships. We are members of the Body of Christ, the household of God, the Kingdom - not just autonomous individuals. Nothing we do is in isolation.
-- **Sentimentalism** reduces love to feelings, divorced from truth and commitment. Convinces people to stay in broken relationships when there is a demonstrable lack of authentic love.
-- **Wokeism** emphasizes justice for the oppressed, but often without truth or what is just for all.
-- **Marxism** emphasizes a human beings need for power in order to achieve a better society.  Completely devoid of truth of how human beings were made.
-- **Liberalism** emphasizes man's desire to establish moral law without an objective truth and so easily distorts the truth of how human beings were made.
-- **Feminism** emphasizes equility between men and women, ignoring the beauty and complementarity of the male and female.
-- **Gender ideology** claims that gender is a social construct, not a biological reality. Causes a disconnect between mind and body which furthers any mental or emotional problems.
 - **Postmodernism** claims that there is no objective truth, rendering authentic love ordered toward anything "good" impossible. There is nothing good, no justice, no mercy, no truth.
+- **Relativism** claims there is no objective truth, rendering authentic love ordered toward anything "good" impossible. "My Truth" is no truth.
+- **Liberalism** emphasizes man's desire to establish moral law without an objective truth and so easily distorts the truth of how human beings were made.
+
+- **Individualism** prioritizes personal autonomy over covenant relationships. We are all born by and into a family, we are raised and exist in 'community' (note the ideas of 'communion' and 'unity' embedded in the word). We are members of the Body of Christ, the household of God, the Kingdom - not just autonomous individuals. Nothing we do is in isolation.
+- **Sentimentalism** reduces love to feelings, often separated from truth, commitment or mercy. Convinces people to stay in broken relationships even when when justice and mercy has been violated.
+- **Marxism** emphasizes a human beings need for power in order to achieve a better society.  Completely devoid of truth of how human beings were made.
+- **Critical Theory** - claims that all human knowledge is a social construct and should be rejected in favor of 'critical' analysis. Causes a disconnect between mind and body which furthers any mental or emotional problems.
+- **Feminism** emphasizes equility between men and women, ignoring the beauty and complementarity of the male and female. Justice at the expense of truth.
+- **intersectionality** - divides people into groups based on their identity and then claims that these groups have different truths and needs for justice and mercy. It eventually breaks down all the groups down into an individual and never considers that we exist in community.
+- **Gender ideology** claims that gender is a social construct, not a biological reality. Causes a disconnect between mind and body which furthers any mental or emotional problems. Truth that we all come from a Creator and are made in his image are cast aside in order to elevate human needs for attention and desires of the flesh to the point of 'God'.
+- **Wokeism** emphasizes justice for the oppressed, but often divorced from truth or what is just for the entire community. Wokeism is directly influenced by 'critical theory', 'intersectionality', and Marxism. People 'awake' from religous oppression and desire complete freedom by giving into their human desires.
 
 All of these broken ideologies have led to the fragmentation of society and the breakdown of the family:
 
