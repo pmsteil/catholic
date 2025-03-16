@@ -1315,3 +1315,8 @@ This book has only scratched the surface of the rich treasury of Catholic faith.
 * Mary's example of perfect love and her call to holiness
 
 These topics, while beyond the scope of this book, invite us to continue our journey of faith, always growing deeper in our understanding of God's love and our response to it. The Catholic faith is an inexhaustible well of wisdom that continues to nourish us throughout our lives as we seek to love God and neighbor more perfectly.
+
+
+
+# Todos:
+* Add a statement regarding CCC 271 - that we are not trying to provide a comprehensive answer to the question "What is God?"
