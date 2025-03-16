@@ -42,7 +42,16 @@ This book addresses a gap in the religious publishing market by providing a fres
 
 **Chapter 5: Theological Consequences of Missing Books**
 - How deuterocanonical passages on free will, sanctification, and virtues impact understanding of salvation
-- Analysis of Ben Sira 15:20 as a counterpoint to Calvinist predestination
+- Key passages that directly address Protestant theological positions:
+  - Ben Sira 15:20 refuting Calvinist predestination: "He has not commanded anyone to be wicked, and he has not given anyone permission to sin"
+  - Wisdom 9:10-11 on sanctification as ongoing process with divine guidance
+  - 2 Maccabees 12:43-46 on prayers for the dead supporting purgatory
+  - Ben Sira 3:30 and 16:12-14 on works and faith
+  - Tobit 4:10 and 12:9 on almsgiving's role in salvation
+  - Wisdom 7:25-26 and Ben Sira 24 on Wisdom personified
+  - Baruch 3:4 and 2 Maccabees 15:11-16 on communion of saints
+  - 2 Maccabees 2:12-15 on apostolic tradition
+- Further research needed to uncover additional theological implications in these oft-neglected texts
 
 **Chapter 6: A True Doctrine of Sola Scriptura**
 - Establishing necessary criteria for truly honoring and preserving Scripture
@@ -64,6 +73,9 @@ This book addresses a gap in the religious publishing market by providing a fres
 - "By What Authority?" by Mark Shea (Our Sunday Visitor, 2013)
 - "Why Catholic Bibles Are Bigger" by Gary Michuta (Grotto Press, 2017)
 - "The Bible Is a Catholic Book" by Jimmy Akin (Catholic Answers Press, 2019)
+
+### AUTHOR BIOGRAPHY
+[Author bio would be inserted here, highlighting credentials, platform, and previous publishing experience if applicable]
 
 ### MARKETING OPPORTUNITIES
 - Catholic media outlets (EWTN, Relevant Radio, Catholic Answers)
