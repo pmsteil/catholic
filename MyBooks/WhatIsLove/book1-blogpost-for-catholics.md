@@ -32,7 +32,7 @@ Here is the definition:
 
 Wow - that is a mouthful - it is a deeply packed definition - every word was carefully chosen to try to capture the "heart", the core of what love is... said more simply:
 
-> Love is the unity of God's true justice, and mercy.
+> Love is the unity of God's true justice, and mercy which leads to life-giving communion with God and neighbor.
 
 In other words, the way we know we are doing love correctly, the way we "do love" is to look to God to learn about His perfect justice and His perfect mercy and then pray for the Wisdom to know how to unify these into every relationship we have - starting with God and then eminating out to our "neighbor".
 
@@ -114,19 +114,23 @@ This works in two ways: we should treat others with the proper dignity and respe
 
 ### Mercy
 
+I love John Paul II's encyclical "Dives in Misericordia" (Rich in Mercy):
+
+Mercy is "love's second name" and the "specific manner in which love is revealed and effected vis-à-vis the reality of the evil that is in the world." And also Mercy represents "a special power of love, which prevails over the sin and infidelity of the chosen people."
+
+CCC 270 tells us that God's Mercy is infinite. Think of this - the all-powerful Creator of the Universe has shown us that He will not condemn us for our sins, but He will forgive us and give us a second chance if we choose to repent from our disordered senses of justice and mercy and learn to love more like Him.
+
 Mercy is how God responds with compassion when we suffer or sin, and giving us the example that we too should forgive others for the sake of peace and communion in all our relationships. (CCC 1422, 2840)
 
-### Love
+And here is where the Catechism gets real: CCC 2840
 
-Love is choosing to put God first and to care for others as much as we care for ourselves because that's what God wants. (CCC 1822) Love is when justice and mercy work together - it ensures we treat people fairly while also showing compassion when they fall short.
+> Now - and this is daunting - this outpouring of mercy cannot penetrate our hearts as long as we have not forgiven those who have trespassed against us. Love, like the Body of Christ, is indivisible; we cannot love the God we cannot see if we do not love the brother or sister we do see. In refusing to forgive our brothers and sisters, our hearts are closed and their hardness makes them impervious to the Father's merciful love; but in confessing our sins, our hearts are opened to his grace.
 
-The Catechism teaches that love fulfills and elevates justice: "The practice of all the virtues is animated and inspired by charity, which 'binds everything together in perfect harmony'" (CCC 1827). It further states that genuine love requires justice as its minimum expression.
-
-The Bible and the Catechism portray these fundamental moral goods—truth, justice, love, and mercy—as a unified whole rather than isolated concepts, with love being the foundation from which the others flow and find their fullest meaning.
+Again, our moral intution shows us that when we wrong others, we desire mercy - we desire forgiveness - why?  In order to be "reconciled" to them.  And when others wrong us, it is a high act of sacrifice to forgive - and why - we may also want reconciliation and at minimum, we don't want their wrong to have a hold onto us and turn into bitterness and resentment which will turn into more evil.
 
 ## Love: The Heart of "The Gospel"
 
-At the center of our faith lies a profound understanding of love that goes far beyond what our culture typically recognizes. While the world often reduces love to sentiment or emotional attachment, our tradition offers something much deeper. Here is a deeply packed definition of love:
+Now with those definitions in mind, let us look at "love".  At the center of our faith lies a profound understanding of love that goes far beyond what our culture typically recognizes. While the world often reduces love to emotional attachment or temporary union, our tradition offers something much deeper. Here is a deeply packed definition of love:
 
 > Perfect love is the sacred, sacrificial gift of covenant which binds true justice and mercy into life-giving communion.
 
@@ -134,7 +138,7 @@ This definition, rooted in Scripture and Church teaching, reveals why the Cathol
 
 - **Sacred**: Love flows from God Himself — "God is love" (1 John 4:8).
 - **Sacrificial**: Following Christ's example, authentic love requires sacrifice — "No one has greater love than this, to lay down one's life for one's friends" (John 15:13).
-- **binds**: We must be bound by truth, justice, and mercy in God's wisdom, not our own.
+- **binds**: We must be bound by (submit our will to) truth, justice, and mercy in God's wisdom, not our own.
 - **Covenant**: Love establishes familial relationships with mutual obligations, not just feelings.
 - **true**: Love depends on reality as God sees it — "The truth will set you free" (John 8:32).
 - **Justice**: Love gives God and each person their "due" according to their God-given dignity.
@@ -146,7 +150,7 @@ This integrated understanding of love provides us with a powerful framework for 
 
 ## The Trinity: Perfect Love in Communion
 
-Taking everything I described above togther, and we begin to approach our understanding of the Most Holy Trinity—Father, Son, and Holy Spirit in perfect communion. The Trinity reveals that love is not merely what God is, but that it is what he does. This eternal exchange of love within the Godhead shows us that authentic love is always relational, self-giving, and life-generating.
+Taking everything I described above together, and we begin to approach our understanding of the Most Holy Trinity—Father, Son, and Holy Spirit in perfect communion. The Trinity reveals that love is not merely what God is, but that it is what he **does**. This eternal exchange of love within the Godhead shows us that authentic love is always active, relational, self-giving, and life-generating.
 
 Holy Communion is our participation in this Trinitarian communion!
 
@@ -154,11 +158,40 @@ Holy Communion is our participation in this Trinitarian communion!
 
 > "Whoever eats my flesh and drinks my blood has eternal life, and I will raise him on the last day. For my flesh is true food, and my blood is true drink. Whoever eats my flesh and drinks my blood remains in me and I in him." (John 6:54-56, NABRE)
 
-The Eucharist is the supreme example of love as the sacred, sacrificial gift that established His New Covenant with us, upholds truth and justice, extends mercy, and creates communion. This is why the Eucharist is the source and summit of our Faith. It is our best God's supreme example of where truth, justice, mercy, and love are all in perfect communion. And we have been given the gift of experience this perfect love in the Eucharist every day that we can get to Mass!
+The Eucharist is the supreme example of love as the **sacred**, **sacrificial** **gift** that established His **New Covenant** with us, upholds **truth** and **justice**, extends **mercy**, and creates **communion**.
+
+This is why the Eucharist is the source and summit of our Faith. It is our God's supreme example of where truth, justice, mercy, and love are all in perfect communion. And we have been given the gift of experience this perfect love in the Eucharist every day that we can get to Mass!
+
+## How do we know how to love?
+
+So, to reiterate. Love is that state where justice and mercy are truly balanced according to God's Wisdom. This is one huge reason why Jesus started a Church - so that this collective wisdom can be handed down from one generation to the next.  The Catechism of the Catholic Church is an overlooked and beautiful collection of this colletive wisdom.
+
+If you want to know how to love correctly - know the Catechism!
+
+But even if you don't looking at every moral dilemma through the eyes of "How do we apply God's justice and mercy in this situation" will get you quite far.
+
+## The Foundational Principles
+
+As we have noticed, one way to know that God exists is to see the moral truths of love, justice, mercy, and truth in our hearts. That the moral law is written in our hearts is a beautiful example of the truth that we are made in the image of God. And so God is the Creator of all Truth, Justice and Mercy - of love.
+
+And so, God's revelation has taught us these foundation principles:
+
+1. Every human being is made in the image of God and has inherent worth.
+2. Covenant - all morality must be ordered toward what is truly good for the individual, family and community (in that order).
+3. Human beings are ordered toward love - to turn away from injustice and hardness of heart - and submit our will to God's Wisdom of how to love.
+4. To love God or our neighbor deeply, we must live in a way that upholds and honors God's ideas of truth, justice, mercy.
+
+These principles (and their implications) summon us to willingly surrender our moral understanding and shape how we live our lives. They call us to **freely bind** ourselves to God's design for how we educate and raise our children, treat our neighbors, care for the poor and oppressed, and establish laws and policies.
+
+As Catholics we cannot separate "church" and "state" when it comes to establishing laws and policies as most of the time, each of these laws and policies have moral implications and require us to consider the moral principles I outlined above. We don't need the government to be Catholic, but we can and should bring our Catholic Faith into government and demonstrate that when we voluntarily bind ourselves to these truths, we are able to achieve the Declaration of Independence's recognition that all people are "endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty and the pursuit of Happiness." These God-given rights can only be properly understood and protected when we acknowledge their divine origin and purpose. When we freely bind ourselves to God's moral law, we discover true freedom - not the license to do whatever we want, but the freedom to do what we ought, to pursue virtue, and to build a society that respects the dignity of every human person from conception to natural death.
 
 ## Responding to Modern Challenges
 
-As Catholics faithful to the Church's teaching, we often encounter modern ideologies that fragment the unity of love, truth, justice, and mercy:
+And so, in light of our new definition of love:
+
+> Perfect love is the sacred, sacrificial gift of covenant which binds true justice and mercy into life-giving communion.
+
+Let us review modern ideologies to see where and why they miss the mark:
 
 - **Postmodernism** claims that there is no objective truth, rendering authentic love ordered toward anything "good" impossible. There is nothing good, no justice, no mercy, no truth.
 - **Relativism** claims there is no objective truth, rendering authentic love ordered toward anything "good" impossible. "My Truth" is no truth.
@@ -170,14 +203,14 @@ As Catholics faithful to the Church's teaching, we often encounter modern ideolo
 - **Feminism** emphasizes equility between men and women, ignoring the beauty and complementarity of the male and female. Justice at the expense of truth.
 - **intersectionality** - divides people into groups based on their identity and then claims that these groups have different truths and needs for justice and mercy. It eventually breaks down all the groups down into an individual and never considers that we exist in community.
 - **Gender ideology** claims that gender is a social construct, not a biological reality. Causes a disconnect between mind and body which furthers any mental or emotional problems. Truth that we all come from a Creator and are made in his image are cast aside in order to elevate human needs for attention and desires of the flesh to the point of 'God'.
-- **Wokeism** emphasizes justice for the oppressed, but often divorced from truth or what is just for the entire community. Wokeism is directly influenced by 'critical theory', 'intersectionality', and Marxism. People 'awake' from religous oppression and desire complete freedom by giving into their human desires.
+- **Wokeism** emphasizes justice for the oppressed, but often divorced from truth or what is just for the entire community. Wokeism is directly influenced by 'critical theory', 'intersectionality', and Marxism all of which are rooted in the same idea that as human beings we can define our own truth and morals.
 
-All of these broken ideologies have led to the fragmentation of society and the breakdown of the family:
+All of these broken ideologies have led to the fragmentation of society (opposite of unity and communion) and the breakdown of the family:
 
-- **Divorce**: literally breaks up the unity of the family and devastates the Children who then learn from this broken example of love and live that out.
+- **Divorce**: literally breaks up the unity of the family and devastates the children who then learn from this broken example of love and live that out.
 - **Abortion**: literally murders innocent babies for the sake of convenience and selfishness.
-- **Gay marriage**: distorts the model of what marriage is - a union between a man and a woman ordered toward the procreation of children.
-- **Transgenderism**: teaches children that they were not made in God's image - they can define their own self. Pulls the rug out from under the family and the children's understanding of what love is.
+- **Gay marriage**: distorts the model of what marriage is - a union between a man and a woman ordered toward the procreation and proper education of children. And dismisses the truth that men and women are complementary.
+- **Transgenderism**: teaches children that they were not made in God's image - they can define their own truth all the way down to redefining their own gender. But a Truth that can never actually be realized is not Truth.  This ideology pulls the rug out from under the family and distorts truth, justice and mercy.
 
 When evangelizing or discussing contemporary issues, we can explain that the Catholic vision offers a more complete alternative:
 
@@ -194,9 +227,10 @@ For us as practicing Catholics, this understanding of love transforms how we app
 
 The integrated vision of love deepens our prayer beyond routine:
 
-- In **Eucharistic Adoration**, we encounter Jesus Himself, the perfect unity of truth, love, justice, and mercy
-- In the **Sacrament of Reconciliation**, we experience the perfect unity of justice and mercy
-- In praying the **Rosary**, we contemplate how Mary's fiat ("Let it be done unto me according to your word") exemplifies sacrificial covenant love
+- In the **Holy Eucharist**, we re-encounter our covenantal, sacrificial gift of communion with Jesus Himself, the perfect unity of truth, love, justice, and mercy.
+- In the **Sacrament of Reconciliation**, we experience God's justice and His mercy.
+- In praying the **Rosary**, we contemplate how Mary's fiat ("Let it be done unto me according to your word") exemplifies sacrificial covenant love.
+- In all the sacraments, sacramentals, devotionals and prayers - we grow in wisdom, learning and living love of Jesus and our neighbor.
 
 ### In Our Families
 
@@ -214,9 +248,10 @@ As the "domestic church," our families become schools of integrated love:
 When sharing our faith with others, this understanding of love provides a compelling message:
 
 - When sharing with non-practicing Catholics, we can help teach them the beauty of the Catholic understanding of love.
-- When sharing with non-Catholic Christians, we can help them understand that truth, justice and mercy are not just Christian values, but they are the foundation of all human dignity and flourishing. And that we can easily then show why "faith working through love" is what makes us Christian.
-- When sharing with non-Christians, we can approach the discussion of God and religion from purely foundational principles of truth, justice and mercy which they probably already "believe in".
+- When sharing with non-Catholic Christians, we can help them understand that truth, justice and mercy are not just Christian values, but they are the foundation of all human dignity and flourishing. And that we can easily then show why "faith working through love" is what makes us Christian. That "faith" and "works" are not separate, but are in fact one thing: love.
+- When sharing with non-Christians, we can approach the discussion of God and religion from purely foundational principles of truth, justice and mercy which they almost certainly already "believe in".
 - Bottom line - lead with love - but know what love is...
+- And in all things charity - why? Because we respect and honor every human being as a person created in the image of God.
 
 ### In Political Issues
 
