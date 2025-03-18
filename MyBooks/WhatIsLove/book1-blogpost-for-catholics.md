@@ -1,4 +1,4 @@
-# **Made for Love: A Catholic Blueprint for Unity in a Divided World**
+# **Made for Love: A Catholics' Blueprint for Unity in a Divided World**
 
 ## Introduction
 
