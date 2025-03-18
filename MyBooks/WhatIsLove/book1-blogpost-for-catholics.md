@@ -1,4 +1,4 @@
-# The Sacred Unity of Love: A Catholic Understanding for Today's World
+# **Made for Love: A Catholic Blueprint for Unity in a Divided World**
 
 ## Introduction
 
