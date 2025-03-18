@@ -6,27 +6,51 @@ When I was 19, on a church retreat at the "Emmaus" retreat center in Panama, God
 
 > "God is love, and whoever remains in love remains in God and God in him." (1 John 4:16).
 
-"God is Love".  Wow - amazing... That one statement changed my entire life.  But it also raised an important question:  "What does that mean????" And so I just resigned myself to keep learning more and more about what that meant.
+"God is Love".  Wow - amazing... That one statement changed my entire life.  But it also raised an important question:  "What does that mean that 'God is Love'?" I intuitively felt this truth deep within me, but I also knew that I didn't have a full understandding.
 
-Now, 37 years later, through so much learning, studying, thinking, teaching and talking - God, through His Church has helped me bring it all together into a clear, concise, and simple understanding of what love is.
+Now, 37 years later, through so much learning, studying, thinking, teaching and talking - God, through His Church, has helped me bring it all together into a clear, concise, and simple understanding of what love is.
 
 Also, I have studied deeply the "sola fide" ("by faith alone") controversy that still divides so many in the Christian world. This has forced me to see the relationship between faith, love, truth and salvation that seems to make it all make sense.
 
 And why is this important?  Or "How important is it that we understand this"?
 
-It seems to me the most consequential question of this age - "What is love?".
+It seems to me THIS IS THE MOST CONSEQUENTIAL question of this age - "What is love?".
 
-It seems obvious to me that the biggest problem in the world today is that as a society, we no longer know what love is.
+It seems obvious to me that the biggest problem in the world today is that as a society, we no longer know what love is. I daresay most Christians probably cannot explain what love is...
 
-When I was a "youth pastor" I asked my kids one night - "Is it possible to know objectively - for certain - what is evil and what is good?" - out of the 15 present that night, 13 said "No" - 1 wasn't sure and 1 said "Yes" - we can know from the Bible. These were GOOD Church kids!  But they swim in the waters in our society that are telling them THERE IS NO OBJECTIVE TRUTH!  Post modernism is the water these kids swim in. As Christians, we need to raise up an offense against this heresy against humanity.  And is it that serious?  Well, without any objective truth, there is no such thing as an objective morality.  Without that, society will (and is) fall apart. And without an objective truth - Love is a fiction - it is whatever you want it to be.  It has no rules, no boundaries, anything goes.
+When I was a "youth pastor" I asked my kids one night - "Is it possible to know objectively - for certain - what is evil and what is good?" - out of the 15 present that night, 13 said "No" - 1 wasn't sure and 1 said "Yes" - we can know from the Bible. These were GOOD Church kids!  But they are swimming in the post-modern, post-Christian, liberalwaters in our society that are telling them THERE IS NO OBJECTIVE TRUTH! And they believe it!  This led me to teach a lesson series on "What is Truth"... and it changed my whole life.
 
-And so my point is that our Faith - if it is true - better have a substantial and compelling answer to this claim that "there is no objective truth".  But it seems to me, the answer is not "the Bible" - as those who do not trust God's Word in the Bible, will not see it as "objective truth", so we must appeal to a truth that they already understand and trust - their own heart.
+I realized that if these kids (like us) believe there is no objective truth, there is no such thing as God, love, truth, faith, morality, justice, mercy, or anything else.  And all of society is doomed to fall apart.
 
-So again, our answer could be - God is love... but again, what DOES THAT MEAN?
+But wait - in order to make THAT truth claim that "there is no objective truth" - which is itself a "truth claim" - it is "true" that there are no "objective truths".  So not only is it self-refuting and illogical, but more imporantly, it points out another truth about human reasonsing - even one making this claim, takes for granted that they can use their intellect and reason to come to a conclusion.  Isn't that a basic truth of humanity? That we have a capacity to reason and identify claims of truth or falsehood? To recognize reality as we see it?
 
-Let me just lay out the words God has given me to describe love. As far as I can tell, there is nothing new here. When you read it, you will say - of course - that is what the Bible teaches! When you read scripture after hearing this definition, you will say - of course - this makes more sense!
+Hmm, are there are any other truths of humanity that we can know?  Of course - there are many, but for this article let us focus on this example.
 
-Here is the definition:
+What if was arrested for the murder a revered family member. We know deep within us that the murder is wrong - that it is evil - because ALL HUMAN BEINGS understand these basic MORAL truths:
+
+1. Human dignity - that the family member is a person with dignity and worth and no one, except their Creator has the right to take their life.
+2. Love - that the family member is loved and will be deeply mourned by their family regardless of their shortcomings.
+3. Justice - that the family member did not deserve to die needlessly, and that punishment is due to the person who took their life.
+
+I would submit to you that these are not intellectual claims, nor ideas that some might say need "propping" up by religion in order to be true - rather these are TRUTHS that are deeply rooted in the human heart. These are "spiritual" truths.
+
+And by the way, there is one more truth that we can know from these, that if we believe that these three are true, then the one who is accused of the murder also is a human being, who, if guilty, has sinned and must pay for the consequences of his sin, but also that the accused deserves certain mercies.
+
+In the United States anyway, that he deserves to be arrested and not shot dead based on an accusation, that he is presumed innocent until proven guilty, that he deserves a fair and speedy trial, and that he deserves a trial by jury.  All of these are acts of mercy on the accused to make sure that JUSTICE is served and that even the accused is treated with dignity - and also that the correct person is punished - because if the incorrect person was punished, then justice would not have been served.
+
+And so, the point is, we CAN know Truth.  And one form of truth are "moral truths" and these are not just "religious" ideas - but truths that are deeply rooted in the human heart.
+
+Christians recognize and believe that all Truth and all moral truth come from the Creator of all things - God - and so it would make sense that our Faith would teach us about these Truths.
+
+And SO IT DOES!  The Catholic Faith goes deep into the heart of these truths - and the Church has been teaching them for centuries!
+
+And it seems clear to me that the answer is deeply embedded in this truth - that God is love.
+
+Again, this is what God has been leading me through for over 37 years - and I think I am finally able to put it into words that make sense.
+
+As far as I can tell, there is nothing new here. When you read it, you will say - of course - that is what the Bible teaches and what the Church teaches! When you read scripture after hearing this definition, you will say - of course - this makes more sense!
+
+Here is what God has led me to... a definition that I believe is the "heart" of the Catholic understanding of love:
 
 > Love is the sacred, sacrificial gift of covenant which binds true justice and mercy into life-giving communion.
 
@@ -139,8 +163,8 @@ This definition, rooted in Scripture and Church teaching, reveals why the Cathol
 - **Sacred**: Love flows from God Himself — "God is love" (1 John 4:8).
 - **Sacrificial**: Following Christ's example, authentic love requires sacrifice — "No one has greater love than this, to lay down one's life for one's friends" (John 15:13).
 - **binds**: We must be bound by (submit our will to) truth, justice, and mercy in God's wisdom, not our own.
-- **Covenant**: Love establishes familial relationships with mutual obligations, not just feelings.
-- **true**: Love depends on reality as God sees it — "The truth will set you free" (John 8:32).
+- **Covenant**: Love establishes familial relationships with mutual obligations and care for the common good, not just feelings.
+- **true**: Love depends on reality as defined by the Creator — "The truth will set you free" (John 8:32).
 - **Justice**: Love gives God and each person their "due" according to their God-given dignity.
 - **Mercy**: Love responds to brokenness with healing — "Blessed are the merciful" (Matthew 5:7)
 - **Life-giving**: Love properly lived out transforms us to be more like Christ.
@@ -150,7 +174,7 @@ This integrated understanding of love provides us with a powerful framework for 
 
 ## The Trinity: Perfect Love in Communion
 
-Taking everything I described above together, and we begin to approach our understanding of the Most Holy Trinity—Father, Son, and Holy Spirit in perfect communion. The Trinity reveals that love is not merely what God is, but that it is what he **does**. This eternal exchange of love within the Godhead shows us that authentic love is always active, relational, self-giving, and life-generating.
+Taking everything I described above together, and we begin to approach our limited understanding of the Most Holy Trinity—Father, Son, and Holy Spirit in perfect communion. The Trinity reveals that love is not merely what God is, but that it is what he **does**. This eternal exchange of love within the Godhead shows us that authentic love is always active, relational, self-giving, and life-generating.
 
 Holy Communion is our participation in this Trinitarian communion!
 
@@ -183,7 +207,11 @@ And so, God's revelation has taught us these foundation principles:
 
 These principles (and their implications) summon us to willingly surrender our moral understanding and shape how we live our lives. They call us to **freely bind** ourselves to God's design for how we educate and raise our children, treat our neighbors, care for the poor and oppressed, and establish laws and policies.
 
-As Catholics we cannot separate "church" and "state" when it comes to establishing laws and policies as most of the time, each of these laws and policies have moral implications and require us to consider the moral principles I outlined above. We don't need the government to be Catholic, but we can and should bring our Catholic Faith into government and demonstrate that when we voluntarily bind ourselves to these truths, we are able to achieve the Declaration of Independence's recognition that all people are "endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty and the pursuit of Happiness." These God-given rights can only be properly understood and protected when we acknowledge their divine origin and purpose. When we freely bind ourselves to God's moral law, we discover true freedom - not the license to do whatever we want, but the freedom to do what we ought, to pursue virtue, and to build a society that respects the dignity of every human person from conception to natural death.
+As Catholics we must not separate "church" and "state" when it comes to establishing laws and policies since most laws and policies have moral implications and require us to consider the moral principles I outlined above.
+
+We don't need the government to be Catholic, but we can and should bring our Catholic Faith into government and demonstrate that when we voluntarily bind ourselves to these truths, we are able to achieve the Declaration of Independence's recognition that all people are "endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty and the pursuit of Happiness."
+
+These God-given rights can only be properly understood and protected when we acknowledge their divine origin and purpose. When we freely bind ourselves to God's moral law, we discover true freedom - not the license to do whatever we want, but the freedom to do what we ought, to pursue virtue, and to build a society that respects the dignity of every human person from conception to natural death.
 
 ## Responding to Modern Challenges
 
@@ -191,7 +219,7 @@ And so, in light of our new definition of love:
 
 > Perfect love is the sacred, sacrificial gift of covenant which binds true justice and mercy into life-giving communion.
 
-Let us review modern ideologies to see where and why they miss the mark:
+I would say that modern secular ideologies are actually attempting to achieve the same end - a society that is ordered toward the common good - but they are often missing some key ingredient of love. Let us do a quick review of modern ideologies to see where and why they miss the mark:
 
 - **Postmodernism** claims that there is no objective truth, rendering authentic love ordered toward anything "good" impossible. There is nothing good, no justice, no mercy, no truth.
 - **Relativism** claims there is no objective truth, rendering authentic love ordered toward anything "good" impossible. "My Truth" is no truth.
@@ -292,16 +320,17 @@ As Catholics - Jesus' beautiful Church, led by the Holy Spirit, has given us so 
    - in every action
    - in every decision
    - in every relationship
-7. **Live the faith**: Live the faith in your daily life.  This is the most important step of all.  It is the most important step because it is the most important step.  It is the most important step because it is the most important step.
-8. **Pray the rosary**: Pray the rosary daily.  This is another form of prayer and immersing yourself in God's Word.
+   - in every vocation
+7. **Live the faith**: Live the faith in your daily life.  Look for places where you are not applying justice and mercy the way God would want you to.
+8. **Pray the rosary**: Pray the rosary daily.  This is another form of prayer and immersing yourself in contemplating the sacrificial, covenantal, and communal love of Jesus.
 9. **Learn Catholic Apologetics** - Learn to reason properly about the teachings of the Faith. This will help you to see both sides and understand the Catholic understanding of love much more clearly.
 10. **Raise a good Catholic Family** - Raise a family that is a reflection of the Catholic understanding of love.
-11. **Sends your Kids to faithful Catholic schools and universities**: A great resource for this is the Cardinal Newman Society - https://www.cardinalnewmansociety.org.
+11. **Send your kids to faithful Catholic schools and universities**: A great resource for this is the Cardinal Newman Society - https://www.cardinalnewmansociety.org.
 
 ## Conclusion
 
 As faithful Catholics in today's world, we possess a treasure in our Church's understanding of love as the sacred, sacrificial gift of covenant which binds true justice and mercy into life-giving communion. This integrated vision not only deepens our own faith but provides a compelling alternative to the fragmented understandings of love prevalent in our culture.
 
-When we live and share this vision, we follow Christ's command to be "salt of the earth and light of the world" (Matthew 5:13-14). We offer not just critique but a positive vision—one that responds to the deepest longings of the human heart and provides a path toward authentic communion with God and neighbor.
+When we live and share this vision, we follow Christ's command to "Love the Lord your God with all your heart, with all your soul, with all your strength, and with all your mind" (Matthew 22:37) and to be "salt of the earth and light of the world" (Matthew 5:13-14). Catholicism offers a positive vision—one that responds to the deepest longings of the human heart and provides a path toward authentic communion with God and neighbor.
 
 In a world desperately seeking love but often looking in the wrong places, we as Catholics are called to be witnesses to love's true nature—not just in what we say, but in how we live. May our lives increasingly reflect this integrated love, drawing others to the One who is Love itself.
