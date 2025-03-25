@@ -160,17 +160,20 @@ Now with those definitions in mind, let us look at "love".  At the center of our
 
 This definition, rooted in Scripture and Church teaching, reveals why the Catholic vision of love is so transformative. Each word is deeply packed with meaning:
 
-- **Sacred**: Love flows from God Himself — "God is love" (1 John 4:8).
+- **Sacred**: Love flows from God Himself — "God is love" (1 John 4:8). It is the highest need we have and the highest gift we can give.
 - **Sacrificial**: Following Christ's example, authentic love requires sacrifice — "No one has greater love than this, to lay down one's life for one's friends" (John 15:13).
 - **binds**: We must be bound by (submit our will to) truth, justice, and mercy in God's wisdom, not our own.
-- **Covenant**: Love establishes familial relationships with mutual obligations and care for the common good, not just feelings.
-- **true**: Love depends on reality as defined by the Creator — "The truth will set you free" (John 8:32).
-- **Justice**: Love gives God and each person their "due" according to their God-given dignity.
-- **Mercy**: Love responds to brokenness with healing — "Blessed are the merciful" (Matthew 5:7)
-- **Life-giving**: Love properly lived out transforms us to be more like Christ.
-- **Communion**: Love creates unity with God and others — "That they may all be one" (John 17:21).
+- **Covenant**: Love establishes permanent familial relationships with mutual obligations, respect, honor and care for the common good.
+- **true**: Love depends on reality as defined by the Creator, if it doesn't line up with who we are as human beings, then it isn't leading us to love.
+- **Justice**: Love gives God and each person their "due" according to their God-given dignity, rights and responsibilities.
+- **Mercy**: Love responds to brokenness with healing. Mercy heals through the gift of unmerited forgiveness to those who have wronged us.
+- **Life-giving**: Love properly lived out transforms us to be more like Christ - selfless, patient, kind, obedient, merciful, just, sacrificial, etc.  This transforms us and the world around us. Mother Theresa said: "If you want to change the world, go home and love your family."
+- **Communion**: Love creates unity with God and others — "That they may all be one" (John 17:21). We all crave to be held in a community of love, and we all long to be loved. But love requires work.  See CCC 270 which says: "The love of God and of our neighbor is the foundation of all human conduct."
 
 This integrated understanding of love provides us with a powerful framework for both deepening our own faith and evangelizing in today's world.
+
+Note that without on objective reality that is ordered by a loving Creator, love has no meaning, boundaries or purpose other than self-gratification and preservation of the species - we are relegated then to nothing more than animals and anything goes.
+We know deeply that love has rules because even the 100% non-religous feels the pain of betrayal, unfaithfulness, and the need for loyalty in love.
 
 ## The Trinity: Perfect Love in Communion
 
