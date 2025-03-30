@@ -2,6 +2,8 @@
 
 ## Introduction
 
+### God is Love
+
 When I was 19, on a church retreat at the "Emmaus" retreat center in Panama, God taught me His first lesson that I have never stopped thinking about:
 
 > "God is love, and whoever remains in love remains in God and God in him." (1 John 4:16).
@@ -18,25 +20,47 @@ It seems to me THIS IS THE MOST CONSEQUENTIAL question of this age - "What is lo
 
 It seems obvious to me that the biggest problem in the world today is that as a society, we no longer know what love is. I daresay most Christians probably cannot explain what love is...
 
-When I was a "youth pastor" I asked my kids one night - "Is it possible to know objectively - for certain - what is evil and what is good?" - out of the 15 present that night, 13 said "No" - 1 wasn't sure and 1 said "Yes" - we can know from the Bible. These were GOOD Church kids!  But they are swimming in the post-modern, post-Christian, liberalwaters in our society that are telling them THERE IS NO OBJECTIVE TRUTH! And they believe it!  This led me to teach a lesson series on "What is Truth"... and it changed my whole life.
+### Can we know objective truth?
 
-I realized that if these kids (like us) believe there is no objective truth, there is no such thing as God, love, truth, faith, morality, justice, mercy, or anything else.  And all of society is doomed to fall apart.
+When I was a "youth pastor" I asked my kids one night - "Is it possible to know objectively - for certain - what is evil and what is good?" - out of the 15 present that night, 13 said "No" - 1 wasn't sure and 1 said "Yes" - we can know from the Bible. These were GOOD Church kids!  But they are swimming in the post-modern, post-Christian, liberal waters in our society that are telling them THERE IS NO OBJECTIVE TRUTH! And they believe it!  This led me to teach a lesson series on "What is Truth"... and it changed my whole life.
 
-But wait - in order to make THAT truth claim that "there is no objective truth" - which is itself a "truth claim" - it is "true" that there are no "objective truths".  So not only is it self-refuting and illogical, but more imporantly, it points out another truth about human reasonsing - even one making this claim, takes for granted that they can use their intellect and reason to come to a conclusion.  Isn't that a basic truth of humanity? That we have a capacity to reason and identify claims of truth or falsehood? To recognize reality as we see it?
+I realized that if these kids (the next generation!) believe there is no objective truth, then for them, there will be no such thing as God, love, truth, faith, morality, justice, mercy, or anything else.  And all of society is doomed to fall apart.
+
+THIS IS A MAJOR PROBLEM! And it seems to me, that this is what is plaguing the world today - a lack of objective truth. As Christians, what is our answer to this?  Simply that Jesus died on the cross for our sins?  In a post-truth world, this is too big of a leap of faith.
+
+But wait, don't we believe in a God that Created the entire Universe?  Isn't that God the author of all truth?
+
+> "Indeed my mouth utters truth, and my lips abhor wickedness" (Proverbs 8:7).
+
+### Foundational Truths of Humanity
+
+And so, it seems to me that we need to go back to basics, back to showing that if God is the author of all truth, he will be found everywhere.  He will be found in the moral truths that we know deep within us.  So let us explore this.
+
+First, let's examine the claim that "there is no objective truth" - in order to make THAT truth claim that "there is no objective truth" - one first must be able to make a claim of truth.  So not only is it self-refuting and illogical, but more imporantly, it points out another truth about human reasonsing - even one making this claim, takes for granted that they can use their intellect and reason to come to a conclusion.  Isn't that a basic truth of humanity? That we have a capacity to reason and identify claims of truth or falsehood? To recognize reality as we see it?
 
 Hmm, are there are any other truths of humanity that we can know?  Of course - there are many, but for this article let us focus on this example.
 
-What if was arrested for the murder a revered family member. We know deep within us that the murder is wrong - that it is evil - because ALL HUMAN BEINGS understand these basic MORAL truths:
+What if a stranger was arrested for the murder of a baby. No one has to teach us that murder is inherently evil, we feel this deeply - why?  Because ALL HUMAN BEINGS understand these basic MORAL truths:
 
-1. Human dignity - that the family member is a person with dignity and worth and no one, except their Creator has the right to take their life.
-2. Love - that the family member is loved and will be deeply mourned by their family regardless of their shortcomings.
-3. Justice - that the family member did not deserve to die needlessly, and that punishment is due to the person who took their life.
+1. Human dignity - that the baby is a person with dignity and inherent value and no one, except their Creator has the right to take their life.
+2. Love - that the baby is loved and will be deeply mourned by their family.
+3. Justice - that the baby did not deserve to die needlessly, and that punishment is due to the person who took their life.
 
-I would submit to you that these are not intellectual claims, nor ideas that some might say need "propping" up by religion in order to be true - rather these are TRUTHS that are deeply rooted in the human heart. These are "spiritual" truths.
+I would submit to you that these are not intellectual claims, nor ideas that some might say need "propping" up by religion in order to be true - rather these are TRUTHS that are deeply rooted in the human heart. These are "spiritual" truths (they don't exist anywere in a physical, object form) but we know them to be 'objectively' true.
+
+### Truth, Justice and Mercy in the United States Constitution
 
 And by the way, there is one more truth that we can know from these, that if we believe that these three are true, then the one who is accused of the murder also is a human being, who, if guilty, has sinned and must pay for the consequences of his sin, but also that the accused deserves certain mercies.
 
-In the United States anyway, that he deserves to be arrested and not shot dead based on an accusation, that he is presumed innocent until proven guilty, that he deserves a fair and speedy trial, and that he deserves a trial by jury.  All of these are acts of mercy on the accused to make sure that JUSTICE is served and that even the accused is treated with dignity - and also that the correct person is punished - because if the incorrect person was punished, then justice would not have been served.
+In the United States anyway, that it may not serve JUSTICE to simply enact revenge on this person.  That if someone points their finger and accuses one of the heinous crime, we do not allow "vigilante justice" for fear that the accused may be innocent which means that justice will NOT have been served.
+
+No, instead we submit ourselves to the US Constitution and Bill of Rights which recognizes a fundamental truth (which by the way only holds true in a Christian worldview) about Human beings:
+
+> "We hold these truths to be self-evident, that all men are created equal, that they are endowed, by their Creator, with certain unalienable rights, that among these are life, liberty, and the pursuit of happiness.
+
+And so, the accused deserves to be arrested, charged, presumed innocent until proven guilty, that he deserves a fair and speedy trial, and that he deserves a trial by jury of his peers.  All of these are acts of mercy on the accused to ensure that JUSTICE is properly served and that even the accused is treated with dignity and rights that are inherent to human beings.
+
+### The Heart of Moral Truths
 
 And so, the point is, we CAN know Truth.  And one form of truth are "moral truths" and these are not just "religious" ideas - but truths that are deeply rooted in the human heart.
 
