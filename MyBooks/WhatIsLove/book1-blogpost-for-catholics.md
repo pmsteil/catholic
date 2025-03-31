@@ -34,7 +34,11 @@ But wait, don't we believe in a God that Created the entire Universe?  Isn't tha
 
 ### Foundational Truths of Humanity
 
-And so, it seems to me that we need to go back to basics, back to showing that if God is the author of all truth, he will be found everywhere.  He will be found in the moral truths that we know deep within us.  So let us explore this.
+And so, it seems to me that we need to go back to basics, back to showing that if God is the author of all truth, he will be found everywhere.  He will be found in the moral truths that we know deep within us.
+
+We need to teach that there IS objective truth and that it can be known and that it can ONLY be known with God as its author. Otherwise, any seeking of love, justice or mercy is futile, empty and devoid of logic.
+
+So let us explore this.
 
 First, let's examine the claim that "there is no objective truth" - in order to make THAT truth claim that "there is no objective truth" - one first must be able to make a claim of truth.  So not only is it self-refuting and illogical, but more imporantly, it points out another truth about human reasonsing - even one making this claim, takes for granted that they can use their intellect and reason to come to a conclusion.  Isn't that a basic truth of humanity? That we have a capacity to reason and identify claims of truth or falsehood? To recognize reality as we see it?
 
@@ -62,55 +66,55 @@ And so, the accused deserves to be arrested, charged, presumed innocent until pr
 
 ### The Heart of Moral Truths
 
-And so, the point is, we CAN know Truth.  And one form of truth are "moral truths" and these are not just "religious" ideas - but truths that are deeply rooted in the human heart.
+And so, the point is, we CAN know Truth.  Truth explains the reality that we find ourselves in.  Truth is that which reflects who we are and how we were created.  The moral truths we have looked at are truths - "moral truths" - that are deeply rooted in the human heart.
 
-Christians recognize and believe that all Truth and all moral truth come from the Creator of all things - God - and so it would make sense that our Faith would teach us about these Truths.
+Christians recognize and believe that all Truths come from the Creator of all things - God - and so it would make sense that our Faith would teach us about these Truths.
 
 And SO IT DOES!  The Catholic Faith goes deep into the heart of these truths - and the Church has been teaching them for centuries!
 
-And it seems clear to me that the answer is deeply embedded in this truth - that God is love.
+And from studying the Bible and the Catholic tradition, it seems clear to me now that these moral truths and the most critical truths that the Christian religion teaches are intertwined and interrelated to the "heart" of all Truths - that God is Love.
 
-Again, this is what God has been leading me through for over 37 years - and I think I am finally able to put it into words that make sense.
+It seems that the Catholic Church has also been working hard to help define what is meant by "God is Love" through the centuries.
 
-As far as I can tell, there is nothing new here. When you read it, you will say - of course - that is what the Bible teaches and what the Church teaches! When you read scripture after hearing this definition, you will say - of course - this makes more sense!
+Here is what God has led me to... a definition that I believe is what the Church has been teaching all along:
 
-Here is what God has led me to... a definition that I believe is the "heart" of the Catholic understanding of love:
-
-> Love is the sacred, sacrificial gift of covenant which binds true justice and mercy into life-giving communion.
+> Perfect Love is the sacred, sacrificial gift of covenant which binds true justice and mercy into life-giving communion.
 
 Wow - that is a mouthful - it is a deeply packed definition - every word was carefully chosen to try to capture the "heart", the core of what love is... said more simply:
 
-> Love is the unity of God's true justice, and mercy which leads to life-giving communion with God and neighbor.
+> Love is the unity of God's true justice, and mercy.
 
-In other words, the way we know we are doing love correctly, the way we "do love" is to look to God to learn about His perfect justice and His perfect mercy and then pray for the Wisdom to know how to unify these into every relationship we have - starting with God and then eminating out to our "neighbor".
+In other words, the way we know we are doing love correctly, the way we "do love" is to look to God to learn about His perfect justice and His perfect mercy and then pray for the Wisdom to know how to unify these into every relationship and interaction we have - starting with God and then eminating out to our "neighbor".
 
-Quick example to illustrate my point. Every good father knows that he must teach his children right from wrong.  Does he do this by beating his five year old "mercilessly" every time he steps out of line? - Of course not this is justice without mercy.  Well, does he do this by allowing his child to do whatever he wants and then just "hopes" he will learn from his own mistakes? Of course not, this is mercy without justice.
+Quick example to illustrate my point. Every good father knows that he must teach his children right from wrong.  Does he do this by beating his five year old "mercilessly" every time he tells a lie? - Of course not this is justice without mercy.  Well, does he do this by allowing his child to do lie over and over in order to support the child's 'freedom' or 'happiness'? Of course not, this is mercy without justice.
 
-His child - his own creation deserves much better.  The child is literally created in the parents own image - he deserves to know what is right from wrong so that he can grow up to be someone who can use his gifts, talents and abilities to make the world a better place (i.e. to "love").  He does not deserve to end up in prison or strung out on drugs, or in multiple failed marriages with custody battle chaos.  The parents intuitively know they want what is best for their child.
+His child - his own creation deserves much better.  The child is literally created in the parents own image - he deserves to be taught what is right from wrong (justice) in a way that is appropriate to his age and development (mercy) so that he can grow up to be someone who can use his gifts, talents and abilities to make the world a better place (i.e. to "love").  He does not deserve to end up in prison or strung out on drugs, or in multiple failed marriages with custody battle chaos.  Parents intuitively know they want what is best for their child, but many struggle because they do not know what love is.
 
 And so - what is the goal of parenting?  To love their children deeply and to teach their child how to love. So through their example, they demonstrate a proper balance of justice and mercy in all things.  A reward for a job well done - that is proper justice. Forgiving them for a wrong they committed, that is proper mercy.  Administering discipline effectively but proper to their age, development, etc is a proper balancing of justice and mercy.
 
-The family is SO important here - because it is the FIRST and most IMPORTANT teacher of love! But if the parents don't know what love is - if they are not deeply rooted in God's Truth about His Justice and Mercy, they will have a much more diminished ability to love and teach love properly.
+The family is SO important here - because it is the FIRST and most IMPORTANT teacher of love! But if the parents don't know what love is - if they are not deeply rooted in God's Truth about His Justice and Mercy, they might have a diminished ability to love and teach love properly.
 
-As "well meaning Christian parents" we never really knew what our goal was with our children.  I knew that disciple was important, but mostly because my father was pretty strict with discipline.  I don't think he knew the goal either.  You feel it somewhat intuitively, but when you put these words to it, it makes so much sense.
+### Our own family
 
-And the ramifications of a poor family life that has little regard for either justice or mercy are endless - divorce, children split between parents, abuse of children as well as substance abuse - I maintain that most all of this is caused by ignorance of and imbalances of God's justice and mercy and the role they play in the human heart and in living out life.
+As "well meaning Christian parents" we never really knew what our goal was with our children.  I knew that discipline was important, but mostly because my father was pretty strict with discipline.  I don't think he knew the goal either (he was not a good man, a good Father, but not a devout Christian until later in life).  You feel it somewhat intuitively, but when you put these words to it, it makes so much sense.
+
+And the ramifications of a poor family life that has little regard for either justice or mercy are endless - divorce, children split between parents, abuse of children as well as substance abuse and so much more "broken families" and turmoil - I maintain that most all of this is caused by ignorance of and imbalances of God's justice and mercy and the role they play in the family.
 
 And now with the advent of social media, our children are exposed to all manners of incorrect teaching. Liberalism, relativism, post-modernism, materialism, trans-genderism - they are all over the internet and our children are learning from them!  And so we need to be able to teach our children - and all that we come in contact with about the transformative power behind God's love (and we must know what that means of course).
 
 > This article is a summary of a book I am working on called "What is Love?, The Heart of the Gospel for Catholics".  In that book I will go into much greater detail to lay out the biblical foundation for the Catholic understanding of love as well as showing how the depth of Catholic teaching teaches us how to Love God and our neighbor properly.
 
-Liberalism, post-modernism, marxism, feminism, materialism, gender ideology, and LGBTQ+ advocacy ALL have similar flaws - they start with some flawed premise of human dignity, gender, or sexuality and then try to enact some skewed ideas of justice or mercy based on that flawed premise. There is no firm foundation for any of these ideologies.
+Liberalism, post-modernism, marxism, feminism, materialism, gender ideology, and LGBTQ+ advocacy ALL have similar flaws - they start with some flawed truth about humanity and then try to enact some skewed ideas of justice or mercy based on that flawed truth. There is no firm foundation for any of these ideologies.
 
 They are all "looking for love in all the wrong places" – conducting failed experiments in human flourishing without the Christian model that perfectly integrates truth, justice, and mercy.
 
 The evidence surrounds us: these approaches lead to mental and spiritual confusion, destruction, and ultimately death – both spiritual and physical.
 
-But here is the beautiful thing. We have an "in" to start a discussion with anyone caught up in these ideologies - and even the athiest or agnostic.  They all recognize the needs for justice and mercy!  This is what they all want!
+But here is the beautiful thing. We have an "in" to start a discussion with anyone caught up in these ideologies - and even the athiest or agnostic.  They all recognize and yearn for truth, justice and mercy!  This is what they all want!
 
 For example, we hear cries of "Black lives matter!", "No justice, No Peace", "Silence is violence", "My body, my choice", "Equal pay for equal work", "Trans rights are human rights".
 
-Forget about what they are advocating for and realize that in ever single "slogan" they are desiring some type of justice! And as Christians, we have a very easy question we can ask them
+Overlooking "what" they are advocating for, let us realize that these are all cries for justice!  And as Christians, we have a very easy question we can ask them
 
 > Are you seeking perfect justice or imperfect justice?
 
@@ -118,12 +122,11 @@ That opens the door to a conversation about - "What is justice"? "Does it need t
 
 This is just a taste, but you probably already see the point...
 
-And so, as members of the Body of Christ, we have a sacred and moral responsibility to understand and teach the Catholic integrated vision of love and then to bring it into every corner of our society. Jesus calls us to be the light of the world and the salt of the earth.  Let us proclaim the "good news" of God's definition of love and Jesus example to show us how to live it out SACRIFICALLY.
+And so, as members of the Body of Christ, we have a sacred and moral responsibility to LEARN, UNDERSTAND and SHARE the Catholic integrated vision of love and then to bring it into every corner of our society. Jesus calls us to be the light of the world and the salt of the earth.  Let us proclaim the "good news" of God's definition of love and Jesus' example to show us how to live it out SACRIFICALLY.
 
 The "good news" is that the Catholic Church teaching of the faith - as it has been handed down to us from Jesus, through the Apostles - teaches that Love is at the heart of the Gospel:
 
-> He said to him, ""You shall love the Lord, your God, with all your heart, with all your soul, and with all your mind. This is the greatest and the first commandment. The second is like it: You shall love your neighbor as yourself. The whole law and the prophets depend on these two commandments.
-> -- (Matthew 22:37-40, NABRE)
+> There was a scholar of the law who stood up to test him and said, "Teacher, what must I do to inherit eternal life?" Jesus said to him, "What is written in the law? How do you read it?" He said in reply, "You shall love the Lord, your God, with all your heart, with all your being, with all your strength, and with all your mind, and your neighbor as yourself." He replied to him, "You have answered correctly; do this and you will live." (Luke 10:25-28, NABRE)
 
 And Jesus also said:
 
@@ -133,6 +136,26 @@ And Jesus also said:
 And Paul tells us:
 
 > Love does no evil to the neighbor; hence, love is the fulfillment of the law. (Romans 13:10, NABRE)
+
+and
+
+> If I speak in human and angelic tongues but do not have love, I am a resounding gong or a clashing cymbal. And if I have the gift of prophecy and comprehend all mysteries and all knowledge; if I have all faith so as to move mountains but do not have love, I am nothing. If I give away everything I own, and if I hand my body over so that I may boast but do not have love, I gain nothing. (1 Corinthians 13:1-3, NABRE)
+
+and
+
+> So faith, hope, love remain, these three; but the greatest of these is love. (1 Corinthians 13:13, NABRE)
+
+
+### The Gospel
+
+Some say that the Gospel is simply that Jesus died on the Cross so that you can go to Heaven.  But the Gospel is so much more than that!  The entire Bible and Jesus' life, ministry, death, resurrection and ascension are all continually teaching us that Love is the heart of the Gospel and that:
+
+> Perfect Love is the sacred, sacrificial gift of covenant which binds true justice and mercy into life-giving communion.
+
+That God is Truth.
+That God is Justice.
+That God is Mercy.
+That God is Love.
 
 In the rest of this article, I just want to touch on the highlights of Catholic teaching on these topics. The Catholic faith is so rich and deep and I pray that this will spur you to want to go deeper in learning your faith, so that you can teach it to others (after all that is what Jesus asked the very first members of His church to do in Matthew 28:18-20 - "teaching them to observe all that I have commanded you")
 
