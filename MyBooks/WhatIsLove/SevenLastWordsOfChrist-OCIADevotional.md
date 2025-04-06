@@ -32,19 +32,19 @@ Now, Let begin our prayer as we always do...
 
 **4. "My God, my God, why have you forsaken me?"** (Matthew 27:46; Mark 15:34)
 
-- **Leader:** This cry reveals the depth of Jesus' human suffering and His solidarity with us in our darkest moments of desolation and doubt. He enters fully into our human experience, even the feeling of abandonment, bridging the gap sin created between humanity and God. He takes on the ultimate consequence of sin – separation from the Father – so that we never have to. This demonstrates the sacrificial nature of His love.
-    - **Question:** *How does knowing Jesus understands my deepest struggles comfort me?* (30 seconds to 1 minute of silence))
+- **Leader:** This cry reveals the depth of Jesus' human suffering and His solidarity with us. By quoting Psalm 22's opening, Jesus expresses this profound suffering while simultaneously invoking the psalm's powerful movement from desolation to trust and God's ultimate triumph. He enters fully into our human experience, even the feeling of abandonment, bridging the gap sin created between humanity and God. He takes on the ultimate consequence of sin – separation from the Father – so that we never have to, pointing even in His agony towards the final victory.
+    - **Question:** *How does knowing Jesus shared our deepest struggles, yet simultaneously pointed towards hope and God's ultimate victory, comfort and strengthen you?* (30 seconds to 1 minute of silence)
 - **Prayer(All):** Jesus, Son of God, be with us in our moments of trial and darkness. Help us trust in the Father's presence, even when we feel alone. Amen.
 
 **5. "I thirst."** (John 19:28)
 
 - **Leader:** This expresses Jesus' physical suffering, but also His deep spiritual thirst – His longing for the salvation of souls and the fulfillment of the Father's plan. He thirsts for *us*, for our love and our return to God. As you prepare to receive the Eucharist, remember His thirst for communion with you, a thirst He quenches with the life-giving water and blood flowing from His side.
-    - **Question:** *Do I recognize Christ's thirst for me? How can I respond?* (30 seconds to 1 minute of silence)
+    - **Question:** *Do I recognize Christ's thirst for me? How thirsty am I for Him?* (30 seconds to 1 minute of silence)
 - **Prayer(All):** Lord Jesus, You thirsted for our salvation. Fill us with a thirst for You and Your righteousness, that we may drink deeply from the wells of salvation. Amen.
 
 **6. "It is finished."** (John 19:30)
 
-- **Leader:** Jesus declares the completion of His mission. The work the Father gave Him is accomplished. The debt of sin is paid, the Old Covenant finds its fulfillment, the New Covenant is established inviting us in, and the victory over sin and death is won. His obedience unto death demonstrates the ultimate expression of truthful, just, and merciful love. This isn't a cry of defeat, but of triumph. His work makes possible your new life in the Sacraments.
+- **Leader:** Jesus declares the completion of His mission. The work the Father gave Him is accomplished. The debt of sin is paid, the Old Covenant finds its fulfillment, the New Covenant is established inviting us in, and the victory over sin and death is won. His obedience unto death demonstrates the ultimate expression of truthful, just, and merciful love. This isn't a cry of defeat, but of triumph. His work makes possible your new life in the Sacraments, a life abiding in Christ.
     - **Question:** *What does Christ's finished work mean for my new life in Him?* (30 seconds to 1 minute of silence)
 - **Prayer(All):** Jesus, Victor King, thank You for completing the work of our redemption. May we live always in the victory You have won for us. Amen.
 
@@ -56,17 +56,17 @@ Now, Let begin our prayer as we always do...
 
 **Prayer of the Elect**
 
-*All Elect:* Lord Jesus, standing at the foot of Your Cross, we are humbled by Your sacrifice. Your words pierce our hearts and call us to deeper conversion. As we prepare for the Sacraments of Initiation, we desire to die with You to sin and rise to new life in **Baptism**, to be sealed with Your **Holy Spirit** in **Confirmation**, and to receive Your very self in the **Eucharist**. Wash us clean, clothe us in Your grace, and fill us with Your Spirit. We entrust our lives into Your hands, ready to follow You as members of Your Body, the Church. Amen.
+*All Elect:* Lord Jesus, standing at the foot of Your Cross, we are humbled by Your sacrifice. Your words pierce our hearts and call us to deeper conversion. As we prepare for the Sacraments of Initiation, we desire to die with You to sin and rise to new life in **Baptism**, to be sealed with Your **Holy Spirit** in **Confirmation**, and to receive Your very self in the **Eucharist**. Wash us clean, clothe us in Your grace, and fill us with Your Spirit. We entrust our lives into Your hands, ready to follow You as members of Your Body, your Kingdom - the Church. Amen.
 
 **Prayer of the Candidates**
 
-*All Candidates:* Lord Jesus, we stand before Your Cross with hearts full of gratitude and anticipation. You have called us to this moment, inviting us into the fullness of faith within Your Church. As we prepare for Confirmation and Eucharist, strengthen our faith, deepen our understanding, and ignite our love. Seal us with Your Holy Spirit and nourish us with Your Body and Blood. Help us to be faithful witnesses to Your love in the world. We commend our journey to You. Amen.
+*All Candidates:* Lord Jesus, we stand before Your Cross with hearts full of gratitude and anticipation. You have called us to this moment, inviting us into the fullness of faith within Your Church. As we prepare for Confirmation and Eucharist, strengthen our faith, deepen our understanding, and ignite our love. Seal us with Your Holy Spirit and nourish us with Your Body and Blood. Help us to be faithful witnesses to Your love in the world. We commend our journey to You and dedicate our life to service in Your Body, Your Kingdom - the Church. Amen.
 
 **Prayer for the Elect and Candidates**
 
 *Leader:* Let us pray for our Elect and Candidates who are preparing to receive the Sacraments of Initiation.
 
-*All Catechists/Sponsors:* Father, look lovingly upon these chosen ones. As they have meditated on the passion and death of Your Son, deepen their desire for the new life He won for them. Strengthen their resolve to die to sin and rise to grace in the waters of Baptism. Fill them with eager anticipation for the Seal of the Holy Spirit in Confirmation and the nourishment of the Eucharist. May their hearts burn with love for You and their neighbor as they prepare to join us fully at the table of Your Son. We ask this through Christ our Lord. Amen.
+*All Catechists/Sponsors:* Father, look lovingly upon these chosen ones. As they have journeyed through OCIA and meditated on the passion and death of Your Son, Jesus, deepen their desire for the new life He won for them. Strengthen their resolve to die to sin and rise to grace in the waters of Baptism. Fill them with eager anticipation for the Seal of the Holy Spirit in Confirmation and the nourishment of the Eucharist. May their hearts burn with love for You and their neighbor as they prepare to join us fully at the table of Your Son. We ask this through Christ our Lord. Amen.
 
 **Concluding Prayer**
 
