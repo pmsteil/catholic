@@ -78,7 +78,7 @@ It seems that the Catholic Church has also been working hard to help define what
 
 Here is what God has led me to... a definition that I believe is what the Church has been teaching all along:
 
-> Perfect Love is the sacred, sacrificial gift of covenant which binds true justice and mercy into life-giving communion.
+> Perfect Love is the sacred, sacrificial gift of covenant which binds true justice and true mercy into life-giving communion.
 
 Wow - that is a mouthful - it is a deeply packed definition - every word was carefully chosen to try to capture the "heart", the core of what love is... said more simply:
 
@@ -148,9 +148,9 @@ and
 
 ### The Gospel
 
-Some say that the Gospel is simply that Jesus died on the Cross so that you can go to Heaven.  But the Gospel is so much more than that!  The entire Bible and Jesus' life, ministry, death, resurrection and ascension are all continually teaching us that Love is the heart of the Gospel and that:
+Some say that the Gospel is simply that Jesus died on the Cross to forgive your sins so that you can go to Heaven.  But the Gospel is so much more than that!  The entire Bible and Jesus' life, ministry, death, resurrection and ascension are all continually teaching us that Love is the heart of the Gospel and that:
 
-> Perfect Love is the sacred, sacrificial gift of covenant which binds true justice and mercy into life-giving communion.
+> Perfect Love is the sacred, sacrificial gift of covenant which binds true justice and true mercy into life-giving communion.
 
 That God is Truth.
 That God is Justice.
@@ -158,6 +158,8 @@ That God is Mercy.
 That God is Love.
 
 In the rest of this article, I just want to touch on the highlights of Catholic teaching on these topics. The Catholic faith is so rich and deep and I pray that this will spur you to want to go deeper in learning your faith, so that you can teach it to others (after all that is what Jesus asked the very first members of His church to do in Matthew 28:18-20 - "teaching them to observe all that I have commanded you")
+
+My plan is to write a full book on this topic, but I am sharing this with you to get your feedback and make sure I am not missing anything.
 
 ## First some definitions per the Catechism of the Catholic Church (CCC)
 
@@ -167,13 +169,12 @@ Pope St. John Paul II in his encyclical "[Veritatis splendor](https://https://ww
 
 > The splendour of truth shines forth in all the works of the Creator and, in a special way, in man, created in the image and likeness of God (cf. Gen 1:26). Truth enlightens man's intelligence and shapes his freedom, leading him to know and love the Lord. Hence the Psalmist prays: "Let the light of your face shine on us, O Lord" (Ps 4:6).
 
-Truth is at is core is the alignment of our thoughts with all of reality (not just the Bible) as it so beautifully describes in the Catechsim paragraph 2500:
+Truth is at is core is the alignment of our thoughts with all of reality (including but not limited to the Bible) as it so beautifully describes in the Catechsim paragraph 2500:
 
 > But truth can also find other complementary forms of human expression, above all when it is a matter of evoking what is beyond words: the depths of the human heart, the exaltations of the soul, the mystery of God. Even before revealing himself to man in words of truth, God reveals himself to him through the universal language of creation, the work of his Word, of his wisdom: the order and harmony of the cosmos—which both the child and the scientist discover—'from the greatness and beauty of created things comes a corresponding perception of their Creator,' 'for the author of beauty created them.'"
->
 > --- CCC 2500
 
-In other words, God created us with the gift of intellect so that we might be able to recognize His Truth in the reality that we live in.  We must use that intellect to discern what is good, true and beautiful - to recognize His "revelation" to us - AND THE CHURCH HAS! For 2000 years of those following Christ and at least another 4000 years before that, in the Jewish people, men have been using their intellect to uncover "Truth" given to us by our Creator.  The Catholic teachings of the truth of faith, hope, charity, justice, mercy, virtues and so much more help us understand love as deeply as we need to go.
+In other words, God created us with the gift of intellect so that we might be able to recognize His Truth in the reality that we live in.  We must use that intellect to discern what is good, true and beautiful - to recognize His "revelation" to us - AND THE CHURCH HAS! For 2000 years of those following Christ and at least another 4000 years before that, in the Jewish people, men have been using their intellect to uncover "Truth" given to us by our Creator.  The Catholic teachings of the truth of faith, hope, charity, justice, mercy, virtues and so much more help us understand love deeply.
 
 And so then, if anyone desires ACTUAl justice and actual MERCY, they must look for "true" justice and "true" mercy.  Justice and Mercy - rooted in "Truth" - that comes from our Creator, not simply by human intellect alone - and certainly not from human "opinion" from very unwise people.
 
@@ -181,7 +182,9 @@ And so then, if anyone desires ACTUAl justice and actual MERCY, they must look f
 
 > Justice is the moral virtue that consists in the constant and firm will to give their due to God and neighbor. Justice toward God is called the "virtue of religion". Justice toward men disposes one to respect the rights of each and to establish in human relationships the harmony that promotes equity with regard to person and to the common good. The just man, often mentioned in the Sacred Scriptures, is distinguished by habitual right thinking and the uprightness of his conduct toward his neighbor... (from CCC 1807)
 
-This works in two ways: we should treat others with the proper dignity and respect they deserve as human beings, and we must also accept that our own actions have consequences, including punishment when we do wrong.
+This works in two ways: we should treat others with the proper dignity and respect they deserve as human beings (positive or distributive justice), and we must also accept that our own actions have consequences, including punishment when we do wrong (negative or retributive justice).
+
+Take note also, that if we attempt to deliver justice without mercy, that justice will not fail to be justice.  For example, if someone steals $20 and we punish them by imprisoning them for 10 years, that is not justice because as we say "the punishment must fit the crime".  This is justice without mercy which is not true justice at all because it isn't what is good for the thief or the community.
 
 ### Mercy
 
@@ -189,7 +192,10 @@ I love John Paul II's encyclical "Dives in Misericordia" (Rich in Mercy):
 
 Mercy is "love's second name" and the "specific manner in which love is revealed and effected vis-à-vis the reality of the evil that is in the world." And also Mercy represents "a special power of love, which prevails over the sin and infidelity of the chosen people."
 
-CCC 270 tells us that God's Mercy is infinite. Think of this - the all-powerful Creator of the Universe has shown us that He will not condemn us for our sins, but He will forgive us and give us a second chance if we choose to repent from our disordered senses of justice and mercy and learn to love more like Him.
+> "God is the Father Almighty, whose fatherhood and power shed light on one another: God reveals his fatherly omnipotence by the way he takes care of our needs; by the filial adoption that he gives us ("I will be a father to you, and you shall be my sons and daughters, says the Lord Almighty"):109 finally by his infinite mercy, for he displays his power at its height by freely forgiving sins."
+> CCC 270
+
+CCC 270 tells us that God is a Father and His Mercy is infinite. Think of this - the all-powerful Creator of the Universe has shown us that when we turn away from Truth, Justice and Mercy, He will not condemn us for our sins, but He will forgive us and give us a second chance to turn back towards Him.
 
 Mercy is how God responds with compassion when we suffer or sin, and giving us the example that we too should forgive others for the sake of peace and communion in all our relationships. (CCC 1422, 2840)
 
@@ -199,11 +205,13 @@ And here is where the Catechism gets real: CCC 2840
 
 Again, our moral intution shows us that when we wrong others, we desire mercy - we desire forgiveness - why?  In order to be "reconciled" to them.  And when others wrong us, it is a high act of sacrifice to forgive - and why - we may also want reconciliation and at minimum, we don't want their wrong to have a hold onto us and turn into bitterness and resentment which will turn into more evil.
 
+But note here also, that if we attempt to deliver mercy without justice, that mercy will not fail to be mercy.  For example, if someone steals $20,000 and we simply forgive them and let them off the hook, that is not mercy because it will likely encourage them to continue stealing from others.  This is mercy without justice which is not true mercy at all because it isn't what is good for the thief or the community.
+
 ## Love: The Heart of "The Gospel"
 
 Now with those definitions in mind, let us look at "love".  At the center of our faith lies a profound understanding of love that goes far beyond what our culture typically recognizes. While the world often reduces love to emotional attachment or temporary union, our tradition offers something much deeper. Here is a deeply packed definition of love:
 
-> Perfect love is the sacred, sacrificial gift of covenant which binds true justice and mercy into life-giving communion.
+> Perfect love is the sacred, sacrificial gift of covenant which binds true justice and true mercy into life-giving communion.
 
 This definition, rooted in Scripture and Church teaching, reveals why the Catholic vision of love is so transformative. Each word is deeply packed with meaning:
 
@@ -267,7 +275,7 @@ These God-given rights can only be properly understood and protected when we ack
 
 And so, in light of our new definition of love:
 
-> Perfect love is the sacred, sacrificial gift of covenant which binds true justice and mercy into life-giving communion.
+> Perfect love is the sacred, sacrificial gift of covenant which binds true justice and true mercy into life-giving communion.
 
 I would say that modern secular ideologies are actually attempting to achieve the same end - a society that is ordered toward the common good - but they are often missing some key ingredient of love. Let us do a quick review of modern ideologies to see where and why they miss the mark:
 
@@ -354,7 +362,7 @@ This is what it means to pick up your cross and follow Jesus - to pick up the Cr
 
 Start by meditating on this definition:
 
-> Perfect love is the sacred, sacrificial gift of covenant which binds true justice and mercy into life-giving communion.
+> Perfect love is the sacred, sacrificial gift of covenant which binds true justice and true mercy into life-giving communion.
 
 Memorize it, internalize it, be able to explain it.
 
