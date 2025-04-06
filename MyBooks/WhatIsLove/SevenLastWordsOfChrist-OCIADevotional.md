@@ -74,9 +74,12 @@ Now, Let begin our prayer as we always do...
 
 **Final Blessing**
 
-*Leader:* May the Lord bless you and keep you. May He let His face shine upon you and be gracious to you. May He look upon you kindly and give you His peace. And may Almighty God bless you all, the Father, and the Son, and the Holy Spirit.
-
+*Leader:* The Lord be with you.
+*All:* And with your spirit.
+*Leader:* May Almighty God bless you, the Father, and the Son, + and the Holy Spirit.
 *All:* Amen.
+*Leader:* Go in peace.
+*All:* Thanks be to God.
 
 --
 
