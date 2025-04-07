@@ -1,4 +1,4 @@
-# Catholic Faith
+# OCIA Teaching Structure Proposal
 
 ```The Faith
 │
@@ -56,4 +56,3 @@
 └── What is Heaven?
 └── Understanding our ultimate destiny
 ```
-
