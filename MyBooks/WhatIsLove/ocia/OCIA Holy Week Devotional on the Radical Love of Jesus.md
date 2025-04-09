@@ -14,7 +14,7 @@ Jesus said:
 
 _Jesus Teaches:_ Jesus issues a "new commandment." The newness lies not in the call to love, but in the standard: love _as I have loved you_. This specific, sacrificial, servant-hearted love is to be the defining characteristic and identifying mark of His disciples to the world.
 
-_Reflection:_ Jesus commands me to love others _as He has loved me_. How does His sacrificial, servant love challenge my own way of loving? How can my love for fellow believers be a more visible sign to the world that I am His disciple?
+_Reflection:_ Jesus commands me to love others _as He has loved me_. How does His sacrificial, servant love challenge my own way of loving within my family, among my friends, and toward fellow believers? How can this specific love be a more visible sign to the world that I am His disciple?
 
 ## Jesus Teaches: The Foundation - Love God and Neighbor
 
@@ -26,7 +26,7 @@ _Reflection:_ Jesus commands me to love others _as He has loved me_. How does Hi
 
 _Jesus Teaches:_ Jesus affirms that the path to eternal life - healing/salvation from our sins both now and eternally - lies in loving God completely and loving our neighbor as ourselves. When asked to define "neighbor," He tells the parable of the Good Samaritan, teaching that love must translate into active mercy and compassion, extending even beyond social and religious boundaries. Love is shown by _doing_.
 
-_Reflection:_ Jesus teaches that love requires action ("Go and do likewise"). Who is the "neighbor" in my life right now that needs me to show mercy and compassion in a concrete way?
+_Reflection:_ Jesus teaches that love requires action ("Go and do likewise"). Thinking of my family, friends, coworkers, and community, who is the "neighbor" in my life right now that needs me to show mercy and compassion in a concrete way, perhaps even when it's difficult or inconvenient?
 
 ## Jesus Teaches: An Invitation to His Restful Love
 
@@ -64,7 +64,7 @@ Jesus said (Narrative):
 
 _Jesus Teaches:_ On the night before His death, knowing His hour had come, Jesus demonstrated the depth of His love through profound humility. By washing His disciples' feet—a task reserved for the lowest servant—He modeled servant leadership and showed that His love translates into selfless action. He gives this act as an example, commanding His followers to love and serve one another with the same humility.
 
-_Reflection:_ Jesus, the Lord and Teacher, washed His disciples' feet as an example of loving service. How can I follow His example by humbly serving others in my daily life, even in ways that seem lowly or inconvenient?
+_Reflection:_ Jesus, the Lord and Teacher, washed His disciples' feet as an example of loving service. How can I follow His example by humbly serving my family, friends, and others in my daily life, putting their needs before my own, even in ways that seem lowly or inconvenient?
 
 **John 15:1-17** (The Vine and the Branches)
 
@@ -74,7 +74,7 @@ Jesus said:
 
 _Jesus Teaches:_ Jesus uses the image of the vine and branches to illustrate our vital connection to Him. He is the source of life ("the true vine"), and we ("the branches") can only bear fruit (live a life of love and good works) if we remain intimately connected ("abide") in Him. Abiding involves keeping His commandments, especially loving one another sacrificially, mirroring the Father's love for Him and His love for us. This connection elevates us to friendship with Him and allows His joy to be in us. Apart from Him, we can do nothing of eternal value.
 
-_Reflection:_ Jesus emphasizes that abiding in Him is essential for bearing fruit and experiencing His love and joy. How am I actively cultivating my connection to Jesus, the True Vine? Am I obeying His command to love others sacrificially, recognizing that this is proof of discipleship and friendship with Him?
+_Reflection:_ Jesus emphasizes that abiding in Him is essential for bearing fruit (love) and experiencing His joy. How am I actively cultivating my connection to Jesus, the True Vine? Am I obeying His command to love my family, friends, and fellow believers sacrificially, recognizing that this is proof of discipleship and friendship with Him?
 
 **Mark 8:34-38** (The Cost of Discipleship)
 
@@ -116,7 +116,7 @@ _Reflection:_ The Father's love is merciful and celebratory. Do I truly believe 
 
 _Jesus Teaches:_ Jesus responds to Peter's question about forgiveness with a call for _limitless_ mercy, symbolized by "seventy-seven times." He uses a stark parable to warn that if we, having received God's immense forgiveness, refuse to forgive others from the heart, we risk forfeiting God's mercy ourselves. Radical love requires radical forgiveness.
 
-_Reflection:_ Radical love requires radical forgiveness. Is there anyone I need to forgive "from the heart," letting go of my pain or resentment as I recall the immense forgiveness I have received?
+_Reflection:_ Radical love requires radical forgiveness, especially towards those closest to us. Is there a family member, friend, or fellow believer I need to forgive "from the heart," letting go of my pain or resentment as I recall the immense forgiveness I have received from God?
 
 ## Jesus Teaches: The Bread of Life - Radical Dependence and Belief
 
@@ -156,4 +156,4 @@ _Reflection:_ Jesus prayed for our sanctification in truth and our perfect unity
 
 As you prepare to enter fully into the Catholic Church, consider the words of Jesus you have encountered in this devotional.
 
-In what specific areas of your life do you feel Jesus inviting you, through His teachings, to a more radical love? This might involve greater fidelity to truth, deeper commitment to justice, more generous mercy, complete self-surrender, or fuller obedience to the Father's will. How might responding to this invitation transform your life and contribute to building God's kingdom?
+In what specific areas of your life do you feel Jesus inviting you, through His teachings, to a more radical love? Consider your relationships with family and friends: where is He calling you to greater fidelity, deeper commitment, more generous mercy, complete self-surrender, or fuller obedience? How might responding to this invitation transform your life, your relationships, and contribute to building God's kingdom?
