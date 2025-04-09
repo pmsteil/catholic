@@ -131,7 +131,7 @@ The "good news" is that the Catholic Church teaching of the faith - as it has be
 And Jesus also said:
 
 > Do not think that I have come to abolish the law or the prophets. I have not come to abolish but to fulfill.
-> -- (Matthew 5:17, NABRE)
+>
 
 And Paul tells us:
 
@@ -144,7 +144,6 @@ and
 and
 
 > So faith, hope, love remain, these three; but the greatest of these is love. (1 Corinthians 13:13, NABRE)
-
 
 ### The Gospel
 
@@ -172,7 +171,7 @@ Pope St. John Paul II in his encyclical "[Veritatis splendor](https://https://ww
 Truth is at is core is the alignment of our thoughts with all of reality (including but not limited to the Bible) as it so beautifully describes in the Catechsim paragraph 2500:
 
 > But truth can also find other complementary forms of human expression, above all when it is a matter of evoking what is beyond words: the depths of the human heart, the exaltations of the soul, the mystery of God. Even before revealing himself to man in words of truth, God reveals himself to him through the universal language of creation, the work of his Word, of his wisdom: the order and harmony of the cosmos—which both the child and the scientist discover—'from the greatness and beauty of created things comes a corresponding perception of their Creator,' 'for the author of beauty created them.'"
-> --- CCC 2500
+>
 
 In other words, God created us with the gift of intellect so that we might be able to recognize His Truth in the reality that we live in.  We must use that intellect to discern what is good, true and beautiful - to recognize His "revelation" to us - AND THE CHURCH HAS! For 2000 years of those following Christ and at least another 4000 years before that, in the Jewish people, men have been using their intellect to uncover "Truth" given to us by our Creator.  The Catholic teachings of the truth of faith, hope, charity, justice, mercy, virtues and so much more help us understand love deeply.
 
@@ -193,7 +192,7 @@ I love John Paul II's encyclical "Dives in Misericordia" (Rich in Mercy):
 Mercy is "love's second name" and the "specific manner in which love is revealed and effected vis-à-vis the reality of the evil that is in the world." And also Mercy represents "a special power of love, which prevails over the sin and infidelity of the chosen people."
 
 > "God is the Father Almighty, whose fatherhood and power shed light on one another: God reveals his fatherly omnipotence by the way he takes care of our needs; by the filial adoption that he gives us ("I will be a father to you, and you shall be my sons and daughters, says the Lord Almighty"):109 finally by his infinite mercy, for he displays his power at its height by freely forgiving sins."
-> CCC 270
+>
 
 CCC 270 tells us that God is a Father and His Mercy is infinite. Think of this - the all-powerful Creator of the Universe has shown us that when we turn away from Truth, Justice and Mercy, He will not condemn us for our sins, but He will forgive us and give us a second chance to turn back towards Him.
 

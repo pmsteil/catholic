@@ -42,10 +42,6 @@ Today, we'll explore the theological virtue of love—not as the world understan
 
 Each group to come up with an answer to relay to the larger group.
 
-
-
-
-
 ## Part 1: What is Love? (15 minutes)
 
 ### Scripture Reading
@@ -67,7 +63,6 @@ Ask participants: "How does our culture define love? What messages about love do
 - Love at first site...
 - Better to beg forgiveness than to ask permission
 - LOVE IS LOVE!
-
 
 ### Small Group Question
 
