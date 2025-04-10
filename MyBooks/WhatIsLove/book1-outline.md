@@ -4,19 +4,19 @@
 
 Looking around in today's world, we see society breaking down and hear countless demands for justice, equity, inclusion, and an end to various forms of oppression. Yet as the song goes, many are "looking for love in all the wrong places." After studying the Faith for 35+ years and observing what has happened in my own life and with society, I am firmly convinced that the problem and solution to societal breakdown, both in modern times and ancient, is breakdown in the fundamental understanding of THE most critical question:
 
-> 
+>
 >
 > ## What is Love?
 >
-> 
+>
 
 One answer is...
 
-> 
+>
 >
 > ## God is Love. (1 John 4:8)
 >
-> 
+>
 
 This book is intended to help all Christ followers understand the depth and beauty of what it means to say God is Love.  Here is the Catholic answer of what love is:
 
@@ -1241,4 +1241,57 @@ These topics, while beyond the scope of this book, invite us to continue our jou
 # Todos:
 
 * Add a statement regarding CCC 271 - that we are not trying to provide a comprehensive answer to the question "What is God?"
+* Scriptures for backing up the binding ourselves to God and his truth, justice, and mercy:
+      - Submission to God's Will & Wisdom over Our Own:
 
+         Proverbs 3:5-6: "Trust in the Lord with all your heart, and do not rely on your own insight. In all your ways acknowledge him, and he will make straight your paths." (This directly contrasts relying on our own insight with trusting God's guidance).
+         Matthew 6:10 (Lord's Prayer): "Your kingdom come. Your will be done, on earth as it is in heaven." (The fundamental prayer taught by Jesus includes submitting to God's will).
+         Matthew 26:39: During His agony in the garden, Jesus prays, "My Father, if it is possible, let this cup pass from me; yet not what I want but what you want." (Jesus Himself models perfect submission to the Father's will, even in suffering).
+         1 Corinthians 1:25: "For God’s foolishness is wiser than human wisdom, and God’s weakness is stronger than human strength." (Highlights the superiority of God's wisdom).
+         James 4:7: "Submit yourselves therefore to God. Resist the devil, and he will flee from you." (Direct command to submit to God).
+
+      - Being Bound by Truth:
+
+         John 14:6: Jesus said to him, "I am the way, and the truth, and the life. No one comes to the Father except through me." (Jesus embodies Truth, so submitting to God means submitting to Him).
+         John 8:31-32: "If you continue in my word, you are truly my disciples; and you will know the truth, and the truth will make you free." (Adherence to Christ's teaching—the Truth—is essential).
+         1 Timothy 3:15: "...the church of the living God, the pillar and bulwark of the truth." (The Church is presented as the foundation upholding God's truth, to which we are bound).
+
+      - Being Bound by Justice:
+
+         Micah 6:8: "He has told you, O mortal, what is good; and what does the Lord require of you but to do justice, and to love kindness, and to walk humbly with your God?" (Justice is a direct requirement from God).
+         Matthew 23:23: "Woe to you, scribes and Pharisees, hypocrites! For you tithe mint, dill, and cummin, and have neglected the weightier matters of the law: justice and mercy and faith. It is these you ought to have practiced without neglecting the others." (Jesus emphasizes justice and mercy as core tenets).
+         Deuteronomy 16:20: "Justice, and only justice, you shall pursue..." (A clear command to follow justice).
+
+      - Being Bound by Mercy:
+
+         Luke 6:36: "Be merciful, just as your Father is merciful." (We are called to imitate God's mercy).
+         Matthew 5:7: "Blessed are the merciful, for they will receive mercy." (Mercy is presented as a condition for receiving God's mercy).
+         James 2:13: "For judgment will be without mercy to anyone who has shown no mercy; mercy triumphs over judgment." (Emphasizes the importance and power of mercy).
+
+      - Being Bound by Love:
+
+
+         The Greatest Commandment:
+
+            Luke 10:25-28: "Just then a lawyer stood up to test Jesus. 'Teacher,' he said, 'what must I do to inherit eternal life?' He said to him, 'What is written in the law? What do you read there?' He answered, 'You shall love the Lord your God with all your heart, and with all your soul, and with all your strength, and with all your mind; and your neighbor as yourself.' And he said to him, 'You have given the right answer; do this, and you will live.'"
+
+            Matthew 22:37-40: Jesus identifies the greatest commandments: "'You shall love the Lord your God with all your heart, and with all your soul, and with all your mind.' This is the greatest and first commandment. And a second is like it: 'You shall love your neighbor as yourself.' On these two commandments hang all the law and the prophets." This explicitly states that the entire moral framework given by God (Law and Prophets) is bound up in, and dependent upon, love for God and neighbor.
+
+         The New Commandment & Sign of Discipleship:
+
+            John 13:34-35: "I give you a new commandment, that you love one another. Just as I have loved you, you also should love one another. By this everyone will know that you are my disciples, if you have love for one another." Love isn't just suggested; it's commanded by Christ Himself, modeled on His own sacrificial love, and serves as the defining mark of His followers.
+
+         Love as the Fulfillment of the Law:
+
+            Romans 13:8-10: "Owe no one anything, except to love one another; for the one who loves another has fulfilled the law... Love does no wrong to a neighbor; therefore, love is the fulfilling of the law." Paul teaches that genuine love inherently leads one to act rightly towards others, thus fulfilling the specific prohibitions and commands of the Law.
+            Galatians 5:14: "For the whole law is summed up in a single commandment, 'You shall love your neighbor as yourself.'"
+
+         Love Rooted in God's Nature:
+
+            1 John 4:7-8, 16: "Beloved, let us love one another, because love is from God; everyone who loves is born of God and knows God. Whoever does not love does not know God, for God is love... God is love, and those who abide in love abide in God, and God abides in them." We are bound to love because God is love. To know God and live in relationship with Him necessitates living in love.
+            1 John 4:19-21: "We love because he first loved us. Those who say, 'I love God,' and hate their brothers or sisters, are liars... The commandment we have from him is this: those who love God must love their brothers and sisters also." Love for God is inseparable from love for others; it's a binding command stemming from God's own prior love for us.
+
+         Love as the Guiding Principle:
+
+            1 Corinthians 13: While often read at weddings, this chapter describes agape love as the essential virtue without which all other gifts and actions are meaningless. It details the characteristics of this binding love (patient, kind, not envious, etc.).
+            Ephesians 5:1-2: "Therefore be imitators of God, as beloved children, and live in love, as Christ loved us and gave himself up for us, a fragrant offering and sacrifice to God." We are commanded to "live in love," imitating Christ's sacrificial love.

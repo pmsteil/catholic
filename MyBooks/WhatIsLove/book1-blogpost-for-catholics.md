@@ -10,133 +10,133 @@ When I was 19, on a church retreat at the "Emmaus" retreat center in Panama, God
 
 > "God is love, and whoever remains in love remains in God and God in him." (1 John 4:16).
 
-"God is Love". Wow - amazing... That one statement changed my entire life. But it also raised an important question: "What does that mean that 'God is Love'?" I intuitively felt this truth deep within me, but I also knew that I didn't have a full understandding.
+"God is Love." Wow—amazing... That one statement changed my entire life. But it also raised an important question: "What does it mean that 'God is Love'?" I intuitively felt this truth deep within me, but I also knew that I didn't have a full understanding.
 
 Now, 37 years later, through so much learning, studying, thinking, teaching and talking - God, through His Church, has helped me bring it all together into a clear, concise, and simple understanding of what love is.
 
-Also, I have studied deeply the "sola fide" ("by faith alone") controversy that still divides so many in the Christian world. This has forced me to see the relationship between faith, love, truth and salvation that seems to make it all make sense.
+Also, I have deeply studied the "sola fide" ("by faith alone") controversy that still divides so many in the Christian world. This forced me to examine the relationship between faith, love, truth, and salvation, which helped clarify everything.
 
-And why is this important? Or "How important is it that we understand this"?
+And why is this important? Or, how important is it that we understand this?
 
-It seems to me THIS IS THE MOST CONSEQUENTIAL question of this age - "What is love?".
+It seems to me this is the most consequential question of this age: "What is love?"
 
-It seems obvious to me that the biggest problem in the world today is that as a society, we no longer know what love is. I daresay most Christians probably cannot explain what love is...
+It seems obvious that the biggest problem in the world today is that, as a society, we no longer know what love is. I daresay most Christians probably cannot explain what love is.
 
 ### Can we know objective truth?
 
-When I was a "youth pastor" I asked my kids one night - "Is it possible to know objectively - for certain - what is evil and what is good?" - out of the 15 present that night, 13 said "No" - 1 wasn't sure and 1 said "Yes" - we can know from the Bible. These were GOOD Church kids! But they are swimming in the post-modern, post-Christian, liberal waters in our society that are telling them THERE IS NO OBJECTIVE TRUTH! And they believe it! This led me to teach a lesson series on "What is Truth"... and it changed my whole life.
+When I was a youth pastor, I asked my kids one night, "Is it possible to know objectively—for certain—what is evil and what is good?" Out of the 15 present that night, 13 said "No," 1 wasn't sure, and 1 said "Yes"—we can know from the Bible. These were good church kids! But they are swimming in the postmodern, post-Christian, liberal waters of our society that tell them there is no objective truth! And they believe it! This led me to teach a lesson series on "What is Truth?"... and it changed my whole life.
 
-I realized that if these kids (the next generation!) believe there is no objective truth, then for them, there will be no such thing as God, love, truth, faith, morality, justice, mercy, or anything else. And all of society is doomed to fall apart.
+I realized that if these kids (the next generation!) believe there is no objective truth, then for them, there will be no God, love, truth, faith, morality, justice, mercy, or anything else. Society itself is doomed to fall apart.
 
-THIS IS A MAJOR PROBLEM! And it seems to me, that this is what is plaguing the world today - a lack of objective truth. As Christians, what is our answer to this? Simply that Jesus died on the cross for our sins? In a post-truth world, this is too big of a leap of faith.
+This is a major problem! It seems to me that this is what plagues the world today—a lack of objective truth. As Christians, what is our answer? Simply that Jesus died on the cross for our sins? In a post-truth world, this is too big a leap of faith.
 
-But wait, don't we believe in a God that Created the entire Universe? Isn't that God the author of all truth?
+But wait, don't we believe in a God who created the entire Universe? Isn't that God the author of all truth?
 
 > "Indeed my mouth utters truth, and my lips abhor wickedness" (Proverbs 8:7).
 
 ### Foundational Truths of Humanity
 
-And so, it seems to me that we need to go back to basics, back to showing that if God is the author of all truth, he will be found everywhere. He will be found in the moral truths that we know deep within us.
+And so, it seems we need to go back to basics, back to showing that if God is the author of all truth, He will be found everywhere. He will be found in the moral truths that we know deep within us.
 
-We need to teach that there IS objective truth and that it can be known and that it can ONLY be known with God as its author. Otherwise, any seeking of love, justice or mercy is futile, empty and devoid of logic.
+We need to teach that there *is* objective truth, that it can be known, and that it can *only* be known with God as its author. Otherwise, any seeking of love, justice, or mercy is futile, empty, and devoid of logic.
 
 So let us explore this.
 
-First, let's examine the claim that "there is no objective truth" - in order to make THAT truth claim that "there is no objective truth" - one first must be able to make a claim of truth. So not only is it self-refuting and illogical, but more imporantly, it points out another truth about human reasonsing - even one making this claim, takes for granted that they can use their intellect and reason to come to a conclusion. Isn't that a basic truth of humanity? That we have a capacity to reason and identify claims of truth or falsehood? To recognize reality as we see it?
+First, let's examine the claim "there is no objective truth." To make *that* truth claim—"there is no objective truth"—one must first be able to make *a* claim of truth. So, not only is it self-refuting and illogical, but more importantly, it points out another truth about human reasoning: even someone making this claim takes for granted that they can use their intellect and reason to reach a conclusion. Isn't that a basic truth of humanity? That we have a capacity to reason and identify claims of truth or falsehood? To recognize reality as we perceive it?
 
-Hmm, are there are any other truths of humanity that we can know? Of course - there are many, but for this article let us focus on this example.
+Hmm, are there any other truths of humanity that we can know? Of course—there are many, but for this article, let us focus on this example.
 
-What if a stranger was arrested for the murder of a baby. No one has to teach us that murder is inherently evil, we feel this deeply - why? Because ALL HUMAN BEINGS understand these basic MORAL truths:
+Consider a scenario where a stranger is arrested for the murder of a baby. No one has to teach us that murder is inherently evil; we feel this deeply. Why? Because all human beings understand these basic moral truths:
 
-1.  Human dignity - that the baby is a person with dignity and inherent value and no one, except their Creator has the right to take their life.
-2.  Love - that the baby is loved and will be deeply mourned by their family.
-3.  Justice - that the baby did not deserve to die needlessly, and that punishment is due to the person who took their life.
+1.  **Human dignity**: The baby is a person with dignity and inherent value, and no one except their Creator has the right to take their life.
+2.  **Love**: The baby is loved and will be deeply mourned by their family.
+3.  **Justice**: The baby did not deserve to die needlessly, and punishment is due to the person who took their life.
 
-I would submit to you that these are not intellectual claims, nor ideas that some might say need "propping" up by religion in order to be true - rather these are TRUTHS that are deeply rooted in the human heart. These are "spiritual" truths (they don't exist anywere in a physical, object form) but we know them to be 'objectively' true.
+I would submit that these are not intellectual claims, nor ideas that some might say need "propping up" by religion to be true—rather, these are truths deeply rooted in the human heart. These are "spiritual" truths (they don't exist anywhere in a physical, object form), but we know them to be objectively true.
 
 ### Truth, Justice and Mercy in the United States Constitution
 
-And by the way, there is one more truth that we can know from these, that if we believe that these three are true, then the one who is accused of the murder also is a human being, who, if guilty, has sinned and must pay for the consequences of his sin, but also that the accused deserves certain mercies.
+Furthermore, there is one more truth we can know from these: if we believe these three are true, then the one accused of the murder is also a human being who, if guilty, has sinned and must face the consequences, but who also deserves certain mercies.
 
-In the United States anyway, that it may not serve JUSTICE to simply enact revenge on this person. That if someone points their finger and accuses one of the heinous crime, we do not allow "vigilante justice" for fear that the accused may be innocent which means that justice will NOT have been served.
+In the United States, anyway, it is understood that it may not serve justice to simply enact revenge on this person. If someone points their finger and accuses another of this heinous crime, we do not allow "vigilante justice" for fear that the accused may be innocent, which would mean justice was *not* served.
 
-No, instead we submit ourselves to the US Constitution and Bill of Rights which recognizes a fundamental truth (which by the way only holds true in a Christian worldview) about Human beings:
+No, instead, we submit ourselves to the US Constitution and Bill of Rights, which recognize a fundamental truth (which, by the way, only holds true within a Christian worldview) about human beings:
 
 > "We hold these truths to be self-evident, that all men are created equal, that they are endowed, by their Creator, with certain unalienable rights, that among these are life, liberty, and the pursuit of happiness.
 
-And so, the accused deserves to be arrested, charged, presumed innocent until proven guilty, that he deserves a fair and speedy trial, and that he deserves a trial by jury of his peers. All of these are acts of mercy on the accused to ensure that JUSTICE is properly served and that even the accused is treated with dignity and rights that are inherent to human beings.
+And so, the accused deserves to be arrested, charged, and presumed innocent until proven guilty; they deserve a fair and speedy trial by a jury of their peers. All of these are acts of mercy toward the accused to ensure that justice is properly served and that even the accused is treated with the dignity and rights inherent to human beings.
 
 ### The Heart of Moral Truths
 
-And so, the point is, we CAN know Truth. Truth explains the reality that we find ourselves in. Truth is that which reflects who we are and how we were created. The moral truths we have looked at are truths - "moral truths" - that are deeply rooted in the human heart.
+And so, the point is, we *can* know Truth. Truth explains the reality we find ourselves in. Truth reflects who we are and how we were created. The moral truths we have examined are truths—"moral truths"—deeply rooted in the human heart.
 
-Christians recognize and believe that all Truths come from the Creator of all things - God - and so it would make sense that our Faith would teach us about these Truths.
+Christians recognize and believe that all Truths come from the Creator of all things—God—and so it makes sense that our Faith would teach us about these Truths.
 
-And SO IT DOES! The Catholic Faith goes deep into the heart of these truths - and the Church has been teaching them for centuries!
+And so it does! The Catholic Faith goes deep into the heart of these truths—and the Church has been teaching them for centuries!
 
-And from studying the Bible and the Catholic tradition, it seems clear to me now that these moral truths and the most critical truths that the Christian religion teaches are intertwined and interrelated to the "heart" of all Truths - that God is Love.
+From studying the Bible and Catholic tradition, it seems clear now that these moral truths, and the most critical truths the Christian religion teaches, are intertwined and interrelated with the "heart" of all Truths—that God is Love.
 
-It seems that the Catholic Church has also been working hard to help define what is meant by "God is Love" through the centuries.
+It seems the Catholic Church has also worked hard through the centuries to help define what is meant by "God is Love."
 
-Here is what God has led me to... a definition that I believe is what the Church has been teaching all along:
+Here is what God has led me to—a definition I believe reflects what the Church has been teaching all along:
 
 > Perfect Love is the sacred, sacrificial gift of covenant which binds true justice and true mercy into life-giving communion.
 
-Wow - that is a mouthful - it is a deeply packed definition - every word was carefully chosen to try to capture the "heart", the core of what love is... said more simply:
+Wow—that is a mouthful. It is a deeply packed definition; every word was carefully chosen to try to capture the "heart," the core of what love is. Said more simply:
 
 > Love is the unity of God's true justice, and mercy.
 
-In other words, the way we know we are doing love correctly, the way we "do love" is to look to God to learn about His perfect justice and His perfect mercy and then pray for the Wisdom to know how to unify these into every relationship and interaction we have - starting with God and then eminating out to our most immediate family, friends and "neighbor" - all based on the "common good".
+In other words, the way we know we are "doing love" correctly is to look to God to learn about His perfect justice and His perfect mercy, and then pray for the Wisdom to unify these in every relationship and interaction—starting with God and then emanating out to our most immediate family, friends, and "neighbor"—all based on the "common good."
 
-Quick example to illustrate my point regarding that Love is the unity of God's true justice and true mercy. Every good father knows that he must teach his children right from wrong. Does he do this by beating his five year old "mercilessly" every time he tells a lie? - Of course not, this would be justice without mercy. Well, does he do this by allowing his child to lie over and over in order to support the child's 'freedom' or 'happiness'? Of course not, this is mercy without justice.
+Here's a quick example to illustrate the point that Love is the unity of God's true justice and true mercy. Every good father knows he must teach his children right from wrong. Does he do this by beating his five-year-old "mercilessly" every time the child tells a lie? Of course not; this would be justice without mercy. Does he allow his child to lie repeatedly to support the child's 'freedom' or 'happiness'? Of course not; this is mercy without justice.
 
-His child - his own creation deserves much better. The child is literally created in the parents own image - he deserves to be taught what is right from wrong (justice) in a way that is appropriate to his age and development (mercy) so that he can grow up to be someone who can use his gifts, talents and abilities to make the world a better place (i.e. to "love"). He does not deserve to end up in prison or strung out on drugs, or in multiple failed marriages with custody battle chaos. Parents intuitively know they want what is best for their child, but many struggle because they do not know what love is.
+His child—his own creation—deserves much better. The child is literally created in the parents' own image. They deserve to be taught right from wrong (justice) in a way appropriate to their age and development (mercy) so they can grow up to use their gifts, talents, and abilities to make the world a better place (i.e., to "love"). They do not deserve to end up in prison, strung out on drugs, or in multiple failed marriages filled with custody battle chaos. Parents intuitively know they want what is best for their child, but many struggle because they do not know what love is.
 
-And so - justice without mercy is NOT justice. And mercy without justice is NOT mercy! Justice and mercy are not two separate things - they are two sides of the same coin - they are two aspects of the same thing - LOVE.
+And so—justice without mercy is *not* justice. And mercy without justice is *not* mercy! Justice and mercy are not two separate things—they are two sides of the same coin, two aspects of the same thing: LOVE.
 
-And so - what is the goal of parenting? To love their children deeply and to teach their child how to love. So through their example, they demonstrate a proper balance of justice and mercy in all things. A reward for a job well done - that is proper justice. Forgiving them for a wrong they committed, that is proper mercy. Administering discipline effectively but proper to their age, development, etc is a proper balancing of justice and mercy.
+So—what is the goal of parenting? To love their children deeply and teach them how to love. Through their example, parents demonstrate a proper balance of justice and mercy in all things. A reward for a job well done—that is proper justice. Forgiving a wrong committed—that is proper mercy. Administering discipline effectively and appropriately for their age and development is a proper balancing of justice and mercy.
 
-The family is SO important here - because it is the FIRST and most IMPORTANT teacher of love! But if the parents don't know what love is - if they are not deeply rooted in God's Truth about His Justice and Mercy, they might have a diminished ability to love and teach love properly.
+The family is so important here because it is the first and most important teacher of love! But if the parents don't know what love is—if they are not deeply rooted in God's Truth about His Justice and Mercy—they might have a diminished ability to love and teach love properly.
 
-It seems obvious to me that when we speak of "broken homes", "absent fathers", "dysfunctional families" that what we will find in these homes is a lack of justice and mercy - that the husband or wife (or both) are not giving what the other spouse deserves, not giving what the marriage deserves and certainly not giving what the children deserve. And so the children grow up with a distorted view of love and they will likely repeat the cycle of dysfunction in their own families. Again, the family is the first and most important teacher of love.
+It seems obvious that when we speak of "broken homes," "absent fathers," or "dysfunctional families," what we find is a lack of justice and mercy. The husband or wife (or both) are not giving what the other spouse deserves, what the marriage deserves, and certainly not what the children deserve. Consequently, the children grow up with a distorted view of love and will likely repeat the cycle of dysfunction in their own families. Again, the family is the first and most important teacher of love.
 
 ### What is the goal of parenting?
 
-As "well meaning Christian parents" we never really knew what our goal was with our children. I knew that discipline was important, but mostly because my father was pretty strict with discipline. I don't think my parents knew the goal either. What do we say - we just want our kids to grow up to be "happy" or "healthy" or "good people" or "good citizens" and at least "stay out of jail"! All of those can be achieved and so much more with this definition of love!
+As "well-meaning Christian parents," we never really knew our goal with our children. I knew discipline was important, mostly because my father was quite strict. I don't think my parents knew the goal either. What do we say? We just want our kids to grow up "happy," "healthy," "good people," or "good citizens," and at least "stay out of jail"! All of those goals, and so much more, can be achieved with this definition of love!
 
-And the ramifications of a poor family life that has little regard for either justice or mercy are endless - divorce, children split between parents, abuse of children as well as substance abuse and so much more "broken families" and turmoil - I maintain that most all of this is caused by ignorance of and imbalances of living out God's justice and mercy in the daily life of the family.
+The ramifications of poor family life with little regard for justice or mercy are endless: divorce, children split between parents, child abuse, substance abuse, and so much more turmoil in "broken families." I maintain that almost all of this stems from ignorance and imbalances in living out God's justice and mercy in daily family life.
 
-And so what should be our goal as good Catholic families? The goal with our children is the same goal as the Church always directs us to - to become "saints" as St. Peter exhorts us, echoing God's command in the Old Testament: **"As he who called you is holy, be holy yourselves in all your conduct; for it is written, ‘You shall be holy, for I am holy.’"** (1 Peter 1:15-16)
+So, what should be our goal as good Catholic families? The goal for our children is the same one the Church always directs us toward: to become "saints," as St. Peter exhorts us, echoing God's command in the Old Testament: **"As he who called you is holy, be holy yourselves in all your conduct; for it is written, ‘You shall be holy, for I am holy.’"** (1 Peter 1:15-16)
 
-Should we expect perfection from a six year old? No, that is not proper justice and mercy. Will some children struggle to learn these and insist on doing things their own way? Yes, but that is where we need to be patient and loving and merciful and help them learn the right way to do things. And if they are not learning, we need to be firm and just and help them learn the hard way if necessary. But we must always be loving and just and merciful.
+Should we expect perfection from a six-year-old? No, that is not proper justice and mercy. Will some children struggle to learn these principles and insist on doing things their own way? Yes, but that is where we need patience, love, and mercy to help them learn the right way. If they are not learning, we need firmness and justice to help them learn the hard way, if necessary. But we must always be loving, just, and merciful.
 
-> This article is a summary of a book I am working on called "What is Love?, The Heart of the Gospel for Catholics". In that book I will go into much greater detail to lay out the biblical foundation for the Catholic understanding of love as well as showing how the depth of Catholic teaching teaches us how to Love God and our neighbor properly.
+> This article summarizes a book I am working on called *What is Love? The Heart of the Gospel for Catholics*. In that book, I will go into much greater detail to lay out the biblical foundation for the Catholic understanding of love and show how the depth of Catholic teaching instructs us on how to love God and our neighbor properly.
 
 ## How the breakdown of love in the family affects society
 
-Liberalism, post-modernism, marxism, feminism, materialism, gender ideology, and LGBTQ+ advocacy ALL have similar flaws - they start with some flawed _truth_ about humanity and then try to enact some skewed ideas of _justice_ or _mercy_ based on that flawed truth. There is no firm foundation for any of these ideologies.
+Liberalism, postmodernism, Marxism, feminism, materialism, gender ideology, and LGBTQ+ advocacy all share similar flaws: they start with some flawed *truth* about humanity and then try to enact skewed ideas of *justice* or *mercy* based on that flawed truth. There is no firm foundation for any of these ideologies.
 
-They are all "looking for love in all the wrong places" – conducting failed experiments in human flourishing without the Christian model that perfectly integrates truth, justice, and mercy.
+They are all "looking for love in all the wrong places"—conducting failed experiments in human flourishing without the Christian model that perfectly integrates truth, justice, and mercy.
 
 The evidence surrounds us: these approaches lead to mental and spiritual confusion, destruction, and ultimately death – both spiritual and physical.
 
-But here is the beautiful thing. We have an "in" to start a discussion with anyone caught up in these ideologies - and even the athiest or agnostic. They all recognize and yearn for truth, justice and mercy! This is what they all want!
+But here is the beautiful thing: We have an "in" to start a discussion with anyone caught up in these ideologies—even the atheist or agnostic. They all recognize and yearn for truth, justice, and mercy! This is what they all want!
 
 For example, we hear cries of "Black lives matter!", "No justice, No Peace", "Silence is violence", "My body, my choice", "Equal pay for equal work", "Trans rights are human rights".
 
-Overlooking "what" they are advocating for, let us realize that these are all cries for justice! And as Christians, we have a very easy question we can ask them
+Overlooking *what* they are advocating for, let us realize that these are all cries for justice! As Christians, we have a very easy question we can ask them:
 
 > Are you seeking perfect justice or imperfect justice?
 
-That opens the door to a conversation about - "What is justice"? "Does it need to be properly tempered with mercy"? "Are we fighting for justice at the expense of others, or justice for all"?
+That opens the door to a conversation about: "What is justice?" "Does it need to be properly tempered with mercy?" "Are we fighting for justice at the expense of others, or justice for all?"
 
-This is just a taste, but you probably already see the point...
+This is just a taste, but you probably already see the point.
 
-And so, as members of the Body of Christ, we have a sacred and moral responsibility to LEARN, UNDERSTAND and SHARE the Catholic integrated vision of love and then to bring it into every corner of our society. Jesus calls us to be the light of the world and the salt of the earth. Let us proclaim the "good news" of God's definition of love and Jesus' example to show us how to live it out SACRIFICALLY.
+And so, as members of the Body of Christ, we have a sacred and moral responsibility to learn, understand, and share the Catholic integrated vision of love, bringing it into every corner of our society. Jesus calls us to be the light of the world and the salt of the earth. Let us proclaim the "good news" of God's definition of love and Jesus' example, showing us how to live it out sacrificially.
 
 > "You are the light of the world. A city set on a mountain cannot be hidden. Nor do they light a lamp and then put it under a bushel basket; it is set on a lampstand, where it gives light to all in the house. Just so, your light must shine before others, that they may see your good deeds and glorify your heavenly Father." (Matthew 5:14-16, NABRE)
 
-The "good news" of the Kingdom of God is that the Catholic Church's teaching of the faith - as it has been handed down to us from Jesus, through the Apostles - teaches that Love is at the heart of the Gospel:
+The "good news" of the Kingdom of God is that the Catholic Church's teaching of the faith—as handed down from Jesus through the Apostles—teaches that Love is at the heart of the Gospel:
 
 > There was a scholar of the law who stood up to test him and said, "Teacher, what must I do to inherit eternal life?" Jesus said to him, "What is written in the law? How do you read it?" He said in reply, "You shall love the Lord, your God, with all your heart, with all your being, with all your strength, and with all your mind, and your neighbor as yourself." He replied to him, "You have answered correctly; do this and you will live." (Luke 10:25-28, NABRE)
 
@@ -158,7 +158,7 @@ and
 
 ### The Gospel
 
-Some say that the Gospel is simply that Jesus died on the Cross to forgive your sins so that you can go to Heaven. But the Gospel is so much more than that! The entire Bible and Jesus' life, ministry, death, resurrection and ascension are all continually teaching us that Love is the heart of the Gospel and that we could say:
+Some say the Gospel is simply that Jesus died on the Cross to forgive your sins so you can go to Heaven. But the Gospel is so much more! The entire Bible—and Jesus' life, ministry, death, resurrection, and ascension—continually teaches us that Love is the heart of the Gospel. We could say:
 
 > Perfect Love is the sacred, sacrificial gift of covenant which binds true justice and true mercy into life-giving communion.
 
@@ -167,9 +167,12 @@ That God is Justice.
 That God is Mercy.
 That God is Love.
 
-In the rest of this article, I just want to touch on the highlights of Catholic teaching on these topics. The Catholic faith is so rich and deep and I pray that this will spur you to want to go deeper in learning your faith, so that you can teach it to others (after all that is what Jesus asked the very first members of His church to do in Matthew 28:18-20 - "teaching them to observe all that I have commanded you")
+In the rest of this article, I want to touch on the highlights of Catholic teaching on these topics. The Catholic faith is rich and deep, and I pray this spurs you to delve deeper into learning your faith so you can teach it to others (after all, that is what Jesus asked the very first members of His Church to do in Matthew 28:18-20: "teaching them to observe all that I have commanded you").
 
-> My plan is to write a full book on this topic, but I am sharing this with you to get your feedback and make sure I am not missing anything.
+> My plan is to write a full book on this topic, but I am sharing this draft to get feedback and ensure I am not missing anything.
+>
+> Part II is basically the "evidence" if you will to back up what I am saying per Catholic teaching. My greatest concern is that I do not want to misrepresent the Church's teaching in any way. I do not believe I am saying anything new here, just trying to put it all together in a way that is easy to understand and share with others.
+
 
 # Part II: Digging in
 
@@ -181,11 +184,11 @@ Pope St. John Paul II in his encyclical "[Veritatis splendor](https://https://ww
 
 > The splendour of truth shines forth in all the works of the Creator and, in a special way, in man, created in the image and likeness of God (cf. Gen 1:26). Truth enlightens man's intelligence and shapes his freedom, leading him to know and love the Lord. Hence the Psalmist prays: "Let the light of your face shine on us, O Lord" (Ps 4:6).
 
-Truth is at is core is the alignment of our thoughts with all of reality (including but not limited to the Bible) as it so beautifully describes in the Catechsim paragraph 2500:
+Truth, at its core, is the alignment of our thoughts with all of reality (including but not limited to the Bible) as it so beautifully describes in the Catechsim paragraph 2500:
 
 > But truth can also find other complementary forms of human expression, above all when it is a matter of evoking what is beyond words: the depths of the human heart, the exaltations of the soul, the mystery of God. Even before revealing himself to man in words of truth, God reveals himself to him through the universal language of creation, the work of his Word, of his wisdom: the order and harmony of the cosmos—which both the child and the scientist discover—'from the greatness and beauty of created things comes a corresponding perception of their Creator,' 'for the author of beauty created them.'"
 
-In other words, God created us with the gift of intellect so that we might be able to recognize His Truth in the reality that we live in. We must use that intellect to discern what is good, true and beautiful - to recognize His "revelation" to us - AND THE CHURCH HAS! For 2000 years of those following Christ and at least another 4000 years before that, in the Jewish people, men have been using their intellect to uncover "Truth" given to us by our Creator. The Catholic teachings of the truth of faith, hope, charity, justice, mercy, virtues and so much more help us understand love deeply.
+In other words, God created us with the gift of intellect so that we might be able to recognize His Truth in the reality that we live in. We must use that intellect to discern what is good, true and beautiful - to recognize His "revelation" to us - AND THE CHURCH HAS! For 2000 years of those following Christ and at least another 4000 years before that, in the Jewish people, man has been using his intellect to uncover "Truth" given to us by our Creator. The Catholic teachings of the truth of faith, hope, charity, justice, mercy, virtues and so much more help us understand love deeply.
 
 And so then, if anyone desires ACTUAl justice and actual MERCY, they must look for "true" justice and "true" mercy. Justice and Mercy - rooted in "Truth" - that comes from our Creator, not simply by human intellect alone - and certainly not from human "opinion" from very unwise people.
 
@@ -199,15 +202,17 @@ Take note also, that if we attempt to deliver justice without mercy, that justic
 
 ### Mercy
 
-I love John Paul II's encyclical "Dives in Misericordia" (Rich in Mercy):
+I love Pope St. John Paul II's encyclical "Dives in Misericordia" (Rich in Mercy):
 
 Mercy is "love's second name" and the "specific manner in which love is revealed and effected vis-à-vis the reality of the evil that is in the world." And also Mercy represents "a special power of love, which prevails over the sin and infidelity of the chosen people."
 
 > "God is the Father Almighty, whose fatherhood and power shed light on one another: God reveals his fatherly omnipotence by the way he takes care of our needs; by the filial adoption that he gives us ("I will be a father to you, and you shall be my sons and daughters, says the Lord Almighty"):109 finally by his infinite mercy, for he displays his power at its height by freely forgiving sins."
 
-CCC 270 tells us that God is a Father and His Mercy is infinite. Think of this - the all-powerful Creator of the Universe has shown us that when we turn away from Truth, Justice and Mercy, He will not condemn us for our sins, but He will forgive us and give us a second chance to turn back towards Him.
+CCC 270 tells us that God is a Father and His Mercy is infinite. Think of this - the all-powerful Creator of the Universe has shown us that even when we turn away from all that is Truth, Justice and Mercy - when we realize the errors of our ways and turn back to Him - He will not condemn us for our sins, but He will generously forgive us and give us a second chance to turn back towards Him.
 
-Mercy is how God responds with compassion when we suffer or sin, and giving us the example that we too should forgive others for the sake of peace and communion in all our relationships. (CCC 1422, 2840)
+In other words, we are capable of committing the most agregious sins against Truth and Justice, but the infinite Mercy of God is always there waiting for us to turn back to Him. This is the heart of the Gospel - that God loves us so much that He is willing to forgive us and give us a second, third, fourth - an infinite number of chances.
+
+Mercy is how God responds with compassion when we suffer or sin, and giving us the example that we too should forgive others for the sake of peace and communion in all our relationships. (CCC 1422, 2840).
 
 And here is where the Catechism gets real: CCC 2840
 
@@ -215,7 +220,9 @@ And here is where the Catechism gets real: CCC 2840
 
 Again, our moral intution shows us that when we wrong others, we desire mercy - we desire forgiveness - why? In order to be "reconciled" to them. And when others wrong us, it is a high act of sacrifice to forgive - and why - we may also want reconciliation and at minimum, we don't want their wrong to have a hold onto us and turn into bitterness and resentment which will turn into more evil.
 
-But note here also, that if we attempt to deliver mercy without justice, that mercy will not fail to be mercy. For example, if someone steals $20,000 and we simply forgive them and let them off the hook, that is not mercy because it will likely encourage them to continue stealing from others. This is mercy without justice which is not true mercy at all because it isn't what is good for the thief or the community.
+But note here also, that if we attempt to deliver mercy without justice, that mercy will fail to be true mercy. For example, if someone steals $20,000 and we simply forgive them and let them off the hook, that is not mercy because it will likely encourage them to continue stealing from others. This is mercy without justice which is not true mercy at all because it isn't what is good for the thief or the community.
+
+Our Father knows how to balance justice and mercy perfectly, and so we should do everything we can to follow His example.
 
 ## Love: The Heart of "The Gospel"
 
@@ -227,7 +234,7 @@ This definition, rooted in Scripture and Church teaching, reveals why the Cathol
 
 *   **Sacred**: Love flows from God Himself — "God is love" (1 John 4:8). It is the highest need we have and the highest gift we can give.
 *   **Sacrificial**: Following Christ's example, authentic love requires sacrifice — "No one has greater love than this, to lay down one's life for one's friends" (John 15:13).
-*   **binds**: We must be bound by (submit our will to) truth, justice, and mercy in God's wisdom, not our own.
+*   **binds**: We must be bound by (submit our will to) truth, justice, and mercy in God's wisdom, not our own ("thy Kingdom come, thy will done").
 *   **Covenant**: Love establishes permanent familial relationships with mutual obligations, respect, honor and care for the common good.
 *   **true**: Love depends on reality as defined by the Creator, if it doesn't line up with who we are as human beings, then it isn't leading us to love.
 *   **Justice**: Love gives God and each person their "due" according to their God-given dignity, rights and responsibilities.
@@ -237,8 +244,8 @@ This definition, rooted in Scripture and Church teaching, reveals why the Cathol
 
 This integrated understanding of love provides us with a powerful framework for both deepening our own faith and evangelizing in today's world.
 
-Note that without on objective reality that is ordered by a loving Creator, love has no meaning, boundaries or purpose other than self-gratification and preservation of the species - we are relegated then to nothing more than animals and anything goes.
-We know deeply that love has rules because even the 100% non-religous feels the pain of betrayal, unfaithfulness, and the need for loyalty in love.
+Note that without on objective reality that is ordered by a loving Creator, love has no meaning, boundaries or purpose other than self-gratification and preservation of the species - we are relegated then to nothing more than mere animals and anything goes.
+We know deeply that love has rules because even the 100% non-religous feels the pain and suffering of murder, rape, theft, betrayal, unfaithfulness, and the need for loyalty in love.
 
 ## The Trinity: Perfect Love in Communion
 
@@ -252,15 +259,19 @@ Holy Communion is our participation in this Trinitarian communion!
 
 The Eucharist is the supreme example of love as the **sacred**, **sacrificial** **gift** that established His **New Covenant** with us, upholds **truth** and **justice**, extends **mercy**, and creates **communion**.
 
-This is why the Eucharist is the source and summit of our Faith. It is our God's supreme example of where truth, justice, mercy, and love are all in perfect communion. And we have been given the gift of experience this perfect love in the Eucharist every day that we can get to Mass!
+This is why the Eucharist is the source and summit of our Faith. It is God's supreme example of where truth, justice, mercy, and love are all in perfect communion. And we have been given the gift of experience this perfect love in the Eucharist every day that we can get to Mass!
+
+On the Cross, The Father's true justice for our sins was served, and His infinite mercy was poured out on us. Jesus' sacrifice on the Cross is the ultimate expression of love, demonstrating the perfect balance of justice and mercy. It is the fulfillment of the Old Covenant and the establishment of the New Covenant, which invites us into a life-giving communion with God and one another.
 
 ## How do we know how to love?
 
-So, to reiterate. Love is that state where justice and mercy are truly balanced according to God's Wisdom. This is one huge reason why Jesus started a Church - so that this collective wisdom can be handed down from one generation to the next. The Catechism of the Catholic Church is an overlooked and beautiful collection of this colletive wisdom.
+So, to reiterate. Love is that state where justice and mercy are truly balanced according to God's Wisdom. This is one huge reason why Jesus started a Church - so that this collective wisdom can be handed down from one generation to the next. The Catechism of the Catholic Church is a beautiful collection of this colletive wisdom.
 
-If you want to know how to love correctly - know the Catechism!
+If you want to know how to love correctly - know the Scriptures and the Catechism!
 
-But even if you don't looking at every moral dilemma through the eyes of "How do we apply God's justice and mercy in this situation" will get you quite far.
+But even if you don't, looking at every moral dilemma through the eyes of "How do we apply God's justice and mercy in this situation" will get you quite far.
+
+Tune your thinking away from "well, here's what I think..." to asking "God, what do you think about this?" and "How do I apply your justice and mercy in this situation?" and you will be well on your way to loving like God loves.
 
 ## The Foundational Principles
 
@@ -275,11 +286,13 @@ And so, God's revelation has taught us these foundation principles:
 
 These principles (and their implications) summon us to willingly surrender our moral understanding and shape how we live our lives. They call us to **freely bind** ourselves to God's design for how we educate and raise our children, treat our neighbors, care for the poor and oppressed, and establish laws and policies.
 
-As Catholics we must not separate "church" and "state" when it comes to establishing laws and policies since most laws and policies have moral implications and require us to consider the moral principles I outlined above.
+As Catholics we must not separate "church" and "state" when it comes to establishing laws and policies as most laws and policies have moral implications and require us to consider the moral principles God has given us.
 
 We don't need the government to be Catholic, but we can and should bring our Catholic Faith into government and demonstrate that when we voluntarily bind ourselves to these truths, we are able to achieve the Declaration of Independence's recognition that all people are "endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty and the pursuit of Happiness."
 
 These God-given rights can only be properly understood and protected when we acknowledge their divine origin and purpose. When we freely bind ourselves to God's moral law, we discover true freedom - not the license to do whatever we want, but the freedom to do what we ought, to pursue virtue, and to build a society that respects the dignity of every human person from conception to natural death.
+
+If anyone desires true justice and true mercy, the Catholic Faith is the way to achieve it. The Catholic Faith as taught to us by Jesus is the way to achieve true love.
 
 ## Responding to Modern Challenges
 
@@ -287,19 +300,19 @@ And so, in light of our new definition of love:
 
 > Perfect love is the sacred, sacrificial gift of covenant which binds true justice and true mercy into life-giving communion.
 
-I would say that modern secular ideologies are actually attempting to achieve the same end - a society that is ordered toward the common good - but they are often missing some key ingredient of love. Let us do a quick review of modern ideologies to see where and why they miss the mark:
+If we look closely, we will notice that modern secular ideologies ARE actually attempting to achieve a "good" end - they are fighting for justice, mercy or love - but they are often missing some key ingredient of love. Let us do a quick review of modern ideologies to see where and why they miss the mark:
 
 *   **Postmodernism** claims that there is no objective truth, rendering authentic love ordered toward anything "good" impossible. There is nothing good, no justice, no mercy, no truth.
 *   **Relativism** claims there is no objective truth, rendering authentic love ordered toward anything "good" impossible. "My Truth" is no truth.
 *   **Liberalism** emphasizes man's desire to establish moral law without an objective truth and so easily distorts the truth of how human beings were made.
 *   **Individualism** prioritizes personal autonomy over covenant relationships. We are all born by and into a family, we are raised and exist in 'community' (note the ideas of 'communion' and 'unity' embedded in the word). We are members of the Body of Christ, the household of God, the Kingdom - not just autonomous individuals. Nothing we do is in isolation.
 *   **Sentimentalism** reduces love to feelings, often separated from truth, commitment or mercy. Convinces people to stay in broken relationships even when when justice and mercy has been violated.
-*   **Marxism** emphasizes a human beings need for power in order to achieve a better society. Completely devoid of truth of how human beings were made.
-*   **Critical Theory** - claims that all human knowledge is a social construct and should be rejected in favor of 'critical' analysis. Causes a disconnect between mind and body which furthers any mental or emotional problems.
+*   **Marxism** based on the false assumption that all human beings desire and need "power" in order to achieve a better society. Completely missed the truth of how human beings were made.
+*   **Critical Theory** - claims that all human knowledge is a social construct and should be rejected in favor of 'critical' analysis. Assumes that human beings can get to truth by assuming the worst motiviations of others and tearing down the systems of society.
 *   **Feminism** emphasizes equility between men and women, ignoring the beauty and complementarity of the male and female. Justice at the expense of truth.
-*   **intersectionality** - divides people into groups based on their identity and then claims that these groups have different truths and needs for justice and mercy. It eventually breaks down all the groups down into an individual and never considers that we exist in community.
+*   **intersectionality** - divides people into groups based on their identity, pits these against one another and then claims that these groups have different truths and needs for justice and mercy. It eventually breaks down all the groups down into an individual and never considers that we exist in community for each other. Eliminates the idea of "common good" and that we are created in the image of God.
 *   **Gender ideology** claims that gender is a social construct, not a biological reality. Causes a disconnect between mind and body which furthers any mental or emotional problems. Truth that we all come from a Creator and are made in his image are cast aside in order to elevate human needs for attention and desires of the flesh to the point of 'God'.
-*   **Wokeism** emphasizes justice for the oppressed, but often divorced from truth or what is just for the entire community. Wokeism is directly influenced by 'critical theory', 'intersectionality', and Marxism all of which are rooted in the same idea that as human beings we can define our own truth and morals.
+*   **Wokeism** emphasizes justice for the oppressed, but often divorced from truth or what is just for the entire community. Wokeism is directly influenced by 'critical theory', 'intersectionality', and Marxism all of which are rooted in the same idea that as human beings we can define our own truth and morals and that our goal should be "power".
 
 All of these broken ideologies have led to the fragmentation of society (opposite of unity and communion) and the breakdown of the family:
 
@@ -313,7 +326,7 @@ When evangelizing or discussing contemporary issues, we can explain that the Cat
 1.  **On human dignity**: Catholic teaching upholds the inherent worth of every person from conception to natural death, not because of the color of their skin, what they do or contribute, but because they are created in God's image. All discussions of justice and mercy must start with this premise!
 2.  **On social justice**: Catholic teaching pursues justice grounded in truth and tempered by mercy, recognizing that authentic justice establishes right relationships for all rather than merely redistributing power, wealth, or status. It is never justice for you if it is not justice for your neighbor.
 3.  **On marriage and family**: Catholic teaching defends the covenant of marriage and the family as the domestic church where love, truth, justice, and mercy are first learned and lived. A healthy family is the foundation of a healthy society.
-4.  **On moral issues**: We uphold moral teachings not as arbitrary rules but as expressions of love that protect human dignity, establish justice and offer mercy - all according to God's perfect wisdom as has been revealed in Sacred Scripture and Sacred Tradition.
+4.  **On moral issues**: We uphold moral teachings not as arbitrary rules but as expressions of love that protect human dignity, establish justice and offer mercy - all according to God's perfect wisdom as has been revealed in Sacred Scripture, Sacred Tradition and the Truth of human nature.
 
 ## Living This Vision in Daily Life
 
@@ -323,8 +336,9 @@ For us as practicing Catholics, this understanding of love transforms how we app
 
 The integrated vision of love deepens our prayer beyond routine:
 
-*   In the **Holy Eucharist**, we re-encounter our covenantal, sacrificial gift of communion with Jesus Himself, the perfect unity of truth, love, justice, and mercy.
-*   In the **Sacrament of Reconciliation**, we experience God's justice and His mercy.
+*   In the Mass and the **Liturgy of the Hours**, we encounter the sacred, sacrificial gift of covenant love in the reading of the Word and experiencing the Holy Eucharist and the prayers of the Church. The more we know him, the more we love Him and our neighbor.
+*   In the **Holy Eucharist**, we re-encounter our covenantal, sacrificial gift of love - communion with Jesus Himself, the perfect unity of truth, love, justice, and mercy.
+*   In the **Sacrament of Reconciliation**, we experience God's justice and His mercy and reunited in our love for Him and our neighbor.
 *   In praying the **Rosary**, we contemplate how Mary's fiat ("Let it be done unto me according to your word") exemplifies sacrificial covenant love.
 *   In all the sacraments, sacramentals, devotionals and prayers - we grow in wisdom, learning and living love of Jesus and our neighbor.
 
@@ -348,6 +362,7 @@ When sharing our faith with others, this understanding of love provides a compel
 *   When sharing with non-Christians, we can approach the discussion of God and religion from purely foundational principles of truth, justice and mercy which they almost certainly already "believe in".
 *   Bottom line - lead with love - but know what love is...
 *   And in all things charity - why? Because we respect and honor every human being as a person created in the image of God.
+*   Don't argue with them - love them. Show them the truth of love in your speech and in patiently listening to them and showing them the love of Christ. We will never convince someone in anger or frustration.
 
 ### In Political Issues
 
@@ -361,8 +376,9 @@ At the heart of our Catholic faith stands the Cross — Jesus' ultimate sacrific
 *   The **truth** about sin's gravity and the punishment we deserve
 *   The **justice** that sin requires, fully satisfied
 *   The **mercy** that offers forgiveness and healing
-*   The **covenant** established in Christ's blood
-*   The **communion** made possible through His sacrifice
+*   The **covenant** established in Christ's blood in the New Covenant
+*   The **sacrifice** of His life for our salvation
+*   The **communion** with God and one another made possible through His sacrifice
 
 When we venerate the Cross or participate in the Mass, we enter into this mystery of integrated love. And when we carry our own crosses in union with Christ, we participate in His redemptive love.
 
