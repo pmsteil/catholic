@@ -2,44 +2,6 @@
 
 ---
 
-## About This Book (Instructions for AI Author)
-
-**Core Purpose:** To help everyday Catholic Christians deepen their understanding and practice of authentic love, grounded in the unity of truth, justice, and mercy, as revealed through Scripture and Tradition. This book aims to equip Catholics to live their faith more fully and engage confidently with contemporary cultural challenges.
-
-**Target Audience:** Practicing Catholics seeking to move beyond ritual participation to a deeper, more integrated faith life. Assumes basic familiarity with Catholic concepts but avoids overly academic jargon. The goal is to be accessible, relatable, and inspiring for the average parishioner.
-
-**Desired Tone:** Personal, direct, urgent, relatable, and passionately evangelistic/apologetic (similar to the `book1-blogpost-for-catholics.md`). Use "we" and "us" frequently to connect with the reader. Incorporate personal anecdotes (marked with placeholders like `[Author Anecdote: ...]`) to illustrate points. Maintain a sense of hope and confidence in the beauty and truth of the Catholic faith.
-
-**Central Definition of Love (Integrate Throughout):**
-
-> **Perfect Love is the sacred, sacrificial gift of covenant which binds true justice and true mercy into life-giving communion.**
-> _(Shorter form: Love is the unity of God's true justice and true mercy.)_
-
-*   **Breakdown:** Explicitly break down _each_ component (sacred, sacrificial, gift, covenant, binds, true justice, true mercy, life-giving, communion) in Chapter 3.
-*   **Application:** Consistently use this definition as a lens to analyze topics in Parts II and III. Regularly ask variations of: "How does this teaching/sacrament/virtue reveal the _sacred/sacrificial/covenantal/binding/truth/justice/mercy/life-giving/communion_ aspect of God's love?" Use blockquotes for emphasis on this definition when reintroduced.
-
-**Key Themes to Emphasize:**
-
-*   The possibility and necessity of objective truth rooted in God (address early).
-*   The innate human intuition for justice and mercy as signposts to God.
-*   The integration of truth, justice, and mercy as essential for authentic love.
-*   The family as the "first school of love" and its societal importance.
-*   Critique of modern ideologies (Wokeism, Relativism, Individualism, etc.) through the lens of the core definition of love (consider Appendix).
-*   The sacraments, prayer, and virtue as essential means of encountering and living God's love.
-*   The call to personal holiness and its connection to evangelization.
-*   Practical application and actionable steps for readers via "Practice & Habit" sections.
-
-**Structural Notes:**
-
-*   Maintain the three-part structure (Problem/Promise, Foundation, Action).
-*   Incorporate insights and specific examples from `book1-blogpost-for-catholics.md`.
-*   Include "Practice & Habit" sections after each chapter's reflection questions.
-*   Use formatting (blockquotes `>`) for emphasis on key definitions, tips, or sidebars.
-*   Integrate the TODO scriptures from the original outline where appropriate.
-*   Add explicit Appendix placeholders at the end.
-*   Highlight the Eucharist at the start of Part II.
-
----
 
 ## Book Purpose: Why This Question Matters Now More Than Ever
 
