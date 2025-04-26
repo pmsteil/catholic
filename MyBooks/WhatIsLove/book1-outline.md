@@ -1240,8 +1240,8 @@ These topics, while beyond the scope of this book, invite us to continue our jou
 
 # Todos:
 
-* Add a statement regarding CCC 271 - that we are not trying to provide a comprehensive answer to the question "What is God?"
-* Scriptures for backing up the binding ourselves to God and his truth, justice, and mercy:
+* Add a statement regarding CCC 271 - that we are not trying to provide a comprehensive answer to the question "What is God?" only to dive deeper into the Catholic understanding of God's love and how we can live in love.
+* Use these scriptures when writing the book to back up the binding ourselves to God and his truth, justice, and mercy:
       - Submission to God's Will & Wisdom over Our Own:
 
          Proverbs 3:5-6: "Trust in the Lord with all your heart, and do not rely on your own insight. In all your ways acknowledge him, and he will make straight your paths." (This directly contrasts relying on our own insight with trusting God's guidance).
