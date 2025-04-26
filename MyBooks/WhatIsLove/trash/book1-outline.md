@@ -90,9 +90,9 @@ Throughout this journey, we'll continually return to our central framework: perf
 
 ## PART I: THE PROBLEM AND THE PROMISE
 
-### Chapter 1: The Desire for the Good: Exposing Virtue Signaling
+### Chapter 1: The Desire for the Good Life: Exposing Virtue Signaling
 
-*Premise: Modern society has created a "tradition" of leaders promoting ideas that sound virtuous but lack foundation, resulting in well-intentioned followers regurgitating concepts like "equity" and "inclusion" without understanding their true meaning or how to achieve them.*
+*Premise: Who wakes up hoping for a terrible day? We all want a good life, some dream of utopia. Modern society teaches various "traditions" of ideas that sound virtuous and promise to solve the worlds problems but most lack foundation, resulting in well-intentioned followers regurgitating concepts like "justice", "equity" and "inclusion" without understanding their true meaning or how to actually achieve them.*
 
 *Key Scriptures:*
 - "People will be self-centered and lovers of money, proud, haughty, abusive, disobedient to their parents, ungrateful, irreligious, callous, implacable, slanderous, licentious, brutal, hating what is good, traitors, reckless, conceited, lovers of pleasure rather than lovers of God, as they make a pretense of religion but deny its power." (2 Timothy 3:2-5, NABRE)

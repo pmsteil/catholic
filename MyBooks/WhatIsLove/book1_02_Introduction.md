@@ -1,6 +1,6 @@
 # Introduction: Your Roadmap for This Journey
 
-Welcome! I'm so glad you're joining me on this exploration of the most vital topic imaginable: Love. This isn't another self-help book; it's a deep dive into the heart of our Catholic faith, uncovering the roadmap God Himself has given us to live lives of authentic love, purpose, and joy and more importantly to join Him on His mission for the Salvation of the World.
+Welcome! I'm so glad you're joining me on this exploration of the most vital topic imaginable: Love. This isn't a self-help book; it's a deep dive into the heart of our Catholic faith, uncovering the roadmap God Himself has given us to live lives of authentic love, purpose, and joy and more importantly to join Him on His mission for the Salvation of the World.
 
 My own journey into the heart of this mystery began when I was 19, on a church retreat at the "Emmaus" retreat center in Panama. It was there God taught me His first lesson, one I have never stopped thinking about, rooted in the words of St. John:
 
@@ -24,4 +24,4 @@ Throughout our journey, we'll keep coming back to the central definition that an
 
 Think of this definition as a multi-faceted diamond. Each chapter will illuminate another facet, showing how every aspect of our faith – Dignity, Truth, Mercy, Justice, Faith, the Cross, the Eucharist, Commandments, Virtues, Sacraments, Prayer, Family, Sainthood, Evangelization – fits perfectly together in God's amazing plan for our happiness. More importantly, we'll explore how *you* can live this definition out more fully, starting today, with practical steps suggested along the way.
 
-Ready? Let's begin.
+Ready? Let's dive in!
