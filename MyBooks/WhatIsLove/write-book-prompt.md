@@ -39,25 +39,25 @@
 
 **Procedure:**
 
-1.  **File Structure Setup:** Based on the `book1-outline_gemini_25_final.md` outline, create the following separate document files (using `.md` format unless otherwise specified):
+1.  **File Structure Setup:** Based on the `book1-outline_gemini_25_final.md` outline, create the following separate document files (using `.md` format unless otherwise specified) and as you complete each file, mark it as completed with a green checkmark (✅):
     *   `book1_00_About_This_Book.md`
-    *   `book1_01_Book_Purpose.md`
-    *   `book1_02_Introduction.md`
-    *   `book1_Part1_Header.md` (For "PART I: THE PROBLEM AND THE PROMISE" intro text, if any)
-    *   `book1_Ch01_Sounding_Good_vs_Being_Good.md`
-    *   `book1_Ch02_That_Little_Voice_Inside.md`
-    *   `book1_Ch03_What_IS_Love_Really.md`
-    *   `book1_Part2_Header.md` (For "PART II: THE FOUNDATION OF LOVE" intro text, including Eucharist highlight)
-    *   `book1_Ch04_Made_for_Love.md`
-    *   `book1_Ch05_Seeing_Clearly_Truth.md`
-    *   `book1_Ch06_The_Healing_Touch_Mercy.md`
-    *   `book1_Ch07_Getting_Things_Right_Justice.md`
-    *   `book1_Ch08_Seeing_with_New_Eyes_Faith.md`
-    *   `book1_Ch09_The_Ultimate_Love_Story_Cross.md`
-    *   `book1_Part3_Header.md` (For "PART III: LOVE IN ACTION" intro text, if any)
-    *   `book1_Ch10_Commandments_Guardrails.md`
-    *   `book1_Ch11_Beyond_Rules_Virtue.md`
-    *   `book1_Ch12_Plugging_In_Sacraments_Prayer.md`
+    *   ✅ - `book1_01_Book_Purpose.md`
+    *   ✅ - `book1_02_Introduction.md`
+    *   ✅ - `book1_Part1_Header.md` (For "PART I: THE PROBLEM AND THE PROMISE" intro text, if any)
+    *   ✅ - `book1_Ch01_Sounding_Good_vs_Being_Good.md`
+    *   ✅ - `book1_Ch02_That_Little_Voice_Inside.md`
+    *   ✅ - `book1_Ch03_What_IS_Love_Really.md`
+    *   ✅ - `book1_Part2_Header.md` (For "PART II: THE FOUNDATION OF LOVE" intro text, including Eucharist highlight)
+    *   ✅ - `book1_Ch04_Made_for_Love.md`
+    *   ✅ - `book1_Ch05_Seeing_Clearly_Truth.md`
+    *   ✅ - `book1_Ch06_The_Healing_Touch_Mercy.md`
+    *   ✅ - `book1_Ch07_Getting_Things_Right_Justice.md`
+    *   ✅ - `book1_Ch08_Seeing_with_New_Eyes_Faith.md`
+    *   ✅ - `book1_Ch09_The_Ultimate_Love_Story_Cross.md`
+    *   ✅ - `book1_Part3_Header.md` (For "PART III: LOVE IN ACTION" intro text, if any)
+    *   ✅ - `book1_Ch10_Commandments_Guardrails.md`
+    *   ✅ - `book1_Ch11_Beyond_Rules_Virtue.md`
+    *   ✅ - `book1_Ch12_Plugging_In_Sacraments_Prayer.md`
     *   `book1_Ch13_Love_Starts_Here_Family.md`
     *   `book1_Ch14_Answering_the_Call_Sainthood.md`
     *   `book1_Ch15_Adventure_Continues.md`
@@ -65,7 +65,7 @@
     *   `book1_Appendix_A_Love_vs_Counterfeits.md`
     *   `book1_Appendix_B_Tools_for_Formation.md`
 2.  **Section-by-Section Drafting:**
-    *   Select a section file to work on.
+    *   Select the next section/chapter to work on. Before you mark that section/chapter complete, make sure the file was created successfully and has all the content you intended.
     *   Consult the corresponding points for that specific section within the Book Outline.
     *   Write the initial draft content for that section directly into its dedicated file, using the outline points as a structural guide and checklist.
     *   Focus on translating outline points into prose, developing ideas, elaborating on concepts, building narrative or arguments, and ensuring all planned topics for the section are addressed.
