@@ -73,6 +73,55 @@ Each chapter will illuminate another facet of this diamond, showing how it all f
 
 Ready? Let's begin.
 
+OLD List of Chapters:
+1: Sounding Good vs. Being Good: Truth Decay and the Emptiness of Virtue Signaling
+2: That Little Voice Inside: Our Built-In Compass for Justice
+3: So, What _IS_ Love, Really? Getting to the Heart of It All
+4: Made for Love: Our Dignity and Divine Spark
+5: Seeing Clearly: The Nature of Truth
+6: The Healing Touch: Mercy as Love's Response to Brokenness
+7: Getting Things Right: Justice as Right Relationship
+8: Seeing with New Eyes: Faith as the Lens of Love
+9: The Ultimate Love Story: Why the Cross Changes Everything
+10: Not Just Suggestions: The Commandments as Love's Guardrails
+11: Beyond the Rules: Becoming People Who LOVE Well (Virtue)
+12: Plugging In: Sacraments and Prayer as Communion with Love Himself
+13: Love Starts Here: Family as the School of Love and Hope for Society
+14: Answering the Call: Sainthood and Sharing the Good News
+15: The Adventure Continues: Living a Life of Love
+
+
+NEW List of Chapters:
+
+Part I: The Problem and the Promise
+1: Sounding Good vs. Being Good: Unmasking Counterfeit Love
+2: The Soul's Compass: Listening to the Whisper Within
+3: What IS Love, Really?: Defining the Heart of the Matter
+4: Made for Love: Our Dignity and Divine Spark
+
+Part II: The multiple facets of Love
+5: Truth: Love's Sacred Clarity
+6: Mercy: Love's Sacred Healing
+7: Justice: Love's Sacred Guardian
+8: Faith: Love's Sacred Covenant
+9: The Cross: Where Love Meets Reality
+10: The Commandments: Love's Guiding Principles
+11: Virtues: The Habits of a Loving Life (Prudence, Justice, Fortitude, Temperance, Humility, Charity, Patience, Kindness, Generosity, Chastity)
+13: Joy: Love's Sacred
+14: Peace: Love's Sacred Rest
+15: Self-Control: Love's Sacred Discipline
+16: Intamacy: Love's Sacred Union
+
+Part III: Living in Love
+12: Sacraments: Love's Sacred Intimacy
+16: Prayer: Love's Sacred Conversation
+17: Family: Love's Sacred School
+18: Saints: Love's Sacred Examples
+19: Holiness: Love's Sacred Calling
+20: Evangelization: Love's Sacred Mission
+21: The Eucharist: Love's Sacred Source and Summit
+
+
 ---
 
 ## PART I: THE PROBLEM AND THE PROMISE

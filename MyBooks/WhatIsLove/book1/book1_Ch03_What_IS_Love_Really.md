@@ -4,7 +4,7 @@
 
 "God is Love." We hear it all the time. We say it. Maybe we've even got it on a t-shirt or a bumper sticker. But do we really *get* it? Do we understand the earth-shattering, life-altering reality packed into those three simple words? What does it truly *mean*?
 
-Our culture throws the word "love" around like cheap confetti. It's slapped onto fleeting feelings, intense attractions, sentimental movies, and sometimes, just a vague sense of tolerance or niceness. We "love" pizza, we "love" that new song, we "love" the idea of being loved. But the love that *God is* – the love that forms the absolute bedrock of our Catholic faith, the love that holds the universe together – is infinitely bigger, stronger, fiercer, and yes, far more *demanding* than anything the world offers under that name.
+Our culture throws the word "love" around like cheap confetti. It's slapped onto fleeting feelings, intense attractions, sentimental movies, and sometimes, just a vague sense of tolerance or niceness. We "love" pizza, we "love" that new song, we "love" the idea of being loved. "Love is Love". But the love that *God is* – the love that forms the absolute bedrock of our Catholic faith, the love that holds the universe together – is infinitely bigger, stronger, fiercer, and yes, far more *demanding* than anything the world offers under that name.
 
 This chapter is about cutting through the noise, the fuzziness, the cheap imitations. It's about getting to the heart of what love *really* is, according to the One who invented it. Because understanding this isn't just theological trivia; it's the key to understanding ourselves, our purpose, our relationships, and the very meaning of salvation.
 
@@ -30,9 +30,13 @@ Building on this incredible treasury of wisdom, and after much prayer, study, an
 > **Canonical Definition:**
 > **Perfect Love is the sacred, sacrificial gift of covenant which binds true justice and true mercy into life-giving communion.**
 
-Let's pause on that. Read it again. It might seem dense at first, but every word is packed with meaning. A shorter way to think about it, capturing the essential dynamic, is:
+Let's pause on that. Read it again. It is a dense sentence, every word is packed with meaning. A shorter way to think about it, capturing the essential dynamic, is:
 
-> _(Shorter form: Love is the unity of God's true justice and true mercy.)_
+> _ Love is the unity of God's true justice and true mercy. _
+
+or an even shorter, more memorable way of putting it:
+
+> _ Love is True Justice AND True Mercy. _
 
 But the longer definition gives us the full picture. Let's break it down.
 
@@ -40,13 +44,18 @@ But the longer definition gives us the full picture. Let's break it down.
 
 To truly understand what Catholic love entails, we need to examine each piece of that definition:
 
-*   **Sacred:** This isn't just about warm human affection or camaraderie, as good as those can be. The love we're talking about originates *from God*. It participates *in His divine life*. It's set apart, holy, transcendent. It calls us beyond the merely natural into the supernatural. When we love authentically, we are touching something of God Himself.
+*   **Sacred:** This isn't just about warm human affection or camaraderie, as good as those can be. The love we're talking about originates *from God*. It participates *in His divine life*. It's set apart, holy, transcendent. It calls us beyond the merely natural into the supernatural. When we love authentically, we are touching something of God Himself. We feel this sacredness when we birth a child, lose a close loved one and in the sexual embrace. As Catholics we feel this sacredness every time we approach the altar and enter into Holy Communion with our Lord.
 
-*   **Sacrificial:** Real love always costs something. It mirrors the ultimate act of love: Christ laying down His life for us. "No one has greater love than this, to lay down one's life for one's friends" (John 15:13). This doesn't always mean physical death, but it *always* requires self-denial. It means putting the true good of the other person ahead of our own comfort, preferences, ego, or desires. It involves dying to self, moment by moment. As St. Paul reminds us, love "is not self-seeking" (1 Corinthians 13:5).
+*   **Sacrificial:** Real love always costs something. It mirrors the ultimate act of love: Christ laying down His life for us. "No one has greater love than this, to lay down one's life for one's friends" (John 15:13). This doesn't always mean physical death, but it *always* requires self-denial. It means putting the true good of the other person ahead of our own comfort, preferences, ego, or desires. It involves dying to self, moment by moment. As St. Paul reminds us, love "is not self-seeking" (1 Corinthians 13:5). Jesus calls us - "IF YOU WANT TO FOLLOW ME, DENY YOURSELF, PICK UP YOUR CROSS AND FOLLOW ME". When we love for the good of the other, it requires some type of sacrifice on our part - time, money, energy and perhaps even one day our very lives. This is the love we are called to.
 
-*   **Gift:** Love, in its essence, is freely given. It cannot be earned, merited, or demanded. God's love for us is the ultimate example: "In this is love: not that we have loved God, but that he loved us and sent his Son as expiation for our sins" (1 John 4:10). He loved us first (1 John 4:19), while we were still sinners, unworthy of His love. We are called to love others with that same gratuitousness, without expecting repayment or keeping score.
+*   **Gift:** Love, in its essence, is freely given. It cannot be earned, merited, or demanded. God's love for us is the ultimate example: "In this is love: not that we have loved God, but that he loved us and sent his Son as expiation for our sins" (1 John 4:10). He loved us first (1 John 4:19), while we were still sinners, unworthy of His love. We are called to love others with that same gratuitousness, without expecting repayment or keeping score. The responsibilities of love are given voluntarily, not because they are required, but out of gratitude, honor and justice.
 
-*   **Covenant:** This is a crucial distinction. The world often treats relationships like contracts: "I'll do my part if you do yours." If one party fails, the contract is void. But God's love establishes a *covenant* – a permanent, sacred family bond. Think of God's covenants with Noah, Abraham, Moses, and ultimately, the New Covenant sealed in Christ's blood. Think of the Sacrament of Matrimony. Covenants involve deep obligations, unbreakable promises, and a commitment that endures even when one party falters. It's about belonging, faithfulness, and permanence.
+*   **Covenant:** This is a crucial distinction. The world often treats relationships like contracts: "I'll do my part if you do yours." If one party fails, the contract is void. But God's love establishes a *covenant* – a permanent, sacred family bond. Think of God's covenants with Adam, Noah, Abraham, Moses and David and ultimately, the New Covenant sealed in Christ's blood. Don'pt think contract, think marriage until death do you part. Covenants involve deep obligations, voluntariy unbreakable promises, and a commitment that endures even when one party falters. It's about belonging, faithfulness, and permanence.
+
+
+BOOKMARK...
+
+
 
 *   **Binds:** Here we get to the dynamic heart of the definition. Authentic love doesn't pick and choose; it *binds* together essential realities that our fallen world constantly tries to separate. Specifically, it holds together truth, justice, and mercy. This requires us to *submit* our own limited understanding, our fluctuating feelings, and the world's opinions to the unchanging wisdom of God. We must willingly bind ourselves to:
 
