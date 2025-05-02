@@ -2,18 +2,21 @@
 
 ## Objective
 
-Systematically generate the complete first draft of this book by expanding the provided outline into individual markdown files for every designated part/chapter.
+Systematically generate the complete first draft of this book by expanding the provided outline into individual markdown files for every designated part/chapter, following a phased approach with user review checkpoints.
 
 ## Input:
 
-A detailed Book Outline (`book1_v2_outline.md`) that includes all major parts and chapters. Specific writing guidelines are provided below.
+1.  **Master Outline:** `book1_v2_outline.md` (Contains the overall structure and chapter titles).
+2.  **Detailed Outline Points:** Assumed to be available from previous work or to be generated in the outlining phase.
+3.  **Writing Style Reference:** `book1-blogpost-for-catholics.md`.
+4.  **Specific Writing Guidelines:** Provided below.
 
 ## Writing Style and Guidelines
 
 1.  **Writing Style Reference:** Use the provided `book1-blogpost-for-catholics.md` as a reference for writing style, tone, and approach. Incorporate relevant content, examples, and anecdotes from this blog post where appropriate throughout the draft.
 2.  **Core Purpose:** To help everyday Catholic Christians deepen their understanding, digestion, and practice of authentic love (grounded in the unity of truth, justice, and mercy), enabling them to love their Lord more deeply and be a light in the darkness of society. The book should equip Catholics to become laser-focused in the practice of their faith, engage confidently with contemporary cultural challenges, and implicitly demonstrate how true faith works through love (countering "faith alone" narratives).
 3.  **Desired Tone:** Personal, direct, urgent, relatable, and passionately evangelistic/apologetic (similar to the `book1-blogpost-for-catholics.md`). Use "we" and "us" frequently to connect with the reader. Incorporate personal anecdotes (marked with placeholders like `[Author Anecdote: ...]`) to illustrate points. Maintain a sense of hope and confidence in the beauty and truth of the Catholic faith.
-4.  **Narrative Flow and Cohesion:** Maintain awareness of the overall book structure outlined in `book1_v2_outline.md`. Ensure smooth transitions between chapters, building upon previous concepts without unnecessary repetition. Each chapter should contribute to the book's progressive argument and narrative arc.
+4.  **Narrative Flow and Cohesion:** Maintain awareness of the overall book structure outlined in `book1_v2_outline.md` and the progress tracked below. Ensure smooth transitions between chapters, building upon previous concepts without unnecessary repetition. Each chapter should contribute to the book's progressive argument and narrative arc.
 5.  **Central Definition of Love (Integrate Throughout):**
 
     > **Perfect Love is the sacred, sacrificial gift of covenant which binds true justice and true mercy into life-giving communion.**
@@ -22,12 +25,12 @@ A detailed Book Outline (`book1_v2_outline.md`) that includes all major parts an
     *   **Breakdown:** Explicitly break down _each_ component (sacred, sacrificial, gift, covenant, binds, true justice, true mercy, life-giving, communion) in the chapter defining love (currently Ch 14).
     *   **Application:** Consistently use this definition as a lens to analyze topics in every chapter. Regularly ask variations of: "How does this teaching/sacrament/virtue reveal the _sacred/sacrificial/covenantal/binding/truth/justice/mercy/life-giving/communion_ aspect of God's love?" Use blockquotes for emphasis on this definition when reintroduced.
 
-6.  **Chapter Structure (Narrative with Devotional Elements):** Each chapter should follow this structure:
+6.  **Chapter Structure (Narrative with Devotional Elements):** Each chapter's narrative draft should follow this structure:
     *   **Opening:**
         *   Start with a relevant **Key Scripture Verse**.
         *   Follow with a relevant **Catechism of the Catholic Church (CCC) Paragraph**.
     *   **Body:**
-        *   Develop the chapter's theme based on the outline points, using the narrative style and tone defined above.
+        *   Develop the chapter's theme based on the approved chapter outline points, using the narrative style and tone defined above.
         *   Integrate other relevant Scripture and CCC references naturally within the text where needed to support points.
         *   Include placeholders for personal anecdotes (`[Author Anecdote: ...]`).
     *   **Closing:**
@@ -37,25 +40,98 @@ A detailed Book Outline (`book1_v2_outline.md`) that includes all major parts an
         *   **Further Study - Catechism:** List a few additional relevant CCC paragraph numbers.
         *   **Prayer Practice:** Suggest a fitting Catholic devotional practice (e.g., a specific Rosary mystery, a Litany, Act of Contrition/Faith/Hope/Love, prayer to the Holy Spirit, prayer to a relevant saint) explicitly linking the chapter's theme to the prayer's intention (e.g., understanding the theme more deeply, praying for the Salvation of the World).
 
-## File Structure and Drafting Process
+## Drafting Workflow and Progress Tracking
 
-1.  **File Structure Setup:** Based on the `book1_v2_outline.md` outline, create the necessary separate document files (using `.md` format) in the `./book1_v2/` directory. Use a clear naming convention (e.g., `01_Part1_Header.md`, `02_Ch01_The_Problem.md`).
-2.  **Part-by-Part Drafting:**
-    *   Select the next incomplete part/chapter file to work on.
-    *   Consult the corresponding points for that specific part within the Book Outline (`book1_v2_outline.md`).
-    *   Write the initial draft content for that part directly into its dedicated file, following the **Chapter Structure** guidelines above.
-    *   Focus on translating outline points into prose, developing ideas, elaborating on concepts, building narrative or arguments, and ensuring all planned topics for the part are addressed.
-    *   Use the provided `book1-blogpost-for-catholics.md` as a reference for style and content, integrating relevant examples and anecdotes.
-    *   Ensure the content is engaging, accessible, and relatable to the target audience.
-    *   Use the core definition of love as a lens throughout.
-    *   Use the following formatting conventions:
-        *   Use blockquotes for key definitions, Scripture/CCC openings, takeaways, or sidebars.
-        *   Use headings (e.g., `## Chapter Takeaway`, `### Reflection Question`) to structure the content clearly.
-        *   Use bullet points or numbered lists for clarity where appropriate.
-    *   Use placeholders for personal anecdotes (e.g., `[Author Anecdote: ...]`).
-    *   Ensure each part/chapter file is comprehensive, covering all points in the outline for that part.
-    *   Prioritize getting the core substance and flow down. Do not overly focus on perfect grammar, style, or formatting at this stage; the goal is a complete initial version of the content for each part.
+**Tracking Markers:**
+*   `[]`: Not Started
+*   `[O]`: Outline Generated (Ready for User Review)
+*   `[D]`: Narrative Drafted (Ready for User Review/Edit)
+*   `[x]`: Final User Approval
+
+**Workflow Steps:**
+
+1.  **Select Chapter:** Identify the next chapter marked `[]` in the "Drafting Progress" list below.
+2.  **Generate Chapter Outlines:** Extract relevant points from the master outline (`book1_v2_outline.md`) and the structure noted in the 'Chapter Structure' and any relevant prior discussion and ask the user for any clarifications or questions you have in order to write the outline. Structure these points logically for the specific chapter. Write this detailed plan to a new file in the `./book1_v2/outlines/` directory (e.g., `./book1_v2/outlines/01_Ch01_outline.md`).
+3.  **Mark as Outlined:** Update the tracking list below, changing the chapter's status from `[]` to `[O]`.
+4.  **Proceed to write the outline for the next chapter.**
+5.  **Human Review of Outline:** Once all outlines are generated, wait for the user to review the chapter outline files before proceeding to the next step.
+6.  **Draft Narrative:** Once the user confirms the chapter outlines, draft the full chapter narratives into the main chapter file (e.g., `./book1_v2/01_Ch01_Problem_Suffering_Evil.md`), strictly following the approved chapter outline and the overall prompt guidelines (tone, structure, devotional elements, etc.).
+7.  **Mark as Drafted:** Update the tracking list below, changing the chapter's status from `[O]` to `[D]`. Present the drafted narrative file path to the user.
+8.  **Human Review/Edit of Draft:** User reviews and edits the drafted narrative file.
+9.  **Human Approval:** User signals final approval (e.g., by stating "Chapter X is approved"). The AI will then update the status from `[D]` to `[x]` in this prompt for the next turn.
+
+**Drafting Progress:**
+
+**Part I: The Problem - Suffering, Confusion, and the Search for Love**
+*   [O] 1: The Problem of Suffering and Evil - Why is there so much pain in the world?
+*   [O] 2: The Cry for Love - The Desire for Connection and Belonging
+*   [O] 3: The Cry for Justice - The Yearning for Right Relationships
+*   [O] 4: The Cry for Mercy - The Desire for Healing and Forgiveness
+*   [O] 5: Unmasking Counterfeit Love - Critical Theory, Intersectionality and Wokeness
+*   [O] 6: Unmasking Counterfeit Love - Sentimentalism
+*   [O] 7: Unmasking Counterfeit Love - Relativism and Liberalism
+*   [O] 8: Unmasking Counterfeit Love - Individualism
+*   [O] 9: Unmasking Counterfeit Love - Feminism
+*   [O] 10: Unmasking Counterfeit Love - Marxism/Socialism/Communism
+*   [O] 11: Unmasking Counterfeit Love - Postmodernism
+*   [O] 12: Unmasking Counterfeit Love - "Sexualism"
+*   [O] 13: The Answer to Counterfeit Love - The Catholic Vision of Love
+
+**Part II: The Source of Love - What Love Is**
+*   [O] 14: What IS Love, Really?: Defining the Heart of the Matter
+*   [O] 15: Grace: Love's Sacred Source (Love requires God)
+*   [O] 16: Made for Love: Our Dignity and Divine Spark
+*   [O] 17: The Holy Spirit: Love's Inner Fire
+
+**Part III: The Facets of Love - What Love Requires**
+*   [O] 18: Theological Virtues: Love's Sacred Foundation - Faith, Hope, Charity
+*   [O] 19: Faith: Love's Sacred Covenant
+*   [O] 20: Hope: Love's Sacred Horizon
+*   [O] 21: Truth: Love's Sacred Clarity
+*   [O] 22: Mercy: Love's Sacred Healing
+*   [O] 23: Justice: Love's Sacred Honor
+*   [O] 24: The Cross: Love's Sacred Sacrifice
+*   [O] 25: The Commandments: Love's Sacred Boundaries
+*   [O] 26: Cardinal Virtues: Love's Sacred Strength - Prudence, Justice, Fortitude, Temperance
+*   [O] 27: Prudence: Love's Sacred Discernment
+*   [O] 28: Fortitude: Love's Sacred Courage
+*   [O] 29: Temperance: Love's Sacred Balance
+*   [O] 30: Moral Virtues: Love's Sacred Character - Humility, Generosity, Patience, Kindness, Diligence, Chastity, Meekness, Obedience, Gratitude, Truthfulness
+*   [O] 31: Humility: Love's Sacred Foundation
+*   [O] 32: Generosity: Love's Sacred Abundance
+*   [O] 33: Patience: Love's Sacred Endurance
+*   [O] 34: Kindness: Love's Sacred Compassion
+*   [O] 35: Diligence: Love's Sacred Commitment
+*   [O] 36: Chastity: Love's Sacred Purity
+*   [O] 37: Meekness: Love's Sacred Strength
+*   [O] 38: Obedience: Love's Sacred Submission
+*   [O] 39: Gratitude: Love's Sacred Appreciation
+*   [O] 40: Truthfulness: Love's Sacred Honesty
+*   [O] 41: Self-Control: Love's Sacred Discipline
+*   [O] 42: Intimacy: Love's Sacred Union
+
+**Part IV: The Fruits of Love - What Love Produces**
+*   [O] 43: Joy: Love's Sacred Delight
+*   [O] 44: Peace: Love's Sacred Rest
+*   [O] 45: Patience: Love's Sacred Endurance
+*   [O] 46: Kindness: Love's Sacred Generosity
+*   [O] 47: Goodness: Love's Sacred Integrity
+*   [O] 48: Faithfulness: Love's Sacred Loyalty
+*   [O] 49: Growth: Love's Sacred Flourishing
+
+**Part V: The Practices of Love - How we grow in Love**
+*   [O] 50: The Church: Love's Sacred Community of the Body of Christ
+*   [O] 51: Self-Denial: Days of Obligation, Fasting, Abstinence, Almsgiving, Long-suffering, Perseverance
+*   [O] 52: Sacraments: Love's Sacred Intimacy and Nourishment
+*   [O] 53: Prayer: Love's Sacred Conversation
+*   [O] 54: Family: Love's Sacred School
+*   [O] 55: Saints: Love's Sacred Examples
+*   [O] 56: Holiness: Love's Sacred Calling
+*   [O] 57: Evangelization: Love's Sacred Mission
+*   [O] 58: The Eucharist: Love's Sacred Source and Summit
+
+*(Note: Add Part/Appendix Headers as needed, e.g., `[] 00_Part1_Header.md`)*
 
 ## Output
 
-A comprehensive set of individual files, each containing the first draft content for one specific part/chapter of the book according to the specified structure, ready for subsequent human review and revision.
+A comprehensive set of individual files for chapter outlines and narrative drafts, following the phased workflow and ready for subsequent human review and revision at each stage.
