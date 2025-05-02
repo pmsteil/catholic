@@ -78,6 +78,7 @@ OLD List of Chapters:
 2: That Little Voice Inside: Our Built-In Compass for Justice
 3: So, What _IS_ Love, Really? Getting to the Heart of It All
 4: Made for Love: Our Dignity and Divine Spark
+
 5: Seeing Clearly: The Nature of Truth
 6: The Healing Touch: Mercy as Love's Response to Brokenness
 7: Getting Things Right: Justice as Right Relationship
@@ -85,6 +86,7 @@ OLD List of Chapters:
 9: The Ultimate Love Story: Why the Cross Changes Everything
 10: Not Just Suggestions: The Commandments as Love's Guardrails
 11: Beyond the Rules: Becoming People Who LOVE Well (Virtue)
+
 12: Plugging In: Sacraments and Prayer as Communion with Love Himself
 13: Love Starts Here: Family as the School of Love and Hope for Society
 14: Answering the Call: Sainthood and Sharing the Good News
@@ -96,30 +98,46 @@ NEW List of Chapters:
 Part I: The Problem and the Promise
 1: Sounding Good vs. Being Good: Unmasking Counterfeit Love
 2: The Soul's Compass: Listening to the Whisper Within
+
+Part II: The Source of Love - What Love Is
+The source of all love is God Himself, who is Love. He is like the Sun. All of the life-giving warmth and light we experience comes from Him.
 3: What IS Love, Really?: Defining the Heart of the Matter
+5: Grace: Love's Sacred Source (Love requires God)
 4: Made for Love: Our Dignity and Divine Spark
 
-Part II: The multiple facets of Love
-5: Truth: Love's Sacred Clarity
-6: Mercy: Love's Sacred Healing
-7: Justice: Love's Sacred Guardian
-8: Faith: Love's Sacred Covenant
-9: The Cross: Where Love Meets Reality
-10: The Commandments: Love's Guiding Principles
-11: Virtues: The Habits of a Loving Life (Prudence, Justice, Fortitude, Temperance, Humility, Charity, Patience, Kindness, Generosity, Chastity)
-13: Joy: Love's Sacred
-14: Peace: Love's Sacred Rest
-15: Self-Control: Love's Sacred Discipline
-16: Intamacy: Love's Sacred Union
+Part II: The Facets of Love - What Love Requires
+God ignites the fire of love in our hearts, and we are called to fan that flame into a laser focus that transforms our lives and the world around us. This fire is fueled by the Holy Spirit and requires us to live in a way that reflects God's love.
+6: Truth: Love's Sacred Clarity (Love requires clear understanding and alignment with reality)
+7: Mercy: Love's Sacred Healing (Love requires restoration, mending wounds, and offering forgiveness)
+8: Justice: Love's Sacred Honor (Love requires upholding dignity, rights, and right relationship)
+9: Faith: Love's Sacred Covenant (Love requires a deep, trusting, committed bond)
+10: The Cross: Love's Sacred Sacrifice (Love requires self-giving, even unto death)
+11: The Commandments: Love's Sacred Boundaries (Love requires guidance and protection from harm)
+12: Theological Virtues: Love's Sacred Foundation (Love requires faith, hope, and charity) - Faith, Hope, Charity
+12: Cardinal Virtues: Love's Sacred Strength (Love requires inner fortitude and structure) - Prudence, Justice, Fortitude, Temperance
+13: Moral Virtues: Love's Sacred Character (Love requires becoming a person of good habits) - Humility, Generosity, Patience, Kindness, Diligence, Chastity, Meekness, Obedience, Gratitude, Truthfulness
 
-Part III: Living in Love
-12: Sacraments: Love's Sacred Intimacy
-16: Prayer: Love's Sacred Conversation
-17: Family: Love's Sacred School
-18: Saints: Love's Sacred Examples
-19: Holiness: Love's Sacred Calling
-20: Evangelization: Love's Sacred Mission
-21: The Eucharist: Love's Sacred Source and Summit
+14: Self-Control: Love's Sacred Discipline (Love requires mastery over selfish impulses)
+15: Intimacy: Love's Sacred Union (Love requires/seeks deep connection and communion)
+
+Part III: The Fruits of Love - What Love Produces
+When the fire of our love is focused into a laser, it produces incredible fruit in our lives and the world around us. These fruits are how we know that we are living in love and how we can recognize love in others.
+16: Joy: Love's Sacred Delight (Love produces deep, abiding joy)
+17: Peace: Love's Sacred Rest (Love brings true peace and harmony)
+18: Patience: Love's Sacred Endurance (Love brings the strength to endure trials)
+19: Kindness: Love's Sacred Generosity (Love expresses itself in acts of kindness)
+20: Goodness: Love's Sacred Integrity (Love embodies moral goodness and virtue)
+21: Faithfulness: Love's Sacred Loyalty (Love remains steadfast and true)
+
+
+Part IV: Living in Love
+22: Sacraments: Love's Sacred Intimacy and Nourishment
+23: Prayer: Love's Sacred Conversation
+24: Family: Love's Sacred School
+25: Saints: Love's Sacred Examples
+26: Holiness: Love's Sacred Calling
+27: Evangelization: Love's Sacred Mission
+28: The Eucharist: Love's Sacred Source and Summit
 
 
 ---
@@ -275,6 +293,7 @@ _Goal: To unpack the core Catholic understanding of love, moving beyond fuzzy fe
 _\[Author Anecdote: Use the Emmaus retreat story here if not used in the Introduction, or another story about a moment of clarity regarding love.\]_
 
 > As Pope Benedict XVI reminds us, "Love is possible, and we are able to practise it because we are created in the image of God." (_Deus Caritas Est_, 39)
+> "We love because he first loved us" (1 John 4:19).
 > "God is Love." We hear it, we say it, maybe we even put it on a bumper sticker. But do we really _get_ it? What does it _mean_? Our culture throws the word "love" around constantly, often reducing it to a feeling, an attraction, or simple tolerance. But the love that _God is_ – the love that's the very heart of our faith – is so much bigger, stronger, and more demanding than that.
 
 _Key Scriptures:_ (1 John 4:16, John 13:34-35, John 14:21, John 3:16, 1 John 4:10-11, 1 Corinthians 13:4-6, 1 Corinthians 13:13, John 15:13, 1 John 4:9, 1 John 4:18, 1 John 4:19-20)
