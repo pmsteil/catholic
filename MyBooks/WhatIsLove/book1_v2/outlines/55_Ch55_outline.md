@@ -1,22 +1,22 @@
 # Chapter 55 Outline: Saints: Love's Sacred Examples
 
 ## Chapter Title:
+
 55: Saints: Love's Sacred Examples
 
 ## Part V Context:
+
 Continuing the exploration of the Practices of Love, this chapter focuses on the Saints. Following the discussion on the Family (Ch 54), the Saints are presented as our extended spiritual family within the Church (Ch 50), providing powerful **sacred examples** and intercessors who model how to live authentic **sacrificial**, **covenantal** love and achieve **life-giving communion** with God.
 
 ## I. Opening
 
-*   **Key Scripture Verse:**
-    | Verse         | Text                                                                                                                                                           |
-    |---------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|
-    | Hebrews 12:1  | "Therefore, since we are surrounded by so great a cloud of witnesses, let us also lay aside every weight, and sin which clings so closely, and let us run with perseverance the race that is set before us," |
+| Verse | Text |
+| --- | --- |
+| Hebrews 12:1 | "Therefore, since we are surrounded by so great a cloud of witnesses, let us also lay aside every weight, and sin which clings so closely, and let us run with perseverance the race that is set before us," |
 
-*   **Key CCC Paragraph:**
-    | Paragraph | Text                                                                                                                                                                                                                                                                                                                      |
-    |-----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-    | CCC 956   | "The intercession of the saints. 'Being more closely united to Christ, those who dwell in heaven fix the whole Church more firmly in holiness... They do not cease to intercede with the Father for us, as they proffer the merits which they acquired on earth through the one mediator between God and men, Christ Jesus... So by their fraternal concern is our weakness greatly helped.'" |
+| Paragraph | Text |
+| --- | --- |
+| CCC 956 | "The intercession of the saints. 'Being more closely united to Christ, those who dwell in heaven fix the whole Church more firmly in holiness... They do not cease to intercede with the Father for us, as they proffer the merits which they acquired on earth through the one mediator between God and men, Christ Jesus... So by their fraternal concern is our weakness greatly helped.'" |
 
 ## II. Body: Developing the Theme
 
@@ -27,17 +27,17 @@ Continuing the exploration of the Practices of Love, this chapter focuses on the
     *   Define Saints (capital 'S') as those officially recognized by the Church (canonized) for their heroic virtue and union with God, now enjoying the Beatific Vision (CCC 828).
     *   Also acknowledge the broader "communion of saints" (small 's') includes all the faithful, living and deceased, united in Christ (CCC 946-948). Focus here is primarily on the canonized Saints.
 3.  **Saints as Sacred Examples:**
-    *   They are the "cloud of witnesses" (Heb 12:1) showing us it *is* possible to live a life of heroic love and virtue, aided by grace (Ch 15).
+    *   They are the "cloud of witnesses" (Heb 12:1) showing us it _is_ possible to live a life of heroic love and virtue, aided by grace (Ch 15).
     *   Their diverse lives demonstrate countless ways to embody **sacrificial**, **covenantal** love in various circumstances (martyrs, virgins, pastors, spouses, scholars, mystics, etc.). They make holiness concrete.
     *   Studying their lives provides inspiration, practical wisdom (Prudence - Ch 27), and encouragement (Hope - Ch 20).
 4.  **Saints as Intercessors:**
     *   Explain the Catholic doctrine of the intercession of saints (CCC 956, 2683). United closely to Christ, they pray for us still on earth.
-    *   Asking for their prayers is *not* worship (due to God alone - **true justice** Ch 23), but asking our heavenly family members for help, just as we ask earthly friends. It strengthens **communion**.
+    *   Asking for their prayers is _not_ worship (due to God alone - **true justice** Ch 23), but asking our heavenly family members for help, just as we ask earthly friends. It strengthens **communion**.
 5.  **Relationship, Not Just Admiration:**
     *   Encourage developing a relationship with specific patron saints or those whose lives resonate. They are friends in heaven eager to help us on our journey. This fosters **sacred intimacy**.
 6.  **Saints and the Core Definition of Love:**
     *   Connect the Saints explicitly to the components from Ch 14:
-        *   **Sacred Examples:** They *are* **sacred examples** of the definition lived out.
+        *   **Sacred Examples:** They _are_ **sacred examples** of the definition lived out.
         *   **Sacrifice:** Their lives universally demonstrate heroic **sacrifice**.
         *   **Gift:** They received God's **sacred gift** of grace abundantly and offered their lives as a **gift**.
         *   **Covenant:** They lived the **sacred covenant** with heroic fidelity.
@@ -63,6 +63,7 @@ Continuing the exploration of the Practices of Love, this chapter focuses on the
 *   **Prayer Practice:** Pray the Litany of the Saints. Intention: To consciously connect with the "great cloud of witnesses," asking for the intercession of the whole heavenly family to help us imitate their **sacred examples** of virtue, persevere in the **sacred covenant**, and attain **life-giving communion**.
 
 ## Relevant Quotes (Saints, Theologians, Popes)
+
 *   "The saints must be honored as friends of Christ and children and heirs of God. Let us carefully observe the manner of life of all the apostles, martyrs, ascetics, and just men who announced the coming of the Lord. And let us emulate their faith, charity, hope, zeal, life, patience under suffering, and perseverance unto death so that we may also share their crowns of glory.” - St. John of Damascus
-*   "Just as in a physical body the operation of one member contributes to the good of the whole body, so it is in a spiritual body such as the Church. And since all the faithful are one body, the good of one member is communicated to another; everyone members, as the Apostle says, of one another [Eph 4:25]. For that reason, among the points of faith handed down by the Apostles, is that there is a community of goods in the Church, and this is expressed in the words Communion of Saints.” - St. Thomas Aquinas
+*   "Just as in a physical body the operation of one member contributes to the good of the whole body, so it is in a spiritual body such as the Church. And since all the faithful are one body, the good of one member is communicated to another; everyone members, as the Apostle says, of one another \[Eph 4:25\]. For that reason, among the points of faith handed down by the Apostles, is that there is a community of goods in the Church, and this is expressed in the words Communion of Saints.” - St. Thomas Aquinas
 *   "Let us turn to the example of the saints. They were people like us, flesh and bone, with failings and weaknesses, who managed to conquer and master themselves for the love of God. Let us consider their lives and, like bees who distill precious nectar from each flower, we shall learn from their struggles.” - St. Josemaria Escriva

@@ -8,11 +8,12 @@ Building upon the theological virtues (Ch 18-20) and the essential requirements 
 
 ## I. Opening
 
-*   **Key Scripture Verse:**
+
     | Reference     | Text                                                                                                                                                           |
     |---------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|
     | Wisdom 8:7    | "And if any one loves righteousness, her labors are virtues; for she teaches self-control [Temperance] and prudence, justice and courage [Fortitude]; nothing in life is more profitable for men than these." |
-*   **Key CCC Paragraph:**
+
+
     | Reference | Text                                                                                                                                                                                          |
     |-----------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
     | CCC 1804  | "Human virtues are firm attitudes, stable dispositions, habitual perfections of intellect and will that govern our actions, order our passions, and guide our conduct according to reason and faith. They make possible ease, self-mastery, and joy in leading a morally good life. The virtuous man is he who freely practices the good." |

@@ -8,12 +8,13 @@ Following the exploration of Faith (Ch 19), this chapter examines the second the
 
 ## I. Opening
 
-*   **Key Scripture Verse:**
+
     | Key Scripture Verse |
     |---|
     | "May the God of hope fill you with all joy and peace in believing, so that by the power of the Holy Spirit you may abound in hope." |
     | *Romans 15:13* |
-*   **Key CCC Paragraph:**
+
+
     | Key CCC Paragraph |
     |---|
     | "Hope is the theological virtue by which we desire the kingdom of heaven and eternal life as our happiness, placing our trust in Christ's promises and relying not on our own strength, but on the help of the grace of the Holy Spirit." |

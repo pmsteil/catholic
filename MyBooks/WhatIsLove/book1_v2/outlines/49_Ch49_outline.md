@@ -1,24 +1,24 @@
 # Chapter 49 Outline: Growth: Love's Sacred Flourishing
 
 ## Chapter Title:
+
 49: Growth: Love's Sacred Flourishing
 
 ## Part IV Context:
+
 Concluding Part IV ("The Fruits of Love"), this chapter focuses on Growth. It presents spiritual growth and transformation not merely as a personal project, but as a natural fruit and sign of authentic love dwelling within, leading to **sacred flourishing** and deeper **life-giving communion**.
 
 ## I. Opening
 
-*   **Key Scripture Verse:**
-    | Verse         | Text                                                                                             |
-    |---------------|--------------------------------------------------------------------------------------------------|
-    | 2 Peter 3:18  | "But grow in the grace and knowledge of our Lord and Savior Jesus Christ..."                     |
-    | *Reference:*  | *New American Bible, Revised Edition (NABRE)*                                                    |
+| Verse | Text |
+| --- | --- |
+| 2 Peter 3:18 | "But grow in the grace and knowledge of our Lord and Savior Jesus Christ..." |
+| _Reference:_ | _New American Bible, Revised Edition (NABRE)_ |
 
-*   **Key CCC Paragraph:**
-    | Paragraph | Text                                                                                                                                                                                             | Theme                                       |
-    |-----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
-    | CCC 2015  | "The way of perfection passes by way of the Cross. There is no holiness without renunciation and spiritual battle. Spiritual progress entails the ascesis and mortification..."                     | Growth requires effort and passes through sacrifice |
-    | *Reference:*| *Catechism of the Catholic Church, 2nd Ed.*                                                                                                                                                      |                                             |
+| Paragraph | Text | Theme |
+| --- | --- | --- |
+| CCC 2015 | "The way of perfection passes by way of the Cross. There is no holiness without renunciation and spiritual battle. Spiritual progress entails the ascesis and mortification..." | Growth requires effort and passes through sacrifice |
+| _Reference:_ | _Catechism of the Catholic Church, 2nd Ed._ |   |
 
 ## II. Body: Developing the Theme
 
@@ -44,13 +44,13 @@ Concluding Part IV ("The Fruits of Love"), this chapter focuses on Growth. It pr
     *   Emphasize that spiritual growth is a journey, not a destination reached in this life. We are always striving, always dependent on God's **mercy** (Ch 22). Requires Patience (Ch 33/45) with ourselves.
 7.  **Growth and the Core Definition of Love:**
     *   Connect Growth explicitly to the components from Ch 14:
-        *   **Sacred Flourishing:** Growth *is* this **sacred flourishing** in divine life.
+        *   **Sacred Flourishing:** Growth _is_ this **sacred flourishing** in divine life.
         *   **Sacrifice:** Growth requires ongoing **sacrifice** and dying to self.
         *   **Gift:** Growth is ultimately enabled by the **sacred gift** of grace.
         *   **Covenant:** Growth deepens our participation in the **sacred covenant**.
         *   **Binds:** Growth **binds** us more closely to God and His will.
         *   **True Justice/Mercy:** Growth leads to more consistent practice of **true justice** and **mercy**.
-        *   **Life-Giving Communion:** Growth *is* the deepening of **life-giving communion**.
+        *   **Life-Giving Communion:** Growth _is_ the deepening of **life-giving communion**.
 8.  **Anecdote Placeholder:**
     *   `[Author Anecdote: A reflection on a period of noticeable spiritual growth, perhaps spurred by a specific event or practice, and the resulting sense of deeper connection with God or greater capacity to love.]`
 
@@ -73,4 +73,4 @@ Concluding Part IV ("The Fruits of Love"), this chapter focuses on Growth. It pr
 
 *   "Do not wish to be anything but what you are, and try to be that perfectly." - St. Francis de Sales (Emphasizes accepting our current state while striving for perfection within it, aligning with gradual growth.)
 *   "Miss no single opportunity of making some small sacrifice, here by a smiling look, there by a kindly word; always doing the smallest right and doing it all for love." - St. Thérèse of Lisieux (Highlights how growth manifests in small, consistent acts of love and sacrifice.)
-*   "Being Christian is not the result of an ethical choice or a lofty idea, but the encounter with an event, a person, which gives life a new horizon and a decisive direction." - Pope Benedict XVI, *Deus Caritas Est*, 1 (Points to the source of growth: a transformative encounter with Christ, leading to flourishing.)
+*   "Being Christian is not the result of an ethical choice or a lofty idea, but the encounter with an event, a person, which gives life a new horizon and a decisive direction." - Pope Benedict XVI, _Deus Caritas Est_, 1 (Points to the source of growth: a transformative encounter with Christ, leading to flourishing.)

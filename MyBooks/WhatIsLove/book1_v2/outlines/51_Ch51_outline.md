@@ -1,21 +1,22 @@
 # Chapter 51 Outline: Self-Denial: Love's Necessary Discipline
 
 ## Chapter Title:
+
 51: Self-Denial: Days of Obligation, Fasting, Abstinence, Almsgiving, Long-suffering, Perseverance
 
 ## Part V Context:
+
 Continuing the exploration of the Practices of Love, this chapter focuses on various forms of Self-Denial. Building on the necessity of Sacrifice (Ch 24) and Self-Control (Ch 41), these practices are presented as essential disciplines prescribed or encouraged by the Church to detach us from worldly comforts and disordered desires, strengthen the will, and free us for deeper love and **communion** with God.
 
 ## I. Opening
 
-*   **Key Scripture Verse:**
-    | Verse      | Text                                                                                   |
-    | :--------- | :------------------------------------------------------------------------------------- |
-    | Luke 9:23  | "And he said to all, 'If any man would come after me, let him deny himself and take up his cross daily and follow me.'" |
-*   **Key CCC Paragraph:**
-    | Paragraph | Text                                                                                                                                                                                                                                                                                       | Context                                                |
-    | :-------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------- |
-    | CCC 2041  | "The precepts of the Church are set in the context of a moral life bound to and nourished by liturgical life. The obligatory character of these positive laws decreed by the pastoral authorities is meant to guarantee to the faithful the indispensable minimum in the spirit of prayer and moral effort, in the growth in love of God and neighbor." | (Days of Obligation, Fasting/Abstinence) |
+| Verse | Text |
+| --- | --- |
+| Luke 9:23 | "And he said to all, 'If any man would come after me, let him deny himself and take up his cross daily and follow me.'" |
+
+| Paragraph | Text | Context |
+| --- | --- | --- |
+| CCC 2041 | "The precepts of the Church are set in the context of a moral life bound to and nourished by liturgical life. The obligatory character of these positive laws decreed by the pastoral authorities is meant to guarantee to the faithful the indispensable minimum in the spirit of prayer and moral effort, in the growth in love of God and neighbor." | (Days of Obligation, Fasting/Abstinence) |
 
 ## II. Body: Developing the Theme
 
@@ -38,8 +39,8 @@ Continuing the exploration of the Practices of Love, this chapter focuses on var
     *   Encourage voluntary acts of self-denial chosen prudently (Ch 27) for spiritual growth (giving up legitimate goods for a time, adding extra prayers, etc.).
 5.  **Self-Denial and the Core Definition of Love:**
     *   Connect Self-Denial practices explicitly to the components from Ch 14:
-        *   **Sacred Discipline:** These practices *are* forms of **sacred discipline**.
-        *   **Sacrifice:** Self-denial *is* **sacrifice** in various forms.
+        *   **Sacred Discipline:** These practices _are_ forms of **sacred discipline**.
+        *   **Sacrifice:** Self-denial _is_ **sacrifice** in various forms.
         *   **Gift:** Denying oneself makes space to receive God's **sacred gift** and offer oneself as a **gift**.
         *   **Covenant:** Fulfilling precepts (Days of Obligation, etc.) honors the **sacred covenant**. Perseverance maintains it.
         *   **Binds:** Discipline **binds** the will to God's will.
@@ -65,6 +66,6 @@ Continuing the exploration of the Practices of Love, this chapter focuses on var
 
 ## Relevant Quotes (Saints, Theologians, Popes)
 
-*   "Fasting is the soul of prayer, mercy [almsgiving] is the lifeblood of fasting. Let no one try to separate them… So if you pray, fast; if you fast, show mercy.” – St. Peter Chrysologus
+*   "Fasting is the soul of prayer, mercy \[almsgiving\] is the lifeblood of fasting. Let no one try to separate them… So if you pray, fast; if you fast, show mercy.” – St. Peter Chrysologus
 *   "Without the burden of afflictions it is impossible to reach the height of grace. The gift of grace increases as the struggle increases." – St. Rose of Lima
 *   "Perseverance is the essential virtue of the believer. It is not the beginning but the end which is rewarded." – St. Gregory the Great

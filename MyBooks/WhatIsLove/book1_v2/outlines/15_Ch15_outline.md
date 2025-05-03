@@ -8,12 +8,13 @@ Following the definition of love (Ch 14), this chapter explores its ultimate sou
 
 ## I. Opening
 
-*   **Key Scripture Verse:**
+
     | Key Scripture Verse |
     |---|
     | "I am the vine, you are the branches. He who abides in me, and I in him, he it is that bears much fruit, for apart from me you can do nothing." |
     | *Reference: John 15:5* |
-*   **Key CCC Paragraph:**
+
+
     | Key CCC Paragraph |
     |---|
     | "Our justification comes from the grace of God. Grace is favor, the free and undeserved help that God gives us to respond to his call to become children of God, adoptive sons, partakers of the divine nature and of eternal life." |

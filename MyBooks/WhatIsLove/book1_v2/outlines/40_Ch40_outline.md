@@ -8,12 +8,13 @@ Continuing the exploration of Moral Virtues, this chapter focuses on Truthfulnes
 
 ## I. Opening
 
-*   **Key Scripture Verse:**
+
     | Reference     | Text                                                                                             |
     | :------------ | :----------------------------------------------------------------------------------------------- |
     | Ephesians 4:25 | "Therefore, putting away falsehood, let every one speak the truth with his neighbor, for we are members one of another." |
 
-*   **Key CCC Paragraph:**
+
+
     | Reference | Text                                                                                                                                                                                                                                                           |
     | :-------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
     | CCC 2464  | "The eighth commandment forbids misrepresenting the truth in our relations with others. This moral prescription flows from the vocation of the holy people to bear witness to their God who is the truth and wills the truth. Offenses against the truth express by word or deed a refusal to commit oneself to moral uprightness: they are fundamental infidelities to God and, in this sense, they undermine the foundations of the covenant." |

@@ -1,22 +1,22 @@
 # Chapter 53 Outline: Prayer: Love's Sacred Conversation
 
 ## Chapter Title:
+
 53: Prayer: Love's Sacred Conversation
 
 ## Part V Context:
+
 Continuing the exploration of the Practices of Love, this chapter focuses on Prayer. Following the Sacraments (Ch 52), Prayer is presented as the essential, ongoing **sacred conversation** and vital relationship with God, necessary for receiving guidance, expressing love (faith, hope, charity), and deepening **sacred intimacy** and **communion**.
 
 ## I. Opening
 
-*   **Key Scripture Verse:**
-    | Reference       | Text                                                                                                         |
-    | --------------- | ------------------------------------------------------------------------------------------------------------ |
-    | Philippians 4:6 | "Have no anxiety about anything, but in everything by prayer and supplication with thanksgiving let your requests be made known to God." |
+| Reference | Text |
+| --- | --- |
+| Philippians 4:6 | "Have no anxiety about anything, but in everything by prayer and supplication with thanksgiving let your requests be made known to God." |
 
-*   **Key CCC Paragraph:**
-    | Reference | Text                                                                                                                                                                                                                                                           |
-    | --------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-    | CCC 2559  | "'Prayer is the raising of one's mind and heart to God or the requesting of good things from God.' But when we pray, do we speak from the height of our pride and will, or 'out of the depths' of a humble and contrite heart? He who humbles himself will be exalted; humility is the foundation of prayer..." |
+| Reference | Text |
+| --- | --- |
+| CCC 2559 | "'Prayer is the raising of one's mind and heart to God or the requesting of good things from God.' But when we pray, do we speak from the height of our pride and will, or 'out of the depths' of a humble and contrite heart? He who humbles himself will be exalted; humility is the foundation of prayer..." |
 
 ## II. Body: Developing the Theme
 
@@ -25,7 +25,7 @@ Continuing the exploration of the Practices of Love, this chapter focuses on Pra
     *   Introduce Prayer: How do we maintain and deepen that relationship between sacramental encounters? Through Prayer – the ongoing **sacred conversation**.
 2.  **Defining Prayer: Raising Mind and Heart to God:**
     *   Use the definition from CCC 2559: Raising mind and heart, requesting good things.
-    *   Emphasize it's a *relationship*, a dialogue, not just reciting formulas or making requests. It involves both speaking *and* listening.
+    *   Emphasize it's a _relationship_, a dialogue, not just reciting formulas or making requests. It involves both speaking _and_ listening.
     *   Requires Humility (Ch 31) – recognizing we are beggars before God.
 3.  **Prayer as Covenant Conversation:**
     *   Frame prayer as the living expression of our **sacred covenant** relationship with God. It's where we exercise our Faith (Ch 19), Hope (Ch 20), and Charity (Ch 18).
@@ -34,7 +34,7 @@ Continuing the exploration of the Practices of Love, this chapter focuses on Pra
     *   **Petition:** Asking for our needs (spiritual and temporal). Requires faith and hope.
     *   **Intercession:** Praying for the needs of others (an act of charity and **mercy**).
     *   **Thanksgiving:** Expressing Gratitude (Ch 39) for God's **sacred gifts**.
-    *   **Praise:** Giving glory to God simply because He *is*.
+    *   **Praise:** Giving glory to God simply because He _is_.
 5.  **Expressions of Prayer (Brief Overview - CCC 2697-2724):**
     *   **Vocal Prayer:** Using words (memorized or spontaneous). Associates body with inner prayer.
     *   **Meditation:** Engaging mind, imagination, emotion, desire to understand God's word/mysteries and respond. ("Prayer as thought").
@@ -45,7 +45,7 @@ Continuing the exploration of the Practices of Love, this chapter focuses on Pra
     *   It fosters the **sacred intimacy** and **life-giving communion** that love seeks. Requires **sacrifice** of time and effort (Diligence - Ch 35).
 7.  **Prayer and the Core Definition of Love:**
     *   Connect Prayer explicitly to the components from Ch 14:
-        *   **Sacred Conversation:** Prayer *is* this **sacred conversation** and **communion**.
+        *   **Sacred Conversation:** Prayer _is_ this **sacred conversation** and **communion**.
         *   **Sacrifice:** Requires **sacrifice** of time, effort, distractions. Offering prayer is a **sacrifice**.
         *   **Gift:** Prayer is responding to God's **sacred gift** of Himself and receiving further **gifts**. Contemplation is pure **gift**.
         *   **Covenant:** Prayer is the living dialogue of the **sacred covenant**.

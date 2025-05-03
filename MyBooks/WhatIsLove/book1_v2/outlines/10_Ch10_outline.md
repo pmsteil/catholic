@@ -8,12 +8,13 @@ This chapter continues the critique of counterfeit loves by examining the relate
 
 ## I. Opening
 
-*   **Key Scripture Verse:**
+
     | Verse         | Text                                                                                                                               | Note                                                              |
     |---------------|------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------|
     | Matthew 6:24  | "No one can serve two masters; for either he will hate the one and love the other... You cannot serve God and mammon."             | Highlights the danger of prioritizing material concerns over God. |
 
-*   **Key CCC Paragraph:**
+
+
     | Paragraph | Text                                                                                                                                                                                                                                                                                                                                                                                                                   | Note                                                              |
     |-----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------|
     | CCC 2425  | "The Church has rejected the totalitarian and atheistic ideologies associated... with 'communism' or 'socialism.' She has likewise refused to accept... 'capitalism,' individualism and the absolute primacy of the law of the marketplace over human labor. Regulating the economy solely by centralized planning perverts the basis of social bonds; regulating it solely by the law of the marketplace fails social justice..." | Critiques extremes, points towards a balanced approach.           |

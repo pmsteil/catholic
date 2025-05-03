@@ -8,12 +8,13 @@ This chapter begins Part III, "The Facets of Love - What Love Requires." Having 
 
 ## I. Opening
 
-*   **Key Scripture Verse:**
+
     | Verse                 | Text                                                                      |
     | :-------------------- | :------------------------------------------------------------------------ |
     | 1 Corinthians 13:13 | "So faith, hope, love abide, these three; but the greatest of these is love." |
 
-*   **Key CCC Paragraph:**
+
+
     | Paragraph | Text                                                                                                                                                                                                                                                                                                                                                                                    |
     | :-------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
     | CCC 1813  | "The theological virtues are the foundation of Christian moral activity; they animate it and give it its special character. They inform and give life to all the moral virtues. They are infused by God into the souls of the faithful to make them capable of acting as his children and of meriting eternal life. They are the pledge of the presence and action of the Holy Spirit in the faculties of the human being." |

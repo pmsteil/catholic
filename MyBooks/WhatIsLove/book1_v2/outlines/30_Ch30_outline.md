@@ -1,23 +1,24 @@
 # Chapter 30 Outline: Moral Virtues: Love's Sacred Character
 
 ## Chapter Title:
+
 30: Moral Virtues: Love's Sacred Character
 
 ## Part III Context:
+
 Following the Theological Virtues (the foundation) and Cardinal Virtues (the hinges/strength), this chapter introduces the broader category of Moral Virtues. These are the specific good habits, perfected by grace, that shape our character, enabling us to consistently act according to reason and faith, and thus embody authentic, **sacrificial**, **covenantal** love in daily life.
 
 ## I. Opening
 
-*   **Key Scripture Verse:**
-    | Key Scripture Verse |
-    |---------------------|
-    | "For this very reason make every effort to supplement your faith with virtue, and virtue with knowledge, and knowledge with self-control, and self-control with steadfastness, and steadfastness with godliness, and godliness with brotherly affection, and brotherly affection with love." |
-    | *Reference: 2 Peter 1:5-7* |
-*   **Key CCC Paragraph:**
-    | Key CCC Paragraph |
-    |-------------------|
-    | "A virtue is an habitual and firm disposition to do the good. It allows the person not only to perform good acts, but to give the best of himself. The virtuous person tends toward the good with all his sensory and spiritual powers; he pursues the good and chooses it in concrete actions." |
-    | *Reference: CCC 1803* |
+| Key Scripture Verse |
+| --- |
+| "For this very reason make every effort to supplement your faith with virtue, and virtue with knowledge, and knowledge with self-control, and self-control with steadfastness, and steadfastness with godliness, and godliness with brotherly affection, and brotherly affection with love." |
+| _Reference: 2 Peter 1:5-7_ |
+
+| Key CCC Paragraph |
+| --- |
+| "A virtue is an habitual and firm disposition to do the good. It allows the person not only to perform good acts, but to give the best of himself. The virtuous person tends toward the good with all his sensory and spiritual powers; he pursues the good and chooses it in concrete actions." |
+| _Reference: CCC 1803_ |
 
 ## II. Body: Developing the Theme
 
@@ -25,7 +26,7 @@ Following the Theological Virtues (the foundation) and Cardinal Virtues (the hin
     *   Recap: Theological virtues orient us to God (Ch 18-20); Cardinal virtues provide fundamental strength and guidance (Ch 26-29).
     *   Introduce Moral Virtues: These are the specific, habitual dispositions that flow from and specify the cardinal virtues, shaping our character for good action (CCC 1803). They are the "muscles" developed through practice and grace.
 2.  **Virtue as Habitual Goodness:**
-    *   Define Moral Virtue as a *habit* – a stable disposition acquired through repeated good actions, aided by grace (Ch 15). It's not just doing good occasionally, but *becoming* good.
+    *   Define Moral Virtue as a _habit_ – a stable disposition acquired through repeated good actions, aided by grace (Ch 15). It's not just doing good occasionally, but _becoming_ good.
     *   Contrast with vice (habitual bad action). Virtue makes doing good easier, more consistent, and even joyful (CCC 1804).
 3.  **Shaping Character for Love:**
     *   Explain that the goal of virtue is to shape our character into the likeness of Christ, who is perfect Love. A virtuous character is necessary to love authentically and consistently.
@@ -44,7 +45,7 @@ Following the Theological Virtues (the foundation) and Cardinal Virtues (the hin
         *   **Obedience:** Submission to God's will and legitimate authority (**covenant**).
         *   **Gratitude:** Recognizing and appreciating God's **gifts**.
         *   **Truthfulness:** Honesty and integrity (related to **sacred truth**).
-        *   *(Self-Control/Discipline from Ch 41 could also be mentioned here as related to Temperance)*
+        *   _(Self-Control/Discipline from Ch 41 could also be mentioned here as related to Temperance)_
 6.  **Growth in Virtue: Grace and Effort:**
     *   Reiterate that while human effort is required to develop habits, growth in supernatural virtue is primarily the work of the Holy Spirit (Ch 17) through grace (Ch 15). It requires prayer, sacraments, and cooperation.
 7.  **Moral Virtues and the Core Definition of Love:**
@@ -75,6 +76,6 @@ Following the Theological Virtues (the foundation) and Cardinal Virtues (the hin
 
 ## Relevant Quotes (Saints, Theologians, Popes)
 
-*   "Temperance is love giving itself entirely to that which is loved; fortitude is love readily bearing all things for the sake of the loved object; justice is love serving only the loved object, and therefore ruling rightly; prudence is love distinguishing with sagacity between what hinders it and what helps it." - St. Augustine, *Of the Morals of the Catholic Church*
-*   "Grace does not destroy nature but perfects it." - St. Thomas Aquinas, *Summa Theologica*, I, Q. 1, Art. 8, ad 2 (Illustrates the relationship between natural effort and supernatural grace in virtue)
+*   "Temperance is love giving itself entirely to that which is loved; fortitude is love readily bearing all things for the sake of the loved object; justice is love serving only the loved object, and therefore ruling rightly; prudence is love distinguishing with sagacity between what hinders it and what helps it." - St. Augustine, _Of the Morals of the Catholic Church_
+*   "Grace does not destroy nature but perfects it." - St. Thomas Aquinas, _Summa Theologica_, I, Q. 1, Art. 8, ad 2 (Illustrates the relationship between natural effort and supernatural grace in virtue)
 *   "The proof of love is in the works. Where love exists, it works great things. But when it ceases to act, it ceases to exist." - St. Gregory the Great (Highlights the necessity of virtuous action flowing from love)

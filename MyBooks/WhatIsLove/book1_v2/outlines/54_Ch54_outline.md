@@ -1,22 +1,22 @@
 # Chapter 54 Outline: Family: Love's Sacred School
 
 ## Chapter Title:
+
 54: Family: Love's Sacred School
 
 ## Part V Context:
+
 Continuing the exploration of the Practices of Love, this chapter focuses on the Family. Following the Church (Ch 50) and Prayer (Ch 53), the Family is presented as the "domestic church," the fundamental community and **sacred school** where individuals first learn (or fail to learn) the virtues and practices necessary for authentic love and **life-giving communion**.
 
 ## I. Opening
 
-| Key Scripture Verse |
-| :------------------ |
 | "Children, obey your parents in the Lord, for this is right... Fathers, do not provoke your children to anger, but bring them up in the discipline and instruction of the Lord." |
-| *Ephesians 6:1-4*   |
+| --- |
+| \-- _Ephesians 6:1-4_ |
 
-| Key CCC Paragraph |
-| :---------------- |
 | "The family is the original cell of social life. It is the natural society in which husband and wife are called to give themselves in love and in the gift of life. Authority, stability, and a life of relationships within the family constitute the foundations for freedom, security, and fraternity within society..." |
-| *CCC 2207*        |
+| --- |
+| _CCC 2207_ |
 
 ## II. Body: Developing the Theme
 
@@ -67,11 +67,11 @@ Continuing the exploration of the Practices of Love, this chapter focuses on the
 *   **Further Study - Catechism:**
     *   CCC 2201-2257 (The Fourth Commandment - Honor your father and mother; covers duties of family members, family and society)
     *   CCC 1655-1658 (The Domestic Church)
-    *   *Familiaris Consortio* (Apostolic Exhortation by St. John Paul II on the Christian Family)
+    *   _Familiaris Consortio_ (Apostolic Exhortation by St. John Paul II on the Christian Family)
 *   **Prayer Practice:** Pray the Holy Rosary, offering each decade for the intentions of one's own family members or for families in general. Intention: To invoke the intercession of the Holy Family of Jesus, Mary, and Joseph, asking for the grace to build families that are true schools of **sacred**, **sacrificial**, **covenantal** love, fostering **life-giving communion**.
 
 ## Relevant Quotes (Saints, Theologians, Popes)
 
-*   "The family, like the Church, ought to be a place where the Gospel is transmitted and from which the Gospel radiates... In a family which is conscious of this mission, all the members evangelize and are evangelized." - **St. John Paul II**, *Familiaris Consortio*, 52
-*   "Let us make our homes churches, for the home is a little church." - **St. John Chrysostom**, *Homily on Ephesians*
-*   "In the family, we learn closeness, care, respect for others." - **Pope Francis**, *General Audience, February 11, 2015*
+*   "The family, like the Church, ought to be a place where the Gospel is transmitted and from which the Gospel radiates... In a family which is conscious of this mission, all the members evangelize and are evangelized." - **St. John Paul II**, _Familiaris Consortio_, 52
+*   "Let us make our homes churches, for the home is a little church." - **St. John Chrysostom**, _Homily on Ephesians_
+*   "In the family, we learn closeness, care, respect for others." - **Pope Francis**, _General Audience, February 11, 2015_

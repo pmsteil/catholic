@@ -8,12 +8,13 @@ Continuing the exploration of Moral Virtues, this chapter focuses on Patience. C
 
 ## I. Opening
 
-*   **Key Scripture Verse:**
+
     | Verse        | Text                                                                                                                            |
     | :----------- | :------------------------------------------------------------------------------------------------------------------------------ |
     | **James 1:3-4** | "...knowing that the testing of your faith produces steadfastness [patience/endurance]. And let steadfastness have its full effect, that you may be perfect and complete, lacking in nothing." |
 
-*   **Key CCC Paragraph:**
+
+
     | Paragraph | Text                                                                                                                                                                                          |
     | :-------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
     | **CCC 2447** | Refers to "bearing wrongs patiently" as a spiritual work of mercy, linking patience directly to charitable action.                                                                            |

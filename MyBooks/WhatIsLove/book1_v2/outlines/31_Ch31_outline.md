@@ -8,12 +8,13 @@ Beginning the detailed exploration of specific Moral Virtues introduced in Chapt
 
 ## I. Opening
 
-*   **Key Scripture Verse:**
+
     | Verse          | Text                                                                                       |
     | -------------- | ------------------------------------------------------------------------------------------ |
     | Matthew 23:12  | "Whoever exalts himself will be humbled, and whoever humbles himself will be exalted."     |
 
-*   **Key CCC Paragraph:**
+
+
     | Paragraph | Text                                                                                                                                                                                                                                                                                                                                                                                       |
     | --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
     | CCC 2559  | "'Prayer is the raising of one's mind and heart to God or the requesting of good things from God.' But when we pray, do we speak from the height of our pride and will, or 'out of the depths' of a humble and contrite heart? He who humbles himself will be exalted; humility is the foundation of prayer. Only when we humbly acknowledge that 'we do not know how to pray as we ought,' are we ready to receive freely the gift of prayer. 'Man is a beggar before God.'" |

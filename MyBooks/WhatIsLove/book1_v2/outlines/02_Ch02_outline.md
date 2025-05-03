@@ -1,26 +1,30 @@
 # Chapter 2 Outline: The Cry for Love
 
 ## Chapter Title:
+
 2: The Cry for Love - The Desire for Connection and Belonging
 
 ## Part I Context:
+
 Following the exploration of suffering (Ch 1), this chapter delves into the fundamental human yearning for love, connection, and belonging, framing it as a God-given desire often intensified by the brokenness of the world.
 
 ## I. Opening
 
-*   **Key Scripture Verse:**
-    | Key Scripture Verse |
-    | :------------------ |
-    | "So we know and believe the love God has for us. God is love, and he who abides in love abides in God, and God abides in him." |
+**Key Scripture Verse:**
 
-    *Reference: 1 John 4:16*
+| Key Scripture Verse |
+| --- |
+| "So we know and believe the love God has for us. God is love, and he who abides in love abides in God, and God abides in him." |
 
-*   **Key CCC Paragraph:**
-    | Key CCC Paragraph |
-    | :---------------- |
-    | "The desire for God is written in the human heart, because man is created by God and for God; and God never ceases to draw man to himself. Only in God will he find the truth and happiness he never stops searching for." |
+_Reference: 1 John 4:16_
 
-    *Reference: CCC 27*
+**Key CCC Paragraph:**
+
+| Key CCC Paragraph |
+| --- |
+| "The desire for God is written in the human heart, because man is created by God and for God; and God never ceases to draw man to himself. Only in God will he find the truth and happiness he never stops searching for." |
+
+_Reference: CCC 27_
 
 ## II. Body: Developing the Theme
 
@@ -30,20 +34,26 @@ Following the exploration of suffering (Ch 1), this chapter delves into the fund
 2.  **The Universal Cry:**
     *   Explore the universality of the desire for love, acceptance, and belonging across cultures and times.
     *   Provide examples: the longing for family bonds, deep friendships, romantic love, community acceptance.
-    *   > *"Man cannot live without love. He remains a being that is incomprehensible for himself, his life is senseless, if love is not revealed to him, if he does not encounter love, if he does not experience it and make it his own, if he does not participate intimately in it."* - Pope St. John Paul II, *Redemptor Hominis*, 10
-3.  **Made for Communion:**
+
+> _"Man cannot live without love. He remains a being that is incomprehensible for himself, his life is senseless, if love is not revealed to him, if he does not encounter love, if he does not experience it and make it his own, if he does not participate intimately in it."_ - Pope St. John Paul II, _Redemptor Hominis_, 10
+
+1.  **Made for Communion:**
     *   Root this desire in our creation: We are made in the image and likeness of God (Genesis 1:27), who is Himself a **communion** of Persons (the Trinity).
     *   Therefore, we are inherently relational beings, designed for **life-giving communion**. (See CCC 1701-1702). This desire isn't accidental; it's part of our **sacred** design.
-4.  **The Distortion of the Cry in a Fallen World:**
+2.  **The Distortion of the Cry in a Fallen World:**
     *   Explain how Original Sin and the brokenness of the world twist this **sacred** desire.
     *   Examples: Seeking validation in superficial ways, confusing lust or possessiveness with love (counterfeit **gift**), fear of vulnerability hindering true **intimacy**, using others rather than forming **sacred covenants**, loneliness even in crowds.
     *   Contrast these distortions with the elements of true love (foreshadowing the definition in Ch 14).
-5.  **The Ultimate Fulfillment - A Cry for God:**
+3.  **The Ultimate Fulfillment - A Cry for God:**
     *   Argue that this profound, persistent cry for connection is ultimately a cry for God Himself, the source and fulfillment of all authentic love (CCC 27).
-    *   > *"You have made us for yourself, O Lord, and our heart is restless until it rests in you."* - St. Augustine, *Confessions*, Book 1, Chapter 1
-    *   Our hearts are restless until they rest in Him. He is the only One who can offer perfect, **sacred**, **binding**, **life-giving communion**.
-    *   > *"Being Christian is not the result of an ethical choice or a lofty idea, but the encounter with an event, a person, which gives life a new horizon and a decisive direction."* - Pope Benedict XVI, *Deus Caritas Est*, 1
-6.  **Anecdote Placeholder:**
+
+> _"You have made us for yourself, O Lord, and our heart is restless until it rests in you."_ - St. Augustine, _Confessions_, Book 1, Chapter 1
+
+*   Our hearts are restless until they rest in Him. He is the only One who can offer perfect, **sacred**, **binding**, **life-giving communion**.
+
+> _"Being Christian is not the result of an ethical choice or a lofty idea, but the encounter with an event, a person, which gives life a new horizon and a decisive direction."_ - Pope Benedict XVI, _Deus Caritas Est_, 1
+
+1.  **Anecdote Placeholder:**
     *   `[Author Anecdote: Personal story about experiencing deep loneliness or searching for belonging in various places, eventually finding true connection and fulfillment in faith, the Church community, or a deeper relationship with God.]`
 
 ## III. Closing

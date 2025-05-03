@@ -1,22 +1,24 @@
 # Chapter 5 Outline: Unmasking Counterfeit Love - Critical Theory, Intersectionality, and Wokeness
 
 ## Chapter Title:
+
 5: Unmasking Counterfeit Love - Critical Theory, Intersectionality and Wokeness
 
 ## Part I Context:
+
 Having established the reality of suffering and the deep human cries for love, justice, and mercy, this chapter begins a critical examination of modern ideologies that offer counterfeit solutions, starting with Critical Theory (CT), Intersectionality, and "Wokeness."
 
 ## I. Opening
 
 | Key Scripture Verse |
-|---|
+| --- |
 | "See to it that no one makes a prey of you by philosophy and empty deceit, according to human tradition, according to the elemental spirits of the universe, and not according to Christ." |
-| *Colossians 2:8* |
+| _Colossians 2:8_ |
 
 | Key CCC Paragraph |
-|---|
+| --- |
 | "Before Christ's second coming the Church must pass through a final trial that will shake the faith of many believers. The persecution that accompanies her pilgrimage on earth will unveil the 'mystery of iniquity' in the form of a religious deception offering men an apparent solution to their problems at the price of apostasy from the truth." |
-| *CCC 675* (Context: While referring to the ultimate Antichrist, the principle applies to ideologies that offer false salvation) |
+| _CCC 675_ (Context: While referring to the ultimate Antichrist, the principle applies to ideologies that offer false salvation) |
 
 ## II. Body: Developing the Theme
 
@@ -36,10 +38,10 @@ Having established the reality of suffering and the deep human cries for love, j
     *   **Distorts Communion:** Creates division and hostility between groups, hindering **life-giving communion**. Replaces the **sacred covenant** of shared humanity in Christ with tribalism based on identity markers. It fails to offer a **binding** unity based on love.
     *   **Rejects the Sacred/Sacrificial:** Often operates on purely materialistic/secular assumptions, rejecting God, grace, and the need for **sacrificial** love exemplified by the Cross. Offers a worldly salvation, not a **sacred** one.
 5.  **Contrast with the Catholic Vision:**
-    *   Catholic Social Teaching offers a richer, truer understanding of justice, mercy, and solidarity rooted in the dignity of *every* person, made in God's image.
+    *   Catholic Social Teaching offers a richer, truer understanding of justice, mercy, and solidarity rooted in the dignity of _every_ person, made in God's image.
     *   Emphasizes personal conversion, subsidiarity, solidarity, and the common good over group conflict.
     *   True **communion** is found in the Body of Christ, transcending worldly divisions.
-    *   Reintroduce the core definition: > **Perfect Love is the sacred, sacrificial gift of covenant which binds true justice and true mercy into life-giving communion.** Explain how CT/Wokeness fails on *each* count.
+    *   Reintroduce the core definition: > **Perfect Love is the sacred, sacrificial gift of covenant which binds true justice and true mercy into life-giving communion.** Explain how CT/Wokeness fails on _each_ count.
 6.  **Anecdote Placeholder:**
     *   `[Author Anecdote: Observation or interaction related to CT/Intersectionality/Wokeness in academia, workplace, or culture, highlighting its divisive or truth-distorting effects compared to a Catholic approach.]`
 
@@ -60,6 +62,6 @@ Having established the reality of suffering and the deep human cries for love, j
 
 ## Relevant Quotes (Saints, Theologians, Popes)
 
-*   "Without truth, charity degenerates into sentimentality. Love becomes an empty shell, to be filled in an arbitrary way. In a culture without truth, this is the fatal risk facing love." - Pope Benedict XVI, *Caritas in Veritate*, 3
-*   "Solidarity helps us to see the 'other'—whether a person, people or nation—not just as some kind of instrument... but as our 'neighbor,' a 'helper' (cf. Gen 2:18-20), to be made a sharer, on a par with ourselves, in the banquet of life to which all are equally invited by God." - Pope St. John Paul II, *Sollicitudo Rei Socialis*, 39
-*   "Justice is both the aim and the intrinsic criterion of all politics... its origin and its goal are found in justice, which by its very nature has to do with ethics... [Reason] must undergo constant purification, since it can never be completely free of the danger of a certain ethical blindness caused by the dazzling effect of power and special interests." - Pope Benedict XVI, *Deus Caritas Est*, 28
+*   "Without truth, charity degenerates into sentimentality. Love becomes an empty shell, to be filled in an arbitrary way. In a culture without truth, this is the fatal risk facing love." - Pope Benedict XVI, _Caritas in Veritate_, 3
+*   "Solidarity helps us to see the 'other'—whether a person, people or nation—not just as some kind of instrument... but as our 'neighbor,' a 'helper' (cf. Gen 2:18-20), to be made a sharer, on a par with ourselves, in the banquet of life to which all are equally invited by God." - Pope St. John Paul II, _Sollicitudo Rei Socialis_, 39
+*   "Justice is both the aim and the intrinsic criterion of all politics... its origin and its goal are found in justice, which by its very nature has to do with ethics... \[Reason\] must undergo constant purification, since it can never be completely free of the danger of a certain ethical blindness caused by the dazzling effect of power and special interests." - Pope Benedict XVI, _Deus Caritas Est_, 28

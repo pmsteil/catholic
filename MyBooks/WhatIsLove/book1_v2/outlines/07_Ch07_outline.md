@@ -8,11 +8,12 @@ Following the critiques of group-identity ideologies (Ch 5) and emotion-based lo
 
 ## I. Opening
 
-*   **Key Scripture Verse:**
+
     | Reference | Text                                                                                                | Note                                                    |
     | :-------- | :-------------------------------------------------------------------------------------------------- | :------------------------------------------------------ |
     | John 14:6 | "Jesus said to him, 'I am the way, and the truth, and the life; no one comes to the Father, but by me.'" | Asserts objective, exclusive truth in Christ.           |
-*   **Key CCC Paragraph:**
+
+
     | Reference | Text                                                                                                                                                                                          |
     | :-------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
     | CCC 1733  | "The more one does what is good, the freer one becomes. There is no true freedom except in the service of what is good and just. The choice to disobey and do evil is an abuse of freedom and leads to 'the slavery of sin.'" |

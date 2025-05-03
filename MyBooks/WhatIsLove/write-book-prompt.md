@@ -27,8 +27,19 @@ Systematically generate the complete first draft of this book by expanding the p
 
 6.  **Chapter Structure (Narrative with Devotional Elements):** Each chapter's narrative draft should follow this structure:
     *   **Opening:**
-        *   Start with a relevant **Key Scripture Verse**. Format the verse in a table and the reference below it.
-        *   Follow with a relevant **Catechism of the Catholic Church (CCC) Paragraph**. Format the paragraph in a table and the reference below it.
+        *   Start with a relevant **Key Scripture Verse**. Format the verse and reference in a table like so:
+
+        | "Children, obey your parents in the Lord, for this is right... (include the rest of the verse)" |
+        | --- |
+        | \-- _Ephesians 6:1-4_ |
+
+        *   Follow with a relevant **Catechism of the Catholic Church (CCC) Paragraph**. Format the paragraph and reference like so:
+
+        | "The family is the original cell of social life. It is the natural society in which ... (include the rest of the paragraph)" |
+        | --- |
+        | _CCC 2207_ |
+
+        .
     *   **Body:**
         *   Develop the chapter's theme based on the approved chapter outline points, using the narrative style and tone defined above.
         *   Integrate other relevant Scripture and CCC references naturally within the text where needed to support points.

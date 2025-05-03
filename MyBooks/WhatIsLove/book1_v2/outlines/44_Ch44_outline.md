@@ -8,12 +8,13 @@ Continuing the exploration of the Fruits of Love, this chapter focuses on Peace.
 
 ## I. Opening
 
-*   **Key Scripture Verse:**
+
     | Verse        | Text                                                                                                     |
     | :----------- | :------------------------------------------------------------------------------------------------------- |
     | John 14:27   | "Peace I leave with you; my peace I give to you; not as the world gives do I give to you. Let not your hearts be troubled, neither let them be afraid." |
 
-*   **Key CCC Paragraph:**
+
+
     | Paragraph | Text                                                                                                                                                                                                                                                                                       |
     | :-------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
     | CCC 2304  | "Respect for and development of human life require peace. Peace is not merely the absence of war; nor can it be reduced solely to the maintenance of a balance of power between enemies; nor does it arise out of despotic dominion. Peace is 'the tranquility of order' (St. Augustine, *De civ. Dei*, 19, 13, 1). Peace is the work of justice and the effect of charity." |

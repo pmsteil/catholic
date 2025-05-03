@@ -8,11 +8,12 @@ Continuing the exploration of the Fruits of Love, this chapter revisits Patience
 
 ## I. Opening
 
-*   **Key Scripture Verse:**
+
     | Reference      | Text                                                                                             |
     | -------------- | ------------------------------------------------------------------------------------------------ |
     | Colossians 1:11 | "May you be strengthened with all power, according to his glorious might, for all endurance and patience with joy," |
-*   **Key CCC Paragraph:**
+
+
     | Reference | Text                                                                                                                                                              |
     | --------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
     | CCC 1832  | "The fruits of the Spirit are perfections that the Holy Spirit forms in us as the first fruits of eternal glory. The tradition of the Church lists twelve of them: 'charity, joy, peace, patience, kindness...'" |

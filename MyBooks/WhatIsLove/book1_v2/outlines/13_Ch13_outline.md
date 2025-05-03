@@ -8,14 +8,15 @@ This chapter concludes Part I. It synthesizes the critiques of the various count
 
 ## I. Opening
 
-*   **Key Scripture Verse:**
+
 
     | Verse         | Text                                                                                             |
     |---------------|--------------------------------------------------------------------------------------------------|
     | 1 John 4:8    | "He who does not love does not know God; for God is love."                                        |
     | 1 John 4:16b  | "...God is love, and he who abides in love abides in God, and God abides in him."                  |
 
-*   **Key CCC Paragraph:**
+
+
 
     | Paragraph | Text                                                                                                                                                                                                                                                           |
     |-----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

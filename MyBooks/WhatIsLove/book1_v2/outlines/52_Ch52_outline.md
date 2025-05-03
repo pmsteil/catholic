@@ -1,32 +1,32 @@
 # Chapter 52 Outline: Sacraments: Love's Sacred Intimacy and Nourishment
 
 ## Chapter Title:
+
 52: Sacraments: Love's Sacred Intimacy and Nourishment
 
 ## Part V Context:
+
 Continuing the exploration of the Practices of Love, this chapter focuses on the Sacraments. Building on the discussion of the Church (Ch 50) and Grace (Ch 15), the Sacraments are presented as the primary, visible means instituted by Christ through which His divine life (grace) is dispensed, fostering **sacred intimacy** and providing essential **nourishment** for the journey of love.
 
 ## I. Opening
 
-*   **Key Scripture Verse:**
-    | Verse      | Text                                                        | Focus                 |
-    | :--------- | :---------------------------------------------------------- | :-------------------- |
-    | John 6:56  | "He who eats my flesh and drinks my blood abides in me, and I in him." | Eucharistic intimacy |
+| Verse | Text | Focus |
+| --- | --- | --- |
+| John 6:56 | "He who eats my flesh and drinks my blood abides in me, and I in him." | Eucharistic intimacy |
 
-*   **Key CCC Paragraph:**
-    | Paragraph | Text                                                                                                                                                                                          |
-    | :-------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-    | CCC 1116  | "'Sacraments are 'powers that comes forth' from the Body of Christ, which is ever-living and life-giving. They are actions of the Holy Spirit at work in his Body, the Church. They are 'the masterworks of God' in the new and everlasting covenant." |
+| Paragraph | Text |
+| --- | --- |
+| CCC 1116 | "'Sacraments are 'powers that comes forth' from the Body of Christ, which is ever-living and life-giving. They are actions of the Holy Spirit at work in his Body, the Church. They are 'the masterworks of God' in the new and everlasting covenant." |
 
 ## II. Body: Developing the Theme
 
 1.  **Transition: From Discipline to Divine Encounter:**
     *   Recap Ch 51: Self-denial disciplines the soul for love.
-    *   Introduce Sacraments: Where do we receive the *power* (grace - Ch 15) to love? Primarily through the Sacraments, the privileged encounters with Christ Himself acting through His Church (Ch 50).
+    *   Introduce Sacraments: Where do we receive the _power_ (grace - Ch 15) to love? Primarily through the Sacraments, the privileged encounters with Christ Himself acting through His Church (Ch 50).
 2.  **Defining Sacraments: Efficacious Signs of Grace:**
     *   Define Sacraments as efficacious signs of grace, instituted by Christ and entrusted to the Church, by which divine life is dispensed to us (CCC 1131).
     *   **Sign:** Visible rite/action pointing to an invisible reality.
-    *   **Efficacious:** They actually *do* what they signify; they confer the grace they represent because Christ acts in them (CCC 1127). They are **sacred gifts**.
+    *   **Efficacious:** They actually _do_ what they signify; they confer the grace they represent because Christ acts in them (CCC 1127). They are **sacred gifts**.
 3.  **Instituted by Christ, Entrusted to the Church:**
     *   Emphasize Christ's institution of the seven sacraments.
     *   The Church (Ch 50) acts as the steward and minister of these **sacred mysteries**.
@@ -34,24 +34,24 @@ Continuing the exploration of the Practices of Love, this chapter focuses on the
     *   Stress that sacraments are not magic rituals but personal encounters with the living Christ acting through the Holy Spirit (Ch 17) (CCC 1088-1089). They foster **sacred intimacy**.
 5.  **Overview of the Seven Sacraments (Briefly, focusing on link to love/communion):**
     *   **Initiation:**
-        *   *Baptism:* Entry into the **sacred covenant**, new life, forgiveness of sin, becoming member of Christ's Body (CCC 1213). Foundation of **communion**.
-        *   *Confirmation:* Strengthening with the Holy Spirit's **gifts** for witness and deeper participation in the Church's mission (CCC 1285). Empowers **sacrificial** love.
-        *   *Eucharist:* Source and summit (Ch 58). Deepest **sacred intimacy** and **nourishment**, union with Christ and the Church (CCC 1322ff). The ultimate **life-giving communion**.
+        *   _Baptism:_ Entry into the **sacred covenant**, new life, forgiveness of sin, becoming member of Christ's Body (CCC 1213). Foundation of **communion**.
+        *   _Confirmation:_ Strengthening with the Holy Spirit's **gifts** for witness and deeper participation in the Church's mission (CCC 1285). Empowers **sacrificial** love.
+        *   _Eucharist:_ Source and summit (Ch 58). Deepest **sacred intimacy** and **nourishment**, union with Christ and the Church (CCC 1322ff). The ultimate **life-giving communion**.
     *   **Healing:**
-        *   *Reconciliation (Penance):* Restores **communion** with God and Church after sin through **true mercy** and forgiveness (CCC 1422). Requires **truthfulness**.
-        *   *Anointing of the Sick:* Strength, peace, courage for illness/old age, uniting suffering with Christ's **sacrifice** (CCC 1499). Expresses **sacred compassion**.
+        *   _Reconciliation (Penance):_ Restores **communion** with God and Church after sin through **true mercy** and forgiveness (CCC 1422). Requires **truthfulness**.
+        *   _Anointing of the Sick:_ Strength, peace, courage for illness/old age, uniting suffering with Christ's **sacrifice** (CCC 1499). Expresses **sacred compassion**.
     *   **Service of Communion:**
-        *   *Holy Orders:* Configures men to Christ to serve the Church as priest, deacon (CCC 1536). Service of **true justice** and **mercy**.
-        *   *Matrimony:* **Sacred covenant** uniting man and woman in lifelong, faithful, fruitful love, signifying Christ's love for the Church (CCC 1601). Embodies **sacrificial gift** and **life-giving communion**.
+        *   _Holy Orders:_ Configures men to Christ to serve the Church as priest, deacon (CCC 1536). Service of **true justice** and **mercy**.
+        *   _Matrimony:_ **Sacred covenant** uniting man and woman in lifelong, faithful, fruitful love, signifying Christ's love for the Church (CCC 1601). Embodies **sacrificial gift** and **life-giving communion**.
 6.  **Necessity and Fruitfulness:**
     *   Sacraments are necessary for salvation for those to whom they are proposed (CCC 1129).
     *   Their fruitfulness depends on the recipient's disposition (faith, humility, desire). Requires cooperation with grace.
 7.  **Sacraments and the Core Definition of Love:**
     *   Connect Sacraments explicitly to the components from Ch 14:
-        *   **Sacred Intimacy/Nourishment:** Sacraments *are* the primary means of **sacred intimacy** and **nourishment**.
+        *   **Sacred Intimacy/Nourishment:** Sacraments _are_ the primary means of **sacred intimacy** and **nourishment**.
         *   **Sacrifice:** Eucharist makes present Christ's **sacrifice**. Receiving sacraments worthily often requires **sacrifice** of pride/sin.
         *   **Gift:** Sacraments dispense the **sacred gift** of grace. Marriage is a mutual self-**gift**.
-        *   **Covenant:** Baptism initiates into the **covenant**. Eucharist renews it. Marriage *is* a **sacred covenant**. Reconciliation restores it.
+        *   **Covenant:** Baptism initiates into the **covenant**. Eucharist renews it. Marriage _is_ a **sacred covenant**. Reconciliation restores it.
         *   **Binds:** Sacraments **bind** us to Christ and His Body, the Church.
         *   **True Justice/Mercy:** Reconciliation embodies **true mercy** built on **truth** and **justice**. Eucharist strengthens for acts of **justice/mercy**.
         *   **Life-Giving Communion:** Sacraments initiate, restore, deepen, and nourish **life-giving communion**.

@@ -8,12 +8,13 @@ Continuing the critique of counterfeit loves after addressing intellectual ideol
 
 ## I. Opening
 
-*   **Key Scripture Verse:**
+
     | Reference         | Text                                                                                                                                                                                                                                                           | Note                                                              |
     | :---------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------- |
     | 1 Corinthians 13:4-7 | "Love is patient and kind; love is not jealous or boastful; it is not arrogant or rude. Love does not insist on its own way; it is not irritable or resentful; it does not rejoice at wrong, but rejoices in the right. Love bears all things, believes all things, hopes all things, endures all things." | Highlights love as action and virtue, not just feeling. |
 
-*   **Key CCC Paragraph:**
+
+
     | Reference | Text                                                                                                                                                                                                                                                                                                                                                                                                                   | Note                                                                                             |
     | :-------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------- |
     | CCC 1768  | "Strong feelings are not decisive for the morality or the holiness of persons; they are simply the inexhaustible reservoir of images and affections in which the moral life is expressed. Passions are morally good when they contribute to a good action, evil in the opposite case. The upright will orders the movements of the senses, which it appropriates to the good and to beatitude; an evil will succumbs to disordered passions and exacerbates them." | Feelings are not decisive for morality; they must be ordered by the will towards the good. |

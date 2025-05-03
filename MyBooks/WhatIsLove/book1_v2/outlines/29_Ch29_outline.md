@@ -8,12 +8,13 @@ Completing the initial exploration of the four Cardinal Virtues, this chapter fo
 
 ## I. Opening
 
-*   **Key Scripture Verse:**
+
     | Key Scripture Verse | Reference     |
     | :------------------ | :------------ |
     | "But the fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, self-control [Temperance]; against such there is no law." | Galatians 5:22-23 |
 
-*   **Key CCC Paragraph:**
+
+
     | Key CCC Paragraph | Reference |
     | :---------------- | :-------- |
     | "Temperance is the moral virtue that moderates the attraction of pleasures and provides balance in the use of created goods. It ensures the will's mastery over instincts and keeps desires within the limits of what is honorable. The temperate person directs the sensitive appetites toward what is good and maintains a healthy discretion..." | CCC 1809  |

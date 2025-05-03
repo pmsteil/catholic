@@ -1,22 +1,22 @@
 # Chapter 56 Outline: Holiness: Love's Sacred Calling
 
 ## Chapter Title:
+
 56: Holiness: Love's Sacred Calling
 
 ## Part V Context:
+
 Continuing the exploration of the Practices of Love, this chapter focuses on Holiness. Building on the examples of the Saints (Ch 55), Holiness is presented not as an optional extra for a select few, but as the universal **sacred calling** for all Christians—the call to perfection in love (Charity), achieved through grace and the practices of the Christian life, leading to **life-giving communion**.
 
 ## I. Opening
 
-*   **Key Scripture Verse:**
-    | Verse                                                                                                | Reference     |
-    | :--------------------------------------------------------------------------------------------------- | :------------ |
-    | "...but as he who called you is holy, be holy yourselves in all your conduct; since it is written, 'You shall be holy, for I am holy.'" | 1 Peter 1:15-16 |
+| Verse | Reference |
+| --- | --- |
+| "...but as he who called you is holy, be holy yourselves in all your conduct; since it is written, 'You shall be holy, for I am holy.'" | 1 Peter 1:15-16 |
 
-*   **Key CCC Paragraph:**
-    | Paragraph                                                                                                     | Reference |
-    | :------------------------------------------------------------------------------------------------------------ | :-------- |
-    | "'All Christians in any state or walk of life are called to the fullness of Christian life and to the perfection of charity.' All are called to holiness: 'Be perfect, as your heavenly Father is perfect.'" | CCC 2013  |
+| Paragraph | Reference |
+| --- | --- |
+| "'All Christians in any state or walk of life are called to the fullness of Christian life and to the perfection of charity.' All are called to holiness: 'Be perfect, as your heavenly Father is perfect.'" | CCC 2013 |
 
 ## II. Body: Developing the Theme
 
@@ -37,14 +37,14 @@ Continuing the exploration of the Practices of Love, this chapter focuses on Hol
 6.  **The Goal: Union with God:**
     *   The ultimate aim of holiness is **life-giving communion** and **sacred intimacy** (Ch 42) with the All-Holy God, both now and perfectly in Heaven (Hope - Ch 20).
 7.  **Holiness and the Core Definition of Love:**
-    *   Connect Holiness explicitly to the components from Ch 14: Holiness *is* the state of living out the definition perfectly.
-        *   **Sacred Calling:** Holiness *is* this **sacred calling** to perfect love.
+    *   Connect Holiness explicitly to the components from Ch 14: Holiness _is_ the state of living out the definition perfectly.
+        *   **Sacred Calling:** Holiness _is_ this **sacred calling** to perfect love.
         *   **Sacrifice:** Requires constant **sacrifice** and dying to self.
         *   **Gift:** Holiness is ultimately God's **sacred gift** of participation in His life.
         *   **Covenant:** Holiness is living the **sacred covenant** relationship fully.
         *   **Binds:** Holiness **binds** the soul entirely to God.
         *   **True Justice/Mercy:** A holy life perfectly fulfills **true justice** and **mercy**.
-        *   **Life-Giving Communion:** Holiness *is* the fullness of **life-giving communion**.
+        *   **Life-Giving Communion:** Holiness _is_ the fullness of **life-giving communion**.
 8.  **Anecdote Placeholder:**
     *   `[Author Anecdote: A reflection on the personal call to holiness, perhaps overcoming a misconception about it, or an inspiring encounter with someone living ordinary life with extraordinary holiness.]`
 
@@ -67,4 +67,4 @@ Continuing the exploration of the Practices of Love, this chapter focuses on Hol
 
 *   "Thus it is evident to everyone, that all the faithful of Christ of whatever rank or status, are called to the fullness of the Christian life and to the perfection of charity..." - **Lumen Gentium, 40 (Vatican II)**
 *   "You cannot be half a saint; you must be a whole saint or no saint at all." - **St. Therese of Lisieux**
-*   "Do not be afraid of holiness. It will take away none of your energy, vitality or joy. On the contrary, you will become what the Father had in mind when he created you, and you will be faithful to your deepest self." - **Pope Francis, *Gaudete et Exsultate*, 32**
+*   "Do not be afraid of holiness. It will take away none of your energy, vitality or joy. On the contrary, you will become what the Father had in mind when he created you, and you will be faithful to your deepest self." - **Pope Francis,** _**Gaudete et Exsultate**_**, 32**

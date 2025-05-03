@@ -8,12 +8,13 @@ Continuing the exploration of Moral Virtues, this chapter focuses on Meekness. O
 
 ## I. Opening
 
-*   **Key Scripture Verse:**
+
     | Verse       | Text                                                 |
     | :---------- | :--------------------------------------------------- |
     | Matthew 5:5 | "Blessed are the meek, for they shall inherit the earth." |
 
-*   **Key CCC Paragraph:**
+
+
     | Paragraph | Summary                                                                                                                            |
     | :-------- | :--------------------------------------------------------------------------------------------------------------------------------- |
     | CCC 2302  | References Christ's command to "turn the other cheek" (Mt 5:39) which requires meekness, stating it pertains to anger.             |

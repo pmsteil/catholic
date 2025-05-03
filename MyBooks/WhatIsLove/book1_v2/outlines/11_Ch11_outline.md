@@ -8,11 +8,12 @@ Following critiques of specific ideologies and economic systems, this chapter ad
 
 ## I. Opening
 
-*   **Key Scripture Verse:**
+
     | Reference      | Verse                                                                                                                                                           |
     | -------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
     | 2 Timothy 4:3-4 | "For the time is coming when people will not endure sound teaching, but having itching ears they will accumulate for themselves teachers to suit their own likings, and will turn away from listening to the truth and wander into myths." |
-*   **Key CCC Paragraph:**
+
+
     | Reference | Paragraph                                                                                                                                                           |
     | --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
     | CCC 2465  | "The Old Testament attests that God is the source of all truth. His Word is truth. His Law is truth. His 'faithfulness endures to all generations.' Since God is 'true,' the members of his people are called to live in the truth." |

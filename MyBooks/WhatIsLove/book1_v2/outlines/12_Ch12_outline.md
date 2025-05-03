@@ -8,12 +8,13 @@ This chapter critiques the modern cultural elevation of sexual activity and iden
 
 ## I. Opening
 
-*   **Key Scripture Verse:**
+
     | Reference           | Text                                                                                                                                                                                          |
     | :------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
     | 1 Corinthians 6:18-20 | "Shun immorality. Every other sin which a man commits is outside the body; but the immoral man sins against his own body. Do you not know that your body is a temple of the Holy Spirit within you, which you have from God? You are not your own; you were bought with a price. So glorify God in your body." |
 
-*   **Key CCC Paragraph:**
+
+
     | Reference | Text                                                                                                                                                                                                                         |
     | :-------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
     | CCC 2337  | "Sexuality affects all aspects of the human person in the unity of his body and soul. It especially concerns affectivity, the capacity to love and to procreate, and in a more general way the aptitude for forming bonds of communion with others." |
