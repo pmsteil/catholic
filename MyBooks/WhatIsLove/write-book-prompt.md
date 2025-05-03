@@ -66,72 +66,72 @@ Systematically generate the complete first draft of this book by expanding the p
 **Drafting Progress:**
 
 **Part I: The Problem - Suffering, Confusion, and the Search for Love**
-*   [O] 1: The Problem of Suffering and Evil - Why is there so much pain in the world?
-*   [O] 2: The Cry for Love - The Desire for Connection and Belonging
-*   [O] 3: The Cry for Justice - The Yearning for Right Relationships
-*   [O] 4: The Cry for Mercy - The Desire for Healing and Forgiveness
-*   [O] 5: Unmasking Counterfeit Love - Critical Theory, Intersectionality and Wokeness
-*   [O] 6: Unmasking Counterfeit Love - Sentimentalism
-*   [O] 7: Unmasking Counterfeit Love - Relativism and Liberalism
-*   [O] 8: Unmasking Counterfeit Love - Individualism
-*   [O] 9: Unmasking Counterfeit Love - Feminism
-*   [O] 10: Unmasking Counterfeit Love - Marxism/Socialism/Communism
-*   [O] 11: Unmasking Counterfeit Love - Postmodernism
-*   [O] 12: Unmasking Counterfeit Love - "Sexualism"
-*   [O] 13: The Answer to Counterfeit Love - The Catholic Vision of Love
+*   [S] 1: The Problem of Suffering and Evil - Why is there so much pain in the world?
+*   [S] 2: The Cry for Love - The Desire for Connection and Belonging
+*   [S] 3: The Cry for Justice - The Yearning for Right Relationships
+*   [S] 4: The Cry for Mercy - The Desire for Healing and Forgiveness
+*   [S] 5: Unmasking Counterfeit Love - Critical Theory, Intersectionality and Wokeness
+*   [S] 6: Unmasking Counterfeit Love - Sentimentalism
+*   [S] 7: Unmasking Counterfeit Love - Relativism and Liberalism
+*   [S] 8: Unmasking Counterfeit Love - Individualism
+*   [S] 9: Unmasking Counterfeit Love - Feminism
+*   [S] 10: Unmasking Counterfeit Love - Marxism/Socialism/Communism
+*   [S] 11: Unmasking Counterfeit Love - Postmodernism
+*   [S] 12: Unmasking Counterfeit Love - "Sexualism"
+*   [S] 13: The Answer to Counterfeit Love - The Catholic Vision of Love
 
 **Part II: The Source of Love - What Love Is**
-*   [O] 14: What IS Love, Really?: Defining the Heart of the Matter
-*   [O] 15: Grace: Love's Sacred Source (Love requires God)
-*   [O] 16: Made for Love: Our Dignity and Divine Spark
-*   [O] 17: The Holy Spirit: Love's Inner Fire
+*   [S] 14: What IS Love, Really?: Defining the Heart of the Matter
+*   [S] 15: Grace: Love's Sacred Source (Love requires God)
+*   [S] 16: Made for Love: Our Dignity and Divine Spark
+*   [S] 17: The Holy Spirit: Love's Inner Fire
 
 **Part III: The Facets of Love - What Love Requires**
-*   [O] 18: Theological Virtues: Love's Sacred Foundation - Faith, Hope, Charity
-*   [O] 19: Faith: Love's Sacred Covenant
-*   [O] 20: Hope: Love's Sacred Horizon
-*   [O] 21: Truth: Love's Sacred Clarity
-*   [O] 22: Mercy: Love's Sacred Healing
-*   [O] 23: Justice: Love's Sacred Honor
-*   [O] 24: The Cross: Love's Sacred Sacrifice
-*   [O] 25: The Commandments: Love's Sacred Boundaries
-*   [O] 26: Cardinal Virtues: Love's Sacred Strength - Prudence, Justice, Fortitude, Temperance
-*   [O] 27: Prudence: Love's Sacred Discernment
-*   [O] 28: Fortitude: Love's Sacred Courage
-*   [O] 29: Temperance: Love's Sacred Balance
-*   [O] 30: Moral Virtues: Love's Sacred Character - Humility, Generosity, Patience, Kindness, Diligence, Chastity, Meekness, Obedience, Gratitude, Truthfulness
-*   [O] 31: Humility: Love's Sacred Foundation
-*   [O] 32: Generosity: Love's Sacred Abundance
-*   [O] 33: Patience: Love's Sacred Endurance
-*   [O] 34: Kindness: Love's Sacred Compassion
-*   [O] 35: Diligence: Love's Sacred Commitment
-*   [O] 36: Chastity: Love's Sacred Purity
-*   [O] 37: Meekness: Love's Sacred Strength
-*   [O] 38: Obedience: Love's Sacred Submission
-*   [O] 39: Gratitude: Love's Sacred Appreciation
-*   [O] 40: Truthfulness: Love's Sacred Honesty
-*   [O] 41: Self-Control: Love's Sacred Discipline
-*   [O] 42: Intimacy: Love's Sacred Union
+*   [S] 18: Theological Virtues: Love's Sacred Foundation - Faith, Hope, Charity
+*   [S] 19: Faith: Love's Sacred Covenant
+*   [S] 20: Hope: Love's Sacred Horizon
+*   [S] 21: Truth: Love's Sacred Clarity
+*   [S] 22: Mercy: Love's Sacred Healing
+*   [S] 23: Justice: Love's Sacred Honor
+*   [S] 24: The Cross: Love's Sacred Sacrifice
+*   [S] 25: The Commandments: Love's Sacred Boundaries
+*   [S] 26: Cardinal Virtues: Love's Sacred Strength - Prudence, Justice, Fortitude, Temperance
+*   [S] 27: Prudence: Love's Sacred Discernment
+*   [S] 28: Fortitude: Love's Sacred Courage
+*   [S] 29: Temperance: Love's Sacred Balance
+*   [S] 30: Moral Virtues: Love's Sacred Character - Humility, Generosity, Patience, Kindness, Diligence, Chastity, Meekness, Obedience, Gratitude, Truthfulness
+*   [S] 31: Humility: Love's Sacred Foundation
+*   [S] 32: Generosity: Love's Sacred Abundance
+*   [S] 33: Patience: Love's Sacred Endurance
+*   [S] 34: Kindness: Love's Sacred Compassion
+*   [S] 35: Diligence: Love's Sacred Commitment
+*   [S] 36: Chastity: Love's Sacred Purity
+*   [S] 37: Meekness: Love's Sacred Strength
+*   [S] 38: Obedience: Love's Sacred Submission
+*   [S] 39: Gratitude: Love's Sacred Appreciation
+*   [S] 40: Truthfulness: Love's Sacred Honesty
+*   [S] 41: Self-Control: Love's Sacred Discipline
+*   [S] 42: Intimacy: Love's Sacred Union
 
 **Part IV: The Fruits of Love - What Love Produces**
-*   [O] 43: Joy: Love's Sacred Delight
-*   [O] 44: Peace: Love's Sacred Rest
-*   [O] 45: Patience: Love's Sacred Endurance
-*   [O] 46: Kindness: Love's Sacred Generosity
-*   [O] 47: Goodness: Love's Sacred Integrity
-*   [O] 48: Faithfulness: Love's Sacred Loyalty
-*   [O] 49: Growth: Love's Sacred Flourishing
+*   [S] 43: Joy: Love's Sacred Delight
+*   [S] 44: Peace: Love's Sacred Rest
+*   [S] 45: Patience: Love's Sacred Endurance
+*   [S] 46: Kindness: Love's Sacred Generosity
+*   [S] 47: Goodness: Love's Sacred Integrity
+*   [S] 48: Faithfulness: Love's Sacred Loyalty
+*   [S] 49: Growth: Love's Sacred Flourishing
 
 **Part V: The Practices of Love - How we grow in Love**
-*   [O] 50: The Church: Love's Sacred Community of the Body of Christ
-*   [O] 51: Self-Denial: Days of Obligation, Fasting, Abstinence, Almsgiving, Long-suffering, Perseverance
-*   [O] 52: Sacraments: Love's Sacred Intimacy and Nourishment
-*   [O] 53: Prayer: Love's Sacred Conversation
-*   [O] 54: Family: Love's Sacred School
-*   [O] 55: Saints: Love's Sacred Examples
-*   [O] 56: Holiness: Love's Sacred Calling
-*   [O] 57: Evangelization: Love's Sacred Mission
-*   [O] 58: The Eucharist: Love's Sacred Source and Summit
+*   [S] 50: The Church: Love's Sacred Community of the Body of Christ
+*   [S] 51: Self-Denial: Days of Obligation, Fasting, Abstinence, Almsgiving, Long-suffering, Perseverance
+*   [S] 52: Sacraments: Love's Sacred Intimacy and Nourishment
+*   [S] 53: Prayer: Love's Sacred Conversation
+*   [S] 54: Family: Love's Sacred School
+*   [S] 55: Saints: Love's Sacred Examples
+*   [S] 56: Holiness: Love's Sacred Calling
+*   [S] 57: Evangelization: Love's Sacred Mission
+*   [S] 58: The Eucharist: Love's Sacred Source and Summit
 
 *(Note: Add Part/Appendix Headers as needed, e.g., `[] 00_Part1_Header.md`)*
 

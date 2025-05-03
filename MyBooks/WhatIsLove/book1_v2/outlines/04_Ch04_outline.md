@@ -1,22 +1,24 @@
 # Chapter 4 Outline: The Cry for Mercy
 
 ## Chapter Title:
+
 4: The Cry for Mercy - The Desire for Healing and Forgiveness
 
 ## Part I Context:
+
 Following the exploration of suffering, the longing for love, and the cry for justice, this chapter focuses on the deep human need for mercy, healing, and forgiveness, revealing it as another fundamental aspect of our search for authentic, **life-giving** love.
 
 ## I. Opening
 
 | Key Scripture Verse |
-|---|
+| --- |
 | "Blessed are the merciful, for they shall obtain mercy." |
-| *Matthew 5:7* |
+| _Matthew 5:7_ |
 
 | Key CCC Paragraph |
-|---|
+| --- |
 | "The Gospel is the revelation in Jesus Christ of God's mercy to sinners. The angel announced to Joseph: 'You shall call his name Jesus, for he will save his people from their sins.' The same is true of the Eucharist, the sacrament of redemption: 'This is my blood of the covenant, which is poured out for many for the forgiveness of sins.'" |
-| *CCC 1846* |
+| _CCC 1846_ |
 
 ## II. Body: Developing the Theme
 
@@ -24,7 +26,7 @@ Following the exploration of suffering, the longing for love, and the cry for ju
     *   Connect the previous chapters: Suffering (Ch 1), broken connections (Ch 2), and the reality of injustice/sin (Ch 3) inevitably lead to wounds that cry out for healing and forgiveness – for mercy.
     *   Use "we/us": We all carry wounds, we all make mistakes, we all stand in need of mercy, both from God and from others.
 2.  **The Universal Desire for Healing and Forgiveness:**
-    *   Explore the innate human longing to be healed (physically, emotionally, spiritually) and to be forgiven when we err, as well as the often difficult call to *extend* forgiveness.
+    *   Explore the innate human longing to be healed (physically, emotionally, spiritually) and to be forgiven when we err, as well as the often difficult call to _extend_ forgiveness.
     *   Examples: Seeking reconciliation after arguments, the desire to "wipe the slate clean," the relief of unburdening guilt, the ache for physical or emotional restoration.
 3.  **Defining Mercy: Compassionate Action:**
     *   Define mercy not just as pity, but as active, compassionate love that enters into the suffering of others to bring **sacred healing** and restoration. It's a key attribute of God (Ephesians 2:4 - "rich in mercy").
