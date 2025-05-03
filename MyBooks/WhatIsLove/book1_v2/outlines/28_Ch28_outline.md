@@ -8,8 +8,15 @@ Continuing the examination of the Cardinal Virtues, this chapter focuses on Fort
 
 ## I. Opening
 
-*   **Key Scripture Verse:** Joshua 1:9 - "Have I not commanded you? Be strong and of good courage; be not frightened, neither be dismayed; for the LORD your God is with you wherever you go."
-*   **CCC Paragraph:** CCC 1808 - "Fortitude is the moral virtue that ensures firmness in difficulties and constancy in the pursuit of the good. It strengthens the resolve to resist temptations and to overcome obstacles in the moral life. The virtue of fortitude enables one to conquer fear, even fear of death, and to face trials and persecutions."
+| Key Scripture Verse |
+|---|
+| "Have I not commanded you? Be strong and of good courage; be not frightened, neither be dismayed; for the LORD your God is with you wherever you go." |
+| *Joshua 1:9* |
+
+| Key CCC Paragraph |
+|---|
+| "Fortitude is the moral virtue that ensures firmness in difficulties and constancy in the pursuit of the good. It strengthens the resolve to resist temptations and to overcome obstacles in the moral life. The virtue of fortitude enables one to conquer fear, even fear of death, and to face trials and persecutions." |
+| *CCC 1808* |
 
 ## II. Body: Developing the Theme
 
@@ -58,3 +65,9 @@ Continuing the examination of the Cardinal Virtues, this chapter focuses on Fort
     *   CCC 1837 (Fortitude linked with other cardinal virtues)
     *   CCC 2471-2474 (Duty to bear witness to the truth, martyrdom)
 *   **Prayer Practice:** Pray the Litany of Trust. Intention: To surrender fears and anxieties to God, asking for the **sacred courage** (Fortitude) to trust Him completely and to act boldly according to His will, especially when facing difficulties in living out **sacrificial**, **covenantal** love. (Repeated prayer, different intention focus).
+
+## Relevant Quotes (Saints, Theologians, Popes)
+
+*   "Fortitude is the guard and support of the other virtues." - *St. Thomas Aquinas (adapted from Summa Theologiae, II-II, Q. 123, Art. 12)*
+*   "Be who God meant you to be and you will set the world on fire." - *St. Catherine of Siena*
+*   "Do not be afraid. Do not be satisfied with mediocrity. Put out into the deep and let down your nets for a catch." - *Pope St. John Paul II (Homily, World Youth Day 2000)*

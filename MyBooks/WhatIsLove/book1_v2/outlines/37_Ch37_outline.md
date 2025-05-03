@@ -8,8 +8,16 @@ Continuing the exploration of Moral Virtues, this chapter focuses on Meekness. O
 
 ## I. Opening
 
-*   **Key Scripture Verse:** Matthew 5:5 - "Blessed are the meek, for they shall inherit the earth."
-*   **CCC Paragraph:** CCC 2302 references Christ's command to "turn the other cheek" (Mt 5:39) which requires meekness, stating it pertains to anger. *Alternatively, CCC 736 lists meekness/gentleness as a fruit of the Spirit.*
+*   **Key Scripture Verse:**
+    | Verse       | Text                                                 |
+    | :---------- | :--------------------------------------------------- |
+    | Matthew 5:5 | "Blessed are the meek, for they shall inherit the earth." |
+
+*   **Key CCC Paragraph:**
+    | Paragraph | Summary                                                                                                                            |
+    | :-------- | :--------------------------------------------------------------------------------------------------------------------------------- |
+    | CCC 2302  | References Christ's command to "turn the other cheek" (Mt 5:39) which requires meekness, stating it pertains to anger.             |
+    | CCC 736   | *Alternatively:* Lists meekness/gentleness as a fruit of the Spirit.                                                              |
 
 ## II. Body: Developing the Theme
 
@@ -59,3 +67,8 @@ Continuing the exploration of Moral Virtues, this chapter focuses on Meekness. O
     *   CCC 1832 (Fruits of the Spirit)
     *   CCC 2302-2304 (Anger, deliberate hatred, need for peace - context for meekness)
 *   **Prayer Practice:** Pray the Litany of Humility, focusing on petitions related to anger and reputation ("From the desire of being vindicated... From the fear of suffering rebukes... From the fear of being calumniated... Deliver me, Jesus."). Intention: To cultivate the **sacred strength** of Meekness by detaching from pride and the need for self-defense, asking for the grace to respond to injury with patience and gentleness, trusting in God's **justice** and **mercy**. (Repeated prayer, different intention focus).
+
+## Relevant Quotes (Saints, Theologians, Popes)
+
+*   "Take care to practice well the humble meekness that you owe to everybody, for it is the virtue of virtues which our Lord greatly recommended to us." - St. Francis de Sales
+*   "Nothing is so strong as gentleness, nothing so gentle as real strength." - St. Francis de Sales

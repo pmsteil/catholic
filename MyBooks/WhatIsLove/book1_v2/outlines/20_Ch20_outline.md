@@ -8,8 +8,16 @@ Following the exploration of Faith (Ch 19), this chapter examines the second the
 
 ## I. Opening
 
-*   **Key Scripture Verse:** Romans 15:13 - "May the God of hope fill you with all joy and peace in believing, so that by the power of the Holy Spirit you may abound in hope."
-*   **CCC Paragraph:** CCC 1817 - "Hope is the theological virtue by which we desire the kingdom of heaven and eternal life as our happiness, placing our trust in Christ's promises and relying not on our own strength, but on the help of the grace of the Holy Spirit."
+*   **Key Scripture Verse:**
+    | Key Scripture Verse |
+    |---|
+    | "May the God of hope fill you with all joy and peace in believing, so that by the power of the Holy Spirit you may abound in hope." |
+    | *Romans 15:13* |
+*   **Key CCC Paragraph:**
+    | Key CCC Paragraph |
+    |---|
+    | "Hope is the theological virtue by which we desire the kingdom of heaven and eternal life as our happiness, placing our trust in Christ's promises and relying not on our own strength, but on the help of the grace of the Holy Spirit." |
+    | *CCC 1817* |
 
 ## II. Body: Developing the Theme
 
@@ -58,3 +66,9 @@ Following the exploration of Faith (Ch 19), this chapter examines the second the
     *   CCC 2090-2092 (Hope, Sins Against Hope)
     *   CCC 1023-1029 (Heaven - the object of hope)
 *   **Prayer Practice:** Pray the Act of Hope. Intention: To consciously place trust not in personal strength but in God's infinite power, mercy, and faithfulness to His promises, asking for an increase in the desire for Heaven and the grace to persevere towards that **sacred horizon** through **sacrificial** love.
+
+## Relevant Quotes (Saints, Theologians, Popes)
+
+*   "The world is thy ship and not thy home." - St. Thérèse of Lisieux
+*   "The one who has hope lives differently; the one who hopes has been granted the gift of a new life." - Pope Benedict XVI, *Spe Salvi*, 2
+*   "All the way to heaven is heaven, because He said, 'I am the way.'" - St. Catherine of Siena

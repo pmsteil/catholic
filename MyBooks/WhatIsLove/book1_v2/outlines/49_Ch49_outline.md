@@ -8,8 +8,17 @@ Concluding Part IV ("The Fruits of Love"), this chapter focuses on Growth. It pr
 
 ## I. Opening
 
-*   **Key Scripture Verse:** 2 Peter 3:18 - "But grow in the grace and knowledge of our Lord and Savior Jesus Christ. To him be the glory both now and to the day of eternity. Amen."
-*   **CCC Paragraph:** CCC 2015 - "The way of perfection passes by way of the Cross. There is no holiness without renunciation and spiritual battle. Spiritual progress entails the ascesis and mortification that gradually lead to living in the peace and joy of the Beatitudes..." (Growth requires effort and passes through sacrifice).
+*   **Key Scripture Verse:**
+    | Verse         | Text                                                                                             |
+    |---------------|--------------------------------------------------------------------------------------------------|
+    | 2 Peter 3:18  | "But grow in the grace and knowledge of our Lord and Savior Jesus Christ..."                     |
+    | *Reference:*  | *New American Bible, Revised Edition (NABRE)*                                                    |
+
+*   **Key CCC Paragraph:**
+    | Paragraph | Text                                                                                                                                                                                             | Theme                                       |
+    |-----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
+    | CCC 2015  | "The way of perfection passes by way of the Cross. There is no holiness without renunciation and spiritual battle. Spiritual progress entails the ascesis and mortification..."                     | Growth requires effort and passes through sacrifice |
+    | *Reference:*| *Catechism of the Catholic Church, 2nd Ed.*                                                                                                                                                      |                                             |
 
 ## II. Body: Developing the Theme
 
@@ -59,3 +68,9 @@ Concluding Part IV ("The Fruits of Love"), this chapter focuses on Growth. It pr
     *   CCC 1694-1695 (Formation in the new life in Christ)
     *   CCC 2012-2016 (Growth toward holiness and perfection)
 *   **Prayer Practice:** Pray the Suscipe prayer of St. Ignatius ("Take, Lord, and receive..."). Intention: To surrender oneself completely to God's transformative action, asking for the grace necessary for continued spiritual growth and **sacred flourishing**, desiring only His love and grace which are sufficient for the journey towards deeper **life-giving communion**. (Repeated prayer, different intention focus).
+
+## Relevant Quotes (Saints, Theologians, Popes)
+
+*   "Do not wish to be anything but what you are, and try to be that perfectly." - St. Francis de Sales (Emphasizes accepting our current state while striving for perfection within it, aligning with gradual growth.)
+*   "Miss no single opportunity of making some small sacrifice, here by a smiling look, there by a kindly word; always doing the smallest right and doing it all for love." - St. Thérèse of Lisieux (Highlights how growth manifests in small, consistent acts of love and sacrifice.)
+*   "Being Christian is not the result of an ethical choice or a lofty idea, but the encounter with an event, a person, which gives life a new horizon and a decisive direction." - Pope Benedict XVI, *Deus Caritas Est*, 1 (Points to the source of growth: a transformative encounter with Christ, leading to flourishing.)

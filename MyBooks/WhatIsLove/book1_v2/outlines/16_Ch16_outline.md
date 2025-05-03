@@ -8,8 +8,17 @@ Continuing the exploration of the Source of Love, after defining love (Ch 14) an
 
 ## I. Opening
 
-*   **Key Scripture Verse:** Genesis 1:27 - "So God created man in his own image, in the image of God he created him; male and female he created them."
-*   **CCC Paragraph:** CCC 357 - "Being in the image of God the human individual possesses the dignity of a person, who is not just something, but someone. He is capable of self-knowledge, of self-possession and of freely giving himself and entering into communion with other persons. And he is called by grace to a covenant with his Creator, to offer him a response of faith and love that no other creature can give in his stead."
+*   **Key Scripture Verse:**
+
+    | Reference   | Text                                                                                             |
+    | :---------- | :----------------------------------------------------------------------------------------------- |
+    | Genesis 1:27 | "So God created man in his own image, in the image of God he created him; male and female he created them." |
+
+*   **Key CCC Paragraph:**
+
+    | Reference | Text                                                                                                                                                                                                                                                                                                                                                                                       |
+    | :-------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+    | CCC 357   | "Being in the image of God the human individual possesses the dignity of a person, who is not just something, but someone. He is capable of self-knowledge, of self-possession and of freely giving himself and entering into communion with other persons. And he is called by grace to a covenant with his Creator, to offer him a response of faith and love that no other creature can give in his stead." |
 
 ## II. Body: Developing the Theme
 
@@ -60,3 +69,9 @@ Continuing the exploration of the Source of Love, after defining love (Ch 14) an
     *   CCC 355-384 (Man in the Image of God, Body and Soul, Male and Female, Man in Paradise)
     *   CCC 1700-1715 (Dignity of the Human Person, Beatitude)
 *   **Prayer Practice:** Pray the Te Deum (or another prayer of praise like the Gloria). Intention: To give thanks and praise to God for the **sacred gift** of creation, for bestowing upon humanity such profound dignity (Imago Dei), and for calling us into **covenant** and **life-giving communion** through His love and grace.
+
+## Relevant Quotes (Saints, Theologians, Popes)
+
+*   "Christian, recognize your dignity and, now that you share in God's own nature, do not return to your former base condition by sinning." - St. Leo the Great, *Sermo 21*
+*   "Man cannot live without love. He remains a being that is incomprehensible for himself, his life is senseless, if love is not revealed to him, if he does not encounter love, if he does not experience it and make it his own, if he does not participate intimately in it." - St. John Paul II, *Redemptor Hominis*, 10
+*   "You have made us for yourself, O Lord, and our heart is restless until it rests in you." - St. Augustine, *Confessions*, Book 1, Ch 1

@@ -8,8 +8,17 @@ Continuing the exploration of Moral Virtues, this chapter focuses on Self-Contro
 
 ## I. Opening
 
-*   **Key Scripture Verse:** 1 Corinthians 9:25, 27 - "Every athlete exercises self-control in all things... I pommel my body and subdue it, lest after preaching to others I myself should be disqualified."
-*   **CCC Paragraph:** CCC 1809 (Temperance) mentions ensuring "the will's mastery over instincts." Self-control is the practical exercise of this mastery. *Alternatively, CCC 1832 lists self-control as a fruit of the Spirit.*
+| Key Scripture Verse |
+|---|
+| "Every athlete exercises self-control in all things... I pommel my body and subdue it, lest after preaching to others I myself should be disqualified." |
+| *1 Corinthians 9:25, 27* |
+
+| Key CCC Paragraph(s) |
+|---|
+| Temperance ensures "the will's mastery over instincts." Self-control is the practical exercise of this mastery. |
+| *CCC 1809* |
+| Self-control is listed as a fruit of the Spirit. |
+| *CCC 1832* |
 
 ## II. Body: Developing the Theme
 
@@ -59,3 +68,9 @@ Continuing the exploration of Moral Virtues, this chapter focuses on Self-Contro
     *   CCC 2337-2345 (Chastity and self-mastery)
     *   CCC 2733 (Acedia overcome by vigilance of heart and self-control)
 *   **Prayer Practice:** Pray the Litany of the Most Precious Blood of Jesus. Intention: To seek cleansing and strength from the Blood of Christ, asking for the grace of **sacred discipline** and Self-Control over sinful inclinations and disordered desires, freeing the heart to love God and neighbor more purely and completely.
+
+## Relevant Quotes (Saints, Theologians, Popes)
+
+*   "No one who is a lover of money, pleasure, or glory is qualified to govern. A ruler must be apt to teach; but the lover of money is apt to sell, the lover of pleasure is apt to enslave, and the lover of glory is apt to deceive." - *St. John Chrysostom, Homilies on Titus*
+*   "True devotion consists not in sterile tenderness of heart, but in a resolute will to do whatever pleases God. It is practiced not only amidst consolations, but also amidst the greatest repugnances and difficulties." - *St. Francis de Sales, Introduction to the Devout Life*
+*   "Freedom consists not in doing what we like, but in having the right to do what we ought." - *Pope St. John Paul II, Address to Youth, 1995*

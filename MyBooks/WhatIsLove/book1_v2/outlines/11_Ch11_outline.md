@@ -8,8 +8,14 @@ Following critiques of specific ideologies and economic systems, this chapter ad
 
 ## I. Opening
 
-*   **Key Scripture Verse:** 2 Timothy 4:3-4 - "For the time is coming when people will not endure sound teaching, but having itching ears they will accumulate for themselves teachers to suit their own likings, and will turn away from listening to the truth and wander into myths."
-*   **CCC Paragraph:** CCC 2465 - "The Old Testament attests that God is the source of all truth. His Word is truth. His Law is truth. His 'faithfulness endures to all generations.' Since God is 'true,' the members of his people are called to live in the truth."
+*   **Key Scripture Verse:**
+    | Reference      | Verse                                                                                                                                                           |
+    | -------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+    | 2 Timothy 4:3-4 | "For the time is coming when people will not endure sound teaching, but having itching ears they will accumulate for themselves teachers to suit their own likings, and will turn away from listening to the truth and wander into myths." |
+*   **Key CCC Paragraph:**
+    | Reference | Paragraph                                                                                                                                                           |
+    | --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+    | CCC 2465  | "The Old Testament attests that God is the source of all truth. His Word is truth. His Law is truth. His 'faithfulness endures to all generations.' Since God is 'true,' the members of his people are called to live in the truth." |
 
 ## II. Body: Developing the Theme
 
@@ -58,3 +64,8 @@ Following critiques of specific ideologies and economic systems, this chapter ad
     *   CCC 2464-2474 (Living in the Truth)
     *   *Fides et Ratio* (Encyclical by St. John Paul II on Faith and Reason)
 *   **Prayer Practice:** Pray the Creed (Nicene or Apostles'). Intention: To consciously reaffirm the foundational **sacred truths** of the Catholic faith, rejecting skepticism and grounding oneself in the objective reality of God's **life-giving** revelation and the **binding covenant** He offers through Christ and the Church.
+
+## Relevant Quotes (Saints, Theologians, Popes)
+*   "Faith and reason are like two wings on which the human spirit rises to the contemplation of truth; and God has placed in the human heart a desire to know the truth—in a word, to know himself—so that, by knowing and loving God, men and women may also come to the fullness of truth about themselves." - St. John Paul II, *Fides et Ratio*, Prologue
+*   "We are moving toward a dictatorship of relativism which does not recognize anything as for certain and which has as its highest goal one's own ego and one's own desires." - Pope Benedict XVI, Homily, Mass *Pro Eligendo Romano Pontifice*, April 18, 2005
+*   "Merely having an open mind is nothing. The object of opening the mind, as of opening the mouth, is to shut it again on something solid." - G.K. Chesterton, *Autobiography*

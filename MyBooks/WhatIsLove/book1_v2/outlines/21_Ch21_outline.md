@@ -8,8 +8,15 @@ Continuing the exploration of what love requires, after establishing the theolog
 
 ## I. Opening
 
-*   **Key Scripture Verse:** John 8:32 - "...and you will know the truth, and the truth will set you free."
-*   **CCC Paragraph:** CCC 2467 - "Man tends by nature toward the truth. He is obliged to honor and bear witness to it: 'It is in accordance with their dignity that all men, because they are persons . . . are both impelled by their nature and bound by a moral obligation to seek the truth, especially religious truth. They are also bound to adhere to the truth once they come to know it and direct their whole lives in accordance with the demands of truth.'"
+| Key Scripture Verse                                            |
+| :------------------------------------------------------------- |
+| "...and you will know the truth, and the truth will set you free." |
+| *John 8:32*                                                    |
+
+| Key CCC Paragraph                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| "Man tends by nature toward the truth. He is obliged to honor and bear witness to it: 'It is in accordance with their dignity that all men, because they are persons . . . are both impelled by their nature and bound by a moral obligation to seek the truth, especially religious truth. They are also bound to adhere to the truth once they come to know it and direct their whole lives in accordance with the demands of truth.'" |
+| *CCC 2467*                                                                                                                                                                                                                                                                                                                                                                                                                          |
 
 ## II. Body: Developing the Theme
 
@@ -55,3 +62,14 @@ Continuing the exploration of what love requires, after establishing the theolog
     *   CCC 214-217 (God is Truth)
     *   CCC 2464-2513 (The Eighth Commandment: You shall not bear false witness against your neighbor - covers living in truth, witness, offenses against truth)
 *   **Prayer Practice:** Pray the Litany of Humility, focusing on the petition "From the desire of being esteemed... Deliver me, Jesus." and "From the fear of being humiliated... Deliver me, Jesus." Intention: To overcome the fear and pride that often prevent us from speaking or accepting the **sacred truth**, asking for the humility and courage needed to live in **sacred clarity** and love authentically. (Repeated prayer, different intention focus).
+
+## Relevant Quotes (Saints, Theologians, Popes)
+
+"Without truth, charity degenerates into sentimentality. Love becomes an empty shell, to be filled in an arbitrary way. In a culture without truth, this is the fatal risk facing love."
+*- Pope Benedict XVI, Caritas in Veritate, 3*
+
+"Do not accept anything as the truth if it lacks love. And do not accept anything as love which lacks truth."
+*- St. Edith Stein (Teresa Benedicta of the Cross)*
+
+"Truth enlightens man's intelligence and shapes his freedom, leading him to know and love the Lord."
+*- Pope St. John Paul II, Veritatis Splendor, Intro*

@@ -8,8 +8,15 @@ Continuing the exploration of Moral Virtues, this chapter focuses on Kindness. C
 
 ## I. Opening
 
-*   **Key Scripture Verse:** Ephesians 4:32 - "Be kind to one another, tenderhearted, forgiving one another, as God in Christ forgave you."
-*   **CCC Paragraph:** CCC 1829 - "Charity...binds everything together in perfect harmony.' ... It upholds and purifies our human ability to love, and raises it to the supernatural perfection of divine love." (Kindness is an expression of this purified ability to love). *Alternatively, CCC 1832 lists kindness as a fruit of the Spirit.*
+| Key Scripture Verse |
+| :------------------ |
+| Ephesians 4:32      |
+| "Be kind to one another, tenderhearted, forgiving one another, as God in Christ forgave you." |
+
+| Key CCC Paragraph |
+| :---------------- |
+| CCC 1829 / 1832   |
+| CCC 1829: "Charity...binds everything together in perfect harmony.' ... It upholds and purifies our human ability to love, and raises it to the supernatural perfection of divine love." (Kindness is an expression of this purified ability to love). *Alternatively, CCC 1832 lists kindness as a fruit of the Spirit.* |
 
 ## II. Body: Developing the Theme
 
@@ -59,3 +66,9 @@ Continuing the exploration of Moral Virtues, this chapter focuses on Kindness. C
     *   CCC 1832 (Kindness/Goodness as fruit of the Spirit)
     *   CCC 2447 (Works of Mercy as expressions of kindness/charity)
 *   **Prayer Practice:** Pray the Prayer of St. Francis ("Lord, make me an instrument of your peace..."). Focus on the petitions related to interpersonal harmony ("Where there is hatred, let me sow love; where there is injury, pardon..."). Intention: To become a better instrument of God's **sacred compassion** and kindness, asking for the grace to overcome harshness and indifference, and to actively build **life-giving communion** through gentle words and deeds. (Repeated prayer, different intention focus).
+
+## Relevant Quotes (Saints, Theologians, Popes)
+
+*   "You need to hold fast to two virtues: kindness toward your neighbor and humility toward God.” - St. Padre Pio
+*   "If you hope for mercy, show mercy. If you look for kindness, show kindness. If you want to receive, give.” - St. Peter Claver (attributed)
+*   "Kind words can be short and easy to speak, but their echoes are truly endless." - St. Mother Teresa

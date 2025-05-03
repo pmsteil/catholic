@@ -8,8 +8,15 @@ Concluding Part V ("The Practices of Love") and the main theological development
 
 ## I. Opening
 
-*   **Key Scripture Verse:** John 6:53-56 - "So Jesus said to them, 'Truly, truly, I say to you, unless you eat the flesh of the Son of man and drink his blood, you have no life in you... He who eats my flesh and drinks my blood abides in me, and I in him.'"
-*   **CCC Paragraph:** CCC 1324 - "The Eucharist is 'the source and summit of the Christian life.' 'The other sacraments, and indeed all ecclesiastical ministries and works of the apostolate, are bound up with the Eucharist and are oriented toward it. For in the blessed Eucharist is contained the whole spiritual good of the Church, namely Christ himself, our Pasch.'"
+*   **Key Scripture Verse:**
+    | Reference     | Text                                                                                                                                                           |
+    |---------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|
+    | John 6:53-56  | "So Jesus said to them, 'Truly, truly, I say to you, unless you eat the flesh of the Son of man and drink his blood, you have no life in you... He who eats my flesh and drinks my blood abides in me, and I in him.'" |
+
+*   **Key CCC Paragraph:**
+    | Reference | Text                                                                                                                                                                                                                                                                                          |
+    |-----------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+    | CCC 1324  | "The Eucharist is 'the source and summit of the Christian life.' 'The other sacraments, and indeed all ecclesiastical ministries and works of the apostolate, are bound up with the Eucharist and are oriented toward it. For in the blessed Eucharist is contained the whole spiritual good of the Church, namely Christ himself, our Pasch.'" |
 
 ## II. Body: Developing the Theme
 
@@ -61,3 +68,9 @@ Concluding Part V ("The Practices of Love") and the main theological development
     *   CCC 1322-1419 (The Sacrament of the Eucharist - comprehensive teaching)
     *   *Ecclesia de Eucharistia* (Encyclical by St. John Paul II on the Eucharist in its Relationship to the Church)
 *   **Prayer Practice:** Spend time in Eucharistic Adoration, simply being present to Christ in the Blessed Sacrament. Alternatively, make a fervent Spiritual Communion. Intention: To adore Christ truly present, to offer thanksgiving for this ultimate **sacred gift**, to deepen **sacred intimacy** and **communion**, and to draw strength from the **sacred source** for living a life of **sacrificial**, **covenantal** love.
+
+## Relevant Quotes (Saints, Theologians, Popes)
+
+*   "When you look at the Crucifix, you understand how much Jesus loved you then. When you look at the Sacred Host, you understand how much Jesus loves you now." - St. Teresa of Calcutta
+*   "The Eucharist is the source and summit of the Church's life and mission." - Pope Benedict XVI (*Sacramentum Caritatis*, 1)
+*   "If angels could be jealous of men, they would be so for one reason: Holy Communion." - St. Maximilian Kolbe

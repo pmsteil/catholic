@@ -8,8 +8,15 @@ Completing the initial exploration of the four Cardinal Virtues, this chapter fo
 
 ## I. Opening
 
-*   **Key Scripture Verse:** Galatians 5:22-23 - "But the fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, self-control [Temperance]; against such there is no law." (Lists self-control/temperance as a fruit of the Spirit).
-*   **CCC Paragraph:** CCC 1809 - "Temperance is the moral virtue that moderates the attraction of pleasures and provides balance in the use of created goods. It ensures the will's mastery over instincts and keeps desires within the limits of what is honorable. The temperate person directs the sensitive appetites toward what is good and maintains a healthy discretion..."
+*   **Key Scripture Verse:**
+    | Key Scripture Verse | Reference     |
+    | :------------------ | :------------ |
+    | "But the fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, self-control [Temperance]; against such there is no law." | Galatians 5:22-23 |
+
+*   **Key CCC Paragraph:**
+    | Key CCC Paragraph | Reference |
+    | :---------------- | :-------- |
+    | "Temperance is the moral virtue that moderates the attraction of pleasures and provides balance in the use of created goods. It ensures the will's mastery over instincts and keeps desires within the limits of what is honorable. The temperate person directs the sensitive appetites toward what is good and maintains a healthy discretion..." | CCC 1809  |
 
 ## II. Body: Developing the Theme
 
@@ -63,3 +70,9 @@ Completing the initial exploration of the four Cardinal Virtues, this chapter fo
     *   CCC 2288-2291 (Respect for health, virtue of temperance regarding food/alcohol/tobacco/medicine)
     *   CCC 2337-2359 (Vocation to Chastity - a key aspect of temperance)
 *   **Prayer Practice:** Pray the Litany of Humility, focusing on petitions related to desires and attachments ("From the desire of being loved... being preferred... being approved... being honored... being praised... Deliver me, Jesus."). Intention: To detach from disordered desires for pleasure or worldly approval, asking for the grace of Temperance to find **sacred balance** and true freedom in loving God above all things. (Repeated prayer, different intention focus).
+
+## Relevant Quotes (Saints, Theologians, Popes)
+
+*   "Do not follow your base desires, but restrain your appetites.” - Sirach 18:30
+*   Temperance is "the virtue which moderates in us the inordinate desire for sensible pleasure, keeping it within the limits assigned by reason and faith.” - Fr. Gabriel of St. Mary Magdalen, O.C.D. (*Divine Intimacy*)
+*   Temperance is "selfless self-preservation." - Josef Pieper (*The Four Cardinal Virtues*)

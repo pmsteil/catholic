@@ -8,8 +8,15 @@ Continuing the exploration of the Fruits of Love, this chapter focuses on Faithf
 
 ## I. Opening
 
-*   **Key Scripture Verse:** Lamentations 3:22-23 - "The steadfast love of the LORD never ceases, his mercies never come to an end; they are new every morning; great is thy faithfulness."
-*   **CCC Paragraph:** CCC 1832 - "The fruits of the Spirit are perfections that the Holy Spirit forms in us as the first fruits of eternal glory. The tradition of the Church lists twelve of them: 'charity, joy, peace, patience, kindness, goodness, generosity, gentleness, faithfulness...'" (Lists Faithfulness as a fruit).
+| Key Scripture Verse |
+|---|
+| "The steadfast love of the LORD never ceases, his mercies never come to an end; they are new every morning; great is thy faithfulness." |
+| *Lamentations 3:22-23* |
+
+| Key CCC Paragraph |
+|---|
+| "The fruits of the Spirit are perfections that the Holy Spirit forms in us as the first fruits of eternal glory. The tradition of the Church lists twelve of them: 'charity, joy, peace, patience, kindness, goodness, generosity, gentleness, faithfulness...'" |
+| *CCC 1832* |
 
 ## II. Body: Developing the Theme
 
@@ -57,3 +64,8 @@ Continuing the exploration of the Fruits of Love, this chapter focuses on Faithf
     *   CCC 1832 (Faithfulness as fruit of the Spirit)
     *   CCC 1646-1651 (Fidelity in marriage)
 *   **Prayer Practice:** Pray the Act of Faith. Intention: To reaffirm belief not only in God's revealed **sacred truths** but also in His unwavering Faithfulness to His promises and **sacred covenant**, asking for the grace to mirror that **sacred loyalty** in one's own life. (Repeated prayer, different intention focus).
+
+## Relevant Quotes (Saints, Theologians, Popes)
+*   "Faithfulness requires a daily heroism." - St. Josemaría Escrivá
+*   "God's faithfulness is the anchor of our hope." - Pope Benedict XVI
+*   "Be faithful in small things because it is in them that your strength lies." - St. Teresa of Calcutta

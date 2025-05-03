@@ -8,8 +8,15 @@ Beginning the detailed exploration of specific Moral Virtues introduced in Chapt
 
 ## I. Opening
 
-*   **Key Scripture Verse:** Matthew 23:12 - "Whoever exalts himself will be humbled, and whoever humbles himself will be exalted."
-*   **CCC Paragraph:** CCC 2559 - "'Prayer is the raising of one's mind and heart to God or the requesting of good things from God.' But when we pray, do we speak from the height of our pride and will, or 'out of the depths' of a humble and contrite heart? He who humbles himself will be exalted; humility is the foundation of prayer. Only when we humbly acknowledge that 'we do not know how to pray as we ought,' are we ready to receive freely the gift of prayer. 'Man is a beggar before God.'"
+*   **Key Scripture Verse:**
+    | Verse          | Text                                                                                       |
+    | -------------- | ------------------------------------------------------------------------------------------ |
+    | Matthew 23:12  | "Whoever exalts himself will be humbled, and whoever humbles himself will be exalted."     |
+
+*   **Key CCC Paragraph:**
+    | Paragraph | Text                                                                                                                                                                                                                                                                                                                                                                                       |
+    | --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+    | CCC 2559  | "'Prayer is the raising of one's mind and heart to God or the requesting of good things from God.' But when we pray, do we speak from the height of our pride and will, or 'out of the depths' of a humble and contrite heart? He who humbles himself will be exalted; humility is the foundation of prayer. Only when we humbly acknowledge that 'we do not know how to pray as we ought,' are we ready to receive freely the gift of prayer. 'Man is a beggar before God.'" |
 
 ## II. Body: Developing the Theme
 
@@ -59,3 +66,8 @@ Beginning the detailed exploration of specific Moral Virtues introduced in Chapt
     *   CCC 2713 (Contemplative prayer as humble, poor surrender)
     *   CCC 299 (God needs no pre-existent thing or help - relates to His sovereignty and our dependence)
 *   **Prayer Practice:** Pray the Litany of Humility. Intention: To specifically ask for deliverance from pride in its various forms and to cultivate a deep, genuine humility that recognizes total dependence on God, fostering openness to His grace and authentic **sacrificial** love. (Repeated prayer, specific focus).
+
+## Relevant Quotes (Saints, Theologians, Popes)
+*   "Humility is the foundation of all the other virtues hence, in the soul in which this virtue does not exist there cannot be any other virtue except in mere appearance." - St. Augustine
+*   "It was pride that changed angels into devils; it is humility that makes men as angels." - St. Augustine
+*   "Humility is the mother of many virtues." - St. John Climacus

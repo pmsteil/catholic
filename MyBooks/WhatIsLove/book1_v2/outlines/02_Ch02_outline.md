@@ -8,8 +8,19 @@ Following the exploration of suffering (Ch 1), this chapter delves into the fund
 
 ## I. Opening
 
-*   **Key Scripture Verse:** 1 John 4:16 - "So we know and believe the love God has for us. God is love, and he who abides in love abides in God, and God abides in him."
-*   **CCC Paragraph:** CCC 27 - "The desire for God is written in the human heart, because man is created by God and for God; and God never ceases to draw man to himself. Only in God will he find the truth and happiness he never stops searching for."
+*   **Key Scripture Verse:**
+    | Key Scripture Verse |
+    | :------------------ |
+    | "So we know and believe the love God has for us. God is love, and he who abides in love abides in God, and God abides in him." |
+
+    *Reference: 1 John 4:16*
+
+*   **Key CCC Paragraph:**
+    | Key CCC Paragraph |
+    | :---------------- |
+    | "The desire for God is written in the human heart, because man is created by God and for God; and God never ceases to draw man to himself. Only in God will he find the truth and happiness he never stops searching for." |
+
+    *Reference: CCC 27*
 
 ## II. Body: Developing the Theme
 
@@ -19,6 +30,7 @@ Following the exploration of suffering (Ch 1), this chapter delves into the fund
 2.  **The Universal Cry:**
     *   Explore the universality of the desire for love, acceptance, and belonging across cultures and times.
     *   Provide examples: the longing for family bonds, deep friendships, romantic love, community acceptance.
+    *   > *"Man cannot live without love. He remains a being that is incomprehensible for himself, his life is senseless, if love is not revealed to him, if he does not encounter love, if he does not experience it and make it his own, if he does not participate intimately in it."* - Pope St. John Paul II, *Redemptor Hominis*, 10
 3.  **Made for Communion:**
     *   Root this desire in our creation: We are made in the image and likeness of God (Genesis 1:27), who is Himself a **communion** of Persons (the Trinity).
     *   Therefore, we are inherently relational beings, designed for **life-giving communion**. (See CCC 1701-1702). This desire isn't accidental; it's part of our **sacred** design.
@@ -28,7 +40,9 @@ Following the exploration of suffering (Ch 1), this chapter delves into the fund
     *   Contrast these distortions with the elements of true love (foreshadowing the definition in Ch 14).
 5.  **The Ultimate Fulfillment - A Cry for God:**
     *   Argue that this profound, persistent cry for connection is ultimately a cry for God Himself, the source and fulfillment of all authentic love (CCC 27).
+    *   > *"You have made us for yourself, O Lord, and our heart is restless until it rests in you."* - St. Augustine, *Confessions*, Book 1, Chapter 1
     *   Our hearts are restless until they rest in Him. He is the only One who can offer perfect, **sacred**, **binding**, **life-giving communion**.
+    *   > *"Being Christian is not the result of an ethical choice or a lofty idea, but the encounter with an event, a person, which gives life a new horizon and a decisive direction."* - Pope Benedict XVI, *Deus Caritas Est*, 1
 6.  **Anecdote Placeholder:**
     *   `[Author Anecdote: Personal story about experiencing deep loneliness or searching for belonging in various places, eventually finding true connection and fulfillment in faith, the Church community, or a deeper relationship with God.]`
 
@@ -45,4 +59,4 @@ Following the exploration of suffering (Ch 1), this chapter delves into the fund
     *   CCC 27-30 (The Desire for God)
     *   CCC 1604 (Marriage as an image of God's covenant love)
     *   CCC 1701-1709 (Made in the image of God, human dignity, community)
-*   **Prayer Practice:** Pray the Litany of Trust. Intention: To surrender the deep ache for love and belonging to God, asking for healing from relational wounds and the grace to find true, **sacred communion** in Him and within the **binding covenant** of His Church.
+*   **Prayer Practice:** Pray the Litany of Trust. Intention: To surrender the deep ache for love and belonging to God, asking for healing from relational wounds and the grace to find true, **sacred communion** in Him and within the **binding covenant** of His New Covenant and the Church community.

@@ -8,8 +8,15 @@ This chapter begins Part III, "The Facets of Love - What Love Requires." Having 
 
 ## I. Opening
 
-*   **Key Scripture Verse:** 1 Corinthians 13:13 - "So faith, hope, love abide, these three; but the greatest of these is love."
-*   **CCC Paragraph:** CCC 1813 - "The theological virtues are the foundation of Christian moral activity; they animate it and give it its special character. They inform and give life to all the moral virtues. They are infused by God into the souls of the faithful to make them capable of acting as his children and of meriting eternal life. They are the pledge of the presence and action of the Holy Spirit in the faculties of the human being."
+*   **Key Scripture Verse:**
+    | Verse                 | Text                                                                      |
+    | :-------------------- | :------------------------------------------------------------------------ |
+    | 1 Corinthians 13:13 | "So faith, hope, love abide, these three; but the greatest of these is love." |
+
+*   **Key CCC Paragraph:**
+    | Paragraph | Text                                                                                                                                                                                                                                                                                                                                                                                    |
+    | :-------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+    | CCC 1813  | "The theological virtues are the foundation of Christian moral activity; they animate it and give it its special character. They inform and give life to all the moral virtues. They are infused by God into the souls of the faithful to make them capable of acting as his children and of meriting eternal life. They are the pledge of the presence and action of the Holy Spirit in the faculties of the human being." |
 
 ## II. Body: Developing the Theme
 
@@ -60,3 +67,11 @@ This chapter begins Part III, "The Facets of Love - What Love Requires." Having 
     *   CCC 1822-1829 (Charity)
     *   CCC 1840-1844 (Relationship between the virtues)
 *   **Prayer Practice:** Pray the Acts of Faith, Hope, and Charity slowly and reflectively. Intention: To consciously stir up these infused **sacred gifts** within the soul, asking God for a deeper understanding and more fervent practice of each, strengthening the **sacred foundation** for a life of authentic love and **life-giving communion**.
+
+## Relevant Quotes (Saints, Theologians, Popes)
+
+*   "All the human virtues are rooted in the Theological Virtues, which have as origin, reason and object the One and Triune God. They give life to all the moral virtues and are transmitted by God in the souls of the faithful, in order to let them act as His sons and deserve Eternal Life." - *Source: Savelli Religious Blog* (Note: While not a direct quote from a Saint/Pope/Theologian, it accurately summarizes CCC teaching)
+
+*   "Genuine charity is an act of free will, but because charity is a gift from God, we cannot initially acquire this virtue by our own actions. God must first give it to us as a gift before we can exercise it." - *Source: Learn Religions article summarizing Catholic teaching*
+
+*   "Faith leads us to God, hope keeps us on the journey, and love unites us fully with Him." - *Attributed to St. John Paul II (via PopeHistory.com)*

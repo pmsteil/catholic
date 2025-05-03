@@ -8,14 +8,21 @@ Delving deeper into the Cardinal Virtues introduced in Chapter 26, this chapter 
 
 ## I. Opening
 
-*   **Key Scripture Verse:** Proverbs 16:16 - "To get wisdom is better than gold; to get understanding is to be chosen rather than silver." (Wisdom/Prudence as highly valuable).
-*   **CCC Paragraph:** CCC 1806 - "Prudence is the virtue that disposes practical reason to discern our true good in every circumstance and to choose the right means of achieving it; 'the prudent man looks where he is going.' ... It is not to be confused with timidity or fear, nor with duplicity or dissimulation. It is called *auriga virtutum* (the charioteer of the virtues); it guides the other virtues by setting rule and measure."
+| Key Scripture Verse                                                                                             | Reference        |
+| :-------------------------------------------------------------------------------------------------------------- | :--------------- |
+| "To get wisdom is better than gold; to get understanding is to be chosen rather than silver."                    | (Proverbs 16:16) |
+| *(Wisdom/Prudence as highly valuable)*                                                                          |                  |
+
+| Key CCC Paragraph                                                                                                                                                                                                                                                                                       | Reference |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :-------- |
+| "Prudence is the virtue that disposes practical reason to discern our true good in every circumstance and to choose the right means of achieving it; 'the prudent man looks where he is going.' ... It is not to be confused with timidity or fear, nor with duplicity or dissimulation. It is called *auriga virtutum* (the charioteer of the virtues); it guides the other virtues by setting rule and measure." | (CCC 1806)|
 
 ## II. Body: Developing the Theme
 
 1.  **Transition: The Charioteer of Virtues:**
     *   Recap Ch 26: Prudence, Justice, Fortitude, Temperance provide **sacred strength**.
     *   Introduce Prudence as the "charioteer" (CCC 1806) – it guides the others. Justice knows *what* is due, Fortitude *endures* for it, Temperance *controls* impulses against it, but Prudence determines *how* to apply them rightly in concrete situations.
+    *   > "The mould and mother of all the virtues is prudence." - St. Thomas Aquinas
 2.  **Defining Prudence: Right Reason in Action:**
     *   Expand on the definition: Applying moral principles (**sacred truth**, Commandments - Ch 21, 25) to particular circumstances correctly.
     *   It involves:
@@ -24,12 +31,14 @@ Delving deeper into the Cardinal Virtues introduced in Chapter 26, this chapter 
         *   **Decision/Command:** Choosing the right course of action and commanding its execution.
 3.  **Prudence and Discernment:**
     *   Highlight Prudence as **Sacred Discernment**. It helps us navigate complex moral situations, weigh competing goods, and understand the nuances of applying love.
+    *   > "It is prudence that immediately guides the judgment of conscience. The prudent man determines and directs his conduct in accordance with this judgment." - St. Thomas Aquinas (cf. CCC 1806)
     *   Contrast with impulsivity, rash judgment, or rigid legalism that fails to consider circumstances.
 4.  **Prudence Guides Love (Charity):**
     *   Explain that loving well requires prudence. Charity wills the good, but Prudence identifies *what* the true good is in *this* situation and *how* best to achieve it.
     *   Example: Prudence helps determine the right way to offer correction (fraternal correction), practice almsgiving effectively, or balance competing duties out of love. It ensures our **sacrificial gift** is well-aimed.
 5.  **Prudence Requires Humility and Openness:**
     *   True prudence requires acknowledging we don't always know best. It involves seeking counsel (from wise people, Church teaching, prayer) and being open to learning and correction. It relies on God's grace and the Holy Spirit's guidance (Gift of Counsel).
+    *   > "We must grow in prudence through prayer and the use of reason in order to make decisions in our daily lives and to help us discern rightly the battles God is calling us to fight for His Kingdom." - Catholic Exchange
 6.  **Distortions of Prudence:**
     *   Briefly mention false prudence:
         *   **Carnal Prudence/Prudence of the Flesh:** Using cleverness for selfish or sinful ends.
@@ -61,3 +70,8 @@ Delving deeper into the Cardinal Virtues introduced in Chapter 26, this chapter 
     *   CCC 1835-1836 (Prudence and the other cardinal virtues)
     *   CCC 1786-1789 (Formation of Conscience - related to prudent judgment)
 *   **Prayer Practice:** Pray the "Suscipe" prayer of St. Ignatius of Loyola ("Take, Lord, and receive all my liberty, my memory, my understanding, and my entire will..."). Intention: To surrender one's faculties (especially understanding and will) to God, asking for the **sacred discernment** of Prudence to guide all thoughts and actions according to His loving will, ensuring they contribute to **true justice**, **mercy**, and **communion**.
+
+## Relevant Quotes (Saints, Theologians, Popes)
+*   > "The mould and mother of all the virtues is prudence." - St. Thomas Aquinas
+*   > "It is prudence that immediately guides the judgment of conscience. The prudent man determines and directs his conduct in accordance with this judgment." - St. Thomas Aquinas (cf. CCC 1806)
+*   > "We must grow in prudence through prayer and the use of reason in order to make decisions in our daily lives and to help us discern rightly the battles God is calling us to fight for His Kingdom." - Catholic Exchange

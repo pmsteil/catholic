@@ -8,8 +8,15 @@ This chapter delves deeper into the first theological virtue introduced in Chapt
 
 ## I. Opening
 
-*   **Key Scripture Verse:** Hebrews 11:1 - "Now faith is the assurance of things hoped for, the conviction of things not seen."
-*   **CCC Paragraph:** CCC 143 - "By faith, man completely submits his intellect and his will to God. With his whole being man gives his assent to God the revealer. Sacred Scripture calls this human response to God, the author of revelation, 'the obedience of faith.'"
+| Key Scripture Verse |
+| :------------------ |
+| "Now faith is the assurance of things hoped for, the conviction of things not seen." |
+| *Hebrews 11:1*      |
+
+| Key CCC Paragraph |
+| :---------------- |
+| "By faith, man completely submits his intellect and his will to God. With his whole being man gives his assent to God the revealer. Sacred Scripture calls this human response to God, the author of revelation, 'the obedience of faith.'" |
+| *CCC 143*         |
 
 ## II. Body: Developing the Theme
 
@@ -56,3 +63,9 @@ This chapter delves deeper into the first theological virtue introduced in Chapt
     *   CCC 142-184 (I Believe - Man's Response to God, Characteristics of Faith)
     *   CCC 2087-2089 (Faith as part of the First Commandment)
 *   **Prayer Practice:** Pray the Creed slowly, pausing after key articles to make a personal act of faith and commitment related to that **sacred truth**. Intention: To move beyond rote recitation to a deeper, personal adherence and entrustment, strengthening the **sacred covenant** established by faith. (Similar prayer to Ch 11, different focus).
+
+## Relevant Quotes (Saints, Theologians, Popes)
+
+*   "To be assured of our salvation is no arrogant stoutness. It is faith..." - St. Augustine
+*   "We have come to believe in God’s love: in these words the Christian can express the fundamental decision of his life." - Pope Benedict XVI, *Deus Caritas Est*, 1
+*   "If you follow the will of God, you know that in spite of all the terrible things that happen to you, you will never lose a final refuge. You know that the foundation of the world is love..." - Pope Benedict XVI

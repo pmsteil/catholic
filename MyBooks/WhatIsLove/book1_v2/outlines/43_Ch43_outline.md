@@ -8,8 +8,15 @@ This chapter begins Part IV, "The Fruits of Love - What Love Produces." Having e
 
 ## I. Opening
 
-*   **Key Scripture Verse:** John 15:11 - "These things I have spoken to you, that my joy may be in you, and that your joy may be full."
-*   **CCC Paragraph:** CCC 1832 - "The fruits of the Spirit are perfections that the Holy Spirit forms in us as the first fruits of eternal glory. The tradition of the Church lists twelve of them: 'charity, joy, peace, patience, kindness, goodness, generosity, gentleness, faithfulness, modesty, self-control, chastity.'" (Lists Joy as a primary fruit).
+| Key Scripture Verse |
+| :------------------ |
+| "These things I have spoken to you, that my joy may be in you, and that your joy may be full." |
+| *John 15:11*        |
+
+| Key CCC Paragraph |
+| :---------------- |
+| "The fruits of the Spirit are perfections that the Holy Spirit forms in us as the first fruits of eternal glory. The tradition of the Church lists twelve of them: 'charity, joy, peace, patience, kindness, goodness, generosity, gentleness, faithfulness, modesty, self-control, chastity.'" |
+| *CCC 1832*        |
 
 ## II. Body: Developing the Theme
 
@@ -20,6 +27,7 @@ This chapter begins Part IV, "The Fruits of Love - What Love Produces." Having e
     *   Distinguish Christian Joy from worldly happiness:
         *   **Happiness:** Often dependent on external circumstances, pleasure, good fortune. Fleeting.
         *   **Joy:** Deeper, more stable state rooted in the awareness of God's love, presence, and promises, even amidst suffering. A **sacred delight**.
+    *   Quote: *"Joy is the serious business of Heaven."* - C.S. Lewis
 3.  **Joy as a Fruit of the Holy Spirit:**
     *   Connect Joy directly to the Holy Spirit (Gal 5:22, CCC 1832). It's a supernatural **sacred gift**, not just a psychological state.
     *   It flows from abiding in Christ's love (John 15:11) and living according to the Spirit (Ch 17).
@@ -32,9 +40,11 @@ This chapter begins Part IV, "The Fruits of Love - What Love Produces." Having e
     *   The joy of seeing good done (**true justice** - Ch 23) and sharing **gifts** (Generosity - Ch 32).
 5.  **Joy Amidst Suffering:**
     *   Address the paradox: Christian joy can coexist with suffering (Acts 5:41, Romans 5:3-5, James 1:2-4).
+    *   Quote: *"Joy is not necessarily the absence of suffering, it is the presence of God."* - Sam Storms
     *   This is possible because joy's foundation is God's unchanging love and hope in eternal life, not temporary circumstances. Suffering united with Christ's **sacrifice** (Ch 24) can even deepen joy.
 6.  **Joy as a Witness:**
     *   Authentic Christian joy is attractive and serves as a powerful witness to the truth and goodness of the faith in a world often marked by anxiety and despair. It points to the reality of **life-giving communion**.
+    *   Quote: *"Never, never was there a saint with a mournful face, never! Saints always have joy in their faces."* - Pope Francis
 7.  **Joy and the Core Definition of Love:**
     *   Connect Joy explicitly to the components from Ch 14:
         *   **Sacred Delight:** Joy *is* this delight, a fruit of **sacred** love.
@@ -61,3 +71,8 @@ This chapter begins Part IV, "The Fruits of Love - What Love Produces." Having e
     *   CCC 301 (God's providence and the joy found in abandonment)
     *   CCC 1720-1724 (Beatitude/Happiness - true joy found only in God)
 *   **Prayer Practice:** Pray the Glorious Mysteries of the Rosary, focusing on the joyful events of Christ's Resurrection, Ascension, the Descent of the Holy Spirit, and Mary's Assumption and Coronation. Intention: To meditate on the sources of Christian joy and hope, asking for an increase in the **sacred gift** of joy that flows from faith in the Resurrection and the promise of eternal **life-giving communion**.
+
+## Relevant Quotes (Saints, Theologians, Popes)
+*   *"Joy is the serious business of Heaven."* - C.S. Lewis (Section II.2)
+*   *"Joy is not necessarily the absence of suffering, it is the presence of God."* - Sam Storms (Section II.5)
+*   *"Never, never was there a saint with a mournful face, never! Saints always have joy in their faces."* - Pope Francis (Section II.6)

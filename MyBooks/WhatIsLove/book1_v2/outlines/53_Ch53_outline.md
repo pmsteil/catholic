@@ -8,8 +8,15 @@ Continuing the exploration of the Practices of Love, this chapter focuses on Pra
 
 ## I. Opening
 
-*   **Key Scripture Verse:** Philippians 4:6 - "Have no anxiety about anything, but in everything by prayer and supplication with thanksgiving let your requests be made known to God."
-*   **CCC Paragraph:** CCC 2559 - "'Prayer is the raising of one's mind and heart to God or the requesting of good things from God.' But when we pray, do we speak from the height of our pride and will, or 'out of the depths' of a humble and contrite heart? He who humbles himself will be exalted; humility is the foundation of prayer..."
+*   **Key Scripture Verse:**
+    | Reference       | Text                                                                                                         |
+    | --------------- | ------------------------------------------------------------------------------------------------------------ |
+    | Philippians 4:6 | "Have no anxiety about anything, but in everything by prayer and supplication with thanksgiving let your requests be made known to God." |
+
+*   **Key CCC Paragraph:**
+    | Reference | Text                                                                                                                                                                                                                                                           |
+    | --------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+    | CCC 2559  | "'Prayer is the raising of one's mind and heart to God or the requesting of good things from God.' But when we pray, do we speak from the height of our pride and will, or 'out of the depths' of a humble and contrite heart? He who humbles himself will be exalted; humility is the foundation of prayer..." |
 
 ## II. Body: Developing the Theme
 
@@ -60,3 +67,9 @@ Continuing the exploration of the Practices of Love, this chapter focuses on Pra
 *   **Further Study - Catechism:**
     *   CCC Part Four: Christian Prayer (CCC 2558-2865 - Comprehensive teaching on prayer)
 *   **Prayer Practice:** Commit to a specific, consistent time for personal prayer each day, even if brief. Use the Lord's Prayer ("Our Father") as a model, reflecting on each petition. Intention: To cultivate the habit of **sacred conversation** with God, deepening the **sacred covenant** relationship and opening the heart more fully to the **sacred intimacy** and **life-giving communion** He desires to share.
+
+## Relevant Quotes (Saints, Theologians, Popes)
+
+*   "Prayer is nothing else than being on terms of friendship with God, frequently conversing in secret with Him who, we know, loves us." - St. Teresa of Ávila
+*   "Prayer is the inner bath of love into which the soul plunges itself." - St. John Vianney
+*   "Prayer is not asking for things; it is entering into the presence of God, seeking His face, listening to His voice in the silence of the heart." - Pope Benedict XVI

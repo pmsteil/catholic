@@ -8,8 +8,15 @@ Continuing the critique of counterfeit loves after addressing intellectual ideol
 
 ## I. Opening
 
-*   **Key Scripture Verse:** 1 Corinthians 13:4-7 - "Love is patient and kind; love is not jealous or boastful; it is not arrogant or rude. Love does not insist on its own way; it is not irritable or resentful; it does not rejoice at wrong, but rejoices in the right. Love bears all things, believes all things, hopes all things, endures all things." (Highlights love as action and virtue, not just feeling).
-*   **CCC Paragraph:** CCC 1768 - "Strong feelings are not decisive for the morality or the holiness of persons; they are simply the inexhaustible reservoir of images and affections in which the moral life is expressed. Passions are morally good when they contribute to a good action, evil in the opposite case. The upright will orders the movements of the senses, which it appropriates to the good and to beatitude; an evil will succumbs to disordered passions and exacerbates them."
+*   **Key Scripture Verse:**
+    | Reference         | Text                                                                                                                                                                                                                                                           | Note                                                              |
+    | :---------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------- |
+    | 1 Corinthians 13:4-7 | "Love is patient and kind; love is not jealous or boastful; it is not arrogant or rude. Love does not insist on its own way; it is not irritable or resentful; it does not rejoice at wrong, but rejoices in the right. Love bears all things, believes all things, hopes all things, endures all things." | Highlights love as action and virtue, not just feeling. |
+
+*   **Key CCC Paragraph:**
+    | Reference | Text                                                                                                                                                                                                                                                                                                                                                                                                                   | Note                                                                                             |
+    | :-------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------- |
+    | CCC 1768  | "Strong feelings are not decisive for the morality or the holiness of persons; they are simply the inexhaustible reservoir of images and affections in which the moral life is expressed. Passions are morally good when they contribute to a good action, evil in the opposite case. The upright will orders the movements of the senses, which it appropriates to the good and to beatitude; an evil will succumbs to disordered passions and exacerbates them." | Feelings are not decisive for morality; they must be ordered by the will towards the good. |
 
 ## II. Body: Developing the Theme
 
@@ -49,3 +56,8 @@ Continuing the critique of counterfeit loves after addressing intellectual ideol
     *   CCC 1762-1775 (The Human Passions)
     *   CCC 1822-1829 (Charity)
 *   **Prayer Practice:** Pray the Anima Christi. Intention: To ask Christ to sanctify all aspects of the self, including emotions ("Blood of Christ, inebriate me... Water from the side of Christ, wash me. Passion of Christ, strengthen me."), ordering feelings towards God's will and strengthening the resolve to love with **sacrificial** commitment.
+
+## Relevant Quotes (Saints, Theologians, Popes)
+
+*   "Actions speak louder than words; let your words teach and your actions speak.” - St. Anthony of Padua
+*   "What does love look like? It has the hands to help others. It has the feet to hasten to the poor and needy. It has eyes to see the misery and want. It has the ears to hear the sighs and sorrows of men." - St. Augustine

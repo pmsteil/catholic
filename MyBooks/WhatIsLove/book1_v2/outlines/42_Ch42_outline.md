@@ -8,8 +8,17 @@ Concluding the exploration of "What Love Requires" in Part III, this chapter foc
 
 ## I. Opening
 
-*   **Key Scripture Verse:** John 17:21 - "...that they may all be one; even as thou, Father, art in me, and I in thee, that they also may be in us..." (Christ's prayer for unity/communion).
-*   **CCC Paragraph:** CCC 221 - "But St. John goes even further when he affirms that 'God is Love': God's very being is Love. By sending his only Son and the Spirit of Love in the fullness of time, God has revealed his innermost secret: God himself is an eternal exchange of love, Father, Son, and Holy Spirit, and he has destined us to share in that exchange." (Our destiny is communion/intimacy with the Trinity).
+| Key Scripture Verse |
+|---------------------|
+| "...that they may all be one; even as thou, Father, art in me, and I in thee, that they also may be in us..." |
+| *John 17:21 (RSVCE)* |
+| (Christ's prayer for unity/communion) |
+
+| Key CCC Paragraph |
+|-------------------|
+| "But St. John goes even further when he affirms that 'God is Love': God's very being is Love. By sending his only Son and the Spirit of Love in the fullness of time, God has revealed his innermost secret: God himself is an eternal exchange of love, Father, Son, and Holy Spirit, and he has destined us to share in that exchange." |
+| *CCC 221* |
+| (Our destiny is communion/intimacy with the Trinity) |
 
 ## II. Body: Developing the Theme
 
@@ -57,3 +66,9 @@ Concluding the exploration of "What Love Requires" in Part III, this chapter foc
     *   CCC 1601-1617 (Marriage in God's plan, covenant, intimacy)
     *   CCC 2709-2719 (Contemplative prayer as intimate union with God)
 *   **Prayer Practice:** Pray the Litany of the Sacred Heart of Jesus, focusing on petitions related to union and relationship ("Heart of Jesus, King and center of all hearts," "in whom dwells the fullness of divinity," "in whom the Father was well pleased," "desire of the everlasting hills"). Intention: To deepen intimacy with Christ, the source of all authentic love, asking to share more fully in the **sacred union** of the Trinity and to build human relationships that reflect that **life-giving communion**. (Repeated prayer, different intention focus).
+
+## Relevant Quotes (Saints, Theologians, Popes)
+
+*   "Man cannot live without love. He remains a being that is incomprehensible for himself, his life is senseless, if love is not revealed to him, if he does not encounter love, if he does not experience it and make it his own, if he does not participate intimately in it." - *St. John Paul II, Redemptor Hominis, 10*
+*   "You have made us for yourself, O Lord, and our heart is restless until it rests in you." - *St. Augustine, Confessions, Book 1, Chapter 1*
+*   "Love embraces the whole of existence in all its dimensions, including the dimension of time. It could hardly be otherwise, since its promise looks towards its definitive goal: love looks to the eternal." - *Pope Benedict XVI, Deus Caritas Est, 6*

@@ -8,8 +8,15 @@ Following Humility (Ch 31), this chapter explores the moral virtue of Generosity
 
 ## I. Opening
 
-*   **Key Scripture Verse:** 2 Corinthians 9:7 - "Each one must do as he has made up his mind, not reluctantly or under compulsion, for God loves a cheerful giver."
-*   **CCC Paragraph:** CCC 2447 - "The works of mercy are charitable actions by which we come to the aid of our neighbor in his spiritual and bodily necessities. Instructing, advising, consoling, comforting are spiritual works of mercy, as are forgiving and bearing wrongs patiently. The corporal works of mercy consist especially in feeding the hungry, sheltering the homeless, clothing the naked, visiting the sick and imprisoned, and burying the dead. Among all these, giving alms to the poor is one of the chief witnesses to fraternal charity: it is also a work of justice pleasing to God." (Generosity expressed through works of mercy/almsgiving).
+| Key Scripture Verse |
+|---|
+| "Each one must do as he has made up his mind, not reluctantly or under compulsion, for God loves a cheerful giver." |
+| *2 Corinthians 9:7* |
+
+| Key CCC Paragraph |
+|---|
+| "The works of mercy are charitable actions by which we come to the aid of our neighbor in his spiritual and bodily necessities. Instructing, advising, consoling, comforting are spiritual works of mercy, as are forgiving and bearing wrongs patiently. The corporal works of mercy consist especially in feeding the hungry, sheltering the homeless, clothing the naked, visiting the sick and imprisoned, and burying the dead. Among all these, giving alms to the poor is one of the chief witnesses to fraternal charity: it is also a work of justice pleasing to God." |
+| *CCC 2447* |
 
 ## II. Body: Developing the Theme
 
@@ -59,3 +66,9 @@ Following Humility (Ch 31), this chapter explores the moral virtue of Generosity
     *   CCC 2443-2449 (Love for the Poor, Works of Mercy, Almsgiving)
     *   CCC 2534-2550 (The Tenth Commandment - You shall not covet... includes detachment from riches)
 *   **Prayer Practice:** Pray the Prayer for Generosity attributed to St. Ignatius ("Lord, teach me to be generous..."). Intention: To ask God for the grace to overcome selfishness and attachment, and to cultivate a truly generous heart that gives freely, joyfully, and without counting the cost, reflecting His own **sacred abundance** and **sacrificial gift**.
+
+## Relevant Quotes (Saints, Theologians, Popes)
+
+*   "The rich man is not one who is in possession of much, but one who gives much." - *St. John Chrysostom*
+*   "It's not how much we give but how much love we put into giving." - *St. Teresa of Calcutta*
+*   "The bread which you do not use is the bread of the hungry; the garment hanging in your wardrobe is the garment of him who is naked; the shoes that you do not wear are the shoes of the one who is barefoot; the money that you keep locked away is the money of the poor; the acts of charity that you do not perform are so many injustices that you commit." - *St. Basil the Great*

@@ -8,8 +8,15 @@ This chapter continues the critique of counterfeit loves by examining the relate
 
 ## I. Opening
 
-*   **Key Scripture Verse:** Matthew 6:24 - "No one can serve two masters; for either he will hate the one and love the other, or he will be devoted to the one and despise the other. You cannot serve God and mammon [wealth/material possessions]." (Highlights the danger of prioritizing material concerns over God).
-*   **CCC Paragraph:** CCC 2425 - "The Church has rejected the totalitarian and atheistic ideologies associated in modern times with 'communism' or 'socialism.' She has likewise refused to accept, in the practice of 'capitalism,' individualism and the absolute primacy of the law of the marketplace over human labor. Regulating the economy solely by centralized planning perverts the basis of social bonds; regulating it solely by the law of the marketplace fails social justice..." (Critiques extremes, points towards a balanced approach).
+*   **Key Scripture Verse:**
+    | Verse         | Text                                                                                                                               | Note                                                              |
+    |---------------|------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------|
+    | Matthew 6:24  | "No one can serve two masters; for either he will hate the one and love the other... You cannot serve God and mammon."             | Highlights the danger of prioritizing material concerns over God. |
+
+*   **Key CCC Paragraph:**
+    | Paragraph | Text                                                                                                                                                                                                                                                                                                                                                                                                                   | Note                                                              |
+    |-----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------|
+    | CCC 2425  | "The Church has rejected the totalitarian and atheistic ideologies associated... with 'communism' or 'socialism.' She has likewise refused to accept... 'capitalism,' individualism and the absolute primacy of the law of the marketplace over human labor. Regulating the economy solely by centralized planning perverts the basis of social bonds; regulating it solely by the law of the marketplace fails social justice..." | Critiques extremes, points towards a balanced approach.           |
 
 ## II. Body: Developing the Theme
 
@@ -60,3 +67,9 @@ This chapter continues the critique of counterfeit loves by examining the relate
     *   *Rerum Novarum* (Leo XIII - Foundational social encyclical)
     *   *Centesimus Annus* (John Paul II - Critiques of socialism/communism after 1989)
 *   **Prayer Practice:** Pray the Prayer of St. Francis ("Lord, make me an instrument of your peace..."). Intention: To become an instrument of God's **true justice**, **mercy**, and **communion** in the world, seeking to sow love where there is hatred, pardon where there is injury, and faith where there is doubt, countering ideologies of division with acts of **sacrificial** love.
+
+## Relevant Quotes (Saints, Theologians, Popes)
+
+*   **Pope Pius XI, *Divini Redemptoris* (1937):** "Communism... strips man of his liberty, robs human personality of all its dignity, and removes all the moral restraints that check the eruptions of blind impulse. There is no recognition of any right of the individual in his relations to the collectivity; no natural right is accorded to human personality, which is a mere cog-wheel in the Communist system." (DR 10)
+*   **Pope Leo XIII, *Rerum Novarum* (1891):** "Hence, it is clear that the main tenet of socialism, community of goods, must be utterly rejected, since it only injures those whom it would seem meant to benefit, is directly contrary to the natural rights of mankind, and would introduce confusion and disorder into the commonweal. The first and most fundamental principle, therefore, if one would undertake to alleviate the condition of the masses, must be the inviolability of private property." (RN 15)
+*   **Pope John Paul II, *Centesimus Annus* (1991):** "Socialism considers the individual person simply as an element, a molecule within the social organism, so that the good of the individual is completely subordinated to the functioning of the socio-economic mechanism. Socialism likewise maintains that the good of the individual can be realized without reference to his free choice, to the unique and exclusive responsibility which he exercises in the face of good or evil. Man is thus reduced to a series of social relationships, and the concept of the person as the autonomous subject of moral decision disappears..." (CA 13)

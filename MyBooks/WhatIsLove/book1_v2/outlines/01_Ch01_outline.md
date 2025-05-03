@@ -8,8 +8,16 @@ This chapter introduces Part I's theme: Addressing the darkness, suffering, and 
 
 ## I. Opening
 
-*   **Key Scripture Verse:** Romans 8:22 - "We know that the whole creation has been groaning in travail together until now."
-*   **CCC Paragraph:** CCC 309 - "If God the Father almighty, the Creator of the ordered and good world, cares for all his creatures, why does evil exist?"
+*   **Key Scripture Verse:**
+    | Key Scripture Verse |
+    |---|
+    | "We know that the whole creation has been groaning in travail together until now." |
+    Romans 8:22
+*   **Key CCC Paragraph:**
+    | Key CCC Paragraph |
+    |---|
+    | "If God the Father almighty, the Creator of the ordered and good world, cares for all his creatures, why does evil exist?" |
+    CCC 309
 
 ## II. Body: Developing the Theme
 
@@ -33,7 +41,8 @@ This chapter introduces Part I's theme: Addressing the darkness, suffering, and 
     *   Suffering is permitted, not directly willed by God for its own sake.
 5.  **Suffering and the Cry for Love:**
     *   Contrast the world's pain with the innate human cries for love, **justice**, and **mercy** (foreshadowing Chapters 2-4).
-    *   Frame suffering as highlighting the *absence* or *distortion* of true, **life-giving communion**, **sacred truth**, and **binding** relationships.
+    *   Frame suffering as highlighting the *absence* or *distortion* of true **justice** and true **mercy**. It is the abseence or distortion of **sacred** love.
+    *   And this is why suffering can and often does lead to a deeper search for authentic love and connection, prompting a return to God.
 6.  **Anecdote Placeholder:**
     *   `[Author Anecdote: Personal experience grappling with a specific instance of suffering or evil, perhaps questioning God, and finding solace or understanding through faith.]`
 
@@ -42,11 +51,17 @@ This chapter introduces Part I's theme: Addressing the darkness, suffering, and 
 *   **Chapter Takeaway:** Suffering and evil are pervasive realities rooted in sin's disruption of God's original goodness. While mysterious, God permits evil, respecting freedom, yet possesses the power and plan to bring greater good from it, ultimately revealed in Christ.
 *   **Reflection Question:** In moments of personal suffering or encountering evil, how can I better unite my experience with Christ's Passion and trust in God's ultimate plan?
 *   **Further Study - Scripture:**
-    *   Job 1-2 (The righteous sufferer)
     *   Genesis 3 (The Fall)
+    *   Job 1-2 (The righteous sufferer)
     *   Romans 5:12-21 (Sin enters the world)
     *   1 Peter 4:12-19 (Sharing in Christ's sufferings)
 *   **Further Study - Catechism:**
     *   CCC 309-314 (Divine Providence and the Problem of Evil)
     *   CCC 385-412 (Original Sin and its Consequences)
 *   **Prayer Practice:** Pray the Sorrowful Mysteries of the Rosary. Intention: To unite personal sufferings and the suffering of the world with Christ's Passion, asking for the grace of perseverance, hope, and a deeper understanding of God's **sacrificial** love and **mercy**.
+
+## Relevant Quotes (Saints, Theologians, Popes)
+
+*   **St. Augustine, *Enchiridion*, Chapter 27:** "God judged it better to bring good out of evil than to suffer no evil to exist."
+*   **Pope St. John Paul II, *Salvifici Doloris*, 18:** "Suffering is, in itself, an experience of evil. But Christ has transformed it... He has made it the firmest basis of the definitive good, namely the good of eternal salvation."
+*   **Pope Benedict XVI, *Spe Salvi*, 37:** "It is when we attempt to avoid suffering by withdrawing from anything that might involve hurt, when we try to spare ourselves the effort and pain of pursuing truth, love, and goodness, that we drift into a life of emptiness, in which there may be almost no pain, but the dark sensation of meaninglessness and abandonment is all the greater."

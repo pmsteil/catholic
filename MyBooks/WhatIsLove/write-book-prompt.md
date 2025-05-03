@@ -27,24 +27,26 @@ Systematically generate the complete first draft of this book by expanding the p
 
 6.  **Chapter Structure (Narrative with Devotional Elements):** Each chapter's narrative draft should follow this structure:
     *   **Opening:**
-        *   Start with a relevant **Key Scripture Verse**.
-        *   Follow with a relevant **Catechism of the Catholic Church (CCC) Paragraph**.
+        *   Start with a relevant **Key Scripture Verse**. Format the verse in a table and the reference below it.
+        *   Follow with a relevant **Catechism of the Catholic Church (CCC) Paragraph**. Format the paragraph in a table and the reference below it.
     *   **Body:**
         *   Develop the chapter's theme based on the approved chapter outline points, using the narrative style and tone defined above.
         *   Integrate other relevant Scripture and CCC references naturally within the text where needed to support points.
         *   Include placeholders for personal anecdotes (`[Author Anecdote: ...]`).
+        *   Add in relevant quotes from Catholic saints (especially St. Catherine of Sienna, St. Faustina Kowalska, St. Teresa of Avila, St. Thérèse of Lisieux, St. Bernard of Clairvaux, St. Mary Magdalene de’ Pazzi), theologians (especially St. Augustine and St. Thomas Aquinas), Popes (especially Pope St. John Paul II, Pope Benedict XVI and Pope Francis) to enrich the discussion.
     *   **Closing:**
         *   **Chapter Takeaway:** A concise summary of the chapter's main point.
         *   **Reflection Question:** One deep, thought-provoking question related to the chapter's theme for personal reflection.
         *   **Further Study - Scripture:** List a few additional relevant Scripture references.
         *   **Further Study - Catechism:** List a few additional relevant CCC paragraph numbers.
-        *   **Prayer Practice:** Suggest a fitting Catholic devotional practice (e.g., a specific Rosary mystery, a Litany, Act of Contrition/Faith/Hope/Love, prayer to the Holy Spirit, prayer to a relevant saint) explicitly linking the chapter's theme to the prayer's intention (e.g., understanding the theme more deeply, praying for the Salvation of the World).
+        *   **Prayer Practice:** Suggest a fitting Catholic devotional practice (e.g., a specific Rosary mystery, a Litany, Act of Contrition/Faith/Hope/Love, prayer to the Holy Spirit, prayer to a relevant saint) explicitly linking the chapter's theme to the prayer's intention (e.g., understanding the theme more deeply, praying for the Salvation of the World). If the prayer is not the Rosary, The Our Father, Hail Mary or Glory Be, provide a brief explanation of the prayer's significance and how it relates to the chapter's theme and the entire text of the prayer.
 
 ## Drafting Workflow and Progress Tracking
 
 **Tracking Markers:**
 *   `[]`: Not Started
 *   `[O]`: Outline Generated (Ready for User Review)
+*   `[S]`: Saints, Thelogians, Popes added to each chapter (Ready for User Review/Edit)
 *   `[D]`: Narrative Drafted (Ready for User Review/Edit)
 *   `[x]`: Final User Approval
 
@@ -54,11 +56,12 @@ Systematically generate the complete first draft of this book by expanding the p
 2.  **Generate Chapter Outlines:** Extract relevant points from the master outline (`book1_v2_outline.md`) and the structure noted in the 'Chapter Structure' and any relevant prior discussion and ask the user for any clarifications or questions you have in order to write the outline. Structure these points logically for the specific chapter. Write this detailed plan to a new file in the `./book1_v2/outlines/` directory (e.g., `./book1_v2/outlines/01_Ch01_outline.md`).
 3.  **Mark as Outlined:** Update the tracking list below, changing the chapter's status from `[]` to `[O]`.
 4.  **Proceed to write the outline for the next chapter.**
-5.  **Human Review of Outline:** Once all outlines are generated, wait for the user to review the chapter outline files before proceeding to the next step.
-6.  **Draft Narrative:** Once the user confirms the chapter outlines, draft the full chapter narratives into the main chapter file (e.g., `./book1_v2/01_Ch01_Problem_Suffering_Evil.md`), strictly following the approved chapter outline and the overall prompt guidelines (tone, structure, devotional elements, etc.).
-7.  **Mark as Drafted:** Update the tracking list below, changing the chapter's status from `[O]` to `[D]`. Present the drafted narrative file path to the user.
-8.  **Human Review/Edit of Draft:** User reviews and edits the drafted narrative file.
-9.  **Human Approval:** User signals final approval (e.g., by stating "Chapter X is approved"). The AI will then update the status from `[D]` to `[x]` in this prompt for the next turn.
+5.  **Add Saints, Theologians, Popes:** Once the outline is generated, add to the outline relevant quotes from Catholic saints, theologians, and Popes to the chapter outline file. This should be done in a way that enhances the chapter's content and supports the narrative flow. Mark the chapter as `[S]` once this is complete.
+6.  **Human Review of Outline:** Once all outlines are generated, wait for the user to review the chapter outline files before proceeding to the next step.
+7.  **Draft Narrative:** Once the user confirms the chapter outlines, draft the full chapter narratives into the main chapter file (e.g., `./book1_v2/01_Ch01_Problem_Suffering_Evil.md`), strictly following the approved chapter outline and the overall prompt guidelines (tone, structure, devotional elements, etc.).
+8.  **Mark as Drafted:** Update the tracking list below, changing the chapter's status from `[O]` to `[D]`. Present the drafted narrative file path to the user.
+9.  **Human Review/Edit of Draft:** User reviews and edits the drafted narrative file.
+10.  **Human Approval:** User signals final approval (e.g., by stating "Chapter X is approved"). The AI will then update the status from `[D]` to `[x]` in this prompt for the next turn.
 
 **Drafting Progress:**
 

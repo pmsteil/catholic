@@ -8,8 +8,13 @@ Continuing the exploration of the Practices of Love, this chapter focuses on Eva
 
 ## I. Opening
 
-*   **Key Scripture Verse:** Matthew 28:19-20a - "Go therefore and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, teaching them to observe all that I have commanded you..." (The Great Commission).
-*   **CCC Paragraph:** CCC 849 - "Having been divinely sent to the nations that she might be 'the universal sacrament of salvation,' the Church, in obedience to the command of her founder and because it is demanded by her own essential universality, strives to preach the Gospel to all men."
+| Key Scripture Verse                                                                                                                               | Reference         |
+| :------------------------------------------------------------------------------------------------------------------------------------------------ | :---------------- |
+| "Go therefore and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, teaching them..." | Matthew 28:19-20a |
+
+| Key CCC Paragraph                                                                                                                                                                                          | Reference |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------- |
+| "Having been divinely sent to the nations that she might be 'the universal sacrament of salvation,' the Church... strives to preach the Gospel to all men."                                                  | CCC 849   |
 
 ## II. Body: Developing the Theme
 
@@ -60,3 +65,11 @@ Continuing the exploration of the Practices of Love, this chapter focuses on Eva
     *   *Evangelii Nuntiandi* (Apostolic Exhortation by Paul VI on Evangelization in the Modern World)
     *   *Redemptoris Missio* (Encyclical by St. John Paul II on the Permanent Validity of the Church's Missionary Mandate)
 *   **Prayer Practice:** Pray the Rosary, offering the Luminous Mysteries for the intention of the New Evangelization. Meditate on how Christ revealed Himself and called His disciples. Intention: To ask for the grace and **sacred courage** (Fortitude) to fulfill the **sacred mission** of evangelization, seeking opportunities to share the **sacred truth** and invite others into the **sacred covenant** and **life-giving communion** of the Church.
+
+## Relevant Quotes (Saints, Theologians, Popes)
+
+*   "Being Christian is not the result of an ethical choice or a lofty idea, but the encounter with an event, a person, which gives life a new horizon and a decisive direction." - Pope Benedict XVI, *Deus Caritas Est*, 1
+
+*   "The joy of the gospel fills the hearts and lives of all who encounter Jesus... I wish to encourage the Christian faithful to embark upon a new chapter of evangelization marked by this joy..." - Pope Francis, *Evangelii Gaudium*, 1
+
+*   "The mission of Christ the Redeemer, which is entrusted to the Church, is still very far from completion... We cannot be content when we consider the millions of our brothers and sisters, who, like us, have been redeemed by the blood of Christ but who live in ignorance of the love of God." - St. John Paul II, *Redemptoris Missio*, 1

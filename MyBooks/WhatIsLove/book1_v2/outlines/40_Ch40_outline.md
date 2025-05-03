@@ -8,8 +8,15 @@ Continuing the exploration of Moral Virtues, this chapter focuses on Truthfulnes
 
 ## I. Opening
 
-*   **Key Scripture Verse:** Ephesians 4:25 - "Therefore, putting away falsehood, let every one speak the truth with his neighbor, for we are members one of another."
-*   **CCC Paragraph:** CCC 2464 - "The eighth commandment forbids misrepresenting the truth in our relations with others. This moral prescription flows from the vocation of the holy people to bear witness to their God who is the truth and wills the truth. Offenses against the truth express by word or deed a refusal to commit oneself to moral uprightness: they are fundamental infidelities to God and, in this sense, they undermine the foundations of the covenant."
+*   **Key Scripture Verse:**
+    | Reference     | Text                                                                                             |
+    | :------------ | :----------------------------------------------------------------------------------------------- |
+    | Ephesians 4:25 | "Therefore, putting away falsehood, let every one speak the truth with his neighbor, for we are members one of another." |
+
+*   **Key CCC Paragraph:**
+    | Reference | Text                                                                                                                                                                                                                                                           |
+    | :-------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+    | CCC 2464  | "The eighth commandment forbids misrepresenting the truth in our relations with others. This moral prescription flows from the vocation of the holy people to bear witness to their God who is the truth and wills the truth. Offenses against the truth express by word or deed a refusal to commit oneself to moral uprightness: they are fundamental infidelities to God and, in this sense, they undermine the foundations of the covenant." |
 
 ## II. Body: Developing the Theme
 
@@ -58,3 +65,9 @@ Continuing the exploration of Moral Virtues, this chapter focuses on Truthfulnes
 *   **Further Study - Catechism:**
     *   CCC 2464-2513 (The Eighth Commandment: You shall not bear false witness against your neighbor - covers living in truth, offenses against truth, respect for truth)
 *   **Prayer Practice:** Pray the Act of Contrition, specifically asking forgiveness for sins against the Eighth Commandment (lying, gossip, rash judgment, etc.). Intention: To grow in the virtue of Truthfulness, asking for the grace to be honest in all dealings, to use speech to build up rather than tear down, and to live with integrity, reflecting the **sacred truth** of God.
+
+## Relevant Quotes (Saints, Theologians, Popes)
+
+*   "You will know the truth, and the truth will set you free." - Jesus (John 8:32)
+*   "If you struggle with honesty, know that it is honesty that produces integrity." - Catholic Daily Reflections
+*   "He who speaks rightly should recognize that he receives the words from God. For the truth belongs not to him who speaks, but to God who is energizing him." - Attributed to St. Gregory the Great (via The Catholic Reader)

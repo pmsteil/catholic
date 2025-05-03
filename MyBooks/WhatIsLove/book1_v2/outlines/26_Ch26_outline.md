@@ -8,8 +8,14 @@ Building upon the theological virtues (Ch 18-20) and the essential requirements 
 
 ## I. Opening
 
-*   **Key Scripture Verse:** Wisdom 8:7 - "And if any one loves righteousness, her labors are virtues; for she teaches self-control [Temperance] and prudence, justice and courage [Fortitude]; nothing in life is more profitable for men than these." (Lists the four cardinal virtues).
-*   **CCC Paragraph:** CCC 1804 - "Human virtues are firm attitudes, stable dispositions, habitual perfections of intellect and will that govern our actions, order our passions, and guide our conduct according to reason and faith. They make possible ease, self-mastery, and joy in leading a morally good life. The virtuous man is he who freely practices the good."
+*   **Key Scripture Verse:**
+    | Reference     | Text                                                                                                                                                           |
+    |---------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|
+    | Wisdom 8:7    | "And if any one loves righteousness, her labors are virtues; for she teaches self-control [Temperance] and prudence, justice and courage [Fortitude]; nothing in life is more profitable for men than these." |
+*   **Key CCC Paragraph:**
+    | Reference | Text                                                                                                                                                                                          |
+    |-----------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+    | CCC 1804  | "Human virtues are firm attitudes, stable dispositions, habitual perfections of intellect and will that govern our actions, order our passions, and guide our conduct according to reason and faith. They make possible ease, self-mastery, and joy in leading a morally good life. The virtuous man is he who freely practices the good." |
 
 ## II. Body: Developing the Theme
 
@@ -55,3 +61,8 @@ Building upon the theological virtues (Ch 18-20) and the essential requirements 
     *   CCC 1803-1811 (The Human Virtues - Cardinal Virtues)
     *   CCC 1833-1839 (Virtues and Grace)
 *   **Prayer Practice:** Pray for the Seven Gifts of the Holy Spirit (Wisdom, Understanding, Counsel, Fortitude, Knowledge, Piety, Fear of the Lord - Isaiah 11:2-3), recognizing that these gifts perfect the virtues. Intention: To ask the Holy Spirit for the specific gifts needed to strengthen the Cardinal Virtues, providing the **sacred strength** and **discernment** to live a life fully aligned with God's loving will.
+
+## Relevant Quotes (Saints, Theologians, Popes)
+*   "I should have no hesitation in defining them: that temperance is love giving itself entirely to that which is loved; fortitude is love readily bearing all things for the sake of the loved object; justice is love serving only the loved object, and therefore ruling rightly; prudence is love distinguishing with sagacity between what hinders it and what helps it." - St. Augustine, *De Moribus Ecclesiae Catholicae* (On the Morals of the Catholic Church)
+*   "The infused virtues have their origin in grace... Charity more proximately orders man to God than the other virtues... Therefore, charity is a greater virtue than the others." - St. Thomas Aquinas, *Disputed Questions on Virtue*
+*   "Grace has the power to make straight the paths of human love." - Pope St. John Paul II

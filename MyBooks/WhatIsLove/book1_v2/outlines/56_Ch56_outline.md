@@ -8,14 +8,21 @@ Continuing the exploration of the Practices of Love, this chapter focuses on Hol
 
 ## I. Opening
 
-*   **Key Scripture Verse:** 1 Peter 1:15-16 - "but as he who called you is holy, be holy yourselves in all your conduct; since it is written, 'You shall be holy, for I am holy.'"
-*   **CCC Paragraph:** CCC 2013 - "'All Christians in any state or walk of life are called to the fullness of Christian life and to the perfection of charity.' All are called to holiness: 'Be perfect, as your heavenly Father is perfect.'"
+*   **Key Scripture Verse:**
+    | Verse                                                                                                | Reference     |
+    | :--------------------------------------------------------------------------------------------------- | :------------ |
+    | "...but as he who called you is holy, be holy yourselves in all your conduct; since it is written, 'You shall be holy, for I am holy.'" | 1 Peter 1:15-16 |
+
+*   **Key CCC Paragraph:**
+    | Paragraph                                                                                                     | Reference |
+    | :------------------------------------------------------------------------------------------------------------ | :-------- |
+    | "'All Christians in any state or walk of life are called to the fullness of Christian life and to the perfection of charity.' All are called to holiness: 'Be perfect, as your heavenly Father is perfect.'" | CCC 2013  |
 
 ## II. Body: Developing the Theme
 
 1.  **Transition: From Examples to Universal Call:**
     *   Recap Ch 55: The Saints show us holiness is possible.
-    *   Introduce Holiness: This isn't just for them; it's a universal call (CCC 2013). Every baptized person is called to strive for holiness, the perfection of love. It's our **sacred calling**.
+    *   Introduce Holiness: This isn't just for them; it's a universal call (CCC 2013, Lumen Gentium 40). Every baptized person is called to strive for holiness, the perfection of love. It's our **sacred calling**.
 2.  **Defining Holiness: Perfection of Charity:**
     *   Define Holiness primarily as the perfection of Charity (love of God and neighbor - Ch 18). It means being set apart for God (**sacred**), conforming our lives fully to His will (Obedience - Ch 38).
     *   It involves purification from sin and growth in virtue (Ch 30ff, Ch 49).
@@ -23,7 +30,7 @@ Continuing the exploration of the Practices of Love, this chapter focuses on Hol
     *   Our call to holiness begins at Baptism, when we receive sanctifying grace (Ch 15) and become temples of the Holy Spirit (Ch 17) and members of Christ's Body (Ch 50).
 4.  **Achieved Through Grace and Practice:**
     *   Reiterate that holiness is impossible by human effort alone. It requires God's grace (Ch 15).
-    *   It also requires our active cooperation through the practices discussed in Part V: participation in the Church (Ch 50), self-denial (Ch 51), Sacraments (Ch 52), Prayer (Ch 53), living virtuously within our state in life (e.g., Family Ch 54). Requires **sacrifice** and **diligence**.
+    *   It also requires our active cooperation through the practices discussed in Part V: participation in the Church (Ch 50), self-denial (Ch 51), Sacraments (Ch 52), Prayer (Ch 53), living virtuously within our state in life (e.g., Family Ch 54). Requires **sacrifice** and **diligence**. (cf. St. Therese quote below).
 5.  **Holiness in Daily Life:**
     *   Counter the idea that holiness is only for monks or nuns. It's lived out in ordinary life – work, family, relationships – by doing ordinary things with extraordinary love, motivated by Charity.
     *   It's about fulfilling the duties of our state in life faithfully (**sacred covenant**).
@@ -55,3 +62,9 @@ Continuing the exploration of the Practices of Love, this chapter focuses on Hol
     *   CCC 823-829 (The Church is Holy)
     *   Lumen Gentium, Chapter V (Vatican II document on the Universal Call to Holiness in the Church)
 *   **Prayer Practice:** Pray the Litany of Humility. Intention: To combat the pride that resists the call to holiness or despairs of achieving it, asking for the grace to embrace our **sacred calling** with humility and trust, relying entirely on God's **mercy** and power for growth towards perfect **life-giving communion**. (Repeated prayer, different intention focus).
+
+## Relevant Quotes (Saints, Theologians, Popes)
+
+*   "Thus it is evident to everyone, that all the faithful of Christ of whatever rank or status, are called to the fullness of the Christian life and to the perfection of charity..." - **Lumen Gentium, 40 (Vatican II)**
+*   "You cannot be half a saint; you must be a whole saint or no saint at all." - **St. Therese of Lisieux**
+*   "Do not be afraid of holiness. It will take away none of your energy, vitality or joy. On the contrary, you will become what the Father had in mind when he created you, and you will be faithful to your deepest self." - **Pope Francis, *Gaudete et Exsultate*, 32**

@@ -8,8 +8,16 @@ This chapter begins Part V, "The Practices of Love - How we grow in Love." Havin
 
 ## I. Opening
 
-*   **Key Scripture Verse:** Ephesians 1:22-23 - "...and he has put all things under his feet and has made him the head over all things for the church, which is his body, the fulness of him who fills all in all."
-*   **CCC Paragraph:** CCC 789 - "The comparison of the Church with the body casts light on the intimate bond between Christ and his Church. Not only is she gathered *around him*; she is united *in him*, in his body. Three aspects of the Church as the Body of Christ are to be more specifically noted: the unity of all her members with each other as a result of their union with Christ; Christ as head of the Body; and the Church as bride of Christ."
+*   **Key Scripture Verse:**
+    | Key Scripture Verse |
+    |---------------------|
+    | "...and he has put all things under his feet and has made him the head over all things for the church, which is his body, the fulness of him who fills all in all." |
+    | *Ephesians 1:22-23* |
+*   **Key CCC Paragraph:**
+    | Key CCC Paragraph |
+    |-------------------|
+    | "The comparison of the Church with the body casts light on the intimate bond between Christ and his Church. Not only is she gathered *around him*; she is united *in him*, in his body. Three aspects of the Church as the Body of Christ are to be more specifically noted: the unity of all her members with each other as a result of their union with Christ; Christ as head of the Body; and the Church as bride of Christ." |
+    | *CCC 789*         |
 
 ## II. Body: Developing the Theme
 
@@ -25,9 +33,12 @@ This chapter begins Part V, "The Practices of Love - How we grow in Love." Havin
 3.  **The Church as Christ's Body: Unity and Communion:**
     *   Emphasize the intimate union between Christ and believers within the Church (CCC 789). We are incorporated into Him through Baptism.
     *   This union creates **life-giving communion** among members, **binding** them together despite diversity (1 Cor 12).
+    *   > “The spiritual building up of the body of Christ is achieved through love.” - St. Fulgentius of Ruspe
+    *   > Christ's supreme desire is "that all those whom He loves may be one in the same communion." (cf. John 17:21)
 4.  **The Church as Mother and Teacher:**
     *   The Church nourishes our spiritual life through:
         *   **Sacraments:** Channels of grace (Ch 15), especially the Eucharist (Ch 58) (CCC 1113ff). The primary **sacred gift** dispenser.
+            *   > “The Eucharist is the sacrament of love: it signifies love, it produces love.” - St. Thomas Aquinas
         *   **Sacred Scripture & Tradition:** Transmitting God's revealed **sacred truth** (Ch 21).
         *   **Magisterium:** Teaching authority guiding in faith and morals (Commandments Ch 25, Virtue Ch 30ff).
     *   She provides the context for learning and practicing **true justice** and **true mercy**.

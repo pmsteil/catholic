@@ -8,8 +8,10 @@ Following the discussion on Truth (Ch 21), this chapter focuses on Mercy as anot
 
 ## I. Opening
 
-*   **Key Scripture Verse:** Luke 6:36 - "Be merciful, even as your Father is merciful."
-*   **CCC Paragraph:** CCC 2842 - "It is not in our power not to feel or to forget an offense; but the heart that offers itself to the Holy Spirit turns injury into compassion and purifies the memory by transforming the hurt into intercession." (Highlights the role of the Spirit in enabling mercy).
+| Category             | Reference   | Text                                                                                                                                                                                          | Notes                                                    |
+| :------------------- | :---------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------- |
+| Key Scripture Verse  | Luke 6:36   | "Be merciful, even as your Father is merciful."                                                                                                                                               |                                                          |
+| Key CCC Paragraph    | CCC 2842    | "It is not in our power not to feel or to forget an offense; but the heart that offers itself to the Holy Spirit turns injury into compassion and purifies the memory by transforming the hurt into intercession." | Highlights the role of the Spirit in enabling mercy. |
 
 ## II. Body: Developing the Theme
 
@@ -58,3 +60,9 @@ Following the discussion on Truth (Ch 21), this chapter focuses on Mercy as anot
     *   CCC 2443-2449 (Love for the Poor, Works of Mercy)
     *   CCC 2838-2845 (Forgive us our trespasses...)
 *   **Prayer Practice:** Pray the Divine Mercy Chaplet or reflect deeply on the Parable of the Prodigal Son (Luke 15). Intention: To implore God's **sacred mercy** on oneself and the world, and to ask for the grace to overcome hardness of heart, practice forgiveness readily, and actively seek opportunities for compassionate action (**sacred healing**).
+
+## Relevant Quotes (Saints, Theologians, Popes)
+
+*   "Mankind will not have peace until it turns with trust to My mercy." - St. Faustina Kowalska (Diary, 300)
+*   "Let no soul fear to draw near to Me, even though its sins be as scarlet... My mercy is greater than your sins and those of the entire world." - St. Faustina Kowalska (Diary, 699)
+*   "There is nothing that man needs more than Divine Mercy – that love which is benevolent, which is compassionate, which raises man above his weakness to the infinite heights of the holiness of God." - Pope St. John Paul II (Homily, August 17, 2002, Krakow - Dedication of the Divine Mercy Shrine)

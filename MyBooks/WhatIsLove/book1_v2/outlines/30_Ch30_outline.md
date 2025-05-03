@@ -8,8 +8,16 @@ Following the Theological Virtues (the foundation) and Cardinal Virtues (the hin
 
 ## I. Opening
 
-*   **Key Scripture Verse:** 2 Peter 1:5-7 - "For this very reason make every effort to supplement your faith with virtue, and virtue with knowledge, and knowledge with self-control, and self-control with steadfastness, and steadfastness with godliness, and godliness with brotherly affection, and brotherly affection with love." (Shows the building up of virtues leading to love).
-*   **CCC Paragraph:** CCC 1803 - "A virtue is an habitual and firm disposition to do the good. It allows the person not only to perform good acts, but to give the best of himself. The virtuous person tends toward the good with all his sensory and spiritual powers; he pursues the good and chooses it in concrete actions."
+*   **Key Scripture Verse:**
+    | Key Scripture Verse |
+    |---------------------|
+    | "For this very reason make every effort to supplement your faith with virtue, and virtue with knowledge, and knowledge with self-control, and self-control with steadfastness, and steadfastness with godliness, and godliness with brotherly affection, and brotherly affection with love." |
+    | *Reference: 2 Peter 1:5-7* |
+*   **Key CCC Paragraph:**
+    | Key CCC Paragraph |
+    |-------------------|
+    | "A virtue is an habitual and firm disposition to do the good. It allows the person not only to perform good acts, but to give the best of himself. The virtuous person tends toward the good with all his sensory and spiritual powers; he pursues the good and chooses it in concrete actions." |
+    | *Reference: CCC 1803* |
 
 ## II. Body: Developing the Theme
 
@@ -64,3 +72,9 @@ Following the Theological Virtues (the foundation) and Cardinal Virtues (the hin
     *   CCC 1810-1811 (Moral Virtues grow through education, acts, perseverance, grace)
     *   CCC 1839 (Lists key human virtues related to cardinal virtues)
 *   **Prayer Practice:** Pray the Litany of the Sacred Heart of Jesus. Intention: To contemplate the virtues embodied in the Heart of Christ (e.g., "Heart of Jesus, patient and most merciful," "fountain of life and holiness," "obedient unto death") and to ask for the grace to cultivate these same virtues in one's own character, shaping it for **sacred**, **sacrificial** love.
+
+## Relevant Quotes (Saints, Theologians, Popes)
+
+*   "Temperance is love giving itself entirely to that which is loved; fortitude is love readily bearing all things for the sake of the loved object; justice is love serving only the loved object, and therefore ruling rightly; prudence is love distinguishing with sagacity between what hinders it and what helps it." - St. Augustine, *Of the Morals of the Catholic Church*
+*   "Grace does not destroy nature but perfects it." - St. Thomas Aquinas, *Summa Theologica*, I, Q. 1, Art. 8, ad 2 (Illustrates the relationship between natural effort and supernatural grace in virtue)
+*   "The proof of love is in the works. Where love exists, it works great things. But when it ceases to act, it ceases to exist." - St. Gregory the Great (Highlights the necessity of virtuous action flowing from love)

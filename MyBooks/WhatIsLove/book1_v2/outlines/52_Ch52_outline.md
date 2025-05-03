@@ -8,8 +8,15 @@ Continuing the exploration of the Practices of Love, this chapter focuses on the
 
 ## I. Opening
 
-*   **Key Scripture Verse:** John 6:56 - "He who eats my flesh and drinks my blood abides in me, and I in him." (Focus on Eucharistic intimacy).
-*   **CCC Paragraph:** CCC 1116 - "'Sacraments are 'powers that comes forth' from the Body of Christ, which is ever-living and life-giving. They are actions of the Holy Spirit at work in his Body, the Church. They are 'the masterworks of God' in the new and everlasting covenant."
+*   **Key Scripture Verse:**
+    | Verse      | Text                                                        | Focus                 |
+    | :--------- | :---------------------------------------------------------- | :-------------------- |
+    | John 6:56  | "He who eats my flesh and drinks my blood abides in me, and I in him." | Eucharistic intimacy |
+
+*   **Key CCC Paragraph:**
+    | Paragraph | Text                                                                                                                                                                                          |
+    | :-------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+    | CCC 1116  | "'Sacraments are 'powers that comes forth' from the Body of Christ, which is ever-living and life-giving. They are actions of the Holy Spirit at work in his Body, the Church. They are 'the masterworks of God' in the new and everlasting covenant." |
 
 ## II. Body: Developing the Theme
 
@@ -68,3 +75,9 @@ Continuing the exploration of the Practices of Love, this chapter focuses on the
     *   CCC Part Two: The Celebration of the Christian Mystery (CCC 1066-1690 - Detailed explanation of Liturgy and each Sacrament)
     *   CCC 1113-1134 (Sacraments - Definition, Christ's institution, Efficacy, Necessity)
 *   **Prayer Practice:** Make a Spiritual Communion prayer, expressing desire for union with Christ in the Eucharist. Intention: To cultivate a deeper hunger for sacramental **sacred intimacy** and **nourishment**, recognizing the Eucharist as the source and summit of Christian life and the ultimate expression of **life-giving communion**.
+
+## Relevant Quotes (Saints, Theologians, Popes)
+
+*   "What was visible in our Redeemer has passed over into his sacraments." - St. Leo the Great (Sermon 74, 2)
+*   "The Eucharist draws us into Jesus' act of self-oblation... We enter into the very dynamic of his self-giving." - Pope Benedict XVI (Deus Caritas Est, 13)
+*   "It is not to remain in a golden ciborium that He comes down each day from Heaven, but to find another heaven, the heaven of our soul, where He takes delight." - St. Thérèse of Lisieux (Story of a Soul)

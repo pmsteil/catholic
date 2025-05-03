@@ -8,8 +8,14 @@ Continuing the exploration of the Fruits of Love, this chapter revisits Patience
 
 ## I. Opening
 
-*   **Key Scripture Verse:** Colossians 1:11 - "May you be strengthened with all power, according to his glorious might, for all endurance and patience with joy,"
-*   **CCC Paragraph:** CCC 1832 - "The fruits of the Spirit are perfections that the Holy Spirit forms in us as the first fruits of eternal glory. The tradition of the Church lists twelve of them: 'charity, joy, peace, patience, kindness...'" (Lists Patience as a fruit).
+*   **Key Scripture Verse:**
+    | Reference      | Text                                                                                             |
+    | -------------- | ------------------------------------------------------------------------------------------------ |
+    | Colossians 1:11 | "May you be strengthened with all power, according to his glorious might, for all endurance and patience with joy," |
+*   **Key CCC Paragraph:**
+    | Reference | Text                                                                                                                                                              |
+    | --------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+    | CCC 1832  | "The fruits of the Spirit are perfections that the Holy Spirit forms in us as the first fruits of eternal glory. The tradition of the Church lists twelve of them: 'charity, joy, peace, patience, kindness...'" |
 
 ## II. Body: Developing the Theme
 
@@ -54,3 +60,9 @@ Continuing the exploration of the Fruits of Love, this chapter revisits Patience
     *   CCC 736 (Lists patience as fruit of the Spirit)
     *   CCC 1832 (Fruits as perfections formed by the Holy Spirit)
 *   **Prayer Practice:** Pray the Veni Creator Spiritus (Come, Holy Spirit, Creator Blest). Intention: To ask the Holy Spirit, the source of all good fruits, to cultivate the specific fruit of Patience within the soul, granting the **sacred endurance** needed to love faithfully and joyfully through all circumstances, strengthening the **sacred covenant**. (Repeated prayer, different intention focus).
+
+## Relevant Quotes (Saints, Theologians, Popes)
+
+*   "What we need is a cup of understanding, a barrel of love and an ocean of patience." - **St. Francis de Sales**
+*   "There is still time for endurance, time for patience, time for healing, time for change. Have you slipped? Rise up! Have you sinned? Cease! Do not stand among sinners but leap aside!" - **St. Basil the Great**
+*   "Consider how great God’s patience is... the Lord endured the devil’s opposition and He answered him with nothing except words of meekness! This was to give us an example of His patience, so that as often as we suffer something from vicious persons, we should be aroused to teach, rather than to exact revenge." - **St. Gregory the Great**

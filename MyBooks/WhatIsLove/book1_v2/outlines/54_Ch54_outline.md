@@ -8,8 +8,15 @@ Continuing the exploration of the Practices of Love, this chapter focuses on the
 
 ## I. Opening
 
-*   **Key Scripture Verse:** Ephesians 6:1-4 - "Children, obey your parents in the Lord, for this is right... Fathers, do not provoke your children to anger, but bring them up in the discipline and instruction of the Lord." (Highlights mutual responsibilities within the family).
-*   **CCC Paragraph:** CCC 2207 - "The family is the original cell of social life. It is the natural society in which husband and wife are called to give themselves in love and in the gift of life. Authority, stability, and a life of relationships within the family constitute the foundations for freedom, security, and fraternity within society..."
+| Key Scripture Verse |
+| :------------------ |
+| "Children, obey your parents in the Lord, for this is right... Fathers, do not provoke your children to anger, but bring them up in the discipline and instruction of the Lord." |
+| *Ephesians 6:1-4*   |
+
+| Key CCC Paragraph |
+| :---------------- |
+| "The family is the original cell of social life. It is the natural society in which husband and wife are called to give themselves in love and in the gift of life. Authority, stability, and a life of relationships within the family constitute the foundations for freedom, security, and fraternity within society..." |
+| *CCC 2207*        |
 
 ## II. Body: Developing the Theme
 
@@ -62,3 +69,9 @@ Continuing the exploration of the Practices of Love, this chapter focuses on the
     *   CCC 1655-1658 (The Domestic Church)
     *   *Familiaris Consortio* (Apostolic Exhortation by St. John Paul II on the Christian Family)
 *   **Prayer Practice:** Pray the Holy Rosary, offering each decade for the intentions of one's own family members or for families in general. Intention: To invoke the intercession of the Holy Family of Jesus, Mary, and Joseph, asking for the grace to build families that are true schools of **sacred**, **sacrificial**, **covenantal** love, fostering **life-giving communion**.
+
+## Relevant Quotes (Saints, Theologians, Popes)
+
+*   "The family, like the Church, ought to be a place where the Gospel is transmitted and from which the Gospel radiates... In a family which is conscious of this mission, all the members evangelize and are evangelized." - **St. John Paul II**, *Familiaris Consortio*, 52
+*   "Let us make our homes churches, for the home is a little church." - **St. John Chrysostom**, *Homily on Ephesians*
+*   "In the family, we learn closeness, care, respect for others." - **Pope Francis**, *General Audience, February 11, 2015*

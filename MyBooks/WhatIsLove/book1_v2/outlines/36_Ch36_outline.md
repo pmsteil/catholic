@@ -8,8 +8,15 @@ Continuing the exploration of Moral Virtues, this chapter focuses on Chastity. B
 
 ## I. Opening
 
-*   **Key Scripture Verse:** Matthew 5:8 - "Blessed are the pure in heart, for they shall see God."
-*   **CCC Paragraph:** CCC 2337 - "Chastity means the successful integration of sexuality within the person and thus the inner unity of man in his bodily and spiritual being. Sexuality, in which man's belonging to the bodily and biological world is expressed, becomes personal and truly human when it is integrated into the relationship of one person to another, in the complete and lifelong mutual gift of a man and a woman."
+| Key Scripture Verse |
+|---|
+| "Blessed are the pure in heart, for they shall see God." |
+| *Matthew 5:8* |
+
+| Key CCC Paragraph |
+|---|
+| "Chastity means the successful integration of sexuality within the person and thus the inner unity of man in his bodily and spiritual being. Sexuality, in which man's belonging to the bodily and biological world is expressed, becomes personal and truly human when it is integrated into the relationship of one person to another, in the complete and lifelong mutual gift of a man and a woman." |
+| *CCC 2337* |
 
 ## II. Body: Developing the Theme
 
@@ -57,3 +64,12 @@ Continuing the exploration of Moral Virtues, this chapter focuses on Chastity. B
     *   CCC 2394-2400 (The Sixth Commandment - detailed)
     *   CCC 2514-2533 (The Ninth Commandment - You shall not covet neighbor's wife - purity of heart)
 *   **Prayer Practice:** Pray the Memorare or the Angelus, focusing on Mary's perfect purity. Intention: To seek Mary's intercession for the grace to grow in chastity according to one's state in life, asking for **sacred purity** of heart, mind, and body, so as to love God and others with an undivided heart capable of true self-**gift**.
+
+## Relevant Quotes (Saints, Theologians, Popes)
+
+*   "Only the chaste man and the chaste woman are capable of true love."
+    *   *St. John Paul II*
+*   "Chastity is the joyous affirmation of love."
+    *   *St. Josemaría Escrivá*
+*   "Purity prepares the soul for love, and love confirms the soul in purity."
+    *   *St. John Henry Newman*

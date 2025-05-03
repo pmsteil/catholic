@@ -8,8 +8,18 @@ This chapter concludes Part I. It synthesizes the critiques of the various count
 
 ## I. Opening
 
-*   **Key Scripture Verse:** 1 John 4:8, 16b - "He who does not love does not know God; for God is love... God is love, and he who abides in love abides in God, and God abides in him."
-*   **CCC Paragraph:** CCC 25 - "The whole concern of doctrine and its teaching must be directed to the love that never ends. Whether something is proposed for belief, for hope or for action, the love of our Lord must always be made accessible, so that anyone can see that all the works of perfect Christian virtue spring from love and have no other objective than to arrive at love."
+*   **Key Scripture Verse:**
+
+    | Verse         | Text                                                                                             |
+    |---------------|--------------------------------------------------------------------------------------------------|
+    | 1 John 4:8    | "He who does not love does not know God; for God is love."                                        |
+    | 1 John 4:16b  | "...God is love, and he who abides in love abides in God, and God abides in him."                  |
+
+*   **Key CCC Paragraph:**
+
+    | Paragraph | Text                                                                                                                                                                                                                                                           |
+    |-----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+    | CCC 25    | "The whole concern of doctrine and its teaching must be directed to the love that never ends. Whether something is proposed for belief, for hope or for action, the love of our Lord must always be made accessible, so that anyone can see that all the works of perfect Christian virtue spring from love and have no other objective than to arrive at love." |
 
 ## II. Body: Developing the Theme
 
@@ -55,3 +65,9 @@ This chapter concludes Part I. It synthesizes the critiques of the various count
     *   CCC 456-460 (Why the Word Became Flesh)
     *   CCC 1691-1698 (Life in Christ - the basis of Christian morality)
 *   **Prayer Practice:** Pray the Veni Creator Spiritus (Come, Holy Spirit, Creator Blest). Intention: To invoke the Holy Spirit, the Love between the Father and the Son, asking Him to illuminate the mind and inflame the heart with the **sacred truth** and beauty of the Catholic vision of love, preparing the soul to delve deeper into its mysteries.
+
+## Relevant Quotes (Saints, Theologians, Popes)
+
+*   "Being Christian is not the result of an ethical choice or a lofty idea, but the encounter with an event, a person, which gives life a new horizon and a decisive direction." - Pope Benedict XVI, *Deus Caritas Est*, 1
+*   "Love consists of a commitment which limits one's freedom - it is a giving of the self, and to give oneself means just that: to limit one's freedom on behalf of another." - St. John Paul II, *Love and Responsibility*
+*   "To love is to will the good of the other." - St. Thomas Aquinas, *Summa Theologiae*, I-II, Q. 26, Art. 4

@@ -8,8 +8,15 @@ Following the exploration of suffering, the longing for love, and the cry for ju
 
 ## I. Opening
 
-*   **Key Scripture Verse:** Matthew 5:7 - "Blessed are the merciful, for they shall obtain mercy."
-*   **CCC Paragraph:** CCC 1846 - "The Gospel is the revelation in Jesus Christ of God's mercy to sinners. The angel announced to Joseph: 'You shall call his name Jesus, for he will save his people from their sins.' The same is true of the Eucharist, the sacrament of redemption: 'This is my blood of the covenant, which is poured out for many for the forgiveness of sins.'"
+| Key Scripture Verse |
+|---|
+| "Blessed are the merciful, for they shall obtain mercy." |
+| *Matthew 5:7* |
+
+| Key CCC Paragraph |
+|---|
+| "The Gospel is the revelation in Jesus Christ of God's mercy to sinners. The angel announced to Joseph: 'You shall call his name Jesus, for he will save his people from their sins.' The same is true of the Eucharist, the sacrament of redemption: 'This is my blood of the covenant, which is poured out for many for the forgiveness of sins.'" |
+| *CCC 1846* |
 
 ## II. Body: Developing the Theme
 
@@ -53,3 +60,9 @@ Following the exploration of suffering, the longing for love, and the cry for ju
     *   CCC 1846-1848 (God's Mercy Revealed)
     *   CCC 2838-2845 (Forgiveness in the "Our Father")
 *   **Prayer Practice:** Pray the Divine Mercy Chaplet. Intention: To implore God's **sacred mercy** upon ourselves and the whole world, seeking healing for personal wounds and the grace to be merciful as our Father is merciful, fostering **life-giving communion**.
+
+## Relevant Quotes (Saints, Theologians, Popes)
+
+*   "Mankind will not have peace until it turns with trust to My mercy." - St. Faustina Kowalska (Diary, 300)
+*   "The greater the sinner, the greater the right he has to My mercy." - St. Faustina Kowalska (Diary, 723)
+*   "Mercy is an indispensable dimension of love; it is, as it were, love's second name..." - Pope St. John Paul II (Dives in Misericordia, 7)

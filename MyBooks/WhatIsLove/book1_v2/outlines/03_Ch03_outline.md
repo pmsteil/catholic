@@ -8,8 +8,14 @@ Building on the discussions of suffering (Ch 1) and the longing for love/connect
 
 ## I. Opening
 
-*   **Key Scripture Verse:** Micah 6:8 - "He has showed you, O man, what is good; and what does the LORD require of you but to do justice, and to love kindness [mercy], and to walk humbly with your God?"
-*   **CCC Paragraph:** CCC 1807 - "Justice is the moral virtue that consists in the constant and firm will to give their due to God and neighbor. Justice toward God is called the 'virtue of religion.' Justice toward men disposes one to respect the rights of each and to establish in human relationships the harmony that promotes equity with regard to persons and to the common good."
+*   **Key Scripture Verse:**
+    | Verse Text                                                                                                                               | Reference   |
+    | :--------------------------------------------------------------------------------------------------------------------------------------- | :---------- |
+    | "He has showed you, O man, what is good; and what does the LORD require of you but to do justice, and to love kindness [mercy], and to walk humbly with your God?" | *Micah 6:8* |
+*   **Key CCC Paragraph:**
+    | Paragraph Text                                                                                                                                                                                                                                                                                       | Reference |
+    | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------- |
+    | "Justice is the moral virtue that consists in the constant and firm will to give their due to God and neighbor. Justice toward God is called the 'virtue of religion.' Justice toward men disposes one to respect the rights of each and to establish in human relationships the harmony that promotes equity with regard to persons and to the common good." | *CCC 1807* |
 
 ## II. Body: Developing the Theme
 
@@ -53,3 +59,8 @@ Building on the discussions of suffering (Ch 1) and the longing for love/connect
     *   CCC 1928-1948 (Social Justice)
     *   CCC 2401-2463 (The Seventh Commandment - You shall not steal, covers economic justice, respect for persons and their goods)
 *   **Prayer Practice:** Pray the Act of Contrition, focusing on the ways personal sin has violated justice towards God and neighbor. Intention: To grow in the virtue of religion (justice towards God) and the commitment to establishing **true justice** and harmony in all relationships, reflecting God's **sacred honor**.
+
+## Relevant Quotes (Saints, Theologians, Popes)
+
+*   "Charity is no substitute for justice withheld." - St. Augustine
+*   "Justice is about the establishment and promotion of right relationships." - Catholic Social Teaching Principle (Source: Casa Alma)

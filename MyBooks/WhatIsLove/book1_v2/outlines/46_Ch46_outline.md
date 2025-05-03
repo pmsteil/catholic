@@ -8,8 +8,15 @@ Continuing the exploration of the Fruits of Love, this chapter revisits Kindness
 
 ## I. Opening
 
-*   **Key Scripture Verse:** Titus 3:4-5 - "But when the goodness and loving kindness of God our Savior appeared, he saved us, not because of deeds done by us in righteousness, but in virtue of his own mercy..." (God's own kindness/generosity towards us).
-*   **CCC Paragraph:** CCC 1832 - "The fruits of the Spirit are perfections that the Holy Spirit forms in us as the first fruits of eternal glory. The tradition of the Church lists twelve of them: 'charity, joy, peace, patience, kindness, goodness...'" (Lists Kindness as a fruit).
+| Key Scripture Verse                                                                                                                               | Reference   |
+| :------------------------------------------------------------------------------------------------------------------------------------------------ | :---------- |
+| "But when the goodness and loving kindness of God our Savior appeared, he saved us, not because of deeds done by us in righteousness, but in virtue of his own mercy..." | Titus 3:4-5 |
+| _(Interpretation: God's own kindness/generosity towards us)_                                                                                       |             |
+
+| Key CCC Paragraph                                                                                                                                                           | Reference |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------- |
+| "The fruits of the Spirit are perfections that the Holy Spirit forms in us as the first fruits of eternal glory. The tradition of the Church lists twelve of them: 'charity, joy, peace, patience, kindness, goodness...'" | CCC 1832  |
+| _(Interpretation: Lists Kindness as a fruit)_                                                                                                                               |           |
 
 ## II. Body: Developing the Theme
 
@@ -54,3 +61,9 @@ Continuing the exploration of the Fruits of Love, this chapter revisits Kindness
     *   CCC 1832 (Fruits as perfections)
     *   CCC 1825 (Charity is kind)
 *   **Prayer Practice:** Pray the Anima Christi. Focus on asking Christ's Spirit to fill the soul, His Body and Blood to nourish it, His Passion to strengthen it. Intention: To be so filled with Christ's own love and **sacred compassion** that the fruit of Kindness flows naturally towards others, reflecting His **sacred generosity** and building **life-giving communion**. (Repeated prayer, different intention focus).
+
+## Relevant Quotes (Saints, Theologians, Popes)
+
+*   "If you hope for mercy, show mercy. If you look for kindness, show kindness. If you want to receive, give." - St. Peter Chrysologus
+*   "Help one another with the generosity of the Lord, and despise no one." - St. Philip Neri
+*   "Nothing is so strong as gentleness, nothing so gentle as real strength." - St. Francis de Sales

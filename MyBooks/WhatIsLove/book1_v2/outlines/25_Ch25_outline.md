@@ -8,8 +8,15 @@ Continuing the exploration of what love requires, this chapter examines the Ten 
 
 ## I. Opening
 
-*   **Key Scripture Verse:** Matthew 19:17 - "...If you would enter life, keep the commandments."
-*   **CCC Paragraph:** CCC 2057 - "Beginning with the Old Testament, the sacred books refer to the 'ten words,' which delineate the conditions of a life freed from the slavery of sin. They show the way of life. They are summarized by the Lord in the twofold commandment of charity: love of God and love of neighbor."
+| Key Scripture Verse |
+| :------------------ |
+| "...If you would enter life, keep the commandments." |
+| *Matthew 19:17*     |
+
+| Key CCC Paragraph |
+| :---------------- |
+| "Beginning with the Old Testament, the sacred books refer to the 'ten words,' which delineate the conditions of a life freed from the slavery of sin. They show the way of life. They are summarized by the Lord in the twofold commandment of charity: love of God and love of neighbor." |
+| *CCC 2057*        |
 
 ## II. Body: Developing the Theme
 
@@ -55,3 +62,9 @@ Continuing the exploration of what love requires, this chapter examines the Ten 
     *   CCC 2052-2082 (The Decalogue in Sacred Scripture, Tradition, Unity, and Obligation)
     *   CCC 2083-2557 (Detailed explanation of each of the Ten Commandments)
 *   **Prayer Practice:** Make a thorough Examination of Conscience based on the Ten Commandments, followed by a sincere Act of Contrition. Intention: To recognize failures in upholding these **sacred boundaries**, to ask for God's **true mercy**, and to resolve, with the help of grace, to live more faithfully within the **sacred covenant** defined by His loving Law.
+
+## Relevant Quotes (Saints, Theologians, Popes)
+
+*   "The commandments... represent the basic condition for love of neighbour; at the same time they are the proof of that love. They are the *first necessary step on the journey towards freedom*, its starting-point." - Pope St. John Paul II, *Veritatis Splendor*, 13
+*   "The precepts of the decalogue contain the very intention of the legislator, which is the love of God and neighbor." - St. Thomas Aquinas, *Summa Theologiae*, I-II, Q. 100, Art. 3, Reply 2
+*   "Love God and do what you will." - St. Augustine, *Sermon on 1 John 4:4-12* (This quote emphasizes that true love inherently aligns with God's will as expressed in the commandments).

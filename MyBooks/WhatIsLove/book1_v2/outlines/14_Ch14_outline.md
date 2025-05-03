@@ -8,8 +8,15 @@ This chapter begins Part II, "The Source of Love." Having contrasted authentic l
 
 ## I. Opening
 
-*   **Key Scripture Verse:** 1 John 4:16 - "So we know and believe the love God has for us. God is love, and he who abides in love abides in God, and God abides in him." (Repeated from Ch 2 for emphasis, as this is the core definition chapter).
-*   **CCC Paragraph:** CCC 1822 - "Charity is the theological virtue by which we love God above all things for His own sake, and our neighbor as ourselves for the love of God." (Connects theological Charity to the definition being explored).
+*   **Key Scripture Verse:**
+    | Verse        | Text                                                                                                                            | Note                                                                         |
+    | :----------- | :------------------------------------------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------- |
+    | 1 John 4:16  | "So we know and believe the love God has for us. God is love, and he who abides in love abides in God, and God abides in him." | (Repeated from Ch 2 for emphasis, as this is the core definition chapter). |
+
+*   **Key CCC Paragraph:**
+    | Paragraph | Text                                                                                                                               | Note                                                                      |
+    | :-------- | :--------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------ |
+    | CCC 1822  | "Charity is the theological virtue by which we love God above all things for His own sake, and our neighbor as ourselves for the love of God." | (Connects theological Charity to the definition being explored). |
 
 ## II. Body: Developing the Theme
 
@@ -24,16 +31,19 @@ This chapter begins Part II, "The Source of Love." Having contrasted authentic l
 3.  **Breaking Down the Definition (Explicitly, as per prompt instructions):**
     *   Dedicate focused attention to *each* component:
         *   **Sacred:** Rooted in God's holiness; set apart from the profane; transcendent; participating in the divine life. Contrasts with purely secular or materialistic views.
+            *   > "Charity... consists not in loving ourselves in God, but in loving God in ourselves and for Himself; and our neighbor also, purely for God." - St. Francis de Sales, *Treatise on the Love of God*
         *   **Sacrificial:** Involves self-giving, cost, laying down one's life (metaphorically or literally), mirroring Christ's ultimate sacrifice on the Cross. Contrasts with self-centeredness or love based only on feeling. (Connect to *agape*).
-        *   **Gift:** Given freely, not earned or coerced; a grace originating from God. Contrasts with love as a transaction or something owed.
+            *   > "Love to be real, it must cost—it must hurt—it must empty us of self." - St. Mother Teresa
+        *   **Gift:** Given freely, not earned or coerced; a grace originating from God. Contrasts with love as a transaction or something owed. (St. Francis de Sales quote above also applies here).
         *   **Covenant:** A solemn, binding promise/relationship establishing kinship and mutual responsibilities, reflecting God's relationship with His people. Contrasts with temporary arrangements, contracts, or mere alliances based on convenience.
         *   **Binds:** Actively unites, holds together, integrates seemingly opposing elements. Love is the unifying force.
         *   **True Justice:** Giving God and neighbor their objective due; upholding rights, dignity, and right relationship according to God's standard (**sacred honor**). Contrasts with distorted or purely secular notions of justice.
         *   **True Mercy:** Compassionate action that goes beyond strict justice to heal, forgive, and restore, rooted in God's own merciful love (**sacred healing**). Contrasts with mere pity, enabling, or denial of wrongdoing.
+            *   > "Mercy without justice is the mother of dissolution; justice without mercy is cruelty." - St. Thomas Aquinas, *Summa Theologiae* (Implied reference)
         *   **Life-Giving:** Produces spiritual and sometimes physical life; fosters growth, flourishing, fruitfulness (spiritual fruits); leads to eternal life. Contrasts with sterile, destructive, or death-dealing counterfeits.
         *   **Communion:** Creates deep unity, shared life, intimate participation between persons (human and divine). Contrasts with isolation, superficial connection, or mere coexistence.
 4.  **The Interconnectedness:**
-    *   Briefly explain how these elements are not separate but deeply interconnected and mutually reinforcing within the definition. You can't have true mercy without justice, or true covenant without sacrifice, etc. All flow from the sacred source.
+    *   Briefly explain how these elements are not separate but deeply interconnected and mutually reinforcing within the definition. You can't have true mercy without justice, or true covenant without sacrifice, etc. All flow from the sacred source. (Aquinas quote above also illustrates this binding).
 5.  **This Definition as a Lens:**
     *   Reiterate that this definition will be the lens used throughout the rest of the book to understand God's actions and our call to love.
 6.  **Anecdote Placeholder:**

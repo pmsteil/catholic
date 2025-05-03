@@ -8,8 +8,14 @@ Continuing the exploration of the Practices of Love, this chapter focuses on var
 
 ## I. Opening
 
-*   **Key Scripture Verse:** Luke 9:23 - "And he said to all, 'If any man would come after me, let him deny himself and take up his cross daily and follow me.'"
-*   **CCC Paragraph:** CCC 2041 - "The precepts of the Church are set in the context of a moral life bound to and nourished by liturgical life. The obligatory character of these positive laws decreed by the pastoral authorities is meant to guarantee to the faithful the indispensable minimum in the spirit of prayer and moral effort, in the growth in love of God and neighbor." (Context for Days of Obligation, Fasting/Abstinence).
+*   **Key Scripture Verse:**
+    | Verse      | Text                                                                                   |
+    | :--------- | :------------------------------------------------------------------------------------- |
+    | Luke 9:23  | "And he said to all, 'If any man would come after me, let him deny himself and take up his cross daily and follow me.'" |
+*   **Key CCC Paragraph:**
+    | Paragraph | Text                                                                                                                                                                                                                                                                                       | Context                                                |
+    | :-------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------- |
+    | CCC 2041  | "The precepts of the Church are set in the context of a moral life bound to and nourished by liturgical life. The obligatory character of these positive laws decreed by the pastoral authorities is meant to guarantee to the faithful the indispensable minimum in the spirit of prayer and moral effort, in the growth in love of God and neighbor." | (Days of Obligation, Fasting/Abstinence) |
 
 ## II. Body: Developing the Theme
 
@@ -56,3 +62,9 @@ Continuing the exploration of the Practices of Love, this chapter focuses on var
     *   CCC 2041-2043 (Precepts of the Church)
     *   CCC 538-540 (Christ's temptations - overcoming through self-denial)
 *   **Prayer Practice:** Make an Examination of Conscience regarding the Precepts of the Church and personal efforts in self-denial. Pray the Act of Contrition. Intention: To seek forgiveness for failures in **sacred discipline** and **sacrifice**, and to ask for the grace of **sacred commitment** and perseverance in practicing self-denial as a means of growing closer to God and fostering **life-giving communion**.
+
+## Relevant Quotes (Saints, Theologians, Popes)
+
+*   "Fasting is the soul of prayer, mercy [almsgiving] is the lifeblood of fasting. Let no one try to separate them… So if you pray, fast; if you fast, show mercy.” – St. Peter Chrysologus
+*   "Without the burden of afflictions it is impossible to reach the height of grace. The gift of grace increases as the struggle increases." – St. Rose of Lima
+*   "Perseverance is the essential virtue of the believer. It is not the beginning but the end which is rewarded." – St. Gregory the Great

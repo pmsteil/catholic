@@ -8,8 +8,15 @@ Building on the critique of relativism and liberalism's focus on autonomy (Ch 7)
 
 ## I. Opening
 
-*   **Key Scripture Verse:** Philippians 2:3-4 - "Do nothing from selfishness or conceit, but in humility count others better than yourselves. Let each of you look not only to his own interests, but also to the interests of others."
-*   **CCC Paragraph:** CCC 1929 - "Social justice can be obtained only in respecting the transcendent dignity of man... Society must provide conditions that allow associations and individuals to obtain what is their due, according to their nature and their vocation. Linked to the common good, the principle of subsidiarity is opposed to all forms of collectivism. It sets limits for state intervention. It aims at harmonizing the relationships between individuals and societies." (Highlights the balance between individual dignity and societal connection/common good).
+| Key Scripture Verse |
+|---|
+| "Do nothing from selfishness or conceit, but in humility count others better than yourselves. Let each of you look not only to his own interests, but also to the interests of others." |
+| *Philippians 2:3-4* |
+
+| Key CCC Paragraph |
+|---|
+| "Social justice can be obtained only in respecting the transcendent dignity of man... Society must provide conditions that allow associations and individuals to obtain what is their due, according to their nature and their vocation. Linked to the common good, the principle of subsidiarity is opposed to all forms of collectivism. It sets limits for state intervention. It aims at harmonizing the relationships between individuals and societies." |
+| *CCC 1929* |
 
 ## II. Body: Developing the Theme
 
@@ -51,3 +58,9 @@ Building on the critique of relativism and liberalism's focus on autonomy (Ch 7)
     *   CCC 1939-1942 (Solidarity)
     *   CCC 2207-2213 (The Family and Society)
 *   **Prayer Practice:** Pray the Litany of the Saints. Intention: To connect with the great **communion** of saints who exemplified **sacrificial** love and service, asking for their intercession to overcome selfishness and to live more fully for God and others within the **binding covenant** of the Church.
+
+## Relevant Quotes (Saints, Theologians, Popes)
+
+*   **St. John Paul II:** "Solidarity is not a feeling of vague compassion or shallow distress at the misfortunes of so many people, both near and far. On the contrary, it is a firm and persevering determination to commit oneself to the common good; that is to say to the good of all and of each individual, because we are all really responsible for all." (*Sollicitudo Rei Socialis*, 38)
+*   **St. Teresa of Calcutta:** "We think sometimes that poverty is only being hungry, naked and homeless. The poverty of being unwanted, unloved and uncared for is the greatest poverty. We must start in our own homes to remedy this kind of poverty."
+*   **Pope Benedict XVI:** "The human being is made for gift, which expresses and makes present his transcendent dimension." (*Caritas in Veritate*, 34)

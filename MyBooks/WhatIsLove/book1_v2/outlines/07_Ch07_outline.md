@@ -8,8 +8,14 @@ Following the critiques of group-identity ideologies (Ch 5) and emotion-based lo
 
 ## I. Opening
 
-*   **Key Scripture Verse:** John 14:6 - "Jesus said to him, 'I am the way, and the truth, and the life; no one comes to the Father, but by me.'" (Asserts objective, exclusive truth in Christ).
-*   **CCC Paragraph:** CCC 1733 - "The more one does what is good, the freer one becomes. There is no true freedom except in the service of what is good and just. The choice to disobey and do evil is an abuse of freedom and leads to 'the slavery of sin.'"
+*   **Key Scripture Verse:**
+    | Reference | Text                                                                                                | Note                                                    |
+    | :-------- | :-------------------------------------------------------------------------------------------------- | :------------------------------------------------------ |
+    | John 14:6 | "Jesus said to him, 'I am the way, and the truth, and the life; no one comes to the Father, but by me.'" | Asserts objective, exclusive truth in Christ.           |
+*   **Key CCC Paragraph:**
+    | Reference | Text                                                                                                                                                                                          |
+    | :-------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+    | CCC 1733  | "The more one does what is good, the freer one becomes. There is no true freedom except in the service of what is good and just. The choice to disobey and do evil is an abuse of freedom and leads to 'the slavery of sin.'" |
 
 ## II. Body: Developing the Theme
 
@@ -52,3 +58,9 @@ Following the critiques of group-identity ideologies (Ch 5) and emotion-based lo
     *   CCC 1950-1960 (The Moral Law)
     *   CCC 2464-2492 (The Eighth Commandment - You shall not bear false witness, living in the truth)
 *   **Prayer Practice:** Pray the Act of Faith. Intention: To reaffirm belief in God and all the **sacred truths** His Catholic Church teaches, asking for the grace to resist relativistic doubts and to live freely and joyfully according to His **life-giving** plan.
+
+## Relevant Quotes (Saints, Theologians, Popes)
+
+*   **Pope Benedict XVI (as Cardinal Ratzinger, Homily, April 18, 2005):** "We are building a dictatorship of relativism that does not recognize anything as definitive and whose ultimate goal consists solely of one's own ego and desires."
+*   **Pope Benedict XVI (as Cardinal Ratzinger, Homily, April 18, 2005):** "Having a clear faith, based on the Creed of the Church, is often labeled today as a fundamentalism. Whereas relativism, which is letting oneself be tossed and 'swept along by every wind of teaching', looks like the only attitude acceptable to today's standards."
+*   **St. John Paul II (Veritatis Splendor, 101):** "Relativism, by indiscriminately giving value to practically everything, has made 'experience' all-important. But experiences, detached from any consideration of good or evil, can prove ambiguous and even destructive for the individual and for society."

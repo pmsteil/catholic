@@ -8,8 +8,15 @@ Continuing the exploration of what love requires, this chapter focuses intensely
 
 ## I. Opening
 
-*   **Key Scripture Verse:** John 15:13 - "Greater love has no man than this, that a man lay down his life for his friends."
-*   **CCC Paragraph:** CCC 609 - "By embracing in his human heart the Father's love for men, Jesus 'loved them to the end,' for 'greater love has no man than this, that a man lay down his life for his friends.' In suffering and death his humanity became the free and perfect instrument of his divine love which desires the salvation of men."
+| Key Scripture Verse                                                               |
+| :-------------------------------------------------------------------------------- |
+| "Greater love has no man than this, that a man lay down his life for his friends." |
+Reference: John 15:13
+
+| Key CCC Paragraph                                                                                                                                                                                                                                                        |
+| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| "By embracing in his human heart the Father's love for men, Jesus 'loved them to the end,' for 'greater love has no man than this, that a man lay down his life for his friends.' In suffering and death his humanity became the free and perfect instrument of his divine love which desires the salvation of men." |
+Reference: CCC 609
 
 ## II. Body: Developing the Theme
 
@@ -57,3 +64,9 @@ Continuing the exploration of what love requires, this chapter focuses intensely
     *   CCC 2099-2100 (Sacrifice as part of the virtue of religion)
     *   CCC 901 (Laity participating in Christ's priestly office through spiritual sacrifices)
 *   **Prayer Practice:** Pray the Stations of the Cross or meditate deeply before a Crucifix. Intention: To contemplate the depth of Christ's **sacred, sacrificial** love, to unite personal sufferings and sacrifices with His, and to ask for the grace to embrace the cross in daily life as an act of love for God and neighbor, strengthening the **sacred covenant**.
+
+## Relevant Quotes (Saints, Theologians, Popes)
+
+*   "Apart from the cross there is no other ladder by which we may get to heaven." - St. Rose of Lima
+*   "Love to be real, it must cost—it must hurt—it must empty us of self." - St. Teresa of Calcutta
+*   "The Cross had asked the questions; the Resurrection had answered them...The Cross had asked: 'Why does God permit evil and sin to nail Justice to a tree?' The Resurrection answered: 'That sin, having done its worst, might exhaust itself and this be overcome by Love that is stronger than death.'" - Archbishop Fulton J. Sheen

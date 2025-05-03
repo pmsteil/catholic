@@ -8,8 +8,15 @@ Continuing the exploration of the Fruits of Love, this chapter focuses on Peace.
 
 ## I. Opening
 
-*   **Key Scripture Verse:** John 14:27 - "Peace I leave with you; my peace I give to you; not as the world gives do I give to you. Let not your hearts be troubled, neither let them be afraid."
-*   **CCC Paragraph:** CCC 2304 - "Respect for and development of human life require peace. Peace is not merely the absence of war; nor can it be reduced solely to the maintenance of a balance of power between enemies; nor does it arise out of despotic dominion. Peace is 'the tranquility of order' (St. Augustine, De civ. Dei, 19, 13, 1). Peace is the work of justice and the effect of charity."
+*   **Key Scripture Verse:**
+    | Verse        | Text                                                                                                     |
+    | :----------- | :------------------------------------------------------------------------------------------------------- |
+    | John 14:27   | "Peace I leave with you; my peace I give to you; not as the world gives do I give to you. Let not your hearts be troubled, neither let them be afraid." |
+
+*   **Key CCC Paragraph:**
+    | Paragraph | Text                                                                                                                                                                                                                                                                                       |
+    | :-------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+    | CCC 2304  | "Respect for and development of human life require peace. Peace is not merely the absence of war; nor can it be reduced solely to the maintenance of a balance of power between enemies; nor does it arise out of despotic dominion. Peace is 'the tranquility of order' (St. Augustine, *De civ. Dei*, 19, 13, 1). Peace is the work of justice and the effect of charity." |
 
 ## II. Body: Developing the Theme
 
@@ -59,3 +66,9 @@ Continuing the exploration of the Fruits of Love, this chapter focuses on Peace.
     *   CCC 1832 (Peace as fruit of the Spirit)
     *   CCC 736 (Peace as fruit of the Spirit)
 *   **Prayer Practice:** Pray the Prayer of St. Francis ("Lord, make me an instrument of your peace..."). Focus on the petitions directly related to peace and harmony ("Where there is hatred, let me sow love... Where there is discord, union..."). Intention: To become an active instrument of Christ's peace, asking for the grace to cultivate inner tranquility through **sacred covenant** with God and to work for **true justice**, **mercy**, and reconciliation in the world, fostering **life-giving communion**. (Repeated prayer, different intention focus).
+
+## Relevant Quotes (Saints, Theologians, Popes)
+
+*   "Thou hast made us for thyself, O Lord, and our heart is restless until it finds its rest in thee." - St. Augustine, *Confessions* (Book 1, Chapter 1)
+*   "Peace is the work of justice indirectly, in so far as justice removes the obstacles to peace; but it is the work of charity directly, since charity, according to its very nature, causes peace." - St. Thomas Aquinas, *Summa Theologiae*, II-II, Q. 29, Art. 3
+*   "Peace is not merely the absence of war... It is built on the foundation of justice and animated by charity." - Pope St. John XXIII, *Pacem in Terris*, 167

@@ -8,8 +8,15 @@ Having established the reality of suffering and the deep human cries for love, j
 
 ## I. Opening
 
-*   **Key Scripture Verse:** Colossians 2:8 - "See to it that no one makes a prey of you by philosophy and empty deceit, according to human tradition, according to the elemental spirits of the universe, and not according to Christ."
-*   **CCC Paragraph:** CCC 675 - "Before Christ's second coming the Church must pass through a final trial that will shake the faith of many believers. The persecution that accompanies her pilgrimage on earth will unveil the 'mystery of iniquity' in the form of a religious deception offering men an apparent solution to their problems at the price of apostasy from the truth." (Context: While referring to the ultimate Antichrist, the principle applies to ideologies that offer false salvation).
+| Key Scripture Verse |
+|---|
+| "See to it that no one makes a prey of you by philosophy and empty deceit, according to human tradition, according to the elemental spirits of the universe, and not according to Christ." |
+| *Colossians 2:8* |
+
+| Key CCC Paragraph |
+|---|
+| "Before Christ's second coming the Church must pass through a final trial that will shake the faith of many believers. The persecution that accompanies her pilgrimage on earth will unveil the 'mystery of iniquity' in the form of a religious deception offering men an apparent solution to their problems at the price of apostasy from the truth." |
+| *CCC 675* (Context: While referring to the ultimate Antichrist, the principle applies to ideologies that offer false salvation) |
 
 ## II. Body: Developing the Theme
 
@@ -50,3 +57,9 @@ Having established the reality of suffering and the deep human cries for love, j
     *   CCC 2426-2436 (Economic Activity and Social Justice - principles applicable more broadly)
     *   CCC 813-822 (The Church as One, Holy, Catholic, Apostolic - unity transcending division)
 *   **Prayer Practice:** Pray the Litany of Humility. Intention: To seek freedom from the pride that fuels divisive ideologies and group identities, asking for the grace to see all people as beloved children of God, fostering **true communion** and recognizing our shared need for God's **mercy** and **truth**.
+
+## Relevant Quotes (Saints, Theologians, Popes)
+
+*   "Without truth, charity degenerates into sentimentality. Love becomes an empty shell, to be filled in an arbitrary way. In a culture without truth, this is the fatal risk facing love." - Pope Benedict XVI, *Caritas in Veritate*, 3
+*   "Solidarity helps us to see the 'other'—whether a person, people or nation—not just as some kind of instrument... but as our 'neighbor,' a 'helper' (cf. Gen 2:18-20), to be made a sharer, on a par with ourselves, in the banquet of life to which all are equally invited by God." - Pope St. John Paul II, *Sollicitudo Rei Socialis*, 39
+*   "Justice is both the aim and the intrinsic criterion of all politics... its origin and its goal are found in justice, which by its very nature has to do with ethics... [Reason] must undergo constant purification, since it can never be completely free of the danger of a certain ethical blindness caused by the dazzling effect of power and special interests." - Pope Benedict XVI, *Deus Caritas Est*, 28

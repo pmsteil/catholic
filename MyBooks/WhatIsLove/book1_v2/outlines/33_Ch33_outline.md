@@ -8,8 +8,16 @@ Continuing the exploration of Moral Virtues, this chapter focuses on Patience. C
 
 ## I. Opening
 
-*   **Key Scripture Verse:** James 1:3-4 - "...knowing that the testing of your faith produces steadfastness [patience/endurance]. And let steadfastness have its full effect, that you may be perfect and complete, lacking in nothing."
-*   **CCC Paragraph:** CCC 2447 refers to "bearing wrongs patiently" as a spiritual work of mercy, linking patience directly to charitable action. (While not a primary definition, it highlights a key application). *Alternatively, CCC 1832 mentions patience as a fruit of the Spirit, which perfects virtue.*
+*   **Key Scripture Verse:**
+    | Verse        | Text                                                                                                                            |
+    | :----------- | :------------------------------------------------------------------------------------------------------------------------------ |
+    | **James 1:3-4** | "...knowing that the testing of your faith produces steadfastness [patience/endurance]. And let steadfastness have its full effect, that you may be perfect and complete, lacking in nothing." |
+
+*   **Key CCC Paragraph:**
+    | Paragraph | Text                                                                                                                                                                                          |
+    | :-------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+    | **CCC 2447** | Refers to "bearing wrongs patiently" as a spiritual work of mercy, linking patience directly to charitable action.                                                                            |
+    | **CCC 1832** | *Alternatively:* Mentions patience as a fruit of the Spirit, which perfects virtue.                                                                                                             |
 
 ## II. Body: Developing the Theme
 
@@ -58,3 +66,9 @@ Continuing the exploration of Moral Virtues, this chapter focuses on Patience. C
     *   CCC 1832 (Fruits of the Spirit as perfections)
     *   CCC 2635 (Perseverance in prayer requires patience)
 *   **Prayer Practice:** Pray the Litany of Patience or meditate on the Third Sorrowful Mystery (Crowning with Thorns) or Fourth Sorrowful Mystery (Carrying of the Cross). Intention: To unite personal struggles with impatience to Christ's patient endurance of suffering, asking for the grace to bear trials and the faults of others with **sacred endurance** and **sacrificial** love.
+
+## Relevant Quotes (Saints, Theologians, Popes)
+
+*   "The greater then is in saints the charity (or love) of God, the more do they endure all things for Him whom they love..." - **St. Augustine**, *On Patience*, Ch. 14
+*   "Have patience with all things, but chiefly have patience with yourself. Do not lose courage in considering your own imperfections, but instantly set about remedying them—every day begin the task anew." - **St. Francis de Sales**
+*   "I know now that true charity consists in bearing all our neighbours' defects--not being surprised at their weakness, but edified at their smallest virtues.” - **St. Thérèse of Lisieux**, *Story of a Soul*
