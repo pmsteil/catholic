@@ -10,13 +10,9 @@ Continuing the exploration of the Practices of Love, this chapter focuses on Eva
 
 ## I. Opening
 
-| Key Scripture Verse | Reference |
-| --- | --- |
-| "Go therefore and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, teaching them..." | Matthew 28:19-20a |
+**Key Scripture Verse**: "Go therefore and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, teaching them..." -- _Matthew 28:19-20a_
 
-| Key CCC Paragraph | Reference |
-| --- | --- |
-| "Having been divinely sent to the nations that she might be 'the universal sacrament of salvation,' the Church... strives to preach the Gospel to all men." | CCC 849 |
+**Key CCC Reference(s)**: 849 (Church, sent as 'universal sacrament of salvation', strives to preach Gospel to all)
 
 ## II. Body: Developing the Theme
 
@@ -26,6 +22,9 @@ Continuing the exploration of the Practices of Love, this chapter focuses on Eva
 2.  **Defining Evangelization: Sharing the Good News:**
     *   Define Evangelization as proclaiming Christ and His Gospel by word and deed, inviting others to faith and conversion (CCC 849, 905). It's sharing the **sacred truth** that saves.
     *   It's not proselytizing (coercion) but proposing the **truth** in love.
+    *   > "Being Christian is not the result of an ethical choice or a lofty idea, but the encounter with an event, a person, which gives life a new horizon and a decisive direction." -- Pope Benedict XVI, _Deus Caritas Est_, 1
+    *   > "The joy of the gospel fills the hearts and lives of all who encounter Jesus... I wish to encourage the Christian faithful to embark upon a new chapter of evangelization marked by this joy..." -- Pope Francis, _Evangelii Gaudium_, 1
+    *   > "The mission of Christ the Redeemer, which is entrusted to the Church, is still very far from completion... We cannot be content when we consider the millions of our brothers and sisters, who, like us, have been redeemed by the blood of Christ but who live in ignorance of the love of God." -- St. John Paul II, _Redemptoris Missio_, 1
 3.  **The Universal Mission:**
     *   Emphasize that the Great Commission (Mt 28:19-20) is given to the _whole_ Church, including the laity (CCC 900, 905). Every Christian participates in this **sacred mission** according to their state in life and opportunities.
 4.  **Why Evangelize? Motivations of Love:**
@@ -68,10 +67,3 @@ Continuing the exploration of the Practices of Love, this chapter focuses on Eva
     *   _Redemptoris Missio_ (Encyclical by St. John Paul II on the Permanent Validity of the Church's Missionary Mandate)
 *   **Prayer Practice:** Pray the Rosary, offering the Luminous Mysteries for the intention of the New Evangelization. Meditate on how Christ revealed Himself and called His disciples. Intention: To ask for the grace and **sacred courage** (Fortitude) to fulfill the **sacred mission** of evangelization, seeking opportunities to share the **sacred truth** and invite others into the **sacred covenant** and **life-giving communion** of the Church.
 
-## Relevant Quotes (Saints, Theologians, Popes)
-
-"Being Christian is not the result of an ethical choice or a lofty idea, but the encounter with an event, a person, which gives life a new horizon and a decisive direction." - Pope Benedict XVI, _Deus Caritas Est_, 1
-
-"The joy of the gospel fills the hearts and lives of all who encounter Jesus... I wish to encourage the Christian faithful to embark upon a new chapter of evangelization marked by this joy..." - Pope Francis, _Evangelii Gaudium_, 1
-
-"The mission of Christ the Redeemer, which is entrusted to the Church, is still very far from completion... We cannot be content when we consider the millions of our brothers and sisters, who, like us, have been redeemed by the blood of Christ but who live in ignorance of the love of God." - St. John Paul II, _Redemptoris Missio_, 1

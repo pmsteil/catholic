@@ -10,13 +10,9 @@ Continuing the exploration of the Practices of Love, this chapter focuses on Hol
 
 ## I. Opening
 
-| Verse | Reference |
-| --- | --- |
-| "...but as he who called you is holy, be holy yourselves in all your conduct; since it is written, 'You shall be holy, for I am holy.'" | 1 Peter 1:15-16 |
+**Key Scripture Verse**: "...but as he who called you is holy, be holy yourselves in all your conduct; since it is written, 'You shall be holy, for I am holy.'" -- _1 Peter 1:15-16_
 
-| Paragraph | Reference |
-| --- | --- |
-| "'All Christians in any state or walk of life are called to the fullness of Christian life and to the perfection of charity.' All are called to holiness: 'Be perfect, as your heavenly Father is perfect.'" | CCC 2013 |
+**Key CCC Reference(s)**: 2013 (All Christians called to fullness of Christian life and perfection of charity/holiness)
 
 ## II. Body: Developing the Theme
 
@@ -26,6 +22,9 @@ Continuing the exploration of the Practices of Love, this chapter focuses on Hol
 2.  **Defining Holiness: Perfection of Charity:**
     *   Define Holiness primarily as the perfection of Charity (love of God and neighbor - Ch 18). It means being set apart for God (**sacred**), conforming our lives fully to His will (Obedience - Ch 38).
     *   It involves purification from sin and growth in virtue (Ch 30ff, Ch 49).
+    *   > "Thus it is evident to everyone, that all the faithful of Christ of whatever rank or status, are called to the fullness of the Christian life and to the perfection of charity..." -- Lumen Gentium, 40 (Vatican II)
+    *   > "You cannot be half a saint; you must be a whole saint or no saint at all." -- St. Therese of Lisieux
+    *   > "Do not be afraid of holiness. It will take away none of your energy, vitality or joy. On the contrary, you will become what the Father had in mind when he created you, and you will be faithful to your deepest self." -- Pope Francis, *Gaudete et Exsultate*, 32
 3.  **Rooted in Baptism:**
     *   Our call to holiness begins at Baptism, when we receive sanctifying grace (Ch 15) and become temples of the Holy Spirit (Ch 17) and members of Christ's Body (Ch 50).
 4.  **Achieved Through Grace and Practice:**
@@ -63,8 +62,3 @@ Continuing the exploration of the Practices of Love, this chapter focuses on Hol
     *   Lumen Gentium, Chapter V (Vatican II document on the Universal Call to Holiness in the Church)
 *   **Prayer Practice:** Pray the Litany of Humility. Intention: To combat the pride that resists the call to holiness or despairs of achieving it, asking for the grace to embrace our **sacred calling** with humility and trust, relying entirely on God's **mercy** and power for growth towards perfect **life-giving communion**. (Repeated prayer, different intention focus).
 
-## Relevant Quotes (Saints, Theologians, Popes)
-
-*   "Thus it is evident to everyone, that all the faithful of Christ of whatever rank or status, are called to the fullness of the Christian life and to the perfection of charity..." - **Lumen Gentium, 40 (Vatican II)**
-*   "You cannot be half a saint; you must be a whole saint or no saint at all." - **St. Therese of Lisieux**
-*   "Do not be afraid of holiness. It will take away none of your energy, vitality or joy. On the contrary, you will become what the Father had in mind when he created you, and you will be faithful to your deepest self." - **Pope Francis,** _**Gaudete et Exsultate**_**, 32**

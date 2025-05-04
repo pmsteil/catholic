@@ -10,13 +10,9 @@ Building on the discussions of suffering (Ch 1) and the longing for love/connect
 
 ## I. Opening
 
-| Verse Text | Reference |
-| --- | --- |
-| "He has showed you, O man, what is good; and what does the LORD require of you but to do justice, and to love kindness \[mercy\], and to walk humbly with your God?" | _Micah 6:8_ |
+**Key Scripture Verse**: "He has showed you, O man, what is good; and what does the LORD require of you but to do justice, and to love kindness [mercy], and to walk humbly with your God?" -- _Micah 6:8_
 
-| Paragraph Text | Reference |
-| --- | --- |
-| "Justice is the moral virtue that consists in the constant and firm will to give their due to God and neighbor. Justice toward God is called the 'virtue of religion.' Justice toward men disposes one to respect the rights of each and to establish in human relationships the harmony that promotes equity with regard to persons and to the common good." | _CCC 1807_ |
+**Key CCC Reference(s)**: 1807
 
 ## II. Body: Developing the Theme
 
@@ -29,6 +25,8 @@ Building on the discussions of suffering (Ch 1) and the longing for love/connect
 3.  **Justice as Right Relationship (Giving What is Due):**
     *   Introduce the core concept of justice: giving God and neighbor their due (CCC 1807). It's about right relationships, order, and harmony.
     *   This aligns with the **binding** nature of **sacred covenants** and upholding **sacred honor** (elements of the core love definition).
+    *   > Justice is about the establishment and promotion of right relationships. -- Catholic Social Teaching Principle (Source: Casa Alma)
+    *   > Charity is no substitute for justice withheld. -- St. Augustine
 4.  **Distortions of Justice in a Fallen World:**
     *   How sin twists the cry for justice:
         *   Seeking revenge instead of restoration.
@@ -61,7 +59,3 @@ Building on the discussions of suffering (Ch 1) and the longing for love/connect
     *   CCC 2401-2463 (The Seventh Commandment - You shall not steal, covers economic justice, respect for persons and their goods)
 *   **Prayer Practice:** Pray the Act of Contrition, focusing on the ways personal sin has violated justice towards God and neighbor. Intention: To grow in the virtue of religion (justice towards God) and the commitment to establishing **true justice** and harmony in all relationships, reflecting God's **sacred honor**.
 
-## Relevant Quotes (Saints, Theologians, Popes)
-
-*   "Charity is no substitute for justice withheld." - St. Augustine
-*   "Justice is about the establishment and promotion of right relationships." - Catholic Social Teaching Principle (Source: Casa Alma)

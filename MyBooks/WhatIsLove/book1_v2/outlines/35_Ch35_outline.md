@@ -8,15 +8,9 @@ Continuing the exploration of Moral Virtues, this chapter focuses on Diligence. 
 
 ## I. Opening
 
-| Key Scripture Verse |
-| :------------------ |
-| "Whatever your task, work heartily, as serving the Lord and not men," |
-| *Colossians 3:23*   |
+**Key Scripture Verse**: "Whatever your task, work heartily, as serving the Lord and not men," -- *Colossians 3:23*
 
-| Key CCC Paragraph |
-| :---------------- |
-| "Human work proceeds directly from persons created in the image of God and called to prolong the work of creation by subduing the earth, both with and for one another. Hence work is a duty: 'If any one will not work, let him not eat.' Work honors the Creator's gifts and the talents received from him..." |
-| *CCC 2427*        |
+**Key CCC Reference(s)**: 2427 (Work proceeds from Imago Dei, prolongs creation, is a duty, honors Creator's gifts)
 
 ## II. Body: Developing the Theme
 
@@ -34,6 +28,9 @@ Continuing the exploration of Moral Virtues, this chapter focuses on Diligence. 
         *   **Spiritual Life:** Diligence in prayer, sacraments, spiritual reading, formation.
         *   **Relationships:** Diligent effort in maintaining **covenant** bonds (marriage, family, friendships), fulfilling promises, being present.
         *   **Acts of Charity:** Diligently seeking opportunities to serve and performing works of **mercy** (Ch 22).
+    *   > "Do everything for Love. Thus there will be no little things: everything will be big. Perseverance in little things for Love is heroism." -- St. Josemaría Escrivá (The Way, 813)
+    *   > "Have patience with all things, but chiefly have patience with yourself. Do not lose courage in considering your own imperfections, but instantly set about remedying them—every day begin the task anew." -- St. Francis de Sales (Connects diligence/perseverance with patience)
+    *   > "Through work man must earn his daily bread and contribute to the continual advance of science and technology and, above all, to elevating unceasingly the cultural and moral level of the society within which he lives in community with those who belong to the same family." -- Pope St. John Paul II (Laborem Exercens, 1)
 4.  **Motivated by Love (Charity):**
     *   Emphasize that Christian diligence is motivated by love for God and neighbor, not ambition, fear, or mere duty for duty's sake (Col 3:23). We work "as serving the Lord." This makes the effort a **sacred gift**.
 5.  **Opposed to Sloth (Acedia):**
@@ -69,8 +66,3 @@ Continuing the exploration of Moral Virtues, this chapter focuses on Diligence. 
     *   CCC 2733 (Acedia as temptation in prayer)
 *   **Prayer Practice:** Pray the Morning Offering, consciously dedicating all the day's work, joys, and sufferings to God. Intention: To cultivate Diligence by offering all efforts, even mundane tasks, as a **sacred gift** and act of love, asking for the grace to persevere with **sacred commitment** and overcome temptations to sloth.
 
-## Relevant Quotes (Saints, Theologians, Popes)
-
-*   "Do everything for Love. Thus there will be no little things: everything will be big. Perseverance in little things for Love is heroism." - *St. Josemaría Escrivá (The Way, 813)*
-*   "Have patience with all things, but chiefly have patience with yourself. Do not lose courage in considering your own imperfections, but instantly set about remedying them—every day begin the task anew." - *St. Francis de Sales*
-*   "Through work man must earn his daily bread and contribute to the continual advance of science and technology and, above all, to elevating unceasingly the cultural and moral level of the society within which he lives in community with those who belong to the same family." - *Pope St. John Paul II (Laborem Exercens, 1)*

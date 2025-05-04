@@ -8,15 +8,9 @@ This chapter delves deeper into the first theological virtue introduced in Chapt
 
 ## I. Opening
 
-| Key Scripture Verse |
-| :------------------ |
-| "Now faith is the assurance of things hoped for, the conviction of things not seen." |
-| *Hebrews 11:1*      |
+**Key Scripture Verse**: "Now faith is the assurance of things hoped for, the conviction of things not seen." -- *Hebrews 11:1*
 
-| Key CCC Paragraph |
-| :---------------- |
-| "By faith, man completely submits his intellect and his will to God. With his whole being man gives his assent to God the revealer. Sacred Scripture calls this human response to God, the author of revelation, 'the obedience of faith.'" |
-| *CCC 143*         |
+**Key CCC Reference(s)**: 143 (Faith: Complete submission of intellect and will to God; the 'obedience of faith')
 
 ## II. Body: Developing the Theme
 
@@ -26,6 +20,9 @@ This chapter delves deeper into the first theological virtue introduced in Chapt
 2.  **Beyond Belief: Faith as Personal Adherence:**
     *   Expand on the definition from Ch 18: Faith is more than intellectual assent to doctrines (**sacred truth**). It is a personal adherence of the whole person to God (CCC 150).
     *   It involves trust, commitment, and the "obedience of faith" (Rom 1:5, CCC 143) – submitting intellect and will.
+    *   > "To be assured of our salvation is no arrogant stoutness. It is faith..." -- St. Augustine
+    *   > "We have come to believe in God’s love: in these words the Christian can express the fundamental decision of his life." -- Pope Benedict XVI, *Deus Caritas Est*, 1
+    *   > "If you follow the will of God, you know that in spite of all the terrible things that happen to you, you will never lose a final refuge. You know that the foundation of the world is love..." -- Pope Benedict XVI
 3.  **Faith as Entry into Covenant:**
     *   Frame Faith explicitly as our "I do" to God's proposal of a **sacred covenant**. God reveals Himself and His loving plan; Faith is our acceptance and entry into that **binding** relationship.
     *   Use Abraham as the prime example: his faith was an act of trust and obedience that initiated the covenant (Genesis 15:6, Romans 4, CCC 145-146). Mary's fiat is another key example (CCC 148).
@@ -64,8 +61,3 @@ This chapter delves deeper into the first theological virtue introduced in Chapt
     *   CCC 2087-2089 (Faith as part of the First Commandment)
 *   **Prayer Practice:** Pray the Creed slowly, pausing after key articles to make a personal act of faith and commitment related to that **sacred truth**. Intention: To move beyond rote recitation to a deeper, personal adherence and entrustment, strengthening the **sacred covenant** established by faith. (Similar prayer to Ch 11, different focus).
 
-## Relevant Quotes (Saints, Theologians, Popes)
-
-*   "To be assured of our salvation is no arrogant stoutness. It is faith..." - St. Augustine
-*   "We have come to believe in God’s love: in these words the Christian can express the fundamental decision of his life." - Pope Benedict XVI, *Deus Caritas Est*, 1
-*   "If you follow the will of God, you know that in spite of all the terrible things that happen to you, you will never lose a final refuge. You know that the foundation of the world is love..." - Pope Benedict XVI

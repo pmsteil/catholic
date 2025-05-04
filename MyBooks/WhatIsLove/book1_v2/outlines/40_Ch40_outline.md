@@ -8,16 +8,9 @@ Continuing the exploration of Moral Virtues, this chapter focuses on Truthfulnes
 
 ## I. Opening
 
+**Key Scripture Verse**: "Therefore, putting away falsehood, let every one speak the truth with his neighbor, for we are members one of another." -- _Ephesians 4:25_
 
-    | Reference     | Text                                                                                             |
-    | :------------ | :----------------------------------------------------------------------------------------------- |
-    | Ephesians 4:25 | "Therefore, putting away falsehood, let every one speak the truth with his neighbor, for we are members one of another." |
-
-
-
-    | Reference | Text                                                                                                                                                                                                                                                           |
-    | :-------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-    | CCC 2464  | "The eighth commandment forbids misrepresenting the truth in our relations with others. This moral prescription flows from the vocation of the holy people to bear witness to their God who is the truth and wills the truth. Offenses against the truth express by word or deed a refusal to commit oneself to moral uprightness: they are fundamental infidelities to God and, in this sense, they undermine the foundations of the covenant." |
+**Key CCC Reference(s)**: 2464 (8th Commandment forbids misrepresenting truth; flows from vocation to witness to God who is truth; offenses undermine covenant)
 
 ## II. Body: Developing the Theme
 
@@ -30,6 +23,9 @@ Continuing the exploration of Moral Virtues, this chapter focuses on Truthfulnes
         *   **Sincerity:** Being genuine, meaning what we say.
         *   **Honesty:** Not intentionally deceiving others.
         *   **Integrity:** Consistency between beliefs, words, and actions.
+    *   > "You will know the truth, and the truth will set you free." -- Jesus (John 8:32)
+    *   > "If you struggle with honesty, know that it is honesty that produces integrity." -- Catholic Daily Reflections
+    *   > "He who speaks rightly should recognize that he receives the words from God. For the truth belongs not to him who speaks, but to God who is energizing him." -- Attributed to St. Gregory the Great
 3.  **Why Truthfulness is Required by Love:**
     *   **Respect for Neighbor:** Lying harms others by leading them into error, damaging reputation (calumny, detraction), or destroying trust (CCC 2483-2487). Truthfulness upholds their dignity and right to know the truth (within limits of discretion/charity). It's an act of **true justice**.
     *   **Foundation of Communion:** Trust is essential for **life-giving communion**. Deception shatters trust and isolates individuals. Truthfulness builds the foundation for authentic relationship (**sacred covenant**).
@@ -66,9 +62,3 @@ Continuing the exploration of Moral Virtues, this chapter focuses on Truthfulnes
 *   **Further Study - Catechism:**
     *   CCC 2464-2513 (The Eighth Commandment: You shall not bear false witness against your neighbor - covers living in truth, offenses against truth, respect for truth)
 *   **Prayer Practice:** Pray the Act of Contrition, specifically asking forgiveness for sins against the Eighth Commandment (lying, gossip, rash judgment, etc.). Intention: To grow in the virtue of Truthfulness, asking for the grace to be honest in all dealings, to use speech to build up rather than tear down, and to live with integrity, reflecting the **sacred truth** of God.
-
-## Relevant Quotes (Saints, Theologians, Popes)
-
-*   "You will know the truth, and the truth will set you free." - Jesus (John 8:32)
-*   "If you struggle with honesty, know that it is honesty that produces integrity." - Catholic Daily Reflections
-*   "He who speaks rightly should recognize that he receives the words from God. For the truth belongs not to him who speaks, but to God who is energizing him." - Attributed to St. Gregory the Great (via The Catholic Reader)

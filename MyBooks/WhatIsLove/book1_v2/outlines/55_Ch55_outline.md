@@ -10,13 +10,9 @@ Continuing the exploration of the Practices of Love, this chapter focuses on the
 
 ## I. Opening
 
-| Verse | Text |
-| --- | --- |
-| Hebrews 12:1 | "Therefore, since we are surrounded by so great a cloud of witnesses, let us also lay aside every weight, and sin which clings so closely, and let us run with perseverance the race that is set before us," |
+**Key Scripture Verse**: "Therefore, since we are surrounded by so great a cloud of witnesses, let us also lay aside every weight, and sin which clings so closely, and let us run with perseverance the race that is set before us," -- _Hebrews 12:1_
 
-| Paragraph | Text |
-| --- | --- |
-| CCC 956 | "The intercession of the saints. 'Being more closely united to Christ, those who dwell in heaven fix the whole Church more firmly in holiness... They do not cease to intercede with the Father for us, as they proffer the merits which they acquired on earth through the one mediator between God and men, Christ Jesus... So by their fraternal concern is our weakness greatly helped.'" |
+**Key CCC Reference(s)**: 956 (Saints in heaven intercede for us, proffering merits acquired through Christ; their concern helps our weakness)
 
 ## II. Body: Developing the Theme
 
@@ -30,6 +26,9 @@ Continuing the exploration of the Practices of Love, this chapter focuses on the
     *   They are the "cloud of witnesses" (Heb 12:1) showing us it _is_ possible to live a life of heroic love and virtue, aided by grace (Ch 15).
     *   Their diverse lives demonstrate countless ways to embody **sacrificial**, **covenantal** love in various circumstances (martyrs, virgins, pastors, spouses, scholars, mystics, etc.). They make holiness concrete.
     *   Studying their lives provides inspiration, practical wisdom (Prudence - Ch 27), and encouragement (Hope - Ch 20).
+    *   > "The saints must be honored as friends of Christ and children and heirs of God. Let us carefully observe the manner of life of all the apostles, martyrs, ascetics, and just men who announced the coming of the Lord. And let us emulate their faith, charity, hope, zeal, life, patience under suffering, and perseverance unto death so that we may also share their crowns of glory.” -- St. John of Damascus
+    *   > "Just as in a physical body the operation of one member contributes to the good of the whole body, so it is in a spiritual body such as the Church. And since all the faithful are one body, the good of one member is communicated to another; everyone members, as the Apostle says, of one another [Eph 4:25]. For that reason, among the points of faith handed down by the Apostles, is that there is a community of goods in the Church, and this is expressed in the words Communion of Saints.” -- St. Thomas Aquinas
+    *   > "Let us turn to the example of the saints. They were people like us, flesh and bone, with failings and weaknesses, who managed to conquer and master themselves for the love of God. Let us consider their lives and, like bees who distill precious nectar from each flower, we shall learn from their struggles.” -- St. Josemaria Escriva
 4.  **Saints as Intercessors:**
     *   Explain the Catholic doctrine of the intercession of saints (CCC 956, 2683). United closely to Christ, they pray for us still on earth.
     *   Asking for their prayers is _not_ worship (due to God alone - **true justice** Ch 23), but asking our heavenly family members for help, just as we ask earthly friends. It strengthens **communion**.
@@ -61,9 +60,3 @@ Continuing the exploration of the Practices of Love, this chapter focuses on the
     *   CCC 828 (Saints as source and origin of renewal)
     *   CCC 2683-2684 (Intercession of the saints in prayer)
 *   **Prayer Practice:** Pray the Litany of the Saints. Intention: To consciously connect with the "great cloud of witnesses," asking for the intercession of the whole heavenly family to help us imitate their **sacred examples** of virtue, persevere in the **sacred covenant**, and attain **life-giving communion**.
-
-## Relevant Quotes (Saints, Theologians, Popes)
-
-*   "The saints must be honored as friends of Christ and children and heirs of God. Let us carefully observe the manner of life of all the apostles, martyrs, ascetics, and just men who announced the coming of the Lord. And let us emulate their faith, charity, hope, zeal, life, patience under suffering, and perseverance unto death so that we may also share their crowns of glory.” - St. John of Damascus
-*   "Just as in a physical body the operation of one member contributes to the good of the whole body, so it is in a spiritual body such as the Church. And since all the faithful are one body, the good of one member is communicated to another; everyone members, as the Apostle says, of one another \[Eph 4:25\]. For that reason, among the points of faith handed down by the Apostles, is that there is a community of goods in the Church, and this is expressed in the words Communion of Saints.” - St. Thomas Aquinas
-*   "Let us turn to the example of the saints. They were people like us, flesh and bone, with failings and weaknesses, who managed to conquer and master themselves for the love of God. Let us consider their lives and, like bees who distill precious nectar from each flower, we shall learn from their struggles.” - St. Josemaria Escriva

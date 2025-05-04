@@ -10,13 +10,9 @@ Continuing the exploration of the Practices of Love, this chapter focuses on the
 
 ## I. Opening
 
-| "Children, obey your parents in the Lord, for this is right... Fathers, do not provoke your children to anger, but bring them up in the discipline and instruction of the Lord." |
-| --- |
-| \-- _Ephesians 6:1-4_ |
+**Key Scripture Verse**: "Children, obey your parents in the Lord, for this is right... Fathers, do not provoke your children to anger, but bring them up in the discipline and instruction of the Lord." -- _Ephesians 6:1-4_
 
-| "The family is the original cell of social life. It is the natural society in which husband and wife are called to give themselves in love and in the gift of life. Authority, stability, and a life of relationships within the family constitute the foundations for freedom, security, and fraternity within society..." |
-| --- |
-| _CCC 2207_ |
+**Key CCC Reference(s)**: 2207 (Family is original cell of social life; natural society for self-giving in love/life; foundation for freedom/security/fraternity)
 
 ## II. Body: Developing the Theme
 
@@ -26,6 +22,9 @@ Continuing the exploration of the Practices of Love, this chapter focuses on the
 2.  **The Family as Domestic Church:**
     *   Explain the concept of the family as the "domestic church" (CCC 1656-1657, 2204). It's a community of faith, hope, and charity, reflecting the larger Church.
     *   Parents have the first responsibility for educating their children in the faith (CCC 2221-2226). It's a **sacred covenant** responsibility.
+    *   > "The family, like the Church, ought to be a place where the Gospel is transmitted and from which the Gospel radiates... In a family which is conscious of this mission, all the members evangelize and are evangelized." -- St. John Paul II, *Familiaris Consortio*, 52
+    *   > "Let us make our homes churches, for the home is a little church." -- St. John Chrysostom, *Homily on Ephesians*
+    *   > "In the family, we learn closeness, care, respect for others." -- Pope Francis, *General Audience, February 11, 2015*
 3.  **Love's Sacred School:**
     *   Frame the family as the primary school where virtues required for love are learned through daily practice:
         *   **Sacrifice (Ch 24):** Parents for children, spouses for each other, siblings sharing.
@@ -70,8 +69,3 @@ Continuing the exploration of the Practices of Love, this chapter focuses on the
     *   _Familiaris Consortio_ (Apostolic Exhortation by St. John Paul II on the Christian Family)
 *   **Prayer Practice:** Pray the Holy Rosary, offering each decade for the intentions of one's own family members or for families in general. Intention: To invoke the intercession of the Holy Family of Jesus, Mary, and Joseph, asking for the grace to build families that are true schools of **sacred**, **sacrificial**, **covenantal** love, fostering **life-giving communion**.
 
-## Relevant Quotes (Saints, Theologians, Popes)
-
-*   "The family, like the Church, ought to be a place where the Gospel is transmitted and from which the Gospel radiates... In a family which is conscious of this mission, all the members evangelize and are evangelized." - **St. John Paul II**, _Familiaris Consortio_, 52
-*   "Let us make our homes churches, for the home is a little church." - **St. John Chrysostom**, _Homily on Ephesians_
-*   "In the family, we learn closeness, care, respect for others." - **Pope Francis**, _General Audience, February 11, 2015_

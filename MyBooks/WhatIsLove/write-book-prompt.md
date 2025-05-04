@@ -13,48 +13,50 @@ Systematically generate the complete first draft of this book by expanding the p
 
 ## Writing Style and Guidelines
 
-1.  **Writing Style Reference:** Use the provided `book1-blogpost-for-catholics.md` as a reference for writing style, tone, and approach. Incorporate relevant content, examples, and anecdotes from this blog post where appropriate throughout the draft.
-2.  **Core Purpose:** To help everyday Catholic Christians deepen their understanding, digestion, and practice of authentic love (grounded in the unity of truth, justice, and mercy), enabling them to love their Lord more deeply and be a light in the darkness of society. The book should equip Catholics to become laser-focused in the practice of their faith, engage confidently with contemporary cultural challenges, and implicitly demonstrate how true faith works through love (countering "faith alone" narratives).
-3.  **Desired Tone:** Personal, direct, urgent, relatable, and passionately evangelistic/apologetic (similar to the `book1-blogpost-for-catholics.md`). Use "we" and "us" frequently to connect with the reader. Incorporate personal anecdotes (marked with placeholders like `[Author Anecdote: ...]`) to illustrate points. Maintain a sense of hope and confidence in the beauty and truth of the Catholic faith.
-4.  **Narrative Flow and Cohesion:** Maintain awareness of the overall book structure outlined in `book1_v2_outline.md` and the progress tracked below. Ensure smooth transitions between chapters, building upon previous concepts without unnecessary repetition. Each chapter should contribute to the book's progressive argument and narrative arc.
-5.  **Central Definition of Love (Integrate Throughout):**
+**Writing Style Reference:** Use the provided `book1-blogpost-for-catholics.md` as a reference for writing style, tone, and approach. Incorporate relevant content, examples, and anecdotes from this blog post where appropriate throughout the draft.
 
-    > **Perfect Love is the sacred, sacrificial gift of covenant which binds true justice and true mercy into life-giving communion.**
-    > _(Shorter form: Love is the unity of God's true justice and true mercy.)_
+**Core Purpose:** To help everyday Catholic Christians deepen their understanding, digestion, and practice of authentic love (grounded in the unity of truth, justice, and mercy), enabling them to love their Lord more deeply and be a light in the darkness of society. The book should equip Catholics to become laser-focused in the practice of their faith, engage confidently with contemporary cultural challenges, and implicitly demonstrate how true faith works through love (countering "faith alone" narratives).
 
-    *   **Breakdown:** Explicitly break down _each_ component (sacred, sacrificial, gift, covenant, binds, true justice, true mercy, life-giving, communion) in the chapter defining love (currently Ch 14).
-    *   **Application:** Consistently use this definition as a lens to analyze topics in every chapter. Regularly ask variations of: "How does this teaching/sacrament/virtue reveal the _sacred/sacrificial/covenantal/binding/truth/justice/mercy/life-giving/communion_ aspect of God's love?" Use blockquotes for emphasis on this definition when reintroduced.
+**Desired Tone:** Personal, direct, urgent, relatable, and passionately evangelistic/apologetic (similar to the `book1-blogpost-for-catholics.md`). Use "we" and "us" frequently to connect with the reader. Incorporate personal anecdotes (marked with placeholders like `[Author Anecdote: ...]`) to illustrate points. Maintain a sense of hope and confidence in the beauty and truth of the Catholic faith.
 
-6.  **Chapter Structure (Narrative with Devotional Elements):** Each chapter's narrative draft should follow this structure:
-    *   **Opening:**
-        *   Start with a relevant **Key Scripture Verse**. Format the verse and reference in a table like so:
+**Narrative Flow and Cohesion:** Maintain awareness of the overall book structure outlined in `book1_v2_outline.md` and the progress tracked below. Ensure smooth transitions between chapters, building upon previous concepts without unnecessary repetition. Each chapter should contribute to the book's progressive argument and narrative arc.
 
-        | "Children, obey your parents in the Lord, for this is right... (include the rest of the verse)" |
-        | --- |
-        | \-- _Ephesians 6:1-4_ |
+**Central Definition of Love (Integrate Throughout):**
 
-        *   Follow with a relevant **Catechism of the Catholic Church (CCC) Paragraph**. Format the paragraph and reference like so:
+> **Perfect Love is the sacred, sacrificial gift of covenant which binds true justice and true mercy into life-giving communion.**
+> _(Shorter form: Love is the unity of God's true justice and true mercy.)_
 
-        | "The family is the original cell of social life. It is the natural society in which ... (include the rest of the paragraph)" |
-        | --- |
-        | _CCC 2207_ |
+*   **Breakdown:** Explicitly break down _each_ component (sacred, sacrificial, gift, covenant, binds, true justice, true mercy, life-giving, communion) in the chapter defining love (currently Ch 14).
+*   **Application:** Consistently use this definition as a lens to analyze topics in every chapter. Regularly ask variations of: "How does this teaching/sacrament/virtue reveal the _sacred/sacrificial/covenantal/binding/truth/justice/mercy/life-giving/communion_ aspect of God's love?" Use blockquotes for emphasis on this definition when reintroduced.
 
-        .
-    *   **Body:**
-        *   Develop the chapter's theme based on the approved chapter outline points, using the narrative style and tone defined above.
-        *   Integrate other relevant Scripture and CCC references naturally within the text where needed to support points.
-        *   Include placeholders for personal anecdotes (`[Author Anecdote: ...]`).
-        *   Add in relevant quotes from Catholic saints (especially St. Catherine of Sienna, St. Faustina Kowalska, St. Teresa of Avila, St. Thérèse of Lisieux, St. Bernard of Clairvaux, St. Mary Magdalene de’ Pazzi), theologians (especially St. Augustine and St. Thomas Aquinas), Popes (especially Pope St. John Paul II, Pope Benedict XVI and Pope Francis) to enrich the discussion.
-    *   **Closing:**
-        *   **Chapter Takeaway:** A concise summary of the chapter's main point.
-        *   **Reflection Question:** One deep, thought-provoking question related to the chapter's theme for personal reflection.
-        *   **Further Study - Scripture:** List a few additional relevant Scripture references.
-        *   **Further Study - Catechism:** List a few additional relevant CCC paragraph numbers.
-        *   **Prayer Practice:** Suggest a fitting Catholic devotional practice (e.g., a specific Rosary mystery, a Litany, Act of Contrition/Faith/Hope/Love, prayer to the Holy Spirit, prayer to a relevant saint) explicitly linking the chapter's theme to the prayer's intention (e.g., understanding the theme more deeply, praying for the Salvation of the World). If the prayer is not the Rosary, The Our Father, Hail Mary or Glory Be, provide a brief explanation of the prayer's significance and how it relates to the chapter's theme and the entire text of the prayer.
+**Chapter Structure (Narrative with Devotional Elements):** Each chapter's narrative draft should follow this structure:
+
+**Opening:**
+
+*   Start with a relevant **Key Scripture Verse**. Format the verse and reference in a table like so:
+
+| **Key Scripture Verse**: "We know that the whole creation has been groaning in travail together until now." -- _Romans 8:22_ |
+| --- |
+
+**Body:**
+
+*   Develop the chapter's theme based on the approved chapter outline points, using the narrative style and tone defined above.
+*   Integrate other relevant Scripture and CCC references naturally within the text where needed to support points.
+*   Add in relevant quotes in a blockquote from Catholic saints (especially St. Catherine of Sienna, St. Faustina Kowalska, St. Teresa of Avila, St. Thérèse of Lisieux, St. Bernard of Clairvaux, St. Mary Magdalene de’ Pazzi), theologians (especially St. Augustine and St. Thomas Aquinas), Popes (especially Pope St. John Paul II, Pope Benedict XVI and Pope Francis) to enrich the body.
+*   Include placeholders for personal anecdotes (`[Author Anecdote: ...]`).
+
+**Closing:**
+
+*   **Chapter Takeaway:** A concise summary of the chapter's main point.
+*   **Reflection Question:** One deep, thought-provoking question related to the chapter's theme for personal reflection.
+*   **Further Study - Scripture:** List a few additional relevant Scripture references.
+*   **Further Study - Catechism:** List a few additional relevant CCC paragraph numbers.
+*   **Prayer Practice:** Suggest a fitting Catholic devotional practice (e.g., a specific Rosary mystery, a Litany, Act of Contrition/Faith/Hope/Love, prayer to the Holy Spirit, prayer to a relevant saint) explicitly linking the chapter's theme to the prayer's intention (e.g., understanding the theme more deeply, praying for the Salvation of the World). If the prayer is not the Rosary, The Our Father, Hail Mary or Glory Be, provide a brief explanation of the prayer's significance and how it relates to the chapter's theme and the entire text of the prayer.
 
 ## Drafting Workflow and Progress Tracking
 
 **Tracking Markers:**
+
 *   `[]`: Not Started
 *   `[O]`: Outline Generated (Ready for User Review)
 *   `[S]`: Saints, Thelogians, Popes added to each chapter (Ready for User Review/Edit)
@@ -77,74 +79,79 @@ Systematically generate the complete first draft of this book by expanding the p
 **Drafting Progress:**
 
 **Part I: The Problem - Suffering, Confusion, and the Search for Love**
-*   [S] 1: The Problem of Suffering and Evil - Why is there so much pain in the world?
-*   [S] 2: The Cry for Love - The Desire for Connection and Belonging
-*   [S] 3: The Cry for Justice - The Yearning for Right Relationships
-*   [S] 4: The Cry for Mercy - The Desire for Healing and Forgiveness
-*   [S] 5: Unmasking Counterfeit Love - Critical Theory, Intersectionality and Wokeness
-*   [S] 6: Unmasking Counterfeit Love - Sentimentalism
-*   [S] 7: Unmasking Counterfeit Love - Relativism and Liberalism
-*   [S] 8: Unmasking Counterfeit Love - Individualism
-*   [S] 9: Unmasking Counterfeit Love - Feminism
-*   [S] 10: Unmasking Counterfeit Love - Marxism/Socialism/Communism
-*   [S] 11: Unmasking Counterfeit Love - Postmodernism
-*   [S] 12: Unmasking Counterfeit Love - "Sexualism"
-*   [S] 13: The Answer to Counterfeit Love - The Catholic Vision of Love
+
+*   \[S\] 1: The Problem of Suffering and Evil - Why is there so much pain in the world?
+*   \[S\] 2: The Cry for Love - The Desire for Connection and Belonging
+*   \[S\] 3: The Cry for Justice - The Yearning for Right Relationships
+*   \[S\] 4: The Cry for Mercy - The Desire for Healing and Forgiveness
+*   \[S\] 5: Unmasking Counterfeit Love - Critical Theory, Intersectionality and Wokeness
+*   \[S\] 6: Unmasking Counterfeit Love - Sentimentalism
+*   \[S\] 7: Unmasking Counterfeit Love - Relativism and Liberalism
+*   \[S\] 8: Unmasking Counterfeit Love - Individualism
+*   \[S\] 9: Unmasking Counterfeit Love - Feminism
+*   \[S\] 10: Unmasking Counterfeit Love - Marxism/Socialism/Communism
+*   \[S\] 11: Unmasking Counterfeit Love - Postmodernism
+*   \[S\] 12: Unmasking Counterfeit Love - "Sexualism"
+*   \[S\] 13: The Answer to Counterfeit Love - The Catholic Vision of Love
 
 **Part II: The Source of Love - What Love Is**
-*   [S] 14: What IS Love, Really?: Defining the Heart of the Matter
-*   [S] 15: Grace: Love's Sacred Source (Love requires God)
-*   [S] 16: Made for Love: Our Dignity and Divine Spark
-*   [S] 17: The Holy Spirit: Love's Inner Fire
+
+*   \[S\] 14: What IS Love, Really?: Defining the Heart of the Matter
+*   \[S\] 15: Grace: Love's Sacred Source (Love requires God)
+*   \[S\] 16: Made for Love: Our Dignity and Divine Spark
+*   \[S\] 17: The Holy Spirit: Love's Inner Fire
 
 **Part III: The Facets of Love - What Love Requires**
-*   [S] 18: Theological Virtues: Love's Sacred Foundation - Faith, Hope, Charity
-*   [S] 19: Faith: Love's Sacred Covenant
-*   [S] 20: Hope: Love's Sacred Horizon
-*   [S] 21: Truth: Love's Sacred Clarity
-*   [S] 22: Mercy: Love's Sacred Healing
-*   [S] 23: Justice: Love's Sacred Honor
-*   [S] 24: The Cross: Love's Sacred Sacrifice
-*   [S] 25: The Commandments: Love's Sacred Boundaries
-*   [S] 26: Cardinal Virtues: Love's Sacred Strength - Prudence, Justice, Fortitude, Temperance
-*   [S] 27: Prudence: Love's Sacred Discernment
-*   [S] 28: Fortitude: Love's Sacred Courage
-*   [S] 29: Temperance: Love's Sacred Balance
-*   [S] 30: Moral Virtues: Love's Sacred Character - Humility, Generosity, Patience, Kindness, Diligence, Chastity, Meekness, Obedience, Gratitude, Truthfulness
-*   [S] 31: Humility: Love's Sacred Foundation
-*   [S] 32: Generosity: Love's Sacred Abundance
-*   [S] 33: Patience: Love's Sacred Endurance
-*   [S] 34: Kindness: Love's Sacred Compassion
-*   [S] 35: Diligence: Love's Sacred Commitment
-*   [S] 36: Chastity: Love's Sacred Purity
-*   [S] 37: Meekness: Love's Sacred Strength
-*   [S] 38: Obedience: Love's Sacred Submission
-*   [S] 39: Gratitude: Love's Sacred Appreciation
-*   [S] 40: Truthfulness: Love's Sacred Honesty
-*   [S] 41: Self-Control: Love's Sacred Discipline
-*   [S] 42: Intimacy: Love's Sacred Union
+
+*   \[S\] 18: Theological Virtues: Love's Sacred Foundation - Faith, Hope, Charity
+*   \[S\] 19: Faith: Love's Sacred Covenant
+*   \[S\] 20: Hope: Love's Sacred Horizon
+*   \[S\] 21: Truth: Love's Sacred Clarity
+*   \[S\] 22: Mercy: Love's Sacred Healing
+*   \[S\] 23: Justice: Love's Sacred Honor
+*   \[S\] 24: The Cross: Love's Sacred Sacrifice
+*   \[S\] 25: The Commandments: Love's Sacred Boundaries
+*   \[S\] 26: Cardinal Virtues: Love's Sacred Strength - Prudence, Justice, Fortitude, Temperance
+*   \[S\] 27: Prudence: Love's Sacred Discernment
+*   \[S\] 28: Fortitude: Love's Sacred Courage
+*   \[S\] 29: Temperance: Love's Sacred Balance
+*   \[S\] 30: Moral Virtues: Love's Sacred Character - Humility, Generosity, Patience, Kindness, Diligence, Chastity, Meekness, Obedience, Gratitude, Truthfulness
+*   \[S\] 31: Humility: Love's Sacred Foundation
+*   \[S\] 32: Generosity: Love's Sacred Abundance
+*   \[S\] 33: Patience: Love's Sacred Endurance
+*   \[S\] 34: Kindness: Love's Sacred Compassion
+*   \[S\] 35: Diligence: Love's Sacred Commitment
+*   \[S\] 36: Chastity: Love's Sacred Purity
+*   \[S\] 37: Meekness: Love's Sacred Strength
+*   \[S\] 38: Obedience: Love's Sacred Submission
+*   \[S\] 39: Gratitude: Love's Sacred Appreciation
+*   \[S\] 40: Truthfulness: Love's Sacred Honesty
+*   \[S\] 41: Self-Control: Love's Sacred Discipline
+*   \[S\] 42: Intimacy: Love's Sacred Union
 
 **Part IV: The Fruits of Love - What Love Produces**
-*   [S] 43: Joy: Love's Sacred Delight
-*   [S] 44: Peace: Love's Sacred Rest
-*   [S] 45: Patience: Love's Sacred Endurance
-*   [S] 46: Kindness: Love's Sacred Generosity
-*   [S] 47: Goodness: Love's Sacred Integrity
-*   [S] 48: Faithfulness: Love's Sacred Loyalty
-*   [S] 49: Growth: Love's Sacred Flourishing
+
+*   \[S\] 43: Joy: Love's Sacred Delight
+*   \[S\] 44: Peace: Love's Sacred Rest
+*   \[S\] 45: Patience: Love's Sacred Endurance
+*   \[S\] 46: Kindness: Love's Sacred Generosity
+*   \[S\] 47: Goodness: Love's Sacred Integrity
+*   \[S\] 48: Faithfulness: Love's Sacred Loyalty
+*   \[S\] 49: Growth: Love's Sacred Flourishing
 
 **Part V: The Practices of Love - How we grow in Love**
-*   [S] 50: The Church: Love's Sacred Community of the Body of Christ
-*   [S] 51: Self-Denial: Days of Obligation, Fasting, Abstinence, Almsgiving, Long-suffering, Perseverance
-*   [S] 52: Sacraments: Love's Sacred Intimacy and Nourishment
-*   [S] 53: Prayer: Love's Sacred Conversation
-*   [S] 54: Family: Love's Sacred School
-*   [S] 55: Saints: Love's Sacred Examples
-*   [S] 56: Holiness: Love's Sacred Calling
-*   [S] 57: Evangelization: Love's Sacred Mission
-*   [S] 58: The Eucharist: Love's Sacred Source and Summit
 
-*(Note: Add Part/Appendix Headers as needed, e.g., `[] 00_Part1_Header.md`)*
+*   \[S\] 50: The Church: Love's Sacred Community of the Body of Christ
+*   \[S\] 51: Self-Denial: Days of Obligation, Fasting, Abstinence, Almsgiving, Long-suffering, Perseverance
+*   \[S\] 52: Sacraments: Love's Sacred Intimacy and Nourishment
+*   \[S\] 53: Prayer: Love's Sacred Conversation
+*   \[S\] 54: Family: Love's Sacred School
+*   \[S\] 55: Saints: Love's Sacred Examples
+*   \[S\] 56: Holiness: Love's Sacred Calling
+*   \[S\] 57: Evangelization: Love's Sacred Mission
+*   \[S\] 58: The Eucharist: Love's Sacred Source and Summit
+
+_(Note: Add Part/Appendix Headers as needed, e.g.,_ `_[] 00_Part1_Header.md_`_)_
 
 ## Output
 

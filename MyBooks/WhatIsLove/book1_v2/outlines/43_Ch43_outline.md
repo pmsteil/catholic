@@ -8,15 +8,9 @@ This chapter begins Part IV, "The Fruits of Love - What Love Produces." Having e
 
 ## I. Opening
 
-| Key Scripture Verse |
-| :------------------ |
-| "These things I have spoken to you, that my joy may be in you, and that your joy may be full." |
-| *John 15:11*        |
+**Key Scripture Verse**: "These things I have spoken to you, that my joy may be in you, and that your joy may be full." -- *John 15:11*
 
-| Key CCC Paragraph |
-| :---------------- |
-| "The fruits of the Spirit are perfections that the Holy Spirit forms in us as the first fruits of eternal glory. The tradition of the Church lists twelve of them: 'charity, joy, peace, patience, kindness, goodness, generosity, gentleness, faithfulness, modesty, self-control, chastity.'" |
-| *CCC 1832*        |
+**Key CCC Reference(s)**: 1832 (Fruits of the Spirit are perfections formed by Holy Spirit; lists 12 including joy)
 
 ## II. Body: Developing the Theme
 

@@ -10,13 +10,9 @@ Continuing the exploration of the Practices of Love, this chapter focuses on var
 
 ## I. Opening
 
-| Verse | Text |
-| --- | --- |
-| Luke 9:23 | "And he said to all, 'If any man would come after me, let him deny himself and take up his cross daily and follow me.'" |
+**Key Scripture Verse**: "And he said to all, 'If any man would come after me, let him deny himself and take up his cross daily and follow me.'" -- _Luke 9:23_
 
-| Paragraph | Text | Context |
-| --- | --- | --- |
-| CCC 2041 | "The precepts of the Church are set in the context of a moral life bound to and nourished by liturgical life. The obligatory character of these positive laws decreed by the pastoral authorities is meant to guarantee to the faithful the indispensable minimum in the spirit of prayer and moral effort, in the growth in love of God and neighbor." | (Days of Obligation, Fasting/Abstinence) |
+**Key CCC Reference(s)**: 2041 (Church precepts guarantee minimum prayer/moral effort for growth in love)
 
 ## II. Body: Developing the Theme
 
@@ -35,6 +31,9 @@ Continuing the exploration of the Practices of Love, this chapter focuses on var
     *   **Almsgiving (Generosity as Self-Denial):** Revisit Generosity (Ch 32) framed as self-denial – giving up resources we could use for ourselves out of love and **true justice**. A key penitential practice (CCC 1434).
     *   **Long-suffering (Patience):** Revisit Patience (Ch 33/45) framed as self-denial – denying the impulse to anger, complain, or give up when enduring difficulties or others' faults. Requires **sacred endurance**.
     *   **Perseverance (Diligence/Fortitude):** Revisit Diligence (Ch 35) and Fortitude (Ch 28) framed as self-denial – denying the desire for ease or escape, persisting in prayer, duty, and **covenant** commitments despite obstacles. Requires **sacred commitment**.
+    *   > "Fasting is the soul of prayer, mercy [almsgiving] is the lifeblood of fasting. Let no one try to separate them… So if you pray, fast; if you fast, show mercy.” – St. Peter Chrysologus
+    *   > "Without the burden of afflictions it is impossible to reach the height of grace. The gift of grace increases as the struggle increases." – St. Rose of Lima
+    *   > "Perseverance is the essential virtue of the believer. It is not the beginning but the end which is rewarded." – St. Gregory the Great
 4.  **Beyond Minimums: Personal Penance:**
     *   Encourage voluntary acts of self-denial chosen prudently (Ch 27) for spiritual growth (giving up legitimate goods for a time, adding extra prayers, etc.).
 5.  **Self-Denial and the Core Definition of Love:**
@@ -63,9 +62,3 @@ Continuing the exploration of the Practices of Love, this chapter focuses on var
     *   CCC 2041-2043 (Precepts of the Church)
     *   CCC 538-540 (Christ's temptations - overcoming through self-denial)
 *   **Prayer Practice:** Make an Examination of Conscience regarding the Precepts of the Church and personal efforts in self-denial. Pray the Act of Contrition. Intention: To seek forgiveness for failures in **sacred discipline** and **sacrifice**, and to ask for the grace of **sacred commitment** and perseverance in practicing self-denial as a means of growing closer to God and fostering **life-giving communion**.
-
-## Relevant Quotes (Saints, Theologians, Popes)
-
-*   "Fasting is the soul of prayer, mercy \[almsgiving\] is the lifeblood of fasting. Let no one try to separate them… So if you pray, fast; if you fast, show mercy.” – St. Peter Chrysologus
-*   "Without the burden of afflictions it is impossible to reach the height of grace. The gift of grace increases as the struggle increases." – St. Rose of Lima
-*   "Perseverance is the essential virtue of the believer. It is not the beginning but the end which is rewarded." – St. Gregory the Great

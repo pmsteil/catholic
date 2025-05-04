@@ -9,15 +9,9 @@ Continuing the critique of counterfeit loves after addressing intellectual ideol
 ## I. Opening
 
 
-    | Reference         | Text                                                                                                                                                                                                                                                           | Note                                                              |
-    | :---------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------- |
-    | 1 Corinthians 13:4-7 | "Love is patient and kind; love is not jealous or boastful; it is not arrogant or rude. Love does not insist on its own way; it is not irritable or resentful; it does not rejoice at wrong, but rejoices in the right. Love bears all things, believes all things, hopes all things, endures all things." | Highlights love as action and virtue, not just feeling. |
+**Key Scripture Verse**: "Love is patient and kind; love is not jealous or boastful; it is not arrogant or rude. Love does not insist on its own way; it is not irritable or resentful; it does not rejoice at wrong, but rejoices in the right. Love bears all things, believes all things, hopes all things, endures all things." -- _1 Corinthians 13:4-7_
 
-
-
-    | Reference | Text                                                                                                                                                                                                                                                                                                                                                                                                                   | Note                                                                                             |
-    | :-------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------- |
-    | CCC 1768  | "Strong feelings are not decisive for the morality or the holiness of persons; they are simply the inexhaustible reservoir of images and affections in which the moral life is expressed. Passions are morally good when they contribute to a good action, evil in the opposite case. The upright will orders the movements of the senses, which it appropriates to the good and to beatitude; an evil will succumbs to disordered passions and exacerbates them." | Feelings are not decisive for morality; they must be ordered by the will towards the good. |
+**Key CCC Reference(s)**: 1768 (Feelings are not decisive for morality; they must be ordered by the will towards the good.)
 
 ## II. Body: Developing the Theme
 
@@ -41,6 +35,8 @@ Continuing the critique of counterfeit loves after addressing intellectual ideol
 6.  **Contrast with Charity (True Love):**
     *   Define Charity (Caritas) as the theological virtue by which we love God above all things for His own sake, and our neighbor as ourselves for the love of God (CCC 1822). It resides in the will, perfected by grace.
     *   Reiterate the core definition: > **Perfect Love is the sacred, sacrificial gift of covenant which binds true justice and true mercy into life-giving communion.** Show how sentimentalism fails to meet this standard, particularly regarding **sacrifice**, **covenant**, **truth**, **justice**, and its **sacred** nature.
+    *   > "Actions speak louder than words; let your words teach and your actions speak.” -- St. Anthony of Padua
+    *   > "What does love look like? It has the hands to help others. It has the feet to hasten to the poor and needy. It has eyes to see the misery and want. It has the ears to hear the sighs and sorrows of men." -- St. Augustine
 7.  **Anecdote Placeholder:**
     *   `[Author Anecdote: Example of choosing to act lovingly (e.g., caring for a sick relative, fulfilling a difficult commitment) even when feelings of affection or enthusiasm were absent, demonstrating love as an act of the will.]`
 
@@ -58,7 +54,3 @@ Continuing the critique of counterfeit loves after addressing intellectual ideol
     *   CCC 1822-1829 (Charity)
 *   **Prayer Practice:** Pray the Anima Christi. Intention: To ask Christ to sanctify all aspects of the self, including emotions ("Blood of Christ, inebriate me... Water from the side of Christ, wash me. Passion of Christ, strengthen me."), ordering feelings towards God's will and strengthening the resolve to love with **sacrificial** commitment.
 
-## Relevant Quotes (Saints, Theologians, Popes)
-
-*   "Actions speak louder than words; let your words teach and your actions speak.” - St. Anthony of Padua
-*   "What does love look like? It has the hands to help others. It has the feet to hasten to the poor and needy. It has eyes to see the misery and want. It has the ears to hear the sighs and sorrows of men." - St. Augustine

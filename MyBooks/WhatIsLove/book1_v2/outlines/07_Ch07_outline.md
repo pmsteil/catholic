@@ -9,14 +9,9 @@ Following the critiques of group-identity ideologies (Ch 5) and emotion-based lo
 ## I. Opening
 
 
-    | Reference | Text                                                                                                | Note                                                    |
-    | :-------- | :-------------------------------------------------------------------------------------------------- | :------------------------------------------------------ |
-    | John 14:6 | "Jesus said to him, 'I am the way, and the truth, and the life; no one comes to the Father, but by me.'" | Asserts objective, exclusive truth in Christ.           |
+**Key Scripture Verse**: "Jesus said to him, 'I am the way, and the truth, and the life; no one comes to the Father, but by me.'" -- _John 14:6_
 
-
-    | Reference | Text                                                                                                                                                                                          |
-    | :-------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-    | CCC 1733  | "The more one does what is good, the freer one becomes. There is no true freedom except in the service of what is good and just. The choice to disobey and do evil is an abuse of freedom and leads to 'the slavery of sin.'" |
+**Key CCC Reference(s)**: 1733 (True freedom is in service of good and just; evil is abuse of freedom)
 
 ## II. Body: Developing the Theme
 
@@ -42,6 +37,9 @@ Following the critiques of group-identity ideologies (Ch 5) and emotion-based lo
     *   True freedom finds its fulfillment in choosing the good and living within God's **sacred boundaries**.
     *   Authentic love requires commitment (**covenant**) and self-gift (**sacrifice**), not just autonomy.
     *   Reiterate the core definition: > **Perfect Love is the sacred, sacrificial gift of covenant which binds true justice and true mercy into life-giving communion.** Show how Relativism/Liberalism fundamentally undermine this, especially **truth**, **justice**, **covenant**, **binding**, and the **sacred**.
+    *   > "We are building a dictatorship of relativism that does not recognize anything as definitive and whose ultimate goal consists solely of one's own ego and desires." -- Pope Benedict XVI (as Cardinal Ratzinger, Homily, April 18, 2005)
+    *   > "Having a clear faith, based on the Creed of the Church, is often labeled today as a fundamentalism. Whereas relativism, which is letting oneself be tossed and 'swept along by every wind of teaching', looks like the only attitude acceptable to today's standards." -- Pope Benedict XVI (as Cardinal Ratzinger, Homily, April 18, 2005)
+    *   > "Relativism, by indiscriminately giving value to practically everything, has made 'experience' all-important. But experiences, detached from any consideration of good or evil, can prove ambiguous and even destructive for the individual and for society." -- St. John Paul II (Veritatis Splendor, 101)
 7.  **Anecdote Placeholder:**
     *   `[Author Anecdote: Example illustrating the negative consequences of relativism or radical autonomy in relationships, education, or society, contrasted with the stability and clarity offered by objective truth and moral principles.]`
 
@@ -60,8 +58,3 @@ Following the critiques of group-identity ideologies (Ch 5) and emotion-based lo
     *   CCC 2464-2492 (The Eighth Commandment - You shall not bear false witness, living in the truth)
 *   **Prayer Practice:** Pray the Act of Faith. Intention: To reaffirm belief in God and all the **sacred truths** His Catholic Church teaches, asking for the grace to resist relativistic doubts and to live freely and joyfully according to His **life-giving** plan.
 
-## Relevant Quotes (Saints, Theologians, Popes)
-
-*   **Pope Benedict XVI (as Cardinal Ratzinger, Homily, April 18, 2005):** "We are building a dictatorship of relativism that does not recognize anything as definitive and whose ultimate goal consists solely of one's own ego and desires."
-*   **Pope Benedict XVI (as Cardinal Ratzinger, Homily, April 18, 2005):** "Having a clear faith, based on the Creed of the Church, is often labeled today as a fundamentalism. Whereas relativism, which is letting oneself be tossed and 'swept along by every wind of teaching', looks like the only attitude acceptable to today's standards."
-*   **St. John Paul II (Veritatis Splendor, 101):** "Relativism, by indiscriminately giving value to practically everything, has made 'experience' all-important. But experiences, detached from any consideration of good or evil, can prove ambiguous and even destructive for the individual and for society."

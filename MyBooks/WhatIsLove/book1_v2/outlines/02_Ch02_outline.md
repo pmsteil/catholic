@@ -10,21 +10,11 @@ Following the exploration of suffering (Ch 1), this chapter delves into the fund
 
 ## I. Opening
 
-**Key Scripture Verse:**
-
-| Key Scripture Verse |
+| **Key Scripture Verse**: "So we know and believe the love God has for us. God is love, and he who abides in love abides in God, and God abides in him." -- _1 John 4:16_ |
 | --- |
-| "So we know and believe the love God has for us. God is love, and he who abides in love abides in God, and God abides in him." |
 
-_Reference: 1 John 4:16_
-
-**Key CCC Paragraph:**
-
-| Key CCC Paragraph |
+| **Key CCC Reference(s)**: "The desire for God is written in the human heart, because man is created by God and for God; and God never ceases to draw man to himself. Only in God will he find the truth and happiness he never stops searching for." -- _CCC 27_ |
 | --- |
-| "The desire for God is written in the human heart, because man is created by God and for God; and God never ceases to draw man to himself. Only in God will he find the truth and happiness he never stops searching for." |
-
-_Reference: CCC 27_
 
 ## II. Body: Developing the Theme
 

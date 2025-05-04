@@ -9,16 +9,9 @@ Following the definition of love (Ch 14), this chapter explores its ultimate sou
 ## I. Opening
 
 
-    | Key Scripture Verse |
-    |---|
-    | "I am the vine, you are the branches. He who abides in me, and I in him, he it is that bears much fruit, for apart from me you can do nothing." |
-    | *Reference: John 15:5* |
+**Key Scripture Verse**: "I am the vine, you are the branches. He who abides in me, and I in him, he it is that bears much fruit, for apart from me you can do nothing." -- *John 15:5*
 
-
-    | Key CCC Paragraph |
-    |---|
-    | "Our justification comes from the grace of God. Grace is favor, the free and undeserved help that God gives us to respond to his call to become children of God, adoptive sons, partakers of the divine nature and of eternal life." |
-    | *Reference: CCC 1996* |
+**Key CCC Reference(s)**: 1996 (Grace is God's free, undeserved help to respond to His call)
 
 ## II. Body: Developing the Theme
 
@@ -39,6 +32,9 @@ Following the definition of love (Ch 14), this chapter explores its ultimate sou
     *   **Illuminates Truth & Justice:** Helps us perceive and will the **sacred truth** and **true justice**.
     *   **Inspires Mercy:** Moves the heart to **true mercy** and forgiveness.
     *   **Source of Life-Giving Communion:** Grace *is* the divine life shared, the very basis of **life-giving communion** with God and the Church.
+    *   > "Grace does not destroy nature but perfects it." -- St. Thomas Aquinas, *Summa Theologiae* (I, Q. 1, Art. 8, ad 2)
+    *   > "For 'without me,' says the Lord, 'you can do nothing.' He does not say, you can do but little; but 'you can do nothing.' Whether therefore it be a great matter or a small matter, it cannot be done without Him, without whom nothing can be done." -- St. Augustine, *On Grace and Free Will*, Ch. 32
+    *   > "Being Christian is not the result of an ethical choice or a lofty idea, but the encounter with an event, a person, which gives life a new horizon and a decisive direction." -- Pope Benedict XVI, *Deus Caritas Est*, 1
 4.  **Grace is Not Magic, But Transformation:**
     *   Explain that grace doesn't override free will but works *with* it (CCC 2001-2002). It requires our cooperation (faith, sacraments, prayer, good works).
     *   It's a process of transformation, making us more like Christ.
@@ -68,8 +64,3 @@ Following the definition of love (Ch 14), this chapter explores its ultimate sou
     *   CCC 2017-2029 (Grace and Merit, Christian Holiness)
 *   **Prayer Practice:** Pray the Litany of Humility. Intention: To acknowledge dependence on God and combat the pride that resists receiving His **sacred gift** of grace, asking for the humility needed to recognize that all ability to love authentically comes from Him, fostering true **communion**. (Repeated prayer, different intention focus).
 
-## Relevant Quotes (Saints, Theologians, Popes)
-
-*   "Grace does not destroy nature but perfects it." - St. Thomas Aquinas, *Summa Theologiae* (I, Q. 1, Art. 8, ad 2)
-*   "For 'without me,' says the Lord, 'you can do nothing.' He does not say, you can do but little; but 'you can do nothing.' Whether therefore it be a great matter or a small matter, it cannot be done without Him, without whom nothing can be done." - St. Augustine, *On Grace and Free Will*, Ch. 32
-*   "Being Christian is not the result of an ethical choice or a lofty idea, but the encounter with an event, a person, which gives life a new horizon and a decisive direction." - Pope Benedict XVI, *Deus Caritas Est*, 1

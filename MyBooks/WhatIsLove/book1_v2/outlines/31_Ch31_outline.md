@@ -8,22 +8,18 @@ Beginning the detailed exploration of specific Moral Virtues introduced in Chapt
 
 ## I. Opening
 
+**Key Scripture Verse**: "Whoever exalts himself will be humbled, and whoever humbles himself will be exalted." -- _Matthew 23:12_
 
-    | Verse          | Text                                                                                       |
-    | -------------- | ------------------------------------------------------------------------------------------ |
-    | Matthew 23:12  | "Whoever exalts himself will be humbled, and whoever humbles himself will be exalted."     |
-
-
-
-    | Paragraph | Text                                                                                                                                                                                                                                                                                                                                                                                       |
-    | --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-    | CCC 2559  | "'Prayer is the raising of one's mind and heart to God or the requesting of good things from God.' But when we pray, do we speak from the height of our pride and will, or 'out of the depths' of a humble and contrite heart? He who humbles himself will be exalted; humility is the foundation of prayer. Only when we humbly acknowledge that 'we do not know how to pray as we ought,' are we ready to receive freely the gift of prayer. 'Man is a beggar before God.'" |
+**Key CCC Reference(s)**: 2559 (Humility is the foundation of prayer; man is a beggar before God)
 
 ## II. Body: Developing the Theme
 
 1.  **Transition: The Foundational Virtue:**
     *   Recap Ch 30: Moral virtues shape our character for love.
     *   Introduce Humility as the bedrock virtue. Why start here? Because pride (humility's opposite) is the root of much sin, hindering our relationship with God and others. Humility clears the ground for grace (Ch 15) and authentic love.
+    *   > "Humility is the foundation of all the other virtues hence, in the soul in which this virtue does not exist there cannot be any other virtue except in mere appearance." -- St. Augustine
+    *   > "It was pride that changed angels into devils; it is humility that makes men as angels." -- St. Augustine
+    *   > "Humility is the mother of many virtues." -- St. John Climacus
 2.  **Defining Humility: Truth in Self-Knowledge:**
     *   Define Humility as seeing ourselves truthfully in relation to God the Creator. It's recognizing our dependence on Him for everything (existence, talents, grace). It's acknowledging both our dignity (Imago Dei - Ch 16) *and* our limitations/sinfulness. (Connects to **Sacred Truth** - Ch 21).
     *   Contrast with false humility (self-deprecation for effect) and pride (exaggerated self-importance, self-sufficiency).
@@ -67,8 +63,3 @@ Beginning the detailed exploration of specific Moral Virtues introduced in Chapt
     *   CCC 2713 (Contemplative prayer as humble, poor surrender)
     *   CCC 299 (God needs no pre-existent thing or help - relates to His sovereignty and our dependence)
 *   **Prayer Practice:** Pray the Litany of Humility. Intention: To specifically ask for deliverance from pride in its various forms and to cultivate a deep, genuine humility that recognizes total dependence on God, fostering openness to His grace and authentic **sacrificial** love. (Repeated prayer, specific focus).
-
-## Relevant Quotes (Saints, Theologians, Popes)
-*   "Humility is the foundation of all the other virtues hence, in the soul in which this virtue does not exist there cannot be any other virtue except in mere appearance." - St. Augustine
-*   "It was pride that changed angels into devils; it is humility that makes men as angels." - St. Augustine
-*   "Humility is the mother of many virtues." - St. John Climacus

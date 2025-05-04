@@ -9,15 +9,9 @@ This chapter critiques the modern cultural elevation of sexual activity and iden
 ## I. Opening
 
 
-    | Reference           | Text                                                                                                                                                                                          |
-    | :------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-    | 1 Corinthians 6:18-20 | "Shun immorality. Every other sin which a man commits is outside the body; but the immoral man sins against his own body. Do you not know that your body is a temple of the Holy Spirit within you, which you have from God? You are not your own; you were bought with a price. So glorify God in your body." |
+**Key Scripture Verse**: "Shun immorality. Every other sin which a man commits is outside the body; but the immoral man sins against his own body. Do you not know that your body is a temple of the Holy Spirit within you, which you have from God? You are not your own; you were bought with a price. So glorify God in your body." -- _1 Corinthians 6:18-20_
 
-
-
-    | Reference | Text                                                                                                                                                                                                                         |
-    | :-------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-    | CCC 2337  | "Sexuality affects all aspects of the human person in the unity of his body and soul. It especially concerns affectivity, the capacity to love and to procreate, and in a more general way the aptitude for forming bonds of communion with others." |
+**Key CCC Reference(s)**: 2337 (Sexuality affects the whole person, concerning affectivity, love, procreation, and communion)
 
 ## II. Body: Developing the Theme
 
@@ -40,6 +34,9 @@ This chapter critiques the modern cultural elevation of sexual activity and iden
     *   Present the beauty of the Church's teaching: Sexuality as a good and **sacred gift** from God, integral to the person.
     *   Its purpose: Unitive (expressing total self-giving love between spouses) and Procreative (openness to new life) within the **sacred covenant** of marriage (CCC 2360-2363).
     *   Chastity as the virtue that integrates sexuality according to one's state in life, leading to true freedom and authentic love.
+    *   > "The body, and it alone, is capable of making visible what is invisible: the spiritual and the divine. It has been created to transfer into the visible reality of the world the mystery hidden from eternity in God, and thus to be a sign of it." -- St. John Paul II, Theology of the Body
+    *   > "Chastity means the successful integration of sexuality within the person and thus the inner unity of man in his bodily and spiritual being. Sexuality, in which man's belonging to the bodily and biological world is expressed, becomes personal and truly human when it is integrated into the relationship of one person to another, in the complete and lifelong mutual gift of a man and a woman." -- Catechism of the Catholic Church, 2337
+    *   > "Each and every marital act must of necessity retain its intrinsic relationship to the procreation of human life... That teaching, often set forth by the magisterium, is based on the inseparable connection, established by God, which man on his own initiative may not break, between the unitive significance and the procreative significance which are both inherent to the marriage act." -- Pope Paul VI, Humanae Vitae, 11-12
 6.  **Contrast with the Catholic Vision of Love:**
     *   Authentic love respects the whole person and the God-given meaning of sexuality, integrating it within a **sacred covenant** oriented towards **life-giving communion** and **sacrificial** self-gift.
     *   Reiterate the core definition: > **Perfect Love is the sacred, sacrificial gift of covenant which binds true justice and true mercy into life-giving communion.** Show how "Sexualism" distorts or rejects every aspect: reducing the **sacred** to the profane, replacing **sacrifice** with indulgence, breaking **covenant**, denying the **binding** nature of **truth** and **justice** regarding sexuality, and hindering **life-giving communion**.
@@ -61,8 +58,3 @@ This chapter critiques the modern cultural elevation of sexual activity and iden
     *   *Humanae Vitae* (Paul VI on the regulation of birth)
 *   **Prayer Practice:** Pray the Memorare to the Blessed Virgin Mary. Intention: To seek Mary's powerful intercession for the grace of purity and chastity for oneself and for the world, asking for protection from temptation and the strength to live according to God's **sacred** plan for sexuality, fostering **true communion** and respecting the **sacred gift** of life.
 
-## Relevant Quotes (Saints, Theologians, Popes)
-
-*   "The body, and it alone, is capable of making visible what is invisible: the spiritual and the divine. It has been created to transfer into the visible reality of the world the mystery hidden from eternity in God, and thus to be a sign of it." - **St. John Paul II, Theology of the Body**
-*   "Chastity means the successful integration of sexuality within the person and thus the inner unity of man in his bodily and spiritual being. Sexuality, in which man's belonging to the bodily and biological world is expressed, becomes personal and truly human when it is integrated into the relationship of one person to another, in the complete and lifelong mutual gift of a man and a woman." - **Catechism of the Catholic Church, 2337** (Using the actual CCC text which fits well here)
-*   "Each and every marital act must of necessity retain its intrinsic relationship to the procreation of human life... That teaching, often set forth by the magisterium, is based on the inseparable connection, established by God, which man on his own initiative may not break, between the unitive significance and the procreative significance which are both inherent to the marriage act." - **Pope Paul VI, Humanae Vitae, 11-12**

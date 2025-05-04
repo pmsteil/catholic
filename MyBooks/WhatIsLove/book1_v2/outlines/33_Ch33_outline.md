@@ -8,17 +8,9 @@ Continuing the exploration of Moral Virtues, this chapter focuses on Patience. C
 
 ## I. Opening
 
+**Key Scripture Verse**: "...knowing that the testing of your faith produces steadfastness [patience/endurance]. And let steadfastness have its full effect, that you may be perfect and complete, lacking in nothing." -- _James 1:3-4_
 
-    | Verse        | Text                                                                                                                            |
-    | :----------- | :------------------------------------------------------------------------------------------------------------------------------ |
-    | **James 1:3-4** | "...knowing that the testing of your faith produces steadfastness [patience/endurance]. And let steadfastness have its full effect, that you may be perfect and complete, lacking in nothing." |
-
-
-
-    | Paragraph | Text                                                                                                                                                                                          |
-    | :-------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-    | **CCC 2447** | Refers to "bearing wrongs patiently" as a spiritual work of mercy, linking patience directly to charitable action.                                                                            |
-    | **CCC 1832** | *Alternatively:* Mentions patience as a fruit of the Spirit, which perfects virtue.                                                                                                             |
+**Key CCC Reference(s)**: 2447 (Bearing wrongs patiently is a spiritual work of mercy); 1832 (Patience is a fruit of the Spirit)
 
 ## II. Body: Developing the Theme
 
@@ -40,6 +32,9 @@ Continuing the exploration of Moral Virtues, this chapter focuses on Patience. C
     *   **With God:** Trusting His timing, accepting His will even when it involves suffering or delay.
     *   **With Neighbor:** Bearing their faults, weaknesses, and annoying habits out of love (**mercy** - Ch 22). Essential for **life-giving communion**. Requires **sacrifice** of our desire for perfection or control.
     *   **With Self:** Bearing our own weaknesses, failures, and slow progress in virtue with humility (Ch 31) and hope, without giving way to discouragement.
+    *   > "The greater then is in saints the charity (or love) of God, the more do they endure all things for Him whom they love..." -- St. Augustine, *On Patience*, Ch. 14
+    *   > "Have patience with all things, but chiefly have patience with yourself. Do not lose courage in considering your own imperfections, but instantly set about remedying them—every day begin the task anew." -- St. Francis de Sales
+    *   > "I know now that true charity consists in bearing all our neighbours' defects--not being surprised at their weakness, but edified at their smallest virtues.” -- St. Thérèse of Lisieux, *Story of a Soul*
 6.  **Opposed to Impatience, Anger, Resentment:**
     *   Contrast Patience with vices like impatience (frustration at delays/faults), wrath/uncontrolled anger, and resentment (holding onto grievances). These disrupt peace and damage relationships (**covenant**).
 7.  **Patience and the Core Definition of Love:**
@@ -67,9 +62,3 @@ Continuing the exploration of Moral Virtues, this chapter focuses on Patience. C
     *   CCC 1832 (Fruits of the Spirit as perfections)
     *   CCC 2635 (Perseverance in prayer requires patience)
 *   **Prayer Practice:** Pray the Litany of Patience or meditate on the Third Sorrowful Mystery (Crowning with Thorns) or Fourth Sorrowful Mystery (Carrying of the Cross). Intention: To unite personal struggles with impatience to Christ's patient endurance of suffering, asking for the grace to bear trials and the faults of others with **sacred endurance** and **sacrificial** love.
-
-## Relevant Quotes (Saints, Theologians, Popes)
-
-*   "The greater then is in saints the charity (or love) of God, the more do they endure all things for Him whom they love..." - **St. Augustine**, *On Patience*, Ch. 14
-*   "Have patience with all things, but chiefly have patience with yourself. Do not lose courage in considering your own imperfections, but instantly set about remedying them—every day begin the task anew." - **St. Francis de Sales**
-*   "I know now that true charity consists in bearing all our neighbours' defects--not being surprised at their weakness, but edified at their smallest virtues.” - **St. Thérèse of Lisieux**, *Story of a Soul*

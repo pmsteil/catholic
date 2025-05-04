@@ -10,15 +10,9 @@ Concluding Part IV ("The Fruits of Love"), this chapter focuses on Growth. It pr
 
 ## I. Opening
 
-| Verse | Text |
-| --- | --- |
-| 2 Peter 3:18 | "But grow in the grace and knowledge of our Lord and Savior Jesus Christ..." |
-| _Reference:_ | _New American Bible, Revised Edition (NABRE)_ |
+**Key Scripture Verse**: "But grow in the grace and knowledge of our Lord and Savior Jesus Christ..." -- _2 Peter 3:18_
 
-| Paragraph | Text | Theme |
-| --- | --- | --- |
-| CCC 2015 | "The way of perfection passes by way of the Cross. There is no holiness without renunciation and spiritual battle. Spiritual progress entails the ascesis and mortification..." | Growth requires effort and passes through sacrifice |
-| _Reference:_ | _Catechism of the Catholic Church, 2nd Ed._ |   |
+**Key CCC Reference(s)**: 2015 (Way of perfection passes via Cross; holiness requires renunciation/spiritual battle/ascesis/mortification)
 
 ## II. Body: Developing the Theme
 
@@ -34,6 +28,9 @@ Concluding Part IV ("The Fruits of Love"), this chapter focuses on Growth. It pr
 4.  **Requires Cooperation: Grace and Effort:**
     *   Reiterate CCC 2015: Growth requires our cooperation with grace through spiritual battle, **sacrifice** (Ch 24), discipline (Self-Control - Ch 41), prayer, sacraments, and practicing virtue (Diligence - Ch 35).
     *   It's not automatic, but a result of both God's **sacred gift** and our response.
+    *   > "Do not wish to be anything but what you are, and try to be that perfectly." -- St. Francis de Sales (Emphasizes accepting our current state while striving for perfection within it, aligning with gradual growth.)
+    *   > "Miss no single opportunity of making some small sacrifice, here by a smiling look, there by a kindly word; always doing the smallest right and doing it all for love." -- St. Thérèse of Lisieux (Highlights how growth manifests in small, consistent acts of love and sacrifice.)
+    *   > "Being Christian is not the result of an ethical choice or a lofty idea, but the encounter with an event, a person, which gives life a new horizon and a decisive direction." -- Pope Benedict XVI, _Deus Caritas Est_, 1 (Points to the source of growth: a transformative encounter with Christ, leading to flourishing.)
 5.  **Signs of Growth:**
     *   Increased love for God and neighbor.
     *   Greater detachment from sin and worldly things.
@@ -68,9 +65,3 @@ Concluding Part IV ("The Fruits of Love"), this chapter focuses on Growth. It pr
     *   CCC 1694-1695 (Formation in the new life in Christ)
     *   CCC 2012-2016 (Growth toward holiness and perfection)
 *   **Prayer Practice:** Pray the Suscipe prayer of St. Ignatius ("Take, Lord, and receive..."). Intention: To surrender oneself completely to God's transformative action, asking for the grace necessary for continued spiritual growth and **sacred flourishing**, desiring only His love and grace which are sufficient for the journey towards deeper **life-giving communion**. (Repeated prayer, different intention focus).
-
-## Relevant Quotes (Saints, Theologians, Popes)
-
-*   "Do not wish to be anything but what you are, and try to be that perfectly." - St. Francis de Sales (Emphasizes accepting our current state while striving for perfection within it, aligning with gradual growth.)
-*   "Miss no single opportunity of making some small sacrifice, here by a smiling look, there by a kindly word; always doing the smallest right and doing it all for love." - St. Thérèse of Lisieux (Highlights how growth manifests in small, consistent acts of love and sacrifice.)
-*   "Being Christian is not the result of an ethical choice or a lofty idea, but the encounter with an event, a person, which gives life a new horizon and a decisive direction." - Pope Benedict XVI, _Deus Caritas Est_, 1 (Points to the source of growth: a transformative encounter with Christ, leading to flourishing.)

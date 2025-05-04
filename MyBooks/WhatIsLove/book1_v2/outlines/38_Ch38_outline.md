@@ -8,13 +8,9 @@ Continuing the exploration of Moral Virtues, this chapter focuses on Obedience. 
 
 ## I. Opening
 
-| Key Scripture Verse                                                                      | Reference      |
-| :--------------------------------------------------------------------------------------- | :------------- |
-| "...Behold, to obey is better than sacrifice, and to hearken than the fat of rams."       | 1 Samuel 15:22 |
+**Key Scripture Verse**: "...Behold, to obey is better than sacrifice, and to hearken than the fat of rams." -- _1 Samuel 15:22_
 
-| Key CCC Paragraph                                                                                                                                                                                                                         | Reference |
-| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------- |
-| "To obey (from the Latin *ob-audire*, to 'hear or listen to') in faith is to submit freely to the word heard, because its truth is guaranteed by God, who is Truth itself. Abraham is the model of such obedience offered us by Sacred Scripture. The Virgin Mary is its most perfect embodiment." | CCC 144   |
+**Key CCC Reference(s)**: 144 (Obedience in faith: Freely submit to God's word; Abraham & Mary as models)
 
 ## II. Body: Developing the Theme
 
@@ -40,6 +36,9 @@ Continuing the exploration of Moral Virtues, this chapter focuses on Obedience. 
     *   Present Jesus as the ultimate example: "He humbled himself and became obedient unto death, even death on a cross" (Philippians 2:8). His entire life was fulfilling the Father's will (John 4:34). His obedience undoes Adam's disobedience. This is **sacrificial** love.
 6.  **Obedience and Freedom:**
     *   Counter the cultural narrative that obedience destroys freedom. True freedom is choosing the good (CCC 1733). Obedience to God's loving law *leads* to true freedom from sin and disordered desires. It aligns us with reality (**sacred truth**).
+    *   > "Obedience is the key that opens heaven." -- St. Catherine of Siena
+    *   > "The power of obedience! The lake of Gennesaret had denied its fishes to Peter's nets. A whole night in vain. Then, obedient, he lowered his net again and they caught 'a huge number of fish.' Believe me: the miracle is repeated each day." -- St. Josemaría Escrivá
+    *   > "Obedience to God is freedom. For to obey him means to acquiesce to the truth of our being and so to discover that 'in truth' which is the basis of our freedom." -- Pope Benedict XVI
 7.  **Obedience and the Core Definition of Love:**
     *   Connect Obedience explicitly to the components from Ch 14:
         *   **Sacred Submission:** Obedience *is* this submission to God's **sacred** will.
@@ -67,8 +66,3 @@ Continuing the exploration of Moral Virtues, this chapter focuses on Obedience. 
     *   CCC 2234-2257 (Duties of family members, citizens, authorities - includes obedience)
 *   **Prayer Practice:** Pray the "Anima Christi," focusing on the line "Within Thy wounds hide me. Suffer me not to be separated from Thee." Intention: To unite one's will with Christ's perfect obedience, asking for the grace to overcome self-will and to remain firmly within God's loving will and the **sacred boundaries** of His **covenant**, finding safety and **life-giving communion** in submission to Him. (Repeated prayer, different intention focus).
 
-## Relevant Quotes (Saints, Theologians, Popes)
-
-*   "Obedience is the key that opens heaven." - St. Catherine of Siena
-*   "The power of obedience! The lake of Gennesaret had denied its fishes to Peter's nets. A whole night in vain. Then, obedient, he lowered his net again and they caught 'a huge number of fish.' Believe me: the miracle is repeated each day." - St. Josemaría Escrivá
-*   "Obedience to God is freedom. For to obey him means to acquiesce to the truth of our being and so to discover that 'in truth' which is the basis of our freedom." - Pope Benedict XVI

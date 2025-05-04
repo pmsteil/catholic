@@ -8,15 +8,9 @@ Continuing the exploration of what love requires, this chapter examines the Ten 
 
 ## I. Opening
 
-| Key Scripture Verse |
-| :------------------ |
-| "...If you would enter life, keep the commandments." |
-| *Matthew 19:17*     |
+**Key Scripture Verse**: "...If you would enter life, keep the commandments." -- *Matthew 19:17*
 
-| Key CCC Paragraph |
-| :---------------- |
-| "Beginning with the Old Testament, the sacred books refer to the 'ten words,' which delineate the conditions of a life freed from the slavery of sin. They show the way of life. They are summarized by the Lord in the twofold commandment of charity: love of God and love of neighbor." |
-| *CCC 2057*        |
+**Key CCC Reference(s)**: 2057 (Commandments delineate life freed from sin, show way of life, summarized in love of God/neighbor)
 
 ## II. Body: Developing the Theme
 
@@ -29,6 +23,9 @@ Continuing the exploration of what love requires, this chapter examines the Ten 
 3.  **Love as Fulfillment, Not Replacement:**
     *   Explain Jesus' teaching: He didn't abolish the Law but fulfilled it (Matthew 5:17).
     *   The two great commandments (Love God, Love Neighbor - Matthew 22:37-40) summarize and contain the Ten Commandments (CCC 2055). The Ten show us *how* to live out that twofold love.
+    *   > "The commandments... represent the basic condition for love of neighbour; at the same time they are the proof of that love. They are the *first necessary step on the journey towards freedom*, its starting-point." -- Pope St. John Paul II, *Veritatis Splendor*, 13
+    *   > "The precepts of the decalogue contain the very intention of the legislator, which is the love of God and neighbor." -- St. Thomas Aquinas, *Summa Theologiae*, I-II, Q. 100, Art. 3, Reply 2
+    *   > "Love God and do what you will." -- St. Augustine, *Sermon on 1 John 4:4-12* (Emphasizes true love aligns with God's will/commandments)
 4.  **Sacred Boundaries Protecting Covenant:**
     *   Present the Commandments as **sacred boundaries** protecting the **sacred covenant** relationship with God (first three commandments) and with neighbor (last seven commandments).
     *   Violating them damages these relationships, hindering **life-giving communion**.
@@ -63,8 +60,3 @@ Continuing the exploration of what love requires, this chapter examines the Ten 
     *   CCC 2083-2557 (Detailed explanation of each of the Ten Commandments)
 *   **Prayer Practice:** Make a thorough Examination of Conscience based on the Ten Commandments, followed by a sincere Act of Contrition. Intention: To recognize failures in upholding these **sacred boundaries**, to ask for God's **true mercy**, and to resolve, with the help of grace, to live more faithfully within the **sacred covenant** defined by His loving Law.
 
-## Relevant Quotes (Saints, Theologians, Popes)
-
-*   "The commandments... represent the basic condition for love of neighbour; at the same time they are the proof of that love. They are the *first necessary step on the journey towards freedom*, its starting-point." - Pope St. John Paul II, *Veritatis Splendor*, 13
-*   "The precepts of the decalogue contain the very intention of the legislator, which is the love of God and neighbor." - St. Thomas Aquinas, *Summa Theologiae*, I-II, Q. 100, Art. 3, Reply 2
-*   "Love God and do what you will." - St. Augustine, *Sermon on 1 John 4:4-12* (This quote emphasizes that true love inherently aligns with God's will as expressed in the commandments).

@@ -10,17 +10,9 @@ Concluding Part V ("The Practices of Love") and the main theological development
 
 ## I. Opening
 
-**Key Scripture Verse:**
+**Key Scripture Verse**: "So Jesus said to them, 'Truly, truly, I say to you, unless you eat the flesh of the Son of man and drink his blood, you have no life in you... He who eats my flesh and drinks my blood abides in me, and I in him.'" -- _John 6:53-56_
 
-| Reference | Text |
-| --- | --- |
-| John 6:53-56 | "So Jesus said to them, 'Truly, truly, I say to you, unless you eat the flesh of the Son of man and drink his blood, you have no life in you... He who eats my flesh and drinks my blood abides in me, and I in him.'" |
-
-**Key CCC Paragraph:**
-
-| Reference | Text |
-| --- | --- |
-| CCC 1324 | "The Eucharist is 'the source and summit of the Christian life.' 'The other sacraments, and indeed all ecclesiastical ministries and works of the apostolate, are bound up with the Eucharist and are oriented toward it. For in the blessed Eucharist is contained the whole spiritual good of the Church, namely Christ himself, our Pasch.'" |
+**Key CCC Reference(s)**: 1324 (Eucharist is 'source and summit'; contains whole spiritual good of Church, Christ himself)
 
 ## II. Body: Developing the Theme
 
@@ -30,6 +22,10 @@ Concluding Part V ("The Practices of Love") and the main theological development
 2.  **What IS the Eucharist? Real Presence:**
     *   Clearly state the doctrine of the Real Presence: The Eucharist _is_ Jesus Christ – Body, Blood, Soul, and Divinity – under the appearances of bread and wine (CCC 1374). It's not merely symbolic. Requires Faith (Ch 19).
     *   Briefly mention Transubstantiation (CCC 1376).
+    *   > "When you look at the Crucifix, you understand how much Jesus loved you then. When you look at the Sacred Host, you understand how much Jesus loves you now." -- St. Teresa of Calcutta
+    *   > "The Eucharist is the source and summit of the Church's life and mission." -- Pope Benedict XVI (_Sacramentum Caritatis_, 1)
+    *   > "If angels could be jealous of men, they would be so for one reason: Holy Communion." -- St. Maximilian Kolbe
+    *   > "It is not to remain in a golden ciborium that He comes down each day from Heaven, but to find another heaven, the heaven of our soul, where He takes delight." -- St. Thérèse of Lisieux (Story of a Soul)
 3.  **Eucharist as Sacrifice:**
     *   Explain how the Mass makes present Christ's one, perfect **sacrifice** on the Cross (Ch 24) in an unbloody manner (CCC 1366-1367).
     *   Our participation unites our own small **sacrifices** (Ch 51) with His perfect offering.
@@ -73,8 +69,3 @@ Concluding Part V ("The Practices of Love") and the main theological development
     *   _Ecclesia de Eucharistia_ (Encyclical by St. John Paul II on the Eucharist in its Relationship to the Church)
 *   **Prayer Practice:** Spend time in Eucharistic Adoration, simply being present to Christ in the Blessed Sacrament. Alternatively, make a fervent Spiritual Communion. Intention: To adore Christ truly present, to offer thanksgiving for this ultimate **sacred gift**, to deepen **sacred intimacy** and **communion**, and to draw strength from the **sacred source** for living a life of **sacrificial**, **covenantal** love.
 
-## Relevant Quotes (Saints, Theologians, Popes)
-
-*   "When you look at the Crucifix, you understand how much Jesus loved you then. When you look at the Sacred Host, you understand how much Jesus loves you now." - St. Teresa of Calcutta
-*   "The Eucharist is the source and summit of the Church's life and mission." - Pope Benedict XVI (_Sacramentum Caritatis_, 1)
-*   "If angels could be jealous of men, they would be so for one reason: Holy Communion." - St. Maximilian Kolbe

@@ -10,16 +10,9 @@ Continuing the exploration of the Source of Love, after defining love (Ch 14) an
 
 
 
-    | Reference   | Text                                                                                             |
-    | :---------- | :----------------------------------------------------------------------------------------------- |
-    | Genesis 1:27 | "So God created man in his own image, in the image of God he created him; male and female he created them." |
+**Key Scripture Verse**: "So God created man in his own image, in the image of God he created him; male and female he created them." -- _Genesis 1:27_
 
-
-
-
-    | Reference | Text                                                                                                                                                                                                                                                                                                                                                                                       |
-    | :-------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-    | CCC 357   | "Being in the image of God the human individual possesses the dignity of a person, who is not just something, but someone. He is capable of self-knowledge, of self-possession and of freely giving himself and entering into communion with other persons. And he is called by grace to a covenant with his Creator, to offer him a response of faith and love that no other creature can give in his stead." |
+**Key CCC Reference(s)**: 357 (Imago Dei: Dignity of person, capable of self-knowledge, self-possession, free self-gift, communion, covenant)
 
 ## II. Body: Developing the Theme
 
@@ -35,6 +28,9 @@ Continuing the exploration of the Source of Love, after defining love (Ch 14) an
     *   Connect the Imago Dei to our ultimate purpose: We weren't just made *like* God, but *for* God (CCC 1, 27).
     *   Our deepest desires for love, connection, **justice**, and **mercy** (Ch 2-4) stem from this design. We are hardwired for **life-giving communion**.
     *   This inherent orientation towards God is the "Divine Spark" within us, the point of contact for grace.
+    *   > "You have made us for yourself, O Lord, and our heart is restless until it rests in you." -- St. Augustine, *Confessions*, Book 1, Ch 1
+    *   > "Man cannot live without love. He remains a being that is incomprehensible for himself, his life is senseless, if love is not revealed to him, if he does not encounter love, if he does not experience it and make it his own, if he does not participate intimately in it." -- St. John Paul II, *Redemptor Hominis*, 10
+    *   > "Christian, recognize your dignity and, now that you share in God's own nature, do not return to your former base condition by sinning." -- St. Leo the Great, *Sermo 21*
 4.  **Dignity Persists Despite Sin:**
     *   Acknowledge the effects of Original Sin (Ch 1): Our nature is wounded, intellect darkened, will weakened.
     *   However, the fundamental dignity of being made in God's image remains (CCC 405). This is why redemption and grace are possible. God doesn't give up on His creation.
@@ -71,8 +67,3 @@ Continuing the exploration of the Source of Love, after defining love (Ch 14) an
     *   CCC 1700-1715 (Dignity of the Human Person, Beatitude)
 *   **Prayer Practice:** Pray the Te Deum (or another prayer of praise like the Gloria). Intention: To give thanks and praise to God for the **sacred gift** of creation, for bestowing upon humanity such profound dignity (Imago Dei), and for calling us into **covenant** and **life-giving communion** through His love and grace.
 
-## Relevant Quotes (Saints, Theologians, Popes)
-
-*   "Christian, recognize your dignity and, now that you share in God's own nature, do not return to your former base condition by sinning." - St. Leo the Great, *Sermo 21*
-*   "Man cannot live without love. He remains a being that is incomprehensible for himself, his life is senseless, if love is not revealed to him, if he does not encounter love, if he does not experience it and make it his own, if he does not participate intimately in it." - St. John Paul II, *Redemptor Hominis*, 10
-*   "You have made us for yourself, O Lord, and our heart is restless until it rests in you." - St. Augustine, *Confessions*, Book 1, Ch 1

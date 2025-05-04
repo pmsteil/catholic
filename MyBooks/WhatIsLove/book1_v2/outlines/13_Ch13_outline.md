@@ -10,17 +10,9 @@ This chapter concludes Part I. It synthesizes the critiques of the various count
 
 
 
-    | Verse         | Text                                                                                             |
-    |---------------|--------------------------------------------------------------------------------------------------|
-    | 1 John 4:8    | "He who does not love does not know God; for God is love."                                        |
-    | 1 John 4:16b  | "...God is love, and he who abides in love abides in God, and God abides in him."                  |
+**Key Scripture Verse**: "He who does not love does not know God; for God is love... God is love, and he who abides in love abides in God, and God abides in him." -- _1 John 4:8, 16b_
 
-
-
-
-    | Paragraph | Text                                                                                                                                                                                                                                                           |
-    |-----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-    | CCC 25    | "The whole concern of doctrine and its teaching must be directed to the love that never ends. Whether something is proposed for belief, for hope or for action, the love of our Lord must always be made accessible, so that anyone can see that all the works of perfect Christian virtue spring from love and have no other objective than to arrive at love." |
+**Key CCC Reference(s)**: 25 (All doctrine and teaching must be directed to the love that never ends)
 
 ## II. Body: Developing the Theme
 
@@ -43,6 +35,9 @@ This chapter concludes Part I. It synthesizes the critiques of the various count
         *   **Covenant:** Implies commitment and faithfulness, countering relativism and temporary arrangements.
         *   **Binds True Justice and True Mercy:** Integrates what counterfeits often oppose or distort.
         *   **Life-Giving Communion:** The ultimate goal, countering division and isolation.
+    *   > "Being Christian is not the result of an ethical choice or a lofty idea, but the encounter with an event, a person, which gives life a new horizon and a decisive direction." -- Pope Benedict XVI, *Deus Caritas Est*, 1
+    *   > "Love consists of a commitment which limits one's freedom - it is a giving of the self, and to give oneself means just that: to limit one's freedom on behalf of another." -- St. John Paul II, *Love and Responsibility*
+    *   > "To love is to will the good of the other." -- St. Thomas Aquinas, *Summa Theologiae*, I-II, Q. 26, Art. 4
 5.  **The Embodiment: Jesus Christ:**
     *   Stress that this definition isn't merely philosophical but is perfectly embodied in the person and actions of Jesus Christ.
     *   He reveals God's **sacred** nature, makes the ultimate **sacrifice**, establishes the New **Covenant**, embodies **true justice** and **true mercy**, and invites us into **life-giving communion** with the Trinity and each other. He *is* the answer.
@@ -67,8 +62,3 @@ This chapter concludes Part I. It synthesizes the critiques of the various count
     *   CCC 1691-1698 (Life in Christ - the basis of Christian morality)
 *   **Prayer Practice:** Pray the Veni Creator Spiritus (Come, Holy Spirit, Creator Blest). Intention: To invoke the Holy Spirit, the Love between the Father and the Son, asking Him to illuminate the mind and inflame the heart with the **sacred truth** and beauty of the Catholic vision of love, preparing the soul to delve deeper into its mysteries.
 
-## Relevant Quotes (Saints, Theologians, Popes)
-
-*   "Being Christian is not the result of an ethical choice or a lofty idea, but the encounter with an event, a person, which gives life a new horizon and a decisive direction." - Pope Benedict XVI, *Deus Caritas Est*, 1
-*   "Love consists of a commitment which limits one's freedom - it is a giving of the self, and to give oneself means just that: to limit one's freedom on behalf of another." - St. John Paul II, *Love and Responsibility*
-*   "To love is to will the good of the other." - St. Thomas Aquinas, *Summa Theologiae*, I-II, Q. 26, Art. 4

@@ -10,13 +10,9 @@ Continuing the exploration of the Practices of Love, this chapter focuses on the
 
 ## I. Opening
 
-| Verse | Text | Focus |
-| --- | --- | --- |
-| John 6:56 | "He who eats my flesh and drinks my blood abides in me, and I in him." | Eucharistic intimacy |
+**Key Scripture Verse**: "He who eats my flesh and drinks my blood abides in me, and I in him." -- _John 6:56_
 
-| Paragraph | Text |
-| --- | --- |
-| CCC 1116 | "'Sacraments are 'powers that comes forth' from the Body of Christ, which is ever-living and life-giving. They are actions of the Holy Spirit at work in his Body, the Church. They are 'the masterworks of God' in the new and everlasting covenant." |
+**Key CCC Reference(s)**: 1116 (Sacraments are 'powers' from Christ's Body, actions of Holy Spirit, 'masterworks of God')
 
 ## II. Body: Developing the Theme
 
@@ -32,6 +28,9 @@ Continuing the exploration of the Practices of Love, this chapter focuses on the
     *   The Church (Ch 50) acts as the steward and minister of these **sacred mysteries**.
 4.  **Sacraments as Encounters with Christ:**
     *   Stress that sacraments are not magic rituals but personal encounters with the living Christ acting through the Holy Spirit (Ch 17) (CCC 1088-1089). They foster **sacred intimacy**.
+    *   > "What was visible in our Redeemer has passed over into his sacraments." -- St. Leo the Great (Sermon 74, 2)
+    *   > "The Eucharist draws us into Jesus' act of self-oblation... We enter into the very dynamic of his self-giving." -- Pope Benedict XVI (Deus Caritas Est, 13)
+    *   > "It is not to remain in a golden ciborium that He comes down each day from Heaven, but to find another heaven, the heaven of our soul, where He takes delight." -- St. Thérèse of Lisieux (Story of a Soul)
 5.  **Overview of the Seven Sacraments (Briefly, focusing on link to love/communion):**
     *   **Initiation:**
         *   _Baptism:_ Entry into the **sacred covenant**, new life, forgiveness of sin, becoming member of Christ's Body (CCC 1213). Foundation of **communion**.
@@ -76,8 +75,3 @@ Continuing the exploration of the Practices of Love, this chapter focuses on the
     *   CCC 1113-1134 (Sacraments - Definition, Christ's institution, Efficacy, Necessity)
 *   **Prayer Practice:** Make a Spiritual Communion prayer, expressing desire for union with Christ in the Eucharist. Intention: To cultivate a deeper hunger for sacramental **sacred intimacy** and **nourishment**, recognizing the Eucharist as the source and summit of Christian life and the ultimate expression of **life-giving communion**.
 
-## Relevant Quotes (Saints, Theologians, Popes)
-
-*   "What was visible in our Redeemer has passed over into his sacraments." - St. Leo the Great (Sermon 74, 2)
-*   "The Eucharist draws us into Jesus' act of self-oblation... We enter into the very dynamic of his self-giving." - Pope Benedict XVI (Deus Caritas Est, 13)
-*   "It is not to remain in a golden ciborium that He comes down each day from Heaven, but to find another heaven, the heaven of our soul, where He takes delight." - St. Thérèse of Lisieux (Story of a Soul)

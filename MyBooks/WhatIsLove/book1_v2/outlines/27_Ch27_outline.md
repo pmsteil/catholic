@@ -8,14 +8,9 @@ Delving deeper into the Cardinal Virtues introduced in Chapter 26, this chapter 
 
 ## I. Opening
 
-| Key Scripture Verse                                                                                             | Reference        |
-| :-------------------------------------------------------------------------------------------------------------- | :--------------- |
-| "To get wisdom is better than gold; to get understanding is to be chosen rather than silver."                    | (Proverbs 16:16) |
-| *(Wisdom/Prudence as highly valuable)*                                                                          |                  |
+**Key Scripture Verse**: "To get wisdom is better than gold; to get understanding is to be chosen rather than silver." -- _Proverbs 16:16_
 
-| Key CCC Paragraph                                                                                                                                                                                                                                                                                       | Reference |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :-------- |
-| "Prudence is the virtue that disposes practical reason to discern our true good in every circumstance and to choose the right means of achieving it; 'the prudent man looks where he is going.' ... It is not to be confused with timidity or fear, nor with duplicity or dissimulation. It is called *auriga virtutum* (the charioteer of the virtues); it guides the other virtues by setting rule and measure." | (CCC 1806)|
+**Key CCC Reference(s)**: 1806 (Prudence: Disposes practical reason to discern true good and choose right means; charioteer of virtues)
 
 ## II. Body: Developing the Theme
 

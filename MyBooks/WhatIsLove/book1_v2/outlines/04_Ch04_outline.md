@@ -10,15 +10,9 @@ Following the exploration of suffering, the longing for love, and the cry for ju
 
 ## I. Opening
 
-| Key Scripture Verse |
-| --- |
-| "Blessed are the merciful, for they shall obtain mercy." |
-| _Matthew 5:7_ |
+**Key Scripture Verse**: "Blessed are the merciful, for they shall obtain mercy." -- _Matthew 5:7_
 
-| Key CCC Paragraph |
-| --- |
-| "The Gospel is the revelation in Jesus Christ of God's mercy to sinners. The angel announced to Joseph: 'You shall call his name Jesus, for he will save his people from their sins.' The same is true of the Eucharist, the sacrament of redemption: 'This is my blood of the covenant, which is poured out for many for the forgiveness of sins.'" |
-| _CCC 1846_ |
+**Key CCC Reference(s)**: 1846
 
 ## II. Body: Developing the Theme
 
@@ -31,21 +25,28 @@ Following the exploration of suffering, the longing for love, and the cry for ju
 3.  **Defining Mercy: Compassionate Action:**
     *   Define mercy not just as pity, but as active, compassionate love that enters into the suffering of others to bring **sacred healing** and restoration. It's a key attribute of God (Ephesians 2:4 - "rich in mercy").
     *   It's the practical application of love in the face of brokenness.
-4.  **Distortions of Mercy:**
+
+> "Mercy is an indispensable dimension of love; it is, as it were, love's second name..." -- Pope St. John Paul II (Dives in Misericordia, 7)
+
+> "Mankind will not have peace until it turns with trust to My mercy." -- St. Faustina Kowalska (Diary, 300)
+
+> "The greater the sinner, the greater the right he has to My mercy." -- St. Faustina Kowalska (Diary, 723)
+
+1.  **Distortions of Mercy:**
     *   How sin twists mercy:
         *   False forgiveness that ignores **true justice** or enables sin.
         *   Withholding forgiveness out of pride or bitterness.
         *   Seeking healing through purely secular means, ignoring the spiritual dimension and the need for God's grace.
         *   Confusing mere tolerance with **true mercy**.
-5.  **Mercy Perfects Justice:**
+2.  **Mercy Perfects Justice:**
     *   Explain that **true mercy** and **true justice** are not opposed but are **bound** together in God's love (as per the core definition).
     *   Justice establishes what is right; mercy goes beyond strict justice to heal, restore, and offer forgiveness, fulfilling the spirit of the law which is love (Charity - CCC 1829).
     *   Reference the Parable of the Prodigal Son (Luke 15) – the father upholds the family structure (**justice**) but goes far beyond it in **mercy**.
-6.  **The Ultimate Source and Means of Mercy:**
+3.  **The Ultimate Source and Means of Mercy:**
     *   God's mercy is most profoundly revealed in Jesus Christ, especially His **sacrificial** death on the **Cross** (CCC 1846).
     *   The **Sacrament** of Reconciliation (Confession) is the primary, **sacred** channel instituted by Christ for receiving God's forgiveness and healing grace.
     *   The Eucharist as the **sacred gift** of His **life-giving** presence, strengthening us.
-7.  **Anecdote Placeholder:**
+4.  **Anecdote Placeholder:**
     *   `[Author Anecdote: A powerful experience of receiving or extending forgiveness, or witnessing profound healing (physical or spiritual) that highlighted the power of God's mercy.]`
 
 ## III. Closing
@@ -62,9 +63,3 @@ Following the exploration of suffering, the longing for love, and the cry for ju
     *   CCC 1846-1848 (God's Mercy Revealed)
     *   CCC 2838-2845 (Forgiveness in the "Our Father")
 *   **Prayer Practice:** Pray the Divine Mercy Chaplet. Intention: To implore God's **sacred mercy** upon ourselves and the whole world, seeking healing for personal wounds and the grace to be merciful as our Father is merciful, fostering **life-giving communion**.
-
-## Relevant Quotes (Saints, Theologians, Popes)
-
-*   "Mankind will not have peace until it turns with trust to My mercy." - St. Faustina Kowalska (Diary, 300)
-*   "The greater the sinner, the greater the right he has to My mercy." - St. Faustina Kowalska (Diary, 723)
-*   "Mercy is an indispensable dimension of love; it is, as it were, love's second name..." - Pope St. John Paul II (Dives in Misericordia, 7)

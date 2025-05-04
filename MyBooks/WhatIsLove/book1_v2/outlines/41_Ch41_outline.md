@@ -8,17 +8,9 @@ Continuing the exploration of Moral Virtues, this chapter focuses on Self-Contro
 
 ## I. Opening
 
-| Key Scripture Verse |
-|---|
-| "Every athlete exercises self-control in all things... I pommel my body and subdue it, lest after preaching to others I myself should be disqualified." |
-| *1 Corinthians 9:25, 27* |
+**Key Scripture Verse**: "Every athlete exercises self-control in all things... I pommel my body and subdue it, lest after preaching to others I myself should be disqualified." -- *1 Corinthians 9:25, 27*
 
-| Key CCC Paragraph(s) |
-|---|
-| Temperance ensures "the will's mastery over instincts." Self-control is the practical exercise of this mastery. |
-| *CCC 1809* |
-| Self-control is listed as a fruit of the Spirit. |
-| *CCC 1832* |
+**Key CCC Reference(s)**: 1809 (Temperance ensures will's mastery over instincts); 1832 (Self-control is fruit of the Spirit)
 
 ## II. Body: Developing the Theme
 
@@ -36,6 +28,9 @@ Continuing the exploration of Moral Virtues, this chapter focuses on Self-Contro
 4.  **Self-Control as Essential Discipline for Love:**
     *   Explain why love requires this discipline: Uncontrolled impulses (lust, greed, anger, laziness) are inherently selfish and destructive to relationships (**covenant**, **communion**).
     *   Self-control creates the inner freedom necessary for **sacrificial** self-**gift**. It allows us to act intentionally out of love, rather than reactively out of passion.
+    *   > "No one who is a lover of money, pleasure, or glory is qualified to govern. A ruler must be apt to teach; but the lover of money is apt to sell, the lover of pleasure is apt to enslave, and the lover of glory is apt to deceive." -- St. John Chrysostom, Homilies on Titus
+    *   > "True devotion consists not in sterile tenderness of heart, but in a resolute will to do whatever pleases God. It is practiced not only amidst consolations, but also amidst the greatest repugnances and difficulties." -- St. Francis de Sales, Introduction to the Devout Life
+    *   > "Freedom consists not in doing what we like, but in having the right to do what we ought." -- Pope St. John Paul II, Address to Youth, 1995
 5.  **Requires Grace, Practice, and Vigilance:**
     *   Acknowledge this is a lifelong struggle against concupiscence.
     *   Requires God's grace (Ch 15), the power of the Holy Spirit (Ch 17 - listed as a fruit), and consistent effort in prayer, sacraments, and forming good habits (Virtue - Ch 30). Requires vigilance ("Be sober, be watchful" - 1 Peter 5:8).
@@ -69,8 +64,3 @@ Continuing the exploration of Moral Virtues, this chapter focuses on Self-Contro
     *   CCC 2733 (Acedia overcome by vigilance of heart and self-control)
 *   **Prayer Practice:** Pray the Litany of the Most Precious Blood of Jesus. Intention: To seek cleansing and strength from the Blood of Christ, asking for the grace of **sacred discipline** and Self-Control over sinful inclinations and disordered desires, freeing the heart to love God and neighbor more purely and completely.
 
-## Relevant Quotes (Saints, Theologians, Popes)
-
-*   "No one who is a lover of money, pleasure, or glory is qualified to govern. A ruler must be apt to teach; but the lover of money is apt to sell, the lover of pleasure is apt to enslave, and the lover of glory is apt to deceive." - *St. John Chrysostom, Homilies on Titus*
-*   "True devotion consists not in sterile tenderness of heart, but in a resolute will to do whatever pleases God. It is practiced not only amidst consolations, but also amidst the greatest repugnances and difficulties." - *St. Francis de Sales, Introduction to the Devout Life*
-*   "Freedom consists not in doing what we like, but in having the right to do what we ought." - *Pope St. John Paul II, Address to Youth, 1995*

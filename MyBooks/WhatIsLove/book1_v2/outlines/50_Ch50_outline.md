@@ -10,15 +10,9 @@ This chapter begins Part V, "The Practices of Love - How we grow in Love." Havin
 
 ## I. Opening
 
-| Key Scripture Verse |
-| --- |
-| "...and he has put all things under his feet and has made him the head over all things for the church, which is his body, the fulness of him who fills all in all." |
-| _Ephesians 1:22-23_ |
+**Key Scripture Verse**: "...and he has put all things under his feet and has made him the head over all things for the church, which is his body, the fulness of him who fills all in all." -- _Ephesians 1:22-23_
 
-| Key CCC Paragraph |
-| --- |
-| "The comparison of the Church with the body casts light on the intimate bond between Christ and his Church. Not only is she gathered _around him_; she is united _in him_, in his body. Three aspects of the Church as the Body of Christ are to be more specifically noted: the unity of all her members with each other as a result of their union with Christ; Christ as head of the Body; and the Church as bride of Christ." |
-| _CCC 789_ |
+**Key CCC Reference(s)**: 789 (Church as Body of Christ: Unity of members in Christ; Christ as Head; Church as Bride)
 
 ## II. Body: Developing the Theme
 

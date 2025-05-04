@@ -8,16 +8,9 @@ This chapter begins Part II, "The Source of Love." Having contrasted authentic l
 
 ## I. Opening
 
+**Key Scripture Verse**: "So we know and believe the love God has for us. God is love, and he who abides in love abides in God, and God abides in him." -- _1 John 4:16_
 
-    | Verse        | Text                                                                                                                            | Note                                                                         |
-    | :----------- | :------------------------------------------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------- |
-    | 1 John 4:16  | "So we know and believe the love God has for us. God is love, and he who abides in love abides in God, and God abides in him." | (Repeated from Ch 2 for emphasis, as this is the core definition chapter). |
-
-
-
-    | Paragraph | Text                                                                                                                               | Note                                                                      |
-    | :-------- | :--------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------ |
-    | CCC 1822  | "Charity is the theological virtue by which we love God above all things for His own sake, and our neighbor as ourselves for the love of God." | (Connects theological Charity to the definition being explored). |
+**Key CCC Reference(s)**: 1822 (Charity: Love God above all for His own sake, and neighbor as self for love of God)
 
 ## II. Body: Developing the Theme
 

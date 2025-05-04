@@ -8,14 +8,9 @@ Continuing the examination of counterfeit loves, this chapter addresses modern f
 
 ## I. Opening
 
-| Key Scripture Verse                                                                                   | Reference   |
-| :---------------------------------------------------------------------------------------------------- | :---------- |
-| "So God created man in his own image, in the image of God he created him; male and female he created them." | Genesis 1:27 |
-*(Foundation of equal dignity and complementarity)*
+**Key Scripture Verse**: "So God created man in his own image, in the image of God he created him; male and female he created them." -- _Genesis 1:27_ (Foundation of equal dignity and complementarity)
 
-| Key CCC Paragraph                                                                                                                                                           | Reference |
-| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------- |
-| "'In creating men "male and female," God gives man and woman an equal personal dignity.' 'Man is a person, man and woman equally so, since both were created in the image and likeness of the personal God.'" | CCC 2334  |
+**Key CCC Reference(s)**: 2334 (Equal personal dignity for man and woman)
 
 ## II. Body: Developing the Theme
 
@@ -41,6 +36,9 @@ Continuing the examination of counterfeit loves, this chapter addresses modern f
     *   Contrast with the Church's high view of women's dignity, exemplified by Mary, the Mother of God.
     *   Reference St. John Paul II's concept of the "feminine genius" (Mulieris Dignitatem) – unique strengths and contributions of women in society and the Church.
     *   Emphasize equal dignity *and* difference/complementarity as God's plan for **life-giving communion**.
+    *   > "The Church gives thanks for each and every woman: for mothers, for sisters, for wives; for women consecrated to God in virginity; for women dedicated to the many human beings who await the gratuitous love of another person; for women who watch over the human persons in the family, which is the fundamental sign of the human community; for women who work professionally, and who at times are burdened by a great social responsibility; for 'perfect' women and for 'weak' women - for all women as they have come forth from the heart of God in all the beauty and richness of their femininity." -- Pope St. John Paul II, *Mulieris Dignitatem*, 30
+    *   > "The world doesn’t need what women *have*, it needs what women *are*." -- St. Teresa Benedicta of the Cross (Edith Stein)
+    *   > "An ideology that reduces the profound mystery of sexual difference to a mere social construct or a source of perpetual conflict ultimately diminishes both men and women, obscuring the path to the authentic communion for which they were created." -- Reflecting Catholic Teaching
 6.  **Contrast with the Catholic Vision of Love:**
     *   Authentic love respects and rejoices in the **sacred truth** of God's creation, including sexual difference and complementarity. It is inherently **life-giving**, **sacrificial**, and ordered towards **communion** within **sacred covenants**.
     *   Reiterate the core definition: > **Perfect Love is the sacred, sacrificial gift of covenant which binds true justice and true mercy into life-giving communion.** Show how certain feminist ideologies contradict this, particularly regarding **truth**, **life-giving communion**, **sacrifice**, **covenant**, and **justice**.
@@ -64,8 +62,3 @@ Continuing the examination of counterfeit loves, this chapter addresses modern f
     *   *Mulieris Dignitatem* (Apostolic Letter by St. John Paul II on the Dignity and Vocation of Women)
 *   **Prayer Practice:** Pray the Litany of Loreto (Litany of the Blessed Virgin Mary). Intention: To honor Mary as the model of perfect womanhood and discipleship, asking for her intercession to understand and live out the true dignity and vocation of women according to God's **sacred** plan, fostering **life-giving communion**.
 
-## Relevant Quotes (Saints, Theologians, Popes)
-
-*   "The Church gives thanks for each and every woman: for mothers, for sisters, for wives; for women consecrated to God in virginity; for women dedicated to the many human beings who await the gratuitous love of another person; for women who watch over the human persons in the family, which is the fundamental sign of the human community; for women who work professionally, and who at times are burdened by a great social responsibility; for 'perfect' women and for 'weak' women - for all women as they have come forth from the heart of God in all the beauty and richness of their femininity." - **Pope St. John Paul II, *Mulieris Dignitatem*, 30**
-*   "An ideology that reduces the profound mystery of sexual difference to a mere social construct or a source of perpetual conflict ultimately diminishes both men and women, obscuring the path to the authentic communion for which they were created." - **Reflecting Catholic Teaching**
-*   "The world doesn’t need what women *have*, it needs what women *are*." - **St. Teresa Benedicta of the Cross (Edith Stein)**

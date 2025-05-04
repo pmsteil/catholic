@@ -8,10 +8,9 @@ Following the discussion on Truth (Ch 21), this chapter focuses on Mercy as anot
 
 ## I. Opening
 
-| Category             | Reference   | Text                                                                                                                                                                                          | Notes                                                    |
-| :------------------- | :---------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------- |
-| Key Scripture Verse  | Luke 6:36   | "Be merciful, even as your Father is merciful."                                                                                                                                               |                                                          |
-| Key CCC Paragraph    | CCC 2842    | "It is not in our power not to feel or to forget an offense; but the heart that offers itself to the Holy Spirit turns injury into compassion and purifies the memory by transforming the hurt into intercession." | Highlights the role of the Spirit in enabling mercy. |
+**Key Scripture Verse**: "Be merciful, even as your Father is merciful." -- _Luke 6:36_
+
+**Key CCC Reference(s)**: 2842 (Heart offered to Spirit turns injury into compassion, purifies memory)
 
 ## II. Body: Developing the Theme
 
@@ -24,6 +23,9 @@ Following the discussion on Truth (Ch 21), this chapter focuses on Mercy as anot
 3.  **God's Mercy as the Model and Source:**
     *   Emphasize God's identity as "rich in mercy" (Eph 2:4). His actions throughout salvation history demonstrate His merciful love.
     *   Our mercy is a participation in His. We can only give what we first receive through His **sacred gift** of grace (Ch 15).
+    *   > "Mankind will not have peace until it turns with trust to My mercy." -- St. Faustina Kowalska (Diary, 300)
+    *   > "Let no soul fear to draw near to Me, even though its sins be as scarlet... My mercy is greater than your sins and those of the entire world." -- St. Faustina Kowalska (Diary, 699)
+    *   > "There is nothing that man needs more than Divine Mercy – that love which is benevolent, which is compassionate, which raises man above his weakness to the infinite heights of the holiness of God." -- Pope St. John Paul II (Homily, August 17, 2002, Krakow - Dedication of the Divine Mercy Shrine)
 4.  **The Core of Mercy: Forgiveness:**
     *   Focus on the command to forgive as we are forgiven (Matthew 6:14-15, 18:21-35 - Parable of Unforgiving Servant).
     *   This requires **sacrifice** – letting go of resentment, desire for revenge, pride.
@@ -61,8 +63,3 @@ Following the discussion on Truth (Ch 21), this chapter focuses on Mercy as anot
     *   CCC 2838-2845 (Forgive us our trespasses...)
 *   **Prayer Practice:** Pray the Divine Mercy Chaplet or reflect deeply on the Parable of the Prodigal Son (Luke 15). Intention: To implore God's **sacred mercy** on oneself and the world, and to ask for the grace to overcome hardness of heart, practice forgiveness readily, and actively seek opportunities for compassionate action (**sacred healing**).
 
-## Relevant Quotes (Saints, Theologians, Popes)
-
-*   "Mankind will not have peace until it turns with trust to My mercy." - St. Faustina Kowalska (Diary, 300)
-*   "Let no soul fear to draw near to Me, even though its sins be as scarlet... My mercy is greater than your sins and those of the entire world." - St. Faustina Kowalska (Diary, 699)
-*   "There is nothing that man needs more than Divine Mercy – that love which is benevolent, which is compassionate, which raises man above his weakness to the infinite heights of the holiness of God." - Pope St. John Paul II (Homily, August 17, 2002, Krakow - Dedication of the Divine Mercy Shrine)

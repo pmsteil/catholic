@@ -8,15 +8,9 @@ Continuing the exploration of what love requires, this chapter focuses intensely
 
 ## I. Opening
 
-| Key Scripture Verse                                                               |
-| :-------------------------------------------------------------------------------- |
-| "Greater love has no man than this, that a man lay down his life for his friends." |
-Reference: John 15:13
+**Key Scripture Verse**: "Greater love has no man than this, that a man lay down his life for his friends." -- _John 15:13_
 
-| Key CCC Paragraph                                                                                                                                                                                                                                                        |
-| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| "By embracing in his human heart the Father's love for men, Jesus 'loved them to the end,' for 'greater love has no man than this, that a man lay down his life for his friends.' In suffering and death his humanity became the free and perfect instrument of his divine love which desires the salvation of men." |
-Reference: CCC 609
+**Key CCC Reference(s)**: 609 (Jesus loved to the end, laying down His life; His humanity became the instrument of divine love for salvation)
 
 ## II. Body: Developing the Theme
 
@@ -32,6 +26,9 @@ Reference: CCC 609
         *   He takes upon Himself the consequences of our sin (injustice) to offer us forgiveness (**true mercy**) and restore right relationship (**true justice**).
         *   He establishes the New **Covenant** in His blood.
         *   Through His death, He brings **life-giving communion**. (CCC 606-618).
+        *   > "Apart from the cross there is no other ladder by which we may get to heaven." -- St. Rose of Lima
+        *   > "Love to be real, it must cost—it must hurt—it must empty us of self." -- St. Teresa of Calcutta
+        *   > "The Cross had asked the questions; the Resurrection had answered them...The Cross had asked: 'Why does God permit evil and sin to nail Justice to a tree?' The Resurrection answered: 'That sin, having done its worst, might exhaust itself and this be overcome by Love that is stronger than death.'" -- Archbishop Fulton J. Sheen
 4.  **Why Sacrifice is Necessary:**
     *   **Counteracting Sin/Selfishness:** Our fallen nature pulls inward (Ch 8 - Individualism). Sacrifice is the active counter-movement, choosing love over self-interest.
     *   **Proving Love:** Actions speak louder than words or feelings (Ch 6 - Sentimentalism). Sacrifice demonstrates the depth and reality of love's commitment (**covenant**).
@@ -65,8 +62,3 @@ Reference: CCC 609
     *   CCC 901 (Laity participating in Christ's priestly office through spiritual sacrifices)
 *   **Prayer Practice:** Pray the Stations of the Cross or meditate deeply before a Crucifix. Intention: To contemplate the depth of Christ's **sacred, sacrificial** love, to unite personal sufferings and sacrifices with His, and to ask for the grace to embrace the cross in daily life as an act of love for God and neighbor, strengthening the **sacred covenant**.
 
-## Relevant Quotes (Saints, Theologians, Popes)
-
-*   "Apart from the cross there is no other ladder by which we may get to heaven." - St. Rose of Lima
-*   "Love to be real, it must cost—it must hurt—it must empty us of self." - St. Teresa of Calcutta
-*   "The Cross had asked the questions; the Resurrection had answered them...The Cross had asked: 'Why does God permit evil and sin to nail Justice to a tree?' The Resurrection answered: 'That sin, having done its worst, might exhaust itself and this be overcome by Love that is stronger than death.'" - Archbishop Fulton J. Sheen

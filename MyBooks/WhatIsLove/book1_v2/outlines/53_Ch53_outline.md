@@ -10,13 +10,9 @@ Continuing the exploration of the Practices of Love, this chapter focuses on Pra
 
 ## I. Opening
 
-| Reference | Text |
-| --- | --- |
-| Philippians 4:6 | "Have no anxiety about anything, but in everything by prayer and supplication with thanksgiving let your requests be made known to God." |
+**Key Scripture Verse**: "Have no anxiety about anything, but in everything by prayer and supplication with thanksgiving let your requests be made known to God." -- _Philippians 4:6_
 
-| Reference | Text |
-| --- | --- |
-| CCC 2559 | "'Prayer is the raising of one's mind and heart to God or the requesting of good things from God.' But when we pray, do we speak from the height of our pride and will, or 'out of the depths' of a humble and contrite heart? He who humbles himself will be exalted; humility is the foundation of prayer..." |
+**Key CCC Reference(s)**: 2559 (Prayer is raising mind/heart to God or requesting good things; humility is foundation)
 
 ## II. Body: Developing the Theme
 
@@ -27,6 +23,9 @@ Continuing the exploration of the Practices of Love, this chapter focuses on Pra
     *   Use the definition from CCC 2559: Raising mind and heart, requesting good things.
     *   Emphasize it's a _relationship_, a dialogue, not just reciting formulas or making requests. It involves both speaking _and_ listening.
     *   Requires Humility (Ch 31) – recognizing we are beggars before God.
+    *   > "Prayer is nothing else than being on terms of friendship with God, frequently conversing in secret with Him who, we know, loves us." -- St. Teresa of Ávila
+    *   > "Prayer is the inner bath of love into which the soul plunges itself." -- St. John Vianney
+    *   > "Prayer is not asking for things; it is entering into the presence of God, seeking His face, listening to His voice in the silence of the heart." -- Pope Benedict XVI
 3.  **Prayer as Covenant Conversation:**
     *   Frame prayer as the living expression of our **sacred covenant** relationship with God. It's where we exercise our Faith (Ch 19), Hope (Ch 20), and Charity (Ch 18).
 4.  **Forms of Prayer (Brief Overview - CCC 2626-2643):**
@@ -68,8 +67,3 @@ Continuing the exploration of the Practices of Love, this chapter focuses on Pra
     *   CCC Part Four: Christian Prayer (CCC 2558-2865 - Comprehensive teaching on prayer)
 *   **Prayer Practice:** Commit to a specific, consistent time for personal prayer each day, even if brief. Use the Lord's Prayer ("Our Father") as a model, reflecting on each petition. Intention: To cultivate the habit of **sacred conversation** with God, deepening the **sacred covenant** relationship and opening the heart more fully to the **sacred intimacy** and **life-giving communion** He desires to share.
 
-## Relevant Quotes (Saints, Theologians, Popes)
-
-*   "Prayer is nothing else than being on terms of friendship with God, frequently conversing in secret with Him who, we know, loves us." - St. Teresa of Ávila
-*   "Prayer is the inner bath of love into which the soul plunges itself." - St. John Vianney
-*   "Prayer is not asking for things; it is entering into the presence of God, seeking His face, listening to His voice in the silence of the heart." - Pope Benedict XVI

@@ -8,17 +8,9 @@ Continuing the exploration of Moral Virtues, this chapter focuses on Meekness. O
 
 ## I. Opening
 
+**Key Scripture Verse**: "Blessed are the meek, for they shall inherit the earth." -- _Matthew 5:5_
 
-    | Verse       | Text                                                 |
-    | :---------- | :--------------------------------------------------- |
-    | Matthew 5:5 | "Blessed are the meek, for they shall inherit the earth." |
-
-
-
-    | Paragraph | Summary                                                                                                                            |
-    | :-------- | :--------------------------------------------------------------------------------------------------------------------------------- |
-    | CCC 2302  | References Christ's command to "turn the other cheek" (Mt 5:39) which requires meekness, stating it pertains to anger.             |
-    | CCC 736   | *Alternatively:* Lists meekness/gentleness as a fruit of the Spirit.                                                              |
+**Key CCC Reference(s)**: 2302 (Turn the other cheek pertains to anger); 736 (Meekness/gentleness is fruit of the Spirit)
 
 ## II. Body: Developing the Theme
 
@@ -32,6 +24,8 @@ Continuing the exploration of Moral Virtues, this chapter focuses on Meekness. O
         *   **Apathy/Indifference:** Not caring about injustice or injury.
         *   **Uncontrolled Anger/Wrath:** Lashing out disproportionately or vengefully.
     *   Meekness is compatible with righteous anger directed at sin/injustice, but controls its expression.
+    *   > "Take care to practice well the humble meekness that you owe to everybody, for it is the virtue of virtues which our Lord greatly recommended to us." -- St. Francis de Sales
+    *   > "Nothing is so strong as gentleness, nothing so gentle as real strength." -- St. Francis de Sales
 3.  **Rooted in Humility and Trust:**
     *   Meekness flows from Humility (Ch 31) – recognizing our own faults and dependence on God's **mercy**.
     *   It requires deep trust (Faith - Ch 19, Hope - Ch 20) in God's ultimate **justice** and providence, freeing us from the need to take personal revenge.
@@ -68,8 +62,3 @@ Continuing the exploration of Moral Virtues, this chapter focuses on Meekness. O
     *   CCC 1832 (Fruits of the Spirit)
     *   CCC 2302-2304 (Anger, deliberate hatred, need for peace - context for meekness)
 *   **Prayer Practice:** Pray the Litany of Humility, focusing on petitions related to anger and reputation ("From the desire of being vindicated... From the fear of suffering rebukes... From the fear of being calumniated... Deliver me, Jesus."). Intention: To cultivate the **sacred strength** of Meekness by detaching from pride and the need for self-defense, asking for the grace to respond to injury with patience and gentleness, trusting in God's **justice** and **mercy**. (Repeated prayer, different intention focus).
-
-## Relevant Quotes (Saints, Theologians, Popes)
-
-*   "Take care to practice well the humble meekness that you owe to everybody, for it is the virtue of virtues which our Lord greatly recommended to us." - St. Francis de Sales
-*   "Nothing is so strong as gentleness, nothing so gentle as real strength." - St. Francis de Sales

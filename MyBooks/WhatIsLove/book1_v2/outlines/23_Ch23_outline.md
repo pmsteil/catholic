@@ -8,13 +8,9 @@ Following discussions on Truth (Ch 21) and Mercy (Ch 22), this chapter focuses o
 
 ## I. Opening
 
-| Key Scripture Verse |
-|---------------------|
-| Deuteronomy 32:4 - "The Rock, his work is perfect; for all his ways are justice. A God of faithfulness and without iniquity, just and right is he." |
+**Key Scripture Verse**: "The Rock, his work is perfect; for all his ways are justice. A God of faithfulness and without iniquity, just and right is he." -- _Deuteronomy 32:4_
 
-| Key CCC Paragraph |
-|-------------------|
-| CCC 1807 - "Justice is the moral virtue that consists in the constant and firm will to give their due to God and neighbor. Justice toward God is called the 'virtue of religion.' Justice toward men disposes one to respect the rights of each and to establish in human relationships the harmony that promotes equity with regard to persons and to the common good." |
+**Key CCC Reference(s)**: 1807 (Justice: Constant/firm will to give due to God [religion] and neighbor [respect rights, harmony, equity])
 
 ## II. Body: Developing the Theme
 
@@ -24,6 +20,9 @@ Following discussions on Truth (Ch 21) and Mercy (Ch 22), this chapter focuses o
 2.  **Defining True Justice: Giving What is Due:**
     *   Reiterate the definition (CCC 1807): Giving God His due (worship, obedience, love - the virtue of religion) and neighbor their due (respect for rights, dignity, fairness).
     *   Emphasize it's based on objective **sacred truth** about God and the human person (Ch 21), not subjective feelings or power dynamics (contra Ch 5).
+    *   > "Justice is a habit whereby a man renders to each one his due by a constant and perpetual will." -- St. Thomas Aquinas, *Summa Theologiae*, II-II, Q.58, Art. 1
+    *   > "What are kingdoms without justice? They're just gangs of bandits." -- St. Augustine, *City of God*, Book IV, Ch. 4
+    *   > "Justice is the primary way of charity or, in Paul VI's words, 'the minimum measure' of it..." -- Pope Benedict XVI, *Caritas in Veritate*, 6
 3.  **Justice as Love's Structure and Honor:**
     *   Frame Justice as providing the necessary structure for love to flourish. It sets boundaries, defines responsibilities, and protects dignity.
     *   Connect Justice to **Sacred Honor**: Acting justly honors God and honors the **sacred** dignity (Imago Dei - Ch 16) of the human person. Injustice dishonors both.
@@ -65,9 +64,3 @@ Following discussions on Truth (Ch 21) and Mercy (Ch 22), this chapter focuses o
     *   CCC 2095-2132 (The First Commandment - includes virtue of religion/justice towards God)
 *   **Prayer Practice:** Pray the Act of Contrition, focusing specifically on failures in justice towards God (neglect of prayer, worship, obedience) and neighbor (disrespect, unfairness, neglect of duties). Intention: To grow in the virtue of justice, seeking the grace to consistently render what is due, thereby honoring God and neighbor and building relationships founded on **sacred truth** and **honor**.
 
-## Relevant Quotes (Saints, Theologians, Popes)
-*   "Justice is a habit whereby a man renders to each one his due by a constant and perpetual will." - St. Thomas Aquinas, *Summa Theologiae*, II-II, Q.58, Art. 1
-
-*   "What are kingdoms without justice? They're just gangs of bandits." - St. Augustine, *City of God*, Book IV, Ch. 4
-
-*   "Justice is the primary way of charity or, in Paul VI's words, 'the minimum measure' of it..." - Pope Benedict XVI, *Caritas in Veritate*, 6

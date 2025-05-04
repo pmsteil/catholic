@@ -8,15 +8,9 @@ Concluding Part II ("The Source of Love"), this chapter identifies the Holy Spir
 
 ## I. Opening
 
-| Key Scripture Verse |
-|---|
-| "...because God's love has been poured into our hearts through the Holy Spirit who has been given to us." |
-| *Romans 5:5* |
+**Key Scripture Verse**: "...because God's love has been poured into our hearts through the Holy Spirit who has been given to us." -- *Romans 5:5*
 
-| Key CCC Paragraph |
-|---|
-| "'God is Love!' and Love is the first gift, containing all others. This love God has 'poured into our hearts through the Holy Spirit who has been given to us.'" |
-| *CCC 733* |
+**Key CCC Reference(s)**: 733 (Love is the first gift, poured into hearts by the Holy Spirit)
 
 ## II. Body: Developing the Theme
 
@@ -26,6 +20,9 @@ Concluding Part II ("The Source of Love"), this chapter identifies the Holy Spir
 2.  **Who is the Holy Spirit?**
     *   Briefly explain the Holy Spirit as the Third Person of the Blessed Trinity, distinct yet inseparable from the Father and the Son.
     *   He is the personal Love between the Father and the Son, eternally proceeding from them (CCC 243-248). He *is* the **sacred gift** personified.
+    *   > "What is the Holy Spirit? He is the bond of love between the Father and the Son. He is the gift of God, the fountain of living water, the fire of love, the spiritual unction." -- St. Augustine
+    *   > "Just as the soul is the life of the body, so is the Holy Spirit the life of our souls." -- St. Thomas Aquinas
+    *   > "The Holy Spirit is the personal expression of this self-giving, of this being-love. He is Person-Love. He is Person-Gift." -- Pope St. John Paul II (Dominum et Vivificantem, 9)
 3.  **The Giver of Grace and Life:**
     *   Connect directly to Ch 15: The Holy Spirit *is* the one who pours God's love (Grace) into our hearts (Rom 5:5, CCC 733).
     *   He is the source of Sanctifying Grace (making us temples - 1 Cor 6:19) and Actual Grace (prompting specific good acts). He makes the **sacred gift** operative.
@@ -68,8 +65,3 @@ Concluding Part II ("The Source of Love"), this chapter identifies the Holy Spir
     *   CCC 2670-2672 (Invoking the Holy Spirit in prayer)
 *   **Prayer Practice:** Pray the Veni Creator Spiritus (Come, Holy Spirit, Creator Blest) or another prayer specifically invoking the Holy Spirit (e.g., Come Holy Spirit, fill the hearts of your faithful...). Intention: To consciously invite the Holy Spirit to deepen His indwelling, to activate His **sacred gifts**, and to set the heart ablaze with divine love, enabling **sacrificial** living and fostering **life-giving communion**.
 
-## Relevant Quotes (Saints, Theologians, Popes)
-
-*   "What is the Holy Spirit? He is the bond of love between the Father and the Son. He is the gift of God, the fountain of living water, the fire of love, the spiritual unction." - St. Augustine
-*   "Just as the soul is the life of the body, so is the Holy Spirit the life of our souls." - St. Thomas Aquinas
-*   "The Holy Spirit is the personal expression of this self-giving, of this being-love. He is Person-Love. He is Person-Gift." - Pope St. John Paul II (Dominum et Vivificantem, 9)

@@ -10,15 +10,9 @@ Having established the reality of suffering and the deep human cries for love, j
 
 ## I. Opening
 
-| Key Scripture Verse |
-| --- |
-| "See to it that no one makes a prey of you by philosophy and empty deceit, according to human tradition, according to the elemental spirits of the universe, and not according to Christ." |
-| _Colossians 2:8_ |
+**Key Scripture Verse**: "See to it that no one makes a prey of you by philosophy and empty deceit, according to human tradition, according to the elemental spirits of the universe, and not according to Christ." -- _Colossians 2:8_
 
-| Key CCC Paragraph |
-| --- |
-| "Before Christ's second coming the Church must pass through a final trial that will shake the faith of many believers. The persecution that accompanies her pilgrimage on earth will unveil the 'mystery of iniquity' in the form of a religious deception offering men an apparent solution to their problems at the price of apostasy from the truth." |
-| _CCC 675_ (Context: While referring to the ultimate Antichrist, the principle applies to ideologies that offer false salvation) |
+**Key CCC Reference(s)**: 675 (Context: While referring to the ultimate Antichrist, the principle applies to ideologies that offer false salvation)
 
 ## II. Body: Developing the Theme
 
@@ -42,7 +36,14 @@ Having established the reality of suffering and the deep human cries for love, j
     *   Emphasizes personal conversion, subsidiarity, solidarity, and the common good over group conflict.
     *   True **communion** is found in the Body of Christ, transcending worldly divisions.
     *   Reintroduce the core definition: > **Perfect Love is the sacred, sacrificial gift of covenant which binds true justice and true mercy into life-giving communion.** Explain how CT/Wokeness fails on _each_ count.
-6.  **Anecdote Placeholder:**
+
+> "Without truth, charity degenerates into sentimentality. Love becomes an empty shell, to be filled in an arbitrary way. In a culture without truth, this is the fatal risk facing love." -- Pope Benedict XVI, _Caritas in Veritate_, 3
+
+> "Solidarity helps us to see the 'other'—whether a person, people or nation—not just as some kind of instrument... but as our 'neighbor,' a 'helper' (cf. Gen 2:18-20), to be made a sharer, on a par with ourselves, in the banquet of life to which all are equally invited by God." -- Pope St. John Paul II, _Sollicitudo Rei Socialis_, 39
+
+> "Justice is both the aim and the intrinsic criterion of all politics... its origin and its goal are found in justice, which by its very nature has to do with ethics... \[Reason\] must undergo constant purification, since it can never be completely free of the danger of a certain ethical blindness caused by the dazzling effect of power and special interests." -- Pope Benedict XVI, _Deus Caritas Est_, 28
+
+1.  **Anecdote Placeholder:**
     *   `[Author Anecdote: Observation or interaction related to CT/Intersectionality/Wokeness in academia, workplace, or culture, highlighting its divisive or truth-distorting effects compared to a Catholic approach.]`
 
 ## III. Closing
@@ -59,9 +60,3 @@ Having established the reality of suffering and the deep human cries for love, j
     *   CCC 2426-2436 (Economic Activity and Social Justice - principles applicable more broadly)
     *   CCC 813-822 (The Church as One, Holy, Catholic, Apostolic - unity transcending division)
 *   **Prayer Practice:** Pray the Litany of Humility. Intention: To seek freedom from the pride that fuels divisive ideologies and group identities, asking for the grace to see all people as beloved children of God, fostering **true communion** and recognizing our shared need for God's **mercy** and **truth**.
-
-## Relevant Quotes (Saints, Theologians, Popes)
-
-*   "Without truth, charity degenerates into sentimentality. Love becomes an empty shell, to be filled in an arbitrary way. In a culture without truth, this is the fatal risk facing love." - Pope Benedict XVI, _Caritas in Veritate_, 3
-*   "Solidarity helps us to see the 'other'—whether a person, people or nation—not just as some kind of instrument... but as our 'neighbor,' a 'helper' (cf. Gen 2:18-20), to be made a sharer, on a par with ourselves, in the banquet of life to which all are equally invited by God." - Pope St. John Paul II, _Sollicitudo Rei Socialis_, 39
-*   "Justice is both the aim and the intrinsic criterion of all politics... its origin and its goal are found in justice, which by its very nature has to do with ethics... \[Reason\] must undergo constant purification, since it can never be completely free of the danger of a certain ethical blindness caused by the dazzling effect of power and special interests." - Pope Benedict XVI, _Deus Caritas Est_, 28

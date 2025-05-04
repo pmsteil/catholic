@@ -10,15 +10,9 @@ Continuing the exploration of the Fruits of Love, this chapter focuses on Faithf
 
 ## I. Opening
 
-| Key Scripture Verse |
-| --- |
-| "The steadfast love of the LORD never ceases, his mercies never come to an end; they are new every morning; great is thy faithfulness." |
-| _Lamentations 3:22-23_ |
+**Key Scripture Verse**: "The steadfast love of the LORD never ceases, his mercies never come to an end; they are new every morning; great is thy faithfulness." -- _Lamentations 3:22-23_
 
-| Key CCC Paragraph |
-| --- |
-| "The fruits of the Spirit are perfections that the Holy Spirit forms in us as the first fruits of eternal glory. The tradition of the Church lists twelve of them: 'charity, joy, peace, patience, kindness, goodness, generosity, gentleness, faithfulness...'" |
-| _CCC 1832_ |
+**Key CCC Reference(s)**: 1832 (Fruits of the Spirit are perfections formed by Holy Spirit; lists 12 including faithfulness)
 
 ## II. Body: Developing the Theme
 
@@ -38,6 +32,9 @@ Continuing the exploration of the Fruits of Love, this chapter focuses on Faithf
 5.  **Faithfulness in Action:**
     *   **To God:** Perseverance in faith (Ch 19), prayer, and obedience (Ch 38) even during dryness or difficulty. Loyalty to Church teaching.
     *   **To Neighbor:** Fidelity in marriage, loyalty to friends and family, keeping promises, fulfilling responsibilities reliably (Diligence - Ch 35). Requires **sacrifice**.
+    *   > "Faithfulness requires a daily heroism." -- St. Josemaría Escrivá
+    *   > "God's faithfulness is the anchor of our hope." -- Pope Benedict XVI
+    *   > "Be faithful in small things because it is in them that your strength lies." -- St. Teresa of Calcutta
 6.  **Opposed to Infidelity, Unreliability, Betrayal:**
     *   Contrast Faithfulness with infidelity (breaking commitments, especially marital), unreliability (being undependable), betrayal of trust, fair-weather friendship. These destroy **life-giving communion**.
 7.  **Faithfulness and the Core Definition of Love:**
@@ -67,8 +64,3 @@ Continuing the exploration of the Fruits of Love, this chapter focuses on Faithf
     *   CCC 1646-1651 (Fidelity in marriage)
 *   **Prayer Practice:** Pray the Act of Faith. Intention: To reaffirm belief not only in God's revealed **sacred truths** but also in His unwavering Faithfulness to His promises and **sacred covenant**, asking for the grace to mirror that **sacred loyalty** in one's own life. (Repeated prayer, different intention focus).
 
-## Relevant Quotes (Saints, Theologians, Popes)
-
-*   "Faithfulness requires a daily heroism." - St. Josemaría Escrivá
-*   "God's faithfulness is the anchor of our hope." - Pope Benedict XVI
-*   "Be faithful in small things because it is in them that your strength lies." - St. Teresa of Calcutta

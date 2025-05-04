@@ -8,15 +8,9 @@ Continuing the exploration of the Fruits of Love, this chapter focuses on Goodne
 
 ## I. Opening
 
-| Key Scripture Verse |
-|---------------------|
-| "Let your light so shine before men, that they may see your good works and give glory to your Father who is in heaven." |
-| *Matthew 5:16*      |
+**Key Scripture Verse**: "Let your light so shine before men, that they may see your good works and give glory to your Father who is in heaven." -- *Matthew 5:16*
 
-| Key CCC Paragraph |
-|-------------------|
-| "A morally good act requires the goodness of the object, of the end, and of the circumstances together. An evil end corrupts the action, even if the object is good in itself (such as praying and fasting 'in order to be seen by men')." |
-| *CCC 1755*        |
+**Key CCC Reference(s)**: 1755 (Morally good act requires goodness of object, end, circumstances)
 
 ## II. Body: Developing the Theme
 
@@ -28,6 +22,9 @@ Continuing the exploration of the Fruits of Love, this chapter focuses on Goodne
         *   **Integrity:** Wholeness, consistency between inner conviction and outward action (Truthfulness - Ch 40).
         *   **Uprightness:** Adherence to moral principles (**true justice** - Ch 23, Commandments - Ch 25).
         *   **Benevolence:** A habitual orientation towards willing and doing good for others (Charity - Ch 18).
+    *   > "To love is to will the good of another." -- St. Thomas Aquinas (*Summa Theologiae*, I-II, q. 26, a. 4)
+    *   > "He who is good is free, even if he is a slave; he who is evil is a slave, even if he is a king." -- St. Augustine (*City of God*, Book IV, Ch. 3)
+    *   > "It is Jesus that you seek when you dream of happiness; He is waiting for you when nothing else you find satisfies you... It is Jesus who stirs in you the desire to do something great with your lives, the will to follow an ideal, the refusal to allow yourselves to be grounded down by mediocrity, the courage to commit yourselves humbly and patiently to improving yourselves and society, making the world more human and more fraternal." -- Pope St. John Paul II (*World Youth Day 2000 Vigil*)
 3.  **Goodness as a Fruit of the Spirit:**
     *   Connect Goodness to the Holy Spirit (Gal 5:22, CCC 1832). It's a participation in God's own perfect goodness, a **sacred gift** that transforms character.
 4.  **Reflecting God's Nature:**
@@ -64,8 +61,3 @@ Continuing the exploration of the Fruits of Love, this chapter focuses on Goodne
     *   CCC 1832 (Goodness as fruit of the Spirit)
 *   **Prayer Practice:** Pray the Litany of the Sacred Heart of Jesus, focusing on petitions related to Christ's inner qualities ("Heart of Jesus, fountain of life and holiness," "abyss of all virtues," "in whom are all the treasures of wisdom and knowledge"). Intention: To ask for the grace to be conformed to the Heart of Christ, the source of all goodness, allowing the Holy Spirit to cultivate the fruit of **sacred integrity** and moral excellence within the soul. (Repeated prayer, different intention focus).
 
-## Relevant Quotes (Saints, Theologians, Popes)
-
-*   "To love is to will the good of another." - St. Thomas Aquinas (*Summa Theologiae*, I-II, q. 26, a. 4)
-*   "He who is good is free, even if he is a slave; he who is evil is a slave, even if he is a king." - St. Augustine (*City of God*, Book IV, Ch. 3)
-*   "It is Jesus that you seek when you dream of happiness; He is waiting for you when nothing else you find satisfies you... It is Jesus who stirs in you the desire to do something great with your lives, the will to follow an ideal, the refusal to allow yourselves to be grounded down by mediocrity, the courage to commit yourselves humbly and patiently to improving yourselves and society, making the world more human and more fraternal." - Pope St. John Paul II (*World Youth Day 2000 Vigil*)
