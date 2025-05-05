@@ -75,12 +75,12 @@ Think of this definition as a multi-faceted diamond. Each chapter will illuminat
 
 We'll journey together through these main sections of the book:
 
-Part I: The Problem - Suffering, Confusion, and the Search for Love - Why is there so much darkness, suffering, and confusion in the world? What are people really searching for when they cry out for justice, equity and inclusion?
+Part I: The Problem - Suffering, Confusion, and the Search for Love
 
-Part II: The Source of Love - What Love Is - The source of all love is God Himself, who is Love. He is the source of this divine Love, the light that reveals its brilliance through its many facets.
+Part II: The Source of Love - God is Love
 
-Part III: The Facets of Love - What Love Requires - We will examine the different facets of this diamond of Love, understanding what it requires of us to reflect its light and beauty in our lives and actions.
+Part III: The Facets of Love - What Love Requires
 
-Part IV: The Fruits of Love - What Love Produces - When we live according to these facets, reflecting the light of God's love like a well-cut diamond, it produces incredible fruit in our lives and the world around us. These fruits are the visible evidence of love lived authentically.
+Part IV: The Fruits of Love - What Love Produces
 
-Part V: The Practices of Love - How we grow in Love - Living in love requires practice and intentionality. We must cultivate habits that help us grow in our deep love for Christ so that we can reflect the light of God's love into the world.
+Part V: The Practices of Love - How we grow in Love

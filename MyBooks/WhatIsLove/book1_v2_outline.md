@@ -3,6 +3,10 @@ Part I: The Problem - Suffering, Confusion, and the Search for Love - Why is the
 2: The Cry for Love - The Desire for Connection and Belonging
 3: The Cry for Justice - The Yearning for Right Relationships
 4: The Cry for Mercy - The Desire for Healing and Forgiveness
+
+(need to write these 2 chapters... )
+4A: The Cry for Truth - The Need for Knowing and Wisdom
+4B: Unmasking Counterfeit Love - The Problem of Counterfeit Love - What is counterfeit love? How does it differ from true love? This part exposes the counterfeit loves that have led society astray.
 5: Unmasking Counterfeit Love - Critical Theory, Intersectionality and Wokeness
 6: Unmasking Counterfeit Love - Sentimentalism
 7: Unmasking Counterfeit Love - Relativism and Liberalism
