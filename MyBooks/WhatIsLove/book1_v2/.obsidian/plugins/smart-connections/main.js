@@ -1140,7 +1140,7 @@ function fuzzy_search(arr, search_term) {
 var SmartFs = class {
   /**
    * Create a new SmartFs instance
-   * 
+   *
    * @param {Object} env - The Smart Environment instance
    * @param {Object} [opts={}] - Optional configuration
    * @param {string} [opts.fs_path] - Custom environment path
@@ -1194,7 +1194,7 @@ var SmartFs = class {
   }
   /**
    * Load .gitignore patterns
-   * 
+   *
    * @returns {Promise<RegExp[]>} Array of RegExp patterns
    */
   async load_gitignore() {
@@ -1212,7 +1212,7 @@ var SmartFs = class {
   }
   /**
    * Add a new ignore pattern
-   * 
+   *
    * @param {string} pattern - The pattern to add
    */
   add_ignore_pattern(pattern, opts = {}) {
@@ -1220,7 +1220,7 @@ var SmartFs = class {
   }
   /**
    * Check if a path is ignored based on gitignore patterns
-   * 
+   *
    * @param {string} _path - The path to check
    * @returns {boolean} True if the path is ignored, false otherwise
    */
@@ -1237,7 +1237,7 @@ var SmartFs = class {
   }
   /**
    * Check if any path in an array of paths is excluded
-   * 
+   *
    * @param {string[]} paths - Array of paths to check
    * @returns {boolean} True if any path is excluded, false otherwise
    */
@@ -1246,7 +1246,7 @@ var SmartFs = class {
   }
   /**
    * Pre-process an array of paths, throwing an error if any path is excluded
-   * 
+   *
    * @param {string[]} paths - Array of paths to pre-process
    * @throws {Error} If any path in the array is excluded
    * @returns {string[]} The array of paths
@@ -1259,7 +1259,7 @@ var SmartFs = class {
   }
   /**
    * Post-process the result of an operation
-   * 
+   *
    * @param {any} returned_value - The value returned by the operation
    * @returns {any} The post-processed value
    */
@@ -1291,7 +1291,7 @@ var SmartFs = class {
   }
   /**
    * Append content to a file
-   * 
+   *
    * @param {string} rel_path - The relative path of the file to append to
    * @param {string|Buffer} content - The content to append
    * @returns {Promise<void>} A promise that resolves when the operation is complete
@@ -1301,7 +1301,7 @@ var SmartFs = class {
   }
   /**
    * Create a new directory
-   * 
+   *
    * @param {string} rel_path - The relative path of the directory to create
    * @returns {Promise<void>} A promise that resolves when the operation is complete
    */
@@ -1310,7 +1310,7 @@ var SmartFs = class {
   }
   /**
    * Check if a file or directory exists
-   * 
+   *
    * @param {string} rel_path - The relative path to check
    * @returns {Promise<boolean>} True if the path exists, false otherwise
    */
@@ -1319,7 +1319,7 @@ var SmartFs = class {
   }
   /**
    * List files in a directory
-   * 
+   *
    * @param {string} rel_path - The relative path to list
    * @returns {Promise<string[]>} Array of file paths
    */
@@ -1343,7 +1343,7 @@ var SmartFs = class {
   }
   /**
    * Read the contents of a file
-   * 
+   *
    * @param {string} rel_path - The relative path of the file to read
    * @returns {Promise<string|Buffer>} The contents of the file
    */
@@ -1359,7 +1359,7 @@ var SmartFs = class {
   }
   /**
    * Remove a file
-   * 
+   *
    * @param {string} rel_path - The relative path of the file to remove
    * @returns {Promise<void>} A promise that resolves when the operation is complete
    */
@@ -1368,7 +1368,7 @@ var SmartFs = class {
   }
   /**
    * Remove a directory
-   * 
+   *
    * @param {string} rel_path - The relative path of the directory to remove
    * @returns {Promise<void>} A promise that resolves when the operation is complete
    */
@@ -1377,7 +1377,7 @@ var SmartFs = class {
   }
   /**
    * Rename a file or directory
-   * 
+   *
    * @param {string} rel_path - The current relative path
    * @param {string} new_rel_path - The new relative path
    * @returns {Promise<void>} A promise that resolves when the operation is complete
@@ -1388,7 +1388,7 @@ var SmartFs = class {
   }
   /**
    * Get file or directory statistics
-   * 
+   *
    * @param {string} rel_path - The relative path to get statistics for
    * @returns {Promise<Object>} An object containing file or directory statistics
    */
@@ -1398,7 +1398,7 @@ var SmartFs = class {
   /**
    * Write content to a file
    * Should handle when target path is within a folder that doesn't exist
-   * 
+   *
    * @param {string} rel_path - The relative path of the file to write to
    * @param {string|Buffer} content - The content to write
    * @returns {Promise<void>} A promise that resolves when the operation is complete
@@ -1436,7 +1436,7 @@ var obsidian = __toESM(require("obsidian"), 1);
 var SmartFsObsidianAdapter = class {
   /**
    * Create an SmartFsObsidianAdapter instance
-   * 
+   *
    * @param {Object} smart_fs - The SmartFs instance
    */
   constructor(smart_fs) {
@@ -1474,7 +1474,7 @@ var SmartFsObsidianAdapter = class {
   }
   /**
    * Append content to a file
-   * 
+   *
    * @param {string} rel_path - The relative path of the file to append to
    * @param {string} data - The content to append
    * @returns {Promise<void>} A promise that resolves when the operation is complete
@@ -1485,7 +1485,7 @@ var SmartFsObsidianAdapter = class {
   }
   /**
    * Create a new directory
-   * 
+   *
    * @param {string} rel_path - The relative path of the directory to create
    * @returns {Promise<void>} A promise that resolves when the operation is complete
    */
@@ -1495,7 +1495,7 @@ var SmartFsObsidianAdapter = class {
   }
   /**
    * Check if a file or directory exists
-   * 
+   *
    * @param {string} rel_path - The relative path to check
    * @returns {Promise<boolean>} True if the path exists, false otherwise
    */
@@ -1505,7 +1505,7 @@ var SmartFsObsidianAdapter = class {
   }
   /**
    * List files in a directory (NOT up-to-date with list_recursive)
-   * 
+   *
    * @param {string} rel_path - The relative path to list
    * @returns {Promise<string[]>} Array of file paths
    */
@@ -1576,7 +1576,7 @@ var SmartFsObsidianAdapter = class {
   }
   /**
    * Read the contents of a file
-   * 
+   *
    * @param {string} rel_path - The relative path of the file to read
    * @returns {Promise<string>} The contents of the file
    */
@@ -1599,7 +1599,7 @@ var SmartFsObsidianAdapter = class {
   }
   /**
    * Rename a file or directory
-   * 
+   *
    * @param {string} old_path - The current path of the file or directory
    * @param {string} new_path - The new path for the file or directory
    * @returns {Promise<void>} A promise that resolves when the operation is complete
@@ -1611,7 +1611,7 @@ var SmartFsObsidianAdapter = class {
   }
   /**
    * Remove a file
-   * 
+   *
    * @param {string} rel_path - The relative path of the file to remove
    * @returns {Promise<void>} A promise that resolves when the operation is complete
    */
@@ -1625,7 +1625,7 @@ var SmartFsObsidianAdapter = class {
   }
   /**
    * Remove a directory
-   * 
+   *
    * @param {string} rel_path - The relative path of the directory to remove
    * @returns {Promise<void>} A promise that resolves when the operation is complete
    */
@@ -1635,7 +1635,7 @@ var SmartFsObsidianAdapter = class {
   }
   /**
    * Get file or directory information
-   * 
+   *
    * @param {string} rel_path - The relative path of the file or directory
    * @returns {Promise<Object>} An object containing file or directory information
    */
@@ -1645,7 +1645,7 @@ var SmartFsObsidianAdapter = class {
   }
   /**
    * Write content to a file
-   * 
+   *
    * @param {string} rel_path - The relative path of the file to write to
    * @param {string} data - The content to write
    * @returns {Promise<void>} A promise that resolves when the operation is complete
@@ -1831,7 +1831,7 @@ ${attributes}
    * @description
    * Scans the given container for elements that have `data-smart-setting` and attaches
    * a 'change' event listener. On change, it updates the corresponding path in `scope.settings`.
-   * 
+   *
    * @param {Object} scope - An object containing a `settings` property, where new values will be stored.
    * @param {HTMLElement} [container=document] - The DOM element to scan. Defaults to the entire document.
    */
@@ -2668,9 +2668,9 @@ var CollectionItem = class _CollectionItem {
   }
   /**
    * Helper function to render a component in the item scope
-   * @param {*} component_key 
-   * @param {*} opts 
-   * @returns 
+   * @param {*} component_key
+   * @param {*} opts
+   * @returns
    */
   async render_component(component_key, opts = {}) {
     return await this.env.render_component(component_key, this, opts);
@@ -3057,8 +3057,8 @@ var Collection = class {
   }
   /**
    * @method process_save_queue
-   * @description 
-   * Saves items flagged for saving (_queue_save) back to AJSON or SQLite. This ensures persistent storage 
+   * @description
+   * Saves items flagged for saving (_queue_save) back to AJSON or SQLite. This ensures persistent storage
    * of any updates made since last load/import. This method also writes changes to disk (AJSON files or DB).
    */
   async process_save_queue(opts = {}) {
@@ -3076,9 +3076,9 @@ var Collection = class {
   }
   /**
    * @method process_load_queue
-   * @description 
-   * Loads items that have been flagged for loading (_queue_load). This may involve 
-   * reading from AJSON/SQLite or re-importing from markdown if needed. 
+   * @description
+   * Loads items that have been flagged for loading (_queue_load). This may involve
+   * reading from AJSON/SQLite or re-importing from markdown if needed.
    * Called once initial environment is ready and collections are known.
    */
   async process_load_queue() {
@@ -3186,9 +3186,9 @@ var Collection = class {
   }
   /**
    * Helper function to render a component in the collection scope
-   * @param {*} component_key 
-   * @param {*} opts 
-   * @returns 
+   * @param {*} component_key
+   * @param {*} opts
+   * @returns
    */
   async render_component(component_key, opts = {}) {
     return await this.env.render_component(component_key, this, opts);
@@ -5162,7 +5162,7 @@ var SmartSources = class extends SmartEntities {
   }
   /**
    * @method process_source_import_queue
-   * @description 
+   * @description
    * Imports items (SmartSources or SmartBlocks) that have been flagged for import.
    */
   async process_source_import_queue(opts = {}) {
@@ -5485,7 +5485,7 @@ var CollectionDataAdapter = class {
     throw new Error("Not implemented");
   }
   /**
-   * Process any queued load operations. Typically orchestrates calling `load_item()` 
+   * Process any queued load operations. Typically orchestrates calling `load_item()`
    * on items that have been flagged for loading.
    * @async
    * @returns {Promise<void>}
@@ -5494,7 +5494,7 @@ var CollectionDataAdapter = class {
     throw new Error("Not implemented");
   }
   /**
-   * Process any queued save operations. Typically orchestrates calling `save_item()` 
+   * Process any queued save operations. Typically orchestrates calling `save_item()`
    * on items that have been flagged for saving.
    * @async
    * @returns {Promise<void>}
@@ -5522,7 +5522,7 @@ var ItemDataAdapter = class {
     this.item = item;
   }
   /**
-   * Load the item's data from storage. May involve reading a file and parsing 
+   * Load the item's data from storage. May involve reading a file and parsing
    * its contents, then updating `item.data`.
    * @async
    * @returns {Promise<void>} Resolves when the item is fully loaded.
@@ -5531,7 +5531,7 @@ var ItemDataAdapter = class {
     throw new Error("Not implemented");
   }
   /**
-   * Save the item's data to storage. May involve writing to a file or appending 
+   * Save the item's data to storage. May involve writing to a file or appending
    * lines in an append-only format.
    * @async
    * @param {string|null} [ajson=null] - An optional serialized representation of the item’s data.
@@ -5542,7 +5542,7 @@ var ItemDataAdapter = class {
     throw new Error("Not implemented");
   }
   /**
-   * Delete the item's data from storage. May involve removing a file or writing 
+   * Delete the item's data from storage. May involve removing a file or writing
    * a `null` entry in an append-only file to signify deletion.
    * @async
    * @returns {Promise<void>} Resolves when the item’s data is deleted.
@@ -5551,7 +5551,7 @@ var ItemDataAdapter = class {
     throw new Error("Not implemented");
   }
   /**
-   * Returns the file path or unique identifier used by this adapter to locate and store 
+   * Returns the file path or unique identifier used by this adapter to locate and store
    * the item's data. This may be a file name derived from the item's key.
    * @returns {string} The path or identifier for the item's data.
    */
@@ -5730,7 +5730,7 @@ var AjsonMultiFileCollectionDataAdapter = class extends FileCollectionDataAdapte
   }
   /**
    * Build a single AJSON line for the given item and data.
-   * @param {Object} item 
+   * @param {Object} item
    * @returns {string}
    */
   get_item_ajson(item) {
@@ -5776,7 +5776,7 @@ var AjsonMultiFileItemDataAdapter = class extends FileItemDataAdapter {
   /**
    * Parse the entire AJSON content as a JSON object, handle legacy keys, and extract final state.
    * @private
-   * @param {string} ajson 
+   * @param {string} ajson
    * @returns {boolean}
    */
   _parse(ajson) {
@@ -5870,7 +5870,7 @@ var AjsonMultiFileItemDataAdapter = class extends FileItemDataAdapter {
   }
   /**
    * Build a single AJSON line for the given item and data.
-   * @param {Object} item 
+   * @param {Object} item
    * @returns {string}
    */
   get_item_ajson() {
@@ -8698,7 +8698,7 @@ var CollectionDataAdapter2 = class {
     throw new Error("Not implemented");
   }
   /**
-   * Process any queued load operations. Typically orchestrates calling `load_item()` 
+   * Process any queued load operations. Typically orchestrates calling `load_item()`
    * on items that have been flagged for loading.
    * @async
    * @returns {Promise<void>}
@@ -8707,7 +8707,7 @@ var CollectionDataAdapter2 = class {
     throw new Error("Not implemented");
   }
   /**
-   * Process any queued save operations. Typically orchestrates calling `save_item()` 
+   * Process any queued save operations. Typically orchestrates calling `save_item()`
    * on items that have been flagged for saving.
    * @async
    * @returns {Promise<void>}
@@ -8735,7 +8735,7 @@ var ItemDataAdapter2 = class {
     this.item = item;
   }
   /**
-   * Load the item's data from storage. May involve reading a file and parsing 
+   * Load the item's data from storage. May involve reading a file and parsing
    * its contents, then updating `item.data`.
    * @async
    * @returns {Promise<void>} Resolves when the item is fully loaded.
@@ -8744,7 +8744,7 @@ var ItemDataAdapter2 = class {
     throw new Error("Not implemented");
   }
   /**
-   * Save the item's data to storage. May involve writing to a file or appending 
+   * Save the item's data to storage. May involve writing to a file or appending
    * lines in an append-only format.
    * @async
    * @param {string|null} [ajson=null] - An optional serialized representation of the item’s data.
@@ -8755,7 +8755,7 @@ var ItemDataAdapter2 = class {
     throw new Error("Not implemented");
   }
   /**
-   * Delete the item's data from storage. May involve removing a file or writing 
+   * Delete the item's data from storage. May involve removing a file or writing
    * a `null` entry in an append-only file to signify deletion.
    * @async
    * @returns {Promise<void>} Resolves when the item’s data is deleted.
@@ -8764,7 +8764,7 @@ var ItemDataAdapter2 = class {
     throw new Error("Not implemented");
   }
   /**
-   * Returns the file path or unique identifier used by this adapter to locate and store 
+   * Returns the file path or unique identifier used by this adapter to locate and store
    * the item's data. This may be a file name derived from the item's key.
    * @returns {string} The path or identifier for the item's data.
    */
@@ -8943,7 +8943,7 @@ var AjsonMultiFileCollectionDataAdapter2 = class extends FileCollectionDataAdapt
   }
   /**
    * Build a single AJSON line for the given item and data.
-   * @param {Object} item 
+   * @param {Object} item
    * @returns {string}
    */
   get_item_ajson(item) {
@@ -8989,7 +8989,7 @@ var AjsonMultiFileItemDataAdapter2 = class extends FileItemDataAdapter2 {
   /**
    * Parse the entire AJSON content as a JSON object, handle legacy keys, and extract final state.
    * @private
-   * @param {string} ajson 
+   * @param {string} ajson
    * @returns {boolean}
    */
   _parse(ajson) {
@@ -9083,7 +9083,7 @@ var AjsonMultiFileItemDataAdapter2 = class extends FileItemDataAdapter2 {
   }
   /**
    * Build a single AJSON line for the given item and data.
-   * @param {Object} item 
+   * @param {Object} item
    * @returns {string}
    */
   get_item_ajson() {
@@ -9466,7 +9466,7 @@ var SmartEmbedModel = class extends SmartModel {
    * @param {string} input - Text to tokenize
    * @returns {Promise<Object>} Token count result
    * @property {number} tokens - Number of tokens in input
-   * 
+   *
    * @example
    * ```javascript
    * const result = await model.count_tokens("Hello world");
@@ -9482,7 +9482,7 @@ var SmartEmbedModel = class extends SmartModel {
    * @returns {Promise<Object>} Embedding result
    * @property {number[]} vec - Embedding vector
    * @property {number} tokens - Token count
-   * 
+   *
    * @example
    * ```javascript
    * const result = await model.embed("Hello world");
@@ -9499,7 +9499,7 @@ var SmartEmbedModel = class extends SmartModel {
    * @returns {Promise<Array<Object>>} Array of embedding results
    * @property {number[]} vec - Embedding vector for each input
    * @property {number} tokens - Token count for each input
-   * 
+   *
    * @example
    * ```javascript
    * const results = await model.embed_batch([
@@ -10987,7 +10987,7 @@ function fuzzy_search2(arr, search_term) {
 var SmartFs2 = class {
   /**
    * Create a new SmartFs instance
-   * 
+   *
    * @param {Object} env - The Smart Environment instance
    * @param {Object} [opts={}] - Optional configuration
    * @param {string} [opts.fs_path] - Custom environment path
@@ -11041,7 +11041,7 @@ var SmartFs2 = class {
   }
   /**
    * Load .gitignore patterns
-   * 
+   *
    * @returns {Promise<RegExp[]>} Array of RegExp patterns
    */
   async load_gitignore() {
@@ -11059,7 +11059,7 @@ var SmartFs2 = class {
   }
   /**
    * Add a new ignore pattern
-   * 
+   *
    * @param {string} pattern - The pattern to add
    */
   add_ignore_pattern(pattern, opts = {}) {
@@ -11067,7 +11067,7 @@ var SmartFs2 = class {
   }
   /**
    * Check if a path is ignored based on gitignore patterns
-   * 
+   *
    * @param {string} _path - The path to check
    * @returns {boolean} True if the path is ignored, false otherwise
    */
@@ -11084,7 +11084,7 @@ var SmartFs2 = class {
   }
   /**
    * Check if any path in an array of paths is excluded
-   * 
+   *
    * @param {string[]} paths - Array of paths to check
    * @returns {boolean} True if any path is excluded, false otherwise
    */
@@ -11093,7 +11093,7 @@ var SmartFs2 = class {
   }
   /**
    * Pre-process an array of paths, throwing an error if any path is excluded
-   * 
+   *
    * @param {string[]} paths - Array of paths to pre-process
    * @throws {Error} If any path in the array is excluded
    * @returns {string[]} The array of paths
@@ -11106,7 +11106,7 @@ var SmartFs2 = class {
   }
   /**
    * Post-process the result of an operation
-   * 
+   *
    * @param {any} returned_value - The value returned by the operation
    * @returns {any} The post-processed value
    */
@@ -11138,7 +11138,7 @@ var SmartFs2 = class {
   }
   /**
    * Append content to a file
-   * 
+   *
    * @param {string} rel_path - The relative path of the file to append to
    * @param {string|Buffer} content - The content to append
    * @returns {Promise<void>} A promise that resolves when the operation is complete
@@ -11148,7 +11148,7 @@ var SmartFs2 = class {
   }
   /**
    * Create a new directory
-   * 
+   *
    * @param {string} rel_path - The relative path of the directory to create
    * @returns {Promise<void>} A promise that resolves when the operation is complete
    */
@@ -11157,7 +11157,7 @@ var SmartFs2 = class {
   }
   /**
    * Check if a file or directory exists
-   * 
+   *
    * @param {string} rel_path - The relative path to check
    * @returns {Promise<boolean>} True if the path exists, false otherwise
    */
@@ -11166,7 +11166,7 @@ var SmartFs2 = class {
   }
   /**
    * List files in a directory
-   * 
+   *
    * @param {string} rel_path - The relative path to list
    * @returns {Promise<string[]>} Array of file paths
    */
@@ -11190,7 +11190,7 @@ var SmartFs2 = class {
   }
   /**
    * Read the contents of a file
-   * 
+   *
    * @param {string} rel_path - The relative path of the file to read
    * @returns {Promise<string|Buffer>} The contents of the file
    */
@@ -11206,7 +11206,7 @@ var SmartFs2 = class {
   }
   /**
    * Remove a file
-   * 
+   *
    * @param {string} rel_path - The relative path of the file to remove
    * @returns {Promise<void>} A promise that resolves when the operation is complete
    */
@@ -11215,7 +11215,7 @@ var SmartFs2 = class {
   }
   /**
    * Remove a directory
-   * 
+   *
    * @param {string} rel_path - The relative path of the directory to remove
    * @returns {Promise<void>} A promise that resolves when the operation is complete
    */
@@ -11224,7 +11224,7 @@ var SmartFs2 = class {
   }
   /**
    * Rename a file or directory
-   * 
+   *
    * @param {string} rel_path - The current relative path
    * @param {string} new_rel_path - The new relative path
    * @returns {Promise<void>} A promise that resolves when the operation is complete
@@ -11235,7 +11235,7 @@ var SmartFs2 = class {
   }
   /**
    * Get file or directory statistics
-   * 
+   *
    * @param {string} rel_path - The relative path to get statistics for
    * @returns {Promise<Object>} An object containing file or directory statistics
    */
@@ -11245,7 +11245,7 @@ var SmartFs2 = class {
   /**
    * Write content to a file
    * Should handle when target path is within a folder that doesn't exist
-   * 
+   *
    * @param {string} rel_path - The relative path of the file to write to
    * @param {string|Buffer} content - The content to write
    * @returns {Promise<void>} A promise that resolves when the operation is complete
@@ -11283,7 +11283,7 @@ var obsidian2 = __toESM(require("obsidian"), 1);
 var SmartFsObsidianAdapter2 = class {
   /**
    * Create an SmartFsObsidianAdapter instance
-   * 
+   *
    * @param {Object} smart_fs - The SmartFs instance
    */
   constructor(smart_fs) {
@@ -11321,7 +11321,7 @@ var SmartFsObsidianAdapter2 = class {
   }
   /**
    * Append content to a file
-   * 
+   *
    * @param {string} rel_path - The relative path of the file to append to
    * @param {string} data - The content to append
    * @returns {Promise<void>} A promise that resolves when the operation is complete
@@ -11332,7 +11332,7 @@ var SmartFsObsidianAdapter2 = class {
   }
   /**
    * Create a new directory
-   * 
+   *
    * @param {string} rel_path - The relative path of the directory to create
    * @returns {Promise<void>} A promise that resolves when the operation is complete
    */
@@ -11342,7 +11342,7 @@ var SmartFsObsidianAdapter2 = class {
   }
   /**
    * Check if a file or directory exists
-   * 
+   *
    * @param {string} rel_path - The relative path to check
    * @returns {Promise<boolean>} True if the path exists, false otherwise
    */
@@ -11352,7 +11352,7 @@ var SmartFsObsidianAdapter2 = class {
   }
   /**
    * List files in a directory (NOT up-to-date with list_recursive)
-   * 
+   *
    * @param {string} rel_path - The relative path to list
    * @returns {Promise<string[]>} Array of file paths
    */
@@ -11423,7 +11423,7 @@ var SmartFsObsidianAdapter2 = class {
   }
   /**
    * Read the contents of a file
-   * 
+   *
    * @param {string} rel_path - The relative path of the file to read
    * @returns {Promise<string>} The contents of the file
    */
@@ -11446,7 +11446,7 @@ var SmartFsObsidianAdapter2 = class {
   }
   /**
    * Rename a file or directory
-   * 
+   *
    * @param {string} old_path - The current path of the file or directory
    * @param {string} new_path - The new path for the file or directory
    * @returns {Promise<void>} A promise that resolves when the operation is complete
@@ -11458,7 +11458,7 @@ var SmartFsObsidianAdapter2 = class {
   }
   /**
    * Remove a file
-   * 
+   *
    * @param {string} rel_path - The relative path of the file to remove
    * @returns {Promise<void>} A promise that resolves when the operation is complete
    */
@@ -11472,7 +11472,7 @@ var SmartFsObsidianAdapter2 = class {
   }
   /**
    * Remove a directory
-   * 
+   *
    * @param {string} rel_path - The relative path of the directory to remove
    * @returns {Promise<void>} A promise that resolves when the operation is complete
    */
@@ -11482,7 +11482,7 @@ var SmartFsObsidianAdapter2 = class {
   }
   /**
    * Get file or directory information
-   * 
+   *
    * @param {string} rel_path - The relative path of the file or directory
    * @returns {Promise<Object>} An object containing file or directory information
    */
@@ -11492,7 +11492,7 @@ var SmartFsObsidianAdapter2 = class {
   }
   /**
    * Write content to a file
-   * 
+   *
    * @param {string} rel_path - The relative path of the file to write to
    * @param {string} data - The content to write
    * @returns {Promise<void>} A promise that resolves when the operation is complete
@@ -11678,7 +11678,7 @@ ${attributes}
    * @description
    * Scans the given container for elements that have `data-smart-setting` and attaches
    * a 'change' event listener. On change, it updates the corresponding path in `scope.settings`.
-   * 
+   *
    * @param {Object} scope - An object containing a `settings` property, where new values will be stored.
    * @param {HTMLElement} [container=document] - The DOM element to scan. Defaults to the entire document.
    */
@@ -13311,7 +13311,7 @@ var SmartChatModelApiAdapter = class extends SmartChatModelAdapter {
     return this.main.opts.api_key || this.adapter_config?.api_key;
   }
   /**
-  
+
      * Get the number of choices.
      * @returns {number} The number of choices.
      */
@@ -14341,7 +14341,7 @@ var SmartChatModelAzureAdapter = class extends SmartChatModelOpenaiAdapter {
     return `https://${azure_resource_name}.openai.azure.com/openai/deployments/${azure_deployment_name}/chat/completions?api-version=${azure_api_version}`;
   }
   /**
-   * For streaming, we can reuse the same endpoint. 
+   * For streaming, we can reuse the same endpoint.
    * The request body includes `stream: true` which the base class uses.
    */
   get endpoint_streaming() {
@@ -14791,7 +14791,7 @@ var SmartChatModelOpenRouterAdapter = class extends SmartChatModelApiAdapter {
    * @returns {string|undefined} API key if available
    */
   get api_key() {
-    return this.main.opts.api_key || this.adapter_settings?.api_key || "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";
+    return this.main.opts.api_key || this.adapter_settings?.api_key || " ";
   }
   /**
    * Count tokens in input text (rough estimate)
@@ -15423,7 +15423,7 @@ var SmartChatModelCustomAdapter = class extends SmartChatModelApiAdapter {
   }
   /**
    * Return 'true' for get_models params since user might
-   * not rely on auto-populating. 
+   * not rely on auto-populating.
    * @override
    * @returns {true}
    */
@@ -15504,7 +15504,7 @@ var SmartChatModelGroqAdapter = class extends SmartChatModelApiAdapter {
    *   "object": "list",
    *   "data": [ { "id": "...", "object": "model", ... }, ... ]
    * }
-   * 
+   *
    * We'll convert each model to:
    * {
    *   model_name: model.id,
@@ -15829,9 +15829,9 @@ var CollectionItem2 = class _CollectionItem {
   }
   /**
    * Helper function to render a component in the item scope
-   * @param {*} component_key 
-   * @param {*} opts 
-   * @returns 
+   * @param {*} component_key
+   * @param {*} opts
+   * @returns
    */
   async render_component(component_key, opts = {}) {
     return await this.env.render_component(component_key, this, opts);
@@ -16218,8 +16218,8 @@ var Collection2 = class {
   }
   /**
    * @method process_save_queue
-   * @description 
-   * Saves items flagged for saving (_queue_save) back to AJSON or SQLite. This ensures persistent storage 
+   * @description
+   * Saves items flagged for saving (_queue_save) back to AJSON or SQLite. This ensures persistent storage
    * of any updates made since last load/import. This method also writes changes to disk (AJSON files or DB).
    */
   async process_save_queue(opts = {}) {
@@ -16237,9 +16237,9 @@ var Collection2 = class {
   }
   /**
    * @method process_load_queue
-   * @description 
-   * Loads items that have been flagged for loading (_queue_load). This may involve 
-   * reading from AJSON/SQLite or re-importing from markdown if needed. 
+   * @description
+   * Loads items that have been flagged for loading (_queue_load). This may involve
+   * reading from AJSON/SQLite or re-importing from markdown if needed.
    * Called once initial environment is ready and collections are known.
    */
   async process_load_queue() {
@@ -16347,9 +16347,9 @@ var Collection2 = class {
   }
   /**
    * Helper function to render a component in the collection scope
-   * @param {*} component_key 
-   * @param {*} opts 
-   * @returns 
+   * @param {*} component_key
+   * @param {*} opts
+   * @returns
    */
   async render_component(component_key, opts = {}) {
     return await this.env.render_component(component_key, this, opts);
@@ -18313,7 +18313,7 @@ var SmartSources2 = class extends SmartEntities2 {
   }
   /**
    * @method process_source_import_queue
-   * @description 
+   * @description
    * Imports items (SmartSources or SmartBlocks) that have been flagged for import.
    */
   async process_source_import_queue(opts = {}) {
@@ -19366,7 +19366,7 @@ var SmartThread = class extends SmartSource2 {
    * Handles the execution of detected tool calls from a message.
    * This is a base implementation that should be overridden by subclasses
    * to provide specific tool handling logic.
-   * 
+   *
    * @async
    * @param {Array<Object>} tool_calls - Array of tool call objects found in the message
    * @param {Object} msg_data - Data of the message that triggered these tool calls
@@ -23303,8 +23303,8 @@ var ScSupportersModal = class extends import_obsidian26.Modal {
     this.contentEl.empty();
     const container = this.contentEl.createDiv({ cls: "sc-supporters" });
     container.innerHTML = `
-      <p>The success of Smart Connections is a direct result of our community of supporters who generously fund and evaluate new features. 
-        Their unwavering commitment to privacy-focused, open-source software benefits all. 
+      <p>The success of Smart Connections is a direct result of our community of supporters who generously fund and evaluate new features.
+        Their unwavering commitment to privacy-focused, open-source software benefits all.
         Together, we can continue to innovate and make a positive impact on the world.</p>
       <p><b>Supporter benefits include:</b></p>
       <ul>
