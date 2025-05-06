@@ -14,6 +14,9 @@ Continuing the critique of counterfeit loves after addressing intellectual ideol
 
 **Key CCC Reference(s)**: 1768 (Feelings are not decisive for morality; they must be ordered by the will towards the good.)
 
+> "Without truth, charity degenerates into sentimentality. Love becomes an empty shell, to be filled in an arbitrary way. In a culture without truth, this is the fatal risk facing love." -- Pope Benedict XVI, _Caritas in Veritate_, 3
+
+
 ## II. Body: Developing the Theme
 
 1.  **Transition: From Head to Heart (Misguided):**
