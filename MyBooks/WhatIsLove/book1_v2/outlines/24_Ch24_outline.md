@@ -22,6 +22,8 @@ Continuing the exploration of what love requires, this chapter focuses intensely
     *   Connect to the core definition: It's the **sacrificial** component, essential for **covenant** fidelity and achieving **life-giving communion**.
 3.  **The Cross: Apex of Sacrificial Love:**
     *   Present the Crucifixion as the ultimate, unsurpassable act of **sacred, sacrificial** love.
+        *   > "The Cross is the school of love." -- attributed to St. Maximilian Kolbe
+        *   > "In the Cross of Christ, suffering itself becomes a cry for love and justice, a cry that reaches the heart of God and opens the door to hope." -- Pope Benedict XVI
         *   God the Son freely offers Himself (a **sacred gift**) to the Father out of love for humanity.
         *   He takes upon Himself the consequences of our sin (injustice) to offer us forgiveness (**true mercy**) and restore right relationship (**true justice**).
         *   He establishes the New **Covenant** in His blood.

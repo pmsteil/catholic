@@ -84,8 +84,10 @@ Systematically generate the complete first draft of this book by expanding the p
 *   \[S\] 2: The Cry for Love - The Desire for Connection and Belonging
 *   \[S\] 3: The Cry for Justice - The Yearning for Right Relationships
 *   \[S\] 4: The Cry for Mercy - The Desire for Healing and Forgiveness
-*   \[S\] 5: Unmasking Counterfeit Love - Critical Theory, Intersectionality and Wokeness
-*   \[S\] 6: Unmasking Counterfeit Love - Sentimentalism
+*   \[\] 4A: The Cry for Truth - The Search for Meaning and Understanding
+*   \[\] 4B: 4B: Unmasking Counterfeit Love - The Problem of Counterfeit Love
+*   \[S\] 5: Unmasking Counterfeit Love - Sentimentalism
+*   \[S\] 6: Unmasking Counterfeit Love - Critical Theory, Intersectionality and Wokeness
 *   \[S\] 7: Unmasking Counterfeit Love - Relativism and Liberalism
 *   \[S\] 8: Unmasking Counterfeit Love - Individualism
 *   \[S\] 9: Unmasking Counterfeit Love - Feminism

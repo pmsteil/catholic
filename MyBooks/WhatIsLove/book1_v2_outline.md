@@ -1,20 +1,19 @@
 Part I: The Problem - Suffering, Confusion, and the Search for Love - Why is there so much darkness, suffering, and confusion in the world? What are people really searching for when they cry out for justice, love, and belonging? This part exposes the counterfeit loves that has led society astray.
-1: The Problem of Suffering and Evil - Why is there so much pain in the world?
-2: The Cry for Love - The Desire for Connection and Belonging
-3: The Cry for Justice - The Yearning for Right Relationships
-4: The Cry for Mercy - The Desire for Healing and Forgiveness
-
-(need to write these 2 chapters... )
-4A: The Cry for Truth - The Need for Knowing and Wisdom
-4B: Unmasking Counterfeit Love - The Problem of Counterfeit Love - What is counterfeit love? How does it differ from true love? This part exposes the counterfeit loves that have led society astray.
-5: Unmasking Counterfeit Love - Critical Theory, Intersectionality and Wokeness
-6: Unmasking Counterfeit Love - Sentimentalism
+1: The Problem of Suffering and Evil - Why is there so much pain in the world? Introduces the idea that there is evil in the world caused by human choices and actions.
+2: The Cry for Love - The Desire for Connection and Belonging. Establishes that the desire for love is a fundamental, universal, and undeniable aspect of the human experience.
+3: The Cry for Justice - The Yearning for Right Relationships. Establishes that the desire for justice is a fundamental, universal, and undeniable aspect of the human experience.
+4: The Cry for Mercy - The Desire for Healing and Forgiveness. Establishes that the desire for mercy is a fundamental, universal, and undeniable aspect of the human experience.
+4A: The Cry for Truth - The Need for Knowing and Wisdom. Establishes that the desire for truth is a fundamental, universal, and undeniable aspect of the human experience.
+4B: Unmasking Counterfeit Love - The Problem of Counterfeit Love - That if love doesn't include God's true justice and mercy, it is counterfeit love. This chapter introduces the concept of counterfeit love and sets the stage for the subsequent chapters that will explore various ideologies that distort or misrepresent love.
+5: Unmasking Counterfeit Love - Sentimentalism
+6: Unmasking Counterfeit Love - Critical Theory, Intersectionality and Wokeness
 7: Unmasking Counterfeit Love - Relativism and Liberalism
 8: Unmasking Counterfeit Love - Individualism
 9: Unmasking Counterfeit Love - Feminism
 10: Unmasking Counterfeit Love - Marxism/Socialism/Communism
 11: Unmasking Counterfeit Love - Postmodernism
 12: Unmasking Counterfeit Love - "Sexualism"
+12A: Unmasking Counterfeit Love - "Divorce"
 13: The Answer to Counterfeit Love - The Catholic Vision of Love
 
 Part II: The Source of Love - What Love Is - The source of all love is God Himself, who is Love. He is like the Sun. All of the life-giving warmth and light we experience comes from Him.

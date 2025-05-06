@@ -16,6 +16,8 @@ Following the exploration of suffering (Ch 1), the need for love (Ch 2), and the
 | **Key CCC Reference(s)**: Consider CCC 2838-2845 (Forgiveness in the Our Father - focuses on the human act/need) or perhaps a reference on compassion. Avoid 1846 (God's mercy) for now. |
 | --- |
 
+
+
 ## II. Body: Exploring the Need
 
 **A. The Experience of Needing Mercy:**

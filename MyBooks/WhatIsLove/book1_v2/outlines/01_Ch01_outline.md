@@ -1,9 +1,7 @@
-# Chapter 1 Outline: The Problem of Human-Caused Suffering
+# Chapter 1 Outline: The Problem of Evil
 
-## Chapter Title Options:
-*   The Shadow We Cast: Acknowledging Human-Caused Evil
-*   The World Groans: The Reality of Human Suffering
-*   Facing the Darkness: Where Suffering Begins
+### The World Groans: The Reality of Human Suffering
+
 
 ## Part I Context:
 This chapter introduces Part I's theme by confronting a fundamental truth: much of the darkness, suffering, and evil in the world is caused by human choices and actions. It establishes this reality as the core problem this book, and the Catholic Faith itself, seeks to address.
