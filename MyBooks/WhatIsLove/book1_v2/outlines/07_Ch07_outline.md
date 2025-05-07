@@ -21,6 +21,7 @@ Following the critiques of group-identity ideologies (Ch 6) and emotion-based lo
 2.  **Defining the Terms (Simplified):**
     *   **Relativism:** Explain its core tenet – the denial of objective truth, especially in morality. "What's true for you isn't true for me." Morality becomes subjective preference or cultural construct.
     *   **Liberalism (Modern/Philosophical):** Describe its emphasis on individual autonomy and freedom *from* external constraints (tradition, authority, objective moral law, the Church) as the highest value. Often prioritizes individual rights over duties or the common good.
+    *   **Common Cries of Relativism/Liberalism in our culture:** "My Truth", "You do you", "Follow your heart", "Live your truth", "Who are you to tell me what's right?", "I can do whatever I want as long as it doesn't hurt anyone else", "I have the right to do what I want with my body", "I have the right to love who I want", "I have the right to be happy".
 3.  **The Counterfeit Appeal:**
     *   Why do these ideas appeal? They promise freedom from judgment and rules ("Who are you to tell me what's right?"). They appear tolerant and open-minded. They seem to simplify complex moral questions by making them subjective. They also offer a sense that *I* can define my own truth and identity, appealing to another deep human desire for autonomy and self-determination.
 4.  **Unmasking the Counterfeit - How They Distort True Love:**

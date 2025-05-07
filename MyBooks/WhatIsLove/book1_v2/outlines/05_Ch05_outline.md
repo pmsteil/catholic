@@ -25,6 +25,7 @@ Continuing the critique of counterfeit loves after addressing intellectual ideol
 2.  **Defining Sentimentalism:**
     *   Explain sentimentalism as the elevation of feelings/emotions to the primary determinant of what is true, good, or loving. "If it feels good/right, it must be love."
     *   Contrast with the Catholic understanding where feelings (passions) are natural but need to be ordered by reason and will towards the good (CCC 1767-1768).
+    *   **Common Cries of Sentimentalism in our culture:** "I just feel it in my heart.", "If it feels right, it must be right.", "Love is love.", "Follow your heart.", "I love you because you make me feel good.", "I love you until I don't feel it anymore.", "We fell out of love.", "I'm not feeling it".
 3.  **The Counterfeit Appeal:**
     *   Sentimentalism is appealing because emotions are powerful, immediate, and require less effort and wisdom than **sacrificial** commitment or adherence to objective **truth**.
     *   It offers a seemingly "authentic" experience that bypasses difficult moral reasoning or inconvenient duties. It feels like connection without the cost of **covenant**.

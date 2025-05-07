@@ -39,6 +39,7 @@
     *   *Quote Idea:* A saint or theologian on the dangers of false charity or misguided compassion. (e.g., St. Augustine on disordered loves, or a modern reflection on sentimentality vs. true charity).
 
 4.  **The Litmus Test: The Indispensable Union of True Justice and True Mercy**
+    *   Mention that we will dive into full details of God's true justice and mercy starting in Chapter 13.
     *   Emphasize that the presence (or absence/distortion) of *God's true justice* and *God's true mercy*, working in inseparable unity, is the primary indicator for discerning authentic love from its counterfeits.
     *   **True Justice (Briefly):** Giving what is due to God and neighbor; upholding truth, dignity, and right relationship. It's not merely punitive but restorative and ordered towards the good and it works in harmony with mercy.
     *   **True Mercy (Briefly):** Compassionate, active love that meets suffering and sin with forgiveness, healing, and a call to reconciliation, a call to communion, without negating justice.

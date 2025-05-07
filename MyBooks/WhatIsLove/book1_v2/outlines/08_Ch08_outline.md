@@ -15,14 +15,15 @@ Building on the critique of relativism and liberalism's focus on autonomy (Ch 7)
 ## II. Body: Developing the Theme
 
 1.  **Transition: From Autonomy to Self-Focus:**
-    *   Link from Liberalism (Ch 7): The emphasis on radical autonomy often morphs into an inward focus where the self becomes the primary measure and concern.
+    *   The emphasis on radical autonomy often morphs into an inward focus where the self becomes the primary measure and concern.
     *   Connect to the Cry for Love/Belonging (Ch 2): Individualism offers a false promise of self-sufficiency that ultimately isolates and fails to satisfy the deep need for **communion**.
 2.  **Defining Individualism:**
-    *   Explain individualism as prioritizing personal goals, desires, achievements, and independence *over* communal well-being, responsibilities, **sacred covenants**, and the common good. "Me first."
+    *   Explain 'individualism' as prioritizing personal goals, desires, achievements, self-help and independence *over* communal well-being, responsibilities, **sacred covenants**, and the common good.
     *   Distinguish healthy self-care/personal responsibility from excessive self-absorption.
+    *   **Common cries of individualism in our culture:** "Me first.", "self-love", "Bodily autonomy", "My body, my choice.", "Live your truth.", "You do you.", "Follow your heart.", "You do you, boo.", "'Reproductive rights' are a human right.", "Rugged individualism.", "Self-made".
 3.  **The Counterfeit Appeal:**
     *   Appeals to the desire for control, self-reliance, and freedom from the demands of others.
-    *   Fits well with consumerist culture and the pursuit of personal happiness as the ultimate goal.
+    *   Fits well with consumerist culture and the pursuit of personal success/happiness as the ultimate goal.
 4.  **Unmasking the Counterfeit - How it Distorts True Love:**
     *   **vs. Communion:** Individualism is the antithesis of **life-giving communion**. It isolates, hinders vulnerability, and views relationships transactionally rather than as **sacred covenants**. It resists **binding** ties.
     *   **vs. Sacrifice:** Directly opposes **sacrificial** love, which requires looking beyond the self to the needs of others (Phil 2:4). Prioritizes self-preservation/gain over self-gift.
@@ -32,8 +33,13 @@ Building on the critique of relativism and liberalism's focus on autonomy (Ch 7)
 5.  **The Person in Community (Catholic Vision):**
     *   Contrast with the Catholic understanding: We are created as persons *in* community, inherently social (CCC 1878-1880). Our dignity is realized *in* relationship with God and others.
     *   Emphasize solidarity (CCC 1939-1942) – recognizing our interdependence and commitment to the common good.
+    *   There is no "I" in "family" or "community". We are called to be in relationship with others, not just for our own sake, but for the sake of the other.
 6.  **Contrast with the Catholic Vision of Love:**
     *   Authentic love is inherently relational and outward-focused. Charity seeks the good of the other.
+    *   Justice toward self - yes we are also called to treat ourselves with justice and mercy, dignity and value, but not for the sake of self-fulfillment, but for the sake of the other.
+    *   "Success" should be measured by how well we love and serve God, our families, our communities and then ourselves.
+    *   We should desire for our children to be "successful" in the eyes of God, not the world. Don't focus them on material wealth, but on listening to and noticing their God given gifts and talents, and how they can use them to serve others. Some may be called to be a rich Catholic philanthropist, some may be called to a Priest taking a vow of poverty.  The value of these two lives is not in the amount of money they have, but in the amount of love they have for God and others.
+    *   Teach your children to center their lives on the Church, not on themselves. That the family schedule revolves around the Church schedule, not on the schedule of the world. No, we do not got soccer practice on Sunday morning, we go to Mass.
     *   Reiterate the core definition: > **Perfect Love is the sacred, sacrificial gift of covenant which binds true justice and true mercy into life-giving communion.** Show how individualism fundamentally contradicts this, especially **communion**, **sacrifice**, **binding**, **gift**, and **justice/mercy** towards others.
     *   > "Solidarity is not a feeling of vague compassion or shallow distress at the misfortunes of so many people, both near and far. On the contrary, it is a firm and persevering determination to commit oneself to the common good; that is to say to the good of all and of each individual, because we are all really responsible for all." -- St. John Paul II (*Sollicitudo Rei Socialis*, 38)
     *   > "We think sometimes that poverty is only being hungry, naked and homeless. The poverty of being unwanted, unloved and uncared for is the greatest poverty. We must start in our own homes to remedy this kind of poverty." -- St. Teresa of Calcutta
