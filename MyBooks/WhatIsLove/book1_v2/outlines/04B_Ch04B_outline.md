@@ -35,7 +35,7 @@
         *   **Broken Relationships:** Erodes trust, prevents genuine intimacy, and fosters unhealthy dynamics in families, friendships, and romantic relationships. Do we see this in the rise of divorce, broken families, and loneliness? See chapter 12A.
         *   **Societal Harm:** Contributes to injustice, division, exploitation, and the breakdown of communities when false notions of "love" are used to justify harmful actions or ideologies. Is this not evident in the rise of cancel culture, identity politics, and social fragmentation? More on this in chapter 5.
         *   **Prevents True Communion:** Ultimately, counterfeit love blocks us from experiencing the true, life-giving communion with God and others that authentic love offers. It offers a shadow instead of substance.
-        *   It can lead us to accept and even champion things that are contrary to our ultimate good and God's plan.
+        *   **Problem of Evil:** Counterfeit love cannot addresss the problem of evil and suffering. It cannot explain why we suffer, why we sin, or how to heal from it. It can only offer a false sense of security or a temporary distraction. Most counterfeit loves are based on lies about the nature of reality, the human person, and the world. And they always seem to lead to more suffering, not less.
     *   *Quote Idea:* A saint or theologian on the dangers of false charity or misguided compassion. (e.g., St. Augustine on disordered loves, or a modern reflection on sentimentality vs. true charity).
 
 4.  **The Litmus Test: The Indispensable Union of True Justice and True Mercy**

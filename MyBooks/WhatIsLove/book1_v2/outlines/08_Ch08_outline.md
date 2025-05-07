@@ -24,17 +24,20 @@ Building on the critique of relativism and liberalism's focus on autonomy (Ch 7)
 3.  **The Counterfeit Appeal:**
     *   Appeals to the desire for control, self-reliance, and freedom from the demands of others.
     *   Fits well with consumerist culture and the pursuit of personal success/happiness as the ultimate goal.
-4.  **Unmasking the Counterfeit - How it Distorts True Love:**
+4. **The Problem of Evil:**
+    *   Individualism fails to address the problem of evil because it leads to a self-centered worldview that ignores the reality of sin and the need for redemption. It promotes a false sense of autonomy and self-sufficiency, which can lead to moral relativism and a lack of accountability for one's actions. Individualism often results in a fragmented society where people prioritize their own desires over the common good, leading to further division and suffering.
+    *   It can actually promote more evil in the world, as people become more focused on their own desires and less concerned about the needs of others. This can lead to a lack of empathy and compassion for those who are suffering, as well as a disregard for the moral implications of one's actions.
+5.  **Unmasking the Counterfeit - How it Distorts True Love:**
     *   **vs. Communion:** Individualism is the antithesis of **life-giving communion**. It isolates, hinders vulnerability, and views relationships transactionally rather than as **sacred covenants**. It resists **binding** ties.
     *   **vs. Sacrifice:** Directly opposes **sacrificial** love, which requires looking beyond the self to the needs of others (Phil 2:4). Prioritizes self-preservation/gain over self-gift.
     *   **vs. Justice & Mercy:** Can lead to neglect of duties of **true justice** towards the community and the vulnerable. Can stifle **true mercy** by fostering indifference to the suffering of others. Fails to uphold **sacred honor** in relationships.
     *   **vs. Sacred Gift:** Views personal talents and resources primarily for self-advancement, not as **sacred gifts** to be shared for the common good.
     *   **vs. Truth:** Can create a subjective reality centered on personal desires, ignoring objective **sacred truth** about our nature as relational beings dependent on God and others.
-5.  **The Person in Community (Catholic Vision):**
+6.  **The Person in Community (Catholic Vision):**
     *   Contrast with the Catholic understanding: We are created as persons *in* community, inherently social (CCC 1878-1880). Our dignity is realized *in* relationship with God and others.
     *   Emphasize solidarity (CCC 1939-1942) – recognizing our interdependence and commitment to the common good.
     *   There is no "I" in "family" or "community". We are called to be in relationship with others, not just for our own sake, but for the sake of the other.
-6.  **Contrast with the Catholic Vision of Love:**
+7.  **Contrast with the Catholic Vision of Love:**
     *   Authentic love is inherently relational and outward-focused. Charity seeks the good of the other.
     *   Justice toward self - yes we are also called to treat ourselves with justice and mercy, dignity and value, but not for the sake of self-fulfillment, but for the sake of the other.
     *   "Success" should be measured by how well we love and serve God, our families, our communities and then ourselves.
@@ -44,7 +47,7 @@ Building on the critique of relativism and liberalism's focus on autonomy (Ch 7)
     *   > "Solidarity is not a feeling of vague compassion or shallow distress at the misfortunes of so many people, both near and far. On the contrary, it is a firm and persevering determination to commit oneself to the common good; that is to say to the good of all and of each individual, because we are all really responsible for all." -- St. John Paul II (*Sollicitudo Rei Socialis*, 38)
     *   > "We think sometimes that poverty is only being hungry, naked and homeless. The poverty of being unwanted, unloved and uncared for is the greatest poverty. We must start in our own homes to remedy this kind of poverty." -- St. Teresa of Calcutta
     *   > "The human being is made for gift, which expresses and makes present his transcendent dimension." -- Pope Benedict XVI (*Caritas in Veritate*, 34)
-7.  **Anecdote Placeholder:**
+8.  **Anecdote Placeholder:**
     *   `[Author Anecdote: Example of the loneliness or emptiness resulting from an individualistic pursuit, or conversely, the joy and fulfillment found in prioritizing community, family, or service to others over personal gain.]`
 
 ## III. Closing

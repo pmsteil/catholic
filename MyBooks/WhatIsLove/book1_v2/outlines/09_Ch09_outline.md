@@ -27,23 +27,26 @@ Continuing the examination of counterfeit loves, this chapter addresses modern f
         *   Common cries of feminism in our culture: "My body, my choice.", "Women's rights are human rights.", "Women's liberation.", "Sexual freedom", "Women can do anything a man can do."
 3.  **The Counterfeit Appeal:**
     *   Appeals to the desire for equality, freedom from oppression (real or perceived), and self-determination. Offers a narrative of empowerment.
-4.  **Unmasking the Counterfeit - How it Distorts True Love:**
+4. **The Problem of Evil:**
+    *   Feminism often fails to address the problem of evil, as it can promote a worldview that emphasizes individual autonomy and self-interest over communal responsibility and the common good. This can lead to a lack of accountability for one's actions and a disregard for the moral implications of choices, particularly in relation to issues like abortion and family dynamics.
+    *   It can also promote a culture of resentment and division, as it often frames relationships in terms of power struggles rather than mutual respect and love. This can lead to further fragmentation and suffering in society, as individuals prioritize their own desires over the needs of others.
+5.  **Unmasking the Counterfeit - How it Distorts True Love:**
     *   **vs. Truth & Complementarity:** Denies the **sacred truth** of God's creation of male and female with distinct, complementary gifts (CCC 2333). Reduces the richness of sexual difference to a source of conflict or irrelevance. Denies the most basic biological reality that we are made for pro-creation and raising of children. This is the most meaningful thing we will ever do in our lives. Replaces the beauty of raising children with the desire for a career, wealth, and power - all of which are fleeting. Ignores the essential need of the CHILDREN to be the priority of the family, not the career of the parents.
     *   **vs. Life-Giving Communion:** Can pit men and women against each other, hindering **life-giving communion**. Rejection of complementarity undermines the foundation for marital **covenant** as understood by the Church. Abortion directly attacks the **life-giving** aspect of love and violates **true justice** towards the unborn child.
     *   **vs. Sacrifice & Gift:** Often prioritizes self-fulfillment and autonomy over the **sacrificial gift** of self required in marriage, motherhood, and authentic love. Can devalue the unique **sacred gift** of motherhood.
     *   **vs. Justice:** While claiming to seek justice for the woman, can promote injustices (e.g., abortion) or create new divisions because the focus is oriented toward the woman, rather than the family. Fails to recognize the **true justice** inherent in God's design for complementarity and the family.
     *   **vs. Sacred Covenant:** Can view marriage and family structures as oppressive rather than **sacred covenants** designed for love and flourishing OF THE CHILDREN.
-5.  **The Catholic Vision of Womanhood ("Feminine Genius"):**
+6.  **The Catholic Vision of Womanhood ("Feminine Genius"):**
     *   Contrast with the Church's high view of women's dignity, exemplified by Mary, the Mother of God and countless female saints.
     *   Reference St. John Paul II's concept of the "feminine genius" (Mulieris Dignitatem) – unique strengths and contributions of women in society and the Church.
     *   Emphasize equal dignity *and* difference/complementarity as God's plan for **life-giving communion**.
     *   > "The Church gives thanks for each and every woman: for mothers, for sisters, for wives; for women consecrated to God in virginity; for women dedicated to the many human beings who await the gratuitous love of another person; for women who watch over the human persons in the family, which is the fundamental sign of the human community; for women who work professionally, and who at times are burdened by a great social responsibility; for 'perfect' women and for 'weak' women - for all women as they have come forth from the heart of God in all the beauty and richness of their femininity." -- Pope St. John Paul II, *Mulieris Dignitatem*, 30
     *   > "The world doesn’t need what women *have*, it needs what women *are*." -- St. Teresa Benedicta of the Cross (Edith Stein)
     *   > "An ideology that reduces the profound mystery of sexual difference to a mere social construct or a source of perpetual conflict ultimately diminishes both men and women, obscuring the path to the authentic communion for which they were created." -- Reflecting Catholic Teaching
-6.  **Contrast with the Catholic Vision of Love:**
+7.  **Contrast with the Catholic Vision of Love:**
     *   Authentic love respects and rejoices in the **sacred truth** of God's creation, including sexual difference and complementarity. It is inherently **life-giving**, **sacrificial**, and ordered towards **communion** within **sacred covenants**.
     *   Reiterate the core definition: > **Perfect Love is the sacred, sacrificial gift of covenant which binds true justice and true mercy into life-giving communion.** Show how certain feminist ideologies contradict this, particularly regarding **truth**, **life-giving communion**, **sacrifice**, **covenant**, and **justice**.
-7.  **Anecdote Placeholder:**
+8.  **Anecdote Placeholder:**
     *   `[Author Anecdote: Positive example of authentic Catholic womanhood embodying the "feminine genius," or an observation contrasting the fruits of secular feminism with the fruits of Catholic complementarity in relationships or family life.]`
 
 ## III. Closing

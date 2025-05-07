@@ -29,15 +29,17 @@ Continuing the critique of counterfeit loves after addressing intellectual ideol
 3.  **The Counterfeit Appeal:**
     *   Sentimentalism is appealing because emotions are powerful, immediate, and require less effort and wisdom than **sacrificial** commitment or adherence to objective **truth**.
     *   It offers a seemingly "authentic" experience that bypasses difficult moral reasoning or inconvenient duties. It feels like connection without the cost of **covenant**.
-4.  **Unmasking the Counterfeit - Why Feeling Isn't Enough:**
+4. *   **Problem of Evil:**
+    *   Sentimentalism cannot adequately address the problem of evil or suffering. It often leads to a superficial understanding of love that fails to engage with the complexities of human relationships and the reality of sin. It ignores the need for **true justice** and **mercy** which leads to more suffering. It fails to recognize that love is not just about feeling good, but about choosing the good, even in difficult circumstances.
+5.  **Unmasking the Counterfeit - Why Feeling Isn't Enough:**
     *   **Feelings vs. Sacrifice & Endurance:** True love often demands acting _against_ feelings (loving enemies, forgiving pain inflicted by another, staying committed when passion fades). Sentimental love collapses under trial or when feelings change. It lacks the **sacrificial** core and endurance (1 Cor 13:7). "We fell out of love" is a common phrase that reveals this misunderstanding.
     *   **Feelings vs. Truth & Justice:** Feelings are subjective, unreliable guides to objective **sacred truth** and **true justice**. Actions based solely on sentiment can easily violate both. Love must rejoice in the **truth** (1 Cor 13:6). "I love you" cannot justify immoral actions or neglect of duty. Sentimentalism can lead to **false mercy** (ignoring sin) or **false justice** (acting on anger).
     *   **Feelings vs. Covenant & Binding:** Authentic love involves a **sacred covenant**, a **binding** commitment of the will. Sentimentalism makes love conditional on fluctuating emotions, undermining the stability needed for **life-giving communion**. "I love you till death do us part, unless I don't feel it anymore" is a contradiction and directed toward self rather than the other. ESPECIALLY when children are involved!
     *   **Feelings vs. Sacred Gift:** Reduces the **sacred gift** of charity (a theological virtue infused by grace) to a mere human emotional response. Ignores the supernatural dimension. "I love you because you make me feel good" is a self-centered, transactional view of love. True love is a gift of self, not a mere response to how another makes us feel.
-5.  **The Proper Role of Emotions:**
+6.  **The Proper Role of Emotions:**
     *   Acknowledge that emotions are a God-given part of being human and _do_ play a role in love (joy, affection, empathy). (CCC 1764).
     *   However, they are meant to be _responses_ to the good, ordered by the will, not the primary _drivers_ of moral action or the _definition_ of love itself. They follow, rather than lead, authentic love.
-6.  **Contrast with Charity (True Love):**
+7.  **Contrast with Charity (True Love):**
     *   Define Charity (Caritas) as the theological virtue by which we love God above all things for His own sake, and our neighbor as ourselves for the love of God (CCC 1822). It resides in the will, perfected by grace.
     *   Reiterate the core definition: > **Perfect Love is the sacred, sacrificial gift of covenant which binds true justice and true mercy into life-giving communion.** Show how sentimentalism fails to meet this standard, particularly regarding **sacrifice**, **covenant**, **truth**, **justice**, and its **sacred** nature.
 

@@ -12,8 +12,11 @@ Part I: The Problem - Suffering, Confusion, and the Search for Love - Why is the
 9: Unmasking Counterfeit Love - Feminism
 10: Unmasking Counterfeit Love - Marxism/Socialism/Communism
 11: Unmasking Counterfeit Love - Postmodernism
-12: Unmasking Counterfeit Love - "Sexualism"
+12: Unmasking Counterfeit Love - Sexualism and Gender Ideology
 12A: Unmasking Counterfeit Love - "Divorce"
+12B: Unmasking Counterfeit Love - "Politicalism"
+12C: Unmasking Counterfeit Love - "Materialism"
+
 13: The Answer to Counterfeit Love - The Catholic Vision of Love
 
 Part II: The Source of Love - What Love Is - The source of all love is God Himself, who is Love. He is like the Sun. All of the life-giving warmth and light we experience comes from Him.
