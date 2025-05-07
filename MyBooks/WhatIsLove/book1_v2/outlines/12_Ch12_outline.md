@@ -21,9 +21,14 @@ This chapter critiques the modern cultural elevation of sexual activity and iden
 2.  **Defining "Sexualism":**
     *   Explain it as the reduction of human identity and relationships primarily to their sexual dimension.
     *   Characterized by: promotion of sexual activity outside of marriage, normalization of various sexual behaviors contrary to Church teaching, viewing sexual fulfillment as a primary goal of life, often separating sex from procreation and permanent commitment (**covenant**).
+4. **Common Cries of Sexualism in our culture:**
+    *   "Sexual freedom", "Sexual liberation", "My body, my choice", "Love is love", "You do you", "Follow your heart", "Sexual orientation", "Sexual identity", "Sexual expression", "Sexual empowerment", "Sexual rights", "Consent is key", "Safe Sex", "Sexual health", "Sexual revolution", "Sexual fluidity", "Sexual diversity", "Sexual equality", "
 3.  **The Counterfeit Appeal:**
     *   Appeals to powerful natural desires. Promises pleasure, intimacy (often superficial), and self-expression.
     *   Fits with individualism (Ch 8) and relativism (Ch 7) – "My desires determine my identity and morality."
+4.  **The Problem of Evil:**
+    *   Sexualism fails to address the problem of evil because it often leads to objectification, exploitation, and broken relationships. It promotes a distorted view of love that prioritizes self-gratification over genuine connection and commitment.
+    *   It can lead to emotional and spiritual harm, including addiction, loneliness, and a sense of emptiness. It often ignores the reality of sin and the need for redemption, leading to further suffering and division in society.
 4.  **Unmasking the Counterfeit - How it Distorts True Love:**
     *   **vs. Truth & Dignity:** Reduces the human person, made in God's image (body and soul), to their sexual appetites. Ignores the **sacred truth** about the meaning and purpose of sexuality as revealed by God (CCC 2337). Undermines **sacred clarity** and dignity.
     *   **vs. Sacred Covenant (Marriage):** Detaches sex from the **sacred covenant** of marriage, where it finds its true meaning as a total self-**gift** expressing unitive and procreative love (CCC 2360-2361). Turns a **sacred gift** into mere recreation or self-gratification.
