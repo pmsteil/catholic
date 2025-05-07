@@ -22,7 +22,7 @@ This chapter begins Part II, "The Source of Love." Having contrasted authentic l
         > **Perfect Love is the sacred, sacrificial gift of covenant which binds true justice and true mercy into life-giving communion.**
     *   Mention the shorter form: _Love is the unity of God's true justice and true mercy._
     *   Explain that this definition attempts to capture the essence of God's own love (Charity) as revealed through Scripture and Tradition.
-3.  **Breaking Down the Definition (Explicitly, as per prompt instructions):**
+3.  **Breaking Down the Definition:**
     *   Dedicate focused attention to *each* component:
         *   **Sacred:** Rooted in God's holiness; set apart from the profane; transcendent; participating in the divine life. Contrasts with purely secular or materialistic views.
             *   > "Charity... consists not in loving ourselves in God, but in loving God in ourselves and for Himself; and our neighbor also, purely for God." - St. Francis de Sales, *Treatise on the Love of God*
