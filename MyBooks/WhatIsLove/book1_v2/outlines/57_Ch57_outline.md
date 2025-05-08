@@ -22,24 +22,28 @@ Continuing the exploration of the Practices of Love, this chapter focuses on Eva
 2.  **Defining Evangelization: Sharing the Good News:**
     *   Define Evangelization as proclaiming Christ and His Gospel by word and deed, inviting others to faith and conversion (CCC 849, 905). It's sharing the **sacred truth** that saves.
     *   It's not proselytizing (coercion) but proposing the **truth** in love.
-    *   > "Being Christian is not the result of an ethical choice or a lofty idea, but the encounter with an event, a person, which gives life a new horizon and a decisive direction." -- Pope Benedict XVI, _Deus Caritas Est_, 1
-    *   > "The joy of the gospel fills the hearts and lives of all who encounter Jesus... I wish to encourage the Christian faithful to embark upon a new chapter of evangelization marked by this joy..." -- Pope Francis, _Evangelii Gaudium_, 1
-    *   > "The mission of Christ the Redeemer, which is entrusted to the Church, is still very far from completion... We cannot be content when we consider the millions of our brothers and sisters, who, like us, have been redeemed by the blood of Christ but who live in ignorance of the love of God." -- St. John Paul II, _Redemptoris Missio_, 1
-3.  **The Universal Mission:**
+
+> "Being Christian is not the result of an ethical choice or a lofty idea, but the encounter with an event, a person, which gives life a new horizon and a decisive direction." -- Pope Benedict XVI, _Deus Caritas Est_, 1
+
+> "The joy of the gospel fills the hearts and lives of all who encounter Jesus... I wish to encourage the Christian faithful to embark upon a new chapter of evangelization marked by this joy..." -- Pope Francis, _Evangelii Gaudium_, 1
+
+> "The mission of Christ the Redeemer, which is entrusted to the Church, is still very far from completion... We cannot be content when we consider the millions of our brothers and sisters, who, like us, have been redeemed by the blood of Christ but who live in ignorance of the love of God." -- St. John Paul II, _Redemptoris Missio_, 1
+
+1.  **The Universal Mission:**
     *   Emphasize that the Great Commission (Mt 28:19-20) is given to the _whole_ Church, including the laity (CCC 900, 905). Every Christian participates in this **sacred mission** according to their state in life and opportunities.
-4.  **Why Evangelize? Motivations of Love:**
+2.  **Why Evangelize? Motivations of Love:**
     *   **Love of God:** Desire to make Him known and loved, fulfilling His command. An act of **true justice** towards God.
     *   **Love of Neighbor:** Genuine concern for their eternal salvation and desire for them to experience the joy (Ch 43), peace (Ch 44), and **life-giving communion** found in Christ. An act of **true mercy**.
-5.  **Methods of Evangelization:**
+3.  **Methods of Evangelization:**
     *   **Witness of Life:** Living authentic holiness (Ch 56) and virtue attracts others (Mt 5:16). Showing joy, peace, faithfulness (Part IV).
     *   **Proclamation:** Clearly and charitably explaining the core message (Kerygma) of salvation in Christ. Requires knowing the **sacred truth** (Ch 21).
     *   **Dialogue:** Respectful conversation, listening to others, finding common ground.
     *   **Works of Charity/Justice:** Meeting people's needs demonstrates God's love tangibly (Kindness Ch 34/46, Generosity Ch 32, Justice Ch 23).
     *   Requires Prudence (Ch 27) and Fortitude (Ch 28).
-6.  **Challenges and Importance:**
+4.  **Challenges and Importance:**
     *   Acknowledge challenges: Fear, rejection, cultural hostility (relativism Ch 7, indifference).
     *   Stress its vital importance for the Church's life and the salvation of souls. Requires **sacrifice**.
-7.  **Evangelization and the Core Definition of Love:**
+5.  **Evangelization and the Core Definition of Love:**
     *   Connect Evangelization explicitly to the components from Ch 14:
         *   **Sacred Mission:** Evangelization _is_ love's **sacred mission**.
         *   **Sacrifice:** Requires **sacrifice** of comfort, time, facing potential rejection.
@@ -48,7 +52,7 @@ Continuing the exploration of the Practices of Love, this chapter focuses on Eva
         *   **Binds:** Seeks to **bind** others to Christ and His Church.
         *   **True Justice/Mercy:** Offers the path to reconciliation with God (**mercy**) and living according to His design (**justice**). Shares the **sacred truth**.
         *   **Life-Giving Communion:** The goal is to bring others into **life-giving communion**.
-8.  **Anecdote Placeholder:**
+6.  **Anecdote Placeholder:**
     *   `[Author Anecdote: A story about an experience of sharing the faith (perhaps awkwardly but sincerely), or being evangelized oneself, highlighting the importance of witness or clear proclamation.]`
 
 ## III. Closing
@@ -66,4 +70,3 @@ Continuing the exploration of the Practices of Love, this chapter focuses on Eva
     *   _Evangelii Nuntiandi_ (Apostolic Exhortation by Paul VI on Evangelization in the Modern World)
     *   _Redemptoris Missio_ (Encyclical by St. John Paul II on the Permanent Validity of the Church's Missionary Mandate)
 *   **Prayer Practice:** Pray the Rosary, offering the Luminous Mysteries for the intention of the New Evangelization. Meditate on how Christ revealed Himself and called His disciples. Intention: To ask for the grace and **sacred courage** (Fortitude) to fulfill the **sacred mission** of evangelization, seeking opportunities to share the **sacred truth** and invite others into the **sacred covenant** and **life-giving communion** of the Church.
-

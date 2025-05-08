@@ -25,12 +25,16 @@ Following the Theological Virtues (the foundation) and Cardinal Virtues (the hin
 3.  **Shaping Character for Love:**
     *   Explain that the goal of virtue is to shape our character into the likeness of Christ, who is perfect Love. A virtuous character is necessary to love authentically and consistently.
     *   These virtues govern our actions, order passions (Temperance - Ch 29), and guide conduct according to reason (Prudence - Ch 27) and faith (Ch 19). They build **Sacred Character**.
-    *   > "Temperance is love giving itself entirely to that which is loved; fortitude is love readily bearing all things for the sake of the loved object; justice is love serving only the loved object, and therefore ruling rightly; prudence is love distinguishing with sagacity between what hinders it and what helps it." -- St. Augustine, *Of the Morals of the Catholic Church*
-    *   > "Grace does not destroy nature but perfects it." -- St. Thomas Aquinas, *Summa Theologica*, I, Q. 1, Art. 8, ad 2 (Illustrates grace perfecting virtue)
-    *   > "The proof of love is in the works. Where love exists, it works great things. But when it ceases to act, it ceases to exist." -- St. Gregory the Great
-4.  **Relationship to Cardinal Virtues:**
+
+> "Temperance is love giving itself entirely to that which is loved; fortitude is love readily bearing all things for the sake of the loved object; justice is love serving only the loved object, and therefore ruling rightly; prudence is love distinguishing with sagacity between what hinders it and what helps it." -- St. Augustine, _Of the Morals of the Catholic Church_
+
+> "Grace does not destroy nature but perfects it." -- St. Thomas Aquinas, _Summa Theologica_, I, Q. 1, Art. 8, ad 2 (Illustrates grace perfecting virtue)
+
+> "The proof of love is in the works. Where love exists, it works great things. But when it ceases to act, it ceases to exist." -- St. Gregory the Great
+
+1.  **Relationship to Cardinal Virtues:**
     *   Explain that the numerous moral virtues can be grouped around the Cardinal Virtues (CCC 1805). For example, generosity relates to justice; patience relates to fortitude; chastity relates to temperance. Prudence guides them all.
-5.  **Introduction to Key Moral Virtues (To be explored in Ch 31-40):**
+2.  **Introduction to Key Moral Virtues (To be explored in Ch 31-40):**
     *   Briefly introduce the virtues listed in the master outline for this chapter, perhaps grouping them slightly or giving a one-sentence description of how each relates to love:
         *   **Humility:** Foundation, recognizing dependence on God.
         *   **Generosity:** Freely giving (**sacred gift**).
@@ -43,9 +47,9 @@ Following the Theological Virtues (the foundation) and Cardinal Virtues (the hin
         *   **Gratitude:** Recognizing and appreciating God's **gifts**.
         *   **Truthfulness:** Honesty and integrity (related to **sacred truth**).
         *   _(Self-Control/Discipline from Ch 41 could also be mentioned here as related to Temperance)_
-6.  **Growth in Virtue: Grace and Effort:**
+3.  **Growth in Virtue: Grace and Effort:**
     *   Reiterate that while human effort is required to develop habits, growth in supernatural virtue is primarily the work of the Holy Spirit (Ch 17) through grace (Ch 15). It requires prayer, sacraments, and cooperation.
-7.  **Moral Virtues and the Core Definition of Love:**
+4.  **Moral Virtues and the Core Definition of Love:**
     *   Connect the concept of Moral Virtues collectively to the components from Ch 14:
         *   **Sacred Character:** The virtues constitute this character needed for **sacred** love.
         *   **Sacrifice:** Many virtues (patience, diligence, obedience, humility) directly involve **sacrifice**.
@@ -54,7 +58,7 @@ Following the Theological Virtues (the foundation) and Cardinal Virtues (the hin
         *   **Binds:** Virtuous habits **bind** our actions consistently to the good.
         *   **True Justice/Mercy:** Specific virtues like justice itself, generosity, kindness, meekness directly relate.
         *   **Life-Giving Communion:** A virtuous life naturally fosters **life-giving communion**.
-8.  **Anecdote Placeholder:**
+5.  **Anecdote Placeholder:**
     *   `[Author Anecdote: A story about the slow, sometimes difficult process of cultivating a specific moral virtue (e.g., patience, humility) and how developing that habit eventually made loving actions in related situations more natural or consistent.]`
 
 ## III. Closing
@@ -70,4 +74,3 @@ Following the Theological Virtues (the foundation) and Cardinal Virtues (the hin
     *   CCC 1810-1811 (Moral Virtues grow through education, acts, perseverance, grace)
     *   CCC 1839 (Lists key human virtues related to cardinal virtues)
 *   **Prayer Practice:** Pray the Litany of the Sacred Heart of Jesus. Intention: To contemplate the virtues embodied in the Heart of Christ (e.g., "Heart of Jesus, patient and most merciful," "fountain of life and holiness," "obedient unto death") and to ask for the grace to cultivate these same virtues in one's own character, shaping it for **sacred**, **sacrificial** love.
-

@@ -32,12 +32,16 @@ Continuing the exploration of the Fruits of Love, this chapter focuses on Faithf
 5.  **Faithfulness in Action:**
     *   **To God:** Perseverance in faith (Ch 19), prayer, and obedience (Ch 38) even during dryness or difficulty. Loyalty to Church teaching.
     *   **To Neighbor:** Fidelity in marriage, loyalty to friends and family, keeping promises, fulfilling responsibilities reliably (Diligence - Ch 35). Requires **sacrifice**.
-    *   > "Faithfulness requires a daily heroism." -- St. Josemaría Escrivá
-    *   > "God's faithfulness is the anchor of our hope." -- Pope Benedict XVI
-    *   > "Be faithful in small things because it is in them that your strength lies." -- St. Teresa of Calcutta
-6.  **Opposed to Infidelity, Unreliability, Betrayal:**
+
+> "Faithfulness requires a daily heroism." -- St. Josemaría Escrivá
+
+> "God's faithfulness is the anchor of our hope." -- Pope Benedict XVI
+
+> "Be faithful in small things because it is in them that your strength lies." -- St. Teresa of Calcutta
+
+1.  **Opposed to Infidelity, Unreliability, Betrayal:**
     *   Contrast Faithfulness with infidelity (breaking commitments, especially marital), unreliability (being undependable), betrayal of trust, fair-weather friendship. These destroy **life-giving communion**.
-7.  **Faithfulness and the Core Definition of Love:**
+2.  **Faithfulness and the Core Definition of Love:**
     *   Connect Faithfulness explicitly to the components from Ch 14:
         *   **Sacred Loyalty:** Faithfulness _is_ this loyalty, reflecting God's **sacred** nature.
         *   **Sacrifice:** Remaining faithful often requires **sacrifice** of personal desires or convenience.
@@ -46,7 +50,7 @@ Continuing the exploration of the Fruits of Love, this chapter focuses on Faithf
         *   **Binds:** Loyalty and reliability **bind** relationships securely.
         *   **True Justice:** Fulfilling commitments is an act of **true justice**.
         *   **Life-Giving Communion:** Faithfulness provides the stability necessary for lasting **life-giving communion**.
-8.  **Anecdote Placeholder:**
+3.  **Anecdote Placeholder:**
     *   `[Author Anecdote: A story about the importance of faithfulness in a long-term relationship (God, spouse, friend), or witnessing the steadfast loyalty of someone inspired by faith.]`
 
 ## III. Closing
@@ -63,4 +67,3 @@ Continuing the exploration of the Fruits of Love, this chapter focuses on Faithf
     *   CCC 1832 (Faithfulness as fruit of the Spirit)
     *   CCC 1646-1651 (Fidelity in marriage)
 *   **Prayer Practice:** Pray the Act of Faith. Intention: To reaffirm belief not only in God's revealed **sacred truths** but also in His unwavering Faithfulness to His promises and **sacred covenant**, asking for the grace to mirror that **sacred loyalty** in one's own life. (Repeated prayer, different intention focus).
-

@@ -31,12 +31,16 @@ Continuing the exploration of the Practices of Love, this chapter focuses on var
     *   **Almsgiving (Generosity as Self-Denial):** Revisit Generosity (Ch 32) framed as self-denial – giving up resources we could use for ourselves out of love and **true justice**. A key penitential practice (CCC 1434).
     *   **Long-suffering (Patience):** Revisit Patience (Ch 33/45) framed as self-denial – denying the impulse to anger, complain, or give up when enduring difficulties or others' faults. Requires **sacred endurance**.
     *   **Perseverance (Diligence/Fortitude):** Revisit Diligence (Ch 35) and Fortitude (Ch 28) framed as self-denial – denying the desire for ease or escape, persisting in prayer, duty, and **covenant** commitments despite obstacles. Requires **sacred commitment**.
-    *   > "Fasting is the soul of prayer, mercy [almsgiving] is the lifeblood of fasting. Let no one try to separate them… So if you pray, fast; if you fast, show mercy.” – St. Peter Chrysologus
-    *   > "Without the burden of afflictions it is impossible to reach the height of grace. The gift of grace increases as the struggle increases." – St. Rose of Lima
-    *   > "Perseverance is the essential virtue of the believer. It is not the beginning but the end which is rewarded." – St. Gregory the Great
-4.  **Beyond Minimums: Personal Penance:**
+
+> "Fasting is the soul of prayer, mercy \[almsgiving\] is the lifeblood of fasting. Let no one try to separate them… So if you pray, fast; if you fast, show mercy.” – St. Peter Chrysologus
+
+> "Without the burden of afflictions it is impossible to reach the height of grace. The gift of grace increases as the struggle increases." – St. Rose of Lima
+
+> "Perseverance is the essential virtue of the believer. It is not the beginning but the end which is rewarded." – St. Gregory the Great
+
+1.  **Beyond Minimums: Personal Penance:**
     *   Encourage voluntary acts of self-denial chosen prudently (Ch 27) for spiritual growth (giving up legitimate goods for a time, adding extra prayers, etc.).
-5.  **Self-Denial and the Core Definition of Love:**
+2.  **Self-Denial and the Core Definition of Love:**
     *   Connect Self-Denial practices explicitly to the components from Ch 14:
         *   **Sacred Discipline:** These practices _are_ forms of **sacred discipline**.
         *   **Sacrifice:** Self-denial _is_ **sacrifice** in various forms.
@@ -45,7 +49,7 @@ Continuing the exploration of the Practices of Love, this chapter focuses on var
         *   **Binds:** Discipline **binds** the will to God's will.
         *   **True Justice/Mercy:** Almsgiving serves **justice** and **mercy**. Fasting can be offered for others (mercy). Honoring Holy Days is **justice** to God.
         *   **Life-Giving Communion:** Detachment fosters deeper **communion** with God; shared practices strengthen Church **communion**.
-6.  **Anecdote Placeholder:**
+3.  **Anecdote Placeholder:**
     *   `[Author Anecdote: A personal experience with a specific practice of self-denial (e.g., fasting, consistent prayer despite difficulty, giving up something significant) and the spiritual benefits or freedom experienced as a result.]`
 
 ## III. Closing

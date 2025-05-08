@@ -28,10 +28,14 @@ Continuing the exploration of the Practices of Love, this chapter focuses on the
     *   The Church (Ch 50) acts as the steward and minister of these **sacred mysteries**.
 4.  **Sacraments as Encounters with Christ:**
     *   Stress that sacraments are not magic rituals but personal encounters with the living Christ acting through the Holy Spirit (Ch 17) (CCC 1088-1089). They foster **sacred intimacy**.
-    *   > "What was visible in our Redeemer has passed over into his sacraments." -- St. Leo the Great (Sermon 74, 2)
-    *   > "The Eucharist draws us into Jesus' act of self-oblation... We enter into the very dynamic of his self-giving." -- Pope Benedict XVI (Deus Caritas Est, 13)
-    *   > "It is not to remain in a golden ciborium that He comes down each day from Heaven, but to find another heaven, the heaven of our soul, where He takes delight." -- St. Thérèse of Lisieux (Story of a Soul)
-5.  **Overview of the Seven Sacraments (Briefly, focusing on link to love/communion):**
+
+> "What was visible in our Redeemer has passed over into his sacraments." -- St. Leo the Great (Sermon 74, 2)
+
+> "The Eucharist draws us into Jesus' act of self-oblation... We enter into the very dynamic of his self-giving." -- Pope Benedict XVI (Deus Caritas Est, 13)
+
+> "It is not to remain in a golden ciborium that He comes down each day from Heaven, but to find another heaven, the heaven of our soul, where He takes delight." -- St. Thérèse of Lisieux (Story of a Soul)
+
+1.  **Overview of the Seven Sacraments (Briefly, focusing on link to love/communion):**
     *   **Initiation:**
         *   _Baptism:_ Entry into the **sacred covenant**, new life, forgiveness of sin, becoming member of Christ's Body (CCC 1213). Foundation of **communion**.
         *   _Confirmation:_ Strengthening with the Holy Spirit's **gifts** for witness and deeper participation in the Church's mission (CCC 1285). Empowers **sacrificial** love.
@@ -42,10 +46,10 @@ Continuing the exploration of the Practices of Love, this chapter focuses on the
     *   **Service of Communion:**
         *   _Holy Orders:_ Configures men to Christ to serve the Church as priest, deacon (CCC 1536). Service of **true justice** and **mercy**.
         *   _Matrimony:_ **Sacred covenant** uniting man and woman in lifelong, faithful, fruitful love, signifying Christ's love for the Church (CCC 1601). Embodies **sacrificial gift** and **life-giving communion**.
-6.  **Necessity and Fruitfulness:**
+2.  **Necessity and Fruitfulness:**
     *   Sacraments are necessary for salvation for those to whom they are proposed (CCC 1129).
     *   Their fruitfulness depends on the recipient's disposition (faith, humility, desire). Requires cooperation with grace.
-7.  **Sacraments and the Core Definition of Love:**
+3.  **Sacraments and the Core Definition of Love:**
     *   Connect Sacraments explicitly to the components from Ch 14:
         *   **Sacred Intimacy/Nourishment:** Sacraments _are_ the primary means of **sacred intimacy** and **nourishment**.
         *   **Sacrifice:** Eucharist makes present Christ's **sacrifice**. Receiving sacraments worthily often requires **sacrifice** of pride/sin.
@@ -54,7 +58,7 @@ Continuing the exploration of the Practices of Love, this chapter focuses on the
         *   **Binds:** Sacraments **bind** us to Christ and His Body, the Church.
         *   **True Justice/Mercy:** Reconciliation embodies **true mercy** built on **truth** and **justice**. Eucharist strengthens for acts of **justice/mercy**.
         *   **Life-Giving Communion:** Sacraments initiate, restore, deepen, and nourish **life-giving communion**.
-8.  **Anecdote Placeholder:**
+4.  **Anecdote Placeholder:**
     *   `[Author Anecdote: A personal story about the profound impact of receiving a particular sacrament (e.g., Eucharist, Reconciliation) at a key moment, highlighting the experience of grace, intimacy, or nourishment received.]`
 
 ## III. Closing
@@ -74,4 +78,3 @@ Continuing the exploration of the Practices of Love, this chapter focuses on the
     *   CCC Part Two: The Celebration of the Christian Mystery (CCC 1066-1690 - Detailed explanation of Liturgy and each Sacrament)
     *   CCC 1113-1134 (Sacraments - Definition, Christ's institution, Efficacy, Necessity)
 *   **Prayer Practice:** Make a Spiritual Communion prayer, expressing desire for union with Christ in the Eucharist. Intention: To cultivate a deeper hunger for sacramental **sacred intimacy** and **nourishment**, recognizing the Eucharist as the source and summit of Christian life and the ultimate expression of **life-giving communion**.
-

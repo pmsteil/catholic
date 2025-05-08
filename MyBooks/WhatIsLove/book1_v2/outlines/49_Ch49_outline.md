@@ -28,18 +28,22 @@ Concluding Part IV ("The Fruits of Love"), this chapter focuses on Growth. It pr
 4.  **Requires Cooperation: Grace and Effort:**
     *   Reiterate CCC 2015: Growth requires our cooperation with grace through spiritual battle, **sacrifice** (Ch 24), discipline (Self-Control - Ch 41), prayer, sacraments, and practicing virtue (Diligence - Ch 35).
     *   It's not automatic, but a result of both God's **sacred gift** and our response.
-    *   > "Do not wish to be anything but what you are, and try to be that perfectly." -- St. Francis de Sales (Emphasizes accepting our current state while striving for perfection within it, aligning with gradual growth.)
-    *   > "Miss no single opportunity of making some small sacrifice, here by a smiling look, there by a kindly word; always doing the smallest right and doing it all for love." -- St. Thérèse of Lisieux (Highlights how growth manifests in small, consistent acts of love and sacrifice.)
-    *   > "Being Christian is not the result of an ethical choice or a lofty idea, but the encounter with an event, a person, which gives life a new horizon and a decisive direction." -- Pope Benedict XVI, _Deus Caritas Est_, 1 (Points to the source of growth: a transformative encounter with Christ, leading to flourishing.)
-5.  **Signs of Growth:**
+
+> "Do not wish to be anything but what you are, and try to be that perfectly." -- St. Francis de Sales (Emphasizes accepting our current state while striving for perfection within it, aligning with gradual growth.)
+
+> "Miss no single opportunity of making some small sacrifice, here by a smiling look, there by a kindly word; always doing the smallest right and doing it all for love." -- St. Thérèse of Lisieux (Highlights how growth manifests in small, consistent acts of love and sacrifice.)
+
+> "Being Christian is not the result of an ethical choice or a lofty idea, but the encounter with an event, a person, which gives life a new horizon and a decisive direction." -- Pope Benedict XVI, _Deus Caritas Est_, 1 (Points to the source of growth: a transformative encounter with Christ, leading to flourishing.)
+
+1.  **Signs of Growth:**
     *   Increased love for God and neighbor.
     *   Greater detachment from sin and worldly things.
     *   More consistent practice of virtue (Parts III & IV).
     *   Deeper prayer life and desire for **communion**.
     *   Increased peace (Ch 44) and joy (Ch 43) even amidst trials.
-6.  **Lifelong Process:**
+2.  **Lifelong Process:**
     *   Emphasize that spiritual growth is a journey, not a destination reached in this life. We are always striving, always dependent on God's **mercy** (Ch 22). Requires Patience (Ch 33/45) with ourselves.
-7.  **Growth and the Core Definition of Love:**
+3.  **Growth and the Core Definition of Love:**
     *   Connect Growth explicitly to the components from Ch 14:
         *   **Sacred Flourishing:** Growth _is_ this **sacred flourishing** in divine life.
         *   **Sacrifice:** Growth requires ongoing **sacrifice** and dying to self.
@@ -48,7 +52,7 @@ Concluding Part IV ("The Fruits of Love"), this chapter focuses on Growth. It pr
         *   **Binds:** Growth **binds** us more closely to God and His will.
         *   **True Justice/Mercy:** Growth leads to more consistent practice of **true justice** and **mercy**.
         *   **Life-Giving Communion:** Growth _is_ the deepening of **life-giving communion**.
-8.  **Anecdote Placeholder:**
+4.  **Anecdote Placeholder:**
     *   `[Author Anecdote: A reflection on a period of noticeable spiritual growth, perhaps spurred by a specific event or practice, and the resulting sense of deeper connection with God or greater capacity to love.]`
 
 ## III. Closing
