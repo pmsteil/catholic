@@ -55,7 +55,7 @@ This chapter begins Part III, "The Facets of Love - What Love Requires." In Part
 
 ## III. Closing
 
-*   **Chapter Takeaway:** Faith, Hope, and Charity are the three theological virtues, infused by God as a **sacred gift** through the Holy Spirit. They form the essential **sacred foundation** of Christian life, directly connecting us to God and empowering us to believe His **truth**, trust His promises, and live out the **sacrificial**, **covenantal** love (Charity) that **binds true justice and true mercy into life-giving communion**.
+*   **Chapter Takeaway:** Faith, Hope, and Charity are the three theological virtues, infused by God as a **sacred gift** through the Holy Spirit. They form the essential **sacred foundation** of Christian life, directly connecting us to God and empowering us to believe His **truth**, trust His promises, and live out the **sacrificial**, **covenantal** love (Charity) that **binds true justice and true mercy into life-giving communion**. As we have already discussed the theological virtue of love(charity) in [Chapter 14](#ch14), we will discuss Faith and Hope in the next two chapters.
 *   **Reflection Question:** How do I actively nurture each of the theological virtues—Faith, Hope, and Charity—in my daily relationship with God? Do I see them as interconnected foundations for my entire moral and spiritual life?
 *   **Further Study - Scripture:**
     *   Hebrews 11:1, 6 (Definition and necessity of Faith)

@@ -4,7 +4,7 @@
 21: Truth: Love's Sacred Clarity
 
 ## Part III Context:
-Continuing the exploration of what love requires, after establishing the theological virtues (Ch 18-20), this chapter focuses on Truth as an indispensable element. Authentic love cannot be based on illusion or deceit; it requires the clarity that comes from knowing and living in reality as revealed by God.
+Continuing the exploration of what love requires, after establishing the theological virtues (Ch 14 and 18-20), this chapter focuses on Truth as an indispensable element. Authentic love cannot be based on illusion or deceit; it requires the clarity that comes from knowing and living in reality as revealed by God.
 
 ## I. Opening
 
