@@ -16,7 +16,7 @@ Continuing the exploration of what love requires, after establishing the theolog
 
 1.  **Transition: Beyond Belief and Hope to Reality:**
     *   Recap: Faith ([Chapter 19](#ch19)) adheres to God's revelation, Hope ([Chapter 20](#ch20)) trusts in His promises, Love ([Chapter 14](#ch14)) a basic truth of human nature. All must be grounded in *reality* – in Truth.
-    *   Also, looking forward to [Chapter 22](#ch22) on Justice/Mercy, and [Chapter 23](#ch23) also can only be fulfilled in Truth.
+    *   Also, looking forward to [Chapter 22](#ch22) on Justice, and [Chapter 23](#ch23) on Mercy, both of which can only be fulfilled in Truth.
     *   As have explored in Part I, all counterfeits of love detach love have at their core some misconception or distortion of the truth of who we are as human beings or the inherent, God given value and dignity of every human being.
 2.  **Defining Truth: God as Source:**
     *   Define Truth as the conformity of mind and reality.
@@ -101,5 +101,3 @@ That others may become holier than I, provided that I may become as holy as I sh
 Amen
 
 -- The Litany of Humility
-
-
