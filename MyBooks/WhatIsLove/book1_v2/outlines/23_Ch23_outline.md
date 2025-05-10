@@ -4,7 +4,7 @@
 23: Justice: Love's Sacred Honor
 
 ## Part III Context:
-Following discussions on Truth (Ch 21) and Mercy (Ch 22), this chapter focuses on Justice as the third crucial element intrinsically **bound** within authentic love. Building on the "Cry for Justice" (Ch 3), it explores how upholding **true justice**—giving God and neighbor their due—is essential for honoring their **sacred** dignity and maintaining right relationships within the **covenant**.
+Following discussions on Truth ([Chapter 21](#ch21)) and Mercy ([Chapter 22](#ch22)), this chapter focuses on Justice as the third crucial element intrinsically **bound** within authentic love. Building on the "Cry for Justice" ([Chapter 3](#ch3)), it explores how upholding **true justice**—giving God and neighbor their due—is essential for honoring their **sacred** dignity and maintaining right relationships within the **covenant**.
 
 ## I. Opening
 
@@ -15,11 +15,11 @@ Following discussions on Truth (Ch 21) and Mercy (Ch 22), this chapter focuses o
 ## II. Body: Developing the Theme
 
 1.  **Transition: The Necessary Counterpart to Mercy:**
-    *   Recap Ch 22: Mercy heals and restores. But restoration implies a standard of what is right and whole – that standard is Justice.
-    *   Revisit Ch 3: The innate cry for fairness and right relationships. Justice is love's commitment to upholding that right order.
+    *   Recap [Chapter 22](#ch22): Mercy heals and restores. But restoration implies a standard of what is right and whole – that standard is Justice.
+    *   Revisit [Chapter 3](#ch3): The innate cry for fairness and right relationships. Justice is love's commitment to upholding that right order.
 2.  **Defining True Justice: Giving What is Due:**
     *   Reiterate the definition (CCC 1807): Giving God His due (worship, obedience, love - the virtue of religion) and neighbor their due (respect for rights, dignity, fairness).
-    *   Emphasize it's based on objective **sacred truth** about God and the human person (Ch 21), not subjective feelings or power dynamics (contra Ch 6).
+    *   Emphasize it's based on objective **sacred truth** about God and the human person ([Chapter 21](#ch21)), not subjective feelings or power dynamics (contra [Chapter 6](#ch6)).
     *   > "Justice is a habit whereby a man renders to each one his due by a constant and perpetual will." -- St. Thomas Aquinas, *Summa Theologiae*, II-II, Q.58, Art. 1
     *   > "What are kingdoms without justice? They're just gangs of bandits." -- St. Augustine, *City of God*, Book IV, Ch. 4
     *   > "Justice is the primary way of charity or, in Paul VI's words, 'the minimum measure' of it..." -- Pope Benedict XVI, *Caritas in Veritate*, 6
@@ -31,14 +31,14 @@ Following discussions on Truth (Ch 21) and Mercy (Ch 22), this chapter focuses o
     *   This establishes the primary **covenant** relationship upon which all other just relationships depend.
 5.  **Justice Towards Neighbor (Social Justice):**
     *   Discuss respecting the rights and dignity of others in all spheres: personal, familial, economic, political.
-    *   Mention key principles like the common good, solidarity, subsidiarity (linking back to Ch 10 critique). Requires **sacrifice** of self-interest.
+    *   Mention key principles like the common good, solidarity, subsidiarity (linking back to [Chapter 10](#ch10) critique). Requires **sacrifice** of self-interest.
 6.  **Justice and Truth:**
-    *   Reinforce the link from Ch 21: **True justice** requires knowing and acting upon the **sacred truth**. We must know what is rightfully due to God and neighbor.
+    *   Reinforce the link from [Chapter 21](#ch21): **True justice** requires knowing and acting upon the **sacred truth**. We must know what is rightfully due to God and neighbor.
 7.  **Justice Tempered and Perfected by Mercy:**
-    *   Reiterate the **binding** relationship from Ch 14 & 22: Justice alone can be cold or harsh. Mercy prevents justice from becoming mere retribution.
+    *   Reiterate the **binding** relationship from [Chapter 14](#ch14) & [Chapter 22](#ch22): Justice alone can be cold or harsh. Mercy prevents justice from becoming mere retribution.
     *   However, mercy without justice is sentimentality or enablement. **True mercy** presupposes the reality of **true justice** (an offense has occurred, a debt is owed) which is then overcome by love.
 8.  **Justice and the Core Definition of Love:**
-    *   Connect Justice explicitly to the components from Ch 14:
+    *   Connect Justice explicitly to the components from [Chapter 14](#ch14):
         *   **Sacred Honor:** Justice is the active honoring of **sacred** dignity.
         *   **Sacrifice:** Requires **sacrifice** of selfishness to give others their due.
         *   **Covenant:** Upholds the terms and responsibilities of the **sacred covenant**.
