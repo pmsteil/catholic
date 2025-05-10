@@ -19,7 +19,7 @@ Concluding Part II ("The Source of Love"), this chapter identifies the Holy Spir
     *   Pose the question: How does this divine love become a living reality *within* us? Introduce the Holy Spirit as the answer – the "Inner Fire."
 2.  **Who is the Holy Spirit?**
     *   Briefly explain the Holy Spirit as the Third Person of the Blessed Trinity, distinct yet inseparable from the Father and the Son.
-    *   He is the personal Love between the Father and the Son, eternally proceeding from them (CCC 243-248). He *is* the **sacred gift** personified.
+    *   He is the personal Love between the Father and the Son, eternally proceeding from them (CCC 243-248, 255). He *is* the **sacred gift** personified.
     *   > "What is the Holy Spirit? He is the bond of love between the Father and the Son. He is the gift of God, the fountain of living water, the fire of love, the spiritual unction." -- St. Augustine
     *   > "Just as the soul is the life of the body, so is the Holy Spirit the life of our souls." -- St. Thomas Aquinas
     *   > "The Holy Spirit is the personal expression of this self-giving, of this being-love. He is Person-Love. He is Person-Gift." -- Pope St. John Paul II (Dominum et Vivificantem, 9)
@@ -55,13 +55,110 @@ Concluding Part II ("The Source of Love"), this chapter identifies the Holy Spir
 *   **Chapter Takeaway:** The Holy Spirit is the personal, indwelling Source and Inner Fire of authentic love. As the Love between Father and Son, He pours God's **sacred gift** of grace into our hearts, empowering us through His gifts and fruits to live out the **sacrificial**, **covenantal** love that **binds true justice and true mercy into life-giving communion**.
 *   **Reflection Question:** Do I actively seek a personal relationship with the Holy Spirit, inviting Him daily to ignite, guide, and empower my efforts to love? How can I become more attentive and responsive to His presence?
 *   **Further Study - Scripture:**
+    *   John 15:26 (The Spirit helps us understand Truth which is a pre-requisite for love)
     *   John 16:7-15 (The Spirit's role as Advocate, guide to truth)
-    *   Acts 2:1-13 (Pentecost - the coming of the Spirit)
+    *   Romans 5:5 (God's love has been poured into our hearts through the Holy Spirit)
     *   1 Corinthians 12 (Spiritual gifts, unity in the Spirit)
+    *   Galatians 4:6 (The Spirit resides in our soul helping us to cry out "Abba, Father!")
     *   Galatians 5:16-26 (Life by the Spirit vs. life by the flesh)
+    *   Acts 2:1-13 (Pentecost - the coming of the Spirit and the start of His Church to teach us about Love)
 *   **Further Study - Catechism:**
     *   CCC 683-747 (I Believe in the Holy Spirit - His mission, names, symbols, actions)
     *   CCC 1830-1832 (Gifts and Fruits of the Holy Spirit)
     *   CCC 2670-2672 (Invoking the Holy Spirit in prayer)
-*   **Prayer Practice:** Pray the Veni Creator Spiritus (Come, Holy Spirit, Creator Blest) or another prayer specifically invoking the Holy Spirit (e.g., Come Holy Spirit, fill the hearts of your faithful...). Intention: To consciously invite the Holy Spirit to deepen His indwelling, to activate His **sacred gifts**, and to set the heart ablaze with divine love, enabling **sacrificial** living and fostering **life-giving communion**.
+*   **Prayer Practice:** Pray the Veni Sancte Spiritus (Come Holy Spirit) or another prayer specifically invoking the Holy Spirit (e.g., Come Holy Spirit, fill the hearts of your faithful...). Intention: To consciously invite the Holy Spirit to deepen His indwelling, to activate His **sacred gifts**, and to set the heart ablaze with divine love, enabling **sacrificial** living and fostering **life-giving communion**.
 
+
+Latin text of *Veni, Sancte Spiritus* from the Roman Missal:
+
+Veni, Sancte Spiritus,
+et emitte caelitus
+lucis tuae radium.
+
+Veni, pater pauperum,
+veni, dator munerum,
+veni, lumen cordium.
+
+Consolator optime,
+dulcis hospes animae,
+dulce refrigerium.
+
+In labore requies,
+in aestu temperies,
+in fletu solatium.
+
+O lux beatissima,
+reple cordis intima
+tuorum fidelium.
+
+Sine tuo numine,
+nihil est in homine,
+nihil est innoxium.
+
+Lava quod est sordidum,
+riga quod est aridum,
+sana quod est saucium.
+
+Flecte quod est rigidum,
+fove quod est frigidum,
+rege quod est devium.
+
+Da tuis fidelibus,
+in te confidentibus,
+sacrum septenarium.
+
+Da virtutis meritum,
+da salutis exitum,
+da perenne gaudium.
+
+Amen. Alleluia.
+
+
+English text of *Veni, Sancte Spiritus* (Come, Holy Ghost) translated by John Austin:
+
+Come, Holy Ghost,
+send down those beams,
+which sweetly flow in silent streams
+from Thy bright throne above.
+
+O come, Thou Father of the poor;
+O come, Thou source of all our store,
+come, fill our hearts with love.
+
+O Thou, of comforters the best,
+O Thou, the soul's delightful guest,
+the pilgrim's sweet relief.
+
+Rest art Thou in our toil, most sweet
+refreshment in the noonday heat;
+and solace in our grief.
+
+O blessed Light of life Thou art;
+fill with Thy light the inmost heart
+of those who hope in Thee.
+
+Without Thy Godhead nothing can,
+have any price or worth in man,
+nothing can harmless be.
+
+Lord, wash our sinful stains away,
+refresh from heaven our barren clay,
+our wounds and bruises heal.
+
+To Thy sweet yoke our stiff necks bow,
+warm with Thy fire our hearts of snow,
+our wandering feet recall.
+
+Grant to Thy faithful, dearest Lord,
+whose only hope is Thy sure word,
+the sevenfold gifts of grace.
+
+Grant us in life Thy grace that we,
+in peace may die and ever be,
+in joy before Thy face.
+
+Amen. Alleluia.
+
+Veni, Sancte Spiritus, known as the Golden Sequence, is the sequence for the Mass for Pentecost. It is commonly regarded as one of the greatest masterpieces of sacred Latin poetry ever written. Its beauty and depth have been praised by many. The hymn has been attributed to three different authors, King Robert II the Pious of France (970-1031), Pope Innocent III (1161-1216), and Stephen Langton (d 1228), Archbishop of Canterbury, of which the last is most likely the author.
+
+https://www.preces-latinae.org/thesaurus/Hymni/VSS-2.html
