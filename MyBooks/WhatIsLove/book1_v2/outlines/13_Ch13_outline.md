@@ -8,8 +8,6 @@ This chapter concludes Part I. It synthesizes the critiques of the various count
 
 ## I. Opening
 
-
-
 **Key Scripture Verse**: "He who does not love does not know God; for God is love... God is love, and he who abides in love abides in God, and God abides in him." -- _1 John 4:8, 16b_
 
 **Key CCC Reference(s)**: "To conclude this prologue, it is fitting to recall this pastoral principle stated by the Roman Catechism: __The whole concern of doctrine and its teaching must be directed to the love that never ends. Whether something is proposed for belief, for hope, or for action, the love of our Lord must always be made accessible, so that anyone can see that all the works of perfect Christian virtue spring from love and have no other objective than to arrive at love.__" (CCC 25)

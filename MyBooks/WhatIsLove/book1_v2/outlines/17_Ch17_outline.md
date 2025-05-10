@@ -68,6 +68,11 @@ Concluding Part II ("The Source of Love"), this chapter identifies the Holy Spir
     *   CCC 2670-2672 (Invoking the Holy Spirit in prayer)
 *   **Prayer Practice:** Pray the Veni Sancte Spiritus (Come Holy Spirit) or another prayer specifically invoking the Holy Spirit (e.g., Come Holy Spirit, fill the hearts of your faithful...). Intention: To consciously invite the Holy Spirit to deepen His indwelling, to activate His **sacred gifts**, and to set the heart ablaze with divine love, enabling **sacrificial** living and fostering **life-giving communion**.
 
+Also called the “Golden Sequence,” this 12th-century chant is sung at every Pentecost Mass. In one sweeping prayer it celebrates the Holy Spirit as the Gift who empowers all true love, heals disordered hearts, and pours the divine charity that makes us God’s children. By ending with this ancient plea we entrust ourselves to the Spirit who alone can turn the teaching we have heard into the lived grace of love.
+
+
+Veni Sancte Spiritus
+---------------------
 
 Latin text of *Veni, Sancte Spiritus* from the Roman Missal:
 
@@ -158,6 +163,9 @@ in peace may die and ever be,
 in joy before Thy face.
 
 Amen. Alleluia.
+
+
+
 
 Veni, Sancte Spiritus, known as the Golden Sequence, is the sequence for the Mass for Pentecost. It is commonly regarded as one of the greatest masterpieces of sacred Latin poetry ever written. Its beauty and depth have been praised by many. The hymn has been attributed to three different authors, King Robert II the Pious of France (970-1031), Pope Innocent III (1161-1216), and Stephen Langton (d 1228), Archbishop of Canterbury, of which the last is most likely the author.
 
