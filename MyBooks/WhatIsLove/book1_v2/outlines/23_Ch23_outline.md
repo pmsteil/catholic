@@ -19,7 +19,7 @@ Following discussions on Truth (Ch 21) and Mercy (Ch 22), this chapter focuses o
     *   Revisit Ch 3: The innate cry for fairness and right relationships. Justice is love's commitment to upholding that right order.
 2.  **Defining True Justice: Giving What is Due:**
     *   Reiterate the definition (CCC 1807): Giving God His due (worship, obedience, love - the virtue of religion) and neighbor their due (respect for rights, dignity, fairness).
-    *   Emphasize it's based on objective **sacred truth** about God and the human person (Ch 21), not subjective feelings or power dynamics (contra Ch 5).
+    *   Emphasize it's based on objective **sacred truth** about God and the human person (Ch 21), not subjective feelings or power dynamics (contra Ch 6).
     *   > "Justice is a habit whereby a man renders to each one his due by a constant and perpetual will." -- St. Thomas Aquinas, *Summa Theologiae*, II-II, Q.58, Art. 1
     *   > "What are kingdoms without justice? They're just gangs of bandits." -- St. Augustine, *City of God*, Book IV, Ch. 4
     *   > "Justice is the primary way of charity or, in Paul VI's words, 'the minimum measure' of it..." -- Pope Benedict XVI, *Caritas in Veritate*, 6
