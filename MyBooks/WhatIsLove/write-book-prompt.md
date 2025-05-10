@@ -60,6 +60,7 @@ Systematically generate the complete first draft of this book by expanding the p
 *   `[]`: Not Started
 *   `[O]`: Outline Generated (Ready for User Review)
 *   `[S]`: Saints, Thelogians, Popes added to each chapter (Ready for User Review/Edit)
+*   `[P]`: Papal Encylicals - For each chapter, if there is one or more papal encyclical(s) that are relevant to the chapter, add them after the **Further Study - Catechism** section in a new section called **Further Study - Papal Encylicals**.
 *   `[F]`: Suffering Saints: Find quotes from saints who were catechized by the effects of evil, suffering, oppression, persecution, martyrdom, and add them to the chapter outline file.
 *   `[R]`: Do another review of each chapter outline for faithfulness to Catholic teaching, replace church jargon with simple language, and make sure the outline is clear and easy to understand
 *   `[D]`: Narrative Drafted one chapter at a time (Ready for User Review/Edit)
