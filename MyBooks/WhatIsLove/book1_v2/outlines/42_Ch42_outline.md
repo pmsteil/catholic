@@ -42,7 +42,7 @@ Continuing the exploration of what love requires, this chapter examines the Ten 
         *   **True Mercy:** Living them creates conditions where **true mercy** can flourish; breaking them necessitates mercy.
         *   **Life-Giving Communion:** They guide us away from sin (death) towards actions that foster **life-giving communion**.
 7.  **Beyond Minimums: Towards Virtue:**
-    *   Acknowledge that the Commandments represent the *minimum* requirements. Love calls us beyond merely avoiding evil towards actively pursuing good (virtue - foreshadowing Ch 26ff).
+    *   Acknowledge that the Commandments represent the *minimum* requirements. Love calls us beyond merely avoiding evil towards actively pursuing good (virtue - foreshadowing Ch 25ff).
 8.  **Anecdote Placeholder:**
     *   `[Author Anecdote: A story about realizing the wisdom and protective love behind a specific commandment, perhaps after initially resisting it or seeing the negative consequences of breaking it.]`
 

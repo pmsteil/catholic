@@ -1,10 +1,10 @@
-# Chapter 31 Outline: Humility: Love's Sacred Foundation
+# Chapter 30 Outline: Humility: Love's Sacred Foundation
 
 ## Chapter Title:
-31: Humility: Love's Sacred Foundation
+30: Humility: Love's Sacred Foundation
 
 ## Part III Context:
-Beginning the detailed exploration of specific Moral Virtues introduced in Chapter 30, this chapter focuses on Humility. It presents Humility not as self-deprecation, but as living in the **sacred truth** of our dependence on God and our proper place in relation to Him and others. It is the essential foundation upon which all other virtues, and authentic love itself, must be built.
+Beginning the detailed exploration of specific Moral Virtues introduced in Chapter 29, this chapter focuses on Humility. It presents Humility not as self-deprecation, but as living in the **sacred truth** of our dependence on God and our proper place in relation to Him and others. It is the essential foundation upon which all other virtues, and authentic love itself, must be built.
 
 ## I. Opening
 
@@ -15,7 +15,7 @@ Beginning the detailed exploration of specific Moral Virtues introduced in Chapt
 ## II. Body: Developing the Theme
 
 1.  **Transition: The Foundational Virtue:**
-    *   Recap Ch 30: Moral virtues shape our character for love.
+    *   Recap Ch 29: Moral virtues shape our character for love.
     *   Introduce Humility as the bedrock virtue. Why start here? Because pride (humility's opposite) is the root of much sin, hindering our relationship with God and others. Humility clears the ground for grace (Ch 15) and authentic love.
     *   > "Humility is the foundation of all the other virtues hence, in the soul in which this virtue does not exist there cannot be any other virtue except in mere appearance." -- St. Augustine
     *   > "It was pride that changed angels into devils; it is humility that makes men as angels." -- St. Augustine
@@ -25,8 +25,8 @@ Beginning the detailed exploration of specific Moral Virtues introduced in Chapt
     *   Contrast with false humility (self-deprecation for effect) and pride (exaggerated self-importance, self-sufficiency).
 3.  **Humility Towards God:**
     *   Acknowledging God as the source of all good (**sacred gift**).
-    *   Submission to His will (Obedience - Ch 38).
-    *   Gratitude for His gifts (Ch 39).
+    *   Submission to His will (Obedience - Ch 37).
+    *   Gratitude for His gifts (Ch 38).
     *   Recognizing the need for His **mercy** (Ch 22) and grace (Ch 15). It's the foundation of prayer (CCC 2559).
 4.  **Humility Towards Neighbor:**
     *   Recognizing the equal dignity of others (Imago Dei).

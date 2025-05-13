@@ -1,10 +1,10 @@
-# Chapter 33 Outline: Patience: Love's Sacred Endurance
+# Chapter 32 Outline: Patience: Love's Sacred Endurance
 
 ## Chapter Title:
-33: Patience: Love's Sacred Endurance
+32: Patience: Love's Sacred Endurance
 
 ## Part III Context:
-Continuing the exploration of Moral Virtues, this chapter focuses on Patience. Closely related to Fortitude (Ch 28) and Hope (Ch 20), Patience is presented as the virtue that enables us to bear difficulties, suffering, and the faults of others calmly and without complaint, trusting in God's timing and providence. It is essential for enduring **sacrificial**, **covenantal** love.
+Continuing the exploration of Moral Virtues, this chapter focuses on Patience. Closely related to Fortitude (Ch 27) and Hope (Ch 20), Patience is presented as the virtue that enables us to bear difficulties, suffering, and the faults of others calmly and without complaint, trusting in God's timing and providence. It is essential for enduring **sacrificial**, **covenantal** love.
 
 ## I. Opening
 
@@ -15,7 +15,7 @@ Continuing the exploration of Moral Virtues, this chapter focuses on Patience. C
 ## II. Body: Developing the Theme
 
 1.  **Transition: From Giving to Enduring:**
-    *   Recap Ch 32: Generosity involves actively giving.
+    *   Recap Ch 31: Generosity involves actively giving.
     *   Introduce Patience: Love also requires the ability to *endure* – to bear with difficulties, delays, and imperfections (our own and others') without losing peace or charity.
 2.  **Defining Patience: Calm Endurance:**
     *   Define Patience as the virtue of enduring present evils calmly and without sadness or resentment. It's more than just "waiting."
@@ -24,14 +24,14 @@ Continuing the exploration of Moral Virtues, this chapter focuses on Patience. C
         *   Bearing with the faults/weaknesses of others (long-suffering).
         *   Bearing delays in God's perceived action or the fulfillment of hope.
 3.  **Patience as a Facet of Fortitude:**
-    *   Connect Patience to Fortitude (Ch 28). Patience is the *endurance* aspect of fortitude – the quiet strength to hold fast under prolonged pressure or hardship.
+    *   Connect Patience to Fortitude (Ch 27). Patience is the *endurance* aspect of fortitude – the quiet strength to hold fast under prolonged pressure or hardship.
 4.  **Fueled by Hope and Faith:**
     *   Patience is not passive resignation but is animated by Hope (Ch 20) – trust that God will bring good out of suffering and fulfill His promises in His time.
     *   It requires Faith (Ch 19) – belief in God's goodness, wisdom, and providence even when circumstances are difficult to understand.
 5.  **Patience with God, Neighbor, and Self:**
     *   **With God:** Trusting His timing, accepting His will even when it involves suffering or delay.
     *   **With Neighbor:** Bearing their faults, weaknesses, and annoying habits out of love (**mercy** - Ch 22). Essential for **life-giving communion**. Requires **sacrifice** of our desire for perfection or control.
-    *   **With Self:** Bearing our own weaknesses, failures, and slow progress in virtue with humility (Ch 31) and hope, without giving way to discouragement.
+    *   **With Self:** Bearing our own weaknesses, failures, and slow progress in virtue with humility (Ch 30) and hope, without giving way to discouragement.
     *   > "The greater then is in saints the charity (or love) of God, the more do they endure all things for Him whom they love..." -- St. Augustine, *On Patience*, Ch. 14
     *   > "Have patience with all things, but chiefly have patience with yourself. Do not lose courage in considering your own imperfections, but instantly set about remedying them—every day begin the task anew." -- St. Francis de Sales
     *   > "I know now that true charity consists in bearing all our neighbours' defects--not being surprised at their weakness, but edified at their smallest virtues.” -- St. Thérèse of Lisieux, *Story of a Soul*

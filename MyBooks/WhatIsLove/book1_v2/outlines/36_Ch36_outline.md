@@ -1,7 +1,7 @@
-# Chapter 37 Outline: Meekness: Love's Sacred Strength
+# Chapter 36 Outline: Meekness: Love's Sacred Strength
 
 ## Chapter Title:
-37: Meekness: Love's Sacred Strength
+36: Meekness: Love's Sacred Strength
 
 ## Part III Context:
 Continuing the exploration of Moral Virtues, this chapter focuses on Meekness. Often misunderstood as weakness, Meekness is presented here as **sacred strength** under control—the virtue that moderates anger and endures injury patiently, flowing from humility and trust in God, enabling gentle yet firm love.
@@ -15,7 +15,7 @@ Continuing the exploration of Moral Virtues, this chapter focuses on Meekness. O
 ## II. Body: Developing the Theme
 
 1.  **Transition: Strength Under Control:**
-    *   Recap previous virtues like Fortitude (strength to endure/act - Ch 28) and Temperance (self-control - Ch 29).
+    *   Recap previous virtues like Fortitude (strength to endure/act - Ch 27) and Temperance (self-control - Ch 28).
     *   Introduce Meekness as a specific kind of strength: power yielded to God, strength under control, particularly regarding the passion of anger and responses to injury.
 2.  **Defining Meekness: Gentle Strength, Not Weakness:**
     *   Define Meekness as the virtue that restrains anger and patiently endures injury according to reason and faith.
@@ -27,11 +27,11 @@ Continuing the exploration of Moral Virtues, this chapter focuses on Meekness. O
     *   > "Take care to practice well the humble meekness that you owe to everybody, for it is the virtue of virtues which our Lord greatly recommended to us." -- St. Francis de Sales
     *   > "Nothing is so strong as gentleness, nothing so gentle as real strength." -- St. Francis de Sales
 3.  **Rooted in Humility and Trust:**
-    *   Meekness flows from Humility (Ch 31) – recognizing our own faults and dependence on God's **mercy**.
+    *   Meekness flows from Humility (Ch 30) – recognizing our own faults and dependence on God's **mercy**.
     *   It requires deep trust (Faith - Ch 19, Hope - Ch 20) in God's ultimate **justice** and providence, freeing us from the need to take personal revenge.
 4.  **Meekness Towards God and Neighbor:**
     *   **Towards God:** Humble acceptance of His will, even when difficult, without rebellious anger.
-    *   **Towards Neighbor:** Patiently bearing offenses (linking to Patience Ch 33), responding gently rather than aggressively, seeking reconciliation over retaliation. Essential for **life-giving communion**. Requires **sacrifice** of pride and desire for retribution.
+    *   **Towards Neighbor:** Patiently bearing offenses (linking to Patience Ch 32), responding gently rather than aggressively, seeking reconciliation over retaliation. Essential for **life-giving communion**. Requires **sacrifice** of pride and desire for retribution.
 5.  **Christ: The Model of Meekness:**
     *   Present Jesus as the prime example: "Learn from me; for I am gentle [meek] and lowly in heart" (Matthew 11:29).
     *   His response to accusers, betrayal, and crucifixion demonstrates immense strength held under perfect control out of love and obedience to the Father.

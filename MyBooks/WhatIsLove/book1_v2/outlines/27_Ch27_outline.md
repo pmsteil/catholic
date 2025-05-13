@@ -1,7 +1,7 @@
-# Chapter 28 Outline: Fortitude: Love's Sacred Courage
+# Chapter 27 Outline: Fortitude: Love's Sacred Courage
 
 ## Chapter Title:
-28: Fortitude: Love's Sacred Courage
+27: Fortitude: Love's Sacred Courage
 
 ## Part III Context:
 Continuing the examination of the Cardinal Virtues, this chapter focuses on Fortitude (Courage). It explores Fortitude not just as bravery in the face of physical danger, but as the essential moral strength, perfected by grace, needed to remain firm in pursuing the good and adhering to **sacred truth** despite difficulties, fear, or persecution. It is the virtue that empowers **sacrificial** love.
@@ -15,7 +15,7 @@ Continuing the examination of the Cardinal Virtues, this chapter focuses on Fort
 ## II. Body: Developing the Theme
 
 1.  **Transition: From Knowing to Doing (Despite Obstacles):**
-    *   Recap Ch 27: Prudence helps us discern the right path.
+    *   Recap Ch 26: Prudence helps us discern the right path.
     *   Introduce Fortitude: Knowing the right path isn't enough; we need the strength to walk it, especially when it's difficult. Fortitude provides this **sacred courage**.
 2.  **Defining Fortitude: Firmness and Constancy:**
     *   Expand on the definition (CCC 1808):

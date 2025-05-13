@@ -1,13 +1,12 @@
-# Chapter 26 Outline: Cardinal Virtues: Love's Sacred Strength
+# Chapter 25 Outline: Cardinal Virtues: Love's Sacred Strength
 
 ## Chapter Title:
-26: Cardinal Virtues: Love's Sacred Strength - Prudence, Justice, Fortitude, Temperance
+25: Cardinal Virtues: Love's Sacred Strength - Prudence, Justice, Fortitude, Temperance
 
 ## Part III Context:
-Building upon the theological virtues (Ch 18-20) and the essential requirements like Truth, Mercy, Justice, Sacrifice, and Commandments (Ch 21-25), this chapter introduces the Cardinal Virtues. These are the foundational human virtues, perfected by grace, that provide the inner strength, structure, and practical wisdom needed to consistently live out authentic love.
+Building upon the theological virtues (Ch 18-20) and the essential requirements like Truth, Mercy, Justice, Sacrifice, (Ch 21-24), this chapter introduces the Cardinal Virtues. These are the foundational human virtues, perfected by grace, that provide the inner strength, structure, and practical wisdom needed to consistently live out authentic love.
 
 ## I. Opening
-
 
 **Key Scripture Verse**: "And if any one loves righteousness, her labors are virtues; for she teaches self-control [Temperance] and prudence, justice and courage [Fortitude]; nothing in life is more profitable for men than these." -- _Wisdom 8:7_
 
@@ -16,19 +15,19 @@ Building upon the theological virtues (Ch 18-20) and the essential requirements 
 ## II. Body: Developing the Theme
 
 1.  **Transition: From Divine Gifts to Human Habits:**
-    *   Recap: Theological virtues connect us directly to God (Ch 18). Commandments provide external boundaries (Ch 25).
+    *   Recap: Theological virtues connect us directly to God (Ch 18). Commandments provide external boundaries (Ch 42).
     *   Introduce Cardinal Virtues: These are the key *human* virtues (good habits) that shape our character and actions, enabling us to live according to reason and faith (CCC 1804). They are the "hinges" (cardo) upon which the moral life turns.
 2.  **Infused vs. Acquired (Briefly):**
     *   Acknowledge that while these can be developed through human effort, in the Christian life, they are also *infused* and perfected by God's grace (Ch 15), especially through the Holy Spirit (Ch 17), orienting them towards our supernatural end. They become **sacred strength**.
 3.  **The Four Pillars of Moral Strength:**
     *   Introduce the four Cardinal Virtues: Prudence, Justice, Fortitude, Temperance.
-4.  **Prudence (Brief Overview - Deeper Dive in Ch 27):**
+4.  **Prudence (Brief Overview - Deeper Dive in Ch 26):**
     *   Define Prudence: The virtue that disposes practical reason to discern our true good in every circumstance and to choose the right means of achieving it. "Right reason in action" (St. Thomas Aquinas, cited CCC 1806). The charioteer of the virtues. Provides **sacred discernment**.
 5.  **Justice (Brief Overview - Reinforcing Ch 23):**
     *   Define Justice: The moral virtue that consists in the constant and firm will to give their due to God and neighbor (CCC 1807). Upholds **sacred honor**. (Briefly reiterate its importance as both a cardinal and theological requirement).
-6.  **Fortitude (Brief Overview - Deeper Dive in Ch 28):**
+6.  **Fortitude (Brief Overview - Deeper Dive in Ch 27):**
     *   Define Fortitude (Courage): Ensures firmness in difficulties and constancy in the pursuit of the good. Strengthens resolve to resist temptation and overcome obstacles (CCC 1808). Provides **sacred courage** for **sacrifice**.
-7.  **Temperance (Brief Overview - Deeper Dive in Ch 29):**
+7.  **Temperance (Brief Overview - Deeper Dive in Ch 28):**
     *   Define Temperance (Moderation): Moderates the attraction of pleasures and provides balance in the use of created goods. Ensures the will's mastery over instincts (CCC 1809). Provides **sacred balance**.
 8.  **Working Together for Love:**
     *   Explain how these four virtues work together, guided by the theological virtues (especially Charity), to enable a well-ordered, loving life. Prudence guides, Justice gives right measure, Fortitude overcomes obstacles, Temperance controls disordered desires.

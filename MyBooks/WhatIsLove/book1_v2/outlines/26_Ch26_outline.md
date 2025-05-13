@@ -1,10 +1,10 @@
-# Chapter 27 Outline: Prudence: Love's Sacred Discernment
+# Chapter 26 Outline: Prudence: Love's Sacred Discernment
 
 ## Chapter Title:
-27: Prudence: Love's Sacred Discernment
+26: Prudence: Love's Sacred Discernment
 
 ## Part III Context:
-Delving deeper into the Cardinal Virtues introduced in Chapter 26, this chapter focuses on Prudence. It explores Prudence as "right reason in action," the essential virtue for discerning the true good in specific situations and choosing the right means to achieve it, thereby guiding all other virtues, including love, towards their proper end.
+Delving deeper into the Cardinal Virtues introduced in Chapter 25, this chapter focuses on Prudence. It explores Prudence as "right reason in action," the essential virtue for discerning the true good in specific situations and choosing the right means to achieve it, thereby guiding all other virtues, including love, towards their proper end.
 
 ## I. Opening
 
@@ -15,11 +15,11 @@ Delving deeper into the Cardinal Virtues introduced in Chapter 26, this chapter 
 ## II. Body: Developing the Theme
 
 1.  **Transition: The Charioteer of Virtues:**
-    *   Recap Ch 26: Prudence, Justice, Fortitude, Temperance provide **sacred strength**.
+    *   Recap Ch 25: Prudence, Justice, Fortitude, Temperance provide **sacred strength**.
     *   Introduce Prudence as the "charioteer" (CCC 1806) – it guides the others. Justice knows *what* is due, Fortitude *endures* for it, Temperance *controls* impulses against it, but Prudence determines *how* to apply them rightly in concrete situations.
     *   > "The mould and mother of all the virtues is prudence." - St. Thomas Aquinas
 2.  **Defining Prudence: Right Reason in Action:**
-    *   Expand on the definition: Applying moral principles (**sacred truth**, Commandments - Ch 21, 25) to particular circumstances correctly.
+    *   Expand on the definition: Applying moral principles (**sacred truth**, Commandments - Ch 21, 42) to particular circumstances correctly.
     *   It involves:
         *   **Counsel:** Seeking information and advice.
         *   **Judgment:** Evaluating the situation accurately based on **truth**.

@@ -1,7 +1,7 @@
-# Chapter 39 Outline: Gratitude: Love's Sacred Appreciation
+# Chapter 38 Outline: Gratitude: Love's Sacred Appreciation
 
 ## Chapter Title:
-39: Gratitude: Love's Sacred Appreciation
+38: Gratitude: Love's Sacred Appreciation
 
 ## Part III Context:
 Continuing the exploration of Moral Virtues, this chapter focuses on Gratitude. It presents Gratitude as the virtue of recognizing and appreciating God's **sacred gifts**—both spiritual and temporal—and expressing thanks to Him and others. It flows from Humility and fuels Generosity and joyful love.
@@ -15,11 +15,11 @@ Continuing the exploration of Moral Virtues, this chapter focuses on Gratitude. 
 ## II. Body: Developing the Theme
 
 1.  **Transition: Responding to Gifts:**
-    *   Recap previous virtues like Humility (recognizing dependence - Ch 31) and Generosity (sharing gifts - Ch 32).
+    *   Recap previous virtues like Humility (recognizing dependence - Ch 30) and Generosity (sharing gifts - Ch 31).
     *   Introduce Gratitude: What is the proper response to receiving **sacred gifts**? Thankfulness. Gratitude is **Sacred Appreciation**.
 2.  **Defining Gratitude: Recognizing and Thanking:**
     *   Define Gratitude as the virtue by which one recognizes gifts received and expresses thankfulness to the giver. It involves:
-        *   **Recognition:** Acknowledging that something good has been received as a **gift** (not earned or entitled). Requires Humility (Ch 31).
+        *   **Recognition:** Acknowledging that something good has been received as a **gift** (not earned or entitled). Requires Humility (Ch 30).
         *   **Appreciation:** Valuing the gift and the giver's intention.
         *   **Expression:** Showing thanks through words, actions, or prayer.
     *   > "No duty is more urgent than that of returning thanks." – St. Ambrose
@@ -29,13 +29,13 @@ Continuing the exploration of Moral Virtues, this chapter focuses on Gratitude. 
     *   Primary focus: Thankfulness to God for *all* things – existence, creation, redemption, grace, faith, hope, love, sacraments, daily provisions, even trials (which can bring spiritual good).
     *   The Eucharist as the ultimate act of Thanksgiving (CCC 1328, 2637).
 4.  **Gratitude Towards Neighbor:**
-    *   Expressing thanks for kindness (Ch 34), generosity (Ch 32), service, and love received from others.
+    *   Expressing thanks for kindness (Ch 33), generosity (Ch 31), service, and love received from others.
     *   This strengthens relationships (**covenant**, **communion**) and encourages further goodness.
 5.  **Gratitude Fosters Joy and Contentment:**
     *   A grateful heart focuses on blessings received rather than perceived lacks, leading to joy and contentment.
     *   It combats envy, resentment, and complaining.
 6.  **Opposed to Ingratitude and Entitlement:**
-    *   Contrast Gratitude with ingratitude (forgetting or refusing to acknowledge gifts) and a spirit of entitlement (believing one is owed good things). These often stem from pride (opposite of Humility - Ch 31).
+    *   Contrast Gratitude with ingratitude (forgetting or refusing to acknowledge gifts) and a spirit of entitlement (believing one is owed good things). These often stem from pride (opposite of Humility - Ch 30).
 7.  **Gratitude and the Core Definition of Love:**
     *   Connect Gratitude explicitly to the components from Ch 14:
         *   **Sacred Appreciation:** Gratitude *is* this appreciation for **sacred gifts**.

@@ -1,7 +1,7 @@
-# Chapter 40 Outline: Truthfulness: Love's Sacred Honesty
+# Chapter 39 Outline: Truthfulness: Love's Sacred Honesty
 
 ## Chapter Title:
-40: Truthfulness: Love's Sacred Honesty
+39: Truthfulness: Love's Sacred Honesty
 
 ## Part III Context:
 Continuing the exploration of Moral Virtues, this chapter focuses on Truthfulness. Building directly on the importance of Truth itself (Ch 21), Truthfulness is presented as the virtue of living and speaking honestly, conforming our words and actions to reality out of love for God (who is Truth) and respect for neighbor. It is essential for maintaining trust within the **sacred covenant**.
@@ -15,7 +15,7 @@ Continuing the exploration of Moral Virtues, this chapter focuses on Truthfulnes
 ## II. Body: Developing the Theme
 
 1.  **Transition: From Appreciating Gifts to Speaking Truth:**
-    *   Recap Ch 39: Gratitude appreciates God's **gifts**, including the gift of **sacred truth**.
+    *   Recap Ch 38: Gratitude appreciates God's **gifts**, including the gift of **sacred truth**.
     *   Introduce Truthfulness: This virtue puts our commitment to **sacred truth** (Ch 21) into practice in our interactions. It's about aligning our communication and actions with reality.
 2.  **Defining Truthfulness: Honesty in Word and Deed:**
     *   Define Truthfulness (or Veracity) as the virtue disposing one to show oneself true in deeds and speak truthfully in words, guarding against duplicity, dissimulation, and hypocrisy (CCC 2468).
@@ -35,7 +35,7 @@ Continuing the exploration of Moral Virtues, this chapter focuses on Truthfulnes
         *   Avoiding gossip, rash judgment, flattery intended to deceive.
         *   Keeping promises and confidences (when just).
         *   Seeking to understand and represent situations accurately.
-    *   Requires Prudence (Ch 27) to know *when* and *how* to speak the truth in charity (sometimes silence or discretion is required - CCC 2488-2489).
+    *   Requires Prudence (Ch 26) to know *when* and *how* to speak the truth in charity (sometimes silence or discretion is required - CCC 2488-2489).
 5.  **Opposed to Lying and Deception:**
     *   Define Lying as speaking a falsehood with the intention to deceive (CCC 2482). It is intrinsically wrong.
     *   Discuss related offenses: perjury, calumny (harming reputation by lies), detraction (revealing hidden faults without necessity), rash judgment, irony used to harm (CCC 2475-2487). These require **sacrifice** of the desire to manipulate or harm.

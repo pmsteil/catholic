@@ -1,7 +1,7 @@
-# Chapter 35 Outline: Diligence: Love's Sacred Commitment
+# Chapter 34 Outline: Diligence: Love's Sacred Commitment
 
 ## Chapter Title:
-35: Diligence: Love's Sacred Commitment
+34: Diligence: Love's Sacred Commitment
 
 ## Part III Context:
 Continuing the exploration of Moral Virtues, this chapter focuses on Diligence. It presents Diligence not merely as hard work, but as the virtue of careful, persistent, and loving attention to our duties towards God and neighbor, fulfilling our **sacred covenant** responsibilities with commitment.
@@ -15,13 +15,13 @@ Continuing the exploration of Moral Virtues, this chapter focuses on Diligence. 
 ## II. Body: Developing the Theme
 
 1.  **Transition: From Attitude to Action:**
-    *   Recap Ch 34: Kindness shapes our compassionate attitude and interactions.
+    *   Recap Ch 33: Kindness shapes our compassionate attitude and interactions.
     *   Introduce Diligence: Love also requires consistent, committed action. Diligence is the virtue that ensures our loving intentions translate into faithful execution of our responsibilities.
 2.  **Defining Diligence: Persistent and Loving Effort:**
     *   Define Diligence as promptness, carefulness, and perseverance in fulfilling duties. It involves:
         *   **Attentiveness:** Paying careful attention to the task at hand.
         *   **Earnestness:** Approaching duties with sincerity and commitment.
-        *   **Perseverance:** Continuing effort despite tedium, difficulty, or lack of immediate results (linking to Patience Ch 33, Fortitude Ch 28).
+        *   **Perseverance:** Continuing effort despite tedium, difficulty, or lack of immediate results (linking to Patience Ch 32, Fortitude Ch 27).
 3.  **Diligence in Our Duties:**
     *   Apply diligence to various areas:
         *   **Work/Vocation:** Performing our professional or daily work well, as service to God and contribution to the common good (CCC 2427).
@@ -37,7 +37,7 @@ Continuing the exploration of Moral Virtues, this chapter focuses on Diligence. 
     *   Contrast Diligence with the capital sin of Sloth (Acedia) – spiritual laziness, apathy, lack of care regarding spiritual good or fulfilling one's duties (CCC 1866, 2094, 2733). Sloth resists the **sacrificial** effort required by love.
 6.  **Diligence Requires Sacrifice and Order:**
     *   Diligence often requires the **sacrifice** of leisure, comfort, or preferred activities.
-    *   It requires good order and management of time and resources (linking to Prudence Ch 27).
+    *   It requires good order and management of time and resources (linking to Prudence Ch 26).
 7.  **Diligence and the Core Definition of Love:**
     *   Connect Diligence explicitly to the components from Ch 14:
         *   **Sacred Commitment:** Diligence embodies the commitment aspect of **sacred** love.

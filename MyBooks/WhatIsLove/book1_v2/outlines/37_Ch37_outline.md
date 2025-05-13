@@ -1,10 +1,10 @@
-# Chapter 38 Outline: Obedience: Love's Sacred Submission
+# Chapter 37 Outline: Obedience: Love's Sacred Submission
 
 ## Chapter Title:
-38: Obedience: Love's Sacred Submission
+37: Obedience: Love's Sacred Submission
 
 ## Part III Context:
-Continuing the exploration of Moral Virtues, this chapter focuses on Obedience. Often viewed negatively in a culture prizing autonomy (Ch 7, 8), Obedience is presented here as a virtue of **sacred submission**—freely aligning one's will with God's will and legitimate authority out of love, trust (Faith - Ch 19), and humility (Ch 31). It is essential for living within the **sacred covenant**.
+Continuing the exploration of Moral Virtues, this chapter focuses on Obedience. Often viewed negatively in a culture prizing autonomy (Ch 7, 8), Obedience is presented here as a virtue of **sacred submission**—freely aligning one's will with God's will and legitimate authority out of love, trust (Faith - Ch 19), and humility (Ch 30). It is essential for living within the **sacred covenant**.
 
 ## I. Opening
 
@@ -15,7 +15,7 @@ Continuing the exploration of Moral Virtues, this chapter focuses on Obedience. 
 ## II. Body: Developing the Theme
 
 1.  **Transition: From Inner Disposition to External Action:**
-    *   Recap previous virtues like Humility (Ch 31 - recognizing dependence) and Meekness (Ch 37 - controlling reactions).
+    *   Recap previous virtues like Humility (Ch 30 - recognizing dependence) and Meekness (Ch 36 - controlling reactions).
     *   Introduce Obedience: This virtue translates inner submission into external action – aligning our choices and actions with God's revealed will. It's the practical application of Faith (Ch 19) and Humility.
 2.  **Defining Obedience: Loving Submission, Not Servility:**
     *   Define Obedience as the moral virtue that inclines the will to comply promptly with the commands of God and legitimate superiors, motivated by love and respect for the authority established by God.
@@ -24,14 +24,14 @@ Continuing the exploration of Moral Virtues, this chapter focuses on Obedience. 
         *   **Rebellion/Disobedience:** Prideful refusal to submit to God's will or lawful authority (often rooted in individualism - Ch 8).
 3.  **Obedience to God:**
     *   Primary focus: Conforming our will to God's will as expressed in:
-        *   His Commandments (Ch 25).
+        *   His Commandments (Ch 42).
         *   The teachings of Christ and His Church (**sacred truth** - Ch 21).
-        *   The inspirations of the Holy Spirit (discerned through Prudence - Ch 27).
+        *   The inspirations of the Holy Spirit (discerned through Prudence - Ch 26).
     *   This is an act of **true justice** (Ch 23) towards God and the highest form of love (John 14:15 - "If you love me, you will keep my commandments").
 4.  **Obedience to Legitimate Human Authority:**
     *   Explain obedience to parents, civil authorities (when acting justly), and Church authorities (CCC 2234-2243).
     *   This authority comes from God and is exercised for the common good. Obedience is rendered *out of respect for God*, not necessarily the person holding authority.
-    *   Acknowledge the duty to disobey commands that are clearly immoral or contrary to God's law ("We must obey God rather than men" - Acts 5:29). Requires Prudence (Ch 27).
+    *   Acknowledge the duty to disobey commands that are clearly immoral or contrary to God's law ("We must obey God rather than men" - Acts 5:29). Requires Prudence (Ch 26).
 5.  **Christ: The Model of Obedience:**
     *   Present Jesus as the ultimate example: "He humbled himself and became obedient unto death, even death on a cross" (Philippians 2:8). His entire life was fulfilling the Father's will (John 4:34). His obedience undoes Adam's disobedience. This is **sacrificial** love.
 6.  **Obedience and Freedom:**

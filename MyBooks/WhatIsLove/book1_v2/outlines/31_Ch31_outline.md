@@ -1,10 +1,10 @@
-# Chapter 32 Outline: Generosity: Love's Sacred Abundance
+# Chapter 31 Outline: Generosity: Love's Sacred Abundance
 
 ## Chapter Title:
-32: Generosity: Love's Sacred Abundance
+31: Generosity: Love's Sacred Abundance
 
 ## Part III Context:
-Following Humility (Ch 31), this chapter explores the moral virtue of Generosity. It presents Generosity as the virtue that enables us to freely and cheerfully give of our resources (time, talent, treasure) out of love for God and neighbor, reflecting God's own abundant self-**gift** and countering the grip of selfishness and greed.
+Following Humility (Ch 30), this chapter explores the moral virtue of Generosity. It presents Generosity as the virtue that enables us to freely and cheerfully give of our resources (time, talent, treasure) out of love for God and neighbor, reflecting God's own abundant self-**gift** and countering the grip of selfishness and greed.
 
 ## I. Opening
 
@@ -15,8 +15,8 @@ Following Humility (Ch 31), this chapter explores the moral virtue of Generosity
 ## II. Body: Developing the Theme
 
 1.  **Transition: From Recognizing Dependence to Giving Freely:**
-    *   Recap Ch 31: Humility recognizes our dependence on God and His **gifts**.
-    *   Introduce Generosity: The natural outflow of humility and gratitude (Ch 39) is the willingness to share those **gifts** freely with others, mirroring God's own generosity.
+    *   Recap Ch 30: Humility recognizes our dependence on God and His **gifts**.
+    *   Introduce Generosity: The natural outflow of humility and gratitude (Ch 38) is the willingness to share those **gifts** freely with others, mirroring God's own generosity.
 2.  **Defining Generosity: Cheerful Self-Gift:**
     *   Define Generosity (or Liberality) as the virtue disposing one to use wealth and resources rightly, giving freely and appropriately without excessive attachment.
     *   Emphasize the *cheerful* aspect (2 Cor 9:7) – it's not grudging obligation but a joyful sharing flowing from love. It embodies the **sacred gift** aspect of love.
@@ -30,7 +30,7 @@ Following Humility (Ch 31), this chapter explores the moral virtue of Generosity
         *   **Attention/Affection:** Being emotionally available.
         *   **Forgiveness:** A generous act of **mercy** (Ch 22).
 4.  **Rooted in God's Abundance:**
-    *   Generosity flows from trusting in God's providence and recognizing that all we have is ultimately His **sacred gift** (linking to Humility Ch 31).
+    *   Generosity flows from trusting in God's providence and recognizing that all we have is ultimately His **sacred gift** (linking to Humility Ch 30).
     *   God is infinitely generous towards us (giving us life, His Son, grace). Our generosity is a small reflection and response.
 5.  **Overcoming Greed and Selfishness:**
     *   Generosity directly combats the vices of greed (avarice - excessive desire for wealth) and selfishness (individualism - Ch 8).

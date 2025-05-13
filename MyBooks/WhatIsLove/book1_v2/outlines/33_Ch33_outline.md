@@ -1,7 +1,7 @@
-# Chapter 34 Outline: Kindness: Love's Sacred Compassion
+# Chapter 33 Outline: Kindness: Love's Sacred Compassion
 
 ## Chapter Title:
-34: Kindness: Love's Sacred Compassion
+33: Kindness: Love's Sacred Compassion
 
 ## Part III Context:
 Continuing the exploration of Moral Virtues, this chapter focuses on Kindness. Closely related to Mercy (Ch 22) and flowing from Charity, Kindness is presented as the active expression of compassion and goodwill towards others in our thoughts, words, and deeds, reflecting God's own gentle care for His creation.
@@ -15,7 +15,7 @@ Continuing the exploration of Moral Virtues, this chapter focuses on Kindness. C
 ## II. Body: Developing the Theme
 
 1.  **Transition: From Enduring to Acting:**
-    *   Recap Ch 33: Patience enables us to endure difficulties and faults.
+    *   Recap Ch 32: Patience enables us to endure difficulties and faults.
     *   Introduce Kindness: Beyond just enduring, love actively seeks the good of the other through gentle, compassionate action. Kindness is love made tangible in interaction.
 2.  **Defining Kindness: Active Goodwill and Compassion:**
     *   Define Kindness as the quality of being friendly, generous, and considerate. It involves:
@@ -36,7 +36,7 @@ Continuing the exploration of Moral Virtues, this chapter focuses on Kindness. C
 5.  **Kindness Towards All:**
     *   Emphasize that Christian kindness extends beyond friends and family to strangers, difficult people, and even enemies (Luke 6:35 - "be kind to the ungrateful and the selfish"). This requires supernatural Charity.
 6.  **Opposed to Harshness, Cruelty, Indifference:**
-    *   Contrast Kindness with vices like harshness, cruelty, impatience (Ch 33), judgmentalism, indifference, gossip, and malicious speech. These damage **communion** and violate **true justice** and **mercy**.
+    *   Contrast Kindness with vices like harshness, cruelty, impatience (Ch 32), judgmentalism, indifference, gossip, and malicious speech. These damage **communion** and violate **true justice** and **mercy**.
 7.  **Kindness and the Core Definition of Love:**
     *   Connect Kindness explicitly to the components from Ch 14:
         *   **Sacred Compassion:** Kindness is the active expression of **sacred** compassion.

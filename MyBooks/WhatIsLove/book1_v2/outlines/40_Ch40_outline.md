@@ -1,10 +1,10 @@
-# Chapter 41 Outline: Self-Control: Love's Sacred Discipline
+# Chapter 40 Outline: Self-Control: Love's Sacred Discipline
 
 ## Chapter Title:
-41: Self-Control: Love's Sacred Discipline
+40: Self-Control: Love's Sacred Discipline
 
 ## Part III Context:
-Continuing the exploration of Moral Virtues, this chapter focuses on Self-Control. Closely linked to Temperance (Ch 29), Self-Control is presented as the necessary **sacred discipline** over one's thoughts, emotions, words, and actions, enabling mastery over disordered impulses and freeing the will to choose and act according to authentic love.
+Continuing the exploration of Moral Virtues, this chapter focuses on Self-Control. Closely linked to Temperance (Ch 28), Self-Control is presented as the necessary **sacred discipline** over one's thoughts, emotions, words, and actions, enabling mastery over disordered impulses and freeing the will to choose and act according to authentic love.
 
 ## I. Opening
 
@@ -15,16 +15,16 @@ Continuing the exploration of Moral Virtues, this chapter focuses on Self-Contro
 ## II. Body: Developing the Theme
 
 1.  **Transition: Temperance in Action:**
-    *   Recap Ch 29: Temperance provides **sacred balance** regarding pleasures and desires.
+    *   Recap Ch 28: Temperance provides **sacred balance** regarding pleasures and desires.
     *   Introduce Self-Control: This is the active, moment-by-moment practice of that balance and mastery. It's Temperance put into action through **sacred discipline**.
 2.  **Defining Self-Control: Mastery Over Self:**
     *   Define Self-Control as the ability to regulate one's own thoughts, emotions, impulses, and behaviors in accordance with reason, faith, and one's chosen goals (especially the goal of loving God and neighbor).
     *   It involves saying "no" to harmful or disordered impulses and "yes" to the good, even when difficult.
 3.  **Areas of Self-Control:**
-    *   **Thoughts:** Guarding the mind against impure, uncharitable, or despairing thoughts (linking to Purity of Heart - Ch 36).
-    *   **Emotions:** Managing anger (Meekness - Ch 37), fear (Fortitude - Ch 28), sadness, and even excessive elation so they don't dictate actions inappropriately.
-    *   **Words:** Controlling the tongue (avoiding gossip, harshness, lies - Truthfulness Ch 40, Kindness Ch 34).
-    *   **Actions/Appetites:** Restraining impulses related to food, drink, sex (Temperance/Chastity - Ch 29, 36), possessions (Generosity - Ch 32), comfort (Diligence - Ch 35).
+    *   **Thoughts:** Guarding the mind against impure, uncharitable, or despairing thoughts (linking to Purity of Heart - Ch 35).
+    *   **Emotions:** Managing anger (Meekness - Ch 36), fear (Fortitude - Ch 27), sadness, and even excessive elation so they don't dictate actions inappropriately.
+    *   **Words:** Controlling the tongue (avoiding gossip, harshness, lies - Truthfulness Ch 39, Kindness Ch 33).
+    *   **Actions/Appetites:** Restraining impulses related to food, drink, sex (Temperance/Chastity - Ch 28, 35), possessions (Generosity - Ch 31), comfort (Diligence - Ch 34).
 4.  **Self-Control as Essential Discipline for Love:**
     *   Explain why love requires this discipline: Uncontrolled impulses (lust, greed, anger, laziness) are inherently selfish and destructive to relationships (**covenant**, **communion**).
     *   Self-control creates the inner freedom necessary for **sacrificial** self-**gift**. It allows us to act intentionally out of love, rather than reactively out of passion.
@@ -33,7 +33,7 @@ Continuing the exploration of Moral Virtues, this chapter focuses on Self-Contro
     *   > "Freedom consists not in doing what we like, but in having the right to do what we ought." -- Pope St. John Paul II, Address to Youth, 1995
 5.  **Requires Grace, Practice, and Vigilance:**
     *   Acknowledge this is a lifelong struggle against concupiscence.
-    *   Requires God's grace (Ch 15), the power of the Holy Spirit (Ch 17 - listed as a fruit), and consistent effort in prayer, sacraments, and forming good habits (Virtue - Ch 30). Requires vigilance ("Be sober, be watchful" - 1 Peter 5:8).
+    *   Requires God's grace (Ch 15), the power of the Holy Spirit (Ch 17 - listed as a fruit), and consistent effort in prayer, sacraments, and forming good habits (Virtue - Ch 29). Requires vigilance ("Be sober, be watchful" - 1 Peter 5:8).
 6.  **Opposed to Impulsivity and Enslavement:**
     *   Contrast Self-Control with impulsivity (acting without thinking) and enslavement to passions or addictions (the opposite of freedom). Lack of self-control hinders our ability to live according to **sacred truth** and **true justice**.
 7.  **Self-Control and the Core Definition of Love:**

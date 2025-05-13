@@ -1,7 +1,7 @@
-# Chapter 29 Outline: Temperance: Love's Sacred Balance
+# Chapter 28 Outline: Temperance: Love's Sacred Balance
 
 ## Chapter Title:
-29: Temperance: Love's Sacred Balance
+28: Temperance: Love's Sacred Balance
 
 ## Part III Context:
 Completing the initial exploration of the four Cardinal Virtues, this chapter focuses on Temperance. It presents Temperance not as joyless prohibition, but as the virtue that provides **sacred balance** by moderating our attraction to pleasures and ensuring mastery over instincts, allowing reason and love (Charity) to guide our actions rather than disordered desires.
@@ -15,7 +15,7 @@ Completing the initial exploration of the four Cardinal Virtues, this chapter fo
 ## II. Body: Developing the Theme
 
 1.  **Transition: Mastering the Inner World:**
-    *   Recap Ch 27 (Prudence guides) & Ch 28 (Fortitude endures external obstacles).
+    *   Recap Ch 26 (Prudence guides) & Ch 27 (Fortitude endures external obstacles).
     *   Introduce Temperance: This virtue deals with internal obstacles – our own desires and appetites for pleasure. It provides **sacred balance** within.
 2.  **Defining Temperance: Moderation and Mastery:**
     *   Expand on the definition (CCC 1809):

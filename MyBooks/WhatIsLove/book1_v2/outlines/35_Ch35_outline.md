@@ -1,10 +1,10 @@
-# Chapter 36 Outline: Chastity: Love's Sacred Purity
+# Chapter 35 Outline: Chastity: Love's Sacred Purity
 
 ## Chapter Title:
-36: Chastity: Love's Sacred Purity
+35: Chastity: Love's Sacred Purity
 
 ## Part III Context:
-Continuing the exploration of Moral Virtues, this chapter focuses on Chastity. Building on the critique of "Sexualism" (Ch 12) and the virtue of Temperance (Ch 29), Chastity is presented not as repression, but as the successful integration of sexuality within the person, leading to inner unity and making authentic self-**gift** possible. It is love's **sacred purity**.
+Continuing the exploration of Moral Virtues, this chapter focuses on Chastity. Building on the critique of "Sexualism" (Ch 12) and the virtue of Temperance (Ch 28), Chastity is presented not as repression, but as the successful integration of sexuality within the person, leading to inner unity and making authentic self-**gift** possible. It is love's **sacred purity**.
 
 ## I. Opening
 
@@ -15,7 +15,7 @@ Continuing the exploration of Moral Virtues, this chapter focuses on Chastity. B
 ## II. Body: Developing the Theme
 
 1.  **Transition: Temperance Applied to Sexuality:**
-    *   Recap Ch 29: Temperance provides **sacred balance** over desires.
+    *   Recap Ch 28: Temperance provides **sacred balance** over desires.
     *   Introduce Chastity as the specific application of temperance to the powerful gift of sexuality (CCC 2341). Revisit the critique of "Sexualism" (Ch 12).
 2.  **Defining Chastity: Integration and Purity:**
     *   Define Chastity as the successful integration of sexuality, leading to inner unity (CCC 2337). It's about ordering sexual desires according to reason and faith (**sacred truth**).
@@ -26,13 +26,13 @@ Continuing the exploration of Moral Virtues, this chapter focuses on Chastity. B
         *   **Unmarried Persons (Single/Celibate/Religious):** Abstinence from genital activity, channeling relational and generative energies into other forms of love and service.
 4.  **Chastity as Freedom For Love:**
     *   Counter the cultural view of chastity as repression. Frame it as liberation *from* slavery to lust and disordered desires.
-    *   It enables true self-mastery (Temperance - Ch 29), making authentic self-**gift** possible. Unchastity is inherently self-serving, hindering true love.
+    *   It enables true self-mastery (Temperance - Ch 28), making authentic self-**gift** possible. Unchastity is inherently self-serving, hindering true love.
     *   > "Only the chaste man and the chaste woman are capable of true love." -- St. John Paul II
     *   > "Chastity is the joyous affirmation of love." -- St. Josemaría Escrivá
     *   > "Purity prepares the soul for love, and love confirms the soul in purity." -- St. John Henry Newman
 5.  **Requires Grace and Discipline:**
     *   Acknowledge the difficulty of chastity in a fallen world and hyper-sexualized culture.
-    *   Requires God's grace (Ch 15), prayer, sacraments (esp. Reconciliation & Eucharist), custody of the senses, modesty, and ongoing effort (**sacrifice**, Diligence - Ch 35).
+    *   Requires God's grace (Ch 15), prayer, sacraments (esp. Reconciliation & Eucharist), custody of the senses, modesty, and ongoing effort (**sacrifice**, Diligence - Ch 34).
 6.  **Opposed to Lust and Various Sins:**
     *   Contrast Chastity with Lust (disordered desire for or inordinate enjoyment of sexual pleasure - CCC 2351) and specific sins against chastity (masturbation, fornication, pornography, adultery, etc. - CCC 2351-2356). These actions violate the dignity of the person and the **sacred truth** of sexuality, damaging **communion**.
 7.  **Chastity and the Core Definition of Love:**

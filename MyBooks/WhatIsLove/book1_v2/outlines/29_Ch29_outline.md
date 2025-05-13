@@ -1,8 +1,8 @@
-# Chapter 30 Outline: Moral Virtues: Love's Sacred Character
+# Chapter 29 Outline: Moral Virtues: Love's Sacred Character
 
 ## Chapter Title:
 
-30: Moral Virtues: Love's Sacred Character
+29: Moral Virtues: Love's Sacred Character
 
 ## Part III Context:
 
@@ -17,14 +17,14 @@ Following the Theological Virtues (the foundation) and Cardinal Virtues (the hin
 ## II. Body: Developing the Theme
 
 1.  **Transition: From Strength to Specific Habits:**
-    *   Recap: Theological virtues orient us to God (Ch 18-20); Cardinal virtues provide fundamental strength and guidance (Ch 26-29).
+    *   Recap: Theological virtues orient us to God (Ch 18-20); Cardinal virtues provide fundamental strength and guidance (Ch 25-28).
     *   Introduce Moral Virtues: These are the specific, habitual dispositions that flow from and specify the cardinal virtues, shaping our character for good action (CCC 1803). They are the "muscles" developed through practice and grace.
 2.  **Virtue as Habitual Goodness:**
     *   Define Moral Virtue as a _habit_ – a stable disposition acquired through repeated good actions, aided by grace (Ch 15). It's not just doing good occasionally, but _becoming_ good.
     *   Contrast with vice (habitual bad action). Virtue makes doing good easier, more consistent, and even joyful (CCC 1804).
 3.  **Shaping Character for Love:**
     *   Explain that the goal of virtue is to shape our character into the likeness of Christ, who is perfect Love. A virtuous character is necessary to love authentically and consistently.
-    *   These virtues govern our actions, order passions (Temperance - Ch 29), and guide conduct according to reason (Prudence - Ch 27) and faith (Ch 19). They build **Sacred Character**.
+    *   These virtues govern our actions, order passions (Temperance - Ch 28), and guide conduct according to reason (Prudence - Ch 26) and faith (Ch 19). They build **Sacred Character**.
 
 > "Temperance is love giving itself entirely to that which is loved; fortitude is love readily bearing all things for the sake of the loved object; justice is love serving only the loved object, and therefore ruling rightly; prudence is love distinguishing with sagacity between what hinders it and what helps it." -- St. Augustine, _Of the Morals of the Catholic Church_
 
@@ -34,7 +34,7 @@ Following the Theological Virtues (the foundation) and Cardinal Virtues (the hin
 
 1.  **Relationship to Cardinal Virtues:**
     *   Explain that the numerous moral virtues can be grouped around the Cardinal Virtues (CCC 1805). For example, generosity relates to justice; patience relates to fortitude; chastity relates to temperance. Prudence guides them all.
-2.  **Introduction to Key Moral Virtues (To be explored in Ch 31-40):**
+2.  **Introduction to Key Moral Virtues (To be explored in Ch 30-39):**
     *   Briefly introduce the virtues listed in the master outline for this chapter, perhaps grouping them slightly or giving a one-sentence description of how each relates to love:
         *   **Humility:** Foundation, recognizing dependence on God.
         *   **Generosity:** Freely giving (**sacred gift**).
@@ -46,7 +46,7 @@ Following the Theological Virtues (the foundation) and Cardinal Virtues (the hin
         *   **Obedience:** Submission to God's will and legitimate authority (**covenant**).
         *   **Gratitude:** Recognizing and appreciating God's **gifts**.
         *   **Truthfulness:** Honesty and integrity (related to **sacred truth**).
-        *   _(Self-Control/Discipline from Ch 41 could also be mentioned here as related to Temperance)_
+        *   _(Self-Control/Discipline from Ch 40 could also be mentioned here as related to Temperance)_
 3.  **Growth in Virtue: Grace and Effort:**
     *   Reiterate that while human effort is required to develop habits, growth in supernatural virtue is primarily the work of the Holy Spirit (Ch 17) through grace (Ch 15). It requires prayer, sacraments, and cooperation.
 4.  **Moral Virtues and the Core Definition of Love:**
