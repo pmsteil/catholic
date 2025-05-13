@@ -80,29 +80,33 @@
     *   CCC 2477-2479 (Respect for the reputation of persons; rash judgment, detraction, calumny)
 *   **Prayer Practice:** **The Litany of Humility.**
     *   **Significance:** Counterfeit love often stems from pride – our desire to define love on our own terms, to be seen as "loving" by worldly standards, or to avoid the difficult demands of true justice and mercy. The Litany of Humility helps us combat this pride, asking for the grace to desire that others may be more loved, esteemed, and honored than ourselves, and that we may be emptied of self to make room for God's authentic love.
-    *   **Text of the Litany of Humility:**
-        O Jesus! meek and humble of heart, Hear me.
-        From the desire of being esteemed, Deliver me, Jesus.
-        From the desire of being loved, Deliver me, Jesus.
-        From the desire of being extolled, Deliver me, Jesus.
-        From the desire of being honored, Deliver me, Jesus.
-        From the desire of being praised, Deliver me, Jesus.
-        From the desire of being preferred to others, Deliver me, Jesus.
-        From the desire of being consulted, Deliver me, Jesus.
-        From the desire of being approved, Deliver me, Jesus.
-        From the fear of being humiliated, Deliver me, Jesus.
-        From the fear of being despised, Deliver me, Jesus.
-        From the fear of suffering rebukes, Deliver me, Jesus.
-        From the fear of being calumniated, Deliver me, Jesus.
-        From the fear of being forgotten, Deliver me, Jesus.
-        From the fear of being ridiculed, Deliver me, Jesus.
-        From the fear of being wronged, Deliver me, Jesus.
-        From the fear of being suspected, Deliver me, Jesus.
 
-        That others may be loved more than I, Jesus, grant me the grace to desire it.
-        That others may be esteemed more than I, Jesus, grant me the grace to desire it.
-        That, in the opinion of the world, others may increase and I may decrease, Jesus, grant me the grace to desire it.
-        That others may be chosen and I set aside, Jesus, grant me the grace to desire it.
-        That others may be praised and I unnoticed, Jesus, grant me the grace to desire it.
-        That others may be preferred to me in everything, Jesus, grant me the grace to desire it.
-        That others may become holier than I, provided that I may become as holy as I should, Jesus, grant me the grace to desire it.
+## IV. Prayer
+
+### Litany of Humility
+
+    O Jesus! meek and humble of heart, Hear me.
+    From the desire of being esteemed, Deliver me, Jesus.
+    From the desire of being loved, Deliver me, Jesus.
+    From the desire of being extolled, Deliver me, Jesus.
+    From the desire of being honored, Deliver me, Jesus.
+    From the desire of being praised, Deliver me, Jesus.
+    From the desire of being preferred to others, Deliver me, Jesus.
+    From the desire of being consulted, Deliver me, Jesus.
+    From the desire of being approved, Deliver me, Jesus.
+    From the fear of being humiliated, Deliver me, Jesus.
+    From the fear of being despised, Deliver me, Jesus.
+    From the fear of suffering rebukes, Deliver me, Jesus.
+    From the fear of being calumniated, Deliver me, Jesus.
+    From the fear of being forgotten, Deliver me, Jesus.
+    From the fear of being ridiculed, Deliver me, Jesus.
+    From the fear of being wronged, Deliver me, Jesus.
+    From the fear of being suspected, Deliver me, Jesus.
+
+    That others may be loved more than I, Jesus, grant me the grace to desire it.
+    That others may be esteemed more than I, Jesus, grant me the grace to desire it.
+    That, in the opinion of the world, others may increase and I may decrease, Jesus, grant me the grace to desire it.
+    That others may be chosen and I set aside, Jesus, grant me the grace to desire it.
+    That others may be praised and I unnoticed, Jesus, grant me the grace to desire it.
+    That others may be preferred to me in everything, Jesus, grant me the grace to desire it.
+    That others may become holier than I, provided that I may become as holy as I should, Jesus, grant me the grace to desire it.
