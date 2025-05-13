@@ -1,64 +1,64 @@
-# Chapter 36 Outline: Chastity: Love's Sacred Purity
+# Chapter 37 Outline: Meekness: Love's Sacred Strength
 
 ## Chapter Title:
-36: Chastity: Love's Sacred Purity
+37: Meekness: Love's Sacred Strength
 
 ## Part III Context:
-Continuing the exploration of Moral Virtues, this chapter focuses on Chastity. Building on the critique of "Sexualism" (Ch 12) and the virtue of Temperance (Ch 29), Chastity is presented not as repression, but as the successful integration of sexuality within the person, leading to inner unity and making authentic self-**gift** possible. It is love's **sacred purity**.
+Continuing the exploration of Moral Virtues, this chapter focuses on Meekness. Often misunderstood as weakness, Meekness is presented here as **sacred strength** under control—the virtue that moderates anger and endures injury patiently, flowing from humility and trust in God, enabling gentle yet firm love.
 
 ## I. Opening
 
-**Key Scripture Verse**: "Blessed are the pure in heart, for they shall see God." -- *Matthew 5:8*
+**Key Scripture Verse**: "Blessed are the meek, for they shall inherit the earth." -- _Matthew 5:5_
 
-**Key CCC Reference(s)**: 2337 (Chastity: Successful integration of sexuality; inner unity; becomes personal/human when integrated into relationship/mutual gift)
+**Key CCC Reference(s)**: 2302 (Turn the other cheek pertains to anger); 736 (Meekness/gentleness is fruit of the Spirit)
 
 ## II. Body: Developing the Theme
 
-1.  **Transition: Temperance Applied to Sexuality:**
-    *   Recap Ch 29: Temperance provides **sacred balance** over desires.
-    *   Introduce Chastity as the specific application of temperance to the powerful gift of sexuality (CCC 2341). Revisit the critique of "Sexualism" (Ch 12).
-2.  **Defining Chastity: Integration and Purity:**
-    *   Define Chastity as the successful integration of sexuality, leading to inner unity (CCC 2337). It's about ordering sexual desires according to reason and faith (**sacred truth**).
-    *   "Purity of heart" (Mt 5:8) means having one's heart, mind, and body rightly ordered towards God and authentic love. It allows one to "see God" in others and situations.
-3.  **Chastity for Everyone (According to State in Life):**
-    *   Emphasize that *everyone* is called to chastity, but it takes different forms (CCC 2348-2350):
-        *   **Married Persons:** Fidelity, respecting the unitive and procreative meaning of the marital act within the **sacred covenant**.
-        *   **Unmarried Persons (Single/Celibate/Religious):** Abstinence from genital activity, channeling relational and generative energies into other forms of love and service.
-4.  **Chastity as Freedom For Love:**
-    *   Counter the cultural view of chastity as repression. Frame it as liberation *from* slavery to lust and disordered desires.
-    *   It enables true self-mastery (Temperance - Ch 29), making authentic self-**gift** possible. Unchastity is inherently self-serving, hindering true love.
-    *   > "Only the chaste man and the chaste woman are capable of true love." -- St. John Paul II
-    *   > "Chastity is the joyous affirmation of love." -- St. Josemaría Escrivá
-    *   > "Purity prepares the soul for love, and love confirms the soul in purity." -- St. John Henry Newman
-5.  **Requires Grace and Discipline:**
-    *   Acknowledge the difficulty of chastity in a fallen world and hyper-sexualized culture.
-    *   Requires God's grace (Ch 15), prayer, sacraments (esp. Reconciliation & Eucharist), custody of the senses, modesty, and ongoing effort (**sacrifice**, Diligence - Ch 35).
-6.  **Opposed to Lust and Various Sins:**
-    *   Contrast Chastity with Lust (disordered desire for or inordinate enjoyment of sexual pleasure - CCC 2351) and specific sins against chastity (masturbation, fornication, pornography, adultery, etc. - CCC 2351-2356). These actions violate the dignity of the person and the **sacred truth** of sexuality, damaging **communion**.
-7.  **Chastity and the Core Definition of Love:**
-    *   Connect Chastity explicitly to the components from Ch 14:
-        *   **Sacred Purity:** Chastity *is* this purity, respecting the **sacred** nature of sexuality and the person.
-        *   **Sacrifice:** Requires **sacrifice** of disordered desires and immediate gratification.
-        *   **Gift:** Protects the ability to make a total, faithful self-**gift** in marriage, or to offer oneself wholly to God.
-        *   **Covenant:** Essential for marital **covenant**; reflects fidelity to God's design.
-        *   **Binds:** Chastity helps **bind** sexuality to the person and to love.
-        *   **True Justice:** Respects the dignity and rights of the other person, avoiding objectification. Upholds **true justice** within relationships.
-        *   **Life-Giving Communion:** Creates the conditions for authentic intimacy and **life-giving communion**, whether spiritual or marital.
+1.  **Transition: Strength Under Control:**
+    *   Recap previous virtues like Fortitude (strength to endure/act - Ch 28) and Temperance (self-control - Ch 29).
+    *   Introduce Meekness as a specific kind of strength: power yielded to God, strength under control, particularly regarding the passion of anger and responses to injury.
+2.  **Defining Meekness: Gentle Strength, Not Weakness:**
+    *   Define Meekness as the virtue that restrains anger and patiently endures injury according to reason and faith.
+    *   Contrast with:
+        *   **Weakness/Timidity:** Failing to stand for **truth** or **justice** out of fear (violates Fortitude).
+        *   **Apathy/Indifference:** Not caring about injustice or injury.
+        *   **Uncontrolled Anger/Wrath:** Lashing out disproportionately or vengefully.
+    *   Meekness is compatible with righteous anger directed at sin/injustice, but controls its expression.
+    *   > "Take care to practice well the humble meekness that you owe to everybody, for it is the virtue of virtues which our Lord greatly recommended to us." -- St. Francis de Sales
+    *   > "Nothing is so strong as gentleness, nothing so gentle as real strength." -- St. Francis de Sales
+3.  **Rooted in Humility and Trust:**
+    *   Meekness flows from Humility (Ch 31) – recognizing our own faults and dependence on God's **mercy**.
+    *   It requires deep trust (Faith - Ch 19, Hope - Ch 20) in God's ultimate **justice** and providence, freeing us from the need to take personal revenge.
+4.  **Meekness Towards God and Neighbor:**
+    *   **Towards God:** Humble acceptance of His will, even when difficult, without rebellious anger.
+    *   **Towards Neighbor:** Patiently bearing offenses (linking to Patience Ch 33), responding gently rather than aggressively, seeking reconciliation over retaliation. Essential for **life-giving communion**. Requires **sacrifice** of pride and desire for retribution.
+5.  **Christ: The Model of Meekness:**
+    *   Present Jesus as the prime example: "Learn from me; for I am gentle [meek] and lowly in heart" (Matthew 11:29).
+    *   His response to accusers, betrayal, and crucifixion demonstrates immense strength held under perfect control out of love and obedience to the Father.
+6.  **Inheriting the Earth:**
+    *   Briefly explore the meaning of Mt 5:5: The meek, free from grasping and aggression, are those who ultimately receive God's promised inheritance (peace, security, eternal life). They possess a quiet strength and stability the world cannot give.
+7.  **Meekness and the Core Definition of Love:**
+    *   Connect Meekness explicitly to the components from Ch 14:
+        *   **Sacred Strength:** Meekness *is* **sacred strength** under control.
+        *   **Sacrifice:** Requires the **sacrifice** of pride, anger, and the desire for revenge.
+        *   **Covenant:** Enables peaceful endurance within **covenant** relationships despite friction.
+        *   **Binds:** Meekness helps **bind** relationships through gentleness and forgiveness, rather than breaking them with anger.
+        *   **True Justice/Mercy:** Meekness allows space for God's **justice** while actively practicing **true mercy** (patiently bearing wrongs).
+        *   **Life-Giving Communion:** Creates an atmosphere of peace conducive to **life-giving communion**.
 8.  **Anecdote Placeholder:**
-    *   `[Author Anecdote: A story about the struggle for chastity and the peace/freedom found through grace and effort, or witnessing the beauty of chaste love in marriage or consecrated life.]`
+    *   `[Author Anecdote: A story about a situation where responding with meekness/gentleness (instead of anger or defensiveness) diffused tension and led to a positive outcome, or reflecting on Christ's meekness in the Passion.]`
 
 ## III. Closing
 
-*   **Chapter Takeaway:** Chastity, the virtue of **sacred purity**, is the successful integration of sexuality within the person according to their state in life. Far from repression, it is liberation from lust, enabled by grace and discipline, making possible the authentic self-**gift** required for **sacrificial**, **covenantal** love and **life-giving communion**.
-*   **Reflection Question:** How do I view the Church's teaching on chastity? Do I see it as a burden or as a path to freedom and authentic love? What steps can I take, with God's grace, to grow in this virtue?
+*   **Chapter Takeaway:** Meekness is not weakness, but **sacred strength** under control—the virtue of restraining anger and patiently enduring injury out of love and trust in God. Flowing from humility, it enables gentle yet firm responses, fosters peace, reflects Christ's own heart, and is essential for **sacrificial**, **covenantal** love and **life-giving communion**.
+*   **Reflection Question:** How do I typically respond when I feel wronged or angered? Do I react impulsively, or do I strive for the **sacred strength** of meekness, entrusting the situation to God and seeking a gentle response?
 *   **Further Study - Scripture:**
-    *   1 Thessalonians 4:3-7 (Abstain from immorality, possess vessel in honor)
-    *   1 Corinthians 6:13-20 (Body is a temple of the Holy Spirit, flee immorality)
-    *   Sirach 26:15 ("A modest wife adds charm to charm, and no balance can weigh the value of a chaste soul.")
-    *   Matthew 5:27-30 (Lust in the heart)
+    *   Numbers 12:3 ("Now the man Moses was very meek, more than all men that were on the face of the earth.")
+    *   Psalm 37:11 ("But the meek shall possess the land, and delight themselves in abundant prosperity.")
+    *   Ephesians 4:1-3 ("...lead a life worthy of the calling... with all lowliness and meekness, with patience, forbearing one another in love...")
+    *   Titus 3:1-2 ("Remind them... to speak evil of no one, to avoid quarreling, to be gentle [meek], and to show perfect courtesy toward all men.")
 *   **Further Study - Catechism:**
-    *   CCC 2337-2359 (The Vocation to Chastity, Offenses Against Chastity)
-    *   CCC 2394-2400 (The Sixth Commandment - detailed)
-    *   CCC 2514-2533 (The Ninth Commandment - You shall not covet neighbor's wife - purity of heart)
-*   **Prayer Practice:** Pray the Memorare or the Angelus, focusing on Mary's perfect purity. Intention: To seek Mary's intercession for the grace to grow in chastity according to one's state in life, asking for **sacred purity** of heart, mind, and body, so as to love God and others with an undivided heart capable of true self-**gift**.
-
+    *   CCC 736 (Gentleness/Meekness as fruit of the Spirit)
+    *   CCC 1832 (Fruits of the Spirit)
+    *   CCC 2302-2304 (Anger, deliberate hatred, need for peace - context for meekness)
+*   **Prayer Practice:** Pray the Litany of Humility, focusing on petitions related to anger and reputation ("From the desire of being vindicated... From the fear of suffering rebukes... From the fear of being calumniated... Deliver me, Jesus."). Intention: To cultivate the **sacred strength** of Meekness by detaching from pride and the need for self-defense, asking for the grace to respond to injury with patience and gentleness, trusting in God's **justice** and **mercy**. (Repeated prayer, different intention focus).

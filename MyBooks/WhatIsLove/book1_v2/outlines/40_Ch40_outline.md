@@ -1,64 +1,66 @@
-# Chapter 40 Outline: Truthfulness: Love's Sacred Honesty
+# Chapter 41 Outline: Self-Control: Love's Sacred Discipline
 
 ## Chapter Title:
-40: Truthfulness: Love's Sacred Honesty
+41: Self-Control: Love's Sacred Discipline
 
 ## Part III Context:
-Continuing the exploration of Moral Virtues, this chapter focuses on Truthfulness. Building directly on the importance of Truth itself (Ch 21), Truthfulness is presented as the virtue of living and speaking honestly, conforming our words and actions to reality out of love for God (who is Truth) and respect for neighbor. It is essential for maintaining trust within the **sacred covenant**.
+Continuing the exploration of Moral Virtues, this chapter focuses on Self-Control. Closely linked to Temperance (Ch 29), Self-Control is presented as the necessary **sacred discipline** over one's thoughts, emotions, words, and actions, enabling mastery over disordered impulses and freeing the will to choose and act according to authentic love.
 
 ## I. Opening
 
-**Key Scripture Verse**: "Therefore, putting away falsehood, let every one speak the truth with his neighbor, for we are members one of another." -- _Ephesians 4:25_
+**Key Scripture Verse**: "Every athlete exercises self-control in all things... I pommel my body and subdue it, lest after preaching to others I myself should be disqualified." -- *1 Corinthians 9:25, 27*
 
-**Key CCC Reference(s)**: 2464 (8th Commandment forbids misrepresenting truth; flows from vocation to witness to God who is truth; offenses undermine covenant)
+**Key CCC Reference(s)**: 1809 (Temperance ensures will's mastery over instincts); 1832 (Self-control is fruit of the Spirit)
 
 ## II. Body: Developing the Theme
 
-1.  **Transition: From Appreciating Gifts to Speaking Truth:**
-    *   Recap Ch 39: Gratitude appreciates God's **gifts**, including the gift of **sacred truth**.
-    *   Introduce Truthfulness: This virtue puts our commitment to **sacred truth** (Ch 21) into practice in our interactions. It's about aligning our communication and actions with reality.
-2.  **Defining Truthfulness: Honesty in Word and Deed:**
-    *   Define Truthfulness (or Veracity) as the virtue disposing one to show oneself true in deeds and speak truthfully in words, guarding against duplicity, dissimulation, and hypocrisy (CCC 2468).
-    *   It involves:
-        *   **Sincerity:** Being genuine, meaning what we say.
-        *   **Honesty:** Not intentionally deceiving others.
-        *   **Integrity:** Consistency between beliefs, words, and actions.
-    *   > "You will know the truth, and the truth will set you free." -- Jesus (John 8:32)
-    *   > "If you struggle with honesty, know that it is honesty that produces integrity." -- Catholic Daily Reflections
-    *   > "He who speaks rightly should recognize that he receives the words from God. For the truth belongs not to him who speaks, but to God who is energizing him." -- Attributed to St. Gregory the Great
-3.  **Why Truthfulness is Required by Love:**
-    *   **Respect for Neighbor:** Lying harms others by leading them into error, damaging reputation (calumny, detraction), or destroying trust (CCC 2483-2487). Truthfulness upholds their dignity and right to know the truth (within limits of discretion/charity). It's an act of **true justice**.
-    *   **Foundation of Communion:** Trust is essential for **life-giving communion**. Deception shatters trust and isolates individuals. Truthfulness builds the foundation for authentic relationship (**sacred covenant**).
-    *   **Witness to God:** As Christians, we are called to bear witness to God who is Truth (CCC 2464, 2471). Dishonesty contradicts this witness.
-4.  **Living in the Truth:**
-    *   Truthfulness extends beyond just avoiding lies. It includes:
-        *   Avoiding gossip, rash judgment, flattery intended to deceive.
-        *   Keeping promises and confidences (when just).
-        *   Seeking to understand and represent situations accurately.
-    *   Requires Prudence (Ch 27) to know *when* and *how* to speak the truth in charity (sometimes silence or discretion is required - CCC 2488-2489).
-5.  **Opposed to Lying and Deception:**
-    *   Define Lying as speaking a falsehood with the intention to deceive (CCC 2482). It is intrinsically wrong.
-    *   Discuss related offenses: perjury, calumny (harming reputation by lies), detraction (revealing hidden faults without necessity), rash judgment, irony used to harm (CCC 2475-2487). These require **sacrifice** of the desire to manipulate or harm.
-6.  **Truthfulness and the Core Definition of Love:**
-    *   Connect Truthfulness explicitly to the components from Ch 14:
-        *   **Sacred Honesty:** Truthfulness *is* this honesty, reflecting the **sacred truth** of God.
-        *   **Sacrifice:** Speaking truth, especially when difficult or unpopular, requires **sacrifice** of comfort or approval.
-        *   **Covenant:** Trust built on truthfulness is essential for maintaining **sacred covenants**.
-        *   **Binds:** Truthfulness **binds** our words and actions to reality and fosters **binding** trust.
-        *   **True Justice:** Respects the right to truth and avoids the injustice of deception or harming reputation.
-        *   **Life-Giving Communion:** Honesty and integrity are vital for healthy, **life-giving communion**.
-7.  **Anecdote Placeholder:**
-    *   `[Author Anecdote: A story about the difficulty but ultimate reward of choosing truthfulness in a challenging situation, or the damage caused by a lie and the process of rebuilding trust.]`
+1.  **Transition: Temperance in Action:**
+    *   Recap Ch 29: Temperance provides **sacred balance** regarding pleasures and desires.
+    *   Introduce Self-Control: This is the active, moment-by-moment practice of that balance and mastery. It's Temperance put into action through **sacred discipline**.
+2.  **Defining Self-Control: Mastery Over Self:**
+    *   Define Self-Control as the ability to regulate one's own thoughts, emotions, impulses, and behaviors in accordance with reason, faith, and one's chosen goals (especially the goal of loving God and neighbor).
+    *   It involves saying "no" to harmful or disordered impulses and "yes" to the good, even when difficult.
+3.  **Areas of Self-Control:**
+    *   **Thoughts:** Guarding the mind against impure, uncharitable, or despairing thoughts (linking to Purity of Heart - Ch 36).
+    *   **Emotions:** Managing anger (Meekness - Ch 37), fear (Fortitude - Ch 28), sadness, and even excessive elation so they don't dictate actions inappropriately.
+    *   **Words:** Controlling the tongue (avoiding gossip, harshness, lies - Truthfulness Ch 40, Kindness Ch 34).
+    *   **Actions/Appetites:** Restraining impulses related to food, drink, sex (Temperance/Chastity - Ch 29, 36), possessions (Generosity - Ch 32), comfort (Diligence - Ch 35).
+4.  **Self-Control as Essential Discipline for Love:**
+    *   Explain why love requires this discipline: Uncontrolled impulses (lust, greed, anger, laziness) are inherently selfish and destructive to relationships (**covenant**, **communion**).
+    *   Self-control creates the inner freedom necessary for **sacrificial** self-**gift**. It allows us to act intentionally out of love, rather than reactively out of passion.
+    *   > "No one who is a lover of money, pleasure, or glory is qualified to govern. A ruler must be apt to teach; but the lover of money is apt to sell, the lover of pleasure is apt to enslave, and the lover of glory is apt to deceive." -- St. John Chrysostom, Homilies on Titus
+    *   > "True devotion consists not in sterile tenderness of heart, but in a resolute will to do whatever pleases God. It is practiced not only amidst consolations, but also amidst the greatest repugnances and difficulties." -- St. Francis de Sales, Introduction to the Devout Life
+    *   > "Freedom consists not in doing what we like, but in having the right to do what we ought." -- Pope St. John Paul II, Address to Youth, 1995
+5.  **Requires Grace, Practice, and Vigilance:**
+    *   Acknowledge this is a lifelong struggle against concupiscence.
+    *   Requires God's grace (Ch 15), the power of the Holy Spirit (Ch 17 - listed as a fruit), and consistent effort in prayer, sacraments, and forming good habits (Virtue - Ch 30). Requires vigilance ("Be sober, be watchful" - 1 Peter 5:8).
+6.  **Opposed to Impulsivity and Enslavement:**
+    *   Contrast Self-Control with impulsivity (acting without thinking) and enslavement to passions or addictions (the opposite of freedom). Lack of self-control hinders our ability to live according to **sacred truth** and **true justice**.
+7.  **Self-Control and the Core Definition of Love:**
+    *   Connect Self-Control explicitly to the components from Ch 14:
+        *   **Sacred Discipline:** Self-Control *is* this discipline applied to the self.
+        *   **Sacrifice:** Requires constant small (and sometimes large) **sacrifices** of disordered desires.
+        *   **Gift:** Mastery over self allows us to make a more intentional and complete self-**gift**.
+        *   **Covenant:** Self-control helps maintain fidelity to **sacred covenants** by resisting temptations to violate them.
+        *   **Binds:** Self-control **binds** our lower appetites to the higher faculties of reason and will, directed by love.
+        *   **True Justice/Mercy:** Prevents impulses that lead to injustice or hinder mercy.
+        *   **Life-Giving Communion:** Essential for stable, healthy relationships and **life-giving communion**.
+8.  **Anecdote Placeholder:**
+    *   `[Author Anecdote: A story about the struggle to gain self-control in a particular area (e.g., anger, impatience, specific appetite) and the role of grace and discipline in achieving greater freedom to love.]`
 
 ## III. Closing
 
-*   **Chapter Takeaway:** Truthfulness, the virtue of **sacred honesty**, requires conforming our words and actions to reality out of love for God (who is **Sacred Truth**) and neighbor. It is essential for building trust, upholding **true justice**, maintaining **sacred covenants**, and fostering **life-giving communion**.
-*   **Reflection Question:** Am I consistently truthful in my words and actions, even in small matters? Do I avoid gossip, rash judgment, and other subtle forms of dishonesty? How can I cultivate greater integrity?
+*   **Chapter Takeaway:** Self-Control, as **sacred discipline**, is the active practice of Temperance, enabling mastery over thoughts, emotions, and impulses. It is essential for freeing the will from slavery to disordered desires, making possible the consistent **sacrifice** and commitment required by **sacred covenantal** love and **life-giving communion**.
+*   **Reflection Question:** Which area of self-control (thoughts, emotions, words, actions/appetites) presents the biggest challenge for me? What specific, practical step, relying on God's grace, can I take to exercise greater **sacred discipline** in that area?
 *   **Further Study - Scripture:**
-    *   Psalm 119:160 ("The sum of thy word is truth...")
-    *   Proverbs 12:19 ("Truthful lips endure for ever, but a lying tongue is but for a moment.")
-    *   John 14:6 ("I am the way, and the truth, and the life...")
-    *   James 3:2-12 (The power and danger of the tongue)
+    *   Proverbs 25:28 ("A man without self-control is like a city broken into and left without walls.")
+    *   Titus 1:8 (Overseer must be self-controlled)
+    *   2 Timothy 1:7 ("...God did not give us a spirit of timidity but a spirit of power and love and self-control.")
+    *   Galatians 5:22-24 (Self-control as fruit of the Spirit, crucifying fleshly passions)
 *   **Further Study - Catechism:**
-    *   CCC 2464-2513 (The Eighth Commandment: You shall not bear false witness against your neighbor - covers living in truth, offenses against truth, respect for truth)
-*   **Prayer Practice:** Pray the Act of Contrition, specifically asking forgiveness for sins against the Eighth Commandment (lying, gossip, rash judgment, etc.). Intention: To grow in the virtue of Truthfulness, asking for the grace to be honest in all dealings, to use speech to build up rather than tear down, and to live with integrity, reflecting the **sacred truth** of God.
+    *   CCC 1809 (Temperance ensures will's mastery over instincts)
+    *   CCC 1832 (Self-control as fruit of the Spirit)
+    *   CCC 2337-2345 (Chastity and self-mastery)
+    *   CCC 2733 (Acedia overcome by vigilance of heart and self-control)
+*   **Prayer Practice:** Pray the Litany of the Most Precious Blood of Jesus. Intention: To seek cleansing and strength from the Blood of Christ, asking for the grace of **sacred discipline** and Self-Control over sinful inclinations and disordered desires, freeing the heart to love God and neighbor more purely and completely.
+

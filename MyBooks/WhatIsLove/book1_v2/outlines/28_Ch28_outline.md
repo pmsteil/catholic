@@ -1,65 +1,69 @@
-# Chapter 28 Outline: Fortitude: Love's Sacred Courage
+# Chapter 29 Outline: Temperance: Love's Sacred Balance
 
 ## Chapter Title:
-28: Fortitude: Love's Sacred Courage
+29: Temperance: Love's Sacred Balance
 
 ## Part III Context:
-Continuing the examination of the Cardinal Virtues, this chapter focuses on Fortitude (Courage). It explores Fortitude not just as bravery in the face of physical danger, but as the essential moral strength, perfected by grace, needed to remain firm in pursuing the good and adhering to **sacred truth** despite difficulties, fear, or persecution. It is the virtue that empowers **sacrificial** love.
+Completing the initial exploration of the four Cardinal Virtues, this chapter focuses on Temperance. It presents Temperance not as joyless prohibition, but as the virtue that provides **sacred balance** by moderating our attraction to pleasures and ensuring mastery over instincts, allowing reason and love (Charity) to guide our actions rather than disordered desires.
 
 ## I. Opening
 
-**Key Scripture Verse**: "Have I not commanded you? Be strong and of good courage; be not frightened, neither be dismayed; for the LORD your God is with you wherever you go." -- *Joshua 1:9*
+**Key Scripture Verse**: "But the fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, self-control [Temperance]; against such there is no law." -- _Galatians 5:22-23_
 
-**Key CCC Reference(s)**: 1808 (Fortitude: Ensures firmness in difficulties, constancy in pursuing good; strengthens resolve, overcomes obstacles/fear)
+**Key CCC Reference(s)**: 1809 (Temperance: Moderates attraction of pleasures, provides balance, ensures will's mastery over instincts)
 
 ## II. Body: Developing the Theme
 
-1.  **Transition: From Knowing to Doing (Despite Obstacles):**
-    *   Recap Ch 27: Prudence helps us discern the right path.
-    *   Introduce Fortitude: Knowing the right path isn't enough; we need the strength to walk it, especially when it's difficult. Fortitude provides this **sacred courage**.
-2.  **Defining Fortitude: Firmness and Constancy:**
-    *   Expand on the definition (CCC 1808):
-        *   **Firmness in difficulties:** Standing strong against internal pressures (fear, temptation) and external pressures (opposition, persecution).
-        *   **Constancy in pursuit of good:** Persevering in doing good even when it's hard, unpopular, or requires long-term effort.
-3.  **Two Aspects of Fortitude:**
-    *   **Attack (Courage):** Facing dangers and obstacles directly to achieve the good (e.g., speaking **sacred truth** when unpopular, defending **true justice**).
-    *   **Endurance (Patience/Perseverance):** Bearing hardships, suffering, and prolonged difficulties without giving up (linking to Hope - Ch 20). This is often the harder part.
-4.  **Fortitude Empowers Sacrifice:**
-    *   Directly link Fortitude to Sacrifice (Ch 24). **Sacrificial** love requires courage – the courage to give of oneself, to endure hardship for the beloved, to stand by **covenant** commitments even when costly.
-    *   Martyrdom as the ultimate act of fortitude, witnessing to **sacred truth** even unto death (CCC 2473).
-    *   > "Fortitude is the guard and support of the other virtues." -- St. Thomas Aquinas (adapted from Summa Theologiae, II-II, Q. 123, Art. 12)
-    *   > "Be who God meant you to be and you will set the world on fire." -- St. Catherine of Siena
-    *   > "Do not be afraid. Do not be satisfied with mediocrity. Put out into the deep and let down your nets for a catch." -- Pope St. John Paul II (Homily, World Youth Day 2000)
-5.  **Overcoming Fear:**
-    *   Acknowledge fear as a natural emotion. Fortitude doesn't eliminate fear but enables acting rightly *despite* fear (CCC 1808).
-    *   The ultimate fear conquered is fear of death, enabled by Hope in eternal life (Ch 20).
-6.  **Distortions of Fortitude:**
-    *   **Rashness/Recklessness:** Acting without prudence, taking unnecessary risks.
-    *   **Stubbornness/Obstinacy:** Firmness in pursuing something *not* good, or refusing reasonable compromise.
-    *   **Timidity/Cowardice:** Failing to act or stand for the good out of fear.
-7.  **Fortitude and the Core Definition of Love:**
-    *   Connect Fortitude explicitly to the components from Ch 14:
-        *   **Sacred Courage:** Fortitude *is* this courage applied to living a **sacred** life.
-        *   **Sacrifice:** Fortitude makes **sacrificial** love possible in the face of opposition or cost.
-        *   **Covenant:** Fortitude helps us remain faithful to **sacred covenants** despite difficulties.
-        *   **Binds:** Fortitude strengthens the **binding** power of commitment.
-        *   **True Justice/Mercy:** Defending **true justice** and practicing **true mercy** often requires fortitude.
-        *   **Life-Giving Communion:** Standing firm in the good, enabled by fortitude, protects and fosters **life-giving communion**.
+1.  **Transition: Mastering the Inner World:**
+    *   Recap Ch 27 (Prudence guides) & Ch 28 (Fortitude endures external obstacles).
+    *   Introduce Temperance: This virtue deals with internal obstacles – our own desires and appetites for pleasure. It provides **sacred balance** within.
+2.  **Defining Temperance: Moderation and Mastery:**
+    *   Expand on the definition (CCC 1809):
+        *   **Moderates Attraction:** Regulates our natural desires for pleasure (food, drink, sex, comfort, etc.) keeping them within honorable limits.
+        *   **Ensures Mastery:** Gives the will control over instincts and passions, preventing them from dominating reason and faith.
+        *   **Provides Balance:** Helps us use created goods rightly, neither rejecting them entirely nor becoming enslaved by them.
+    *   > "Do not follow your base desires, but restrain your appetites.” -- Sirach 18:30
+    *   > Temperance is "the virtue which moderates in us the inordinate desire for sensible pleasure, keeping it within the limits assigned by reason and faith.” -- Fr. Gabriel of St. Mary Magdalen, O.C.D. (*Divine Intimacy*)
+    *   > Temperance is "selfless self-preservation." -- Josef Pieper (*The Four Cardinal Virtues*)
+3.  **Temperance is Not Repression:**
+    *   Clarify that Temperance doesn't mean hating pleasure or created goods (which are gifts from God).
+    *   It means enjoying them rightly, ordered towards our true good and ultimate end (**life-giving communion** with God), rather than letting them control us. It's about freedom *for* the good, not just freedom *from* bad things.
+4.  **Temperance Enables Love and Sacrifice:**
+    *   Disordered desires (gluttony, lust, greed, sloth) are forms of self-love that directly oppose **sacrificial** love for God and neighbor.
+    *   Temperance frees us from slavery to these desires, making space in our hearts and lives for authentic love and self-**gift**. It makes **sacrifice** possible by controlling the impulses that resist it.
+5.  **Specific Areas of Temperance:**
+    *   Briefly mention related virtues that fall under Temperance:
+        *   **Chastity:** Moderation of sexual desire according to one's state in life (linking back to Ch 12).
+        *   **Sobriety/Abstinence:** Moderation regarding food and drink.
+        *   **Meekness/Gentleness:** Moderation of anger.
+        *   **Humility:** Moderation of pride/desire for honor.
+6.  **Distortions of Temperance:**
+    *   **Intemperance/Indulgence:** Giving free rein to disordered desires.
+    *   **Insensibility/Rigid Puritanism:** Rejecting legitimate pleasures or treating created goods as evil in themselves.
+7.  **Temperance and the Core Definition of Love:**
+    *   Connect Temperance explicitly to the components from Ch 14:
+        *   **Sacred Balance:** Temperance *is* this balance applied to desires.
+        *   **Sacrifice:** Temperance enables **sacrifice** by freeing us from competing attachments to pleasure.
+        *   **Gift:** Temperance allows us to use God's **gifts** (created goods, our bodies) rightly and honorably.
+        *   **Covenant:** Intemperance often leads to violations of **sacred covenants** (e.g., adultery, neglect of duty due to sloth/addiction).
+        *   **Binds:** Temperance helps **bind** our passions to the rule of reason and faith.
+        *   **True Justice/Mercy:** Intemperance can lead to injustice (e.g., greed, exploitation). Temperance fosters the inner freedom needed for both **justice** and **mercy**.
+        *   **Life-Giving Communion:** Mastery over self is necessary for healthy, stable relationships and **life-giving communion**.
 8.  **Anecdote Placeholder:**
-    *   `[Author Anecdote: A story about needing courage (fortitude) to stand up for faith or morals, or to persevere in a difficult commitment or act of love despite fear or opposition.]`
+    *   `[Author Anecdote: A story about the struggle with a particular desire (e.g., for comfort, food, screen time) and how practicing temperance/self-control, through grace, led to greater freedom, peace, or ability to love God and others more effectively.]`
 
 ## III. Closing
 
-*   **Chapter Takeaway:** Fortitude, or **sacred courage**, is the cardinal virtue that provides the necessary firmness and constancy to pursue the good and live out authentic love despite obstacles, fear, and suffering. It empowers **sacrificial** commitment, defends **true justice**, and enables perseverance in the **sacred covenant**, relying on God's strength.
-*   **Reflection Question:** In what areas of my life am I called to exercise greater fortitude—either courage in action or perseverance in difficulty—for the sake of love, **sacred truth**, or **true justice**? Where does fear hold me back?
+*   **Chapter Takeaway:** Temperance, the cardinal virtue of **sacred balance**, moderates our desires for pleasure and ensures the will's mastery over instincts. Far from being mere repression, it frees us from slavery to disordered appetites, enabling us to use God's **gifts** rightly and live out **sacrificial**, **covenantal** love ordered towards **life-giving communion**.
+*   **Reflection Question:** Which legitimate pleasures or created goods do I find myself most attached to in a potentially disordered way? How can I practice temperance to achieve greater **sacred balance** and inner freedom for love?
 *   **Further Study - Scripture:**
-    *   Psalm 27:14 ("Wait for the Lord; be strong, and let your heart take courage...")
-    *   1 Corinthians 16:13-14 ("Be watchful, stand firm in your faith, act like men, be strong. Let all that you do be done in love.")
-    *   Ephesians 6:10-17 (Put on the armor of God - implies spiritual battle requiring fortitude)
-    *   2 Timothy 1:7 ("For God did not give us a spirit of timidity but a spirit of power and love and self-control.")
+    *   1 Corinthians 9:24-27 (Athlete exercising self-control)
+    *   Titus 2:1-6 (Instructions on soberness, self-control for various groups)
+    *   Romans 13:13-14 (Put on Lord Jesus, make no provision for flesh)
+    *   1 Peter 5:8 ("Be sober, be watchful. Your adversary the devil prowls around...")
 *   **Further Study - Catechism:**
-    *   CCC 1808 (Fortitude - definition and role)
-    *   CCC 1837 (Fortitude linked with other cardinal virtues)
-    *   CCC 2471-2474 (Duty to bear witness to the truth, martyrdom)
-*   **Prayer Practice:** Pray the Litany of Trust. Intention: To surrender fears and anxieties to God, asking for the **sacred courage** (Fortitude) to trust Him completely and to act boldly according to His will, especially when facing difficulties in living out **sacrificial**, **covenantal** love. (Repeated prayer, different intention focus).
-
+    *   CCC 1809 (Temperance - definition and role)
+    *   CCC 1838 (Temperance linked with other cardinal virtues)
+    *   CCC 2288-2291 (Respect for health, virtue of temperance regarding food/alcohol/tobacco/medicine)
+    *   CCC 2337-2359 (Vocation to Chastity - a key aspect of temperance)
+*   **Prayer Practice:** Pray the Litany of Humility, focusing on petitions related to desires and attachments ("From the desire of being loved... being preferred... being approved... being honored... being praised... Deliver me, Jesus."). Intention: To detach from disordered desires for pleasure or worldly approval, asking for the grace of Temperance to find **sacred balance** and true freedom in loving God above all things. (Repeated prayer, different intention focus).
