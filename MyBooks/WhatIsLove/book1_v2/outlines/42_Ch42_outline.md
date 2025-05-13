@@ -1,3 +1,8 @@
+edit: want to say that the Ten Commandments are just a summary of the laws of love we have already discussed in previous chapters...
+note the facets of love in each commandment.
+also that the ten commandments teach us not to worship other god's - the corollary of each commandment.
+
+
 # Chapter 42 Outline: The Commandments: Love's Sacred Boundaries
 
 ## Chapter Title:
