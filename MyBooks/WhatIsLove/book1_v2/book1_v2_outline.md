@@ -33,7 +33,7 @@ Part III: The Facets of Love - What Love Requires - God ignites the fire of love
 20: Hope: Love's Sacred Horizon (Love requires looking forward with confidence and expectation)
 **21: Charity: Love's Sacred Gift (Love requires giving of self and others)**
 
-The Heart of Love... how to know it when you see it
+The Heart of Love... the definition of love
 21: Truth: Love's Sacred Clarity (Love requires clear understanding and alignment with reality)
 22: Justice: Love's Sacred Honor (Love requires upholding dignity, rights, and right relationship)
 23: Mercy: Love's Sacred Healing (Love requires restoration, mending wounds, and offering forgiveness)
@@ -46,7 +46,7 @@ Part IV: Facets of love - The Structure and Strength of Love - guiding principle
 27: Fortitude: Love's Sacred Courage (Love requires bravery to stand for truth and justice)
 28: Temperance: Love's Sacred Balance (Love requires moderation and self-control)
 
-Part VI: Facets of love - The practices of Love - how to live it
+Part VI: Facets of love - Basic Requirements for Living out Love
 38: Gratitude: Love's Sacred Recognition (Love acknowledges and appreciates gifts received)
 35: Humility: Love's Sacred Foundation (Love recognizes our dependence on God and others)
 37: Forgiveness: Love's Sacred Release (Love lets go of resentment and seeks reconciliation)
@@ -71,6 +71,7 @@ The fruits of the spirit are: "Love, Joy, Peace, Patience, Kindness, Generosity,
 
 
 Part IV: The Fruits of Love - What Love Produces - When the fire of our love is focused into a laser, it produces incredible fruit in our lives and the world around us. These fruits are how we know that we are living in love and how we can recognize love in others.
+
 44: Suffering: Love's Sacred Purification (Love can redeem and transform suffering)
 45: Wisdom: Love's Sacred Understanding (Love leads to deeper insight into God and life)
 47: Justice (Fruit): Love's Sacred Fairness in Action (Love manifests in creating just conditions)
@@ -154,3 +155,181 @@ need to include the "aboriginal vicar"...
 (Latin: Gloria Dei est vivens homo; vita autem hominis visio Dei.)
 — St. Irenaeus, Against Heresies, Book IV, 20, 7
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+reorg:
+
+19  Faith: Love’s Sacred Covenant
+	•	Catholic Category: Theological Virtue
+	•	Work-type: Both
+	•	Primary Scripture: 1 Cor 13:13
+	•	Comment: Faith “works through love”—it gives God His due (justice) and sparks merciful action toward neighbour.
+
+20  Hope: Love’s Sacred Horizon
+	•	Catholic Category: Theological Virtue
+	•	Work-type: Both
+	•	Primary Scripture: Rom 5:5
+	•	Comment: Hope steadies duty to God while strengthening and consoling the weary.
+
+21  Charity: Love’s Sacred Gift
+	•	Catholic Category: Theological Virtue
+	•	Work-type: Both
+	•	Primary Scripture: 1 Cor 13:13
+	•	Comment: Charity fulfils justice by willing the good and performs mercy by serving that good.
+
+21  Truth: Love’s Sacred Clarity
+	•	Catholic Category: Moral Virtue (under Justice)
+	•	Work-type: Work of Justice
+	•	Primary Scripture: Jn 14:6
+
+22  Justice: Love’s Sacred Honor
+	•	Catholic Category: Cardinal Virtue
+	•	Work-type: Work of Justice
+	•	Primary Scripture: Wis 8:7
+
+23  Mercy: Love’s Sacred Healing
+	•	Catholic Category: Work of Mercy (virtue perfected by charity)
+	•	Work-type: Work of Mercy
+	•	Primary Scripture: Mt 5:7
+
+24  Sacrifice: The Cross, Jesus’ Fulfilment of Truth, Justice & Mercy
+	•	Catholic Category: Supreme Act of Charity
+	•	Work-type: Both
+	•	Primary Scripture: Jn 15:13
+	•	Comment: Christ’s self-offering satisfies divine justice and pours out mercy; every Christian self-gift shares that double effect.
+
+26  Prudence: Love’s Sacred Discernment
+	•	Catholic Category: Cardinal Virtue
+	•	Work-type: Work of Justice
+	•	Primary Scripture: Wis 8:7
+
+27  Fortitude: Love’s Sacred Courage
+	•	Catholic Category: Cardinal Virtue
+	•	Work-type: Work of Justice
+	•	Primary Scripture: Wis 8:7
+
+28  Temperance: Love’s Sacred Balance
+	•	Catholic Category: Cardinal Virtue
+	•	Work-type: Work of Justice
+	•	Primary Scripture: Wis 8:7
+
+38  Gratitude: Love’s Sacred Recognition
+	•	Catholic Category: Moral Virtue (religio—justice owed to God)
+	•	Work-type: Work of Justice
+	•	Primary Scripture: 1 Th 5:18
+
+35  Humility: Love’s Sacred Foundation
+	•	Catholic Category: Moral Virtue
+	•	Work-type: Work of Justice
+	•	Primary Scripture: Phil 2:3
+
+37  Forgiveness: Love’s Sacred Release
+	•	Catholic Category: Work of Mercy
+	•	Work-type: Work of Mercy
+	•	Primary Scripture: Mt 6:14-15
+
+39  Truthfulness: Love’s Sacred Honesty
+	•	Catholic Category: Moral Virtue
+	•	Work-type: Work of Justice
+	•	Primary Scripture: Eph 4:25
+
+36  Service: Love’s Sacred Action
+	•	Catholic Category: Moral Virtue in Action (diakonia)
+	•	Work-type: Work of Mercy
+	•	Primary Scripture: Mk 10:45
+
+41  Intimacy: Love’s Sacred Union
+	•	Catholic Category: Moral Virtue (relational communion)
+	•	Work-type: Both
+	•	Primary Scripture: Jn 17:21
+	•	Comment: Right-ordering of relationships fulfils justice and blossoms into healing communion (mercy).
+
+29  Fruits of the Spirit: Love’s Sacred Harvest
+	•	Catholic Category: Biblical Composite List
+	•	Work-type: Both
+	•	Primary Scripture: Gal 5:22-23
+	•	Comment: Umbrella list whose individual fruits serve both justice and mercy in varying ways.
+
+43  Joy: Love’s Sacred Delight
+	•	Catholic Category: Fruit of the Spirit
+	•	Work-type: Both
+	•	Primary Scripture: Gal 5:22-23
+	•	Comment: Praises God (justice) and heartens others (mercy).
+
+30  Peace: Love’s Sacred Harmony
+	•	Catholic Category: Fruit of the Spirit
+	•	Work-type: Both
+	•	Primary Scripture: Gal 5:22-23
+	•	Comment: Establishes right order and reconciles divisions.
+
+31  Patience: Love’s Sacred Endurance
+	•	Catholic Category: Fruit of the Spirit
+	•	Work-type: Both
+	•	Primary Scripture: Gal 5:22-23
+	•	Comment: Respects due process (justice) while bearing wrongs kindly (mercy).
+
+32  Kindness: Love’s Sacred Compassion
+	•	Catholic Category: Fruit of the Spirit
+	•	Work-type: Work of Mercy
+	•	Primary Scripture: Gal 5:22-23
+
+33  Generosity: Love’s Sacred Giving
+	•	Catholic Category: Virtue allied to Charity
+	•	Work-type: Work of Mercy
+	•	Primary Scripture: 2 Cor 9:7
+
+49  Faithfulness: Love’s Sacred Loyalty
+	•	Catholic Category: Fruit of the Spirit
+	•	Work-type: Work of Justice
+	•	Primary Scripture: Gal 5:22-23
+
+34  Gentleness: Love’s Sacred Touch
+	•	Catholic Category: Fruit of the Spirit
+	•	Work-type: Work of Mercy
+	•	Primary Scripture: Gal 5:22-23
+
+40  Self-Control: Love’s Sacred Discipline
+	•	Catholic Category: Fruit of the Spirit
+	•	Work-type: Work of Justice
+	•	Primary Scripture: Gal 5:22-23
+
+44  Suffering: Love’s Sacred Purification
+	•	Catholic Category: Participation in Christ’s Paschal Mystery
+	•	Work-type: Both
+	•	Primary Scripture: Col 1:24
+	•	Comment: United to Christ, suffering repairs injustice (reparation) and enters merciful solidarity with the afflicted.
+
+45  Wisdom: Love’s Sacred Understanding
+	•	Catholic Category: Gift of the Holy Spirit
+	•	Work-type: Work of Justice
+	•	Primary Scripture: Jas 1:5
+
+48  Goodness: Love’s Sacred Integrity
+	•	Catholic Category: Fruit of the Spirit
+	•	Work-type: Both
+	•	Primary Scripture: Gal 5:22-23
+	•	Comment: Upright action fulfils justice; benevolence overflows in mercy.
+
+50  Growth: Love’s Sacred Flourishing
+	•	Catholic Category: Ongoing Sanctification
+	•	Work-type: Both
+	•	Primary Scripture: 2 Pt 3:18
+	•	Comment: Sanctification perfects inner justice and widens works of mercy.
