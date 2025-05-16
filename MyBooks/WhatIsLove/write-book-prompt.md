@@ -60,6 +60,12 @@ Systematically generate the complete first draft of this book by expanding the p
 *   `[]`: Not Started
 *   `[O]`: Outline Generated (Ready for User Review)
 *   `[S]`: Saints, Thelogians, Popes added to each chapter (Ready for User Review/Edit)
+*   `[Q]`: Add to each chapter outline a section called “Why Love Fails Without <facet>”
+        This section can:
+            •	Begin with a real-world failure or distortion of love when the virtue is missing (e.g., without truth, love becomes manipulation).
+            •	Show how the facet guards, purifies, or sustains love.
+            •	Connect to human experience (children/childhood, marriage, friendship, society).
+            •	End by showing how the teachings of the Church help us form and protect this virtue.
 *   `[P]`: Papal Encylicals - For each chapter, if there is one or more papal encyclical(s) that are relevant to the chapter, add them after the **Further Study - Catechism** section in a new section called **Further Study - Papal Encylicals**. Make sure to document the year or approximate year of the encyclical.
 *   `[Y]`: Review all the quotes made in each chapter outline and add the year or approximate year of the quote.
 *   `[F]`: Suffering Saints: Find quotes from saints who were catechized by the effects of evil, suffering, oppression, persecution, martyrdom, and add them to the chapter outline file.
