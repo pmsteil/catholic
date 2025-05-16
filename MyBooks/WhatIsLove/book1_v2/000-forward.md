@@ -34,7 +34,15 @@ The author of this book is the Holy Spirit working through the Church.
 I am not claiming any semblance of "divine revelation" here.  Only that I see my entire life - and yours - as divinely inspired.
 And through the Holy Spirit, I am just trying to gather all the wisdom of our Creator into - I hope - the most beautiful and meaningful book you will ever read.
 This book will help you to understand everything that the Bible and the Church teaches about God's love - that has been revealed to us through the ages and that my feeble mind could put together into a work.
+
 This book does not stand alone. It relies heavily on and points you to the vast wisdom of the Church and the Holy Spirit in the Bible, the Catechism, Saints, theologians and Popes who have been teaching us about God's immense love for us over the ages. So look at it as a collection of and pointer to the best of the Church's teaching in one place.
+
+
+While the Church has traditionally grouped virtues and gifts of the Spirit into categories like theological virtues, cardinal virtues, and fruits of the Spirit, this book offers an additional way to view and understand them as a complementary framework.
+
+The model presented here organizes these facets of love into four tiers: the foundational truths written on the human heart, the disciplines needed to form a loving heart, the fruits that grow when love matures, and the final fulfillment of love in communion. This structure is designed to help modern readers see how every virtue flows from and returns to love — the source and summit of all Christian life.
+
+This four-tier framework also gives us another way to approach and understand the Gospel and everything the Church does, teaches, and calls us to. It shows how each doctrine, each sacrament, each moral teaching is never about guilt or control — but about forming the heart for perfect freedom to love and communion with God and others. The Church does not exist to impose rules, but to safeguard the path that leads us to the deepest desire of our hearts: to love and be loved in truth, justice, mercy, and peace — forever.
 
 
 “Hard times create strong men. Strong men create good times. Good times create weak men. And, weak men create hard times.”
