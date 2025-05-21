@@ -12,24 +12,24 @@ Systematically generate a devotional book by expanding the provided outline into
 ## Output:
 
 1.  **Detailed Outline Points:** `./book1_v3_outlines/` directory (Contains the detailed outline points for each chapter).
-2.  **Devotional Book:** `./book1_v3/` directory (Contains the devotional book in markdown format).
+2.  **Devotional Book:** `./book1_v3/` folder which will contain one file per chapter.
 
 ## Writing Style and Guidelines
 
 **Writing Style Reference:** Use the provided `./book1-blogpost-for-catholics.md` as a reference for writing style, tone, and approach. Incorporate relevant content, examples, and anecdotes from this blog post where appropriate throughout the draft.
 
-**Core Purpose:** To help everyday Catholic Christians deepen their understanding, digestion, and practice of authentic love (grounded in the unity of truth, justice, and mercy), enabling them to love their Lord more deeply and be a light in the darkness of society. The book should equip Catholics to become laser-focused in the practice of their faith, engage confidently with contemporary cultural challenges, and implicitly demonstrate how true faith works through love (countering "faith alone" narratives and so many other counterfeit forms of 'love').
+**Core Purpose:** To help everyday Catholic Christians deepen their understanding, digestion, and practice of authentic love (grounded in the unity of truth, justice, and mercy), enabling them to love their Lord more deeply and be a light in the darkness of society. This devotional book should equip Catholics to become laser-focused in the practice of their faith, engage confidently with contemporary cultural challenges, and implicitly demonstrate how true faith works through love (countering "faith alone" narratives and so many other counterfeit forms of 'love' - marxism, wokeism, etc.).
 
-**Desired Tone:** Personal, direct, urgent, relatable, and passionately evangelistic/apologetic (similar to the `./book1-blogpost-for-catholics.md`). Use "we" and "us" frequently to connect with the reader. Maintain a sense of hope and confidence in the beauty and truth of the Catholic faith.
+**Desired Tone:** Personal, direct, relatable, and passionately evangelistic/apologetic (similar to the `./book1-blogpost-for-catholics.md`). Use "we" and "us" frequently to connect with the reader. Maintain a sense of hope and confidence in the beauty and truth of the Catholic faith.
 
-**Narrative Flow and Cohesion:** Maintain awareness of the overall book structure outlined in `./book1_v3_outline.md` and the progress tracked below. Each chapter should stand alone, but may reference other chapters for additional context. Each chapter should contribute to the book's progressive argument and narrative arc.
+**Narrative Flow and Cohesion:** Maintain awareness of the overall book structure outlined in `./book1_v3_outline.md` and the progress tracked below. Each chapter should stand alone, but can reference other chapters for additional context. Each chapter should contribute to the book's progressive argument that love is a multi-faceted gift of God and narrative arc.
 
 **Central Definition of Love (Integrate Throughout):**
 
 > **Perfect Love is the sacred, sacrificial gift of covenant which binds true justice and true mercy into life-giving communion.**
 > _(Shorter form: Love is the unity of God's true justice and true mercy.)_
+> _(Shortest form: God is Love.)_
 
-*   **Breakdown:** Explicitly break down _each_ component (sacred, sacrificial, gift, covenant, binds, true justice, true mercy, life-giving, communion) in the chapter defining love (currently Ch 14).
 *   **Application:** Consistently use this definition as a lens to analyze topics in every chapter. Regularly ask variations of: "How does this teaching/sacrament/virtue reveal the _sacred/sacrificial/covenantal/binding/truth/justice/mercy/life-giving/communion_ aspect of God's love?" Use blockquotes for emphasis on this definition when reintroduced.
 
 
@@ -39,16 +39,20 @@ Each chapter's narrative draft should follow this structure:
 
 **Opening:**
 
-*   Start with a relevant **Key Scripture Verse**. Format the verse and reference in a table like so:
+*   Start with one (or more) most relevant **Key Scripture Verse**. Format the verse and reference in a table like so:
 
-| **Key Scripture Verse**: "We know that the whole creation has been groaning in travail together until now." -- _Romans 8:22_ |
-| --- |
+Example: **Key Scripture Verse**: "We know that the whole creation has been groaning in travail together until now." -- _Romans 8:22_
 
-**Body:**
+*   Add in the most relevant **Key CCC Reference(s)** for the chapter like:
 
+Example: **Key CCC Reference(s)**: Temperance: Moderates attraction of pleasures, provides balance, ensures will's mastery over instincts. -- CCC 1809
+
+
+**Biblical and Church's Teaching:**
+*   Start with a definition of the facet of love (virtue) for the chapter. Always stick to Catholic teaching on the facet of love (virtue).
 *   Develop the chapter's theme (facet of love) based on the approved chapter outline points, using the narrative style and tone defined above.
-*   Integrate other relevant Scripture and CCC references naturally within the text where needed to support points.
-*   Add in relevant quotes in a blockquote from Catholic saints (especially St. Catherine of Sienna, St. Faustina Kowalska, St. Teresa of Avila, St. Thérèse of Lisieux, St. Bernard of Clairvaux, St. Mary Magdalene de’ Pazzi), theologians (especially St. Augustine and St. Thomas Aquinas), Popes (especially Pope St. John Paul II, Pope Benedict XVI and Pope Francis) to enrich the body. Make sure to document the year of the quote or author.
+*   Whenever possible, integrate other relevant Scripture and CCC references naturally within the text where needed to support points.
+*   Whenever possible, integrate in relevant quotes (in blockquotes) from Catholic saints (especially St. Catherine of Sienna, St. Faustina Kowalska, St. Teresa of Avila, St. Thérèse of Lisieux, St. Bernard of Clairvaux, St. Mary Magdalene de’ Pazzi), theologians (especially St. Augustine and St. Thomas Aquinas), Popes (especially Pope St. John Paul II, Pope Benedict XVI and Pope Francis) to enrich the body. Make sure to document the year of the quote or author.
 
 
 **Real World Implications:**
@@ -60,10 +64,10 @@ Each chapter's narrative draft should follow this structure:
 **Closing:**
 
 *   **Chapter Takeaway:** A concise summary of the chapter's main point.
-*   **Reflection Question:** One deep, thought-provoking question related to the chapter's facet of love for personal reflection.
 *   **Further Study - Scripture:** List a few additional relevant Scripture references.
 *   **Further Study - Catechism:** List a few additional relevant CCC paragraph numbers.
 *   **Papal Encylicals:** List a few additional relevant papal encyclical(s). Make sure to document the year of the encyclical.
+*   **Reflection Question:** One deep, thought-provoking question related to the chapter's facet of love for personal reflection.
 *   **Prayer Practice:** Per the outline suggest a fitting Catholic spiritual/devotional practice explicitly linking the chapter's facet of love to the prayer's intention (e.g., understanding the facet more deeply, praying for the Salvation of the World, developing the facet of love). If the prayer is not the Rosary, The Our Father, Hail Mary or Glory Be, provide a brief explanation of the prayer's significance and how it relates to the chapter's facet of love and include the entire text of the prayer.
 
 ## Drafting Workflow and Progress Tracking
