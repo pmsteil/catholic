@@ -20,7 +20,7 @@ Systematically generate a devotional book by expanding the provided outline into
 
 **Core Purpose:** To help everyday Catholic Christians deepen their understanding, digestion, and practice of authentic love (grounded in the unity of truth, justice, and mercy), enabling them to love their Lord more deeply and be a light in the darkness of society. This devotional book should equip Catholics to become laser-focused in the practice of their faith, engage confidently with contemporary cultural challenges, and implicitly demonstrate how true faith works through love (countering "faith alone" narratives and so many other counterfeit forms of 'love' - marxism, wokeism, etc.).
 
-**Desired Tone:** Personal, direct, relatable, and passionately evangelistic/apologetic (similar to the `./book1-blogpost-for-catholics.md`). Use "we" and "us" frequently to connect with the reader. Maintain a sense of hope and confidence in the beauty and truth of the Catholic faith.
+**Desired Tone:** Personal, direct, relatable, and passionately evangelistic/apologetic (similar to the `./book1-blogpost-for-catholics.md`) but clear and without church jargon, true to doctrine and teaching, but down to earth. Use "we" and "us" frequently to connect with the reader. Maintain a sense of hope and confidence in the beauty and truth of the Catholic faith.
 
 **Narrative Flow and Cohesion:** Maintain awareness of the overall book structure outlined in `./book1_v3_outline.md` and the progress tracked below. Each chapter should stand alone, but can reference other chapters for additional context. Each chapter should contribute to the book's progressive argument that love is a multi-faceted gift of God and narrative arc.
 
@@ -55,7 +55,7 @@ Example: **Key CCC Reference(s)**: Temperance: Moderates attraction of pleasures
 *   Whenever possible, integrate in relevant quotes (in blockquotes) from Catholic saints (especially St. Catherine of Sienna, St. Faustina Kowalska, St. Teresa of Avila, St. Thérèse of Lisieux, St. Bernard of Clairvaux, St. Mary Magdalene de’ Pazzi), theologians (especially St. Augustine and St. Thomas Aquinas), Popes (especially Pope St. John Paul II, Pope Benedict XVI and Pope Francis) to enrich the body. Make sure to document the year of the quote or author.
 
 
-**Real World Implications:**
+**When Counterfeit Love Fails:**
 
 *   Show an example of how a child understands the chapter's facet of love intuitively (if applicable, don't make a stretch. This will be more applicable to Tier 1 and 2 virtues)
 *   Explain the common distortions that happen when this virtue is missing (if applicable) - point out how missing this virtue may end up in common misguided ideologies and practices.
@@ -64,11 +64,15 @@ Example: **Key CCC Reference(s)**: Temperance: Moderates attraction of pleasures
 **Closing:**
 
 *   **Chapter Takeaway:** A concise summary of the chapter's main point.
-*   **Further Study - Scripture:** List a few additional relevant Scripture references.
-*   **Further Study - Catechism:** List a few additional relevant CCC paragraph numbers.
-*   **Papal Encylicals:** List a few additional relevant papal encyclical(s). Make sure to document the year of the encyclical.
 *   **Reflection Question:** One deep, thought-provoking question related to the chapter's facet of love for personal reflection.
-*   **Prayer Practice:** Per the outline suggest a fitting Catholic spiritual/devotional practice explicitly linking the chapter's facet of love to the prayer's intention (e.g., understanding the facet more deeply, praying for the Salvation of the World, developing the facet of love). If the prayer is not the Rosary, The Our Father, Hail Mary or Glory Be, provide a brief explanation of the prayer's significance and how it relates to the chapter's facet of love and include the entire text of the prayer.
+
+**Additional Study:**
+*   **Scripture:** List a few additional relevant Scripture references.
+*   **Catechism:** List a few additional relevant CCC paragraph numbers.
+*   **Papal Encylicals:** List a few additional relevant papal encyclical(s). Make sure to document the year of the encyclical.
+
+**Prayer Practice:**
+*   Per the outline suggest a fitting Catholic spiritual/devotional practice explicitly linking the chapter's facet of love to the prayer's intention (e.g., understanding the facet more deeply, praying for the Salvation of the World, developing the facet of love). If the prayer is not the Rosary, The Our Father, Hail Mary or Glory Be, provide a brief explanation of the prayer's significance and how it relates to the chapter's facet of love and include the entire text of the prayer.
 
 ## Drafting Workflow and Progress Tracking
 
@@ -76,36 +80,19 @@ Example: **Key CCC Reference(s)**: Temperance: Moderates attraction of pleasures
 
 *   `[]`: Not Started
 *   `[O]`: Outline Generated (Ready for User Review)
-*   `[S]`: Saints, Thelogians, Popes added to each chapter (Ready for User Review/Edit)
-*   `[Q]`: Add to each chapter outline a section called “Why Love Fails Without <facet>”
-        This section can:
-            •	Begin with a real-world failure or distortion of love when the virtue is missing (e.g., without truth, love becomes manipulation).
-            •	Show how the facet guards, purifies, or sustains love.
-            •	Connect to human experience (children/childhood, marriage, friendship, society).
-            •	End by showing how the teachings of the Church help us form and protect this virtue.
-*   `[P]`: Papal Encylicals - For each chapter, if there is one or more papal encyclical(s) that are relevant to the chapter, add them after the **Further Study - Catechism** section in a new section called **Further Study - Papal Encylicals**. Make sure to document the year or approximate year of the encyclical.
-*   `[Y]`: Review all the quotes made in each chapter outline and add the year or approximate year of the quote.
-*   `[F]`: Suffering Saints: Find quotes from saints who were catechized by the effects of evil, suffering, oppression, persecution, martyrdom, and add them to the chapter outline file.
-*   `[R]`: Do another review of each chapter outline for faithfulness to Catholic teaching, replace church jargon with simple language, and make sure the outline is clear and easy to understand
-*   `[D]`: Narrative Drafted one chapter at a time (Ready for User Review/Edit)
 *   `[A]`: Final User Approval
 
 **Workflow Steps:**
 
-1.  **Select Chapter:** Identify the next chapter marked `[]` in the "Drafting Progress" list below.
-2.  **Generate Chapter Outlines:** Extract relevant points from the master outline (`book1_v2_outline.md`) and the structure noted in the 'Chapter Structure' and any relevant prior discussion and ask the user for any clarifications or questions you have in order to write the outline. Structure these points logically for the specific chapter. Write this detailed plan to a new file in the `./book1_v2/outlines/` directory (e.g., `./book1_v2/outlines/01_Ch01_outline.md`).
-3.  **Mark as Outlined:** Update the tracking list below, changing the chapter's status from `[]` to `[O]`.
-4.  **Proceed to write the outline for the next chapter.**
-5.  **Add Saints, Theologians, Popes:** Once the outline is generated, add to the outline relevant quotes from Catholic saints, theologians, and Popes to the chapter outline file. This should be done in a way that enhances the chapter's content and supports the narrative flow. Mark the chapter as `[S]` once this is complete.
-6.  **Human Review of Outline:** Once all outlines are generated, wait for the user to review the chapter outline files before proceeding to the next step.
-7.  **Draft Narrative:** Once the user confirms the chapter outlines, draft the full chapter narratives into the main chapter file (e.g., `./book1_v2/01_Ch01_Problem_Suffering_Evil.md`), strictly following the approved chapter outline and the overall prompt guidelines (tone, structure, devotional elements, etc.).
-8.  **Mark as Drafted:** Update the tracking list below, changing the chapter's status from `[O]` to `[D]`. Present the drafted narrative file path to the user.
-9.  **Human Review/Edit of Draft:** User reviews and edits the drafted narrative file.
-10.  **Human Approval:** User signals final approval (e.g., by stating "Chapter X is approved"). The AI will then update the status from `[D]` to `[x]` in this prompt for the next turn.
+1.  **Select Next Part/Chapter:** Identify the next chapter/part marked `[]` in the "Outline Progress" list below.
+2.  **If the next section is a part to generate:** Create a summary of the part and write it to a new file in the `./book1_v3/outlines/` directory (e.g. for Part 1: `./book1_v3/outlines/01_part_00.md`, for Part 2: `./book1_v3/outlines/02_part_00.md`, etc.).
+3.  **If the next section is a chapter to generate:** Extract relevant points from the master outline (`book1_v3_outline.md`) and the structure noted in the 'Chapter Structure' and any relevant prior discussion and ask the user for any clarifications or questions you have in order to write the outline. Structure these points logically for the specific chapter/part. Write this detailed plan to a new file in the `./book1_v3/outlines/` directory (e.g. for Part1, Chapter 1: `./book1_v3/outlines/01_part_01_chapter.md`, for Part1, Chapter 2: `./book1_v3/outlines/01_part_02_chapter.md`, etc.).
+4.  **Mark as Outlined:** Update the tracking list below, changing the chapter's/part's status from `[]` to `[O]`.
+5.  **Start the outline for the next chapter/part.**
 
-**Drafting Progress:**
+**Outline Progress:**
 
-**Part I: The Problem - Suffering, Confusion, and the Search for Love**
+[] **Part I: The Problem - Suffering, Confusion, and the Search for Love**
 
 *   \[S\] 1: The Problem of Suffering and Evil - Why is there so much pain in the world?
 *   \[S\] 2: The Cry for Love - The Desire for Connection and Belonging
