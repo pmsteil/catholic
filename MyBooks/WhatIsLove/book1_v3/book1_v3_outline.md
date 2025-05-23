@@ -1,9 +1,10 @@
 # What Is Love?
 Below is the outline for the book "What Is Love?".
-For each chapter, there is an "Previous Chapter" column that indicates a previous chapter
+For each chapter, there is a "Previous Chapter" column that indicates a previous chapter
 outline that we previuosly generated for the chapter.  Use the previous chapter outline as a
 reference for the new chapter's outline using the new chapter prompt. The previous chapter files
-can be found in the "./book1_v2/outlines" directory.
+can be found in the "./book1_v2/outlines" directory. If no previous chapter outline has been
+indicated, create the chapter from scratch.
 
 
 ## 🌱 Part 1A: Pillars of Love — The Essential Tenets
@@ -53,7 +54,7 @@ can be found in the "./book1_v2/outlines" directory.
 | 5           | 19               | Faith         | Justice (toward God) — recognizing the Creator | John 14:1; John 6:29     | Lectio Divina; Creed           | Doubt       | Heb 11:1          |
 | 6           | 20               | Hope          | Mercy — trusting God’s promise                 | Matt 10:31; Matt 5:12    | Trustful prayer; Mercy chaplet | Despair     | Romans 5:5        |
 | 7           | 30               | Humility      | Justice — knowing one's place                  | Matt 23:12; Matt 11:29   | Litany of humility             | Pride       | Luke 18:14        |
-| 8           | ?                | Forgiveness   | Mercy — pardoning without merit                | Luke 6:37; Matt 6:12     | Reconciliation                 | Grudges     | Matt 6:14         |
+| 8           | _                | Forgiveness   | Mercy — pardoning without merit                | Luke 6:37; Matt 6:12     | Reconciliation                 | Grudges     | Matt 6:14         |
 | 9           | 38               | Gratitude     | Justice (toward God) — giving thanks           | 1 Thess 5:18; Luke 17:17 | Thanksgiving; Examen           | Entitlement | Luke 17:18        |
 | 10          | 30               | Peace         | Justice — fruit of right relationships         | Matt 5:9; John 14:27     | Rosary; Reconciliation         | Discord     | Isaiah 32:17      |
 

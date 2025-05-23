@@ -11,8 +11,7 @@ Systematically generate a devotional book by expanding the provided outline into
 
 ## Output:
 
-1.  **Detailed Outline Points:** `./book1_v3_outlines/` directory (Contains the detailed outline points for each chapter).
-2.  **Devotional Book:** `./book1_v3/` folder which will contain one file per chapter.
+1.  **Devotional Book:** `./book1_v3/` folder where you will generate one file per chapter.
 
 ## Writing Style and Guidelines
 
@@ -23,6 +22,14 @@ Systematically generate a devotional book by expanding the provided outline into
 **Core Purpose:** To help everyday Catholic Christians deepen their understanding, digestion, and practice of authentic love (grounded in the unity of truth, justice, and mercy), enabling them to love their Lord more deeply and be a light in the darkness of society. This devotional book should equip Catholics to become laser-focused in the practice of their faith, engage confidently with contemporary cultural challenges, and implicitly demonstrate how true faith works through love (countering "faith alone" narratives and so many other counterfeit forms of 'love' - marxism, wokeism, etc.).
 
 **Desired Tone:** Personal, direct, relatable, and passionately evangelistic/apologetic (similar to the `./book1_v3/blog1-blogpost-for-catholics.md`) but clear and without church jargon, true to doctrine and teaching, but down to earth. Use "we" and "us" frequently to connect with the reader. Maintain a sense of hope and confidence in the beauty and truth of the Catholic faith.
+
+**Chapter Length and Approach:** Each chapter should be approximately **2,000-2,500 words** (about 8-10 pages), providing "bite-sized theology" - not superficial devotional snippets, but not dense academic treatises. This middle-ground approach allows for:
+- Each chapter should help form the conscience of the Catholic Christian so they are more well formed both intellectually and spiritually and so that they will love their LORD more deeply.
+- 15-20 minute reading sessions suitable for daily/weekly devotional use
+- Enough depth to develop the virtue, address counterfeits, and provide practical applications
+- Narrative flow with personal stories and examples without becoming academic
+- Space for relevant quotes without overwhelming the reader
+- Each chapter gives readers one clear facet of love to understand and practice
 
 **Visual Elements:** Add any tables, diagrams, charts, etc. where appropriate to make the content more engaging and easier to understand. If a photo or graphic is suggested to help explain a concept, add a placeholder for the graphic to be added later.
 
@@ -70,7 +77,7 @@ Example: **Key CCC Reference(s)**: Temperance: Moderates attraction of pleasures
 
 **When Counterfeit Love Fails:**
 
-*   Explain up to 3 of the most contemporary and common distortions that happen when this virtue is missing (if applicable) - point out how missing this virtue may end up in common misguided ideologies and practices and name them such as sentimentalism, critical theory, intersectionality, wokeness, relativism, liberalism, individualism, feminism, Marxism/Socialism/Communism, postmodernism, sexualism and gender ideology, divorce, politicalism, materialism, scientism, non-Christian world religions, etc.
+*   Explain up to 3 of the most contemporary and common distortions that happen when this virtue is missing (if applicable and choose those that are most prevelant and destructive to our society) - point out how missing this virtue may end up in common misguided ideologies and practices and name them such as sentimentalism, critical theory, intersectionality, wokeness, relativism, liberalism, individualism, feminism, Marxism/Socialism/Communism, postmodernism, sexualism and gender ideology, divorce, politicalism, materialism, scientism, non-Christian world religions, etc.
 *   Make an empathetic case for why people might be drawn to these ideologies (the half truths offered by these ideologies) and why we should care enough to share in a most charitable way the Catholic vision of love with them.
 
 **Three Questions to Ask:**
@@ -104,7 +111,7 @@ Example: **Key CCC Reference(s)**: Temperance: Moderates attraction of pleasures
 **Using Previous Chapter Outlines:**
 
 * For each chapter in the book1_v3 outline, there is a corresponding "Previous Chapter" number indicated in the outline table.
-* These previous chapter outlines can be found in the `./book1_v2/outlines/` directory with filenames like `XX_ChXX_outline.md` where XX is the chapter number.
+* These previous chapter outlines can be found in the `./book1_v2/outlines/` directory with filenames like `XX_ChXX_outline.md` where XX is the chapter number. For each chapter, there is a "Previous Chapter" column that indicates a previous chapter outline that we previuosly generated for the chapter.  Use the previous chapter outline as a reference for the new chapter's outline using the new chapter prompt. The previous chapter files can be found in the "./book1_v2/outlines" directory. If no previous chapter outline has been indicated, create the chapter from scratch.
 * When creating a new chapter outline:
   1. First review the corresponding previous chapter outline from book1_v2
   2. Use it as a reference point and foundation, but adapt and update it according to the new structure and focus defined in this prompt
@@ -115,7 +122,7 @@ Example: **Key CCC Reference(s)**: Temperance: Moderates attraction of pleasures
 **Workflow Steps:**
 
 1.  **Select Next Part/Chapter:** Identify the next chapter/part marked `[]` in the "Outline Progress" list below.
-2.  **If the next section is a part to generate:** Create a summary of the part and write it to a new file in the `./book1_v3/outlines/` directory (e.g. for Part 1: `./book1_v3/outlines/01_part_00.md`, for Part 2: `./book1_v3/outlines/02_part_00.md`, etc.). Include relevant scripture quotes and a narrative summary of the chapters in the part.
+2.  **If the next section is a part to generate:** Create a summary of all the chapters in the part and how they are related to the fact that the problem of evil is best and answered by knowing and deeply living out the agape charity of our faith (1-3 paragraphs) and write it to a new file in the `./book1_v3/outlines/` directory (e.g. for Part 1: `./book1_v3/outlines/01_part_00.md`, for Part 2: `./book1_v3/outlines/02_part_00.md`, etc.). Include relevant scripture quotes and a narrative summary of the chapters in the part.
 3.  **If the next section is a chapter to generate:** Extract relevant points from the master outline (`./book1_v3/book1_v3_outline.md`) and the structure noted in the 'Chapter Structure'. Structure these points logically for the specific chapter/part. Write this detailed plan to a new file in the `./book1_v3/outlines/` directory (e.g. for Part1, Chapter 1: `./book1_v3/outlines/01_part_01_chapter.md`, for Part1, Chapter 2: `./book1_v3/outlines/01_part_02_chapter.md`, etc.).
 4.  **Mark as Outlined:** Update the tracking list below, changing the chapter's/part's status from `[]` to `[O]`.
 5.  **Start the outline for the next chapter/part.**
@@ -167,7 +174,6 @@ Example: **Key CCC Reference(s)**: Temperance: Moderates attraction of pleasures
 *   \[\] Chapter 29
 *   \[\] Chapter 30
 
-_(Note: Add Part/Appendix Headers as needed, e.g.,_ `_[] 00_Part1_Header.md_`_)_
 
 ## Output
 
