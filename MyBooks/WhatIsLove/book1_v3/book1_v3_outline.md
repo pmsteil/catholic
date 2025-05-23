@@ -102,7 +102,7 @@ indicated, create the chapter from scratch.
 | 19          | 48               | Faithfulness  | Justice — honoring covenants    | Rev 2:10; Luke 16:10  | Vows; Commitments  | Infidelity   | Matt 25:21        |
 | 21          | 32,45            | Patience      | Mercy — enduring others’ faults | 1 Cor 13:4; Rom 12:12 | Surrender          | Restlessness | James 5:8         |
 | 22          | 33               | Kindness      | Mercy — gentle goodwill         | Eph 4:32; Luke 10:37  | Almsgiving         | Harshness    | Eph 4:32          |
-| 23          | _               | Gentleness    | Mercy — tender strength         | Prov 15:1; Matt 5:5   | Mildness           | Aggression   | Gal 6:1           |
+| 23          | _                | Gentleness    | Mercy — tender strength         | Prov 15:1; Matt 5:5   | Mildness           | Aggression   | Gal 6:1           |
 | 24          | 31               | Generosity    | Mercy — openhanded love         | Matt 5:42; Luke 21    | Tithing; Charity   | Stinginess   | 2 Cor 9:7         |
 | 25          | 47               | Goodness      | Both — doing what is right      | Matt 5:16; Rom 12:21  | Acts of virtue     | Apathy       | Psalm 23:6        |
 
