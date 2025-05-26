@@ -8,20 +8,122 @@
 > for the present and for the future."
 > — 1 Timothy 4:7–8
 
-#### Chapter 22: Wisdom
+#### Chapter 22: Wisdom - The Light That Guides Love's Choices
 - **Previous Chapter Reference:** 45
-- **Facet of Love:** Wisdom
-- **Relation to Justice/Mercy:** Both — guides just and merciful action
-- **Related Commandments:** Matt 7:7; 1 Kgs 3:9
-- **Spiritual Practice:** Scripture study
-- **Vice to Overcome:** Folly
-- **What Evil This Overcomes:** The evil of foolishness that leads to poor judgment and moral confusion. Folly results in choosing apparent goods over true goods, temporal pleasures over eternal joy. Wisdom conquers the evil that would make us slaves to our appetites or enemies of our own bodies.
-- **Scriptural Anchor:** James 3:17
-- **Related Sacrament(s):** Sacrament of Confirmation (Gift of Wisdom from the Holy Spirit)
-- **Spiritual Practice(s):** Lectio Divina, Spiritual Reading, Prayer for Wisdom
-- **Related Works of the Church:**
-- **Relation to the Mass:** Liturgy of the Word (Readings, Psalm, Gospel), Homily, Collect (Opening Prayer), Prayers of the Faithful (petitions for wisdom)
-- **Related Saints:** St. Thomas Aquinas, St. Catherine of Siena, King Solomon
+- **Facet of Love:** Wisdom - The highest virtue that orders all other virtues toward their proper end
+- **Relation to Justice/Mercy:** Both — guides just and merciful action by revealing what is truly good, true, and beautiful
+- **Related Commandments:** "Ask and you will receive" (Matt 7:7); "Give your servant a discerning heart" (1 Kgs 3:9)
+- **Vice to Overcome:** Folly, spiritual blindness, worldly wisdom that contradicts God's truth
+- **What Evil This Overcomes:** The evil of foolishness that leads to poor judgment and moral confusion. Folly results in choosing apparent goods over true goods, temporal pleasures over eternal joy. Wisdom conquers the evil that would make us slaves to our appetites or enemies of our own bodies, the evil of spiritual blindness that cannot distinguish between authentic love and its counterfeits.
+
+**The Nature of Divine Wisdom:**
+- **Wisdom vs. Mere Knowledge:** Knowledge accumulates facts; wisdom discerns their proper use and ultimate meaning
+- **Gift of the Holy Spirit:** Supernatural wisdom that sees all things from God's perspective
+- **Participation in Divine Life:** Sharing in God's own knowledge and love of truth
+- **Integration of Faith and Reason:** Wisdom harmonizes what we know by faith with what we discover by reason
+- **Practical Wisdom:** Not abstract speculation but concrete guidance for living virtuously
+
+**How Wisdom Guides Justice:**
+- **Discerning True Rights:** Wisdom reveals what each person is truly owed according to their dignity as image of God
+- **Ordering Priorities:** Wisdom establishes the proper hierarchy: God first, then family, neighbor, self, creation
+- **Distinguishing Justice from Revenge:** Wisdom seeks restoration and correction, not mere punishment
+- **Protecting the Vulnerable:** Wisdom recognizes that true justice always defends those who cannot defend themselves
+- **Balancing Competing Claims:** Wisdom navigates complex situations where multiple rights or goods are in tension
+
+**How Wisdom Guides Mercy:**
+- **Recognizing Human Frailty:** Wisdom understands that all have sinned and fallen short of God's glory
+- **Choosing Appropriate Response:** Wisdom knows when to correct, when to forgive, when to be patient
+- **Seeing Potential for Conversion:** Wisdom looks beyond present sin to the person's capacity for redemption
+- **Avoiding False Mercy:** Wisdom distinguishes true mercy (which desires the good of the other) from mere sentimentality
+- **Timing of Mercy:** Wisdom knows the right moment for forgiveness and the right moment for correction
+
+**Wisdom and the Integration of Body, Mind, and Soul:**
+- **Mind:** Wisdom illuminates the intellect to see truth clearly and distinguish reality from illusion
+- **Soul:** Wisdom orders the will toward genuine goods and away from apparent goods that ultimately harm
+- **Body:** Wisdom guides the proper use of material goods and bodily appetites in service of authentic love
+- **Integration:** Wisdom brings all three aspects into harmony, preventing the tyranny of any one aspect over the others
+- **Practical Application:** Wise choices in eating, sleeping, working, recreation that serve the whole person
+
+**The Fruits of Wisdom in Love:**
+- **Prudent Judgment:** Making decisions that truly serve the good of those we love
+- **Patient Understanding:** Seeing situations from multiple perspectives before acting
+- **Gentle Correction:** Offering guidance that builds up rather than tears down
+- **Appropriate Boundaries:** Knowing when to say yes and when to say no in love
+- **Long-term Vision:** Choosing actions that serve eternal goods over temporary pleasures
+- **Peaceful Resolution:** Finding solutions that honor truth while preserving relationships
+
+**Wisdom in Different States of Life:**
+- **Marriage:** Wisdom guides spouses in mutual self-gift, child-rearing, and building domestic church
+- **Single Life:** Wisdom directs preparation for marriage or religious life through virtue and service
+- **Religious Life:** Wisdom illuminates the path of evangelical counsels and apostolic mission
+- **Priesthood:** Wisdom enables pastoral care that serves souls' true needs rather than wants
+- **Parenthood:** Wisdom guides formation of children in truth and virtue with appropriate discipline and affection
+
+**Obstacles to Wisdom:**
+- **Pride:** Thinking we know better than God or His Church
+- **Worldly Wisdom:** Accepting cultural values that contradict divine truth
+- **Spiritual Laziness:** Failing to seek wisdom through prayer and study
+- **Attachment to Sin:** Preferring comfortable lies to challenging truths
+- **Impatience:** Wanting quick answers rather than growing in understanding
+- **Isolation:** Refusing guidance from legitimate authority or wise counselors
+
+**Growing in Wisdom:**
+- **Prayer for Wisdom:** Daily asking the Holy Spirit for the gift of wisdom
+- **Lectio Divina:** Prayerful reading of Scripture that seeks God's voice
+- **Study of Church Teaching:** Learning from the accumulated wisdom of saints and doctors
+- **Spiritual Direction:** Seeking guidance from those advanced in virtue
+- **Examination of Conscience:** Regular reflection on decisions and their outcomes
+- **Learning from Mistakes:** Allowing failures to teach us rather than discourage us
+
+**Wisdom and the Common Good:**
+- **Social Teaching:** Wisdom applies Gospel principles to economic, political, and cultural questions
+- **Subsidiarity:** Wisdom knows which decisions belong at which level of authority
+- **Solidarity:** Wisdom recognizes our fundamental interconnectedness and mutual responsibility
+- **Cultural Engagement:** Wisdom discerns how to engage secular culture without compromising truth
+- **Evangelization:** Wisdom finds appropriate ways to share the Gospel in different contexts
+
+**Wisdom in Times of Suffering:**
+- **Finding Meaning:** Wisdom helps us understand how suffering can serve redemptive purposes
+- **Choosing Response:** Wisdom guides us between despair and presumption in difficult times
+- **Supporting Others:** Wisdom enables us to comfort others without offering false hope or empty platitudes
+- **Uniting with Christ:** Wisdom shows us how to join our sufferings to Christ's passion
+- **Growing in Virtue:** Wisdom helps us see how trials can purify and strengthen our love
+
+**The Ultimate Wisdom: Christ Crucified:**
+- **Foolishness to the World:** The Cross appears as failure to worldly wisdom
+- **Power and Wisdom of God:** In reality, the Cross is God's ultimate victory over evil
+- **Model for All Wisdom:** Every wise decision participates in Christ's self-sacrificial love
+- **Source of All Truth:** Christ is "the Way, the Truth, and the Life" - the source of all authentic wisdom
+- **Goal of Wisdom:** All wisdom leads us closer to union with Christ and participation in divine life
+
+**Scriptural Anchor:** "But the wisdom from above is first pure, then peaceable, gentle, open to reason, full of mercy and good fruits, impartial and sincere" (James 3:17)
+
+**Related Sacrament(s):**
+- **Confirmation:** Receives the Gift of Wisdom from the Holy Spirit for Christian maturity
+- **Eucharist:** Source and summit of wisdom - receiving Christ who is Wisdom incarnate
+- **Penance:** Wisdom to examine conscience and choose appropriate penance
+
+**Spiritual Practice(s):**
+- **Lectio Divina:** Prayerful reading of Scripture seeking God's voice and guidance
+- **Spiritual Reading:** Study of saints, doctors of the Church, and magisterial teaching
+- **Prayer for Wisdom:** Daily petition for the Holy Spirit's gift of wisdom
+- **Examination of Conscience:** Regular reflection on decisions and their conformity to God's will
+- **Spiritual Direction:** Seeking guidance from those advanced in virtue and wisdom
+
+**Relation to the Mass:**
+- **Liturgy of the Word:** Readings, Psalm, Gospel provide divine wisdom for daily life
+- **Homily:** Priest applies scriptural wisdom to contemporary circumstances
+- **Collect (Opening Prayer):** Often petitions for wisdom and right judgment
+
+**Related Saints:**
+- **St. Thomas Aquinas:** Doctor of the Church who harmonized faith and reason
+- **St. Catherine of Siena:** Mystic whose wisdom guided popes and reformed the Church
+- **King Solomon:** Old Testament model of one who chose wisdom over all other goods
+- **St. Teresa of Avila:** Doctor of the Church whose wisdom guides interior life
+- **St. John Chrysostom:** "Golden-mouthed" preacher whose wisdom illuminated Scripture
+
+**How Wisdom Serves Perfect Love:**
+Wisdom is the crown of all virtues because it orders every other virtue toward its proper end. Without wisdom, justice becomes harsh legalism, mercy becomes permissive sentimentality, courage becomes reckless bravado, and temperance becomes joyless suppression. Wisdom ensures that our love is authentic - truly seeking the good of the other rather than our own comfort or convenience. In the end, perfect love requires perfect wisdom, and perfect wisdom leads inevitably to perfect love, for God Himself is both Love and Wisdom, and in Him these are one.
 
 #### Chapter 23: Prudence
 - **Previous Chapter Reference:** 26
@@ -188,4 +290,3 @@ Fortitude enables us to:
 - **Related Works of the Church:**
 - **Relation to the Mass:** Reception of Holy Communion, Liturgy of the Word, Homily, Eucharistic Prayer, Creed, Penitential Act (Kyrie Eleison), Final Blessing
 - **Related Saints:** St. Augustine, St. Ignatius of Loyola, St. Teresa of Ávila
-
