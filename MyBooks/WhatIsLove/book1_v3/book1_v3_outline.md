@@ -318,8 +318,8 @@ Children possess an instinctive understanding of truth that adults often lose th
 - **Lying feels wrong** - Even small children experience discomfort when asked to lie or when they tell lies
 - **Truth is simple** - Children don't understand "your truth" vs. "my truth"; they know truth is truth
 - **Honesty builds trust** - Children naturally trust those who tell the truth and distrust those who lie
-- **Secrets can be dangerous** - Children understand that some secrets protect (surprises) while others harm (covering wrongdoing)
 - **Adults should tell the truth** - Children expect and need adults to be truthful, especially about important matters
+- **Secrets can be dangerous** - Children understand that some secrets protect (surprises) while others harm (covering wrongdoing)
 - **Truth helps, lies hurt** - Children can see that lies create problems and confusion while truth brings clarity
 
 This childlike clarity about truth is what Christ calls us to recover: the **humility** to accept truth even when inconvenient, the **simplicity** to recognize truth without endless qualifications, and the **trust** to believe that truth is always better than comfortable lies.
@@ -413,7 +413,7 @@ Children demonstrate a natural capacity for mercy that adults often lose through
 - **Love continues after wrongdoing** - Children can separate the person from their bad behavior
 - **Apologies matter** - Children value sincere "I'm sorry" and readily accept it
 - **Kindness to those who hurt us** - Children often show kindness even to those who have been mean to them
-- **Fresh starts are possible** - Children believe people can change and become better
+- **Fresh starts are possible** - Children believe people can change and relationships can be restored
 
 This childlike mercy reflects God's own heart: **quick to forgive, slow to anger, and rich in compassion** (Psalm 103:8). Adults must return to this **tender heart** that sees the possibility of redemption in every person and refuses to let past hurts define future relationships.
 
@@ -570,6 +570,16 @@ Every virtue contributes to covenant relationships:
 - **Hope:** Believing in the ultimate good of covenant commitment
 - **Humility:** Acknowledging our need for grace to be faithful
 
+**What Children Know:**
+Children understand covenant love instinctively before adults complicate it with conditions and escape clauses:
+- **Families are forever** - Children expect their family to stay together and are deeply wounded by even the thought of divorce. It is a scandal that children today have to grow up knowing that their parents may (and statically will) divorce.
+- **Promises matter** - Children take promises seriously and remember when adults break their word
+- **Both mom and dad are needed** - Children naturally understand they need both parents and feel the absence of either
+- **Love means staying** - Children equate love with presence and commitment, not just feelings
+- **Security comes from permanence** - Children thrive when they can count on their family structure remaining stable
+
+This childlike understanding reflects God's design for covenant relationships: **permanent, faithful, and ordered toward the protection of the vulnerable**.
+
 **Related Sacrament(s):** Sacrament of Matrimony (the covenant sacrament), Sacrament of Baptism (entry into the New Covenant), Sacrament of Holy Eucharist (renewal of the New Covenant)
 **Spiritual Practice(s):** Community Prayer
 **Related Works of the Church:** Parish Life, 7 Deadly Sins (Pride)
@@ -585,6 +595,16 @@ Every virtue contributes to covenant relationships:
 - **Vice to Overcome:** Lust; Sexual disorder; Using persons as objects
 - **What Evil This Overcomes:** The evil of sexual exploitation that treats persons as objects for pleasure rather than subjects worthy of love. Sexual disorder destroys the capacity for authentic intimacy and covenant love. Chastity conquers the evil that reduces the human person to a collection of desires rather than recognizing the sacred dignity of embodied souls.
 - **Scriptural Anchor:** 1 Thessalonians 4:3-4 ("This is the will of God, your sanctification: that you abstain from unchastity")
+
+**What Children Know:**
+Children possess natural modesty and understand appropriate boundaries before cultural corruption distorts their innocence:
+- **Bodies are special** - Children naturally understand that certain parts of the body are private and sacred
+- **Modesty feels right** - Children instinctively cover themselves and feel uncomfortable with inappropriate exposure
+- **Boundaries matter** - Children know when touch is appropriate or inappropriate, safe or unsafe
+- **Marriage is for grown-ups** - Children understand that certain expressions of love belong only to married adults
+- **Innocence is precious** - Children naturally protect their innocence and are wounded when it's violated
+
+This childlike purity reflects the **original innocence** God intended for human sexuality: **sacred, ordered, and protected within appropriate boundaries**.
 
 **Chastity According to State in Life:**
 
@@ -620,6 +640,16 @@ Chastity is essential for covenant love because:
 - **What Evil This Overcomes:** The evil of pride that makes each person their own ultimate authority, leading to chaos, broken promises, and the destruction of all legitimate order. Disobedience destroys covenant relationships and creates a world where might makes right. Obedience conquers the evil that would make us gods unto ourselves.
 - **Scriptural Anchor:** Luke 1:38 ("Let it be done unto me according to your word")
 
+**What Children Know:**
+Children naturally understand authority and have an instinctive desire to please loving parents:
+- **Parents are in charge** - Children naturally look to parents for guidance and expect them to make important decisions
+- **Obedience brings peace** - Children feel secure when they follow rules and uncomfortable when they disobey
+- **Good authority protects** - Children trust that parental rules exist to keep them safe and help them grow
+- **Love and obedience go together** - Children want to please those they love and feel sad when they disappoint them
+- **Rebellion feels wrong** - Children experience guilt, shame, hiding and anxiety when they deliberately disobey
+
+This childlike trust reflects our **original relationship with God**: recognizing legitimate authority as **loving protection**, not oppressive control.
+
 **The Nature of True Obedience:**
 
 - **Free Gift:** Authentic obedience is never coerced but freely given out of love and trust
@@ -645,7 +675,7 @@ Obedience is essential for covenant love because:
 - **It breaks the cycle of pride** that destroys relationships and families
 
 **Related Sacrament(s):** Sacrament of Baptism (obedience to God), Sacrament of Matrimony (mutual obedience), Sacrament of Holy Orders (obedience to Church)
-**Spiritual Practice(s):** Daily examination of conscience regarding obedience, Submission to spiritual direction, Fidelity to religious duties, Prayer for humility
+**Spiritual Practice(s):** Submission to Church teaching, Obedience to legitimate civil authority, Fidelity to marriage vows, Religious obedience
 **Related Works of the Church:** Catechism on the Fourth Commandment (CCC 2196-2257), Religious Life, Papal Encyclicals on Authority
 **Relation to the Mass:** "Lord, I am not worthy" (humble submission), Creed (obedience to Church teaching), "Thy will be done" (Our Father)
 **Related Saints:** The Blessed Virgin Mary (perfect obedience), St. Joseph (obedient foster father), St. Ignatius of Loyola (religious obedience), St. Thomas More (obedience to conscience)
@@ -686,6 +716,17 @@ This childlike faith is what Jesus praised: **"Let the little children come to m
 - **Vice to Overcome:** Despair
 - **What Evil This Overcomes:** The evil of despair that declares God's mercy insufficient and His promises false. Despair leads to suicide, abandonment of virtue, and the presumption that sin is stronger than grace. Hope conquers the evil that would make us give up on God, ourselves, and others.
 - **Scriptural Anchor:** Romans 5:5
+
+**What Children Know:**
+Children are naturally hopeful and optimistic about the future before life's disappointments cloud their vision:
+- **Tomorrow will be better** - Children wake up excited about new possibilities and adventures
+- **Good things are coming** - Children naturally expect gifts, surprises, and happy occasions
+- **Problems can be fixed** - Children believe that broken things can be repaired and sad situations can improve
+- **People can change** - Children hope that mean people will become nice and that everyone can be friends
+- **Dreams come true** - Children believe their aspirations are achievable and worth pursuing
+
+This childlike hope reflects our **original trust in God's goodness**: believing that **love ultimately wins** and that **God's promises are reliable**.
+
 - **Related Sacrament(s):** n/a
 - **Spiritual Practice(s):** Prayer (especially petitions and prayers of trust), Divine Mercy Chaplet, Trust in Divine Providence, Rosary (Joyful Mysteries - Annunciation, Visitation, Presentation)
 - **Related Works of the Church:**
@@ -699,13 +740,29 @@ This childlike faith is what Jesus praised: **"Let the little children come to m
 - **Related Commandments:** Matt 23:12; Matt 11:29
 - **Spiritual Practice:** Litany of humility
 - **Vice to Overcome:** Pride
-- **What Evil This Overcomes:** The root evil of pride that places self above God and neighbor. Pride is the source of all sin, the refusal to acknowledge our dependence on God. Humility conquers the evil that makes us think we can save ourselves and live independently of our Creator.
+- **What Evil This Overcomes:** The root evil of pride that places self above God and neighbor. Pride is the source of all sin, the refusal to acknowledge our dependence on God. Humility conquers the evil that would make us think we can save ourselves and live independently of our Creator.
 - **Scriptural Anchor:** Luke 18:14
 - **Related Sacrament(s):** Sacrament of Reconciliation
 - **Spiritual Practice(s):** Examination of Conscience, Litany of Humility, Rosary (Joyful Mysteries - Finding in the Temple)
 - **Related Works of the Church:** 7 Deadly Sins (Pride)
 - **Relation to the Mass:** Penitential Act (Confiteor, Kyrie Eleison), 'Lord, I am not worthy...', Agnus Dei, Kneeling posture, Washing of the Feet (Holy Thursday liturgy)
 - **Related Saints:** St. John the Baptist, St. Francis of Assisi, St. Thérèse of Lisieux
+
+**What Children Know:**
+Children naturally know they need help and aren't ashamed to ask for it:
+- **I need help** - Children readily admit when they can't do something and ask for assistance
+- **Adults know more** - Children recognize that grown-ups have knowledge and experience they lack
+- **Learning is exciting** - Children are eager to discover new things and don't pretend to know what they don't
+- **Mistakes are normal** - Children accept correction without feeling their dignity is threatened
+- **Small is okay** - Children don't feel diminished by being little; they know they'll grow
+
+This childlike humility reflects our **true relationship with God**: recognizing that we are **beloved children** who need our **heavenly Father's guidance** and care.
+
+- **Related Sacrament(s):** Sacrament of Reconciliation
+- **Spiritual Practice(s):** Examination of Conscience, Spiritual Direction, Study of Church Teaching, Submission to legitimate authority
+- **Related Works of the Church:** 10 Commandments (esp. 8th commandment), Councils, Dogmas, Doctrines, Catechism, Magisterial Teaching, Papal Encyclicals
+- **Relation to the Mass:** Liturgy of the Word (proclamation of Truth), Creed (profession of Truth), Submission to liturgical authority
+- **Related Saints:** St. Thomas Aquinas, St. Augustine, St. Edith Stein (Teresa Benedicta of the Cross), St. Thomas More, St. John Fisher
 
 #### Chapter 18: Forgiveness
 - **Previous Chapter Reference:** _
@@ -716,6 +773,17 @@ This childlike faith is what Jesus praised: **"Let the little children come to m
 - **Vice to Overcome:** Grudges
 - **What Evil This Overcomes:** The evil of resentment and bitterness that poisons the heart and perpetuates cycles of revenge. Unforgiveness binds us to our wounds and makes us slaves to those who have hurt us. Forgiveness conquers the evil that would make us prisoners of our past pain.
 - **Scriptural Anchor:** Matt 6:14
+
+**What Children Know:**
+Children forgive easily and completely, without holding grudges:
+- **Forgive and forget** - Children can be genuinely hurt but quickly return to loving relationship
+- **Fresh starts are possible** - Children believe people can change and relationships can be restored
+- **Love is stronger than hurt** - Children prioritize relationship over being right or getting even
+- **Holding grudges feels bad** - Children naturally want to release anger and return to peace
+- **Everyone makes mistakes** - Children understand that people aren't perfect and deserve second chances
+
+This childlike forgiveness reflects **God's mercy toward us**: offering **complete pardon** and **restored relationship** rather than keeping a record of wrongs.
+
 - **Related Sacrament(s):** Sacrament of Reconciliation
 - **Spiritual Practice(s):** Act of Contrition, Forgiving others (as in the Our Father), Stations of the Cross (Christ's forgiveness from the Cross), Rosary (Sorrowful Mysteries)
 - **Related Works of the Church:** 7 Deadly Sins (Wrath - as an obstacle to forgiveness)
@@ -729,7 +797,18 @@ This childlike faith is what Jesus praised: **"Let the little children come to m
 - **Related Commandments:** 1 Thess 5:18; Luke 17:17
 - **Spiritual Practice:** Thanksgiving; Examen
 - **Vice to Overcome:** Entitlement
+- **What Evil This Overcomes:** The evil of ingratitude and entitlement that blinds us to God's gifts and makes us resentful of our circumstances. Ingratitude breeds envy, covetousness, and the pride that claims we deserve better than what we have received. Gratitude conquers the evil that would make us bitter toward God and neighbor.
 - **Scriptural Anchor:** Luke 17:18
+
+**What Children Know:**
+Children express genuine gratitude for simple gifts and recognize when they've been blessed:
+- **Small gifts are wonderful** - Children are genuinely excited by simple presents and treats
+- **Thank you comes naturally** - Children want to hug and thank those who give them gifts
+- **Everything is a gift** - Children see toys, food, experiences as special rather than owed to them
+- **Sharing joy is important** - Children want to tell others about the good things they've received
+
+This childlike gratitude reflects our **proper relationship with God**: recognizing that **every good thing** comes from our **loving Father** who delights in blessing His children.
+
 - **Related Sacrament(s):** Sacrament of Holy Eucharist (as the ultimate act of thanksgiving)
 - **Spiritual Practice(s):** Thanksgiving prayer, Rosary (Joyful Mysteries - Visitation, Nativity)
 - **Related Works of the Church:** 7 Deadly Sins (Envy - as an obstacle to gratitude)
@@ -1072,7 +1151,7 @@ Fortitude enables us to:
 - **Vice to Overcome:** Rejection
 - **Scriptural Anchor:** Eph 2:19
 - **Related Sacrament(s):** Baptism
-- **Spiritual Practice(s):** Community Prayer
+- **Spiritual Practice(s):** Community Life
 - **Related Works of the Church:** Parish Life, 7 Deadly Sins (Pride)
 - **Relation to the Mass:** Gathering Rite/Assembly, Sign of Peace, Prayers of the Faithful, Reception of Holy Communion, Our Father, Creed, Entire Mass as a communal act
 
@@ -1152,7 +1231,7 @@ The sacraments teach us to see all of reality as charged with God's presence:
 - **Related Sacrament(s):** Sacrament of Holy Eucharist, Sacrament of Matrimony
 - **Spiritual Practice(s):** Community Life
 - **Related Works of the Church:** Liturgy (as a broader concept), Ecumenism, 10 Commandments
-- **Relation to the Mass:** Reception of Holy Communion, Entire Mass as communal action, Gathering Rite, Sign of Peace, Prayers of the Faithful, Our Father, Eucharistic Prayer (Epiclesis), Dismissal Rite
+- **Relation to the Mass:** True Humble Worship in a Sacred and Reverent Mass, Reception of Holy Communion, Entire Mass as communal action, Gathering Rite, Sign of Peace, Prayers of the Faithful, Our Father, Creed, Entire Mass as a communal act
 
 #### Chapter 42: The Perfect Love - A Synthesis and Call to Action
 
