@@ -17,7 +17,7 @@ indicated, create the chapter from scratch.
 - **Previous Chapter Reference:** 01
 - **Facet of Love:** The Problem of Evil
 - **Summary:** Confronts human-caused suffering; the "groaning" of creation (Romans 8:22, CCC 309).
-- **Relation to Justice/Mercy:** Context for J&M
+- **Relation to Justice/Mercy:** Context for Justice and Mercy
 - **Related Commandments:** Gen 4:1-16
 - **Spiritual Practice:** Awareness of suffering
 - **Vice to Overcome:** Indifference
@@ -27,7 +27,7 @@ indicated, create the chapter from scratch.
 - **Previous Chapter Reference:** 02
 - **Facet of Love:** The Universal Cry for Love
 - **Summary:** Explores the universal, innate human desire for love and belonging (1 Cor 13:2, CCC 27).
-- **Relation to Justice/Mercy:** Foundation for J&M
+- **Relation to Justice/Mercy:** Foundation for Justice and Mercy
 - **Related Commandments:** 1 Cor 13
 - **Spiritual Practice:** Gratitude for love
 - **Vice to Overcome:** Isolation
@@ -57,7 +57,7 @@ indicated, create the chapter from scratch.
 - **Previous Chapter Reference:** 13
 - **Facet of Love:** Defining Love: Traditional & Comprehensive
 - **Summary:** Introduces traditional views & the book's core definition (1 John 4:8,16, CCC 25).
-- **Relation to Justice/Mercy:** Synthesis of J&M in True Love
+- **Relation to Justice/Mercy:** Synthesis of Justice and Mercy in True Love
 - **Related Commandments:** 1 John 4:8,16
 - **Spiritual Practice:** Contemplating Divine Love
 - **Vice to Overcome:** Counterfeits
@@ -101,8 +101,10 @@ indicated, create the chapter from scratch.
 - **Spiritual Practice:** Examination of conscience; Confession
 - **Vice to Overcome:** Lying, deceit
 - **Scriptural Anchor:** John 18:37
-- **Related Sacrament/Spiritual Practice:** Sacrament of Reconciliation, Examination of Conscience, Spiritual Direction, 10 Commandments (esp. 8th commandment)
-- **Relation to the Mass:** Liturgy of the Word (proclamation of Truth), Creed (profession of Truth), Confiteor (acknowledging the truth of our sinfulness), Gospel Acclamation, Sanctus (proclaiming God's holiness), Doxology
+- **Related Sacrament(s):** Sacrament of Reconciliation
+- **Spiritual Practice(s):** Examination of Conscience, Spiritual Direction
+- **Related Works of the Church:** 10 Commandments (esp. 8th commandment), Councils, Dogmas, Doctrines, Catechism
+- **Relation to the Mass:** Liturgy of the Word (proclamation of Truth), Creed (profession of Truth)
 - **Related Saints:** St. Thomas Aquinas, St. Augustine, St. Edith Stein (Teresa Benedicta of the Cross)
 
 #### Chapter 7: Justice
@@ -113,7 +115,9 @@ indicated, create the chapter from scratch.
 - **Spiritual Practice:** Works of mercy; Advocacy
 - **Vice to Overcome:** Injustice
 - **Scriptural Anchor:** Micah 6:8
-- **Related Sacrament/Spiritual Practice:** Social Teachings of the Church, Works of Justice, 10 Commandments (esp. 5th-10th commandments), Examination of Conscience, Stations of the Cross (justice of God's plan)
+- **Related Sacrament(s):** Sacrament of Reconciliation
+- **Spiritual Practice(s):** Works of Justice, Examination of Conscience, Stations of the Cross (justice of God's plan)
+- **Related Works of the Church:** Social Teachings of the Church, 10 Commandments (esp. 5th-10th commandments)
 - **Relation to the Mass:** Prayers of the Faithful (Universal Prayer), Offertory (offering our commitment to justice), Liturgy of the Word (calls to justice), Dismissal Rite (sending forth to live justly), Our Father ('Thy kingdom come')
 - **Related Saints:** St. Thomas More, St. Oscar Romero, St. Katharine Drexel
 
@@ -125,7 +129,9 @@ indicated, create the chapter from scratch.
 - **Spiritual Practice:** Works of mercy; Forgiveness
 - **Vice to Overcome:** Vengeance
 - **Scriptural Anchor:** Luke 6:36
-- **Related Sacrament/Spiritual Practice:** Sacrament of Reconciliation, Sacrament of Anointing of the Sick, Corporal and Spiritual Works of Mercy, Divine Mercy Chaplet, Rosary (Sorrowful Mysteries)
+- **Related Sacrament(s):** Sacrament of Reconciliation, Sacrament of Anointing of the Sick
+- **Spiritual Practice(s):** Corporal and Spiritual Works of Mercy, Divine Mercy Chaplet, Rosary (Sorrowful Mysteries)
+- **Related Works of the Church:**
 - **Relation to the Mass:** Penitential Act (Confiteor, Kyrie Eleison), Agnus Dei (Lamb of God), Our Father ('Forgive us our trespasses...'), Eucharistic Prayer (petitions for mercy), Sign of Peace
 - **Related Saints:** St. Faustina Kowalska, St. Maria Goretti, St. John Vianney
 
@@ -137,7 +143,9 @@ indicated, create the chapter from scratch.
 - **Spiritual Practice:** Fasting; Voluntary acts of love
 - **Vice to Overcome:** Selfishness
 - **Scriptural Anchor:** Romans 12:1
-- **Related Sacrament/Spiritual Practice:** Sacrament of Holy Eucharist (as the ultimate sacrifice), Fasting, Almsgiving, Tithing, Self-denial, Stations of the Cross, Rosary (Sorrowful Mysteries)
+- **Related Sacrament(s):** Sacrament of Holy Eucharist (as the ultimate sacrifice)
+- **Spiritual Practice(s):** Fasting, Almsgiving, Tithing, Self-denial, Stations of the Cross, Rosary (Sorrowful Mysteries)
+- **Related Works of the Church:**
 - **Relation to the Mass:** The entire Mass as the re-presentation of Christ's sacrifice, Offertory (offering our gifts and selves), Eucharistic Prayer (esp. Consecration and Memorial Acclamation), Agnus Dei (Lamb of God), Reception of Holy Communion (receiving the sacrificed Lord)
 - **Related Saints:** St. Maximilian Kolbe, St. Isaac Jogues, St. Gianna Beretta Molla
 
@@ -156,7 +164,9 @@ indicated, create the chapter from scratch.
 - **Spiritual Practice:** Lectio Divina; Creed
 - **Vice to Overcome:** Doubt
 - **Scriptural Anchor:** Heb 11:1
-- **Related Sacrament/Spiritual Practice:** Sacrament of Baptism, Sacrament of Holy Eucharist, Sacrament of Confirmation, Creed (as a spiritual practice), Lectio Divina
+- **Related Sacrament(s):** Sacrament of Baptism, Sacrament of Holy Eucharist, Sacrament of Confirmation
+- **Spiritual Practice(s):** Creed (as a spiritual practice), Lectio Divina
+- **Related Works of the Church:**
 - **Relation to the Mass:** Creed (Profession of Faith), Liturgy of the Word, Mystery of Faith (Memorial Acclamation), The Great Amen, Reception of Holy Communion (saying 'Amen'), Gloria
 - **Related Saints:** St. Peter, St. Paul, St. Teresa of Ávila
 
@@ -168,7 +178,9 @@ indicated, create the chapter from scratch.
 - **Spiritual Practice:** Trustful prayer; Mercy chaplet
 - **Vice to Overcome:** Despair
 - **Scriptural Anchor:** Romans 5:5
-- **Related Sacrament/Spiritual Practice:** Prayer (especially petitions and prayers of trust), Divine Mercy Chaplet, Trust in Divine Providence, Rosary (Joyful Mysteries - Annunciation, Visitation, Presentation)
+- **Related Sacrament(s):** n/a
+- **Spiritual Practice(s):** Prayer (especially petitions and prayers of trust), Divine Mercy Chaplet, Trust in Divine Providence, Rosary (Joyful Mysteries - Annunciation, Visitation, Presentation)
+- **Related Works of the Church:**
 - **Relation to the Mass:** Our Father ('Thy kingdom come', 'deliver us from evil'), Eucharistic Prayer (looking forward to Christ's coming, 'as we await the blessed hope...'), Final Blessing & Dismissal, Prayers of the Faithful (petitions for the future)
 - **Related Saints:** St. Jude Thaddeus, St. Rita of Cascia, St. Monica
 
@@ -180,7 +192,9 @@ indicated, create the chapter from scratch.
 - **Spiritual Practice:** Litany of humility
 - **Vice to Overcome:** Pride
 - **Scriptural Anchor:** Luke 18:14
-- **Related Sacrament/Spiritual Practice:** Examination of Conscience, Sacrament of Reconciliation, Litany of Humility, 7 Deadly Sins (Pride), Rosary (Joyful Mysteries - Finding in the Temple)
+- **Related Sacrament(s):** Sacrament of Reconciliation
+- **Spiritual Practice(s):** Examination of Conscience, Litany of Humility, Rosary (Joyful Mysteries - Finding in the Temple)
+- **Related Works of the Church:** 7 Deadly Sins (Pride)
 - **Relation to the Mass:** Penitential Act (Confiteor, Kyrie Eleison), 'Lord, I am not worthy...', Agnus Dei, Kneeling posture, Washing of the Feet (Holy Thursday liturgy)
 - **Related Saints:** St. John the Baptist, St. Francis of Assisi, St. Thérèse of Lisieux
 
@@ -192,7 +206,9 @@ indicated, create the chapter from scratch.
 - **Spiritual Practice:** Reconciliation
 - **Vice to Overcome:** Grudges
 - **Scriptural Anchor:** Matt 6:14
-- **Related Sacrament/Spiritual Practice:** Sacrament of Reconciliation, Act of Contrition, Forgiving others (as in the Our Father), 7 Deadly Sins (Wrath - as an obstacle to forgiveness), Stations of the Cross (Christ's forgiveness from the Cross), Rosary (Sorrowful Mysteries)
+- **Related Sacrament(s):** Sacrament of Reconciliation
+- **Spiritual Practice(s):** Act of Contrition, Forgiving others (as in the Our Father), Stations of the Cross (Christ's forgiveness from the Cross), Rosary (Sorrowful Mysteries)
+- **Related Works of the Church:** 7 Deadly Sins (Wrath - as an obstacle to forgiveness)
 - **Relation to the Mass:** Our Father ('Forgive us our trespasses...'), Sign of Peace, Penitential Act (Confiteor, Kyrie Eleison), Agnus Dei (Lamb of God)
 - **Related Saints:** St. Maria Goretti, St. Stephen, St. Peter (after his denial)
 
@@ -204,7 +220,9 @@ indicated, create the chapter from scratch.
 - **Spiritual Practice:** Thanksgiving; Examen
 - **Vice to Overcome:** Entitlement
 - **Scriptural Anchor:** Luke 17:18
-- **Related Sacrament/Spiritual Practice:** Thanksgiving prayer, Sacrament of Holy Eucharist (as the ultimate act of thanksgiving), 7 Deadly Sins (Envy - as an obstacle to gratitude), Rosary (Joyful Mysteries - Visitation, Nativity)
+- **Related Sacrament(s):** Sacrament of Holy Eucharist (as the ultimate act of thanksgiving)
+- **Spiritual Practice(s):** Thanksgiving prayer, Rosary (Joyful Mysteries - Visitation, Nativity)
+- **Related Works of the Church:** 7 Deadly Sins (Envy - as an obstacle to gratitude)
 - **Relation to the Mass:** The entire Eucharistic Prayer (as an act of thanksgiving), Preface ('It is right and just... to give you thanks'), Gloria, Sanctus, Doxology, Dismissal ('Thanks be to God')
 - **Related Saints:** The Blessed Virgin Mary (Magnificat), St. Francis of Assisi (Canticle of the Sun), St. André Bessette
 
@@ -216,7 +234,9 @@ indicated, create the chapter from scratch.
 - **Spiritual Practice:** Rosary; Reconciliation
 - **Vice to Overcome:** Discord
 - **Scriptural Anchor:** Isaiah 32:17
-- **Related Sacrament/Spiritual Practice:** Sacrament of Reconciliation, Rosary, Adoration, Prayer for Peace (e.g., Prayer of St. Francis)
+- **Related Sacrament(s):** Sacrament of Reconciliation
+- **Spiritual Practice(s):** Rosary, Adoration, Prayer for Peace (e.g., Prayer of St. Francis)
+- **Related Works of the Church:**
 - **Relation to the Mass:** Agnus Dei (Lamb of God - 'grant us peace'), Sign of Peace, Dismissal Rite ('Go in peace...'), Kyrie Eleison
 - **Related Saints:** St. Francis of Assisi, St. Nicholas of Flüe, St. Rita of Cascia (as peacemaker)
 
@@ -240,7 +260,9 @@ indicated, create the chapter from scratch.
 - **Spiritual Practice:** Scripture study
 - **Vice to Overcome:** Folly
 - **Scriptural Anchor:** James 3:17
-- **Related Sacrament/Spiritual Practice:** Sacrament of Confirmation (Gift of Wisdom from the Holy Spirit), Lectio Divina, Spiritual Reading, Study of Catechism and Church Teachings, Prayer for Wisdom
+- **Related Sacrament(s):** Sacrament of Confirmation (Gift of Wisdom from the Holy Spirit)
+- **Spiritual Practice(s):** Lectio Divina, Spiritual Reading, Prayer for Wisdom
+- **Related Works of the Church:** Study of Catechism and Church Teachings
 - **Relation to the Mass:** Liturgy of the Word (Readings, Psalm, Gospel), Homily, Collect (Opening Prayer), Prayers of the Faithful (petitions for wisdom)
 - **Related Saints:** St. Thomas Aquinas, St. Catherine of Siena, King Solomon
 
@@ -252,7 +274,9 @@ indicated, create the chapter from scratch.
 - **Spiritual Practice:** Discernment
 - **Vice to Overcome:** Rashness
 - **Scriptural Anchor:** Prov 14:8
-- **Related Sacrament/Spiritual Practice:** Spiritual Direction, Discernment of Spirits, Examination of Conscience, Sacrament of Reconciliation (for clarity in discernment)
+- **Related Sacrament(s):** Sacrament of Reconciliation (for clarity in discernment)
+- **Spiritual Practice(s):** Spiritual Direction, Discernment of Spirits, Examination of Conscience
+- **Related Works of the Church:**
 - **Relation to the Mass:** Liturgy of the Word, Homily, Collect (Opening Prayer), Prayers of the Faithful (for right judgment), Penitential Act (Confiteor, Kyrie Eleison)
 - **Related Saints:** St. Ignatius of Loyola, St. Philip Neri, St. Teresa of Ávila
 
@@ -264,7 +288,9 @@ indicated, create the chapter from scratch.
 - **Spiritual Practice:** Fasting
 - **Vice to Overcome:** Gluttony
 - **Scriptural Anchor:** 1 Cor 9:25
-- **Related Sacrament/Spiritual Practice:** Fasting, Abstinence, Mortification, Sacrament of Penance (strengthening virtue)
+- **Related Sacrament(s):** Sacrament of Penance (strengthening virtue)
+- **Spiritual Practice(s):** Fasting, Abstinence, Mortification
+- **Related Works of the Church:**
 - **Relation to the Mass:** Eucharistic Fast (fasting before Communion), Penitential Act (Confiteor, Kyrie Eleison), 'Lord, I am not worthy...', Reverent silence and participation
 - **Related Saints:** St. John the Baptist, St. Catherine of Siena, St. Charles Borromeo
 
@@ -276,7 +302,9 @@ indicated, create the chapter from scratch.
 - **Spiritual Practice:** Personal rule
 - **Vice to Overcome:** Impulsiveness
 - **Scriptural Anchor:** Gal 5:22
-- **Related Sacrament/Spiritual Practice:** Spiritual Combat, Rule of Life, Examination of Conscience, Spiritual Direction, Prayer, Devotion to the Holy Spirit, Sacrament of Penance (for failures and strength)
+- **Related Sacrament(s):** Sacrament of Penance (for failures and strength)
+- **Spiritual Practice(s):** Spiritual Combat, Rule of Life, Examination of Conscience, Spiritual Direction, Prayer, Devotion to the Holy Spirit
+- **Related Works of the Church:**
 - **Relation to the Mass:** Eucharistic Fast, Penitential Act (Confiteor, Kyrie Eleison), Attentive participation and postures (maintaining focus), Reverent silence, 'Lord, I am not worthy...', Offertory (offering struggles and resolve), Reception of Holy Communion (with proper disposition)
 - **Related Saints:** St. Benedict of Nursia, St. Josemaría Escrivá, St. Catherine of Siena
 
@@ -288,7 +316,9 @@ indicated, create the chapter from scratch.
 - **Spiritual Practice:** Volunteering
 - **Vice to Overcome:** Apathy
 - **Scriptural Anchor:** John 13:15
-- **Related Sacrament/Spiritual Practice:** Sacrament of Holy Orders, Sacrament of Anointing of the Sick, Corporal Works of Mercy, Almsgiving, Stations of the Cross (Christ's service), Rosary (Luminous Mysteries - Washing of Feet)
+- **Related Sacrament(s):** Sacrament of Holy Orders, Sacrament of Anointing of the Sick
+- **Spiritual Practice(s):** Corporal Works of Mercy, Almsgiving, Stations of the Cross (Christ's service), Rosary (Luminous Mysteries - Washing of Feet)
+- **Related Works of the Church:**
 - **Relation to the Mass:** Dismissal Rite ('Go in peace, glorifying the Lord by your life' or 'Go and announce the Gospel of the Lord'), Washing of the Feet (Holy Thursday liturgy), Offertory (offering our lives in service), Prayers of the Faithful (for those who serve), The roles of liturgical ministers
 - **Related Saints:** St. Teresa of Calcutta (Mother Teresa), St. Vincent de Paul, St. Martin de Porres
 
@@ -300,7 +330,9 @@ indicated, create the chapter from scratch.
 - **Spiritual Practice:** Honesty practices
 - **Vice to Overcome:** Deceit
 - **Scriptural Anchor:** Prov 12:19
-- **Related Sacrament/Spiritual Practice:** Examination of Conscience, Sacrament of Reconciliation, 10 Commandments (8th Commandment - 'You shall not bear false witness')
+- **Related Sacrament(s):** Sacrament of Reconciliation
+- **Spiritual Practice(s):** Examination of Conscience
+- **Related Works of the Church:** 10 Commandments (8th Commandment - 'You shall not bear false witness')
 - **Relation to the Mass:** Creed (Profession of Faith), Penitential Act (Confiteor - acknowledging truth of sin), Liturgy of the Word (proclamation of God's Truth), 'Amen' responses
 - **Related Saints:** St. Thomas More, St. Athanasius, St. John the Baptist
 
@@ -312,7 +344,9 @@ indicated, create the chapter from scratch.
 - **Spiritual Practice:** Offering up pain
 - **Vice to Overcome:** Avoidance
 - **Scriptural Anchor:** 1 Peter 4:12-13
-- **Related Sacrament/Spiritual Practice:** Sacrament of Anointing of the Sick, Stations of the Cross, Rosary (Sorrowful Mysteries), Offering up suffering
+- **Related Sacrament(s):** Sacrament of Anointing of the Sick
+- **Spiritual Practice(s):** Stations of the Cross, Rosary (Sorrowful Mysteries), Offering up suffering
+- **Related Works of the Church:**
 - **Relation to the Mass:** Eucharistic Prayer (Institution Narrative, Anamnesis), Agnus Dei, Sign of the Cross, Crucifix, Reception of Holy Communion, Offertory (uniting our sufferings), Prayers of the Faithful (for the suffering), Kyrie Eleison
 - **Related Saints:** St. Thérèse of Lisieux, St. Padre Pio, St. Lidwina of Schiedam
 
@@ -324,7 +358,9 @@ indicated, create the chapter from scratch.
 - **Spiritual Practice:** Daily examen
 - **Vice to Overcome:** Stagnation
 - **Scriptural Anchor:** 2 Pet 3:18
-- **Related Sacrament/Spiritual Practice:** Spiritual Direction, Daily Prayer, Lectio Divina, Regular reception of the Sacraments (especially Reconciliation and Eucharist), Retreats
+- **Related Sacrament(s):** Regular reception of the Sacraments (especially Reconciliation and Eucharist)
+- **Spiritual Practice(s):** Spiritual Direction, Daily Prayer, Lectio Divina, Retreats
+- **Related Works of the Church:**
 - **Relation to the Mass:** Reception of Holy Communion, Liturgy of the Word, Homily, Eucharistic Prayer, Creed, Penitential Act (Kyrie Eleison), Final Blessing
 - **Related Saints:** St. Augustine, St. Ignatius of Loyola, St. Teresa of Ávila
 
@@ -353,7 +389,9 @@ indicated, create the chapter from scratch.
 - **Spiritual Practice:** Vows; Commitments
 - **Vice to Overcome:** Infidelity
 - **Scriptural Anchor:** Matt 25:21
-- **Related Sacrament/Spiritual Practice:** Matrimony, Holy Orders, Vows (religious life), Adoration
+- **Related Sacrament(s):** Matrimony, Holy Orders
+- **Spiritual Practice(s):** Vows (religious life), Adoration
+- **Related Works of the Church:**
 - **Relation to the Mass:** Eucharistic Prayer ('Do this in memory of me'), Creed, The Great Amen, Reception of Holy Communion, Renewal of Baptismal Promises (contextual), Regular Mass attendance (as an act of faithfulness)
 
 #### Chapter 25: Patience
@@ -364,7 +402,9 @@ indicated, create the chapter from scratch.
 - **Spiritual Practice:** Surrender
 - **Vice to Overcome:** Restlessness
 - **Scriptural Anchor:** James 5:8
-- **Related Sacrament/Spiritual Practice:** Prayer, Trust in God's timing, Bearing wrongs patiently, 7 Deadly Sins (Wrath)
+- **Related Sacrament(s):**
+- **Spiritual Practice(s):** Prayer, Trust in God's timing, Bearing wrongs patiently
+- **Related Works of the Church:** 7 Deadly Sins (Wrath)
 - **Relation to the Mass:** Liturgy of the Word (patient listening), Eucharistic Prayer (prayerful waiting), Agnus Dei, Kyrie Eleison, Liturgical silences, Distribution of Communion (waiting)
 
 #### Chapter 26: Kindness
@@ -375,7 +415,9 @@ indicated, create the chapter from scratch.
 - **Spiritual Practice:** Almsgiving
 - **Vice to Overcome:** Harshness
 - **Scriptural Anchor:** Eph 4:32
-- **Related Sacrament/Spiritual Practice:** Corporal Works of Mercy, Almsgiving, Acts of Charity, 7 Deadly Sins (Envy)
+- **Related Sacrament(s):** n/a
+- **Spiritual Practice(s):** Corporal Works of Mercy, Almsgiving, Acts of Charity
+- **Related Works of the Church:** 7 Deadly Sins (Envy)
 - **Relation to the Mass:** Sign of Peace, Prayers of the Faithful, Washing of the Feet (Holy Thursday liturgy), Our Father (forgiving disposition), Dismissal Rite
 
 #### Chapter 27: Gentleness
@@ -386,7 +428,9 @@ indicated, create the chapter from scratch.
 - **Spiritual Practice:** Mildness
 - **Vice to Overcome:** Aggression
 - **Scriptural Anchor:** Gal 6:1
-- **Related Sacrament/Spiritual Practice:** Prayer, cultivating inner peace, meekness, 7 Deadly Sins (Wrath)
+- **Related Sacrament(s):** n/a
+- **Spiritual Practice(s):** Prayer, cultivating inner peace, meekness
+- **Related Works of the Church:** 7 Deadly Sins (Wrath)
 - **Relation to the Mass:** Agnus Dei (Lamb of God), Sign of Peace, Washing of the Feet (Holy Thursday liturgy), Blessings, Prayers for peace and reconciliation
 
 #### Chapter 28: Generosity
@@ -397,7 +441,9 @@ indicated, create the chapter from scratch.
 - **Spiritual Practice:** Tithing; Charity
 - **Vice to Overcome:** Stinginess
 - **Scriptural Anchor:** 2 Cor 9:7
-- **Related Sacrament/Spiritual Practice:** Almsgiving, Tithing, Stewardship, 7 Deadly Sins (Greed)
+- **Related Sacrament(s):** n/a
+- **Spiritual Practice(s):** Almsgiving, Tithing, Stewardship
+- **Related Works of the Church:** 7 Deadly Sins (Greed)
 - **Relation to the Mass:** Collection/Offertory, Presentation of the Gifts, Eucharistic Prayer (Christ's self-offering), Prayers of the Faithful (for a spirit of generosity), Holy Communion (God's generosity)
 
 #### Chapter 29: Goodness
@@ -408,7 +454,9 @@ indicated, create the chapter from scratch.
 - **Spiritual Practice:** Acts of virtue
 - **Vice to Overcome:** Apathy
 - **Scriptural Anchor:** Psalm 23:6
-- **Related Sacrament/Spiritual Practice:** Moral life, living out virtues, good works, 10 Commandments
+- **Related Sacrament(s):** n/a
+- **Spiritual Practice(s):** Moral life, living out virtues, good works
+- **Related Works of the Church:** 10 Commandments
 - **Relation to the Mass:** Entire Mass as worship (highest good), Liturgy of the Word (instruction in goodness), Creed (professing God's goodness), Sanctus, Eucharistic Prayer (Epiclesis), Reception of Holy Communion, Dismissal Rite
 
 
@@ -429,7 +477,9 @@ indicated, create the chapter from scratch.
 - **Spiritual Practice:** Mercy Chaplet
 - **Vice to Overcome:** Fear
 - **Scriptural Anchor:** Heb 10:35
-- **Related Sacrament/Spiritual Practice:** Divine Mercy Chaplet, Trust in God's Mercy, 7 Deadly Sins (Despair)
+- **Related Sacrament(s):** n/a
+- **Spiritual Practice(s):** Divine Mercy Chaplet, Trust in God's Mercy
+- **Related Works of the Church:** 7 Deadly Sins (Despair)
 - **Relation to the Mass:** Creed, Prayers of the Faithful, Our Father, Reception of Holy Communion, "Lord, I am not worthy...", Gloria, Dismissal Rite
 
 #### Chapter 31: Joy
@@ -440,7 +490,9 @@ indicated, create the chapter from scratch.
 - **Spiritual Practice:** Praise; Worship
 - **Vice to Overcome:** Cynicism
 - **Scriptural Anchor:** John 16:22
-- **Related Sacrament/Spiritual Practice:** Liturgy, Praise and Worship, Feasts of the Church, 7 Deadly Sins (Despair)
+- **Related Sacrament(s):** n/a
+- **Spiritual Practice(s):** Praise and Worship
+- **Related Works of the Church:** Liturgy, Feasts of the Church, 7 Deadly Sins (Despair)
 - **Relation to the Mass:** Gloria, Alleluia (Gospel Acclamation), Sanctus, Eucharistic Prayer (Doxology, Great Amen), Dismissal Rite, Responsorial Psalm (if joyful), Gathering/Recessional Hymns, Entire celebration (especially Feasts/Solemnities)
 
 #### Chapter 32: Belonging
@@ -451,7 +503,9 @@ indicated, create the chapter from scratch.
 - **Spiritual Practice:** Baptism; Parish life
 - **Vice to Overcome:** Rejection
 - **Scriptural Anchor:** Eph 2:19
-- **Related Sacrament/Spiritual Practice:** Baptism, Parish Life, Community Prayer, 7 Deadly Sins (Pride)
+- **Related Sacrament(s):** Baptism
+- **Spiritual Practice(s):** Community Prayer
+- **Related Works of the Church:** Parish Life, 7 Deadly Sins (Pride)
 - **Relation to the Mass:** Gathering Rite/Assembly, Sign of Peace, Prayers of the Faithful, Reception of Holy Communion, Our Father, Creed, Entire Mass as a communal act
 
 #### Chapter 33: Intimacy
@@ -462,7 +516,9 @@ indicated, create the chapter from scratch.
 - **Spiritual Practice:** Adoration; Silence
 - **Vice to Overcome:** Alienation
 - **Scriptural Anchor:** John 15:15
-- **Related Sacrament/Spiritual Practice:** Eucharist (as a sacrament), Adoration, Mental Prayer, Spiritual Direction
+- **Related Sacrament(s):** Sacrament of Holy Eucharist
+- **Spiritual Practice(s):** Adoration, Mental Prayer, Spiritual Direction
+- **Related Works of the Church:**
 - **Relation to the Mass:** Reception of Holy Communion, Eucharistic Prayer (Consecration), Liturgy of the Word (God speaking to us), Liturgical Silence (for personal prayer), "Lord, I am not worthy..."
 
 #### Chapter 34: Communion
@@ -470,9 +526,11 @@ indicated, create the chapter from scratch.
 - **Facet of Love:** Communion
 - **Relation to Justice/Mercy:** Both — total union in truth and love
 - **Related Commandments:** Luke 22:19; John 13:34
-- **Spiritual Practice:** Eucharist
+- **Spiritual Practice:** Prayer
 - **Vice to Overcome:** Division
 - **Scriptural Anchor:** John 17:21
-- **Related Sacrament/Spiritual Practice:** Eucharist (as a sacrament), Marriage, Liturgy (as a broader concept), Community Life, Ecumenism, 10 Commandments
+- **Related Sacrament(s):** Sacrament of Holy Eucharist, Sacrament of Matrimony
+- **Spiritual Practice(s):** Community Life
+- **Related Works of the Church:** Liturgy (as a broader concept), Ecumenism, 10 Commandments
 - **Relation to the Mass:** Reception of Holy Communion, Entire Mass as communal action, Gathering Rite, Sign of Peace, Prayers of the Faithful, Our Father, Eucharistic Prayer (Epiclesis, Institution Narrative)
 
