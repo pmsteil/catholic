@@ -483,7 +483,7 @@ When these three work in harmony, we experience true freedom—not the slavery o
 **Relation to the Mass:** The entire Mass as embodied worship—kneeling, standing, speaking, singing, receiving—engaging our complete human nature in worship
 **Related Saints:** St. Thomas Aquinas (integration of faith and reason), St. Francis of Assisi (embodied spirituality), St. Teresa of Ávila (mystical integration)
 
-#### Chapter 12: Covenant Love - The Foundation of Authentic Relationships
+#### Chapter 13: Covenant Love - The Foundation of Authentic Relationships
 - **Previous Chapter Reference:** —
 - **Facet of Love:** Covenant Love - The Sacred Bond of Commitment
 - **Summary:** Explores how authentic love is always covenant love—a sacred, binding commitment that creates permanent relationships ordered toward the good of others. This chapter connects the Old and New Covenants to show how God's covenant love is the model for all human relationships, especially marriage and family, which exist primarily for the love and protection of children.
@@ -585,7 +585,7 @@ This childlike understanding reflects God's design for covenant relationships: *
 **Related Works of the Church:** Parish Life, 7 Deadly Sins (Pride)
 **Relation to the Mass:** Gathering Rite/Assembly, Sign of Peace, Prayers of the Faithful, Reception of Holy Communion, Our Father, Creed, Entire Mass as a communal act
 
-#### Chapter 13: Chastity
+#### Chapter 14: Chastity
 - **Previous Chapter Reference:** —
 - **Facet of Love:** Chastity - Integrated Sexuality within Love
 - **Summary:** Explores chastity as the proper integration of human sexuality within the context of authentic love and one's state in life. Chastity is not the suppression of sexuality but its proper ordering toward the good of persons and relationships. For married couples, chastity means faithful, fruitful love; for the unmarried, it means preparation for marriage or religious life; for religious, it means celibate love for the Kingdom.
@@ -629,7 +629,7 @@ Chastity is essential for covenant love because:
 **Relation to the Mass:** Reverent worship (chaste love of God), Proper reception of Communion (spiritual chastity), Nuptial Mass (celebration of married chastity)
 **Related Saints:** St. Maria Goretti, St. Agnes, St. John Vianney, St. Josephine Bakhita, St. Thomas Aquinas
 
-#### Chapter 14: Obedience
+#### Chapter 15: Obedience
 - **Previous Chapter Reference:** —
 - **Facet of Love:** Obedience - Submission of Will in Love
 - **Summary:** Explores obedience as the loving submission of our will to legitimate authority, ultimately to God's will. True obedience is not servile compliance but the free gift of our will in love, recognizing that authentic authority serves the good of persons. Obedience is essential for covenant relationships, as it enables us to keep our promises even when our feelings change.
@@ -680,7 +680,7 @@ Obedience is essential for covenant love because:
 **Relation to the Mass:** "Lord, I am not worthy" (humble submission), Creed (obedience to Church teaching), "Thy will be done" (Our Father)
 **Related Saints:** The Blessed Virgin Mary (perfect obedience), St. Joseph (obedient foster father), St. Ignatius of Loyola (religious obedience), St. Thomas More (obedience to conscience)
 
-#### Chapter 15: Faith
+#### Chapter 16: Faith
 - **Previous Chapter Reference:** 19
 - **Facet of Love:** Faith
 - **Relation to Justice/Mercy:** Justice (toward God) — recognizing the Creator
@@ -707,7 +707,7 @@ Children demonstrate the kind of faith that Christ calls us to have - simple, tr
 
 This childlike faith is what Jesus praised: **"Let the little children come to me, and do not hinder them, for the kingdom of heaven belongs to such as these"** (Matthew 19:14). Adults must return to this **trusting simplicity** that believes God's word without demanding that everything be proven or fully understood first.
 
-#### Chapter 16: Hope
+#### Chapter 17: Hope
 - **Previous Chapter Reference:** 20
 - **Facet of Love:** Hope
 - **Relation to Justice/Mercy:** Mercy — trusting God's promise
@@ -733,7 +733,7 @@ This childlike hope reflects our **original trust in God's goodness**: believing
 - **Relation to the Mass:** Our Father ('Thy kingdom come', 'deliver us from evil'), Eucharistic Prayer (looking forward to Christ's coming, 'as we await the blessed hope...'), Final Blessing & Dismissal, Prayers of the Faithful (petitions for the future)
 - **Related Saints:** St. Jude Thaddeus, St. Rita of Cascia, St. Monica
 
-#### Chapter 17: Humility
+#### Chapter 18: Humility
 - **Previous Chapter Reference:** 30
 - **Facet of Love:** Humility
 - **Relation to Justice/Mercy:** Justice — knowing one's place
@@ -764,7 +764,7 @@ This childlike humility reflects our **true relationship with God**: recognizing
 - **Relation to the Mass:** Liturgy of the Word (proclamation of Truth), Creed (profession of Truth), Submission to liturgical authority
 - **Related Saints:** St. Thomas Aquinas, St. Augustine, St. Edith Stein (Teresa Benedicta of the Cross), St. Thomas More, St. John Fisher
 
-#### Chapter 18: Forgiveness
+#### Chapter 19: Forgiveness
 - **Previous Chapter Reference:** _
 - **Facet of Love:** Forgiveness
 - **Relation to Justice/Mercy:** Mercy — pardoning without merit
@@ -790,7 +790,7 @@ This childlike forgiveness reflects **God's mercy toward us**: offering **comple
 - **Relation to the Mass:** Our Father ('Forgive us our trespasses...'), Sign of Peace, Penitential Act (Confiteor, Kyrie Eleison), Agnus Dei (Lamb of God)
 - **Related Saints:** St. Maria Goretti, St. Stephen, St. Peter (after his denial)
 
-#### Chapter 19: Gratitude
+#### Chapter 20: Gratitude
 - **Previous Chapter Reference:** 38
 - **Facet of Love:** Gratitude
 - **Relation to Justice/Mercy:** Justice (toward God) — giving thanks
@@ -815,7 +815,7 @@ This childlike gratitude reflects our **proper relationship with God**: recogniz
 - **Relation to the Mass:** The entire Eucharistic Prayer (as an act of thanksgiving), Preface ('It is right and just... to give you thanks'), Gloria, Sanctus, Doxology, Dismissal ('Thanks be to God')
 - **Related Saints:** The Blessed Virgin Mary (Magnificat), St. Francis of Assisi (Canticle of the Sun), St. André Bessette
 
-#### Chapter 20: Peace
+#### Chapter 21: Peace
 - **Previous Chapter Reference:** 30
 - **Facet of Love:** Peace
 - **Relation to Justice/Mercy:** Justice — fruit of right relationships
@@ -841,7 +841,7 @@ This childlike gratitude reflects our **proper relationship with God**: recogniz
 > for the present and for the future."
 > — 1 Timothy 4:7–8
 
-#### Chapter 21: Wisdom
+#### Chapter 22: Wisdom
 - **Previous Chapter Reference:** 45
 - **Facet of Love:** Wisdom
 - **Relation to Justice/Mercy:** Both — guides just and merciful action
@@ -856,7 +856,7 @@ This childlike gratitude reflects our **proper relationship with God**: recogniz
 - **Relation to the Mass:** Liturgy of the Word (Readings, Psalm, Gospel), Homily, Collect (Opening Prayer), Prayers of the Faithful (petitions for wisdom)
 - **Related Saints:** St. Thomas Aquinas, St. Catherine of Siena, King Solomon
 
-#### Chapter 22: Prudence
+#### Chapter 23: Prudence
 - **Previous Chapter Reference:** 26
 - **Facet of Love:** Prudence
 - **Relation to Justice/Mercy:** Justice — right reason in action
@@ -871,7 +871,7 @@ This childlike gratitude reflects our **proper relationship with God**: recogniz
 - **Relation to the Mass:** Liturgy of the Word, Homily, Collect (Opening Prayer), Prayers of the Faithful (for right judgment), Penitential Act (Confiteor, Kyrie Eleison)
 - **Related Saints:** St. Ignatius of Loyola, St. Philip Neri, St. Teresa of Ávila
 
-#### Chapter 23: Temperance
+#### Chapter 24: Temperance
 - **Previous Chapter Reference:** 28
 - **Facet of Love:** Temperance - Harmonious Integration of Body, Mind, and Soul
 - **Summary:** Explores temperance not as the suppression of bodily desires, but as the harmonious ordering of our entire human nature—body, mind, and soul—so that each serves its proper role in love. True temperance integrates rather than divides, bringing all aspects of our humanity into proper relationship with God and neighbor.
@@ -904,7 +904,7 @@ When these three work in harmony, we experience true freedom—not the slavery o
 **Relation to the Mass:** Eucharistic Fast (preparing the whole person), reverent postures (body), attentive listening (mind), prayerful participation (soul)
 **Related Saints:** St. John the Baptist (integrated asceticism), St. Catherine of Siena (mystical temperance), St. Charles Borromeo (pastoral temperance)
 
-#### Chapter 24: Fortitude
+#### Chapter 25: Fortitude
 - **Previous Chapter Reference:** —
 - **Facet of Love:** Fortitude - Courage in Love
 - **Summary:** Explores fortitude as the courage to do what love demands, even when it is difficult, dangerous, or costly. True fortitude is not mere physical bravery but the spiritual strength to persevere in love when faced with opposition, suffering, or the temptation to give up. It is the virtue that enables us to stand firm in truth and justice, even unto death.
@@ -938,7 +938,7 @@ Fortitude enables us to:
 **Relation to the Mass:** Eucharistic Prayer (Christ's courage in sacrifice), Stations of the Cross, Prayers for perseverance, Reception of Holy Communion (strength for the journey)
 **Related Saints:** St. Joan of Arc, St. Thomas More, St. Maximilian Kolbe, St. Perpetua and Felicity, St. Stephen (first martyr)
 
-#### Chapter 25: Self-Control
+#### Chapter 26: Self-Control
 - **Previous Chapter Reference:** 40
 - **Facet of Love:** Self-Control
 - **Relation to Justice/Mercy:** Justice — governs internal desires
@@ -952,7 +952,7 @@ Fortitude enables us to:
 - **Relation to the Mass:** Eucharistic Fast, Penitential Act (Confiteor, Kyrie Eleison), Attentive participation and postures (maintaining focus), Reverent silence, 'Lord, I am not worthy...', Offertory (offering struggles and resolve), Reception of Holy Communion (with proper disposition)
 - **Related Saints:** St. Benedict of Nursia, St. Josemaría Escrivá, St. Catherine of Siena
 
-#### Chapter 26: Service
+#### Chapter 27: Service
 - **Previous Chapter Reference:** 36
 - **Facet of Love:** Service
 - **Relation to Justice/Mercy:** Mercy — placing others first
@@ -967,7 +967,7 @@ Fortitude enables us to:
 - **Relation to the Mass:** Dismissal Rite ('Go in peace, glorifying the Lord by your life' or 'Go and announce the Gospel of the Lord'), Washing of the Feet (Holy Thursday liturgy), Offertory (offering our lives in service), Prayers of the Faithful (for those who serve), The roles of liturgical ministers
 - **Related Saints:** St. Teresa of Calcutta (Mother Teresa), St. Vincent de Paul, St. Martin de Porres
 
-#### Chapter 27: Truthfulness
+#### Chapter 28: Truthfulness
 - **Previous Chapter Reference:** 39
 - **Facet of Love:** Truthfulness
 - **Relation to Justice/Mercy:** Justice — upright speech and conduct
@@ -982,7 +982,7 @@ Fortitude enables us to:
 - **Relation to the Mass:** Creed (Profession of Faith), Penitential Act (Confiteor - acknowledging truth of sin), Liturgy of the Word (proclamation of God's Truth), 'Amen' responses
 - **Related Saints:** St. Thomas More, St. Athanasius, St. John the Baptist
 
-#### Chapter 28: Suffering
+#### Chapter 29: Suffering
 - **Previous Chapter Reference:** 44
 - **Facet of Love:** Suffering
 - **Relation to Justice/Mercy:** Mercy — redemptive participation in love
@@ -997,7 +997,7 @@ Fortitude enables us to:
 - **Relation to the Mass:** Eucharistic Prayer (Institution Narrative, Anamnesis), Agnus Dei, Sign of the Cross, Crucifix, Reception of Holy Communion, Offertory (uniting our sufferings), Prayers of the Faithful (for the suffering), Kyrie Eleison
 - **Related Saints:** St. Thérèse of Lisieux, St. Padre Pio, St. Lidwina of Schiedam
 
-#### Chapter 29: Growth
+#### Chapter 30: Growth
 - **Previous Chapter Reference:** 50
 - **Facet of Love:** Growth
 - **Relation to Justice/Mercy:** n/a — inner transformation
@@ -1028,7 +1028,7 @@ Fortitude enables us to:
 > — Galatians 5:22–23
 
 
-#### Chapter 30: Faithfulness
+#### Chapter 31: Faithfulness
 - **Previous Chapter Reference:** 48
 - **Facet of Love:** Faithfulness
 - **Relation to Justice/Mercy:** Justice — honoring covenants
@@ -1041,7 +1041,7 @@ Fortitude enables us to:
 - **Related Works of the Church:**
 - **Relation to the Mass:** Eucharistic Prayer ('Do this in memory of me'), Creed, The Great Amen, Reception of Holy Communion, Renewal of Baptismal Promises (contextual), Regular Mass attendance (as an act of faithfulness)
 
-#### Chapter 31: Patience
+#### Chapter 32: Patience
 - **Previous Chapter Reference:** 32,45
 - **Facet of Love:** Patience
 - **Relation to Justice/Mercy:** Mercy — enduring others' faults
@@ -1054,7 +1054,7 @@ Fortitude enables us to:
 - **Related Works of the Church:** 7 Deadly Sins (Wrath)
 - **Relation to the Mass:** Liturgy of the Word (patient listening), Eucharistic Prayer (prayerful waiting), Agnus Dei, Kyrie Eleison, Liturgical silences, Distribution of Communion (waiting)
 
-#### Chapter 32: Kindness
+#### Chapter 33: Kindness
 - **Previous Chapter Reference:** 33
 - **Facet of Love:** Kindness
 - **Relation to Justice/Mercy:** Mercy — gentle goodwill
@@ -1067,7 +1067,7 @@ Fortitude enables us to:
 - **Related Works of the Church:** 7 Deadly Sins (Envy)
 - **Relation to the Mass:** Sign of Peace, Prayers of the Faithful, Washing of the Feet (Holy Thursday liturgy), Our Father (forgiving disposition), Dismissal Rite
 
-#### Chapter 33: Gentleness
+#### Chapter 34: Gentleness
 - **Previous Chapter Reference:** _
 - **Facet of Love:** Gentleness
 - **Relation to Justice/Mercy:** Mercy — tender strength
@@ -1080,7 +1080,7 @@ Fortitude enables us to:
 - **Related Works of the Church:** 7 Deadly Sins (Wrath)
 - **Relation to the Mass:** Agnus Dei (Lamb of God), Sign of Peace, Washing of the Feet (Holy Thursday liturgy), Blessings, Prayers for peace and reconciliation
 
-#### Chapter 34: Generosity
+#### Chapter 35: Generosity
 - **Previous Chapter Reference:** 31
 - **Facet of Love:** Generosity
 - **Relation to Justice/Mercy:** Mercy — openhanded love
@@ -1093,7 +1093,7 @@ Fortitude enables us to:
 - **Related Works of the Church:** 7 Deadly Sins (Greed)
 - **Relation to the Mass:** Collection/Offertory, Presentation of the Gifts, Eucharistic Prayer (Christ's self-offering), Prayers of the Faithful (for a spirit of generosity), Holy Communion (God's generosity)
 
-#### Chapter 35: Goodness
+#### Chapter 36: Goodness
 - **Previous Chapter Reference:** 47
 - **Facet of Love:** Goodness
 - **Relation to Justice/Mercy:** Both — doing what is right
@@ -1106,17 +1106,7 @@ Fortitude enables us to:
 - **Related Works of the Church:** 10 Commandments
 - **Relation to the Mass:** Entire Mass as worship (highest good), Liturgy of the Word (instruction in goodness), Creed (professing God's goodness), Sanctus, Eucharistic Prayer (Epiclesis), Reception of Holy Communion, Dismissal Rite
 
-
----
-
-## Part 5: Communion — Love's Sacred Fulfillment
-
-*What love longs for and ultimately becomes*
-
-> "That they may all be one, as you, Father, are in me and I in you..."
-> — John 17:21
-
-#### Chapter 36: Confidence
+#### Chapter 37: Confidence
 - **Previous Chapter Reference:** —
 - **Facet of Love:** Confidence
 - **Relation to Justice/Mercy:** Mercy — trusting in divine love
@@ -1129,7 +1119,7 @@ Fortitude enables us to:
 - **Related Works of the Church:** 7 Deadly Sins (Despair)
 - **Relation to the Mass:** Creed, Prayers of the Faithful, Our Father, Reception of Holy Communion, "Lord, I am not worthy...", Gloria, Dismissal Rite
 
-#### Chapter 37: Joy
+#### Chapter 38: Joy
 - **Previous Chapter Reference:** 43
 - **Facet of Love:** Joy
 - **Relation to Justice/Mercy:** n/a — emotional fruit of union
@@ -1142,7 +1132,7 @@ Fortitude enables us to:
 - **Related Works of the Church:** Liturgy, Feasts of the Church, 7 Deadly Sins (Despair)
 - **Relation to the Mass:** Gloria, Alleluia (Gospel Acclamation), Sanctus, Eucharistic Prayer (Doxology, Great Amen), Dismissal Rite, Responsorial Psalm (if joyful), Gathering/Recessional Hymns, Entire celebration (especially Feasts/Solemnities)
 
-#### Chapter 38: Belonging
+#### Chapter 39: Belonging
 - **Previous Chapter Reference:** —
 - **Facet of Love:** Belonging
 - **Relation to Justice/Mercy:** Mercy — being claimed by God
@@ -1155,7 +1145,7 @@ Fortitude enables us to:
 - **Related Works of the Church:** Parish Life, 7 Deadly Sins (Pride)
 - **Relation to the Mass:** Gathering Rite/Assembly, Sign of Peace, Prayers of the Faithful, Reception of Holy Communion, Our Father, Creed, Entire Mass as a communal act
 
-#### Chapter 39: Intimacy
+#### Chapter 40: Intimacy
 - **Previous Chapter Reference:** —
 - **Facet of Love:** Intimacy
 - **Relation to Justice/Mercy:** Mercy — sharing inner life
@@ -1168,7 +1158,7 @@ Fortitude enables us to:
 - **Related Works of the Church:**
 - **Relation to the Mass:** Reception of Holy Communion, Eucharistic Prayer (Consecration), Liturgy of the Word (God speaking to us), Liturgical Silence (for personal prayer), "Lord, I am not worthy..."
 
-#### Chapter 40: The Sacramental Ordering of Love
+#### Chapter 41: The Sacramental Ordering of Love
 - **Previous Chapter Reference:** —
 - **Facet of Love:** Sacramental Grace - God's Response to the Problem of Evil
 - **Summary:** Explores how the Mass and the seven sacraments are God's concrete response to the problem of evil, providing the grace necessary to order our entire lives toward authentic love. The sacraments are not merely rituals but God's way of healing the wounds of sin and empowering us to live the love described throughout this book. Each sacrament addresses specific forms of evil and provides specific graces for love.
@@ -1220,7 +1210,7 @@ The sacraments teach us to see all of reality as charged with God's presence:
 **Relation to the Mass:** The entire Mass as the perfect ordering of life toward love, from gathering to dismissal
 **Related Saints:** St. Pius X (frequent Communion), St. Jean Vianney (sacramental ministry), St. Teresa of Calcutta (Eucharistic love), St. Thérèse of Lisieux (sacramental spirituality)
 
-#### Chapter 41: Communion
+#### Chapter 42: Communion
 - **Previous Chapter Reference:** —
 - **Facet of Love:** Communion
 - **Relation to Justice/Mercy:** Both — total union in truth and love
@@ -1233,7 +1223,7 @@ The sacraments teach us to see all of reality as charged with God's presence:
 - **Related Works of the Church:** Liturgy (as a broader concept), Ecumenism, 10 Commandments
 - **Relation to the Mass:** True Humble Worship in a Sacred and Reverent Mass, Reception of Holy Communion, Entire Mass as communal action, Gathering Rite, Sign of Peace, Prayers of the Faithful, Our Father, Creed, Entire Mass as a communal act
 
-#### Chapter 42: The Perfect Love - A Synthesis and Call to Action
+#### Chapter 43: The Perfect Love - A Synthesis and Call to Action
 
 **"Perfect love casts out fear."** — 1 John 4:18
 
