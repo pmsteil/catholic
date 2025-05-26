@@ -88,7 +88,45 @@ This is why perfect love—integrating all these facets—is the complete answer
 - **What Evil This Overcomes:** The evil of false or incomplete definitions of love that lead to confusion, misdirection, and the pursuit of false forms of love. This chapter establishes a clear understanding of perfect love as the integration of justice and mercy.
 - **Scriptural Anchor:** 1 John 4:8,16
 
-#### Chapter 6: The Path Forward - How Love Unfolds
+#### Chapter 6: Counterfeit Love: What Love Is Not
+- **Previous Chapter Reference:** —
+- **Facet of Love:** Counterfeit Love: What Love Is Not
+- **Summary:** Systematically refutes false and incomplete definitions of love that lead souls astray. Addresses "faith alone" Christianity that separates faith from love, marxism that reduces love to class struggle, wokeism that confuses love with affirmation of sin, sentimentalism that reduces love to feelings, and other counterfeits that lack the integration of truth, justice, mercy, and sacrifice.
+- **Relation to Justice/Mercy:** Justice demands we reject false teachings; Mercy calls us to correct error with truth
+- **Related Commandments:** Matt 7:15-20 ("By their fruits you will know them"); 1 John 4:1 ("Test the spirits")
+- **Spiritual Practice:** Discernment of spirits; Study of authentic Catholic teaching
+- **Vice to Overcome:** Spiritual deception; False compassion; Sentimental love
+- **What Evil This Overcomes:** The evil of spiritual deception that leads souls away from authentic love toward counterfeits that ultimately destroy rather than heal. False definitions of love enable sin by calling evil good and good evil. This chapter protects against the evil of being led astray by false teachers and ideologies.
+- **Scriptural Anchor:** 1 John 4:1 ("Beloved, do not trust every spirit but test the spirits to see whether they belong to God")
+
+**Major Counterfeits Addressed:**
+
+1. **"Faith Alone" Christianity:** Attempts to separate faith from love, making salvation a mere intellectual assent rather than the complete transformation of the heart. This contradicts the Council of Trent's teaching that faith, hope, and love are inseparable.
+
+2. **Marxist "Love":** Reduces love to class struggle and material redistribution, denying the spiritual dimension and promoting hatred of enemies rather than their conversion.
+
+3. **Woke "Love":** Confuses love with affirmation of sin, calling tolerance of evil "compassion" and rejecting the truth that love sometimes requires correction and boundaries.
+
+4. **Sentimental Love:** Reduces love to feelings and emotions, lacking the commitment, sacrifice, and truth necessary for authentic love.
+
+5. **Utilitarian Love:** Treats people as means to an end rather than as ends in themselves, lacking true respect for human dignity.
+
+6. **Romantic Idolatry:** Makes romantic love the highest form of love, often leading to the worship of created beings rather than the Creator.
+
+**Why These Counterfeits Fail:**
+All counterfeit forms of love fail because they lack the complete integration of truth, justice, mercy, and sacrifice. They either:
+- Reject truth (relativism, wokeism)
+- Ignore justice (sentimentalism, false mercy)
+- Lack mercy (legalism, harsh fundamentalism)
+- Avoid sacrifice (self-serving "love")
+
+**Related Sacrament(s):** Sacrament of Confirmation (for discernment and courage to reject falsehood)
+**Spiritual Practice(s):** Study of the Catechism, Spiritual Direction, Examination of Conscience, Prayer for Wisdom
+**Related Works of the Church:** Council of Trent, Catechism of the Catholic Church, Papal Encyclicals on Social Teaching
+**Relation to the Mass:** Creed (profession of true faith), Liturgy of the Word (hearing authentic teaching), Prayers of the Faithful (for protection from error)
+**Related Saints:** St. Athanasius (defender of orthodoxy), St. Thomas More (died for truth), St. John of the Cross (authentic mysticism vs. false spirituality)
+
+#### Chapter 7: The Path Forward - How Love Unfolds
 - **Previous Chapter Reference:** —
 - **Facet of Love:** The Path Forward - How Love Unfolds
 - **Summary:** Explains the structure of the remaining book and introduces the Saints as our covenant family who inspire and teach us how to live authentic love.
@@ -134,7 +172,7 @@ As we proceed, let each Saint's example remind us that we are not alone in this 
 > He replied to him, "You have answered correctly; do this and you will live."
 > - Luke 10:25-28
 
-#### Chapter 7: Truth
+#### Chapter 8: Truth
 - **Previous Chapter Reference:** 21
 - **Facet of Love:** Truth
 - **Relation to Justice/Mercy:** Justice — foundation of justice
@@ -149,7 +187,7 @@ As we proceed, let each Saint's example remind us that we are not alone in this 
 - **Relation to the Mass:** Liturgy of the Word (proclamation of Truth), Creed (profession of Truth)
 - **Related Saints:** St. Thomas Aquinas, St. Augustine, St. Edith Stein (Teresa Benedicta of the Cross)
 
-#### Chapter 8: Justice
+#### Chapter 9: Justice
 - **Previous Chapter Reference:** 22
 - **Facet of Love:** Justice
 - **Relation to Justice/Mercy:** Justice — giving each their due
@@ -164,14 +202,14 @@ As we proceed, let each Saint's example remind us that we are not alone in this 
 - **Relation to the Mass:** Prayers of the Faithful (Universal Prayer), Offertory (offering our commitment to justice), Liturgy of the Word (calls to justice), Dismissal Rite (sending forth to live justly), Our Father ('Thy kingdom come')
 - **Related Saints:** St. Thomas More, St. Oscar Romero, St. Katharine Drexel
 
-#### Chapter 9: Mercy
+#### Chapter 10: Mercy
 - **Previous Chapter Reference:** 23
 - **Facet of Love:** Mercy
 - **Relation to Justice/Mercy:** Mercy — going beyond what is due
 - **Related Commandments:** Luke 6:36; Matt 18:22
 - **Spiritual Practice:** Works of mercy; Forgiveness
 - **Vice to Overcome:** Vengeance
-- **What Evil This Overcomes:** The evil of hardness of heart, cruelty, and the cycle of retribution that perpetuates suffering. Mercy breaks the chains of vengeance that bind both victim and perpetrator in endless cycles of evil. It conquers the evil of despair by offering hope even to the worst sinner.
+- **What Evil This Overcomes:** The evil of hardness of heart, cruelty, and the cycle of retribution that perpetuates suffering. Mercy breaks the chains of vengeance that bind both victim and perpetrator in endless cycles of evil. It conquers the evil that treats people as less than human.
 - **Scriptural Anchor:** Luke 6:36
 - **Related Sacrament(s):** Sacrament of Reconciliation, Sacrament of Anointing of the Sick
 - **Spiritual Practice(s):** Corporal and Spiritual Works of Mercy, Divine Mercy Chaplet, Rosary (Sorrowful Mysteries)
@@ -179,7 +217,7 @@ As we proceed, let each Saint's example remind us that we are not alone in this 
 - **Relation to the Mass:** Penitential Act (Confiteor, Kyrie Eleison), Agnus Dei (Lamb of God), Our Father ('Forgive us our trespasses...'), Eucharistic Prayer (petitions for mercy), Sign of Peace
 - **Related Saints:** St. Faustina Kowalska, St. Maria Goretti, St. John Vianney
 
-#### Chapter 10: Sacrifice
+#### Chapter 11: Sacrifice
 - **Previous Chapter Reference:** 24
 - **Facet of Love:** Sacrifice
 - **Relation to Justice/Mercy:** Both — justice + mercy united in love
@@ -194,7 +232,7 @@ As we proceed, let each Saint's example remind us that we are not alone in this 
 - **Relation to the Mass:** The entire Mass as the re-presentation of Christ's sacrifice, Offertory (offering our gifts and selves), Eucharistic Prayer (esp. Consecration and Memorial Acclamation), Agnus Dei (Lamb of God), Reception of Holy Communion (receiving the sacrificed Lord)
 - **Related Saints:** St. Maximilian Kolbe, St. Isaac Jogues, St. Gianna Beretta Molla
 
-#### Chapter 11: Unity - The Integration of Body, Mind, and Soul
+#### Chapter 12: Unity - The Integration of Body, Mind, and Soul
 - **Previous Chapter Reference:** —
 - **Facet of Love:** Unity - The Integration of Body, Mind, and Soul
 - **Summary:** Explores how authentic love requires the harmonious integration of our entire human nature—body, mind, and soul—working together as one unified person. This chapter establishes that humans are not divided beings but an integrated unity where all three aspects must be in harmony for love to be authentic.
@@ -239,7 +277,7 @@ When these three work in harmony, we experience true freedom—not the slavery o
 
 *Where we explore the natural responses of the heart that are often intuitive and instinctive, even before we have a formal understanding of love. These are the responses that come from within, the intuitive sense of fairness, the natural inclination towards trust, and the simple recognition of kindness. This part delves into how these instinctive responses form the bedrock of a mature, Christ-like love.*
 
-#### Chapter 12: Faith
+#### Chapter 13: Faith
 - **Previous Chapter Reference:** 19
 - **Facet of Love:** Faith
 - **Relation to Justice/Mercy:** Justice (toward God) — recognizing the Creator
@@ -254,7 +292,7 @@ When these three work in harmony, we experience true freedom—not the slavery o
 - **Relation to the Mass:** Creed (Profession of Faith), Liturgy of the Word, Mystery of Faith (Memorial Acclamation), The Great Amen, Reception of Holy Communion (saying 'Amen'), Gloria
 - **Related Saints:** St. Peter, St. Paul, St. Teresa of Ávila
 
-#### Chapter 13: Hope
+#### Chapter 14: Hope
 - **Previous Chapter Reference:** 20
 - **Facet of Love:** Hope
 - **Relation to Justice/Mercy:** Mercy — trusting God's promise
@@ -269,7 +307,7 @@ When these three work in harmony, we experience true freedom—not the slavery o
 - **Relation to the Mass:** Our Father ('Thy kingdom come', 'deliver us from evil'), Eucharistic Prayer (looking forward to Christ's coming, 'as we await the blessed hope...'), Final Blessing & Dismissal, Prayers of the Faithful (petitions for the future)
 - **Related Saints:** St. Jude Thaddeus, St. Rita of Cascia, St. Monica
 
-#### Chapter 14: Humility
+#### Chapter 15: Humility
 - **Previous Chapter Reference:** 30
 - **Facet of Love:** Humility
 - **Relation to Justice/Mercy:** Justice — knowing one's place
@@ -284,7 +322,7 @@ When these three work in harmony, we experience true freedom—not the slavery o
 - **Relation to the Mass:** Penitential Act (Confiteor, Kyrie Eleison), 'Lord, I am not worthy...', Agnus Dei, Kneeling posture, Washing of the Feet (Holy Thursday liturgy)
 - **Related Saints:** St. John the Baptist, St. Francis of Assisi, St. Thérèse of Lisieux
 
-#### Chapter 15: Forgiveness
+#### Chapter 16: Forgiveness
 - **Previous Chapter Reference:** _
 - **Facet of Love:** Forgiveness
 - **Relation to Justice/Mercy:** Mercy — pardoning without merit
@@ -299,7 +337,7 @@ When these three work in harmony, we experience true freedom—not the slavery o
 - **Relation to the Mass:** Our Father ('Forgive us our trespasses...'), Sign of Peace, Penitential Act (Confiteor, Kyrie Eleison), Agnus Dei (Lamb of God)
 - **Related Saints:** St. Maria Goretti, St. Stephen, St. Peter (after his denial)
 
-#### Chapter 16: Gratitude
+#### Chapter 17: Gratitude
 - **Previous Chapter Reference:** 38
 - **Facet of Love:** Gratitude
 - **Relation to Justice/Mercy:** Justice (toward God) — giving thanks
@@ -313,7 +351,7 @@ When these three work in harmony, we experience true freedom—not the slavery o
 - **Relation to the Mass:** The entire Eucharistic Prayer (as an act of thanksgiving), Preface ('It is right and just... to give you thanks'), Gloria, Sanctus, Doxology, Dismissal ('Thanks be to God')
 - **Related Saints:** The Blessed Virgin Mary (Magnificat), St. Francis of Assisi (Canticle of the Sun), St. André Bessette
 
-#### Chapter 16: Peace
+#### Chapter 18: Peace
 - **Previous Chapter Reference:** 30
 - **Facet of Love:** Peace
 - **Relation to Justice/Mercy:** Justice — fruit of right relationships
@@ -339,7 +377,7 @@ When these three work in harmony, we experience true freedom—not the slavery o
 > for the present and for the future."
 > — 1 Timothy 4:7–8
 
-#### Chapter 17: Wisdom
+#### Chapter 19: Wisdom
 - **Previous Chapter Reference:** 45
 - **Facet of Love:** Wisdom
 - **Relation to Justice/Mercy:** Both — guides just and merciful action
@@ -354,7 +392,7 @@ When these three work in harmony, we experience true freedom—not the slavery o
 - **Relation to the Mass:** Liturgy of the Word (Readings, Psalm, Gospel), Homily, Collect (Opening Prayer), Prayers of the Faithful (petitions for wisdom)
 - **Related Saints:** St. Thomas Aquinas, St. Catherine of Siena, King Solomon
 
-#### Chapter 18: Prudence
+#### Chapter 20: Prudence
 - **Previous Chapter Reference:** 26
 - **Facet of Love:** Prudence
 - **Relation to Justice/Mercy:** Justice — right reason in action
@@ -369,7 +407,7 @@ When these three work in harmony, we experience true freedom—not the slavery o
 - **Relation to the Mass:** Liturgy of the Word, Homily, Collect (Opening Prayer), Prayers of the Faithful (for right judgment), Penitential Act (Confiteor, Kyrie Eleison)
 - **Related Saints:** St. Ignatius of Loyola, St. Philip Neri, St. Teresa of Ávila
 
-#### Chapter 19: Temperance
+#### Chapter 21: Temperance
 - **Previous Chapter Reference:** 28
 - **Facet of Love:** Temperance - Harmonious Integration of Body, Mind, and Soul
 - **Summary:** Explores temperance not as the suppression of bodily desires, but as the harmonious ordering of our entire human nature—body, mind, and soul—so that each serves its proper role in love. True temperance integrates rather than divides, bringing all aspects of our humanity into proper relationship with God and neighbor.
@@ -402,7 +440,7 @@ When these three work in harmony, we experience true freedom—not the slavery o
 **Relation to the Mass:** Eucharistic Fast (preparing the whole person), reverent postures (body), attentive listening (mind), prayerful participation (soul)
 **Related Saints:** St. John the Baptist (integrated asceticism), St. Catherine of Siena (mystical temperance), St. Charles Borromeo (pastoral temperance)
 
-#### Chapter 20: Self-Control
+#### Chapter 22: Self-Control
 - **Previous Chapter Reference:** 40
 - **Facet of Love:** Self-Control
 - **Relation to Justice/Mercy:** Justice — governs internal desires
@@ -416,7 +454,7 @@ When these three work in harmony, we experience true freedom—not the slavery o
 - **Relation to the Mass:** Eucharistic Fast, Penitential Act (Confiteor, Kyrie Eleison), Attentive participation and postures (maintaining focus), Reverent silence, 'Lord, I am not worthy...', Offertory (offering struggles and resolve), Reception of Holy Communion (with proper disposition)
 - **Related Saints:** St. Benedict of Nursia, St. Josemaría Escrivá, St. Catherine of Siena
 
-#### Chapter 21: Service
+#### Chapter 23: Service
 - **Previous Chapter Reference:** 36
 - **Facet of Love:** Service
 - **Relation to Justice/Mercy:** Mercy — placing others first
@@ -431,7 +469,7 @@ When these three work in harmony, we experience true freedom—not the slavery o
 - **Relation to the Mass:** Dismissal Rite ('Go in peace, glorifying the Lord by your life' or 'Go and announce the Gospel of the Lord'), Washing of the Feet (Holy Thursday liturgy), Offertory (offering our lives in service), Prayers of the Faithful (for those who serve), The roles of liturgical ministers
 - **Related Saints:** St. Teresa of Calcutta (Mother Teresa), St. Vincent de Paul, St. Martin de Porres
 
-#### Chapter 22: Truthfulness
+#### Chapter 24: Truthfulness
 - **Previous Chapter Reference:** 39
 - **Facet of Love:** Truthfulness
 - **Relation to Justice/Mercy:** Justice — upright speech and conduct
@@ -446,7 +484,7 @@ When these three work in harmony, we experience true freedom—not the slavery o
 - **Relation to the Mass:** Creed (Profession of Faith), Penitential Act (Confiteor - acknowledging truth of sin), Liturgy of the Word (proclamation of God's Truth), 'Amen' responses
 - **Related Saints:** St. Thomas More, St. Athanasius, St. John the Baptist
 
-#### Chapter 23: Suffering
+#### Chapter 25: Suffering
 - **Previous Chapter Reference:** 44
 - **Facet of Love:** Suffering
 - **Relation to Justice/Mercy:** Mercy — redemptive participation in love
@@ -461,7 +499,7 @@ When these three work in harmony, we experience true freedom—not the slavery o
 - **Relation to the Mass:** Eucharistic Prayer (Institution Narrative, Anamnesis), Agnus Dei, Sign of the Cross, Crucifix, Reception of Holy Communion, Offertory (uniting our sufferings), Prayers of the Faithful (for the suffering), Kyrie Eleison
 - **Related Saints:** St. Thérèse of Lisieux, St. Padre Pio, St. Lidwina of Schiedam
 
-#### Chapter 24: Growth
+#### Chapter 26: Growth
 - **Previous Chapter Reference:** 50
 - **Facet of Love:** Growth
 - **Relation to Justice/Mercy:** n/a — inner transformation
@@ -492,7 +530,7 @@ When these three work in harmony, we experience true freedom—not the slavery o
 > — Galatians 5:22–23
 
 
-#### Chapter 25: Faithfulness
+#### Chapter 27: Faithfulness
 - **Previous Chapter Reference:** 48
 - **Facet of Love:** Faithfulness
 - **Relation to Justice/Mercy:** Justice — honoring covenants
@@ -505,7 +543,7 @@ When these three work in harmony, we experience true freedom—not the slavery o
 - **Related Works of the Church:**
 - **Relation to the Mass:** Eucharistic Prayer ('Do this in memory of me'), Creed, The Great Amen, Reception of Holy Communion, Renewal of Baptismal Promises (contextual), Regular Mass attendance (as an act of faithfulness)
 
-#### Chapter 26: Patience
+#### Chapter 28: Patience
 - **Previous Chapter Reference:** 32,45
 - **Facet of Love:** Patience
 - **Relation to Justice/Mercy:** Mercy — enduring others' faults
@@ -518,7 +556,7 @@ When these three work in harmony, we experience true freedom—not the slavery o
 - **Related Works of the Church:** 7 Deadly Sins (Wrath)
 - **Relation to the Mass:** Liturgy of the Word (patient listening), Eucharistic Prayer (prayerful waiting), Agnus Dei, Kyrie Eleison, Liturgical silences, Distribution of Communion (waiting)
 
-#### Chapter 27: Kindness
+#### Chapter 29: Kindness
 - **Previous Chapter Reference:** 33
 - **Facet of Love:** Kindness
 - **Relation to Justice/Mercy:** Mercy — gentle goodwill
@@ -531,7 +569,7 @@ When these three work in harmony, we experience true freedom—not the slavery o
 - **Related Works of the Church:** 7 Deadly Sins (Envy)
 - **Relation to the Mass:** Sign of Peace, Prayers of the Faithful, Washing of the Feet (Holy Thursday liturgy), Our Father (forgiving disposition), Dismissal Rite
 
-#### Chapter 28: Gentleness
+#### Chapter 30: Gentleness
 - **Previous Chapter Reference:** _
 - **Facet of Love:** Gentleness
 - **Relation to Justice/Mercy:** Mercy — tender strength
@@ -544,7 +582,7 @@ When these three work in harmony, we experience true freedom—not the slavery o
 - **Related Works of the Church:** 7 Deadly Sins (Wrath)
 - **Relation to the Mass:** Agnus Dei (Lamb of God), Sign of Peace, Washing of the Feet (Holy Thursday liturgy), Blessings, Prayers for peace and reconciliation
 
-#### Chapter 29: Generosity
+#### Chapter 31: Generosity
 - **Previous Chapter Reference:** 31
 - **Facet of Love:** Generosity
 - **Relation to Justice/Mercy:** Mercy — openhanded love
@@ -557,7 +595,7 @@ When these three work in harmony, we experience true freedom—not the slavery o
 - **Related Works of the Church:** 7 Deadly Sins (Greed)
 - **Relation to the Mass:** Collection/Offertory, Presentation of the Gifts, Eucharistic Prayer (Christ's self-offering), Prayers of the Faithful (for a spirit of generosity), Holy Communion (God's generosity)
 
-#### Chapter 30: Goodness
+#### Chapter 32: Goodness
 - **Previous Chapter Reference:** 47
 - **Facet of Love:** Goodness
 - **Relation to Justice/Mercy:** Both — doing what is right
@@ -580,7 +618,7 @@ When these three work in harmony, we experience true freedom—not the slavery o
 > "That they may all be one, as you, Father, are in me and I in you..."
 > — John 17:21
 
-#### Chapter 31: Confidence
+#### Chapter 33: Confidence
 - **Previous Chapter Reference:** —
 - **Facet of Love:** Confidence
 - **Relation to Justice/Mercy:** Mercy — trusting in divine love
@@ -593,7 +631,7 @@ When these three work in harmony, we experience true freedom—not the slavery o
 - **Related Works of the Church:** 7 Deadly Sins (Despair)
 - **Relation to the Mass:** Creed, Prayers of the Faithful, Our Father, Reception of Holy Communion, "Lord, I am not worthy...", Gloria, Dismissal Rite
 
-#### Chapter 32: Joy
+#### Chapter 34: Joy
 - **Previous Chapter Reference:** 43
 - **Facet of Love:** Joy
 - **Relation to Justice/Mercy:** n/a — emotional fruit of union
@@ -606,7 +644,7 @@ When these three work in harmony, we experience true freedom—not the slavery o
 - **Related Works of the Church:** Liturgy, Feasts of the Church, 7 Deadly Sins (Despair)
 - **Relation to the Mass:** Gloria, Alleluia (Gospel Acclamation), Sanctus, Eucharistic Prayer (Doxology, Great Amen), Dismissal Rite, Responsorial Psalm (if joyful), Gathering/Recessional Hymns, Entire celebration (especially Feasts/Solemnities)
 
-#### Chapter 33: Belonging
+#### Chapter 35: Belonging
 - **Previous Chapter Reference:** —
 - **Facet of Love:** Belonging
 - **Relation to Justice/Mercy:** Mercy — being claimed by God
@@ -619,7 +657,7 @@ When these three work in harmony, we experience true freedom—not the slavery o
 - **Related Works of the Church:** Parish Life, 7 Deadly Sins (Pride)
 - **Relation to the Mass:** Gathering Rite/Assembly, Sign of Peace, Prayers of the Faithful, Reception of Holy Communion, Our Father, Creed, Entire Mass as a communal act
 
-#### Chapter 34: Intimacy
+#### Chapter 36: Intimacy
 - **Previous Chapter Reference:** —
 - **Facet of Love:** Intimacy
 - **Relation to Justice/Mercy:** Mercy — sharing inner life
@@ -632,7 +670,7 @@ When these three work in harmony, we experience true freedom—not the slavery o
 - **Related Works of the Church:**
 - **Relation to the Mass:** Reception of Holy Communion, Eucharistic Prayer (Consecration), Liturgy of the Word (God speaking to us), Liturgical Silence (for personal prayer), "Lord, I am not worthy..."
 
-#### Chapter 35: Communion
+#### Chapter 37: Communion
 - **Previous Chapter Reference:** —
 - **Facet of Love:** Communion
 - **Relation to Justice/Mercy:** Both — total union in truth and love
