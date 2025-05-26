@@ -403,6 +403,131 @@ Fortitude enables us to:
 - **Relation to the Mass:** Eucharistic Fast, Penitential Act (Confiteor, Kyrie Eleison), Attentive participation and postures (maintaining focus), Reverent silence, 'Lord, I am not worthy...', Offertory (offering struggles and resolve), Reception of Holy Communion (with proper disposition)
 - **Related Saints:** St. Benedict of Nursia, St. Josemaría Escrivá, St. Catherine of Siena
 
+**The Nature of Self-Control: Mastery in Service of Love**
+
+Self-control is not the suppression of human nature but its proper ordering toward authentic love. It is the virtue by which we govern our internal desires, emotions, and impulses so that they serve rather than master us. True self-control enables us to choose the good freely, even when our lower nature pulls us toward lesser goods or outright evil.
+
+**Self-Control as Integration of Body, Mind, and Soul:**
+
+- **Body:** Disciplining physical appetites (food, drink, sleep, sexuality, comfort) so they serve health and holiness rather than becoming masters. Training the body to be a willing servant of the soul's noble purposes.
+
+- **Mind:** Governing thoughts, imagination, and intellectual pursuits. Choosing to focus on what is true, beautiful, and good rather than allowing the mind to wander into fantasy, negativity, or obsession. Intellectual discipline in study and learning.
+
+- **Soul:** Ordering the will toward God and neighbor. Choosing virtue over vice, sacrifice over selfishness, love over lust. Spiritual discipline in prayer, penance, and service.
+
+**How Self-Control Serves Justice:**
+
+Self-control is fundamentally about justice toward ourselves and others. We owe it to ourselves to live according to our dignity as beings created in God's image. We owe it to others not to burden them with our lack of discipline. We owe it to God to use His gifts properly.
+
+- **Justice to Self:** Respecting our own dignity by not becoming slaves to passion or impulse
+- **Justice to Family:** Being reliable, present, and emotionally stable for spouse and children
+- **Justice to Community:** Contributing rather than draining, being trustworthy and dependable
+- **Justice to God:** Using our faculties according to His design and purpose
+
+**The Relationship Between Self-Control and Love:**
+
+Authentic love requires self-control because love is a choice, not merely a feeling. Without self-control:
+- We cannot make the sacrifices love requires
+- We become slaves to our emotions and impulses
+- We hurt those we claim to love through our lack of discipline
+- We cannot persevere when love becomes difficult
+- We cannot give ourselves fully because we are divided within
+
+**What Evil This Overcomes:**
+
+Self-control conquers the evil of **internal chaos and slavery to passion** that makes authentic love impossible. This includes:
+
+- **Addiction and Compulsion:** Breaking free from substances, behaviors, or patterns that enslave the will
+- **Emotional Tyranny:** Not being controlled by anger, fear, sadness, or even positive emotions when they lead us away from duty
+- **Spiritual Sloth:** Overcoming laziness in prayer, virtue, and service to God and neighbor
+- **Impulsive Harm:** Preventing the damage we cause to relationships through lack of self-discipline
+- **Inconsistency:** Building the reliability and trustworthiness that relationships require
+
+**The Fruit of the Holy Spirit:**
+
+Galatians 5:22 lists self-control as a fruit of the Holy Spirit, indicating that true self-discipline comes not from mere willpower but from grace. The Spirit enables us to:
+- Resist temptation with divine strength
+- Choose the good even when it's difficult
+- Persevere in virtue over time
+- Find joy in discipline rather than seeing it as burden
+- Grow in freedom through proper ordering of desires
+
+**Practical Applications of Self-Control:**
+
+**In Marriage and Family:**
+- Controlling anger and harsh words that wound spouse and children
+- Disciplining work habits to provide stability and presence
+- Managing money responsibly rather than impulsively
+- Moderating entertainment and technology use to be present to family
+- Practicing patience in the daily challenges of family life
+
+**In Single Life:**
+- Preparing for marriage or religious life through virtue and discipline
+- Managing sexuality according to one's state in life
+- Developing work habits and life skills
+- Building character through small daily choices
+- Serving others rather than living only for self
+
+**In Religious Life:**
+- Fidelity to vows and rule of life
+- Discipline in prayer and spiritual practices
+- Moderation in legitimate pleasures
+- Perseverance in difficult assignments or relationships
+- Detachment from worldly goods and honors
+
+**The Rule of Life: Practical Self-Control**
+
+Every Christian needs a personal rule of life that provides structure for growth in virtue:
+
+- **Daily Prayer:** Fixed times for prayer, Scripture reading, and spiritual reading
+- **Physical Discipline:** Proper diet, exercise, sleep, and work habits
+- **Spiritual Combat:** Regular examination of conscience, confession, and spiritual direction
+- **Service:** Concrete ways of serving God and neighbor
+- **Recreation:** Proper rest and legitimate enjoyment that refreshes rather than enslaves
+
+**Self-Control and the Mass:**
+
+The Mass both requires and strengthens self-control:
+
+- **Eucharistic Fast:** Physical preparation that unites body and soul in anticipation
+- **Reverent Participation:** Controlling distractions to focus on the sacred action
+- **Proper Postures:** External discipline that supports internal devotion
+- **Attentive Listening:** Disciplining the mind to receive God's Word
+- **Worthy Reception:** Ensuring proper spiritual disposition for Holy Communion
+
+**The Saints as Models:**
+
+- **St. Benedict of Nursia:** Created a rule of life that balanced prayer, work, and rest, showing how discipline creates freedom for love
+- **St. Josemaría Escrivá:** Taught that ordinary work done with love and discipline becomes prayer and sanctification
+- **St. Catherine of Siena:** Practiced severe physical discipline while maintaining joy and service to others, showing that self-control serves love
+
+**Self-Control and Spiritual Combat:**
+
+Self-control is essential for spiritual warfare against the world, the flesh, and the devil:
+
+- **Against the World:** Not being conformed to secular values and priorities
+- **Against the Flesh:** Governing bodily appetites and emotional impulses
+- **Against the Devil:** Resisting temptations and maintaining vigilance in prayer
+
+**The Freedom of Self-Control:**
+
+True self-control leads to authentic freedom—not the freedom to do whatever we want, but the freedom to do what we ought. It liberates us from:
+- Slavery to passion and impulse
+- The chaos of undisciplined life
+- The guilt and shame of repeated failures
+- The inability to love consistently and sacrificially
+- The weakness that makes us unreliable to others
+
+**Self-Control in Our Time:**
+
+Modern culture often confuses self-control with repression and celebrates "authenticity" as following every impulse. The Church teaches that true authenticity comes from living according to our nature as rational beings created for love. Self-control is not the enemy of happiness but its prerequisite, enabling us to choose lasting goods over fleeting pleasures.
+
+**The Call to Heroic Self-Control:**
+
+In an age of instant gratification and emotional incontinence, practicing self-control becomes a form of witness to the reality of human dignity and the possibility of virtue. Every act of self-discipline, however small, contributes to our growth in holiness and our ability to love authentically.
+
+Self-control is ultimately about ordering our entire being—body, mind, and soul—toward the love of God and neighbor. It is the foundation upon which all other virtues are built and the prerequisite for the heroic love to which every Christian is called.
+
 #### Chapter 27: Service
 - **Previous Chapter Reference:** 36
 - **Facet of Love:** Service
