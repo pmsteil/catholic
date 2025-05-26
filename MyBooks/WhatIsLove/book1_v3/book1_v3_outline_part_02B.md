@@ -808,7 +808,7 @@ The Eucharistic Prayer begins: "It is truly right and just, our duty and our sal
 
 **Morning Gratitude:**
 - Begin each day acknowledging God's gift of life
-- Offer the day's work and activities to His glory 
+- Offer the day's work and activities to His glory
 - Ask for grace to recognize His gifts throughout the day
 
 **Evening Gratitude:**
@@ -918,3 +918,175 @@ The grateful heart **anticipates heaven** by living in constant thanksgiving, re
 - **Related Works of the Church:** 7 Deadly Sins (Envy)
 - **Relation to the Mass:** The entire Eucharistic Prayer (as an act of thanksgiving), Preface ('It is right and just... to give you thanks'), Gloria, Sanctus, Doxology, Dismissal ('Thanks be to God')
 - **Related Saints:** The Blessed Virgin Mary (Magnificat), St. Francis of Assisi (Canticle of the Sun), St. André Bessette
+
+#### Chapter 21: Peace
+- **Previous Chapter Reference:** 30
+- **Facet of Love:** Peace
+- **Relation to Justice/Mercy:** Justice — fruit of right relationships
+- **Related Commandments:** Matt 5:9; John 14:27
+- **Spiritual Practice:** Rosary; Reconciliation
+- **Vice to Overcome:** Discord
+- **Scriptural Anchor:** Isaiah 32:17
+- **Related Sacrament(s):** Sacrament of Reconciliation
+- **Spiritual Practice(s):** Rosary, Adoration, Prayer for Peace (e.g., Prayer of St. Francis)
+- **Related Works of the Church:**
+- **Relation to the Mass:** Agnus Dei (Lamb of God - 'grant us peace'), Sign of Peace, Dismissal Rite ('Go in peace...'), Kyrie Eleison
+- **Related Saints:** St. Francis of Assisi, St. Nicholas of Flüe, St. Rita of Cascia (as peacemaker)
+
+**What Evil This Overcomes:** The evil of discord, division, and conflict that tears apart families, communities, and souls, preventing the harmony necessary for authentic love to flourish.
+
+##### The Nature of True Peace
+
+**Peace as More Than Absence of Conflict:**
+True peace (Hebrew: *shalom*, Latin: *pax*) is not merely the absence of war or conflict, but the positive presence of right order, harmony, and wholeness. As Isaiah 32:17 teaches: "The fruit of righteousness will be peace; its effect will be quietness and confidence forever." Peace is the tranquility of order (*tranquillitas ordinis*) that flows from justice and enables mercy to flourish.
+
+**Christ as Our Peace:**
+Jesus declares in John 14:27: "Peace I leave with you; my peace I give you. I do not give to you as the world gives. Do not let your hearts be troubled and do not be afraid." Christ's peace is fundamentally different from worldly peace because it flows from His victory over sin and death. Through His sacrifice, He reconciles us to the Father and to one another, making true peace possible.
+
+**The Beatitude of Peacemaking:**
+"Blessed are the peacemakers, for they will be called children of God" (Matthew 5:9). Peacemakers participate in God's own work of reconciliation. They don't merely keep peace but actively create it by addressing the root causes of conflict: injustice, unforgiveness, pride, and sin.
+
+##### Peace and the Integration of Body, Mind, and Soul
+
+**Interior Peace - Soul:**
+- **Union with God:** The deepest peace comes from friendship with God through grace
+- **Clear Conscience:** Freedom from the guilt and anxiety that come from sin
+- **Ordered Loves:** Loving God above all, neighbor as self, and creation in proper proportion
+- **Trust in Providence:** Confidence that God works all things for good for those who love Him
+
+**Mental Peace - Mind:**
+- **Truth and Certainty:** Peace comes from knowing objective truth, especially about God and moral law
+- **Prudent Judgment:** The ability to discern right from wrong without constant anxiety
+- **Forgiveness:** Releasing resentment and choosing to will the good of those who have hurt us
+- **Hope:** Confidence in God's promises and eternal life
+
+**Physical Peace - Body:**
+- **Bodily Harmony:** When passions are ordered by reason and grace rather than ruling over us
+- **Healthy Relationships:** Physical expressions of love (appropriate to one's state) that build rather than exploit
+- **Just Social Order:** Living in communities where basic needs are met and rights respected
+- **Stewardship of Creation:** Caring for the environment as God's gift rather than exploiting it
+
+##### How Peace Serves Justice and Mercy
+
+**Peace as the Fruit of Justice:**
+True peace cannot exist without justice. When people are oppressed, exploited, or denied their fundamental rights, there can be no authentic peace—only the false peace of suppression or indifference. Justice creates the conditions where peace can flourish by ensuring that each person receives what they are due according to their dignity as made in God's image.
+
+**Peace as the Context for Mercy:**
+Mercy requires peace to be effective. In situations of ongoing conflict and hostility, mercy is often misunderstood as weakness or enabling of evil. But when peace provides a stable foundation, mercy can work its healing power, transforming hearts and restoring relationships.
+
+**The Dynamic Relationship:**
+- Justice without mercy becomes harsh and legalistic
+- Mercy without justice becomes sentimental and ineffective
+- Peace provides the stable context where both justice and mercy can operate in harmony
+- True peace emerges when justice and mercy "kiss" (Psalm 85:10)
+
+##### Obstacles to Peace and How Love Overcomes Them
+
+**Pride and the Need to Be Right:**
+Pride makes us prefer being right to being in relationship. Love chooses humility, seeking truth together rather than victory over others. The peacemaker asks not "How can I win?" but "How can we find the truth together?"
+
+**Unforgiveness and Resentment:**
+Holding onto past hurts poisons the soul and makes peace impossible. Love chooses forgiveness—not excusing evil, but releasing the debt and willing the good of the offender. This breaks the cycle of revenge and opens the possibility for reconciliation.
+
+**Selfishness and Competing Interests:**
+When everyone seeks only their own good, conflict is inevitable. Love seeks the common good, recognizing that we are all members of one body. What truly serves the whole will ultimately serve each part.
+
+**Fear and Insecurity:**
+Fear makes us defensive and aggressive. Love casts out fear (1 John 4:18) by trusting in God's providence and seeking security in Him rather than in worldly goods or power.
+
+**Ignorance and Misunderstanding:**
+Many conflicts arise from simple misunderstanding or lack of communication. Love seeks to understand before seeking to be understood, listening with genuine care for the other's perspective.
+
+##### The Sacramental Foundation of Peace
+
+**Sacrament of Reconciliation:**
+This sacrament directly addresses the root of all conflict—sin. By confessing our sins and receiving absolution, we are reconciled to God and empowered to be reconciled with others. The peace that follows a good confession is a foretaste of heavenly peace.
+
+**The Eucharist as Source of Unity:**
+The Mass is the supreme act of peacemaking. In the Eucharist, we are united with Christ and with one another in His Body. The Sign of Peace before Communion symbolizes that we cannot receive Christ while harboring enmity toward our neighbor.
+
+**Baptism and the New Creation:**
+Through Baptism, we become new creatures in Christ, members of His Body. This fundamental unity transcends all human divisions of race, class, nationality, or culture. We are all children of the same Father.
+
+##### Practical Peacemaking in Daily Life
+
+**In the Family:**
+- Parents model forgiveness and reconciliation for their children
+- Spouses choose love over being right in disagreements
+- Siblings learn to share and resolve conflicts peacefully
+- Family prayer creates an atmosphere of peace and unity
+
+**In the Workplace:**
+- Seeking win-win solutions rather than zero-sum competition
+- Addressing conflicts directly but charitably
+- Building bridges between different departments or groups
+- Creating environments where everyone can flourish
+
+**In the Community:**
+- Participating in dialogue across political or cultural divides
+- Working for justice while maintaining charity toward opponents
+- Building institutions that serve the common good
+- Defending the vulnerable while seeking to convert rather than defeat enemies
+
+**In the Church:**
+- Unity in essentials, liberty in non-essentials, charity in all things
+- Respectful dialogue about legitimate differences of opinion
+- Submission to legitimate authority while maintaining prophetic voice
+- Evangelization through attraction rather than argument
+
+##### The Liturgical Expression of Peace
+
+**The Mass as School of Peace:**
+Every Mass teaches us how to be peacemakers:
+- **Kyrie Eleison:** We acknowledge our need for mercy
+- **Gloria:** We praise God as the source of all peace
+- **Liturgy of the Word:** God speaks truth that unites hearts and minds
+- **Offertory:** We offer our conflicts and divisions to be transformed
+- **Consecration:** Christ's sacrifice reconciles us to the Father
+- **Sign of Peace:** We extend Christ's peace to one another
+- **Communion:** We are united in one Body
+- **Dismissal:** We are sent to be peacemakers in the world
+
+**The Rosary as Prayer for Peace:**
+The Rosary contemplates the mysteries of Christ's life, death, and resurrection—the source of all peace. Mary, Queen of Peace, intercedes for us and teaches us to say "yes" to God's will as she did. Many apparitions of Our Lady have emphasized prayer for peace.
+
+##### Saints as Models of Peacemaking
+
+**St. Francis of Assisi - The Complete Peacemaker:**
+St. Francis embodied peace through his complete surrender to God's will. His famous prayer—"Lord, make me an instrument of your peace"—shows the connection between personal holiness and effective peacemaking. He even attempted to convert the Sultan during the Crusades, showing that love seeks conversion rather than conquest.
+
+**St. Nicholas of Flüe - Hermit and Peacemaker:**
+This Swiss hermit left his family (with their consent) to pursue contemplation, but his reputation for holiness made him a sought-after mediator. He helped prevent civil war in Switzerland, showing that interior peace enables effective exterior peacemaking.
+
+**St. Rita of Cascia - Peace in Suffering:**
+St. Rita endured an abusive marriage with patience and love, eventually converting her husband. After his murder, she prevented her sons from seeking revenge. Her life shows that peace sometimes requires heroic sacrifice and that suffering united to Christ's can be redemptive.
+
+##### Peace and Social Justice
+
+**The Preferential Option for the Poor:**
+True peace requires special concern for those who are most vulnerable. When basic needs are unmet and dignity is denied, there can be no authentic peace. Peacemakers work to create just social structures that protect and serve the poor.
+
+**Subsidiarity and Solidarity:**
+Peace is built through the proper ordering of social relationships. Subsidiarity ensures that decisions are made at the most local level possible, while solidarity recognizes our fundamental interconnectedness. Both principles serve the common good and create conditions for peace.
+
+**Religious Freedom as Foundation:**
+Peace requires that all people be free to worship God according to their conscience. Religious persecution creates resentment and conflict. True peace protects the rights of all, including religious minorities.
+
+##### The Eschatological Dimension of Peace
+
+**Peace as Foretaste of Heaven:**
+The peace we experience in this life is a participation in the eternal peace of heaven. When families live in harmony, when communities work for justice, when nations resolve conflicts peacefully, we glimpse the Kingdom of God.
+
+**The New Jerusalem:**
+Revelation 21 describes the New Jerusalem where "there will be no more death or mourning or crying or pain." This is the ultimate peace toward which all earthly peacemaking points. Our work for peace now is preparation for and participation in God's final victory over all division and conflict.
+
+**Mary, Queen of Peace:**
+The Blessed Virgin Mary is invoked as Queen of Peace because she perfectly said "yes" to God's will and cooperated in the work of redemption. Her Magnificat proclaims God's justice and mercy, and her intercession continues to bring peace to troubled hearts and situations.
+
+##### Conclusion: Peace as Perfect Love in Action
+
+Peace is love's response to the evil of discord and division. It flows from justice and enables mercy, creating the harmony necessary for authentic relationships to flourish. True peace requires the integration of body, mind, and soul in right relationship with God, neighbor, and creation.
+
+The peacemaker participates in Christ's own work of reconciliation, becoming a child of God by imitating the Father's love. Through the sacraments, especially Reconciliation and the Eucharist, we receive the grace necessary to be instruments of peace in a world torn by conflict.
+
+In our families, workplaces, communities, and world, we are called to create the conditions where love can flourish—not by avoiding conflict, but by addressing its root causes in sin and injustice. This is the peace that surpasses understanding, the peace that only Christ can give, the peace that prepares us for eternal communion with God.
