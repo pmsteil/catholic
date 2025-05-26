@@ -2,7 +2,7 @@
 
 ## Objective
 
-Systematically generate a devotional book by expanding the provided outline into individual markdown files for every designated chapter, following a phased workflow approach.
+Systematically generate a devotional book by expanding the provided outline into individual markdown files for every designated chapter, following a phased workflow approach. This devotional book is at its highest purpose, the Catholic Answer to the Problem of Evil.  As CCC 25 and 309 tell us, the entire Christian Faith teaches us and is necessary to combat evil.  What's the solution to moral evil in the world? Answer is the perfect Love of God:
 
 ## Input:
 
@@ -71,6 +71,7 @@ Example: **Key CCC Reference(s)**: Temperance: Moderates attraction of pleasures
 *   Show an example of how a child understands the chapter's facet of love intuitively (if applicable, don't make a stretch. This will be more applicable to Part 1A and 1B virtues)
 *   Whenever possible, integrate other relevant Scripture and CCC references naturally within the text where needed to support points.
 *   Whenever possible, integrate in relevant quotes (in blockquotes) from Catholic saints (especially St. Catherine of Sienna, St. Faustina Kowalska, St. Teresa of Avila, St. Thérèse of Lisieux, St. Bernard of Clairvaux, St. Mary Magdalene de’ Pazzi), theologians (especially St. Augustine and St. Thomas Aquinas), Popes (especially Pope St. John Paul II, Pope Benedict XVI and Pope Francis) to enrich the body. Make sure to document the year of the quote or author.
+*   If there is a direct relationship with this virtue and a Sacrament, explain this to the reader. In other words, the Sacraments all point us to the love of God, explain how these gifts of Jesus directly cause us to love him more deeply when they are properly understood and lived out.
 
 **Vices:**
 *   Give a bulleted list and short description of the vices associated with the facet of love (virtue) for the chapter.
@@ -129,50 +130,57 @@ Example: **Key CCC Reference(s)**: Temperance: Moderates attraction of pleasures
 
 **Outline Progress:**
 
-[] **Part 1A: Pillars of Love — The Essential Tenets
+[O] **Part 1: Introduction - What is Love?**
 
-*   \[\] Chapter 1
-*   \[\] Chapter 2
-*   \[\] Chapter 3
-*   \[\] Chapter 4
+*   [O] Chapter 1
+*   [] Chapter 2
+*   [] Chapter 3
+*   [] Chapter 4
+*   [] Chapter 5
 
-[] **Part 1B: Instinctive Responses of the Heart
+[] **Part 2A: Pillars of Love — The Essential Tenets**
 
-*   \[\] Chapter 5
-*   \[\] Chapter 6
-*   \[\] Chapter 7
-*   \[\] Chapter 8
-*   \[\] Chapter 9
-*   \[\] Chapter 10
+*   [] Chapter 6
+*   [] Chapter 7
+*   [] Chapter 8
+*   [] Chapter 9
 
-[] **Part 2: Disciplines of a Loving Heart
+[] **Part 2B: Instinctive Responses of the Heart**
 
-*   \[\] Chapter 11
-*   \[\] Chapter 12
-*   \[\] Chapter 13
-*   \[\] Chapter 14
-*   \[\] Chapter 15
-*   \[\] Chapter 16
-*   \[\] Chapter 17
-*   \[\] Chapter 18
+*   [] Chapter 10
+*   [] Chapter 11
+*   [] Chapter 12
+*   [] Chapter 13
+*   [] Chapter 14
+*   [] Chapter 15
 
-[] **Part 3: Fruits of a Love Made Mature
+[] **Part 3: Disciplines of a Loving Heart**
 
-*   \[\] Chapter 19
-*   \[\] Chapter 20
-*   \[\] Chapter 21
-*   \[\] Chapter 22
-*   \[\] Chapter 23
-*   \[\] Chapter 24
-*   \[\] Chapter 25
+*   [] Chapter 16
+*   [] Chapter 17
+*   [] Chapter 18
+*   [] Chapter 19
+*   [] Chapter 20
+*   [] Chapter 21
+*   [] Chapter 22
+*   [] Chapter 23
 
-[] **Part 4: Communion — Love’s Sacred Fulfillment
+[] **Part 4: Fruits of a Love Made Mature**
 
-*   \[\] Chapter 26
-*   \[\] Chapter 27
-*   \[\] Chapter 28
-*   \[\] Chapter 29
-*   \[\] Chapter 30
+*   [] Chapter 24
+*   [] Chapter 25
+*   [] Chapter 26
+*   [] Chapter 27
+*   [] Chapter 28
+*   [] Chapter 29
+
+[] **Part 5: Communion — Love’s Sacred Fulfillment**
+
+*   [] Chapter 30
+*   [] Chapter 31
+*   [] Chapter 32
+*   [] Chapter 33
+*   [] Chapter 34
 
 
 ## Output
