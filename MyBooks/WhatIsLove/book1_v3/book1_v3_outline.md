@@ -126,7 +126,7 @@ The problem of evil is not academic but urgent because:
 - **Related Commandments:** 1 Cor 13 (love chapter); John 13:35 ("By this everyone will know that you are my disciples, if you love one another"); 1 John 4:19 ("We love because he first loved us")
 - **Spiritual Practice:** Gratitude for love received; Recognition of God's love; Contemplation of the Trinity as perfect love; Prayer for those who feel unloved
 - **Vice to Overcome:** Isolation; Self-sufficiency; Cynicism about love; Despair of being loved
-- **What Evil This Overcomes:** The evil of loneliness and alienation that drives people to seek false forms of love. When the cry for love is unanswered or misdirected, it leads to addiction, promiscuity, exploitation of others, and the use of people as objects to fill our emptiness. True love conquers the evil of treating persons as means rather than ends, and the despair that believes we are fundamentally unlovable.
+- **What Evil This Overcomes:** The evil of loneliness and alienation that drives people to seek false forms of love. When the cry for love is unanswered or misdirected, it leads to addiction, promiscuity, exploitation of others, and the use of people as objects to fill our emptiness. True love conquers the evil that treats persons as means rather than ends, and the despair that believes we are fundamentally unlovable.
 - **Scriptural Anchor:** 1 Cor 13:2 ("If I have all faith so as to remove mountains but do not have love, I am nothing")
 
 **Body-Mind-Soul Integration in the Cry for Love:**
@@ -260,24 +260,223 @@ Every subsequent chapter will unpack one aspect of this comprehensive definition
 #### Chapter 3: The Universal Cry for Justice
 - **Previous Chapter Reference:** 03
 - **Facet of Love:** The Universal Cry for Justice
-- **Summary:** Examines the innate desire for fairness and for wrongs to be righted (Isaiah 1:17, CCC 1954).
-- **Relation to Justice/Mercy:** Justice itself
-- **Related Commandments:** Isaiah 1:17
-- **Spiritual Practice:** Seeking fairness
-- **Vice to Overcome:** Injustice
+- **Summary:** Examines the innate desire for fairness and for wrongs to be righted (Isaiah 1:17, CCC 1954). This cry reveals that humans are created with an innate sense of right and wrong, and that justice is not merely a social construct but a fundamental requirement of authentic love. The universality of this longing proves that we are made for moral order, not chaos, and that true justice is the foundation upon which mercy can operate.
+- **Relation to Justice/Mercy:** Justice itself — The foundation that makes mercy possible and meaningful
+- **Related Commandments:** Isaiah 1:17 ("Learn to do good; seek justice, correct oppression; bring justice to the fatherless, plead the widow's cause"); Micah 6:8 ("He has told you, O man, what is good; and what does the Lord require of you but to do justice, and to love kindness, and to walk humbly with your God?"); Matthew 23:23 ("Woe to you, scribes and Pharisees, hypocrites! For you tithe mint and dill and cumin, and have neglected the weightier matters of the law: justice and mercy and faithfulness")
+- **Spiritual Practice:** Seeking fairness; Defending the vulnerable; Examination of conscience regarding justice; Corporal and Spiritual Works of Mercy; Standing up for truth
+- **Vice to Overcome:** Injustice; Indifference to suffering; Favoritism; Oppression; Exploitation
 - **What Evil This Overcomes:** The evil of oppression, exploitation, and the violation of human dignity. When the cry for justice is ignored or perverted, it leads to vigilantism, revolution, and the cycle of violence. True justice conquers the evil that treats people as less than human.
-- **Scriptural Anchor:** Isaiah 1:17
+- **Scriptural Anchor:** Isaiah 1:17 ("Learn to do good; seek justice, correct oppression; bring justice to the fatherless, plead the widow's cause")
+
+**Body-Mind-Soul Integration in the Cry for Justice:**
+
+The human cry for justice engages our entire nature—body, mind, and soul—revealing that we are created for moral order at every level:
+
+- **Body:** The physical reaction to injustice—our bodies literally recoil from witnessing cruelty, exploitation, or oppression. We feel sick when we see children abused, workers exploited, or the innocent harmed. Our bodies are designed to recognize and respond to moral disorder through emotional and physical reactions that compel us toward action.
+
+- **Mind:** The intellectual recognition that there are objective moral standards that transcend personal opinion or cultural preference. The mind seeks to understand what constitutes fair treatment, equal dignity, and proper order in relationships. We reason about rights, responsibilities, and the proper ordering of society based on truth about human nature.
+
+- **Soul:** The spiritual knowledge that justice flows from God's own nature and that we are accountable to Him for how we treat others. The soul recognizes that true justice is not merely human convention but participation in God's eternal law. The deepest cry for justice is the longing for God's perfect justice to be established in the world.
+
+When these three work in harmony, we seek authentic justice that honors human dignity and serves the common good. When they are disordered, we either become purely emotional (body without mind/soul), coldly legalistic (mind without soul/body), or unrealistically idealistic (soul without mind/body).
+
+**What Children Know:**
+
+Children express the cry for justice with pure moral clarity, before adult sophistication complicates their understanding:
+
+- **Fairness matters** - Children instinctively know when something is "not fair" and expect adults to make things right
+- **Everyone should be treated equally** - Children naturally assume that all people deserve basic respect and care
+- **Bullies should be stopped** - Children expect authority figures to protect the weak from those who would harm them
+- **Promises should be kept** - Children understand that breaking your word is wrong and damages trust
+- **Stealing is wrong** - Children know intuitively that taking what belongs to others violates justice
+- **Truth should win** - Children expect honesty to be rewarded and lies to be exposed and corrected
+
+This childlike moral clarity reflects the **natural law written on the human heart** (Romans 2:14-15). Adults must return to this **moral clarity** that recognizes injustice immediately, without the sophisticated arguments that often excuse or rationalize evil.
+
+**The Nature of True Justice:**
+
+Justice is not merely human opinion or social convention, but participation in God's eternal law:
+
+**Divine Foundation:**
+- **God is perfectly just** - Justice flows from God's nature as the source of all moral order
+- **Natural law** - God has written basic principles of justice on every human heart
+- **Objective moral order** - Right and wrong exist independently of human opinion or cultural preference
+- **Accountability** - We are responsible to God for how we treat others
+
+**Essential Elements of Justice:**
+- **Giving each person their due** - Recognizing the inherent dignity and rights of every human being
+- **Equality before the law** - All people deserve equal treatment regardless of status, wealth, or power
+- **Protection of the vulnerable** - Special care for those who cannot protect themselves
+- **Proportionality** - Punishments and rewards should fit the crime or merit
+- **Restitution** - Making amends for harm done and restoring what was taken
+
+**Justice and Human Dignity:**
+
+True justice is grounded in the recognition that every human being is created in the image of God (Genesis 1:27):
+
+- **Inherent worth** - Every person has dignity that cannot be earned or lost
+- **Fundamental rights** - Life, family, truth, freedom, property, worship
+- **Equal treatment** - No person is more or less human than another
+- **Universal application** - Justice applies to all people in all times and places
+- **Objective standards** - Based on human nature, not cultural preferences
+
+**What Justice Demands Based on Imago Dei:**
+- **Right to Life:** From conception to natural death, because every human life bears God's image
+- **Right to Family:** Children deserve both mother and father, reflecting the complementarity of God's image in male and female
+- **Right to Truth:** Humans are rational beings made in God's image and deserve to know the truth
+- **Right to Freedom:** Authentic freedom to choose the good, not license to sin
+- **Right to Property:** Stewardship of creation as God's image-bearers
+- **Right to Worship:** Recognition of our relationship with our Creator
+
+**The Positive Nature of Justice: Giving Each Their Due**
+
+Justice is fundamentally about **giving each being what they are owed** according to their nature, dignity, and relationship to us. This positive understanding goes far beyond merely avoiding harm:
+
+**Justice Toward God:**
+- **Worship and Adoration** - God deserves our complete reverence as Creator and Lord
+- **Obedience** - Following God's commandments as acknowledgment of His authority
+- **Gratitude** - Recognizing all good things come from Him and giving thanks
+- **Sacrifice** - Offering our time, talents, and treasures in recognition of His supremacy
+- **Trust** - Believing in His goodness and providence even in difficulties
+- **Love** - Responding to His love with our whole heart, mind, soul, and strength
+
+**Justice Toward the Saints and Heroes of Faith:**
+- **Veneration** - Honoring those who lived heroic virtue as models for our own lives
+- **Imitation** - Following their example of holiness and dedication to God
+- **Intercession** - Asking for their prayers and assistance in our spiritual journey
+- **Gratitude** - Acknowledging their sacrifices and contributions to the Church
+- **Study** - Learning from their writings, teachings, and life examples
+- **Commemoration** - Celebrating their feast days and preserving their memory
+
+**Justice Toward Our Neighbor:**
+- **Respect for Dignity** - Treating every person as created in God's image
+- **Honesty** - Speaking truth and keeping promises in all our dealings
+- **Fairness** - Giving equal treatment and opportunity regardless of personal preference
+- **Generosity** - Sharing our resources with those in need according to our ability
+- **Forgiveness** - Offering mercy while maintaining appropriate boundaries
+- **Service** - Using our gifts and talents for the benefit of others
+- **Protection** - Defending the innocent and vulnerable from harm
+- **Encouragement** - Supporting others in their pursuit of virtue and holiness
+
+**Justice Toward Ourselves:**
+- **Self-Respect** - Honoring our own dignity as children of God
+- **Self-Care** - Properly maintaining our physical, mental, and spiritual health
+- **Self-Development** - Cultivating our talents and abilities for God's glory
+- **Self-Discipline** - Ordering our desires and actions according to reason and faith
+- **Self-Knowledge** - Understanding our strengths, weaknesses, and calling
+- **Self-Sacrifice** - Offering our lives in service to God and others when appropriate
+
+**Justice Toward Creation:**
+- **Stewardship** - Caring for the environment as God's gift entrusted to us
+- **Moderation** - Using natural resources responsibly and sustainably
+- **Appreciation** - Recognizing the beauty and goodness of God's creation
+- **Protection** - Defending creation from unnecessary destruction or abuse
+
+**The Hierarchy of Justice:**
+
+True justice recognizes that different beings deserve different types and degrees of reverence:
+
+1. **God First** - Supreme worship, adoration, and obedience
+2. **Mary and the Saints** - Veneration and imitation (but not worship)
+3. **Parents and Authority** - Honor, respect, and appropriate obedience
+4. **Spouse and Family** - Faithful love, commitment, and service
+5. **Neighbors and Community** - Respect, fairness, and charitable assistance
+6. **Self** - Proper care and development according to our dignity
+7. **Creation** - Responsible stewardship and grateful use
+
+**How Positive Justice Creates Harmony:**
+
+When we give each being their proper due:
+- **God is glorified** - Creation fulfills its purpose of praising the Creator
+- **Society flourishes** - People receive what they need to thrive
+- **Relationships deepen** - Trust and love grow when justice is practiced
+- **Individuals develop** - We become who God created us to be
+- **Peace reigns** - Conflict decreases when everyone receives their due
+- **Love multiplies** - Justice creates the conditions for love to flourish
+
+**How Justice Serves Love:**
+
+Justice is not opposed to love but is love's foundation:
+- **Creates order** - Justice establishes the conditions in which love can flourish
+- **Protects the vulnerable** - Justice defends those who cannot defend themselves
+- **Enables trust** - Justice creates the reliability necessary for deep relationships
+- **Demands truth** - Justice requires honesty about what is real and what is good
+- **Prepares for mercy** - Justice establishes the moral order that makes mercy meaningful
+
+**The Cry for Justice in Our Time:**
+
+The universal cry for justice is particularly urgent in our contemporary world:
+- **Attacks on human life** - Abortion, euthanasia, and assisted suicide deny the fundamental right to life
+- **Destruction of marriage and family** - Redefinition of marriage harms children and undermines social stability
+- **Economic exploitation** - Unjust wages, human trafficking, and exploitation of workers
+- **Religious persecution** - Denial of freedom of conscience and worship
+- **Cultural corruption** - The normalization of vice and the suppression of virtue
+- **Educational indoctrination** - Teaching children ideologies that contradict natural law and human dignity
+
+**Justice and the Common Good:**
+
+True justice serves not just individual rights but the common good of society:
+- **Subsidiarity** - Problems should be solved at the most local level possible
+- **Solidarity** - We are responsible for the welfare of all members of society
+- **Human dignity** - All social arrangements must respect the inherent worth of every person
+- **Family priority** - The family is the fundamental unit of society and must be protected
+- **Religious freedom** - Society must acknowledge God as the source of moral order
+
+**How This Combats Evil:**
+- **Prevents Dehumanization:** Recognizing God's image in every person stops the evil of treating humans as less than human
+- **Stops Exploitation:** Cannot use people as mere means when they bear God's image
+- **Defends the Vulnerable:** Special protection for those who cannot defend themselves (unborn, elderly, disabled, poor)
+- **Promotes True Equality:** Based on shared divine image, not artificial categories or ideologies
+- **Establishes Objective Standards:** Justice is not relative but reflects God's unchanging character
+
+**Justice Without Imago Dei Becomes:**
+- **Arbitrary:** Based on power, preference, or popular opinion
+- **Discriminatory:** Some humans valued more than others
+- **Utilitarian:** People treated as means to ends
+- **Relativistic:** "Justice" changes with culture and convenience
+- **Oppressive:** The strong define what is "just" for the weak
+
+- **Scriptural Anchor:** Micah 6:8; Genesis 1:27
+- **Related Sacrament(s):** Sacrament of Baptism (incorporation into God's justice), Sacrament of Penance (restoration of justice through forgiveness), Sacrament of Confirmation (strength to defend justice), Holy Eucharist (participation in Christ's perfect justice)
+- **Spiritual Practice(s):** Examination of conscience regarding justice, Corporal and Spiritual Works of Mercy, Defense of the vulnerable, Seeking truth in all things, Prayer for victims of injustice, Study of Catholic Social Teaching
+- **Related Works of the Church:** Catechism on Justice (CCC 1807, 1928-1948, 2401-2463), Rerum Novarum, Centesimus Annus, Compendium of the Social Doctrine of the Church, Writings of St. Thomas Aquinas on Justice
+- **Relation to the Mass:** Kyrie Eleison (acknowledging our failures in justice), Gloria (praising God's perfect justice), Liturgy of the Word (hearing God's call to justice), Prayers of the Faithful (praying for justice in the world), Offertory (offering our commitment to justice), Communion (receiving strength to live justly)
+- **Related Saints:** St. Thomas Aquinas (doctor of justice), St. Thomas More (martyr for justice), St. Oscar Romero (defender of the poor), St. Catherine of Siena (reformer), St. Martin de Porres (justice for the marginalized), St. Frances Cabrini (justice for immigrants)
+
+**What Children Know:**
+Children possess an immediate and instinctive sense of justice that adults often complicate with sophisticated rationalizations:
+- **"That's not fair!"** - Children's most common cry when they witness injustice, showing their innate sense of fairness
+- **Equal treatment matters** - Children expect to be treated the same as their siblings and friends in similar circumstances
+- **Bullying is wrong** - Children instinctively know that using power to hurt the weak is evil
+- **Stealing is wrong** - Children understand that taking what belongs to others violates justice
+- **Promises should be kept** - Children expect adults to keep their word and are deeply hurt by broken promises
+- **Everyone deserves kindness** - Children naturally include others and are confused by exclusion based on arbitrary categories
+- **Punishment should fit the crime** - Children understand proportionality in consequences
+
+This childlike sense of justice reflects the **natural law written on the human heart** (Romans 2:14-15). Adults must return to this **moral clarity** that recognizes injustice immediately, without the sophisticated arguments that often excuse or rationalize evil.
 
 #### Chapter 4: The Universal Cry for Mercy
 - **Previous Chapter Reference:** 04
 - **Facet of Love:** The Universal Cry for Mercy
 - **Summary:** Discusses the universal desire for forgiveness and a second chance (Luke 6:36, Matt 5:7).
 - **Relation to Justice/Mercy:** Mercy itself
-- **Related Commandments:** Luke 6:36
-- **Spiritual Practice:** Practicing forgiveness
+- **Related Commandments:** Luke 6:36; Matt 18:22
+- **Spiritual Practice:** Works of mercy; Forgiveness
 - **Vice to Overcome:** Unforgiveness
 - **What Evil This Overcomes:** The evil of hardness of heart and the cycle of retribution that perpetuates suffering. When mercy is absent, it leads to bitterness, resentment, and the destruction of relationships. True mercy conquers the evil that would make us prisoners of our past pain.
 - **Scriptural Anchor:** Luke 6:36
+
+**What Children Know:**
+Children demonstrate a natural capacity for mercy that adults often lose through hurt and hardened hearts:
+- **Forgiveness comes easily** - Children forgive quickly and completely, often forgetting the offense entirely
+- **Second chances are normal** - Children naturally give others multiple opportunities to do better
+- **Everyone makes mistakes** - Children understand that people aren't perfect and don't hold grudges
+- **Love continues after wrongdoing** - Children can separate the person from their bad behavior
+- **Apologies matter** - Children value sincere "I'm sorry" and readily accept it
+- **Kindness to those who hurt us** - Children often show kindness even to those who have been mean to them
+- **Fresh starts are possible** - Children believe people can change and relationships can be restored
+
+This childlike mercy reflects God's own heart: **quick to forgive, slow to anger, and rich in compassion** (Psalm 103:8). Adults must return to this **tender heart** that sees the possibility of redemption in every person and refuses to let past hurts define future relationships.
 
 #### Chapter 5: Defining Love: Traditional & Comprehensive
 - **Previous Chapter Reference:** 13
@@ -397,6 +596,9 @@ They inspire us because they were human like us, faced similar struggles, and ye
 Most importantly, they intercede for us, praying that we too might discover how to integrate every aspect of our being—body, mind, and soul—into the sacred dance of covenant love that binds justice and mercy into life-giving communion.
 
 As we proceed, let each Saint's example remind us that we are not alone in this journey. We are part of a great family, a covenant community that spans heaven and earth, all united in the one goal of learning to love as God loves.
+
+
+
 
 ### Part 2A: Pillars of Love — The Essential Tenets
 
@@ -569,6 +771,100 @@ True justice is not based on human convention, social contract, or utilitarian c
 - **Right to Property:** Stewardship of creation as God's image-bearers
 - **Right to Worship:** Recognition of our relationship with our Creator
 
+**The Positive Nature of Justice: Giving Each Their Due**
+
+Justice is fundamentally about **giving each being what they are owed** according to their nature, dignity, and relationship to us. This positive understanding goes far beyond merely avoiding harm:
+
+**Justice Toward God:**
+- **Worship and Adoration** - God deserves our complete reverence as Creator and Lord
+- **Obedience** - Following God's commandments as acknowledgment of His authority
+- **Gratitude** - Recognizing all good things come from Him and giving thanks
+- **Sacrifice** - Offering our time, talents, and treasures in recognition of His supremacy
+- **Trust** - Believing in His goodness and providence even in difficulties
+- **Love** - Responding to His love with our whole heart, mind, soul, and strength
+
+**Justice Toward the Saints and Heroes of Faith:**
+- **Veneration** - Honoring those who lived heroic virtue as models for our own lives
+- **Imitation** - Following their example of holiness and dedication to God
+- **Intercession** - Asking for their prayers and assistance in our spiritual journey
+- **Gratitude** - Acknowledging their sacrifices and contributions to the Church
+- **Study** - Learning from their writings, teachings, and life examples
+- **Commemoration** - Celebrating their feast days and preserving their memory
+
+**Justice Toward Our Neighbor:**
+- **Respect for Dignity** - Treating every person as created in God's image
+- **Honesty** - Speaking truth and keeping promises in all our dealings
+- **Fairness** - Giving equal treatment and opportunity regardless of personal preference
+- **Generosity** - Sharing our resources with those in need according to our ability
+- **Forgiveness** - Offering mercy while maintaining appropriate boundaries
+- **Service** - Using our gifts and talents for the benefit of others
+- **Protection** - Defending the innocent and vulnerable from harm
+- **Encouragement** - Supporting others in their pursuit of virtue and holiness
+
+**Justice Toward Ourselves:**
+- **Self-Respect** - Honoring our own dignity as children of God
+- **Self-Care** - Properly maintaining our physical, mental, and spiritual health
+- **Self-Development** - Cultivating our talents and abilities for God's glory
+- **Self-Discipline** - Ordering our desires and actions according to reason and faith
+- **Self-Knowledge** - Understanding our strengths, weaknesses, and calling
+- **Self-Sacrifice** - Offering our lives in service to God and others when appropriate
+
+**Justice Toward Creation:**
+- **Stewardship** - Caring for the environment as God's gift entrusted to us
+- **Moderation** - Using natural resources responsibly and sustainably
+- **Appreciation** - Recognizing the beauty and goodness of God's creation
+- **Protection** - Defending creation from unnecessary destruction or abuse
+
+**The Hierarchy of Justice:**
+
+True justice recognizes that different beings deserve different types and degrees of reverence:
+
+1. **God First** - Supreme worship, adoration, and obedience
+2. **Mary and the Saints** - Veneration and imitation (but not worship)
+3. **Parents and Authority** - Honor, respect, and appropriate obedience
+4. **Spouse and Family** - Faithful love, commitment, and service
+5. **Neighbors and Community** - Respect, fairness, and charitable assistance
+6. **Self** - Proper care and development according to our dignity
+7. **Creation** - Responsible stewardship and grateful use
+
+**How Positive Justice Creates Harmony:**
+
+When we give each being their proper due:
+- **God is glorified** - Creation fulfills its purpose of praising the Creator
+- **Society flourishes** - People receive what they need to thrive
+- **Relationships deepen** - Trust and love grow when justice is practiced
+- **Individuals develop** - We become who God created us to be
+- **Peace reigns** - Conflict decreases when everyone receives their due
+- **Love multiplies** - Justice creates the conditions for love to flourish
+
+**How Justice Serves Love:**
+
+Justice is not opposed to love but is love's foundation:
+- **Creates order** - Justice establishes the conditions in which love can flourish
+- **Protects the vulnerable** - Justice defends those who cannot defend themselves
+- **Enables trust** - Justice creates the reliability necessary for deep relationships
+- **Demands truth** - Justice requires honesty about what is real and what is good
+- **Prepares for mercy** - Justice establishes the moral order that makes mercy meaningful
+
+**The Cry for Justice in Our Time:**
+
+The universal cry for justice is particularly urgent in our contemporary world:
+- **Attacks on human life** - Abortion, euthanasia, and assisted suicide deny the fundamental right to life
+- **Destruction of marriage and family** - Redefinition of marriage harms children and undermines social stability
+- **Economic exploitation** - Unjust wages, human trafficking, and exploitation of workers
+- **Religious persecution** - Denial of freedom of conscience and worship
+- **Cultural corruption** - The normalization of vice and the suppression of virtue
+- **Educational indoctrination** - Teaching children ideologies that contradict natural law and human dignity
+
+**Justice and the Common Good:**
+
+True justice serves not just individual rights but the common good of society:
+- **Subsidiarity** - Problems should be solved at the most local level possible
+- **Solidarity** - We are responsible for the welfare of all members of society
+- **Human dignity** - All social arrangements must respect the inherent worth of every person
+- **Family priority** - The family is the fundamental unit of society and must be protected
+- **Religious freedom** - Society must acknowledge God as the source of moral order
+
 **How This Combats Evil:**
 - **Prevents Dehumanization:** Recognizing God's image in every person stops the evil of treating humans as less than human
 - **Stops Exploitation:** Cannot use people as mere means when they bear God's image
@@ -584,11 +880,11 @@ True justice is not based on human convention, social contract, or utilitarian c
 - **Oppressive:** The strong define what is "just" for the weak
 
 - **Scriptural Anchor:** Micah 6:8; Genesis 1:27
-- **Related Sacrament(s):** Sacrament of Reconciliation
-- **Spiritual Practice(s):** Works of Justice, Examination of Conscience, Stations of the Cross (justice of God's plan), Defense of human dignity
-- **Related Works of the Church:** Social Teachings of the Church, 10 Commandments (esp. 5th-10th commandments), Catechism on human dignity (CCC 1700-1876)
-- **Relation to the Mass:** Prayers of the Faithful (Universal Prayer), Offertory (offering our commitment to justice), Liturgy of the Word (calls to justice), Dismissal Rite (sending forth to live justly), Our Father ('Thy kingdom come')
-- **Related Saints:** St. Thomas More, St. Oscar Romero, St. Katharine Drexel
+- **Related Sacrament(s):** Sacrament of Baptism (incorporation into God's justice), Sacrament of Penance (restoration of justice through forgiveness), Sacrament of Confirmation (strength to defend justice), Holy Eucharist (participation in Christ's perfect justice)
+- **Spiritual Practice(s):** Examination of conscience regarding justice, Corporal and Spiritual Works of Mercy, Defense of the vulnerable, Seeking truth in all things, Prayer for victims of injustice, Study of Catholic Social Teaching
+- **Related Works of the Church:** Catechism on Justice (CCC 1807, 1928-1948, 2401-2463), Rerum Novarum, Centesimus Annus, Compendium of the Social Doctrine of the Church, Writings of St. Thomas Aquinas on Justice
+- **Relation to the Mass:** Kyrie Eleison (acknowledging our failures in justice), Gloria (praising God's perfect justice), Liturgy of the Word (hearing God's call to justice), Prayers of the Faithful (praying for justice in the world), Offertory (offering our commitment to justice), Communion (receiving strength to live justly)
+- **Related Saints:** St. Thomas Aquinas (doctor of justice), St. Thomas More (martyr for justice), St. Oscar Romero (defender of the poor), St. Catherine of Siena (reformer), St. Martin de Porres (justice for the marginalized), St. Frances Cabrini (justice for immigrants)
 
 **What Children Know:**
 Children possess an immediate and instinctive sense of justice that adults often complicate with sophisticated rationalizations:
@@ -797,6 +1093,17 @@ This childlike understanding reflects God's design for covenant relationships: *
 **Related Works of the Church:** Parish Life, 7 Deadly Sins (Pride)
 **Relation to the Mass:** Gathering Rite/Assembly, Sign of Peace, Prayers of the Faithful, Reception of Holy Communion, Our Father, Creed, Entire Mass as a communal act
 
+
+
+
+---
+
+### Part 2B: The Heart's Response (Part 2)
+
+
+
+
+
 #### Chapter 14: Chastity
 - **Previous Chapter Reference:** —
 - **Facet of Love:** Chastity - Integrated Sexuality within Love
@@ -860,7 +1167,7 @@ Children naturally understand authority and have an instinctive desire to please
 - **Love and obedience go together** - Children want to please those they love and feel sad when they disappoint them
 - **Rebellion feels wrong** - Children experience guilt, shame, hiding and anxiety when they deliberately disobey
 
-This childlike trust reflects our **original relationship with God**: recognizing legitimate authority as **loving protection**, not oppressive control.
+This childlike trust reflects our **original relationship with God**: recognizing that we are **created in His image** and deserving of respect.
 
 **The Nature of True Obedience:**
 
@@ -983,7 +1290,7 @@ This childlike forgiveness reflects **God's mercy toward us**: offering **comple
 
 - **Related Sacrament(s):** Sacrament of Reconciliation
 - **Spiritual Practice(s):** Act of Contrition, Forgiving others (as in the Our Father), Stations of the Cross (Christ's forgiveness from the Cross), Rosary (Sorrowful Mysteries)
-- **Related Works of the Church:** 7 Deadly Sins (Wrath - as an obstacle to forgiveness)
+- **Related Works of the Church:** 7 Deadly Sins (Wrath)
 - **Relation to the Mass:** Our Father ('Forgive us our trespasses...'), Sign of Peace, Penitential Act (Confiteor, Kyrie Eleison), Agnus Dei (Lamb of God)
 - **Related Saints:** St. Maria Goretti, St. Stephen, St. Peter (after his denial)
 
@@ -1007,7 +1314,7 @@ This childlike gratitude reflects our **proper relationship with God**: recogniz
 
 - **Related Sacrament(s):** Sacrament of Holy Eucharist (as the ultimate act of thanksgiving)
 - **Spiritual Practice(s):** Thanksgiving prayer, Rosary (Joyful Mysteries - Visitation, Nativity)
-- **Related Works of the Church:** 7 Deadly Sins (Envy - as an obstacle to gratitude)
+- **Related Works of the Church:** 7 Deadly Sins (Envy)
 - **Relation to the Mass:** The entire Eucharistic Prayer (as an act of thanksgiving), Preface ('It is right and just... to give you thanks'), Gloria, Sanctus, Doxology, Dismissal ('Thanks be to God')
 - **Related Saints:** The Blessed Virgin Mary (Magnificat), St. Francis of Assisi (Canticle of the Sun), St. André Bessette
 
@@ -1185,7 +1492,7 @@ Fortitude enables us to:
 - **Scriptural Anchor:** Prov 12:19
 - **Related Sacrament(s):** Sacrament of Reconciliation
 - **Spiritual Practice(s):** Examination of Conscience
-- **Related Works of the Church:** 10 Commandments (8th Commandment - 'You shall not bear false witness')
+- **Related Works of the Church:** 10 Commandments (esp. 8th commandment)
 - **Relation to the Mass:** Creed (Profession of Faith), Penitential Act (Confiteor - acknowledging truth of sin), Liturgy of the Word (proclamation of God's Truth), 'Amen' responses
 - **Related Saints:** St. Thomas More, St. Athanasius, St. John the Baptist
 
@@ -1576,3 +1883,5 @@ The world is waiting for saints. The world is waiting for you.
 **Related Works of the Church:** The entire Magisterium as guidance for living authentic love
 **Relation to the Mass:** The entire Mass as the perfect prayer that forms us in love and sends us forth to transform the world
 **Related Saints:** All the saints as examples of perfect love lived in different circumstances and vocations
+
+```
