@@ -271,11 +271,97 @@ When these three work in harmony, we experience true freedom—not the slavery o
 **Relation to the Mass:** The entire Mass as embodied worship—kneeling, standing, speaking, singing, receiving—engaging our complete human nature in worship
 **Related Saints:** St. Thomas Aquinas (integration of faith and reason), St. Francis of Assisi (embodied spirituality), St. Teresa of Ávila (mystical integration)
 
----
+#### Chapter 12: Covenant Love - The Foundation of Authentic Relationships
+- **Previous Chapter Reference:** —
+- **Facet of Love:** Covenant Love - The Sacred Bond of Commitment
+- **Summary:** Explores how authentic love is always covenant love—a sacred, binding commitment that creates permanent relationships ordered toward the good of others. This chapter connects the Old and New Covenants to show how God's covenant love is the model for all human relationships, especially marriage and family, which exist primarily for the love and protection of children.
+- **Relation to Justice/Mercy:** Both — Justice demands fidelity to covenant promises; Mercy offers forgiveness when we fail our covenant commitments
+- **Related Commandments:** Malachi 2:14-16 (God as witness to marriage covenant); Matthew 19:3-9 (Christ on the permanence of marriage); Ephesians 5:25-33 (marriage as image of Christ's covenant with the Church)
+- **Spiritual Practice:** Renewal of baptismal vows; Anniversary celebrations; Family prayer; Examination of conscience regarding covenant fidelity
+- **Vice to Overcome:** Covenant-breaking; Infidelity; Disposable relationships; Self-centered love
+- **What Evil This Overcomes:** The evil of broken promises and abandoned commitments that destroy trust and leave the vulnerable (especially children) without protection. Covenant-breaking creates a world where love becomes conditional, temporary, and self-serving. Covenant love conquers the evil that would make us treat relationships as disposable and people as replaceable.
+- **Scriptural Anchor:** Jeremiah 31:31-34 ("I will make a new covenant with the house of Israel")
 
-### Part 2B: Instinctive Responses of the Heart
+**The Old and New Covenants:**
 
-*Where we explore the natural responses of the heart that are often intuitive and instinctive, even before we have a formal understanding of love. These are the responses that come from within, the intuitive sense of fairness, the natural inclination towards trust, and the simple recognition of kindness. This part delves into how these instinctive responses form the bedrock of a mature, Christ-like love.*
+God's love has always been covenant love. From Noah to Abraham to Moses to David, God established permanent, binding relationships with His people. These covenants were not mere contracts but sacred bonds that created family relationships between God and humanity.
+
+The New Covenant established by Jesus Christ is the fulfillment of all previous covenants. Through His death and resurrection, Christ established a covenant of perfect justice and perfect mercy:
+- **Perfect Justice:** Christ satisfied all the demands of justice for our sins
+- **Perfect Mercy:** Christ offers forgiveness to all who turn to Him
+- **Perfect Love:** This covenant transforms us to live out both justice and mercy in our own relationships
+
+**Covenant Love in Marriage and Family:**
+
+Marriage is the fundamental human covenant, imaging God's covenant with His people. Like God's covenant, marriage is:
+- **Permanent:** "What God has joined together, let no man separate" (Matthew 19:6)
+- **Exclusive:** Total gift of self to one person
+- **Fruitful:** Ordered toward the generation and education of children
+- **Sacred:** A sacrament that makes God's love visible
+
+**For the Love of Children:**
+
+The ultimate purpose of the marriage covenant is the love and protection of children. Children need:
+- **The love of both mother and father:** Each parent brings unique and irreplaceable gifts
+- **Stability and permanence:** The security of knowing their family will endure
+- **Justice and mercy:** Parents who model both firm boundaries and forgiving love
+- **Covenant fidelity:** The witness of parents who keep their promises to each other
+
+When marriage is treated as a disposable contract rather than a sacred covenant, children suffer most. They lose the security of permanent love and the model of covenant fidelity they need to form their own healthy relationships.
+
+**The Generational Cycle of Broken Covenant Love:**
+
+When parents fail to live covenant love, they create a devastating cycle that perpetuates evil across generations. Children who experience:
+- **Neglect and abandonment** learn that love is unreliable and conditional
+- **Abuse and violence** learn that power is used to harm rather than protect
+- **Rejection and criticism** learn that they are unworthy of love
+- **Divorce and family breakdown** learn that commitments can be broken when convenient
+- **Injustice disguised as discipline** learn that authority is arbitrary and cruel
+- **False mercy without accountability** learn that actions have no consequences
+- **Conditional love based on performance** learn that love must be earned through perfection
+
+These wounded children carry these distorted lessons into their own relationships and parenting, creating a multi-generational cycle of:
+- **Broken trust** that makes authentic intimacy impossible
+- **Fear of commitment** that prevents covenant relationships
+- **Disordered understanding of justice** that leads to either cruelty or permissiveness
+- **Corrupted mercy** that either enables sin or withholds forgiveness
+- **Spiritual wounds** that make it difficult to trust God's covenant love
+
+This is how the "sins of the fathers" are visited upon the children (Exodus 34:7)—not as divine punishment, but as the natural consequence of broken covenant love that teaches children to perpetuate the same patterns of woundedness.
+
+**Breaking the Cycle Through Covenant Love:**
+
+Authentic covenant love breaks these generational patterns by:
+- **Modeling permanence** that teaches children love is reliable
+- **Demonstrating justice and mercy** that shows children how to balance truth and compassion
+- **Providing security** that allows children to develop healthy attachment
+- **Teaching covenant fidelity** that prepares children for their own sacred relationships
+- **Healing wounds** through the grace available in the sacraments
+- **Pointing to God's covenant** as the ultimate source of healing and hope
+
+**How Covenant Love Combats Evil:**
+
+Covenant love creates a fortress of protection around the vulnerable:
+- **Children** are protected by the permanent commitment of their parents
+- **Spouses** are protected by the exclusive, faithful love of their partner
+- **Society** is strengthened by families that model covenant fidelity
+- **The Church** grows through families that live the Gospel
+
+**Covenant Love and the Virtues:**
+
+Every virtue contributes to covenant relationships:
+- **Truth:** Honesty and transparency in all dealings
+- **Justice:** Giving each family member what they are due
+- **Mercy:** Forgiveness when covenant partners fail
+- **Sacrifice:** Putting the good of the covenant above personal comfort
+- **Faith:** Trusting in God's grace to sustain the covenant
+- **Hope:** Believing in the ultimate good of covenant commitment
+- **Humility:** Acknowledging our need for grace to be faithful
+
+**Related Sacrament(s):** Sacrament of Matrimony (the covenant sacrament), Sacrament of Baptism (entry into the New Covenant), Sacrament of Holy Eucharist (renewal of the New Covenant)
+**Spiritual Practice(s):** Community Prayer
+**Related Works of the Church:** Parish Life, 7 Deadly Sins (Pride)
+**Relation to the Mass:** Gathering Rite/Assembly, Sign of Peace, Prayers of the Faithful, Reception of Holy Communion, Our Father, Creed, Entire Mass as a communal act
 
 #### Chapter 13: Faith
 - **Previous Chapter Reference:** 19
@@ -289,7 +375,7 @@ When these three work in harmony, we experience true freedom—not the slavery o
 - **Related Sacrament(s):** Sacrament of Baptism, Sacrament of Holy Eucharist, Sacrament of Confirmation
 - **Spiritual Practice(s):** Creed (as a spiritual practice), Lectio Divina
 - **Related Works of the Church:**
-- **Relation to the Mass:** Creed (Profession of Faith), Liturgy of the Word, Mystery of Faith (Memorial Acclamation), The Great Amen, Reception of Holy Communion (saying 'Amen'), Gloria
+- **Relation to the Mass:** Creed (Profession of Faith), Liturgy of the Word, Mystery of Faith (Memorial Acclamation), The Great Amen, Reception of Holy Communion, Dismissal Rite
 - **Related Saints:** St. Peter, St. Paul, St. Teresa of Ávila
 
 #### Chapter 14: Hope
@@ -440,7 +526,41 @@ When these three work in harmony, we experience true freedom—not the slavery o
 **Relation to the Mass:** Eucharistic Fast (preparing the whole person), reverent postures (body), attentive listening (mind), prayerful participation (soul)
 **Related Saints:** St. John the Baptist (integrated asceticism), St. Catherine of Siena (mystical temperance), St. Charles Borromeo (pastoral temperance)
 
-#### Chapter 22: Self-Control
+#### Chapter 22: Fortitude
+- **Previous Chapter Reference:** —
+- **Facet of Love:** Fortitude - Courage in Love
+- **Summary:** Explores fortitude as the courage to do what love demands, even when it is difficult, dangerous, or costly. True fortitude is not mere physical bravery but the spiritual strength to persevere in love when faced with opposition, suffering, or the temptation to give up. It is the virtue that enables us to stand firm in truth and justice, even unto death.
+- **Relation to Justice/Mercy:** Both — Justice requires courage to defend what is right; Mercy requires courage to forgive and show compassion even when it's difficult
+- **Related Commandments:** Joshua 1:9 ("Be strong and courageous"); 1 Corinthians 16:13 ("Be on your guard; stand firm in the faith; be courageous; be strong")
+- **Spiritual Practice:** Bearing trials patiently; Standing up for truth; Perseverance in prayer and virtue
+- **Vice to Overcome:** Cowardice; Despair; Giving up when love becomes difficult
+- **What Evil This Overcomes:** The evil of cowardice that allows injustice to flourish unchallenged and abandons love when it becomes costly. Cowardice enables evil by refusing to act when action is needed. Fortitude conquers the evil that would make us retreat from our duties to God and neighbor when the going gets tough.
+- **Scriptural Anchor:** 1 Corinthians 16:13 ("Be on your guard; stand firm in the faith; be courageous; be strong")
+
+**The Two Aspects of Fortitude:**
+
+- **Endurance (Patience):** The strength to persevere through suffering, trials, and difficulties without abandoning love or virtue. This includes bearing persecution, illness, loss, and the daily struggles of living a holy life.
+
+- **Attack (Courage):** The strength to actively pursue what love demands, even when it involves risk, opposition, or sacrifice. This includes defending the innocent, speaking truth to power, and taking on difficult but necessary tasks.
+
+**Fortitude in the Spiritual Life:**
+
+Fortitude enables us to:
+- **Persevere in prayer** when it becomes dry or difficult
+- **Stand firm in truth** when it's unpopular or costly
+- **Defend the innocent** when they cannot defend themselves
+- **Bear suffering** with patience and trust in God's plan
+- **Resist temptation** when it seems overwhelming
+- **Continue loving** when others fail to love us in return
+- **Face death** with confidence in God's mercy
+
+**Related Sacrament(s):** Sacrament of Confirmation (Gift of Fortitude from the Holy Spirit), Sacrament of Anointing of the Sick (strength in suffering)
+**Spiritual Practice(s):** Stations of the Cross, Martyrs' prayers, Acts of courage in daily life, Bearing trials patiently, Standing up for justice
+**Related Works of the Church:** Lives of the Martyrs, Social Teaching (courage for justice), Catechism on the Cardinal Virtues (CCC 1805-1809)
+**Relation to the Mass:** Eucharistic Prayer (Christ's courage in sacrifice), Stations of the Cross, Prayers for perseverance, Reception of Holy Communion (strength for the journey)
+**Related Saints:** St. Joan of Arc, St. Thomas More, St. Maximilian Kolbe, St. Perpetua and Felicity, St. Stephen (first martyr)
+
+#### Chapter 23: Self-Control
 - **Previous Chapter Reference:** 40
 - **Facet of Love:** Self-Control
 - **Relation to Justice/Mercy:** Justice — governs internal desires
@@ -454,7 +574,7 @@ When these three work in harmony, we experience true freedom—not the slavery o
 - **Relation to the Mass:** Eucharistic Fast, Penitential Act (Confiteor, Kyrie Eleison), Attentive participation and postures (maintaining focus), Reverent silence, 'Lord, I am not worthy...', Offertory (offering struggles and resolve), Reception of Holy Communion (with proper disposition)
 - **Related Saints:** St. Benedict of Nursia, St. Josemaría Escrivá, St. Catherine of Siena
 
-#### Chapter 23: Service
+#### Chapter 24: Service
 - **Previous Chapter Reference:** 36
 - **Facet of Love:** Service
 - **Relation to Justice/Mercy:** Mercy — placing others first
@@ -469,7 +589,7 @@ When these three work in harmony, we experience true freedom—not the slavery o
 - **Relation to the Mass:** Dismissal Rite ('Go in peace, glorifying the Lord by your life' or 'Go and announce the Gospel of the Lord'), Washing of the Feet (Holy Thursday liturgy), Offertory (offering our lives in service), Prayers of the Faithful (for those who serve), The roles of liturgical ministers
 - **Related Saints:** St. Teresa of Calcutta (Mother Teresa), St. Vincent de Paul, St. Martin de Porres
 
-#### Chapter 24: Truthfulness
+#### Chapter 25: Truthfulness
 - **Previous Chapter Reference:** 39
 - **Facet of Love:** Truthfulness
 - **Relation to Justice/Mercy:** Justice — upright speech and conduct
@@ -484,7 +604,7 @@ When these three work in harmony, we experience true freedom—not the slavery o
 - **Relation to the Mass:** Creed (Profession of Faith), Penitential Act (Confiteor - acknowledging truth of sin), Liturgy of the Word (proclamation of God's Truth), 'Amen' responses
 - **Related Saints:** St. Thomas More, St. Athanasius, St. John the Baptist
 
-#### Chapter 25: Suffering
+#### Chapter 26: Suffering
 - **Previous Chapter Reference:** 44
 - **Facet of Love:** Suffering
 - **Relation to Justice/Mercy:** Mercy — redemptive participation in love
@@ -499,7 +619,7 @@ When these three work in harmony, we experience true freedom—not the slavery o
 - **Relation to the Mass:** Eucharistic Prayer (Institution Narrative, Anamnesis), Agnus Dei, Sign of the Cross, Crucifix, Reception of Holy Communion, Offertory (uniting our sufferings), Prayers of the Faithful (for the suffering), Kyrie Eleison
 - **Related Saints:** St. Thérèse of Lisieux, St. Padre Pio, St. Lidwina of Schiedam
 
-#### Chapter 26: Growth
+#### Chapter 27: Growth
 - **Previous Chapter Reference:** 50
 - **Facet of Love:** Growth
 - **Relation to Justice/Mercy:** n/a — inner transformation
@@ -530,7 +650,7 @@ When these three work in harmony, we experience true freedom—not the slavery o
 > — Galatians 5:22–23
 
 
-#### Chapter 27: Faithfulness
+#### Chapter 28: Faithfulness
 - **Previous Chapter Reference:** 48
 - **Facet of Love:** Faithfulness
 - **Relation to Justice/Mercy:** Justice — honoring covenants
@@ -543,7 +663,7 @@ When these three work in harmony, we experience true freedom—not the slavery o
 - **Related Works of the Church:**
 - **Relation to the Mass:** Eucharistic Prayer ('Do this in memory of me'), Creed, The Great Amen, Reception of Holy Communion, Renewal of Baptismal Promises (contextual), Regular Mass attendance (as an act of faithfulness)
 
-#### Chapter 28: Patience
+#### Chapter 29: Patience
 - **Previous Chapter Reference:** 32,45
 - **Facet of Love:** Patience
 - **Relation to Justice/Mercy:** Mercy — enduring others' faults
@@ -556,7 +676,7 @@ When these three work in harmony, we experience true freedom—not the slavery o
 - **Related Works of the Church:** 7 Deadly Sins (Wrath)
 - **Relation to the Mass:** Liturgy of the Word (patient listening), Eucharistic Prayer (prayerful waiting), Agnus Dei, Kyrie Eleison, Liturgical silences, Distribution of Communion (waiting)
 
-#### Chapter 29: Kindness
+#### Chapter 30: Kindness
 - **Previous Chapter Reference:** 33
 - **Facet of Love:** Kindness
 - **Relation to Justice/Mercy:** Mercy — gentle goodwill
@@ -569,7 +689,7 @@ When these three work in harmony, we experience true freedom—not the slavery o
 - **Related Works of the Church:** 7 Deadly Sins (Envy)
 - **Relation to the Mass:** Sign of Peace, Prayers of the Faithful, Washing of the Feet (Holy Thursday liturgy), Our Father (forgiving disposition), Dismissal Rite
 
-#### Chapter 30: Gentleness
+#### Chapter 31: Gentleness
 - **Previous Chapter Reference:** _
 - **Facet of Love:** Gentleness
 - **Relation to Justice/Mercy:** Mercy — tender strength
@@ -582,7 +702,7 @@ When these three work in harmony, we experience true freedom—not the slavery o
 - **Related Works of the Church:** 7 Deadly Sins (Wrath)
 - **Relation to the Mass:** Agnus Dei (Lamb of God), Sign of Peace, Washing of the Feet (Holy Thursday liturgy), Blessings, Prayers for peace and reconciliation
 
-#### Chapter 31: Generosity
+#### Chapter 32: Generosity
 - **Previous Chapter Reference:** 31
 - **Facet of Love:** Generosity
 - **Relation to Justice/Mercy:** Mercy — openhanded love
@@ -595,7 +715,7 @@ When these three work in harmony, we experience true freedom—not the slavery o
 - **Related Works of the Church:** 7 Deadly Sins (Greed)
 - **Relation to the Mass:** Collection/Offertory, Presentation of the Gifts, Eucharistic Prayer (Christ's self-offering), Prayers of the Faithful (for a spirit of generosity), Holy Communion (God's generosity)
 
-#### Chapter 32: Goodness
+#### Chapter 33: Goodness
 - **Previous Chapter Reference:** 47
 - **Facet of Love:** Goodness
 - **Relation to Justice/Mercy:** Both — doing what is right
@@ -618,7 +738,7 @@ When these three work in harmony, we experience true freedom—not the slavery o
 > "That they may all be one, as you, Father, are in me and I in you..."
 > — John 17:21
 
-#### Chapter 33: Confidence
+#### Chapter 34: Confidence
 - **Previous Chapter Reference:** —
 - **Facet of Love:** Confidence
 - **Relation to Justice/Mercy:** Mercy — trusting in divine love
@@ -631,7 +751,7 @@ When these three work in harmony, we experience true freedom—not the slavery o
 - **Related Works of the Church:** 7 Deadly Sins (Despair)
 - **Relation to the Mass:** Creed, Prayers of the Faithful, Our Father, Reception of Holy Communion, "Lord, I am not worthy...", Gloria, Dismissal Rite
 
-#### Chapter 34: Joy
+#### Chapter 35: Joy
 - **Previous Chapter Reference:** 43
 - **Facet of Love:** Joy
 - **Relation to Justice/Mercy:** n/a — emotional fruit of union
@@ -644,7 +764,7 @@ When these three work in harmony, we experience true freedom—not the slavery o
 - **Related Works of the Church:** Liturgy, Feasts of the Church, 7 Deadly Sins (Despair)
 - **Relation to the Mass:** Gloria, Alleluia (Gospel Acclamation), Sanctus, Eucharistic Prayer (Doxology, Great Amen), Dismissal Rite, Responsorial Psalm (if joyful), Gathering/Recessional Hymns, Entire celebration (especially Feasts/Solemnities)
 
-#### Chapter 35: Belonging
+#### Chapter 36: Belonging
 - **Previous Chapter Reference:** —
 - **Facet of Love:** Belonging
 - **Relation to Justice/Mercy:** Mercy — being claimed by God
@@ -657,7 +777,7 @@ When these three work in harmony, we experience true freedom—not the slavery o
 - **Related Works of the Church:** Parish Life, 7 Deadly Sins (Pride)
 - **Relation to the Mass:** Gathering Rite/Assembly, Sign of Peace, Prayers of the Faithful, Reception of Holy Communion, Our Father, Creed, Entire Mass as a communal act
 
-#### Chapter 36: Intimacy
+#### Chapter 37: Intimacy
 - **Previous Chapter Reference:** —
 - **Facet of Love:** Intimacy
 - **Relation to Justice/Mercy:** Mercy — sharing inner life
@@ -670,7 +790,7 @@ When these three work in harmony, we experience true freedom—not the slavery o
 - **Related Works of the Church:**
 - **Relation to the Mass:** Reception of Holy Communion, Eucharistic Prayer (Consecration), Liturgy of the Word (God speaking to us), Liturgical Silence (for personal prayer), "Lord, I am not worthy..."
 
-#### Chapter 37: Communion
+#### Chapter 38: Communion
 - **Previous Chapter Reference:** —
 - **Facet of Love:** Communion
 - **Relation to Justice/Mercy:** Both — total union in truth and love
@@ -682,3 +802,10 @@ When these three work in harmony, we experience true freedom—not the slavery o
 - **Spiritual Practice(s):** Community Life
 - **Related Works of the Church:** Liturgy (as a broader concept), Ecumenism, 10 Commandments
 - **Relation to the Mass:** Reception of Holy Communion, Entire Mass as communal action, Gathering Rite, Sign of Peace, Prayers of the Faithful, Our Father, Eucharistic Prayer (Epiclesis, Institution Narrative)
+
+### Part 2B: Instinctive Responses of the Heart
+
+*Where we explore the natural responses of the heart that are often intuitive and instinctive, even before we have a formal understanding of love. These are the responses that come from within, the intuitive sense of fairness, the natural inclination towards trust, and the simple recognition of kindness. This part delves into how these instinctive responses form the bedrock of a mature, Christ-like love.*
+
+#### Chapter 13: Faith
+{{ ... }}
