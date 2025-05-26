@@ -74,7 +74,7 @@ This is why perfect love—integrating all these facets—is the complete answer
 - **Related Commandments:** Luke 6:36
 - **Spiritual Practice:** Practicing forgiveness
 - **Vice to Overcome:** Unforgiveness
-- **What Evil This Overcomes:** The evil of hardness of heart and the cycle of revenge that perpetuates suffering. When mercy is absent, it leads to bitterness, resentment, and the destruction of relationships. True mercy conquers the evil that would make us prisoners of our past pain.
+- **What Evil This Overcomes:** The evil of hardness of heart and the cycle of retribution that perpetuates suffering. When mercy is absent, it leads to bitterness, resentment, and the destruction of relationships. True mercy conquers the evil that would make us prisoners of our past pain.
 - **Scriptural Anchor:** Luke 6:36
 
 #### Chapter 5: Defining Love: Traditional & Comprehensive
@@ -112,6 +112,27 @@ This is why perfect love—integrating all these facets—is the complete answer
 5. **Utilitarian Love:** Treats people as means to an end rather than as ends in themselves, lacking true respect for human dignity.
 
 6. **Romantic Idolatry:** Makes romantic love the highest form of love, often leading to the worship of created beings rather than the Creator.
+
+**How Counterfeits Deny the Image of God (Imago Dei):**
+
+The fundamental truth of Judeo-Christian faith is that **all human beings are created in the image of God** (Genesis 1:27). This is the foundation of human dignity, the source of our inherent worth, and the reason why authentic love must respect every person as sacred. All counterfeit forms of love either deny or ignore this foundational truth:
+
+- **Marxism** reduces humans to economic units, denying their spiritual nature and divine origin
+- **Wokeism** makes identity categories more fundamental than our shared creation in God's image
+- **Utilitarianism** treats people as means to ends, ignoring their inherent dignity as image-bearers of God
+- **Racism/Nationalism** elevates some humans above others, contradicting the universal imago Dei
+- **Abortion/Euthanasia ideologies** deny the sacred nature of human life at its most vulnerable stages
+- **Gender ideology** rejects God's creation of humans as male and female, attempting to remake the image of God according to human will
+- **Materialism** reduces humans to mere animals or machines, denying the spiritual dimension that reflects God's image
+
+**Why Imago Dei is Essential to Authentic Love:**
+
+- **Universal Dignity:** Every person, regardless of race, age, ability, or circumstance, bears God's image and deserves respect
+- **Inherent Worth:** Human value comes from God, not from utility, productivity, or social acceptance
+- **Moral Responsibility:** Being made in God's image means we are called to reflect God's character—truth, justice, mercy, and love
+- **Eternal Destiny:** Each person is created for communion with God, making every soul infinitely precious
+- **Basis for Justice:** Rights and duties flow from our shared dignity as image-bearers, not from human convention
+- **Foundation for Mercy:** We show mercy because we recognize God's image even in those who have sinned
 
 **Why These Counterfeits Fail:**
 All counterfeit forms of love fail because they lack the complete integration of truth, justice, mercy, and sacrifice. They either:
@@ -201,6 +222,21 @@ Truth is not subjective opinion or personal interpretation. Authentic truth requ
 2. **Creation** - The visible world reveals God's invisible attributes (Romans 1:20)
 3. **Divine Revelation** - God's direct communication through Scripture and Tradition
 
+**Fundamental Truths the Church Must Defend:**
+Among the most essential truths that require authoritative teaching and defense is the foundational doctrine that **all human beings are created in the image of God** (Genesis 1:27). This truth:
+- **Establishes universal human dignity** - Every person, regardless of race, age, ability, or circumstance
+- **Grounds all human rights** - Rights flow from our creation in God's image, not human convention
+- **Defines authentic love** - Love must respect the divine image in every person
+- **Provides the basis for justice** - Objective moral standards based on God's character
+- **Enables true mercy** - Recognizing God's image even in those who have sinned
+- **Protects the vulnerable** - Especially the unborn, elderly, disabled, and marginalized
+
+Without Church authority to define and defend this truth, societies inevitably fall into:
+- **Relativism** - "Your truth" vs. "my truth" about human worth
+- **Utilitarianism** - Valuing people based on usefulness rather than inherent dignity
+- **Discrimination** - Elevating some humans above others
+- **Dehumanization** - Treating people as less than human (slavery, genocide, abortion)
+
 **Christ's Grant of Authority to the Church:**
 - **"You are Peter, and upon this rock I will build my church"** (Matthew 16:18)
 - **"Whatever you bind on earth shall be bound in heaven"** (Matthew 16:19; 18:18)
@@ -261,6 +297,45 @@ In an age where "your truth" and "my truth" replace "the Truth," Catholics affir
 - **Related Sacrament(s):** Sacrament of Reconciliation
 - **Spiritual Practice(s):** Works of Justice, Examination of Conscience, Stations of the Cross (justice of God's plan)
 - **Related Works of the Church:** Social Teachings of the Church, 10 Commandments (esp. 5th-10th commandments)
+- **Relation to the Mass:** Prayers of the Faithful (Universal Prayer), Offertory (offering our commitment to justice), Liturgy of the Word (calls to justice), Dismissal Rite (sending forth to live justly), Our Father ('Thy kingdom come')
+- **Related Saints:** St. Thomas More, St. Oscar Romero, St. Katharine Drexel
+
+**Justice Grounded in the Image of God (Imago Dei):**
+
+True justice is not based on human convention, social contract, or utilitarian calculation, but on the fundamental truth that **every human being is created in the image of God** (Genesis 1:27). This is why justice is universal, objective, and non-negotiable:
+
+**The Foundation of Human Rights:**
+- **Inherent Dignity:** Because all humans bear God's image, they possess inherent worth that cannot be earned or lost
+- **Universal Equality:** All races, nations, ages, and conditions share the same fundamental dignity as image-bearers
+- **Inalienable Rights:** Rights flow from our creation in God's image, not from government or social consensus
+- **Objective Moral Order:** Justice reflects God's own character, making it universal and unchanging across cultures and times
+
+**What Justice Demands Based on Imago Dei:**
+- **Right to Life:** From conception to natural death, because every human life bears God's image
+- **Right to Family:** Children deserve both mother and father, reflecting the complementarity of God's image in male and female
+- **Right to Truth:** Humans are rational beings made in God's image and deserve to know the truth
+- **Right to Freedom:** Authentic freedom to choose the good, not license to sin
+- **Right to Property:** Stewardship of creation as God's image-bearers
+- **Right to Worship:** Recognition of our relationship with our Creator
+
+**How This Combats Evil:**
+- **Prevents Dehumanization:** Recognizing God's image in every person stops the evil of treating humans as less than human
+- **Stops Exploitation:** Cannot use people as mere means when they bear God's image
+- **Defends the Vulnerable:** Special protection for those who cannot defend themselves (unborn, elderly, disabled, poor)
+- **Promotes True Equality:** Based on shared divine image, not artificial categories or ideologies
+- **Establishes Objective Standards:** Justice is not relative but reflects God's unchanging character
+
+**Justice Without Imago Dei Becomes:**
+- **Arbitrary:** Based on power, preference, or popular opinion
+- **Discriminatory:** Some humans valued more than others
+- **Utilitarian:** People treated as means to ends
+- **Relativistic:** "Justice" changes with culture and convenience
+- **Oppressive:** The strong define what is "just" for the weak
+
+- **Scriptural Anchor:** Micah 6:8; Genesis 1:27
+- **Related Sacrament(s):** Sacrament of Reconciliation
+- **Spiritual Practice(s):** Works of Justice, Examination of Conscience, Stations of the Cross (justice of God's plan), Defense of human dignity
+- **Related Works of the Church:** Social Teachings of the Church, 10 Commandments (esp. 5th-10th commandments), Catechism on human dignity (CCC 1700-1876)
 - **Relation to the Mass:** Prayers of the Faithful (Universal Prayer), Offertory (offering our commitment to justice), Liturgy of the Word (calls to justice), Dismissal Rite (sending forth to live justly), Our Father ('Thy kingdom come')
 - **Related Saints:** St. Thomas More, St. Oscar Romero, St. Katharine Drexel
 
