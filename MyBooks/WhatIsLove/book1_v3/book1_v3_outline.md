@@ -871,7 +871,59 @@ Fortitude enables us to:
 - **Related Works of the Church:**
 - **Relation to the Mass:** Reception of Holy Communion, Eucharistic Prayer (Consecration), Liturgy of the Word (God speaking to us), Liturgical Silence (for personal prayer), "Lord, I am not worthy..."
 
-#### Chapter 40: Communion
+#### Chapter 40: The Sacramental Ordering of Love
+- **Previous Chapter Reference:** —
+- **Facet of Love:** Sacramental Grace - God's Response to the Problem of Evil
+- **Summary:** Explores how the Mass and the seven sacraments are God's concrete response to the problem of evil, providing the grace necessary to order our entire lives toward authentic love. The sacraments are not merely rituals but God's way of healing the wounds of sin and empowering us to live the love described throughout this book. Each sacrament addresses specific forms of evil and provides specific graces for love.
+- **Relation to Justice/Mercy:** Both — Justice provides what we need for salvation; Mercy gives us what we don't deserve
+- **Related Commandments:** Matthew 28:19 (baptize all nations); Luke 22:19 (do this in memory of me); John 20:23 (forgive sins)
+- **Spiritual Practice:** Regular participation in Mass and sacraments; Living the liturgical year; Sacramental preparation
+- **Vice to Overcome:** Spiritual poverty; Self-reliance; Attempting to love without grace
+- **What Evil This Overcomes:** The evil of trying to live authentic love through human effort alone. Without sacramental grace, our attempts at love become mere moralism or sentimentality. The sacraments conquer the evil of spiritual self-sufficiency and provide the divine life necessary for authentic love.
+- **Scriptural Anchor:** 2 Peter 1:3-4 ("His divine power has granted to us all things that pertain to life and godliness... that you may become partakers of the divine nature")
+
+**The Seven Sacraments as God's Response to Evil:**
+
+- **Baptism:** Conquers original sin and spiritual death, making us children of God capable of divine love
+- **Confirmation:** Conquers spiritual weakness and fear, giving us courage to witness love in a hostile world
+- **Eucharist:** Conquers spiritual hunger and isolation, feeding us with Christ's Body and uniting us in love
+- **Penance:** Conquers personal sin and guilt, restoring us to friendship with God and neighbor
+- **Anointing of the Sick:** Conquers the despair of suffering, uniting our pain with Christ's redemptive love
+- **Matrimony:** Conquers loneliness and selfishness, creating a covenant of love ordered toward children
+- **Holy Orders:** Conquers the lack of spiritual leadership, providing shepherds to guide the flock in love
+
+**The Mass as the Source and Summit:**
+
+The Mass is the perfect prayer that orders all of life toward love:
+- **Gathering:** We come together as the Body of Christ, overcoming isolation
+- **Liturgy of the Word:** God speaks truth to our minds and hearts
+- **Liturgy of the Eucharist:** We offer our lives and receive Christ's life
+- **Dismissal:** We are sent forth to live this love in the world
+
+**Sacramental Living:**
+
+Living sacramentally means:
+- **Ordering time** according to the liturgical calendar rather than secular priorities
+- **Ordering relationships** according to sacramental bonds (marriage, priesthood, religious life)
+- **Ordering daily life** as preparation for and response to Mass
+- **Ordering suffering** by uniting it with Christ's passion
+- **Ordering joy** by recognizing all good things as gifts from God
+
+**The Sacramental Worldview:**
+
+The sacraments teach us to see all of reality as charged with God's presence:
+- **Matter matters** - God uses physical elements to convey spiritual grace
+- **Community matters** - We are saved not as individuals but as members of the Body
+- **Ritual matters** - Sacred actions form us in love more than mere ideas
+- **Time matters** - God enters history and sanctifies our moments
+
+**Related Sacrament(s):** All Seven Sacraments, especially the Holy Eucharist as source and summit
+**Spiritual Practice(s):** Daily Mass when possible, Weekly Mass as minimum, Frequent Confession, Liturgy of the Hours, Living the liturgical year
+**Related Works of the Church:** Sacrosanctum Concilium (Constitution on the Sacred Liturgy), Catechism on the Sacraments (CCC 1113-1666), Papal encyclicals on the Eucharist
+**Relation to the Mass:** The entire Mass as the perfect ordering of life toward love, from gathering to dismissal
+**Related Saints:** St. Pius X (frequent Communion), St. Jean Vianney (sacramental ministry), St. Teresa of Calcutta (Eucharistic love), St. Thérèse of Lisieux (sacramental spirituality)
+
+#### Chapter 41: Communion
 - **Previous Chapter Reference:** —
 - **Facet of Love:** Communion
 - **Relation to Justice/Mercy:** Both — total union in truth and love
