@@ -2,7 +2,11 @@
 
 ## Objective
 
-Systematically generate a devotional book by expanding the provided outline into individual markdown files for every designated chapter, following a phased workflow approach. This devotional book is at its highest purpose, the Catholic Answer to the Problem of Evil.  As CCC 25 and 309 tell us, the entire Christian Faith teaches us and is necessary to combat evil.  What's the solution to moral evil in the world? Answer is the perfect Love of God:
+Systematically generate a devotional book by expanding the provided outline into individual markdown files for every designated chapter, following a phased workflow approach.
+
+## Book Purpose
+
+This devotional book is at its highest purpose, the Catholic Answer to the Problem of Evil.  As CCC 25 and 309 tell us, the entire Christian Faith teaches us and is necessary to combat evil.  What's the solution to moral evil in the world? Answer is the perfect Love of God: revealed to us in the person of Jesus Christ.  The book also answers the question: "What is Love?" in a way that is both comprehensive and accessible to everyday Catholics for the purpose of combatting moral evil in the world starting in our own hearts. It is also a complete refutation of counterfeit forms of love (e.g., "faith alone" Christianity, marxism, wokeism, etc.)
 
 ## Input:
 

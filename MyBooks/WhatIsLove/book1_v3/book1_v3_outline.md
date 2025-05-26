@@ -1,11 +1,19 @@
 # What Is Love?
 Below is the outline for the book "What Is Love?".
+
+**Book Purpose:**
+
+This devotional book is at its highest purpose, the Catholic Answer to the Problem of Evil.  As CCC 25 and 309 tell us, the entire Christian Faith teaches us and is necessary to combat evil.  What's the solution to moral evil in the world? Answer is the perfect Love of God: revealed to us in the person of Jesus Christ.  The book also answers the question: "What is Love?" in a way that is both comprehensive and accessible to everyday Catholics for the purpose of combatting moral evil in the world starting in our own hearts. It is also a complete refutation of counterfeit forms of love (e.g., "faith alone" Christianity, marxism, wokeism, etc.)
+
+**Chapter Structure:**
+
 For each chapter, there is a "Previous Chapter" column that indicates a previous chapter
 outline that we previuosly generated for the chapter.  Use the previous chapter outline as a
 reference for the new chapter's outline using the new chapter prompt. The previous chapter files
 can be found in the "./book1_v2/outlines" directory. If no previous chapter outline has been
 indicated, create the chapter from scratch.
 
+---
 
 ## 🌱 Part 1: Introduction - What is Love?
 
