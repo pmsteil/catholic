@@ -187,6 +187,68 @@ As we proceed, let each Saint's example remind us that we are not alone in this 
 - **Relation to the Mass:** Liturgy of the Word (proclamation of Truth), Creed (profession of Truth)
 - **Related Saints:** St. Thomas Aquinas, St. Augustine, St. Edith Stein (Teresa Benedicta of the Cross)
 
+**Truth and Authority: The Foundation of Catholic Faith**
+
+**The Necessity of Authority for Truth:**
+Truth is not subjective opinion or personal interpretation. Authentic truth requires legitimate authority to:
+- **Define** what is true vs. false, especially in matters of faith and morals
+- **Defend** truth against error and heresy
+- **Teach** truth with clarity and consistency across time and culture
+- **Apply** eternal truths to new circumstances and challenges
+
+**God's Threefold Revelation of Truth:**
+1. **Natural Law** - Written in the human heart and discernible through reason (Romans 2:14-15)
+2. **Creation** - The visible world reveals God's invisible attributes (Romans 1:20)
+3. **Divine Revelation** - God's direct communication through Scripture and Tradition
+
+**Christ's Grant of Authority to the Church:**
+- **"You are Peter, and upon this rock I will build my church"** (Matthew 16:18)
+- **"Whatever you bind on earth shall be bound in heaven"** (Matthew 16:19; 18:18)
+- **"He who hears you hears me"** (Luke 10:16)
+- **"Go therefore and make disciples of all nations, teaching them to observe all that I have commanded you"** (Matthew 28:19-20)
+
+**The Church as "Pillar and Foundation of Truth":**
+- **Magisterium** - The teaching authority of the Church, guided by the Holy Spirit
+- **Infallibility** - Protection from error in matters of faith and morals when teaching definitively
+- **Apostolic Succession** - Unbroken chain of authority from the Apostles to present bishops
+- **Unity of Teaching** - One faith, one truth, preserved across centuries and cultures
+
+**Why Authority is Essential to Love:**
+- **Protects the vulnerable** from spiritual deception and false teaching
+- **Provides certainty** in moral decisions, especially in difficult circumstances
+- **Maintains unity** among believers across time and space
+- **Ensures fidelity** to Christ's original teaching rather than human innovation
+- **Enables authentic mercy** by clearly distinguishing sin from virtue
+
+**Submission to Authority as an Act of Love:**
+- **Humility** - Recognizing our limited understanding and need for guidance
+- **Trust** - Believing that Christ keeps His promise to guide His Church
+- **Obedience** - Following legitimate authority as a participation in Christ's own obedience
+- **Unity** - Choosing communion over individualism
+- **Love of Truth** - Preferring objective truth over personal preference
+
+**The Catholic Response to Relativism:**
+In an age where "your truth" and "my truth" replace "the Truth," Catholics affirm:
+- Truth is objective and knowable
+- Christ is "the Way, the Truth, and the Life" (John 14:6)
+- The Church has authority to interpret and apply Christ's teaching
+- Submission to this authority is not oppression but liberation from error
+- To be "Catholic" means to submit to the Authority of Jesus granted to the Church
+
+**How This Combats Evil:**
+- **Prevents spiritual confusion** that leads souls away from salvation
+- **Stops the multiplication of errors** that fragment Christian unity
+- **Protects marriage and family** from redefinition by secular authority
+- **Defends human dignity** based on objective truth rather than cultural opinion
+- **Provides moral clarity** in an age of ethical confusion
+
+- **Scriptural Anchor:** John 18:37; Matthew 16:18-19; 1 Timothy 3:15
+- **Related Sacrament(s):** Sacrament of Reconciliation
+- **Spiritual Practice(s):** Examination of Conscience, Spiritual Direction, Study of Church Teaching, Submission to legitimate authority
+- **Related Works of the Church:** 10 Commandments (esp. 8th commandment), Councils, Dogmas, Doctrines, Catechism, Magisterial Teaching, Papal Encyclicals
+- **Relation to the Mass:** Liturgy of the Word (proclamation of Truth), Creed (profession of Truth), Submission to liturgical authority
+- **Related Saints:** St. Thomas Aquinas, St. Augustine, St. Edith Stein (Teresa Benedicta of the Cross), St. Thomas More, St. John Fisher
+
 #### Chapter 9: Justice
 - **Previous Chapter Reference:** 22
 - **Facet of Love:** Justice
@@ -437,12 +499,6 @@ Obedience is essential for covenant love because:
 **Related Works of the Church:** Catechism on the Fourth Commandment (CCC 2196-2257), Religious Life, Papal Encyclicals on Authority
 **Relation to the Mass:** "Lord, I am not worthy" (humble submission), Creed (obedience to Church teaching), "Thy will be done" (Our Father)
 **Related Saints:** The Blessed Virgin Mary (perfect obedience), St. Joseph (obedient foster father), St. Ignatius of Loyola (religious obedience), St. Thomas More (obedience to conscience)
-
----
-
-### Part 2B: Instinctive Responses of the Heart
-
-*Where we explore the natural responses of the heart that are often intuitive and instinctive, even before we have a formal understanding of love. These are the responses that come from within, the intuitive sense of fairness, the natural inclination towards trust, and the simple recognition of kindness. This part delves into how these instinctive responses form the bedrock of a mature, Christ-like love.*
 
 #### Chapter 15: Faith
 - **Previous Chapter Reference:** 19
@@ -934,7 +990,7 @@ The sacraments teach us to see all of reality as charged with God's presence:
 - **Related Sacrament(s):** Sacrament of Holy Eucharist, Sacrament of Matrimony
 - **Spiritual Practice(s):** Community Life
 - **Related Works of the Church:** Liturgy (as a broader concept), Ecumenism, 10 Commandments
-- **Relation to the Mass:** Reception of Holy Communion, Entire Mass as communal action, Gathering Rite, Sign of Peace, Prayers of the Faithful, Our Father, Eucharistic Prayer (Epiclesis, Institution Narrative)
+- **Relation to the Mass:** Reception of Holy Communion, Entire Mass as communal action, Gathering Rite, Sign of Peace, Prayers of the Faithful, Our Father, Eucharistic Prayer (Epiclesis), Dismissal Rite
 
 #### Chapter 42: The Perfect Love - A Synthesis and Call to Action
 
