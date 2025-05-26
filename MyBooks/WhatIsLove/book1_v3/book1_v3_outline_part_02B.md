@@ -735,7 +735,7 @@ All human forgiveness **points to** and **participates in** God's ultimate forgi
 - **Related Sacrament(s):** Sacrament of Reconciliation (Penance), Eucharist (Sign of Peace)
 - **Spiritual Practice(s):** Act of Contrition, Forgiving others (as in the Our Father), Stations of the Cross (Christ's forgiveness from the Cross), Rosary (Sorrowful Mysteries), Daily examination of conscience, Prayer for enemies
 - **Related Works of the Church:** 7 Deadly Sins (Wrath), Corporal and Spiritual Works of Mercy, Restorative Justice initiatives
-- **Relation to the Mass:** Our Father ('Forgive us our trespasses...'), Sign of Peace, Penitential Act (Confiteor, Kyrie Eleison), Agnus Dei (Lamb of God), Prayer after Communion
+- **Relation to the Mass:** Our Father ('Forgive us our trespasses...'), Sign of Peace, Penitential Act (Confiteor, Kyrie Eleison), Agnus Dei (Lamb of God), Prayer after Communion, "It is truly right and just, our duty and our salvation, always and everywhere to give you thanks..."
 - **Related Saints:** St. Maria Goretti (forgave her attacker), St. Stephen (first martyr who forgave his killers), St. Peter (received forgiveness after denial), St. John Paul II (forgave his would-be assassin), St. Faustina (Divine Mercy devotion)
 
 #### Chapter 20: Gratitude
@@ -756,22 +756,165 @@ Children express genuine gratitude for simple gifts and recognize when they've b
 
 This childlike gratitude reflects our **proper relationship with God**: recognizing that **every good thing** comes from our **loving Father** who delights in blessing His children.
 
+**The Nature of Gratitude: Recognizing the Giver**
+
+Gratitude is fundamentally an act of **justice toward God** — acknowledging that **every good and perfect gift** comes from above (James 1:17). It is the virtue that recognizes our **complete dependence** on God's providence and responds with **thanksgiving, praise, and worship**.
+
+**True gratitude involves three movements:**
+1. **Recognition** - Seeing the gift as truly a gift, not something earned or owed
+2. **Acknowledgment** - Identifying the true source of all good things (God)
+3. **Response** - Offering thanks through word, deed, and worship
+
+**Gratitude as Justice: What We Owe to God**
+
+Gratitude is not merely a feeling but an **act of justice** — giving God what He is owed as our Creator, Provider, and Redeemer:
+
+- **Recognition of His sovereignty** - Acknowledging that all things come from His hand
+- **Praise for His goodness** - Celebrating His love and generosity
+- **Worship for His majesty** - Offering our lives as a living sacrifice of thanksgiving
+- **Trust in His providence** - Believing that He provides all we need
+- **Obedience to His will** - Living according to His commandments as a response to His gifts
+- **Service to His people** - Using our gifts to serve others as He has served us
+
+**The Eucharist: Perfect Gratitude**
+
+The word "Eucharist" means **thanksgiving**, and the Mass is the **perfect act of gratitude**:
+
+- **We offer** our bread and wine (representing our work and lives)
+- **God transforms** them into the Body and Blood of Christ
+- **We receive** infinitely more than we gave
+- **We are sent** to live this gratitude in the world
+
+The Eucharistic Prayer begins: "It is truly right and just, our duty and our salvation, always and everywhere to give you thanks..." This establishes gratitude as not optional but as our **fundamental obligation** as creatures before our Creator.
+
+**Gratitude Engaging Body, Mind, and Soul**
+
+**Body:**
+- **Kneeling** in thanksgiving and adoration
+- **Using our physical gifts** to serve others
+- **Physical acts of service** as expressions of gratitude
+
+**Mind:**
+- **Contemplating** God's gifts and providence
+- **Reflecting** on daily blessings through examination of conscience
+- **Planning** how to use our gifts for His glory
+
+**Soul:**
+- **Worshiping** God in spirit and truth
+- **Trusting** in His providential care
+- **Surrendering** our will to His perfect plan
+
+**Gratitude in Daily Life: Practical Applications**
+
+**Morning Gratitude:**
+- Begin each day acknowledging God's gift of life
+- Offer the day's work and activities to His glory 
+- Ask for grace to recognize His gifts throughout the day
+
+**Evening Gratitude:**
+- Practice the **Examen** - reviewing the day for God's blessings
+- Thank Him for specific graces received
+- Entrust tomorrow to His providence
+
+**In Relationships:**
+- Thank God for family, friends, and community
+- Express gratitude to others for their kindness
+- Use our gifts to serve those God has placed in our lives
+
+**In Work:**
+- See our abilities and opportunities as gifts from God
+- Work with excellence as an act of thanksgiving
+- Offer our labor as participation in God's creative work
+
+**In Suffering:**
+- Thank God for the grace to unite our suffering with Christ's
+- Trust that God can bring good from all circumstances
+- Offer our pain for the salvation of souls
+
+**What Evil This Overcomes: The Poison of Entitlement**
+
+Gratitude directly combats the **evil of entitlement** — the prideful attitude that we deserve good things and that others (including God) owe us happiness, success, and comfort.
+
+**Entitlement manifests as:**
+- **Ingratitude** toward God and others
+- **Resentment** when things don't go our way
+- **Pride** that claims credit for our achievements
+- **Greed** that always wants more
+- **Envy** of others' blessings
+- **Anger** at God when we suffer
+- **Despair** when we focus on what we lack rather than what we have
+
+**Gratitude heals these wounds by:**
+- **Humbling our pride** through recognition of our dependence
+- **Transforming resentment** into appreciation
+- **Converting envy** into joy for others' blessings
+- **Healing greed** through contentment with God's provision
+- **Overcoming despair** by focusing on God's faithfulness
+- **Calming anger** through trust in divine providence
+
+
+**The Saints of Gratitude**
+
+**The Blessed Virgin Mary** - Her **Magnificat** is the perfect song of gratitude: "My soul magnifies the Lord, and my spirit rejoices in God my Savior" (Luke 1:46-47). She shows us how to receive God's gifts with perfect gratitude and surrender.
+
+**St. Francis of Assisi** - His **Canticle of the Sun** expresses gratitude for all creation as God's gift. He lived in perfect poverty, recognizing that everything belongs to God and thanking Him for the privilege of using His gifts.
+
+**St. André Bessette** - Known for his constant gratitude despite humble circumstances. He attributed all healing miracles to St. Joseph's intercession, never taking credit for God's work through him.
+
+**St. Thérèse of Lisieux** - Her "little way" was marked by gratitude for small graces and trust in God's love. She saw everything as a gift from her heavenly Father.
+
+**St. Elizabeth of Hungary** - Showed gratitude for her royal position by using her wealth to serve the poor, recognizing her privileges as gifts to be shared.
+
+**The Fruits of Gratitude**
+
+**Personal Fruits:**
+- **Joy** in recognizing God's constant love
+- **Peace** through trust in His providence
+- **Humility** in acknowledging our dependence
+- **Contentment** with God's gifts
+- **Hope** based on His faithfulness
+
+**Relational Fruits:**
+- **Stronger marriages** built on appreciation
+- **Grateful children** who honor their parents
+- **Harmonious communities** marked by mutual appreciation
+- **Generous service** flowing from grateful hearts
+
+**Societal Fruits:**
+- **Culture of appreciation** rather than entitlement
+- **Care for the vulnerable** out of gratitude for our blessings
+- **Stewardship of creation** as grateful response to God's gifts
+- **Economic justice** based on recognition that all wealth comes from God
+
+**Obstacles to Gratitude and Their Remedies**
+
+**Pride** - Remedy: Regular examination of conscience to recognize our dependence
+**Materialism** - Remedy: Voluntary simplicity and generous giving
+**Comparison** - Remedy: Focus on our own blessings rather than others' possessions
+**Forgetfulness** - Remedy: Daily prayer of thanksgiving and keeping a gratitude journal
+**Suffering** - Remedy: Uniting our pain with Christ's and trusting in God's plan
+
+**The Call to Grateful Living**
+
+Gratitude is not merely a virtue to practice but a **way of life** to embrace. The grateful heart sees **every moment** as a gift, **every person** as a blessing, and **every circumstance** as an opportunity to trust in God's love.
+
+**Practical Steps:**
+1. **Begin and end each day** with thanksgiving
+2. **Practice the Examen** to recognize daily graces
+3. **Express gratitude** to others regularly
+4. **Give generously** as a response to God's gifts
+5. **Serve others** out of grateful love
+6. **Attend Mass** with a heart full of thanksgiving
+7. **Live simply** to appreciate what we have
+
+**The Ultimate Gratitude: Eternal Thanksgiving**
+
+Our earthly gratitude is **preparation** for the eternal thanksgiving of heaven, where we will join the angels and saints in perfect praise: "Holy, holy, holy is the Lord God Almighty, who was and is and is to come!" (Revelation 4:8).
+
+The grateful heart **anticipates heaven** by living in constant thanksgiving, recognizing that **every good gift** is a foretaste of the **eternal banquet** where we will feast forever at the table of our loving Father.
+
 - **Related Sacrament(s):** Sacrament of Holy Eucharist (as the ultimate act of thanksgiving)
 - **Spiritual Practice(s):** Thanksgiving prayer, Rosary (Joyful Mysteries - Visitation, Nativity)
 - **Related Works of the Church:** 7 Deadly Sins (Envy)
 - **Relation to the Mass:** The entire Eucharistic Prayer (as an act of thanksgiving), Preface ('It is right and just... to give you thanks'), Gloria, Sanctus, Doxology, Dismissal ('Thanks be to God')
 - **Related Saints:** The Blessed Virgin Mary (Magnificat), St. Francis of Assisi (Canticle of the Sun), St. André Bessette
-
-#### Chapter 21: Peace
-- **Previous Chapter Reference:** 30
-- **Facet of Love:** Peace
-- **Relation to Justice/Mercy:** Justice — fruit of right relationships
-- **Related Commandments:** Matt 5:9; John 14:27
-- **Spiritual Practice:** Rosary; Reconciliation
-- **Vice to Overcome:** Discord
-- **Scriptural Anchor:** Isaiah 32:17
-- **Related Sacrament(s):** Sacrament of Reconciliation
-- **Spiritual Practice(s):** Rosary, Adoration, Prayer for Peace (e.g., Prayer of St. Francis)
-- **Related Works of the Church:**
-- **Relation to the Mass:** Agnus Dei (Lamb of God - 'grant us peace'), Sign of Peace, Dismissal Rite ('Go in peace...'), Kyrie Eleison
-- **Related Saints:** St. Francis of Assisi, St. Nicholas of Flüe, St. Rita of Cascia (as peacemaker)
