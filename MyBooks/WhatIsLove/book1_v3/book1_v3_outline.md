@@ -229,12 +229,24 @@ To understand authentic love, we must recover the **humility, trust, wonder, and
 - **Spiritual Practice:** Examination of conscience; Confession
 - **Vice to Overcome:** Lying, deceit
 - **What Evil This Overcomes:** The fundamental evil of deception that corrupts relationships, destroys trust, and enables all other forms of moral evil. When truth is abandoned, justice becomes impossible and mercy becomes meaningless. Lies create the darkness in which evil flourishes.
-- **Scriptural Anchor:** John 18:37
+- **Scriptural Anchor:** John 18:37; Matthew 16:18-19; 1 Timothy 3:15
 - **Related Sacrament(s):** Sacrament of Reconciliation
 - **Spiritual Practice(s):** Examination of Conscience, Spiritual Direction
 - **Related Works of the Church:** 10 Commandments (esp. 8th commandment), Councils, Dogmas, Doctrines, Catechism
-- **Relation to the Mass:** Liturgy of the Word (proclamation of Truth), Creed (profession of Truth)
-- **Related Saints:** St. Thomas Aquinas, St. Augustine, St. Edith Stein (Teresa Benedicta of the Cross)
+- **Relation to the Mass:** Liturgy of the Word (proclamation of Truth), Creed (profession of Truth), Confeitior (acknowledgment of sin)
+- **Related Saints:** St. Thomas Aquinas, St. Augustine, St. Edith Stein (Teresa Benedicta of the Cross), St Thomas More, St. John Fisher
+
+**Body-Mind-Soul Integration in Truth:**
+
+Living in truth requires the harmonious integration of our entire human nature—body, mind, and soul working together to embrace and embody reality:
+
+- **Body:** The physical living out of truth through honest actions, authentic behavior, and integrity between what we believe and how we act. This includes speaking truthfully, acting with honesty in all our dealings, and allowing our bodies to reflect the truth of our convictions. The body participates in truth through consistent, authentic behavior that matches our beliefs.
+
+- **Mind:** The intellectual grasping of truth through reason, study, and proper formation. This involves learning Church teaching, understanding the reasons for moral principles, and developing the ability to distinguish truth from error. The mind must be formed by authentic sources and protected from relativistic thinking that denies objective truth.
+
+- **Soul:** The spiritual embracing of truth as a participation in God Himself, who is Truth. This is the deepest level where we recognize that truth is not merely information but a Person—Jesus Christ who said "I am the Truth." The soul loves truth because it loves God, and submits to truth even when it's difficult or costly.
+
+When these three work in harmony, we become witnesses to truth who can convince others not just by arguments but by the authenticity of our lives. When they are disordered, truth becomes either mere intellectualism (mind without soul/body), hypocrisy (soul/mind without body), or empty activism (body without mind/soul).
 
 **Truth and Authority: The Foundation of Catholic Faith**
 
@@ -306,13 +318,6 @@ In an age where "your truth" and "my truth" replace "the Truth," Catholics affir
 - **Defends human dignity** based on objective truth rather than cultural opinion
 - **Provides moral clarity** in an age of ethical confusion
 
-- **Scriptural Anchor:** John 18:37; Matthew 16:18-19; 1 Timothy 3:15
-- **Related Sacrament(s):** Sacrament of Reconciliation
-- **Spiritual Practice(s):** Examination of Conscience, Spiritual Direction, Study of Church Teaching, Submission to legitimate authority
-- **Related Works of the Church:** 10 Commandments (esp. 8th commandment), Councils, Dogmas, Doctrines, Catechism, Magisterial Teaching, Papal Encyclicals
-- **Relation to the Mass:** Liturgy of the Word (proclamation of Truth), Creed (profession of Truth), Submission to liturgical authority
-- **Related Saints:** St. Thomas Aquinas, St. Augustine, St. Edith Stein (Teresa Benedicta of the Cross), St. Thomas More, St. John Fisher
-
 **What Children Know:**
 Children possess an instinctive understanding of truth that adults often lose through sophistication and rationalization:
 - **Lying feels wrong** - Even small children experience discomfort when asked to lie or when they tell lies
@@ -335,7 +340,7 @@ This childlike clarity about truth is what Christ calls us to recover: the **hum
 - **Scriptural Anchor:** Micah 6:8
 - **Related Sacrament(s):** Sacrament of Reconciliation
 - **Spiritual Practice(s):** Works of Justice, Examination of Conscience, Stations of the Cross (justice of God's plan), Defense of human dignity
-- **Related Works of the Church:** Social Teachings of the Church, 10 Commandments (esp. 5th-10th commandments)
+- **Related Works of the Church:** Social Teachings of the Church, 10 Commandments (esp. 5th-10th commandments), Catechism on human dignity (CCC 1700-1876)
 - **Relation to the Mass:** Prayers of the Faithful (Universal Prayer), Offertory (offering our commitment to justice), Liturgy of the Word (calls to justice), Dismissal Rite (sending forth to live justly), Our Father ('Thy kingdom come')
 - **Related Saints:** St. Thomas More, St. Oscar Romero, St. Katharine Drexel
 
@@ -409,7 +414,7 @@ This childlike sense of justice reflects the **natural law written on the human 
 Children demonstrate a natural capacity for mercy that adults often lose through hurt and hardened hearts:
 - **Forgiveness comes easily** - Children forgive quickly and completely, often forgetting the offense entirely
 - **Second chances are normal** - Children naturally give others multiple opportunities to do better
-- **Everyone makes mistakes** - Children understand that people aren't perfect and don't hold grudges
+- **Everyone makes mistakes** - Children understand that people aren't perfect and deserve second chances
 - **Love continues after wrongdoing** - Children can separate the person from their bad behavior
 - **Apologies matter** - Children value sincere "I'm sorry" and readily accept it
 - **Kindness to those who hurt us** - Children often show kindness even to those who have been mean to them
@@ -596,6 +601,18 @@ This childlike understanding reflects God's design for covenant relationships: *
 - **What Evil This Overcomes:** The evil of sexual exploitation that treats persons as objects for pleasure rather than subjects worthy of love. Sexual disorder destroys the capacity for authentic intimacy and covenant love. Chastity conquers the evil that reduces the human person to a collection of desires rather than recognizing the sacred dignity of embodied souls.
 - **Scriptural Anchor:** 1 Thessalonians 4:3-4 ("This is the will of God, your sanctification: that you abstain from unchastity")
 
+**Body-Mind-Soul Integration in Chastity:**
+
+Chastity is fundamentally about the proper integration of sexuality within the whole person—body, mind, and soul working together according to God's design:
+
+- **Body:** The physical dimension of sexuality is honored and ordered according to its true purpose. The body is not suppressed or despised, but recognized as the temple of the Holy Spirit. Sexual desire is channeled appropriately according to one's state in life—toward one's spouse in marriage, or offered to God in celibate love.
+
+- **Mind:** The intellectual understanding of sexuality's true purpose and meaning. This includes knowledge of the unitive and procreative purposes of sexual love, understanding of appropriate boundaries, and wisdom about the connection between sexual intimacy and covenant commitment.
+
+- **Soul:** The spiritual dimension that recognizes sexuality as participation in God's creative power and a means of self-gift in love. The soul orders sexual desire toward authentic love rather than mere pleasure, seeing sexual intimacy as sacred and covenant-bound.
+
+When these three work in harmony, sexuality becomes a means of authentic self-gift and covenant love. When they are disordered, sexuality becomes either repressive (suppressing the body), lustful (ignoring the soul), or confused (lacking proper understanding).
+
 **What Children Know:**
 Children possess natural modesty and understand appropriate boundaries before cultural corruption distorts their innocence:
 - **Bodies are special** - Children naturally understand that certain parts of the body are private and sacred
@@ -639,6 +656,18 @@ Chastity is essential for covenant love because:
 - **Vice to Overcome:** Pride; Rebellion; Self-will; Disobedience
 - **What Evil This Overcomes:** The evil of pride that makes each person their own ultimate authority, leading to chaos, broken promises, and the destruction of all legitimate order. Disobedience destroys covenant relationships and creates a world where might makes right. Obedience conquers the evil that would make us gods unto ourselves.
 - **Scriptural Anchor:** Luke 1:38 ("Let it be done unto me according to your word")
+
+**Body-Mind-Soul Integration in Obedience:**
+
+True obedience requires the harmonious integration of our entire human nature—body, mind, and soul working together in loving submission:
+
+- **Body:** The physical acts of compliance and submission. This includes kneeling at Mass to show submission to God, bowing to show respect for authority, and performing the concrete actions that obedience requires. The body participates in obedience through reverent postures, respectful behavior, and faithful fulfillment of duties.
+
+- **Mind:** The intellectual understanding of legitimate authority and the reasons for obedience. This involves recognizing the source and limits of authority, understanding why submission serves the common good, and discerning between legitimate commands and illegitimate demands. The mind must be convinced of the reasonableness of obedience. This is why it is important that we understand the "why" of our Faith.
+
+- **Soul:** The spiritual submission of the will in love and trust. This is the heart of obedience—the free gift of our will to legitimate authority out of love for God and neighbor. The soul recognizes that true authority comes from God and that submission is an act of love, not mere compliance.
+
+When these three work in harmony, obedience becomes a joyful expression of love rather than grudging compliance. When they are disordered, obedience becomes either mindless conformity (body without mind/soul), rebellious intellectualism (mind without soul/body), or mere sentiment (soul without mind/body).
 
 **What Children Know:**
 Children naturally understand authority and have an instinctive desire to please loving parents:
@@ -865,7 +894,7 @@ This childlike gratitude reflects our **proper relationship with God**: recogniz
 - **Vice to Overcome:** Rashness
 - **What Evil This Overcomes:** The evil of imprudence that leads to hasty decisions, poor timing, and actions that harm rather than help. Rashness destroys relationships and undermines good intentions. Prudence conquers the evil of acting without proper consideration of consequences and circumstances.
 - **Scriptural Anchor:** Prov 14:8
-- **Related Sacrament(s):** Sacrament of Reconciliation (for clarity in discernment)
+- **Related Sacrament(s):** Sacrament of Reconciliation
 - **Spiritual Practice(s):** Spiritual Direction, Discernment of Spirits, Examination of Conscience
 - **Related Works of the Church:**
 - **Relation to the Mass:** Liturgy of the Word, Homily, Collect (Opening Prayer), Prayers of the Faithful (for right judgment), Penitential Act (Confiteor, Kyrie Eleison)
@@ -914,6 +943,18 @@ When these three work in harmony, we experience true freedom—not the slavery o
 - **Vice to Overcome:** Cowardice; Despair; Giving up when love becomes difficult
 - **What Evil This Overcomes:** The evil of cowardice that allows injustice to flourish unchallenged and abandons love when it becomes costly. Cowardice enables evil by refusing to act when action is needed. Fortitude conquers the evil that would make us retreat from our duties to God and neighbor when the going gets tough.
 - **Scriptural Anchor:** 1 Corinthians 16:13 ("Be on your guard; stand firm in the faith; be courageous; be strong")
+
+**Body-Mind-Soul Integration in Fortitude:**
+
+True fortitude requires the harmonious integration of our entire human nature—body, mind, and soul working together in courageous love:
+
+- **Body:** The physical dimension of courage that enables us to act despite fear, danger, or difficulty. This includes the bodily strength to endure suffering, the physical courage to face threats, and the stamina to persevere through long trials. The body participates in fortitude through acts of physical bravery, enduring bodily pain, and maintaining physical discipline in the face of temptation.
+
+- **Mind:** The intellectual discernment that determines what is truly worth fighting for and what should be endured. This involves moral reasoning about justice, prudent assessment of risks and benefits, and clear thinking under pressure. The mind must distinguish between true courage and mere recklessness, between legitimate fear and cowardice.
+
+- **Soul:** The spiritual strength that comes from God and enables supernatural courage. This is the deepest source of fortitude—faith in God's providence, hope in eternal life, and love that is willing to sacrifice everything for what is truly good. The soul provides the ultimate motivation for courage: love of God and neighbor.
+
+When these three work in harmony, fortitude becomes heroic virtue that can face any trial. When they are disordered, courage becomes either reckless (body without mind/soul), calculating (mind without soul/body), or merely sentimental (soul without mind/body).
 
 **The Two Aspects of Fortitude:**
 
@@ -978,7 +1019,7 @@ Fortitude enables us to:
 - **Scriptural Anchor:** Prov 12:19
 - **Related Sacrament(s):** Sacrament of Reconciliation
 - **Spiritual Practice(s):** Examination of Conscience
-- **Related Works of the Church:** 10 Commandments (8th Commandment - 'You shall not bear false witness')
+- **Related Works of the Church:** 10 Commandments (esp. 8th commandment)
 - **Relation to the Mass:** Creed (Profession of Faith), Penitential Act (Confiteor - acknowledging truth of sin), Liturgy of the Word (proclamation of God's Truth), 'Amen' responses
 - **Related Saints:** St. Thomas More, St. Athanasius, St. John the Baptist
 
@@ -1234,7 +1275,7 @@ Throughout this book, we have explored the many facets of authentic love, each r
 **The Foundation (Part 1):**
 - **The Problem:** Evil exists and causes real suffering
 - **The Promise:** God's love is the complete answer
-- **The Definition:** Perfect love is "the sacred, sacrificial gift of covenant-binding truth, justice, and mercy into life-giving communion"
+- **The Definition:** Perfect love is "the sacred, sacrificial gift of covenant which binds true justice and true mercy into life-giving communion"
 
 **The Essential Facets (Part 2A):**
 - **Truth, Justice, Mercy, Sacrifice** - the four pillars that support all authentic love
