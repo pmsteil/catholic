@@ -141,6 +141,13 @@ indicated, create the chapter from scratch.
 - **Relation to the Mass:** The entire Mass as the re-presentation of Christ's sacrifice, Offertory (offering our gifts and selves), Eucharistic Prayer (esp. Consecration and Memorial Acclamation), Agnus Dei (Lamb of God), Reception of Holy Communion (receiving the sacrificed Lord)
 - **Related Saints:** St. Maximilian Kolbe, St. Isaac Jogues, St. Gianna Beretta Molla
 
+---
+
+### Part 2B: Instinctive Responses of the Heart
+
+*Where we explore the natural responses of the heart that are often intuitive and instinctive, even before we have a formal understanding of love. These are the responses that come from within, the intuitive sense of fairness, the natural inclination towards trust, and the simple recognition of kindness. This part delves into how these instinctive responses form the bedrock of a mature, Christ-like love.*
+
+
 #### Chapter 10: Faith
 - **Previous Chapter Reference:** 19
 - **Facet of Love:** Faith
@@ -321,6 +328,23 @@ indicated, create the chapter from scratch.
 - **Relation to the Mass:** Reception of Holy Communion, Liturgy of the Word, Homily, Eucharistic Prayer, Creed, Penitential Act (Kyrie Eleison), Final Blessing
 - **Related Saints:** St. Augustine, St. Ignatius of Loyola, St. Teresa of Ávila
 
+---
+
+## 💞 Part 4: Fruits of a Love Made Mature
+
+*Signs that love has taken root*
+
+> "Now the works of the flesh are obvious: immorality, impurity, licentiousness,
+> idolatry, sorcery, hatreds, rivalry, jealousy, outbursts of fury, acts of selfishness,
+> dissensions, factions, occasions of envy, drinking bouts, orgies, and the like.
+> I warn you, as I warned you before, that those who do such things
+> will not inherit the kingdom of God.
+> In contrast, the fruit of the Spirit is love, joy, peace, patience, kindness,
+> generosity, faithfulness, gentleness, self-control.
+> Against such there is no law."
+> — Galatians 5:22–23
+
+
 #### Chapter 24: Faithfulness
 - **Previous Chapter Reference:** 48
 - **Facet of Love:** Faithfulness
@@ -387,21 +411,15 @@ indicated, create the chapter from scratch.
 - **Related Sacrament/Spiritual Practice:** Moral life, living out virtues, good works, 10 Commandments
 - **Relation to the Mass:** Entire Mass as worship (highest good), Liturgy of the Word (instruction in goodness), Creed (professing God's goodness), Sanctus, Eucharistic Prayer (Epiclesis), Reception of Holy Communion, Dismissal Rite
 
+
 ---
 
-## 💞 Part 4: Fruits of a Love Made Mature
+## 💞 Part 5: Communion — Love's Sacred Fulfillment
 
-*Signs that love has taken root*
+*What love longs for and ultimately becomes*
 
-> "Now the works of the flesh are obvious: immorality, impurity, licentiousness,
-> idolatry, sorcery, hatreds, rivalry, jealousy, outbursts of fury, acts of selfishness,
-> dissensions, factions, occasions of envy, drinking bouts, orgies, and the like.
-> I warn you, as I warned you before, that those who do such things
-> will not inherit the kingdom of God.
-> In contrast, the fruit of the Spirit is love, joy, peace, patience, kindness,
-> generosity, faithfulness, gentleness, self-control.
-> Against such there is no law."
-> — Galatians 5:22–23
+> "That they may all be one, as you, Father, are in me and I in you..."
+> — John 17:21
 
 #### Chapter 30: Confidence
 - **Previous Chapter Reference:** —
@@ -458,11 +476,3 @@ indicated, create the chapter from scratch.
 - **Related Sacrament/Spiritual Practice:** Eucharist (as a sacrament), Marriage, Liturgy (as a broader concept), Community Life, Ecumenism, 10 Commandments
 - **Relation to the Mass:** Reception of Holy Communion, Entire Mass as communal action, Gathering Rite, Sign of Peace, Prayers of the Faithful, Our Father, Eucharistic Prayer (Epiclesis, Institution Narrative)
 
----
-
-## 💞 Part 5: Communion — Love's Sacred Fulfillment
-
-*What love longs for and ultimately becomes*
-
-> "That they may all be one, as you, Father, are in me and I in you..."
-> — John 17:21
