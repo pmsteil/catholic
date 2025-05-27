@@ -647,18 +647,198 @@ Generosity transforms us from consumers into contributors, from takers into give
 
 The generous heart beats in rhythm with the Sacred Heart of Jesus, who gave everything for our salvation. As we grow in generosity, we grow in holiness, becoming living icons of God's merciful love in a world that desperately needs to experience the joy of giving and receiving authentic love.
 
-#### Chapter 36: Goodness
-- **Previous Chapter Reference:** 47
-- **Facet of Love:** Goodness
-- **Relation to Justice/Mercy:** Both — doing what is right
-- **Related Commandments:** Matt 5:16; Rom 12:21
-- **Spiritual Practice:** Acts of virtue
-- **Vice to Overcome:** Apathy
-- **Scriptural Anchor:** Psalm 23:6
-- **Related Sacrament(s):** n/a
-- **Spiritual Practice(s):** Moral life, living out virtues, good works
-- **Related Works of the Church:** 10 Commandments
-- **Relation to the Mass:** Entire Mass as worship (highest good), Liturgy of the Word (instruction in goodness), Creed (professing God's goodness), Sanctus, Eucharistic Prayer (Epiclesis), Reception of Holy Communion, Dismissal Rite
+#### Chapter 36: Goodness - The Radiance of Love Made Visible
+
+**"Surely goodness and mercy shall follow me all the days of my life, and I shall dwell in the house of the Lord forever." - Psalm 23:6**
+
+**The Nature of Goodness**
+
+Goodness is love made visible in action. It is the radiance that emanates from a heart that has been transformed by truth, justice, and mercy. While other virtues address specific aspects of the moral life, goodness represents the harmonious integration of all virtues into a life that naturally and consistently chooses what is right, beautiful, and true.
+
+Goodness is not mere niceness or pleasantness, but the deep conformity of the human will to God's will. It is the fruit of a soul that has learned to see with God's eyes, love with God's heart, and act with God's hands. When we are truly good, we become transparent windows through which God's own goodness shines into the world.
+
+**Goodness as the Integration of Body, Mind, and Soul**
+
+True goodness engages our entire being:
+
+- **Body:** Our physical actions naturally flow toward what serves the authentic good of others - helping, healing, protecting, providing, creating beauty
+- **Mind:** Our thoughts habitually turn toward what is true, noble, and constructive rather than dwelling on evil, gossip, or destruction  
+- **Soul:** Our deepest desires align with God's desires, finding joy in virtue and sorrow in sin
+
+When body, mind, and soul are integrated in goodness, we become like Mary - whose entire being was so aligned with God's will that she could say "Let it be done unto me according to your word" (Luke 1:38).
+
+**The Relationship Between Goodness, Justice, and Mercy**
+
+Goodness is both the foundation and the fruit of justice and mercy:
+
+- **Goodness as Foundation:** A genuinely good person naturally wants to give each their due (justice) and to show compassion to those who suffer (mercy)
+- **Goodness as Fruit:** When we consistently practice justice and mercy, goodness becomes our second nature - we no longer struggle to do right but find it natural and joyful
+
+Goodness transcends the mere observance of rules. While justice ensures we meet our obligations and mercy moves us beyond strict obligation, goodness creates a heart that delights in going above and beyond what is required. The good person doesn't ask "What is the minimum I must do?" but "What is the maximum good I can accomplish?"
+
+**The Hierarchy of Goodness**
+
+Not all goods are equal. True goodness requires the wisdom to order our loves properly:
+
+1. **God:** The Supreme Good, source of all other goods
+2. **Eternal Goods:** Salvation of souls, growth in virtue, sacramental life
+3. **Spiritual Goods:** Truth, beauty, justice, mercy, peace, joy
+4. **Human Goods:** Life, family, friendship, community, culture
+5. **Material Goods:** Food, shelter, clothing, resources for flourishing
+6. **Temporal Goods:** Recreation, pleasure, comfort, convenience
+
+The good person loves all these goods in their proper order, never sacrificing a higher good for a lower one. This is why martyrs can joyfully give up their lives (human good) for the sake of faithfulness to God (supreme good).
+
+**Goodness in Different States of Life**
+
+**Married Life:**
+- Spouses practice goodness by consistently choosing the authentic good of their spouse and children
+- This includes difficult goods like correction, discipline, and sacrifice
+- Good parents model virtue, create beauty in the home, and order family life toward God
+- Good spouses practice fidelity, generosity, patience, and forgiveness as natural expressions of love
+
+**Single Life:**
+- Single persons practice goodness by preparing themselves to be a gift to others
+- This includes developing virtue, skills, knowledge, and spiritual maturity
+- Good single persons serve the Church and community with their unique gifts
+- They witness to the goodness of God through their dedication and service
+
+**Religious Life:**
+- Religious practice goodness through radical dedication to the evangelical counsels
+- Their entire lives become a visible sign of God's goodness
+- They serve as spiritual mothers and fathers to the entire Church
+- Their prayer, sacrifice, and service create reservoirs of grace for the world
+
+**Clerical Life:**
+- Priests practice goodness by becoming alter Christus (another Christ)
+- They serve the good of souls through sacraments, preaching, and pastoral care
+- Good priests model virtue, teach truth, and shepherd with justice and mercy
+- Their celibacy witnesses to the supreme good of the Kingdom of Heaven
+
+**Goodness and the Common Good**
+
+Individual goodness naturally flows toward the common good of society:
+
+- **Family:** Good individuals create strong families that are schools of virtue
+- **Community:** Good families create communities where children can flourish
+- **Society:** Good communities create societies that protect the vulnerable and promote human dignity
+- **Culture:** Good societies create cultures that celebrate truth, beauty, and goodness
+
+The good person understands that their personal virtue is not merely private but has social consequences. Every act of goodness strengthens the moral fabric of society, while every act of evil weakens it.
+
+**The Contagious Nature of Goodness**
+
+Goodness has a mysterious power to inspire and transform others:
+
+- **Attraction:** People are naturally drawn to authentic goodness
+- **Inspiration:** Witnessing goodness awakens the desire for virtue in others
+- **Transformation:** Being loved by a good person helps heal wounds and overcome vice
+- **Multiplication:** One truly good person can influence countless others
+
+This is why the saints have such enduring influence. Their goodness continues to inspire and transform lives centuries after their deaths. They prove that goodness is stronger than evil, light more powerful than darkness.
+
+**Obstacles to Goodness**
+
+**Apathy:** The primary vice opposing goodness is not active evil but passive indifference to good. The apathetic person sees suffering and does nothing, witnesses injustice and remains silent, encounters opportunities for good and chooses comfort instead.
+
+**Other obstacles include:**
+- **Relativism:** Denying that objective good exists
+- **Materialism:** Reducing all goods to material pleasures
+- **Pride:** Seeking recognition rather than authentic good
+- **Discouragement:** Giving up when good seems difficult or ineffective
+- **Perfectionism:** Refusing to do small goods while waiting for great opportunities
+
+**Overcoming Obstacles Through Grace**
+
+We cannot achieve true goodness through willpower alone. We need:
+
+- **Sacramental Grace:** Regular reception of Eucharist and Penance to strengthen our will
+- **Prayer:** Daily conversation with God to align our desires with His
+- **Scripture:** Meditation on God's Word to form our conscience
+- **Community:** Fellowship with other good people who encourage virtue
+- **Spiritual Direction:** Guidance from wise counselors who can help us grow
+
+**What Evil This Overcomes**
+
+Goodness overcomes the evil of **moral apathy and spiritual mediocrity** that accepts "good enough" rather than striving for authentic excellence in virtue. This evil manifests as:
+
+- Indifference to suffering when we could help
+- Settling for minimal compliance rather than generous love
+- Choosing comfort over courage when virtue demands sacrifice
+- Accepting cultural decline rather than working for renewal
+- Spiritual laziness that avoids growth in holiness
+
+When we practice authentic goodness, we become agents of transformation who refuse to accept that "this is just how things are" and instead work to make things as they should be.
+
+**Saints Who Exemplify Goodness**
+
+- **St. Joseph:** The "just man" whose quiet goodness protected the Holy Family
+- **St. Thérèse of Lisieux:** The "Little Way" of doing small things with great love
+- **St. John Bosco:** Whose goodness transformed countless troubled youth
+- **St. Mother Teresa:** Who saw Jesus in the poorest of the poor
+- **St. John Paul II:** Whose goodness helped transform the world
+
+**Practical Applications**
+
+**Daily Practices:**
+- Begin each day asking "How can I do good today?"
+- Practice the corporal and spiritual works of mercy
+- Choose the more generous option when faced with decisions
+- Speak words that build up rather than tear down
+- Create beauty in your environment and relationships
+
+**In Relationships:**
+- Look for the good in others and affirm it
+- Forgive quickly and completely
+- Give the benefit of the doubt
+- Serve without being asked
+- Celebrate others' successes genuinely
+
+**In Work:**
+- Pursue excellence as a form of prayer
+- Treat all people with dignity regardless of status
+- Use your talents to serve the common good
+- Practice honesty and integrity in all dealings
+- Create products or services that truly benefit others
+
+**In Society:**
+- Vote for candidates who promote authentic human goods
+- Support businesses that operate ethically
+- Volunteer for causes that serve the vulnerable
+- Speak truth with charity in public discourse
+- Model virtue for the next generation
+
+**Goodness and the Mass**
+
+The Mass is the supreme school of goodness:
+
+- **Gathering:** We come together as the Body of Christ, the ultimate good
+- **Liturgy of the Word:** God teaches us what is truly good through Scripture and homily
+- **Creed:** We profess our faith in God's goodness and our commitment to live accordingly
+- **Sanctus:** We join the angels in proclaiming God's holiness and goodness
+- **Eucharistic Prayer:** We offer our lives to be transformed by the supreme Good
+- **Reception of Communion:** We receive the source of all goodness into our hearts
+- **Dismissal:** We are sent forth to be the goodness of Christ in the world
+
+**The Promise of Goodness**
+
+Jesus promises that those who practice authentic goodness will be blessed:
+
+- "Let your light shine before men, that they may see your good works and give glory to your Father who is in heaven" (Matthew 5:16)
+- "Do not be overcome by evil, but overcome evil with good" (Romans 12:21)
+- "Surely goodness and mercy shall follow me all the days of my life" (Psalm 23:6)
+
+When we choose goodness consistently, we discover that we are not merely doing good things - we are becoming good people. And good people naturally radiate the love of God, drawing others to the source of all goodness.
+
+**Conclusion: The Radiance of Love**
+
+Goodness is love made visible, virtue made attractive, and holiness made accessible. It is the natural fruit of a heart that has been transformed by truth, justice, and mercy. When we practice authentic goodness, we become living witnesses to the reality that God is good, that virtue is possible, and that love can transform the world.
+
+In a culture that often confuses goodness with weakness, we must recover the understanding that goodness is actually the greatest strength - the power to overcome evil with good, to transform hearts through love, and to create the civilization of love that God desires for His children.
+
+The good person is not naive about evil but chooses to respond to evil with good. They are not passive about injustice but work for justice through goodness. They are not indifferent to suffering but respond with the goodness of mercy and compassion.
+
+This is the goodness that "follows us all the days of our life" - not as an external addition to our character, but as the natural radiance of a soul that has learned to love as God loves.
 
 #### Chapter 37: Confidence
 - **Previous Chapter Reference:** —
