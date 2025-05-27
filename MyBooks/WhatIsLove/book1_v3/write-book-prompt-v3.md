@@ -49,8 +49,7 @@ This devotional book is at its highest purpose, the Catholic Answer to the Probl
 > **Perfect Love is the sacred, sacrificial gift of covenant which binds true justice and true mercy into life-giving communion.**
 > _(Shorter form: Love is the unity of God's true justice and true mercy.)_
 > _(Shortest form: God is Love.)_
-
-
+> 
 *   **Application:** Consistently use this definition as a lens to analyze topics in every chapter. Regularly ask variations of: "How does this teaching/sacrament/virtue reveal the _sacred/sacrificial/covenantal/binding/truth/justice/mercy/life-giving/communion_ aspect of God's love?" Use blockquotes for emphasis on this definition when reintroduced.
 
 
@@ -136,56 +135,62 @@ Example: **Key CCC Reference(s)**: Temperance: Moderates attraction of pleasures
 
 [O] **Part 1: Introduction - What is Love?**
 
-*   [O] Chapter 1
-*   [] Chapter 2
-*   [] Chapter 3
-*   [] Chapter 4
-*   [] Chapter 5
+*   [O] Chapter 1: The Problem of Evil and the Promise of Love
+*   [] Chapter 2: Defining Love: More Than a Feeling
+*   [] Chapter 3: The Universal Cry for Justice
+*   [] Chapter 4: The Necessity of Sacrifice
+*   [] Chapter 5: The Power of Mercy
+*   [] Chapter 6: Counterfeit Love: What Love Is Not
+*   [] Chapter 7: The Path Forward - How Love Unfolds
 
-[] **Part 2A: Pillars of Love — The Essential Tenets**
+[O] **Part 2A: Pillars of Love — The Essential Tenets**
 
-*   [] Chapter 6
-*   [] Chapter 7
-*   [] Chapter 8
-*   [] Chapter 9
+*   [] Chapter 8: The Gift of Truth
+*   [] Chapter 9: Truth and Authority: The Foundation of Catholic Faith
+*   [] Chapter 10: Justice Grounded in the Image of God
+*   [] Chapter 11: Mercy: The Heart of God
+*   [] Chapter 12: Unity - The Integration of Body, Mind, and Soul
+*   [] Chapter 13: Covenant Love - The Foundation of Authentic Relationships
+*   [] Chapter 14: Chastity - Integrated Sexuality within Love
+*   [] Chapter 15: Obedience - Submission of Will in Love
 
-[] **Part 2B: Instinctive Responses of the Heart**
+[O] **Part 2B: Instinctive Responses of the Heart**
 
-*   [] Chapter 10
-*   [] Chapter 11
-*   [] Chapter 12
-*   [] Chapter 13
-*   [] Chapter 14
-*   [] Chapter 15
+*   [] Chapter 16: Faith - The Foundation of Trust
+*   [] Chapter 17: Hope - The Anchor of the Soul
+*   [] Chapter 18: Charity - The Queen of Virtues
+*   [] Chapter 19: Humility - The Foundation of All Virtue
 
-[] **Part 3: Disciplines of a Loving Heart**
+[O] **Part 3: Disciplines of a Loving Heart**
 
-*   [] Chapter 16
-*   [] Chapter 17
-*   [] Chapter 18
-*   [] Chapter 19
-*   [] Chapter 20
-*   [] Chapter 21
-*   [] Chapter 22
-*   [] Chapter 23
+*   [] Chapter 20: Wisdom - Guides Just and Merciful Action
+*   [] Chapter 21: Prudence - Right Reason in Action
+*   [] Chapter 22: Temperance - Harmonious Integration of Body, Mind, and Soul
+*   [] Chapter 23: Fortitude - Courage in Love
+*   [] Chapter 24: Patience - Steadfastness in Suffering
+*   [] Chapter 25: Perseverance - The Long Haul of Love
+*   [] Chapter 26: Diligence - The Labor of Love
+*   [] Chapter 27: Generosity - The Overflow of Love
+*   [] Chapter 28: Gratitude - The Memory of Love
+*   [] Chapter 29: Forgiveness - The Release of Love
+*   [] Chapter 30: Compassion - Suffering With Love
 
-[] **Part 4: Fruits of a Love Made Mature**
+[O] **Part 4: Fruits of a Love Made Mature**
 
-*   [] Chapter 24
-*   [] Chapter 25
-*   [] Chapter 26
-*   [] Chapter 27
-*   [] Chapter 28
-*   [] Chapter 29
+*   [] Chapter 31: Joy - The Fruit of Love
+*   [] Chapter 32: Peace - The Tranquility of Love
+*   [] Chapter 33: Kindness - The Gentleness of Love
+*   [] Chapter 34: Goodness - The Integrity of Love
+*   [] Chapter 35: Self-Control - The Mastery of Love
+*   [] Chapter 36: Fidelity - The Faithfulness of Love
+*   [] Chapter 37: Gentleness - The Meekness of Love
 
-[] **Part 5: Communion — Love’s Sacred Fulfillment**
+[O] **Part 5: Communion — Love’s Sacred Fulfillment**
 
-*   [] Chapter 30
-*   [] Chapter 31
-*   [] Chapter 32
-*   [] Chapter 33
-*   [] Chapter 34
-
+*   [] Chapter 38: The Beatitudes - The Blueprint for Perfect Love
+*   [] Chapter 39: The Sacramental Ordering of Love
+*   [] Chapter 40: Communion - Love's Sacred Fulfillment
+*   [] Chapter 41: The Perfect Love - A Synthesis and Call to Action
 
 ## Output
 

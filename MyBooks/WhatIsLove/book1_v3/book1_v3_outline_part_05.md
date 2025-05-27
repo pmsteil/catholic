@@ -201,17 +201,9 @@ Communion is the heart of the Gospel - God's invitation to participate in the ve
 
 The call to communion is the call to sainthood - to become so united with God that we become instruments of His love in the world. This is the ultimate meaning of human existence: to know, love, and serve God in this life, and to be happy with Him forever in the next, in perfect communion with all the saints.
 
-> "There was a scholar of the law who stood up to test him and said,
->
-> “Teacher, what must I do to inherit eternal life?”
->
-> Jesus said to him, “What is written in the law? How do you read it?”
->
-> He said in reply, “You shall love the Lord, your God, with all your heart, with all your being, with all your strength, and with all your mind, and your neighbor as yourself.”
->
-> He replied to him, “You have answered correctly; do this and you will live.”"
+> "For God so loved the world that he gave his only Son, so that everyone who believes in him might not perish but might have eternal life. For God did not send his Son into the world to condemn the world, but that the world might be saved through him. Whoever believes in him will not be condemned, but whoever does not believe has already been condemned, because he has not believed in the name of the only Son of God. And this is the verdict, that the light came into the world, but people preferred darkness to light, because their works were evil. Everyone who does wicked things hates the light and does not come toward the light, so that his works might not be exposed. But whoever lives the truth comes to the light, so that his works may be clearly seen as done in God." — John 3:16-21
 
-The forgivenss of sins on the Cross allows us to live in communion with God and with our neighbor.
+The forgiveness of sins on the Cross allows us to live in communion with God and with our neighbor.
 
 #### Chapter 43: The Perfect Love - A Synthesis and Call to Action
 
@@ -275,6 +267,34 @@ This perfect love is not merely one response to evil among many—it is THE comp
 - **Fear of death** is conquered by hope in eternal life
 - **Separation from God** is conquered by communion and prayer
 
+
+
+### The Call to Perfection: Understanding God's Justice and Mercy in Sin
+
+Jesus calls us to nothing less than perfection: *"So be perfect, just as your heavenly Father is perfect"* (Matthew 5:48). This call to perfection is not impossible—it is the call to communion with Him. But we must understand that God's perfect justice and mercy means that not all sins are equal in their offense against love.
+
+**The Distinction Between Mortal and Venial Sin:**
+
+St. Paul teaches us clearly that some sins are more grievous than others: *"All wrongdoing is sin, but there is sin that is not deadly"* (1 John 5:17). He warns us about sins that exclude us from the Kingdom: *"Do you not know that the unjust will not inherit the kingdom of God? Do not be deceived; neither fornicators nor idolaters nor adulterers nor boy prostitutes nor practicing homosexuals nor thieves nor the greedy nor drunkards nor slanderers nor robbers will inherit the kingdom of God"* (1 Corinthians 6:9-10).
+
+**God's Perfect Justice Distinguishes:**
+- **Mortal sins** are grievous affronts to God's justice and mercy that sever our relationship with Him—they involve grave matter, full knowledge, and deliberate consent
+- **Venial sins** weaken our relationship with God but do not destroy the life of grace within us
+- God's perfect justice means He cannot look upon all sins as equal—His justice demands proper distinctions
+
+**The Path to Perfection:**
+We can achieve the perfection Jesus calls us to by:
+- **Avoiding mortal sin completely** through God's grace and the sacraments
+- **Striving to avoid venial sin** as well, recognizing that even small offenses against love orient us away from God and back toward selfishness
+- **Regular confession** to maintain and restore our friendship with God
+- **Growing in virtue** so that our hearts become more aligned with His perfect love
+
+This is not legalism but love—understanding that every sin, whether grave or light, is a turning away from the perfect love that God desires to share with us. The closer we draw to His perfect justice and mercy, the more sensitive we become to anything that might separate us from Him.
+
+Imagine a world where every person is living with this framework. I will try to wake up every day and follow God's perfect justice and mercy as best I can.  When I fall, I will try to repent and grow.  I will try to be a witness to the possibility of authentic love.  Imagine the transformation of the world.  There would be no more wars, no more oppression, no more loneliness, no more betrayal, no more division, no more greed, no more despair, no more fear of death, no more separation from God.  Yes this is pie in the sky, but it is actually possible, this is why Jesus tells us to take this good news to all nations.
+
+But even if may seem impossible, does ANY other religion, philosophy, or worldview offer an equal or better hope for the transformation of the world?
+
 ### The Call to Action: Become Saints
 
 This book is not merely an intellectual exercise—it is a call to transformation. Jesus and His Church call us to become saints, to embody this perfect love in our own lives and circumstances.
@@ -305,27 +325,6 @@ This book is not merely an intellectual exercise—it is a call to transformatio
 - **Serve the poor** - see Christ in the least of these
 - **Evangelize** - share this perfect love with a world dying from counterfeits
 
-### Your Mission: Join Jesus in His Mission to Save the World
-
-> *"For God so loved the world that he gave his only Son, so that everyone who believes in him might not perish but might have eternal life. For God did not send his Son into the world to condemn the world, but that the world might be saved through him... And this is the verdict, that the light came into the world, but people preferred darkness to light, because their works were evil. But whoever lives the truth comes to the light, so that his works may be clearly seen as done in God."* — John 3:16-17, 19, 21
-
-**Our Mission is Christ's Mission**
-Jesus came not to condemn but to save. His mission is our mission: to be instruments of salvation in a world that desperately needs the light of authentic love. The same Truth, Justice, Mercy, and Sacrifice that saved us through the Cross must now flow through us to save others. We are called to be living extensions of the Incarnation, bringing Christ's saving love to every corner of the world.
-
-**The New Evangelization: Sharing the Gift We Have Received**
-As Pope John Paul II proclaimed and Pope Benedict XVI and Pope Francis have continued, we are living in the age of the "New Evangelization"—not just maintaining our faith, but actively sharing it with renewed ardor, methods, and expression. The salvation Jesus won for us on the Cross is not something to hide but the greatest gift we can offer to a world dying from counterfeit loves.
-
-Jesus saving us from the actual consequences of sin—eternal death, spiritual darkness, broken relationships, meaningless suffering—is the most important news in human history. In whatever place God sends us, we are called to share this light with those still trapped in darkness.
-
-Go forth and love as Christ loved:
-- **Sacrificially** - giving your life for others as Jesus gave His life for you
-- **Truthfully** - speaking and living the truth in love, bringing light to those in darkness
-- **Justly** - giving each person what they are due as beloved children of God
-- **Mercifully** - forgiving as you have been forgiven, offering God's mercy to the wounded
-- **Faithfully** - keeping your covenant promises as witnesses to God's faithfulness
-- **Hopefully** - trusting in God's ultimate victory and sharing that hope with the despairing
-- **Joyfully** - knowing that love has already won and sharing that joy with the world
-
 **Make your life a living prayer:** "Thy Kingdom come, Thy will be done, on earth as it is in heaven."
 
 **Make your family a domestic church** where love conquers evil daily and children learn to be missionaries of love.
@@ -344,4 +343,19 @@ The world is waiting for saints. The world is waiting for missionaries of love. 
 
 *Let this be your response to God's call to perfect love and to the New Evangelization. The salvation of the world depends on your "yes" each and every day.*
 
+**Our Mission is Christ's Mission**
+Jesus came not to condemn but to save. His mission is our mission: to be instruments of salvation in a world that desperately needs the light of authentic love. The same Truth, Justice, Mercy, and Sacrifice that saved us through the Cross must now flow through us to save others. We are called to be living extensions of the Incarnation, bringing Christ's saving love to every corner of the world.
 
+**The New Evangelization: Sharing the Gift We Have Received**
+As Pope John Paul II proclaimed and Pope Benedict XVI and Pope Francis have continued, we are living in the age of the "New Evangelization"—not just maintaining our faith, but actively sharing it with renewed ardor, methods, and expression. The salvation Jesus won for us on the Cross is not something to hide but the greatest gift we can offer to a world dying from counterfeit loves.
+
+Jesus saving us from the actual consequences of sin—eternal death, spiritual darkness, broken relationships, meaningless suffering—is the most important news in human history. In whatever place God sends us, we are called to share this light with those still trapped in darkness.
+
+Go forth and love as Christ loved:
+- **Sacrificially** - giving your life for others as Jesus gave His life for you
+- **Truthfully** - speaking and living the truth in love, bringing light to those in darkness
+- **Justly** - giving each person what they are due as beloved children of God
+- **Mercifully** - forgiving as you have been forgiven, offering God's mercy to the wounded
+- **Faithfully** - keeping your covenant promises as witnesses to God's faithfulness
+- **Hopefully** - trusting in God's ultimate victory and sharing that hope with the despairing
+- **Joyfully** - knowing that love has already won and sharing that joy with the world
