@@ -489,6 +489,164 @@ In an age of increasing violence, aggression, and harsh rhetoric, the Church cal
 - **Related Works of the Church:** 7 Deadly Sins (Greed)
 - **Relation to the Mass:** Collection/Offertory, Presentation of the Gifts, Eucharistic Prayer (Christ's self-offering), Prayers of the Faithful (for a spirit of generosity), Holy Communion (God's generosity)
 
+**What Evil This Overcomes:** The evil of greed and stinginess that hoards God's gifts, treats material possessions as ultimate security, and refuses to share with those in need, leading to spiritual poverty, social inequality, and the hardening of hearts against the suffering of others.
+
+**The Nature of Generosity: Openhanded Love**
+
+Generosity is the virtue that opens our hands, hearts, and lives to share God's gifts freely with others. It flows from the recognition that everything we have comes from God and belongs ultimately to Him. True generosity is not merely giving from our abundance, but giving sacrificially, as Christ gave His life for us. It is mercy in action, extending God's openhanded love to a world in need.
+
+Generosity engages our entire being as integrated persons:
+- **Mind:** Recognizing that all gifts come from God and are meant to be shared
+- **Heart:** Feeling compassion for those in need and joy in giving
+- **Body:** Using our hands to give, our strength to serve, our resources to help
+
+**Biblical Foundation: "God Loves a Cheerful Giver"**
+
+Scripture reveals generosity as fundamental to God's nature and essential to Christian discipleship. "Each one must give as he has decided in his heart, not reluctantly or under compulsion, for God loves a cheerful giver" (2 Cor 9:7). Christ's teaching in the Sermon on the Mount commands radical generosity: "Give to the one who begs from you, and do not refuse the one who would borrow from you" (Matt 5:42).
+
+The widow's mite (Luke 21:1-4) demonstrates that generosity is measured not by the amount given but by the sacrifice involved. Her two copper coins were worth more than all the large gifts of the wealthy because she gave from her poverty, trusting in God's providence.
+
+**The Three Levels of Generosity**
+
+**1. Material Generosity: Sharing Our Possessions**
+- **Almsgiving:** Giving to the poor as a work of mercy
+- **Tithing:** Returning to God the first fruits of our income
+- **Stewardship:** Using all resources responsibly for God's glory
+- **Hospitality:** Welcoming strangers and sharing our homes
+- **Fair Wages:** Paying workers justly and generously
+
+**2. Spiritual Generosity: Sharing Our Gifts**
+- **Time:** Giving our most precious resource to serve others
+- **Talents:** Using our abilities for the common good
+- **Knowledge:** Teaching and mentoring others
+- **Prayer:** Interceding for others' needs
+- **Encouragement:** Building up others with our words
+
+**3. Self-Generosity: Giving Ourselves**
+- **Availability:** Being present to those who need us
+- **Forgiveness:** Releasing others from their debts to us
+- **Patience:** Giving others time to grow and change
+- **Attention:** Listening deeply to others' concerns
+- **Love:** Offering our hearts without reservation
+
+**Generosity as Mercy in Action**
+
+Generosity is mercy made visible through concrete acts of love. While justice gives each person their due, generosity goes beyond what is owed to give what is needed. It reflects God's own generosity, who "causes his sun to rise on the evil and the good, and sends rain on the righteous and the unrighteous" (Matt 5:45).
+
+Generosity serves mercy by:
+- **Relieving Suffering:** Providing for material and spiritual needs
+- **Creating Opportunity:** Enabling others to flourish and succeed
+- **Building Relationships:** Fostering bonds of gratitude and love
+- **Modeling God's Love:** Showing others how God cares for them
+- **Breaking Cycles:** Interrupting patterns of poverty and despair
+
+**The Vice of Greed: Love's Opposite**
+
+Greed is the disordered love of material possessions that makes wealth an idol. It manifests as:
+- **Avarice:** Excessive desire for money and possessions
+- **Stinginess:** Reluctance to share what we have
+- **Materialism:** Believing that possessions bring happiness
+- **Exploitation:** Using others for financial gain
+- **Anxiety:** Worrying constantly about financial security
+
+Greed corrupts love by:
+- **Replacing God:** Making money our ultimate security
+- **Hardening Hearts:** Becoming indifferent to others' suffering
+- **Creating Injustice:** Hoarding while others lack necessities
+- **Destroying Relationships:** Valuing people for what they can give us
+- **Preventing Growth:** Keeping us spiritually immature and selfish
+
+**Generosity in Marriage and Family Life**
+
+In marriage, generosity creates an atmosphere of abundance and trust:
+- **Spouses:** Giving freely of time, attention, affection, and resources
+- **Children:** Providing not just necessities but opportunities to flourish
+- **Extended Family:** Supporting relatives in times of need
+- **Community:** Contributing to schools, parishes, and civic organizations
+- **Future Generations:** Saving and investing for children's education and inheritance
+
+Generous families become schools of virtue where children learn that happiness comes from giving, not getting. Parents model God's providence by providing abundantly for their children's needs while teaching them to share with others.
+
+**Spiritual Practices of Generosity**
+
+**1. Almsgiving:** The traditional practice of giving to the poor
+- **Regular Giving:** Setting aside a percentage of income for charity
+- **Anonymous Giving:** Giving without seeking recognition
+- **Direct Service:** Personally serving those in need
+- **Sacrificial Giving:** Giving until it affects our lifestyle
+
+**2. Tithing:** Returning the first fruits to God
+- **Ten Percent:** The biblical standard of giving
+- **First Fruits:** Giving before paying other expenses
+- **Parish Support:** Contributing to the local church community
+- **Mission Support:** Supporting evangelization and global missions
+
+**3. Stewardship:** Managing all resources for God's glory
+- **Environmental Care:** Using natural resources responsibly
+- **Time Management:** Prioritizing service to God and others
+- **Talent Development:** Using our abilities for the common good
+- **Legacy Planning:** Ensuring our wealth serves good purposes after death
+
+**Generosity and the Mass**
+
+The Mass teaches and forms us in generosity through multiple elements:
+
+**Collection/Offertory:** We bring our material gifts to support the Church's mission and care for the poor, uniting our sacrifice with Christ's.
+
+**Presentation of the Gifts:** Bread and wine represent the work of human hands offered to God, symbolizing our entire lives given in service.
+
+**Eucharistic Prayer:** Christ's total self-offering becomes the model for our own generosity, showing us how to give completely.
+
+**Prayers of the Faithful:** We pray for a spirit of generosity and for those in need, expanding our hearts to embrace the world's suffering.
+
+**Holy Communion:** God's ultimate generosity in giving us His Son teaches us that love always gives itself away.
+
+**Saints of Generosity**
+
+**St. Lawrence:** Deacon and martyr who distributed the Church's treasures to the poor, declaring them the "true treasures of the Church."
+
+**St. Martin of Tours:** Soldier who cut his cloak in half to share with a beggar, later becoming a bishop known for his charity.
+
+**St. Elizabeth of Hungary:** Princess who used her wealth to build hospitals and care for the poor, giving away her possessions to follow Christ.
+
+**St. Vincent de Paul:** Priest who organized systematic care for the poor and founded the Daughters of Charity to serve those in need.
+
+**Blessed Mother Teresa:** Missionary who served the poorest of the poor in Calcutta, giving her entire life to those society had forgotten.
+
+**Generosity in Our Time: Responding to Modern Poverty**
+
+Contemporary generosity must address both traditional and new forms of poverty:
+
+**Material Poverty:** Homelessness, hunger, lack of healthcare, unemployment, debt
+**Spiritual Poverty:** Loneliness, meaninglessness, despair, addiction, broken relationships
+**Educational Poverty:** Lack of access to quality education, literacy, job training
+**Digital Poverty:** Lack of access to technology and internet connectivity
+**Environmental Poverty:** Living in polluted or degraded environments
+
+Generous Christians respond by:
+- **Supporting Effective Charities:** Researching and funding organizations that truly help
+- **Volunteering Time:** Personally serving in soup kitchens, homeless shelters, hospitals
+- **Advocating for Justice:** Working to change systems that create poverty
+- **Living Simply:** Reducing consumption to have more to share
+- **Teaching Generosity:** Raising children who value giving over getting
+
+**The Promise of Generosity: Spiritual Abundance**
+
+Christ promises that generous giving leads to spiritual abundance: "Give, and it will be given to you. Good measure, pressed down, shaken together, running over, will be put into your lap" (Luke 6:38). This is not a guarantee of material wealth but of spiritual riches:
+
+- **Joy:** The deep satisfaction that comes from serving others
+- **Peace:** Freedom from anxiety about material security
+- **Relationships:** Bonds of love created through generous service
+- **Purpose:** Meaning found in contributing to God's kingdom
+- **Trust:** Growing confidence in God's providence
+- **Holiness:** Becoming more like Christ through self-giving love
+
+**Conclusion: The Generous Heart**
+
+Generosity transforms us from consumers into contributors, from takers into givers, from fearful hoarders into trusting stewards. It opens our hearts to experience God's abundant love and share that love with a world in need. In giving generously, we discover that we cannot out-give God, who rewards every act of love with deeper communion with Himself.
+
+The generous heart beats in rhythm with the Sacred Heart of Jesus, who gave everything for our salvation. As we grow in generosity, we grow in holiness, becoming living icons of God's merciful love in a world that desperately needs to experience the joy of giving and receiving authentic love.
+
 #### Chapter 36: Goodness
 - **Previous Chapter Reference:** 47
 - **Facet of Love:** Goodness
