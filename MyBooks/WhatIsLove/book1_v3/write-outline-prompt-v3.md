@@ -13,6 +13,12 @@ This devotional book is at its highest purpose, the Catholic Answer to the Probl
 1.  **Master Outline:** `./book1_v3/book1_v3_outline.md` (Contains the overall structure and chapter titles).
 2.  **Writing Style Reference:** `./book1_v3/book1-blogpost-for-catholics.md`.
 
+## Output Format
+
+- The book outline is organized into "part" files (e.g., `book1_v3_outline_part_01.md`, `book1_v3_outline_part_02A.md`, etc.).
+- Each chapter will be a separate markdown file within a `chapters` folder (e.g., `chapters/chapter_01.md`, `chapters/chapter_02.md`, etc.).
+- Each chapter file should follow the structure outlined in the "Chapter Structure" section below.
+
 ## Output:
 
 1.  **Devotional Book:** `./book1_v3/` folder where you will generate one file per chapter.
@@ -53,6 +59,57 @@ This devotional book is at its highest purpose, the Catholic Answer to the Probl
 *   **Application:** Consistently use this definition as a lens to analyze topics in every chapter. Regularly ask variations of: "How does this teaching/sacrament/virtue reveal the _sacred/sacrificial/covenantal/binding/truth/justice/mercy/life-giving/communion_ aspect of God's love?" Use blockquotes for emphasis on this definition when reintroduced.
 
 
+
+## Chapter Structure (Narrative with Devotional Elements):
+Each chapter's narrative draft should follow this structure:
+
+**Opening:**
+
+*   Start with one (or more) most relevant **Key Scripture Verse**. Always use NABRE and always print the entire verse.Format the verse and reference like so:
+
+Example: **Key Scripture Verse**: "We know that the whole creation has been groaning in travail together until now." -- _Romans 8:22_
+
+*   Add in the most relevant **Key CCC Reference(s)** for the chapter like:
+
+Example: **Key CCC Reference(s)**: Temperance: Moderates attraction of pleasures, provides balance, ensures will's mastery over instincts. -- CCC 1809
+
+
+**Biblical and Church's Teaching:**
+*   Start with a definition of the facet of love (virtue) for the chapter. Always stick to Catholic teaching on the facet of love (virtue).
+*   Develop the chapter's theme (facet of love) based on the approved chapter outline points, using the narrative style and tone defined above.
+*   Show an example of how a child understands the chapter's facet of love intuitively (if applicable, don't make a stretch. This will be more applicable to Part 1A and 1B virtues)
+*   Whenever possible, integrate other relevant Scripture and CCC references naturally within the text where needed to support points.
+*   Whenever possible, integrate in relevant quotes (in blockquotes) from Catholic saints (especially St. Catherine of Sienna, St. Faustina Kowalska, St. Teresa of Avila, St. Thérèse of Lisieux, St. Bernard of Clairvaux, St. Mary Magdalene de’ Pazzi), theologians (especially St. Augustine and St. Thomas Aquinas), Popes (especially Pope St. John Paul II, Pope Benedict XVI and Pope Francis) to enrich the body. Make sure to document the year of the quote or author.
+*   If there is a direct relationship with this virtue and a Sacrament, explain this to the reader. In other words, the Sacraments all point us to the love of God, explain how these gifts of Jesus directly cause us to love him more deeply when they are properly understood and lived out.
+
+**Vices:**
+*   Give a bulleted list and short description of the vices associated with the facet of love (virtue) for the chapter.
+
+**When Counterfeit Love Fails:**
+
+*   Explain up to 3 of the most contemporary and common distortions that happen when this virtue is missing (if applicable and choose those that are most prevelant and destructive to our society) - point out how missing this virtue may end up in common misguided ideologies and practices and name them such as sentimentalism, critical theory, intersectionality, wokeness, relativism, liberalism, individualism, feminism, Marxism/Socialism/Communism, postmodernism, sexualism and gender ideology, divorce, politicalism, materialism, scientism, non-Christian world religions, etc.
+*   Make an empathetic case for why people might be drawn to these ideologies (the half truths offered by these ideologies) and why we should care enough to share in a most charitable way the Catholic vision of love with them.
+
+**Three Questions to Ask:**
+*   Provide up to three charitable, thought provoking questions the reader could ask someone to help them see the flaws in the counterfeit love and get to the core truth of this facet of love.
+
+**Practical Application:**
+*   Provide up to three practical applications the reader could use to live out this facet of love in their daily life.
+
+**Closing:**
+
+*   **Chapter Takeaway:** A concise summary of the chapter's main point.
+*   **Test your knowledge:** Give 2 questions to test the reader's understanding of how this facet of love relates to justice and then to mercy.
+*   **Reflection Question:** One deep, thought-provoking question related to the chapter's facet of love for personal reflection.
+
+**Additional Study:**
+*   **Scripture:** List a few additional relevant Scripture references.
+*   **Catechism:** List a few additional relevant CCC paragraph numbers.
+*   **Papal Encylicals:** List a few additional relevant papal encyclical(s). Make sure to document the year of the encyclical.
+
+**Prayer Practice:**
+*   Per the outline suggest a fitting Catholic spiritual/devotional practice explicitly linking the chapter's facet of love to the prayer's intention (e.g., understanding the facet more deeply, praying for the Salvation of the World, developing the facet of love). If the prayer is not the Rosary, The Our Father, Hail Mary or Glory Be, provide a brief explanation of the prayer's significance and how it relates to the chapter's facet of love and include the entire text of the prayer.
+
 ## Drafting Workflow and Progress Tracking
 
 **Tracking Markers:**
@@ -76,7 +133,7 @@ This devotional book is at its highest purpose, the Catholic Answer to the Probl
 
 1.  **Select Next Part/Chapter:** Identify the next chapter/part marked `[]` in the "Outline Progress" list below.
 2.  **If the next section is a part to generate:** Create a summary of all the chapters in the part and how they are related to the fact that the problem of evil is best and answered by knowing and deeply living out the agape charity of our faith and write it to the specified `output file` for the part (e.g., `./chapters/part_01.md`). Include relevant scripture quotes, CCC quotes and Pope quotes if applicable and a narrative summary of the chapters in the part. Update the Book Progress list below, changing the part's status from `[]` to `[O]`.
-3.  **If the next section is a chapter to generate:** Extract all relevant notes from the appropriate `input file` containing the outline for the chapter (e.g., `./book1_v3_outline_part_01.md`) and the structure noted in the 'Chapter Structure'. Structure these points logically for the specific chapter/part. Write the chapter into a narrative form that is both devotional and educational. Use the writing style and tone defined in the `Writing Style Reference` section above. Write the chapter to the `output file` for the chapter (e.g., `./chapters/part_01_chapter_01.md`). Update the Book Progress list below, changing the chapter's status from `[]` to `[O]`.
+3.  **If the next section is a chapter to generate:** Extract all relevant notes from the appropriate `input file` containing the outline for the chapter (e.g., `./book1_v3_outline_part_01.md`) and the structure noted in the 'Chapter Structure'. Structure these points logically for the specific chapter/part. Write this detailed plan to the specified `output file` for the chapter (e.g., `./chapters/part_01_chapter_01.md`). Update the Book Progress list below, changing the chapter's status from `[]` to `[O]`.
 4.  **Start the outline for the next chapter/part.**
 
 **Book Progress:**
