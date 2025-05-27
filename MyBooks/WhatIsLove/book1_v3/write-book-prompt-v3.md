@@ -13,6 +13,12 @@ This devotional book is at its highest purpose, the Catholic Answer to the Probl
 1.  **Master Outline:** `./book1_v3/book1_v3_outline.md` (Contains the overall structure and chapter titles).
 2.  **Writing Style Reference:** `./book1_v3/book1-blogpost-for-catholics.md`.
 
+## Output Format
+
+- The book outline is organized into "part" files (e.g., `book1_v3_outline_part_01.md`, `book1_v3_outline_part_02A.md`, etc.).
+- Each chapter will be a separate markdown file within a `chapters` folder (e.g., `chapters/chapter_01.md`, `chapters/chapter_02.md`, etc.).
+- Each chapter file should follow the structure outlined in the "Chapter Structure" section below.
+
 ## Output:
 
 1.  **Devotional Book:** `./book1_v3/` folder where you will generate one file per chapter.
@@ -49,7 +55,7 @@ This devotional book is at its highest purpose, the Catholic Answer to the Probl
 > **Perfect Love is the sacred, sacrificial gift of covenant which binds true justice and true mercy into life-giving communion.**
 > _(Shorter form: Love is the unity of God's true justice and true mercy.)_
 > _(Shortest form: God is Love.)_
-> 
+>
 *   **Application:** Consistently use this definition as a lens to analyze topics in every chapter. Regularly ask variations of: "How does this teaching/sacrament/virtue reveal the _sacred/sacrificial/covenantal/binding/truth/justice/mercy/life-giving/communion_ aspect of God's love?" Use blockquotes for emphasis on this definition when reintroduced.
 
 
@@ -126,71 +132,70 @@ Example: **Key CCC Reference(s)**: Temperance: Moderates attraction of pleasures
 **Workflow Steps:**
 
 1.  **Select Next Part/Chapter:** Identify the next chapter/part marked `[]` in the "Outline Progress" list below.
-2.  **If the next section is a part to generate:** Create a summary of all the chapters in the part and how they are related to the fact that the problem of evil is best and answered by knowing and deeply living out the agape charity of our faith (1-3 paragraphs) and write it to a new file in the `./book1_v3/outlines/` directory (e.g. for Part 1: `./book1_v3/outlines/01_part_00.md`, for Part 2: `./book1_v3/outlines/02_part_00.md`, etc.). Include relevant scripture quotes and a narrative summary of the chapters in the part.
-3.  **If the next section is a chapter to generate:** Extract relevant points from the master outline (`./book1_v3/book1_v3_outline.md`) and the structure noted in the 'Chapter Structure'. Structure these points logically for the specific chapter/part. Write this detailed plan to a new file in the `./book1_v3/outlines/` directory (e.g. for Part1, Chapter 1: `./book1_v3/outlines/01_part_01_chapter.md`, for Part1, Chapter 2: `./book1_v3/outlines/01_part_02_chapter.md`, etc.).
-4.  **Mark as Outlined:** Update the tracking list below, changing the chapter's/part's status from `[]` to `[O]`.
-5.  **Start the outline for the next chapter/part.**
+2.  **If the next section is a part to generate:** Create a summary of all the chapters in the part and how they are related to the fact that the problem of evil is best and answered by knowing and deeply living out the agape charity of our faith and write it to the specified `output file` for the part (e.g., `./chapters/part_01.md`). Include relevant scripture quotes, CCC quotes and Pope quotes if applicable and a narrative summary of the chapters in the part. Update the Book Progress list below, changing the part's status from `[]` to `[O]`.
+3.  **If the next section is a chapter to generate:** Extract all relevant notes from the appropriate `input file` containing the outline for the chapter (e.g., `./book1_v3_outline_part_01.md`) and the structure noted in the 'Chapter Structure'. Structure these points logically for the specific chapter/part. Write this detailed plan to the specified `output file` for the chapter (e.g., `./chapters/part_01_chapter_01.md`). Update the Book Progress list below, changing the chapter's status from `[]` to `[O]`.
+4.  **Start the outline for the next chapter/part.**
 
-**Outline Progress:**
+**Book Progress:**
 
-[O] **Part 1: Introduction - What is Love?**
+[] **Part 1: Introduction - What is Love?** - input file: `./book1_v3_outline_part_01.md`, output file: `./chapters/part_01.md`
 
-*   [O] Chapter 1: The Problem of Evil and the Promise of Love
-*   [] Chapter 2: Defining Love: More Than a Feeling
-*   [] Chapter 3: The Universal Cry for Justice
-*   [] Chapter 4: The Necessity of Sacrifice
-*   [] Chapter 5: The Power of Mercy
-*   [] Chapter 6: Counterfeit Love: What Love Is Not
-*   [] Chapter 7: The Path Forward - How Love Unfolds
+*   [] Chapter 1: The Problem of Evil and the Promise of Love - file: `./chapters/part_01_chapter_01.md`
+*   [] Chapter 2: Defining Love: More Than a Feeling - file: `./chapters/part_01_chapter_02.md`
+*   [] Chapter 3: The Universal Cry for Justice - file: `./chapters/part_01_chapter_03.md`
+*   [] Chapter 4: The Necessity of Sacrifice - file: `./chapters/part_01_chapter_04.md`
+*   [] Chapter 5: The Power of Mercy - file: `./chapters/part_01_chapter_05.md`
+*   [] Chapter 6: Counterfeit Love: What Love Is Not - file: `./chapters/part_01_chapter_06.md`
+*   [] Chapter 7: The Path Forward - How Love Unfolds - file: `./chapters/part_01_chapter_07.md`
 
-[O] **Part 2A: Pillars of Love — The Essential Tenets**
+[] **Part 2A: Pillars of Love — The Essential Tenets** - input file: `./book1_v3_outline_part_02A.md`, output file: `./chapters/part_02A.md`
 
-*   [] Chapter 8: The Gift of Truth
-*   [] Chapter 9: Truth and Authority: The Foundation of Catholic Faith
-*   [] Chapter 10: Justice Grounded in the Image of God
-*   [] Chapter 11: Mercy: The Heart of God
-*   [] Chapter 12: Unity - The Integration of Body, Mind, and Soul
-*   [] Chapter 13: Covenant Love - The Foundation of Authentic Relationships
-*   [] Chapter 14: Chastity - Integrated Sexuality within Love
-*   [] Chapter 15: Obedience - Submission of Will in Love
+*   [] Chapter 8: The Gift of Truth - file: `./chapters/part_02A_chapter_08.md`
+*   [] Chapter 9: Truth and Authority: The Foundation of Catholic Faith - file: `./chapters/part_02A_chapter_09.md`
+*   [] Chapter 10: Justice Grounded in the Image of God - file: `./chapters/part_02A_chapter_10.md`
+*   [] Chapter 11: Mercy: The Heart of God - file: `./chapters/part_02A_chapter_11.md`
+*   [] Chapter 12: Unity - The Integration of Body, Mind, and Soul - file: `./chapters/part_02A_chapter_12.md`
+*   [] Chapter 13: Covenant Love - The Foundation of Authentic Relationships - file: `./chapters/part_02A_chapter_13.md`
+*   [] Chapter 14: Chastity - Integrated Sexuality within Love - file: `./chapters/part_02A_chapter_14.md`
+*   [] Chapter 15: Obedience - Submission of Will in Love - file: `./chapters/part_02A_chapter_15.md`
 
-[O] **Part 2B: Instinctive Responses of the Heart**
+[] **Part 2B: Instinctive Responses of the Heart** - input file: `./book1_v3_outline_part_02B.md`, output file: `./chapters/part_02B.md`
 
-*   [] Chapter 16: Faith - The Foundation of Trust
-*   [] Chapter 17: Hope - The Anchor of the Soul
-*   [] Chapter 18: Charity - The Queen of Virtues
-*   [] Chapter 19: Humility - The Foundation of All Virtue
+*   [] Chapter 16: Faith - The Foundation of Trust - file: `./chapters/part_02B_chapter_16.md`
+*   [] Chapter 17: Hope - The Anchor of the Soul - file: `./chapters/part_02B_chapter_17.md`
+*   [] Chapter 18: Charity - The Queen of Virtues - file: `./chapters/part_02B_chapter_18.md`
+*   [] Chapter 19: Humility - The Foundation of All Virtue - file: `./chapters/part_02B_chapter_19.md`
 
-[O] **Part 3: Disciplines of a Loving Heart**
+[] **Part 3: Disciplines of a Loving Heart** - input file: `./book1_v3_outline_part_03.md`, output file: `./chapters/part_03.md`
 
-*   [] Chapter 20: Wisdom - Guides Just and Merciful Action
-*   [] Chapter 21: Prudence - Right Reason in Action
-*   [] Chapter 22: Temperance - Harmonious Integration of Body, Mind, and Soul
-*   [] Chapter 23: Fortitude - Courage in Love
-*   [] Chapter 24: Patience - Steadfastness in Suffering
-*   [] Chapter 25: Perseverance - The Long Haul of Love
-*   [] Chapter 26: Diligence - The Labor of Love
-*   [] Chapter 27: Generosity - The Overflow of Love
-*   [] Chapter 28: Gratitude - The Memory of Love
-*   [] Chapter 29: Forgiveness - The Release of Love
-*   [] Chapter 30: Compassion - Suffering With Love
+*   [] Chapter 20: Wisdom - Guides Just and Merciful Action - file: `./chapters/part_03_chapter_20.md`
+*   [] Chapter 21: Prudence - Right Reason in Action - file: `./chapters/part_03_chapter_21.md`
+*   [] Chapter 22: Temperance - Harmonious Integration of Body, Mind, and Soul - file: `./chapters/part_03_chapter_22.md`
+*   [] Chapter 23: Fortitude - Courage in Love - file: `./chapters/part_03_chapter_23.md`
+*   [] Chapter 24: Patience - Steadfastness in Suffering - file: `./chapters/part_03_chapter_24.md`
+*   [] Chapter 25: Perseverance - The Long Haul of Love - file: `./chapters/part_03_chapter_25.md`
+*   [] Chapter 26: Diligence - The Labor of Love - file: `./chapters/part_03_chapter_26.md`
+*   [] Chapter 27: Generosity - The Overflow of Love - file: `./chapters/part_03_chapter_27.md`
+*   [] Chapter 28: Gratitude - The Memory of Love - file: `./chapters/part_03_chapter_28.md`
+*   [] Chapter 29: Forgiveness - The Release of Love - file: `./chapters/part_03_chapter_29.md`
+*   [] Chapter 30: Compassion - Suffering With Love - file: `./chapters/part_03_chapter_30.md`
 
-[O] **Part 4: Fruits of a Love Made Mature**
+[] **Part 4: Fruits of a Love Made Mature** - input file: `./book1_v3_outline_part_04.md`, output file: `./chapters/part_04.md`
 
-*   [] Chapter 31: Joy - The Fruit of Love
-*   [] Chapter 32: Peace - The Tranquility of Love
-*   [] Chapter 33: Kindness - The Gentleness of Love
-*   [] Chapter 34: Goodness - The Integrity of Love
-*   [] Chapter 35: Self-Control - The Mastery of Love
-*   [] Chapter 36: Fidelity - The Faithfulness of Love
-*   [] Chapter 37: Gentleness - The Meekness of Love
+*   [] Chapter 31: Joy - The Fruit of Love - file: `./chapters/part_04_chapter_31.md`
+*   [] Chapter 32: Peace - The Tranquility of Love - file: `./chapters/part_04_chapter_32.md`
+*   [] Chapter 33: Kindness - The Gentleness of Love - file: `./chapters/part_04_chapter_33.md`
+*   [] Chapter 34: Goodness - The Integrity of Love - file: `./chapters/part_04_chapter_34.md`
+*   [] Chapter 35: Self-Control - The Mastery of Love - file: `./chapters/part_04_chapter_35.md`
+*   [] Chapter 36: Fidelity - The Faithfulness of Love - file: `./chapters/part_04_chapter_36.md`
+*   [] Chapter 37: Gentleness - The Meekness of Love - file: `./chapters/part_04_chapter_37.md`
 
-[O] **Part 5: Communion — Love’s Sacred Fulfillment**
+[] **Part 5: Communion — Love’s Sacred Fulfillment** - input file: `./book1_v3_outline_part_05.md`, output file: `./chapters/part_05.md`
 
-*   [] Chapter 38: The Beatitudes - The Blueprint for Perfect Love
-*   [] Chapter 39: The Sacramental Ordering of Love
-*   [] Chapter 40: Communion - Love's Sacred Fulfillment
-*   [] Chapter 41: The Perfect Love - A Synthesis and Call to Action
+*   [] Chapter 38: The Beatitudes - The Blueprint for Perfect Love - file: `./chapters/part_05_chapter_38.md`
+*   [] Chapter 39: The Sacramental Ordering of Love - file: `./chapters/part_05_chapter_39.md`
+*   [] Chapter 40: Communion - Love's Sacred Fulfillment - file: `./chapters/part_05_chapter_40.md`
+*   [] Chapter 41: The Perfect Love - A Synthesis and Call to Action - file: `./chapters/part_05_chapter_41.md`
 
 ## Output
 
