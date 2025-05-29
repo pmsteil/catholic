@@ -8,6 +8,32 @@ I have been walking with the Lord for over 35 years and deeply thinking about "G
 
 > ## **What is Love?**
 
+## For the Love of Children: Why This Can't Wait
+
+Let me tell you why this question has become so urgent for me, and why I believe it should be urgent for you too.
+
+Years ago, when I was serving as a youth pastor, I had an experience that changed everything for me. I was working with teenagers—beautiful, energetic, hopeful young people who were asking the deepest questions about life, love, and meaning. But I began to notice something heartbreaking: these kids were being fed a steady diet of counterfeits.
+
+They were being told that love was just a feeling, that truth was relative, that justice meant getting what you want, and that mercy meant never having to face consequences. They were being taught that their bodies were just biological machines, that their sexuality was just recreation, and that marriage was just a temporary contract based on mutual satisfaction.
+
+And I watched—with growing alarm—as these lies destroyed them from the inside out.
+
+I saw beautiful young women believing they had to give their bodies away to be loved, only to be used and discarded. I saw young men taught that strength meant domination, that vulnerability was weakness, and that commitment was optional. I saw kids from broken homes concluding that marriage was a joke, that children were burdens, and that the only person you could really count on was yourself.
+
+The most heartbreaking part? **These young people were hungry for authentic love.** They could sense that what they were being offered was counterfeit, but they had no vocabulary for the real thing. They had never seen a marriage where spouses actually laid down their lives for each other. They had never witnessed justice and mercy working together in harmony. They had never experienced the security of covenant love that says, "I will never leave you or forsake you."
+
+That's when I realized: **We are failing our children.** Not just as individual parents or teachers, but as a Church, as a society, as a civilization. We are handing them counterfeits and wondering why they're spiritually malnourished. We are giving them broken definitions of love and then acting surprised when their relationships break.
+
+**This book is for them.** For the teenagers I worked with who deserved better. For the children being raised today who need adults who know what love actually is. For the young adults trying to build marriages and families without a roadmap. For the parents who want to pass on something real and lasting to their children.
+
+But here's the thing: **You can't give what you don't have.** If we want to teach our children about authentic love, we have to understand it ourselves. If we want to protect them from counterfeits, we have to be able to recognize and articulate the real thing. If we want to raise a generation that can heal our broken world, we have to give them the tools to do it.
+
+**This is why this book matters.** Not just for your own spiritual growth—though that's important—but for the children who are counting on us to get this right. The children in your family, your parish, your community. The children who will inherit the world we leave behind.
+
+They deserve adults who can answer the question "What is love?" with clarity, conviction, and truth. They deserve to see marriages that image God's covenant love. They deserve to experience justice and mercy working together in their families. They deserve to grow up knowing that they are created in the image of God, that their lives have infinite dignity and purpose, and that authentic love is not only possible but is their birthright as children of God.
+
+**The next generation is depending on us.** Let's not fail them.
+
 It sounds so simple, doesn't it? Yet, getting this wrong has devastating consequences for individuals, families, and entire societies. Getting it right? That changes _everything_. It's the key that unlocks the meaning of our existence and the path to true freedom, true justice and meaning.
 
 The shortest, most profound answer comes straight from the heart of Divine Revelation, penned by the Apostle John:
@@ -51,7 +77,6 @@ The Catholic Faith isn't just about "following rules" or checking boxes to "get 
 He didn't say He *showed* the way, or *taught* the truth, or *gave* life – He said He *IS* the Way, *IS* the Truth, *IS* the Life. He is the perfect embodiment of the integrated love we seek. My deepest prayer for this book is that it helps all of us know Jesus more intimately in this way. And that through us, His Body, the Church, will shine ever brighter as the light of the world and the salt of the earth, offering the true answer to the world's desperate search for love.
 
 > _(A Note on Humility: While we embark on this journey to explore what it means that "God is Love," we must always do so with profound humility. As the Catechism reminds us (CCC 271), God's very mystery infinitely surpasses our limited human understanding. This book focuses specifically on the Catholic understanding of His love *as He has revealed it* and how we, His children, are called to participate in that divine life, we are not presuming to fully define the infinite God Himself. And I also don't claim that this book will be 100% correct, but I have done my best to make sure all of it is in line with all of the Catholic Faith as it has been handed down to us in the 21st Century.)_
-
 
 ## Your Roadmap for This Journey
 
