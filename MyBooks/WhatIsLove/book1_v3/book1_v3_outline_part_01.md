@@ -18,7 +18,7 @@ For each chapter, there is a "Previous Chapter" column that indicates a previous
 ### Part 1 Chapters
 
 #### Chapter 1: The Problem of Evil
-- **Previous Chapter Reference:** 01
+- **Incorporate the V2 Chapter Outline also:** 01
 - **Facet of Love:** The Problem of Evil
 - **Summary:** Confronts human-caused suffering; the "groaning" of creation (Romans 8:22, CCC 309). Establishes that moral evil is the fundamental problem requiring a solution, and that perfect love is the only adequate response. This chapter sets up the entire book by showing that every facet of love directly combats specific forms of evil. Evil is not merely the absence of good, but an active corruption that demands an active response: perfect love.
 - **Relation to Justice/Mercy:** Context for Justice and Mercy — Evil creates the need for both justice (to right wrongs) and mercy (to heal wounds)
@@ -119,7 +119,7 @@ The problem of evil is not academic but urgent because:
 **Related Saints:** St. Maximilian Kolbe (victim and victor over evil), St. Maria Goretti (forgiveness of evil), St. Joan of Arc (fighting evil), St. Thérèse of Lisieux (little way of love conquering evil)
 
 #### Chapter 2: The Universal Cry for Love
-- **Previous Chapter Reference:** 02
+- **Incorporate the V2 Chapter Outline also:** ../book1_v2/outlines/02_Ch02_outline.md
 - **Facet of Love:** The Universal Cry for Love
 - **Summary:** Explores the universal, innate human desire for love and belonging that exists in every human heart (1 Cor 13:2, CCC 27). This cry reveals our creation in God's image and our ultimate destiny for communion with Him. The universality of this longing proves that we are made for love, not isolation, and that authentic love is the fundamental human need that underlies all other desires.
 - **Relation to Justice/Mercy:** Foundation for Justice and Mercy — The cry for love creates the context in which justice and mercy become necessary and meaningful
@@ -258,7 +258,7 @@ Every subsequent chapter will unpack one aspect of this comprehensive definition
 **Related Saints:** St. John the Apostle (beloved disciple who wrote "God is Love"), St. Paul (1 Corinthians 13), St. Augustine (doctor of love), St. Thérèse (little way of love)
 
 #### Chapter 3: The Universal Cry for Justice
-- **Previous Chapter Reference:** 03
+- **Incorporate the V2 Chapter Outline also:** ../book1_v2/outlines/03_Ch03_outline.md
 - **Facet of Love:** The Universal Cry for Justice
 - **Summary:** Examines the innate desire for fairness and for wrongs to be righted (Isaiah 1:17, CCC 1954). This cry reveals that humans are created with an innate sense of right and wrong, and that justice is not merely a social construct but a fundamental requirement of authentic love. The universality of this longing proves that we are made for moral order, not chaos, and that true justice is the foundation upon which mercy can operate.
 - **Relation to Justice/Mercy:** Justice itself — The foundation that makes mercy possible and meaningful
@@ -456,7 +456,7 @@ Children possess an immediate and instinctive sense of justice that adults often
 This childlike sense of justice reflects the **natural law written on the human heart** (Romans 2:14-15). Adults must return to this **moral clarity** that recognizes injustice immediately, without the sophisticated arguments that often excuse or rationalize evil.
 
 #### Chapter 4: The Universal Cry for Mercy
-- **Previous Chapter Reference:** 04
+- **Incorporate the V2 Chapter Outline also:** ../book1_v2/outlines/04_Ch04_outline.md
 - **Facet of Love:** The Universal Cry for Mercy
 - **Summary:** Discusses the universal desire for forgiveness and a second chance (Luke 6:36, Matt 5:7).
 - **Relation to Justice/Mercy:** Mercy itself
@@ -502,7 +502,7 @@ Children demonstrate a natural capacity for mercy that adults often lose through
 This childlike mercy reflects God's own heart: **quick to forgive, slow to anger, and rich in compassion** (Psalm 103:8). Adults must return to this **tender heart** that sees the possibility of redemption in every person and refuses to let past hurts define future relationships.
 
 #### Chapter 5: Defining Love: Traditional & Comprehensive
-- **Previous Chapter Reference:** 13
+- **Incorporate the V2 Chapter Outline also:** ../book1_v2/outlines/13_Ch13_outline.md
 - **Facet of Love:** Defining Love: Traditional & Comprehensive
 - **Summary:** Introduces traditional views & the book's core definition (1 John 4:8,16, CCC 25).
 - **Relation to Justice/Mercy:** Synthesis of Justice and Mercy in True Love
@@ -633,7 +633,7 @@ This childlike mercy reflects God's own heart: **quick to forgive, slow to anger
 This definition provides the foundation for understanding each facet of love explored in the remaining chapters. Every virtue, practice, and application flows from this comprehensive understanding of perfect love as the integration of truth, justice, and mercy in covenant communion.
 
 #### Chapter 6: Counterfeit Love: What Love Is Not
-- **Previous Chapter Reference:** —
+- **Incorporate the V2 Chapter Outline also:** n/a
 - **Facet of Love:** Counterfeit Love: What Love Is Not
 - **Summary:** Systematically refutes false and incomplete definitions of love that lead souls astray. Addresses "faith alone" Christianity that separates faith from love, marxism that reduces love to class struggle, wokeism that confuses love with affirmation of sin, sentimentalism that reduces love to feelings, and other counterfeits that lack the integration of truth, justice, mercy, and sacrifice.
 - **Relation to Justice/Mercy:** Justice demands we reject false teachings; Mercy calls us to correct error with truth
@@ -707,7 +707,7 @@ This childlike discernment reflects our **original relationship with God**: reco
 Christ's command to "become like children" (Matthew 18:3) includes recovering the moral clarity that recognizes counterfeit love immediately. Adults must return to the **humility, trust, and wonder** that allows them to see through sophisticated deceptions and recognize authentic love in its beautiful simplicity.
 
 #### Chapter 7: The Path Forward - How Love Unfolds
-- **Previous Chapter Reference:** —
+- **Incorporate the V2 Chapter Outline also:** n/a
 - **Facet of Love:** The Path Forward - How Love Unfolds
 - **Summary:** Explains the structure of the remaining book and introduces the Saints as our covenant family who inspire and teach us how to live authentic love.
 - **Relation to Justice/Mercy:** Framework for understanding how Justice and Mercy work together throughout all aspects of love
