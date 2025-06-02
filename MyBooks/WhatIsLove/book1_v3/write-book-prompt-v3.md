@@ -281,7 +281,7 @@ This model ensures that each part file serves as an effective introduction and r
 [O] **Part 2A: Pillars of Love — The Essential Tenets** - input file: `./book1_v3_outline_part_02A.md`, output file: `./chapters/part_02A.md`
 
 *   [O] Chapter 8: The Gift of Truth - file: `./chapters/part_02A_chapter_08.md`
-*   [O] Chapter 9: Truth and Authority: The Foundation of Catholic Faith - file: `./chapters/part_02A_chapter_09.md`
+*   [O] Chapter 9: Truth requires Authority: The Foundation of Catholic Faith - file: `./chapters/part_02A_chapter_09.md`
 *   [O] Chapter 10: Justice Grounded in the Image of God - file: `./chapters/part_02A_chapter_10.md`
 *   [O] Chapter 11: Mercy: The Heart of God - file: `./chapters/part_02A_chapter_11.md`
 *   [O] Chapter 12: Unity - The Integration of Body, Mind, and Soul - file: `./chapters/part_02A_chapter_12.md`

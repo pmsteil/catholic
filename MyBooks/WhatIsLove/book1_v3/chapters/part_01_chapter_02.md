@@ -23,7 +23,9 @@ Our culture teaches young women that they must give their bodies away to be love
 
 They are all hungry for authentic love, but our society has stripped them of any vocabulary for the real thing. This is the tragedy of our time: a generation starving for love while being fed poison.
 
-This is the universal cry for love—the deepest longing of every human heart. And if we can't answer the question "What is love?" clearly and completely, we're failing the next generation just when they need us most.
+This is the universal cry for love—the deepest longing of every human heart. And if we can't answer the question "What is love?" - for the good of the children - clearly and completely, we're failing the next generation just when they need us most.
+
+We also hear cries in our society today for justice and mercy, which we will address in subsequent chapters, but if we don't understand love correctly, we will be unequipped to help them find true justice and mercy—or to identify the counterfeit loves that keep our society in bondage to sin and deeper injustice.
 
 ## The Universal Experience of Longing
 
@@ -41,7 +43,7 @@ When these three dimensions work in harmony, we seek authentic love that honors 
 
 This universal longing for love isn't accidental or merely cultural—it's written into our very nature because we are made in the image of God. As Scripture reveals in the very first chapter of Genesis: *"So God created mankind in his own image, in the image of God he created them; male and female he created them"* (Genesis 1:27).
 
-The Second Vatican Council beautifully explains what this means: *"Man, who is the only creature on earth which God willed for itself, cannot fully find himself except through a sincere gift of himself"* (Gaudium et Spes 24). We are created not as mere objects or tools, but as persons with inherent dignity, willed by God for our own sake and called to relationship.
+The Second Vatican Council beautifully explains what this means: *"Man, who is the only creature on earth which God willed for itself, cannot fully find himself except through a sincere gift of himself"* (Gaudium et Spes 24). We are the only creatures in our known universe that were not made for some useful "end"—yet paradoxically, we achieve our greatest dignity when we are willing to give away what and who we are for the good of others, following Christ's example of humble, obedient suffering for the love of the world.
 
 Pope John Paul II, in his Theology of the Body, taught that being made in God's image means we are created with the capacity for love and called to love. As he explained, *"Man cannot live without love. He remains a being that is incomprehensible for himself, his life is senseless, if love is not revealed to him, if he does not encounter love, if he does not experience it and make it his own"* (Redemptor Hominis 10).
 
@@ -70,29 +72,27 @@ Understanding that every human being—without exception—bears the image of Go
 
 This is why the cry for love is universal. Every human heart knows instinctively that we're made for something more than mere survival or pleasure. We're made for love because we're made in the image of Love Himself.
 
-## Traditional Definitions and Their Limitations
+## Traditional Definitions and Their Contributions
 
-Throughout history, various traditions have attempted to define love, each capturing important aspects while often missing the complete picture.
+Throughout history, great minds and holy saints have offered profound insights into the nature of love, each contributing essential pieces to our understanding.
 
-**Classical Philosophy** gave us helpful categories. Aristotle distinguished between eros (romantic love), philia (friendship), and storge (familial affection). Plato described love as the soul's journey from physical beauty to spiritual truth. The Stoics emphasized love as rational benevolence and duty toward others. These insights remain valuable, but they often separate what should be integrated.
+**Classical Philosophy** provided foundational categories that remain invaluable. Aristotle's distinction between eros (romantic love), philia (friendship), and storge (familial affection) helps us recognize love's different expressions. Plato's vision of love as the soul's journey from physical beauty to spiritual truth reveals love's transformative power. The Stoics' emphasis on love as rational benevolence shows us love's connection to virtue and duty. These insights form the bedrock of Western understanding.
 
-**Christian Tradition** brought profound theological depth. St. Augustine taught that love is the ordering principle of all virtue: "Love God, and do what you will." St. Thomas Aquinas defined love as "willing the good of another"—emphasizing love as an act of the will directed toward another's benefit. St. John of the Cross explored love as union with God through purification and surrender. These definitions capture love's spiritual dimension but can sometimes feel abstract.
+**Christian Tradition** brought revolutionary depth through the saints and doctors of the Church. St. Augustine's teaching that love is the ordering principle of all virtue—"Love God, and do what you will"—reveals love as the foundation of moral life. St. Thomas Aquinas's definition of love as "willing the good of another" emphasizes love as an act of the will directed toward another's benefit, showing us that love is more than emotion. St. John of the Cross explored love as mystical union with God through purification and surrender, revealing love's ultimate destination. These saints gave us theological treasures that illuminate love's divine dimension.
 
-**Modern Attempts** have focused on different aspects. Romantic love emphasizes intense emotional attraction and passion. Humanitarian love stresses universal compassion and service. Psychological love focuses on healthy attachment and emotional bonding. Each captures something true but incomplete.
+**Modern Insights** have added valuable psychological and social understanding. Romantic love's emphasis on emotional attraction and passion shows us love's affective power. Humanitarian love's stress on universal compassion reveals love's social dimension. Psychological insights about healthy attachment help us understand love's developmental aspects. Each contribution adds to our understanding.
 
-**The Problem with Partial Definitions:** While each traditional definition captures important aspects of love, they often fall short of the complete reality:
+## The Heart of the Problem
 
-- **"Willing the good of another"** emphasizes love as an act of the will rather than mere emotion, but it can become cold duty without the warmth of mercy and personal relationship.
+After 37+ years of studying what Scripture means when it declares "God is Love" (1 John 4:8)—through theological study, seeking God's wisdom as a husband, father, and teacher of the Faith—I have witnessed something heartbreaking. Our culture, once founded by devout Christians who built churches in every town, now sees those same churches closing their doors. We hear passionate cries for justice that often oppose true justice, demands for sexual freedom alongside accusations that reveal the very injustices such "freedom" creates, and claims for human dignity that deny the fundamental truth of what it means to be human.
 
-- **"God is love"** identifies love with the divine nature itself, but it can remain abstract without concrete application to human relationships.
+As a youth pastor, I watched good church kids absorb a culture that insists "there is no objective truth," while Christian denominations fragment over fundamental questions of love, marriage, and human dignity. In the midst of this confusion—where even sincere believers struggle to articulate what love actually means—I found myself longing for a definition of love that could unite us around the truth that sets us free.
 
-- **"Love as sacrifice"** recognizes that authentic love requires costly self-giving, but it can become masochistic or enabling without proper boundaries and the guidance of justice.
+This led me to wonder: is it possible to forge a more integrated definition that draws together all the teaching of our Lord through His Church? What we need is a definition that honors and integrates all these profound contributions while showing how they work together as one complete vision of the love God has for us.
 
-What we need is a definition that integrates all these insights while avoiding their limitations.
+## A Definition Forged from the Sacred Heart of Jesus for His People
 
-## The Book's Comprehensive Definition
-
-This book proposes a more integrated definition that captures all essential aspects of love:
+And so, after much prayer, study, and reflection, I offer this definition of love which is an attempt to draw together all of the myriad virtues and theological insights into a single, comprehensive definition of love.  May the reader and God Almighty forgive me if I have left out some critical component.
 
 > **"Perfect love is the sacred, sacrificial gift of covenant which binds true justice and true mercy into life-giving communion."**
 
@@ -106,35 +106,78 @@ This definition captures the fullness of love by including every essential eleme
 
 **Covenant:** Love creates permanent, binding relationships that endure through difficulties. It's not based on feelings or circumstances but on commitment and promise. Covenant love says "I will be faithful to you regardless of what happens."
 
-**True Justice:** Love gives each person what they are due based on their dignity as image-bearers of God. It provides objective standards and prevents love from becoming mere sentiment.
+**True Justice:** Love gives to our Creator and each person what they are due based on their dignity as image-bearers of God. It provides objective standards and prevents love from becoming mere sentiment.
 
 **True Mercy:** Love goes beyond what is due, offering forgiveness and second chances. It provides compassion when justice alone would crush.
 
-**Life-giving Communion:** Love creates authentic relationship and community. It builds up rather than tears down, unites rather than divides, and generates new life and hope.
+**Life-giving Communion:** Love creates authentic relationship and community. It builds up rather than tears down, unites rather than divides, and generates new life and hope. Communion is the "end" or fulfillment of love.
 
 When all these elements are present together, love becomes perfect—capable of conquering all forms of evil and creating authentic communion between persons.
 
+## Jesus' Call to Perfect Love
+
+This comprehensive definition isn't merely human theological speculation—it directly reflects Jesus' own teaching about perfect love. In Matthew Chapter 5, Jesus gives us the most detailed description of what perfect love looks like in practice, culminating with His direct command: *"Be perfect, as your heavenly Father is perfect"* (Matthew 5:48).
+
+**The Beatitudes: The Heart of Perfect Love** (Matthew 5:3-12)
+Jesus begins by describing those who live in perfect love: the poor in spirit who recognize their need for God (the sacred dimension), those who mourn over sin and injustice, the meek who don't demand their rights (the sacrificial gift), those who hunger for righteousness (living in God's true justice and true mercy), the merciful who forgive (true mercy), the pure in heart who see God (the sacred), the peacemakers who create life-giving communion as the family of God, and those willing to suffer for righteousness (sacrificial covenant that suffers for God's true justice and true mercy). Each beatitude reflects an aspect of perfect love.
+
+**Salt and Light: Love's Mission** (Matthew 5:13-16)
+Perfect love doesn't hide but transforms the world: *"You are the light of the world... let your light shine before others, so that they may see your good works and give glory to your Father in heaven."* This is life-giving communion in action—love that creates authentic relationships and draws others to God through the sacred gift of witness.
+
+**Beyond External Compliance: Love's Interior Transformation** (Matthew 5:17-20)
+Jesus came not to abolish the law but to fulfill it through love: *"Unless your righteousness exceeds that of the scribes and Pharisees, you will never enter the kingdom of heaven."* Perfect love goes beyond external compliance to interior transformation, binding true justice and true mercy together in the heart rather than merely following rules.
+
+**Anger and Reconciliation: Love's Justice and Mercy** (Matthew 5:21-26)
+Jesus teaches that perfect love doesn't harbor anger or contempt: *"Everyone who is angry with his brother will be liable to judgment."* Instead, love seeks reconciliation: *"First be reconciled to your brother, and then come and offer your gift."* This perfectly demonstrates how true justice (addressing wrongs) and true mercy (seeking reconciliation) work together to create life-giving communion rather than division.
+
+**Purity of Heart: Love's Sacred Nature** (Matthew 5:27-30)
+Perfect love is pure in intention, not just action: *"Everyone who looks at a woman with lustful intent has already committed adultery with her in his heart."* This reveals love's sacred nature—honoring the divine dignity of every person even in our thoughts, treating others as the sacred image-bearers they are rather than objects for our use.
+
+**Faithfulness: Love's Covenant Nature** (Matthew 5:31-32)
+Jesus teaches that perfect love creates permanent, faithful relationships: marriage reflects God's own covenant faithfulness with His people. *"It was also said, 'Whoever divorces his wife must give her a bill of divorce.' 32 But I say to you, whoever divorces his wife (unless the marriage is unlawful) causes her to commit adultery, and whoever marries a divorced woman commits adultery."* This shows covenant love—permanent, binding relationships that endure through difficulties because they participate in God's own eternal faithfulness.
+
+**Truthfulness: Love's Gift Nature** (Matthew 5:33-37)
+Perfect love is truthful and trustworthy: *"Let what you say be simply 'Yes' or 'No.'"* This demonstrates love as gift—freely given truth without manipulation or deception, offered not because it's earned but because authentic love cannot coexist with falsehood.
+
+**Generosity: Love's Sacrificial Nature** (Matthew 5:38-42)
+Perfect love doesn't seek retaliation but gives generously: *"If anyone slaps you on the right cheek, turn to him the other also... Give to the one who begs from you."* This is the sacrificial gift in action—costly self-giving that puts another's good above our own comfort or rights.
+
+**Love for Enemies: Perfect Love's Ultimate Test** (Matthew 5:43-47)
+The climax of Jesus' teaching: *"Love your enemies and pray for those who persecute you, so that you may be sons of your Father who is in heaven."* This is perfect love in its fullness—the sacred, sacrificial gift of covenant that extends true mercy even to those who hurt us, creating the possibility of life-giving communion where there was only enmity.
+
+**The Command: "Be Perfect"** (Matthew 5:48)
+Jesus concludes with the direct command: *"You therefore must be perfect, as your heavenly Father is perfect."* This isn't a suggestion—it's a commandment. Jesus expects us to live this perfect love.
+
+**How This is Actually Possible**
+The beautiful truth is that the Catholic Faith provides the only framework that makes Jesus' command achievable. Through the Church's understanding of mortal and venial sin, we learn that "perfection" means living in a love relationship with God free from mortal sin—those grave sins that cause a deadly tear in our relationship with God. While we may still struggle with venial sins (which wound but don't destroy our relationship with God), we can indeed live the perfect love Jesus describes by avoiding mortal sin and growing in grace through the sacraments.
+
+This means Jesus' command isn't impossible—it's an invitation to the life of perfect love that God makes available to us through His Church. The saints prove this is possible, having lived this perfect love while remaining fully human.
+
+Jesus is calling us to a radical transformation of our hearts, a transformation that is only possible through the sacraments and the grace of God. And all that he calls us to live is precisely what our comprehensive definition describes: the sacred, sacrificial gift of covenant which binds true justice and true mercy into life-giving communion. Every teaching in Matthew 5—from the Beatitudes to loving enemies—reflects these exact elements working together as perfect love.
+
 ## What Children Know About Love
 
-Before adult sophistication complicates everything, children express the cry for love with pure moral clarity. Their reactions reveal that they instinctively understand the very facets of love that this book will explore:
+Now that we've seen how Jesus defines perfect love and established our comprehensive definition, we might wonder: is this understanding of love natural to human beings (is it "true" about us as human beings), or is it something we must learn through complex theological study or religous doctrine? The answer comes from an unexpected source—children themselves.
 
-**Love is Sacred.** Children treat love as something holy and special, not casual or ordinary. They're devastated when love is mocked, trivialized, or treated carelessly. A child whose parents speak disrespectfully about love or marriage is genuinely confused and hurt—they know instinctively that love deserves reverence. They create special rituals around love: handmade cards, secret promises, sacred spaces where they share their deepest feelings.
-
-**Love is Sacrificial.** Children naturally understand that love means giving up something for another's good. Watch a child share their favorite toy with a sibling who's sad, or give up their dessert to someone who didn't get one. They expect parents to sacrifice for them—staying up all night when they're sick, working to provide for the family, putting the child's needs first. When adults are selfish or refuse to sacrifice, children are genuinely shocked because they know love requires self-giving.
-
-**Love Creates Covenant.** Children expect love to form permanent, unbreakable bonds. They make "forever" promises with their friends, expect marriage vows to last "till death do us part," and are traumatized by divorce because they know love should create commitments that endure. When they say "I love you," they mean it as a binding promise, not a temporary feeling. They're confused by adults who treat love as conditional or temporary.
-
-**Love Requires Truth.** Children know that love and lying cannot coexist. When a parent lies to them, they become angry and hurt in a way that shows they understand love demands honesty. They expect authenticity from those who claim to love them—no pretending, no false promises, no hidden agendas. They can spot hypocrisy immediately and are wounded by it because they know love requires genuine transparency.
-
-**Love Demands Justice.** Children have an innate sense that love means protecting the vulnerable and defending what's right. They're outraged by bullying, unfairness, and cruelty because they know love should stand up for others. When they see injustice, they naturally ask, "Why doesn't someone help them?" They expect those who love them to defend them and fight for what's right, even when it's difficult.
-
-**Love Shows Mercy.** Children naturally forgive and give second chances, but they also expect mercy from those who love them. They understand that love doesn't hold grudges or seek revenge. When they're hurt, they want restoration, not punishment. When they hurt others, they instinctively seek forgiveness. They know that love means being willing to start over and try again.
-
-**Love Creates Life-giving Communion.** Children understand that love builds deep connection and community. They want to share everything with those they love—their thoughts, their toys, their experiences. They naturally include others and invite them into relationship. They know that love isn't meant to be private or isolated but to create bonds that bring life and joy to everyone involved.
-
-These aren't learned behaviors—they're evidence that children instinctively understand what this book will demonstrate: that perfect love is indeed the sacred, sacrificial gift of covenant which binds true justice and true mercy into life-giving communion. Their profound disappointment when love fails to meet these standards reveals that this understanding is written on the human heart as natural law.
+Before adult sophistication complicates everything, children express the cry for love with pure moral clarity. Their reactions reveal that they instinctively understand the very facets of love that God has written on every human heart. This isn't coincidence—it's confirmation. Because children are made in God's image and haven't yet learned to suppress their natural understanding of love, they serve as living witnesses to the truth of our definition. Their profound disappointment when love fails to meet these standards reveals that this understanding is written on the human heart as natural law.
 
 Jesus Himself affirmed this when He said, *"Let the little children come to me, and do not hinder them, for the kingdom of God belongs to such as these. Truly I tell you, anyone who will not receive the kingdom of God like a little child will never enter it"* (Mark 10:14-15). Children naturally receive God's love because they haven't yet learned to complicate or rationalize it away. If we want to understand authentic love, we must recover the clarity that children possess before the world teaches them to accept counterfeits.
+
+**Love is Sacred.** A child whose parents divorce doesn't just feel sad—they feel like something holy has been broken. They instinctively know that love between their parents should be treated as sacred, not disposable. When adults joke crudely about love or marriage, children recoil because they recognize love deserves reverence.
+
+**Love is Sacrificial.** When a child gives up their last piece of candy to comfort a crying sibling, they're not being taught generosity—they're expressing what they know love requires. They expect this same sacrificial love from adults and are genuinely shocked when parents put their own convenience above their children's real needs.
+
+**Love Creates Covenant.** Children are devastated by divorce precisely because they understand that "I love you" means forever. When they make friendship promises with their "best friend", they mean them as binding commitments. They can't comprehend why adults would treat love as temporary or conditional—it violates their deepest understanding of what love is.
+
+**Love Requires Truth.** A child who discovers their parent has lied to them doesn't just feel disappointed—they feel betrayed at the core. They instinctively know that love and deception cannot coexist. When adults are authentic with them, children flourish; when adults are fake, children withdraw because they recognize love demands genuine transparency.
+
+**Love Demands Justice.** Children become furious at bullying not because they're taught it's wrong, but because they know love means protecting the vulnerable. When they see injustice, their immediate response is "That's not fair!"—revealing their innate understanding that love requires standing up for what's right, even when it's costly.
+
+**Love Shows Mercy.** When a child accidentally breaks something precious of Mom's, their immediate response isn't to hide or make excuses—they cry out for mercy with genuine anguish. They instinctively know they need forgiveness to restore the relationship, and their desperate plea reveals they understand that love must include mercy, or the bond they treasure will be broken.
+
+**Love Creates Life-giving Communion.** Children naturally want to share everything with those they love—their discoveries, their fears, their joy. They include others instinctively and are wounded by exclusion because they know love builds community where everyone belongs and flourishes together.
+
+These aren't learned behaviors—they're evidence that children instinctively understand what this book will demonstrate: that perfect love is indeed the sacred, sacrificial gift of covenant which binds true justice and true mercy into life-giving communion. Their profound disappointment when love fails to meet these standards reveals that this understanding is written on the human heart as natural law.
 
 ## Why We Need Liberation to Love
 
@@ -159,45 +202,25 @@ This is exactly why Jesus came—not just to teach us about love, but to break t
 
 Without this kind of guidance and grace, our cry for love becomes like being hungry but not knowing which foods will nourish us and which will make us sick. We end up accepting counterfeits that promise satisfaction but leave us emptier than before.
 
+The entire Catholic Faith, all her doctrines, every Mass, all her prayers are orienting us toward the deep Love of God that Christ revealed to us on the Cross.  Where Jesus was the perfect expression of how to love: a humble, obedient, sacrificial gift of covenant which binds true justice and true mercy into life-giving communion.
+
 ## The Foundation for the Entire Book
 
-This definition serves as the foundation for our entire exploration of love. Every subsequent chapter will unpack one aspect of this comprehensive definition, showing how each facet contributes to the complete response to evil.
+In these first two chapters, we have laid a crucial foundation: the fundamental problem facing humanity is the evil in man's heart, and Love—as uniquely and fully taught through the Catholic Faith—is the answer to that problem. We've seen that this isn't just theological theory but corresponds to the deepest cry of every human heart and the natural understanding that even children possess.
 
-The progression of the book follows logically from this definition:
+Our comprehensive definition—perfect love as "the sacred, sacrificial gift of covenant which binds true justice and true mercy into life-giving communion"—now serves as our roadmap for the entire journey ahead. Every subsequent chapter will unpack one aspect of this definition, showing in detail how each facet of authentic love directly combats specific forms of evil in our hearts and in the world.
 
-- **Chapters 1-5** establish the problem of evil and introduce love as the solution
-- **Chapters 6-15** explore the essential facets of love (truth, justice, mercy, sacrifice, unity, covenant, chastity, obedience)
-- **Chapters 16-25** examine the heart's instinctive responses to love (faith, hope, charity, humility, and the cardinal virtues)
-- **Chapters 26-39** show how love is lived through the disciplines and fruits of virtue
-- **Chapters 40-42** reveal love's ultimate fulfillment in sacramental communion
-
-Each chapter will demonstrate how that particular facet of love directly combats specific forms of evil, showing that perfect love—integrating all these elements—is indeed the complete answer to the problem of evil.
+At every step, we will see how perfect love—integrating all these elements—is not just a beautiful ideal but the practical, powerful answer to evil that the world desperately needs. Through the Catholic Faith, we have access to the fullness of this love, and through living it authentically, we become agents of the world's salvation.
 
 ## What Perfect Love Opposes
 
-Understanding what love is requires understanding what it opposes. Perfect love stands against all forms of evil and counterfeit love:
-
-**Against Mere Sentiment:** The inclusion of justice provides objective standards that prevent love from becoming mere feeling or preference.
-
-**Against Harsh Legalism:** The inclusion of mercy offers forgiveness and compassion that prevents love from becoming cold duty.
-
-**Against Individualism:** The emphasis on covenant relationships and communion shows that love is fundamentally relational and community-building.
-
-**Against Utilitarianism:** The recognition of the sacred dignity of each person prevents love from treating people as means to an end. Because every person is made in God's image and, as Vatican II teaches, "willed for itself" by God, we can never treat people as mere means to an end.
-
-**Against Relativism:** Human dignity grounded in the image of God provides an objective foundation that transcends personal opinion or cultural preference. Love isn't whatever we decide it is—it must honor the reality of who we are as God's image-bearers.
-
-**Against Temporality:** The establishment of permanent covenant bonds shows that authentic love is not temporary or conditional.
-
-This is why we must know the truth about love: because love is truth for us, and truth is what sets us free to love authentically. As Jesus himself declared, "If you remain in my word, you will truly be my disciples, and you will know the truth, and the truth will set you free" (John 8:31-32). When the Jews protested that they had never been enslaved, Jesus revealed the deeper truth: "Everyone who commits sin is a slave of sin... So if a son frees you, then you will truly be free" (John 8:34, 36).
-
-This is why the Church gives us teachings about love—not to restrict our freedom, but to liberate us from the slavery of sin that corrupts and destroys authentic love. Without truth about love, we remain enslaved to counterfeits that promise freedom but deliver bondage. This gives us solid ground for saying that some forms of "love" are actually counterfeits that deny or attack human dignity.
+Perfect love stands against all forms of evil and counterfeit love. It opposes mere sentiment by including objective standards of justice, harsh legalism by offering merciful forgiveness, individualism by emphasizing covenant relationships and communion, utilitarianism by recognizing the sacred dignity of each person made in God's image, relativism by grounding love in the objective reality of human dignity, and temporality by establishing permanent covenant bonds. We will explore these counterfeits and how authentic love defeats them in much greater detail in Chapter 6.
 
 ## Living the Response
 
 Understanding what love truly is changes everything. It means we can resist counterfeits—either in our own hearts or in the culture around us. It means we have a standard by which to measure every relationship, every choice, every commitment. Most importantly, it means we can be liberated from the slavery of sin that corrupts our ability to love.
 
-The saints understood this liberation. St. Thérèse of Lisieux called love "the vocation which includes all others." St. John the Apostle, the beloved disciple, spent his final years proclaiming the simple truth: "God is love." St. Augustine built his entire theology on the foundation that love is the ordering principle of all virtue. But they also understood that sin enslaves us and prevents us from loving—which is why they embraced the Church's teachings not as burdens, but as the very tools of their liberation.
+The saints understood this liberation. St. Thérèse of Lisieux called love "the vocation which includes all others." St. John the Apostle, the beloved disciple, spent his final years proclaiming the simple truth: "God is love." St. Augustine built his entire theology on the foundation that love is the ordering principle of all virtue—seeing justice, temperance, courage, and prudence as different facets of love itself. But they also understood that sin enslaves us and prevents us from loving—which is why they embraced the Church's teachings not as burdens, but as the very tools of their liberation.
 
 These saints didn't just understand love intellectually—they lived it. They allowed God's perfect love to transform their hearts and liberate them from sin's slavery, and through them, it transformed the world. This is our calling also: to understand love so deeply that it transforms us from the inside out, freeing us to become instruments of God's love in a world desperately hungry for both truth and liberation.
 
