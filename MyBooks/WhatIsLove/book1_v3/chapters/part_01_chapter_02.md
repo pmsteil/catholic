@@ -72,6 +72,8 @@ Understanding that every human being—without exception—bears the image of Go
 
 This is why the cry for love is universal. Every human heart knows instinctively that we're made for something more than mere survival or pleasure. We're made for love because we're made in the image of Love Himself.
 
+Now that we understand why this longing for love is written into our very nature as image-bearers of God, let's examine how great minds throughout history have attempted to define what love actually is.
+
 ## Traditional Definitions and Their Contributions
 
 Throughout history, great minds and holy saints have offered profound insights into the nature of love, each contributing essential pieces to our understanding.
@@ -92,7 +94,7 @@ This led me to wonder: is it possible to forge a more integrated definition that
 
 ## A Definition Forged from the Sacred Heart of Jesus for His People
 
-And so, after much prayer, study, and reflection, I offer this definition of love which is an attempt to draw together all of the myriad virtues and theological insights into a single, comprehensive definition of love.  May the reader and God Almighty forgive me if I have left out some critical component.
+After much prayer, study, and reflection, I offer this definition of love which attempts to draw together all of the myriad virtues and theological insights into a single, comprehensive understanding of love.
 
 > **"Perfect love is the sacred, sacrificial gift of covenant which binds true justice and true mercy into life-giving communion."**
 
@@ -118,11 +120,17 @@ When all these elements are present together, love becomes perfect—capable of 
 
 This comprehensive definition isn't merely human theological speculation—it directly reflects Jesus' own teaching about perfect love. In Matthew Chapter 5, Jesus gives us the most detailed description of what perfect love looks like in practice, culminating with His direct command: *"Be perfect, as your heavenly Father is perfect"* (Matthew 5:48).
 
+### The Beatitudes: The Heart of Perfect Love
+
 **The Beatitudes: The Heart of Perfect Love** (Matthew 5:3-12)
 Jesus begins by describing those who live in perfect love: the poor in spirit who recognize their need for God (the sacred dimension), those who mourn over sin and injustice, the meek who don't demand their rights (the sacrificial gift), those who hunger for righteousness (living in God's true justice and true mercy), the merciful who forgive (true mercy), the pure in heart who see God (the sacred), the peacemakers who create life-giving communion as the family of God, and those willing to suffer for righteousness (sacrificial covenant that suffers for God's true justice and true mercy). Each beatitude reflects an aspect of perfect love.
 
+### Salt and Light: Love's Mission
+
 **Salt and Light: Love's Mission** (Matthew 5:13-16)
 Perfect love doesn't hide but transforms the world: *"You are the light of the world... let your light shine before others, so that they may see your good works and give glory to your Father in heaven."* This is life-giving communion in action—love that creates authentic relationships and draws others to God through the sacred gift of witness.
+
+### Beyond External Compliance: Love's Interior Transformation
 
 **Beyond External Compliance: Love's Interior Transformation** (Matthew 5:17-20)
 Jesus came not to abolish the law but to fulfill it through love: *"Unless your righteousness exceeds that of the scribes and Pharisees, you will never enter the kingdom of heaven."* Perfect love goes beyond external compliance to interior transformation, binding true justice and true mercy together in the heart rather than merely following rules.
@@ -142,8 +150,12 @@ Perfect love is truthful and trustworthy: *"Let what you say be simply 'Yes' or 
 **Generosity: Love's Sacrificial Nature** (Matthew 5:38-42)
 Perfect love doesn't seek retaliation but gives generously: *"If anyone slaps you on the right cheek, turn to him the other also... Give to the one who begs from you."* This is the sacrificial gift in action—costly self-giving that puts another's good above our own comfort or rights.
 
+### Love for Enemies: Perfect Love's Ultimate Test
+
 **Love for Enemies: Perfect Love's Ultimate Test** (Matthew 5:43-47)
 The climax of Jesus' teaching: *"Love your enemies and pray for those who persecute you, so that you may be sons of your Father who is in heaven."* This is perfect love in its fullness—the sacred, sacrificial gift of covenant that extends true mercy even to those who hurt us, creating the possibility of life-giving communion where there was only enmity.
+
+### The Command: "Be Perfect"
 
 **The Command: "Be Perfect"** (Matthew 5:48)
 Jesus concludes with the direct command: *"You therefore must be perfect, as your heavenly Father is perfect."* This isn't a suggestion—it's a commandment. Jesus expects us to live this perfect love.
@@ -157,7 +169,7 @@ Jesus is calling us to a radical transformation of our hearts, a transformation 
 
 ## What Children Know About Love
 
-Now that we've seen how Jesus defines perfect love and established our comprehensive definition, we might wonder: is this understanding of love natural to human beings (is it "true" about us as human beings), or is it something we must learn through complex theological study or religous doctrine? The answer comes from an unexpected source—children themselves.
+But we might wonder: is this understanding of love something we must learn through complex theological study, or is it natural to human beings? The answer comes from an unexpected source—children themselves.
 
 Before adult sophistication complicates everything, children express the cry for love with pure moral clarity. Their reactions reveal that they instinctively understand the very facets of love that God has written on every human heart. This isn't coincidence—it's confirmation. Because children are made in God's image and haven't yet learned to suppress their natural understanding of love, they serve as living witnesses to the truth of our definition. Their profound disappointment when love fails to meet these standards reveals that this understanding is written on the human heart as natural law.
 
@@ -211,8 +223,6 @@ In these first two chapters, we have laid a crucial foundation: the fundamental 
 Our comprehensive definition—perfect love as "the sacred, sacrificial gift of covenant which binds true justice and true mercy into life-giving communion"—now serves as our roadmap for the entire journey ahead. Every subsequent chapter will unpack one aspect of this definition, showing in detail how each facet of authentic love directly combats specific forms of evil in our hearts and in the world.
 
 At every step, we will see how perfect love—integrating all these elements—is not just a beautiful ideal but the practical, powerful answer to evil that the world desperately needs. Through the Catholic Faith, we have access to the fullness of this love, and through living it authentically, we become agents of the world's salvation.
-
-## What Perfect Love Opposes
 
 Perfect love stands against all forms of evil and counterfeit love. It opposes mere sentiment by including objective standards of justice, harsh legalism by offering merciful forgiveness, individualism by emphasizing covenant relationships and communion, utilitarianism by recognizing the sacred dignity of each person made in God's image, relativism by grounding love in the objective reality of human dignity, and temporality by establishing permanent covenant bonds. We will explore these counterfeits and how authentic love defeats them in much greater detail in Chapter 6.
 
