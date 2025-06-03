@@ -271,7 +271,7 @@ This model ensures that each part file serves as an effective introduction and r
 [C] **Part 1: Introduction - What is Love?** - input file: `./book1_v3_outline_part_01.md`, output file: `./chapters/part_01.md`
 
 *   [C] Chapter 1: The Problem of Evil and the Promise of Love - file: `./chapters/part_01_chapter_01.md`
-*   [O] Chapter 2: Defining Love: More Than a Feeling - file: `./chapters/part_01_chapter_02.md`
+*   [C] Chapter 2: Defining Love: More Than a Feeling - file: `./chapters/part_01_chapter_02.md`
 *   [O] Chapter 3: The Universal Cry for Justice - file: `./chapters/part_01_chapter_03.md`
 *   [O] Chapter 4: The Necessity of Sacrifice - file: `./chapters/part_01_chapter_04.md`
 *   [O] Chapter 5: The Power of Mercy - file: `./chapters/part_01_chapter_05.md`
