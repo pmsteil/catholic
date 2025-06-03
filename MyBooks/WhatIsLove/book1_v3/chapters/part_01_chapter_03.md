@@ -248,6 +248,32 @@ This integration is what makes love "perfect"—it lacks nothing essential and e
 
 When we cry out for justice, we are really crying out for this perfect love that honors truth, demands fairness, and offers mercy. This is why the universal cry for justice ultimately points us toward God, who alone perfectly integrates all three.
 
+## What Evil This Overcomes
+
+The virtue of justice directly combats the evil of **dehumanization and exploitation**—the tendency to treat human beings as less than the image-bearers of God they truly are.
+
+**Personal Evil:** Justice conquers the selfishness that ignores others' rights, the pride that demands special treatment, and the greed that exploits the vulnerable for personal gain.
+
+**Relational Evil:** Justice heals broken trust, stops the cycle of revenge, and prevents the abuse of power that destroys families and friendships.
+
+**Societal Evil:** Justice confronts systemic oppression, economic exploitation, and the cultural lies that deny human dignity based on race, class, or convenience.
+
+**Spiritual Evil:** Justice defeats the fundamental lie that some human lives matter less than others, restoring the truth that every person bears God's image and deserves respect.
+
+Without justice, love becomes mere sentiment that enables evil to flourish. With justice, love gains the backbone necessary to defend the vulnerable and create the order in which authentic relationships can thrive.
+
+## Justice and the Integration of Body, Mind, and Soul
+
+True justice requires the engagement of our entire being—body, mind, and soul working in harmony:
+
+**Body:** Justice demands physical action—defending the vulnerable, working honestly, caring for our own health as stewards of God's gift, and using our strength to protect rather than exploit.
+
+**Mind:** Justice requires clear thinking—studying moral principles, understanding natural law, discerning between authentic rights and false claims, and reasoning through complex ethical situations.
+
+**Soul:** Justice flows from our spiritual relationship with God—recognizing His image in others, submitting to His moral order, and allowing His grace to transform our selfish hearts into instruments of His righteousness.
+
+When body, mind, and soul are integrated in the pursuit of justice, we become effective agents of God's love in the world. When they are divided—when our actions contradict our beliefs, or our emotions override our reason—our pursuit of justice becomes compromised and ineffective.
+
 *Heavenly Father, You are perfectly just and perfectly loving. Help us to see every person as created in Your image and deserving of dignity and respect. Give us courage to defend the vulnerable, wisdom to discern true justice from its counterfeits, and hearts that cry out against injustice wherever we find it. May we be instruments of Your justice in our families, communities, and world, always remembering that true justice serves love and prepares the way for mercy. Through Christ our Lord. Amen.*
 
 ## Living the Response
