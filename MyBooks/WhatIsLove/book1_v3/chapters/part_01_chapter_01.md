@@ -141,11 +141,19 @@ The Catechism teaches us that "God created man a rational being, conferring on h
 
 This means that if we want to fight evil effectively, we cannot simply address external symptoms. We must address the source: the human heart that chooses evil over good, self over others, pride over humility, hatred over love.
 
+> "Evil has no positive nature; but the loss of good has received the name 'evil.'" — St. Augustine, City of God, Book XI, Chapter 9
+
+To fight against evil, we must fill the human heart with "perfect love". This will be our topic for Chapter 2 and the rest of this book.
+
 ## The Urgency of Our Response
 
-We live in a time of intensifying moral confusion. Children are told they can choose their gender. Marriage is redefined to exclude children. The innocent are killed in the womb. Truth itself is declared unknowable.
+We live in a time of intensifying moral confusion. Children are told they can choose their gender. Marriage is redefined to exclude children. The innocent are killed in the womb. Divorce has become normalized and children are pitted against the parents. Euthanasia is becoming acceptable. Following the law is becoming optional.
 
-Yet this darkness makes understanding authentic love more urgent than ever. More importantly, the rampant evil serves as a stark contrast that illuminates the truth—showing clearly where life without God leads. When society abandons divine law, the results are undeniable: broken families, confused children, despair, and death. This contrast helps even skeptics see that human solutions without God don't just fail—they actively destroy what they claim to protect. The groaning is real, but so is the healing. The evil is real, but the love that conquers it is more real still.
+Truth itself has been declared unknowable.
+
+The rampant evil serves as a stark contrast that illuminates the truth—showing clearly where life without God leads. When society abandons divine law, the results are undeniable: broken families, confused children, despair, and death. We lose the very fabric of human dignity and the foundation that justice and mercy provide for authentic human flourishing.
+
+This contrast helps even skeptics see that human solutions devoid of God don't just fail—they actively destroy what they claim to protect. The evil is real effects, but the rest of this book will show that God's love is always more powerful than evil.
 
 ## The Dual Purpose of This Journey
 
