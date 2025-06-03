@@ -47,6 +47,26 @@ Justice is not merely human opinion or social convention—it flows from God's o
 
 **Objective moral order.** Right and wrong exist independently of human opinion. Justice is not determined by majority vote or cultural consensus but by the truth about human nature and our relationship to God.
 
+### Justice Grounded in the Image of God
+
+**The foundation of all authentic justice is the recognition that every human being is created in the image of God (Genesis 1:27). This truth transforms justice from mere social utility into sacred duty.**
+
+Because every person bears God's image, justice demands we recognize certain fundamental rights:
+
+**Right to Life:** From conception to natural death, because every human life bears God's image.
+
+**Right to Family:** Children deserve both mother and father, reflecting the complementarity of God's image in male and female.
+
+**Right to Truth:** Humans are rational beings made in God's image and deserve to know the truth about reality, morality, and their ultimate destiny.
+
+**Right to Freedom:** Authentic freedom to choose the good, not license to sin. True freedom serves justice by enabling us to fulfill our nature as God's image-bearers.
+
+**Right to Property:** Stewardship of creation as God's representatives, including the fruits of our labor and the resources needed for human flourishing.
+
+**Right to Worship:** Recognition of our relationship with our Creator and the freedom to live according to our conscience.
+
+When we ground justice in the image of God, we prevent dehumanization, stop utilitarian abuse, defend the vulnerable, and establish objective standards that reflect God's unchanging character.
+
 ### Justice as Giving Each Their Due
 
 True justice is fundamentally about **giving each being what they are owed** according to their nature, dignity, and relationship to us. This positive understanding goes far beyond merely avoiding harm—it actively seeks to honor the dignity and rights of every person.
@@ -68,9 +88,41 @@ True justice is fundamentally about **giving each being what they are owed** acc
 - **Self-discipline** - Ordering our desires according to reason and faith
 - **Self-development** - Cultivating our talents for God's glory
 
+## The Hierarchy of Justice: Biblical Foundation
+
+Scripture reveals that different beings deserve different types and degrees of reverence, creating what we might call a proper ordering of our duties. This hierarchy isn't arbitrary but reflects the order established by God Himself:
+
+### God First: The Great Commandment
+> "You shall love the Lord your God with all your heart and with all your soul and with all your mind. This is the great and first commandment." (Matthew 22:37-38)
+
+Jesus establishes that our first duty of justice is to God—giving Him the supreme worship, adoration, and obedience He deserves as Creator and Lord.
+
+### Parents and Authority: The Fourth Commandment
+> "Honor your father and your mother, that your days may be long in the land that the Lord your God is giving you." (Exodus 20:12)
+
+Scripture consistently places honor for parents and legitimate authority immediately after duties to God, showing their special place in the hierarchy of justice.
+
+### Neighbor as Yourself: The Second Great Commandment
+> "And a second is like it: You shall love your neighbor as yourself." (Matthew 22:39)
+
+Jesus reveals that justice toward our neighbor must be measured by proper justice (and mercy) toward ourselves—neither neglecting our legitimate needs nor serving ourselves at others' expense.
+
+### Civil and Religious Authority
+> "Give to Caesar what is Caesar's, and to God what is God's." (Mark 12:17)
+> "Obey your leaders and submit to them, for they are keeping watch over your souls, as those who will have to give an account. Let them do this with joy and not with groaning, for that would be of no advantage to you." (Hebrews 13:17)
+
+This shows that both civil and religious authority have a special place in the hierarchy of justice, with civil authority having the duty to protect the common good and religious authority having the duty to protect the faith.
+
+### Creation Under Our Stewardship
+> "And God said to them, 'Be fruitful and multiply and fill the earth and subdue it, and have dominion over the fish of the sea and over the birds of the heavens and over every living thing that moves on the earth.'" (Genesis 1:28)
+
+Scripture shows that humans have a special responsibility for creation—not as owners but as stewards accountable to God.
+
+This biblical ordering prevents the disorder that occurs when we give ultimate devotion to finite goods or treat unequal things as if they were equal. As Jesus warned, "No one can serve two masters" (Matthew 6:24).
+
 ## Jesus: The Perfect Integration of Justice and Mercy
 
-Before we explore the nature of justice further, we must look to Jesus Christ, who perfectly demonstrates how justice and mercy work together in authentic love. Throughout the Gospels, we see Jesus embodying this perfect balance, never compromising either virtue.
+Having established the divine foundation and proper ordering of justice, we can now see how Jesus perfectly demonstrates how justice and mercy work together in authentic love. Throughout the Gospels, we see Jesus embodying this perfect balance, never compromising either virtue.
 
 ### The Woman Caught in Adultery (John 8:1-11)
 
@@ -108,81 +160,6 @@ Jesus showed that while justice establishes the foundation (keeping commandments
 
 These Gospel examples show us that authentic justice and mercy don't compete—they complete each other in the perfect love that Jesus embodies.
 
-## The Hierarchy of Justice: Biblical Foundation
-
-Scripture reveals that different beings deserve different types and degrees of reverence, creating what we might call a proper ordering of our duties. This hierarchy isn't arbitrary but reflects the order established by God Himself:
-
-### God First: The Great Commandment
-> "You shall love the Lord your God with all your heart and with all your soul and with all your mind. This is the great and first commandment." (Matthew 22:37-38)
-
-Jesus establishes that our first duty of justice is to God—giving Him the supreme worship, adoration, and obedience He deserves as Creator and Lord.
-
-### Parents and Authority: The Fourth Commandment
-> "Honor your father and your mother, that your days may be long in the land that the Lord your God is giving you." (Exodus 20:12)
-
-Scripture consistently places honor for parents and legitimate authority immediately after duties to God, showing their special place in the hierarchy of justice.
-
-### Neighbor as Yourself: The Second Great Commandment
-> "And a second is like it: You shall love your neighbor as yourself." (Matthew 22:39)
-
-Jesus reveals that justice toward our neighbor must be measured by proper justice (and mercy) toward ourselves—neither neglecting our legitimate needs nor serving ourselves at others' expense.
-
-### Civil and Religious Authority
-> "Give to Caesar what is Caesar's, and to God what is God's." (Mark 12:17)
-> "Obey your leaders and submit to them, for they are keeping watch over your souls, as those who will have to give an account. Let them do this with joy and not with groaning, for that would be of no advantage to you." (Hebrews 13:17)
-
-This shows that both civil and religious authority have a special place in the hierarchy of justice, with civil authority having the duty to protect the common good and religious authority having the duty to protect the faith.
-
-### Creation Under Our Stewardship
-> "And God said to them, 'Be fruitful and multiply and fill the earth and subdue it, and have dominion over the fish of the sea and over the birds of the heavens and over every living thing that moves on the earth.'" (Genesis 1:28)
-
-Scripture shows that humans have a special responsibility for creation—not as owners but as stewards accountable to God.
-
-This biblical ordering prevents the disorder that occurs when we give ultimate devotion to finite goods or treat unequal things as if they were equal. As Jesus warned, "No one can serve two masters" (Matthew 6:24).
-
-## Justice Grounded in the Image of God
-
-**The foundation of all authentic justice is the recognition that every human being is created in the image of God (Genesis 1:27). This truth transforms justice from mere social utility into sacred duty.**
-
-### What Imago Dei Demands
-
-**Right to Life:** From conception to natural death, because every human life bears God's image. This is why abortion, euthanasia, and murder are grave injustices—they destroy the image of God.
-
-**Right to Family:** Children deserve both mother and father, reflecting the complementarity of God's image in male and female. This is why the redefinition of marriage harms children and violates justice.
-
-**Right to Truth:** Humans are rational beings made in God's image and deserve to know the truth about reality, morality, and their ultimate destiny.
-
-**Right to Freedom:** Authentic freedom to choose the good, not license to sin. True freedom serves justice by enabling us to fulfill our nature as God's image-bearers.
-
-**Right to Property:** Stewardship of creation as God's representatives, including the fruits of our labor and the resources needed for human flourishing.
-
-**Right to Worship:** Recognition of our relationship with our Creator and the freedom to live according to our conscience.
-
-### How This Combats Evil
-
-When we ground justice in the image of God, we combat specific forms of evil:
-
-**Prevents Dehumanization:** Recognizing God's image in every person stops the evil of treating humans as less than human, whether through slavery, exploitation, or ideological oppression.
-
-**Stops Utilitarian Abuse:** We cannot use people as mere means to our ends when they bear God's image. Every person has inherent dignity that must be respected.
-
-**Defends the Vulnerable:** Special protection for those who cannot defend themselves—the unborn, elderly, disabled, and poor—because they too bear God's image fully.
-
-**Establishes Objective Standards:** Justice is not relative but reflects God's unchanging character. This prevents the strong from defining "justice" according to their preferences.
-
-## The Hierarchy of Justice
-
-True justice recognizes that different beings deserve different types and degrees of reverence, creating a proper ordering of our duties:
-
-1. **God First** - Supreme worship, adoration, and obedience
-2. **Parents and Authority** - Honor, respect, and appropriate obedience
-3. **Spouse and Family** - Faithful love, commitment, and service
-4. **Neighbors and Community** - Respect, fairness, and charitable assistance
-5. **Self** - Proper care and development according to our dignity
-6. **Creation** - Responsible stewardship and grateful use
-
-This hierarchy prevents the disorder that occurs when we give ultimate devotion to finite goods or treat unequal things as if they were equal.
-
 ## How Justice Serves Love
 
 Justice is not opposed to love but is love's foundation. Without justice, love becomes mere sentiment; without love, justice becomes cold legalism. Perfect love requires both.
@@ -205,24 +182,22 @@ Justice is not opposed to love but is love's foundation. Without justice, love b
 
 ## The Cry for Justice in Our Time
 
-The universal cry for justice is particularly urgent in our contemporary world, where fundamental human rights are under assault:
+The universal cry for justice is particularly urgent in our contemporary world, where fundamental human rights face serious challenges:
 
 > "Justice is both the aim and the intrinsic criterion of all politics. Politics is more than a mere mechanism for defining the rules of public life: its origin and its goal are found in justice, which by its very nature has to do with ethics."
 > — Pope Benedict XVI, *Deus Caritas Est*
 
-**Attacks on Human Life:** The widespread acceptance of abortion and euthanasia represents a fundamental denial of the right to life of those who bear God's image. When societies decide that some human lives are "unwanted" or "burdensome," they violate the most basic principle of justice.
+**Threats to Human Dignity:** When societies fail to recognize that every person is created in God's image, they risk treating some lives as less valuable than others. This affects the most vulnerable—the unborn, elderly, disabled, and poor.
 
-**Destruction of Marriage and Family:** The redefinition of marriage undermines children's fundamental right to both mother and father. Scripture reveals that God created them "male and female" (Genesis 1:27) and that children thrive when raised by their biological parents in stable, committed relationships.
+**Breakdown of Family Structure:** Children thrive when raised in stable families with both mother and father. When this foundation is weakened, children suffer and society loses its most important institution for forming virtue.
 
-**Economic Exploitation:** Unjust wages, human trafficking, and exploitation of workers treat human beings as mere economic units rather than image-bearers of God. The Old Testament consistently condemns those who "oppress the hired worker in his wages" (Malachi 3:5).
+**Economic Injustice:** The exploitation of workers and the extreme concentration of wealth can violate human dignity. Scripture consistently calls for fair wages and care for the poor.
 
-**Religious Persecution:** The denial of freedom of conscience and worship attacks the fundamental human relationship with God. Jesus Himself affirmed this principle: "Render to Caesar the things that are Caesar's, and to God the things that are God's" (Mark 12:17).
+**Religious Freedom:** The freedom to worship God according to conscience is fundamental to human dignity. When this freedom is restricted, people cannot fulfill their most basic duty of justice toward their Creator.
 
-**Cultural Corruption:** The normalization of vice and suppression of virtue corrupts the moral environment necessary for human flourishing. As Isaiah warned: "Woe to those who call evil good and good evil, who put darkness for light and light for darkness" (Isaiah 5:20).
+**Cultural Confusion:** When societies lose sight of objective moral truth, it becomes difficult to distinguish between authentic justice and its counterfeits.
 
-**Educational Indoctrination:** Teaching children ideologies that contradict natural law and human dignity violates their right to truth. Parents have the primary responsibility for their children's education, as Scripture teaches: "Train the young in the way they should go; even when old, they will not swerve from it." (Proverbs 22:6).
-
-Each of these injustices cries out for remedy because each violates the dignity of those created in God's image.
+Each of these challenges calls us to apply the principles of justice grounded in human dignity and ordered toward the common good.
 
 ## Justice, Truth, and Mercy: Three Cords of Perfect Love
 
