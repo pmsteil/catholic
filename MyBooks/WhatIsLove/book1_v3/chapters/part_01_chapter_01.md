@@ -76,7 +76,7 @@ Throughout history, humanity has attempted various solutions to evil, each faili
 
 **Technological Solutions** promise to engineer utopia, but technology amplifies both good and evil without addressing the heart.
 
-**Secular Solutions** attempt to eliminate God, but as Vatican II warns, "Without the Creator the creature vanishes... When God is forgotten the creature itself grows unintelligible" (*Gaudium et Spes* 36).
+**Secular Solutions** attempt to eliminate God, but as Vatican II warns, "Without the Creator the creature vanishes... When God is forgotten the creature itself grows unintelligible" (*Gaudium et Spes* 36). Each of these approaches fails because it cannot address the fundamental problem: the human heart that chooses evil over good. This is precisely why perfect love is the only complete solution.
 
 ## Why Perfect Love is the Only Solution
 
@@ -153,7 +153,7 @@ Truth itself has been declared unknowable.
 
 The rampant evil serves as a stark contrast that illuminates the truth—showing clearly where life without God leads. When society abandons divine law, the results are undeniable: broken families, confused children, despair, and death. We lose the very fabric of human dignity and the foundation that justice and mercy provide for authentic human flourishing.
 
-This contrast helps even skeptics see that human solutions devoid of God don't just fail—they actively destroy what they claim to protect. The evil is real effects, but the rest of this book will show that God's love is always more powerful than evil.
+This contrast helps even skeptics see that human solutions devoid of God don't just fail—they actively destroy what they claim to protect. The evil has real effects, but the rest of this book will show that God's love is always more powerful than evil.
 
 ## The Dual Purpose of This Journey
 

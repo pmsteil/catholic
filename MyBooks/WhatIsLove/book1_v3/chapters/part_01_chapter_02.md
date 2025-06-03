@@ -89,6 +89,8 @@ Before we examine how great minds have tried to define love, let's look at an un
 
 This childlike understanding isn't naive—it's profound. Jesus Himself said, "Unless you turn and become like children, you will never enter the kingdom of heaven" (Matthew 18:3). Children see love clearly because they haven't yet learned to justify or compromise toward seeking lesser goods. Their understanding reveals that authentic love is written on the human heart as natural law.
 
+While children possess this intuitive wisdom about love, throughout history great thinkers have attempted to articulate what love means through careful analysis and reflection.
+
 ## Traditional Definitions and Their Contributions
 
 Throughout history, great minds and holy saints have offered profound insights into the nature of love, each contributing essential pieces to our understanding.
@@ -103,7 +105,7 @@ Yet while each tradition offers valuable insights, none provides the complete pi
 
 ## A Definition Forged From God's Love in His Church
 
-After thirty-seven years of studying what "God is Love" (1 John 4:8) means, and after years of pouring over the Bible and then studying a smidget of the 2000 years of Church teachings on love, I've come to understand that perfect love cannot be reduced to a single dimension and this makes it all the more clear. It must integrate all the essential elements that Scripture and the Church reveal about love's nature. Here is the definition that will guide our entire journey:
+Through careful study of Scripture and the Church's teaching on love, we can see that perfect love cannot be reduced to a single dimension. It must integrate all the essential elements that Scripture and the Church reveal about love's nature. Here is the definition that will guide our entire journey:
 
 > **Perfect love is the sacred, sacrificial gift of covenant which binds
 > true justice and true mercy into life-giving communion.**
@@ -132,7 +134,7 @@ Every word matters:
 
 When all these elements are present together, love becomes perfect—capable of conquering all forms of evil and creating authentic communion between persons. This is what children instinctively understand, what the saints lived, and what Jesus demonstrated perfectly on the cross.
 
-You can see from these facets of love, that people understand bits and pieces of this and live these things out imperfectly.
+You can see from these facets of love that people understand bits and pieces of this and live these things out imperfectly.
 
 ## Why We Need Liberation to Love
 
