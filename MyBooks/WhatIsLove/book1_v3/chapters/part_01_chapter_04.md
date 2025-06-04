@@ -136,6 +136,8 @@ This integration of our entire being in the practice of mercy reveals a sobering
 
 **The Holy Spirit as Our Helper:** Saint Paul reminds us that "the Spirit helps us in our weakness. For we do not know what to pray for as we ought, but the Spirit himself intercedes for us with groanings too deep for words" (Romans 8:26). When we are too wounded to forgive, too angry to show mercy, or too hurt to pray for our enemies, the Holy Spirit intercedes for us and strengthens us. The Holy Spirit is our divine assistance in mercy, softening hearts that have been hardened by pain, opening minds to see others as God sees them, and strengthening wills to choose forgiveness even when everything in us cries out for revenge.
 
+**Mercy and Purification:** God's mercy doesn't just forgive our sins—it purifies and heals the wounds that sin leaves behind. The Church teaches that Purgatory itself is an expression of God's mercy, not punishment. God loves us too much to leave us wounded by sin's effects. His mercy addresses both the eternal consequences of sin (through forgiveness) and the temporal consequences (through purification and healing). Even in this life, God's purifying mercy works through suffering united to Christ's passion, gradually healing our hearts and making us more capable of perfect love. We can extend this mercy to others by praying for the faithful departed and by allowing God to purify our own hearts through the trials He permits.
+
 **The Sacrament of Reconciliation: God's Mercy Made Tangible:** Jesus himself instituted this sacrament when he breathed on the apostles and said, "Receive the Holy Spirit. If you forgive the sins of any, they are forgiven them; if you withhold forgiveness from any, it is withheld" (John 20:22-23). He gave his Church "the ministry of reconciliation" (2 Corinthians 5:18), and Saint James instructs us to "confess your sins to one another and pray for one another, that you may be healed" (James 5:16). In the confessional, we experience mercy in three profound ways:
 
 - **We receive mercy for our own sins:** Before we can extend authentic mercy to others, we must experience God's mercy toward us. The priest, acting *in persona Christi*, speaks the words of absolution that make God's forgiveness tangible and certain.
@@ -158,7 +160,7 @@ The cry for mercy is not merely something we observe—it's a call to action. As
 
 **In Our Families:** Scripture calls us to practice mercy first in our homes. This means forgiving quickly, speaking gently when correcting, and creating an atmosphere where family members feel safe to admit mistakes and seek forgiveness. As Ephesians 4:32 commands: "Be kind to one another, tenderhearted, forgiving one another, as God in Christ forgave you."
 
-**In Our Communities:** The works of mercy—both corporal and spiritual—provide concrete ways to live mercy in our communities. Feeding the hungry, visiting the sick, comforting the afflicted, instructing the ignorant, and forgiving offenses are all expressions of the mercy we've received from God.
+**In Our Communities:** The works of mercy—both corporal and spiritual—provide concrete ways to live mercy in our communities. Feeding the hungry, visiting the sick, comforting the afflicted, instructing the ignorant, and forgiving offenses are all expressions of the mercy we've received from God. The Church's preferential option for the poor flows directly from mercy—recognizing that those who suffer most need mercy most urgently. True mercy calls us not just to individual acts of kindness but to work for just systems that protect the vulnerable and address the root causes of suffering. (For a deeper exploration of how mercy shapes our social responsibilities, see the Church's rich tradition of social teaching, particularly the encyclicals *Rerum Novarum*, *Centesimus Annus*, and *Laudato Si'*.)
 
 **In Our World:** Jesus calls us to be "peacemakers" (Matthew 5:9), which requires the courage to break cycles of violence and retribution through mercy. This includes supporting restorative justice programs, advocating for the rehabilitation of offenders, and working for reconciliation in divided communities.
 
@@ -175,6 +177,8 @@ The cry for mercy is not merely something we observe—it's a call to action. As
 **Monthly:** Examine deeper patterns: "Are there people I still need to forgive? Are there ways I'm blocking God's mercy in my life? How is my practice of mercy affecting my family and community?"
 
 **Act of Mercy:** Each day, perform one specific act of mercy—forgive someone who has hurt you, show kindness to someone who has been difficult, or offer a second chance to someone who has failed.
+
+**Sorrowful Mysteries of the Rosary:** Consider praying the Sorrowful Mysteries, which reveal Christ's ultimate act of mercy through His passion and death. As you meditate on His agony, scourging, crowning with thorns, carrying of the cross, and crucifixion, ask for the grace to unite your own sufferings to His and to extend His mercy to others. The Sorrowful Mysteries show us that mercy is not weakness but the strongest love—love willing to suffer for the salvation of others.
 
 ## Further Study
 
