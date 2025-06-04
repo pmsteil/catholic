@@ -199,55 +199,6 @@ The universal cry for justice is particularly urgent in our contemporary world, 
 
 Each of these challenges calls us to apply the principles of justice grounded in human dignity and ordered toward the common good.
 
-## Justice, Truth, and Mercy: Three Cords of Perfect Love
-
-True justice cannot exist in isolation—it requires both truth and mercy to be authentic. These three virtues form an inseparable unity that reflects God's own nature and defines perfect love. Scripture reveals this profound interconnection throughout salvation history.
-
-> "Steadfast love and faithfulness meet; righteousness and peace kiss each other. Faithfulness springs up from the ground, and righteousness looks down from heaven."
-> — Psalm 85:10-11
-
-### Biblical Foundation for Their Unity
-
-**The Trinity of Divine Attributes:** Psalm 85:10-11 reveals a profound truth about God's nature: "Steadfast love and faithfulness meet; righteousness and peace kiss each other. Faithfulness springs up from the ground, and righteousness looks down from heaven." This poetic language shows us that God's steadfast love (mercy), faithfulness (truth), and righteousness (justice) are not competing attributes but complementary perfections that "meet" and "kiss each other." In God, these virtues are perfectly unified.
-
-**Jesus as the Perfect Integration:** Christ embodies this perfect unity throughout His earthly ministry. John 1:14 tells us He is "full of grace and truth"—mercy and truth united in one Person. We see this integration in every encounter: His justice is always truthful, His mercy is always just, and His truth is always merciful.
-
-**The Great Commandment's Structure:** When Jesus summarizes the Law in Matthew 22:37-39, He reveals the proper order that integrates all three virtues: love God (justice toward our Creator) with all truth (heart, soul, mind) and love neighbor as yourself (mercy that goes beyond mere justice). Truth, justice, and mercy are woven together in perfect love.
-
-**Old Testament Witnesses:** The prophets consistently called for this integration. Isaiah 1:17 commands: "Learn to do good; seek justice, correct oppression" and Micah 6:8 makes this even clearer: "What does the Lord require of you but to do justice, love mercy, and walk humbly with your God?" All three are required, not optional.
-
-### Justice Requires Truth
-
-**No justice without truth.** Justice that is not based on reality becomes mere opinion or preference. We cannot give each person their due if we don't know the truth about human nature, moral law, and God's design for creation. As Jesus declared, "You shall know the truth, and the truth will set you free" (John 8:32).
-
-**Truth about human dignity.** Justice depends fundamentally on the truth that every person is created in God's image and possesses inherent dignity. When societies deny this truth—as in slavery, abortion, or euthanasia—justice becomes arbitrary power exercised by the strong over the weak.
-
-**Truth about moral law.** Justice requires knowing what is actually right and wrong, not just what feels good or seems popular. Scripture teaches that this moral law is written on our hearts: "When Gentiles, who do not have the law, by nature do what the law requires, they are a law to themselves, even though they do not have the law. They show that the work of the law is written on their hearts" (Romans 2:14-15).
-
-**Truth about consequences.** Justice demands honesty about the real effects of actions—both good and evil. We cannot address injustice if we refuse to acknowledge its true causes and effects. The prophets consistently called Israel to face the truth about their sins and their consequences.
-
-### Justice Requires Mercy
-
-**Justice alone becomes harsh.** Pure justice without mercy would demand perfect punishment for every trivial fault. While God's justice is perfect, His mercy makes forgiveness and redemption possible. As Jesus taught in the Beatitudes: "Blessed are the merciful, for they shall receive mercy" (Matthew 5:7).
-
-**Mercy transcends but doesn't ignore justice.** True mercy acknowledges what justice demands and then offers something greater. We see this perfectly in Jesus' response to the thief on the cross (Luke 23:39-43). The thief acknowledged his just punishment ("we are receiving the due reward of our deeds"), but Jesus offered mercy that transcended justice ("today you will be with me in paradise"). Mercy that ignores justice, however, is not mercy but permissiveness that enables evil.
-
-**Both are commanded together.** The prophet Micah makes this integration clear: "He has told you, O man, what is good; and what does the Lord require of you but to do justice, and to love mercy, and to walk humbly with your God?" (Micah 6:8). Notice that Micah doesn't say "choose justice OR mercy" but commands us to "do justice AND love mercy." Both are required, and both serve the ultimate goal of walking humbly with God.
-
-**Both serve love.** Justice protects love by establishing order and truth; mercy serves love by offering hope and redemption. Together, they create the conditions for authentic relationship with God and neighbor. As St. John Paul II taught: "Justice will only be fully established when people contribute to establishing it through love."
-
-### The Perfect Integration
-
-Perfect love integrates justice, truth, and mercy into one seamless reality:
-
-- **Truth** reveals what is real about God, humanity, and moral order
-- **Justice** gives each being what they are owed according to this truth
-- **Mercy** offers forgiveness and grace that goes beyond what justice requires
-
-This integration is what makes love "perfect"—it lacks nothing essential and excludes nothing good. It is the sacred, sacrificial gift of covenant that binds true justice and true mercy into life-giving communion.
-
-When we cry out for justice, we are really crying out for this perfect love that honors truth, demands fairness, and offers mercy. This is why the universal cry for justice ultimately points us toward God, who alone perfectly integrates all three.
-
 ## What Evil This Overcomes
 
 The virtue of justice directly combats the evil of **dehumanization and exploitation**—the tendency to treat human beings as less than the image-bearers of God they truly are.
