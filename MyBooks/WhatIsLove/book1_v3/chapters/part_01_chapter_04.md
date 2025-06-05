@@ -1,4 +1,4 @@
-# Chapter 4: The Universal Cry for Mercy
+# Chapter 4: Mercy: The Universal Cry for Mercy
 
 > "Be merciful, just as your Father is merciful."
 > — Luke 6:36

@@ -1,5 +1,4 @@
-# Chapter 2: The Universal Cry for Love
-## Defining Love: More Than a Feeling
+# Chapter 2: Love: The Answer to the Problem of Evil
 
 *"If I have all faith so as to remove mountains but do not have love, I am nothing."*
 — 1 Corinthians 13:2
@@ -183,7 +182,9 @@ Our comprehensive definition—perfect love as "the sacred, sacrificial gift of 
 
 At every step, we will see how perfect love—integrating all these elements—is not just a beautiful ideal but the practical, powerful answer to evil that the world desperately needs. Through the Catholic Faith, we have access to the fullness of this love, and through living it authentically, we become agents of the world's salvation.
 
-Perfect love stands against all forms of evil and counterfeit love. It opposes mere sentiment by including objective standards of justice, harsh legalism by offering merciful forgiveness, individualism by emphasizing covenant relationships and communion, utilitarianism by recognizing the sacred dignity of each person made in God's image, relativism by grounding love in the objective reality of human dignity, and temporality by establishing permanent covenant bonds. We will explore these counterfeits and how authentic love defeats them in much greater detail in subsequent chapters. Our exploration of perfect love's components begins by addressing the most immediate and universal reaction to its absence: the cry for justice. This cry, as we shall see in the next chapter, reveals the foundational structure that love requires to be true and lasting, and why it is an indispensable part of the perfect love that answers the problem of evil.
+Perfect love stands against all forms of evil and counterfeit love. It opposes mere sentiment by including objective standards of justice, harsh legalism by offering merciful forgiveness, individualism by emphasizing covenant relationships and communion, utilitarianism by recognizing the sacred dignity of each person made in God's image, relativism by grounding love in the objective reality of human dignity, and temporality by establishing permanent covenant bonds.
+
+We will explore these counterfeits and how authentic love defeats them in much greater detail in subsequent chapters. Our exploration of perfect love's components begins by addressing the most immediate and universal reaction to its absence: the cry for justice. This cry, as we shall see in the next chapter, reveals the foundational structure that love requires to be true and lasting, and why it is an indispensable part of the perfect love that answers the problem of evil.
 
 ## Living the Response
 

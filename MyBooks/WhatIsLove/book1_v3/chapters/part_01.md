@@ -16,25 +16,31 @@ This opening section establishes the foundation for everything that follows. Her
 Part 1 consists of seven foundational chapters that prepare us for the deeper exploration to come:
 
 ### Chapter 1: The Problem of Evil
-We begin by honestly confronting the reality of moral evil in our world and establishing that perfect love is the only complete solution to every form of evil.
+This chapter establishes that evil originates in human hearts that choose sin over love, and demonstrates that God's "perfect love" is the only complete solution to the four types of moral evil (personal, relational, social, and spiritual) that flow from our rejection of authentic love.
 
-### Chapter 2: The Universal Cry for Love
-Every human heart cries out for authentic love, revealing our deep longing for the relationship with God that counterfeits can never satisfy.
+### Chapter 2: Love: The Answer to the Problem of Evil
+This chapter reveals that every human being cries out for authentic love at the level of body, mind, and soul because we are made in the image of God, and establishes our comprehensive definition: "Perfect love is the sacred, sacrificial gift of covenant which binds true justice and true mercy into life-giving communion."
 
-### Chapter 3: The Universal Cry for Justice
-We explore how the natural law written on every heart demands justice, and why true justice must be integrated with mercy in perfect love.
+### Chapter 3: Justice: The Universal Cry for Justice
+This chapter demonstrates that the universal cry "That's not fair!" reveals the natural law written on every heart, and shows how true justice—giving each person what they are owed according to their dignity as image-bearers of God—serves as the foundation for authentic love.
 
-### Chapter 4: The Universal Cry for Mercy
-The human heart's cry for mercy reveals our need for healing and forgiveness that transforms both giver and receiver through authentic love.
+### Chapter 4: Mercy: The Universal Cry for Mercy
+This chapter explores how the universal plea "Please give me another chance!" reveals our need for healing and forgiveness, and demonstrates that mercy—powerful love that chooses to heal rather than harm—works together with justice to restore relationships and break cycles of retribution.
 
-### Chapter 5: The Inadequacy of Partial Definitions
+### Chapter 5: Truth: The Universal Cry for Truth
 We examine traditional and modern definitions of love, showing why they fail when incomplete, and establish our comprehensive definition: "Perfect love is the sacred, sacrificial gift of covenant which binds true justice and true mercy into life-giving communion."
 
-### Chapter 6: Recognizing Counterfeits
+### Chapter 6: Sacrifice: The Heart of Authentic Love
 We develop the childlike discernment needed to distinguish authentic love from sophisticated counterfeits that damage the human heart.
 
-### Chapter 7: The Path Forward - How Love Unfolds
+### Chapter 7: Covenant: The Cord that Binds Us
 We map out the journey ahead through love's pillars, virtues, fruits, and communion, with the Saints as our covenant family and guides.
+
+### Chapter 8: Counterfeit Love: Looking for love in all the wrong places
+We explore how the human heart's cry for love can be satisfied by false promises of love that leave us wounded and unsatisfied.
+
+### Chapter 9: The Gospel is Perfect Love
+We see how Christ's love satisfies every longing of the human heart and invites us to participate in His victory over evil.
 
 ## Why This Foundation Matters
 
@@ -50,4 +56,3 @@ By the end of Part 1, you will understand:
 - **How to recognize authentic love** - by developing the discernment that distinguishes truth from counterfeits
 - **How this love is possible** - because Christ has already provided it and invites us to participate in His victory
 - **Who will help us on the journey** - the Saints who have walked this path before us
-

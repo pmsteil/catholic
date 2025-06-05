@@ -271,30 +271,23 @@ This model ensures that each part file serves as an effective introduction and r
 [C] **Part 1: Introduction - What is Love?** - input file: `./book1_v3_outline_part_01.md`, output file: `./chapters/part_01.md`
 
 *   [C] Chapter 1: The Problem of Evil and the Promise of Love - file: `./chapters/part_01_chapter_01.md`
-*   [C] Chapter 2: Defining Love: More Than a Feeling - file: `./chapters/part_01_chapter_02.md`
-*   [O] Chapter 3: The Universal Cry for Justice - file: `./chapters/part_01_chapter_03.md`
-*   [O] Chapter 4: The Necessity of Sacrifice - file: `./chapters/part_01_chapter_04.md`
-*   [O] Chapter 5: The Power of Mercy - file: `./chapters/part_01_chapter_05.md`
-*   [O] Chapter 6: Counterfeit Love: What Love Is Not - file: `./chapters/part_01_chapter_06.md`
-*   [O] Chapter 7: The Path Forward - How Love Unfolds - file: `./chapters/part_01_chapter_07.md`
+*   [C] Chapter 2: Love: The Answer to the Problem of Evil - file: `./chapters/part_01_chapter_02.md`
+*   [C] Chapter 3: Justice: The Universal Cry for Justice - file: `./chapters/part_01_chapter_03.md`
+*   [C] Chapter 4: Mercy: The Universal Cry for Mercy - file: `./chapters/part_01_chapter_04.md`
+*   [O] Chapter 5: Truth: The Universal Cry for Truth - file: `./chapters/part_01_chapter_05.md`
+*   [O] Chapter 6: Sacrifice: The Heart of Authentic Love - file: `./chapters/part_01_chapter_06.md`
+*   [O] Chapter 7: Covenant Love: The Cord that Binds Us - file: `./chapters/part_01_chapter_07.md`
+*   [O] Chapter 8: Counterfeit Love: Looking for love in all the wrong places - file: `./chapters/part_01_chapter_08.md`
+*   [O] Chapter 9: The Gospel is Perfect Love - file: `./chapters/part_01_chapter_09.md`
 
-[O] **Part 2A: Pillars of Love — The Essential Tenets** - input file: `./book1_v3_outline_part_02A.md`, output file: `./chapters/part_02A.md`
+[O] **Part 2: Instinctive Responses of the Heart** - input file: `./book1_v3_outline_part_02B.md`, output file: `./chapters/part_02B.md`
 
-*   [O] Chapter 8: The Gift of Truth - file: `./chapters/part_02A_chapter_08.md`
-*   [O] Chapter 9: Truth requires Authority: The Foundation of Catholic Faith - file: `./chapters/part_02A_chapter_09.md`
-*   [O] Chapter 10: Justice Grounded in the Image of God - file: `./chapters/part_02A_chapter_10.md`
-*   [O] Chapter 11: Mercy: The Heart of God - file: `./chapters/part_02A_chapter_11.md`
-*   [O] Chapter 12: Unity - The Integration of Body, Mind, and Soul - file: `./chapters/part_02A_chapter_12.md`
-*   [O] Chapter 13: Covenant Love - The Foundation of Authentic Relationships - file: `./chapters/part_02A_chapter_13.md`
-*   [O] Chapter 14: Chastity - Integrated Sexuality within Love - file: `./chapters/part_02A_chapter_14.md`
-*   [O] Chapter 15: Obedience - Submission of Will in Love - file: `./chapters/part_02A_chapter_15.md`
-
-[O] **Part 2B: Instinctive Responses of the Heart** - input file: `./book1_v3_outline_part_02B.md`, output file: `./chapters/part_02B.md`
-
-*   [O] Chapter 16: Faith - The Foundation of Trust - file: `./chapters/part_02B_chapter_16.md`
-*   [O] Chapter 17: Hope - The Anchor of the Soul - file: `./chapters/part_02B_chapter_17.md`
-*   [O] Chapter 18: Charity - The Queen of Virtues - file: `./chapters/part_02B_chapter_18.md`
-*   [O] Chapter 19: Humility - The Foundation of All Virtue - file: `./chapters/part_02B_chapter_19.md`
+*   [O] Chapter ??: Faith - The Foundation of Trust - file: `./chapters/part_02B_chapter_16.md`
+*   [O] Chapter ??: Hope - The Anchor of the Soul - file: `./chapters/part_02B_chapter_17.md`
+*   [O] Chapter ??: Charity - The Queen of Virtues - file: `./chapters/part_02B_chapter_18.md`
+*   [O] Chapter ??: Obedience - Submission of Will in Love - file: `./chapters/part_02A_chapter_15.md`
+*   [O] Chapter ??: Chastity - Integrated Sexuality within Love - file: `./chapters/part_02A_chapter_14.md`
+*   [O] Chapter ??: Humility - The Foundation of All Virtue - file: `./chapters/part_02B_chapter_19.md`
 
 [O] **Part 3: Disciplines of a Loving Heart** - input file: `./book1_v3_outline_part_03.md`, output file: `./chapters/part_03.md`
 
