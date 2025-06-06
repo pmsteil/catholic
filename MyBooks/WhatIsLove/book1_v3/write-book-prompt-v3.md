@@ -274,7 +274,7 @@ This model ensures that each part file serves as an effective introduction and r
 *   [C] Chapter 2: Love: The Answer to the Problem of Evil - file: `./chapters/part_01_chapter_02.md`
 *   [C] Chapter 3: Justice: The Universal Cry for Justice - file: `./chapters/part_01_chapter_03.md`
 *   [C] Chapter 4: Mercy: The Universal Cry for Mercy - file: `./chapters/part_01_chapter_04.md`
-*   [O] Chapter 5: Truth: The Universal Cry for Truth - file: `./chapters/part_01_chapter_05.md`
+*   [C] Chapter 5: Truth: The Universal Cry for Truth - file: `./chapters/part_01_chapter_05.md`
 *   [O] Chapter 6: Sacrifice: The Heart of Authentic Love - file: `./chapters/part_01_chapter_06.md`
 *   [O] Chapter 7: Covenant Love: The Cord that Binds Us - file: `./chapters/part_01_chapter_07.md`
 *   [O] Chapter 8: Counterfeit Love: Looking for love in all the wrong places - file: `./chapters/part_01_chapter_08.md`
