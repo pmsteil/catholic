@@ -102,7 +102,11 @@ Throughout history, great minds and holy saints have offered profound insights i
 
 Yet while each tradition offers valuable insights, none provides the complete picture that our hearts truly seek and that our world desperately needs.
 
-## A Definition Forged From God's Love in His Church
+## Why Love Is the Complete Answer to Evil
+
+As we saw in Chapter 1, sin chooses our own good at the expense of others, while love chooses others' good at our own expense. This is why love is the complete answer to evil: it reverses sin's fundamental pattern. Where sin creates harm through selfishness, love creates healing through sacrifice. We will explore this sacrificial heart of love in depth in Chapter 6.
+
+## A Complete Definition of Perfect Love
 
 Through careful study of Scripture and the Church's teaching on love, we can see that perfect love cannot be reduced to a single dimension. It must integrate all the essential elements that Scripture and the Church reveal about love's nature. Here is the definition that will guide our entire journey:
 

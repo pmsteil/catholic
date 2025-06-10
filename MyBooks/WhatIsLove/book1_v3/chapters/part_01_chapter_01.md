@@ -32,6 +32,10 @@ Moral evil results from free choices to reject good. St. Augustine's profound in
 
 This brings us to the heart of the Catholic teaching on sin—and to the heart of why evil exists in our world. Sin is not merely "making mistakes" or "being imperfect"—it is the deliberate choice to reject love and embrace what is opposed to love. The Catechism of the Catholic Church defines sin as "an offense against reason, truth, and right conscience; it is failure in genuine love for God and neighbor caused by a perverse attachment to certain goods" (CCC 1849).
 
+**The Pattern of Sin vs. Love**
+
+At its core, sin is choosing our own good at the expense of others, while love chooses the good of others at our own expense. This is why sin inevitably produces evil—it creates harm by prioritizing self over others—while love produces healing by choosing sacrifice for others' benefit. We will explore this sacrificial nature of love more deeply in Chapter 6.
+
 Every evil we see in our world—every act of violence, every betrayal, every injustice, every cruelty—can be traced back to this fundamental reality: human hearts choosing sin over love. This is why the problem of evil is ultimately a problem of the human heart.
 
 Consider these concrete examples:
