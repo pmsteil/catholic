@@ -239,7 +239,23 @@ The Eucharist teaches us that sacrifice is not about destruction but transformat
 
 **Priestly Life:** Priests sacrifice through celibacy, availability to their people, and the demands of pastoral care. They offer the ultimate sacrifice—the Mass—and unite their lives with Christ's sacrifice for the salvation of souls.
 
-## What Evil This Overcomes
+## How Sacrifice Serves Perfect Love
+
+Sacrifice is not opposed to love—it is love's most authentic expression. Our comprehensive definition reveals this clearly: "Perfect love is the sacred, sacrificial gift of covenant which binds true justice and true mercy into life-giving communion."
+
+**Sacred Sacrifice:** Love must be grounded in sacred sacrifice that mirrors God's own self-giving nature. This provides the sacred authenticity that prevents love from becoming mere sentiment or self-serving emotion.
+
+**Sacrificial Gift:** The very essence of love is gift—freely given, not earned or demanded. Sacrifice transforms love from feeling into action, from intention into reality.
+
+**Covenant:** Sacred covenants require sacrificial commitment. Marriage vows, religious vows, and baptismal promises all demand ongoing sacrifice to maintain fidelity to the covenant bond.
+
+**Binds:** Sacrifice binds love to reality by proving its authenticity through action. Words of love without sacrificial deeds are empty promises rather than authentic commitment.
+
+**True Justice/Mercy:** Both justice and mercy require sacrifice. Justice demands we sacrifice our selfish desires to give others what they deserve. Mercy demands we sacrifice our desire for revenge to offer forgiveness instead.
+
+**Life-Giving Communion:** Authentic communion requires mutual sacrifice—the willingness to die to self for the good of the other. We cannot achieve true unity while clinging to selfish desires that divide us from God and neighbor.
+
+## What Evil Sacrifice Overcomes
 
 Sacrifice conquers the **root evil of selfishness** that places the self above God and neighbor. This selfishness manifests in the seven deadly sins, each representing a different form of disordered self-love:
 
