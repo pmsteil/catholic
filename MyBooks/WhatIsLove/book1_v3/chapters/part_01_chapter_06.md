@@ -18,11 +18,11 @@
 
 These four words reveal the deepest mystery of love—that authentic love is willing to give everything, even life itself, for the beloved. Whether spoken by a parent shielding their child from danger, a soldier protecting his comrades, or Christ offering Himself on the cross, sacrifice is the moment when love proves itself willing to pay any price.
 
-In Chapter 5, we explored truth as the sacred foundation that makes authentic love possible. We saw how truth provides the clarity necessary for genuine justice and mercy, and how the Church's authority protects us from the deceptions that corrupt love. But truth alone, while essential, is not enough. We can know what love requires and still fail to act on that knowledge. We can understand justice and mercy perfectly and still choose selfishness over service.
+In our journey through the essential facets of authentic love, we have seen how truth provides the foundation (Chapter 2), justice establishes what we owe each person (Chapter 3), and mercy chooses to give even more than justice requires (Chapter 4). But knowledge alone, even perfect knowledge of truth, justice, and mercy, is not enough. We can understand what love requires and still fail to act on that knowledge. We can grasp justice and mercy perfectly and still choose selfishness over service.
 
-This is why sacrifice stands at the very heart of authentic love. Sacrifice bridges the gap between knowing and doing, between understanding love and living love. Sacrifice is **love made visible**—the concrete proof that we value the beloved more than ourselves, that their good matters more than our comfort, that their flourishing is worth our cost. Without sacrifice, love remains merely theoretical. With sacrifice, love becomes transformative.
+This is why sacrifice stands at the very heart of authentic love. Sacrifice transforms the other virtues from ideas into actions, from knowledge into life. Sacrifice is love made visible—the moment when we prove that we value the beloved more than ourselves, that their good matters more than our comfort, that their flourishing is worth our cost. Without sacrifice, love remains merely theoretical. With sacrifice, love becomes transformative.
 
-As we will see, sacrifice is not about losing ourselves or diminishing our dignity. Rather, sacrifice is about discovering our true selves through self-giving, finding our deepest joy through service, and participating in the very nature of God, who is perfect self-giving love.
+As we will see, sacrifice is not about losing ourselves or diminishing our dignity. Rather, true sacrifice is about discovering our deepest identity through self-giving, finding our greatest joy through service, and participating in the very nature of God, who is perfect self-giving love.
 
 ## What Children Know About Sacrifice
 
@@ -32,45 +32,39 @@ Before adults complicate sacrifice with sophisticated theories about self-actual
 
 **"Can I help?"** Children experience genuine joy when they help someone in need. They haven't yet learned to calculate the cost or ask "What's in it for me?" They simply see someone who needs help and offer themselves.
 
-**"I'm sorry I was mean. I'll be nice now."** Children understand that love sometimes requires giving up behaviors that hurt others. They can sacrifice their anger, their desire to retaliate, or their stubborn pride for the sake of restoring relationship.
-
-**"I'll share with my sister."** Children naturally understand that family members come first. They will sacrifice their own wants for their siblings or parents, understanding that family love creates special obligations.
+**"Sorry, I hurt you - you want to play with my favorite toy?"** Children understand that love means giving something precious to someone else in order to show mercy.
 
 **"I saved this for you."** Children know that real love requires planning and forethought. They will save the best cookie, the prettiest flower, or their favorite toy to give to someone they love.
 
-**"I don't want you to be sad."** Children will sacrifice their own preferences to comfort others. They'll give up their favorite TV show if someone is crying, or share their blanket with someone who's cold.
-
 **"I'll be brave for you."** Children understand that love sometimes requires courage. They'll sacrifice their own fear to protect someone smaller or to make someone else feel better.
 
-This childlike generosity reflects the **heart of the Gospel**: "Greater love has no one than this, that someone lay down his life for his friends" (John 15:13). Adults must return to this **generous spirit** that finds joy in self-giving rather than self-seeking, understanding that **sacrifice is not loss but love made visible**.
+This childlike generosity reflects the **heart of the Gospel**: "Greater love has no one than this, that someone lay down his life for his friends" (John 15:13). Adults must return to this **generous spirit** that finds joy in self-giving rather than self-seeking, understanding that **sacrifice transforms love from theory into reality**.
 
 ## Why This Call to Sacrifice is Universal: Made in God's Image
 
 The universal human capacity for sacrifice isn't accidental—it's written into our very nature because we are made in the image of God, who is perfect self-giving love. The Trinity itself is the eternal model of sacrifice:
 
-**The Father** sacrifices His beloved Son for our salvation, giving what is most precious to Him for the sake of those who had rejected Him.
+**The Father** eternally gives Himself completely to the Son, holding nothing back in perfect self-donation. In time, He sacrifices His beloved Son for our salvation, giving what is most precious to Him for the sake of those who had rejected Him. "For God so loved the world that he gave his only Son" (John 3:16).
 
-**The Son** sacrifices His life, willingly laying it down and taking it up again, choosing the Cross not from compulsion but from love.
+**The Son** eternally receives everything from the Father and gives everything back in perfect reciprocal love. In time, He sacrifices His life, willingly laying it down and taking it up again, choosing the Cross not from compulsion but from love. "This is why the Father loves me, because I lay down my life in order to take it up again. No one takes it from me, but I lay it down on my own." (John 10:18).
 
-**The Holy Spirit** sacrifices His own glory to point always to the Son, never to Himself, working tirelessly for our sanctification while remaining hidden.
+**The Holy Spirit** eternally proceeds from the Father and Son as their mutual love, sacrificing His own glory to point always to the Son, never to Himself. In time, He works tirelessly for our sanctification while remaining hidden, inspiring our sacrifices and uniting them with Christ's perfect offering.
 
 This divine pattern of self-giving love becomes the model for all authentic human love. As St. Paul writes: "Present your bodies as a living sacrifice, holy and acceptable to God, which is your spiritual worship" (Romans 12:1). We are called to participate in God's own nature through sacrifice.
 
-Because we bear God's image, we find our deepest fulfillment not in getting but in giving, not in being served but in serving, not in accumulating but in offering. This is why sacrifice produces joy rather than misery, freedom rather than bondage, life rather than death.
+Because we bear God's image, we find our deepest fulfillment not in getting but in giving, not in being served but in serving, not in accumulating but in offering. This is why sacrifice produces joy rather than misery, freedom rather than bondage, life rather than death. The call to sacrifice written in every human heart points us toward our true calling as children of God.
 
 ## The Nature of Sacrifice: Love Made Visible
 
-Sacrifice is not merely giving up something good for something better—it is **love made visible**. When we sacrifice, we demonstrate that we value the beloved more than ourselves, that their good matters more than our comfort, that their flourishing is worth our cost.
+Sacrifice is not merely giving up something good for something better—it is **the concrete expression of love**. When we sacrifice, we demonstrate that we value the beloved more than ourselves, that their good matters more than our comfort, that their flourishing is worth our cost.
 
 **The Fundamental Choice: Sin vs. Love**
 
 At its core, the difference between sin and love can be understood through sacrifice:
 
-**Sin** is doing something for our own good _at the expense of others_. Sin always involves taking—taking pleasure, taking advantage, taking what belongs to another, taking the easy path that harms someone else. Sin is fundamentally selfish, seeking our benefit regardless of the cost to others.
+**Sin** is doing something for our own good at the expense of others. Sin always involves taking—taking pleasure, taking advantage, taking what belongs to another, taking the easy path that harms someone else. Sin is fundamentally selfish, seeking our benefit regardless of the cost to others.
 
-**Love** is doing something good for the other _at our own expense_. Love always involves giving—giving time, giving comfort, giving resources, giving up our preferences for another's good. Love is fundamentally sacrificial, seeking the other's benefit regardless of the cost to ourselves.
-
-This is why sacrifice stands at the very heart of authentic love. Every act of genuine love requires some form of sacrifice—the sacrifice of our time, our comfort, our resources, our preferences, or even our lives. Without sacrifice, what we call "love" is merely self-interest disguised as virtue-what in today's world, we might call "virtue signaling".
+**Love** is doing something good for the other at our own expense. Love always involves giving—giving time, giving comfort, giving resources, giving up our preferences for another's good. Love is fundamentally sacrificial, seeking the other's benefit regardless of the cost to ourselves.
 
 **Sacrifice Engages Body, Mind, and Soul:**
 
@@ -81,6 +75,18 @@ This is why sacrifice stands at the very heart of authentic love. Every act of g
 **Soul:** Spiritual sacrifice—surrendering our will to God's will, choosing virtue over vice, offering our sufferings for the salvation of others, dying to self that Christ might live in us. The soul participates in love by making the fundamental choice of God over self.
 
 This integration of body, mind, and soul in sacrifice reflects our nature as unified beings created for love. Authentic sacrifice is never merely physical, intellectual, or spiritual—it engages the whole person in the act of love.
+
+## How Sacrifice Integrates Truth, Justice, and Mercy
+
+Sacrifice transforms the other essential facets of authentic love from ideas into lived reality:
+
+**Sacrifice Makes Truth Effective:** We can know the truth about what love requires, but without sacrifice, that truth remains merely intellectual. When we sacrifice our pride to admit we were wrong, sacrifice our comfort to seek truth in prayer and study, or sacrifice our popularity to speak truth in love, we make truth effective in our relationships and in the world.
+
+**Sacrifice Makes Justice Effective:** Justice requires giving each person their due, but this often costs us something. We sacrifice our time to serve others, our resources to help those in need, our preferences to honor our commitments. Without sacrifice, justice becomes mere theory. With sacrifice, justice becomes love in action.
+
+**Sacrifice Makes Mercy Effective:** Mercy chooses to forgive rather than punish, to heal rather than harm, but this choice always requires sacrifice. We sacrifice our desire for revenge, our wounded pride, our right to "get even." Without sacrifice, mercy remains a nice sentiment. With sacrifice, mercy becomes the transformative power that breaks cycles of hurt.
+
+**The Integration:** Truth tells us what love requires, justice establishes what we owe each person according to their dignity, mercy chooses to give more than justice requires, and sacrifice provides the power to actually live truth, justice, and mercy rather than merely understanding them.
 
 ## The Biblical Foundation: Jewish Types of Sacrifice
 
@@ -114,19 +120,13 @@ Every authentic sacrifice—from the Jewish offerings to Christ's Cross to our d
 
 **2. Oblation (Mercy):** Sacrifice is also a free gift of love that goes beyond what justice requires. Even if we had never sinned, love would still call us to sacrifice for the beloved because love naturally gives itself away. Christ taught: "Greater love has no man than this, that a man lay down his life for his friends" (John 15:13). God's love moved Him to sacrifice even before we deserved it: "But God shows his love for us in that while we were yet sinners Christ died for us" (Romans 5:8).
 
-**Our Participation in Christ's Sacrifice: Eucharistic Participation**
-Christ invites us to unite our sacrifices with His. This happens most perfectly in the Eucharist, where our daily offerings—our patience with difficult people, our choice to forgive, our acts of service—are united with Christ's perfect sacrifice on the altar. St. Paul explains the profound reality of this union: "The cup of blessing that we bless, is it not a participation in the blood of Christ? The bread that we break, is it not a participation in the body of Christ? Because the loaf of bread is one, we, though many, are one body, for we all partake of the one loaf" (1 Corinthians 10:16-17). The Mass doesn't just commemorate Christ's sacrifice; it makes it present and draws us into communion with Christ and with His Body, the Church. This communion forms and disposes our hearts to desire to sacrifice properly for others, teaching us what authentic love looks like and giving us the grace to live it.
+## What This Teaches Us About Sacrifice
 
-**Our Participation in Christ's Sacrifice: Mystical Participation**
-St. Paul reveals another dimension of how our sacrifices can participate in Christ's redemptive work: "Now I rejoice in my sufferings for your sake, and in my flesh I complete what is lacking in Christ's afflictions for the sake of his body, that is, the church" (Colossians 1:24). This doesn't mean Christ's sacrifice was insufficient, but that He invites us to unite our daily sufferings and sacrifices with His for the salvation of souls. Pope Pius XII, in his encyclical *Mystici Corporis*, teaches that "by his passion and death on the cross Christ has given a new meaning to suffering: it can henceforth configure us to him and unite us with his redemptive Passion" (CCC 1505).
-
-As members of Christ's Mystical Body, our sacrifices have infinite value when united with His. The Church further teaches that there exists a "treasury of merits" (CCC 1471) - the infinite value of Christ's sacrifice combined with the prayers and good works of the saints - from which the Church can draw for the benefit of all souls. This treasury represents love overflowing in abundance. When we unite our sacrifices with Christ's, we don't just avoid sin; we flood the world with the opposite of sin. Where sin destroys relationships through selfishness, our sacrificial love builds relationships through generous service. Where sin dishonors God and neighbor through injustice, our sacrifices restore honor through acts of justice that give each person their due dignity. Where sin wounds and divides through hardness of heart, our sacrifices heal and unite through mercy that chooses to forgive and restore rather than condemn and reject.
-
-When we offer our struggles, disappointments, and acts of self-denial with the right intention, they become part of the ongoing work of redemption in the world. This is not merely symbolic but accomplishes real spiritual work in the order of grace. Pope Benedict XVI, in *Deus Caritas Est*, reminds us that "love is 'divine' because it comes from God and unites us to God; through this unifying process it makes us a 'we' which transcends our divisions and makes us one, until in the end God is 'all in all'" (DCE 18).
+The Jewish sacrificial system reveals that authentic sacrifice is not arbitrary suffering but purposeful love that accomplishes specific spiritual work. Our daily sacrifices participate in Christ's perfect sacrifice when they express total self-offering (burnt offering), make reparation for sin (sin offering), seek to make amends for wrongs (guilt offering), build communion with God and neighbor (peace offering), offer our ordinary work and life to God (grain offering), and transform our gratitude into worship (thanksgiving offering). Every Mass makes present both dimensions of Christ's sacrifice—expiatory (making reparation for sins) and oblative (offering pure love to the Father).
 
 ## How These Prefigure Christ's Perfect Sacrifice
 
-Each Jewish sacrifice was a shadow pointing to the reality of Christ's Cross. As the Letter to the Hebrews explains: "It is impossible for the blood of bulls and goats to take away sins" (Hebrews 10:4), but "when Christ had offered for all time a single sacrifice for sins, he sat down at the right hand of God" (Hebrews 10:12). Christ's sacrifice fulfills and perfects all sacrifices simultaneously. One of the many ways Jesus came to fulfill the Law ("Do not think that I have come to abolish the law or the prophets. I have come not to abolish but to fulfill." Matthew 5:17):
+Each Jewish sacrifice was a shadow pointing to the reality of Christ's Cross. As the Letter to the Hebrews explains: "It is impossible for the blood of bulls and goats to take away sins" (Hebrews 10:4), but "when Christ had offered for all time a single sacrifice for sins, he sat down at the right hand of God" (Hebrews 10:12). Christ's sacrifice fulfills and perfects all sacrifices simultaneously. One of the many ways Jesus came to fulfill the Law: "Do not think that I have come to abolish the law or the prophets. I have come not to abolish but to fulfill" (Matthew 5:17).
 
 - His **burnt offering** is the most complete self-giving to the Father
 - His **sin offering** is the sacrifice that takes away the sin of the world
@@ -135,25 +135,61 @@ Each Jewish sacrifice was a shadow pointing to the reality of Christ's Cross. As
 - His **grain offering** is the sacrifice that offers His human life and work to the Father
 - His **thanksgiving offering** is the perfect Eucharist that transforms our gratitude into worship
 
-## What This Teaches Us About Sacrifice
+## The Paschal Mystery: Death and Resurrection as One Perfect Sacrifice
 
-The Jewish sacrificial system reveals that authentic sacrifice is not arbitrary suffering but purposeful love that accomplishes specific spiritual work. Our daily sacrifices participate in Christ's perfect sacrifice when they express total self-offering (burnt offering), make reparation for sin (sin offering), seek to make amends for wrongs (guilt offering), build communion with God and neighbor (peace offering), offer our ordinary work and life to God (grain offering), and transform our gratitude into worship (thanksgiving offering). Every Mass makes present both dimensions of Christ's sacrifice—expiatory (making reparation for sins) and oblative (offering pure love to the Father).
+Christ's sacrifice is not merely His death on the Cross—it is the complete **Paschal Mystery** of His passion, death, and resurrection working together as one perfect sacrifice. This is crucial for understanding authentic love:
+
+**The Death:** Christ's death on the Cross accomplishes the expiatory dimension of sacrifice—making reparation for sin, satisfying divine justice, and opening the gates of heaven. As St. Paul writes: "He was delivered up for our trespasses" (Romans 4:25a). The Cross shows us that authentic love is willing to suffer and even die for the beloved.
+
+**The Resurrection:** Christ's resurrection accomplishes the oblative dimension of sacrifice—demonstrating that love is stronger than death, that self-giving leads to new life, and that sacrifice produces joy rather than mere loss. St. Paul continues: "and raised for our justification" (Romans 4:25b). The Resurrection shows us that authentic sacrifice leads not to destruction but to transformation.
+
+**The Unity:** Death and resurrection together reveal that authentic sacrifice always involves both dying to self and rising to new life. We cannot have one without the other. Every act of sacrificial love requires us to "die" to our selfishness and "rise" to a greater capacity for love. This is why St. Paul can say: "I have been crucified with Christ. It is no longer I who live, but Christ who lives in me" (Galatians 2:20).
+
+The Paschal Mystery teaches us that sacrifice is not about destruction but about transformation—not about losing ourselves but about finding our true selves in God. When we unite our sacrifices with Christ's Paschal Mystery, we participate not only in His death but also in His resurrection, experiencing the joy and freedom that come from authentic love.
+
+## Mary: The Perfect Model of Sacrificial Love
+
+After Christ, Mary provides the most perfect example of sacrificial love. Her entire life was a continuous "fiat"—a willing surrender to God's will that began at the Annunciation and culminated at the Cross.
+
+**Her Fiat at the Annunciation:** Mary's "Let it be done unto me according to your word" (Luke 1:38) was the first and most fundamental sacrifice—the sacrifice of her own will, her plans, her reputation, and her safety for the sake of God's plan of salvation. This sacrifice made the Incarnation possible and shows us that the greatest sacrifices often involve surrendering our understanding to God's wisdom.
+
+**Her Presence at the Cross:** While the apostles fled, Mary stood at the foot of the Cross, offering her maternal heart in union with her Son's sacrifice. She sacrificed her natural desire to protect her child, instead offering Him with perfect love for our salvation. As Simeon prophesied, "a sword will pierce your own soul also" (Luke 2:35). Her presence there was not passive but active participation in the work of redemption.
+
+**Her Ongoing Intercession:** Mary continues to sacrifice for us, interceding constantly before the throne of God, offering her prayers and love for our salvation. Her maternal heart cannot rest while any of her children remain in danger of eternal loss.
+
+**Model for All Christians:** Mary shows us that perfect sacrifice is always united with perfect trust. She teaches us to say "yes" to God's will even when we cannot understand it, to remain faithful even in the darkest hours, and to unite our sufferings with Christ's for the salvation of others.
+
+## Our Participation in Christ's Sacrifice
+
+**Eucharistic Participation:**
+In the Holy Eucharist, we bring all our daily sacrifices to the altar to be united with Christ's perfect sacrifice.
+
+In the **Confiteor**, we offer our failures and need for mercy as a sacrifice of humility. During the **Kyrie**, we offer our petitions and dependence on God's mercy. In the **Sanctus**, we offer our praise and worship, joining the angels in adoration.
+
+During the **Preparation of the Gifts**, we offer our works, sufferings, and prayers along with the bread and wine. At the **Consecration**, these offerings are transformed and united with Christ's Body and Blood.
+
+In the **Agnus Dei**, we offer our trust in Christ's Sacrifice as the Lamb of God who takes away the sins of the world. When we pray the last prayer before receiving Communion—"Lord, I am not worthy to receive You, but only say the word and I shall be healed"—we put our full and humble trust in the authority and power of Christ's Sacrifice to heal us of all our unworthiness to be united to Him.
+
+When we receive Communion, we receive the grace to live these sacrifices authentically, and at the **Dismissal**, we are sent forth to offer our lives as living sacrifices in the world.
+
+St. Paul explains this profound reality: "The cup of blessing that we bless, is it not a participation in the blood of Christ? The bread that we break, is it not a participation in the body of Christ?" (1 Corinthians 10:16-17). The Mass doesn't just commemorate Christ's sacrifice; it makes it present and draws us into communion with Christ and His Body, the Church. This communion forms our hearts to desire authentic sacrifice for others, teaching us what love looks like and giving us the grace to live it.
+
+**Mystical Participation:**
+St. Paul reveals another dimension of how our sacrifices can participate in Christ's redemptive work: "Now I rejoice in my sufferings for your sake, and in my flesh I complete what is lacking in Christ's afflictions for the sake of his body, that is, the church" (Colossians 1:24). This doesn't mean Christ's sacrifice was insufficient, but that He invites us to unite our daily sufferings and sacrifices with His for the salvation of souls. As members of Christ's Mystical Body, our sacrifices have infinite value when united with His.
+
+When we unite our sacrifices with Christ's, we don't just avoid sin; we flood the world with the opposite of sin. Where sin destroys relationships through selfishness, our sacrificial love builds relationships through generous service. Where sin dishonors God and neighbor through injustice, our sacrifices restore honor through acts of justice that give each person their due dignity. Where sin wounds and divides through hardness of heart, our sacrifices heal and unite through mercy that chooses to forgive and restore rather than condemn and reject.
 
 ## The Hierarchy of Sacrifice
 
-**1. Sacrifice for God:** The highest form of sacrifice is offering ourselves completely to God—our time in prayer, our obedience to His commandments, our acceptance of His will, our worship and adoration. This includes martyrdom as the ultimate sacrifice of life itself for love of God.
-
-**2. Sacrifice for Spouse and Children:** In marriage, spouses are called to sacrifice for each other and especially for their children. Parents naturally sacrifice sleep, comfort, resources, and personal desires for the good of their children. This sacrifice creates the secure environment children need to flourish. Each spouse is called to sacrifice for the other, understanding that the good of the family is greater than their own comfort or desires.
-
-**3. Sacrifice for Family and Community:** We sacrifice for our extended family, our community, our nation. This includes military service, civic duty, public service, charitable works, and building up the common good through our particular gifts and talents.
-
-**4. Sacrifice for Neighbors and Strangers:** The Good Samaritan exemplifies this—sacrificing time, money, and effort for someone who could never repay him. This includes works of mercy, evangelization, and serving the poor and marginalized. Jesus tells this story explaining the type of sacrifice that we are called to in order to be part of His Kingdom.
-
-**5. Sacrifice for Enemies:** The highest human expression of sacrifice is loving our enemies—praying for those who persecute us, forgiving those who wrong us, seeking the good of those who wish us ill. This most perfectly images Christ's love. This is a radical call to sacrifice that goes against the grain of human nature.
-
 This hierarchy helps us understand that while all authentic sacrifice is good, some forms of sacrifice are higher and more perfect than others. The closer our sacrifice comes to imitating God's own self-giving love, the more perfectly it expresses authentic love.
 
-**Note:** True justice toward ourselves requires that we maintain a constant readiness for self-sacrifice while avoiding unnecessary self-destruction. We should cultivate the attitude of complete availability to God's will—ready to give our lives if called to martyrdom for truth, justice, or mercy—but we must not seek suffering or death for its own sake. Authentic sacrifice serves love; it does not pursue pain as an end in itself. The saints were ready to die for Christ, but they lived fully for Him first.
+**1. Sacrifice for God:** The highest form of sacrifice is offering ourselves completely to God—our time in prayer, our obedience to His commandments, our acceptance of His will, our worship and adoration.
+
+**2. Sacrifice for Family:** Sacrificing for our families is essential, including our spouses, children, and extended family members.
+
+**3. Sacrifice for Neighbors and Strangers:** We are called to sacrifice for those in need, including the poor, the marginalized, and those who cannot repay us.
+
+**4. Sacrifice for Enemies:** The highest human expression of sacrifice is loving our enemies—praying for those who persecute us, forgiving those who wrong us, seeking the good of those who wish us ill.
 
 ## How Sacrifice Transforms the Heart
 
@@ -165,19 +201,19 @@ This hierarchy helps us understand that while all authentic sacrifice is good, s
 
 **From Temporal to Eternal:** Sacrifice teaches us to value eternal goods over temporal ones, spiritual riches over material wealth, the soul's welfare over the body's comfort. It reorders our priorities according to their true importance.
 
-## The Fruits of Sacrifice
+## The Fruits of Sacrificial Love
 
 **Joy:** "It is more blessed to give than to receive" (Acts 20:35). Sacrifice produces a deep joy that comes from participating in God's own nature, which is self-giving love. This joy is different from pleasure—it can coexist with pain and difficulty.
 
 **Peace:** Sacrifice brings peace because it aligns our will with God's will and our heart with love's demands. The person who sacrifices for love experiences the peace that comes from living according to our deepest nature.
 
-**Strength:** Each act of sacrifice strengthens our capacity for greater sacrifice. Like physical exercise, spiritual exercise (fasting, prayer, almsgiving, etc.) builds spiritual muscle. The saints could make heroic sacrifices because they had practiced with smaller ones.
+**Strength:** Each act of sacrifice strengthens our capacity for greater sacrifice. Like physical exercise, spiritual exercise builds spiritual muscle. The saints could make heroic sacrifices because they had practiced with smaller ones.
 
 **Wisdom:** Sacrifice teaches us what truly matters. When we give up lesser goods for greater ones, we learn to distinguish between the essential and the accidental, the eternal and the temporal.
 
-**Love:** Most importantly, sacrifice increases our capacity for love. The more we give, the more we can give. The heart that sacrifices becomes a heart capable of greater love.
+**Greater Capacity for Love:** Most importantly, sacrifice increases our ability to love. The more we give, the more we can give. The heart that sacrifices becomes a heart capable of ever-greater love.
 
-## The Eucharist: The Perfect Sacrifice
+## The Eucharist: The Perfect School of Sacrifice
 
 The Mass is the perfect school of sacrifice because it makes present the perfect sacrifice of Christ. At every Mass:
 
@@ -205,25 +241,13 @@ The Eucharist teaches us that sacrifice is not about destruction but transformat
 
 ## What Evil This Overcomes
 
-Sacrifice conquers the **root evil of selfishness** that places the self above God and neighbor. This selfishness manifests in countless ways - all of them, at their root, are an "worship" (giving due reverence) to something other than God.
+Sacrifice conquers the **root evil of selfishness** that places the self above God and neighbor. This selfishness manifests in the seven deadly sins, each representing a different form of disordered self-love:
 
-**Pride:** The refusal to acknowledge our dependence on God and others, the desire to be served rather than to serve, the demand that others exist for our benefit. We worship the self at the expense of any higher wisdom.
+**Pride** makes us our own god, rejecting divine truth in favor of our own opinions. **Greed** creates disordered attachment to material goods, making us unwilling to share with those in need. **Lust** reduces others to objects for our pleasure, corrupting the gift of sexuality into selfish exploitation.
 
-**Greed:** The disordered attachment to material goods that makes us unwilling to share with those in need, the belief that happiness comes from accumulating rather than using material goods to serve others. We worship material goods at the expense of those in need.
+**Envy** breeds resentment of others' good fortune and unwillingness to rejoice in their happiness. **Gluttony** demands immediate satisfaction without moderation or gratitude. **Wrath** seeks revenge rather than justice and refuses the hard work of forgiveness. **Sloth** avoids spiritual and moral responsibility, choosing comfort over service and growth.
 
-**Lust:** The reduction of others to objects for our pleasure, the refusal to sacrifice immediate gratification for authentic love, the corruption of the gift of sexuality into selfish taking. We worship our own pleasure at the expense of those we use.
-
-**Envy:** The resentment of others' good fortune, the unwillingness to rejoice in others' happiness, the desire to tear down rather than build up. We worship others' success at the expense of our own.
-
-**Gluttony:** The refusal to practice moderation, the demand for immediate satisfaction, the inability to fast or abstain for any higher purpose. We worship material sustenance at the expense of our own health and well-being.
-
-**Wrath:** The desire for revenge rather than justice, the refusal to forgive, the choice to destroy rather than heal. We worship our own anger and desire for revenge at the expense of others.
-
-**Sloth:** The unwillingness to make effort for love, the avoidance of spiritual and moral responsibility, the preference for ease over virtue. We worship our own comfort and ease at the expense of serving others.
-
-Sacrifice transforms the heart from self-seeking to self-giving, breaking the fundamental pattern of evil and opening us to authentic love. It helps us to see that we were not created to be consumed by selfishness, but to be a light offering ourselves to others.
-
-These false gods—pride, greed, lust, envy, gluttony, wrath, and sloth—cannot provide meaning, purpose, or fulfillment because they are not the source of all truth, justice and mercy. They did not create us, and they do not have the power to save us from self-destruction.
+Sacrifice transforms the heart from self-seeking to self-giving, breaking the fundamental pattern of evil and opening us to authentic love. These disordered loves cannot provide meaning, purpose, or fulfillment because they are not the source of all truth, justice, and mercy. Only God, who created us for love, has the power to save us from the self-destruction that comes from worshipping anything less than Himself.
 
 ## The Call to Heroic Sacrifice
 
