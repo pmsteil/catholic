@@ -92,33 +92,215 @@ In the Sacrament of Matrimony, God Himself joins the couple together, making the
 
 As the Second Vatican Council taught in *Gaudium et Spes*: "The intimate partnership of married life and love has been established by the Creator and qualified by His laws, and is rooted in the conjugal covenant of irrevocable personal consent" (GS 48). This covenant creates what St. John Paul II called "a communion of persons" that images the very life of the Trinity.
 
+## The Covenant Structure of Marriage Vows
+
+The traditional marriage vows that couples speak at the altar are not merely beautiful words—they follow the precise structure of biblical covenant-making, connecting human love to the very pattern by which God loves His people.
+
+**"I take you..."** 
+
+This phrase mirrors the fundamental biblical covenant formula: "I will be your God, and you will be my people" (Jeremiah 31:33). It expresses mutual belonging and exclusive relationship. Just as God "takes" His people as His own possession, spouses "take" each other in total self-gift.
+
+**"Until death do us part..."**
+
+This echoes the eternal nature of God's covenants. Just as God declares His covenant with Abraham "everlasting" (Genesis 17:7), marriage vows express permanence and irrevocability. The covenant bond itself becomes permanent, even when lived communion may be interrupted by conflict or estrangement—just as a marriage remains valid even when spouses are separated, providing the foundation for reconciliation.
+
+**"For better, for worse, for richer, for poorer, in sickness and in health..."**
+
+This unconditional commitment parallels God's *hesed* (steadfast love) that remains constant regardless of circumstances. It echoes God's covenant love that persists even when Israel is unfaithful, showing that true covenant love is not conditional on performance but grounded in the permanent bond itself.
+
+**"Before God and His Church..."**
+
+Marriage vows are spoken in the presence of witnesses, mirroring how biblical covenants were made publicly with God invoked as guarantor. The community becomes witness to the covenant bond, called to support and protect it.
+
+**"In the name of the Father, and of the Son, and of the Holy Spirit..."**
+
+This Trinitarian invocation places the marriage covenant within the very life of the Trinity itself, making human covenant-making a participation in the divine nature. The couple doesn't merely make promises to each other—they enter into God's own covenant life.
+
+**The Wedding Ring as Covenant Sign**
+
+The wedding ring serves as a covenant sign, much like circumcision for Abraham's covenant or the rainbow for Noah's covenant. It's a visible, permanent reminder of the invisible spiritual reality—the covenant bond that endures even when feelings change or difficulties arise.
+
+## Baptism: Entering God's New Covenant
+
+Just as marriage follows the biblical pattern of covenant-making, so does our entry into relationship with God through Baptism. The same covenant structure that makes marriage work enables our relationship with God to flourish.
+
+**The Baptismal Covenant Structure:**
+
+**Mutual Exchange and Self-Gift:** The baptismal promises mirror marriage vows in their mutual commitment. "Do you reject Satan and all his works?" "Do you believe in God the Father, Son, and Holy Spirit?" These questions establish the fundamental choice—turning away from competing loyalties and giving oneself totally to God. In response, God declares: "You are my beloved child in whom I am well pleased."
+
+**Permanence and Irrevocability:** Baptism creates an indelible mark on the soul that can never be removed, just as marriage creates a permanent bond. The Catechism teaches that baptismal character "remains for ever in the Christian as a positive disposition for grace" (CCC 1121). Like marriage, this covenant bond persists even when lived communion is interrupted by sin.
+
+**Unconditional Commitment:** God's baptismal covenant is not conditional on our performance. Even when we fail through mortal sin, the covenant bond remains intact—we become estranged from God while remaining His covenant children, just as estranged spouses remain married while living separated lives.
+
+**Public Witness and Community:** Baptism occurs before the Church community, with godparents serving as covenant witnesses. The parish becomes responsible for supporting and protecting this covenant relationship, just as wedding guests witness and support marriage.
+
+**Sacred Signs and Seals:** The baptismal garment, chrism, and candle serve as permanent covenant markers, visible reminders of the invisible spiritual reality. These signs point to the permanent transformation that has occurred—the person has been "clothed with Christ" and marked as God's own forever.
+
+**Parental Covenant:** When parents bring infants for baptism, they act as covenant representatives, just as Abraham circumcised Isaac to bring him into God's covenant. Parents make covenant commitments on behalf of their children, promising to raise them in the faith until they can personally ratify this choice.
+
+**Ordered toward Life-Giving Communion:** Baptism brings us into the Body of Christ, the Church, creating the foundation for all other relationships. We become part of God's family, with the Blessed Virgin Mary as our mother and all the saints as our brothers and sisters.
+
+## Confirmation: Ratifying Our Covenant Choice
+
+Confirmation completes baptismal initiation by providing the opportunity for personal ratification of the covenant our parents chose for us. Like marriage vow renewals, Confirmation allows us to personally embrace and strengthen our covenant with God.
+
+**Biblical Foundation:** Confirmation connects to the Pentecost experience and the apostolic practice of laying on hands (Acts 8:14-17). It's the sacrament by which we receive the Holy Spirit in a special way to strengthen our covenant relationship with God.
+
+**Personal Covenant Renewal:** At Confirmation, we personally answer the same questions asked at Baptism, but now with mature understanding and free choice. We ratify what our parents chose for us, making the covenant truly our own.
+
+**Sacred Seal:** The chrism used in Confirmation creates an indelible spiritual mark, just like the wedding ring creates a permanent sign. The Catechism teaches that Confirmation "imprints a spiritual and indelible 'character'" (CCC 1304), marking us permanently as witnesses to Christ.
+
+**Mission Dimension:** Confirmation sends us forth to witness covenant love to the world. Just as married couples witness to God's faithful love through their relationship, confirmed Christians are called to show the world what God's covenant love looks like in daily life.
+
+**Strengthening Grace:** Confirmation provides special grace to live faithfully in all our covenant relationships—with God, in marriage, in friendship, in community. The gifts of the Holy Spirit enable us to practice the truth, justice, mercy, and sacrifice that covenant love requires.
+
+## Reconciliation: Restoring Covenant Communion
+
+When we fail in our covenant commitments—whether to God, spouse, or community—God provides the Sacrament of Reconciliation to restore communion within the existing covenant bond.
+
+**The Key Distinction:** Mortal sin does not break our baptismal covenant any more than marital infidelity dissolves a marriage. Instead, sin creates a barrier to the intimate communion that the covenant is meant to provide. We become estranged from God while remaining His covenant children, just as estranged spouses remain married while living separated lives.
+
+**Why Not Re-Baptism?** If mortal sin actually broke the baptismal covenant, restoration would require re-baptism. Instead, the Sacrament of Reconciliation restores communion within the existing covenant relationship. The relationship infrastructure remains, waiting for our return through reconciliation.
+
+**Covenant Mercy in Action:** Reconciliation demonstrates how God's covenant love integrates perfect justice and perfect mercy. Justice requires acknowledgment of covenant failure and appropriate penance. Mercy offers forgiveness and restoration of communion. Both work together within the permanent covenant bond.
+
+**For Life-Giving Communion:** We cannot experience authentic communion with God or others while separated by unrepented sin. Reconciliation removes the barriers that prevent covenant love from flowing freely, restoring us to the life-giving communion for which we were created.
+
+## The Eucharist: Covenant Renewal and Strengthening
+
+The Eucharist stands at the center of all covenant relationships as the source and summit of covenant love. In Jesus' own words, "This is my blood of the new covenant" (Matthew 26:28), the Mass is the ultimate covenant renewal ceremony.
+
+**Weekly Covenant Renewal:** Just as married couples benefit from regularly renewing their vows, the Eucharist provides weekly opportunity to renew our covenant with God. We offer our lives to God and receive His life in return, strengthening all our covenant relationships.
+
+**Perfect Integration of All Virtues:** The Mass perfectly integrates truth (Liturgy of the Word), justice (offering our lives), mercy (forgiveness of sins), and sacrifice (Christ's perfect offering), leading to communion (receiving the Eucharist). This provides the pattern for how all covenant relationships should integrate these virtues.
+
+**Source of Covenant Strength:** The Eucharist provides the grace necessary to live faithfully in all our covenant relationships. Married couples draw strength for their marriage, single persons prepare for their future covenants, and all Christians are empowered to witness covenant love to the world.
+
+**Foretaste of Eternal Covenant:** The Eucharist anticipates the Marriage Supper of the Lamb, when all covenant relationships will find their fulfillment in perfect communion with God and each other in heaven.
+
+## The Biblical Arc: From Old Covenant to New Covenant to Eternal Covenant
+
+Understanding covenant love requires seeing the grand narrative of salvation history as God's progressive revelation of perfect covenant love.
+
+**Old Covenant Preparation:** From Noah's rainbow to Abraham's circumcision to Moses' tablets to David's dynasty, God established a series of covenants that prepared humanity for the ultimate covenant. Each covenant revealed more of God's character and taught humanity how covenant relationships work.
+
+**New Covenant Fulfillment:** Jesus Christ is both the perfect covenant keeper (fulfilling all previous covenants) and the perfect covenant maker (establishing the New Covenant through His death and resurrection). In Christ, we see what perfect covenant love looks like—permanent, exclusive, fruitful, and sacrificial.
+
+**Sacramental Participation:** Through the sacraments, we enter and live the New Covenant today. Baptism and Confirmation initiate us, Marriage enables us to witness covenant love, Reconciliation restores us when we fail, and Eucharist renews and strengthens us for covenant living.
+
+**Eternal Covenant Destiny:** All earthly covenants point toward the ultimate covenant—the Marriage of the Lamb described in Revelation, when Christ and His Bride (the Church) will be united forever in perfect communion. Every faithful marriage, every act of covenant love, every moment of sacramental grace prepares us for this eternal destiny.
+
+**For the Salvation of the World:** We live covenant love not just for our own happiness but for the salvation of the world. When people see authentic covenant relationships—marriages that last, friendships that endure, communities that care for their members—they catch a glimpse of God's own covenant love and are drawn toward Him.
+
+## How Covenant Love Serves Perfect Love
+
+Covenant love is not one option among many—it is the essential structure that makes perfect love possible. Our comprehensive definition reveals this clearly: "Perfect love is the sacred, sacrificial gift of covenant which binds true justice and true mercy into life-giving communion."
+
+**Sacred Covenant:** Love must be grounded in sacred covenant that reflects God's own covenant faithfulness. This provides the sacred permanence that prevents love from becoming temporary emotion or conditional arrangement.
+
+**Sacrificial Gift:** Covenant love demands ongoing sacrifice—the daily choice to put the covenant above personal convenience. This transforms love from feeling into commitment, from desire into dedication. Every day of covenant love requires countless small sacrifices that prove love through action.
+
+**Covenant Binding:** The covenant creates an unbreakable bond that enables authentic intimacy. Only within permanent commitment can spouses risk complete vulnerability and trust.
+
+**Binds:** Covenant love binds all other virtues together in service of the relationship. Truth, justice, mercy, and sacrifice all find their proper expression within the covenant framework:
+
+- **Truth in Covenant:** Honesty and transparency in all dealings, creating the trust necessary for intimate relationship. Spouses must be truthful about their needs, struggles, and failures, while also speaking truth in love when correction is needed.
+
+- **Justice in Covenant:** Giving each family member what they are due—time, attention, affection, correction, and support. Parents must be just in their treatment of children, and spouses must be just in their treatment of each other.
+
+- **Mercy in Covenant:** Forgiveness when covenant partners fail, recognizing that all humans are sinners in need of grace. Covenant love doesn't ignore failures but responds with mercy that seeks restoration rather than punishment.
+
+- **Sacrifice in Covenant:** Putting the good of the covenant above personal comfort, convenience, or desires, proving love through costly action rather than mere words.
+
+**True Justice/Mercy:** Both justice and mercy require covenant commitment. Justice demands we give our covenant partner what they deserve—our fidelity, attention, and care. Mercy demands we forgive covenant failures and work for restoration rather than abandonment.
+
+**Life-Giving Communion:** Authentic communion is only possible within covenant love because it requires the security of permanent commitment. Children especially need the life-giving communion that comes from parents who are covenant-bound to each other and to them. These virtues, when lived within covenant relationships, create the conditions for authentic communion—the ultimate goal of all love.
+
+## Living the Response
+
+Covenant love calls us to radical commitment in a culture that worships options and fears permanent bonds. Whether we are married, single, or religious, we are all called to live covenant love in our relationships:
+
+**For All Christians - Living Your Baptismal Covenant:**
+- Begin each day by renewing your baptismal promises: "I reject Satan and choose God"
+- Remember that you are God's beloved child, marked with an indelible seal
+- When you fail through sin, return quickly to Reconciliation to restore communion
+- Support others in their covenant relationships through prayer and practical help
+- Witness to God's covenant love through your faithfulness in all relationships
+
+**For Those Preparing for or Living Confirmation:**
+- Embrace your role as witness to covenant love in the world
+- Use the gifts of the Holy Spirit to strengthen all your covenant relationships
+- Defend the truth about marriage, family, and human dignity
+- Prepare carefully for the covenant commitments you will make (marriage or religious life)
+- See every relationship as an opportunity to practice covenant fidelity
+
+**For Married Couples:**
+- Renew your wedding vows regularly, not just in ceremony but in daily choice
+- Remember that your covenant bond persists even during difficult times—you are estranged, not divorced
+- Prioritize your marriage relationship as the foundation of your family
+- Model covenant fidelity for your children through your treatment of each other
+- Seek help when your marriage is struggling rather than considering divorce
+- Remember that your marriage is a sacrament, not just a human contract
+- Draw strength from the Eucharist for your covenant love
+
+**For Single Persons:**
+- Prepare for marriage by learning to make and keep commitments in friendship
+- Practice covenant love in your relationships with family and friends
+- If called to marriage, choose a spouse who understands covenant love
+- If called to religious life, embrace the covenant of religious vows
+- Live your baptismal covenant faithfully as preparation for future commitments
+- Support married couples in your community through prayer and practical help
+
+**For Those Who Have Failed in Covenant Love:**
+- Remember the distinction: your covenant failures don't break the permanent bond
+- Approach the Sacrament of Reconciliation to restore communion within your existing covenants
+- If divorced, remember that your marriage bond may still exist—seek Church guidance
+- Focus on living faithfully in your current state rather than despairing over past failures
+- Trust in God's covenant mercy that never abandons His children
+- Work to break cycles of broken love in your family and community
+
+**For Parents:**
+- Understand that you made covenant commitments on behalf of your children at their Baptism
+- Raise your children to understand and embrace covenant love
+- Model covenant fidelity in your marriage as the foundation for their future relationships
+- Prepare your children for Confirmation as their personal ratification of God's covenant
+- Teach them that authentic love requires permanent commitment, not just feelings
+- Protect them from cultural lies about disposable relationships
+
+**For the Entire Church:**
+- Defend the truth about marriage and family in a culture that attacks both
+- Support organizations that strengthen marriages and protect children
+- Make the Eucharist the center of your covenant life—source and summit of all relationships
+- Pray for married couples, especially those facing difficulties
+- Welcome those seeking to restore broken covenant relationships
+- Remember that every relationship is an opportunity to practice covenant fidelity
+
+The world desperately needs witnesses to covenant love—people who prove that permanent, faithful love is not only possible but the path to deepest joy and fulfillment. Through our baptismal covenant with God, strengthened by Confirmation, lived out in marriage or religious life, restored through Reconciliation, and renewed in the Eucharist, we become living signs of God's own covenant love for the salvation of the world.
+
+*Lord Jesus Christ, You are the perfect covenant keeper and covenant maker, establishing the New Covenant through Your death and resurrection. Thank You for calling us into covenant relationship with You through Baptism, strengthening us through Confirmation, and providing the Eucharist as our covenant renewal. Grant us the grace to live covenant love in all our relationships—permanent, faithful, and ordered toward life-giving communion. Help married couples to live their sacrament as a witness to Your love for the Church, remembering that their covenant bond persists even through difficulties. Help single persons to prepare for covenant love through faithful friendship and service. Help parents to honor the covenant commitments they made for their children at Baptism. When we fail in our covenant commitments, draw us quickly to Reconciliation to restore communion within our permanent bonds. Help all of us to break the cycles of broken love in our families and communities, creating legacies of authentic covenant love that witness to Your truth, justice, and mercy for the salvation of the world. Through the same Christ our Lord. Amen.*
+
 ## Contemporary Challenges to Covenant Love
 
 Having established what covenant love truly is, we must now address the serious attacks on covenant love in our time. The Church's teaching provides clear guidance for Catholics who must navigate and explain these challenges:
 
-**Why Same-Sex Unions Cannot Be Marriage:**
+**Same-Sex "Marriage" - An Impossibility:**
 
-Many good people today struggle to understand why the Catholic Church cannot recognize same-sex unions as marriage. This is not because the Church lacks compassion for those with same-sex attraction, but because marriage has a specific nature that cannot be changed by human law or desire. As St. John Paul II taught in his *Theology of the Body*, "The body, and it alone, is capable of making visible what is invisible: the spiritual and the divine." 
-
-The Church's understanding of marriage is based on several unchangeable realities:
-
-- **Marriage images God's relationship with humanity:** Just as God (masculine) pours life into creation (feminine), marriage requires the complementarity of male and female to image this divine relationship
-- **Covenant love is ordered toward new life:** Same-sex unions, while they may involve genuine affection, cannot fulfill marriage's essential ordering toward procreation and the raising of children
+The Church teaches that same-sex unions cannot be marriages because they lack the essential elements of covenant love:
 - **Natural law reveals marriage's structure:** The complementarity of male and female is written into human nature itself, not merely cultural convention that can be changed
 - **Sacramental requirements:** A sacrament must use the proper matter and form established by Christ—the union of one man and one woman
+- **Covenant fruitfulness:** Marriage is ordered toward the generation of children, which same-sex unions cannot achieve naturally
+- **Biblical witness:** Scripture consistently presents marriage as the union of man and woman, imaging God's covenant with His people
 
-As the Catechism teaches: "The matrimonial covenant, by which a man and a woman establish between themselves a partnership of the whole of life, is by its nature ordered toward the good of the spouses and the procreation and education of offspring" (CCC 1601).
+As St. John Paul II taught in his *Theology of the Body*: "The body, and it alone, is capable of making visible what is invisible: the spiritual and the divine." The complementarity of male and female bodies reveals the spiritual reality of covenant love—two becoming one while remaining distinct persons.
 
-This teaching comes from love—both love for the truth about human nature and love for all people, including those with same-sex attraction, who deserve to understand God's beautiful plan for human sexuality and relationships.
+**Cohabitation - Counterfeit Covenant:**
 
-**The Failure of Cohabitation:**
-
-Cohabitation fails to create authentic covenant love because it lacks the essential elements of true covenant:
-
-- **No permanent commitment:** "Living together" explicitly avoids the permanent bond that creates security
-- **Conditional love:** The implicit message is "I'll stay as long as it's convenient"
-- **Lack of sacrifice:** Without permanent commitment, there's no call to the sacrifice that proves love
-- **Harm to children:** Children in cohabiting relationships suffer higher rates of instability, abuse, and abandonment
+"Living together" without marriage fails to create authentic covenant love because it lacks:
+- **Permanent commitment:** The relationship remains conditional and temporary
+- **Public witness:** No community accountability or support
+- **Sacred bond:** No sacramental grace to strengthen the relationship
+- **Ordered toward children:** Often deliberately closed to new life
+- **True security:** Children suffer from the instability of uncommitted relationships
 
 Pope John Paul II warned in *Familiaris Consortio*: "Marriage is not merely a human institution despite the many variations it may have undergone through the centuries in different cultures, social structures and spiritual attitudes."
 
@@ -127,23 +309,20 @@ Pope John Paul II warned in *Familiaris Consortio*: "Marriage is not merely a hu
 Contraception fundamentally undermines covenant love by:
 
 - **Rejecting fruitfulness:** It deliberately closes the covenant to its natural end—new life
-- **Separating love from life:** It treats fertility as a disease to be suppressed rather than a gift to be received
-- **Reducing persons to objects:** It enables the use of another's body for pleasure while rejecting the person's fertility
-- **Breaking covenant unity:** It introduces a barrier (chemical or physical) between spouses in their most intimate union
+- **Separating love from life:** It breaks the connection between the unitive and procreative meanings of marriage
+- **Creating utilitarian mindset:** It treats fertility as a disease to be prevented rather than a gift to be received
+- **Undermining permanence:** It makes marriage about adult satisfaction rather than covenant commitment
+- **Harming children:** Pope Paul VI prophetically warned in *Humanae Vitae* that contraception would lead to increased divorce, infidelity, and the objectification of women
 
-As Pope Paul VI prophetically warned in *Humanae Vitae*, contraception would lead to increased infidelity, the objectification of women, and government coercion in reproductive matters—all of which we see today.
+**Civil Divorce vs. Sacramental Bond:**
 
-## How Covenant Love Combats Evil
+Understanding the distinction between covenant bond and lived communion helps explain the Church's teaching on divorce:
 
-Covenant love creates a fortress of protection around the vulnerable, directly combating the evil that would destroy families and societies:
-
-**Protection for Children:** The permanent commitment of parents creates a stable environment where children can develop securely, learn authentic love, and prepare for their own covenant relationships. As *Familiaris Consortio* teaches: "The family, which is founded and given life by love, is a community of persons: of husband and wife, of parents and children, of relatives" (FC 15).
-
-**Protection for Spouses:** The exclusive, faithful love of covenant marriage protects spouses from the emotional devastation of infidelity, abandonment, and betrayal. Pope Benedict XVI explains in *Deus Caritas Est*: "Love is indeed 'ecstasy,' not in the sense of a moment of intoxication, but rather as a journey, an ongoing exodus out of the closed inward-looking self towards its liberation through self-giving" (DCE 6).
-
-**Strengthening Society:** Families that model covenant fidelity create the social fabric necessary for a healthy civilization. Strong families produce citizens capable of keeping commitments and building lasting institutions. As *Gaudium et Spes* declares: "The well-being of the individual person and of human and Christian society is intimately linked with the healthy condition of that community produced by marriage and family" (GS 47).
-
-**Building the Church:** Covenant families become domestic churches where children learn to love God and neighbor, creating the next generation of faithful Catholics. St. John Paul II taught: "The Christian family constitutes a specific revelation and realization of ecclesial communion, and for this reason it can and should be called a domestic church" (FC 21).
+- **Civil divorce** may sometimes be necessary for legal protection, especially of children
+- **The sacramental bond** remains intact regardless of civil proceedings
+- **Estranged but not divorced:** Spouses may live separately while remaining married, just as we can be estranged from God through sin while remaining His covenant children
+- **Hope for restoration:** The permanent bond provides the foundation for reconciliation and healing
+- **Remarriage impossibility:** Since the first marriage bond persists, attempted remarriage constitutes adultery
 
 **Witnessing to the World:** In a culture of disposable relationships, covenant love becomes a powerful witness to the possibility of permanent, faithful love, pointing others toward God's own covenant love.
 
@@ -196,94 +375,67 @@ Authentic covenant love breaks these generational patterns by:
 
 When parents live authentic covenant love, they heal not only their own relationship but also the wounds of previous generations, creating a legacy of love that will bless their children and grandchildren.
 
-## Covenant Love and the Integration of All Virtues
-
-Covenant love provides the framework within which all other virtues find their proper expression:
-
-**Truth in Covenant:** Honesty and transparency in all dealings, creating the trust necessary for intimate relationship. Spouses must be truthful about their needs, struggles, and failures, while also speaking truth in love when correction is needed.
-
-**Justice in Covenant:** Giving each family member what they are due—time, attention, affection, correction, and support. Parents must be just in their treatment of children, and spouses must be just in their treatment of each other.
-
-**Mercy in Covenant:** Forgiveness when covenant partners fail, recognizing that all humans are sinners in need of grace. Covenant love doesn't ignore failures but responds with mercy that seeks restoration rather than punishment.
-
-**Sacrifice in Covenant:** Putting the good of the covenant above personal comfort, convenience, or desires. Every day of covenant love requires countless small sacrifices that prove love through action.
-
-These virtues, when lived within covenant relationships, create the conditions for authentic communion—the ultimate goal of all love.
-
-## How Covenant Love Serves Perfect Love
-
-Covenant love is not one option among many—it is the essential structure that makes perfect love possible. Our comprehensive definition reveals this clearly: "Perfect love is the sacred, sacrificial gift of covenant which binds true justice and true mercy into life-giving communion."
-
-**Sacred Covenant:** Love must be grounded in sacred covenant that reflects God's own covenant faithfulness. This provides the sacred permanence that prevents love from becoming temporary emotion or conditional arrangement.
-
-**Sacrificial Gift:** Covenant love demands ongoing sacrifice—the daily choice to put the covenant above personal convenience. This transforms love from feeling into commitment, from desire into dedication.
-
-**Covenant Binding:** The covenant creates an unbreakable bond that enables authentic intimacy. Only within permanent commitment can spouses risk complete vulnerability and trust.
-
-**Binds:** Covenant love binds all other virtues together in service of the relationship. Truth, justice, mercy, and sacrifice all find their proper expression within the covenant framework.
-
-**True Justice/Mercy:** Both justice and mercy require covenant commitment. Justice demands we give our covenant partner what they deserve—our fidelity, attention, and care. Mercy demands we forgive covenant failures and work for restoration rather than abandonment.
-
-**Life-Giving Communion:** Authentic communion is only possible within covenant love because it requires the security of permanent commitment. Children especially need the life-giving communion that comes from parents who are covenant-bound to each other and to them.
-
-## Living the Response
-
-Covenant love calls us to radical commitment in a culture that worships options and fears permanent bonds. Whether we are married, single, or religious, we are all called to live covenant love in our relationships:
-
-**For Married Couples:**
-- Renew your wedding vows regularly, not just in ceremony but in daily choice
-- Prioritize your marriage relationship as the foundation of your family
-- Model covenant fidelity for your children through your treatment of each other
-- Seek help when your marriage is struggling rather than considering divorce
-- Remember that your marriage is a sacrament, not just a human contract
-
-**For Single Persons:**
-- Prepare for marriage by learning to make and keep commitments in friendship
-- Practice covenant love in your relationships with family and friends
-- If called to marriage, choose a spouse who understands covenant love
-- If called to religious life, embrace the covenant of religious vows
-- Support married couples in your community through prayer and practical help
-
-**For All Christians:**
-- Defend the truth about marriage and family in a culture that attacks both
-- Support organizations that strengthen marriages and protect children
-- Pray for married couples, especially those facing difficulties
-- Live your baptismal covenant faithfully as a witness to God's covenant love
-- Remember that every relationship is an opportunity to practice covenant fidelity
-
-The world desperately needs witnesses to covenant love—people who prove that permanent, faithful love is not only possible but the path to deepest joy and fulfillment.
-
-*Lord Jesus Christ, You established the New Covenant through Your death and resurrection, showing us perfect covenant love. Grant us the grace to live covenant love in our own relationships—permanent, faithful, and ordered toward the good of others. Help married couples to live their sacrament as a witness to Your love for the Church. Help single persons to prepare for covenant love through faithful friendship. Help all of us to break the cycles of broken love in our families and communities, creating legacies of authentic love for future generations. Through the same Christ our Lord. Amen.*
-
 ## Examen: Covenant Love
 
-Begin each day this week by asking God to help you grow in covenant love—the sacred, binding commitment that creates permanent relationships ordered toward the good of others. As you go through your day, look for one concrete opportunity to practice covenant fidelity—whether in your marriage, family, friendships, or community commitments.
+Begin each day this week by asking God to help you grow in covenant love—the sacred, binding commitment that creates permanent relationships ordered toward life-giving communion. As you go through your day, look for concrete opportunities to practice covenant fidelity in all your relationships.
 
 At the end of each day, reflect on these questions:
-- How did I experience God's covenant love toward me today?
-- Where did I succeed in showing covenant fidelity to others?
+
+**Your Covenant with God:**
+- How did I live my baptismal covenant today—rejecting evil and choosing good?
+- Did I approach the Sacrament of Reconciliation when needed to restore communion?
+- How did the Eucharist strengthen my covenant relationships this week?
+- Where did I witness to God's covenant love through my faithfulness?
+
+**Your Human Covenant Relationships:**
+- If married: How did I honor my marriage covenant today, even during difficulties?
+- If single: How did I prepare for future covenant commitments through faithful friendship?
+- If a parent: How did I fulfill the covenant commitments I made for my children at their Baptism?
+- How did I support others in their covenant relationships?
+
+**Areas for Growth:**
 - Where did I choose convenience over commitment, or self-interest over covenant love?
+- Did I remember that covenant failures don't break permanent bonds but create barriers to communion?
 - How can I grow deeper in covenant love tomorrow?
+- What cycles of broken love in my family or community need healing?
 
-Notice both your successes and your failures without discouragement. When you recognize areas where you chose selfishness over covenant love, offer these to God with trust in His mercy. When you see moments where His covenant love worked through you, give thanks and ask for the grace to love even more faithfully.
+Notice both your successes and your failures without discouragement. When you recognize areas where you chose selfishness over covenant love, remember the crucial distinction: your failures don't break the permanent covenant bonds but create barriers to the communion those bonds are meant to provide. Offer these failures to God with trust in His covenant mercy, knowing that the relationship infrastructure remains intact, waiting for restoration.
 
-If during this examination you recognize any serious failures against covenant love—such as infidelity, abandonment of responsibilities, or breaking important commitments—consider bringing these to the Sacrament of Confession. This sacrament offers the profound gift of experiencing God's covenant mercy in a tangible way, receiving not just forgiveness but actual grace to love more faithfully. The confessional is where God's covenant love meets our covenant failures, offering healing and restoration.
+When you see moments where God's covenant love worked through you—in faithfulness to your spouse, care for your children, support for friends, or witness to your faith—give thanks and ask for the grace to love even more faithfully.
 
-Remember: Covenant love transforms relationships from temporary arrangements into permanent bonds that reflect God's own faithful love. In a world of disposable relationships, covenant love becomes a powerful witness to the possibility of lasting, faithful love.
+If during this examination you recognize any serious failures against covenant love—such as infidelity, abandonment of responsibilities, or breaking important commitments—consider bringing these to the Sacrament of Reconciliation. This sacrament offers the profound gift of experiencing God's covenant mercy in a tangible way, receiving not just forgiveness but actual grace to love more faithfully. The confessional is where God's covenant love meets our covenant failures, offering healing and restoration of communion within the permanent bonds that remain intact.
+
+Remember: Covenant love transforms relationships from temporary arrangements into permanent bonds that reflect God's own faithful love. In a world of disposable relationships, covenant love becomes a powerful witness to the possibility of lasting, faithful love. Through Baptism we enter God's covenant, through Confirmation we ratify it, through Marriage or Religious Life we live it, through Reconciliation we restore it, and through the Eucharist we renew it—all for life-giving communion and the salvation of the world.
+
+*Lord Jesus Christ, You are the perfect covenant keeper and covenant maker, establishing the New Covenant through Your death and resurrection. Thank You for calling us into covenant relationship with You through Baptism, strengthening us through Confirmation, and providing the Eucharist as our covenant renewal. Grant us the grace to live covenant love in all our relationships—permanent, faithful, and ordered toward life-giving communion. Help married couples to live their sacrament as a witness to Your love for the Church, remembering that their covenant bond persists even through difficulties. Help single persons to prepare for covenant love through faithful friendship and service. Help parents to honor the covenant commitments they made for their children at Baptism. When we fail in our covenant commitments, draw us quickly to Reconciliation to restore communion within our permanent bonds. Help all of us to break the cycles of broken love in our families and communities, creating legacies of authentic covenant love that witness to Your truth, justice, and mercy for the salvation of the world. Through the same Christ our Lord. Amen.*
 
 ## Further Study
 
 The following resources will deepen your understanding of covenant love as the foundation of authentic relationships:
 
 **Scripture:**
+- **Genesis 17:1-14** - God's covenant with Abraham and the sign of circumcision
+- **Exodus 24:3-8** - The covenant at Sinai sealed with blood
 - **Jeremiah 31:31-34** - The New Covenant written on our hearts
 - **Matthew 19:3-9** - Christ's teaching on the permanence of marriage
+- **Matthew 26:26-29** - "This is my blood of the new covenant"
+- **Luke 22:20** - The cup of the New Covenant in Christ's blood
+- **Acts 8:14-17** - The laying on of hands (Confirmation) by the apostles
+- **Romans 6:3-11** - Baptism as dying and rising with Christ
+- **1 Corinthians 11:23-26** - The Eucharist as renewal of the New Covenant
+- **2 Corinthians 1:21-22** - God seals us with His Spirit as guarantee
 - **Ephesians 5:21-33** - Marriage as image of Christ's covenant with the Church
+- **Hebrews 8:6-13** - Christ as mediator of the New Covenant
 - **Malachi 2:13-16** - God as witness to the marriage covenant
 - **Hosea 2:19-20** - God's covenant faithfulness despite human unfaithfulness
-- **1 Corinthians 11:23-26** - The Eucharist as renewal of the New Covenant
+- **Revelation 19:6-9** - The Marriage Supper of the Lamb
 
 **Catechism:**
+- **CCC 1113-1134** - The sacraments as covenant signs and seals
+- **CCC 1210-1284** - Baptism: entering the New Covenant
+- **CCC 1285-1321** - Confirmation: strengthening the covenant bond
+- **CCC 1322-1419** - Eucharist: covenant renewal and communion
+- **CCC 1422-1498** - Reconciliation: restoring covenant communion
 - **CCC 1601-1666** - The Sacrament of Matrimony and covenant love
 - **CCC 2201-2233** - The family as domestic church
 - **CCC 2360-2379** - The goods and requirements of conjugal love
