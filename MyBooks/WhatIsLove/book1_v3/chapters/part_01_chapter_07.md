@@ -120,6 +120,55 @@ This Trinitarian invocation places the marriage covenant within the very life of
 
 The wedding ring serves as a covenant sign, much like circumcision for Abraham's covenant or the rainbow for Noah's covenant. It's a visible, permanent reminder of the invisible spiritual reality—the covenant bond that endures even when feelings change or difficulties arise.
 
+## Holy Orders: The Covenant of Pastoral Love
+
+While marriage images Christ's love for the Church through spousal love, Holy Orders images that same love through pastoral love. The priest enters into a covenant relationship with Christ and His people, becoming *alter Christus* (another Christ) to serve and strengthen all other covenant relationships.
+
+**The Nature of Priestly Covenant:**
+
+Just as marriage follows the biblical covenant pattern, so does priestly ordination:
+
+**Permanent Bond:** "You are a priest forever according to the order of Melchizedek" (Psalm 110:4). Ordination creates an indelible spiritual mark that can never be removed, just as marriage creates a permanent bond. The Catechism teaches that ordination "imprints a spiritual and indelible 'character'" (CCC 1582). Like marriage, the covenant bond persists even when lived communion may be interrupted by sin or struggle.
+
+**Exclusive Commitment:** The priest gives his entire life to Christ and His Church. Celibacy is not merely a discipline but a sign of his undivided heart—his spousal love for the Church as his bride. This exclusive commitment mirrors the exclusive love required in marriage, but directed toward the entire People of God.
+
+**Fruitful Mission:** Priestly covenant is ordered toward spiritual fatherhood. Through the sacraments, priests generate and nurture spiritual life, baptizing souls into God's family, feeding them with the Eucharist, healing them through Reconciliation, and witnessing their covenant commitments in marriage.
+
+**Sacred Reality:** Through ordination, the priest is sacramentally configured to Christ the High Priest. He doesn't merely represent Christ—he acts *in persona Christi*, making Christ's covenant love present and active in the world.
+
+**The Priestly Call: Response to the World's Suffering**
+
+Most authentic priestly vocations begin with a profound recognition of the world's spiritual poverty and a burning desire to alleviate that suffering by bringing God's love to souls. The future priest sees people dying spiritually without the sacraments, living in darkness without the Gospel, and trapped in sin without access to mercy. His heart breaks for their condition, and he feels called to "be Jesus" to them for their salvation.
+
+This is covenant love in its purest form—the willingness to lay down one's life for others, as Christ declared: "The good shepherd lays down his life for the sheep" (John 10:11). The priest's entire life becomes a living sacrifice offered for the salvation of souls, building on what we learned in Chapter 6 about sacrifice as the heart of authentic love. He offers not just occasional sacrifices but his whole life—his potential for marriage and family, his personal ambitions, his time and energy—all for the sake of God's people. Every Mass he celebrates is both Christ's perfect sacrifice and his own personal offering of life for the Church.
+
+## The Covenant Structure of Ordination
+
+Priestly ordination follows the same covenant pattern as marriage:
+
+**Laying on of Hands:** This ancient biblical gesture (Acts 6:6, 1 Timothy 4:14) transmits the covenant bond from bishop to priest, connecting him to the unbroken chain of apostolic succession stretching back to Christ Himself.
+
+**Promise of Obedience:** The ordinand promises obedience to his bishop and successors—a covenant commitment that creates the hierarchical structure necessary for the Church's unity and mission.
+
+**Celibacy Promise:** In the Latin Church, the promise of celibacy represents the total gift of self, the undivided heart that can love the entire Church as his bride without competing loyalties.
+
+**Ordination Prayer:** The bishop's prayer of ordination creates the permanent spiritual reality, just as the marriage vows create the permanent marital bond. What God has sealed through ordination, no human power can undo.
+
+**How Priestly Covenant Serves All Other Covenants:**
+
+The priestly covenant exists to serve and strengthen every other covenant relationship:
+
+- **Baptism:** Priests initiate souls into God's covenant family
+- **Confirmation:** They strengthen young people's covenant commitment  
+- **Marriage:** They witness and bless spousal covenant love
+- **Reconciliation:** They restore broken covenant communion
+- **Eucharist:** They provide the covenant renewal that strengthens all relationships
+- **Anointing:** They prepare souls for the eternal covenant in heaven
+
+Without priests living their covenant faithfully, all other covenant relationships suffer. Marriage and family life depend on the sacraments that only priests can provide. This is why attacks on the priesthood are ultimately attacks on marriage and family—they seek to deprive covenant relationships of the grace they need to flourish.
+
+The priest's celibate love doesn't compete with married love—it serves married love by providing the spiritual fatherhood that families need. Every faithful priest becomes a spiritual father to countless souls, generating spiritual life through the sacraments and nurturing it through pastoral care.
+
 ## The Sacramental Structure of Covenant Love
 
 All authentic covenant relationships follow the same basic structure that God established in His covenants with humanity. This structure is most clearly revealed in the sacraments, which both create and strengthen our covenant bonds with God and each other.
@@ -153,7 +202,7 @@ Confirmation completes baptismal initiation by providing the opportunity for per
 
 **Mission Dimension:** Confirmation sends us forth to witness covenant love to the world. Confirmed Christians are called to show the world what God's covenant love looks like in daily life.
 
-**Strengthening Grace:** Confirmation provides special grace to live faithfully in all our covenant relationships—with God, in marriage, in friendship, in community. The gifts of the Holy Spirit enable us to practice the truth, justice, mercy, and sacrifice that covenant love requires.
+**Strengthening Grace:** Confirmation provides special grace to live faithfully in all our covenant relationships. Married couples draw strength for their marriage, single persons prepare for their future covenants, and all Christians are empowered to witness covenant love to the world.
 
 **Reconciliation: Restoring Covenant Communion**
 
@@ -228,13 +277,6 @@ Covenant love calls us to radical commitment in a culture that worships options 
 - Support others in their covenant relationships through prayer and practical help
 - Witness to God's covenant love through your faithfulness in all relationships
 
-**For Those Preparing for or Living Confirmation:**
-- Embrace your role as witness to covenant love in the world
-- Use the gifts of the Holy Spirit to strengthen all your covenant relationships
-- Defend the truth about marriage, family, and human dignity
-- Prepare carefully for the covenant commitments you will make (marriage or religious life)
-- See every relationship as an opportunity to practice covenant fidelity
-
 **For Married Couples:**
 - Renew your wedding vows regularly, not just in ceremony but in daily choice
 - Remember that your covenant bond persists even during difficult times
@@ -243,6 +285,24 @@ Covenant love calls us to radical commitment in a culture that worships options 
 - Seek God's Grace in the Prayers of the Mass, the Sacraments of Holy Eucharist and Reconciliation and spiritual direction when your marriage is struggling rather than ever mentioning divorce
 - Remember that your marriage is a sacramental covenant, not just a human contract
 - Draw strength from the Eucharist for your covenant love
+
+**For Priests:**
+- Begin each day by renewing your ordination promises and offering your life for the salvation of souls
+- Remember that your covenant bond with Christ and His Church persists even during difficult times
+- See your celibacy as spousal love for the Church, not a burden but a gift that enables total self-donation
+- Draw strength from daily Mass and Eucharistic adoration for your covenant love
+- Approach Reconciliation regularly to restore communion when you fail in your covenant commitments
+- Remember that you are a spiritual father to countless souls—embrace this fruitful dimension of your covenant
+- Seek spiritual direction and fraternal support when struggling rather than abandoning your covenant
+- Model covenant fidelity for your parishioners through your faithfulness to prayer, sacraments, and pastoral care
+
+**For Those Discerning Priesthood:**
+- Recognize that authentic priestly calling often begins with heartbreak over the world's spiritual suffering
+- Understand priesthood as covenant relationship, not career choice—prepare for total self-gift
+- Develop deep prayer life and sacramental devotion as foundation for future covenant
+- Practice covenant fidelity in current relationships as preparation for priestly covenant
+- Seek spiritual direction to discern God's call and prepare for the demands of priestly life
+- Study the lives of holy priests to understand the beauty and challenges of priestly covenant
 
 **For Single Persons:**
 - Prepare for marriage by learning to make and keep commitments in friendship
@@ -256,14 +316,21 @@ Covenant love calls us to radical commitment in a culture that worships options 
 - Approach the Sacrament of Reconciliation to restore communion within your existing covenants
 - Focus on living faithfully in your current state rather than despairing over past failures
 - Trust in God's covenant mercy that never abandons His children
+- Work to break cycles of broken love in your family and community
 
 **For Parents:**
 - Understand that you made covenant commitments on behalf of your children at their Baptism
 - Raise your children to understand and embrace covenant love
 - Prepare your children for Confirmation as their personal ratification of God's covenant
 - Teach them that authentic love requires permanent commitment, not just feelings
+- Do not hide the suffering of your marriage, but show them God's Grace working in your marriage
+- Protect them from cultural lies about disposable relationships
 
 **For the Entire Church:**
+- Defend the truth about marriage and family in a culture that attacks both
+- Support organizations that strengthen marriages and protect children
+- Pray for priests and support them in their covenant commitments
+- Encourage young men to consider priestly vocations and support seminarians
 - Make the Eucharist the center of your covenant life—source and summit of all relationships
 - Pray for those in covenant relationships, especially those facing difficulties
 - Welcome those seeking to restore broken covenant relationships
