@@ -132,9 +132,34 @@ This isn't about power or control—it's about love protecting the vulnerable:
 
 **Maintains Unity:** Authority prevents the multiplication of contradictory "truths" that divide the Body of Christ.
 
-**Ensures Fidelity:** The Church's authority keeps us faithful to Christ's original teaching rather than 'modern' adaptations and re-interpretations of Truth that often lead to moral confusion and spiritual harm.
+**Ensures Fidelity:** The Church's authority keeps us faithful to Christ's original teaching rather than contemporary adaptations.
 
-**Enables Authentic Mercy:** Only by knowing what sin actually is can we offer true forgiveness and healing.
+**Enables Authentic Mercy:** Only by knowing what sin actually is can we offer true forgiveness and healing. Mercy that calls evil good is not mercy but enabling.
+
+### How Catholics Can Share Truth with Others
+
+Understanding Church authority doesn't mean Catholics should be arrogant or dismissive toward those who disagree. Instead, it gives us confidence to engage in respectful dialogue:
+
+**Start with Natural Law:** Begin conversations by appealing to truths written on every human heart—like the dignity of children, the importance of honesty, or the need for justice and mercy and truth itself. Most people recognize these truths even if they don't accept Church authority.
+
+**Share Personal Testimony:** Explain how living according to Catholic teaching has brought freedom, peace, and authentic love into your life. Truth proves itself by its fruits.
+
+**Ask Good Questions:** Instead of immediately asserting Church teaching, ask questions that help people discover truth for themselves: "What is love?", "What do you think makes a marriage truly lasting?", "Does love require truth? justice? mercy?", "How do we know when we're really loving someone versus just being nice?"
+
+**Show the Reasonableness of Faith:** Demonstrate that Catholic teaching makes sense not just because the Church says so, but because it aligns with human experience, natural law, and the deepest longings of the human heart.
+
+**Live with Integrity:** The most powerful argument for Catholic truth is a life that authentically reflects it. When people see Catholics living with genuine joy, peace, and love, they become curious about the source.
+
+### The Catholic Response to Relativism
+
+In our relativistic age, many people claim that "truth is subjective" or "everyone has their own truth." But this contradicts both reason and revelation:
+
+- **Truth is objective:** Reality exists independently of our opinions about it
+- **Truth is knowable:** God created us with minds capable of knowing reality
+- **Christ is "the Truth":** Jesus didn't claim to have opinions—He claimed to be Truth itself
+- **To be "Catholic" means to submit:** The word "catholic" means universal—we humbly submit to the Authority of Jesus as exercised through His Church so that we can most perfectly love God, neighbor, and self.
+
+This submission isn't intellectual slavery—it's the freedom to live in truth. As Jesus promised: *"If you continue in my word, you are truly my disciples, and you will know the truth, and the truth will set you free"* (John 8:31-32) and also "I came so that they might have life, and have it more abundantly" (John 10:10).
 
 ## The Integration of Body, Mind, and Soul in Truth
 
@@ -146,7 +171,25 @@ Living in truth requires the harmonious integration of our entire human nature:
 
 **Soul:** The spiritual embracing of truth as a participation in God Himself, who is Truth. This is the deepest level where we recognize that truth is not merely information but a Person—Jesus Christ who said "I am the Truth."
 
-When these three work in harmony, we become witnesses to truth who can convince others not just by arguments but by the authenticity of our lives. When they are disordered, truth becomes intellectualism, legalism, hypocrisy, or many other forms of counterfeit love which we will discuss in more detail in the chapters to come.
+When these three work in harmony, we become witnesses to truth who can convince others not just by arguments but by the authenticity of our lives. When they are disordered, truth becomes mere intellectualism, rigid legalism, or spiritual pride—counterfeits that repel rather than attract.
+
+## Truth and the Sacraments
+
+The sacraments are God's way of making truth tangible and accessible to our body-mind-soul unity:
+
+**Baptism** washes away the lies of original sin and clothes us with the truth of our identity as God's children.
+
+**Confirmation** gives us the Holy Spirit, who is the Spirit of Truth, to guide us into all truth and give us courage to witness to truth.
+
+**Eucharist** feeds us with Christ Himself, who is Truth incarnate, transforming us into His likeness.
+
+**Reconciliation** requires us to speak the truth about our sins and receive the truth of God's forgiveness.
+
+**Marriage** calls spouses to live in complete honesty and fidelity, imaging God's faithful love.
+
+**Holy Orders** ordains men to teach and defend the truth as shepherds of the flock.
+
+**Anointing of the Sick** helps us face the truth of our mortality while trusting in the truth of eternal life.
 
 ## The Sacrifice Truth Demands
 
