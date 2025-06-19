@@ -84,9 +84,9 @@ This covenant love becomes the model for all human relationships. Through Baptis
 
 ### True Justice and True Mercy United
 
-The Cross reveals perfect justice and perfect mercy working in perfect unity—they cannot be understood separately because they are perfectly intertwined in God's love. Here we see that God does not simply overlook sin, cover it up or pretend evil doesn't matter. Justice demands that sin be punished, that evil be conquered, that the moral order be restored. On the Cross, Christ satisfies all the demands of justice by taking upon Himself the punishment we deserved.
+The Cross shows us how true justice and true mercy work together as one. They cannot be separated because they are both essential parts of authentic love. God doesn't just ignore our wrongdoing or pretend it doesn't matter. True love demands that wrongs be made right, that evil be stopped, and that the proper order be restored. On the Cross, Christ makes everything right by taking upon Himself the consequences we deserved.
 
-As Isaiah prophesied: *"But he was pierced for our transgressions; he was crushed for our iniquities; upon him was the chastisement that brought us peace, and with his wounds we are healed"* (Isaiah 53:5). Christ doesn't abolish justice—He fulfills it perfectly by giving to God what is truly due (perfect obedience) and giving to humanity what we truly need (redemption from sin).
+As Isaiah prophesied: *"But he was pierced for our transgressions; he was crushed for our iniquities; upon him was the chastisement that brought us peace, and with his wounds we are healed"* (Isaiah 53:5). Christ doesn't throw out justice—He fulfills it completely. He gives to God what love truly requires: perfect faithfulness. He gives to humanity what love truly offers: freedom from the power of sin.
 
 But simultaneously, the Cross reveals perfect mercy. Even as justice is satisfied, mercy goes beyond what is due to offer forgiveness and healing. Here we witness the most profound demonstration of God's mercy: Christ's prayer from the Cross—*"Father, forgive them, for they know not what they do"* (Luke 23:34)—extends forgiveness to those committing the most egregious crime imaginable: crucifying the Son of God, crucifying God Himself.
 
