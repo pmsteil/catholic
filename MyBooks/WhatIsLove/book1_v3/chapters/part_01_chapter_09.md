@@ -51,17 +51,29 @@ The sacred nature of Christ's love on the Cross also reveals the sacred dignity 
 
 The Cross is the ultimate expression of sacrificial love. Here we see love proven not by words or feelings but by the complete gift of self unto death. Jesus demonstrates what He taught: *"Greater love has no one than this, that someone lay down his life for his friends"* (John 15:13).
 
-But Christ's sacrifice goes beyond even this supreme standard—He died not just for His friends but for His enemies: *"But God shows his love for us in that while we were still sinners, Christ died for us"* (Romans 5:8). This is sacrificial love perfected: choosing the good of others even when they reject, mock, and crucify you.
+But Christ's sacrifice goes beyond even this supreme standard—He died not just for His friends but for His enemies: *"But God shows his love for us in that while we were still sinners, Christ died for us"* (Romans 5:8). This perfectly fulfills His own teaching: *"But I say to you, Love your enemies and pray for those who persecute you, so that you may be sons of your Father who is in heaven"* (Matthew 5:44-45). This is sacrificial love perfected: choosing the good of others even when they reject, mock, and crucify you.
 
 The sacrificial nature of the Cross also reveals the pattern for all authentic love. Every true act of love requires some form of sacrifice—putting another's good before our own immediate desires. Parents sacrifice sleep for their children. Spouses sacrifice personal preferences for their marriage. Friends sacrifice time and energy for each other. Priests sacrifice marriage and family for their spiritual children. All authentic love follows the pattern established on Calvary.
 
-### Gift Love Freely Given
+### The Gift Freely Given
 
 The Cross reveals love as pure gift. Christ's sacrifice was not earned, demanded, or deserved. It was freely given out of love alone. As St. Paul marvels: *"He who did not spare his own Son but gave him up for us all, how will he not also with him graciously give us all things?"* (Romans 8:32).
 
 This gift dimension is crucial because it reveals that authentic love cannot be bought, manipulated, or coerced. Love that must be earned isn't love at all—it's a transaction. Love that can be demanded isn't love—it's obligation. Love that can be forced isn't love—it's violence.
 
 The Cross shows us that God's love is pure gift, and therefore all authentic human love must also be freely given. This is why forced marriage isn't marriage, why coerced charity isn't charity, why manipulated affection isn't affection. True love can only be offered as gift and received as gift.
+
+**Love as Response, Not Transaction**
+
+This gift dimension reveals a beautiful truth: we do not love God in order to get to heaven. Rather, we love God because He first loved us. As St. John declares: *"We love because he first loved us"* (1 John 4:19).
+
+The Cross demonstrates that our relationship with God is His free gift to us—we cannot earn it, buy it, or deserve it. This means our response of love is not a transaction but a grateful response to the love already freely given. We love God not to accomplish something but because we are the humble beneficiaries of His great gift of love.
+
+This transforms everything. When we understand that God's love is pure gift, our love becomes pure response. We don't serve God to earn His favor—we already have His favor through Christ's sacrifice. We don't obey His commandments to achieve something—we obey because we're already His beloved children. We don't practice virtue to become worthy—we practice virtue because we've been made worthy through Christ's blood.
+
+This understanding liberates us to love authentically. We're not constantly anxious about whether we've done enough to earn God's love. Instead, we're free to love because we know we're already perfectly loved. Our spiritual life becomes a joyful response to being loved first.
+
+Through this relationship of love—God loving us first and we learning to love Him in return—we are saved from the evil in our own hearts. We learn how to love one another and even ourselves properly. This is the love that saves the world, as Jesus declared: *"For God so loved the world, that he gave his only Son, that whoever believes in him should not perish but have eternal life"* (John 3:16).
 
 ### Covenant Love Established
 
