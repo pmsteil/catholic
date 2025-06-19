@@ -81,23 +81,37 @@ On the Cross, Jesus establishes the New Covenant in His blood: *"This cup that i
 
 The covenant dimension of the Cross reveals love's permanent nature. God's love for us is not dependent on our performance, our feelings, or our circumstances. It is grounded in His unchanging nature and sealed by Christ's blood. As St. Paul declares: *"I am sure that neither death nor life, nor angels nor rulers, nor things present nor things to come, nor powers, nor height nor depth, nor anything else in all creation, will be able to separate us from the love of God in Christ Jesus our Lord"* (Romans 8:38-39).
 
-This covenant love becomes the model for all human relationships. Marriage is meant to reflect this permanent, faithful love. Priesthood is a covenant commitment to serve God's people. Religious life is a covenant of total consecration. Even friendship, when authentic, creates bonds that endure through difficulties and changes.
+This covenant love becomes the model for all human relationships. Through Baptism, we enter into the fundamental covenant with God that makes all other covenant relationships possible. Marriage is meant to reflect this permanent, faithful love. Priesthood is a covenant commitment to serve God's people. Religious life is a covenant of total consecration. Even friendship, when authentic, creates bonds that endure through difficulties and changes.
 
-### True Justice Satisfied
+### True Justice and True Mercy United
 
-The Cross reveals perfect justice. Here we see that God does not simply overlook sin or pretend evil doesn't matter. Justice demands that sin be punished, that evil be conquered, that the moral order be restored. On the Cross, Christ satisfies all the demands of justice by taking upon Himself the punishment we deserved.
+The Cross reveals perfect justice and perfect mercy working in perfect unity—they cannot be understood separately because they are perfectly intertwined in God's love. Here we see that God does not simply overlook sin, cover it up or pretend evil doesn't matter. Justice demands that sin be punished, that evil be conquered, that the moral order be restored. On the Cross, Christ satisfies all the demands of justice by taking upon Himself the punishment we deserved.
 
 As Isaiah prophesied: *"But he was pierced for our transgressions; he was crushed for our iniquities; upon him was the chastisement that brought us peace, and with his wounds we are healed"* (Isaiah 53:5). Christ doesn't abolish justice—He fulfills it perfectly by giving to God what is truly due (perfect obedience) and giving to humanity what we truly need (redemption from sin).
 
-This perfect justice on the Cross also establishes the standard for all human justice. True justice is not revenge or mere punishment but the restoration of right relationships. It seeks not to destroy the sinner but to heal the damage caused by sin. It upholds the moral order while offering hope for redemption.
+But simultaneously, the Cross reveals perfect mercy. Even as justice is satisfied, mercy goes beyond what is due to offer forgiveness and healing. Here we witness the most profound demonstration of God's mercy: Christ's prayer from the Cross—*"Father, forgive them, for they know not what they do"* (Luke 23:34)—extends forgiveness to those committing the most egregious crime imaginable: crucifying the Son of God, crucifying God Himself.
 
-### True Mercy Extended
+Think about this: if Jesus can forgive even this ultimate sin—the murder of God incarnate—then He can forgive any sin at all. The Cross proves that no sin is too great for God's mercy when we simply ask for forgiveness and love Him in return. This is why the Church opens every Mass and offers confession for all who have sinned against God or neighbor in order to receive full mercy so that they can be truly healed.
 
-The Cross reveals perfect mercy. While justice is satisfied, mercy goes beyond what is due to offer forgiveness and healing. Christ's prayer from the Cross—*"Father, forgive them, for they know not what they do"* (Luke 23:34)—demonstrates mercy at its most perfect.
+**True Healing, Not Just Legal Declaration**
 
-But this mercy is not weakness or compromise with evil. It is strength that chooses reconciliation over revenge, healing over punishment, restoration over destruction. Christ's mercy on the Cross doesn't excuse sin—it conquers sin. It doesn't ignore evil—it transforms evil into good.
+But Christ's work on the Cross goes far deeper than simply wiping sin from a ledger or having a judge declare us righteous. Jesus died for our sins so that we can be healed and so that we can bring others to healing. Through seeing His full justice and full mercy, we can actually be healed from the injustice we have done toward God and neighbor.
 
-The mercy revealed on the Cross becomes the pattern for all human mercy. We are called to forgive as we have been forgiven, to show compassion as we have received compassion, to extend mercy as mercy has been extended to us. This doesn't mean ignoring justice or enabling evil, but following Christ's example of mercy that transforms hearts and restores relationships.
+We are real people with body, mind, and soul who need true healing. Sin doesn't just create legal guilt—it wounds our consciences with guilt, shame, anger, and the desire for revenge. It damages our ability to trust, to love, and to receive love. It creates barriers in our relationships with God and others.
+
+Christ's perfect justice and mercy on the Cross heals these real wounds. When we see His justice, our consciences are cleansed from guilt because we know justice has been satisfied. When we see His mercy, our hearts are freed from shame because we know we are truly forgiven. When we see His love for enemies, we are liberated from revenge and anger because we learn to love as He loves.
+
+This healing enables us to be truly open and available to God's full love and the full love of others. We don't just receive a legal pardon—we receive the actual capacity to love God with our whole heart, mind, soul, and strength, and to love our neighbor as ourselves.
+
+**Learning Superior Justice and Mercy**
+
+When we begin to grasp how Christ's love enables true justice and mercy, we learn how to love others in the same way. He teaches us to give others their proper honor, respect, obedience, truth—authentic love. Christ shows us how to love with a superior justice and mercy that goes far beyond what our human hearts intuitively know.
+
+This is why faith is a supernatural gift. Our fallen nature tends to lead us toward what is good for us—self-preservation, self-advancement, self-protection. But God's love leads us toward what is good for others, even when it costs us something. Through the Cross, we learn to see others as God sees them: beloved children worth dying for, deserving of justice tempered by mercy, worthy of truth spoken in love.
+
+This mercy is not weakness or compromise with evil. It is strength that chooses reconciliation over revenge, healing over punishment, restoration over destruction. Christ's mercy on the Cross doesn't excuse sin—it conquers sin. It doesn't ignore evil—it transforms evil into good.
+
+The perfect unity of justice and mercy revealed on the Cross becomes the pattern for all authentic love. We are called to uphold justice while extending mercy, to speak truth while offering forgiveness, to maintain moral standards while welcoming repentant sinners. This doesn't mean ignoring justice or enabling evil, but following Christ's example of love that holds justice and mercy in perfect tension.
 
 ### Life-Giving Communion Created
 
