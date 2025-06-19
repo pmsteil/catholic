@@ -22,21 +22,17 @@ Every facet of love we have examined finds its ultimate expression and fulfillme
 
 ## How Adults Make the Cross Clear to Children
 
-Unlike the natural virtues we explored in previous chapters, the Cross is a revealed truth that children cannot understand instinctively. The mystery of God's love poured out for our salvation must be taught, explained, and most importantly, lived out by the adults who love them.
+Unlike the natural virtues we explored in previous chapters, the Cross and Resurrection represent revealed truths that children cannot understand instinctively. The mystery of God's love poured out for our salvation must be taught, explained, and most importantly, lived out by the adults who love them.
 
-This is why our understanding of perfect love is so crucial—not just for our own spiritual growth, but for our mission as parents, teachers, and mentors. When we truly understand what love means, we can help children grasp the profound mystery of the Cross through our own lived witness:
+Research shows that children's fundamental worldview—including their understanding of how love works—is formed between ages 18 months and 13 years. This means we have roughly 12 years to lay the foundation for a child's capacity to understand and receive authentic love. The quality of human love children experience during these critical years shapes their ability to comprehend divine love for the rest of their lives.
 
-**When we make sacrifices for our children,** they begin to understand that love sometimes requires giving up what we want for the good of others. A parent who gets up in the middle of the night for a sick child, who works extra hours to provide for the family, who gives up personal pleasures for their children's needs—these sacrifices help children understand that Jesus' sacrifice on the Cross flows from the same love.
+This is why our understanding of perfect love is so crucial—not just for our own spiritual growth, but for our mission as parents, teachers, and mentors. When we truly understand what love means, we can help children grasp the profound mystery of the Paschal Mystery through our own lived witness:
 
-**When we forgive those who hurt us,** children see that mercy is stronger than revenge. Parents who forgive each other after arguments, who show kindness to difficult relatives, who pray for those who have wronged the family—these acts of mercy help children understand Jesus' prayer: *"Father, forgive them, for they know not what they do"* (Luke 23:34).
+**When we make sacrifices for our children,** they begin to understand that love sometimes requires giving up what we want for the good of others. **When we forgive those who hurt us,** children see that mercy is stronger than revenge. **When we keep our promises even when it's difficult,** children learn that covenant love is permanent. **When we live the sacramental life faithfully,** children encounter the fruits of the Cross and Resurrection in their daily experience. **When we speak truth with love,** children learn that authentic love never compromises with evil but always seeks the good of the other.
 
-**When we keep our promises even when it's difficult,** children learn that covenant love is permanent. Parents who stay married through hard times, who keep their word even when it costs them, who remain faithful to their commitments—these acts of covenant fidelity help children understand why Jesus stayed on the Cross when He could have come down.
+This is our sacred responsibility: to live the perfect love revealed in the Paschal Mystery so authentically that children can see, through our imperfect but sincere efforts, what God's perfect love looks like. We become living explanations of the Cross and Resurrection, making visible through our daily choices the same integration of truth, justice, mercy, sacrifice, and covenant that Jesus demonstrated on Calvary and validated through His victory over death.
 
-**When we live the sacramental life faithfully,** children encounter the fruits of the Cross in their daily experience. Parents who attend Mass regularly, who go to Confession, who pray together as a family—these practices make the grace of the Cross tangible and real in children's lives.
-
-**When we speak truth with love,** children learn that authentic love never compromises with evil but always seeks the good of the other. Parents who correct their children lovingly, who teach moral truth clearly, who stand up for what is right—these acts help children understand that Jesus' death was necessary because sin is real and love demands justice.
-
-This is our sacred responsibility: to live the perfect love revealed on the Cross so authentically that children can see, through our imperfect but sincere efforts, what God's perfect love looks like. We become living explanations of the Cross, making visible through our daily choices the same integration of truth, justice, mercy, sacrifice, and covenant that Jesus demonstrated on Calvary.
+*For a detailed exploration of how children's minds and hearts develop the capacity to understand divine love, and why the early years are so crucial for spiritual formation, see the Appendix: "How Adults Make Divine Love Clear to Children."*
 
 ## The Cross: Where All Love's Facets Converge
 
