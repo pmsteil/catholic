@@ -137,7 +137,7 @@ This perfect integration is what makes the Cross the ultimate revelation of love
 
 ## The Eucharist: Making the Cross Present
 
-This is exactly why the Eucharist is the "source and summit" of our faith. Every time we celebrate Mass, we don't just remember what Jesus did on the Cross—we participate in the eternal reality of His sacrifice. The Mass makes present the very moment when perfect love conquered all evil.
+This is exactly why the Eucharist is the "source and summit" of our faith. Every time we celebrate Mass, we don't just remember what Jesus did on the Cross—we participate in the eternal reality of His sacrifice. The Mass makes present the very moment when perfect love conquered and continues to conquer all evil for each of us here and now, today.
 
 **The Mass as Perfect Love:**
 
@@ -147,15 +147,16 @@ At every Mass, all the facets of perfect love are present:
 - **Sacrificial:** We participate in Christ's perfect sacrifice offered for our salvation
 - **Gift:** We receive the free gift of Christ's Body and Blood
 - **Covenant:** We renew the New Covenant established in Christ's blood
-- **Justice:** We acknowledge our need for redemption and God's perfect justice
+- **Justice:** We acknowledge our need for redemption and learn about God's perfect justice
 - **Mercy:** We receive forgiveness and healing through Christ's sacrifice
 - **Life-giving:** We are nourished for eternal life and strengthened for mission
 
-This is why the Church teaches that the Eucharist is the "source and summit" of Christian life. It is the source because from it flows all the grace we need to live authentic love. It is the summit because it is the perfect expression of love—Christ's total self-gift for our salvation.
+This is why the Church teaches that the Eucharist is the "source and summit" of Christian life. It is the source because
+Jesus' life, death and resurrection is the manifestation of perfect love lived out as an example for us and from it flows all the grace we need to live authentic love. It is the summit because it is the perfect expression of love—Christ's total self-gift for our salvation.
 
 **Daily Mass and Perfect Love:**
 
-When we attend Mass daily, we immerse ourselves daily in perfect love. We see how all the facets of love work together in perfect harmony. We receive the grace to live this integrated love in our own relationships. We are transformed from people who love imperfectly into people who participate in Christ's perfect love.
+When we are able to attend Mass daily, we immerse ourselves daily in perfect love. We see how all the facets of love work together in perfect harmony. We receive the grace to live this integrated love in our own relationships. We are transformed from people who love imperfectly into people who participate in Christ's perfect love.
 
 The saints understood this. They found in the Eucharist not just spiritual nourishment but the very pattern of how to live. St. Thérèse of Lisieux wrote: "It is not to remain in a golden ciborium that He comes down each day from heaven, but to find another heaven, the heaven of our soul in which He takes delight."
 
@@ -173,6 +174,8 @@ The Cross doesn't just reveal God's love—it establishes the pattern for all au
 
 **All Relationships:** Every authentic relationship must include elements of the Cross—some form of sacrifice, some extension of mercy, some commitment to truth, some covenant bond that creates security for love to flourish.
 
+**Common Good of Society:** The Cross also reveals the pattern for social love. Communities, nations, and institutions are called to reflect Christ's love by promoting justice, extending mercy, and creating life-giving structures that enable all people to flourish. This means working for the common good, defending human dignity, and building a culture of authentic love.
+
 ## The Victory That Changes Everything
 
 But the Cross is not the end of the story—it leads to the Resurrection. Christ's perfect love doesn't just reveal what love looks like; it conquers the evil that prevents us from loving. Through His death and resurrection, Christ:
@@ -189,11 +192,11 @@ This victory means that perfect love is not just an impossible ideal but an achi
 
 ## The Call to Perfect Love
 
-The Cross is not just something that happened 2,000 years ago—it is the pattern for our lives today. Christ calls each of us to take up our cross and follow Him (Matthew 16:24). This means living the same integrated love He demonstrated:
+The Cross is not just something that happened 2,000 years ago—it is the pattern for our lives today. Christ calls each of us: *"If anyone wants to come after me, let him deny himself and take up his cross and follow me"* (Matthew 16:24). This means living the same integrated love He demonstrated:
 
 **Daily Crosses:** Every day presents opportunities to choose love over selfishness, sacrifice over comfort, truth over convenience, mercy over revenge, commitment over escape. These daily choices to love authentically are our participation in Christ's cross.
 
-**Vocational Crosses:** Whether in marriage, priesthood, religious life, or single life, we are called to embrace the sacrifices our vocation requires. These are not burdens but opportunities to participate in Christ's perfect love.
+**Vocational Crosses:** Whether in marriage, priesthood, religious life, single life or in working for the common good of society, we are called to embrace the sacrifices our vocation requires. These are not burdens but opportunities to participate in Christ's perfect love.
 
 **Redemptive Suffering:** When we face difficulties, illness, loss, or persecution, we can unite our suffering with Christ's and participate in the redemption of the world. Our crosses become instruments of grace for others.
 
