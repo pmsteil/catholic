@@ -1,13 +1,28 @@
 # Appendix: How Adults Make Divine Love Clear to Children
 
+*"And these words that I command you today shall be on your heart. You shall teach them diligently to your children, and shall talk of them when you sit in your house, and when you walk by the way, and when you lie down, and when you rise."*
+— Deuteronomy 6:6-7
+
+*"Train up a child in the way he should go; even when he is old he will not depart from it."*
+— Proverbs 22:6
+
+*"Fathers, do not provoke your children to anger, but bring them up in the discipline and instruction of the Lord."*
+— Ephesians 6:4
+
+*"Parents have the first responsibility for the education of their children. They bear witness to this responsibility first by creating a home where tenderness, forgiveness, respect, fidelity, and disinterested service are the rule. The home is well suited for education in the virtues."*
+— Catechism of the Catholic Church 2223
+
+*"Parents have the mission of teaching their children to pray and to discover their vocation as children of God."*
+— Catechism of the Catholic Church 2226
+
 *"Worldview is developed between the ages of 18 months and 13 years. According to George Barna, by the time a teenager is 13 or 14, it's done. It may be refined a bit through the teen years, but by one's 20s, not only is worldview solid, but most people become an evangelist for their view."*
-— George Barna, Research on Worldview Formation
+— George Barna, Research on Worldview Formation¹
 
 *"Complete deprivation, in particular, had 'even more far-reaching effects on character development and may entirely cripple the capacity to make relationships.'"*
-— John Bowlby, Attachment Theory Pioneer
+— John Bowlby, Attachment Theory Pioneer²
 
 *"Adults who were securely attached in childhood tend to have good self-esteem, strong romantic relationships, and the ability to self-disclose to others. Those with insecure attachments are more likely to struggle with trust and intimacy."*
-— Modern Attachment Research
+— Modern Attachment Research³
 
 ---
 
@@ -15,7 +30,7 @@
 
 Unlike the natural virtues we explored in previous chapters, the Cross and Resurrection represent revealed truths that children cannot understand instinctively. The mystery of God's love poured out for our salvation must be taught, explained, and most importantly, lived out by the adults who love them.
 
-But how exactly does this transmission happen? Why do some children grow up with a deep capacity for authentic love while others struggle with disordered attachments and broken relationships? The answer lies in understanding both the psychology of child development and the theology of how grace works through nature.
+But how exactly does this transmission happen? Why do some children grow up with a deep capacity for authentic love while others struggle with disordered attachments and broken relationships? The answer lies in understanding both the psychology of child development and the theology of how God's love works through nature.
 
 ## How Children Learn Divine Mystery Through Human Love
 
@@ -25,7 +40,7 @@ Child development research reveals that children understand abstract concepts by
 
 These repeated experiences create what psychologists call "internal working models"—mental frameworks that help children understand how relationships work. When children experience authentic love consistently, their brains literally develop neural pathways that prepare them to recognize and receive divine love.
 
-**The Critical Research Finding:** George Barna's research shows that worldview is formed between ages 18 months and 13 years. By age 13 or 14, a child's fundamental understanding of how the world works—including how love works—is essentially set. This means parents have roughly 12 years to lay the foundation for their child's capacity to understand and receive authentic love.
+**The Critical Research Finding:** George Barna's research shows that worldview is formed between ages 18 months and 13 years. By age 13 or 14, a child's fundamental understanding of how the world works—including how love works—is essentially set.¹ This means parents have roughly 12 years to lay the foundation for their child's capacity to understand and receive authentic love.
 
 The security, trust, and attachment children form with loving parents creates the emotional and cognitive foundation for understanding God as a loving Father. This is why children from stable, loving homes often find it easier to trust God, while children from broken or abusive homes may struggle with the concept of divine love—their internal working models have been shaped by different experiences.
 
@@ -113,7 +128,7 @@ Adolescents can finally grasp abstract concepts and make theological connections
 
 ## The Imitation and Resonance Process
 
-Children also learn through what neuroscientists call "mirror neurons"—they literally mirror the emotions and behaviors they observe. When children see parents forgive each other, their brains are learning the pattern of forgiveness. When they observe parents keeping commitments despite difficulty, they're internalizing the pattern of covenant faithfulness.
+Children also learn through what neuroscientists call "mirror neurons"—they literally mirror the emotions and behaviors they observe.⁴ When children see parents forgive each other, their brains are learning the pattern of forgiveness. When they observe parents keeping commitments despite difficulty, they're internalizing the pattern of covenant faithfulness.
 
 This mirroring happens at both conscious and unconscious levels. Children absorb not just what parents say but how they say it, not just what they do but the spirit in which they do it. A parent who forgives grudgingly teaches a different lesson than a parent who forgives with genuine mercy. Children's hearts are remarkably sensitive to authenticity—they can sense whether love is genuine or performed.
 
@@ -176,3 +191,20 @@ The stakes could not be higher. As George Barna's research shows, we have roughl
 — The wisdom of the Church on family life
 
 May we who have been entrusted with children understand the sacred nature of our calling and live in such a way that the children in our care grow up with hearts prepared to receive the perfect love revealed in Christ's Cross and Resurrection.
+
+---
+
+## References
+
+¹ Barna, George. *Raising Spiritual Champions: Nurturing Your Child's Heart, Mind and Soul*. Ventura, CA: Regal Books, 2003. See also Barna Group research studies on worldview formation, available at www.barna.com/research.
+
+² Bowlby, John. *Attachment and Loss, Volume 1: Attachment*. London: Hogarth Press, 1969. See also Bowlby, John. "Maternal Care and Mental Health." World Health Organization Monograph, 1951.
+
+³ Hazan, Cindy, and Phillip Shaver. "Romantic Love Conceptualized as an Attachment Process." *Journal of Personality and Social Psychology* 52, no. 3 (1987): 511-524. See also Fraley, R. Chris. "A Brief Overview of Adult Attachment Theory and Research." University of Illinois, 2010.
+
+⁴ Rizzolatti, Giacomo, and Laila Craighero. "The Mirror-Neuron System." *Annual Review of Neuroscience* 27 (2004): 169-192. See also Gallese, Vittorio, et al. "Action Recognition in the Premotor Cortex." *Brain* 119, no. 2 (1996): 593-609.
+
+**Additional Sources:**
+- Piaget, Jean. *The Construction of Reality in the Child*. New York: Basic Books, 1954.
+- Ainsworth, Mary D. S., et al. *Patterns of Attachment: A Psychological Study of the Strange Situation*. Hillsdale, NJ: Lawrence Erlbaum, 1978.
+- Meltzoff, Andrew N., and M. Keith Moore. "Imitation of Facial and Manual Gestures by Human Neonates." *Science* 198, no. 4312 (1977): 75-78.
