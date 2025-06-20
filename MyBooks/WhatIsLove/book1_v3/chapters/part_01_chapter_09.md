@@ -262,6 +262,14 @@ The Cross calls us to radical transformation. It's not enough to admire Christ's
 
 The world desperately needs this transformation. In a culture of broken relationships, conditional commitments, and disposable love, we are called to be living witnesses to the perfect love revealed on the Cross. Through us, others can encounter the same love that conquered sin and death and opened the gates of heaven.
 
+## The Eucharist: Where Perfect Love Becomes Present
+
+While we have touched on the Eucharist in this chapter, the profound mystery of how Christ's perfect love becomes present to us in the Mass deserves much deeper exploration. The Eucharist is not just one devotion among many—it is the very heart of our faith, the way Christ's Paschal Mystery becomes present and available to us every day.
+
+In the next chapter, we will explore in detail how Jesus established the Eucharist at the Last Supper, how it fulfills all the Old Testament covenants, and how it makes the perfect love we have been studying throughout this book concretely present and accessible. We will see how the Mass is not just a memorial of past events but the way Christ continues to offer His perfect love to us and transform us into instruments of that same love for the world.
+
+The Cross and Resurrection reveal what perfect love looks like; the Eucharist makes that perfect love present and available to us. Understanding this connection is essential for living the authentic love that our world desperately needs.
+
 *Lord Jesus Christ, through Your Cross and Resurrection You revealed perfect love in all its fullness—sacred, sacrificial, covenantal, just, merciful, and life-giving. Thank You for conquering sin and death through Your perfect love and opening the gates of heaven for us. Thank You for showing us not only love's willingness to sacrifice but love's power to transform and create new life. Transform our hearts to love as You loved—with both the depth of the Cross and the hope of the Resurrection. Give us the grace to take up our cross daily and follow You, knowing that every sacrifice united to Yours participates in Your victory over death. Help us to be instruments of Your perfect love in a world that desperately needs to encounter both Your mercy and Your transforming power. Through Your Cross and Resurrection, make us saints who reflect Your love perfectly and draw others to the hope of eternal life. We ask this through Your most holy name. Amen.*
 
 ## Examen: Perfect Love Incarnate
