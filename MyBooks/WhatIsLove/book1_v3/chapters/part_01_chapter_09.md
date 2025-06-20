@@ -40,11 +40,11 @@ On the Cross, every element of our definition of perfect love—"the sacred, sac
 
 ### Sacred Love Revealed
 
-The Cross reveals love's ultimate sacred dimension. Here we see that Jesus is not merely a good man dying for a cause, but God Himself pouring out His divine life for humanity. As St. Paul declares: *"In him the whole fullness of deity dwells bodily"* (Colossians 2:9). The Cross is sacred because it is the very love of the Trinity made visible—the Father giving His Son, the Son offering Himself, the Holy Spirit enabling the sacrifice.
+The Cross reveals love's ultimate sacred dimension. Here we see that Jesus is not merely a good man dying for a cause, but God Himself pouring out His life for humanity. As St. Paul declares: *"In him the whole fullness of deity dwells bodily"* (Colossians 2:9). The Cross is sacred because it shows us God's own love in action—the Father giving His Son, the Son offering Himself, the Holy Spirit making it all possible.
 
-This sacred dimension transforms everything. We are not just forgiven by a human teacher but redeemed by God Himself. We are not just inspired by a noble example but transformed by divine grace. We are not just offered human sympathy but invited into the very life of God.
+This changes everything. We are not just forgiven by a human teacher but loved by God Himself. We are not just inspired by a good example but actually transformed by God's power. We are not just offered human sympathy but invited to share in God's own life.
 
-The sacred nature of Christ's love on the Cross also reveals the sacred dignity of every human person. God did not die for abstract humanity but for each individual soul. Every person—from the greatest saint to the most hardened sinner—is worth the blood of God. This is why every human life is sacred, why marriage is sacred, why every act of authentic love participates in the divine nature.
+Christ's love on the Cross also reveals how precious every human person is to God. God did not die for humanity in general but for each individual person. Every person—from the greatest saint to the most hardened sinner—is worth God's own life. This is why every human life matters so much, why marriage is so important, why every act of authentic love connects us to God Himself.
 
 ### Sacrificial Love Perfected
 
@@ -148,7 +148,7 @@ At every Mass, we encounter the fullness of perfect love revealed in both Cross 
 - **Sacrificial:** We participate in Christ's perfect sacrifice that conquered death
 - **Gift:** We receive the free gift of Christ's Body and Blood—the same Body that died and rose again
 - **Covenant:** We renew the New Covenant established in Christ's blood and validated by His resurrection
-- **Justice:** We acknowledge our need for redemption and celebrate God's perfect justice that transforms us
+- **Justice:** We acknowledge our need for healing and celebrate how God makes everything right while transforming us
 - **Mercy:** We receive forgiveness and healing through Christ's sacrifice and the new life of His resurrection
 - **Life-giving:** We are nourished for eternal life and strengthened for mission through the power of the Resurrection
 
@@ -216,7 +216,7 @@ Through His death and resurrection, Christ accomplishes the complete victory of 
 
 **Conquers Death:** The ultimate consequence of sin—separation from God and eternal death—is overcome. We are offered not just earthly happiness but eternal life in perfect communion with God.
 
-**Conquers Satan:** The spiritual forces that tempt us toward evil are defeated. We are not left to fight alone but given divine grace to overcome temptation and live in freedom.
+**Conquers Satan:** The spiritual forces that tempt us toward evil are defeated. We are not left to fight alone but given God's power to overcome temptation and live in freedom.
 
 **Opens Heaven:** The barriers between God and humanity are removed. We are invited not just to admire God from afar but to share in His very life through grace.
 
@@ -230,7 +230,7 @@ The Cross and Resurrection are not just something that happened 2,000 years ago�
 
 **Vocational Crosses and Glory:** Whether in marriage, priesthood, religious life, single life or in working for the common good of society, we are called to embrace the sacrifices our vocation requires. These are not burdens but opportunities to participate in Christ's perfect love. And through these sacrifices, we also participate in His resurrection glory—our vocations become sources of life and transformation for others.
 
-**Redemptive Suffering and Transformative Hope:** When we face difficulties, illness, loss, or persecution, we can unite our suffering with Christ's and participate in the redemption of the world. Our crosses become instruments of grace for others. But we also unite our hope with His resurrection hope—our suffering becomes a source of new life, not just for others but for ourselves as we are transformed through grace.
+**Meaningful Suffering and Transformative Hope:** When we face difficulties, illness, loss, or persecution, we can unite our suffering with Christ's and participate in healing the world. Our crosses become instruments of grace for others. But we also unite our hope with His resurrection hope—our suffering becomes a source of new life, not just for others but for ourselves as we are transformed by God's power.
 
 **Missionary Love and Resurrection Power:** We are called to extend Christ's love to others, especially those who are suffering, sinful, or separated from God. We become instruments of His perfect love in the world. But we carry not just the message of the Cross but the power of the Resurrection—we bring hope, transformation, and new life to those who encounter Christ through us.
 
@@ -242,7 +242,7 @@ Here is the beautiful promise of the Cross: perfect love is not just possible bu
 
 **The Model of Love:** We are not left to guess what love looks like but given the perfect example of Christ's love on the Cross. We know exactly what authentic love requires.
 
-**The Power to Love:** We are not left to struggle alone but given divine grace to overcome the selfishness, fear, and weakness that prevent us from loving authentically.
+**The Power to Love:** We are not left to struggle alone but given God's power to overcome the selfishness, fear, and weakness that prevent us from loving authentically.
 
 **The Community of Love:** We are not left to love in isolation but given the Church—the Body of Christ—where we can learn, practice, and receive support in living authentic love.
 
