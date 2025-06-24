@@ -1,5 +1,4 @@
-# Chapter 6: Sacrifice
-## Sacrifice: The Heart of Authentic Love
+# Chapter 6: Sacrifice: The Heart of Authentic Love
 
 > "Greater love has no one than this, that someone lay down his life for his friends."
 > — John 15:13
