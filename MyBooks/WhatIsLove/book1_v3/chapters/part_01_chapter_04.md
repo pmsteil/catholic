@@ -31,21 +31,19 @@ As we explored in Chapter 3, justice and mercy are not opposing forces but compl
 
 ## What Children Know About Mercy
 
-Before adults complicate mercy with sophisticated theological theories and psychological analysis, children demonstrate pure understanding of what mercy means:
+Children demonstrate pure understanding of mercy before adults complicate it with theological theories:
 
-**"Everyone makes mistakes!"** Children naturally understand that people aren't perfect. They don't expect flawless performance from themselves or others, and they readily acknowledge when they've done something wrong.
+**"Everyone makes mistakes!"** Children naturally understand that people aren't perfect and readily acknowledge when they've done something wrong.
 
-**"I'm sorry!"** Children know that sincere apologies matter. They understand that acknowledging wrongdoing is the first step toward healing, and they value genuine expressions of remorse.
+**"I'm sorry!"** Children know sincere apologies matter and that acknowledging wrongdoing is the first step toward healing.
 
-**"Can we still be friends?"** Children separate the person from their bad behavior. They can love someone while disapproving of what they've done, and they naturally seek to restore relationships after conflict.
+**"Can we still be friends?"** Children separate the person from their bad behavior, loving someone while disapproving of what they've done.
 
-**"Let's try again!"** Children believe in second chances—and third chances, and fourth chances. They don't hold grudges or write people off as hopeless. They instinctively believe that people can change and relationships can be restored.
+**"Let's try again!"** Children believe in second chances and don't write people off as hopeless. They instinctively believe people can change.
 
-**"It's okay, I forgive you!"** Children forgive quickly and completely, often forgetting the offense entirely. They don't keep mental scorecards of past hurts or use previous mistakes as weapons in future conflicts.
+**"It's okay, I forgive you!"** Children forgive quickly and completely, often forgetting the offense entirely without keeping mental scorecards.
 
-**"Don't be sad!"** Children show kindness even to those who have hurt them. They often comfort the very person who caused them pain, demonstrating mercy's power to break cycles of retribution.
-
-This childlike mercy reflects God's own heart: "quick to forgive, slow to anger, and rich in compassion" (Psalm 103:8). Jesus' command to "become like children" (Matthew 18:3) includes recovering this tender heart that sees the possibility of redemption in every person and refuses to let past hurts define future relationships.
+This childlike mercy reflects God's own heart: "quick to forgive, slow to anger, and rich in compassion" (Psalm 103:8). Jesus' command to "become like children" includes recovering this tender heart that refuses to let past hurts define future relationships.
 
 ## The Nature of True Mercy
 

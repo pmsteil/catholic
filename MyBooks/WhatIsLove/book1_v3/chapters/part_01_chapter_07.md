@@ -26,19 +26,17 @@ In our journey through the essential facets of authentic love, we have explored 
 
 ## What Children Know About Covenant Love
 
-Before adults complicate relationships with prenuptials, escape clauses, and conditional commitments, children demonstrate pure understanding of what covenant love means. Their instinctive knowledge reflects the biblical truth that we must "become like children" (Matthew 18:3) to understand God's kingdom—including His covenant love:
+Children demonstrate pure understanding of covenant love before adults complicate relationships with prenuptials and escape clauses:
 
-**"Families are forever."** Children naturally expect their family to stay together and are deeply wounded by even the thought of divorce. They understand instinctively that love creates permanent bonds, not temporary arrangements. This reflects Jesus' teaching: *"What therefore God has joined together, let not man separate"* (Matthew 19:6). It is a profound sorrow and a challenge to our Christian witness that, despite their innate longing for stability, many children today face the reality or possibility of parental divorce.
+**"Families are forever."** Children naturally expect their family to stay together and are deeply wounded by divorce. They understand instinctively that love creates permanent bonds, not temporary arrangements, reflecting Jesus' teaching: "What God has joined together, let not man separate" (Matthew 19:6).
 
-**"Promises matter."** Children take promises seriously and remember when adults break their word. They understand that authentic love keeps its commitments, even when it's difficult. A child who hears "I promise" expects that promise to be kept, period. This mirrors God's own covenant faithfulness: *"God is not man, that he should lie, or a son of man, that he should change his mind. Has he said, and will he not do it? Or has he spoken, and will he not fulfill it?"* (Numbers 23:19).
+**"Promises matter."** Children take promises seriously and remember when adults break their word. They understand that authentic love keeps its commitments, mirroring God's covenant faithfulness: "God is not man, that he should lie" (Numbers 23:19).
 
-**"Both mom and dad are needed."** Children naturally understand they need both parents and feel the absence of either. They haven't been taught by sociologists that family structure doesn't matter—they know from their hearts that mother and father each bring unique and irreplaceable gifts. This reflects God's design from the beginning: *"Therefore a man shall leave his father and his mother and hold fast to his wife, and they shall become one flesh"* (Genesis 2:24).
+**"Both mom and dad are needed."** Children naturally understand they need both parents and feel the absence of either. They know from their hearts that mother and father each bring unique gifts, reflecting God's design: "Therefore a man shall leave his father and mother and hold fast to his wife" (Genesis 2:24).
 
-**"Love means staying."** Children equate love with presence and commitment, not just feelings. They understand that if you really love someone, you don't leave them when things get hard. Love proves itself through permanence. This echoes the covenant promise: *"I will never leave you nor forsake you"* (Hebrews 13:5), and Christ's own promise to His Church: *"I am with you always, to the end of the age"* (Matthew 28:20).
+**"Love means staying."** Children equate love with presence and commitment, not just feelings. They understand that real love doesn't leave when things get hard, echoing Christ's promise: "I am with you always" (Matthew 28:20).
 
-**"Protection and security matter."** Children flourish in stable environments where they know their relationships won't suddenly end. They naturally understand that love creates a safe space where people can grow, make mistakes, and still be cherished. This reflects the Psalmist's confidence in God's covenant protection: *"He who dwells in the shelter of the Most High will abide in the shadow of the Almighty"* (Psalm 91:1).
-
-Why do children understand covenant love so naturally while adults struggle with it? What happens to us that makes us forget these simple truths? Children's instinctive understanding of covenant love reflects a profound truth: they are made in the image of a God who loves through covenant. As Jesus said: *"Truly, I say to you, unless you turn and become like children, you will never enter the kingdom of heaven"* (Matthew 18:3). Let us now explore the divine pattern of covenant love that children grasp intuitively but adults often forget.
+Children understand covenant love naturally because they are made in the image of a God who loves through covenant. As Jesus said: "Unless you turn and become like children, you will never enter the kingdom of heaven" (Matthew 18:3).
 
 ## Why Covenant Love is Universal: Made in God's Image
 

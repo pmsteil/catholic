@@ -72,23 +72,19 @@ This is why the cry for love is universal. Every human heart knows instinctively
 
 Before we examine how great minds have tried to define love, let's look at an unexpected source of wisdom—our children. Watch how children naturally understand love before the world teaches them otherwise:
 
-**Love is Sacred.** A child whose parents divorce doesn't just feel sad—they feel like something holy has been broken. They instinctively know that love between their parents should be treated as sacred, not disposable. When adults joke crudely about love or marriage, children recoil because they recognize love deserves reverence.
+**Love is Sacred.** When parents divorce, children don't just feel sad—they feel like something holy has been broken. They instinctively know love deserves reverence, not casual treatment.
 
-**Love is Sacrificial.** When a child gives up their last piece of candy to comfort a crying sibling, they're not being taught generosity—they're expressing what they know love requires. They expect this same sacrificial love from adults and are genuinely shocked when parents put their own convenience above their children's real needs.
+**Love is Sacrificial.** A child giving their last piece of candy to comfort a crying sibling isn't being taught generosity—they're expressing what they know love requires.
 
-**Love Creates Covenant.** Children are devastated by divorce precisely because they understand that "I love you" means forever. When they make friendship promises with their "best friend", they mean them as binding commitments. They can't comprehend why adults would treat love as temporary or conditional—it violates their deepest understanding of what love is.
+**Love Creates Covenant.** Children are devastated by divorce because they understand "I love you" means forever. They can't comprehend why adults treat love as temporary or conditional.
 
-**Love Requires Truth.** A child who discovers their parent has lied to them doesn't just feel disappointed—they feel betrayed at the core. They instinctively know that love and deception cannot coexist. When adults are authentic with them, children flourish; when adults are fake, children withdraw because they recognize love demands genuine transparency.
+**Love Requires Truth.** A child discovering their parent lied feels betrayed at the core. They know love and deception cannot coexist.
 
-**Love Demands Justice.** Children become furious at bullying not because they're taught it's wrong, but because they know love means protecting the vulnerable. When they see injustice, their immediate response is "That's not fair!"—revealing their innate understanding that love requires standing up for what's right, even when it's costly.
+**Love Demands Justice.** Children become furious at bullying because they know love means protecting the vulnerable. "That's not fair!" reveals their understanding that love requires standing up for what's right.
 
-**Love Shows Mercy.** When a child accidentally breaks something precious of Mom's, their immediate response isn't to hide or make excuses—they cry out for mercy with genuine anguish. They instinctively know they need forgiveness to restore the relationship, and their desperate plea reveals they understand that love must include mercy, or the bond they treasure will be broken.
+**Love Shows Mercy.** When children break something precious, they cry out for mercy with genuine anguish, knowing they need forgiveness to restore the relationship.
 
-**Love Creates Life-giving Communion.** Children naturally want to share everything with those they love—their discoveries, their fears, their joy. They include others instinctively and are wounded by exclusion because they know love builds community where everyone belongs and flourishes together.
-
-This childlike understanding isn't naive—it's profound. Jesus Himself said, "Unless you turn and become like children, you will never enter the kingdom of heaven" (Matthew 18:3). Children see love clearly because they haven't yet learned to justify or compromise toward seeking lesser goods. Their understanding reveals that authentic love is written on the human heart as natural law.
-
-While children possess this intuitive wisdom about love, throughout history great thinkers have attempted to articulate what love means through careful analysis and reflection.
+This childlike understanding isn't naive—it's profound. Jesus said, "Unless you turn and become like children, you will never enter the kingdom of heaven" (Matthew 18:3). Children see love clearly because authentic love is written on the human heart as natural law.
 
 ## Traditional Definitions and Their Contributions
 

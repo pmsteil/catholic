@@ -21,19 +21,17 @@ This universal cry for justice reveals that we are created for moral order, not 
 
 ## What Children Know About Justice
 
-Before adults complicate justice with sophisticated legal theories and cultural relativism, children demonstrate pure moral clarity about fairness:
+Children demonstrate pure moral clarity about fairness before adults complicate justice with sophisticated theories:
 
-**"Everyone should be treated the same!"** Children instinctively expect equal treatment in similar circumstances. They know that favoritism based on arbitrary preferences violates something fundamental about human dignity.
+**"Everyone should be treated the same!"** Children instinctively expect equal treatment and know that favoritism based on arbitrary preferences violates human dignity.
 
-**"Bullies should be stopped!"** Children understand that using power to harm the weak is evil. They expect authority figures to protect the vulnerable and hold wrongdoers accountable.
+**"Bullies should be stopped!"** Children understand that using power to harm the weak is evil and expect authority figures to protect the vulnerable.
 
-**"Promises should be kept!"** Children know that breaking your word damages trust and violates justice. They understand that reliability and truthfulness are essential for relationships.
+**"Promises should be kept!"** Children know that breaking your word damages trust and violates justice—reliability and truthfulness are essential.
 
-**"Stealing is wrong!"** Without being taught complex theories of property rights, children know that taking what belongs to others violates justice. They understand the connection between work, ownership, and respect for others.
+**"Truth should win!"** Children expect honesty to be rewarded and lies exposed. They have an innate sense that reality matters and deception corrupts the moral order.
 
-**"Truth should win!"** Children expect honesty to be rewarded and lies to be exposed. They have an innate sense that reality matters and that deception corrupts the moral order.
-
-This childlike understanding reflects what St. Paul describes as "the law written on their hearts" (Romans 2:15). Children see justice clearly because they haven’t yet learned to rationalize evil or compromise with injustice. Jesus' command to "become like children" (Matthew 18:3) includes recovering this moral clarity that recognizes injustice immediately.
+This reflects what St. Paul describes as "the law written on their hearts" (Romans 2:15). Jesus' command to "become like children" (Matthew 18:3) includes recovering this moral clarity that recognizes injustice immediately.
 
 ## The Nature of True Justice
 

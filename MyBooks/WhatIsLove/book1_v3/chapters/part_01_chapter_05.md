@@ -33,23 +33,19 @@ Without truth, we cannot know what justice truly requires or what mercy genuinel
 
 ## What Children Know About Truth
 
-Before adults complicate truth with sophisticated philosophical theories and cultural relativism, children demonstrate pure understanding of what truth means:
+Children demonstrate pure understanding of truth before adults complicate it with philosophical theories:
 
-**"That's not what really happened!"** Children have an instinctive commitment to accuracy. They know the difference between what actually occurred and what someone claims occurred, and they're often indignant when facts are distorted.
+**"That's not what really happened!"** Children have an instinctive commitment to accuracy and know the difference between what actually occurred and what someone claims occurred.
 
-**"You promised!"** Children understand that words should match reality. When someone says they'll do something, children expect that commitment to be truthful and reliable. They know that broken promises violate something fundamental about trust.
+**"You promised!"** Children understand that words should match reality and expect commitments to be truthful and reliable.
 
-**"But that doesn't make sense!"** Children recognize when explanations contradict each other or don't align with what they observe. They haven't yet learned to accept contradictions as "sophisticated thinking".
+**"But that doesn't make sense!"** Children recognize when explanations contradict each other or don't align with what they observe.
 
-**"Show me!"** Children want evidence. They're naturally empirical, wanting to see, touch, and experience truth rather than simply accepting abstract claims.
+**"Show me!"** Children want evidence and are naturally empirical, wanting to see and experience truth rather than accepting abstract claims.
 
-**"That's not fair!"** Children connect truth to justice. They understand that fair treatment requires accurate understanding of situations and people.
+**"I feel bad when I lie."** Children feel guilty when dishonest, and when they confess with tears, they learn the joy of living in truth.
 
-**"I didn't do it!"** Even when children lie, they demonstrate that they know truth matters. The very fact that they feel compelled to deny wrongdoing shows they understand the moral weight of truthfulness.
-
-**"I feel bad when I lie."** Children feel guilty and ashamed when they're dishonest. And when they finally confess, they usually do so with tears and remorse. And then, when proper justice and mercy are offered, they learn the joy of forgiveness and the satisfaction of living in truth.
-
-This childlike commitment to truth reflects what Jesus meant when He said we must "become like children" (Matthew 18:3). Children haven't yet learned to compromise with deception or accept that truth is merely subjective opinion.
+This childlike commitment to truth reflects our creation in God's image, who is Truth itself. Children haven't yet learned to accept contradictions as "sophisticated thinking" or to compromise with falsehood.
 
 ## Why This Longing for Truth is Universal: Made for Reality
 

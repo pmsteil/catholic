@@ -25,19 +25,17 @@ As we will see, sacrifice is not about losing ourselves or diminishing our digni
 
 ## What Children Know About Sacrifice
 
-Before adults complicate sacrifice with sophisticated theories about self-actualization and personal fulfillment, children demonstrate pure understanding of what sacrifice means:
+Children demonstrate pure understanding of sacrifice before adults complicate it with theories about self-actualization:
 
-**"Here, you can have mine."** Young children will spontaneously share their toys, food, and treasures with others, especially with those they love. They understand instinctively that love means giving something precious to someone else.
+**"Here, you can have mine."** Young children spontaneously share their treasures with those they love, understanding instinctively that love means giving something precious.
 
-**"Can I help?"** Children experience genuine joy when they help someone in need. They haven't yet learned to calculate the cost or ask "What's in it for me?" They simply see someone who needs help and offer themselves.
+**"Can I help?"** Children experience genuine joy helping someone in need without calculating cost or asking "What's in it for me?"
 
-**"Sorry, I hurt you - you want to play with my favorite toy?"** Children understand that love means giving something precious to someone else in order to show mercy.
+**"I saved this for you."** Children know real love requires planning and forethought—saving the best cookie or prettiest flower for someone they love.
 
-**"I saved this for you."** Children know that real love requires planning and forethought. They will save the best cookie, the prettiest flower, or their favorite toy to give to someone they love.
+**"I'll be brave for you."** Children understand love sometimes requires courage, sacrificing their own fear to protect someone smaller.
 
-**"I'll be brave for you."** Children understand that love sometimes requires courage. They'll sacrifice their own fear to protect someone smaller or to make someone else feel better.
-
-This childlike generosity reflects the **heart of the Gospel**: "Greater love has no one than this, that someone lay down his life for his friends" (John 15:13). Adults must return to this **generous spirit** that finds joy in self-giving rather than self-seeking, understanding that **sacrifice transforms love from theory into reality**.
+This childlike generosity reflects the heart of the Gospel: "Greater love has no one than this, that someone lay down his life for his friends" (John 15:13). Adults must return to this generous spirit that finds joy in self-giving rather than self-seeking.
 
 ## Why This Call to Sacrifice is Universal: Made in God's Image
 
