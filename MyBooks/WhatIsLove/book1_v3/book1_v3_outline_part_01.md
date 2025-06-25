@@ -923,7 +923,7 @@ This childlike discernment reflects our **original relationship with God**: reco
 
 Christ's command to "become like children" (Matthew 18:3) includes recovering the moral clarity that recognizes counterfeit love immediately. Adults must return to the **humility, trust, and wonder** that allows them to see through sophisticated deceptions and recognize authentic love in its beautiful simplicity.
 
-#### Chapter 9: The Gospel is Perfect Love
+#### Chapter 9: The Gospel: Perfect Love
 - **Incorporate the V2 Chapter Outline also:** ../book1_v2/outlines/13_Ch13_outline.md
 - **Facet of Love:** The Gospel is Perfect Love
 - **Summary:** Introduces traditional views & the book's core definition (1 John 4:8,16, CCC 25).
@@ -942,14 +942,7 @@ Christ's command to "become like children" (Matthew 18:3) includes recovering th
 - The urgent need for clarity, especially for the children who are learning about love
 - Why the Church's authoritative teaching is essential to cut through cultural confusion
 
-**2. Traditional Definitions of Love**
-- **Greek Philosophy:** Eros (romantic desire), Philia (friendship), Storge (familial affection), Agape (self-sacrificial love)
-- **Thomistic Synthesis:** "To love is to will the good of the other" (St. Thomas Aquinas)
-- **Augustinian Understanding:** "Love God, and do what you will" - properly ordered love
-- **Scriptural Foundation:** "God is love" (1 John 4:8,16) as the ultimate definition
-- **Patristic Wisdom:** Early Church Fathers on divine love as the source of all authentic human love
-
-**3. The Book's Culminating Definition of God's Love**
+**2. The Book's Culminating Definition of God's Love**
 - **Primary Definition:** "Perfect love is the sacred, sacrificial gift of covenant-binding truth, justice, and mercy into life-giving communion"
 - **Unpacking Each Element:**
   - *Sacred:* Set apart, holy, reflecting God's own nature
@@ -962,7 +955,7 @@ Christ's command to "become like children" (Matthew 18:3) includes recovering th
   - *Life-giving:* Promotes authentic human flourishing
   - *Communion:* Deep unity while respecting the integrity of each person
 
-**4. Why This Definition is Complete**
+**3. Why This Definition is Complete**
 - **Integrates All Classical Elements:** Includes eros (desire for the good), philia (friendship), storge (care), and agape (sacrifice)
 - **Balances Justice and Mercy:** Neither harsh legalism nor permissive sentimentality
 - **Grounds in Divine Nature:** Reflects the Trinity's own inner life of love
@@ -970,7 +963,7 @@ Christ's command to "become like children" (Matthew 18:3) includes recovering th
 - **Protects Human Dignity:** Respects the image of God in every person
 - **Enables True Freedom:** Liberates from slavery to sin and selfishness
 
-**5. How This Definition Combats Modern Errors**
+**4. How This Definition Combats Modern Errors**
 - **Against Sentimentalism:** Love requires truth and justice, not just feelings
 - **Against Utilitarianism:** People are ends in themselves, not means to happiness
 - **Against Relativism:** Love has objective content grounded in God's Truth about human dignity and the sanctity of human life
@@ -978,20 +971,23 @@ Christ's command to "become like children" (Matthew 18:3) includes recovering th
 - **Against Materialism:** Love transcends physical pleasure and material gain
 - **Against Contractualism:** Love involves covenant commitment, not mere agreement
 
-**6. The Catechism's Teaching on Love (CCC 25)**
+**5. The Catechism's Teaching on Love (CCC 25, 39, 309)**
+- The Problem is Evil - in our hearts and in the world
+- The Solution is Love - in our hearts and in the world
+- The entire Bible and Catholic Faith are teaching us God's Perfect Love
 - Love as humanity's fundamental vocation
 - The call to love God with all our heart, soul, mind, and strength
 - Love of neighbor as the measure of our love for God
 - The integration of the two great commandments in authentic love
 
-**7. Biblical Foundation: "God is Love" (1 John 4:8,16)**
+**6. Biblical Foundation: "God is Love" (1 John 4:8,16)**
 - **The Source:** All authentic love flows from God's own nature
 - **The Standard:** Human love is measured against divine love
 - **The Possibility:** We can love because God first loved us (1 John 4:19)
 - **The Goal:** Perfect love casts out fear (1 John 4:18)
 - **The Test:** "If anyone says 'I love God' but hates his brother, he is a liar" (1 John 4:20)
 
-**8. Love as the Integration of All Virtues**
+**7. Love as the Integration of All Virtues**
 - **Faith:** Trusting surrender to God's love
 - **Hope:** Confident expectation of love's ultimate victory
 - **Prudence:** Wise discernment in loving action
@@ -1000,14 +996,14 @@ Christ's command to "become like children" (Matthew 18:3) includes recovering th
 - **Temperance:** Proper ordering of desires within love
 - **Charity:** The form and soul of all other virtues
 
-**9. The Trinitarian Model of Perfect Love**
+**8. The Trinitarian Model of Perfect Love**
 - **The Father:** Source of all love, giving everything to the Son
 - **The Son:** Perfect response of love, offering everything back to the Father
 - **The Holy Spirit:** The love between Father and Son, proceeding from both
 - **Human Participation:** Called to share in this divine exchange of love
 - **Sacramental Mediation:** How divine love enters human relationships
 
-**10. Love's Essential Characteristics**
+**9. Love's Essential Characteristics**
 - **Permanent:** "Till death do us part" - not conditional on feelings
 - **Exclusive:** Covenant fidelity that creates secure bonds
 - **Fruitful:** Naturally ordered toward creating and nurturing life
@@ -1017,7 +1013,7 @@ Christ's command to "become like children" (Matthew 18:3) includes recovering th
 - **Merciful:** Compassionate toward weakness and failure
 - **Unifying:** Creating deep communion while respecting individual integrity
 
-**11. Why Children Need This Definition**
+**10. Why Children Need This Definition**
 - **Clarity in Confusion:** Cuts through cultural mixed messages about love
 - **Protection from Counterfeits:** Helps recognize false forms of love
 - **Foundation for Relationships:** Provides blueprint for authentic relationships
@@ -1025,19 +1021,19 @@ Christ's command to "become like children" (Matthew 18:3) includes recovering th
 - **Connection to God:** Reveals that human love participates in divine love
 - **Moral Framework:** Gives objective standards for evaluating relationships
 
-**12. The Call to Perfect Love**
+**11. The Call to Perfect Love**
 - **Universal Vocation:** Every person called to love perfectly according to their state in life
 - **Gradual Growth:** Perfect love is achieved through grace and practice over time
 - **Sacramental Support:** The Church provides the means of grace necessary for perfect love
 - **Saintly Examples:** The saints show us what perfect love looks like in practice
 - **Ultimate Goal:** Perfect love prepares us for eternal communion with God
 
-**How This Engages Body, Mind, and Soul:**
+**12. How This Engages Body, Mind, and Soul:**
 - **Body:** Love involves physical actions of service, sacrifice, and appropriate intimacy
 - **Mind:** Love requires intellectual understanding of truth, justice, and the beloved's good
 - **Soul:** Love engages the will in commitment and the heart in affection and devotion
 
-**Saints Who Exemplify This Definition:**
+**13. Saints Who Exemplify This Definition:**
 - **Blessed Virgin Mary:** Perfect integration of justice and mercy in her "fiat"
 - **St. Joseph:** Silent, sacrificial love ordered toward protecting the Holy Family
 - **St. John the Apostle:** "The disciple whom Jesus loved" who understood divine love

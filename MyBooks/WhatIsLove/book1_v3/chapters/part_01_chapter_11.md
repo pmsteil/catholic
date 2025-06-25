@@ -153,6 +153,7 @@ This approach actually heals marginalization by addressing its root cause (failu
 
 This approach provides genuine healing by helping people integrate their body, mind, and soul according to God's design, rather than fragmenting their identity through rejection of their embodied nature.
 
+
 ### 3. Political "Love": Government Power and Secular Solutions as Salvation
 
 **The Appeal:** Political love promises that the right laws, policies, and government programs can solve humanity's deepest problems and create a just society for all.
@@ -177,7 +178,7 @@ This approach provides genuine healing by helping people integrate their body, m
 
 **The Authentic Alternative:** **Perfect Love transforms society through morally-formed Christians who bring the light of truth, justice, and mercy into the public square, electing representatives and supporting laws that reflect God's design for human flourishing.**
 
-**Sacred:** Government authority comes from God and must serve His purposes for human dignity and the common good. **Sacrificial:** Christians engage in politics not for personal gain or tribal victory, but to serve others, especially the vulnerable. **Covenant:** We make binding commitments to moral principles that transcend party politics and guide our civic participation. **Truth:** Objective moral law provides the foundation for just laws and policies; faith and reason together inform public discourse. **Justice:** We support laws that protect fundamental human rights, especially life, religious freedom, and the family. **Mercy:** We show compassion for those who suffer while maintaining moral principles; we forgive political opponents and seek genuine dialogue. **Life-giving Communion:** We build a society where faith and public life are integrated, where moral citizens elect moral representatives who pass moral laws.
+**Sacred:** Government authority comes from God and must serve His purposes for human dignity and the common good. Human fulfillment comes from communion with God, not material wealth. **Sacrificial:** Christians engage in politics not for personal gain or tribal victory, but to serve others, especially the vulnerable. **Covenant:** We make binding commitments to moral principles that transcend party politics and guide our civic participation. **Truth:** Objective moral law provides the foundation for just laws and policies; faith and reason together inform public discourse. **Justice:** Everyone receives fair treatment and protection under the law. **Mercy:** We show compassion for those who struggle economically or socially while maintaining moral principles. **Life-giving Communion:** We build a society where faith and public life are integrated, where moral citizens elect moral representatives who pass moral laws.
 
 This creates authentic political love that serves the genuine common good by grounding human law in divine law and forming citizens who can participate wisely in democratic governance.
 
@@ -282,17 +283,6 @@ Children possess an instinctive ability to recognize counterfeit love because th
 
 This childlike discernment reflects our original relationship with God: recognizing that we are created in His image and deserving of respect.
 
-## The Evil These Counterfeits Overcome (And Create)
-
-**What Evil This Overcomes:** The evil of spiritual deception that leads souls away from authentic love toward counterfeits that ultimately destroy rather than heal. False definitions of love enable sin by calling evil good and good evil.
-
-**But What Evil They Create:** Each counterfeit creates its own forms of evil:
-- **Marxism** creates class hatred, violence, and economic oppression
-- **Wokeism** creates racial division, sexual confusion, and moral relativism
-- **Sentimentalism** creates broken families, abandoned children, and emotional chaos
-- **Utilitarianism** creates a culture of death where the weak are sacrificed for the strong
-- **Romantic Idolatry** creates obsession, jealousy, and spiritual emptiness
-
 ## How to Minister to Those Caught in Counterfeits
 
 As Catholics who understand authentic love, we are called to help others see through these deceptions. Here's how:
@@ -300,23 +290,50 @@ As Catholics who understand authentic love, we are called to help others see thr
 ### 1. Start with Affirmation of Their Good Desires
 
 **Don't begin by attacking their ideology.** Begin by affirming the good desires that drew them to it:
-- "I can see that you really care about justice for the oppressed."
-- "Your heart for the suffering is beautiful."
-- "You want to make a difference in the world—that's wonderful."
+- "I can see that you really care about justice—that's a beautiful thing. What does true justice look like to you?"
+- "Your heart for the suffering shows real mercy. How do we know when our mercy is truly helping people?"
+- "You want truth and authenticity—that's so important. How can we be sure we're pursuing the whole truth?"
+- "You desire acceptance and belonging—we all do. What kind of acceptance do you think leads to real peace?"
 
-### 2. Ask Questions That Reveal Contradictions
+### 2. Ask Questions That Help Them Examine Their Pursuit
 
-**Help them discover the problems themselves:**
-- "If this ideology is about love, why does it seem to create so much anger and division?"
-- "Does this approach actually help the people it claims to serve?"
-- "Are you finding the peace and joy you expected?"
+**Help them discover whether they're pursuing the ultimate good versions of these desires:**
+- "You want justice—but does this approach create more division or more unity among people?"
+- "You seek truth—but does this ideology welcome questions and examination, or does it shut down inquiry?"
+- "You desire mercy for the suffering—but does this method actually heal people or keep them dependent?"
+- "You want acceptance—but does this community accept you when you disagree, or only when you conform?"
+- "If this is about love, why does it seem to require hatred of certain groups of people?"
+- "Are you finding the peace, joy, and fulfillment you were looking for?"
+- "You want to make a difference in the world—that's wonderful. How do you know this approach is actually making a positive difference?"
 
 ### 3. Share the Beauty of Authentic Love
 
-**Show them what they're really looking for:**
-- Share stories of saints who achieved real justice through love
-- Explain how Catholic social teaching addresses their concerns more completely
-- Invite them to see authentic love in action in your parish or community
+**Show them what they're really looking for - and how authentic love actually delivers it:**
+
+**For Those Seeking Justice:**
+- "You want real justice? Look at how St. Martin de Porres achieved racial equality through love, not division - he actually changed hearts and created lasting unity."
+- "Catholic social teaching has concrete principles for economic justice that protect both workers and employers - it's more complete than class warfare."
+- "What if there was a way to fight injustice that didn't require hating anyone? That actually converted oppressors into allies?"
+
+**For Those Seeking Truth:**
+- "You want authentic truth? The Catholic Church welcomes the hardest questions - we have 2,000 years of the greatest minds wrestling with truth."
+- "What if you could pursue truth without having to shut down opposing voices? Without fear that questioning leads to rejection?"
+- "There's a way to seek authenticity that integrates your whole person - body, mind, and soul - not just feelings or ideology."
+
+**For Those Seeking Mercy:**
+- "You want to help the suffering? Look at how Mother Teresa actually healed people - she addressed both their physical and spiritual needs."
+- "What if there was a way to show mercy that truly empowered people instead of keeping them dependent?"
+- "Catholic hospitals, schools, and charities have lifted more people out of poverty than any ideology - through love, not politics."
+
+**For Those Seeking Acceptance:**
+- "You want real belonging? In Christ, you're accepted not because you conform to group identity, but because you're loved as God's child."
+- "What if there was a community that loved you enough to help you become your best self, not just affirm whatever you feel?"
+- "There's a family where you belong forever - not just while you agree with the current ideology."
+
+**Show Them the Beauty in Action:**
+- Invite them to see authentic love working in your parish, Catholic charities, or pro-life pregnancy centers
+- Share stories of saints who achieved what they're seeking through authentic love
+- Explain how the comprehensive definition of perfect love actually fulfills their deepest desires more completely than any counterfeit
 
 ### 4. Be Patient with the Process
 

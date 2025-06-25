@@ -35,19 +35,19 @@ And where do we see this perfect integration most clearly? **On the Cross.** The
 
 Have you ever wondered why the Church has seven sacraments? Why not just one way to encounter God's grace? The answer lies in understanding that all authentic covenant relationships follow the same basic structure that God established in His covenants with humanity. The sacraments reveal this structure most clearly, showing us how God creates and strengthens our covenant bonds with Him and each other.
 
-**Baptism: Our Spiritual Birth Certificate**
+**Baptism: God Makes Us His Children**
 
 What does it mean to become God's child? Baptism initiates us into the fundamental covenant relationship with God, creating a permanent bond that can never be broken. Through baptism, all the dimensions of perfect love come together: the truth of our identity as God's children, the justice of right relationship with our Creator, the mercy that washes away original sin, and the sacrifice of Christ that makes it all possible.
 
 Like marriage vows, baptismal promises create a permanent, public commitment witnessed by the community. Even when we fail through serious sin, we remain God's children—the permanent bond cannot be broken. However, serious sin does damage our relationship with God, blocking the flow of His grace and love in our lives.
 
-**Confirmation: Choosing for Ourselves**
+**Confirmation: God Strengthens Us for Mission**
 
 Why do we need Confirmation if we're already baptized? Confirmation completes baptismal initiation by providing the opportunity for personal ratification of the covenant our parents chose for us. At Confirmation, we personally answer the same questions asked at Baptism, but now with mature understanding and free choice. It's like a teenager saying "Yes, I want to be part of this family" rather than simply being born into it.
 
 The Holy Spirit, who first came upon us at Baptism, now strengthens us with His gifts for the mission of living covenant love in the world. Through Confirmation, we receive the spiritual strength needed to witness to Christ's covenant love, especially when it's difficult or costly.
 
-**The Eucharist: The Heart of Covenant Renewal**
+**The Eucharist: God Feeds Us with His Own Life**
 
 Why does the Church require weekly Mass attendance? The Eucharist stands at the center of all covenant relationships as the source and summit of covenant love. In Jesus' own words, "This is my blood of the new covenant" (Matthew 26:28), the Mass is the ultimate covenant renewal ceremony.
 
@@ -75,7 +75,7 @@ The Eucharist doesn't just renew our covenant with God—it strengthens every ot
 
 This is because the Eucharist is the source of all covenant love. Christ's perfect love, received in Holy Communion, becomes the power by which we love others with His own love. We cannot give what we do not have, but in the Eucharist, we receive the very love of God Himself.
 
-**Reconciliation: Coming Home**
+**Reconciliation: God Welcomes Us Home**
 
 What happens when we damage our relationship with God through sin? When we fail in our covenant commitments—whether to God, spouse, or community—God provides the Sacrament of Reconciliation to restore communion within the existing covenant bond.
 
@@ -89,7 +89,7 @@ This is why we need the Sacrament of Reconciliation. We don't need to get "re-ba
 
 The Church recommends frequent confession, even for venial sins, because covenant relationships require constant attention and care. Just as married couples need regular communication to maintain intimacy, our covenant with God benefits from regular confession to maintain the free flow of grace and love.
 
-## Marriage: The Fundamental Human Covenant
+## Marriage: God Creates the Fundamental Human Covenant
 
 Marriage is the fundamental human covenant, imaging God's covenant with His people. This is why Scripture consistently uses marriage as the metaphor for God's relationship with His people—because marriage, when lived authentically, reveals the very nature of divine love.
 
@@ -115,7 +115,7 @@ In the Sacrament of Matrimony, God Himself joins the couple together, making the
 
 As the Second Vatican Council beautifully expressed it: "The intimate partnership of married life and love has been established by the Creator and qualified by His laws, and is rooted in the conjugal covenant of irrevocable personal consent." Through their marriage covenant, spouses create what St. John Paul II called "a communion of persons"—a living image of the Trinity's own life of love.
 
-## Holy Orders: The Covenant of Pastoral Love
+## Holy Orders: God Calls Men to Pastoral Love for His People
 
 While marriage images Christ's love for the Church through spousal love, Holy Orders images that same love through pastoral love. Through ordination, priests become *alter Christus* (another Christ), while deacons are configured to Christ the Servant. Both enter into covenant relationships to serve and strengthen all other covenant relationships.
 
@@ -179,6 +179,8 @@ God does not command this love from on high. He does not demand it as a tyrant. 
 This is His invitation to you—not a burden but a liberation, not a command but a call: *"If anyone would come after me, let him deny himself and take up his cross and follow me. For whoever would save his life will lose it, but whoever loses his life for my sake will find it"* (Matthew 16:24-25).
 
 This is the paradox and the promise: In losing ourselves through covenant love that integrates truth, justice, mercy, and sacrifice, we find ourselves. In dying to selfishness, we are born to authentic love. In taking up our cross, we discover resurrection.
+
+Even our final earthly act—death itself—can be consecrated within our covenant with God through the Sacrament of Anointing of the Sick. This beautiful sacrament offers us the grace to transform our dying into a final act of covenant love, uniting our suffering with Christ's passion and preparing our souls for the eternal covenant in heaven. Through anointing with holy oil and the prayers of the Church, God enables us to love perfectly even in our most vulnerable moments, ensuring that not even death can separate us from His covenant love.
 
 **Daily Covenant Fidelity:**
 - Begin each day by renewing your baptismal promises
