@@ -1,10 +1,11 @@
 # Chapter 13: The Good News is God's Perfect Love
 
+> "God is love, and whoever remains in love remains in God and God in him."
+> — 1 John 4:16
+
 > "For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life."
 > — John 3:16
 
-> "God is love, and whoever remains in love remains in God and God in him."
-> — 1 John 4:16
 
 > "The whole concern of doctrine and its teaching must be directed to the love that never ends. Whether something is proposed for belief, for hope, or for action, the love of our Lord must always be made accessible, so that anyone can see that all the works of perfect Christian virtue spring from love and have no other objective than to arrive at love."
 > — Catechism of the Catholic Church 25
@@ -17,7 +18,7 @@ If you could know only one thing about the universe, about yourself, about the m
 
 This is the Good News—not just a nice religious idea, but the fundamental reality that explains everything: why you exist, why you long for love, why evil hurts so deeply, why nothing in this world fully satisfies, and why your heart was made for something infinite and eternal.
 
-The story begins before time itself, in the eternal communion of the Trinity—Father, Son, and Holy Spirit—living in perfect love. This love is not a feeling or emotion, but the very essence of God's being. It is **perfect love**: the sacred, sacrificial gift of covenant which binds true justice and true mercy into life-giving communion. The Father eternally gives Himself completely to the Son, the Son eternally gives Himself completely to the Father, and their mutual love is so real, so personal, that He is the Holy Spirit—the Third Person of the Trinity.
+The story begins before time itself, in the eternal communion of the Trinity—Father, Son, and Holy Spirit—living in perfect love. This love is not a feeling or emotion, but the very essence of God's being. It is **perfect love**: the sacred, sacrificial gift of covenant which binds true justice and true mercy into life-giving communion. The Father eternally gives Himself completely to the Son, the Son eternally gives Himself completely to the Father, and their mutual love is so real, so personal, that He is the Holy Spirit—the Third Person of the Trinity.¹
 
 This divine love is not contained or selfish. Perfect love overflows, creates, gives life. And so God, in His infinite goodness, chose to create the universe as an act of pure love—not because He needed anything, but because love desires to share itself. He created you, specifically you, in His own image and likeness, with the capacity to know Him, love Him, and share in His eternal happiness.
 
@@ -31,83 +32,76 @@ This is your true dignity: you are a beloved child of God, created for eternal h
 
 ## The Problem: Sin and the Slavery of Lesser Loves
 
-But something went wrong. The first humans, Adam and Eve, chose to doubt God's love and seek their own way. They chose a lesser good—the fruit of the tree—over the Supreme Good—trusting relationship with God. This original sin damaged human nature, not by destroying the image of God within us, but by disordering our loves.
+But something went wrong. The first humans, Adam and Eve, faced a choice: trust God's word that eating from the tree of the knowledge of good and evil would bring death, or believe the serpent's lie that they would "be like God, knowing good and evil" (Genesis 3:5). They chose to grasp at divine knowledge and power for themselves rather than receive wisdom as a gift from God. They chose immediate gratification over patient trust, autonomous self-determination over loving dependence, the promise of becoming "like God" over the reality of being beloved children of God. In choosing the fruit, they chose themselves as the ultimate authority over good and evil rather than submitting to God as the source of all truth and goodness. This original sin damaged human nature, not by destroying the image of God within us, but by disordering our loves.²
 
-Now, instead of loving God first and all other things in proper relationship to Him, we tend to make created things into gods. We worship career over family, pleasure over purity, convenience over life, self over service. We seek our ultimate happiness in things that cannot provide it—money, power, sexual pleasure, human approval, entertainment, comfort.
+Now, instead of looking at all of God's creation and the moral law written in our hearts with gratitude, recognizing our grace-filled lives and responding by giving God what He is due—our best worship, honor, and love—we tend to make created things into gods. We worship career over family, pleasure over purity, convenience over life, self over service. We seek our ultimate happiness in things that cannot provide it—money, power, sexual pleasure, human approval, entertainment, comfort.
 
-This is the slavery of sin: being controlled by disordered loves, seeking our ultimate good in things that are only penultimate goods. And because our hearts were made for the infinite, nothing finite can satisfy us. We become addicted to more—more pleasure, more success, more control, more stuff—but we're never fulfilled because we're seeking infinite satisfaction from finite things.
+This is the slavery of sin: being controlled by disordered loves, seeking our ultimate good in things that are only secondary goods. And because we were created for relationship with God Himself, nothing less than God can truly satisfy the deepest longings of our hearts. We become addicted to more—more pleasure, more success, more control, more stuff—but we're never fulfilled because we're seeking in creation what can only be found in the Creator.
 
-Worse, when we make lesser things into ultimate things, we inevitably hurt others. The man who makes career his god neglects his family. The woman who makes pleasure her god uses others for gratification. The society that makes comfort its god kills inconvenient children and elderly. The culture that makes individual autonomy its god destroys the bonds of marriage, family, and community.
+This is precisely what the Ten Commandments address, beginning with the first and most fundamental: "You shall have no other gods before me" (Exodus 20:3). Every violation of God's commandments flows from making something other than God into our ultimate good—whether it's money, power, pleasure, or even our own will. This is why both the Old and New Covenants teach the same essential truth: "Love the Lord your God with all your heart, and with all your soul, and with all your mind" (Matthew 22:37; Deuteronomy 6:5). This complete love of God with our whole being—heart, mind, and soul—is the antidote to the slavery of disordered loves.
+
+Worse, when we make lesser things into ultimate things, we inevitably hurt others. The man who makes career his "god" neglects his family. The woman who makes pleasure her "god" uses others for gratification. The society that makes comfort its "god" kills inconvenient children and elderly. The culture that makes individual autonomy its "god" destroys the bonds of marriage, family, and community.
 
 This is why evil exists in the world: not because God created it, but because rational creatures with free will choose lesser goods over the Supreme Good, and these disordered choices create suffering for themselves and others.
 
 ## The Solution: God's Perfect Love Incarnate
 
-But God did not abandon us to our slavery. In the greatest act of love in human history, God the Father sent His Son to become one of us—fully God and fully man—to rescue us from sin and restore us to divine love.
+But God did not abandon us to our slavery. In the fullness of time, Perfect Love Himself entered human history. The eternal Son of God became man—Jesus Christ, true God and true man—to rescue us and restore us to the relationship we were created for.³
+
+Jesus came proclaiming the Kingdom of God—not as a distant future reality, but as a present earthly Kingdom where God reigns and His people participate actively in His divine life.⁴ Through His incarnation, Jesus shows us that God cares deeply about our earthly life and calls us to live the Kingdom life here and now, transforming this world through divine love.
 
 Jesus Christ is perfect love incarnate. In His life, He showed us what authentic love looks like: truth spoken with compassion, justice tempered with mercy, sacrifice offered freely, covenant faithfulness maintained even unto death. He lived the perfect integration of body, mind, and soul—fully human yet without sin.
 
 But Jesus didn't come just to be a good example. He came to do what we could not do for ourselves: to pay the price of our sins and open the way back to the Father.
 
-### The Last Supper: Love's Greatest Gift
+## The Last Supper: Love's Greatest Gift
 
-At the Last Supper, Jesus gave us the Eucharist—His own Body and Blood under the appearance of bread and wine. This wasn't just a symbolic gesture but the beginning of His sacrifice, the moment when He gave us everything He had and everything He was. In the Eucharist, Jesus makes Himself our food, our life, our strength for the journey home to the Father.
+At the Last Supper, Jesus gave us the Eucharist—His own Body and Blood under the appearance of bread and wine. This wasn't just a symbolic gesture but the beginning of His sacrifice, the moment when He gave us everything He had and everything He was. Significantly, Jesus chose to institute the Eucharist within the Passover meal, revealing Himself as the true Lamb of God who takes away the sin of the world (John 1:29). Just as the Passover lamb's blood protected the Israelites from death and freed them from slavery in Egypt, Jesus' blood frees us from the slavery of sin and protects us from spiritual death. In the Eucharist, Jesus makes Himself our food, our life, our strength for the journey home to the Father.⁵
 
-The Eucharist reveals the depth of God's love: He doesn't just tell us He loves us, He gives us Himself. He doesn't just forgive our sins from a distance, He comes to dwell within us. He doesn't just promise us eternal life, He begins to live that life in us right now through His sacramental presence.
+The Eucharist reveals the depth of God's love: He doesn't just tell us He loves us, He gives us Himself. He doesn't just forgive our sins from a distance, He comes to dwell within us. He doesn't just promise us eternal life, He begins to live that life in us right now through His sacramental presence. Through this ultimate, perfect, sacred sacrifice—offered once for all time—Jesus shows us that no matter what we have done to offend God, His full and perfect mercy is available to every repentant heart.
 
 ### The Cross: Justice and Mercy United
 
-On the Cross, Jesus took upon Himself all the consequences of human sin—not just the punishment we deserved, but the separation from God that sin creates. For the first and only time in all eternity, the Son experienced separation from the Father, crying out "My God, my God, why have you forsaken me?" (Matthew 27:46).
+On the Cross, Jesus revealed the full depth of authentic love by uniting perfect justice and perfect mercy in one redemptive act.⁶ He took upon Himself all the consequences of human sin—not just the legal guilt we deserved, but the real wounds that sin creates in our body, mind, and soul. His cry "My God, my God, why have you forsaken me?" (Matthew 27:46) was not a moment of separation from the Father, but Jesus quoting the opening line of Psalm 22—a messianic psalm that begins in anguish but ends in triumph and vindication. By invoking this psalm, Jesus was declaring that He was fulfilling the prophetic suffering described by David, while pointing to the ultimate victory that the psalm promises: "All the ends of the earth shall remember and turn to the Lord" (Psalm 22:27). He was taking upon Himself the full weight of human alienation from God that sin creates, while remaining in perfect union with the Father's will and pointing to the resurrection victory to come.
 
-This wasn't divine child abuse or cosmic injustice. This was perfect love choosing to pay the price that justice demanded while offering the mercy that our hearts needed. Jesus, who knew no sin, became sin for us so that we might become the righteousness of God in Him (2 Corinthians 5:21).
-
-On the Cross, perfect justice and perfect mercy kissed. God's justice was satisfied because the debt of sin was fully paid. God's mercy was revealed because He Himself paid the debt we could never pay. The Cross shows us that God's love is not sentimental tolerance of sin, but costly grace that takes sin seriously enough to die for it.
+The Cross shows us that authentic love takes sin seriously—it's not cheap grace that ignores justice, but costly grace that satisfies justice completely while offering mercy freely. This is love that heals us completely, not just declares us forgiven from a distance.
 
 ### The Resurrection: Death Defeated, Life Restored
 
-But the story doesn't end with death. On the third day, Jesus rose from the dead, proving that His sacrifice was accepted by the Father and that death itself has been conquered. The Resurrection is God's "Yes!" to Jesus' perfect offering of love, and His promise that all who unite themselves to Christ will share in His victory over sin and death.
+The Resurrection completes and validates this revelation of perfect love.⁷ It shows us that God's love is not just forgiving but creative—it doesn't just pardon us but transforms us. The Resurrection is "the crowning truth of our faith in Christ" because it reveals that divine love has the power to create new life, to transform human nature itself, and to guarantee our participation in divine life.⁸
 
-The Resurrection reveals that God's love is stronger than death, that His mercy is more powerful than our sin, that His grace can transform any heart that opens to receive it. It is the guarantee that our deepest longing—for love that never ends, never disappoints, never fails—will be fulfilled in Him.
+But the Resurrection points us toward something even more magnificent: eternal communion with Perfect Love Himself. Christ's glorified body after the Resurrection shows us what authentic love produces—not the destruction of our humanity, but its perfection and transformation. This is the love that will raise our own bodies on the last day and unite us forever with Perfect Love Himself.
+
+The Resurrection reveals that when we follow Christ's love on earth—when we choose truth over lies, justice over exploitation, mercy over revenge, sacrifice over selfishness, covenant over convenience, and communion over isolation—we are already experiencing a foretaste of Holy Communion with Him in the deepest sense. Every act of authentic love draws us into deeper communion with the Trinity. Every time we receive the Eucharist with faith, we taste this eternal communion. Every time we love as Christ loves, we participate in the divine life that the Resurrection makes available to us.
+
+This is not just restorative love—bringing us back to where we were—but creative love, making us something entirely new. The Resurrection is the guarantee that our deepest longing—for love that never ends, never disappoints, never fails—will be fulfilled in eternal communion with Him who is Love itself.
 
 ## The New Covenant: God's Law of Love
 
-Through His death and resurrection, Jesus established a New Covenant—not a contract based on our performance, but a relationship based on His grace. In this covenant, God writes His law of love on our hearts through the Holy Spirit, enabling us to love as He loves.
+Through His life, death, and resurrection, Jesus established a New Covenant—not written on stone tablets but on human hearts (Jeremiah 31:33; Hebrews 8:10).⁹ This is God's law of love, which teaches us to live as He lives:
 
-This law of love is not a burden but a liberation. When we live according to God's design for human flourishing—when we order our loves properly, putting God first and loving all other things in relationship to Him—we discover the freedom, joy, and peace our hearts were made for.
-
-The law of love calls us to:
 - **Truth**: Seeing reality as God sees it and aligning our lives with what is genuinely good
 - **Justice**: Giving each person what they are owed according to their dignity as image-bearers of God
 - **Mercy**: Responding to human frailty with healing and forgiveness rather than condemnation
 - **Sacrifice**: Choosing the good of others over our own immediate gratification
-- **Covenant**: Building faithful, permanent relationships that reflect God's faithfulness to us
+- **Covenant**: Choosing to enter into God's New Covenant relationship with us
 - **Communion**: Growing in union with God and authentic fellowship with others
 
 ## The Sacraments: Grace for the Journey
 
-God knows that we cannot live this law of love by willpower alone. We need His grace—His own divine life shared with us—to transform our disordered hearts and enable us to love authentically. This is why Jesus gave us the sacraments: concrete encounters with His grace that heal, strengthen, and sanctify us.
+God knows that we cannot live this law of love by willpower alone. We need His grace—His own divine life shared with us—to transform our disordered hearts and enable us to love authentically. This is why Jesus gave us the sacraments: concrete encounters with His grace that heal, strengthen, and sanctify us.¹⁰
 
-**Baptism** makes us God's adopted children, washing away original sin and giving us new life in Christ. **Confirmation** strengthens us with the Holy Spirit for our mission to witness to God's love. **The Eucharist** feeds us with Christ's own Body and Blood, making us one with Him and with each other. **Reconciliation** restores us to friendship with God when we fall into sin. **Anointing of the Sick** unites our suffering with Christ's redemptive passion. **Matrimony** creates a covenant of love that images God's love for His people. **Holy Orders** provides shepherds to guide us and ministers to serve us with Christ's own authority.
+**Baptism** makes us God's adopted children and citizens of His Kingdom, washing away original sin and giving us new life in Christ. Through Baptism, we are brought into the Kingdom of God and become part of His royal priesthood. **Confirmation** strengthens us with the Holy Spirit for our mission to witness to God's love and advance His Kingdom on earth. **The Eucharist** feeds us with Christ's own Body and Blood, making us one with Him and with each other as we gather as the people of God's Kingdom. **Reconciliation** restores us to friendship with God and our place in His Kingdom when we fall into sin. **Anointing of the Sick** unites our suffering with Christ's redemptive passion, showing that even in illness we remain beloved citizens of His Kingdom. **Matrimony** creates a covenant of love that images God's love for His people and builds up the Kingdom through faithful families. **Holy Orders** provides shepherds to guide the people of God's Kingdom and ministers to serve us with Christ's own authority.
 
-Through the sacraments, God doesn't just tell us about His love—He gives us His love. He doesn't just forgive us from a distance—He comes to dwell within us. He doesn't just promise us eternal life—He begins to live that life in us right now.
+Through the sacraments, God doesn't just tell us about His love—He gives us His love. He doesn't just forgive us from a distance—He comes to dwell within us. He doesn't just promise us eternal life—He begins to live that life in us right now, making us active participants in His Kingdom.
 
-## The Call: Join Jesus in His Mission
+## The Promise: Perfect Love Forever in the Eternal Kingdom
 
-Here is where the Good News becomes personal and urgent: God's love is not just for you to receive passively, but for you to participate in actively. Once you accept and submit to His truth, you become a servant of His law of love, called to join Jesus in His mission for the salvation of the world.
+The Good News culminates in a promise that staggers the human heart: if you accept God's love and live in response to it, you will spend eternity in perfect communion with Perfect Love Himself in the fullness of His Kingdom.¹¹
 
-This is the most liberating truth of all: when you stop trying to save yourself and instead focus on loving God and serving His mission, you discover that your eternal destiny is secure in His hands. You no longer worry about whether you're good enough for heaven because you know that Jesus is good enough, and you are united to Him. You no longer fear death because you know that perfect love casts out fear (1 John 4:18).
+Heaven is not just a place but a relationship—eternal participation in the divine love that is the Trinity. As St. Paul teaches, "Now I know in part; then I shall know fully, even as I am fully known" (1 Corinthians 13:12). While we cannot fully comprehend what this eternal communion will be like, Scripture promises that "no eye has seen, nor ear heard, nor the heart of man conceived, what God has prepared for those who love him" (1 Corinthians 2:9). What we do know is that we will find in God the fulfillment of every authentic longing our heart has ever had. The Kingdom that begins here on earth will reach its perfect fulfillment when Christ comes again and makes all things new (Revelation 21:5).
 
-Instead, you wake up each day asking: "How can I love God today? How can I serve His mission? How can I be His hands and feet and voice in a world that desperately needs to know His love?"
-
-You become a living witness to the Good News—not perfect, but being perfected; not sinless, but forgiven; not self-sufficient, but dependent on grace; not earning God's love, but responding to the love He has already given you.
-
-## The Promise: Perfect Love Forever
-
-The Good News culminates in a promise that staggers the human heart: if you accept God's love and live in response to it, you will spend eternity in perfect communion with Perfect Love Himself.
-
-Heaven is not just a place but a relationship—eternal participation in the divine love that is the Trinity. You will know as you are known, love as you are loved, and find in God the fulfillment of every authentic longing your heart has ever had.
-
-But this eternal life begins now. Every time you choose truth over lies, justice over exploitation, mercy over revenge, sacrifice over selfishness, covenant over convenience, and communion over isolation, you are already living the life of heaven. Every time you receive the sacraments with faith, you are already tasting eternal life. Every time you love authentically, you are already participating in divine love.
+But this eternal life begins now. Every time you choose truth over lies, justice over exploitation, mercy over revenge, sacrifice over selfishness, covenant over convenience, and communion over isolation, you are already living the life of the Kingdom. Every time you receive the sacraments with faith, you are already tasting eternal life. Every time you love authentically, you are already participating in divine love.
 
 ## The Response: Gratitude, Humility, and Love
 
@@ -120,6 +114,18 @@ You submit to His truth, not as a burden but as liberation from the lies that en
 You enter into covenant with Him, not as a contract but as a relationship of trust. You seek communion with Him, not as an obligation but as the deepest desire of your heart.
 
 And in doing so, you become what you were always meant to be: a beloved child of God, living in freedom, growing in holiness, and sharing in the eternal love that is the source and destiny of all creation.
+
+## The Call: Join Jesus in His Mission for the Kingdom
+
+Here is where the Good News becomes personal and urgent: God's love is not just for you to receive passively, but for you to participate in actively. Once you accept and submit to His truth, you become a citizen of His Kingdom, called to join Jesus in His mission for the salvation of the world and the transformation of this present age. As St. Paul teaches, this is the "law of Christ" (Galatians 6:2)—not a burden of rules but the liberating power of love that fulfills all righteousness and enables us to "bear one another's burdens."
+
+The Kingdom of God is both a present reality and a future hope. Jesus reigns now, and we are called to live as His people, showing the world what life looks like when God is truly King. This means working for justice, practicing mercy, speaking truth, making sacrifices for others, keeping our commitments, and building authentic community—not as a way to earn salvation, but as the natural fruit of hearts that have been transformed by divine love.
+
+This is the most liberating truth of all: when you stop trying to save yourself and instead focus on loving God and serving His Kingdom mission, you discover that your eternal destiny is secure in His hands. You no longer worry about whether you're good enough for heaven because you know that Jesus is good enough, and you are united to Him. You no longer fear death because you know that perfect love casts out fear (1 John 4:18).
+
+Instead, you wake up each day asking: "How can I love God today? How can I serve His Kingdom? How can I be His hands and feet and voice in a world that desperately needs to know His love?"
+
+You become a living witness to the Good News—not perfect, but being perfected; not sinless, but forgiven; not self-sufficient, but dependent on grace; not earning God's love, but responding to the love He has already given you.
 
 ## Living the Response
 
@@ -170,26 +176,34 @@ And in doing so, you become what you were always meant to be: a beloved child of
 
 ---
 
-## For Further Study
+## A Final Word
 
-The Good News of God's perfect love is inexhaustible. The Church provides abundant resources for growing in understanding and living this love more fully:
+This book is the culmination of 35 years of living life as someone committed to understanding what the Bible says when it mentions "God is Love".  I pray that in reading this book, you have heard the Word of God made flesh, and that you have been transformed by the love of God and that you will join Jesus in His mission for the salvation of the world.
 
-**Scripture:**
-- John 3:16-17 (God's love for the world)
-- Romans 5:6-11 (Christ died for us while we were still sinners)
-- Ephesians 2:4-10 (Saved by grace through faith)
-- 1 John 4:7-21 (God is love)
-- Romans 8:31-39 (Nothing can separate us from God's love)
+---
 
-**Catechism:**
-- CCC 1-3 (God's plan of love)
-- CCC 422-682 (The mystery of Christ)
-- CCC 1996-2005 (Justification)
-- CCC 2558-2565 (Prayer as response to God's love)
+## Footnotes
 
-**Saints:**
-- **St. Paul:** Transformed from persecutor to apostle by encountering Christ's love
-- **St. Augustine:** "You have made us for yourself, O Lord, and our hearts are restless until they rest in you"
-- **St. Thérèse of Lisieux:** The "little way" of complete trust in God's mercy
-- **St. John Paul II:** "Man cannot live without love"
-- **St. Teresa of Calcutta:** Serving the poorest as a response to God's love
+¹ *Catechism of the Catholic Church* (CCC) 253-267. See also Pope Benedict XVI, *Deus Caritas Est* §§7-8.
+
+² CCC 385-421. See also Pope John Paul II, *Reconciliatio et Paenitentia* §14.
+
+³ CCC 456-478. See also Vatican II, *Dei Verbum* §4.
+
+⁴ CCC 541-556. For deeper study: Pope Benedict XVI, *Jesus of Nazareth* Vol. 1, Ch. 3; Vatican II, *Lumen Gentium* §5.
+
+⁵ CCC 608-609, 1340. For deeper study: Pope Benedict XVI, *Sacramentum Caritatis* §§9-11.
+
+⁶ CCC 599-618. For deeper study: Pope Benedict XVI, *Spe Salvi* §§39-40; St. Anselm, *Cur Deus Homo*.
+
+⁷ CCC 638-658. For deeper study: Pope Benedict XVI, *Jesus of Nazareth: Holy Week* Ch. 9.
+
+⁸ CCC 638. See also Pope John Paul II, *Redemptor Hominis* §18-19.
+
+⁹ CCC 715-716, 762. See also Pope John Paul II, *Redemptoris Missio* §12-14.
+
+¹⁰ CCC 1113-1134. See also Vatican II, *Sacrosanctum Concilium* §§5-6; Pope John Paul II, *Ecclesia de Eucharistia* §§16-20.
+
+¹¹ CCC 1023-1029. See also Pope Benedict XVI, *Spe Salvi* §§10-12; Vatican II, *Lumen Gentium* §§48-51.
+
+¹² CCC 2816-2821. For deeper study: Pope Benedict XVI, *Jesus of Nazareth* Vol. 1, Ch. 3; Vatican II, *Lumen Gentium* §§5, 48.

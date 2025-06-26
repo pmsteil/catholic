@@ -90,17 +90,17 @@ These Old Testament covenants establish the pattern that all authentic covenant 
 
 ## The New Covenant in Christ: The Fulfillment
 
-The New Covenant established by Jesus Christ is the fulfillment of all previous covenants. At the Last Supper, Jesus declared: *"This cup that is poured out for you is the new covenant in my blood"* (Luke 22:20). Through His death and resurrection, Christ established a covenant of perfect justice and perfect mercy:
+The New Covenant established by Jesus Christ is the fulfillment of all previous covenants and the foundation of His Kingdom on earth. At the Last Supper, Jesus declared: *"This cup that is poured out for you is the new covenant in my blood"* (Luke 22:20). Through His death and resurrection, Christ established a covenant of perfect justice and perfect mercy, creating a Kingdom where God reigns and His people participate actively in divine life.
 
 **Perfect Justice:** Christ satisfied all the demands of justice for our sins: *"He himself bore our sins in his body on the tree"* (1 Peter 2:24). The justice we explored in Chapter 3 finds its ultimate expression here—Christ gives to God what is truly due (perfect obedience) and gives to humanity what we truly need (redemption from sin).
-
-**Perfect Mercy:** Christ offers forgiveness to all who turn to Him: *"If we confess our sins, he is faithful and just to forgive us our sins"* (1 John 1:9). The mercy we explored in Chapter 4 reaches its pinnacle here—God's compassion overcomes our rebellion and offers healing to the broken.
-
-**Perfect Truth:** Christ reveals the ultimate truth about God and humanity—that God is love and we are worth dying for. The truth we explored in Chapter 5 is fully revealed in the Cross, where we see both the depth of human sin and the height of divine love.
 
 **Perfect Sacrifice:** Christ makes the ultimate sacrifice, laying down His life for His friends. The sacrifice we explored in Chapter 6 finds its perfect expression here—love proven not by words but by the complete gift of self unto death.
 
 **Perfect Covenant:** This New Covenant transforms us to live covenant love: *"I will put my laws on their hearts, and write them on their minds"* (Hebrews 10:16). All the previous facets of love come together in the permanent bond that unites us to God forever.
+
+**Perfect Mercy:** Christ offers complete forgiveness and healing to all who enter His covenant. The mercy we explored in Chapter 4 reaches its fullness here—not just pardoning our sins but transforming our hearts and making us citizens of His Kingdom.
+
+When we enter into the New Covenant through Baptism, we become not just forgiven individuals but citizens of God's Kingdom, called to live covenant relationships that reflect and build up His reign on earth. Every covenant relationship—marriage, religious life, friendship, family bonds—becomes a way of participating in and advancing God's Kingdom.
 
 As the Letter to the Hebrews explains: *"Therefore he is the mediator of a new covenant, so that those who are called may receive the promised eternal inheritance"* (Hebrews 9:15). This New Covenant becomes the model for all human covenant relationships, especially marriage and family. Just as Christ's love for the Church is permanent, exclusive, fruitful, and sacrificial, so human covenant love must embody these same characteristics.
 
@@ -121,6 +121,8 @@ The evil of disposable relationships manifests in:
 Covenant love overcomes these evils by creating the permanent bonds that enable authentic communion—with God, with others, and within ourselves. It proves that love is stronger than selfishness, that commitment is more powerful than convenience, and that permanent relationships are the foundation of human flourishing.
 
 ## God's Initiative: The Foundation of All Covenant Love
+
+But how do we find the strength to live such demanding love? The answer lies in understanding the source of all covenant love.
 
 Here we discover the most beautiful truth of all: **God loved us first**. Before we ever thought to seek God, He sought us. Before we knew what love meant, He loved us into existence. Before we could choose Him, He chose us. As St. John declares: *"In this is love, not that we loved God but that he loved us and sent his Son to be the propitiation for our sins"* (1 John 4:10).
 
@@ -168,7 +170,7 @@ Covenant love calls us to radical commitment in a culture that worships options 
 
 **Daily Examination:** Each evening, ask yourself: "How did I live covenant love today? Where did I choose commitment over convenience? How can I grow in faithfulness tomorrow?"
 
-*Lord Jesus Christ, You are the perfect covenant keeper, establishing the New Covenant through Your death and resurrection. Thank You for calling us into covenant relationship with You and showing us the pattern of permanent, faithful love. Grant us the grace to live covenant love in all our relationships—permanent, faithful, and ordered toward life-giving communion. When we fail in our covenant commitments, remind us that Your love endures forever. Help us to break cycles of broken love and create legacies of authentic covenant love for the salvation of the world. Through the same Christ our Lord. Amen.*
+*Lord Jesus Christ, You are the perfect covenant keeper, establishing the New Covenant through Your death and resurrection. Thank You for calling us into covenant relationship with You and showing us the pattern of permanent, faithful love. Grant us the grace to live covenant love in all our relationships—permanent, faithful, and ordered toward life-giving communion. When we fail in our covenant commitments, remind us that Your love endures forever. Help us to break cycles of broken love and create legacies of authentic covenant love for the salvation of the world and the building up of Your Kingdom. Through the same Christ our Lord. Amen.*
 
 ## Examen: Covenant Love
 
