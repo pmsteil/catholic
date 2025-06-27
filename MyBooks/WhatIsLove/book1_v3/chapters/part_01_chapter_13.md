@@ -1,4 +1,4 @@
-# Chapter 13: The Good News is God's Perfect Love
+# Chapter 13: The "Gospel" (Good News) is God's Perfect Love
 
 > "God is love, and whoever remains in love remains in God and God in him."
 > — 1 John 4:16
@@ -184,7 +184,11 @@ You become a living witness to the Good News—not perfect, but being perfected;
 
 ## A Final Word
 
-This book is the culmination of 35 years of living life as someone committed to understanding what the Bible says when it mentions "God is Love".  I pray that in reading this book, you have heard the Word of God made flesh, and that you have been transformed by the love of God and that you will join Jesus in His mission for the salvation of the world.
+This book is the culmination of 35 years of living life as someone committed to understanding what the Bible says when it mentions "God is Love".  I pray that in reading this book, you have heard the Word of God made flesh, and that you have been transformed by the love of God, and that your heart now burns with desire to become one with Jesus in His Body and Blood, Soul and Divinity—united to Him in every way possible, as He is united to the Father.
+
+May you go forth as His beloved servant of love, carrying His perfect and true love to a world dying for truth, justice, mercy, and sacrifice until all hearts are set aflame with the fire of divine charity and every soul finds its ultimate Communion in Perfect Love Himself.
+
+Amen.
 
 ---
 
@@ -211,5 +215,3 @@ This book is the culmination of 35 years of living life as someone committed to 
 ¹⁰ CCC 1113-1134. See also Vatican II, *Sacrosanctum Concilium* §§5-6; Pope John Paul II, *Ecclesia de Eucharistia* §§16-20.
 
 ¹¹ CCC 1023-1029. See also Pope Benedict XVI, *Spe Salvi* §§10-12; Vatican II, *Lumen Gentium* §§48-51.
-
-¹² CCC 2816-2821. For deeper study: Pope Benedict XVI, *Jesus of Nazareth* Vol. 1, Ch. 3; Vatican II, *Lumen Gentium* §§5, 48.
