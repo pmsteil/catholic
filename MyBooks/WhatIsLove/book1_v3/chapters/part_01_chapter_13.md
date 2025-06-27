@@ -44,11 +44,17 @@ Worse, when we make lesser things into ultimate things, we inevitably hurt other
 
 This is why evil exists in the world: not because God created it, but because rational creatures with free will choose lesser goods over the Supreme Good, and these disordered choices create suffering for themselves and others.
 
+But here's the crucial insight: if the problem is disordered loves—hearts that seek ultimate satisfaction in things that cannot provide it—then the solution must be the reordering of our loves toward their proper end. Since we were created for relationship with God Himself, only God can satisfy the deepest longings of our hearts. Only Perfect Love can heal hearts enslaved to imperfect loves. Only the Supreme Good can free us from the tyranny of lesser goods that promise everything but deliver emptiness.
+
+This is precisely why human solutions to evil always fall short. Political systems cannot change hearts. Education cannot reorder loves. Therapy cannot heal the fundamental disorder of seeking our ultimate good in created things rather than the Creator. Even religion, if it becomes merely human effort to reach God, becomes another lesser good that enslaves rather than liberates.
+
+The solution had to come from God Himself—not as external force or mere teaching, but as the personal presence of Perfect Love entering our disordered world to heal us from within. And this is exactly what He did: He became incarnate, lived among us, fulfilled the Old Covenant on the Cross as the new Passover Lamb, rose from the dead, established His priesthood, gave us the Sacrament of Holy Communion in the Mass, founded His Church to guide us, gave us the sacraments to heal and strengthen us, left us His Word in Scripture, and provided the saints to show us what transformed love looks like in real life.
+
 ## The Solution: God's Perfect Love Incarnate
 
 But God did not abandon us to our slavery. In the fullness of time, Perfect Love Himself entered human history. The eternal Son of God became man—Jesus Christ, true God and true man—to rescue us and restore us to the relationship we were created for.³
 
-Jesus came proclaiming the Kingdom of God—not as a distant future reality, but as a present earthly Kingdom where God reigns and His people participate actively in His divine life.⁴ Through His incarnation, Jesus shows us that God cares deeply about our earthly life and calls us to live the Kingdom life here and now, transforming this world through divine love.
+Jesus came proclaiming the Kingdom of God (a Kingdom where God's Love reigns) —not as a distant future reality, but as a present earthly Kingdom where God reigns and His people participate actively in His divine life.⁴ Through His incarnation, Jesus shows us that God cares deeply about our earthly life and calls us to live the Kingdom life here and now, transforming this world through divine love.
 
 Jesus Christ is perfect love incarnate. In His life, He showed us what authentic love looks like: truth spoken with compassion, justice tempered with mercy, sacrifice offered freely, covenant faithfulness maintained even unto death. He lived the perfect integration of body, mind, and soul—fully human yet without sin.
 
@@ -78,14 +84,14 @@ This is not just restorative love—bringing us back to where we were—but crea
 
 ## The New Covenant: God's Law of Love
 
-Through His life, death, and resurrection, Jesus established a New Covenant—not written on stone tablets but on human hearts (Jeremiah 31:33; Hebrews 8:10).⁹ This is God's law of love, which teaches us to live as He lives:
+Through His life, death, and resurrection, Jesus established a New Covenant—not written on stone tablets but on human hearts (Jeremiah 31:33; Hebrews 8:10).⁹ This is God's law of love, which teaches us to live the same perfect love we defined earlier: **the sacred, sacrificial gift of covenant which binds true justice and true mercy into life-giving communion.** Here's how each aspect of this definition becomes lived reality:
 
-- **Truth**: Seeing reality as God sees it and aligning our lives with what is genuinely good
-- **Justice**: Giving each person what they are owed according to their dignity as image-bearers of God
-- **Mercy**: Responding to human frailty with healing and forgiveness rather than condemnation
-- **Sacrifice**: Choosing the good of others over our own immediate gratification
-- **Covenant**: Choosing to enter into God's New Covenant relationship with us
-- **Communion**: Growing in union with God and authentic fellowship with others
+- **Truth**: Seeing reality as God sees it and aligning our lives with what is genuinely good *(the sacred foundation)*
+- **Justice**: Giving each person what they are owed according to their dignity as image-bearers of God *(true justice)*
+- **Mercy**: Responding to human frailty with healing and forgiveness rather than condemnation *(true mercy)*
+- **Sacrifice**: Choosing the good of others over our own immediate gratification *(the sacrificial gift)*
+- **Covenant**: Choosing to enter into God's New Covenant relationship with us *(covenant which binds)*
+- **Life Giving Communion**: Growing in union with God and authentic fellowship with others *(life-giving communion)*
 
 ## The Sacraments: Grace for the Journey
 
@@ -101,7 +107,7 @@ The Good News culminates in a promise that staggers the human heart: if you acce
 
 Heaven is not just a place but a relationship—eternal participation in the divine love that is the Trinity. As St. Paul teaches, "Now I know in part; then I shall know fully, even as I am fully known" (1 Corinthians 13:12). While we cannot fully comprehend what this eternal communion will be like, Scripture promises that "no eye has seen, nor ear heard, nor the heart of man conceived, what God has prepared for those who love him" (1 Corinthians 2:9). What we do know is that we will find in God the fulfillment of every authentic longing our heart has ever had. The Kingdom that begins here on earth will reach its perfect fulfillment when Christ comes again and makes all things new (Revelation 21:5).
 
-But this eternal life begins now. Every time you choose truth over lies, justice over exploitation, mercy over revenge, sacrifice over selfishness, covenant over convenience, and communion over isolation, you are already living the life of the Kingdom. Every time you receive the sacraments with faith, you are already tasting eternal life. Every time you love authentically, you are already participating in divine love.
+This eternal life begins now, not as a future reward we earn, but as a present reality we receive through grace. When you choose truth over lies, justice over exploitation, mercy over revenge, sacrifice over selfishness, covenant over convenience, and communion over isolation, you are living the very definition of perfect love we established at the beginning of this book. When you receive the sacraments with faith, you are receiving Christ Himself. When you love authentically, you are participating in the divine nature (2 Peter 1:4).
 
 ## The Response: Gratitude, Humility, and Love
 
@@ -123,7 +129,7 @@ The Kingdom of God is both a present reality and a future hope. Jesus reigns now
 
 This is the most liberating truth of all: when you stop trying to save yourself and instead focus on loving God and serving His Kingdom mission, you discover that your eternal destiny is secure in His hands. You no longer worry about whether you're good enough for heaven because you know that Jesus is good enough, and you are united to Him. You no longer fear death because you know that perfect love casts out fear (1 John 4:18).
 
-Instead, you wake up each day asking: "How can I love God today? How can I serve His Kingdom? How can I be His hands and feet and voice in a world that desperately needs to know His love?"
+Instead, you wake up each day asking: "How can I love God today? How can I serve His mission? How can I be His hands and feet and voice in a world that desperately needs to know His love?"
 
 You become a living witness to the Good News—not perfect, but being perfected; not sinless, but forgiven; not self-sufficient, but dependent on grace; not earning God's love, but responding to the love He has already given you.
 
