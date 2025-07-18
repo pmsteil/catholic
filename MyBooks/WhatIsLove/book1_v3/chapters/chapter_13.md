@@ -139,7 +139,7 @@ You become a living witness to the Good News—not perfect, but being perfected;
 
 If this call is what some mean when they say we are saved by "faith alone," then Amen. But as we have seen, when we truly trust God, we don't trust in a belief about Him—we trust Him completely. We trust Him with our whole heart, our whole being, our whole strength, and our whole mind. We trust Him to guide us, to teach us, to transform us, and to lead us to eternal life.
 
-This is the complete Gospel our hearts were made for. And so we devote our entire life—body, mind, and soul—to being His disciples, servants of His love, and saints in the making.
+This is the complete Gospel our hearts were made for. And so when we understand this, we have no other choice but to devote our entire life—body, mind, and soul—to being His disciples, servants of His love, and saints in the making.
 
 ## Living the Response
 

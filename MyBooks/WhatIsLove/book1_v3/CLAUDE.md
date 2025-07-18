@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-This is a Catholic devotional book project titled "What Is Love?" - a comprehensive exploration of authentic love as the Catholic answer to the problem of evil. The project is structured as a multi-part book covering various facets of love, virtues, and spiritual development from a Catholic perspective.
+This is a Catholic devotional book project titled "What Is Love?, God's Perfect Love" - a comprehensive exploration of authentic love as the Catholic answer to the problem of evil. The project is structured as a multi-part book covering various facets of love, virtues, and spiritual development from a Catholic perspective.
 
 ## Project Structure
 
@@ -12,7 +12,7 @@ This is a Catholic devotional book project titled "What Is Love?" - a comprehens
 - **Outline Files**: Multiple outline files for different parts and chapters (e.g., `book1_v3_outline.md`, `book1_v3_outline_part_01.md`, etc.)
 - **Chapter Files**: Individual chapter markdown files (e.g., `01_Chapter_01.md`)
 - **Outlines Subdirectory**: `/outlines/` - Contains detailed chapter outlines and part summaries
-- **Reference Materials**: 
+- **Reference Materials**:
   - `write-book-prompt-v3.md` - Master writing guidelines and workflow
   - `book1-blogpost-for-catholics.md` - Writing style reference
 
