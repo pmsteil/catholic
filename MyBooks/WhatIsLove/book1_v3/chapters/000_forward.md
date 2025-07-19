@@ -27,6 +27,7 @@ I came to know, love and serve Jesus from my list of saints, most notably:
         - Tim Staples
         - Trent Horn
         - Joe Heschmeyer
+
 There is not a single idea or principle that I created or came up with for this book.
 
 I was taught by the Church (all of those above) and God gave me a desire to enjoy organizing facts and synthesizing them.
@@ -70,6 +71,6 @@ And to the problem of evil the Catechism tells us how to solve it!
 
 Wow!  If the Catholic Faith cannot triumph over evil, then is it truly "good"?
 
-Let use begin our deep dive into God's Perfect Love.
+Let use begin our deep dive into God's Perfect Love, His answer to Evil, and the full Salvation that he offers us through the Incarnation of his Son, the Redemption of his Blood, and the Gift of his Spirit.
 
 ** Technical note: I also did not create the incredible AI tools that assisted me in researching, writing and editing this book. This book is all based on the Church's teachings and the Holy Spirit's inspiration, but AI helped accelerate the process of writing this book and making sure the book is faithful to the Church's teachings and the Holy Spirit's inspiration. **
