@@ -3,7 +3,7 @@
 *"We know that all creation is groaning in labor pains even until now."*
 — Romans 8:22
 
-*"If God the Father almighty, the Creator of the ordered and good world, cares for all his creatures, why does evil exist?"*
+*"If God the Father almighty, the Creator of the ordered and good world, cares for all his creatures, why does evil exist? To this question, as pressing as it is unavoidable and as painful as it is mysterious, no quick answer will suffice. Only Christian faith as a whole constitutes the answer to this question: the goodness of creation, the drama of sin and the patient love of God who comes to meet man by his covenants, the redemptive Incarnation of his Son, his gift of the Spirit, his gathering of the Church, the power of the sacraments and his call to a blessed life to which free creatures are invited to consent in advance, but from which, by a terrible mystery, they can also turn away in advance. There is not a single aspect of the Christian message that is not in part an answer to the question of evil."*
 — Catechism of the Catholic Church 309
 
 ---
@@ -14,7 +14,7 @@ There's a sound that echoes through every generation, in every culture, across e
 
 ## The Reality Children See Clearly
 
-Watch a five-year-old witness an act of cruelty, and you'll see something remarkable: immediate, instinctive moral clarity. They don't need a philosophy course to know that hurting someone innocent is wrong. This childlike moral clarity reflects the **natural law written on every human heart**. As the Second Vatican Council teaches, "Deep within his conscience man discovers a law which he has not laid upon himself but which he must obey. Its voice, ever calling him to love and to do what is good and to avoid evil, sounds in his heart at the right moment" (*Gaudium et Spes* 16).
+Watch a five-year-old witness an act of cruelty, and you'll see something remarkable: immediate, instinctive moral clarity. They don't need a philosophy course to know that hurting someone innocent is wrong. This childlike moral clarity reflects the **natural law written on every human heart** (Romans 2:15). As the Second Vatican Council teaches, "Deep within his conscience man discovers a law which he has not laid upon himself but which he must obey. Its voice, ever calling him to love and to do what is good and to avoid evil, sounds in his heart at the right moment" (*Gaudium et Spes* 16).
 
 ## The Nature and Scope of Moral Evil
 
@@ -34,7 +34,15 @@ This brings us to the heart of the Catholic teaching on sin—and to the heart o
 
 **The Pattern of Sin vs. Love**
 
-At its core, sin is choosing our own good at the expense of others, while love chooses the good of others at our own expense. This is why sin inevitably produces evil—it creates harm by prioritizing self over others—while love produces healing by choosing sacrifice for others' benefit. We will explore this sacrificial nature of love more deeply in Chapter 6.
+As I contemplated St. Augustine's description that love is willing the good of another and thinking deeply over sin and love, I discovered these ways of describing what happens we when we choose sin over love.
+
+> Love is an action we take which chooses the good of others at our expense.
+
+> Sin (or evil) is an action that we take which chooses a perceived good for ourselves at the expense of others.
+
+And note the use of "the good" vs "a perceived good". True love always chooses (at least our best understanding) of what is "truly good" for the other.  Sin often chooses what we perceive to be good for ourselves, but usually it is a distorted or false understanding of what is good for us.  It violates the definition of love in some way - usually it is not based on truth, or is not just in some way, or it is not merciful or sacrificial in some way, etc.
+
+This is why sin inevitably produces evil—it creates harm by prioritizing self over others—while love produces healing by choosing sacrifice for others' benefit.
 
 Every evil we see in our world—every act of violence, every betrayal, every injustice, every cruelty—can be traced back to this fundamental reality: human hearts choosing sin over love. This is why the problem of evil is ultimately a problem of the human heart.
 
@@ -43,30 +51,53 @@ Consider these concrete examples:
 - **Abortion** takes innocent life when people choose convenience over love for the vulnerable
 - **Child abuse** happens when someone chooses their own disordered desires over love for the innocent
 - **Adultery** destroys families when spouses choose selfish pleasure over covenant love
-- **Pornography** destroys marriages when spouses choose fantasy over love for their actual partner
+- **Pornography** destroys the bonds of marriage (current or future) when spouses choose fantasy and self-pleasure over unity with their actual spouse (or even future spouse)
 - **Divorce** breaks covenant bonds when spouses choose personal happiness over sacrificial love
 - **Gender ideology** confuses children when adults choose political correctness over love for truth and child welfare
 
-In every case, the evil flows from a human heart that had a choice: love God, neighbor, and authentic good—or choose self, sin, and what appears immediately gratifying. The heart that chooses sin always produces some form of evil, while the heart that chooses love always works toward healing and restoration.
+In every case, evil flows from a human heart that made a choice: either love God and neighbor, seeking their authentic good, or choose self, sin, and what appears immediately gratifying.
+
+## Sin: The Root of All Evil
 
 > *"Sin is not just a psychological weakness... It is something much more serious: it is a mystery of iniquity that affects the very heart of human existence."*
 > — Pope John Paul II, *Reconciliatio et Paenitentia* 15
 
-**Sin as the Rejection of Love:** Every sin, whether it seems "small" or "great," is fundamentally a choice to reject authentic love—love of God, love of neighbor, or proper love of self. When we sin, we choose our own will over God's will, our own desires over the good of others, our own immediate gratification over what is truly good for us.
+**What is Sin?** The Catechism teaches us that "sin is an offense against reason, truth, and right conscience; it is failure in genuine love for God and neighbor caused by a perverse attachment to certain goods" (CCC 1849). Every sin, whether it seems "small" or "great," is fundamentally a *choice* to reject authentic love—love of God, love of neighbor, or proper love of self.
 
-**Sin as the Source of Evil:** All moral evil flows from sin. Personal evil comes from individual sins; relational evil comes from sins against covenant bonds; social evil comes from collective sins that become embedded in systems and cultures; spiritual evil comes from the fundamental sin of rejecting God Himself.
+**What is Evil?** Evil, by contrast, is not a choice but the *consequence* of sinful choices. As St. Augustine taught, evil is not a substance but a privation of good—it exists only as a corruption or absence of the good that should be there. Evil has no power on its own; it is always the result of someone choosing to reject love.
+
+**How Sin Creates Evil:** When we sin, we choose our own will over God's will, our own desires over the good of others, our own immediate gratification over what is truly good for us. These sinful choices then produce evil consequences:
+
+- **Personal evil** comes from individual sins that further wound our own souls
+- **Relational evil** comes from sins against covenant bonds that break families and friendships
+- **Social evil** comes from collective sins that become embedded in systems and cultures
+- **Spiritual evil** comes from the fundamental sin of rejecting God Himself
 
 > *"Original sin is the 'reverse side' of the Good News that Jesus is the Savior of all men, that all need salvation and that salvation is offered to all through Christ."*
 > — Catechism of the Catholic Church 389
 
-**Sin as Opposition to Our Nature:** Because we are created in the image of God and made for love, sin is always a choice against our own deepest nature. It promises happiness but delivers misery, promises freedom but delivers slavery, promises life but delivers death. This is why sin always leads to some form of evil—it is inherently destructive of the good.
+**Why Sin Always Produces Evil:** Because we are created in the image of God and made for love, sin is always a choice against our own deepest nature. It promises happiness but delivers misery, promises freedom but delivers slavery, promises life but delivers death. The consequences of our sinful choices are devastatingly real: waves of pain, broken relationships, and cycles of suffering that ripple outward from every choice to reject love.
 
-**The Gravity of Sin:** Understanding sin in this way helps us see why the Church takes sin so seriously. It's not because God is a harsh judge looking to condemn us, but because sin literally destroys what we are made for—love, communion, happiness, peace. Every sin, no matter how "small" it may seem, contributes to the ocean of evil that drowns our world in suffering.
+**The Gravity of Our Choices:** Understanding this relationship between sin and evil helps us see why the Church takes sin so seriously. It's not because God is a harsh judge looking to condemn us, but because sin literally destroys what we are made for—love, communion, happiness, peace. Every sin, no matter how "small" it may seem, contributes to the ocean of evil that drowns our world in suffering.
 
 > *"Sin is before all else an offense against God, a rupture of communion with him. At the same time it damages communion with the Church."*
 > — Catechism of the Catholic Church 1440
 
-**The Need for a Savior:** This comprehensive understanding of sin also reveals why we desperately need Jesus Christ. We cannot simply "try harder" to be good people. Sin has wounded our nature so deeply that we need divine grace to heal us and divine love to transform us. Only perfect love can overcome the evil that flows from sin.
+Every sin is a public sin, a sin against the entire Body of Christ.
+
+**What We Really Need:** This comprehensive understanding reveals the depth of our human predicament. We cannot simply "try harder" to be good people. Sin has wounded our nature so deeply that we need:
+
+- A **perfect lawgiver** who can show us what authentic love truly looks like
+- A **perfect teacher** who can instruct us in the way of love without error or self-interest
+- Someone who can show us the **extent and fullness of God's perfect truth, justice, and mercy**
+- Someone who **understands us completely**—our struggles, our weaknesses, our deepest longings
+- Someone we can **relate to**—who has experienced what we experience, yet without sin
+- **Divine grace** to heal our wounded nature and transform our hearts
+- **Perfect love** to overcome the evil that flows from our sinful choices
+
+If only God had sent us someone who could be all of these things!
+
+**The Answer: Jesus Christ:** But this is exactly what God did! In the Incarnation, God the Son became man—fully divine and fully human. Jesus Christ is the perfect lawgiver ("I am the Way, the Truth, and the Life"), the perfect teacher ("Learn from me, for I am gentle and humble of heart"), the one who reveals the fullness of God's truth, justice, and mercy ("Whoever has seen me has seen the Father"), the one who understands us completely ("He was tempted in every way that we are, yet never sinned"), and the one we can relate to ("The Word became flesh and dwelt among us"). Only perfect love—God's own love incarnate—can overcome the evil that flows from sin by transforming the hearts where sinful choices are made.
 
 ## Why Human Solutions Fall Short
 
