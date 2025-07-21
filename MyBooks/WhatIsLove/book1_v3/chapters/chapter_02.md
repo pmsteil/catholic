@@ -106,8 +106,9 @@ As we saw in Chapter 1, sin chooses our own good at the expense of others, while
 
 Through careful study of Scripture and the Church's teaching on love, we can see that perfect love cannot be reduced to a single dimension. It must integrate all the essential elements that Scripture and the Church reveal about love's nature. Here is the definition that will guide our entire journey:
 
-> **Perfect love is the sacred, sacrificial gift of covenant which binds
-> true justice and true mercy into life-giving communion.**
+> **The sacred, sacrificial gift of covenant**
+> — *binding truth, justice, and mercy* —
+> — *gathering us into life-giving communion* —
 
 Let's understand what "perfect" means here. Perfect doesn't mean flawless performance or earning God's love through our efforts. Rather, perfect means *complete* and *integrated*—love that includes all its essential facets working in harmony. Jesus calls us to this perfection: "Be perfect, therefore, as your heavenly Father is perfect" (Matthew 5:48). This is possible not through human effort alone, but through grace that transforms us and through understanding the comprehensive definition of love that the Church has given us.
 
@@ -178,7 +179,7 @@ Similarly, when the Church teaches about marriage, family, sexuality, or relatio
 
 In these first two chapters, we have laid a crucial foundation: the fundamental problem facing humanity is the evil in man's heart, and filling the heart with love is the answer to that problem. We've seen that this isn't just theological theory but corresponds to the deepest cry of every human heart and the natural understanding that even children possess.
 
-Our comprehensive definition—perfect love as "the sacred, sacrificial gift of covenant which binds true justice and true mercy into life-giving communion"—now serves as our roadmap for the entire journey ahead. Every subsequent chapter will unpack one aspect of this definition, showing in detail how each facet of authentic love directly combats specific forms of evil in our hearts and in the world.
+Our comprehensive definition—perfect love as "the sacred, sacrificial gift of covenant, binding truth, justice, and mercy, gathering us into life-giving communion"—now serves as our roadmap for the entire journey ahead. Every subsequent chapter will unpack one aspect of this definition, showing in detail how each facet of authentic love directly combats specific forms of evil in our hearts and in the world.
 
 At every step, we will see how perfect love—integrating all these elements—is not just a beautiful ideal but the practical, powerful answer to evil that the world desperately needs. Through the Catholic Faith, we have access to the fullness of this love, and through living it authentically, we become agents of the world's salvation.
 

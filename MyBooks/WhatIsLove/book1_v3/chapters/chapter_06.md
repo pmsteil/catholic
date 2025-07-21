@@ -238,7 +238,7 @@ The Eucharist teaches us that sacrifice is not about destruction but transformat
 
 ## How Sacrifice Serves Perfect Love
 
-Sacrifice is not opposed to love—it is love's most authentic expression. Our comprehensive definition reveals this clearly: "Perfect love is the sacred, sacrificial gift of covenant which binds true justice and true mercy into life-giving communion."
+Sacrifice is not opposed to love—it is love's most authentic expression. Our comprehensive definition reveals this clearly: "Perfect love is the sacred, sacrificial gift of covenant, binding truth, justice, and mercy, gathering us into life-giving communion."
 
 **Sacred Sacrifice:** Love must be grounded in sacred sacrifice that mirrors God's own self-giving nature. This provides the sacred authenticity that prevents love from becoming mere sentiment or self-serving emotion.
 

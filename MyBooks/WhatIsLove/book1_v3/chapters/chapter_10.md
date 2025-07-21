@@ -19,7 +19,7 @@
 
 ## The Night Everything Changed
 
-The Cross did not begin on Good Friday. It began the night before, in an upper room in Jerusalem, when Jesus gathered His disciples for what would become the most important meal in human history. There, at the Last Supper, Jesus began to reveal the full meaning of everything we have been exploring about perfect love. Through His entire Passion—the Last Supper, His death, burial, resurrection, and ascension—He showed His disciples and us exactly how the sacred, sacrificial gift of covenant love would bind true justice and true mercy into life-giving communion.
+The Cross did not begin on Good Friday. It began the night before, in an upper room in Jerusalem, when Jesus gathered His disciples for what would become the most important meal in human history. There, at the Last Supper, Jesus began to reveal the full meaning of everything we have been exploring about perfect love. Through His entire Passion—the Last Supper, His death, burial, resurrection, and ascension—He showed His disciples and us exactly how the sacred, sacrificial gift of covenant love would bind truth, justice, and mercy, gathering us into life-giving communion.
 
 That night, Jesus did something that seemed impossible: He made His future sacrifice on the Cross present to His disciples before it even happened. He took bread and wine and said: *"This is my body, which is given for you... This cup that is poured out for you is the new covenant in my blood"* (Luke 22:19-20). In that moment, Jesus established the Eucharist—the way His perfect love would remain present with us always.
 
@@ -29,7 +29,7 @@ But to understand why Jesus chose this particular night, this particular meal, a
 
 When Jesus said, *"Do not think that I have come to abolish the Law or the Prophets; I have not come to abolish them but to fulfill them"* (Matthew 5:17), He was revealing something profound about love. Everything in the Old Testament—every law, every prophecy, every story—was ultimately about love. As Jesus later explained, *"All the Law and the Prophets hang on these two commandments"*: love God with all your heart, soul, and mind, and love your neighbor as yourself (Matthew 22:40).
 
-The perfect love we have been defining throughout this book—the sacred, sacrificial gift of covenant which binds true justice and true mercy into life-giving communion—this is what the entire Old Testament was pointing toward. Every sacrifice, every covenant, every act of justice and mercy was preparing humanity to recognize and receive this perfect love when it appeared.
+The perfect love we have been defining throughout this book—the sacred, sacrificial gift of covenant, binding truth, justice, and mercy, gathering us into life-giving communion—this is what the entire Old Testament was pointing toward. Every sacrifice, every covenant, every act of justice and mercy was preparing humanity to recognize and receive this perfect love when it appeared.
 
 **The Passover Pattern:** The most important preparation was the Passover. Every year, the Jewish people remembered how God delivered them from slavery in Egypt through the sacrifice of an unblemished lamb. The lamb's blood marked their doorposts, and death "passed over" their homes. But the sacrifice wasn't complete until the lamb was eaten—the family had to consume the sacrifice to receive its benefits.
 
@@ -142,7 +142,7 @@ This covenant is:
 
 ### The Relationship God Wants
 
-Through the Eucharist, we see exactly what kind of relationship God wants with us. Not a distant, formal relationship based on arbitrary rules and meaningless obligations, but an intimate, personal relationship based on the law of love—that sacred, sacrificial gift of covenant which binds truth, justice, and mercy into life-giving communion. God wants to be so close to us that He becomes our food, our life, our very being.
+Through the Eucharist, we see exactly what kind of relationship God wants with us. Not a distant, formal relationship based on arbitrary rules and meaningless obligations, but an intimate, personal relationship based on the law of love—that sacred, sacrificial gift of covenant, binding truth, justice, and mercy, gathering us into life-giving communion. God wants to be so close to us that He becomes our food, our life, our very being.
 
 This is the ultimate expression of the covenant love we explored earlier. In marriage, two people become "one flesh." In the Eucharist, we become one with Christ Himself. This is the deepest possible union—not just emotional or spiritual, but substantial. We literally become what we receive.
 

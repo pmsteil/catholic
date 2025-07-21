@@ -230,7 +230,7 @@ As St. Edith Stein (Teresa Benedicta of the Cross) taught: *"Do not accept anyth
 
 ## How Truth Serves Perfect Love
 
-Truth is not the enemy of love—it is love's essential foundation. Our comprehensive definition reveals this clearly: "Perfect love is the sacred, sacrificial gift of covenant which binds true justice and true mercy into life-giving communion."
+Truth is not the enemy of love—it is love's essential foundation. Our comprehensive definition reveals this clearly: "Perfect love is the sacred, sacrificial gift of covenant, binding truth, justice, and mercy, gathering us into life-giving communion."
 
 **Sacred Truth:** Love must be grounded in the objective, sacred truth revealed by God. This provides the sacred clarity that prevents love from becoming mere sentiment or wishful thinking.
 

@@ -33,7 +33,7 @@ The ideologies that capture hearts today succeed because they appeal to real hum
 
 ## How Counterfeits Distort Perfect Love
 
-Remember our comprehensive definition: **Perfect Love is the sacred, sacrificial gift of covenant which binds true justice and true mercy into life-giving communion.** Counterfeit ideologies fail because they get one or more essential elements of this definition wrong. Understanding these patterns helps us recognize counterfeits and minister to those caught in them.
+Remember our comprehensive definition: **Perfect Love is the sacred, sacrificial gift of covenant, binding truth, justice, and mercy, gathering us into life-giving communion.** Counterfeit ideologies fail because they get one or more essential elements of this definition wrong. Understanding these patterns helps us recognize counterfeits and minister to those caught in them.
 
 ### The Most Dangerous Error: Denying the Image of God
 
