@@ -75,7 +75,7 @@ These five sources of truth—Creation, the human heart, Salvation History, the 
 
 ### Truth as Foundation for Love
 
-**Truth Enables Knowledge:** We cannot truly love God or neighbor without knowing them truthfully. Love requires seeing reality clearly, not through illusions, projections, or wishful thinking. A husband who loves his wife based on false assumptions about who she is doesn't truly love her—he loves his fantasy.
+**Truth Enables Knowledge:** We cannot truly love God or neighbor without knowing them truthfully. Love requires seeing reality clearly, not through illusions, projections, or wishful thinking. Most fundamentally, authentic love requires knowing the truth about each person's inherent dignity as made in God's image—we cannot truly love someone whose true worth we deny or fail to recognize. A husband who loves his wife based on false assumptions about who she is doesn't truly love her—he loves his fantasy. Similarly, we cannot truly love someone we are deceiving, because deception creates a barrier that prevents authentic relationship and communion.
 
 **Truth Guides Action:** Truth provides the sacred clarity needed to discern how to love effectively and justly. Love without truth can be misguided or even harmful. The parent who refuses to discipline a child out of false compassion enables destructive behavior. The friend who affirms sinful choices out of misguided kindness participates in spiritual harm.
 
@@ -84,6 +84,8 @@ These five sources of truth—Creation, the human heart, Salvation History, the 
 **Truth Serves Justice:** True justice requires acknowledging the truth of situations and persons—what they are actually owed according to their dignity and circumstances. Justice based on false information or distorted understanding inevitably becomes injustice.
 
 **Truth Enables Mercy:** True mercy involves acknowledging the truth of sin in order to forgive it authentically. A half-confessed lie cannot receive true absolution. Mercy that ignores the reality of wrongdoing becomes mere enabling.
+
+**Truth Liberates Love:** As Jesus promised, "You will know the truth, and the truth will set you free" (John 8:32). Love grounded in truth conforms itself to reality rather than demanding that reality conform to our preferences, feelings, or desires. This liberates us from the exhausting burden of trying to force the world to match our illusions and enables us to love people as they actually are, not as we wish they were.
 
 As Pope Benedict XVI warned: *"Without truth, charity degenerates into sentimentality. Love becomes an empty shell, to be filled in an arbitrary way. In a culture without truth, this is the fatal risk facing love"* (Caritas in Veritate, 3).
 
