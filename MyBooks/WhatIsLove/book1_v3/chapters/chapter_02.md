@@ -176,6 +176,8 @@ This is exactly why Jesus came—not just to teach us about love, but to break t
 
 Similarly, when the Church teaches about marriage, family, sexuality, or relationships, it's not trying to control us—it's showing us the "banks" God has given us that allow love to flow with power and purpose rather than dissipating into chaos. Without this kind of guidance, our cry for love becomes like being hungry but not knowing which foods will nourish us and which will poison us.
 
+The Church as a whole becomes the banks of the river of Chrit's love for us. Teaching us, sanctifying us, and pouring out His love to us through the sacraments making His love powerful and life-giving to the entire world.
+
 <u>The paradox is that freedom is not the absence of boundaries but the ability to direct the power of love with purpose and direction within the bounds of truth, justice, and mercy.</u> We must bind ourselves to Christ who is our perfect example and teacher of love.
 
 This is true freedom. Jesus said "I am the way, the truth, and the life." (John 14:6) and "You will know the truth, and the truth will set you free." (John 8:32).
