@@ -156,8 +156,6 @@ We'll journey together through these chapters exploring this definition in more 
 
 **Chapter 10: The Eucharist** - Perfect love made present in the Mass.
 
-**PART 4: RECOGNIZING COUNTERFEITS**
-
 **Chapter 11: Counterfeit Love** - Refuting "faith alone," Marxism, wokeism, and sentimentalism.
 
 **Chapter 12: The Many Faces of Love** - All virtues are expressions of authentic love.

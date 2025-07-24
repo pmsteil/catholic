@@ -154,52 +154,43 @@ But here's the problem we all face. As we saw in Chapter 1, something has gone w
 
 Jesus put His finger on the real issue when the Jews claimed they had never been enslaved to anyone and questioned how they could become free. "We are descendants of Abraham and have never been enslaved to anyone. How can you say, 'You will become free'?" Jesus answered them, "Amen, amen, I say to you, everyone who commits sin is a slave of sin" (John 8:33-34).
 
-Jesus reveals the deeper problem: our hearts have become enslaved to what Scripture calls idols—things that can be good in themselves, but become evil when we worship them instead of God. We think we're free, but we're actually trapped by our disordered loves.
+Jesus reveals the deeper problem: our hearts have become enslaved to what Scripture calls idols—things that can be good in themselves, but become evil when we worship them (give them our 'worth'ship) instead of God. We think we're free, but we're actually trapped by our disordered loves.
 
 **The Slavery of Idolatry**
 
-An idol is any finite good that we treat as if it were the infinite good that only God can be. When we make an idol of something, we become enslaved to it, and our ability to love authentically becomes corrupted:
+An idol is any finite created good that we treat as if it can be our ultimate source of meaning, value and purpose. We give it our 'worth'ship' instead of giving credit, honor and worship to God our Creator. When we make an idol of something, we become enslaved to it, and our ability to love authentically becomes corrupted:
 
-- **Money and Career:** When we worship financial security or professional success, we sacrifice relationships and moral principles for advancement. Love becomes transactional—we "love" people for what they can do for our careers.
+- **Money and Career:** When we worship financial security or professional success, we sacrifice relationships and moral principles for advancement. Love becomes transactional—we "love" people for what they can do for our careers. We put our "faith" in financial success and make that our priority rather than giving justice to God or family.
 
-- **Romantic Relationships:** When we make our spouse or romantic partner our ultimate source of happiness, we place impossible burdens on them and become possessive, jealous, or manipulative. Love becomes stifling rather than giving.
+- **Romantic Relationships:** When we make our spouse or romantic partner our ultimate source of happiness, we place impossible burdens on them and become possessive, jealous, or manipulative. Love becomes stifling rather than giving. We become willing to do anything to keep our partner happy, even if it means sacrificing their dignity or well-being.
 
-- **Family and Children:** When we make our children our ultimate purpose, we can become overprotective, controlling, or living vicariously through them. Love becomes suffocating rather than liberating.
+- **Family and Children:** When we make our children our ultimate purpose, we can become overprotective, controlling, or living vicariously through them. Love becomes suffocating or destructive rather than liberating. We end up demanding love from our children which violates the free gift of love and then it destroys us when they don't give their love to us.
 
-- **Pleasure and Comfort:** When we worship immediate gratification, we become incapable of the sacrifice that authentic love requires. Love becomes selfish rather than self-giving.
+- **Pleasure and Comfort:** When we worship immediate gratification, we become incapable of the sacrifice that authentic love requires. Love becomes selfish rather than self-giving. Love becomes caved in on our own selves which damages our ability and desire to direct out love outward.
 
-- **Power and Control:** When we worship our own will being done, we become incapable of the submission and service that love requires. Love becomes domination rather than covenant.
+- **Power and Control:** When we worship our own will being done, we become incapable of the submission and service that love requires. Love becomes domination rather than covenant. Love is demanded to be done our way and not for the benefit of the other. Taken to its logical conclusion, we end up being tyrants.
 
-**The Pattern of Slavery**
+And when our idols inevitably fail us—when we lose our job, when a spouse leaves, when a child dies—our lives collapse into devastation. Our very sense of value and meaning is shattered because we were depending on these created goods to provide what only God himself can give.
 
-Here's how idolatry enslaves us and corrupts our love:
+This is exactly why Jesus came—not just to teach us about love, but to break the chains that keep us from living it. As Bishop Barron often explains, using an analogy that traces back to St. John Henry Newman's insights, the Church's moral teachings are like the banks of a river. Without banks, water cannot become a powerful, life-giving river—it becomes a placid lake or a destructive flood or a stagnant swamp. The banks don't restrict the river's power; they give it direction, purpose, and the ability to reach its destination.
 
-- **We know what love looks like** but find ourselves choosing what serves our idol instead
-- **We want to be patient and kind** but lose our temper when people threaten what we worship
-- **We long for faithful, committed relationships** but get caught up in patterns that serve our idols rather than the good of others
-- **We want to put others first** but end up being selfish when our idols are at stake
+Similarly, when the Church teaches about marriage, family, sexuality, or relationships, it's not trying to control us—it's showing us the "banks" God has given us that allow love to flow with power and purpose rather than dissipating into chaos. Without this kind of guidance, our cry for love becomes like being hungry but not knowing which foods will nourish us and which will poison us.
 
-This isn't just a matter of trying harder or having better willpower. There's something broken in our ability to love consistently and authentically. We're not free to love the way we want to—we're trapped by the very things we've made into gods.
+<u>The paradox is that freedom is not the absence of boundaries but the ability to direct the power of love with purpose and direction within the bounds of truth, justice, and mercy.</u> We must bind ourselves to Christ who is our perfect example and teacher of love.
 
-And when our idols inevitably fail us—when we lose our job, when a spouse leaves, when a child dies—our lives collapse into devastation. We lose all sense of meaning, purpose, and value because we were depending on these created goods to provide what only God himself can give.
-
-**The Path to Liberation**
-
-This is exactly why Jesus came—not just to teach us about love, but to break the chains that keep us from living it. As Bishop Barron often explains, using an analogy that traces back to G.K. Chesterton's insights about orthodoxy, the Church's moral teachings are like the banks of a river. Without banks, water doesn't become a powerful, life-giving river—it becomes a destructive flood or a stagnant swamp. The banks don't restrict the river's power; they give it direction, purpose, and the ability to reach its destination.
-
-Similarly, when the Church teaches about marriage, family, sexuality, or relationships, it's not trying to control us—it's providing the "banks" that allow love to flow with power and purpose rather than dissipating into chaos. Without this kind of guidance and grace, our cry for love becomes like being hungry but not knowing which foods will nourish us and which will poison us.
+This is true freedom. Jesus said "I am the way, the truth, and the life." (John 14:6) and "You will know the truth, and the truth will set you free." (John 8:32).
 
 ## The Foundation for the Entire Book
 
 In these first two chapters, we have laid a crucial foundation: the fundamental problem facing humanity is the evil in man's heart, and filling the heart with love is the answer to that problem. We've seen that this isn't just theological theory but corresponds to the deepest cry of every human heart and the natural understanding that even children possess.
 
-Our comprehensive definition—perfect love as "the sacred, sacrificial gift of covenant, binding truth, justice, and mercy, gathering us into life-giving communion"—now serves as our roadmap for the entire journey ahead. Every subsequent chapter will unpack one aspect of this definition, showing in detail how each facet of authentic love directly combats specific forms of evil in our hearts and in the world.
+Our comprehensive definition—perfect love as "the sacred, sacrificial gift of covenant, binding truth, justice, and mercy, gathering us into life-giving communion"—now serves as our roadmap for the entire journey ahead. Chapters 3 through 7 will unpack each aspect of this definition, showing in detail how each facet of God's perfect love directly combats specific forms of evil in our hearts and in the world. In Chapters 8 through 12, we will explore how the Church that Jesus started pours out His love to us through the sacraments and the teachings of the Church about His love. In chapter 13, we will see how the Gospel is God's perfect love and how we can participate in it through the Church.
 
-At every step, we will see how perfect love—integrating all these elements—is not just a beautiful ideal but the practical, powerful answer to evil that the world desperately needs. Through the Catholic Faith, we have access to the fullness of this love, and through living it authentically, we become agents of the world's salvation.
+At every step, we will see how God's perfect love—integrating all these elements—is not just a beautiful ideal but the practical, powerful answer to the sin in our hearts that creates evil in the world. Through the Catholic Faith, we have access to the fullness of this love, and through living it authentically, we become witnesses to the world of God's perfect love.
 
-Perfect love stands against all forms of evil and counterfeit love. It opposes mere sentiment by including objective standards of justice, harsh legalism by offering merciful forgiveness, individualism by emphasizing covenant relationships and communion, utilitarianism by recognizing the sacred dignity of each person made in God's image, relativism by grounding love in the objective reality of human dignity, and temporality by establishing permanent covenant bonds.
+God's perfect love stands against all forms of evil and counterfeit love. It opposes mere sentiment by including objective standards of justice, harsh legalism by offering merciful forgiveness, individualism by emphasizing covenant relationships and communion, utilitarianism by recognizing the sacred dignity of each person made in God's image, relativism by grounding love in the objective reality of human dignity, and temporality by establishing permanent covenant bonds. We will explore these counterfeits and how God's perfect love defeats them in much greater detail in chapter 11.
 
-We will explore these counterfeits and how authentic love defeats them in much greater detail in subsequent chapters. Our exploration of perfect love's components begins by addressing the most immediate and universal reaction to its absence: the cry for justice. This cry, as we shall see in the next chapter, reveals the foundational structure that love requires to be true and lasting, and why it is an indispensable part of the perfect love that answers the problem of evil.
+Our exploration of God's perfect love begins by addressing the most immediate and universal reaction to its absence: the cry for justice. This cry, as we shall see in chapter 3, reveals the foundational structure that love requires to be true and lasting, and why it is an indispensable part of the perfect love that answers the problem of evil.
 
 ## Living the Response
 
@@ -209,18 +200,22 @@ The saints understood this liberation. St. Thérèse of Lisieux called love "the
 
 These saints didn't just understand love intellectually—they lived it. They allowed God's perfect love to transform their hearts and liberate them from the slavery of idolatry, and through them, it transformed the world. This is our calling also: to understand love so deeply that it transforms us from the inside out, freeing us to become instruments of God's love in a world desperately hungry for both truth and liberation.
 
+This is why the Church and our Lord himself calls all Catholics to become Saints.  Saints don't just avoid sin, they live the love of God in their hearts and transform the world around them.
+
+> "Whoever wishes to come after me must deny himself, take up his cross, and follow me. For whoever wishes to save his life will lose it, but whoever loses his life for my sake will find it." (Matthew 16:24-25)
+
 *Heavenly Father, You are Love itself, and You have written the cry for love in every human heart. We confess that sin and idolatry have enslaved us and corrupted our ability to love authentically. Liberate us through the truth of Your Son, Jesus Christ, who came to set the captives free. Help us to understand what love truly means—not the counterfeits the world offers, but the perfect love that flows from Your own divine nature. Break the chains of idolatry that prevent us from loving as we should, and give us the grace to live this love authentically, so that through us, others may encounter both the truth that liberates and the love they're truly seeking. Through Christ our Lord, who is Love incarnate and our Liberator. Amen.*
 
 ## Examen: Recognizing the Cry for Love
 
 **Reflection Questions:**
-1. How do I see the cry for love manifesting in my own life—in my body, mind, and soul?
-2. What idols have I been tempted to worship instead of God, and how have they corrupted my ability to love?
-3. How does understanding love as "sacred, sacrificial, covenantal, just, merciful, and life-giving" challenge my current relationships?
-4. Where do I see the pure understanding of love that children possess, and how can I return to that clarity?
+1. Where do I see the pure understanding of love that children possess, and how can I return to that clarity?
+2. How do I see the cry for love manifesting in my own life—in my body, mind, and soul?
+3. What idols have I been tempted to worship instead of God, and how have they corrupted my ability to love?
+4. How does understanding love as "sacred, sacrificial, covenantal, just, merciful, and life-giving" help me understand the joys and sorrows of my relationships?
 5. How has idolatry enslaved my ability to love, and where do I need Christ's liberation most?
 
-**Daily Practice:** Each day this week, when you encounter someone (family member, coworker, stranger), try to recognize the cry for love in their words and actions. Ask yourself: "What is this person's heart truly longing for?" Then consider: "How can I respond with authentic love rather than a counterfeit?" Remember that your own liberation from idolatry enables you to help liberate others.
+**Daily Practice:** Each day this week, when you encounter someone (family member, coworker, stranger), try to recognize the cry for love in their words and actions. Ask yourself: "What is this person's heart truly longing for? Is it justice, mercy, truth, covenant, sacrifice, or something else?" Then consider: "How can I respond with authentic love rather than a counterfeit?" Remember that your own liberation from idolatry enables you to help liberate others.
 
 **Act of Contrition:** *My God, I am sorry for my sins with all my heart. In choosing to do wrong and failing to do good, I have sinned against You whom I should love above all things. I firmly intend, with Your grace, to do penance, to sin no more, and to avoid whatever leads me to sin. Our Savior Jesus Christ suffered and died for us. In His name, my God, have mercy. Amen.*
 
