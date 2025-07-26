@@ -17,29 +17,75 @@
 
 These three words, spoken countless times by children on playgrounds and adults in boardrooms, reveal something profound about human nature. Whether it's a child protesting an unequal distribution of candy or an adult witnessing corruption in government, this instinctive cry emerges from the deepest part of our being. It's not learned behavior—it's written on our hearts.
 
-This universal cry for justice reveals that we are created for moral order, not chaos. Every human being, regardless of culture, education, or background, possesses an innate sense that things *ought* to be fair, that people *ought* to be treated with dignity, and that wrongs *ought* to be made right. Scripture suggests this isn't mere social conditioning—it's evidence of our creation in the image of God, who is perfectly just. As St. Paul explains, even those without the written law "show that the work of the law is written on their hearts, while their conscience also bears witness" (Romans 2:15).
+This universal cry for justice and our need for peace and harmony reveals that we are created for moral order, not chaos. Every human being, regardless of culture, education, or background, possesses an innate sense that things *ought* to be fair, that people *ought* to be treated with dignity, and that wrongs *ought* to be made right. Scripture suggests this isn't mere social conditioning—it's evidence of our creation in the image of God, who is perfectly just. As St. Paul explains, even those without the written law "show that the work of the law is written on their hearts, while their conscience also bears witness and their conflicting thoughts accuse or even defend them on the day when, according to my gospel, God will judge people’s hidden works through Christ Jesus." (Romans 2:15).
 
 ## What Children Know About Justice
 
 Children demonstrate pure moral clarity about fairness before adults complicate justice with sophisticated theories:
 
-**"Everyone should be treated the same!"** Children instinctively expect equal treatment and know that favoritism based on arbitrary preferences violates human dignity.
+**"That's not fair - you're being mean!"** Children instinctively recognize when someone is being treated badly without good reason and know that cruelty or favoritism based on arbitrary preferences violates human dignity.
 
-**"Bullies should be stopped!"** Children understand that using power to harm the weak is evil and expect authority figures to protect the vulnerable.
+**"Stop being mean to him!"** Children understand that using power to harm the weak is evil and expect authority figures to protect the vulnerable.
 
-**"Promises should be kept!"** Children know that breaking your word damages trust and violates justice—reliability and truthfulness are essential.
+**"But you promised!"** Children know that breaking your word damages trust and violates justice—reliability and truthfulness are essential.
 
-**"Truth should win!"** Children expect honesty to be rewarded and lies exposed. They have an innate sense that reality matters and deception corrupts the moral order.
+**"You're lying!"** Children expect honesty to be rewarded and lies exposed. They have an innate sense that reality matters and deception corrupts the moral order.
+
+**"I didn't do it!"** Even when children lie to avoid punishment, their very attempt to escape consequences reveals their deep knowledge that wrongdoing deserves justice—they wouldn't hide if they didn't know they had done something that merited correction.
+
+**"I'm telling!"** When children "tattle" on wrongdoers, they demonstrate their instinctive understanding that justice requires accountability—they expect authority figures to address wrongs and restore moral order.
+
+These simple childhood expressions reveal profound truths about justice: that every person deserves dignity and protection, that promises create real obligations, that truth matters more than convenience, that wrongdoing has consequences, and that legitimate authority exists to restore moral order when it's broken. Children understand intuitively what philosophers spend lifetimes trying to explain—that justice isn't arbitrary human convention but flows from the very nature of humanity itself. There is no explanation in nature or evolution for why we should have this universal moral sense, yet every child possesses it from birth.
 
 This reflects what St. Paul describes as "the law written on their hearts" (Romans 2:15). Jesus' command to "become like children" (Matthew 18:3) includes recovering this moral clarity that recognizes injustice immediately.
 
 ## The Nature of True Justice
 
-Justice is not merely human opinion or social convention—it flows from God's own nature and is written on every human heart through natural law. The Catechism teaches us that "the natural law expresses the original moral sense which enables man to discern by reason the good and the evil" (CCC 1954).
+Justice is not founded on human opinion, social convention or arbitrary laws—it flows from God's own nature and is written on every human heart through what we (philosophers dating all the way back to Aristotle in the 4th century BC) have come to call "natural law". The Catechism teaches us that "the natural law expresses the original moral sense which enables man to discern by reason the good and the evil" (CCC 1954).
+
+There is the natural law that shows we desire moral order and not chaos and - and we have the intellect and will to reason and choose the good. Pair that with Jesus' revelations about what His radical love looks like and we have the foundation for "true justice", a well formed justice that has arguably led to the most flourishing of human societies.
+
+#### Justice Defined
+
+**Justice, at its core, is giving each person what they are owed according to their nature and dignity.** This classical definition, rooted in Scripture and Church teaching, reveals that justice has both negative and positive dimensions. As the Catechism teaches: "Justice is the moral virtue that consists in the constant and firm will to give their due to God and neighbor" (CCC 1807).
+
+**Negative Justice (Avoiding Harm):**
+The Ten Commandments (Exodus 20:1-17) establish the fundamental boundaries of negative justice:
+
+*Justice Toward God:*
+- **"I am the Lord your God; you shall not have strange gods before me"** - Giving God exclusive worship and refusing to worship created things instead of the Creator
+- **"You shall not take the name of the Lord your God in vain"** - Never invoking God's name to justify what contradicts His nature of justice, mercy, and truth
+- **"Remember to keep holy the Lord's Day"** - Giving God the worship and rest He commands
+
+*Justice Toward Neighbor:*
+- **"Honor your father and your mother"** - Giving reverence and care to those who gave us life
+- **"You shall not murder"** - Respecting others' right to life
+- **"You shall not commit adultery"** - Respecting the covenant bonds of marriage
+- **"You shall not steal"** - Respecting others' right to property
+- **"You shall not bear false witness against your neighbor"** - Respecting others' right to truth
+- **"You shall not covet your neighbor's wife"** - Respecting the sanctity of women, marriage and family relationships
+- **"You shall not covet your neighbor's goods"** - Respecting others' property and possessions
+
+Negative justice establishes the minimum moral boundaries—what we must *not* do to God and others. It prevents harm and protects the dignity owed to God and neighbor. As St. Paul teaches: "Love does no wrong to a neighbor; therefore, love is the fulfilling of the law" (Romans 13:10).
+
+**Positive Justice (Actively Doing Good):**
+The Ten Commandments also include positive obligations, and Scripture calls us beyond mere avoidance of harm to active pursuit of good:
+
+*Justice Toward Family and Authority:*
+- **"Honor your father and your mother"** (Exodus 20:12) - Giving reverence and care to those who gave us life
+- **"Give food to the hungry and drink to the thirsty"** (Matthew 25:35) - Providing for those in need
+- **"Defend the weak and the fatherless"** (Psalm 82:3) - Protecting the vulnerable from exploitation
+- **"Let the one who is taught the word share all good things with the one who teaches"** (Galatians 6:6) - Supporting those who share truth
+- **"Bear one another's burdens"** (Galatians 6:2) - Offering support to those who suffer
+- **"Love your enemies"** (Matthew 5:44) - Showing mercy to those who wrong us
+
+Positive justice goes beyond avoiding harm to actively promoting human flourishing. It asks not just "What must I avoid?" but "What do I owe to others based on their dignity and my relationship to them?" The Catechism affirms: "Respect for the human person proceeds by way of respect for the principle that 'everyone should look upon his neighbor (without any exception) as another self'" (CCC 1931).
+
+**True justice integrates both dimensions.** We cannot claim to be just if we merely avoid harming others while ignoring their legitimate needs. Nor can we claim to do good while simultaneously violating basic moral boundaries. Authentic justice requires both restraint from evil and active pursuit of the good. As Jesus teaches: "Therefore, whatever you want men to do to you, do also to them, for this is the Law and the Prophets" (Matthew 7:12).
 
 ### Divine Foundation of Justice
 
-**God is perfectly just.** Justice flows from God's nature as the source of all moral order. As the Psalmist declares, "The Lord is righteous in all his ways and kind in all his works" (Psalm 145:17). God's justice is not arbitrary but reflects His perfect knowledge of truth and His infinite love for creation.
+**God is perfectly just.** Justice flows from God's nature as the source of all moral order. As the Psalmist declares, "Justice and judgment are the foundation of your throne; mercy and faithfulness march before you" (Psalm 89:15). Moses confirms this truth: "The Rock—his work is perfect; yes, all his ways are just. A faithful God, without deceit, just and upright is he" (Deuteronomy 32:4). God's justice is not arbitrary but reflects His perfect knowledge of truth and His infinite love for creation. For without a justice that is firm, we cannot know "true love".
 
 **Natural law written on hearts.** God has inscribed basic principles of justice on every human heart, which is why even those who don't know Scripture instinctively recognize certain actions as right or wrong. This universal moral sense proves that justice transcends cultural preferences.
 
@@ -47,23 +93,44 @@ Justice is not merely human opinion or social convention—it flows from God's o
 
 ### Justice Grounded in the Image of God
 
-**The foundation of all authentic justice is the recognition that every human being is created in the image of God (Genesis 1:27). This truth transforms justice from mere social utility into sacred duty.**
+**The foundation of all authentic justice is the recognition that every human being is created in the image of God (Genesis 1:27). This truth transforms justice from mere social utility into sacred duty.** If this is true, we "ought" to seek the wisdom to enact the highest justice possible by looking to the author of justice, God, our loving Father.
 
-Because every person bears God's image, justice demands we recognize certain fundamental rights:
+#### How Rights Flow from Divine Duties
 
-**Right to Life:** From conception to natural death, because every human life bears God's image.
+**Scripture doesn't speak of "rights" as modern culture understands them. Instead, it reveals the duties that God's justice requires us to practice toward all human beings. These duties, when universally applied, reveal what rights ought to exist.**
 
-**Right to Family:** Children deserve both mother and father, reflecting the complementarity of God's image in male and female.
+Consider how God's commandments create corresponding rights:
 
-**Right to Truth:** Humans are rational beings made in God's image and deserve to know the truth about reality, morality, and their ultimate destiny.
+**"Thou shall not murder" (Exodus 20:13) → Right to Life:** Because God commands us to respect life in every person, each human being has a right to life from conception to natural death. This duty applies universally because every human life is sacred and bears God's image.
 
-**Right to Freedom:** Authentic freedom to choose the good, not license to sin. True freedom serves justice by enabling us to fulfill our nature as God's image-bearers.
+**"Honor your father and mother" (Exodus 20:12) → Right to Family:** Because God commands children to honor parents and parents to care for children, every child has a right to both mother and father, reflecting the complementarity of God's image in male and female.
 
-**Right to Property:** Stewardship of creation as God's representatives, including the fruits of our labor and the resources needed for human flourishing.
+**"You shall not bear false witness" (Exodus 20:16) → Right to Truth:** Because God commands us to speak truth to our neighbors, every person has a right to truth about reality, morality, and their ultimate destiny. We are rational beings made in God's image.
 
-**Right to Worship:** Recognition of our relationship with our Creator and the freedom to live according to our conscience.
+**"You shall not steal" (Exodus 20:15) → Right to Property:** Because God forbids theft, every person has a right to the fruits of their labor and the resources needed for human flourishing as stewards of creation.
 
-When we ground justice in the image of God, we prevent dehumanization, stop utilitarian abuse, defend the vulnerable, and establish objective standards that reflect God's unchanging character.
+**"You shall have no other gods before me" (Exodus 20:3) → Right to Worship:** Because God commands exclusive worship of Himself, every person has the right to worship their Creator and live according to their conscience.
+
+**"Love your neighbor as yourself" (Mark 12:31) → Right to Freedom:** Because God commands us to love others as ourselves, every person has the right to authentic freedom—not license to sin, but freedom to choose the good and fulfill their nature as God's image-bearers.
+
+**"Defend the weak and the fatherless" (Psalm 82:3) → Right to Protection:** Because God commands us to defend the vulnerable, every person has the right to protection from exploitation, abuse, and abandonment.
+
+**"Feed the hungry, clothe the naked" (Matthew 25:35-36) → Right to Basic Needs:** Because God commands us to care for those in need, every person has the right to food, shelter, clothing, and healthcare necessary for sustaining human dignity and life.
+
+**Every right carries a corresponding duty to sacrifice for our neighbors' good.** Interesting! 😊
+
+#### The Objective Foundation of All Rights
+
+**This understanding reveals that all authentic rights carry corresponding duties, and both flow from the firm, objective justice of God.** Rights aren't arbitrary human inventions or social contracts—they emerge from the moral order that God has written into creation itself.
+
+When we ground justice in God's commandments applied universally to all image-bearers, we:
+- Prevent dehumanization by recognizing every person's sacred dignity
+- Stop utilitarian abuse by establishing duties we owe regardless of convenience
+- Defend the vulnerable by making their protection a divine command
+- Establish objective standards that reflect God's unchanging character
+- Create a foundation for justice that transcends cultural preferences
+
+**This is why the Church's social teaching is so powerful—it doesn't merely assert rights, but grounds them in the duties that flow from God's own justice toward His image-bearers.**
 
 ### Justice as Giving Each Their Due
 
@@ -176,7 +243,7 @@ Justice is not opposed to love but is love's foundation. Without justice, love b
 
 **Demands Truth:** Justice requires honesty about what is real and what is good. Love built on lies is not authentic love.
 
-**Prepares for Mercy:** Justice establishes the moral order that makes mercy meaningful. Mercy is only beautiful when it transcends justice, not when it ignores it.
+**Prepares for Mercy:** Justice establishes the moral order that makes mercy meaningful. Mercy is only beautiful when it transcends justice, not when it ignores it. As Isaiah proclaims, "Truly, the LORD is waiting to be gracious to you, truly, he shall rise to show you mercy; For the LORD is a God of justice: happy are all who wait for him!" (Isaiah 30:18). God's mercy flows from His perfect justice - true justice and mercy are intertwined!
 
 ## The Cry for Justice in Our Time
 
@@ -251,7 +318,7 @@ The cry for justice is not merely something we observe—it's a call to action. 
 - Isaiah 1:17 - "Learn to do good; seek justice, correct oppression"
 - Micah 6:8 - "What does the Lord require but to do justice, love mercy, and walk humbly"
 - Matthew 23:23 - "The weightier matters of the law: justice and mercy and faithfulness"
-- Romans 2:14-15 - "The law written on their hearts"
+- Romans 2:12-16 - "The law written on their hearts"
 
 **Catechism:**
 - CCC 1807 - The virtue of justice
