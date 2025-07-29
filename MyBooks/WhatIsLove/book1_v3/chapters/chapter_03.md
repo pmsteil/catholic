@@ -47,41 +47,79 @@ There is the natural law that shows we desire moral order and not chaos and - an
 
 #### Justice Defined
 
-**Justice, at its core, is giving each person what they are owed according to their nature and dignity.** This classical definition, rooted in Scripture and Church teaching, reveals that justice has both negative and positive dimensions. As the Catechism teaches: "Justice is the moral virtue that consists in the constant and firm will to give their due to God and neighbor" (CCC 1807).
+**Justice, at its core, is giving each person what they are owed according to their nature and dignity.** This classical definition, rooted in Scripture and Church teaching, reveals that justice has both retributive and meritorious dimensions. As the Catechism teaches: "Justice is the moral virtue that consists in the constant and firm will to give their due to God and neighbor" (CCC 1807).
 
-**Negative Justice (Avoiding Harm):**
-The Ten Commandments (Exodus 20:1-17) establish the fundamental boundaries of negative justice:
+Retributive justice is what we typically think of as the punishment due for wrongdoing. Meritorious justice is the reward or honor due for good or heroic (virtuous) acts.
 
-*Justice Toward God:*
-- **"I am the Lord your God; you shall not have strange gods before me"** - Giving God exclusive worship and refusing to worship created things instead of the Creator
-- **"You shall not take the name of the Lord your God in vain"** - Never invoking God's name to justify what contradicts His nature of justice, mercy, and truth
-- **"Remember to keep holy the Lord's Day"** - Giving God the worship and rest He commands
+**Retributive Justice (Punishment for Wrongdoing):**
+Retributive justice involves bringing consequences to those who violate moral order—"bringing them to justice" as we commonly say. This includes:
 
-*Justice Toward Neighbor:*
-- **"Honor your father and your mother"** - Giving reverence and care to those who gave us life
-- **"You shall not murder"** - Respecting others' right to life
-- **"You shall not commit adultery"** - Respecting the covenant bonds of marriage
-- **"You shall not steal"** - Respecting others' right to property
-- **"You shall not bear false witness against your neighbor"** - Respecting others' right to truth
-- **"You shall not covet your neighbor's wife"** - Respecting the sanctity of women, marriage and family relationships
-- **"You shall not covet your neighbor's goods"** - Respecting others' property and possessions
+*Human Justice:*
+- **Criminal punishment** - Imprisonment, fines, or other penalties for crimes
+- **Civil penalties** - Consequences for breaking contracts or harming others
+- **Parental discipline** - "Whoever spares the rod hates his child" (Proverbs 13:24)
+- **Church discipline** - Excommunication or other canonical penalties for grave sins
 
-Negative justice establishes the minimum moral boundaries—what we must *not* do to God and others. It prevents harm and protects the dignity owed to God and neighbor. As St. Paul teaches: "Love does no wrong to a neighbor; therefore, love is the fulfilling of the law" (Romans 13:10).
+*Divine Justice:*
+- **God's judgment of sin** - "The wages of sin is death" (Romans 6:23)
+- **Hell as ultimate consequence** - Eternal separation from God for those who reject His love
+- **Purgatory as purification** - Temporal punishment to purify souls for heaven
 
-**Positive Justice (Actively Doing Good):**
-The Ten Commandments also include positive obligations, and Scripture calls us beyond mere avoidance of harm to active pursuit of good:
+**Why Retributive Justice is Necessary:**
 
-*Justice Toward Family and Authority:*
-- **"Honor your father and your mother"** (Exodus 20:12) - Giving reverence and care to those who gave us life
-- **"Give food to the hungry and drink to the thirsty"** (Matthew 25:35) - Providing for those in need
-- **"Defend the weak and the fatherless"** (Psalm 82:3) - Protecting the vulnerable from exploitation
-- **"Let the one who is taught the word share all good things with the one who teaches"** (Galatians 6:6) - Supporting those who share truth
-- **"Bear one another's burdens"** (Galatians 6:2) - Offering support to those who suffer
-- **"Love your enemies"** (Matthew 5:44) - Showing mercy to those who wrong us
+Retributive justice serves love by protecting the innocent, deterring future wrongdoing, and providing opportunity for the wrongdoer's repentance and restoration. But justice is not optional—it is essential for human flourishing:
 
-Positive justice goes beyond avoiding harm to actively promoting human flourishing. It asks not just "What must I avoid?" but "What do I owe to others based on their dignity and my relationship to them?" The Catechism affirms: "Respect for the human person proceeds by way of respect for the principle that 'everyone should look upon his neighbor (without any exception) as another self'" (CCC 1931).
+**For the Victim:**
+- **Vindication** - Justice affirms that the victim's dignity was violated and that this violation matters
+- **Closure** - Proper consequences help victims process trauma and move toward healing
+- **Protection** - Justice removes dangerous offenders from society, protecting victims from further harm
+- **Restoration** - Restitution and acknowledgment help restore what was taken or damaged
 
-**True justice integrates both dimensions.** We cannot claim to be just if we merely avoid harming others while ignoring their legitimate needs. Nor can we claim to do good while simultaneously violating basic moral boundaries. Authentic justice requires both restraint from evil and active pursuit of the good. As Jesus teaches: "Therefore, whatever you want men to do to you, do also to them, for this is the Law and the Prophets" (Matthew 7:12).
+**For the Perpetrator:**
+- **Moral clarity** - Consequences teach the seriousness of wrongdoing and the reality of moral order
+- **Opportunity for repentance** - Punishment can lead to genuine contrition and conversion
+- **Deterrence** - Fear of consequences helps restrain future temptations to sin
+- **Healing demands justice** - Those genuinely sorry feel they are "due" a just punishment for the pain they caused
+- **Restoration to community** - Paying one's debt to society enables genuine reconciliation
+
+**For Society:**
+- **Moral order** - Justice upholds the principle that actions have consequences
+- **Public safety** - Removing dangerous criminals protects innocent citizens
+- **Trust in institutions** - Fair and consistent justice builds confidence in legitimate authority
+- **Deterrent effect** - Public consequences discourage others from similar crimes
+
+**The Danger of Failed Justice:**
+When legitimate authorities fail to administer justice properly—whether through corruption, weakness, or misguided mercy—society doesn't become more peaceful. Instead, people lose faith in institutions and resort to vigilante justice, blood feuds, and private revenge. This is why St. Paul emphasizes that rulers "do not bear the sword for no reason" (Romans 13:4). Justice is not cruelty—when carried out according to God's Perfect Love, it is the proper administration of truth, justice and mercy for all concerned.
+
+**Meritorious Justice (Honor for Virtue and Dignity):**
+Meritorious justice involves giving recognition, honor, and reward to those who deserve it based on their virtue, service, or inherent dignity:
+
+*Honoring God:*
+- **Worship and adoration** - "Give to the Lord the glory due his name" (Psalm 29:2)
+- **Thanksgiving** - Recognizing all good gifts come from Him
+- **Obedience** - Submitting to His authority as Creator and Lord
+
+*Honoring Saints and Heroes:*
+- **Veneration of saints** - Honoring those who lived heroic virtue
+- **Respect for martyrs** - Recognizing those who died for the faith
+- **Gratitude to veterans** - Honoring those who served their country
+- **Recognition of achievements** - Celebrating excellence in various fields
+
+*Honoring Family and Authority:*
+- **"Honor your father and your mother"** (Exodus 20:12) - Giving reverence to parents
+- **Respect for legitimate civil authority** - "Give to Caesar what is Caesar's" (Matthew 22:21)
+- **Care for the elderly** - Recognizing their wisdom and dignity
+- **Support for teachers** - Honoring those who share knowledge and wisdom
+
+*Honoring All Human Dignity:*
+- **Respect for every person** - Because all are made in God's image (Genesis 1:27)
+- **Special care for the vulnerable** - "Defend the weak and the fatherless" (Psalm 82:3)
+- **Fair wages for workers** - "The laborer deserves his wages" (Luke 10:7)
+- **Hospitality to strangers** - "Do not forget to show hospitality to strangers" (Hebrews 13:2)
+
+Meritorious justice recognizes that every person has inherent dignity and that virtue, service, and excellence deserve recognition and reward. The Catechism affirms: "Respect for the human person proceeds by way of respect for the principle that 'everyone should look upon his neighbor (without any exception) as another self'" (CCC 1931).
+
+**Justice serves authentic love through both dimensions.** Retributive justice protects victims, provides moral clarity for perpetrators, and maintains social order by ensuring wrongdoing has consequences. Meritorious justice honors virtue, recognizes human dignity, and rewards excellence in all its forms. Together, these two aspects of justice create the moral framework necessary for human flourishing. As Jesus teaches: "Therefore, whatever you want men to do to you, do also to them, for this is the Law and the Prophets" (Matthew 7:12).
 
 ### Divine Foundation of Justice
 
@@ -91,11 +129,77 @@ Positive justice goes beyond avoiding harm to actively promoting human flourishi
 
 **Objective moral order.** Right and wrong exist independently of human opinion. Justice is not determined by majority vote or cultural consensus but by the truth about human nature and our relationship to God.
 
-### Justice Grounded in the Image of God
+### Why We Owe God Perfect Justice
+
+St. Thomas Aquinas, the Church's greatest theologian and philosopher, provides the systematic foundation for understanding why we have a duty to submit to God's authority and justice. As the master of Catholic theology, Aquinas demonstrates that this duty flows from three fundamental truths about reality itself:
+
+#### 1. God is the First Cause and Final End of All Things
+
+> "God is the first principle and last end of all things."
+> — *Summa Theologiae* I, q. 2–3; I-II, q. 1, a. 8
+
+**Because God is our Creator, Sustainer, and Ultimate End, we owe Him everything.** Aquinas teaches that God is:
+
+- **The First Cause** - He brought us into existence from nothing
+- **The Sustainer** - He continually holds us in being at every moment
+- **Our Final End** - He is the one in whom perfect happiness consists
+
+This means that **submitting to His authority is a matter of justice, because He is the source of all that we are and the end for which we were made.** We literally owe our existence, our purpose, and our fulfillment to Him. To rebel against God's justice would be like a painting rebelling against the artist, or a symphony refusing to follow the composer's score.
+
+Again, we love God because He first loved us.
+
+#### 2. God's Authority Is Perfectly Good, True, and Just
+
+**Aquinas teaches that God is not a tyrant whose authority we must fear, but perfect goodness whose authority we can trust completely.** God's authority:
+
+- **Flows from His nature, which is perfect truth, goodness, and justice** (cf. *ST* I, q. 21)
+- **Orders all things wisely and lovingly toward the common good and eternal happiness**
+- **Never commands anything contrary to our true good or authentic flourishing**
+
+Therefore, **to resist God's authority is not just disobedience—it is irrational.** It is to rebel against what is best for us. As Aquinas explains:
+
+> "The moral precepts of the natural law are part of the eternal law... therefore, we are bound to obey them."
+> — *ST* I-II, q. 91–93
+
+When we submit to God's justice, we are not surrendering our freedom—we are discovering what true freedom means: the ability to choose what is genuinely good for us and for all creation.
+
+**If we desire what is *truly* just, then we must ask God for what is actually just.**
+
+The "author" of justice has true "authority"—but true authority is never dictated from above. True authority is something we must freely choose to submit to. **This is why love of God requires sacrifice—we must sacrifice our own will, our own desires, our own pride to voluntarily submit to God's justice.** Only then can we receive the perfect justice our hearts truly long for.
+
+#### 3. Man Is a Rational Creature Bound to Follow Reason, Which Reflects God's Law
+
+**The deepest reason we owe God perfect justice is that we are rational beings made in His image.** Aquinas defines the natural law as:
+
+> "The rational creature's participation in the eternal law."
+> — *ST* I-II, q. 91, a. 2
+
+**Because we are rational beings created in God's image, our freedom finds its perfection not in autonomy, but in voluntary, humble obedience to right reason, which is a participation in God's eternal wisdom.** This means:
+
+- **To obey God is to obey reason and truth itself**
+- **Following God's justice is the very definition of freedom rightly lived**
+- **Rebelling against God's moral order is actually rebelling against our own rational nature**
+- **True human dignity consists in freely choosing to align our will with divine wisdom**
+
+As rational creatures, we have the unique capacity to understand God's justice and freely choose to cooperate with it. This is what makes us different from animals (who follow instinct) and angels (who see God's will directly). We can reason about moral truth and freely choose to love what is good.
+
+#### Why This Matters for Authentic Love
+
+**St. Thomas Aquinas shows us that justice toward God is the foundation of all authentic love.** When we understand that:
+
+- **God is our First Cause and Final End** - we recognize that loving Him is not arbitrary but rational
+- **God's authority is perfectly good and just** - we trust that His commands lead to our flourishing
+- **We are rational creatures made for truth** - we see that obeying God's justice is true freedom
+
+...then we can love God, ourselves, and our neighbors authentically. **Without this foundation, our "love" becomes sentimental preference rather than the sacred, sacrificial gift of covenant that binds truth, justice, and mercy into life-giving communion.**
+
+Aquinas teaches us that **the cry for justice in every human heart is actually a cry for God Himself**—the source of all justice, the measure of all truth, and the end of all authentic love.
 
 **The foundation of all authentic justice is the recognition that every human being is created in the image of God (Genesis 1:27). This truth transforms justice from mere social utility into sacred duty.** If this is true, we "ought" to seek the wisdom to enact the highest justice possible by looking to the author of justice, God, our loving Father.
 
 #### How Rights Flow from Divine Duties
+
+It might be good to spend a bit of time reviewing how the modern convention of "rights" is based on the Christian Faith as developed throughout the history of the Church, and most specifically by St. Thomas Aquinas in the 13th century and then culminating in the Catholic Social Teaching by Pope Pius XII in his encyclical *Rerum Novarum* (1891). Note that these truths pre-dated the modern convention of "rights" by several centuries.
 
 **Scripture doesn't speak of "rights" as modern culture understands them. Instead, it reveals the duties that God's justice requires us to practice toward all human beings. These duties, when universally applied, reveal what rights ought to exist.**
 
@@ -118,6 +222,10 @@ Consider how God's commandments create corresponding rights:
 **"Feed the hungry, clothe the naked" (Matthew 25:35-36) → Right to Basic Needs:** Because God commands us to care for those in need, every person has the right to food, shelter, clothing, and healthcare necessary for sustaining human dignity and life.
 
 **Every right carries a corresponding duty to sacrifice for our neighbors' good.** Interesting! 😊
+
+Sadly, modern society has not been taught that "rights" flow from duties we owe to God and our neighbors. But we must know this so that we can teach our children and anyone fighting for an inferior "justice" or "human right" that is not based on God's true justice.
+
+Removing this type of teaching from our schools pulls the rug out from under the foundation on which our society is built.
 
 #### The Objective Foundation of All Rights
 
@@ -160,12 +268,12 @@ Scripture reveals that different beings deserve different types and degrees of r
 ### God First: The Great Commandment
 > "You shall love the Lord your God with all your heart and with all your soul and with all your mind. This is the great and first commandment." (Matthew 22:37-38)
 
-Jesus establishes that our first duty of justice is to God—giving Him the supreme worship, adoration, and obedience He deserves as Creator and Lord.
+Jesus teaches that our first duty of justice is to God—giving Him the supreme worship, adoration, and obedience He deserves as Creator and Father with our entire being - our body, mind, and soul. If you study carefully, all the other commandments reiterate this same duty - do not give your 'worthship' to things that are not God (the idols of our hearts, money, power, lust, envy, anger, etc.)
 
 ### Parents and Authority: The Fourth Commandment
 > "Honor your father and your mother, that your days may be long in the land that the Lord your God is giving you." (Exodus 20:12)
 
-Scripture consistently places honor for parents and legitimate authority immediately after duties to God, showing their special place in the hierarchy of justice.
+Scripture consistently places honor for parents and legitimate authority immediately after duties to God, showing their special place in the hierarchy of justice. This is the only one that comes with a promise - why? Because honoring your parents (those that physically created you) passes on the gift of God's Perfect Love from one generation to the next.
 
 ### Neighbor as Yourself: The Second Great Commandment
 > "And a second is like it: You shall love your neighbor as yourself." (Matthew 22:39)
@@ -191,37 +299,49 @@ Having established the divine foundation and proper ordering of justice, we can 
 
 ### The Woman Caught in Adultery (John 8:1-11)
 
-When the scribes and Pharisees brought the woman caught in adultery to Jesus, they sought to trap Him between justice and mercy. The Law demanded stoning (justice), but they expected Jesus to show mercy that would contradict the Law. Instead, Jesus demonstrated perfect integration:
+When the scribes and Pharisees brought the woman caught in adultery to Jesus, they sought to trap Him between justice and mercy. The Law demanded stoning (justice), but they expected Jesus to show mercy that would contradict the Law. Instead, Jesus demonstrated perfect integration.  Read the story - John 8:1-11.
 
 **He acknowledged the demands of justice:** "Let him who is without sin among you be the first to throw a stone at her" (John 8:7). Jesus didn't dismiss the Law or claim adultery wasn't sinful.
 
 **He offered transformative mercy:** "Neither do I condemn you; go, and from now on sin no more" (John 8:11). His mercy wasn't permissiveness—it demanded repentance and transformation.
 
-**He revealed deeper justice:** By exposing the accusers' own sinfulness, Jesus showed that true justice must begin with examining our own hearts.
+**He revealed deeper justice:** By exposing the accusers' own sinfulness, Jesus showed that true justice must begin with examining our own hearts and to re-orient them toward God's love and mercy.
+
+Jesus showed his deep caring for the woman through his heart of justice and mercy.
 
 ### Zacchaeus: Justice Inspiring Generous Restitution (Luke 19:1-10)
 
-When Jesus showed mercy to Zacchaeus the tax collector, notice what happened: Zacchaeus immediately responded with justice that went beyond legal requirements:
+When Jesus showed mercy to Zacchaeus the tax collector, notice what happened: Zacchaeus immediately responded with justice that went beyond legal requirements. Read Luke 19:1-10.
 
 > "Behold, Lord, the half of my goods I give to the poor. And if I have defrauded anyone of anything, I restore it fourfold." (Luke 19:8)
 
-Jesus' mercy didn't excuse Zacchaeus's past injustices—it inspired him to make restitution that exceeded what the Law required (Exodus 22:1 required only double restitution for theft). True mercy awakens the desire for justice, not the excuse to avoid it.
+Jesus' mercy didn't excuse Zacchaeus's past injustices—it inspired him to make restitution that exceeded what the Law required (Exodus 22:1 required only double restitution for theft).
 
-### The Cleansing of the Temple (Matthew 21:12-13)
-
-Jesus' cleansing of the temple shows that authentic love sometimes requires forceful justice:
-
-> "And Jesus entered the temple and drove out all who sold and bought in the temple, and he overturned the tables of the money-changers and the seats of those who sold pigeons. He said to them, 'It is written, My house shall be called a house of prayer, but you make it a den of robbers.'"
-
-This wasn't anger contradicting love—it was love expressing itself through justice. Jesus' righteous anger protected the vulnerable (the poor being exploited) and defended the sacred (God's house being profaned). Sometimes love requires confronting injustice directly. But Jesus also showed mercy and restraint. He could have used his divine power to banish them, caused some physical harm, or even killed them. But He chose to show mercy and restraint.
+True mercy awakens the desire for justice, not the excuse to avoid it.
 
 ### The Rich Young Man (Mark 10:17-22)
 
-When the rich young man asked about eternal life, Jesus first pointed him to justice—keeping the commandments. But then He revealed that perfect love requires going beyond minimal justice:
+When the rich young man asked about eternal life, Jesus first pointed him to justice—keeping the commandments. But then He revealed that perfect love requires going beyond minimal justice. Read Mark 10:17-22.
 
 > "You lack one thing: go, sell all that you have and give to the poor, and you will have treasure in heaven; and come, follow me." (Mark 10:21)
 
 Jesus showed that while justice establishes the foundation (keeping commandments), love calls us to generous sacrifice that serves others' needs. The young man's sadness reveals how difficult it is to move from mere justice to perfect love.
+
+### The Good Samaritan (Luke 10:25-37)
+
+When a scholar of the law asked Jesus, "Teacher, what must I do to inherit eternal life?" he was asking the ultimate question: how to live in communion with God forever. Jesus turned the question back to him: "What is written in the Law? How do you read it?" The scholar correctly answered: "You shall love the Lord your God with all your heart, and with all your soul, and with all your strength, and with all your mind; and your neighbor as yourself." Jesus confirmed this as the path to eternal life, but the scholar, seeking to justify himself, asked, "And who is my neighbor?"
+
+In response, Jesus tells the parable of the Good Samaritan—not merely as a moral lesson, but as the revelation of how justice and mercy perfectly integrate in the love that leads to eternal communion with God. When a traveler is beaten, robbed, and left for dead, both a priest and a Levite pass by—men who knew the Law and its demands for justice, yet failed to act. The Samaritan, considered religiously impure by Jewish standards, demonstrates authentic love through concrete justice: in the response to human suffering. When a traveler is beaten, robbed, and left for dead, both a priest and a Levite pass by—men who knew the Law and its demands for justice, yet failed to act. The Samaritan, considered religiously impure by Jewish standards, demonstrates authentic love through concrete justice:
+
+**He recognized the man's dignity:** Despite cultural and religious barriers, the Samaritan saw the wounded traveler not as an enemy or stranger, but as a human being deserving of justice and mercy.
+
+**He provided immediate care:** Bandaging wounds and pouring oil and wine showed practical justice—restoring what had been violently taken: the man's bodily integrity and human dignity.
+
+**He went beyond minimal justice:** Taking the man to an inn and paying for his continued care demonstrated mercy that exceeded mere legal requirements. He didn't just meet the wounded man's basic needs; he ensured his complete restoration.
+
+**He took personal responsibility:** By promising to return and pay any additional costs, the Samaritan showed that authentic justice requires ongoing commitment, not just momentary assistance.
+
+Jesus concludes this parable by commanding us to "go and do likewise"—to integrate justice and mercy in our response to human need, recognizing that love for neighbor demands both truth about human dignity and concrete action to restore what has been violated.
 
 These Gospel examples show us that authentic justice and mercy don't compete—they complete each other in the perfect love that Jesus embodies.
 
