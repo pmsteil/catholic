@@ -10,7 +10,7 @@
 
 ## The Urgency of Our Response
 
-<div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 23px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
+<div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
 The rampant evil in our world isn't evidence of God's absence—it's the stark contrast that reveals where life without divine love inevitably leads. When society abandons God's laws of love, the results are undeniable: broken families, confused children, and the death of human dignity itself.
 </div>
 
@@ -30,7 +30,7 @@ There's a sound that echoes through every generation, in every culture, across e
 
 ## The Reality Children See Clearly
 
-<div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 23px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
+<div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
 Every child knows instinctively that cruelty is wrong. This universal moral clarity isn't learned—it's discovered. The natural law written on every human heart testifies that we are made for love, not evil, and this witness remains even when sophisticated adults try to explain it away.
 </div>
 
@@ -50,19 +50,21 @@ Moral evil results from free choices to reject good. St. Augustine's profound in
 
 ## Sin: The Root of All Evil
 
-<div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 23px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
 Sin isn't just "making mistakes"—it's the deliberate choice to reject authentic love and embrace what opposes it. Evil has no positive existence; it's the absence or distortion of good, like darkness is the absence of light.
-</div>
 
 This brings us to the heart of the Catholic teaching on sin—and to the heart of why evil exists in our world. Sin is not merely "making mistakes" or "being imperfect"—it is the deliberate choice to reject love and embrace what is opposed to love. The Catechism of the Catholic Church defines sin as "an offense against reason, truth, and right conscience; it is failure in genuine love for God and neighbor caused by a perverse attachment to certain goods" (CCC 1849).
 
-**The Pattern of Sin vs. Love**
+The Pattern of Sin vs. Love
 
 As I contemplated St. Augustine's description that love is willing the good of another and thinking deeply over sin and love, I discovered these ways of describing what happens we when we choose sin over love.
 
-> Love is an action we take which chooses the good of others at our expense.
+<div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
+Love is an action we take which chooses the good of others at our expense.
+</div>
 
-> Sin (or evil) is an action that we take which chooses a perceived good for ourselves at the expense of others.
+<div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
+Sin is an action that we take which chooses a perceived good for ourselves at the expense of others.
+</div>
 
 And note the use of "the good" vs "a perceived good". True love always chooses (at least our best understanding) of what is "truly good" for the other.  Sin often chooses what we perceive to be good for ourselves, but usually it is a distorted or false understanding of what is good for us.  It violates the definition of love in some way - usually it is not based on truth, or is not just in some way, or it is not merciful or sacrificial in some way, etc.
 
@@ -83,8 +85,10 @@ In every case, evil flows from a human heart that made a choice: either love God
 
 ## Sin: The Root of All Evil
 
-> *"Sin is not just a psychological weakness... It is something much more serious: it is a mystery of iniquity that affects the very heart of human existence."*
-> — Pope John Paul II, *Reconciliatio et Paenitentia* 15
+<div class="blockquote" style="background-color: #002b36; padding: 20px 28px; margin: 28px 0; border-radius: 8px; font-size: 18px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+"Sin is not just a psychological weakness... It is something much more serious: it is a mystery of iniquity that affects the very heart of human existence."
+<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">Pope John Paul II, <em>Reconciliatio et Paenitentia</em> 15</span>
+</div>
 
 **What is Sin?** The Catechism teaches us that "sin is an offense against reason, truth, and right conscience; it is failure in genuine love for God and neighbor caused by a perverse attachment to certain goods" (CCC 1849). Every sin, whether it seems "small" or "great," is fundamentally a *choice* to reject authentic love—love of God, love of neighbor, or proper love of self.
 
@@ -97,15 +101,19 @@ In every case, evil flows from a human heart that made a choice: either love God
 - **Social evil** comes from collective sins that become embedded in systems and cultures
 - **Spiritual evil** comes from the fundamental sin of rejecting God Himself
 
-> *"Original sin is the 'reverse side' of the Good News that Jesus is the Savior of all men, that all need salvation and that salvation is offered to all through Christ."*
-> — Catechism of the Catholic Church 389
+<div class="blockquote" style="background-color: #002b36; padding: 20px 28px; margin: 28px 0; border-radius: 8px; font-size: 18px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+"Original sin is the 'reverse side' of the Good News that Jesus is the Savior of all men, that all need salvation and that salvation is offered to all through Christ."
+<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">Catechism of the Catholic Church 389</span>
+</div>
 
 **Why Sin Always Produces Evil:** Because we are created in the image of God and made for love, sin is always a choice against our own deepest nature. It promises happiness but delivers misery, promises freedom but delivers slavery, promises life but delivers death. The consequences of our sinful choices are devastatingly real: waves of pain, broken relationships, and cycles of suffering that ripple outward from every choice to reject love.
 
 **The Gravity of Our Choices:** Understanding this relationship between sin and evil helps us see why the Church takes sin so seriously. It's not because God is a harsh judge looking to condemn us, but because sin literally destroys what we are made for—love, communion, happiness, peace. Every sin, no matter how "small" it may seem, contributes to the ocean of evil that drowns our world in suffering.
 
-> *"Sin is before all else an offense against God, a rupture of communion with him. At the same time it damages communion with the Church."*
-> — Catechism of the Catholic Church 1440
+<div class="blockquote" style="background-color: #002b36; padding: 20px 28px; margin: 28px 0; border-radius: 8px; font-size: 18px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+"Sin is before all else an offense against God, a rupture of communion with him. At the same time it damages communion with the Church."
+<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">Catechism of the Catholic Church 1440</span>
+</div>
 
 Every sin is a public sin, a sin against the entire Body of Christ.
 
@@ -121,7 +129,7 @@ Every sin is a public sin, a sin against the entire Body of Christ.
 
 If only God had sent us someone who could be all of these things!
 
-<div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 23px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
+<div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
 God's answer to evil isn't a philosophy or a program—it's a Person. In Jesus Christ, perfect love became incarnate: fully divine to reveal God's truth, fully human to understand our struggles, and perfectly loving to transform the very hearts where evil begins.
 </div>
 
@@ -131,7 +139,7 @@ We will dive deeper into the love of Jesus Christ in Chapter 9.
 
 ## How Love Combats Every Form of Evil
 
-This book will show how each facet of authentic love—as revealed in Jesus Christ—directly confronts specific forms of evil. <div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 23px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
+This book will show how each facet of authentic love—as revealed in Jesus Christ—directly confronts specific forms of evil. <div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
 Perfect love isn't just one solution among many—it's the comprehensive response that attacks evil at its root. Each facet of authentic love works together: truth conquers deception, justice overcomes oppression, mercy heals hardness of heart, sacrifice defeats selfishness, covenant protects the vulnerable, and communion heals isolation.
 </div>
 
@@ -204,7 +212,7 @@ If we are to address the root cause of evil, we must attack it at its source: th
 But in order to do that we need to understand the true nature of love, so keep reading. We will dive into the nature of God's Perfect Love in the next chapter.
 
 
-<div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 23px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
+<div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
 The battle against evil begins where evil begins: in the human heart. We cannot fight the evil "out there" until we honestly confront the evil "in here." The saints weren't people who never struggled—they were people who learned to let God's perfect love transform their struggles into victories.
 </div>
 
@@ -234,7 +242,10 @@ This gift of free will makes us capable of great good, but also capable of choos
 
 This means that if we want to fight evil effectively, we cannot simply address external symptoms. We must address the source: the human heart that chooses evil over good, self over others, pride over humility, hatred over love.
 
-> "Evil has no positive nature; but the loss of good has received the name 'evil.'" — St. Augustine, City of God, Book XI, Chapter 9
+<div class="blockquote" style="background-color: #002b36; padding: 20px 28px; margin: 28px 0; border-radius: 8px; font-size: 18px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+"Evil has no positive nature; but the loss of good has received the name 'evil.'"
+<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">St. Augustine, City of God, Book XI, Chapter 9</span>
+</div>
 
 To fight against evil, we must repent (turn our hearts back to God) and allow Him to fill our hearts with His Perfect Love, which then enables us to respond with faith, hope, and charity. This will be our topic for Chapter 2 and the rest of this book.
 

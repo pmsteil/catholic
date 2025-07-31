@@ -64,8 +64,10 @@ Being made in God's image means we share certain qualities that make us fundamen
 </div>
 The Second Vatican Council beautifully explains what this means: *"Man, who is the only creature on earth which God willed for itself, cannot fully find himself except through a sincere gift of himself"* (Gaudium et Spes 24). We are the only creatures that were not made for some useful "end"—yet paradoxically, we achieve our greatest dignity when we are willing to give away what and who we are for the good of others, following Christ's example.
 
-> *"If anyone wants to come after me, let him deny himself and take up his cross and follow me. For whoever wants to save his life will lose it, but whoever loses his life for my sake will find it."*
-> — Jesus Christ (Matthew 16:24-25)
+<div class="blockquote" style="background-color: #002b36; padding: 20px 28px; margin: 28px 0; border-radius: 8px; font-size: 18px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+"If anyone wants to come after me, let him deny himself and take up his cross and follow me. For whoever wants to save his life will lose it, but whoever loses his life for my sake will find it."
+<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">Jesus Christ (Matthew 16:24-25)</span>
+</div>
 
 Pope John Paul II, in his Theology of the Body, taught that being made in God's image means we are created with the capacity for love and called to love. As he explained, *"Man cannot live without love. He remains a being that is incomprehensible for himself, his life is senseless, if love is not revealed to him, if he does not encounter love, if he does not experience it and make it his own"* (Redemptor Hominis 10).
 
@@ -133,9 +135,11 @@ As we saw in Chapter 1, sin chooses our own good at the expense of others, while
 
 Through careful study of Scripture and the Church's teaching on love, we can see that perfect love cannot be reduced to a single dimension. It must integrate all the essential elements that Scripture and the Church reveal about love's nature. Here is the definition that will guide our entire journey:
 
-> **The sacred, sacrificial gift of covenant**
-> — *binding truth, justice, and mercy* —
-> — *gathering us into life-giving communion* —
+<div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 23px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
+<strong>The sacred, sacrificial gift of covenant</strong><br>
+— <em>binding truth, justice, and mercy</em> —<br>
+— <em>gathering us into life-giving communion</em> —
+</div>
 
 Let's understand what "perfect" means here. Perfect doesn't mean flawless performance or earning God's love through our efforts. Rather, perfect means *complete* and *integrated*—love that includes all its essential facets working in harmony. Jesus calls us to this perfection: "Be perfect, therefore, as your heavenly Father is perfect" (Matthew 5:48). This is possible not through human effort alone, but through grace (His Perfect Love) that teaches and transforms us. Obviously Jesus is not going to give us a command that we cannot follow.
 
@@ -233,7 +237,10 @@ These saints didn't just understand love intellectually—they lived it. They al
 
 This is why the Church and our Lord himself calls all Catholics to become Saints.  Saints don't just avoid sin, they live the love of God in their hearts and transform the world around them.
 
-> "Whoever wishes to come after me must deny himself, take up his cross, and follow me. For whoever wishes to save his life will lose it, but whoever loses his life for my sake will find it." (Matthew 16:24-25)
+<div class="blockquote" style="background-color: #002b36; padding: 20px 28px; margin: 28px 0; border-radius: 8px; font-size: 18px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+"Whoever wishes to come after me must deny himself, take up his cross, and follow me. For whoever wishes to save his life will lose it, but whoever loses his life for my sake will find it."
+<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">Matthew 16:24-25</span>
+</div>
 
 *Heavenly Father, You are Love itself, and You have written the cry for love in every human heart. We confess that sin and idolatry have enslaved us and corrupted our ability to love authentically. Liberate us through the truth of Your Son, Jesus Christ, who came to set the captives free. Help us to understand what love truly means—not the counterfeits the world offers, but the perfect love that flows from Your own divine nature. Break the chains of idolatry that prevent us from loving as we should, and give us the grace to live this love authentically, so that through us, others may encounter both the truth that liberates and the love they're truly seeking. Through Christ our Lord, who is Love incarnate and our Liberator. Amen.*
 
