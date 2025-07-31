@@ -43,13 +43,25 @@ This reflects what St. Paul describes as "the law written on their hearts" (Roma
 
 Justice is not founded on human opinion, social convention or arbitrary laws—it flows from God's own nature and is written on every human heart through what we (philosophers dating all the way back to Aristotle in the 4th century BC) have come to call "natural law". The Catechism teaches us that "the natural law expresses the original moral sense which enables man to discern by reason the good and the evil" (CCC 1954).
 
-There is the natural law that shows we desire moral order and not chaos and - and we have the intellect and will to reason and choose the good. Pair that with Jesus' revelations about what His radical love looks like and we have the foundation for "true justice", a well formed justice that has arguably led to the most flourishing of human societies.
+<div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 23px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
+Natural law gives us the foundation, but divine revelation completes our understanding of true justice.
+</div>
+
+Natural law reveals our innate desire for moral order over chaos, and equips us with intellect and will to reason toward the good. Yet natural law alone can only take us so far—it gives us the *foundation* but not the *fullness* of justice.
+
+Through Jesus Christ and His Church, we discover a more perfect and complete understanding of true justice. Divine revelation shows us that justice isn't merely about balancing scales or maintaining social order, but about restoring relationships, healing wounds, and enabling human flourishing through love. What natural law begins as moral intuition, Christ perfects through His radical love—revealing that authentic justice always serves love and prepares the way for mercy.
+
+This is why societies rooted in Christian understanding of justice have historically produced the most human flourishing: they build upon natural law's foundation while ascending to divine revelation's completion.
 
 #### Justice Defined
 
-**Justice, at its core, is giving each person what they are owed according to their nature and dignity.** This classical definition, rooted in Scripture and Church teaching, reveals that justice has both retributive and meritorious dimensions. As the Catechism teaches: "Justice is the moral virtue that consists in the constant and firm will to give their due to God and neighbor" (CCC 1807).
+<div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 23px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
+Justice is giving each person their due according to their nature and dignity—starting with God, then flowing to neighbor, self, and creation.
+</div>
 
-Retributive justice is what we typically think of as the punishment due for wrongdoing. Meritorious justice is the reward or honor due for good or heroic (virtuous) acts.
+This classical definition, rooted in Natural Law and further developed by Scripture and Church teaching, reveals that justice has both retributive and meritorious dimensions. As the Catechism teaches: "Justice is the moral virtue that consists in the constant and firm will to give their due to God and neighbor" (CCC 1807).
+
+Retributive justice is what we typically think of as the punishment due for wrongdoing (think about the human desire for retribution when a child is murdered). Meritorious justice is the reward or honor due for good or heroic (virtuous) acts (think about the human desire for honor when a child is saved).
 
 **Retributive Justice (Punishment for Wrongdoing):**
 Retributive justice involves bringing consequences to those who violate moral order—"bringing them to justice" as we commonly say. This includes:
@@ -221,7 +233,7 @@ Consider how God's commandments create corresponding rights:
 
 **"Feed the hungry, clothe the naked" (Matthew 25:35-36) → Right to Basic Needs:** Because God commands us to care for those in need, every person has the right to food, shelter, clothing, and healthcare necessary for sustaining human dignity and life.
 
-**Every right carries a corresponding duty to sacrifice for our neighbors' good.** Interesting! 😊
+<div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 23px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">Every right carries a corresponding duty to sacrifice for our neighbors' good.</div>
 
 Sadly, modern society has not been taught that "rights" flow from duties we owe to God and our neighbors. But we must know this so that we can teach our children and anyone fighting for an inferior "justice" or "human right" that is not based on God's true justice.
 
@@ -293,9 +305,45 @@ Scripture shows that humans have a special responsibility for creation—not as 
 
 This biblical ordering prevents the disorder that occurs when we give ultimate devotion to finite goods or treat unequal things as if they were equal. As Jesus warned, "No one can serve two masters" (Matthew 6:24).
 
+## The Integration of Justice and Mercy: True Justice Demands Mercy
+
+Now that we have established the Natural Law and Catholic understanding of justice—giving each person their due according to their nature and dignity—we must confront a crucial truth: **justice that is not integrated with mercy ceases to be justice at all**.
+
+Consider a two-year-old child who lies to you. According to strict justice, lying deserves punishment. But if we were to apply only rigid justice—sending this child to prison for deception—we would immediately recognize this as a monstrous miscarriage of justice, not its fulfillment. The punishment fails to be truly just because it ignores the child's age, understanding, and the nature of the offense.
+
+**True justice requires wisdom that integrates mercy:**
+- The child deserves to be taught not to lie
+- The child deserves appropriate correction for their age
+- The child deserves guidance in understanding truth and its importance
+- The child deserves patience as they learn and grow
+
+This isn't mercy overriding justice—this is **mercy perfecting justice** by ensuring the response is truly proportionate to both the person and the offense. Justice without this merciful wisdom becomes cruelty masquerading as righteousness.
+
+The same principle applies to every human interaction. A teenager who shoplifts needs both the justice of restitution and the mercy of understanding why they felt compelled to steal. A spouse who speaks harshly needs both accountability for the harm caused and the mercy of being seen as more than their worst moment.
+
+**Justice integrated with mercy recognizes:**
+- The full humanity of the person before us
+- The circumstances that shaped their choices
+- The potential for growth and transformation
+- The appropriate response that truly serves their flourishing
+
+This integration becomes clear when we remember our fundamental definitions from Chapter 1:
+
+> **Love is an action we take which chooses the good of others at our expense.**
+
+> **Sin (or evil) is an action that we take which chooses a perceived good for ourselves at the expense of others.
+
+When we truly understand justice as giving each person their due, we see that **authentic justice is always an act of love**—choosing to honor the dignity and rights of others even when it costs us. Conversely, **injustice is always rooted in sin**—choosing our own perceived good at the expense of what others are rightfully owed.
+
+This is why authentic Catholic justice never stands alone. It always seeks the wisdom that tempers severity with understanding, that balances accountability with compassion, that demands truth while offering hope. Justice without mercy becomes merely punitive; mercy without justice becomes merely permissive.
+
+<div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 23px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
+True justice demands mercy - because mercy ensures that our response is ordered toward communion.
+</div>
+
 ## Jesus: The Perfect Integration of Justice and Mercy
 
-Having established the divine foundation and proper ordering of justice, we can now see how Jesus perfectly demonstrates how justice and mercy work together in authentic love. Throughout the Gospels, we see Jesus embodying this perfect balance, never compromising either virtue.
+Having established both the divine foundation of justice and its necessary integration with mercy, we can now see how Jesus perfectly demonstrates this synthesis in authentic love. Throughout the Gospels, we see Jesus embodying this perfect balance, never compromising either virtue while ensuring that each perfects the other.
 
 ### The Woman Caught in Adultery (John 8:1-11)
 
@@ -349,7 +397,7 @@ These Gospel examples show us that authentic justice and mercy don't compete—t
 
 Justice is not opposed to love but is love's foundation. Without justice, love becomes mere sentiment; without love, justice becomes cold legalism. Perfect love requires both.
 
-> "Justice without mercy is cruelty; mercy without justice is the mother of dissolution."
+> "Justice without mercy is cruelty; mercy without justice is the mother of dissolution." (Dissolution is the breakdown of order)
 > — St. Thomas Aquinas
 
 > "Love will always prove necessary, even in the most just society."
@@ -363,7 +411,15 @@ Justice is not opposed to love but is love's foundation. Without justice, love b
 
 **Demands Truth:** Justice requires honesty about what is real and what is good. Love built on lies is not authentic love.
 
-**Prepares for Mercy:** Justice establishes the moral order that makes mercy meaningful. Mercy is only beautiful when it transcends justice, not when it ignores it. As Isaiah proclaims, "Truly, the LORD is waiting to be gracious to you, truly, he shall rise to show you mercy; For the LORD is a God of justice: happy are all who wait for him!" (Isaiah 30:18). God's mercy flows from His perfect justice - true justice and mercy are intertwined!
+**Prepares for Mercy:** Justice establishes the moral order that makes mercy meaningful. Mercy is only beautiful when it applies and transcends justice, not when it ignores it. As Isaiah proclaims, "Truly, the LORD is waiting to be gracious to you, truly, he shall rise to show you mercy; For the LORD is a God of justice: happy are all who wait for him!" (Isaiah 30:18).
+
+<div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 23px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
+Today's urgent cries for justice can only find their complete answer in the perfect harmony of God's truth, justice, and mercy.
+</div>
+
+*This is the heart of Catholic justice: not mere retribution, but restoration that heals both victim and perpetrator through the transforming power of merciful love.*
+
+God's mercy flows from His perfect justice - true justice and mercy are intertwined!
 
 ## The Cry for Justice in Our Time
 
