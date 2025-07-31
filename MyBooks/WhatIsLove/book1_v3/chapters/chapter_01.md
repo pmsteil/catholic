@@ -10,6 +10,10 @@
 
 ## The Urgency of Our Response
 
+<div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 23px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
+The rampant evil in our world isn't evidence of God's absence—it's the stark contrast that reveals where life without divine love inevitably leads. When society abandons God's laws of love, the results are undeniable: broken families, confused children, and the death of human dignity itself.
+</div>
+
 We live in a time of intensifying moral confusion. Children are told they can choose their gender. Marriage is redefined to exclude children. The innocent are killed in the womb. Divorce has become normalized and children are pitted against the parents. Euthanasia is becoming acceptable. Following the law is becoming optional.
 
 Truth itself has been declared unknowable.
@@ -26,6 +30,10 @@ There's a sound that echoes through every generation, in every culture, across e
 
 ## The Reality Children See Clearly
 
+<div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 23px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
+Every child knows instinctively that cruelty is wrong. This universal moral clarity isn't learned—it's discovered. The natural law written on every human heart testifies that we are made for love, not evil, and this witness remains even when sophisticated adults try to explain it away.
+</div>
+
 Watch a five-year-old witness an act of cruelty, and you'll see something remarkable: immediate, instinctive moral clarity. They don't need a philosophy course to know that hurting someone innocent is wrong. This childlike moral clarity reflects the **natural law written on every human heart** (Romans 2:15). As the Second Vatican Council teaches, "Deep within his conscience man discovers a law which he has not laid upon himself but which he must obey. Its voice, ever calling him to love and to do what is good and to avoid evil, sounds in his heart at the right moment" (*Gaudium et Spes* 16).
 
 ## The Nature and Scope of Moral Evil
@@ -41,6 +49,10 @@ Moral evil results from free choices to reject good. St. Augustine's profound in
 **Spiritual Evil:** The rejection of God Himself—atheism, relativism, despair, idolatry.
 
 ## Sin: The Root of All Evil
+
+<div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 23px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
+Sin isn't just "making mistakes"—it's the deliberate choice to reject authentic love and embrace what opposes it. Evil has no positive existence; it's the absence or distortion of good, like darkness is the absence of light.
+</div>
 
 This brings us to the heart of the Catholic teaching on sin—and to the heart of why evil exists in our world. Sin is not merely "making mistakes" or "being imperfect"—it is the deliberate choice to reject love and embrace what is opposed to love. The Catechism of the Catholic Church defines sin as "an offense against reason, truth, and right conscience; it is failure in genuine love for God and neighbor caused by a perverse attachment to certain goods" (CCC 1849).
 
@@ -109,13 +121,21 @@ Every sin is a public sin, a sin against the entire Body of Christ.
 
 If only God had sent us someone who could be all of these things!
 
+<div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 23px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
+God's answer to evil isn't a philosophy or a program—it's a Person. In Jesus Christ, perfect love became incarnate: fully divine to reveal God's truth, fully human to understand our struggles, and perfectly loving to transform the very hearts where evil begins.
+</div>
+
 **The Answer: Jesus, the Christ:** But this is exactly what God did! In the Incarnation, God the Son became man—fully divine and fully human. Jesus Christ is the perfect lawgiver ("I am the Way, the Truth, and the Life"), the perfect teacher ("Learn from me, for I am gentle and humble of heart"), the one who reveals the fullness of God's truth, justice, and mercy ("Whoever has seen me has seen the Father"), the one who understands us completely ("He was tempted in every way that we are, yet never sinned"), and the one we can relate to ("The Word became flesh and dwelt among us"). Only perfect love—God's own love incarnate—can overcome the evil that flows from sin by transforming the hearts where sinful choices are made.
 
 We will dive deeper into the love of Jesus Christ in Chapter 9.
 
 ## How Love Combats Every Form of Evil
 
-This book will show how each facet of authentic love—as revealed in Jesus Christ—directly confronts specific forms of evil. Perfect love is "the sacred, sacrificial gift of covenant, binding truth, justice, and mercy, gathering us into life-giving communion," and each aspect of this definition becomes a weapon against evil:
+This book will show how each facet of authentic love—as revealed in Jesus Christ—directly confronts specific forms of evil. <div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 23px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
+Perfect love isn't just one solution among many—it's the comprehensive response that attacks evil at its root. Each facet of authentic love works together: truth conquers deception, justice overcomes oppression, mercy heals hardness of heart, sacrifice defeats selfishness, covenant protects the vulnerable, and communion heals isolation.
+</div>
+
+Perfect love is "the sacred, sacrificial gift of covenant, binding truth, justice, and mercy, gathering us into life-giving communion," and each aspect of this definition becomes a weapon against evil:
 
 **Truth** conquers the evil of deception and lies that keep souls in darkness and prevent authentic relationships.
 
@@ -183,6 +203,10 @@ If we are to address the root cause of evil, we must attack it at its source: th
 
 But in order to do that we need to understand the true nature of love, so keep reading. We will dive into the nature of God's Perfect Love in the next chapter.
 
+
+<div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 23px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
+The battle against evil begins where evil begins: in the human heart. We cannot fight the evil "out there" until we honestly confront the evil "in here." The saints weren't people who never struggled—they were people who learned to let God's perfect love transform their struggles into victories.
+</div>
 
 ## A Personal Examination
 

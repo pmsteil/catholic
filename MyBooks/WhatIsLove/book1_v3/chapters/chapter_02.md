@@ -31,6 +31,10 @@ They are all hungry for authentic love, but our society has stripped them of any
 
 This is the universal cry for love—the deepest longing of every human heart. And if we can't answer the question "What is love?" clearly and completely and live that out in our lives, we're failing the next generation just when they need us most.
 
+<div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 23px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
+Every human heart carries the same hunger—not for counterfeits, but for the authentic love that only God can give. This isn't learned behavior; it's written into our very nature as beings made in the image of Love Himself.
+</div>
+
 We also hear cries in our society today for justice and mercy, which we will address in subsequent chapters, but if we don't understand love correctly, we will be unequipped to help them find true justice and mercy—or to identify the counterfeit loves that keep our society in bondage to sin and deeper injustice.
 
 ## The Universal Experience of Longing
@@ -43,14 +47,21 @@ The cry for love isn't just a preference or a nice-to-have. It's written into th
 
 **The Soul's Cry for Love:** At the deepest level, our souls hunger for unconditional acceptance and eternal commitment. The soul knows instinctively that human love, however beautiful, points beyond itself to something perfect and permanent. We see the depth of this soul-love most clearly in our grief—the profound sorrow we feel when we lose someone we love reveals just how deeply love is written into our very being. Even Jesus wept at the death of His friend Lazarus (John 11:35), showing us that grief is love's testimony to the preciousness of the beloved. The deepest cry of the soul is for the love that will never end, never disappoint, and never fail—the love that can only come from God Himself.
 
+<div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 23px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
+Authentic love engages our entire being—body, mind, and soul—because we are created as integrated persons, not fragmented parts. When any dimension is neglected, love becomes distorted and ultimately fails to satisfy.
+</div>
+
 When these three dimensions work in harmony, we are able and desire to seek authentic love that honors the whole person. When they're disordered, we either become purely physical (using bodies without engaging hearts), coldly intellectual (analyzing love without experiencing it), or unrealistically spiritual (expecting perfection from imperfect human beings).
 
-This integration of love within our heart, mind, and soul is not accidental—it flows from the very nature of our being. This is precisely why Jesus, when asked about eternal life, points the scholar of the law back to love as the means to eternal communion with God. "Teacher, what must I do to inherit eternal life?" Jesus said to him, “What is written in the law? How do you read it?” He said in reply, “You shall love the Lord, your God, with all your heart, with all your being, with all your strength, and with all your mind, and your neighbor as yourself. He replied to him, “You have answered correctly; do this and you will live.” (Luke 10:25-28)
+This integration of love within our heart, mind, and soul is not accidental—it flows from the very nature of our being. This is precisely why Jesus, when asked about eternal life, points the scholar of the law back to love as the means to eternal communion with God. "Teacher, what must I do to inherit eternal life?" Jesus said to him, "What is written in the law? How do you read it?" He said in reply, "You shall love the Lord, your God, with all your heart, with all your being, with all your strength, and with all your mind, and your neighbor as yourself. He replied to him, "You have answered correctly; do this and you will live." (Luke 10:25-28)
 
 ## Why This Longing is Universal: Made in the Image of God
 
 This universal longing for love isn't taught or merely cultural—it's written into our very nature because we are made in the image of God. As Scripture reveals in the very first chapter of Genesis: *"So God created mankind in his own image, in the image of God he created them; male and female he created them"* (Genesis 1:27).
 
+<div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 23px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
+Being made in God's image means we share certain qualities that make us fundamentally different from all other creatures. We can know truth, choose freely, create waves of good or evil, love sacrificially, long for the infinite, and are called to communion.
+</div>
 The Second Vatican Council beautifully explains what this means: *"Man, who is the only creature on earth which God willed for itself, cannot fully find himself except through a sincere gift of himself"* (Gaudium et Spes 24). We are the only creatures that were not made for some useful "end"—yet paradoxically, we achieve our greatest dignity when we are willing to give away what and who we are for the good of others, following Christ's example.
 
 > *"If anyone wants to come after me, let him deny himself and take up his cross and follow me. For whoever wants to save his life will lose it, but whoever loses his life for my sake will find it."*
@@ -73,6 +84,10 @@ These are the heart, mind and soul all working together to know, choose, and lov
 
 This is why the cry for love is universal. Every human heart knows instinctively that we're made for something more than mere survival or pleasure. We're made for love because we're made in the image of Love Himself.
 
+<div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 23px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
+The universal hunger for love isn't learned behavior—it's the echo of our divine origin. We are the only creatures created for relationship with God himself, and this explains why no earthly love, however beautiful, can fully satisfy our infinite longing.
+</div>
+
 ## What Children Know About Love
 
 Before we examine how great minds have tried to define love, let's look at an unexpected source of wisdom—our children. Watch how children naturally understand love before the world teaches them otherwise:
@@ -90,6 +105,10 @@ Before we examine how great minds have tried to define love, let's look at an un
 **Love Shows Mercy.** When children break something precious, they cry out for mercy with genuine anguish, knowing they need forgiveness to restore the relationship.
 
 This childlike understanding isn't naive—it's profound. Jesus said, "Unless you turn and become like children, you will never enter the kingdom of heaven" (Matthew 18:3). Children see love clearly because authentic love is written on the human heart as natural law.
+
+<div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 23px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
+Children understand love perfectly before the world teaches them otherwise. Their instinctive knowledge of love's sacredness, sacrifice, and permanence reveals what our hearts truly seek—and what we lose when we settle for counterfeits.
+</div>
 
 ## Traditional Definitions and Their Contributions
 
@@ -146,6 +165,12 @@ Every word matters:
 
 When all these elements are present together, love becomes perfect—capable of conquering all forms of evil and creating authentic communion between persons. This is what children instinctively understand, what the saints lived, and what Jesus demonstrated perfectly on the cross.
 
+<div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 23px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
+Perfect love is the sacred, sacrificial gift of covenant, binding truth, justice, and mercy, gathering us into life-giving communion.
+</div>
+
+This isn't just a definition—it's the complete answer to the problem of evil itself.
+
 You can see from these facets of love that people understand bits and pieces of this and live these things out imperfectly. This is why we struggle to define and understand love—without God's Perfect Love as our guide, we can only see distorted fragments of what our hearts truly seek. Look around and you'll see people everywhere desperately pursuing the sacred (through spirituality), the sacrificial (through causes), the covenantal (through marriage and family), truth (through science and philosophy), justice (through politics), mercy (through humanitarian work), and communion (through community). But without the complete vision that God provides, these pursuits become twisted counterfeits that ultimately disappoint and when they don't adhere to some facet of God's Perfect Love, they can lead to great harm and evil.
 
 ## God's Perfect Love leads to True Freedom
@@ -177,6 +202,10 @@ This is exactly why Jesus came—not just to teach us about love, but to break t
 Similarly, when the Church teaches about marriage, family, sexuality, or relationships, it's not trying to control us—it's showing us the "banks" God has given us that allow love to flow with power and purpose rather than dissipating into chaos. Without this kind of guidance, our cry for love becomes like being hungry but not knowing which foods will nourish us and which will poison us.
 
 The Church as a whole becomes the banks of the river of Chrit's love for us. Teaching us, sanctifying us, and pouring out His love to us through the sacraments making His love powerful and life-giving to the entire world.
+
+<div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 23px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
+True freedom isn't found in rejecting all boundaries—it's discovered when we bind ourselves to Christ's perfect love. The Church's teachings aren't chains but the banks that allow love's river to flow with power, purpose, and life-giving direction.
+</div>
 
 <u>The paradox is that freedom is not the absence of boundaries but the ability to direct the power of love with purpose and direction within the bounds of truth, justice, and mercy.</u> We must bind ourselves to Christ who is our perfect example and teacher of love.
 
