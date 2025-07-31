@@ -22,6 +22,10 @@ This universal cry for mercy reveals that we are created for perfect love but wo
 
 ## Justice and Mercy: Partners in Perfect Love
 
+<div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
+    Mercy does not oppose justice—it perfects it by restoring what justice alone cannot heal.
+</div>
+
 As we explored in Chapter 3, justice and mercy are not opposing forces but complementary expressions of perfect love. Justice gives each person what they deserve; mercy gives what they need for healing and restoration. Both flow from love's desire for the authentic good of the other.
 
 **How Mercy and Justice Work Together:**
@@ -49,11 +53,15 @@ Children demonstrate pure understanding of mercy before adults complicate it wit
 
 This childlike mercy reflects God's own heart: "quick to forgive, slow to anger, and rich in compassion" (Psalm 103:8). Jesus' command to "become like children" includes recovering this tender heart that refuses to let past hurts define future relationships.
 
-<div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
-    Mercy is a beautiful gift from God embedded deep within our soul.
-</div>
+
+*Mercy is a beautiful gift from God embedded deep within our soul.*
+
 
 ## The Nature of True Mercy
+
+<div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
+    True mercy is not weakness—it is love choosing the harder path of healing over the easier path of rejection.
+</div>
 
 Mercy is not mere sentiment or weakness. True mercy is **powerful act of the will that chooses to forgive rather than punish, to heal rather than harm, to restore rather than reject**. It's one of the most demanding expressions of love because it requires us to transcend our natural desire for retribution, punishment, or rejection and choose the harder path of healing.
 
@@ -77,6 +85,10 @@ This doesn't mean mercy ignores justice. As we explored in Chapter 3, justice an
 
 ## The Biblical Foundation of Mercy
 
+<div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
+    Mercy is not a human invention—it is who God is, revealed from Genesis to Revelation.
+</div>
+
 Having established mercy's nature, we can now explore how Scripture reveals this truth about God's own heart. Mercy is not a human invention but a reflection of God's own nature. From the Old Testament to the New, we see that mercy is central to who God is and how He relates to His creation.
 
 **God's Mercy in the Old Testament:** The Hebrew word for mercy, *hesed*, appears over 240 times in the Old Testament and describes God's steadfast, covenant love. Psalm 136 repeats twenty-six times: "His mercy endures forever." When Moses asked to see God's glory, God revealed Himself as "The Lord, the Lord, a God merciful and gracious, slow to anger, and abounding in steadfast love and faithfulness" (Exodus 34:6). This divine self-revelation shows that mercy is not just something God does—it's who God is.
@@ -92,6 +104,10 @@ Having established mercy's nature, we can now explore how Scripture reveals this
 **Mercy and the Trinity:** The Catechism reveals that mercy flows from the very life of the Trinity, showing us how each Person of the Godhead expresses perfect mercy: "The Father is merciful because He is love itself (1 John 4:8), the source of all mercy. The Son reveals the Father's mercy through His incarnation, passion, and resurrection—becoming mercy incarnate for our salvation. The Holy Spirit is the gift of mercy, poured into our hearts to enable us to be merciful as the Father is merciful" (CCC 1829, 1832). This Trinitarian foundation shows that when we practice mercy, we participate in the very life of God.
 
 ## Mercy Breaks Cycles and Creates Space for Redemption
+
+<div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
+    Mercy breaks cycles of revenge by choosing to absorb hurt rather than pass it on.
+</div>
 
 This biblical understanding helps us see why mercy is so transformative in human relationships. Without mercy, human relationships become trapped in endless cycles of hurt and revenge. You hurt me, so I hurt you back. You retaliate, so I escalate. Soon, the original offense is forgotten in the spiral of mutual destruction. Mercy breaks this cycle by choosing to absorb the hurt rather than pass it on.
 
@@ -119,6 +135,10 @@ You don't have to be ready to forgive today. But you can be ready to let God beg
 This transformative power of mercy raises important questions about how to respond when we encounter genuine evil—not mere mistakes or weaknesses, but deliberate cruelty, abuse, or injustice. Does mercy require us to be doormats? Does forgiveness mean ignoring justice?
 
 ### Mercy Does Not Mean Enabling Evil
+
+<div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
+    True mercy seeks the sinner's authentic good, which sometimes requires allowing suffering to serve healing.
+</div>
 
 True mercy seeks the authentic good of the other person (justice), which sometimes means allowing them to face the consequences of their actions. A parent who never disciplines a child isn't showing mercy—they're enabling (and thus teaching) destructive behavior. A society that refuses to prosecute criminals isn't merciful—it's abandoning its duty to protect the innocent and even causing more harm to the perpetrator.
 
@@ -159,6 +179,10 @@ As we've seen throughout this exploration, true mercy—like all authentic expre
 When body, mind, and soul are integrated in the practice of mercy, we become effective instruments of God's healing love in the world. When they are divided—when our actions contradict our beliefs, or our emotions override our reason—our mercy becomes either ineffective sentimentality or harsh judgment disguised as righteousness. This is why the confessional is so powerful: it calls us to integrate our entire being in the practice of mercy. We will discuss this in more detail in Chapter 8.
 
 ## The Need for Divine Grace in Mercy
+
+<div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
+    True mercy is beyond human capacity—we need divine grace to forgive what seems unforgivable.
+</div>
 
 This integration of our entire being in the practice of mercy reveals a sobering truth: even with the best intentions, we often find our hearts hardened by pain, our minds clouded by hurt, and our wills weakened by the wounds others have inflicted upon us. This is where we discover our absolute need for divine grace. True mercy—especially toward those who have deeply wounded us—is often beyond our natural human capacity.
 
