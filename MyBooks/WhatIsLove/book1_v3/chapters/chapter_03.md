@@ -2,17 +2,17 @@
 
 <div class="blockquote" style="background-color: #002b36; padding: 20px 28px; margin: 28px 0; border-radius: 8px; font-size: 18px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
 "Learn to do good; seek justice, correct oppression; bring justice to the fatherless, plead the widow's cause."
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">— Isaiah 1:17</span>
+<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">Isaiah 1:17</span>
 </div>
 
 <div class="blockquote" style="background-color: #002b36; padding: 20px 28px; margin: 28px 0; border-radius: 8px; font-size: 18px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
 "He has told you, O man, what is good; and what does the Lord require of you but to do justice, and to love kindness, and to walk humbly with your God?"
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">— Micah 6:8</span>
+<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">Micah 6:8</span>
 </div>
 
 <div class="blockquote" style="background-color: #002b36; padding: 20px 28px; margin: 28px 0; border-radius: 8px; font-size: 18px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
 "Justice is the constant and perpetual will to give each person his due."
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">— St. Thomas Aquinas, Summa Theologiae II-II, q. 58, a. 1</span>
+<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">St. Thomas Aquinas, Summa Theologiae II-II, q. 58, a. 1</span>
 </div>
 
 ---
@@ -155,7 +155,7 @@ St. Thomas Aquinas, the Church's greatest theologian and philosopher, provides t
 
 <div class="blockquote" style="background-color: #002b36; padding: 20px 28px; margin: 28px 0; border-radius: 8px; font-size: 18px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
 "God is the first principle and last end of all things."
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">— Summa Theologiae I, q. 2–3; I-II, q. 1, a. 8</span>
+<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">St. Thomas Aquinas, Summa Theologiae I, q. 2–3; I-II, q. 1, a. 8</span>
 </div>
 
 **Because God is our Creator, Sustainer, and Ultimate End, we owe Him everything.** Aquinas teaches that God is:
@@ -180,7 +180,7 @@ Therefore, **to resist God's authority is not just disobedience—it is irration
 
 <div class="blockquote" style="background-color: #002b36; padding: 20px 28px; margin: 28px 0; border-radius: 8px; font-size: 18px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
 "The moral precepts of the natural law are part of the eternal law... therefore, we are bound to obey them."
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">— ST I-II, q. 91–93</span>
+<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">St. Thomas Aquinas, Summa Theologiae I-II, q. 91–93</span>
 </div>
 
 When we submit to God's justice, we are not surrendering our freedom—we are discovering what true freedom means: the ability to choose what is genuinely good for us and for all creation.
@@ -195,7 +195,7 @@ The "author" of justice has true "authority"—but true authority is never dicta
 
 <div class="blockquote" style="background-color: #002b36; padding: 20px 28px; margin: 28px 0; border-radius: 8px; font-size: 18px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
 "The rational creature's participation in the eternal law."
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">— ST I-II, q. 91, a. 2</span>
+<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">St. Thomas Aquinas, Summa Theologiae I-II, q. 91, a. 2</span>
 </div>
 
 **Because we are rational beings created in God's image, our freedom finds its perfection not in autonomy, but in voluntary, humble obedience to right reason, which is a participation in God's eternal wisdom.** This means:
@@ -438,7 +438,7 @@ Justice is not opposed to love but is love's foundation. Without justice, love b
 
 <div class="blockquote" style="background-color: #002b36; padding: 20px 28px; margin: 28px 0; border-radius: 8px; font-size: 18px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
 "Justice without mercy is cruelty; mercy without justice is the mother of dissolution." (Dissolution is the breakdown of order)
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">— St. Thomas Aquinas</span>
+<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">St. Thomas Aquinas, Summa Theologiae. Thomas Aquinas</span>
 </div>
 
 <div class="blockquote" style="background-color: #002b36; padding: 20px 28px; margin: 28px 0; border-radius: 8px; font-size: 18px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
