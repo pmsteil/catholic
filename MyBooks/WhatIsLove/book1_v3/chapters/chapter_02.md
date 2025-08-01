@@ -64,7 +64,7 @@ Being made in God's image means we share certain qualities that make us fundamen
 </div>
 The Second Vatican Council beautifully explains what this means: *"Man, who is the only creature on earth which God willed for itself, cannot fully find himself except through a sincere gift of himself"* (Gaudium et Spes 24). We are the only creatures that were not made for some useful "end"—yet paradoxically, we achieve our greatest dignity when we are willing to give away what and who we are for the good of others, following Christ's example.
 
-<div class="blockquote" style="background-color: #002b36; padding: 20px 28px; margin: 28px 0; border-radius: 8px; font-size: 18px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
 "If anyone wants to come after me, let him deny himself and take up his cross and follow me. For whoever wants to save his life will lose it, but whoever loses his life for my sake will find it."
 <span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">Jesus Christ (Matthew 16:24-25)</span>
 </div>
@@ -237,7 +237,7 @@ These saints didn't just understand love intellectually—they lived it. They al
 
 This is why the Church and our Lord himself calls all Catholics to become Saints.  Saints don't just avoid sin, they live the love of God in their hearts and transform the world around them.
 
-<div class="blockquote" style="background-color: #002b36; padding: 20px 28px; margin: 28px 0; border-radius: 8px; font-size: 18px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
 "Whoever wishes to come after me must deny himself, take up his cross, and follow me. For whoever wishes to save his life will lose it, but whoever loses his life for my sake will find it."
 <span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">Matthew 16:24-25</span>
 </div>

@@ -1,16 +1,16 @@
 # Chapter 3: The Universal Cry for Justice
 
-<div class="blockquote" style="background-color: #002b36; padding: 20px 28px; margin: 28px 0; border-radius: 8px; font-size: 18px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
 "Learn to do good; seek justice, correct oppression; bring justice to the fatherless, plead the widow's cause."
 <span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">Isaiah 1:17</span>
 </div>
 
-<div class="blockquote" style="background-color: #002b36; padding: 20px 28px; margin: 28px 0; border-radius: 8px; font-size: 18px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
 "He has told you, O man, what is good; and what does the Lord require of you but to do justice, and to love kindness, and to walk humbly with your God?"
 <span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">Micah 6:8</span>
 </div>
 
-<div class="blockquote" style="background-color: #002b36; padding: 20px 28px; margin: 28px 0; border-radius: 8px; font-size: 18px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
 "Justice is the constant and perpetual will to give each person his due."
 <span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">St. Thomas Aquinas, Summa Theologiae II-II, q. 58, a. 1</span>
 </div>
@@ -153,7 +153,7 @@ St. Thomas Aquinas, the Church's greatest theologian and philosopher, provides t
 
 #### 1. God is the First Cause and Final End of All Things
 
-<div class="blockquote" style="background-color: #002b36; padding: 20px 28px; margin: 28px 0; border-radius: 8px; font-size: 18px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
 "God is the first principle and last end of all things."
 <span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">St. Thomas Aquinas, Summa Theologiae I, q. 2–3; I-II, q. 1, a. 8</span>
 </div>
@@ -178,7 +178,7 @@ Again, we love God because He first loved us.
 
 Therefore, **to resist God's authority is not just disobedience—it is irrational.** It is to rebel against what is best for us. As Aquinas explains:
 
-<div class="blockquote" style="background-color: #002b36; padding: 20px 28px; margin: 28px 0; border-radius: 8px; font-size: 18px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
 "The moral precepts of the natural law are part of the eternal law... therefore, we are bound to obey them."
 <span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">St. Thomas Aquinas, Summa Theologiae I-II, q. 91–93</span>
 </div>
@@ -193,7 +193,7 @@ The "author" of justice has true "authority"—but true authority is never dicta
 
 **The deepest reason we owe God perfect justice is that we are rational beings made in His image.** Aquinas defines the natural law as:
 
-<div class="blockquote" style="background-color: #002b36; padding: 20px 28px; margin: 28px 0; border-radius: 8px; font-size: 18px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
 "The rational creature's participation in the eternal law."
 <span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">St. Thomas Aquinas, Summa Theologiae I-II, q. 91, a. 2</span>
 </div>
@@ -290,7 +290,7 @@ True justice is fundamentally about **giving each being what they are owed** acc
 Scripture reveals that different beings deserve different types and degrees of reverence, creating what we might call a proper ordering of our duties. This hierarchy isn't arbitrary but reflects the order established by God Himself:
 
 ### God First: The Great Commandment
-<div class="blockquote" style="background-color: #002b36; padding: 20px 28px; margin: 28px 0; border-radius: 8px; font-size: 18px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
 "You shall love the Lord your God with all your heart and with all your soul and with all your mind. This is the great and first commandment."
 <span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">Matthew 22:37-38
 </div>
@@ -298,7 +298,7 @@ Scripture reveals that different beings deserve different types and degrees of r
 Jesus teaches that our first duty of justice is to God—giving Him the supreme worship, adoration, and obedience He deserves as Creator and Father with our entire being - our body, mind, and soul. If you study carefully, all the other commandments reiterate this same duty - do not give your 'worthship' to things that are not God (the idols of our hearts, money, power, lust, envy, anger, etc.)
 
 ### Parents and Authority: The Fourth Commandment
-<div class="blockquote" style="background-color: #002b36; padding: 20px 28px; margin: 28px 0; border-radius: 8px; font-size: 18px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
 "Honor your father and your mother, that your days may be long in the land that the Lord your God is giving you."
 <span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">Exodus 20:12</span>
 </div>
@@ -306,7 +306,7 @@ Jesus teaches that our first duty of justice is to God—giving Him the supreme 
 Scripture consistently places honor for parents and legitimate authority immediately after duties to God, showing their special place in the hierarchy of justice. This is the only one that comes with a promise - why? Because honoring your parents (those that physically created you) passes on the gift of God's Perfect Love from one generation to the next.
 
 ### Neighbor as Yourself: The Second Great Commandment
-<div class="blockquote" style="background-color: #002b36; padding: 20px 28px; margin: 28px 0; border-radius: 8px; font-size: 18px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
 "And a second is like it: You shall love your neighbor as yourself."
 <span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">Matthew 22:39</span>
 </div>
@@ -324,7 +324,7 @@ Jesus reveals that justice toward our neighbor must be measured by proper justic
 This shows that both civil and religious authority have a special place in the hierarchy of justice, with civil authority having the duty to protect the common good and religious authority having the duty to protect the faith.
 
 ### Creation Under Our Stewardship
-<div class="blockquote" style="background-color: #002b36; padding: 20px 28px; margin: 28px 0; border-radius: 8px; font-size: 18px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
 "And God said to them, 'Be fruitful and multiply and fill the earth and subdue it, and have dominion over the fish of the sea and over the birds of the heavens and over every living thing that moves on the earth.'"
 <span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">Genesis 1:28</span>
 </div>
@@ -394,7 +394,7 @@ Jesus showed his deep caring for the woman through his heart of justice and merc
 
 When Jesus showed mercy to Zacchaeus the tax collector, notice what happened: Zacchaeus immediately responded with justice that went beyond legal requirements. Read Luke 19:1-10.
 
-<div class="blockquote" style="background-color: #002b36; padding: 20px 28px; margin: 28px 0; border-radius: 8px; font-size: 18px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
 "Behold, Lord, the half of my goods I give to the poor. And if I have defrauded anyone of anything, I restore it fourfold."
 <span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">Luke 19:8</span>
 </div>
@@ -407,7 +407,7 @@ True mercy awakens the desire for justice, not the excuse to avoid it.
 
 When the rich young man asked about eternal life, Jesus first pointed him to justice—keeping the commandments. But then He revealed that perfect love requires going beyond minimal justice. Read Mark 10:17-22.
 
-<div class="blockquote" style="background-color: #002b36; padding: 20px 28px; margin: 28px 0; border-radius: 8px; font-size: 18px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
 "You lack one thing: go, sell all that you have and give to the poor, and you will have treasure in heaven; and come, follow me."
 <span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">Mark 10:21</span>
 </div>
@@ -436,12 +436,12 @@ These Gospel examples show us that authentic justice and mercy don't compete—t
 
 Justice is not opposed to love but is love's foundation. Without justice, love becomes mere sentiment; without love, justice becomes cold legalism. Perfect love requires both.
 
-<div class="blockquote" style="background-color: #002b36; padding: 20px 28px; margin: 28px 0; border-radius: 8px; font-size: 18px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
 "Justice without mercy is cruelty; mercy without justice is the mother of dissolution." (Dissolution is the breakdown of order)
 <span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">St. Thomas Aquinas, Summa Theologiae. Thomas Aquinas</span>
 </div>
 
-<div class="blockquote" style="background-color: #002b36; padding: 20px 28px; margin: 28px 0; border-radius: 8px; font-size: 18px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
 "Love will always prove necessary, even in the most just society."
 <span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">— Pope Benedict XVI, Deus Caritas Est</span>
 </div>
@@ -468,7 +468,7 @@ God's mercy flows from His perfect justice - true justice and mercy are intertwi
 
 The universal cry for justice is particularly urgent in our contemporary world, where fundamental human rights face serious challenges:
 
-<div class="blockquote" style="background-color: #002b36; padding: 20px 28px; margin: 28px 0; border-radius: 8px; font-size: 18px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
 "Justice is both the aim and the intrinsic criterion of all politics. Politics is more than a mere mechanism for defining the rules of public life: its origin and its goal are found in justice, which by its very nature has to do with ethics."
 <span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">— Pope Benedict XVI, Deus Caritas Est</span>
 </div>

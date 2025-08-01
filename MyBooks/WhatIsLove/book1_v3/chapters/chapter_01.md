@@ -85,7 +85,7 @@ In every case, evil flows from a human heart that made a choice: either love God
 
 ## Sin: The Root of All Evil
 
-<div class="blockquote" style="background-color: #002b36; padding: 20px 28px; margin: 28px 0; border-radius: 8px; font-size: 18px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
 "Sin is not just a psychological weakness... It is something much more serious: it is a mystery of iniquity that affects the very heart of human existence."
 <span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">Pope John Paul II, <em>Reconciliatio et Paenitentia</em> 15</span>
 </div>
@@ -101,7 +101,7 @@ In every case, evil flows from a human heart that made a choice: either love God
 - **Social evil** comes from collective sins that become embedded in systems and cultures
 - **Spiritual evil** comes from the fundamental sin of rejecting God Himself
 
-<div class="blockquote" style="background-color: #002b36; padding: 20px 28px; margin: 28px 0; border-radius: 8px; font-size: 18px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
 "Original sin is the 'reverse side' of the Good News that Jesus is the Savior of all men, that all need salvation and that salvation is offered to all through Christ."
 <span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">Catechism of the Catholic Church 389</span>
 </div>
@@ -110,7 +110,7 @@ In every case, evil flows from a human heart that made a choice: either love God
 
 **The Gravity of Our Choices:** Understanding this relationship between sin and evil helps us see why the Church takes sin so seriously. It's not because God is a harsh judge looking to condemn us, but because sin literally destroys what we are made for—love, communion, happiness, peace. Every sin, no matter how "small" it may seem, contributes to the ocean of evil that drowns our world in suffering.
 
-<div class="blockquote" style="background-color: #002b36; padding: 20px 28px; margin: 28px 0; border-radius: 8px; font-size: 18px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
 "Sin is before all else an offense against God, a rupture of communion with him. At the same time it damages communion with the Church."
 <span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">Catechism of the Catholic Church 1440</span>
 </div>
@@ -242,7 +242,7 @@ This gift of free will makes us capable of great good, but also capable of choos
 
 This means that if we want to fight evil effectively, we cannot simply address external symptoms. We must address the source: the human heart that chooses evil over good, self over others, pride over humility, hatred over love.
 
-<div class="blockquote" style="background-color: #002b36; padding: 20px 28px; margin: 28px 0; border-radius: 8px; font-size: 18px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
 "Evil has no positive nature; but the loss of good has received the name 'evil.'"
 <span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">St. Augustine, City of God, Book XI, Chapter 9</span>
 </div>

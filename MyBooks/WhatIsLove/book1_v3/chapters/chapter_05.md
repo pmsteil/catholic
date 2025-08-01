@@ -1,13 +1,19 @@
 # Chapter 5: Truth: The Foundation of Authentic Love
 
-> "I am the way, and the truth, and the life."
-> — John 14:6
+<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+"I am the way, and the truth, and the life."
+<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">John 14:6</span>
+</div>
 
-> "...and you will know the truth, and the truth will set you free."
-> — John 8:32
+<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+"...and you will know the truth, and the truth will set you free."
+<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">John 8:32</span>
+</div>
 
-> "Man naturally tends toward truth. He is obliged to honor and bear witness to it."
-> — Catechism of the Catholic Church 2467
+<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+"Man naturally tends toward truth. He is obliged to honor and bear witness to it."
+<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">Catechism of the Catholic Church 2467</span>
+</div>
 
 ---
 
@@ -66,7 +72,10 @@ The Catechism teaches us that "Man naturally tends toward truth. He is obliged t
 
 As we come to know God's Truth of who he is and how Hhis Truths teach us how to love, we are brought out of the darkness and into the light.  Read John 3:16-21.
 
-> "But whoever lives the truth comes to the light, so that his works may be clearly seen as done in God." - John 3:21
+<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+"But whoever lives the truth comes to the light, so that his works may be clearly seen as done in God."
+<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">John 3:21</span>
+</div>
 
 ## The Nature of True Truth
 
