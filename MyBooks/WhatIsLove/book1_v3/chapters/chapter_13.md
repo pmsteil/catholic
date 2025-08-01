@@ -1,14 +1,19 @@
 # Chapter 13: The "Gospel" (Good News) is God's Perfect Love
 
-> "God is love, and whoever remains in love remains in God and God in him."
-> — 1 John 4:16
+<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+"God is love, and whoever remains in love remains in God and God in him."
+<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">1 John 4:16</span>
+</div>
 
-> "For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life."
-> — John 3:16
+<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+"For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life."
+<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">John 3:16</span>
+</div>
 
-
-> "The whole concern of doctrine and its teaching must be directed to the love that never ends. Whether something is proposed for belief, for hope, or for action, the love of our Lord must always be made accessible, so that anyone can see that all the works of perfect Christian virtue spring from love and have no other objective than to arrive at love."
-> — Catechism of the Catholic Church 25
+<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+"The whole concern of doctrine and its teaching must be directed to the love that never ends. Whether something is proposed for belief, for hope, or for action, the love of our Lord must always be made accessible, so that anyone can see that all the works of perfect Christian virtue spring from love and have no other objective than to arrive at love."
+<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">Catechism of the Catholic Church 25</span>
+</div>
 
 ---
 

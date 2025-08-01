@@ -1,13 +1,19 @@
 # Chapter 6: Sacrifice: The Heart of Authentic Love
 
-> "Greater love has no one than this, that someone lay down his life for his friends."
-> — John 15:13
+<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+"Greater love has no one than this, that someone lay down his life for his friends."
+<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">John 15:13</span>
+</div>
 
-> "I appeal to you therefore, brothers, by the mercies of God, to present your bodies as a living sacrifice, holy and acceptable to God, which is your spiritual worship."
-> — Romans 12:1
+<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+"I appeal to you therefore, brothers, by the mercies of God, to present your bodies as a living sacrifice, holy and acceptable to God, which is your spiritual worship."
+<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">Romans 12:1</span>
+</div>
 
-> "Love is proved by deeds, not by words."
-> — St. Ignatius of Loyola
+<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+"Love is proved by deeds, not by words."
+<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">St. Ignatius of Loyola</span>
+</div>
 
 ---
 
@@ -23,19 +29,25 @@ This is why sacrifice stands at the very heart of authentic love. Sacrifice tran
 
 As we will see, sacrifice is not about losing ourselves or diminishing our dignity. Rather, true sacrifice is about discovering our deepest identity through self-giving, finding our greatest joy through service, and participating in the very nature of God, who is perfect self-giving love.
 
+<div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
+Every act of love requires sacrifice.
+</div>
+
 ## What Children Know About Sacrifice
 
 Children demonstrate pure understanding of sacrifice before adults complicate it with theories about self-actualization:
 
-**"Here, you can have mine."** Young children spontaneously share their treasures with those they love, understanding instinctively that love means giving something precious.
+**They want to help mom and dad.** Children constantly offer to help with whatever their parents are doing—not because someone told them to, but because helping those they love feels natural and good.
 
-**"Can I help?"** Children experience genuine joy helping someone in need without calculating cost or asking "What's in it for me?"
+**They give up their turn.** Children will let a younger sibling go first on the slide or choose the game, understanding that love sometimes means waiting.
 
-**"I saved this for you."** Children know real love requires planning and forethought—saving the best cookie or prettiest flower for someone they love.
+**They give up their plans.** Children will change their game or activity to include a friend who wants to play, sacrificing their original idea for the joy of shared play.
 
-**"I'll be brave for you."** Children understand love sometimes requires courage, sacrificing their own fear to protect someone smaller.
+**They share with those who don't have.** Children will break their cookie in half to give some to a friend who has none, understanding that love means no one should be left out.
 
-This childlike generosity reflects the heart of the Gospel: "Greater love has no one than this, that someone lay down his life for his friends" (John 15:13). Adults must return to this generous spirit that finds joy in self-giving rather than self-seeking.
+**They protect without thinking.** An older child will stand between a younger sibling and something scary, their own fear forgotten in their desire to keep someone safe.
+
+Children sacrifice naturally, without thinking of it as sacrifice. Their love simply overflows into action, unburdened by adult calculations of cost or reward.
 
 ## Why This Call to Sacrifice is Universal: Made in God's Image
 
@@ -71,7 +83,7 @@ At its core, the difference between sin and love can be understood through sacri
 
 **Soul:** Spiritual sacrifice—surrendering our will to God's will, choosing virtue over vice, offering our sufferings for the salvation of others, dying to self that Christ might live in us. The soul participates in love by making the fundamental choice of God over self.
 
-This integration of body, mind, and soul in sacrifice reflects our nature as unified beings created for love. Authentic sacrifice is never merely physical, intellectual, or spiritual—it engages the whole person in the act of love.
+This integration of body, mind, and soul in sacrifice reflects our nature as unified beings created for love. Authentic sacrifice engages the whole person—our physical body, our intellect, and our will—in the act of love.
 
 ## How Sacrifice Integrates Truth, Justice, and Mercy
 
@@ -85,9 +97,18 @@ Sacrifice transforms the other essential facets of authentic love from ideas int
 
 **The Integration:** Truth tells us what love requires, justice establishes what we owe each person according to their dignity, mercy chooses to give more than justice requires, and sacrifice provides the power to actually live truth, justice, and mercy rather than merely understanding them.
 
+To live this out means understanding this integration via our intellect and directing our will to actually make the sacrifice.
+
+<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+"Not everyone who says to me, 'Lord, Lord,' will enter the kingdom of heaven, but only the one who does the will of my Father who is in heaven."
+<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">Matthew 7:21</span>
+</div>
+
+
+
 ## The Biblical Foundation: Jewish Types of Sacrifice
 
-The Old Testament sacrificial system, established by God through Moses, reveals the essential nature of sacrifice and prepares us to understand Christ's perfect sacrifice. Each type of offering teaches us something crucial about how sacrifice makes love visible and effective.
+While many Christians today hear "sacrifice" and think only of Jesus' death on the Cross, the Old Testament sacrificial system reveals the essential nature of sacrifice and prepares us to understand Christ's perfect sacrifice. Each type of offering teaches us something crucial about how sacrifice makes love visible and effective.
 
 **1. The Burnt Offering (*Olah* - "That Which Goes Up")**
 This was the most complete sacrifice, where the entire animal was consumed by fire, symbolizing total self-offering to God. Leviticus 1:9 describes it as "a burnt offering, a food offering with a pleasing aroma to the Lord." The burnt offering represents the oblative (sacrifice that goes up) dimension of sacrifice—pure love that holds nothing back. It prefigures Christ's complete self-offering on the Cross and calls us to offer ourselves entirely to God, as St. Paul writes: "Present your bodies as a living sacrifice, holy and acceptable to God" (Romans 12:1).
@@ -119,18 +140,27 @@ Every authentic sacrifice—from the Jewish offerings to Christ's Cross to our d
 
 ## What This Teaches Us About Sacrifice
 
-The Jewish sacrificial system reveals that authentic sacrifice is not arbitrary suffering but purposeful love that accomplishes specific spiritual work. Our daily sacrifices participate in Christ's perfect sacrifice when they express total self-offering (burnt offering), make reparation for sin (sin offering), seek to make amends for wrongs (guilt offering), build communion with God and neighbor (peace offering), offer our ordinary work and life to God (grain offering), and transform our gratitude into worship (thanksgiving offering). Every Mass makes present both dimensions of Christ's sacrifice—expiatory (making reparation for sins) and oblative (offering pure love to the Father).
+The Jewish sacrificial system reveals that authentic sacrifice is not arbitrary suffering but purposeful communal acts of giving that accomplishes specific spiritual work. Our daily sacrifices participate in and unite with Christ's perfect sacrifice when they express total self-offering (burnt offering), make reparation for sin (sin offering), seek to make amends for wrongs (guilt offering), build communion with God and neighbor (peace offering), offer our ordinary work and life to God (grain offering), and transform our gratitude into worship (thanksgiving offering).
 
 ## How These Prefigure Christ's Perfect Sacrifice
 
-Each Jewish sacrifice was a shadow pointing to the reality of Christ's Cross. As the Letter to the Hebrews explains: "It is impossible for the blood of bulls and goats to take away sins" (Hebrews 10:4), but "when Christ had offered for all time a single sacrifice for sins, he sat down at the right hand of God" (Hebrews 10:12). Christ's sacrifice fulfills and perfects all sacrifices simultaneously. One of the many ways Jesus came to fulfill the Law: "Do not think that I have come to abolish the law or the prophets. I have come not to abolish but to fulfill" (Matthew 5:17).
+Each Jewish sacrifice was a shadow pointing to the reality of Christ's Cross. As the Letter to the Hebrews explains: "It is impossible for the blood of bulls and goats to take away sins" (Hebrews 10:4), but "when Christ had offered for all time a single sacrifice for sins, he sat down at the right hand of God" (Hebrews 10:12). Christ's sacrifice fulfills and perfects all sacrifices simultaneously. One of the many ways Jesus came to fulfill the Law:
 
-- His **burnt offering** is the most complete self-giving to the Father
-- His **sin offering** is the sacrifice that takes away the sin of the world
-- His **guilt offering** is the sacrifice that makes restitution for our debt to divine justice
-- His **peace offering** is the sacrifice that creates communion between God and humanity
-- His **grain offering** is the sacrifice that offers His human life and work to the Father
-- His **thanksgiving offering** is the perfect Eucharist that transforms our gratitude into worship
+<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+"Do not think that I have come to abolish the law or the prophets. I have come not to abolish but to fulfill."
+<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">Matthew 5:17</span>
+</div>
+
+- His **burnt offering** is the most complete self-giving to the Father (gift)
+- His **sin offering** is the sacrifice that takes away the sin of the world (mercy)
+- His **guilt offering** is the sacrifice that makes restitution for our debt to divine justice (justice)
+- His **peace offering** is the sacrifice that creates communion between God and humanity (life giving communion)
+- His **grain offering** is the sacrifice that offers His human life and work to the Father (sacrifice)
+- His **thanksgiving offering** is the perfect Eucharist that transforms our gratitude into worship (participation)
+
+Jesus fulfills the law by offering Himself as the perfect sacrifice—making reparation for our sins while offering pure love to the Father. Through His sacrifice, He not only saves us but invites us to unite our own sacrifices with His, sharing in His redemptive love for the world.
+
+Every Mass makes present both dimensions of Christ's sacrifice—expiatory (making reparation for sins) and oblative (offering pure love to the Father)—and draws us into communion with this perfect offering.
 
 ## The Paschal Mystery: Death and Resurrection as One Perfect Sacrifice
 
@@ -146,9 +176,9 @@ The Paschal Mystery teaches us that sacrifice is not about destruction but about
 
 ## Mary: The Perfect Model of Sacrificial Love
 
-After Christ, Mary provides the most perfect example of sacrificial love. Her entire life was a continuous "fiat"—a willing surrender to God's will that began at the Annunciation and culminated at the Cross.
+After Christ, Mary provides a most perfect example of sacrificial love. Her entire life was a continuous "fiat"—a willing surrender to God's will - the sacrifice of a mother - that began at the Annunciation and culminated at the Cross.
 
-**Her Fiat at the Annunciation:** Mary's "Let it be done unto me according to your word" (Luke 1:38) was the first and most fundamental sacrifice—the sacrifice of her own will, her plans, her reputation, and her safety for the sake of God's plan of salvation. This sacrifice made the Incarnation possible and shows us that the greatest sacrifices often involve surrendering our understanding to God's wisdom.
+**Her Fiat at the Annunciation:** Mary's "Let it be done unto me according to your word" (Luke 1:38) was a most fundamental sacrifice—the sacrifice of her own will, her plans, her reputation, and her safety for the sake of God's plan of salvation. This sacrifice made the Incarnation possible and shows us that the greatest sacrifices often involve surrendering our understanding to God's wisdom.
 
 **Her Presence at the Cross:** While the apostles fled, Mary stood at the foot of the Cross, offering her maternal heart in union with her Son's sacrifice. She sacrificed her natural desire to protect her child, instead offering Him with perfect love for our salvation. As Simeon prophesied, "a sword will pierce your own soul also" (Luke 2:35). Her presence there was not passive but active participation in the work of redemption.
 
