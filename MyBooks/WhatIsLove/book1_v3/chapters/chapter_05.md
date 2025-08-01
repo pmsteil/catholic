@@ -25,7 +25,14 @@ In Chapters 3 and 4, we experienced the universal human cry for justice ("That's
 
 But as we explored justice and mercy more deeply, crucial questions emerged: *How do we know when justice is truly just and not merely our own preference?* *How do we know when mercy is authentic healing and not dangerous enablement?* *What prevents justice from becoming revenge or mercy from becoming weakness?*
 
-The answer is truth. **Justice without truth becomes arbitrary opinion.** **Mercy without truth becomes dangerous sentiment.** **Love without truth becomes manipulation or self-deception.**
+The answer is truth.
+
+<div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
+Justice without truth leads to tyranny and dehumanization. <br/>
+Mercy without truth leads to spiritual destruction. <br/>
+</div>
+
+Justice, Mercy and Truth are like three strands woven together into one cord that is stronger than any of the individual strands. This integration of truth, justice and mercy are palpable in Colossians 3:5-17 which brings it all together in verse 14: "And over all these put on love, that is, the bond of perfection."
 
 This is why truth serves as the sacred foundation that makes authentic justice and mercy possible. We needed to experience our hunger for justice and mercy first, so we could understand why truth is not merely academic knowledge but the very foundation that prevents these virtues from becoming distorted counterfeits.
 
@@ -57,27 +64,35 @@ The Catechism teaches us that "Man naturally tends toward truth. He is obliged t
 
 **Why We Rejoice in Discovery:** There's a unique joy that comes from discovering truth—whether it's a child learning how something works, a student grasping a difficult concept, or an adult finally understanding a relationship. This joy reflects our participation in God's own knowledge and our return to our natural element.
 
+As we come to know God's Truth of who he is and how Hhis Truths teach us how to love, we are brought out of the darkness and into the light.  Read John 3:16-21.
+
+> "But whoever lives the truth comes to the light, so that his works may be clearly seen as done in God." - John 3:21
+
 ## The Nature of True Truth
 
-Truth is not merely human opinion or cultural preference—it is the conformity of mind to reality, and ultimately, participation in God Himself. As the Catechism teaches: "God is truth itself, whose words cannot deceive" (CCC 215). He reveals Himself to us through interconnected ways that work together to give us the complete picture:
+Truth is not merely human opinion or cultural preference—it is the **conformity of mind to reality**, and ultimately, participation in God Himself. As the Catechism teaches: "God is truth itself, whose words cannot deceive" (CCC 215). He reveals Himself to us through interconnected ways that work together to give us the complete picture:
 
-**Creation itself** bears witness to God's truth. As St. Paul teaches: *"Ever since the creation of the world his invisible nature, namely, his eternal power and deity, has been clearly perceived in the things that have been made"* (Romans 1:20). The natural world, with its order and beauty, reveals God's wisdom and power.
+**Creation itself** bears witness to God's truth. As St. Paul teaches: *"Ever since the creation of the world his invisible nature, namely, his eternal power and deity, has been clearly perceived in the things that have been made"* (Romans 1:20). The natural world, with its order and beauty, reveals God's truth, wisdom and power.
 
-**The human heart**, made in God's image, naturally recognizes truth through conscience and reason. Deep down, every person knows certain things are right or wrong—like protecting children, keeping promises, and treating others fairly. This isn't something we learn from books; it's written on our hearts by God Himself. Even people who have never heard of Jesus often recognize His voice in their conscience, calling them toward truth and goodness.
+**The human heart**, made in God's image, naturally recognizes truth through conscience and reason. Deep down, every person knows the difference between what is real and what is false—between authentic love and mere pretense, between genuine identity and deception, between actual relationships and empty words. This isn't something we learn from books; it's written on our hearts by God Himself. Even people who have never heard of Jesus often recognize His voice in their conscience, calling them toward what is truly real rather than what merely appears to be real.
 
 **Salvation History** reveals God's truth through His mighty acts of love and redemption. From Abraham's call to Christ's resurrection, God has revealed His nature and plan through the progressive covenants—with Noah, Abraham, Moses, and David—each building toward the ultimate New Covenant in Jesus Christ. Through these historical events and covenant relationships, God demonstrates His faithfulness, justice, and mercy, culminating in Christ who is the fullness of divine revelation.
 
-**The Church**, established by Christ Himself, serves as *"the pillar and foundation of the truth"* (1 Timothy 3:15). Through the Magisterium guided by the Holy Spirit, the Church authoritatively interprets Scripture and Tradition, protecting God's revelation from error and applying it to new circumstances.
+**The Church**, established by Christ Himself, serves as *"the pillar and foundation of the truth"* (1 Timothy 3:15). Through the Magisterium guided by the Holy Spirit, the Church authoritatively interprets Sacred Scripture and thus creating a Sacred Tradition that helps us understand the truth of God's Perfect Love - and that the teachings must be "true" - coherent, logical, consistent and "real" in a way that matches reality and Scripture. The Church is the great "school of love" which teaches the "science of love" or the "law of Christ" (Galatians 6:2, Romans 7:25, Romans 8:2, Romans 10:4, 1 Corinthians 9:21).
 
 **Sacred Scripture** contains God's revealed truth given to us through the prophets and apostles. The written Word of God provides the definitive revelation of His nature and will for humanity. As Jesus prayed to the Father: *"Sanctify them in truth; your word is truth"* (John 17:17).
 
-These five sources of truth—Creation, the human heart, Salvation History, the Church, and Sacred Scripture—must be read and lived together to ensure we have the complete truth of Christ. None stands alone; each illuminates and confirms the others. This is why the Catholic Church teaches that we need both Scripture and Tradition, both faith and reason, both revelation and natural law, and the authoritative guidance of the Church to fully understand God's truth.
+These five sources of truth—Creation, the human heart, Salvation History, the Church, and Sacred Scripture—must be read and lived together to ensure we have the complete truth of Christ. None stands alone; each illuminates and confirms the others. This is why the Catholic Church teaches that we need both Sacred Scripture and Sacred Tradition, both faith and reason, both revelation and natural law, and the authoritative guidance of the Church to fully understand God's truth. This is why it is said that the Catholic Faith is often described as the "fullness of truth".
 
 ### Truth as Foundation for Love
 
 **Truth Enables Knowledge:** We cannot truly love God or neighbor without knowing them truthfully. Love requires seeing reality clearly, not through illusions, projections, or wishful thinking. Most fundamentally, authentic love requires knowing the truth about each person's inherent dignity as made in God's image—we cannot truly love someone whose true worth we deny or fail to recognize. A husband who loves his wife based on false assumptions about who she is doesn't truly love her—he loves his fantasy. Similarly, we cannot truly love someone we are deceiving, because deception creates a barrier that prevents authentic relationship and communion.
 
-**Truth Guides Action:** Truth provides the sacred clarity needed to discern how to love effectively and justly. Love without truth can be misguided or even harmful. The parent who refuses to discipline a child out of false compassion enables destructive behavior. The friend who affirms sinful choices out of misguided kindness participates in spiritual harm.
+<div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
+You cannot love what you do not know. Truth is the prerequisite for authentic love because love requires seeing the beloved as they truly are, not as we wish them to be.
+</div>
+
+**Truth Guides Action:** Truth provides the sacred clarity needed to discern how to love correctly and justly. Love without truth can be misguided or even harmful. The parent who refuses to discipline a child out of false compassion enables destructive behavior. The friend who affirms sinful choices out of misguided kindness participates in spiritual harm. When society undermines the dignity of the human person, great tragedies will ensue (e.g. chattel slavery, abortion, euthanasia, the Holocaust, etc.)
 
 **Truth Builds Trust:** All authentic relationships—especially covenant relationships—are built on trust, which requires truthfulness and integrity. Marriage vows spoken with mental reservations aren't true covenants. Friendships built on pretense or our own selfish agenda aren't authentic.
 
@@ -87,51 +102,61 @@ These five sources of truth—Creation, the human heart, Salvation History, the 
 
 **Truth Liberates Love:** As Jesus promised, "You will know the truth, and the truth will set you free" (John 8:32). Love grounded in truth conforms itself to reality rather than demanding that reality conform to our preferences, feelings, or desires. This liberates us from the exhausting burden of trying to force the world to match our illusions and enables us to love people as they actually are, not as we wish they were.
 
-As Pope Benedict XVI warned: *"Without truth, charity degenerates into sentimentality. Love becomes an empty shell, to be filled in an arbitrary way. In a culture without truth, this is the fatal risk facing love"* (Caritas in Veritate, 3).
+As Pope Benedict XVI warned: *"Without truth, charity degenerates into sentimentality. Love becomes an empty shell, to be filled in an arbitrary way. **In a culture without truth, this is the fatal risk facing love**"* (Caritas in Veritate, 3).
 
-## Truth and Authority: The Foundation of Catholic Faith
+## Truth requires Authority: The Foundation of Catholic Faith
 
 Having established that mercy requires truth as its foundation, we now face a crucial question: Who has the authority to determine what truth actually is? The questions that arise in practicing mercy—Should we forgive someone who shows no repentance? When does "mercy" become enabling?—are not merely practical questions but theological ones that require authoritative answers grounded in divine revelation.
 
-This isn't about power or control—it's about love protecting the vulnerable from deception and error. Just as mercy without truth can become dangerous sentiment, truth without authority becomes subjective opinion that leaves us defenseless against error.
+But here's the profound insight: **authority itself must come from God because He is the Author of all reality**. The very word "authority" contains "author"—the one who creates, establishes, and gives meaning to all that exists. Just as a novelist has authority over the world she creates, God has absolute authority over the reality He authored.
+
+This isn't about power or control—it's about love freely received and freely given. When we submit to God's authority, we aren't surrendering to tyranny but **humbly and voluntarily accepting the free gift of His perfect love**—what we call grace. If God's truth were dictated and forced upon us from above, it would indeed be tyranny. But when we submit to His authority in freedom, we are choosing to live according to the very design written into our nature by the Author of life itself.
+
+This voluntary submission is itself an act of love—choosing to align our will with the will of the One who created us out of love and for love. In this submission, we discover not slavery but freedom, not oppression but the fullness of life that comes from living in harmony with truth.
 
 ### God's Threefold Revelation of Truth
 
 God has revealed truth to humanity through three complementary sources:
 
-**Natural Law:** Written in the human heart and discernible through reason (Romans 2:14-15). This is why all cultures recognize basic moral truths like the wrongness of murder and the importance of honesty.
+**Natural Law:** Written in the human heart and discernible through reason (Romans 2:14-15). This is why just about all cultures recognize basic moral truths like the wrongness of unjustified killing of innocents, care for children, reciprocal fairness, in-group cooperation, and respect for legitimate authority.
 
-**Creation:** The visible world reveals God's invisible attributes (Romans 1:20). The order, beauty, and complexity of creation point to their Creator and teach us about His nature.
+**Creation:** The visible world reveals God's invisible attributes (Romans 1:20). The order, beauty, and complexity of creation point to their Creator and teach us about His nature. Even nature has objective truths that we recognize such as the laws of physics, the constancy of gravity, the constancy of the speed of light, law of cause and effect, etc.
 
 **Divine Revelation:** God's direct communication through Scripture and Tradition, preserved and interpreted by the Church's Magisterium.
 
 ### Christ's Grant of Authority to the Church
 
-Jesus didn't leave us to figure out truth individually. He established His Church as the authoritative teacher and guardian of truth:
+Jesus didn't leave us to figure out truth individually. As the divine Author incarnate, He established His Church as the authoritative teacher and guardian of truth—not as an external imposition, but as the continuation of His own loving authority:
 
 *"And I tell you, you are Peter, and on this rock I will build my church, and the gates of hell shall not prevail against it. I will give you the keys of the kingdom of heaven, and whatever you bind on earth shall be bound in heaven, and whatever you loose on earth shall be loosed in heaven"* (Matthew 16:18-19).
 
-The "keys" represent the authority to govern the Church and determine doctrine. "Binding and loosing" refers to the power to declare what is forbidden or permitted, what is sinful or virtuous—in essence, the authority to definitively interpret God's truth for the faithful.
+The "keys" represent the authority to govern the Church and determine doctrine. "Binding and loosing" refers to the power to declare what is forbidden or permitted, what is sinful or virtuous—in essence, the authority to definitively interpret the Author's truth for His creatures.
 
 *"Whoever listens to you listens to me; whoever rejects you rejects me; but whoever rejects me rejects him who sent me"* (Luke 10:16).
+
+This authority is not arbitrary power but the loving guidance of the Author ensuring His creatures can live according to their true design. The Church's teaching authority exists not to control but to liberate—to free us from the slavery of error so we can live in the freedom of truth.
 
 ### The Church as "Pillar and Foundation of Truth"
 
 St. Paul calls the Church "the pillar and foundation of the truth" (1 Timothy 3:15). This means:
 
-**The Magisterium:** The Church has Jesus' authority and responsibility to teach the truth. As Jesus commanded: *"All authority in heaven and on earth has been given to me. Go therefore and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, teaching them to observe all that I have commanded you"* (Matthew 28:18-20).
+**The Magisterium:** The Church has Jesus' authority and responsibility to teach the truth. As Jesus commanded: *"**All authority in heaven and on earth has been given to me**. Go therefore and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, teaching them to observe all that I have commanded you"* (Matthew 28:18-20). Most of us mis including verse 18 when we refer to the great commission - but this is Jesus granting authority to the Church to teach and baptize - to carry out the "law of Christ".
 
-**Infallibility:** When the Church teaches definitively on matters of faith and morals, she is protected from error by the Holy Spirit. As Jesus promised: *"When the Spirit of truth comes, he will guide you into all the truth"* (John 16:13). St. John reminds us: *"We are from God. Whoever knows God listens to us; whoever is not from God does not listen to us. By this we know the Spirit of truth and the spirit of error"* (1 John 4:6).
+**Infallibility:** When the Church teaches definitively on matters of faith and morals, she is protected from error by the Holy Spirit. As Jesus promised: *"When the Spirit of truth comes, he will guide you into **all the truth**"* (John 16:13). St. John reminds us: *"We are from God. Whoever knows God listens to us; whoever is not from God does not listen to us. By this we know the Spirit of truth and the spirit of error"* (1 John 4:6).
 
-**Apostolic Succession:** The bishops are the successors of the apostles, maintaining an unbroken chain of authority from Christ Himself. As Paul instructed Timothy: *"What you have heard from me in the presence of many witnesses entrust to faithful men, who will be able to teach others also"* (2 Timothy 2:2).
+**Apostolic Succession:** The bishops are the successors of the apostles, maintaining an unbroken chain of authority from Christ Himself. As St. Paul an Apostle instructed Timothy, the Bishop of Ephesus: *"What you have heard from me in the presence of many witnesses entrust to faithful men, who will be able to teach others also"* (2 Timothy 2:2). This is why every Priest takes a vow to teach the faith handed down from the apostles - not their own interpretation of the faith - but the deposit of faith as it has always been taught.
 
 **Unity of Teaching:** Sacred Tradition maintains one faith across all times, cultures, and circumstances, providing moral certainty in a world of confusion and prevents future generations from distorting the faith that has always been taught. As Paul urged: *"I appeal to you, brothers, by the name of our Lord Jesus Christ, that all of you agree, and that there be no divisions among you, but that you be united in the same mind and the same judgment"* (1 Corinthians 1:10).
 
+<div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
+Jesus gave the Church His authority to teach the fullness of His Perfect Love.
+</div>
+
 ### Why Authority is Essential to Love
 
-This isn't about power or control—it's about love protecting the vulnerable:
+This isn't about power or control—it's about love protecting the vulnerable and guiding us to live a life of abundance in His truth, justice and mercy.
 
-**Protects from Deception:** Without authoritative teaching, people fall prey to every wind of doctrine and cultural trend.
+**Protects from Deception:** Without authoritative teaching, people fall prey to every wind of doctrine and cultural trend which will likely lead us away from proper truth, justice and/or mercy.
 
 **Provides Moral Certainty:** In complex ethical situations, we need more than personal opinion—we need the wisdom of the Church.
 
@@ -145,7 +170,7 @@ This isn't about power or control—it's about love protecting the vulnerable:
 
 Understanding Church authority doesn't mean Catholics should be arrogant or dismissive toward those who disagree. Instead, it gives us confidence to engage in respectful dialogue:
 
-**Start with Natural Law:** Begin conversations by appealing to truths written on every human heart—like the dignity of children, the importance of honesty, or the need for justice and mercy and truth itself. Most people recognize these truths even if they don't accept Church authority.
+**Start with Natural Law:** Begin conversations by appealing to truths written on every human heart—truths that resonate across cultures and beliefs. Start with what people already recognize: every child deserves protection, honesty builds trust while deception destroys it, and some actions are objectively wrong regardless of circumstances—like the deliberate destruction of innocent life, the enslavement of human beings, or the violation of another person's bodily integrity. These aren't just Church teachings; they're fundamental recognitions of human dignity that most people acknowledge, even if they don't yet see their full implications for truth, justice, and mercy.
 
 **Share Personal Testimony:** Explain how living according to Catholic teaching has brought freedom, peace, and authentic love into your life. Truth proves itself by its fruits.
 
@@ -164,17 +189,27 @@ In our relativistic age, many people claim that "truth is subjective" or "everyo
 - **Christ is "the Truth":** Jesus didn't claim to have opinions—He claimed to be Truth itself. As He testified before Pilate: *"For this purpose I was born and for this purpose I have come into the world—to bear witness to the truth. Everyone who belongs to the truth listens to my voice"* (John 18:37).
 - **To be "Catholic" means to submit:** The word "catholic" means universal—we humbly submit to the Truth and Authority of Jesus as exercised through His Church so that we can most perfectly love God, neighbor, and self.
 
-This submission isn't intellectual slavery—it's the freedom to live in truth. As Jesus promised: *"If you continue in my word, you are truly my disciples, and you will know the truth, and the truth will set you free"* (John 8:31-32) and also "I came so that they might have life, and have it more abundantly" (John 10:10).
+This submission isn't intellectual slavery—it's the joyful acceptance of the Author's design for His creation. When we submit to the Church's authority, we aren't surrendering our freedom but discovering it. We are choosing to live according to the very pattern written into our nature by the One who knows us better than we know ourselves.
+
+As Jesus promised: *"If you continue in my word, you are truly my disciples, and you will know the truth, and the truth will set you free"* (John 8:31-32) and also "I came so that they might have life, and have it more abundantly" (John 10:10).
+
+In this voluntary submission to divine authority, we discover that perfect love and perfect truth are not in tension but in harmony. The Author's authority is not the enemy of love—it is love's very foundation, ensuring that our love is grounded in reality rather than illusion, in truth rather than deception.
+
+But note that the "Word of God" referenced above - as the Author of all reality - is found not only in the pages of Sacred Scripture, but in the truth found in all of Creation, in the Human Heart, and in all of the Church's Teaching.
 
 ## The Integration of Body, Mind, and Soul in Truth
 
 Living in truth requires the harmonious integration of our entire human nature:
 
-**Body:** The physical living out of truth through honest actions, authentic behavior, and integrity between what we believe and how we act. This includes speaking truthfully, acting with honesty in all our dealings, and allowing our bodies to reflect the truth of the reality of the world that God created.
+**Body:** The physical living out of truth through honest actions, authentic behavior, and integrity between what we believe and how we act. This includes speaking truthfully, acting with honesty in all our dealings, and allowing our bodies to reflect the truth of the reality of the world that God created. When we are living a lie, our bodies physically feel this through stress, anxiety, and other physical symptoms.
 
-**Mind:** The intellectual grasping of truth through reason, study, and proper formation. This involves learning Church teaching, understanding the reasons for moral principles, and developing the ability to distinguish truth from error.
+**Mind:** The intellectual grasping of truth through reason, study, and proper formation. This involves learning Church teaching, understanding the reasons for moral principles, and developing the ability to distinguish truth from error. When we are living a lie, our minds feel this through confusion, indecision, and other mental symptoms.
 
-**Soul:** The spiritual embracing of truth as a participation in God Himself, who is Truth. This is the deepest level where we recognize that truth is not merely information but a Person—Jesus Christ who said "I am the Truth."
+**Soul:** The spiritual embracing of truth as a participation in God Himself, who is Truth. This is the deepest level where we recognize that truth is not merely information but a Person—Jesus Christ who said "I am the Truth." When we are living a lie, our souls feel this through a lack of peace, a sense of emptiness, and a desire for truth.
+
+<div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
+When body, mind, and soul align in truth, we become living witnesses whose very lives proclaim the Gospel of God's Perfect Love. When they are disordered, truth becomes either cold intellectualism or empty emotionalism—counterfeits that repel rather than attract.
+</div>
 
 When these three work in harmony, we become witnesses to truth who can convince others not just by arguments but by the authenticity of our lives. When they are disordered, truth becomes mere intellectualism, rigid legalism, or spiritual pride—counterfeits that repel rather than attract.
 
@@ -198,9 +233,9 @@ The sacraments are God's way of making truth tangible and accessible to our body
 
 ### The Mass: The School of Truth and Wisdom
 
-Above all, **the Mass** serves as the primary school where Catholics grow in truth and wisdom. This is something that modern Christianity has largely abandoned, but it remains central to authentic Catholic life:
+**The Mass** serves as the primary means where Catholics grow in and actually encounter the truth of God's Perfect Love. This is something that modern Christianity has largely abandoned, but it remains central to authentic Catholic life:
 
-**The Liturgy of the Word** systematically presents God's truth through Scripture readings that follow the liturgical calendar. Over three years, Catholics hear the essential truths of salvation history, not according to personal preference or popular topics, but according to the Church's wisdom about what we need to hear.
+**The Liturgy of the Word** systematically presents God's truth through Scripture readings that follow the liturgical calendar. Over three years, Catholics hear the essential truths of salvation history, not according to personal preference of the pastor or popular topics, but according to the Church's wisdom about what we need to hear.
 
 **The Homily** is not entertainment or motivational speaking, but the priest's sacred duty to break open God's Word and show how divine truth applies to our daily lives. Through the homily, we learn how God enacts justice and mercy so that we can love better.
 
@@ -222,11 +257,15 @@ Living in truth often requires genuine sacrifice:
 
 **Confronting Others:** Love sometimes demands that we speak difficult truths to those we care about. This requires the courage to risk relationships for the sake of authentic good.
 
-**Social Opposition:** Standing for moral truth in a relativistic culture often brings ridicule, persecution, or professional consequences. Truth-telling can be costly.
+**Social Opposition:** Standing for moral truth in a relativistic culture often brings ridicule, persecution, or professional consequences. Truth-telling can be costly. Just ask the earliest saints of the Church including the Disciples and the martyrs who literally paid the ultimate price for loving Jesus.
 
 **Intellectual Effort:** Seeking truth requires the discipline of study, reflection, and formation. It's easier to accept popular opinions than to do the hard work of understanding reality.
 
 **Spiritual Submission:** Accepting the Church's teaching authority requires setting aside our personal preferences and submitting to wisdom greater than our own.
+
+<div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
+Truth without love becomes harsh judgment. Love without truth becomes dangerous sentiment. Only in the perfect harmony of both do we find authentic Catholic witness.
+</div>
 
 As St. Edith Stein (Teresa Benedicta of the Cross) taught: *"Do not accept anything as the truth if it lacks love. And do not accept anything as love which lacks truth."*
 
@@ -244,7 +283,11 @@ Truth is not the enemy of love—it is love's essential foundation. Our comprehe
 
 **True Justice/Mercy:** Both justice and mercy depend fundamentally on acknowledging and acting according to truth. False justice punishes the innocent; false mercy enables evil.
 
-**Life-Giving Communion:** Authentic communion requires mutual understanding and trust, fostered by living in truth. We cannot approach the Lord in Communion if we are living in deception and causing division in the Body of Christ.
+<div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
+Truth is not the enemy of love—it is love's sacred foundation. Without truth, justice becomes tyranny and mercy becomes enablement. With truth, both become perfect expressions of divine love.
+</div>
+
+**Life-Giving Communion:** Authentic communion requires mutual understanding and trust, fostered by living in truth. We cannot live in "communion" with ourselves, our neighbors or God if we are living in deception and causing division in the Body of Christ.
 
 ## What Evils Truth Overcomes
 
@@ -270,7 +313,7 @@ Lies create the darkness in which evil flourishes. Truth is the light that expos
 
 **Witness by Example:** Let your life be a testimony to truth by maintaining integrity between your beliefs and your actions.
 
-*Heavenly Father, You are Truth itself, and in Your Son Jesus we see truth perfectly revealed. Grant us the humility to accept difficult truths about ourselves, the courage to speak truth in love to others, and the wisdom to submit to the authority You have established in Your Church. Help us to live in the sacred clarity that comes from knowing You, who are the Way, the Truth, and the Life. Through the same Christ our Lord. Amen.*
+*Heavenly Father, You are Truth itself, and in Your Son Jesus we see truth perfectly revealed. Grant us the humility to accept difficult truths about ourselves, the courage to live truthfully in love to others, and the wisdom to submit to the authority You have established in Your Church. Help us to live in the sacred clarity that comes from knowing You, who are the Way, the Truth, and the Life. Through the same Christ our Lord. Amen.*
 
 ## Daily Examen: Truth
 
