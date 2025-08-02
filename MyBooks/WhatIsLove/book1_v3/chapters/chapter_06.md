@@ -134,7 +134,12 @@ The annual Day of Atonement (Leviticus 16) combined multiple sacrifices in the m
 **The Two Essential Dimensions of All Sacrifice:**
 Every authentic sacrifice—from the Jewish offerings to Christ's Cross to our daily offerings—has two essential dimensions that work together:
 
-**1. Expiation (Justice):** Sacrifice makes reparation for sin and restores right relationship with God. This is not merely symbolic—it accomplishes real spiritual work in the order of justice. The Old Testament established the principle that "without the shedding of blood there is no forgiveness of sins" (Hebrews 9:22). Christ's sacrifice accomplished what animal sacrifices could only symbolize: "When Christ appeared as a high priest... he entered once for all into the Holy Place, taking not the blood of goats and calves but his own blood, thus securing an eternal redemption" (Hebrews 9:11-12).
+**1. Expiation (Justice):** Sacrifice makes reparation for sin and restores right relationship with God. This is not merely symbolic—it accomplishes real spiritual work in the order of justice. The Old Testament established the principle that sacrifice makes reparation for sin and restores right relationship with God. This is not merely symbolic—it accomplishes real spiritual work in the order of justice.
+
+<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+According to the law almost everything is purified by blood, and without the shedding of blood there is no forgiveness.
+<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">Hebrews 9:22</span>
+</div> Christ's sacrifice accomplished what animal sacrifices could only symbolize: "When Christ appeared as a high priest... he entered once for all into the Holy Place, taking not the blood of goats and calves but his own blood, thus securing an eternal redemption" (Hebrews 9:11-12).
 
 **2. Oblation (Mercy):** Sacrifice is also a free gift of love that goes beyond what justice requires. Even if we had never sinned, love would still call us to sacrifice for the beloved because love naturally gives itself away. Christ taught: "Greater love has no man than this, that a man lay down his life for his friends" (John 15:13). God's love moved Him to sacrifice even before we deserved it: "But God shows his love for us in that while we were yet sinners Christ died for us" (Romans 5:8).
 
@@ -178,9 +183,9 @@ The Paschal Mystery teaches us that sacrifice is not about destruction but about
 
 After Christ, Mary provides a most perfect example of sacrificial love. Her entire life was a continuous "fiat"—a willing surrender to God's will - the sacrifice of a mother - that began at the Annunciation and culminated at the Cross.
 
-**Her Fiat at the Annunciation:** Mary's "Let it be done unto me according to your word" (Luke 1:38) was a most fundamental sacrifice—the sacrifice of her own will, her plans, her reputation, and her safety for the sake of God's plan of salvation. This sacrifice made the Incarnation possible and shows us that the greatest sacrifices often involve surrendering our understanding to God's wisdom.
+**Her Fiat at the Annunciation:** Mary's "Let it be done unto me according to your word" (Luke 1:38) was a most fundamental sacrifice—the sacrifice of her own will, her plans, her reputation, and her safety for the sake of God's plan of salvation. This sacrifice made the Incarnation possible and shows us that the greatest sacrifices often involve surrendering our limited human understanding to God's infinite wisdom and plan.
 
-**Her Presence at the Cross:** While the apostles fled, Mary stood at the foot of the Cross, offering her maternal heart in union with her Son's sacrifice. She sacrificed her natural desire to protect her child, instead offering Him with perfect love for our salvation. As Simeon prophesied, "a sword will pierce your own soul also" (Luke 2:35). Her presence there was not passive but active participation in the work of redemption.
+**Her Presence at the Cross:** While the apostles fled, Mary stood at the foot of the Cross, offering her maternal heart in union with her Son's sacrifice. She sacrificed her natural desire to protect her child, instead offering Him with perfect love for our salvation. As Simeon prophesied, "a sword will pierce your own soul also" (Luke 2:35). Her presence there was not passive but active participation in the work of redemption as we are called to be.
 
 **Her Ongoing Intercession:** Mary continues to sacrifice for us, interceding constantly before the throne of God, offering her prayers and love for our salvation. Her maternal heart cannot rest while any of her children remain in danger of eternal loss.
 
@@ -189,17 +194,61 @@ After Christ, Mary provides a most perfect example of sacrificial love. Her enti
 ## Our Participation in Christ's Sacrifice
 
 **Eucharistic Participation:**
-In the Holy Eucharist, we bring all our daily sacrifices to the altar to be united with Christ's perfect sacrifice.
+In the Mass, we bring all our daily sacrifices to the altar to be united with Christ's perfect sacrifice and participate in His sacrifice for us, so that we may be transformed into the likeness of Christ be His sacrifice in the world.
 
-In the **Confiteor**, we offer our failures and need for mercy as a sacrifice of humility. During the **Kyrie**, we offer our petitions and dependence on God's mercy. In the **Sanctus**, we offer our praise and worship, joining the angels in adoration.
+In the **Confiteor** (I confess to almighty God), we offer our failures and need for mercy as a sacrifice of humility. During the **Kyrie** (Lord have mercy), we state our dependece and trust in God's mercy through the Lord and Christ.
+
+In the **Gloria** (Glory to God in the Highest) and **Sanctus** (Holy, Holy, Holy Lord), we offer our praise and worship, joining the angels in adoration.
 
 During the **Preparation of the Gifts**, we offer our works, sufferings, and prayers along with the bread and wine. At the **Consecration**, these offerings are transformed and united with Christ's Body and Blood.
 
-In the **Agnus Dei**, we offer our trust in Christ's Sacrifice as the Lamb of God who takes away the sins of the world. When we pray the last prayer before receiving Communion—"Lord, I am not worthy to receive You, but only say the word and I shall be healed"—we put our full and humble trust in the authority and power of Christ's Sacrifice to heal us of all our unworthiness to be united to Him.
+In the **Agnus Dei** (Lamb of God, who takes away the sins of the world), we offer our trust in Christ's Mercy as the Lamb of God who takes away the sins of the world and in granting mercy is the source of granting us peace.
 
-When we receive Communion, we receive the grace to live these sacrifices authentically, and at the **Dismissal**, we are sent forth to offer our lives as living sacrifices in the world.
+The most intense moment of worship in the Mass comes when the priest holds up the consecrated Host and Chalice, declaring with John the Baptist: "Behold the Lamb of God, behold him who takes away the sins of the world. Blessed are those called to the supper of the Lamb." This is the moment when heaven touches earth, when Christ's sacrifice is made present before us in all its power and glory.
 
-St. Paul explains this profound reality: "The cup of blessing that we bless, is it not a participation in the blood of Christ? The bread that we break, is it not a participation in the body of Christ?" (1 Corinthians 10:16-17). The Mass doesn't just commemorate Christ's sacrifice; it makes it present and draws us into communion with Christ and His Body, the Church. This communion forms our hearts to desire authentic sacrifice for others, teaching us what love looks like and giving us the grace to live it.
+Our response to this supreme revelation is the "Domine, non sum dignus" prayer - "Lord, I am not worthy that you should enter under my roof, but only say the word and my soul shall be healed." In this moment, we acknowledge our complete faith, trust and dependence on Christ's mercy and our unworthiness to receive so great a gift. We recognize our place in the order of love - not as those who deserve such grace, but as those who receive it purely through Christ's sacrificial love.
+
+This prayer echoes the profound faith of the Roman centurion in Matthew 8:5-13. The centurion came to Jesus asking for healing for his servant who was paralyzed and suffering terribly. When Jesus offered to come and heal him, the centurion responded with the same humility and trust we express in our Communion prayer:
+
+<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+Lord, I am not worthy to have you come under my roof; but only say the word, and my servant will be healed.
+<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">Matthew 8:8</span>
+</div>
+
+The centurion understood authority—he was a man under authority with soldiers under him. He recognized that Jesus had absolute authority over sickness and death, needing only to speak for healing to occur. Jesus was amazed by this faith and declared:
+
+<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+Truly, I say to you, not even in Israel have I found such faith.
+<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">Matthew 8:10b</span>
+</div>
+
+This story teaches us that approaching Christ's Sacrifice in the Eucharist requires the same humble recognition of His authority and our unworthiness, combined with absolute trust in His power to heal and transform us through His word alone.
+
+When we approach the altar to receive Holy Communion, we do not merely "receive" something—we are **transformed by divine fire**. The God who spoke the universe into existence makes Himself our food and drink. The eternal Word through whom all things were made enters our bodies, our souls, our very being. We become what we receive—the Body of Christ becomes our body, His Blood flows through our veins. We are **mystically crucified with Christ**, buried with Him in baptism, and raised with Him in glory. His sacrifice becomes our sacrifice, His love becomes our love, His life becomes our life.
+
+In this moment of supreme intimacy, the infinite God who created galaxies and holds atoms together makes His dwelling within us. The same power that raised Christ from the dead now courses through our mortal bodies. We are **consumed by Love Himself** and **made into living tabernacles** of His presence. This is not merely grace received—it is **divine life exchanged**, **eternal love enfleshed**, **heaven breaking into earth** within the sanctuary of our souls.
+
+At the **Dismissal**, we are not merely sent—we are **commissioned as Christ-bearers**, **living sacrifices animated by divine love**, carrying the fire of the altar into a world dying for want of authentic love.
+
+St. Paul explains this profound reality:
+
+<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+The cup of blessing that we bless, is it not a participation in the blood of Christ? The bread that we break, is it not a participation in the body of Christ?
+<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">1 Corinthians 10:16-17</span>
+</div>
+
+The Mass is not merely a memorial of Christ's sacrifice—it is the **mystical participation** in the very sacrifice that conquered evil itself. Here, the eternal expiation of divine justice and the perfect oblation of divine mercy become present and active in our midst.
+
+In this sacred liturgy, we do not simply remember Christ's sacrifice—we **enter into it**. The same infinite satisfaction that paid the debt of sin for all humanity becomes our own offering. The same perfect gift of self-giving love that reconciled heaven and earth becomes our own oblation. Through the Eucharist, we are drawn into the **mystical communion** of Christ's Body, where our daily sacrifices—our sufferings, our works, our prayers—are united to His infinite merits and given supernatural efficacy for the salvation of souls.
+
+This participation transforms us from the inside out. As we consume the **Bread of Life** and drink from the **Cup of Salvation**, we become what we receive—living sacrifices animated by divine love. Jesus Himself declares this mystery:
+
+<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+I am the living bread which came down from heaven; if any one eats of this bread, he will live for ever; and the bread which I shall give for the life of the world is my flesh... Truly, truly, I say to you, unless you eat the flesh of the Son of man and drink his blood, you have no life in you; he who eats my flesh and drinks my blood has eternal life, and I will raise him up at the last day. For my flesh is food indeed, and my blood is drink indeed. He who eats my flesh and drinks my blood abides in me, and I in him.
+<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">John 6:51-56</span>
+</div>
+
+The Mass teaches us that authentic sacrifice is never merely human effort, but always **participation in Christ's perfect love**—a love that simultaneously satisfies divine justice and overflows with divine mercy. Here we learn that true sacrifice is not loss but gain, not death but life, not defeat but victory over every form of evil.
 
 **Mystical Participation:**
 St. Paul reveals another dimension of how our sacrifices can participate in Christ's redemptive work: "Now I rejoice in my sufferings for your sake, and in my flesh I complete what is lacking in Christ's afflictions for the sake of his body, that is, the church" (Colossians 1:24). This doesn't mean Christ's sacrifice was insufficient, but that He invites us to unite our daily sufferings and sacrifices with His for the salvation of souls. As members of Christ's Mystical Body, our sacrifices have infinite value when united with His.
