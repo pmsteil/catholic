@@ -30,7 +30,7 @@ This is why sacrifice stands at the very heart of authentic love. Sacrifice tran
 As we will see, sacrifice is not about losing ourselves or diminishing our dignity. Rather, true sacrifice is about discovering our deepest identity through self-giving, finding our greatest joy through service, and participating in the very nature of God, who is perfect self-giving love.
 
 <div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
-Every act of love requires sacrifice.
+Every act of love requires sacrifice. Sacrifice transforms love from theory into reality.
 </div>
 
 ## What Children Know About Sacrifice
@@ -58,6 +58,10 @@ The universal human capacity for sacrifice isn't accidental—it's written into 
 **The Son** eternally receives everything from the Father and gives everything back in perfect reciprocal love. In time, He sacrifices His life, willingly laying it down and taking it up again, choosing the Cross not from compulsion but from love. "This is why the Father loves me, because I lay down my life in order to take it up again. No one takes it from me, but I lay it down on my own." (John 10:18).
 
 **The Holy Spirit** eternally proceeds from the Father and Son as their mutual love, sacrificing His own glory to point always to the Son, never to Himself. In time, He works tirelessly for our sanctification while remaining hidden, inspiring our sacrifices and uniting them with Christ's perfect offering.
+
+<div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
+The Trinity is the eternal model of perfect self-giving love.
+</div>
 
 This divine pattern of self-giving love becomes the model for all authentic human love. As St. Paul writes: "Present your bodies as a living sacrifice, holy and acceptable to God, which is your spiritual worship" (Romans 12:1). We are called to participate in God's own nature through sacrifice.
 
@@ -177,7 +181,11 @@ Christ's sacrifice is not merely His death on the Cross—it is the complete **P
 
 **The Unity:** Death and resurrection together reveal that authentic sacrifice always involves both dying to self and rising to new life. We cannot have one without the other. Every act of sacrificial love requires us to "die" to our selfishness and "rise" to a greater capacity for love. This is why St. Paul can say: "I have been crucified with Christ. It is no longer I who live, but Christ who lives in me" (Galatians 2:20).
 
-The Paschal Mystery teaches us that sacrifice is not about destruction but about transformation—not about losing ourselves but about finding our true selves in God. When we unite our sacrifices with Christ's Paschal Mystery, we participate not only in His death but also in His resurrection, experiencing the joy and freedom that come from authentic love.
+The Eucharist teaches us that sacrifice is not about destruction but transformation, not about loss but about love, not about death but about life. In the Mass, we re-live Christ's sacrifice and through this, learn to offer ourselves as Christ offered Himself—completely, willingly, and lovingly.
+
+<div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
+The Eucharist - or Holy Communion - is the living lesson in sacrifice, where we learn to love by uniting our body, mind, and soul to Christ's sacrifice.
+</div>
 
 ## Mary: The Perfect Model of Sacrificial Love
 
@@ -227,6 +235,10 @@ This story teaches us that approaching Christ's Sacrifice in the Eucharist requi
 When we approach the altar to receive Holy Communion, we do not merely "receive" something—we are **transformed by divine fire**. The God who spoke the universe into existence makes Himself our food and drink. The eternal Word through whom all things were made enters our bodies, our souls, our very being. We become what we receive—the Body of Christ becomes our body, His Blood flows through our veins. We are **mystically crucified with Christ**, buried with Him in baptism, and raised with Him in glory. His sacrifice becomes our sacrifice, His love becomes our love, His life becomes our life.
 
 In this moment of supreme intimacy, the infinite God who created galaxies and holds atoms together makes His dwelling within us. The same power that raised Christ from the dead now courses through our mortal bodies. We are **consumed by Love Himself** and **made into living tabernacles** of His presence. This is not merely grace received—it is **divine life exchanged**, **eternal love enfleshed**, **heaven breaking into earth** within the sanctuary of our souls.
+
+<div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
+The Eucharist transforms us into living sacrifices animated by divine love.
+</div>
 
 At the **Dismissal**, we are not merely sent—we are **commissioned as Christ-bearers**, **living sacrifices animated by divine love**, carrying the fire of the altar into a world dying for want of authentic love.
 
@@ -292,15 +304,13 @@ The Mass is the perfect school of sacrifice because it makes present the perfect
 
 **We offer our gifts** (bread and wine representing our work and our lives) to be transformed into Christ's Body and Blood.
 
-**We offer our thanksgiving** (the very meaning of "Eucharist") in praise and gratitude for all God's gifts, especially the gift of His Son. This sacrifice of praise joins our hearts to the eternal worship of heaven.
-
-**We unite our sacrifices** with Christ's sacrifice, offering our sufferings, our prayers, our works of mercy as part of the one perfect offering.
+**We offer our thanksgiving** (the very meaning of "Eucharist") in praise and gratitude for all God's gifts, especially the gift of His Son. We unite our sacrifices with Christ's perfect offering, participating in both dimensions of His redemptive work.
 
 **We receive the sacrificed Lord** in Holy Communion, taking into ourselves the Body, Blood, Soul, and Divinity of Christ who is the perfect sacrificial Lamb of God who takes away the sins of the world and perfect love.
 
 **We are sent forth** to live sacrificially in the world and for the salvation of souls, making our entire lives a participation in Christ's sacrifice.
 
-The Eucharist teaches us that sacrifice is not about destruction but transformation, not about loss but about love, not about death but about life. In the Mass, we re-live Christ's sacrifice and through this, learn to offer ourselves as Christ offered Himself—completely, willingly, and lovingly.
+{{ ... }}
 
 ## Sacrifice in Different States of Life
 
@@ -347,6 +357,10 @@ The Church calls all Christians to heroic virtue, which means heroic sacrifice. 
 **For communities:** Heroic sacrifice might mean building schools and hospitals in dangerous places, defending the truth despite persecution, or welcoming refugees despite the cost. It might mean a parish taking on significant debt to build a new church that serves the growing community, or Catholic schools offering scholarships to low-income families even when budgets are strained. It could mean organizing meal trains for new mothers and grieving families, creating mentorship programs for at-risk teens, or pooling resources to support a family facing medical crisis. It might mean standing publicly for life despite social pressure, or opening parish halls to shelter the homeless during winter months.
 
 The measure of our love is the measure of our sacrifice. Those who love little sacrifice little; those who love much sacrifice much. The saints loved heroically because they sacrificed heroically.
+
+<div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
+Heroic love requires heroic sacrifice.
+</div>
 
 ## Living the Response
 
