@@ -28,7 +28,7 @@ These words, spoken at countless wedding altars, represent one of the most profo
 
 Why do so many relationships fail today? What's missing when couples who once promised "till death do us part" find themselves in divorce court just a few years later? Could it be that we've lost sight of what covenant love really means?
 
-While the world around us often speaks of marriage failure and broken relationships, we witness something different in couples who truly understand and live covenant love. In parishes across the world, we see marriages that have weathered decades of storms—not because they never faced difficulties, but because they understood their bond as sacred and permanent. These couples become living witnesses to the power of covenant love, showing their children and communities that authentic love is not just a beautiful ideal, but a lived reality that transforms both spouses and creates stable homes where children can flourish.
+While the world around us often speaks of marriage failure and broken relationships, we witness something different in couples who truly understand and live covenant love. Across the world, we see marriages that have weathered decades of storms—not because they never faced tragedy, difficulties, or even betrayal of the wedding vows, but because they understood their bond as sacred and permanent. They understood that love is not just a feeling, but rooted in a deep commitment that enables them to transcend the complexities of human relationship. They were willing to sacrifice for the good of their marriage, for the good of their children, for the good of their community. These couples become living witnesses to the power of covenant love, showing their children and communities that authentic love is not just a beautiful ideal, but a lived reality that transforms both spouses and creates stable homes where children can flourish.
 
 In our journey through the essential facets of authentic love, we have explored truth, justice, mercy, and sacrifice in the previous chapters. Now we discover that all of these virtues find their ultimate expression and fulfillment in covenant love—the sacred, binding commitment that creates permanent relationships ordered toward the good of others.
 
@@ -49,31 +49,72 @@ Children demonstrate pure understanding of covenant love before adults complicat
 
 <div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
 "God is not man, that he should lie"
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">— Numbers 23:19</span>
+<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">Numbers 23:19</span>
 </div>
 
-**"Both mom and dad are needed."** Children naturally understand they need both parents and feel the absence of either. They know from their hearts that mother and father each bring unique gifts, reflecting God's design:
+**"Both mom and dad are needed."** Children naturally understand they need both parents and feel the absence of either. They know from deep in their soul that mother and father should be together:
 
 <div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
-"Therefore a man shall leave his father and mother and hold fast to his wife"
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">— Genesis 2:24</span>
+"He said in reply, “Have you not read that from the beginning the Creator ‘made them male and female’ and said, ‘For this reason a man shall leave his father and mother and be joined to his wife, and the two shall become one flesh’? So they are no longer two, but one flesh. Therefore, what God has joined together, man must not separate.”"
+<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">Matthew 19:4-6</span>
 </div>
 
 **"Love means staying."** Children equate love with presence and commitment, not just feelings. They understand that real love doesn't leave when things get hard, echoing Christ's promise:
 
 <div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
-"I am with you always"
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">— Matthew 28:20</span>
+"Love bears all things, believes all things, hopes all things, endures all things."
+<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">1 Corinthians 13:7</span>
 </div>
 
 Children understand covenant love naturally because they are made in the image of a God who loves through covenant. As Jesus said:
 
 <div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
 "Unless you turn and become like children, you will never enter the kingdom of heaven"
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">— Matthew 18:3</span>
+<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">Matthew 18:3</span>
 </div>
 
-## Why Covenant Love is Universal: Made in God's Image
+##
+
+## The Universal Human Need for Covenant Love
+
+Every human being, regardless of culture, religion, or background, demonstrates an unmistakable hunger for covenant love. This isn't learned behavior—it's written into our very nature as beings made in God's image.
+
+**We Are Made for Relationship**
+
+No human being can thrive in isolation. Even the most introverted person needs deep, committed relationships. We see this universal truth everywhere:
+
+- **In every culture:** Marriage ceremonies, friendship rituals, family bonds, and community celebrations all point to our deep need for covenant relationships. We see "blood brothers" pacts, "best friend forever" promises, adoption rituals that create permanent family bonds
+- **In our language:** Every language has words for commitment, faithfulness, loyalty, betrayal, and abandonment—because these realities matter to every human heart. We instinctively use covenant language: calling close friends "brother" and "sister," speaking of "chosen family," "ride or die" friends, "blood brothers," "soul mates," "partners for life," and "till death do us part." Even secular culture creates terms like "BFF" (Best Friends Forever) because we long for permanent bonds
+- **In our pain:** The deepest human suffering comes from broken relationships, abandonment, and betrayal—proving how essential covenant love is to our well-being. We see this in the pain of divorce (especially the children), the betrayal of a trusted friend, or the abandonment of a child
+- **In our joy:** Our greatest happiness comes from deep, committed relationships where we know we are loved unconditionally. We see this in the joy of a wedding, the warmth of a family reunion, or the comfort of a close friend
+
+**The Cry for Permanence**
+
+Even in our broken world, humans instinctively cry out for relationships that last:
+
+- Children need to know their parents will never abandon them
+- Spouses long for "till death do us part" commitment, not conditional love
+- Friends seek loyalty that endures through difficulties
+- Communities thrive when members are committed to the common good
+
+**The Failure of Contracts**
+
+Human experience proves that contractual relationships—based on mutual benefit and performance—never satisfy the human heart. We need something deeper:
+
+- **Contracts say:** "I'll love you if you meet my needs"
+- **Covenants say:** "I'll love you because I choose to bind myself to you permanently"
+
+- **Contracts say:** "This relationship lasts as long as it benefits both parties"
+- **Covenants say:** "This relationship is permanent, regardless of circumstances"
+
+- **Contracts say:** "You earn my love through performance"
+- **Covenants say:** "My love is a gift that creates security for growth"
+
+**The Universal Witness**
+
+This universal human need for covenant love points to something beyond mere biology or social conditioning. It witnesses to our divine origin—we need covenant love because we are made in the image of a God who *is* covenant love.
+
+## The Universal Cry for Covenant: Evidence of Our Divine Origin
 
 The human capacity for covenant love isn't accidental—it's written into our very nature because we are made in the image of God, who is perfect covenant love. From the very beginning, God has related to humanity through covenants, not mere contracts:
 
@@ -121,7 +162,7 @@ The Spirit enables us to cry:
 
 entering into the intimate covenant relationship that defines the Trinity itself.
 
-Because we are made in God's image, we are created for covenant relationships. We find our deepest fulfillment not in independence but in permanent bonds of love that mirror the Trinity's eternal relationships.
+Because we are made in God's image, **we are created for covenant relationships**. We find our deepest fulfillment not in independence but in permanent bonds of love that mirror the Trinity's eternal relationships.
 
 <div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">The human heart's natural expectation of permanent love reveals our divine origin—we are not accidents of evolution but image-bearers of the eternal God who keeps His promises forever.</div>
 
@@ -129,9 +170,23 @@ Because we are made in God's image, we are created for covenant relationships. W
 
 God's love has always been covenant love. From the very beginning, God has chosen to relate to humanity through covenants—sacred bonds that create family relationships rather than mere legal contracts. Each covenant reveals more of God's faithful love and establishes the pattern that all human covenant relationships must follow.
 
+**The Covenant with Adam and Eve: God's Original Family Bond**
+
+From the very beginning, God established a covenant relationship with humanity. In the Garden of Eden, God created Adam and Eve not as servants or subjects, but as His children, made in His own image and likeness. This original covenant included:
+
+- **Intimate relationship:** God walked with them in the cool of the day (Genesis 3:8)
+- **Delegated authority:** They were given authority from God, the Author of all creation, to tend and keep the garden and have dominion over the animals (Genesis 1:28, 2:15)
+- **Sacred work:** They were called to cultivate and care for the garden—work as participation in God's creative activity, not burden or curse
+- **Creative partnership:** Adam was given the privilege of naming the animals, participating in God's creative work (Genesis 2:19-20)
+- **Loving submission:** They lived in perfect harmony under God's loving authority until they chose rebellion
+- **Moral responsibility:** The covenant included the freedom to choose obedience or disobedience (Genesis 2:16-17)
+- **Promise of life:** Faithful submission to God's loving authority would lead to eternal life in His presence
+
+Even after the Fall, God's covenant love pursued them with the first promise of redemption—that the woman's offspring would crush the serpent's head (Genesis 3:15). This *protoevangelium* (first gospel) shows that God's covenant love is stronger than human unfaithfulness.
+
 **The Covenant with Noah: God's Universal Commitment**
 
-After the flood, God established His first explicit covenant with all humanity:
+After the flood, God renewed His covenant commitment to all humanity:
 
 <div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
 "I establish my covenant with you, that never again shall all flesh be cut off by the waters of a flood, and never again shall there be a flood to destroy the earth"
@@ -233,27 +288,53 @@ Through His death and resurrection, Christ established a covenant of perfect jus
 
 The justice we explored in Chapter 3 finds its ultimate expression here—Christ gives to God what is truly due (perfect obedience) and gives to humanity what we truly need (redemption from sin).
 
-**Perfect Sacrifice:** Christ makes the ultimate sacrifice, laying down His life for His friends. The sacrifice we explored in Chapter 6 finds its perfect expression here—love proven not by words but by the complete gift of self unto death.
-
-**Perfect Covenant:** This New Covenant transforms us to live covenant love:
-
-<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
-"I will put my laws on their hearts, and write them on their minds"
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">— Hebrews 10:16</span>
-</div>
-
-All the previous facets of love come together in the permanent bond that unites us to God forever.
-
 **Perfect Mercy:** Christ offers complete forgiveness and healing to all who enter His covenant. The mercy we explored in Chapter 4 reaches its fullness here—not just pardoning our sins but transforming our hearts and making us citizens of His Kingdom.
 
-When we enter into the New Covenant through Baptism, we become not just forgiven individuals but citizens of God's Kingdom, called to live covenant relationships that reflect and build up His reign on earth. Every covenant relationship—marriage, religious life, friendship, family bonds—becomes a way of participating in and advancing God's Kingdom.
+**Perfect Sacrifice:** Here we witness the most beautiful act in all of creation—perfect love made visible in perfect sacrifice. Christ's sacrifice achieves what St. Thomas Aquinas taught defines all true beauty: *integrity*, *proportion*, and *clarity*.
 
-As the Letter to the Hebrews explains:
+*Integrity*—Christ's sacrifice is perfectly complete, lacking nothing. As both God and man, His voluntary submission to the Father's will provides the one, final sacrifice that fulfills every Old Covenant offering. The Passover lamb finds its perfect fulfillment in the Lamb of God who takes away the sins of the world. No other sacrifice will ever be needed because this one is infinite in value, divine in nature, complete in scope.
+
+*Proportion*—In Christ's sacrifice, truth, justice, and mercy achieve perfect harmony. Truth is satisfied because sin is acknowledged and addressed. Justice is fulfilled because the debt is paid by One who owes nothing. Mercy triumphs because forgiveness flows freely to all who accept it. These three are not in tension but in perfect symphony, each enhancing the others in divine proportion.
+
+*Clarity*—The radiant splendor of God's love blazes forth most brilliantly in this moment. Even humanity's most egregious crime—the killing of God Himself—becomes the very means by which God demonstrates that His love is stronger than our sin, His mercy greater than our malice, His covenant more enduring than our betrayal. The Cross becomes not a symbol of defeat but the radiant manifestation of love's total victory over evil.
+
+This is perfect love: the sacred, sacrificial gift of covenant, binding truth, justice, and mercy, gathering us into life-giving communion. In Christ's sacrifice, we see not just what love does, but what love *is*—the very nature of the Trinity poured out for our salvation, beautiful beyond all earthly beauty because it possesses perfect integrity, perfect proportion, and perfect clarity.
+
+**Perfect Covenant:** This New Covenant, sealed in Christ's blood, accomplishes what no human covenant could ever achieve—it transforms our very nature, enabling us to love as God loves. This is not merely forgiveness but *re-creation*:
 
 <div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
-"Therefore he is the mediator of a new covenant, so that those who are called may receive the promised eternal inheritance"
+"Therefore he is the mediator of a new covenant, so that those who are called may receive the promised eternal inheritance, since a death has occurred that redeems them from the transgressions committed under the first covenant"
 <span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">— Hebrews 9:15</span>
 </div>
+
+Through Baptism, we die to the old covenant of law and are reborn into the new covenant of grace. We become not merely forgiven sinners but adopted children, not merely servants but friends, not merely subjects but co-heirs with Christ. The Holy Spirit writes God's law of love on our hearts, transforming us from within so that covenant fidelity becomes not a burden we bear but the natural expression of our new nature.
+
+This transformation is profound: what the world calls "duty" becomes for us *covenant fidelity*—the joyful response of hearts that know they are cherished unconditionally. This covenant fidelity, expressed through daily sacrifice, becomes the wellspring of everything that makes life meaningful:
+
+- **Our source of meaning:** We find purpose not in pursuing our own desires but in faithful commitment that serves something greater than ourselves
+- **Our strength in adversity:** When trials come, covenant fidelity gives us the power to persevere because we know our suffering has meaning within God's providential plan
+- **Our ability to rise to challenges:** Covenant commitment calls forth our best selves, enabling us to "go the extra mile" and exceed what we thought possible
+- **Our alignment with God's will:** Through covenant fidelity, our will becomes increasingly united with God's will, bringing deep peace and purpose
+
+This is why saints find joy even in suffering, why martyrs sing in prison, why parents sacrifice everything for their children without resentment. Covenant fidelity transforms duty from external obligation into internal fire—the burning desire to give of ourselves as we have been given to.
+
+This covenant is *unbreakable* from God's side—even when we fail, He remains faithful. It is *transformative* in its power—changing us from glory to glory. It is *eternal* in its duration—binding us to God forever. It is *fruitful* in its effects—enabling us to love others with the same covenant love we have received.
+
+**When We Fail, Mercy and Justice Restore Us**
+
+The New Covenant includes God's perfect provision for our failures. His mercy and justice work together to help us when we fall short of covenant fidelity. Nothing can separate us from God's commitment to us—except our own choice to reject His grace. As St. Paul declares, "neither death nor life... nor anything else in all creation, will be able to separate us from the love of God in Christ Jesus our Lord" (Romans 8:38-39).
+
+Yet when we violate truth, justice, mercy, or sacrifice—when we dishonor His perfect sacrifice through our infidelity—we wound not only our relationship with God but also damage the very fabric of His Kingdom. Our covenant failures ripple outward:
+
+- **Harming our families:** Broken covenant fidelity destroys the security children need and the unity spouses require
+- **Wounding society:** When covenant people fail to live covenant principles, the world loses its witness to authentic relationship
+- **Dishonoring the Gospel:** Our failures make the "good news" of reconciliation seem like empty words rather than transformative reality
+
+This is why covenant fidelity matters so deeply—not as mere rule-following, but as grateful response to the One who gave everything to reconcile us to Himself and to each other. Our faithfulness becomes our thanksgiving, our way of saying "yes" to the good news that we can indeed be reconciled to God and live in harmony with one another for the flourishing of His Kingdom.
+
+All the previous facets of love—truth, justice, mercy, sacrifice—come together in this permanent bond that unites us to God forever and empowers us to live as His covenant people in the world.
+
+When we enter into the New Covenant through Baptism, we become not just forgiven individuals but citizens of God's Kingdom, called to live covenant relationships that reflect and build up His reign on earth. Every covenant relationship—marriage, religious life, friendship, family bonds—becomes a way of participating in and advancing God's Kingdom.
 
 This New Covenant becomes the model for all human covenant relationships, especially marriage and family. Just as Christ's love for the Church is permanent, exclusive, fruitful, and sacrificial, so human covenant love must embody these same characteristics.
 
@@ -265,7 +346,7 @@ Covenant love directly combats the evil of **disposable relationships** that tre
 
 The evil of disposable relationships manifests in:
 
-**Personal Evil:** The selfishness that refuses permanent commitment, preferring to keep options open rather than giving oneself totally to another. This creates a life of shallow relationships that never achieve true intimacy or communion.
+**Personal Evil:** The selfishness that refuses permanent commitment, preferring to keep options open rather than giving oneself totally to another. This creates a life of shallow relationships that never achieve true intimacy or true communion.
 
 **Relational Evil:** The breakdown of trust that occurs when people cannot rely on others to keep their commitments. This creates cycles of abandonment, betrayal, and emotional wounds that pass from generation to generation.
 
@@ -273,9 +354,23 @@ The evil of disposable relationships manifests in:
 
 **Spiritual Evil:** The inability to trust God's promises when we have experienced broken covenant love in our lives. People who have been through divorce, abandonment, or other failures of covenant love struggle to believe in God's covenant faithfulness.
 
-Covenant love overcomes these evils by creating the permanent bonds that enable authentic communion—with God, with others, and within ourselves. It proves that love is stronger than selfishness, that commitment is more powerful than convenience, and that permanent relationships are the foundation of human flourishing.
+Covenant love overcomes these evils by creating the permanent bonds that enable authentic communion—with God, with others, and within ourselves. But most crucially, covenant love provides the only alternative to nihilistic despair when confronted with the worst of human evil.
 
-<div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">Every faithful covenant relationship becomes a healing presence in a wounded world, breaking cycles of abandonment and proving that permanent love is not only possible but the path to authentic human flourishing.</div>
+**The Ultimate Test: Mercy for the Unforgivable**
+
+Without the possibility of true mercy and restoration even for the most egregious failures—mass murder, rape, genocide, abortion, betrayal—society inevitably descends into a nihilistic worldview where only power and control matter. When there is no path back from the worst sins, when no redemption is possible, then might becomes right and evil multiplies exponentially. History proves this: the Holocaust, Stalin's purges, Mao's genocides, the killing fields of Cambodia—all emerged from worldviews that greatly distorted justice by denying that all humans are created in the image of God, and pursued goals that were fundamental offenses to truth, justice, and mercy, offering no ultimate mercy and no covenant path to restoration.
+
+But covenant love declares that even the worst sinner can be restored. Even the murderer can find forgiveness. Even the one who has destroyed innocent life can be reconciled to God and community. This is not cheap grace that ignores justice, but costly mercy that transforms hearts and makes genuine repentance possible.
+
+**Personal Restoration: The Path Back from Our Worst**
+
+This matters not just for society but for each of us personally. When you or I commit grave sin—when we betray those we love most, when we destroy what is precious, when we become the very evil we once condemned—we need a way back. Without covenant mercy, we face only two choices: denial (pretending our sin wasn't that bad) or despair (believing we are beyond redemption).
+
+The New Covenant offers a third way: genuine repentance leading to authentic restoration. Through the Sacrament of Reconciliation, through the community of faith, through the patient work of rebuilding trust, even the worst failures can become testimonies to the power of covenant love. The murderer can become a saint. The betrayer can become a faithful friend. The destroyer can become a healer.
+
+This is why covenant fidelity, rooted in God's truth about what authentic relationship truly is, becomes the foundation of human flourishing—it proves that no one is beyond redemption, that every relationship can be healed, that even the worst evil cannot have the final word.
+
+<div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">The New Covenant becomes humanity's only hope against nihilistic despair—proving that mercy is stronger than the worst evil, that restoration is possible even after the gravest sin, and that covenant love can heal what seems permanently broken.</div>
 
 ## God's Initiative: The Foundation of All Covenant Love
 
@@ -284,13 +379,13 @@ But how do we find the strength to live such demanding love? The answer lies in 
 Here we discover the most beautiful truth of all: **God loved us first**. Before we ever thought to seek God, He sought us. Before we knew what love meant, He loved us into existence. Before we could choose Him, He chose us. As St. John declares:
 
 <div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
-"In this is love, not that we loved God but that he loved us and sent his Son to be the propitiation for our sins"
+"In this is love, not that we loved God but that he loved us and sent his Son to be the propitiation (a sacrificial offering to repair injustice) for our sins"
 <span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">— 1 John 4:10</span>
 </div>
 
 Every human covenant relationship—marriage, priesthood, religious life, friendship—is our response to God's prior love, our participation in the covenant He first established with us.
 
-God has revealed His immense love for us through three magnificent gifts: His creation (which declares His glory), our hearts (where He writes His law of both justice and mercy), and Sacred Scripture (His living Word). In creation, we see His truth—the ordered beauty that reflects His nature. In our hearts, we feel His justice and mercy—the moral law that calls us to righteousness and the compassion that moves us to forgiveness. In Scripture, we encounter His promises—the covenant faithfulness that assures us of redemption.
+God has revealed His immense love for us through three magnificent gifts: His creation (which declares His glory), our hearts (where He writes His law of both justice and mercy), and Sacred Scripture (His living Word). In creation, we see His truth—the ordered beauty that reflects His nature. In our hearts, we feel His justice and mercy—the moral law that calls us to righteousness (to do what is true, just and merciful) and the compassion that moves us to forgiveness. In Scripture, we encounter His promises—the covenant faithfulness that assures us of redemption.
 
 When these three revelations are integrated through covenant love, we experience what our hearts have always longed for: **life-giving communion** with God and with one another.
 
@@ -304,9 +399,9 @@ The world desperately needs this witness. Children need to see marriages that en
 
 **The Promise and the Call**
 
-God's covenant love never fails. Even when we fail, His love endures. Even when we break our promises, His promises remain. Even when we abandon Him, He never abandons us. This is the hope that sustains every human covenant: we are held by a love that is stronger than our weakness, more faithful than our fickleness, more permanent than our failures.
+God's covenant love never fails. Even when we fail, His love endures. Even when we break our promises, His promises remain. Even when we abandon Him, He never abandons us. This is the hope that sustains His covenant: we are held together by a love that is stronger than our weakness, more faithful than our fickleness, more permanent than our failures.
 
-But this hope comes with a call: to let God's covenant love transform us from people who take to people who give, from people who leave to people who stay, from people who make excuses to people who keep promises. Through Baptism, we enter His covenant. Through the Eucharist, we renew it. Through our daily choices, we live it.
+But this hope comes with a call: to let God's covenant love transform us from people who **take** to people who **give**, from people who **leave** to people who **stay**, from people who **make excuses** to people who **keep promises**. Through Baptism, we enter His covenant. Through the Eucharist, we renew it. Through our daily choices, we live it.
 
 The question that remains is simple but profound: Will you live covenant love? Will you be a person others can count on? Will you create relationships that reflect God's own faithfulness? Will you help heal a world broken by disposable relationships?
 
@@ -316,18 +411,22 @@ The choice is yours. But remember: you do not choose alone. The God who first lo
 
 ## Living the Response
 
-Covenant love calls us to radical commitment in a culture that worships options and fears permanent bonds. Whether we are married, single, or religious, we are all called to live covenant love in our relationships:
+Covenant love calls us to **radical commitment** in a culture that worships human desires and fears permanent bonds. Whether we are married, single, or religious, we are all called to live covenant love in our relationships:
 
 **Daily Covenant Fidelity:**
+- Attend Mass daily or at minimum read the daily readings through the Liturgy of the Hours, the Magnificat and many other sources
 - Begin each day by renewing your baptismal promises
 - Choose commitment over convenience in small decisions
 - Support others in their covenant relationships through prayer and practical help
-- When you fail, remember that God's covenant endures despite our unfaithfulness
+- When you fail, remember that God's covenant endures despite our unfaithfulness—and that we are finite beings called to faithfulness, not to be saviors of the world on our own
+- Remember that proper justice and mercy applies to you also, patiently let God teach you to grow into the image of Christ
 - Witness to God's covenant love through faithfulness in all relationships
 
 **Covenant Witness in the World:**
 - Defend the truth about permanent commitment in a culture that attacks it
-- Pray for those in covenant relationships, especially those facing difficulties
+- Pray for good strong marriages
+- Pray for the children who traumatized by broken marriages
+- Pray for those in covenant relationships, especially those facing difficulties in marriage and religious life
 - Welcome those seeking to understand or restore covenant relationships
 - Make every relationship an opportunity to practice covenant fidelity
 - Break cycles of broken love in your family and community
