@@ -1,4 +1,4 @@
-# Chapter 8: Living Covenant Love - The Sacraments and Daily Life
+# Chapter 8: Living Covenant Love in The Sacraments
 
 *"Husbands, love your wives, even as Christ loved the church and handed himself over for her."*
 — Ephesians 5:25

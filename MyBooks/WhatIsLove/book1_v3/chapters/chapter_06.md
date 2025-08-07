@@ -1,4 +1,4 @@
-# Chapter 6: Sacrifice: The Heart of Authentic Love
+# Chapter 6: Sacrifice
 
 <div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
 "Greater love has no one than this, that someone lay down his life for his friends."
@@ -310,7 +310,7 @@ The Mass is the perfect school of sacrifice because it makes present the perfect
 
 **We are sent forth** to live sacrificially in the world and for the salvation of souls, making our entire lives a participation in Christ's sacrifice.
 
-{{ ... }}
+The Eucharist teaches us that sacrifice is not about destruction but transformation, not about loss but about love, not about death but about life. In the Mass, we re-live Christ's sacrifice and through this, learn to offer ourselves as Christ offered Himself—completely, willingly, and lovingly.
 
 ## Sacrifice in Different States of Life
 

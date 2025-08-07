@@ -1,4 +1,4 @@
-# Chapter 2: God's Perfect Love: The Answer to the Problem of Evil
+# Chapter 2: God's Perfect Love
 
 *"We have come to know and to believe in the love God has for us. God is love, and whoever remains in love remains in God and God in him. In this is love brought to perfection among us, that we have confidence on the day of judgment because as he is, so are we in this world. There is no fear in love, but perfect love drives out fear because fear has to do with punishment, and so one who fears is not yet perfect in love. We love because he first loved us. If anyone says, “I love God,” but hates his brother, he is a liar; for whoever does not love a brother whom he has seen cannot love God whom he has not seen. This is the commandment we have from him: whoever loves God must also love his brother."*
 - 1 John 4:16-21

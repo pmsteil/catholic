@@ -1,4 +1,4 @@
-# Chapter 1: The Problem of Evil
+# Chapter 1: Evil
 
 *"We know that all creation is groaning in labor pains even until now."*
 — Romans 8:22
