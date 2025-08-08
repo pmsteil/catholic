@@ -70,7 +70,7 @@ The Catechism teaches us that "Man naturally tends toward truth. He is obliged t
 
 **Why We Rejoice in Discovery:** There's a unique joy that comes from discovering truth—whether it's a child learning how something works, a student grasping a difficult concept, or an adult finally understanding a relationship. This joy reflects our participation in God's own knowledge and our return to our natural element.
 
-As we come to know God's Truth of who he is and how Hhis Truths teach us how to love, we are brought out of the darkness and into the light.  Read John 3:16-21.
+As we come to know God's Truth of who he is and how His truths teach us how to love, we are brought out of the darkness and into the light. Read John 3:16–21.
 
 <div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
 "But whoever lives the truth comes to the light, so that his works may be clearly seen as done in God."

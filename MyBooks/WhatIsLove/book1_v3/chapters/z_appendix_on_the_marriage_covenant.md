@@ -1,7 +1,9 @@
 # Appendix: The Marriage Covenant - Defending God's Plan for Human Love
 
-*"Have you not read that he who created them from the beginning made them male and female, and said, 'Therefore a man shall leave his father and his mother and hold fast to his wife, and the two shall become one flesh'? So they are no longer two but one flesh. What therefore God has joined together, let not man separate."*
-— Matthew 19:3-6
+<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+"Have you not read that he who created them from the beginning made them male and female, and said, 'Therefore a man shall leave his father and his mother and hold fast to his wife, and the two shall become one flesh'? So they are no longer two but one flesh. What therefore God has joined together, let not man separate."
+<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">— Matthew 19:3-6</span>
+</div>
 
 ---
 
@@ -43,7 +45,7 @@ The wedding ring serves as a covenant sign, much like circumcision for Abraham's
 
 ### Why Same-Sex Unions Cannot Be Marriage
 
-Many good people today struggle to understand why the Catholic Church cannot recognize same-sex unions as marriage. This is not because the Church lacks compassion for those with same-sex attraction, but because marriage has a specific nature that cannot be changed by human law or desire. As St. John Paul II taught in his *Theology of the Body*, "The body, and it alone, is capable of making visible what is invisible: the spiritual and the divine." 
+Many good people today struggle to understand why the Catholic Church cannot recognize same-sex unions as marriage. This is not because the Church lacks compassion for those with same-sex attraction, but because marriage has a specific nature that cannot be changed by human law or desire. As St. John Paul II taught in his *Theology of the Body*, "The body, and it alone, is capable of making visible what is invisible: the spiritual and the divine."
 
 The Church's understanding of marriage is based on several unchangeable realities:
 

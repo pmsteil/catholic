@@ -1,10 +1,19 @@
 # Chapter 11: Counterfeit Love - What Love Is Not
 
-*"Beloved, do not trust every spirit but test the spirits to see whether they belong to God."* - 1 John 4:1
+<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+"Beloved, do not trust every spirit but test the spirits to see whether they belong to God."
+<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">— 1 John 4:1</span>
+</div>
 
-*"By their fruits you will know them. Do people pick grapes from thornbushes, or figs from thistles?"* - Matthew 7:16
+<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+"By their fruits you will know them. Do people pick grapes from thornbushes, or figs from thistles?"
+<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">— Matthew 7:16</span>
+</div>
 
-*"The devil is a liar and the father of lies."* - John 8:44
+<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+"The devil is a liar and the father of lies."
+<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">— John 8:44</span>
+</div>
 
 ---
 
@@ -15,6 +24,10 @@
 I wasn't saying that caring about oppression was wrong. I was trying to help her see that the ideology she had embraced—though it contained genuine concerns about justice—was leading her away from the very love she sought to serve. She wanted to fight injustice, but the movement had taught her to see enemies everywhere, to divide people into oppressor and oppressed categories, and to believe that hatred of the "privileged" was actually a form of love for the "marginalized."
 
 This is the tragedy of our time: **good hearts being captured by counterfeit forms of love**. People genuinely want justice, mercy, truth, and authentic relationships. But they are being offered ideologies that promise these goods while delivering their opposites. The result is not love, but division, hatred, despair, and spiritual destruction.
+
+<div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
+    Counterfeits mimic parts of love while rejecting the whole—separating truth, justice, or mercy from the others.
+</div>
 
 As Catholics who understand what authentic love truly is, we have a responsibility to help others see through these deceptions. Not with condemnation, but with the same mercy Christ showed us when we were lost in our own forms of counterfeit love.
 

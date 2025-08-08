@@ -1,13 +1,19 @@
-# Chapter 8: Living Covenant Love in The Sacraments
+# Chapter 8: The Sacraments
 
-*"Husbands, love your wives, even as Christ loved the church and handed himself over for her."*
-— Ephesians 5:25
+<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+"Husbands, love your wives, even as Christ loved the church and handed himself over for her."
+<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">— Ephesians 5:25</span>
+</div>
 
-*"I will put my laws on their hearts, and write them on their minds."*
-— Hebrews 10:16
+<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+"I will put my laws on their hearts, and write them on their minds."
+<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">— Hebrews 10:16</span>
+</div>
 
-*"By this all people will know that you are my disciples, if you have love for one another."*
-— John 13:35
+<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+"By this all people will know that you are my disciples, if you have love for one another."
+<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">— John 13:35</span>
+</div>
 
 ---
 
@@ -24,6 +30,10 @@ Yet justice without **true mercy** becomes cruelty. True mercy is not weakness o
 All of this requires **sacrifice**—the costly self-gift that makes love real. Love is not merely feeling or intention; it is action that costs us something. Without sacrifice, our "love" remains in the realm of wishes and dreams, never becoming incarnate in the world.
 
 And all must be bound together by **covenant**—the permanent commitment that creates the secure space for truth, justice, mercy, and sacrifice to flourish. Without covenant, our love remains conditional, ready to flee when the cost becomes clear.
+
+<div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
+    Perfect love is the integration of truth, justice, and mercy—made real by sacrifice and secured by covenant.
+</div>
 
 **This is how we overcome the moral evil in our hearts.** The evil that whispers we can love without truth (living in delusion), or have justice without mercy (becoming tyrants), or show mercy without justice (enabling destruction), or love without sacrifice (remaining in selfishness), or commit without permanence (keeping our escape routes open).
 
@@ -51,9 +61,18 @@ The Holy Spirit, who first came upon us at Baptism, now strengthens us with His 
 
 Why does the Church require weekly Mass attendance? The Eucharist stands at the center of all covenant relationships as the source and summit of covenant love. In Jesus' own words, "This is my blood of the new covenant" (Matthew 26:28), the Mass is the ultimate covenant renewal ceremony.
 
+<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+"The Eucharist is the source and summit of the Christian life."
+<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">— Catechism of the Catholic Church 1324</span>
+</div>
+
 But the Eucharist is far more than just a weekly obligation—it is our regular participation in the New Covenant itself. Every time we receive Holy Communion, we are literally receiving the Body and Blood of Christ that sealed the New Covenant on Calvary. We are not just remembering what Jesus did; we are participating in the eternal reality of His sacrifice.
 
 **The Mass as Covenant Renewal:**
+
+<div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
+    The Mass is covenant renewal: God speaks, we offer, Christ gives Himself, and we are sent for mission.
+</div>
 
 Just as married couples benefit from regularly renewing their vows, the Eucharist provides regular opportunity to renew our covenant with God. But unlike human covenant renewals, the Mass makes present the very sacrifice that established the covenant. At every Mass:
 
@@ -67,7 +86,12 @@ Just as married couples benefit from regularly renewing their vows, the Eucharis
 
 While the Church requires weekly Mass attendance, she encourages daily participation when possible. Why? Because covenant love needs constant renewal. Just as married couples need daily expressions of love to keep their relationship strong, our covenant with God flourishes through frequent Eucharistic communion.
 
-The saints understood this. St. Thérèse of Lisieux wrote: "It is not to remain in a golden ciborium that He comes down each day from heaven, but to find another heaven, the heaven of our soul in which He takes delight." Daily Mass becomes daily covenant renewal, daily reception of the grace we need to live authentic love.
+The saints understood this.
+<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+"It is not to remain in a golden ciborium that He comes down each day from heaven, but to find another heaven, the heaven of our soul in which He takes delight."
+<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">— St. Thérèse of Lisieux</span>
+</div>
+Daily Mass becomes daily covenant renewal, daily reception of the grace we need to live authentic love.
 
 **The Eucharist and All Other Relationships:**
 
@@ -85,9 +109,28 @@ The same thing happens with God when we commit serious sin. Our "spiritual birth
 
 This is why we need the Sacrament of Reconciliation. We don't need to get "re-baptized" any more than an estranged married couple needs to get "re-married." We need to restore the relationship within the permanent bond that already exists.
 
+<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+"Those who approach the sacrament of Penance obtain pardon from God's mercy for the offense committed against him, and are, at the same time, reconciled with the Church."
+<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">— Catechism of the Catholic Church 1422</span>
+</div>
+
 **Frequent Confession and Covenant Fidelity:**
 
 The Church recommends frequent confession, even for venial sins, because covenant relationships require constant attention and care. Just as married couples need regular communication to maintain intimacy, our covenant with God benefits from regular confession to maintain the free flow of grace and love.
+
+<div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
+    Pastoral practice: aim for monthly confession and add one weekday Mass when possible—let covenant love be renewed often.
+</div>
+
+## What Children Learn Through the Sacraments
+
+- **Baptism: Identity and Permanence** — “I belong to God forever.” Children see that love creates a permanent family bond.
+- **Confirmation: Mission and Strength** — “God equips me to do good.” They learn love sends us on mission with grace.
+- **Eucharist: Communion and Presence** — “Jesus really unites Himself to me.” They experience covenant communion.
+- **Reconciliation: Mercy and Healing** — “When I am sorry, love restores.” They learn mercy heals relationships.
+- **Matrimony: Fidelity and Fruitfulness** — “Love stays and gives life.” They witness permanent, life‑giving commitment.
+- **Holy Orders: Service and Fatherhood** — “Love serves everyone.” Priests model sacrificial pastoral love.
+- **Anointing of the Sick: Hope and Care** — “God is with us when we suffer.” Love remains to the end.
 
 ## Marriage: God Creates the Fundamental Human Covenant
 

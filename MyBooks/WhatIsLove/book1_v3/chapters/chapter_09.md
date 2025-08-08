@@ -1,16 +1,24 @@
 # Chapter 9: The Cross and Resurrection - Perfect Love Incarnate
 
-*"Greater love has no one than this, that someone lay down his life for his friends."*
-— John 15:13
+<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+"Greater love has no one than this, that someone lay down his life for his friends."
+<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">— John 15:13</span>
+</div>
 
-*"But God shows his love for us in that while we were still sinners, Christ died for us."*
-— Romans 5:8
+<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+"But God shows his love for us in that while we were still sinners, Christ died for us."
+<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">— Romans 5:8</span>
+</div>
 
-*"The Resurrection of Jesus is the crowning truth of our faith in Christ."*
-— Catechism of the Catholic Church 638
+<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+"The Resurrection of Jesus is the crowning truth of our faith in Christ."
+<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">— Catechism of the Catholic Church 638</span>
+</div>
 
-*"For God so loved the world, that he gave his only Son, that whoever believes in him should not perish but have eternal life."*
-— John 3:16
+<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+"For God so loved the world, that he gave his only Son, that whoever believes in him should not perish but have eternal life."
+<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">— John 3:16</span>
+</div>
 
 ---
 
@@ -19,6 +27,10 @@
 There is a moment in human history when perfect love became visible. Not as an abstract concept or beautiful ideal, but as flesh and blood poured out on a wooden cross and raised to glorious life on Easter morning. There, in the complete Paschal Mystery—Christ's passion, death, and resurrection—Jesus Christ demonstrated what we have been exploring throughout this entire book: that authentic love is not a single virtue but the perfect integration of all virtues—truth, justice, mercy, sacrifice, and covenant—blazing forth in perfect unity and ultimate victory.
 
 Every facet of love we have examined finds its ultimate expression and fulfillment in Christ's Paschal Mystery. The Cross reveals love's depth and willingness to sacrifice; the Resurrection reveals love's power and ultimate triumph. Together, they show us why the Eucharist is truly the "source and summit" of our faith—because it makes present the very moment when perfect love conquered all evil, opened the gates of heaven, and continues to transform the world through resurrection power.
+
+<div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
+    The Cross reveals love's perfect sacrifice; the Resurrection reveals love's perfect victory. Together they manifest perfect love.
+</div>
 
 ## How Adults Make the Cross Clear to Children
 

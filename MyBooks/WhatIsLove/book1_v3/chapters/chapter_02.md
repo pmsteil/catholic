@@ -1,19 +1,29 @@
 # Chapter 2: God's Perfect Love
 
-*"We have come to know and to believe in the love God has for us. God is love, and whoever remains in love remains in God and God in him. In this is love brought to perfection among us, that we have confidence on the day of judgment because as he is, so are we in this world. There is no fear in love, but perfect love drives out fear because fear has to do with punishment, and so one who fears is not yet perfect in love. We love because he first loved us. If anyone says, “I love God,” but hates his brother, he is a liar; for whoever does not love a brother whom he has seen cannot love God whom he has not seen. This is the commandment we have from him: whoever loves God must also love his brother."*
-- 1 John 4:16-21
+<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+"We have come to know and to believe in the love God has for us. God is love, and whoever remains in love remains in God and God in him. In this is love brought to perfection among us, that we have confidence on the day of judgment because as he is, so are we in this world. There is no fear in love, but perfect love drives out fear because fear has to do with punishment, and so one who fears is not yet perfect in love. We love because he first loved us. If anyone says, “I love God,” but hates his brother, he is a liar; for whoever does not love a brother whom he has seen cannot love God whom he has not seen. This is the commandment we have from him: whoever loves God must also love his brother."
+<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">1 John 4:16-21</span>
+</div>
 
-*"If I have all faith so as to remove mountains but do not have love, I am nothing."*
-— 1 Corinthians 13:2
+<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+"If I have all faith so as to remove mountains but do not have love, I am nothing."
+<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">1 Corinthians 13:2</span>
+</div>
 
-*"Man cannot live without love. He remains a being that is incomprehensible for himself, his life is senseless, if love is not revealed to him, if he does not encounter love, if he does not experience it and make it his own, if he does not participate intimately in it."*
-— Pope St. John Paul II, *Redemptor Hominis* 10
+<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+"Man cannot live without love. He remains a being that is incomprehensible for himself, his life is senseless, if love is not revealed to him, if he does not encounter love, if he does not experience it and make it his own, if he does not participate intimately in it."
+<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">Pope St. John Paul II, <em>Redemptor Hominis</em> 10</span>
+</div>
 
-*"The whole concern of doctrine and its teaching must be directed to the love that never ends. Whether something is proposed for belief, for hope, or for action, the love of our Lord must always be made accessible, so that anyone can see that all the works of perfect Christian virtue spring from love and have no other objective than to arrive at love."*
-— Catechism of the Catholic Church 25
+<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+"The whole concern of doctrine and its teaching must be directed to the love that never ends. Whether something is proposed for belief, for hope, or for action, the love of our Lord must always be made accessible, so that anyone can see that all the works of perfect Christian virtue spring from love and have no other objective than to arrive at love."
+<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">Catechism of the Catholic Church 25</span>
+</div>
 
-*"If God the Father almighty, the Creator of the ordered and good world, cares for all his creatures, why does evil exist? To this question, as pressing as it is unavoidable and as painful as it is mysterious, no quick answer will suffice. Only Christian faith as a whole constitutes the answer to this question: the goodness of creation, the drama of sin and the patient love of God who comes to meet man by his covenants, the redemptive Incarnation of his Son, his gift of the Spirit, his gathering of the Church, the power of the sacraments and his call to a blessed life to which free creatures are invited to consent in advance, but from which, by a terrible mystery, they can also turn away in advance. There is not a single aspect of the Christian message that is not in part an answer to the question of evil."*
-— Catechism of the Catholic Church 309
+<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+"If God the Father almighty, the Creator of the ordered and good world, cares for all his creatures, why does evil exist? To this question, as pressing as it is unavoidable and as painful as it is mysterious, no quick answer will suffice. Only Christian faith as a whole constitutes the answer to this question: the goodness of creation, the drama of sin and the patient love of God who comes to meet man by his covenants, the redemptive Incarnation of his Son, his gift of the Spirit, his gathering of the Church, the power of the sacraments and his call to a blessed life to which free creatures are invited to consent in advance, but from which, by a terrible mystery, they can also turn away in advance. There is not a single aspect of the Christian message that is not in part an answer to the question of evil."
+<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">Catechism of the Catholic Church 309</span>
+</div>
 
 ---
 

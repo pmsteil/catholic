@@ -1,19 +1,29 @@
 # Chapter 10: The Eucharist - Perfect Love Made Present
 
-*"Do not think that I have come to abolish the Law or the Prophets; I have not come to abolish them but to fulfill them."*
-— Matthew 5:17
+<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+"Do not think that I have come to abolish the Law or the Prophets; I have not come to abolish them but to fulfill them."
+<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">— Matthew 5:17</span>
+</div>
 
-*"When the Pharisees heard that he had silenced the Sadducees, they gathered together, and one of them [a scholar of the law] tested him by asking, "Teacher, which commandment in the law is the greatest?" 37 He said to him, "You shall love the Lord, your God, with all your heart, with all your soul, and with all your mind. 38 This is the greatest and the first commandment. 39 The second is like it: You shall love your neighbor as yourself. The whole law and the prophets depend on these two commandments."*
-— Matthew 22:35-40
+<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+"You shall love the Lord, your God, with all your heart, with all your soul, and with all your mind... You shall love your neighbor as yourself. The whole law and the prophets depend on these two commandments."
+<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">— Matthew 22:35-40</span>
+</div>
 
-*"This is my body, which is given for you. Do this in remembrance of me... This cup that is poured out for you is the new covenant in my blood."*
-— Luke 22:19-20
+<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+"This is my body, which is given for you... This cup that is poured out for you is the new covenant in my blood."
+<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">— Luke 22:19-20</span>
+</div>
 
-*"I am the living bread that came down from heaven. Whoever eats of this bread will live forever; and the bread that I will give for the life of the world is my flesh."*
-— John 6:51
+<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+"I am the living bread that came down from heaven. Whoever eats of this bread will live forever; and the bread that I will give for the life of the world is my flesh."
+<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">— John 6:51</span>
+</div>
 
-*"The cup of blessing that we bless, is it not a participation in the blood of Christ? The bread that we break, is it not a participation in the body of Christ?"*
-— 1 Corinthians 10:16
+<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+"The cup of blessing that we bless, is it not a participation in the blood of Christ? The bread that we break, is it not a participation in the body of Christ?"
+<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">— 1 Corinthians 10:16</span>
+</div>
 
 ---
 

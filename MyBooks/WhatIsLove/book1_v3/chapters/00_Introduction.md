@@ -58,7 +58,10 @@ It sounds so simple, doesn't it? Yet, getting this wrong has devastating consequ
 
 The shortest, most profound answer comes straight from the heart of Divine Revelation, penned by the Apostle John:
 
-> ### **God is Love.** (1 John 4:8)
+<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+### God is Love.
+<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">1 John 4:8</span>
+</div>
 
 Wow. Let's just pause and let that sink in for a moment. _God. Is. Love._ If we truly believe that, if we take that statement seriously as Catholics, then understanding love means understanding God Himself – not that we can know everything about His infinite, unknowable essence, but we can know things about God from what he has revealed to us - from fundamental truths of who we are as human beings - from the reality we find ourselves in. This book is my humble attempt, guided by the immense wisdom of His Church, to help us, as fellow Catholics journeying together, grasp the incredible depth, beauty, and transformative power packed into that three-word sentence - **God is Love.**
 
@@ -96,7 +99,10 @@ And here is the incredible gift, the breathtaking reality of our Catholic Faith:
 
 The Catholic Faith isn't just about "following rules" or checking boxes to "get to heaven." or "mindless ritual". It's about entering into a life-transforming, dynamic _relationship_ with God who IS Love, right here, right now. It's about allowing that divine love to permeate our being and overflow into how we think, speak, and act – how we treat our families, our neighbors, our colleagues, and even our enemies. It's about becoming living proof that the Catholic Faith isn't just a collection of ancient beliefs, but a beautiful, true, and powerful way to live fully alive in the 21st century. And when Catholics live out their Faith in this way, when we truly live as the Body of Christ, we bring true LOVE into the world and offer the only real answer to the world's desperate search for justice, mercy, meaning, connection, and peace - LOVE.  He doesn't just want "equity" or "inclusion" or "racial justice" or "income equality" or "climate justice" -- he wants TRUE Justice and TRUE Mercy -- he wants TRUE LOVE for us. This may sound  esoteric, but in this book I am going to show you what love is in a VERY CONCRETE way, and how it applies to our everyday lives.  Is it simple? No.  That is why it has always been a struggle for people to define it.  It is multi-faceted, like a diamond, and it requires us to look at it from many angles to see its full beauty. But I promise you, once you see it, you will realize that you have always known it deep down in your heart.
 
-> Jesus said, "I am the way and the truth and the life." (John 14:6)
+<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+"I am the way and the truth and the life."
+<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">John 14:6</span>
+</div>
 
 He didn't say He *showed* the way, or *taught* the truth, or *gave* life – He said He *IS* the Way, *IS* the Truth, *IS* the Life. He is the perfect embodiment of the integrated love we seek. My deepest prayer for this book is that it helps all of us know Jesus more intimately in this way. And that through us, His Body, the Church, will shine ever brighter as the light of the world and the salt of the earth, offering the true answer to the world's desperate search for love.
 
@@ -108,7 +114,10 @@ I feel so blessed that you're joining me on this exploration of the most vital t
 
 My own journey into the heart of this mystery began when I was 19, on a Catholic retreat at the "Emmaus" retreat center in Panama. It was there God taught me His first lesson, one I have never stopped thinking about, rooted in the words of St. John:
 
-> "God is love, and whoever remains in love remains in God and God in him." (1 John 4:16).
+<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+"God is love, and whoever remains in love remains in God and God in him."
+<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">1 John 4:16</span>
+</div>
 
 "God is Love." Wow—amazing... That one statement changed my entire life. I knew this was deep, but I had no idea! It ignited in me a lifelong quest, to figure out: "What does it *mean* that 'God is Love'?" I felt this truth deep within my bones, yet I knew my understanding was incomplete. Now, decades later, through countless hours of learning, studying, thinking, teaching, and talking – God, through His Church and most especially watching our society suffer (needlessly) with so much un-truth, it all helped bring it all together for me into a clear, concise, and simple understanding of what love truly is. And that's what I hope to share with you in this book.
 

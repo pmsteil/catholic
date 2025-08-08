@@ -314,7 +314,7 @@ Scripture consistently places honor for parents and legitimate authority immedia
 Jesus reveals that justice toward our neighbor must be measured by proper justice (and mercy) toward ourselves—neither neglecting our legitimate needs nor serving ourselves at others' expense.
 
 ### Civil and Religious Authority
-<div class="blockquote" style="background-color: #002b36; padding: 20px 28px; margin: 28px 0; border-radius: 8px; font-size: 18px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;
+<div class="blockquote" style="background-color: #002b36; padding: 20px 28px; margin: 28px 0; border-radius: 8px; font-size: 18px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
 "Give to Caesar what is Caesar's, and to God what is God's." (Mark 12:17)
 <br><br>
 "Obey your leaders and submit to them, for they are keeping watch over your souls, as those who will have to give an account. Let them do this with joy and not with groaning, for that would be of no advantage to you."

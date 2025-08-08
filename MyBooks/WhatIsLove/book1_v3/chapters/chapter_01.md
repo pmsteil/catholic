@@ -1,10 +1,14 @@
 # Chapter 1: Evil
 
-*"We know that all creation is groaning in labor pains even until now."*
-— Romans 8:22
+<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+"We know that all creation is groaning in labor pains even until now."
+<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">— Romans 8:22</span>
+</div>
 
-*"If God the Father almighty, the Creator of the ordered and good world, cares for all his creatures, why does evil exist? To this question, as pressing as it is unavoidable and as painful as it is mysterious, no quick answer will suffice. Only Christian faith as a whole constitutes the answer to this question: the goodness of creation, the drama of sin and the patient love of God who comes to meet man by his covenants, the redemptive Incarnation of his Son, his gift of the Spirit, his gathering of the Church, the power of the sacraments and his call to a blessed life to which free creatures are invited to consent in advance, but from which, by a terrible mystery, they can also turn away in advance. There is not a single aspect of the Christian message that is not in part an answer to the question of evil."*
-— Catechism of the Catholic Church 309
+<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+"If God the Father almighty, the Creator of the ordered and good world, cares for all his creatures, why does evil exist? To this question, as pressing as it is unavoidable and as painful as it is mysterious, no quick answer will suffice. Only Christian faith as a whole constitutes the answer to this question: the goodness of creation, the drama of sin and the patient love of God who comes to meet man by his covenants, the redemptive Incarnation of his Son, his gift of the Spirit, his gathering of the Church, the power of the sacraments and his call to a blessed life to which free creatures are invited to consent in advance, but from which, by a terrible mystery, they can also turn away in advance. There is not a single aspect of the Christian message that is not in part an answer to the question of evil."
+<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">— Catechism of the Catholic Church 309</span>
+</div>
 
 ---
 

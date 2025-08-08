@@ -1,19 +1,29 @@
 # Appendix: How Adults Make Divine Love Clear to Children
 
-*"And these words that I command you today shall be on your heart. You shall teach them diligently to your children, and shall talk of them when you sit in your house, and when you walk by the way, and when you lie down, and when you rise."*
-— Deuteronomy 6:6-7
+<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+"And these words that I command you today shall be on your heart. You shall teach them diligently to your children, and shall talk of them when you sit in your house, and when you walk by the way, and when you lie down, and when you rise."
+<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">— Deuteronomy 6:6-7</span>
+</div>
 
-*"Train up a child in the way he should go; even when he is old he will not depart from it."*
-— Proverbs 22:6
+<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+"Train up a child in the way he should go; even when he is old he will not depart from it."
+<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">— Proverbs 22:6</span>
+</div>
 
-*"Fathers, do not provoke your children to anger, but bring them up in the discipline and instruction of the Lord."*
-— Ephesians 6:4
+<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+"Fathers, do not provoke your children to anger, but bring them up in the discipline and instruction of the Lord."
+<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">— Ephesians 6:4</span>
+</div>
 
-*"Parents have the first responsibility for the education of their children. They bear witness to this responsibility first by creating a home where tenderness, forgiveness, respect, fidelity, and disinterested service are the rule. The home is well suited for education in the virtues."*
-— Catechism of the Catholic Church 2223
+<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+"Parents have the first responsibility for the education of their children. They bear witness to this responsibility first by creating a home where tenderness, forgiveness, respect, fidelity, and disinterested service are the rule. The home is well suited for education in the virtues."
+<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">— Catechism of the Catholic Church 2223</span>
+</div>
 
-*"Parents have the mission of teaching their children to pray and to discover their vocation as children of God."*
-— Catechism of the Catholic Church 2226
+<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+"Parents have the mission of teaching their children to pray and to discover their vocation as children of God."
+<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">— Catechism of the Catholic Church 2226</span>
+</div>
 
 *"Worldview is developed between the ages of 18 months and 13 years. According to George Barna, by the time a teenager is 13 or 14, it's done. It may be refined a bit through the teen years, but by one's 20s, not only is worldview solid, but most people become an evangelist for their view."*
 — George Barna, Research on Worldview Formation¹
