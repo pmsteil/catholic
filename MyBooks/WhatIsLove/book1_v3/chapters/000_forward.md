@@ -1,4 +1,4 @@
-# Foreward
+# Foreword
 
 I collected all the words and strung them together.  But I cannot claim to be the author.
 
@@ -71,6 +71,6 @@ And to the problem of evil the Catechism tells us how to solve it!
 
 Wow!  If the Catholic Faith cannot triumph over evil, then is it truly "good"?
 
-Let use begin our deep dive into God's Perfect Love, His answer to Evil, and the full Salvation that he offers us through the Incarnation of his Son, the Redemption of his Blood, and the Gift of his Spirit.
+Let us begin our deep dive into God's Perfect Love, His answer to Evil, and the full Salvation that he offers us through the Incarnation of his Son, the Redemption of his Blood, and the Gift of his Spirit.
 
 ** Technical note: I also did not create the incredible AI tools that assisted me in researching, writing and editing this book. This book is all based on the Church's teachings and the Holy Spirit's inspiration, but AI helped accelerate the process of writing this book and making sure the book is faithful to the Church's teachings and the Holy Spirit's inspiration. **

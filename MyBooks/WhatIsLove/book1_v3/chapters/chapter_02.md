@@ -137,8 +137,8 @@ Through careful study of Scripture and the Church's teaching on love, we can see
 
 <div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 23px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
 <strong>The sacred, sacrificial gift of covenant</strong><br>
-— <em>binding truth, justice, and mercy</em> —<br>
-— <em>gathering us into life-giving communion</em> —
+— <em>binding truth, justice, and mercy</em><br>
+— <em>gathering us into life-giving communion</em>
 </div>
 
 Let's understand what "perfect" means here. Perfect doesn't mean flawless performance or earning God's love through our efforts. Rather, perfect means *complete* and *integrated*—love that includes all its essential facets working in harmony. Jesus calls us to this perfection: "Be perfect, therefore, as your heavenly Father is perfect" (Matthew 5:48). This is possible not through human effort alone, but through grace (His Perfect Love) that teaches and transforms us. Obviously Jesus is not going to give us a command that we cannot follow.
