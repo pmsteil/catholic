@@ -72,9 +72,35 @@ When Jesus instituted the sacraments during His earthly ministry, He was creatin
 
 This is why the sacraments are so powerful—they are not mere symbols or human ceremonies, but God Himself giving us His perfect love in ways we can see, touch, taste, and experience. In every sacrament, that sacred gift pours out on us, transforming us from within and drawing us deeper into covenant relationship with Him.
 
+## Growing Toward Perfect Love
+
+But we aren't perfect. How can we love like Jesus? The beautiful truth is that we have real choices, and with God's grace, we can make progress toward the perfect love He desires for us.
+
+Can you avoid murder, rape, genocide—can you avoid mortal sin? Yes! Can you avoid adultery, theft, blasphemy, apostasy, despair, presumption—other mortal sins that destroy our relationship with God? Yes! We absolutely have this choice. We can ask Jesus to help shape our intellect and direct our will toward choosing what is true and just and merciful.
+
+This is the wonderful gift Paul gives us in warning us about sins that are deadly to the soul:
+
+<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+"If anyone sees his brother committing a sin not leading to death, he shall ask, and God will give him life—to those who commit sins that do not lead to death. There is sin that leads to death; I do not say that one should pray for that. All wrongdoing is sin, but there is sin that does not lead to death."
+<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">— Galatians 6:7-8</span>
+</div>
+
+Paul warns us so that we can fulfill the perfect love God desires for us—avoiding mortal sin (sin that destroys our relationship with God) and hopefully maturing in faith so that the only sins we commit are venial sins.
+
+**Venial sin** is sin that wounds but does not destroy our relationship with God—like small arguments in a marriage that create tension but don't threaten the fundamental bond. Venial sins include things like minor dishonesty, small acts of selfishness, losing our temper briefly, or failing to pray when we intended to. These sins weaken our spiritual life and make us more susceptible to serious sin, but they don't cut us off from God's grace entirely.
+
+This is God's plan for our spiritual growth: that we would mature from committing mortal sins (relationship-destroying) to committing only venial sins (relationship-wounding), and eventually, through the sacraments and daily grace, grow in such union with Christ that we sin less and less. This is how we can be perfect as Jesus and the Father are perfect:
+
+<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+"You therefore must be perfect, as your heavenly Father is perfect."
+<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">— Matthew 5:48</span>
+</div>
+
+This perfection isn't achieved through our own willpower alone, but through the sacramental life that channels God's grace into our souls, gradually transforming us from within until we truly love as Christ loves. Jesus calls us into His idea of a perfect, integrated love rather than our human idea that we must be without any sin whatsoever in order to be perfect.
+
 ## The Sacramental Structure of Covenant Love
 
-Now we can understand why the Church has seven sacraments. Why not just one way to encounter God's grace? The answer lies in understanding that all authentic covenant relationships follow the same basic structure that God established in His covenants with humanity. The sacraments reveal this structure most clearly, showing us how God creates and strengthens our covenant bonds with Him and each other through these encounters where His perfect love pours out on us.
+The seven sacraments exist, well first because Jesus established them, but also because authentic covenant relationships need a complete structure—not just a single moment of encounter, but a full framework for living in relationship with God. Just as human relationships have different stages and needs (meeting, commitment, ongoing communication, reconciliation when needed), our covenant with God unfolds through different sacramental encounters. Each sacrament reveals a different aspect of how God creates and strengthens our covenant bonds with Him and each other through these encounters where His perfect love pours out on us.
 
 **Baptism: God Makes Us His Children**
 
