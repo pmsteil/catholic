@@ -1,4 +1,4 @@
-# Chapter 7: Covenant
+# Covenant
 
 <div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
 "I will make a new covenant with the house of Israel and the house of Judah... I will put my law within them, and I will write it on their hearts. And I will be their God, and they shall be my people."

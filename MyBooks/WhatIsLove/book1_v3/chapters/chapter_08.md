@@ -1,4 +1,4 @@
-# Chapter 8: The Sacraments
+# The Sacraments
 
 <div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
 "Husbands, love your wives, even as Christ loved the church and handed himself over for her."
