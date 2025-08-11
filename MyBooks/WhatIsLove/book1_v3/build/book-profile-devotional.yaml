@@ -1,0 +1,44 @@
+title-meta: Devotional/Educational layout
+classoption: [twoside, openany]
+numbersections: true
+secnumdepth: 1
+toc-depth: 2
+colorlinks: false
+links-as-notes: true
+header-includes:
+  - |
+    \usepackage{setspace}
+    \setstretch{1.2}
+  - |
+    \usepackage{microtype}
+    \microtypesetup{protrusion=true}
+  - |
+    \usepackage{parskip}
+  - |
+    \usepackage{quoting}
+    \quotingsetup{vskip=6pt,leftmargin=1em,rightmargin=1em,font=itshape}
+  - |
+    \usepackage{fancyhdr}
+    \pagestyle{fancy}
+    \fancyhf{}
+    \setlength{\headheight}{14.5pt}
+    \makeatletter
+    \renewcommand{\chaptermark}[1]{\markboth{\thechapter\enspace #1}{}}
+    \makeatother
+    \fancyhead[LE,RO]{\footnotesize \leftmark}
+    \fancyfoot[CE,CO]{\thepage}
+geometry:
+  - paperwidth=6in
+  - paperheight=9in
+  - inner=0.9in
+  - outer=0.7in
+  - top=0.8in
+  - bottom=0.9in
+  - bindingoffset=0.25in
+subject: Theology and Spirituality
+keywords: [Catholic, Love, Theology, Devotional, Formation]
+publisher: Your Publisher
+date: 2025
+rights: "© 2025 Patrick Steil. All rights reserved."
+
+

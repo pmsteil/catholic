@@ -1,0 +1,44 @@
+title-meta: Compact layout (minimize page count)
+documentclass: extbook
+classoption: [twoside, openany, 9pt]
+numbersections: true
+secnumdepth: 1
+toc-depth: 2
+colorlinks: false
+links-as-notes: true
+top-level-division: chapter
+header-includes:
+  - |
+    \usepackage{microtype}
+    \microtypesetup{protrusion=true}
+  - |
+    \usepackage{parskip}
+    \setlength{\parskip}{4pt}
+  - |
+    \usepackage{setspace}
+    \setstretch{1.05}
+  - |
+    \usepackage{titlesec}
+    \titlespacing*{\chapter}{0pt}{-4pt}{4pt}
+    \titlespacing*{\section}{0pt}{6pt}{3pt}
+    \titlespacing*{\subsection}{0pt}{4pt}{2pt}
+  - |
+    \usepackage{fancyhdr}
+    \pagestyle{fancy}
+    \fancyhf{}
+    \setlength{\headheight}{14.5pt}
+    \makeatletter
+    \renewcommand{\chaptermark}[1]{\markboth{\thechapter\enspace #1}{}}
+    \makeatother
+    \fancyhead[LE,RO]{\scriptsize \leftmark}
+    \fancyfoot[CE,CO]{\thepage}
+geometry:
+  - paperwidth=6in
+  - paperheight=9in
+  - inner=0.8in
+  - outer=0.6in
+  - top=0.7in
+  - bottom=0.8in
+  - bindingoffset=0.2in
+# extbook with 9pt handles sizing; no explicit fontsize needed
+

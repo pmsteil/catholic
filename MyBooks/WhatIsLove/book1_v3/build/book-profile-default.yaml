@@ -1,0 +1,64 @@
+title: What Is Love?
+subtitle: God's Perfect Love Truly Saves Us
+author: Patrick Steil, St. John Paul II University Parish, Denton TX
+lang: en-US
+documentclass: book
+classoption: [twoside, openany]
+numbersections: true
+secnumdepth: 1
+toc-depth: 2
+colorlinks: false
+links-as-notes: true
+top-level-division: chapter
+header-includes:
+  - |
+    \usepackage{setspace}
+    \setstretch{1.2}
+  - |
+    \usepackage{microtype}
+    \microtypesetup{protrusion=true}
+  - |
+    \usepackage{parskip}
+  - |
+    \usepackage{quoting}
+    \quotingsetup{vskip=6pt,leftmargin=1em,rightmargin=1em,font=itshape}
+  - |
+    \usepackage{fancyhdr}
+    \pagestyle{fancy}
+    \fancyhf{}
+    \setlength{\headheight}{14.5pt}
+    \makeatletter
+    \renewcommand{\chaptermark}[1]{\markboth{\thechapter\enspace #1}{}}
+    \makeatother
+    \fancyhead[LE,RO]{\footnotesize \leftmark}
+    \fancyfoot[CE,CO]{\thepage}
+geometry:
+  - paperwidth=6in
+  - paperheight=9in
+  - inner=0.9in
+  - outer=0.7in
+  - top=0.8in
+  - bottom=0.9in
+  - bindingoffset=0.25in
+chapters:
+  - 0_cover.md
+  - 000_forward.md
+  - 00_Introduction.md
+  - chapter_01.md
+  - chapter_02.md
+  - chapter_03.md
+  - chapter_04.md
+  - chapter_05.md
+  - chapter_06.md
+  - chapter_07.md
+  - chapter_08.md
+  - chapter_09.md
+  - chapter_10.md
+  - chapter_11.md
+  - chapter_12.md
+  - chapter_13.md
+  - z_appendix_on_the_marriage_covenant.md
+  - z_appendix_on_teaching_the_children.md
+  - y_appendix_definitions.md
+
+
