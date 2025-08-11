@@ -19,9 +19,9 @@
 
 ## The Tragedy of Good Intentions Gone Wrong
 
-"I just want to help people!" The young woman's eyes blazed with passion as she defended her involvement in the latest social justice movement. "How can you say that caring about oppression is wrong?"
+"I just want to help people!" The young woman's eyes blazed with passion as she defended her involvement in the latest social justice movement. "How can you say that fighting against oppression is wrong?"
 
-I wasn't saying that caring about oppression was wrong. I was trying to help her see that the ideology she had embraced—though it contained genuine concerns about justice—was leading her away from the very love she sought to serve. She wanted to fight injustice, but the movement had taught her to see enemies everywhere, to divide people into oppressor and oppressed categories, and to believe that hatred of the "privileged" was actually a form of love for the "marginalized."
+I wasn't saying that fighting against oppression was wrong. I was trying to help her see that the ideology she had embraced—though it contained genuine concerns about justice—was leading her away from the very justice she sought. She wanted to fight injustice, but the movement had taught her to see enemies everywhere, to divide people into oppressor and oppressed categories, and to believe that hatred of the "privileged" was actually a form of love for the "marginalized."
 
 This is the tragedy of our time: **good hearts being captured by counterfeit forms of love**. People genuinely want justice, mercy, truth, and authentic relationships. But they are being offered ideologies that promise these goods while delivering their opposites. The result is not love, but division, hatred, despair, and spiritual destruction.
 
@@ -29,11 +29,23 @@ This is the tragedy of our time: **good hearts being captured by counterfeit for
     Counterfeits mimic parts of love while rejecting the whole—separating truth, justice, or mercy from the others.
 </div>
 
-As Catholics who understand what authentic love truly is, we have a responsibility to help others see through these deceptions. Not with condemnation, but with the same mercy Christ showed us when we were lost in our own forms of counterfeit love.
+As Catholics who understand what authentic love truly is, we have a responsibility to help others see through these deceptions. Not with condemnation, but with the same sacrificial, just, and merciful love Christ showed us when we were lost in our own forms of counterfeit love.
+
+Let us recall our definition of what sin is from chapter 1:
+
+<div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
+Sin is an action that we take which chooses a perceived good for ourselves at the expense of others.
+</div>
+
+<div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
+Love is an action we take which chooses the good of others at our expense.
+</div>
+
+We can plainly see why injustice exists.
 
 ## Why Counterfeits Are So Appealing
 
-Before we examine specific counterfeits, we must understand why they are so seductive. **Every counterfeit love contains some element of authentic love**—that's what makes it convincing. Satan, as St. Augustine taught us, cannot create anything new; he can only corrupt what God has made good.
+Before we examine specific counterfeits, we must understand why they are so seductive. **Every counterfeit love probably contains some element of authentic love**—that's what makes it convincing. Satan, as St. Augustine taught us, cannot create anything new; he can only corrupt what God has made good.
 
 The ideologies that capture hearts today succeed because they appeal to real human needs:
 - The need for **justice** (they promise to fight oppression)
@@ -44,9 +56,9 @@ The ideologies that capture hearts today succeed because they appeal to real hum
 
 **The problem is not that these needs are wrong—they are written into our hearts by God Himself.** The problem is that these ideologies offer incomplete, distorted, or even inverted versions of what our hearts truly seek.
 
-## How Counterfeits Distort Perfect Love
+## How Counterfeits Distort God's Perfect Love
 
-Remember our comprehensive definition: **Perfect Love is the sacred, sacrificial gift of covenant, binding truth, justice, and mercy, gathering us into life-giving communion.** Counterfeit ideologies fail because they get one or more essential elements of this definition wrong. Understanding these patterns helps us recognize counterfeits and minister to those caught in them.
+Remember our comprehensive definition: **God's Perfect Love is the sacred, sacrificial gift of covenant, binding truth, justice, and mercy, gathering us into life-giving communion.** Counterfeit ideologies fail because they get one or more essential elements of this definition wrong. Understanding these patterns helps us recognize counterfeits and minister to those caught in them.
 
 ### The Most Dangerous Error: Denying the Image of God
 
@@ -72,7 +84,7 @@ When we truly understand that every person bears God's image, several truths bec
 But counterfeits don't only fail by denying imago Dei. They can also distort other essential elements of perfect love:
 
 **1. Rejecting the Sacred Dimension**
-- Reducing love to mere biology, chemistry, or social construction
+- Reducing love to mere biology, chemistry, or "social construct"
 - Denying that love participates in God's own divine nature
 - Treating love as purely human rather than a gift from God
 
@@ -85,6 +97,7 @@ But counterfeits don't only fail by denying imago Dei. They can also distort oth
 - Treating relationships as temporary and disposable
 - Avoiding permanent commitments and vows
 - Prioritizing individual autonomy over faithful love
+- Rejecting the family consisting of one man and one woman for the pro-creation of children for passing on our life, love and faith to future generations
 
 **4. Distorting Truth**
 - Relativism that denies objective moral standards
@@ -108,41 +121,43 @@ But counterfeits don't only fail by denying imago Dei. They can also distort oth
 
 Understanding these patterns helps us recognize why specific ideologies fail and how to offer authentic alternatives.
 
+An entire book can be devoted to diving into these errors, but I think this chapter will help you see how God's Perfect Love is the standard by which we can recognize and avoid these errors.
+
 ## The Major Counterfeits of Our Time
 
 ### 1. Woke "Love": Inclusion and Equity at All Costs
 
-**The Appeal:** Woke ideology promises compassion for the marginalized and liberation from traditional oppression. It speaks to the genuine human need for acceptance and belonging.
+**The Appeal:** Woke ideology promises compassion for the marginalized and liberation from any oppression. It speaks to the genuine human need for acceptance and belonging.
 
-**The Counterfeit:** Wokeism makes inclusion and equity the ultimate values, believing that any inequality of outcome proves injustice and that love means eliminating all differences in results regardless of other considerations. It treats equal outcomes as more important than truth, individual dignity, or authentic flourishing.
+**The Counterfeit:** Wokeism makes inclusion, equity and material success the ultimate values [false truth], believing that any inequality of outcome proves injustice [false justice] and that love means eliminating all differences in results regardless of other considerations [false mercy]. It treats equal outcomes as more important than truth, individual dignity, or authentic flourishing.
 
 **What It Gets Right:**
 - **Concern for the Marginalized:** Genuine desire to help those who have been excluded, rejected, or treated unfairly
-- **Recognition of Past Injustices:** Acknowledges real historical wrongs like slavery, segregation, and discrimination
+- **Recognition of Past Injustices:** Acknowledges real historical wrongs like slavery, segregation, and discrimination or even persecution
 - **Call for Compassion:** Appeals to our natural desire to show mercy to those who are suffering
 - **Critique of Hypocrisy:** Exposes genuine failures of Christians and institutions to live up to their stated values
 - **Emphasis on Inclusion:** Recognizes the human need for belonging and acceptance in community
 - **Attention to Systemic Problems:** Understands that some problems are bigger than individual choices
 
 **What It Gets Wrong:**
-- **Distorts Imago Dei:** Makes identity categories (race, gender, sexuality) more fundamental than our shared creation in God's image
-- **Rejects Truth:** Embraces relativism and assumes all inequality proves discrimination without examining individual hearts
-- **Perverts Justice:** Creates reverse discrimination to achieve equal outcomes rather than equal dignity
-- **Prevents Communion:** Divides people into oppressor/oppressed groups that cannot reconcile
+- **Distorts Imago Dei:** Makes identity categories (race, gender, sexuality) more fundamental than our shared creation as humans beings made in God's image [false truth]
+- **Rejects Truth:** Embraces relativism and assumes all inequality proves discrimination without examining individual hearts and the root causes of the inequality [lacks truth]. Assumes financial/career success are the ultimate "end" [false truth].
+- **Perverts Justice:** Creates reverse discrimination to achieve equal outcomes rather than equal dignity [false justice]
+- **Prevents Communion:** Divides people into oppressor/oppressed groups that cannot reconcile [lacks mercy]
 
 **Why It Fails:** **Woke love points inward toward group identity and grievance rather than outward toward the authentic good of all people.** It makes the self (or group) the measure of truth and justice, which is the essence of sin rather than love.
 
 **The Authentic Alternative:** **Perfect Love addresses the marginalized through the sacred dignity of imago Dei, sacrificial service to the vulnerable, covenant commitment to inclusion, and the integration of truth, justice, and mercy.**
 
-**Sacred:** Every person bears God's image regardless of race, sex or social status - this gives universal dignity that no identity category can provide. **Sacrificial:** We give up comfort, privilege, and resources to serve those who suffer, following Christ's example of laying down His life for others. **Covenant:** We make permanent commitments to stand with the marginalized, not temporary activism that fades when it's no longer fashionable. **Truth:** We tell people the truth about what leads to human flourishing, even when it's difficult; we acknowledge that some differences in outcomes result from different choices, circumstances, or gifts. **Justice:** We work to ensure everyone receives equal dignity and opportunity as image-bearers of God, while recognizing that equal outcomes are neither possible nor necessarily just. **Mercy:** We show compassion to those who have sinned (including ourselves) while helping them find healing and growth. **Life-giving Communion:** We create communities where everyone belongs because they are loved by God, united by our common humanity rather than divided by identity categories.
+**Sacred:** Every person bears God's image regardless of race, sex or social status - this gives universal dignity that no identity category can provide. **Sacrificial:** We give up comfort, privilege, and resources to serve those who suffer, following Christ's example of laying down His life for others. **Covenant:** We make permanent commitments to stand with the marginalized, not temporary activism that fades when it's no longer fashionable. **Truth:** We tell people the truth about what leads to human flourishing, even when it's difficult; we acknowledge that some differences in outcomes result from different choices, circumstances, or gifts. **True Justice:** We work to ensure everyone receives equal dignity and opportunity as image-bearers of God, while recognizing that equal outcomes are neither possible nor necessarily just. **True Mercy:** We show compassion to those who have sinned (including ourselves) while helping them find healing and growth. **Life-giving Communion:** We create communities where everyone belongs because they are loved by God, united by our common humanity rather than divided by identity categories -- The Kingdom of God -- The Church.
 
 This approach actually heals marginalization by addressing its root cause (failure to recognize imago Dei) rather than creating new forms of division through forced equity measures.
 
 ### 2. Gender Ideology "Love": Affirming False Identity as Compassion
 
-**The Appeal:** Gender ideology promises liberation from traditional gender roles and acceptance for those who feel different from their biological sex. It speaks to the genuine human need for identity and belonging.
+**The Appeal:** Gender ideology promises liberation from traditional gender roles and compassion, care, acceptance (justice) for those who feel different from their biological sex. It speaks to the genuine human need for identity and belonging.
 
-**The Counterfeit:** Gender ideology teaches that love means affirming any gender identity a person claims, regardless of biological reality. It treats the body as irrelevant to identity and makes subjective feelings more important than objective truth about human nature.
+**The Counterfeit:** Gender ideology teaches that love means affirming any gender identity a person claims, regardless of biological reality [false truth]. It treats the body as irrelevant to identity and makes subjective feelings more important than objective truth about human nature. It also treats the body as a machine to be controlled [false justice] rather than a temple of the Holy Spirit instead of the integrated body, mind and soul.
 
 **What It Gets Right:**
 - **Concern for Those Who Struggle:** Recognizes genuine pain and confusion experienced by those with gender dysphoria
@@ -153,25 +168,25 @@ This approach actually heals marginalization by addressing its root cause (failu
 - **Critique of Superficiality:** Rejects shallow definitions of masculinity and femininity
 
 **What It Gets Wrong:**
-- **Denies Imago Dei:** Rejects God's creation of humans as male and female, attempting to remake the image of God according to human will
-- **Rejects Truth:** Denies biological reality and the integration of body, mind and soul
-- **Corrupts Mercy:** Enables harmful medical interventions rather than providing authentic healing
-- **Perverts Justice:** Violates women's rights by allowing biological males into female spaces
+- **Denies Imago Dei:** Rejects God's creation of humans as male and female, attempting to remake the image of God according to human will [false truth]
+- **Rejects Truth:** Denies biological reality and the integration of body, mind and soul [lacks truth]
+- **Corrupts Mercy:** Enables harmful medical interventions rather than providing authentic healing [false mercy]
+- **Perverts Justice:** Violates women's rights by allowing biological males into female spaces [false justice]
 
-**Why It Fails:** **Gender ideology love points inward toward subjective feelings rather than outward toward objective truth and the authentic good of the person.** It demands that reality conform to desire, which is the opposite of authentic love that accepts and integrates truth.
+**Why It Fails:** **Gender ideology points inward toward subjective feelings rather than outward toward objective truth and the authentic good (justice) of the person.** It demands that reality conform to desire, which is the opposite of authentic love that accepts and integrates truth.
 
 **The Authentic Alternative:** **Perfect Love addresses gender confusion through the sacred dignity of embodied existence, sacrificial acceptance of our created nature, covenant commitment to authentic identity, and the integration of body, mind, and soul.**
 
-**Sacred:** Our bodies are temples of the Holy Spirit (1 Corinthians 6:19) and integral to our identity as image-bearers of God, created male and female. **Sacrificial:** We accept the limitations and gifts of our embodied existence rather than demanding that reality conform to our desires. **Covenant:** We embrace our identity as sons or daughters of God, living according to His design for human flourishing. **Truth:** We acknowledge the objective reality of biological sex and the significance of sexual complementarity for human relationships and we teach the true meaning of love and acceptance. **Justice:** We protect the rights of women and children while showing compassion to those who struggle with gender confusion. **Mercy:** We offer authentic healing through therapy, spiritual direction, and community support rather than harmful medical interventions. **Life-giving Communion:** We celebrate the beautiful complementarity of male and female that reflects the Trinity and enables the creation of new life.
+**Sacred:** Our bodies are temples of the Holy Spirit (1 Corinthians 6:19) and integral to our identity as image-bearers of God, created male and female. **Sacrificial:** We accept the limitations and gifts of our embodied existence rather than demanding that reality conform to our desires. **Covenant:** We embrace our identity as sons or daughters of God, living according to His design for human flourishing. **Truth:** We acknowledge the objective reality of biological sex and the significance of sexual complementarity for human relationships and we teach the true meaning of love and acceptance. **Justice:** We protect the rights of women and children while showing compassion to those who struggle with gender confusion. **Mercy:** We offer authentic healing through the complete Catholic Faith - prayer, the Mass, the Sacraments, spiritual direction, studying God's Truth about who we are and our sexuality and community support rather than immediately turning to  medical interventions. **Life-giving Communion:** We celebrate the beautiful complementarity of male and female that reflects the Trinity and enables the creation of new life.
 
 This approach provides genuine healing by helping people integrate their body, mind, and soul according to God's design, rather than fragmenting their identity through rejection of their embodied nature.
 
 
-### 3. Political "Love": Government Power and Secular Solutions as Salvation
+### 3. Politics and Secular Solutions as Salvation
 
-**The Appeal:** Political love promises that the right laws, policies, and government programs can solve humanity's deepest problems and create a just society for all.
+**The Appeal:** Politics and secular solutions promise that the right laws, policies, and government programs can solve humanity's deepest problems and create a just society for all.
 
-**The Counterfeit:** This ideology places ultimate hope in political systems, parties, and secular governance while insisting that faith and moral principles must be kept separate from public life. It treats government power as the primary means of achieving justice and human flourishing, rather than the transformation of hearts through authentic love.
+**The Counterfeit:** This ideology places ultimate hope in political systems, parties, and secular governance while insisting that faith and moral principles must be kept separate from public life. It treats government power as the primary means of achieving justice and human flourishing, rather than the transformation of hearts through authentic love. It claims "authority" when it is not the "author" of truth, justice and mercy and must dictate its laws even if they are against the truth, justice and mercy.
 
 **What It Gets Right:**
 - **Concern for Justice:** Recognizes that laws and policies have real effects on people's lives and that government has a role in protecting rights
@@ -182,18 +197,34 @@ This approach provides genuine healing by helping people integrate their body, m
 - **Universal Concern:** Seeks laws that apply equally to all citizens regardless of their personal beliefs
 
 **What It Gets Wrong:**
-- **Denies God's Sovereignty:** Treats human government as autonomous from divine authority and moral law
-- **Rejects Truth:** Excludes objective moral principles from public discourse
-- **Distorts the Sacred:** Makes politics ultimate rather than penultimate, creating idols of human systems
-- **Points Love Inward:** Seeks tribal political victories rather than authentic common good
+- **Denies God's Sovereignty:** Treats human government as autonomous from divine authority and moral law [false truth]
+- **Rejects Truth:** Excludes objective moral principles from public discourse [lacks truth]
+- **Distorts the Sacred:** Makes politics ultimate rather than penultimate, creating idols of human systems [false truth]
+- **Points Love Inward:** Seeks tribal political victories rather than authentic common good [lacks justice]
 
-**Why It Fails:** **Political love points inward toward partisan victory rather than outward toward the authentic good of all citizens.** It seeks power for its own sake rather than serving the common good rooted in divine law.
+**Why It Fails:** **Politics points inward toward partisan victory rather than outward toward the authentic good of all citizens.** It seeks power for its own sake rather than serving the common good rooted in divine law. It misunderstands the role of government and what true authority actually is.
 
-**The Authentic Alternative:** **Perfect Love transforms society through morally-formed Christians who bring the light of truth, justice, and mercy into the public square, electing representatives and supporting laws that reflect God's design for human flourishing.**
+Modern politicians think they can *make* people act morally toward one another, but love is a gift that wells up from the heart of each individual, not something that can be dictated and pushed down from on high.
 
-**Sacred:** Government authority comes from God and must serve His purposes for human dignity and the common good. Human fulfillment comes from communion with God, not material wealth. **Sacrificial:** Christians engage in politics not for personal gain or tribal victory, but to serve others, especially the vulnerable. **Covenant:** We make binding commitments to moral principles that transcend party politics and guide our civic participation. **Truth:** Objective moral law provides the foundation for just laws and policies; faith and reason together inform public discourse. **Justice:** Everyone receives fair treatment and protection under the law. **Mercy:** We show compassion for those who struggle economically or socially while maintaining moral principles. **Life-giving Communion:** We build a society where faith and public life are integrated, where moral citizens elect moral representatives who pass moral laws.
+**The Authentic Alternative:** **Perfect Love transforms society through voluntary submission to the "law of Christ", morally-formed Christians who bring the light of truth, justice, and mercy into the public square, electing representatives and supporting laws that reflect God's design for the "common good".**
 
-This creates authentic political love that serves the genuine common good by grounding human law in divine law and forming citizens who can participate wisely in democratic governance.
+<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">Authority does not derive its moral legitimacy from itself. It must not behave in a despotic manner, but must act for the common good as a 'moral force based on freedom and a sense of responsibility'<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">— CCC 1903</span></div>
+
+**Sacred:** Government authority comes from God and must serve His purposes for human dignity and the common good. Human fulfillment comes from communion with God, not material wealth. **Sacrificial:** Christians engage in politics not for personal gain or tribal victory, but to serve others, especially the vulnerable. **Covenant:** We make binding commitments to moral principles that transcend party politics and guide our civic participation. **Truth:** Objective moral law provides the foundation for just laws and policies; faith and reason together inform public discourse. **Justice:** Everyone receives fair treatment and protection under the law. **Mercy:** We show compassion for those who struggle economically or socially while maintaining moral principles. **Life-giving Communion:** We build a society where faith and public life are integrated, where...
+
+<div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">Moral citizens elect moral representatives who pass moral laws.</div>
+
+Government and policies that come from people who are well formed in the truth, justice and mercy of God and who seek to serve the genuine common good by grounding human law in divine law and forming citizens who can participate wisely in democratic governance.
+
+The greatest human authority comes from people voluntarily submitting to a Government that is filled with people who are honoring and following the truth, justice and mercy of God. This is the heart of what it means to be Catholic and a Christian.
+
+With every scandal of corruption, abuse of power, and failure to serve the common good, the submission of the people to the Government is weakened - why? Because all people - even atheists are aware of injustice and immorality when they see it. They just don't know what the answer to the root of this problem is. The answer is the Catholic Faith in Jesus Christ.
+
+<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">The common good is always oriented towards the progress of persons: 'The order of things must be subordinate to the order of persons, and not the other way around'<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">— CCC 1912</span></div>
+
+When government makes persons subordinate to systems, ideology, or power, it violates this fundamental principle.
+
+<div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">True "Authority" comes from the true "Author" of truth, justice and mercy.</div>
 
 ### 4. Sentimental/Romantic/Over-sexualized "Love": Feelings and Pleasure Without Commitment
 
@@ -210,10 +241,10 @@ This creates authentic political love that serves the genuine common good by gro
 - **Celebration of Beauty:** Appreciates the attractive aspects of love that draw people together
 
 **What It Gets Wrong:**
-- **Rejects the Sacred:** Treats love as purely human emotion rather than participation in God's nature
-- **Avoids Sacrifice:** Promises love without cost, commitment, or difficulty
-- **Corrupts Truth:** Makes feelings the measure of reality rather than objective truth about human flourishing
-- **Prevents Communion:** Creates relationships based on mutual use rather than mutual self-gift
+- **Rejects the Sacred:** Treats love as purely human emotion rather than participation in God's nature [lacks truth]
+- **Avoids Sacrifice:** Promises love without cost, commitment, or difficulty [lacks justice]
+- **Corrupts Truth:** Makes feelings the measure of reality rather than objective truth about human flourishing [false truth]
+- **Prevents Communion:** Creates relationships based on **mutual use** rather than **mutual self-gift** [lacks mercy]
 
 **Why It Fails:** **Sentimental love points inward toward personal satisfaction rather than outward toward the authentic good of the beloved.** It makes the other person responsible for our happiness, which no creature can provide - only God can satisfy the human heart.
 
@@ -235,22 +266,26 @@ This produces relationships that are both passionate AND stable, both emotionall
 - **Recognition of Burden:** Understands that raising children requires significant sacrifice and resources
 - **Emphasis on Choice:** Values the ability to make decisions about one's life and future
 - **Practical Focus:** Attempts to address real concerns about poverty, health, and family size
-- **Attention to Women:** Recognizes that women bear the physical burden of pregnancy and childbearing
+- **Attention to Women:** Recognizes that women bear the physical burden of pregnancy and childbearing - especially outside of marriage
 
 **What It Gets Wrong:**
-- **Denies God's Design:** Rejects the natural connection between authentic love, sexual union and procreation
-- **Corrupts Love:** Reduces sexual intimacy to mutual pleasure-seeking rather than total self-gift that includes openness self-gift to the life of a child
-- **Perverts Justice:** Treats children as burdens rather than gifts with inherent dignity
-- **Distorts the Sacred:** Treats the body as a machine to be controlled rather than a temple of the Holy Spirit
-- **Leads to Abortion:** Creates the mentality that children are unwanted "accidents" to be eliminated when contraception fails. As St. John Paul II taught in *Evangelium Vitae*: "It is frequently asserted that contraception, if made widely available and used, is the most effective remedy against abortion... But the contraceptive mentality—which is very different from responsible parenthood—presupposes a self-centered concept of freedom, which regards procreation as an obstacle to personal fulfillment. The life which could result from a sexual encounter thus becomes an enemy to be avoided at all costs, and abortion becomes the only possible decisive response to failed contraception."
+- **Denies God's Design:** Rejects the natural connection between authentic love, sexual union and procreation [lacks truth]
+- **Corrupts Love:** Reduces sexual intimacy to mutual pleasure-seeking rather than total self-gift that includes openness self-gift to the life of the child [lacks mercy]
+- **Perverts Justice:** Treats children as burdens rather than gifts with inherent dignity [false justice]
+- **Distorts the Sacred:** Treats the body as a machine to be controlled rather than a temple of the Holy Spirit. Fails to recognize the sacred dignity of the complete human person, body, mind and soul [false truth]
+- **Leads to Abortion:** Creates the mentality that children are unwanted "accidents" to be eliminated when contraception fails [false mercy]. As St. John Paul II taught in *Evangelium Vitae*: "It is frequently asserted that contraception, if made widely available and used, is the most effective remedy against abortion... But the contraceptive mentality—which is very different from responsible parenthood—presupposes a self-centered concept of freedom, which regards procreation as an obstacle to personal fulfillment. The life which could result from a sexual encounter thus becomes an enemy to be avoided at all costs, and abortion becomes the only possible decisive response to failed contraception."
 
 **Why It Fails:** **Contraception points inward toward personal pleasure and convenience rather than outward toward the authentic good of spouse and potential children.** It fundamentally alters sexual intimacy by removing its life-giving dimension, making it self-serving rather than self-giving.
 
-**The Authentic Alternative:** **Perfect Love embraces the sacred unity of the unitive and procreative aspects of sexuality through sacrificial openness to life, covenant commitment to marriage, and the integration of pleasure with purpose.**
+**The Authentic Alternative:** **Perfect Love embraces the sacred unity of the unitive and procreative aspects of sexuality, within the loving covenant of marriage between Mother and Father.**
 
-**Sacred:** Sexual intimacy is a participation in God's creative love and reflects the life-giving communion of the Trinity. **Sacrificial:** Spouses give themselves completely to each other, including their fertility, accepting the children God may send as gifts rather than burdens. **Covenant:** Marriage provides the permanent, exclusive commitment needed to welcome and raise children in love and security. **Truth:** We acknowledge that fertility is not a disease but a fundamental aspect of human sexuality and the image of God. **Justice:** We give children their right to life and welcome them as persons with inherent dignity. **Mercy:** We show compassion for couples struggling with infertility or difficult pregnancies while maintaining openness to God's plan. **Life-giving Communion:** Sexual intimacy creates the possibility of new life and strengthens the bond between spouses through total self-gift.
+**Sacred:** Sexual intimacy is a participation in God's creative love and reflects the life-giving communion of the Trinity - it is an deep and beautiful expression of the unity and self-giving of the body, mind and soul to each other. **Sacrificial:** Spouses give themselves completely to each other, including their fertility, accepting the children God may send as gifts rather than burdens. **Covenant:** Marriage provides the permanent, exclusive commitment needed to welcome and raise children in love and security. **Truth:** We acknowledge that fertility is not a disease but a fundamental aspect of human sexuality and the image of God. **Justice:** Children have an inherent **right to life** based on our sacred duty as parents to protect and nurture them. **Mercy:** We show compassion for couples struggling with infertility or difficult pregnancies while maintaining openness to God's plan. **Life-giving Communion:** Sexual intimacy creates the possibility of new life and strengthens the bond between spouses through total self-gift.
 
 This approach produces marriages that are both deeply intimate AND open to life, both pleasurable AND purposeful, both unitive AND procreative according to God's design.
+
+Note that the Church is not oblivious to reasons that a married couple may choose to delay having a child for a time.  This is why it can define, through what is truly just and merciful, options like natural family planning, as a valid means of avoiding pregnancy for a specific time period - while always remaining open to the possibility of children.
+
+You can read more about the Church's teaching on sexuality and contraception in the Catechism of the Catholic Church, CCC 2360-2379. Also read the encyclical *Humanae Vitae* by Pope Paul VI and *Theology of the Body* by St. John Paul II — A deeper dive into how sexuality, love, and self-gift fit into God’s plan.
 
 ### 6. Marxist "Love": Class Struggle as Salvation
 
@@ -267,34 +302,18 @@ This approach produces marriages that are both deeply intimate AND open to life,
 - **Universal Vision:** Seeks to create a world where all people have what they need to flourish
 
 **What It Gets Wrong:**
-- **Distorts Justice:** Defines justice as class warfare rather than giving each person their due as image-bearers of God
-- **Corrupts Truth:** Makes material conditions the ultimate reality, ignoring spiritual dimensions of human existence
-- **Prevents Communion:** Creates permanent enemies rather than seeking reconciliation and conversion
-- **Rejects the Sacred:** Treats humans as purely material beings without souls or eternal destiny
+- **Distorts Justice:** Defines justice as class warfare rather than giving each person their due as image-bearers of God [false justice]
+- **Corrupts Truth:** Makes material conditions the ultimate reality and goal, ignoring love as the ultimate good of human existence [false truth]
+- **Prevents Communion:** Creates permanent enemies rather than seeking reconciliation and conversion [lacks mercy]
+- **Rejects the Sacred:** Treats humans as purely material beings without souls or eternal destiny [lacks truth]
 
 **Why It Fails:** **Marxist love points inward toward group power and material gain rather than outward toward the authentic good of all people, including supposed enemies.** It seeks to destroy rather than convert, which is the opposite of Christ's love that seeks the salvation of all.
 
 **The Authentic Alternative:** **Perfect Love addresses economic injustice through the sacred dignity of work, sacrificial sharing of resources, covenant commitment to the common good, and the integration of truth, justice, and mercy.**
 
-**Sacred:** Work participates in God's creative activity, giving every laborer dignity regardless of their economic class. Human fulfillment comes from communion with God, not material wealth. **Sacrificial:** The wealthy voluntarily share their resources (not through coercion), and workers offer their labor as service to the community. **Covenant:** Employers and employees make binding commitments to each other's good, creating stable relationships rather than exploitative ones. **Truth:** We acknowledge that some inequality results from different choices, talents, and circumstances, not just oppression. **Justice:** Everyone receives fair wages, safe working conditions, and respect for their dignity. **Mercy:** We help those who struggle economically without destroying those who have succeeded. **Life-giving Communion:** We create economic relationships based on mutual service rather than class warfare.
+**Sacred:** Work participates in God's creative activity, giving every laborer dignity regardless of their economic class. **Human fulfillment comes from communion with God, not material wealth**. **Sacrificial:** The wealthy voluntarily share their resources (not through coercion), and workers offer their labor as service to the community. **Covenant:** Employers and employees make binding commitments to each other's good, creating stable relationships rather than exploitative ones. **Truth:** We acknowledge that some inequality results from different choices, talents, and circumstances, not just oppression. **Justice:** Everyone receives fair wages, safe working conditions, and respect for their dignity. **Mercy:** We help those who struggle economically without destroying those who have succeeded. **Life-giving Communion:** We create economic relationships based on mutual service rather than class warfare.
 
 Catholic social teaching offers concrete principles: living wages, worker dignity, legitimate private property, preferential option for the poor, subsidiarity, and solidarity. This creates prosperity and justice for all rather than victory of one class over another.
-
-## What Children Know (That Adults Forget)
-
-Children possess an instinctive ability to recognize counterfeit love because they have not yet been corrupted by sophisticated rationalizations. Their childlike simplicity allows them to see through deceptions that fool adults:
-
-- **Children know that lying is wrong** - They would immediately recognize that "your truth" vs. "my truth" is nonsense; truth is truth
-- **Children know boys and girls are different** - They would find gender ideology confusing and unnatural
-- **Children know it's wrong to hurt babies** - They would instinctively recoil from abortion arguments
-- **Children know families need both mom and dad** - They naturally understand that children need both parents
-- **Children know sharing should be voluntary** - They would recognize forced redistribution as stealing, not love
-- **Children know fairness matters** - They would see through utilitarian calculations that sacrifice some for others
-- **Children know love means keeping promises** - They understand that love involves commitment and responsibility
-- **Children know being unloved is the worst thing** - They understand that rejection is a form of suffering
-- **Children know love should include everyone** - They naturally want to include others and share love broadly
-
-This childlike discernment reflects our original relationship with God: recognizing that we are created in His image and deserving of respect.
 
 ## How to Minister to Those Caught in Counterfeits
 
@@ -318,6 +337,7 @@ As Catholics who understand authentic love, we are called to help others see thr
 - "If this is about love, why does it seem to require hatred of certain groups of people?"
 - "Are you finding the peace, joy, and fulfillment you were looking for?"
 - "You want to make a difference in the world—that's wonderful. How do you know this approach is actually making a positive difference?"
+- "Can this be applied across all people, for all time?" If not, it is a clue that it doesn't reflect the "image of God" in each person.
 
 ### 3. Share the Beauty of Authentic Love
 
@@ -358,17 +378,6 @@ Christ's command to "become like children" (Matthew 18:3) includes recovering th
 
 This doesn't mean becoming naive or gullible. It means recovering the clarity of heart that sees truth directly, without the distortions of pride, fear, or self-interest.
 
-## What Evil This Overcomes
-
-The evil of spiritual deception that leads souls away from authentic love toward counterfeits that ultimately destroy rather than heal. This chapter protects against:
-
-- **Ideological Capture:** Being enslaved by false philosophies that promise liberation
-- **Spiritual Confusion:** Losing the ability to distinguish good from evil
-- **Moral Relativism:** Believing that all forms of "love" are equally valid
-- **Hatred Disguised as Love:** Learning to hate enemies rather than love them
-- **Despair:** Discovering that counterfeit loves cannot satisfy the human heart
-- **Division:** Being separated from others by ideological categories rather than united in common humanity
-
 ## Living the Response
 
 **Daily Practice:**
@@ -399,7 +408,7 @@ The evil of spiritual deception that leads souls away from authentic love toward
 
 **Daily Practice:** Before engaging with media, social movements, or ideological content, pray: "Holy Spirit, help me to test this spirit. Does this lead to authentic love—truth, justice, mercy, and sacrifice—or to a counterfeit that divides, deceives, or destroys?"
 
-**Act of Spiritual Discernment:** *Jesus, You are the Way, the Truth, and the Life. You have shown us what authentic love looks like. Help me to recognize immediately anything that claims to be love but lacks truth, justice, mercy, or sacrifice. Give me the courage to reject counterfeits and the wisdom to help others see through deceptions. I trust in Your love, which is perfect and complete. Amen.*
+**Act of Spiritual Discernment:** *Jesus, You are the Way, the Truth, and the Life. You have shown us what authentic love looks like. Help me to recognize immediately anything that claims to be love but lacks your truth, justice, mercy, sacrifice, covenant, and communion. Give me the courage to reject counterfeits and the wisdom to help others see through deceptions. I trust in Your love, which is perfect and complete. Amen.*
 
 ---
 
@@ -422,8 +431,44 @@ The evil of spiritual deception that leads souls away from authentic love toward
 - **CCC 2464-2503** - The Eighth Commandment and truth in human relations
 - **CCC 1776-1802** - Moral conscience and the discernment of good and evil
 - **CCC 1803-1845** - The virtues that enable authentic love
+- **CCC 1897-1904** - Authority
+- **CCC 1905-1912** - The "common good"
 - **CCC 2419-2449** - Catholic social teaching on justice and human dignity
 - **CCC 1691-1698** - The dignity of the human person made in God's image
+
+### Encyclicals
+
+**For All Counterfeits (Foundational):**
+- **Deus Caritas Est** (God Is Love) - Pope Benedict XVI (2005) - The nature of authentic love vs. counterfeits
+- **Lumen Fidei** (The Light of Faith) - Pope Francis (2013) - Truth and faith as foundations of love
+
+**Woke Ideology / Social Justice Counterfeits:**
+- **Rerum Novarum** (Of New Things) - Pope Leo XIII (1891) - True social justice vs. class warfare
+- **Centesimus Annus** (The Hundredth Year) - Pope John Paul II (1991) - Human dignity and authentic social progress
+- **Caritas in Veritate** (Charity in Truth) - Pope Benedict XVI (2009) - Love grounded in truth, not ideology
+- **Sollicitudo Rei Socialis** (On Social Concern) - Pope John Paul II (1987) - Authentic development and human dignity
+
+**Gender Ideology:**
+- **Mulieris Dignitatem** (On the Dignity of Women) - Pope John Paul II (1988) - True understanding of gender and complementarity
+- **Familiaris Consortio** (The Role of the Christian Family) - Pope John Paul II (1981) - Authentic gender roles within family
+
+**Political Power Counterfeits:**
+- **Pacem in Terris** (Peace on Earth) - Pope John XXIII (1963) - True authority and human rights
+
+**Sentimental Love:**
+- **Amoris Laetitia** (The Joy of Love) - Pope Francis (2016) - Authentic love in marriage and family
+
+**Contraceptive Mentality:**
+- **Humanae Vitae** (Of Human Life) - Pope Paul VI (1968) - Sexuality, contraception, and openness to life
+- **Evangelium Vitae** (The Gospel of Life) - Pope John Paul II (1995) - Life issues and the culture of death
+
+**Marxist/Socialist Counterfeits:**
+- **Quadragesimo Anno** (After Forty Years) - Pope Pius XI (1931) - Critique of socialism and capitalism
+- **Laborem Exercens** (On Human Work) - Pope John Paul II (1981) - Dignity of work vs. class struggle
+- **Divini Redemptoris** (On Atheistic Communism) - Pope Pius XI (1937) - Direct critique of communist ideology
+
+**Other Resources:**
+- **Theology of the Body** - St. John Paul II - On the human person and the sexual life
 
 ### Saints
 - **St. John the Apostle** - The apostle of love who taught us to "test the spirits"
