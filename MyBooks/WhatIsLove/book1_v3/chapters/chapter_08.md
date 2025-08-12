@@ -121,7 +121,7 @@ This is why you are "registered" in a parish, but your membership is truly in th
 
 This Kingdom membership explains why you can go to any Catholic Church in the entire world and participate in the Sacraments. Whether you're in Rome or rural Africa, New York or a tiny village in the Philippines, your baptismal citizenship in God's Kingdom grants you access to the same Eucharist, the same sacraments, the same spiritual home. The priest may speak a different language, the customs may vary, but you are family—a child of the same Father, a citizen of the same Kingdom.
 
-Most Protestants have a very different understanding and are often genuinely confused about what it means to be a "member" of a church. In many Protestant denominations, church membership is primarily about joining a particular congregation or denomination. But Catholic baptism creates something far more profound—permanent incorporation into Christ's Mystical Body, the universal Church that transcends all earthly boundaries.
+Catholic baptism creates something profound—permanent incorporation into Christ's Mystical Body, the universal Church that transcends all earthly boundaries.
 
 **Confirmation: God Strengthens Us for Mission**
 

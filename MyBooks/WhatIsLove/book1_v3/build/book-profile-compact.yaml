@@ -42,3 +42,25 @@ geometry:
   - bindingoffset=0.2in
 # extbook with 9pt handles sizing; no explicit fontsize needed
 
+chapters:
+  - 0_cover.md
+  - 000_forward.md
+  - 00_Introduction.md
+  - chapter_01.md
+  - chapter_02.md
+  - chapter_03.md
+  - chapter_04.md
+  - chapter_05.md
+  - chapter_06.md
+  - chapter_07.md
+  - chapter_08.md
+  - chapter_09.md
+  - chapter_10.md
+  - chapter_11.md
+  - chapter_12.md
+  - chapter_13.md
+  - z_appendix_on_the_marriage_covenant.md
+  - z_appendix_on_teaching_the_children.md
+  - y_appendix_faith_alone_vs_gods_perfect_love_alone.md
+  - y_appendix_definitions.md
+
