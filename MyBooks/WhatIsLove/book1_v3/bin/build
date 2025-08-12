@@ -6,6 +6,7 @@ from pathlib import Path
 from typing import List, Optional
 import re
 import tempfile
+from datetime import datetime
 
 ROOT_DIR = Path(__file__).resolve().parents[1]
 CHAPTERS_DIR = ROOT_DIR / "chapters"
@@ -198,6 +199,11 @@ def build_pdf(files: List[str], profile: Optional[str]) -> None:
     else:
         output_pdf = DEFAULT_OUTPUT_PDF
 
+    # Inject dynamic date and profile metadata so they print on the cover page
+    today_str = datetime.now().strftime("%Y-%m-%d")
+    active_profile = profile or "default"
+    dynamic_date = f"{today_str} — {active_profile}"
+
     cmd = [
         "pandoc",
         "--standalone",
@@ -205,6 +211,8 @@ def build_pdf(files: List[str], profile: Optional[str]) -> None:
         "--toc",
         "--pdf-engine=tectonic",
         *metadata_args,
+        f"--metadata=date={dynamic_date}",
+        f"--metadata=profile={active_profile}",
         "--output",
         str(output_pdf),
         *processed,
@@ -225,7 +233,7 @@ def main() -> None:
     available = discover_profiles()
     if profile not in available:
         print(f"Warning: profile '{profile}' not found. Available: {', '.join(available) if available else 'none'}")
-        profile = "default"
+        sys.exit(1)
 
     ensure_tools_available()
     convert_html_appendix_if_needed()
