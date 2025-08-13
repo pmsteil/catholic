@@ -229,21 +229,21 @@ It might be good to spend a bit of time reviewing how the modern convention of "
 
 Consider how God's commandments create corresponding rights:
 
-**"Thou shall not murder" (Exodus 20:13) → Right to Life:** Because God commands us to respect life in every person, each human being has a right to life from conception to natural death. This duty applies universally because every human life is sacred and bears God's image.
+**"Thou shall not murder" (Exodus 20:13) -> Right to Life:** Because God commands us to respect life in every person, each human being has a right to life from conception to natural death. This duty applies universally because every human life is sacred and bears God's image.
 
-**"Honor your father and mother" (Exodus 20:12) → Right to Family:** Because God commands children to honor parents and parents to care for children, every child has a right to both mother and father, reflecting the complementarity of God's image in male and female.
+**"Honor your father and mother" (Exodus 20:12) -> Right to Family:** Because God commands children to honor parents and parents to care for children, every child has a right to both mother and father, reflecting the complementarity of God's image in male and female.
 
-**"You shall not bear false witness" (Exodus 20:16) → Right to Truth:** Because God commands us to speak truth to our neighbors, every person has a right to truth about reality, morality, and their ultimate destiny. We are rational beings made in God's image.
+**"You shall not bear false witness" (Exodus 20:16) -> Right to Truth:** Because God commands us to speak truth to our neighbors, every person has a right to truth about reality, morality, and their ultimate destiny. We are rational beings made in God's image.
 
-**"You shall not steal" (Exodus 20:15) → Right to Property:** Because God forbids theft, every person has a right to the fruits of their labor and the resources needed for human flourishing as stewards of creation.
+**"You shall not steal" (Exodus 20:15) -> Right to Property:** Because God forbids theft, every person has a right to the fruits of their labor and the resources needed for human flourishing as stewards of creation.
 
-**"You shall have no other gods before me" (Exodus 20:3) → Right to Worship:** Because God commands exclusive worship of Himself, every person has the right to worship their Creator and live according to their conscience.
+**"You shall have no other gods before me" (Exodus 20:3) -> Right to Worship:** Because God commands exclusive worship of Himself, every person has the right to worship their Creator and live according to their conscience.
 
-**"Love your neighbor as yourself" (Mark 12:31) → Right to Freedom:** Because God commands us to love others as ourselves, every person has the right to authentic freedom—not license to sin, but freedom to choose the good and fulfill their nature as God's image-bearers.
+**"Love your neighbor as yourself" (Mark 12:31) -> Right to Freedom:** Because God commands us to love others as ourselves, every person has the right to authentic freedom—not license to sin, but freedom to choose the good and fulfill their nature as God's image-bearers.
 
-**"Defend the weak and the fatherless" (Psalm 82:3) → Right to Protection:** Because God commands us to defend the vulnerable, every person has the right to protection from exploitation, abuse, and abandonment.
+**"Defend the weak and the fatherless" (Psalm 82:3) -> Right to Protection:** Because God commands us to defend the vulnerable, every person has the right to protection from exploitation, abuse, and abandonment.
 
-**"Feed the hungry, clothe the naked" (Matthew 25:35-36) → Right to Basic Needs:** Because God commands us to care for those in need, every person has the right to food, shelter, clothing, and healthcare necessary for sustaining human dignity and life.
+**"Feed the hungry, clothe the naked" (Matthew 25:35-36) -> Right to Basic Needs:** Because God commands us to care for those in need, every person has the right to food, shelter, clothing, and healthcare necessary for sustaining human dignity and life.
 
 <div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 23px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">Every right carries a corresponding duty to sacrifice for our neighbors' good.</div>
 

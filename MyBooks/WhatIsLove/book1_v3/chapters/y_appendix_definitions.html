@@ -15,32 +15,32 @@
             background-color: #fefefe;
             color: #333;
         }
-        
+
         h1 {
             text-align: center;
             color: #8B4513;
             border-bottom: 3px solid #DAA520;
             padding-bottom: 10px;
         }
-        
+
         h2 {
             color: #8B4513;
             border-bottom: 1px solid #DAA520;
             padding-bottom: 5px;
         }
-        
+
         h3 {
             color: #B8860B;
             margin-top: 25px;
         }
-        
+
         .subtitle {
             text-align: center;
             font-style: italic;
             color: #666;
             margin-bottom: 30px;
         }
-        
+
         .concept-tree {
             background-color: #f9f9f9;
             border-left: 4px solid #DAA520;
@@ -49,7 +49,7 @@
             font-family: 'Courier New', monospace;
             white-space: pre-line;
         }
-        
+
         .key-relationships {
             background-color: #fff8dc;
             border: 1px solid #ddd;
@@ -57,7 +57,7 @@
             margin: 15px 0;
             border-radius: 5px;
         }
-        
+
         .definition {
             background-color: #fafafa;
             border-left: 3px solid #DAA520;
@@ -65,19 +65,19 @@
             margin: 15px 0;
             border-radius: 0 5px 5px 0;
         }
-        
+
         .term-link {
             color: #8B4513;
             text-decoration: underline;
             cursor: pointer;
             font-weight: bold;
         }
-        
+
         .term-link:hover {
             color: #DAA520;
             background-color: #fff8dc;
         }
-        
+
         .examples {
             font-style: italic;
             color: #555;
@@ -86,7 +86,7 @@
             background-color: #f0f8ff;
             border-radius: 3px;
         }
-        
+
         .distinction {
             background-color: #fff0f5;
             border: 1px solid #dda0dd;
@@ -94,17 +94,17 @@
             margin: 10px 0;
             border-radius: 5px;
         }
-        
+
         .rejected {
             color: #dc143c;
             font-weight: bold;
         }
-        
+
         .affirmed {
             color: #228b22;
             font-weight: bold;
         }
-        
+
         .fundamental-principle {
             background-color: #e6f3ff;
             border: 2px solid #4169e1;
@@ -114,7 +114,7 @@
             font-weight: bold;
             text-align: center;
         }
-        
+
         #toc {
             background-color: #f5f5dc;
             border: 1px solid #ddd;
@@ -122,31 +122,31 @@
             margin: 20px 0;
             border-radius: 5px;
         }
-        
+
         .toc-link {
             color: #8B4513;
             text-decoration: none;
             display: block;
             padding: 5px 0;
         }
-        
+
         .toc-link:hover {
             color: #DAA520;
             text-decoration: underline;
         }
-        
+
         .back-to-top {
             text-align: right;
             margin: 10px 0;
         }
-        
+
         .back-to-top a {
             color: #8B4513;
             text-decoration: none;
             font-size: 12px;
         }
         /* Perfect Love Definition Styling */
-        
+
         .perfect-love-definition {
             background: linear-gradient(135deg, #f8f4e6 0%, #fff8dc 100%);
             border: 3px solid #DAA520;
@@ -158,7 +158,7 @@
             position: relative;
             overflow: hidden;
         }
-        
+
         .perfect-love-definition::before {
             content: '';
             position: absolute;
@@ -169,7 +169,7 @@
             background: radial-gradient(circle, rgba(218, 165, 32, 0.05) 0%, transparent 70%);
             animation: gentle-pulse 6s ease-in-out infinite;
         }
-        
+
         @keyframes gentle-pulse {
             0%,
             100% {
@@ -181,7 +181,7 @@
                 opacity: 0.1;
             }
         }
-        
+
         .perfect-love-title {
             font-size: 2.2em;
             font-weight: bold;
@@ -191,7 +191,7 @@
             position: relative;
             z-index: 1;
         }
-        
+
         .perfect-love-main {
             font-size: 1.4em;
             font-weight: 600;
@@ -201,7 +201,7 @@
             position: relative;
             z-index: 1;
         }
-        
+
         .perfect-love-binding {
             font-size: 1.2em;
             font-style: italic;
@@ -213,7 +213,7 @@
             position: relative;
             z-index: 1;
         }
-        
+
         .perfect-love-communion {
             font-size: 1.2em;
             font-style: italic;
@@ -226,7 +226,7 @@
             z-index: 1;
         }
         /* Virtue vs Sin Callout Styling */
-        
+
         .virtue-sin-callout {
             background: linear-gradient(45deg, #e8f5e8 0%, #f0f8ff 50%, #fff0f5 100%);
             border: 2px solid #4169e1;
@@ -237,7 +237,7 @@
             box-shadow: 0 6px 20px rgba(65, 105, 225, 0.1);
             position: relative;
         }
-        
+
         .virtue-sin-callout::before {
             content: '✨';
             position: absolute;
@@ -250,19 +250,19 @@
             font-size: 1.2em;
             border: 2px solid #4169e1;
         }
-        
+
         .virtue-sin-text {
             font-size: 1.3em;
             font-weight: 600;
             line-height: 1.6;
             color: #2c3e50;
         }
-        
+
         .virtue-line {
             color: #228b22;
             margin-bottom: 10px;
         }
-        
+
         .sin-line {
             color: #dc143c;
             margin-top: 10px;
@@ -308,14 +308,52 @@
         <h2>Conceptual Relationship Tree</h2>
 
         <div class="concept-tree">
-            GOD (Perfect <span class="term-link" onclick="scrollToDefinition('truth-justice-mercy')">Truth + Justice + Mercy</span>) │ ├── <span class="term-link" onclick="scrollToDefinition('love')">LOVE</span> (Unity of Truth + Justice + Mercy expressed
-            sacrificially) │ │ │ ├── <span class="term-link" onclick="scrollToDefinition('working-good')">WORKING GOOD</span> (<span class="term-link" onclick="scrollToDefinition('working-good')">Righteousness</span>) │ │ ├── Enabled by <span class="term-link"
-                onclick="scrollToDefinition('grace')">GRACE</span> │ │ ├── Received through <span class="term-link" onclick="scrollToDefinition('faith')">FAITH</span> │ │ ├── Restored by <span class="term-link" onclick="scrollToDefinition('salvation')">SALVATION</span>            │ │ ├── Maintained in <span class="term-link" onclick="scrollToDefinition('state-of-grace')">STATE OF GRACE</span> │ │ ├── Expressed through <span class="term-link" onclick="scrollToDefinition('vocation')">VOCATION</span> │ │ │ ├── <span class="term-link"
-                onclick="scrollToDefinition('duty')">DUTY</span> (our obligations) │ │ │ ├── <span class="term-link" onclick="scrollToDefinition('good-works')">GOOD WORKS</span> (inseparable from faith) │ │ │ └── <span class="term-link" onclick="scrollToDefinition('merit')">MERIT</span>            (deeper communion result) │ │ ├── Guided by <span class="term-link" onclick="scrollToDefinition('church-authority')">CHURCH AUTHORITY</span> │ │ ├── Strengthened by <span class="term-link" onclick="scrollToDefinition('sacraments')">SACRAMENTS</span>            │ │ │ ├── <span class="term-link" onclick="scrollToDefinition('holy-communion')">Holy Communion</span> │ │ │ └── Other Sacraments │ │ ├── Develops <span class="term-link" onclick="scrollToDefinition('virtue')">VIRTUE</span> (habitual righteousness)
-            │ │ └── Creates <span class="term-link" onclick="scrollToDefinition('communion')">COMMUNION</span> with God & neighbor │ │ │ └── <span class="term-link" onclick="scrollToDefinition('working-evil')">WORKING EVIL</span> (<span class="term-link"
-                onclick="scrollToDefinition('working-evil')">Sin</span>) │ ├── Violates our created purpose │ ├── Breaks communion │ ├── Develops <span class="term-link" onclick="scrollToDefinition('vice')">VICE</span> (habitual selfishness) │ └── Requires
-            <span class="term-link" onclick="scrollToDefinition('repentance')">REPENTANCE</span> for restoration │ ├── <span class="term-link" onclick="scrollToDefinition('contrition')">CONTRITION</span> (sorrow for sin) │ ├── <span class="term-link"
-                onclick="scrollToDefinition('confession')">CONFESSION</span> (acknowledgment) │ ├── <span class="term-link" onclick="scrollToDefinition('absolution')">ABSOLUTION</span> (God's healing forgiveness) │ └── <span class="term-link" onclick="scrollToDefinition('penance')">PENANCE</span>            (spiritual medicine) │ ├── <span class="term-link" onclick="scrollToDefinition('beauty')">BEAUTY</span> (Radiance of perfect proportion/harmony) │ └── Appears when Truth + Justice + Mercy are unified │ └── <span class="term-link" onclick="scrollToDefinition('conversion')">CONVERSION</span>            (Fundamental turning from working evil to working good) └── Leads to <span class="term-link" onclick="scrollToDefinition('sanctification')">SANCTIFICATION</span> (ongoing growth in righteousness)
+<pre style="font-size: 8px; line-height: 1.1;">
+GOD (Perfect <span class="term-link" onclick="scrollToDefinition('truth-justice-mercy')">Truth + Justice + Mercy</span>)
+|
++-- <span class="term-link" onclick="scrollToDefinition('love')">LOVE</span> (Unity of Truth + Justice + Mercy expressed sacrificially)
+    |
+    +-- <span class="term-link" onclick="scrollToDefinition('working-good')">WORKING GOOD</span> (<span class="term-link" onclick="scrollToDefinition('working-good')">Righteousness</span>)
+    |   |
+    |   +-- Enabled by <span class="term-link" onclick="scrollToDefinition('grace')">GRACE</span>
+    |   +-- Received through <span class="term-link" onclick="scrollToDefinition('faith')">FAITH</span>
+    |   +-- Restored by <span class="term-link" onclick="scrollToDefinition('salvation')">SALVATION</span>
+    |   +-- Maintained in <span class="term-link" onclick="scrollToDefinition('state-of-grace')">STATE OF GRACE</span>
+    |   +-- Expressed through <span class="term-link" onclick="scrollToDefinition('vocation')">VOCATION</span>
+    |   |   |
+    |   |   +-- <span class="term-link" onclick="scrollToDefinition('duty')">DUTY</span> (our obligations)
+    |   |   +-- <span class="term-link" onclick="scrollToDefinition('good-works')">GOOD WORKS</span> (inseparable from faith)
+    |   |   +-- <span class="term-link" onclick="scrollToDefinition('merit')">MERIT</span> (deeper communion result)
+    |   |
+    |   +-- Guided by <span class="term-link" onclick="scrollToDefinition('church-authority')">CHURCH AUTHORITY</span>
+    |   +-- Strengthened by <span class="term-link" onclick="scrollToDefinition('sacraments')">SACRAMENTS</span>
+    |   |   |
+    |   |   +-- <span class="term-link" onclick="scrollToDefinition('holy-communion')">Holy Communion</span>
+    |   |   +-- Other Sacraments
+    |   |
+    |   +-- Develops <span class="term-link" onclick="scrollToDefinition('virtue')">VIRTUE</span> (habitual righteousness)
+    |   +-- Creates <span class="term-link" onclick="scrollToDefinition('communion')">COMMUNION</span> with God & neighbor
+    |
+    +-- <span class="term-link" onclick="scrollToDefinition('working-evil')">WORKING EVIL</span> (<span class="term-link" onclick="scrollToDefinition('working-evil')">Sin</span>)
+        |
+        +-- Violates our created purpose
+        +-- Breaks communion
+        +-- Develops <span class="term-link" onclick="scrollToDefinition('vice')">VICE</span> (habitual selfishness)
+        +-- Requires <span class="term-link" onclick="scrollToDefinition('repentance')">REPENTANCE</span> for restoration
+            |
+            +-- <span class="term-link" onclick="scrollToDefinition('contrition')">CONTRITION</span> (sorrow for sin)
+            +-- <span class="term-link" onclick="scrollToDefinition('confession')">CONFESSION</span> (acknowledgment)
+            +-- <span class="term-link" onclick="scrollToDefinition('absolution')">ABSOLUTION</span> (God's healing forgiveness)
+            +-- <span class="term-link" onclick="scrollToDefinition('penance')">PENANCE</span> (spiritual medicine)
+|
++-- <span class="term-link" onclick="scrollToDefinition('beauty')">BEAUTY</span> (Radiance of perfect proportion/harmony)
+|   |
+|   +-- Appears when Truth + Justice + Mercy are unified
+|
++-- <span class="term-link" onclick="scrollToDefinition('conversion')">CONVERSION</span> (Fundamental turning from working evil to working good)
+    |
+    +-- Leads to <span class="term-link" onclick="scrollToDefinition('sanctification')">SANCTIFICATION</span> (ongoing growth in righteousness)
+</pre>
         </div>
 
         <div class="key-relationships">
@@ -340,7 +378,7 @@
             </div>
         </div>
 
-        <div class="back-to-top"><a href="#toc">↑ Back to Contents</a></div>
+
     </section>
 
     <section id="foundational">
@@ -436,7 +474,7 @@
                 child's development. A judge showing favoritism to wealthy defendants, perverting justice for personal or political gain. Someone spreading gossip that contains some truth but lacks mercy and damages relationships.
             </div>
         </div>
-        <div class="back-to-top"><a href="#toc">↑ Back to Contents</a></div>
+
     </section>
 
     <section id="salvation">
@@ -492,7 +530,7 @@
                 <span class="term-link" onclick="scrollToDefinition('truth-justice-mercy')">truth+justice+mercy</span> for others). Not merely intellectual assent or emotional experience, but a reorientation of the will toward fulfilling our created purpose
                 through faithful <span class="term-link" onclick="scrollToDefinition('duty')">duty</span>. The moment when we begin to depend on God's <span class="term-link" onclick="scrollToDefinition('grace')">grace</span> rather than selfish schemes.</p>
         </div>
-        <div class="back-to-top"><a href="#toc">↑ Back to Contents</a></div>
+
     </section>
 
     <!-- Continue with other sections... Due to length limits, I'll include the key sections and JavaScript -->

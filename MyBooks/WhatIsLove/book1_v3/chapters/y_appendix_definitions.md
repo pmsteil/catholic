@@ -65,65 +65,54 @@ The sacred, sacrificial gift of covenant
 
 <div class="concept-tree">
 
-GOD (Perfect <span class="term-link"
-onclick="scrollToDefinition('truth-justice-mercy')">Truth + Justice +
-Mercy</span>) │ ├── <span class="term-link"
-onclick="scrollToDefinition('love')">LOVE</span> (Unity of Truth +
-Justice + Mercy expressed sacrificially) │ │ │ ├──
-<span class="term-link"
-onclick="scrollToDefinition('working-good')">WORKING GOOD</span>
-(<span class="term-link"
-onclick="scrollToDefinition('working-good')">Righteousness</span>) │ │
-├── Enabled by <span class="term-link"
-onclick="scrollToDefinition('grace')">GRACE</span> │ │ ├── Received
-through <span class="term-link"
-onclick="scrollToDefinition('faith')">FAITH</span> │ │ ├── Restored by
-<span class="term-link"
-onclick="scrollToDefinition('salvation')">SALVATION</span> │ │ ├──
-Maintained in <span class="term-link"
-onclick="scrollToDefinition('state-of-grace')">STATE OF GRACE</span> │ │
-├── Expressed through <span class="term-link"
-onclick="scrollToDefinition('vocation')">VOCATION</span> │ │ │ ├──
-<span class="term-link" onclick="scrollToDefinition('duty')">DUTY</span>
-(our obligations) │ │ │ ├── <span class="term-link"
-onclick="scrollToDefinition('good-works')">GOOD WORKS</span>
-(inseparable from faith) │ │ │ └── <span class="term-link"
-onclick="scrollToDefinition('merit')">MERIT</span> (deeper communion
-result) │ │ ├── Guided by <span class="term-link"
-onclick="scrollToDefinition('church-authority')">CHURCH AUTHORITY</span>
-│ │ ├── Strengthened by <span class="term-link"
-onclick="scrollToDefinition('sacraments')">SACRAMENTS</span> │ │ │ ├──
-<span class="term-link"
-onclick="scrollToDefinition('holy-communion')">Holy Communion</span> │ │
-│ └── Other Sacraments │ │ ├── Develops <span class="term-link"
-onclick="scrollToDefinition('virtue')">VIRTUE</span> (habitual
-righteousness) │ │ └── Creates <span class="term-link"
-onclick="scrollToDefinition('communion')">COMMUNION</span> with God &
-neighbor │ │ │ └── <span class="term-link"
-onclick="scrollToDefinition('working-evil')">WORKING EVIL</span>
-(<span class="term-link"
-onclick="scrollToDefinition('working-evil')">Sin</span>) │ ├── Violates
-our created purpose │ ├── Breaks communion │ ├── Develops
-<span class="term-link" onclick="scrollToDefinition('vice')">VICE</span>
-(habitual selfishness) │ └── Requires <span class="term-link"
-onclick="scrollToDefinition('repentance')">REPENTANCE</span> for
-restoration │ ├── <span class="term-link"
-onclick="scrollToDefinition('contrition')">CONTRITION</span> (sorrow for
-sin) │ ├── <span class="term-link"
-onclick="scrollToDefinition('confession')">CONFESSION</span>
-(acknowledgment) │ ├── <span class="term-link"
-onclick="scrollToDefinition('absolution')">ABSOLUTION</span> (God's
-healing forgiveness) │ └── <span class="term-link"
-onclick="scrollToDefinition('penance')">PENANCE</span> (spiritual
-medicine) │ ├── <span class="term-link"
-onclick="scrollToDefinition('beauty')">BEAUTY</span> (Radiance of
-perfect proportion/harmony) │ └── Appears when Truth + Justice + Mercy
-are unified │ └── <span class="term-link"
-onclick="scrollToDefinition('conversion')">CONVERSION</span>
-(Fundamental turning from working evil to working good) └── Leads to
-<span class="term-link"
-onclick="scrollToDefinition('sanctification')">SANCTIFICATION</span>
-(ongoing growth in righteousness)
+\tiny
+\begin{verbatim}
+GOD (Perfect Truth + Justice + Mercy)
+|
++-- LOVE (Unity of Truth + Justice + Mercy expressed sacrificially)
+    |
+    +-- WORKING GOOD (Righteousness)
+    |   |
+    |   +-- Enabled by GRACE
+    |   +-- Received through FAITH
+    |   +-- Restored by SALVATION
+    |   +-- Maintained in STATE OF GRACE
+    |   +-- Expressed through VOCATION
+    |   |   |
+    |   |   +-- DUTY (our obligations)
+    |   |   +-- GOOD WORKS (inseparable from faith)
+    |   |   +-- MERIT (deeper communion result)
+    |   |
+    |   +-- Guided by CHURCH AUTHORITY
+    |   +-- Strengthened by SACRAMENTS
+    |   |   |
+    |   |   +-- Holy Communion
+    |   |   +-- Other Sacraments
+    |   |
+    |   +-- Develops VIRTUE (habitual righteousness)
+    |   +-- Creates COMMUNION with God & neighbor
+    |
+    +-- WORKING EVIL (Sin)
+        |
+        +-- Violates our created purpose
+        +-- Breaks communion
+        +-- Develops VICE (habitual selfishness)
+        +-- Requires REPENTANCE for restoration
+            |
+            +-- CONTRITION (sorrow for sin)
+            +-- CONFESSION (acknowledgment)
+            +-- ABSOLUTION (God's healing forgiveness)
+            +-- PENANCE (spiritual medicine)
+|
++-- BEAUTY (Radiance of perfect proportion/harmony)
+|   |
+|   +-- Appears when Truth + Justice + Mercy are unified
+|
++-- CONVERSION (Fundamental turning from working evil to working good)
+    |
+    +-- Leads to SANCTIFICATION (ongoing growth in righteousness)
+\end{verbatim}
+\normalsize
 
 </div>
 
@@ -167,7 +156,7 @@ onclick="scrollToDefinition('sanctification')">SANCTIFICATION</span>
 
 <div class="back-to-top">
 
-[↑ Back to Contents](#toc)
+[^ Back to Contents](#toc)
 
 </div>
 
@@ -281,8 +270,8 @@ appropriate punishment (justice) while ensuring the sentence fits the
 actual crime (truth) and includes opportunities for rehabilitation
 (mercy). A parent disciplining a child by addressing the real behavior
 problem (truth) with fair consequences (justice) delivered with patience
-and explanation (mercy).  
-  
+and explanation (mercy).
+
 **Examples of dangerous separation:** Truth without mercy = harsh
 legalism that crushes people with unrealistic demands. Justice without
 truth = arbitrary punishment based on false accusations or popular
@@ -378,7 +367,7 @@ damages relationships.
 
 <div class="back-to-top">
 
-[↑ Back to Contents](#toc)
+[^ Back to Contents](#toc)
 
 </div>
 
@@ -412,8 +401,8 @@ onclick="scrollToDefinition('church')">Church</span>) what working good
 actually looks like in our specific circumstances. Finally, it empowers
 us to choose righteousness out of <span class="term-link"
 onclick="scrollToDefinition('duty')">duty</span> and love rather than
-selfish calculation.  
-  
+selfish calculation.
+
 **Important distinction:** Grace doesn't do our choosing for us (we must
 freely cooperate) but makes righteous choosing possible. Like a doctor
 who heals our vision - we must still choose to look and see, but now we
@@ -446,8 +435,8 @@ ability to love; teaching us how to work good through Scripture, Church,
 and grace; empowering us to fulfill our duties righteously; and
 restoring our <span class="term-link"
 onclick="scrollToDefinition('communion')">communion</span> with God and
-neighbor.  
-  
+neighbor.
+
 **What salvation is NOT:** A legal transaction that leaves us unchanged;
 a license to live however we want; something we earn through good
 behavior; or merely getting a ticket to heaven while remaining the same
@@ -481,8 +470,8 @@ are inseparable aspects of the same reality.
 (truth+justice+mercy) is truly good; trusting that God can and will heal
 our capacity to work good; depending on God's teaching rather than our
 own wisdom; and committing to live according to our created purpose
-through actual working good for others.  
-  
+through actual working good for others.
+
 **How faith works:** Like a patient trusting a surgeon - we believe the
 doctor can heal us, we submit to the treatment process, and we follow
 the rehabilitation by actually exercising the healed limb. Faith without
@@ -516,7 +505,7 @@ schemes.
 
 <div class="back-to-top">
 
-[↑ Back to Contents](#toc)
+[^ Back to Contents](#toc)
 
 </div>
 

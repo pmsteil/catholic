@@ -1,0 +1,13 @@
+# /bin/bash
+
+# have bash display the command it is running
+set -x
+
+
+bin/build default
+bin/build proof
+bin/build devotional
+bin/build unicode
+bin/build compact
+
+open *.pdf
