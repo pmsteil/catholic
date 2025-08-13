@@ -1,5 +1,5 @@
 title: What Is Love?
-subtitle: God's Perfect Love Truly Saves Us
+subtitle: God's Perfect Love — Restoring Truth, Justice, and Mercy to a Divided World
 author: Patrick Steil, St. John Paul II University Parish, Denton TX
 lang: en-US
 documentclass: book
@@ -28,7 +28,7 @@ header-includes:
     \fancyhf{}
     \setlength{\headheight}{14.5pt}
     \makeatletter
-    \renewcommand{\chaptermark}[1]{\markboth{\thechapter\enspace #1}{}}
+    \renewcommand{\chaptermark}[1]{\markboth{\@chapapp\ \thechapter\enspace #1}{}}
     \makeatother
     \fancyhead[LE,RO]{\footnotesize \leftmark}
     \fancyfoot[CE,CO]{\thepage}

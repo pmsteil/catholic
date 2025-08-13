@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-import os
 import subprocess
 import sys
 from pathlib import Path
@@ -123,7 +122,7 @@ def transform_html_widgets(markdown: str) -> str:
         inner_wo_author = re.sub(r"<span[^>]*class=\"author\"[^>]*>[\s\S]*?</span>", "", inner, flags=re.IGNORECASE)
         text = strip_html_tags(inner_wo_author).strip()
         lines = [line.strip() for line in text.splitlines() if line.strip()]
-        out = "\n".join(["> " + l for l in lines])
+        out = "\n".join(["> " + line_str for line_str in lines])
         if author:
             out += "\n\n> " + author
         return "\n\n" + out + "\n\n"
@@ -132,7 +131,7 @@ def transform_html_widgets(markdown: str) -> str:
         inner = match.group(1)
         text = strip_html_tags(inner).strip()
         lines = [line.strip() for line in text.splitlines() if line.strip()]
-        out = "\n".join(["> " + l for l in lines])
+        out = "\n".join(["> " + line_str for line_str in lines])
         return "\n\n" + out + "\n\n"
 
     # Patterns span multiple lines
@@ -153,6 +152,7 @@ def preprocess_files(files: List[str]) -> List[str]:
     out_files.append(str(frontmatter_file))
 
     mainmatter_inserted = False
+    appendix_started = False
 
     for path in files:
         try:
@@ -173,6 +173,19 @@ def preprocess_files(files: List[str]) -> List[str]:
             out_files.append(str(mainmatter_file))
             mainmatter_inserted = True
 
+        # When we reach the first appendix file, switch to appendix mode so chapters
+        # are lettered (A, B, C, …) and sections are numbered as A.1, A.2, …
+        if not appendix_started and (
+            ("appendix" in name)
+            or name.startswith("y_appendix")
+            or name.startswith("z_appendix")
+        ):
+            appendix_file = Path(tmpdir) / "98__appendix.md"
+            with open(appendix_file, "w", encoding="utf-8") as bf:
+                bf.write("\\appendix\n")
+            out_files.append(str(appendix_file))
+            appendix_started = True
+
         dst = Path(tmpdir) / Path(path).name
         with open(dst, "w", encoding="utf-8") as f:
             f.write(transformed)
@@ -186,12 +199,16 @@ def build_pdf(files: List[str], profile: Optional[str]) -> None:
 
     # Determine metadata files (base + optional overlay)
     metadata_args: List[str] = [f"--metadata-file={METADATA_FILE}"]
+    # Keep active profile available via metadata; track overlay for clarity
     overlay_path: Optional[Path] = None
     if profile and profile != "default":
         candidate = METADATA_PROFILES_DIR / f"book-profile-{profile}.yaml"
         if candidate.exists():
             overlay_path = candidate
             metadata_args.append(f"--metadata-file={candidate}")
+    # Explicit no-op use to satisfy linters when present
+    if overlay_path is not None:
+        _ = overlay_path
 
     # Determine output path
     if profile:
@@ -199,10 +216,11 @@ def build_pdf(files: List[str], profile: Optional[str]) -> None:
     else:
         output_pdf = DEFAULT_OUTPUT_PDF
 
-    # Inject dynamic date and profile metadata so they print on the cover page
+    # Inject dynamic date and profile metadata (date only prints on the cover page)
     today_str = datetime.now().strftime("%Y-%m-%d")
     active_profile = profile or "default"
-    dynamic_date = f"{today_str} — {active_profile}"
+    # Do not include the profile name on the cover page date line
+    dynamic_date = f"{today_str}"
 
     cmd = [
         "pandoc",

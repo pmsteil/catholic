@@ -28,7 +28,7 @@ header-includes:
     \fancyhf{}
     \setlength{\headheight}{14.5pt}
     \makeatletter
-    \renewcommand{\chaptermark}[1]{\markboth{\thechapter\enspace #1}{}}
+    \renewcommand{\chaptermark}[1]{\markboth{\@chapapp\ \thechapter\enspace #1}{}}
     \makeatother
     \fancyhead[LE,RO]{\scriptsize \leftmark}
     \fancyfoot[CE,CO]{\thepage}
