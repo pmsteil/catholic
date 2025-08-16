@@ -145,6 +145,28 @@ def preprocess_files(files: List[str]) -> List[str]:
     tmpdir = tempfile.mkdtemp(prefix="book_build_")
     out_files: List[str] = []
 
+    # Optional behavior & debug flags (environment variables)
+    #  - FORCE_CHAPTER_TOP=1      → force numbered chapters/appendices to start with \chapter{...}
+    #  - BREAK_BEFORE_EACH=clearpage|cleardoublepage → insert page breaks between files
+    #  - FRONTMATTER_STAR=1       → treat 0_cover.md, 000_forward.md, 00_Introduction.md as unnumbered chapters
+    #  - DEBUG_DUMP_PREPROCESSED=1→ persist preprocessed files to _preprocessed/
+    #  - DEBUG_LOG=1              → print decisions and file handling
+    import os
+    force_chapter_top = os.environ.get("FORCE_CHAPTER_TOP") == "1"
+    break_before_each = os.environ.get("BREAK_BEFORE_EACH", "").strip()
+    if break_before_each not in ("", "clearpage", "cleardoublepage"):
+        break_before_each = ""
+    frontmatter_star = os.environ.get("FRONTMATTER_STAR") == "1"
+    debug_dump_pre = os.environ.get("DEBUG_DUMP_PREPROCESSED") == "1"
+    debug_log = os.environ.get("DEBUG_LOG") == "1"
+
+    dump_dir: Optional[Path] = None
+    if debug_dump_pre:
+        dump_dir = ROOT_DIR / "_preprocessed"
+        dump_dir.mkdir(parents=True, exist_ok=True)
+    if debug_log:
+        print(f"[build] flags: force_chapter_top={force_chapter_top} break_before_each={break_before_each or 'none'} frontmatter_star={frontmatter_star} dump_pre={debug_dump_pre}")
+
     # Insert front matter toggle as Markdown (raw TeX) so pandoc still uses its LaTeX template
     frontmatter_file = Path(tmpdir) / "00__frontmatter.md"
     with open(frontmatter_file, "w", encoding="utf-8") as f:
@@ -154,6 +176,7 @@ def preprocess_files(files: List[str]) -> List[str]:
     mainmatter_inserted = False
     appendix_started = False
 
+    is_first_content = True
     for path in files:
         try:
             with open(path, "r", encoding="utf-8") as f:
@@ -163,6 +186,34 @@ def preprocess_files(files: List[str]) -> List[str]:
             with open(path, "r", encoding="latin-1") as f:
                 content = f.read()
         transformed = transform_html_widgets(content)
+
+        name_only = Path(path).name
+
+        # Optionally render frontmatter items as unnumbered chapters and add to TOC
+        if frontmatter_star and name_only in ("0_cover.md", "000_forward.md", "00_Introduction.md"):
+            h1_match = re.search(r"^(\s*#\s+)(.+?)\s*$", transformed, flags=re.MULTILINE)
+            title_text = h1_match.group(2).strip() if h1_match else Path(path).stem.replace("_", " ")
+            safe_title = title_text.replace("{", "\\{").replace("}", "\\}")
+            if h1_match:
+                transformed = re.sub(r"^\s*#\s+.+?\s*$", "", transformed, count=1, flags=re.MULTILINE)
+            transformed = f"\\chapter*{{{safe_title}}}\n\\addcontentsline{{toc}}{{chapter}}{{{safe_title}}}\n\n" + transformed.lstrip("\n")
+            if debug_log:
+                print(f"[build] frontmatter starred: {name_only} → {safe_title}")
+
+        # Optionally force \chapter at top for numbered chapters and appendices
+        if force_chapter_top and (
+            re.match(r"^(chapter_\\d+\\.md)$", name_only, flags=re.IGNORECASE) or ("appendix" in name_only.lower())
+        ):
+            h1_match = re.search(r"^(\s*#\s+)(.+?)\s*$", transformed, flags=re.MULTILINE)
+            if h1_match:
+                title_text = h1_match.group(2).strip()
+                transformed = re.sub(r"^\s*#\s+.+?\s*$", "", transformed, count=1, flags=re.MULTILINE)
+            else:
+                title_text = Path(path).stem.replace("_", " ")
+            safe_title = title_text.replace("{", "\\{").replace("}", "\\}")
+            transformed = f"\\chapter{{{safe_title}}}\n\n" + transformed.lstrip("\n")
+            if debug_log:
+                print(f"[build] forced chapter: {name_only} → {safe_title}")
 
         # When we reach the first numbered chapter file, switch to main matter via a raw TeX block in Markdown
         name = Path(path).name.lower()
@@ -186,10 +237,23 @@ def preprocess_files(files: List[str]) -> List[str]:
             out_files.append(str(appendix_file))
             appendix_started = True
 
-        dst = Path(tmpdir) / Path(path).name
+        # Optional page break before each content file (except before the first)
+        if break_before_each and not is_first_content:
+            br = Path(tmpdir) / f"_break_before_{name_only}.md"
+            with open(br, "w", encoding="utf-8") as bf:
+                bf.write(f"\\{break_before_each}\n")
+            out_files.append(str(br))
+
+        dst = Path(tmpdir) / name_only
         with open(dst, "w", encoding="utf-8") as f:
             f.write(transformed)
         out_files.append(str(dst))
+        is_first_content = False
+
+        # Optional dump for inspection
+        if dump_dir is not None:
+            with open(dump_dir / name_only, "w", encoding="utf-8") as df:
+                df.write(transformed)
     return out_files
 
 
@@ -209,6 +273,74 @@ def build_pdf(files: List[str], profile: Optional[str]) -> None:
     # Explicit no-op use to satisfy linters when present
     if overlay_path is not None:
         _ = overlay_path
+
+    # Optional TOC tuning via env → write a tiny YAML overlay dynamically
+    import os, tempfile
+    toc_overlay_path: Optional[Path] = None
+    # Convenience flag to widen chapter number width
+    toc_wide = os.environ.get("TOC_WIDE") == "1"
+    chap_indent = os.environ.get("TOC_CHAP_INDENT_EM")
+    chap_numwidth = os.environ.get("TOC_CHAP_NUMWIDTH_EM")
+    sec_indent = os.environ.get("TOC_SEC_INDENT_EM")
+    sec_numwidth = os.environ.get("TOC_SEC_NUMWIDTH_EM")
+    subsec_indent = os.environ.get("TOC_SUBSEC_INDENT_EM")
+    subsec_numwidth = os.environ.get("TOC_SUBSEC_NUMWIDTH_EM")
+
+    def em(val: str) -> str:
+        return val if val.endswith("em") else f"{val}em"
+
+    use_setindents = os.environ.get("TOC_USE_SETINDENTS") == "1"
+
+    if toc_wide or any([chap_indent, chap_numwidth, sec_indent, sec_numwidth, subsec_indent, subsec_numwidth]) or use_setindents:
+        # Defaults when TOC_WIDE is on
+        if toc_wide and not chap_numwidth:
+            chap_numwidth = "3.5"
+        # Build a small YAML overlay. Use \AtBeginDocument so settings run after packages load.
+        lines: List[str] = ["header-includes:"]
+        lines.append("  - |")
+        lines.append("    \\usepackage{tocloft}")
+        lines.append("    \\AtBeginDocument{")
+        if use_setindents:
+            # Prefer atomic setters to keep indent/numwidth in sync per level
+            if chap_indent or chap_numwidth:
+                lines.append(
+                    f"      \\cftsetindents{{chapter}}{{{em(chap_indent or '0')}}}{{{em(chap_numwidth or (chap_numwidth or '3.5'))}}}"
+                )
+            if sec_indent or sec_numwidth:
+                lines.append(
+                    f"      \\cftsetindents{{section}}{{{em(sec_indent or '1.5')}}}{{{em(sec_numwidth or '2.3')}}}"
+                )
+            if subsec_indent or subsec_numwidth:
+                lines.append(
+                    f"      \\cftsetindents{{subsection}}{{{em(subsec_indent or '3.0')}}}{{{em(subsec_numwidth or '3.2')}}}"
+                )
+        else:
+            if chap_indent:
+                lines.append(f"      \\setlength{{\\cftchapindent}}{{{em(chap_indent)}}}")
+            if chap_numwidth:
+                lines.append(f"      \\setlength{{\\cftchapnumwidth}}{{{em(chap_numwidth)}}}")
+            if sec_indent:
+                lines.append(f"      \\setlength{{\\cftsecindent}}{{{em(sec_indent)}}}")
+            if sec_numwidth:
+                lines.append(f"      \\setlength{{\\cftsecnumwidth}}{{{em(sec_numwidth)}}}")
+            if subsec_indent:
+                lines.append(f"      \\setlength{{\\cftsubsecindent}}{{{em(subsec_indent)}}}")
+            if subsec_numwidth:
+                lines.append(f"      \\setlength{{\\cftsubsecnumwidth}}{{{em(subsec_numwidth)}}}")
+
+        # Also normalize spacing after numbers for clarity
+        lines.append("      \\renewcommand{\\cftchapaftersnum}{\\hspace{0.75em}}")
+        lines.append("      \\renewcommand{\\cftsecaftersnum}{\\hspace{0.75em}}")
+        lines.append("      \\renewcommand{\\cftsubsecaftersnum}{\\hspace{0.75em}}")
+        lines.append("    }")
+
+        tf = tempfile.NamedTemporaryFile("w", delete=False, suffix="-toc-overlay.yaml")
+        tf.write("\n".join(lines) + "\n")
+        tf.flush(); tf.close()
+        toc_overlay_path = Path(tf.name)
+        metadata_args.append(f"--metadata-file={toc_overlay_path}")
+        if os.environ.get("DEBUG_LOG") == "1":
+            print(f"[build] toc overlay: {toc_overlay_path}")
 
     # Determine output path
     if profile:
@@ -231,12 +363,31 @@ def build_pdf(files: List[str], profile: Optional[str]) -> None:
         *metadata_args,
         f"--metadata=date={dynamic_date}",
         f"--metadata=profile={active_profile}",
-        "--output",
-        str(output_pdf),
-        *processed,
     ]
+
+    # Optional debug flags (environment variables):
+    #  - DEBUG_HEADINGS=1   → add Lua filter that prefixes headings with [Hn]
+    #  - KEEP_LATEX=1       → emit intermediate LaTeX file alongside PDF
+    if os.environ.get("DEBUG_HEADINGS") == "1":
+        cmd += ["--lua-filter", str(ROOT_DIR / "filters" / "heading_debug.lua")]
+
+    latex_out: Optional[Path] = None
+    if os.environ.get("KEEP_LATEX") == "1":
+        latex_out = ROOT_DIR / "_debug.tex"
+        cmd += ["--output", str(latex_out)]
+    else:
+        cmd += ["--output", str(output_pdf)]
+
+    cmd += [*processed]
     subprocess.run(cmd, check=True)
-    print(f"Built: {output_pdf}")
+    # If we kept LaTeX, compile it now to PDF using tectonic and save both
+    if latex_out is not None:
+        # tectonic compiles to same basename .pdf in the cwd
+        # Run in ROOT_DIR to place the PDF alongside
+        subprocess.run(["tectonic", str(latex_out.name)], check=True, cwd=str(ROOT_DIR))
+        print(f"Built (debug): {ROOT_DIR / latex_out.with_suffix('.pdf').name}")
+    else:
+        print(f"Built: {output_pdf}")
 
 
 def main() -> None:

@@ -3,7 +3,7 @@ documentclass: extbook
 classoption: [twoside, openany, 8pt]
 numbersections: true
 secnumdepth: 1
-toc-depth: 2
+toc-depth: 3
 colorlinks: false
 links-as-notes: true
 top-level-division: chapter
@@ -19,6 +19,16 @@ header-includes:
   - |
     \usepackage{quoting}
     \quotingsetup{vskip=6pt,leftmargin=1em,rightmargin=1em,font=itshape}
+  - |
+    \usepackage{tocloft}
+    \setlength{\cftchapindent}{0em}
+    \setlength{\cftsecindent}{1.5em}
+    \setlength{\cftsubsecindent}{3.0em}
+    \setlength{\cftsubsubsecindent}{4.5em}
+    \setlength{\cftchapnumwidth}{2.0em}
+    \setlength{\cftsecnumwidth}{2.3em}
+    \setlength{\cftsubsecnumwidth}{3.2em}
+    \setlength{\cftsubsubsecnumwidth}{4.1em}
   - |
     \usepackage{fancyhdr}
     \pagestyle{fancy}

@@ -6,7 +6,7 @@ documentclass: book
 classoption: [twoside, openany]
 numbersections: true
 secnumdepth: 1
-toc-depth: 2
+toc-depth: 3
 colorlinks: false
 links-as-notes: true
 top-level-division: chapter
@@ -22,6 +22,18 @@ header-includes:
   - |
     \usepackage{quoting}
     \quotingsetup{vskip=6pt,leftmargin=1em,rightmargin=1em,font=itshape}
+  - |
+    \usepackage{tocloft}
+    \AtBeginDocument{
+      \cftsetindents{chapter}{0em}{5.2em}
+      \cftsetindents{section}{1.5em}{2.3em}
+      \cftsetindents{subsection}{3.0em}{3.2em}
+      \cftsetindents{subsubsection}{4.5em}{4.1em}
+      % (No custom number formatting macros; rely on wider number box)
+      \renewcommand{\cftchapaftersnum}{\hspace{0.75em}}
+      \renewcommand{\cftsecaftersnum}{\hspace{0.75em}}
+      \renewcommand{\cftsubsecaftersnum}{\hspace{0.75em}}
+    }
   - |
     \usepackage{fancyhdr}
     \pagestyle{fancy}

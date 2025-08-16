@@ -53,7 +53,7 @@ Many books have been written about the virtues, but I want to give a brief overv
 </div>
 
 
-### Faith: The Foundation of All Virtue
+## Faith: The Foundation of All Virtue
 
 **Faith** is our supernatural response to God's self-revelation, the gift that enables us to believe what God has revealed about Himself and about us. But faith is more than intellectual assent—it is fundamentally trust, the bedrock of any authentic relationship. Faith helps us identify what is true and then submit our confidence to that truth, even if we have not yet fully comprehended it.
 
@@ -67,7 +67,7 @@ Faith engages our whole person—mind, body, and soul. Our minds assent to revea
 Faith is trust that increases day by day.
 </div>
 
-### Hope: Confident Expectation in God's Promises
+## Hope: Confident Expectation in God's Promises
 
 **Hope** is the supernatural virtue that enables us to trust confidently in God's promises, especially the promise of eternal life. Hope serves perfect love by giving us the courage to persevere in virtue even when the path is difficult and the rewards seem distant.
 
@@ -75,7 +75,7 @@ Hope is not mere optimism or wishful thinking. It is grounded in God's faithfuln
 
 *How it serves perfect love:* Hope provides the **confidence** necessary to make sacrificial choices, knowing that God will reward our faithfulness.
 
-### Obedience: Submission of Will in Love
+## Obedience: Submission of Will in Love
 
 **Obedience** is the sacrificial submission of our will to legitimate authority, ultimately to God's will revealed through Scripture, Church teaching, and the circumstances of our lives. True obedience is not servile compliance but the free gift of a heart that trusts in God's wisdom and goodness.
 
@@ -83,7 +83,7 @@ Obedience serves perfect love by creating the order necessary for authentic rela
 
 *How it serves perfect love:* Obedience **enables covenant fidelity** by submitting our personal preferences to the good of the relationship and the will of God - always in truth, justice, and mercy.
 
-### Peace: Harmony Flowing from Right Relationships
+## Peace: Harmony Flowing from Right Relationships
 
 **Peace** is the tranquility that comes from right order—right relationship with God, with others, and within ourselves. Peace is not merely the absence of conflict but the positive harmony that flows from truth, justice, and mercy working together.
 
@@ -93,7 +93,7 @@ True peace begins in the heart that is reconciled to God. This interior peace th
 
 ## The Disciplines of a Loving Heart: Cardinal Virtues
 
-### Wisdom: The Light That Guides Love's Choices
+## Wisdom: The Light That Guides Love's Choices
 
 **Wisdom** is a most valuable virtue that enables us to see all things in relation to God and to choose what is truly good, beautiful, and holy. Wisdom is both a gift of the Holy Spirit and a virtue developed through prayer, study, and experience.
 
@@ -101,7 +101,7 @@ Wisdom serves perfect love by guiding our choices so that we act not from impuls
 
 *How it serves perfect love:* Wisdom ensures that our **justice is truly just** and our **mercy is truly merciful** by revealing what each situation genuinely requires.
 
-### Prudence: Right Reason in Action
+## Prudence: Right Reason in Action
 
 **Prudence** is practical wisdom—the virtue that enables us to discern the right action in particular circumstances and to choose the appropriate means to achieve good ends. Prudence involves taking counsel, judging correctly, and acting decisively.
 
@@ -109,7 +109,7 @@ Prudence serves perfect love by ensuring that our good intentions translate into
 
 *How it serves perfect love:* Prudence ensures that our love is not just sincere but also effective, choosing actions that **truly serve** the good of those we love.
 
-### Temperance: Harmonious Integration of Body, Mind, and Soul
+## Temperance: Harmonious Integration of Body, Mind, and Soul
 
 **Temperance** is the virtue that brings all aspects of our humanity into proper harmony. It is not the suppression of bodily desires but their proper ordering toward authentic goods. Temperance enables us to enjoy God's gifts without being enslaved by them.
 
@@ -117,7 +117,7 @@ Temperance serves perfect love by ensuring that we love with our whole person—
 
 *How it serves perfect love:* Temperance enables authentic self-gift by ensuring that we have mastery over ourselves and can **freely choose to love** rather than being driven by disordered desires.
 
-### Fortitude: Courage in Love
+## Fortitude: Courage in Love
 
 **Fortitude** is the virtue that enables us to persevere in good even when it is difficult, dangerous, or costly. Fortitude has two aspects: endurance (patience in suffering) and attack (courage in action). Both are necessary for authentic love.
 
@@ -127,7 +127,7 @@ Fortitude serves perfect love by giving us the strength to make sacrificial choi
 
 ## The Fruits of Love Made Mature
 
-### Chastity: Integrated Sexuality within Love
+## Chastity: Integrated Sexuality within Love
 
 **Chastity** is the proper integration of human sexuality within the context of authentic love and one's state in life. For the married, chastity means faithful, fruitful love; for the unmarried, it means preparation for marriage or religious life; for religious, it means celibate love for the Kingdom.
 
@@ -135,7 +135,7 @@ Chastity serves perfect love by ensuring that our sexuality serves the good of p
 
 *How it serves perfect love:* Chastity ensures that our love **respects the full dignity of the human person** and serves the good of covenant relationships.
 
-### Faithfulness: Steadfast Commitment to Covenants
+## Faithfulness: Steadfast Commitment to Covenants
 
 **Faithfulness** is the virtue that enables us to honor our promises and commitments, especially when it becomes difficult or costly. Faithfulness is love's constancy that perseveres through trials, temptations, and the passage of time.
 
@@ -143,7 +143,7 @@ Faithfulness serves perfect love by providing the stability necessary for authen
 
 *How it serves perfect love:* Faithfulness enables covenant love by ensuring that **our commitments are permanent and reliable**, creating the security necessary for authentic intimacy.
 
-### Patience: Enduring Love That Perseveres
+## Patience: Enduring Love That Perseveres
 
 **Patience** is the virtue that enables us to endure difficulties, delays, and even injuries without losing our peace or abandoning our love. Patience is not passive resignation but active perseverance in doing good.
 
@@ -151,7 +151,7 @@ Patience serves perfect love by enabling us to love consistently over time, even
 
 *How it serves perfect love:* Patience **enables mercy** by giving us the strength to continue loving and forgiving even when others fail to respond as we hope.
 
-### Kindness: Gentle Goodwill Toward Others
+## Kindness: Gentle Goodwill Toward Others
 
 **Kindness** is the virtue that moves us to seek the good of others in gentle, considerate ways. Kindness is strength exercised with tenderness, power used in service of the vulnerable.
 
@@ -159,7 +159,7 @@ Kindness serves perfect love by ensuring that our justice is tempered with mercy
 
 *How it serves perfect love:* Kindness ensures that our **love is not harsh** or demanding but **gentle and inviting**, truly desiring the peace and harmony of the beloved.
 
-### Generosity: Abundant Giving from Love
+## Generosity: Abundant Giving from Love
 
 **Generosity** is the virtue that moves us to give abundantly from our resources—time, talent, treasure, and attention—for the good of others. True generosity flows from love, not from duty or the desire for recognition.
 
@@ -167,7 +167,7 @@ Generosity serves perfect love by ensuring that our love is not merely internal 
 
 *How it serves perfect love:* Generosity **enables sacrifice** by moving us to **give freely and abundantly** for the good of those we love.
 
-### Gentleness: Strength Exercised with Tenderness
+## Gentleness: Strength Exercised with Tenderness
 
 **Gentleness** is the virtue that enables us to exercise our strength and authority with tenderness and consideration for others' weakness and vulnerability. Gentleness is not weakness but strength under control.
 
@@ -175,7 +175,7 @@ Gentleness serves perfect love by ensuring that our justice is tempered with mer
 
 *How it serves perfect love:* Gentleness ensures that our love is sensitive to the needs and limitations of others, adapting our approach to what they can receive.
 
-### Self-Control: Mastery Over Disordered Desires
+## Self-Control: Mastery Over Disordered Desires
 
 **Self-control** is the virtue that enables us to master our impulses, emotions, and desires so that we can choose freely what is truly good. Self-control is not suppression but proper ordering of our inner life.
 
@@ -183,7 +183,7 @@ Self-control serves perfect love by ensuring that we love from freedom rather th
 
 *How it serves perfect love:* Self-control enables authentic self-gift by ensuring that we have mastery over ourselves and **can freely choose** to love.
 
-### Joy: Deep Happiness Rooted in God
+## Joy: Deep Happiness Rooted in God
 
 **Joy** is the deep happiness that flows from union with God and the practice of virtue. Joy is not dependent on external circumstances but on the interior reality of God's Perfect Love and the hope of eternal life.
 

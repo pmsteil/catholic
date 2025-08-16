@@ -71,13 +71,13 @@ Where sin holds on to injury, pride, resentment, and rejection at the expense of
 
 Understanding this nature of mercy helps us see how it operates in two essential ways:
 
-### Mercy Sees the Person Behind the Sin
+## Mercy Sees the Person Behind the Sin
 
 True mercy recognizes that every human being is created in the image of God, regardless of what they have done. This doesn't mean mercy ignores sin or pretends wrongdoing doesn't matter. Rather, mercy sees the full truth: yes, this person has sinned, **but they are still a beloved child of God with infinite dignity and the potential for redemption**.
 
 The woman caught in adultery (John 8:1-11) experienced this kind of mercy from Jesus. He didn't deny her sin—"Go and sin no more"—but He saw beyond her failure to her fundamental dignity as a human being created for love. His mercy didn't excuse her adultery; it offered her a path to authentic love.
 
-### Mercy Chooses Love Over Justice Alone
+## Mercy Chooses Love Over Justice Alone
 
 Justice gives each person what they deserve; mercy gives what they need. A parent whose child breaks a window deserves to have it replaced (justice), but the child needs forgiveness and guidance more than punishment (mercy). A spouse who has been betrayed deserves an apology and changed behavior (justice), but the marriage needs healing and renewed commitment (mercy).
 
@@ -152,7 +152,7 @@ You don't have to be ready to forgive today. But you can be ready to let God beg
 
 This transformative power of mercy raises important questions about how to respond when we encounter genuine evil—not mere mistakes or weaknesses, but deliberate cruelty, abuse, or injustice. Does mercy require us to be doormats? Does forgiveness mean ignoring justice?
 
-### Mercy Does Not Mean Enabling Evil
+## Mercy Does Not Mean Enabling Evil
 
 <div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
     True mercy seeks the sinner's authentic good, which sometimes requires allowing suffering to serve healing.
@@ -164,7 +164,7 @@ Mercy can coexist with appropriate consequences. We can forgive someone while st
 
 Mercy given without justice is not mercy at all—it's false compassion that enables sin to continue. Like a doctor who gives painkillers to someone with a serious infection instead of treating the underlying disease, such "mercy" may provide temporary comfort but allows the spiritual poison of sin to spread and cause greater harm.
 
-### Mercy Toward the Unrepentant
+## Mercy Toward the Unrepentant
 
 Perhaps the most difficult mercy is showing compassion toward those who show no remorse for their actions. Jesus provides the model from the cross: "Father, forgive them, for they know not what they do" (Luke 23:34). He showed mercy to His executioners even while they were killing Him, even though they showed no repentance. This mercy didn't excuse their actions or eliminate consequences, but it freed Jesus from bitterness and opened the door for their eventual conversion.
 

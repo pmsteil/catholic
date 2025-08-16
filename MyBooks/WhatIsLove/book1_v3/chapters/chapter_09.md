@@ -50,7 +50,7 @@ This is our sacred responsibility: to live the perfect love revealed in the Pasc
 
 On the Cross, every element of our definition of perfect love—"the sacred, sacrificial gift of covenant, binding truth, justice, and mercy, gathering us into life-giving communion"—blazes forth in perfect unity:
 
-### Sacred Love Revealed
+## Sacred Love Revealed
 
 Remember, "God is love". He created love and our ability to love is a gift from Him. It can be said that love is "super-natural" because it is not something created by the natural world. Rocks do not love.
 
@@ -60,7 +60,7 @@ This changes everything. We are not just forgiven by a human teacher but loved b
 
 Christ's love on the Cross also reveals how precious every human person is to God. Every person—from the greatest saint to the most hardened sinner—is worth God's own life. This is why every human life matters so much, why marriage is so important, why every act of authentic love connects us to God Himself.
 
-### Sacrificial Love Perfected
+## Sacrificial Love Perfected
 
 The Cross is the ultimate expression of sacrificial love. Here we see love proven not by words or feelings but by the complete gift of self unto death. Jesus demonstrates what He taught: *"Greater love has no one than this, that someone lay down his life for his friends"* (John 15:13).
 
@@ -68,7 +68,7 @@ But Christ's sacrifice goes beyond even this supreme standard—He died not just
 
 The sacrificial nature of the Cross also reveals the pattern for all authentic love. Every true act of love requires some form of sacrifice—putting another's good before our own immediate desires. Parents sacrifice sleep for their children. Spouses sacrifice their individual preferences, goals, dreams for their the good of the marriage covenant. Friends sacrifice time and energy for each other. Priests sacrifice marriage and family for their spiritual children. All authentic love follows the pattern established on Calvary.
 
-### The Gift Freely Given
+## The Gift Freely Given
 
 The Cross reveals love as pure gift. Christ's sacrifice was not earned, demanded, or deserved. It was freely given out of love alone. As St. Paul marvels: *"He who did not spare his own Son but gave him up for us all, how will he not also with him graciously give us all things?"* (Romans 8:32).
 
@@ -90,7 +90,7 @@ Through this relationship of love—God loving us first and we learning to love 
 
 <div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">For God so loved the world, that he gave his only Son, that whoever believes in him should not perish but have eternal life. And this is the judgment: the light has come into the world, and people loved the darkness rather than the light because their works were evil. But whoever does what is true comes to the light, so that it may be clearly seen that his works have been carried out in God.<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">— John 3:16, 20-21</span></div>
 
-### Covenant Love Established
+## Covenant Love Established
 
 On the Cross, Jesus establishes the New Covenant in His blood: *"This cup that is poured out for you is the new covenant in my blood"* (Luke 22:20). This is not a temporary arrangement or conditional contract but an eternal, unbreakable covenental bond between God and humanity.
 
@@ -98,7 +98,7 @@ The covenant dimension of the Cross reveals love's permanent nature. God's love 
 
 This covenant love becomes the model for all human relationships. Through Baptism, we enter into the fundamental covenant with God that makes all other covenant relationships possible. The Eucharist continually renews and deepens this covenant bond, as we receive Christ's own Body and Blood—the same sacrifice offered on the Cross. Through the Sacrament of Reconciliation, we return to covenant love when we have broken it through sin, experiencing God's mercy and justice united in forgiveness. Marriage is meant to reflect this permanent, faithful love. Priesthood is a covenant commitment to serve God's people. Religious life is a covenant of total consecration. Even friendship, when authentic, creates bonds that endure through difficulties and changes.
 
-### True Justice and True Mercy United
+## True Justice and True Mercy United
 
 The Cross shows us how true justice and true mercy work together as one. They cannot be separated because they are both essential parts of authentic love. God doesn't just ignore our wrongdoing or pretend it doesn't matter. True love demands that wrongs be made right, that evil be stopped, and that the proper order be restored. On the Cross, Christ makes everything right by taking upon Himself the consequences we deserved.
 
@@ -140,7 +140,7 @@ This mercy is not weakness or compromise with evil. It is strength that chooses 
 
 The perfect unity of justice and mercy revealed on the Cross becomes the pattern for all authentic love. We are called to uphold justice while extending mercy, to speak truth while offering forgiveness, to maintain moral standards while welcoming repentant sinners. This doesn't mean ignoring justice or enabling evil, but following Christ's example of love that holds justice and mercy in perfect tension.
 
-### Life-Giving Communion Created
+## Life-Giving Communion Created
 
 The Cross creates life-giving communion between God and humanity. Through Christ's death and resurrection, the barriers created by sin are removed, and we are invited into intimate relationship with God. As St. Paul explains: *"All this is from God, who reconciled us to himself through Christ and gave us the ministry of reconciliation"* (2 Corinthians 5:18).
 
@@ -186,7 +186,7 @@ But the Cross is not the end of the story—it leads to the Resurrection, which 
 
 As the Catechism declares: "The Resurrection of Jesus is the crowning truth of our faith in Christ" (CCC 638). It is not just an epilogue to the Cross but the completion of love's revelation. The Cross reveals love's depth—how far God will go to love us, even unto death. The Resurrection reveals love's power—that this divine love is stronger than death itself and capable of transforming everything it touches.
 
-### Love That Creates New Life
+## Love That Creates New Life
 
 The Resurrection demonstrates that God's love doesn't just forgive sin but conquers death—the ultimate consequence of sin. Christ's glorified body shows that love transforms us completely, not just legally but ontologically. We receive new life, not just pardoned old life. This reveals that God's love is creative and regenerative, not merely merciful.
 
@@ -194,7 +194,7 @@ As St. Paul explains, Christ's risen body "is filled with the power of the Holy 
 
 The Resurrection reveals that God's love is not just restorative (bringing us back to where we were) but creative (making us something entirely new). This is the pattern for all authentic love: it should create new life, new possibilities, new hope—not just solve problems or repair damage.
 
-### Love's Eternal Dimension
+## Love's Eternal Dimension
 
 The Cross shows love's willingness to sacrifice; the Resurrection shows love's eternal permanence. Christ's risen body belongs "henceforth only to the Father's divine realm" (CCC 645), showing that divine love transcends time and space. This proves that the covenant love established on the Cross is truly eternal, not just a temporary arrangement.
 
@@ -209,7 +209,7 @@ We are united - we experience an eternal union with Christ here on earth through
 
 <div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">Thy Kingdom Come. Thy Will Be Done. On Earth as it is in Heaven.</div>
 
-### Our Participation in Perfect Love
+## Our Participation in Perfect Love
 
 Through the Resurrection, Christ enables us to share in the divine life and gives us the actual capacity to love as God loves, not just the example or forgiveness. This is why the Eucharist makes the entire Paschal Mystery present—both death and resurrection are needed for the full gift of divine love.
 

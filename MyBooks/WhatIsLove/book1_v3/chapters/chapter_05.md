@@ -123,7 +123,7 @@ This isn't about power or control—it's about love freely received and freely g
 
 This voluntary submission is itself an act of love—choosing to align our will with the will of the One who created us out of love and for love. In this submission, we discover not slavery but freedom, not oppression but the fullness of life that comes from living in harmony with truth.
 
-### God's Threefold Revelation of Truth
+## God's Threefold Revelation of Truth
 
 God has revealed truth to humanity through three complementary sources:
 
@@ -133,7 +133,7 @@ God has revealed truth to humanity through three complementary sources:
 
 **Divine Revelation:** God's direct communication through Scripture and Tradition, preserved and interpreted by the Church's Magisterium.
 
-### Christ's Grant of Authority to the Church
+## Christ's Grant of Authority to the Church
 
 Jesus didn't leave us to figure out truth individually. As the divine Author incarnate, He established His Church as the authoritative teacher and guardian of truth—not as an external imposition, but as the continuation of His own loving authority:
 
@@ -145,7 +145,7 @@ The "keys" represent the authority to govern the Church and determine doctrine. 
 
 This authority is not arbitrary power but the loving guidance of the Author ensuring His creatures can live according to their true design. The Church's teaching authority exists not to control but to liberate—to free us from the slavery of error so we can live in the freedom of truth.
 
-### The Church as "Pillar and Foundation of Truth"
+## The Church as "Pillar and Foundation of Truth"
 
 St. Paul calls the Church "the pillar and foundation of the truth" (1 Timothy 3:15). This means:
 
@@ -161,7 +161,7 @@ St. Paul calls the Church "the pillar and foundation of the truth" (1 Timothy 3:
 Jesus gave the Church His authority to teach the fullness of His Perfect Love.
 </div>
 
-### Why Authority is Essential to Love
+## Why Authority is Essential to Love
 
 This isn't about power or control—it's about love protecting the vulnerable and guiding us to live a life of abundance in His truth, justice and mercy.
 
@@ -175,7 +175,7 @@ This isn't about power or control—it's about love protecting the vulnerable an
 
 **Enables Authentic Mercy:** Only by knowing what sin actually is can we offer true forgiveness and healing. Mercy that calls evil good is not mercy but enabling.
 
-### How Catholics Can Share Truth with Others
+## How Catholics Can Share Truth with Others
 
 Understanding Church authority doesn't mean Catholics should be arrogant or dismissive toward those who disagree. Instead, it gives us confidence to engage in respectful dialogue:
 
@@ -189,7 +189,7 @@ Understanding Church authority doesn't mean Catholics should be arrogant or dism
 
 **Live with Integrity:** The most powerful argument for Catholic truth is a life that authentically reflects it. When people see Catholics living with genuine joy, peace, and love, they become curious about the source.
 
-### The Catholic Response to Relativism
+## The Catholic Response to Relativism
 
 In our relativistic age, many people claim that "truth is subjective" or "everyone has their own truth." But this contradicts both reason and revelation:
 
@@ -240,7 +240,7 @@ The sacraments are God's way of making truth tangible and accessible to our body
 
 **Anointing of the Sick** helps us face the truth of our mortality while trusting in the truth of eternal life.
 
-### The Mass: The School of Truth and Wisdom
+## The Mass: The School of Truth and Wisdom
 
 **The Mass** serves as the primary means where Catholics grow in and actually encounter the truth of God's Perfect Love. This is something that modern Christianity has largely abandoned, but it remains central to authentic Catholic life:
 
