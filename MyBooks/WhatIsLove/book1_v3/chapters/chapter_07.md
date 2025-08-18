@@ -73,8 +73,6 @@ Children understand covenant love naturally because they are made in the image o
 <span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">Matthew 18:3</span>
 </div>
 
-##
-
 ## The Universal Human Need for Covenant Love
 
 Every human being, regardless of culture, religion, or background, demonstrates an unmistakable hunger for covenant love. This isn't learned behavior—it's written into our very nature as beings made in God's image.

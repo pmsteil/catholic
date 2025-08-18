@@ -1,7 +1,8 @@
 # What is Love?
-## God's Perfect Love
 
-### What questions this book answers
+God's Perfect Love is the sacred, sacrificial gift of covenant, binding truth, justice, and mercy, gathering us into life-giving communion.
+
+## What questions this book answers
 
 - What is evil?
 - How can a good God allow evil?
@@ -18,13 +19,7 @@
 - How do we love society enough to tell it the truth?
 - What is the answer to modern society which is so broken?
 
-
-
-
-
-
-#### History
-
+## History
 
 - Writing Started: February 19, 2025
 - First Draft - June 27, 2025

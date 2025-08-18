@@ -230,17 +230,23 @@ Before we proceed to explore the facets of love, we must honestly confront the e
 
 **Soul:** How has evil damaged your relationship with God? What sins separate you from His love? What wounds need His healing?
 
-This isn't meant to discourage you, but to help you recognize your need for the perfect love that can heal all these wounds. The Saints weren't people who never struggled with evil—they were people who learned to let God's love transform their struggles into victories.
+This examination is meant to help you recognize your need for the perfect love that can heal all these wounds. The Saints weren't people who never struggled with evil—they were people who learned to let God's love transform their struggles into victories.
 
 As we see in the story of Cain and Abel (Genesis 4:1-16), evil entered the world through human choice very early in history. Cain's jealousy and anger led to the first murder, showing us that evil flows from disordered desires in the human heart. St. James reminds us: "Where do the wars and where do the conflicts among you come from? Is it not from your passions that make war within your members?" (James 4:1).
 
 The Catechism teaches us that each human being has the ability to choose between good and evil.
 
-> "God created man a rational being, conferring on him the dignity of a person who can initiate and control his own actions. "God willed that man should be 'left in the hand of his own counsel,' so that he might of his own accord seek his Creator and freely attain his full and blessed perfection by cleaving to him."
+<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+"God created man a rational being, conferring on him the dignity of a person who can initiate and control his own actions. God willed that man should be 'left in the hand of his own counsel,' so that he might of his own accord seek his Creator and freely attain his full and blessed perfection by cleaving to him."
+<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">— Catechism of the Catholic Church 1730</span>
+</div>
 
 This gift of free will makes us capable of great good, but also capable of choosing evil. As the Catechism further explains:
 
-> "Sin is an offense against reason, truth, and right conscience; it is failure in genuine love for God and neighbor caused by a perverse attachment to certain goods" (CCC 1849).
+<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+"Sin is an offense against reason, truth, and right conscience; it is failure in genuine love for God and neighbor caused by a perverse attachment to certain goods"
+<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">— Catechism of the Catholic Church 1849</span>
+</div>
 
 **This is the crucial insight**: Evil is not some external force that attacks us from outside. Evil originates in the human heart when we choose our own will over God's will, our own desires over the good of others, our own immediate gratification over what is truly good. Every act of moral evil—from the "smallest" lie to the greatest atrocity—begins with a choice made in a human heart to reject God's love and embrace selfishness.
 
@@ -282,7 +288,7 @@ Now it's our turn. The world groans, but love stands ready to respond. And that 
 
 *Lord Jesus, You are perfect love incarnate. You faced the full reality of evil on the cross and conquered it through Your death and resurrection. Help us to see clearly the evil in our world and in our own hearts, not to despair, but to turn to You with confidence. Transform us into agents of Your perfect love. Give us the courage to confront evil wherever we find it, and the wisdom to respond with the integration of justice and mercy that You have shown us. We ask this through Your most holy name. Amen.*
 
-**Examen:**
+## Examen
 
 Begin each day this week with an honest examination of conscience, asking the Holy Spirit to reveal areas where evil has taken root in your heart. As you do this, also notice one specific example of moral evil in the world around you (in news, relationships, society). Connect these two observations: How does the evil you see "out there" relate to similar tendencies in your own heart?
 
@@ -302,7 +308,9 @@ Close each examination by praying the Act of Contrition:
 
 At the close of each chapter, we will provide resources for those who want to dive deeper into what our Catholic faith teaches about the topic we've explored. These references—from Scripture, the Catechism, and the lives of the saints—offer you the opportunity to study more thoroughly the Church's wisdom on these matters. Whether you're seeking to strengthen your own understanding or preparing to share these truths with others, these resources will guide you to the authoritative sources of our faith.
 
-**Further Study - Scripture:**
+## Further Study
+
+### Scripture
 
 - **Genesis 4:1-16** - Cain and Abel: The first example of human violence and its consequences
 - **Romans 1:18-32** - St. Paul's description of human unrighteousness and its effects
@@ -310,7 +318,7 @@ At the close of each chapter, we will provide resources for those who want to di
 - **1 John 3:11-12** - The contrast between love and hatred, using Cain as an example
 - **Ephesians 6:12** - Our struggle is not against flesh and blood, but against spiritual forces of evil
 
-**Further Study - Catechism:**
+### Catechism
 
 - **CCC 309-314** - The problem of evil and God's providence
 - **CCC 385-390** - The reality of sin and its consequences
@@ -319,7 +327,7 @@ At the close of each chapter, we will provide resources for those who want to di
 - **CCC 1730-1738** - Human freedom and responsibility
 - **CCC 1776-1802** - Moral conscience and the natural law
 
-**Saints for This Chapter:**
+### Saints
 
 - **St. Maximilian Kolbe** - Victim and victor over evil, showing how perfect love helps conquer even the worst human cruelty
 - **St. Maria Goretti** - Demonstrating forgiveness of evil and the power of purity to overcome corruption

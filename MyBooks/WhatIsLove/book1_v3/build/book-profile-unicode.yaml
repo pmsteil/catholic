@@ -1,10 +1,17 @@
+title: What Is Love?
+subtitle: The Catholic Guide to Perfect Love
+author: Patrick M. Steil
+edition: 2nd Draft
 title-meta: Unicode layout (devotional + fontspec)
+documentclass: book
 classoption: [twoside, openany]
 numbersections: true
-secnumdepth: 1
+secnumdepth: 0
 toc-depth: 3
 colorlinks: false
 links-as-notes: true
+top-level-division: chapter
+lang: en-US
 header-includes:
   - |
     \usepackage{fontspec}
@@ -57,6 +64,24 @@ header-includes:
     \makeatother
     \fancyhead[LE,RO]{\footnotesize \leftmark}
     \fancyfoot[CE,CO]{\thepage}
+  - |
+    % Custom title page with edition information
+    \makeatletter
+    \def\@maketitle{%
+      \newpage
+      \null
+      \vskip 2em%
+      \begin{center}%
+      \let \footnote \thanks
+      {\LARGE \@title \par}%
+      \vskip 1.5em%
+      {\large \@author \par}%
+      \vskip 1em%
+      {\large \textit{Edition: }\textmd{2nd Draft} \par}%
+      \end{center}%
+      \par
+      \vskip 1.5em}
+    \makeatother
 geometry:
   - paperwidth=6in
   - paperheight=9in

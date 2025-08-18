@@ -6,7 +6,7 @@ Our world feels like it's coming apart at the seams, doesn't it? We hear constan
 
 I have been walking with the Lord for over 35 years and deeply thinking about "God is Love" and what that means.  I have observed the seismic shifts in our culture. I'm absolutely convinced of one thing: the chaos we see, the confusion, the division, the deep wounds both today and throughout history, boil down to a fundamental misunderstanding of the most important question we could ever ask:
 
-> ## **What is Love?**
+**What is Love?**
 
 ## For the Love of Children: Why This Can't Wait
 

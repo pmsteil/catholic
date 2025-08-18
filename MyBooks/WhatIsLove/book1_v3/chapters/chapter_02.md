@@ -100,6 +100,7 @@ This is why the cry for love is universal. Every human heart knows instinctively
 The universal hunger for love isn't learned behavior—it's the echo of our divine origin. We are the only creatures created for relationship with God himself, and this explains why no earthly love, however beautiful, can fully satisfy our infinite longing.
 </div>
 
+
 ## What Children Know About Love
 
 Before we examine how great minds have tried to define love, let's look at an unexpected source of wisdom—our children. Watch how children naturally understand love before the world teaches them otherwise:

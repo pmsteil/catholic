@@ -6,6 +6,7 @@ from typing import List, Optional
 import re
 import tempfile
 from datetime import datetime
+import os
 
 ROOT_DIR = Path(__file__).resolve().parents[1]
 CHAPTERS_DIR = ROOT_DIR / "chapters"
@@ -13,6 +14,8 @@ ORDER_FILE = CHAPTERS_DIR / "build-chapters-order.txt"
 METADATA_FILE = ROOT_DIR / "build" / "book-profile-default.yaml"
 METADATA_PROFILES_DIR = ROOT_DIR / "build"
 DEFAULT_OUTPUT_PDF = ROOT_DIR / "WhatIsLove_book.pdf"
+
+# Profiles are dynamically discovered from book-profile-*.yaml files
 
 HTML_APPENDIX = CHAPTERS_DIR / "y_appendix_definitions.html"
 MD_APPENDIX = CHAPTERS_DIR / "y_appendix_definitions.md"
@@ -80,12 +83,20 @@ def read_order_from_metadata(metadata_path: Path) -> Optional[List[str]]:
 
 
 def discover_profiles() -> List[str]:
-    profiles: List[str] = []
-    if METADATA_PROFILES_DIR.exists():
-        for f in METADATA_PROFILES_DIR.glob("book-profile-*.yaml"):
-            name = f.stem.replace("book-profile-", "")
-            profiles.append(name)
-    return sorted(set(profiles))
+    # Dynamically discover available profiles by looking for book-profile-*.yaml files
+    profiles = ["default"]  # Default is always available
+    profile_pattern = "book-profile-*.yaml"
+    
+    # Find all profile files
+    for profile_path in METADATA_PROFILES_DIR.glob(profile_pattern):
+        # Extract profile name from filename (remove 'book-profile-' prefix and '.yaml' suffix)
+        profile_name = profile_path.stem.replace("book-profile-", "")
+        if profile_name != "default":  # Already added default
+            profiles.append(profile_name)
+    
+    # Sort profiles for consistent display
+    profiles.sort()
+    return profiles
 
 
 def read_ordered_files(order_path: Path) -> List[str]:
@@ -257,22 +268,22 @@ def preprocess_files(files: List[str]) -> List[str]:
     return out_files
 
 
-def build_pdf(files: List[str], profile: Optional[str]) -> None:
+def build_pdf(files: List[str], profile: Optional[str]) -> Path:
     # Preprocess files to convert custom HTML widgets to Markdown
     processed = preprocess_files(files)
 
-    # Determine metadata files (base + optional overlay)
-    metadata_args: List[str] = [f"--metadata-file={METADATA_FILE}"]
-    # Keep active profile available via metadata; track overlay for clarity
-    overlay_path: Optional[Path] = None
+    # Determine metadata file to use (either default or specified profile)
+    metadata_args: List[str] = []
     if profile and profile != "default":
-        candidate = METADATA_PROFILES_DIR / f"book-profile-{profile}.yaml"
-        if candidate.exists():
-            overlay_path = candidate
-            metadata_args.append(f"--metadata-file={candidate}")
-    # Explicit no-op use to satisfy linters when present
-    if overlay_path is not None:
-        _ = overlay_path
+        profile_path = METADATA_PROFILES_DIR / f"book-profile-{profile}.yaml"
+        if profile_path.exists():
+            metadata_args.append(f"--metadata-file={profile_path}")
+        else:
+            print(f"Warning: Profile '{profile}' not found, falling back to default")
+            metadata_args.append(f"--metadata-file={METADATA_FILE}")
+    else:
+        # Use default profile
+        metadata_args.append(f"--metadata-file={METADATA_FILE}")
 
     # Optional TOC tuning via env → write a tiny YAML overlay dynamically
     import os, tempfile
@@ -388,26 +399,72 @@ def build_pdf(files: List[str], profile: Optional[str]) -> None:
         print(f"Built (debug): {ROOT_DIR / latex_out.with_suffix('.pdf').name}")
     else:
         print(f"Built: {output_pdf}")
+    
+    return output_pdf
+
+
+def open_pdf(pdf_path: Path) -> None:
+    """Open the PDF file using the default system viewer."""
+    if not pdf_path.exists():
+        print(f"Warning: PDF file not found at {pdf_path}")
+        return
+        
+    # Use platform-specific commands to open the PDF
+    try:
+        if sys.platform == "darwin":  # macOS
+            subprocess.run(["open", str(pdf_path)], check=True)
+        elif sys.platform == "win32":  # Windows
+            os.startfile(str(pdf_path))
+        elif sys.platform.startswith("linux"):  # Linux
+            subprocess.run(["xdg-open", str(pdf_path)], check=True)
+        else:
+            print(f"Warning: Unsupported platform {sys.platform} for auto-opening PDF")
+    except Exception as e:
+        print(f"Error opening PDF: {e}")
 
 
 def main() -> None:
+    # If no arguments provided, list profiles and exit
+    if len(sys.argv) == 1:
+        print("Available profiles:")
+        for p in discover_profiles():
+            print(f"  - {p}")
+        print("\nUsage: bin/build [profile] [--no-open]")
+        print("Run 'bin/build --help' for more information")
+        sys.exit(0)
+        
     if len(sys.argv) > 1 and sys.argv[1] in ("-h", "--help", "help"):
-        print("Usage: bin/build [profile]\n")
+        print("Usage: bin/build [profile] [--no-open]\n")
+        print("Options:")
+        print("  --no-open    Don't automatically open the PDF after building\n")
         print("Profiles:")
         for p in discover_profiles():
             print(f"  - {p}")
         sys.exit(0)
 
-    profile: Optional[str] = sys.argv[1] if len(sys.argv) > 1 else "default"
+    # Parse arguments
+    args = sys.argv[1:]
+    no_open = "--no-open" in args
+    if no_open:
+        args.remove("--no-open")
+    
+    profile: Optional[str] = args[0] if args else "default"
     available = discover_profiles()
-    if profile not in available:
+    
+    # Check if the profile file exists
+    profile_file = METADATA_PROFILES_DIR / f"book-profile-{profile}.yaml"
+    if not profile_file.exists():
         print(f"Warning: profile '{profile}' not found. Available: {', '.join(available) if available else 'none'}")
         sys.exit(1)
 
     ensure_tools_available()
     convert_html_appendix_if_needed()
     files = read_ordered_files(ORDER_FILE)
-    build_pdf(files, profile)
+    output_pdf = build_pdf(files, profile)
+    
+    # Open the PDF unless --no-open was specified
+    if not no_open:
+        open_pdf(output_pdf)
 
 
 if __name__ == "__main__":

@@ -2,7 +2,7 @@ title-meta: Compact layout (minimize page count)
 documentclass: extbook
 classoption: [twoside, openany, 9pt]
 numbersections: true
-secnumdepth: 1
+secnumdepth: 0
 toc-depth: 3
 colorlinks: false
 links-as-notes: true
@@ -42,6 +42,10 @@ header-includes:
     \makeatother
     \fancyhead[LE,RO]{\scriptsize \leftmark}
     \fancyfoot[CE,CO]{\thepage}
+  - |
+    \usepackage{titling}
+    \pretitle{\begin{center}\LARGE\bfseries}
+    \posttitle{\par\vskip 0.5em\large\textit{Edition: }\textmd{2nd Draft}\end{center}\vskip 1em}
 geometry:
   - paperwidth=6in
   - paperheight=9in
