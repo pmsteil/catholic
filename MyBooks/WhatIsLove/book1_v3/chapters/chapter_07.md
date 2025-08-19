@@ -296,7 +296,7 @@ The justice we explored in Chapter 3 finds its ultimate expression here—Christ
 
 *Clarity*—The radiant splendor of God's love blazes forth most brilliantly in this moment. Even humanity's most egregious crime—the killing of God Himself—becomes the very means by which God demonstrates that His love is stronger than our sin, His mercy greater than our malice, His covenant more enduring than our betrayal. The Cross becomes not a symbol of defeat but the radiant manifestation of love's total victory over evil.
 
-This is perfect love: the sacred, sacrificial gift of covenant, binding truth, justice, and mercy, gathering us into life-giving communion. In Christ's sacrifice, we see not just what love does, but what love *is*—the very nature of the Trinity poured out for our salvation, beautiful beyond all earthly beauty because it possesses perfect integrity, perfect proportion, and perfect clarity.
+This is God's perfect love in action—every facet working in harmony. In Christ's sacrifice, we see not just what love does, but what love *is*—the very nature of the Trinity poured out for our salvation, beautiful beyond all earthly beauty because it possesses perfect integrity, perfect proportion, and perfect clarity.
 
 **Perfect Covenant:** This New Covenant, sealed in Christ's blood, accomplishes what no human covenant could ever achieve—it transforms our very nature, enabling us to love as God loves. This is not merely forgiveness but *re-creation*:
 

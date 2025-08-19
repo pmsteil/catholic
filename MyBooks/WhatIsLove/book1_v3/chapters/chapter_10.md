@@ -35,11 +35,18 @@ That night, Jesus did something that seemed impossible: He made His future sacri
 
 But to understand why Jesus chose this particular night, this particular meal, and these particular words, we need to see how everything in Scripture had been pointing toward this moment.
 
+---
+
+## PART I: THE PASSOVER CONTEXT
+*Understanding how Christ fulfilled the Old Covenant*
+
+---
+
 ## Fulfilling the Law and the Prophets
 
 When Jesus said, *"Do not think that I have come to abolish the Law or the Prophets; I have not come to abolish them but to fulfill them"* (Matthew 5:17), He was revealing something profound about love. Everything in the Old Testament—every law, every prophecy, every story—was ultimately about love. As Jesus later explained, *"All the Law and the Prophets hang on these two commandments"*: love God with all your heart, soul, and mind, and love your neighbor as yourself (Matthew 22:40).
 
-The perfect love we have been defining throughout this book—the sacred, sacrificial gift of covenant, binding truth, justice, and mercy, gathering us into life-giving communion—this is what the entire Old Testament was pointing toward. Every sacrifice, every covenant, every act of justice and mercy was preparing humanity to recognize and receive this perfect love when it appeared.
+The perfect love we have been exploring throughout this book—with all its facets of sacrifice, covenant, truth, justice, and mercy—this is what the entire Old Testament was pointing toward. Every sacrifice, every covenant, every act of justice and mercy was preparing humanity to recognize and receive this perfect love when it appeared.
 
 **The Passover Pattern:** The most important preparation was the Passover. Every year, the Jewish people remembered how God delivered them from slavery in Egypt through the sacrifice of an unblemished lamb. The lamb's blood marked their doorposts, and death "passed over" their homes. But the sacrifice wasn't complete until the lamb was eaten—the family had to consume the sacrifice to receive its benefits.
 
@@ -166,6 +173,13 @@ This is the Liturgy of the Eucharist—Jesus making Himself present through the 
 
 This is the same pattern we follow in every Mass: Word and Eucharist, Scripture and Sacrament, teaching and feeding. Jesus established this pattern so that His perfect love would remain present and accessible to every generation.
 
+---
+
+## PART II: THE MASS TODAY
+*How Christ's sacrifice becomes present to us*
+
+---
+
 ## The Mass: Perfect Love Made Present
 
 Now we can understand why the Church teaches that the Eucharist is the "source and summit" of our faith. Every Mass makes present the perfect love revealed in Christ's Passion, Death, and Resurrection. Every Mass is both Calvary and the Upper Room, both Good Friday and Easter Sunday.
@@ -210,7 +224,7 @@ This covenant is:
 
 ### The Relationship God Wants
 
-Through the Eucharist, we see exactly what kind of relationship God wants with us. Not a distant, formal relationship based on arbitrary rules and meaningless obligations, but an intimate, personal relationship based on the law of love—that sacred, sacrificial gift of covenant, binding truth, justice, and mercy, gathering us into life-giving communion. God wants to be so close to us that He becomes our food, our life, our very being.
+Through the Eucharist, we see exactly what kind of relationship God wants with us. Not a distant, formal relationship based on arbitrary rules and meaningless obligations, but an intimate, personal relationship based on the law of love—where truth, justice, and mercy unite in sacrificial covenant. God wants to be so close to us that He becomes our food, our life, our very being.
 
 This is the ultimate expression of the covenant love we explored earlier. In marriage, two people become "one flesh." In the Eucharist, we become one with Christ Himself. This is the deepest possible union—not just emotional or spiritual, but substantial. We literally become what we receive.
 
@@ -221,6 +235,13 @@ At every Mass, the priest acknowledges this divine command in the Eucharistic Pr
 What looks like bread and wine to our eyes is actually the Body and Blood of Christ, for in the sacrament of the Eucharist, Christ's words of institution possess the power to effect what they signify, bringing about the real presence of His Body and Blood under the appearances of bread and wine. When He declared *"This is my body... this is my blood"* (Matthew 26:26-28), He wasn't speaking symbolically—He was speaking with the same creative power that said "Let there be light" at the beginning of creation. The appearance remains the same, but the reality has changed completely through His word and His sacrifice.
 
 As St. Paul explains, *"The cup of blessing that we bless, is it not a participation in the blood of Christ? The bread that we break, is it not a participation in the body of Christ?"* (1 Corinthians 10:16). This isn't symbolic participation—it's real participation in Christ Himself. When we receive Communion, we're not just remembering Jesus or honoring Him—we're actually receiving **His Body, Blood, Soul, and Divinity** into our own bodies, becoming one with Him just as He desired. We are recommitting ourselves to His life-giving communion.
+
+---
+
+## PART III: LIVING THE EUCHARISTIC LIFE
+*How the Mass transforms our daily lives*
+
+---
 
 ## Living the Eucharistic Life
 

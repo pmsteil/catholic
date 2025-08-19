@@ -48,7 +48,7 @@ This is our sacred responsibility: to live the perfect love revealed in the Pasc
 
 ## The Cross: Where All Love's Facets Converge
 
-On the Cross, every element of our definition of perfect love—"the sacred, sacrificial gift of covenant, binding truth, justice, and mercy, gathering us into life-giving communion"—blazes forth in perfect unity:
+On the Cross, every element of authentic love—sacred, sacrificial, covenantal, bound by truth, justice, and mercy—blazes forth in perfect unity:
 
 ## Sacred Love Revealed
 

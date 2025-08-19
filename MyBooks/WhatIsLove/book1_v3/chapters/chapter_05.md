@@ -165,15 +165,17 @@ Jesus gave the Church His authority to teach the fullness of His Perfect Love.
 
 This isn't about power or control—it's about love protecting the vulnerable and guiding us to live a life of abundance in His truth, justice and mercy.
 
-**Protects from Deception:** Without authoritative teaching, people fall prey to every wind of doctrine and cultural trend which will likely lead us away from proper truth, justice and/or mercy.
+Authority serves love in five essential ways:
 
-**Provides Moral Certainty:** In complex ethical situations, we need more than personal opinion—we need the wisdom of the Church.
+• **Protects from Deception:** Without authoritative teaching, people fall prey to every wind of doctrine and cultural trend which will likely lead us away from proper truth, justice and/or mercy.
 
-**Maintains Unity:** Authority prevents the multiplication of contradictory "truths" that divide the Body of Christ.
+• **Provides Moral Certainty:** In complex ethical situations, we need more than personal opinion—we need the wisdom of the Church.
 
-**Ensures Fidelity:** The Church's authority keeps us faithful to Christ's original teaching rather than contemporary adaptations.
+• **Maintains Unity:** Authority prevents the multiplication of contradictory "truths" that divide the Body of Christ.
 
-**Enables Authentic Mercy:** Only by knowing what sin actually is can we offer true forgiveness and healing. Mercy that calls evil good is not mercy but enabling.
+• **Ensures Fidelity:** The Church's authority keeps us faithful to Christ's original teaching rather than contemporary adaptations.
+
+• **Enables Authentic Mercy:** Only by knowing what sin actually is can we offer true forgiveness and healing. Mercy that calls evil good is not mercy but enabling.
 
 ## How Catholics Can Share Truth with Others
 
@@ -280,7 +282,7 @@ As St. Edith Stein (Teresa Benedicta of the Cross) taught: *"Do not accept anyth
 
 ## How Truth Serves Perfect Love
 
-Truth is not the enemy of love—it is love's essential foundation. Our comprehensive definition reveals this clearly: "Perfect love is the sacred, sacrificial gift of covenant, binding truth, justice, and mercy, gathering us into life-giving communion."
+Truth is not the enemy of love—it is love's essential foundation. As we've seen, authentic love requires all its facets working together—and truth is what keeps the other virtues from becoming distorted counterfeits.
 
 **Sacred Truth:** Love must be grounded in the objective, sacred truth revealed by God. This provides the sacred clarity that prevents love from becoming mere sentiment or wishful thinking.
 

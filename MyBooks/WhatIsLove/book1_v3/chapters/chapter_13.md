@@ -23,7 +23,7 @@ If you could know only one thing about the universe, about yourself, about the m
 
 This is the Good News—not just a nice religious idea, but the fundamental reality that explains everything: why you exist, why you long for love, why evil hurts so deeply, why nothing in this world fully satisfies, and why your heart was made for something infinite and eternal. As the psalmist cries, "As the deer pants for streams of water, so my soul pants for you, my God" (Psalm 42:1).
 
-The story begins before time itself, in the eternal communion of the Trinity—Father, Son, and Holy Spirit—living in perfect love. This love is not simply a feeling or emotion, but the very essence of God's being. It is **perfect love**: the sacred, sacrificial gift of covenant, binding truth, justice, and mercy, gathering us into life-giving communion. The Father eternally gives Himself completely to the Son, the Son eternally gives Himself completely to the Father, and their mutual love is so real, so personal, that He is the Holy Spirit—the Third Person of the Trinity. This is the perfect unity Jesus prayed for: "that all of them may be one, Father, just as you are in me and I am in you" (John 17:21).¹
+The story begins before time itself, in the eternal communion of the Trinity—Father, Son, and Holy Spirit—living in perfect love. This love is not simply a feeling or emotion, but the very essence of God's being. It is **perfect love** in its fullness—sacred, sacrificial, covenantal, integrating truth, justice, and mercy in eternal communion. The Father eternally gives Himself completely to the Son, the Son eternally gives Himself completely to the Father, and their mutual love is so real, so personal, that He is the Holy Spirit—the Third Person of the Trinity. This is the perfect unity Jesus prayed for: "that all of them may be one, Father, just as you are in me and I am in you" (John 17:21).¹
 
 This divine love is not contained or selfish. Perfect love overflows, creates, gives life. And so God, in His infinite goodness, chose to create the universe as an act of pure love—not because He needed anything, but because love desires to share itself. He created you, specifically you, in His own image and likeness, with the capacity to know Him, love Him, and share in His eternal happiness.
 
@@ -98,7 +98,7 @@ This is not only restorative love—bringing us back to where we were—but crea
 
 ## The New Covenant: God's Law of Love
 
-Through His life, death, and resurrection, Jesus established a New Covenant—not written on stone tablets but on human hearts (Jeremiah 31:33; Hebrews 8:10).⁹ This is God's law of love, which teaches us to live the same perfect love we defined earlier: **the sacred, sacrificial gift of covenant, binding truth, justice, and mercy, gathering us into life-giving communion.**
+Through His life, death, and resurrection, Jesus established a New Covenant—not written on stone tablets but on human hearts (Jeremiah 31:33; Hebrews 8:10).⁹ This is God's law of love, which teaches us to live according to His perfect love—where sacrifice becomes gift, covenant creates communion, and truth, justice, and mercy work in perfect harmony.
 
 This New Covenant is not a set of rules to demand obedience but to draw us into humble, obedient, sacrificial love. Consider His revolutionary teachings that redefine love itself:
 

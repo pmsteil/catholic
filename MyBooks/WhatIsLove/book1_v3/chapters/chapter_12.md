@@ -31,7 +31,7 @@ The Catholic tradition has identified and developed these virtues over two mille
 
 ## How All Virtues Serve Perfect Love
 
-Before we explore these individual virtues, it's crucial to understand how they all work together to serve our comprehensive definition of perfect love. Remember, perfect love is "the sacred, sacrificial gift of covenant, binding truth, justice, and mercy, gathering us into life-giving communion." Every authentic virtue either:
+Before we explore these individual virtues, it's crucial to understand how they all work together to serve God's perfect love. Every authentic virtue either:
 
 - **Serves Truth** by helping us see reality clearly and choose what is genuinely good
 - **Serves Justice** by helping us give each person what they are owed according to their dignity

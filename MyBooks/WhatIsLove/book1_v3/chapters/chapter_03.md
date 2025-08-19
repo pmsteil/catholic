@@ -19,9 +19,13 @@
 
 ## The Universal Cry That Reveals Our Nature
 
+A four-year-old watches her brother get two cookies while she gets one. Her face crumples. "That's not FAIR!" she wails, with a passion that seems to come from her very soul.
+
+She's never taken a philosophy class. No one taught her about distributive justice. Yet she knows—with absolute certainty—that something is wrong with this picture.
+
 "That's not fair!"
 
-These three words, spoken countless times by children on playgrounds and adults in boardrooms, reveal something profound about human nature. Whether it's a child protesting an unequal distribution of candy or an adult witnessing corruption in government, this instinctive cry emerges from the deepest part of our being. It's not learned behavior—it's written on our hearts.
+These three words, erupting from children's hearts before they can even tie their shoes, reveal something profound about human nature. This instinctive cry for justice emerges from the deepest part of our being. It's not learned behavior—it's written on our hearts by the God who IS justice.
 
 This universal cry for justice and our need for peace and harmony reveals that we are created for moral order, not chaos. Every human being, regardless of culture, education, or background, possesses an innate sense that things *ought* to be fair, that people *ought* to be treated with dignity, and that wrongs *ought* to be made right. Scripture suggests this isn't mere social conditioning—it's evidence of our creation in the image of God, who is perfectly just. As St. Paul explains, even those without the written law "show that the work of the law is written on their hearts, while their conscience also bears witness and their conflicting thoughts accuse or even defend them on the day when, according to my gospel, God will judge people’s hidden works through Christ Jesus." (Romans 2:15).
 
@@ -149,24 +153,24 @@ Meritorious justice recognizes that every person has inherent dignity and that v
 
 ### Why We Owe God Perfect Justice
 
-St. Thomas Aquinas, the Church's greatest theologian and philosopher, provides the systematic foundation for understanding why we have a duty to submit to God's authority and justice. As the master of Catholic theology, Aquinas demonstrates that this duty flows from three fundamental truths about reality itself:
+Why should we submit to God's authority? St. Thomas Aquinas offers a profound yet simple answer that any parent can understand:
 
-#### 1. God is the First Cause and Final End of All Things
+#### 1. God is Our Source and Destination
 
 <div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
 "God is the first principle and last end of all things."
 <span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">St. Thomas Aquinas, Summa Theologiae I, q. 2–3; I-II, q. 1, a. 8</span>
 </div>
 
-**Because God is our Creator, Sustainer, and Ultimate End, we owe Him everything.** Aquinas teaches that God is:
+Think of it this way: just as children naturally owe respect to the parents who gave them life, we have a fundamental duty to God because:
 
-- **The First Cause** - He brought us into existence from nothing
-- **The Sustainer** - He continually holds us in being at every moment
-- **Our Final End** - He is the one in whom perfect happiness consists
+- **He created us** - We exist only because He willed us into being
+- **He sustains us** - Every heartbeat, every breath depends on His continuing love
+- **He is our happiness** - We're made for Him, and only He can fulfill our deepest longings
 
-This means that **submitting to His authority is a matter of justice, because He is the source of all that we are and the end for which we were made.** We literally owe our existence, our purpose, and our fulfillment to Him. To rebel against God's justice would be like a painting rebelling against the artist, or a symphony refusing to follow the composer's score.
+**Our duty to God is not the burden of slaves to a tyrant, but the joyful obligation of children to a loving Father.** To reject God's authority would be like a river trying to flow uphill—going against our very nature.
 
-Again, we love God because He first loved us.
+This duty flows from justice itself: we owe God perfect justice because we owe Him everything. Again, we love God because He first loved us.
 
 #### 2. God's Authority Is Perfectly Good, True, and Just
 
@@ -256,11 +260,11 @@ Removing this type of teaching from our schools pulls the rug out from under the
 **This understanding reveals that all authentic rights carry corresponding duties, and both flow from the firm, objective justice of God.** Rights aren't arbitrary human inventions or social contracts—they emerge from the moral order that God has written into creation itself.
 
 When we ground justice in God's commandments applied universally to all image-bearers, we:
-- Prevent dehumanization by recognizing every person's sacred dignity
-- Stop utilitarian abuse by establishing duties we owe regardless of convenience
-- Defend the vulnerable by making their protection a divine command
-- Establish objective standards that reflect God's unchanging character
-- Create a foundation for justice that transcends cultural preferences
+- **Prevent dehumanization** by recognizing every person's sacred dignity
+- **Stop utilitarian abuse** by establishing duties we owe regardless of convenience
+- **Defend the vulnerable** by making their protection a divine command
+- **Establish objective standards** that reflect God's unchanging character
+- **Create a foundation for justice** that transcends cultural preferences
 
 **This is why the Church's social teaching is so powerful—it doesn't merely assert rights, but grounds them in the duties that flow from God's own justice toward His image-bearers.**
 

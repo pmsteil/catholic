@@ -87,7 +87,19 @@ This is the wonderful gift Paul gives us in warning us about sins that are deadl
 
 Paul warns us so that we can fulfill the perfect love God desires for us—avoiding mortal sin (sin that destroys our relationship with God) and hopefully maturing in faith so that the only sins we commit are venial sins.
 
-**Venial sin** is sin that wounds but does not destroy our relationship with God—like small arguments in a marriage that create tension but don't threaten the fundamental bond. Venial sins include things like minor dishonesty, small acts of selfishness, losing our temper briefly, or failing to pray when we intended to. These sins weaken our spiritual life and make us more susceptible to serious sin, but they don't cut us off from God's grace entirely.
+**Understanding the Two Types of Sin:**
+
+• **Mortal Sin:** Destroys our relationship with God completely
+  - Like infidelity that breaks a marriage covenant
+  - Examples: murder, adultery, apostasy, despair, blasphemy
+  - Requires three conditions: grave matter, full knowledge, deliberate consent
+  - Can only be forgiven through the Sacrament of Reconciliation
+
+• **Venial Sin:** Wounds but doesn't destroy our relationship with God
+  - Like small arguments that create tension but don't break the bond
+  - Examples: minor dishonesty, small selfishness, brief anger, missed prayers
+  - Weakens spiritual life and makes us vulnerable to serious sin
+  - Can be forgiven through prayer, acts of charity, and receiving the Eucharist
 
 This is God's plan for our spiritual growth: that we would mature from committing mortal sins (relationship-destroying) to committing only venial sins (relationship-wounding), and eventually, through the sacraments and daily grace, grow in such union with Christ that we sin less and less. This is how we can be perfect as Jesus and the Father are perfect:
 
@@ -97,6 +109,13 @@ This is God's plan for our spiritual growth: that we would mature from committin
 </div>
 
 This perfection isn't achieved through our own willpower alone, but through the sacramental life that channels God's grace into our souls, gradually transforming us from within until we truly love as Christ loves. Jesus calls us into His idea of a perfect, integrated love rather than our human idea that we must be without any sin whatsoever in order to be perfect.
+
+---
+
+## PART I: THE SACRAMENTS OF INITIATION
+*These three sacraments lay the foundation of Christian life*
+
+---
 
 ## The Sacramental Structure of Covenant Love
 
@@ -174,6 +193,13 @@ The Eucharist doesn't just renew our covenant with God—it strengthens every ot
 
 This is because the Eucharist is the source of all covenant love. Christ's perfect love, received in Holy Communion, becomes the power by which we love others with His own love. We cannot give what we do not have, but in the Eucharist, we receive the very love of God Himself.
 
+---
+
+## PART II: THE SACRAMENTS OF HEALING
+*These sacraments restore us when we are wounded by sin or illness*
+
+---
+
 **Reconciliation: God Welcomes Us Home**
 
 But what happens when we damage our relationship with God through sin? When we fail in our covenant commitments—whether to God, spouse, or community by offending God's truth, justice, mercy, and covenant—God provides the Sacrament of Reconciliation to restore communion within the existing covenant bond.
@@ -211,7 +237,14 @@ Perhaps then we would not need so many of these secular substitutes, and the spi
 - **Reconciliation: Mercy and Healing** — “When I am sorry, love restores.” They learn mercy heals relationships.
 - **Matrimony: Fidelity and Fruitfulness** — “Love stays and gives life.” They witness permanent, life‑giving commitment.
 - **Holy Orders: Service and Fatherhood** — “Love serves everyone.” Priests model sacrificial pastoral love.
-- **Anointing of the Sick: Hope and Care** — “God is with us when we suffer.” Love remains to the end.
+- **Anointing of the Sick: Hope and Care** — "God is with us when we suffer." Love remains to the end.
+
+---
+
+## PART III: THE SACRAMENTS OF SERVICE
+*These sacraments consecrate us to serve God's people*
+
+---
 
 ## Marriage: God Creates the Fundamental Human Covenant
 

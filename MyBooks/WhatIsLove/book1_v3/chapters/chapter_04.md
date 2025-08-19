@@ -210,7 +210,11 @@ This integration of our entire being in the practice of mercy reveals a sobering
 
 **Mercy and Purification:** God's mercy doesn't just forgive our sins—it purifies and heals the wounds that sin leaves behind. The Church teaches that Purgatory itself is an expression of God's mercy, not punishment. God loves us too much to leave us wounded by sin's effects. His mercy addresses both the eternal consequences of sin (through forgiveness) and the earthly consequences (through purification and healing). Even in this life, God's purifying mercy works through suffering united to Christ's passion, gradually healing our hearts and making us more capable of perfect love. We can extend this mercy to others by praying for the faithful departed and by allowing God to purify our own hearts through the trials He permits.
 
-**The Sacrament of Reconciliation: God's Mercy Made Tangible:** Jesus himself instituted this sacrament when he breathed on the apostles and said, "Receive the Holy Spirit. If you forgive the sins of any, they are forgiven them; if you withhold forgiveness from any, it is withheld" (John 20:22-23). He gave his Church "the ministry of reconciliation" (2 Corinthians 5:18), and Saint James instructs us to "confess your sins to one another and pray for one another, that you may be healed" (James 5:16). In the confessional, we experience mercy in three profound ways:
+**The Sacrament of Reconciliation: God's Mercy Made Tangible:**
+
+Jesus himself instituted this sacrament when he breathed on the apostles and said, "Receive the Holy Spirit. If you forgive the sins of any, they are forgiven them; if you withhold forgiveness from any, it is withheld" (John 20:22-23). He gave his Church "the ministry of reconciliation" (2 Corinthians 5:18), and Saint James instructs us to "confess your sins to one another and pray for one another, that you may be healed" (James 5:16).
+
+In the confessional, we experience mercy in three profound ways:
 
 • **We receive mercy for our own sins:** When we confess our sins, we experience God's mercy toward us. The priest, acting *in persona Christi*, speaks the words of absolution that make God's forgiveness tangible and certain.
 
