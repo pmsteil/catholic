@@ -113,7 +113,7 @@ Before we examine how great minds have tried to define love, let's look at an un
 
 **Love Requires Truth.** A child discovering their parent lied feels betrayed at the core. They know love and deception cannot coexist.
 
-**Love Demands Justice.** Children become furious at bullying because they know love means protecting the vulnerable. "That's not fair!" reveals their understanding that love requires standing up for what's right.
+**Love Demands Justice.** Children become furious at bullying because they know love means protecting the vulnerable. "That's not fair!" reveals their understanding that love requires standing up for what's right. When children see someone being treated unfairly, they instinctively cry out for justice—not because they've been taught to, but because their hearts recognize that every person deserves to be treated with dignity and respect. This natural sense of justice isn't learned behavior—it's written on every human heart as part of our divine image.
 
 **Love Shows Mercy.** When children break something precious, they cry out for mercy with genuine anguish, knowing they need forgiveness to restore the relationship.
 
@@ -265,6 +265,13 @@ This is why the Church and our Lord himself calls all Catholics to become Saints
 5. How has idolatry enslaved my ability to love, and where do I need Christ's liberation most?
 
 **Daily Practice:** Each day this week, when you encounter someone (family member, coworker, stranger), try to recognize the cry for love in their words and actions. Ask yourself: "What is this person's heart truly longing for? Is it justice, mercy, truth, covenant, sacrifice, or something else?" Then consider: "How can I respond with authentic love rather than a counterfeit?" Remember that your own liberation from idolatry enables you to help liberate others.
+
+**Practical Examples:**
+- When your spouse complains about work, they may be crying out for justice (recognition of their dignity) or mercy (understanding of their struggles). Respond with both: validate their experience AND offer compassionate support.
+- When your teenager rebels against rules, they're often crying out for truth (authentic understanding) and covenant (unconditional love despite behavior). Maintain boundaries (justice) while assuring them of permanent love (covenant).
+- When a coworker gossips, they may be crying out for communion (feeling excluded) or truth (wanting to understand situations). Redirect toward authentic connection without participating in detraction.
+- When someone cuts you off in traffic, remember they may be rushing to a hospital or facing a crisis. Choose mercy over revenge, prayer over cursing.
+- When a friend constantly seeks validation on social media, recognize the cry for authentic love that "likes" can never satisfy. Offer real presence and genuine affirmation.
 
 **Act of Contrition:** *My God, I am sorry for my sins with all my heart. In choosing to do wrong and failing to do good, I have sinned against You whom I should love above all things. I firmly intend, with Your grace, to do penance, to sin no more, and to avoid whatever leads me to sin. Our Savior Jesus Christ suffered and died for us. In His name, my God, have mercy. Amen.*
 

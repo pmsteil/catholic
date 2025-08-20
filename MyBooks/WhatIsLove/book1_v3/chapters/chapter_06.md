@@ -47,6 +47,12 @@ Children demonstrate pure understanding of sacrifice before adults complicate it
 
 **They protect without thinking.** An older child will stand between a younger sibling and something scary, their own fear forgotten in their desire to keep someone safe.
 
+**They comfort without being asked.** When a child sees another crying, they instinctively offer their favorite toy or a hug, understanding that love means easing another's pain.
+
+**They defend the weak.** Children will stand up to bullies to protect smaller or younger children, even when it puts them at risk.
+
+This natural understanding of sacrifice isn't limited to children—it's evident across all cultures and throughout human history. Anthropologists have documented that every human society recognizes the virtue of self-giving for others, whether it's sharing food with strangers, protecting the vulnerable, or giving up personal comfort for the good of the community. This universal recognition of sacrifice as a fundamental human good points to our shared nature as beings created in the image of a self-giving God.
+
 Children sacrifice naturally, without thinking of it as sacrifice. Their love simply overflows into action, unburdened by adult calculations of cost or reward.
 
 ## Why This Call to Sacrifice is Universal: Made in God's Image

@@ -240,6 +240,15 @@ If you want to fight against evil, you must be willing to pay the price of love.
 - Look for concrete opportunities to practice this virtue in your daily interactions
 - Examine your conscience each evening, noting both successes and failures in virtue
 
+**Practical Examples of Virtues in Action:**
+- **Faith in practice:** When facing a medical crisis, trust God's plan while also seeking proper medical care. Faith doesn't mean passivity—it means active trust while using the means God provides.
+- **Hope in practice:** When your adult child leaves the Church, maintain hope through persistent prayer and loving witness rather than despair or harsh judgment.
+- **Charity in practice:** When a difficult relative needs help, serve them with genuine love even when you don't feel like it. Love is a choice, not just an emotion.
+- **Prudence in practice:** Before posting on social media, consider: Is it true? Is it necessary? Is it kind? Will it build up or tear down?
+- **Justice in practice:** Pay fair wages promptly, return borrowed items in good condition, give honest work for honest pay, speak up for those without a voice.
+- **Temperance in practice:** Set limits on screen time, eat until satisfied not stuffed, drink responsibly, practice moderation in entertainment and spending.
+- **Fortitude in practice:** Stand up for your faith at work even when it's unpopular, persist in prayer when God seems silent, endure suffering without becoming bitter.
+
 **Weekly Practice:**
 - Study one virtue more deeply through Scripture, the Catechism, or the life of a saint
 - Discuss virtue with your family or friends, sharing insights and encouraging each other

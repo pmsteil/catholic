@@ -38,7 +38,9 @@ There's a sound that echoes through every generation, in every culture, across e
 Every child knows instinctively that cruelty is wrong. This universal moral clarity isn't learned—it's discovered. The natural law written on every human heart testifies that we are made for love, not evil, and this witness remains even when sophisticated adults try to explain it away.
 </div>
 
-Watch a five-year-old witness an act of cruelty, and you'll see something remarkable: immediate, instinctive moral clarity. They don't need a philosophy course to know that hurting someone innocent is wrong. This childlike moral clarity reflects the **natural law written on every human heart** (Romans 2:15). As the Second Vatican Council teaches, "Deep within his conscience man discovers a law which he has not laid upon himself but which he must obey. Its voice, ever calling him to love and to do what is good and to avoid evil, sounds in his heart at the right moment" (*Gaudium et Spes* 16).
+Watch a five-year-old witness an act of cruelty, and you'll see something remarkable: immediate, instinctive moral clarity. They don't need a philosophy course to know that hurting someone innocent is wrong. When children see a bully picking on a smaller child, they instinctively cry out, "That's not fair!" When they witness someone breaking a promise, they immediately recognize the betrayal. This childlike moral clarity reflects the **natural law written on every human heart** (Romans 2:15). As the Second Vatican Council teaches, "Deep within his conscience man discovers a law which he has not laid upon himself but which he must obey. Its voice, ever calling him to love and to do what is good and to avoid evil, sounds in his heart at the right moment" (*Gaudium et Spes* 16).
+
+This natural understanding isn't limited to children—it's evident in every culture throughout human history. Anthropologists have documented that every human society, regardless of religion or geography, recognizes basic moral truths: that it's wrong to kill the innocent, that promises should be kept, that the weak should be protected, that truth should be told. C.S. Lewis documented this in *The Abolition of Man*, showing how every major civilization—from ancient Egypt to China to Greece to India—developed remarkably similar moral codes. This universal moral sense points to our shared nature as beings created in God's image, with His law written on our hearts.
 
 ## The Nature and Scope of Moral Evil
 
@@ -149,9 +151,9 @@ Perfect love isn't just one solution among many—it's the comprehensive respons
 
 Perfect love is "the sacred, sacrificial gift of covenant, binding truth, justice, and mercy, gathering us into life-giving communion," and each aspect of this definition becomes a weapon against evil:
 
-**Truth** conquers the evil of deception and lies that keep souls in darkness and prevent authentic relationships.
+**Truth** conquers the evil of deception and lies that keep souls in darkness and prevent authentic relationships. Truth is the foundation upon which justice is built—we cannot give each person what they are truly due unless we first see them as they truly are, created in God's image with inherent dignity and worth.
 
-**Justice** conquers the evil of oppression and exploitation that treats human beings as objects rather than subjects worthy of what they are due based on their dignity as human beings created in the image of God.
+**Justice** conquers the evil of oppression and exploitation that treats human beings as objects rather than subjects worthy of what they are due based on their dignity as human beings created in the image of God. Justice flows from truth—once we recognize the truth about human dignity, we are compelled to treat each person with the respect and fairness they deserve.
 
 **Mercy** conquers the evil of hardness of heart and cycles of revenge that perpetuate suffering and prevent healing.
 

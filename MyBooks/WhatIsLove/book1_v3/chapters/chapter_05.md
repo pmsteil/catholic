@@ -85,7 +85,9 @@ Truth is not merely human opinion or cultural preference—it is the **conformit
 
 **The human heart**, made in God's image, naturally recognizes truth through conscience and reason. Deep down, every person knows the difference between what is real and what is false—between authentic love and mere pretense, between genuine identity and deception, between actual relationships and empty words. This isn't something we learn from books; it's written on our hearts by God Himself. Even people who have never heard of Jesus often recognize His voice in their conscience, calling them toward what is truly real rather than what merely appears to be real.
 
-**Salvation History** reveals God's truth through His mighty acts of love and redemption. From Abraham's call to Christ's resurrection, God has revealed His nature and plan through the progressive covenants—with Noah, Abraham, Moses, and David—each building toward the ultimate New Covenant in Jesus Christ. Through these historical events and covenant relationships, God demonstrates His faithfulness, justice, and mercy, culminating in Christ who is the fullness of divine revelation.
+**Salvation History** reveals God's truth through His mighty acts of love and redemption. From Abraham's call to Christ's resurrection, God has revealed His nature and plan through the progressive covenants—with Noah, Abraham, Moses, and David—each building toward the ultimate New Covenant in Jesus Christ.
+
+Think of these covenants like a parent teaching a child to ride a bike: first with training wheels (Noah's covenant of basic morality), then holding the seat (Abraham's covenant of faith), then letting go for short distances (Moses's covenant of law), then teaching advanced skills (David's covenant of kingdom), until finally the child rides freely (Christ's New Covenant of grace). Each earlier covenant prepared humanity for the next, and all find their fulfillment in Jesus, who doesn't abolish but perfects what came before. Through these historical events and covenant relationships, God demonstrates His faithfulness, justice, and mercy, culminating in Christ who is the fullness of divine revelation.
 
 **The Church**, established by Christ Himself, serves as *"the pillar and foundation of the truth"* (1 Timothy 3:15). Through the Magisterium guided by the Holy Spirit, the Church authoritatively interprets Sacred Scripture and thus creating a Sacred Tradition that helps us understand the truth of God's Perfect Love - and that the teachings must be "true" - coherent, logical, consistent and "real" in a way that matches reality and Scripture. The Church is the great "school of love" which teaches the "science of love" or the "law of Christ" (Galatians 6:2, Romans 7:25, Romans 8:2, Romans 10:4, 1 Corinthians 9:21).
 
@@ -125,7 +127,7 @@ This voluntary submission is itself an act of love—choosing to align our will 
 
 ## God's Threefold Revelation of Truth
 
-God has revealed truth to humanity through three complementary sources:
+Think of God's revelation like a three-legged stool—remove any leg and it becomes unstable. God has revealed truth to humanity through three complementary sources that work together:
 
 **Natural Law:** Written in the human heart and discernible through reason (Romans 2:14-15). This is why just about all cultures recognize basic moral truths like the wrongness of unjustified killing of innocents, care for children, reciprocal fairness, in-group cooperation, and respect for legitimate authority.
 

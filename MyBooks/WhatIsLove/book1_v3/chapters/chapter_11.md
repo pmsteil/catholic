@@ -25,6 +25,8 @@ I wasn't saying that fighting against oppression was wrong. I was trying to help
 
 This is the tragedy of our time: **good hearts being captured by counterfeit forms of love**. People genuinely want justice, mercy, truth, and authentic relationships. But they are being offered ideologies that promise these goods while delivering their opposites. The result is not love, but division, hatred, despair, and spiritual destruction.
 
+Before we examine these counterfeits, let's be clear: **people who embrace them are not evil**. They're searching for the same things we all seek—meaning, belonging, justice, and mercy. The problem isn't their hearts but the incomplete or distorted solutions they've been offered or lies they have been told. Our task isn't to condemn them but to understand what they seek, and then to offer a more complete and full solution that gets them there.
+
 <div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
     Counterfeits mimic parts of love while rejecting the whole—separating truth, justice, or mercy from the others.
 </div>

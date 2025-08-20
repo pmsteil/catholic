@@ -147,6 +147,26 @@ Meritorious justice recognizes that every person has inherent dignity and that v
 
 **God is perfectly just.** Justice flows from God's nature as the source of all moral order. As the Psalmist declares, "Justice and judgment are the foundation of your throne; mercy and faithfulness march before you" (Psalm 89:15). Moses confirms this truth: "The Rock—his work is perfect; yes, all his ways are just. A faithful God, without deceit, just and upright is he" (Deuteronomy 32:4). God's justice is not arbitrary but reflects His perfect knowledge of truth and His infinite love for creation. For without a justice that is firm, we cannot know "true love".
 
+**The Difference Between God's Justice and Worldly Justice:**
+
+God's justice is fundamentally different from the world's understanding of justice. Worldly justice often becomes distorted by human limitations and sin:
+
+*Worldly Justice:*
+- **Revenge-based:** "Eye for an eye" without mercy or restoration
+- **Power-based:** Justice serves the interests of the powerful
+- **Politicized:** Justice becomes a tool for advancing political agendas
+- **Inconsistent:** Different standards for different people based on wealth, status, or connections
+- **Shortsighted:** Focuses only on immediate consequences without considering long-term healing
+
+*God's Justice:*
+- **Truth-based:** Grounded in objective moral reality and human dignity
+- **Love-motivated:** Seeks the good of all parties—victim, perpetrator, and society
+- **Restorative:** Aims at healing and reconciliation, not just punishment
+- **Consistent:** Same standards for all people regardless of status or wealth
+- **Eternal:** Considers both temporal consequences and eternal implications
+
+For example, when a thief steals from a poor family, worldly justice might focus only on punishment or restitution. God's justice considers the dignity of both the victim (who deserves protection and restoration) and the perpetrator (who deserves consequences that lead to repentance and rehabilitation), while also addressing the social conditions that may have contributed to the crime.
+
 **Natural law written on hearts.** God has inscribed basic principles of justice on every human heart, which is why even those who don't know Scripture instinctively recognize certain actions as right or wrong. This universal moral sense proves that justice transcends cultural preferences.
 
 **Objective moral order.** Right and wrong exist independently of human opinion. Justice is not determined by majority vote or cultural consensus but by the truth about human nature and our relationship to God.

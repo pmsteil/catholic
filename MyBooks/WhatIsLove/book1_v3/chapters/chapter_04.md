@@ -162,7 +162,13 @@ True mercy seeks the authentic good of the other person (justice), which sometim
 
 Mercy can coexist with appropriate consequences. We can forgive someone while still maintaining healthy boundaries. We can show compassion while still seeking justice. We can pray for someone's conversion while still protecting ourselves and others from their harmful behavior. **St. John Paul II demonstrated this perfectly** when he not only forgave Mehmet Ali Ağca—the man who shot him in 1981—but later visited him in prison and maintained a relationship with him. The Pope didn't demand Ağca's release or suggest he shouldn't face justice. Instead, he showed that true mercy seeks the sinner's authentic good, which includes acknowledging the gravity of their actions and allowing them to face appropriate consequences.
 
-Mercy given without justice is not mercy at all—it's false compassion that enables sin to continue. Like a doctor who gives painkillers to someone with a serious infection instead of treating the underlying disease, such "mercy" may provide temporary comfort but allows the spiritual poison of sin to spread and cause greater harm.
+**Practical Examples of Mercy with Justice:**
+- **In Marriage:** A spouse who forgives adultery may still require counseling, transparency, and rebuilding of trust. Mercy doesn't mean pretending nothing happened—it means working toward healing while addressing the root causes.
+- **In Parenting:** A parent who discovers their teenager has been stealing must show mercy (not rejecting the child) while enforcing consequences (returning stolen items, making amends, losing privileges). This teaches that actions have consequences while love remains constant.
+- **In Society:** A judge who shows mercy might reduce a sentence for someone who shows genuine remorse and makes restitution, but still requires accountability. Restorative justice programs combine mercy with responsibility.
+- **In the Church:** The Sacrament of Reconciliation requires confession and penance—mercy flows through acknowledgment and amendment, not denial or minimization of sin.
+
+Mercy given without justice is not mercy at all—it's false compassion that enables sin to continue. Like a doctor who gives painkillers to someone with a serious infection instead of treating the underlying disease, such "mercy" may provide temporary comfort but allows the spiritual poison of sin to spread and cause greater harm. True mercy, like true medicine, sometimes requires painful but necessary treatment for genuine healing.
 
 ## Mercy Toward the Unrepentant
 
