@@ -307,19 +307,19 @@ The book successfully achieves its goal of presenting a comprehensive understand
 
 ---
 
-## 🌊 Wave 3 – Style & Voice ⬜ NOT STARTED
+## 🌊 Wave 3 – Style & Voice 🟨 IN PROGRESS
 
-- ⬜ **Consistency of Voice**
-  - Is the tone consistent (pastoral, theological, persuasive)?
-  - Does the book ever sound dry, preachy, or too academic?
+- 🟨 **Consistency of Voice**
+  - Is the tone consistent (pastoral, theological, persuasive)? **ASSESSMENT: The tone varies between academic theological exposition and pastoral guidance. Chapters 1-2 have been edited to be more engaging and visceral.**
+  - Does the book ever sound dry, preachy, or too academic? **YES - Some sections, particularly philosophical discussions (Aquinas) and theological definitions, can be dense. Working to make these more accessible through concrete imagery and direct address.**
 
-- ⬜ **Engagement & Impact**
-  - Does the prose hold interest throughout?
-  - Where does it drag or lose the reader's attention?
+- 🟨 **Engagement & Impact**
+  - Does the prose hold interest throughout? **PARTIALLY - Strong theological content but needs more consistent narrative drive and emotional engagement**
+  - Where does it drag or lose the reader's attention? **Extended theological explanations, repetitive definitions of perfect love, and abstract philosophical sections**
 
-- ⬜ **Imagery & Examples**
-  - Are metaphors, analogies, or stories used effectively?
-  - Suggest replacements if stale or unclear.
+- 🟨 **Imagery & Examples**
+  - Are metaphors, analogies, or stories used effectively? **IMPROVING - Chapters 1-2 now have more vivid, concrete examples. Remaining chapters need similar treatment**
+  - Suggest replacements if stale or unclear. **IN PROGRESS - Replacing abstract concepts with visceral, relatable imagery**
 
 ---
 
@@ -363,7 +363,10 @@ The book successfully achieves its goal of presenting a comprehensive understand
   - **Strengths:** Theologically sound framework with coherent integration of all love's facets. Strong sacramental theology and Christocentric approach throughout. Extensive use of Scripture, Catechism, and Church documents.
   - **Areas for improvement:** Strengthen evidence for natural theology claims, provide more balanced counterfeit analysis, add concrete practical examples, clarify some theological relationships.
   - **Key insight:** The book successfully achieves its goal of presenting comprehensive understanding of perfect love that is both theologically sound and practically applicable.
-- **[Date: ____ ] Wave 3:** Notes, decisions, and major changes made.
+- **[Date: Dec 28, 2024] Wave 3:** Style and voice editing begun.
+  - **Chapters 1-2 Edited:** Transformed opening sections from abstract theological exposition to visceral, immediate prose. Added concrete imagery (mother weeping, father receiving divorce papers, etc.) to replace statistics. Changed passive academic voice to direct, urgent address. Replaced philosophical abstractions with lived experiences.
+  - **Key Changes:** More use of second-person "you" to create immediacy. Shorter, punchier sentences for impact. Concrete scenes instead of abstract descriptions. Questions to engage reader directly. Emotional hooks before theological exposition.
+  - **Remaining Work:** Chapters 3-13 need similar treatment. Focus on maintaining pastoral warmth while increasing narrative urgency. Balance theological depth with accessibility. Ensure consistent voice throughout.
 - **[Date: ____ ] Wave 4:** Notes, decisions, and major changes made.
 - **[Date: ____ ] Wave 5:** Final polish and corrections completed.
 

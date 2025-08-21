@@ -32,6 +32,20 @@ Every facet of love we have examined finds its ultimate expression and fulfillme
     The Cross reveals love's perfect sacrifice; the Resurrection reveals love's perfect victory. Together they manifest perfect love.
 </div>
 
+## The Answer Fulfilled
+
+In Chapter 1, we discovered humanity's desperate need for someone who could be everything we couldn't be for ourselves. In Chapter 2, we learned that Jesus Christ is that someone—perfect love incarnate. But it's here, in the Paschal Mystery of His death and resurrection, that we see HOW He fulfills every requirement:
+
+- As the **perfect lawgiver**, He doesn't abolish the law but fulfills it completely through love: "Do not think that I have come to abolish the law or the prophets; I have come not to abolish but to fulfill" (Matthew 5:17)
+- As the **perfect teacher**, He teaches not just with words but through His own sacrificial example on the Cross
+- He shows us **truth** (revealing both human sin and divine love), **justice** (satisfying the debt of sin), and **mercy** (forgiving even His executioners)
+- He **understands our suffering** because He experienced betrayal, abandonment, torture, and death
+- We can **relate to Him** because He wept, He suffered, He cried out "My God, my God, why have you forsaken me?"—yet never sinned
+- He provides **divine grace** through His sacrifice, opening the floodgates of sanctifying grace through the sacraments
+- He demonstrates **perfect love** by dying for us while we were still sinners (Romans 5:8)
+
+The Cross and Resurrection aren't just historical events—they're the moment when every human need meets its divine answer. Here, the Author of all reality rewrites our tragic story with His own blood, transforming it into the greatest love story ever told.
+
 ## How Adults Make the Cross Clear to Children
 
 Unlike the natural virtues we explored in previous chapters, the Cross and Resurrection represent revealed truths that children cannot understand instinctively. The mystery of God's love poured out for our salvation must be taught, explained, and most importantly, **lived out** by the adults who love them.
