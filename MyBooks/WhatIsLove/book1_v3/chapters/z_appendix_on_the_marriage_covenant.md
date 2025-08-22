@@ -1,4 +1,4 @@
-# Appendix: The Marriage Covenant - Defending God's Plan for Human Love
+# Appendix: The Marriage Covenant—Defending God's Plan for Human Love
 
 <div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
 "Have you not read that he who created them from the beginning made them male and female, and said, 'Therefore a man shall leave his father and his mother and hold fast to his wife, and the two shall become one flesh'? So they are no longer two but one flesh. What therefore God has joined together, let not man separate."
@@ -49,23 +49,23 @@ Many good people today struggle to understand why the Catholic Church cannot rec
 
 The Church's understanding of marriage is based on several unchangeable realities:
 
-- **Marriage images God's relationship with humanity:** Just as God (masculine) pours life into creation (feminine), marriage requires the complementarity of male and female to image this divine relationship
-- **Covenant love is ordered toward new life:** Same-sex unions, while they may involve genuine affection, cannot fulfill marriage's essential ordering toward procreation and the raising of children
-- **Natural law reveals marriage's structure:** The complementarity of male and female is written into human nature itself, not merely cultural convention that can be changed
-- **Sacramental requirements:** A sacrament must use the proper matter and form established by Christ—the union of one man and one woman
+- **Marriage images God's relationship with humanity:** Just as God (masculine) pours life into creation (feminine), marriage requires the complementarity of male and female to image this divine relationship.
+- **Covenant love is ordered toward new life:** Same-sex unions, while they may involve genuine affection, cannot fulfill marriage's essential ordering toward procreation and the raising of children.
+- **Natural law reveals marriage's structure:** The complementarity of male and female is written into human nature itself, not merely cultural convention that can be changed.
+- **Sacramental requirements:** A sacrament must use the proper matter and form established by Christ—the union of one man and one woman.
 
 As the Catechism teaches: "The matrimonial covenant, by which a man and a woman establish between themselves a partnership of the whole of life, is by its nature ordered toward the good of the spouses and the procreation and education of offspring" (CCC 1601).
 
 This teaching comes from love—both love for the truth about human nature and love for all people, including those with same-sex attraction, who deserve to understand God's beautiful plan for human sexuality and relationships.
 
-### Cohabitation - Counterfeit Covenant
+### Cohabitation—Counterfeit Covenant
 
 "Living together" without marriage fails to create authentic covenant love because it lacks:
-- **Permanent commitment:** The relationship remains conditional and temporary
-- **Public witness:** No community accountability or support
-- **Sacred bond:** No sacramental grace to strengthen the relationship
-- **Ordered toward children:** Often deliberately closed to new life
-- **True security:** Children suffer from the instability of uncommitted relationships
+- **Permanent commitment:** The relationship remains conditional and temporary.
+- **Public witness:** No community accountability or support.
+- **Sacred bond:** No sacramental grace to strengthen the relationship.
+- **Ordered toward children:** Often deliberately closed to new life.
+- **True security:** Children suffer from the instability of uncommitted relationships.
 
 Pope John Paul II warned in *Familiaris Consortio*: "Marriage is not merely a human institution despite the many variations it may have undergone through the centuries in different cultures, social structures and spiritual attitudes."
 
@@ -73,21 +73,21 @@ Pope John Paul II warned in *Familiaris Consortio*: "Marriage is not merely a hu
 
 Contraception fundamentally undermines covenant love by:
 
-- **Rejecting fruitfulness:** It deliberately closes the covenant to its natural end—new life
-- **Separating love from life:** It breaks the connection between the unitive and procreative meanings of marriage
-- **Creating utilitarian mindset:** It treats fertility as a disease to be prevented rather than a gift to be received
-- **Undermining permanence:** It makes marriage about adult satisfaction rather than covenant commitment
-- **Harming children:** Pope Paul VI prophetically warned in *Humanae Vitae* that contraception would lead to increased divorce, infidelity, and the objectification of women
+- **Rejecting fruitfulness:** It deliberately closes the covenant to its natural end—new life.
+- **Separating love from life:** It breaks the connection between the unitive and procreative meanings of marriage.
+- **Creating utilitarian mindset:** It treats fertility as a disease to be prevented rather than a gift to be received.
+- **Undermining permanence:** It makes marriage about adult satisfaction rather than covenant commitment.
+- **Harming children:** Pope Paul VI prophetically warned in *Humanae Vitae* that contraception would lead to increased divorce, infidelity, and the objectification of women.
 
 ### Civil Divorce vs. Sacramental Bond
 
 Understanding the distinction between covenant bond and lived communion helps explain the Church's teaching on divorce:
 
-- **Civil divorce** may sometimes be necessary for legal protection, especially of children
-- **The sacramental bond** remains intact regardless of civil proceedings
-- **Estranged but not divorced:** Spouses may live separately while remaining married, just as we can be estranged from God through sin while remaining His covenant children
-- **Hope for restoration:** The permanent bond provides the foundation for reconciliation and healing
-- **Remarriage impossibility:** Since the first marriage bond persists, attempted remarriage constitutes adultery
+- **Civil divorce** may sometimes be necessary for legal protection, especially of children.
+- **The sacramental bond** remains intact regardless of civil proceedings.
+- **Estranged but not divorced:** Spouses may live separately while remaining married, just as we can be estranged from God through sin while remaining His covenant children.
+- **Hope for restoration:** The permanent bond provides the foundation for reconciliation and healing.
+- **Remarriage impossibility:** Since the first marriage bond persists, attempted remarriage constitutes adultery.
 
 ## The Scandal of Broken Covenant
 
@@ -99,9 +99,9 @@ When marriage is treated as a disposable contract rather than a sacred covenant,
 - The understanding that love requires sacrifice and commitment
 
 **The Devastating Statistics:**
-- Children of divorce are twice as likely to divorce themselves
-- Children from broken homes show higher rates of depression, anxiety, and behavioral problems
-- The breakdown of marriage correlates directly with increases in poverty, crime, and social dysfunction
+- Children of divorce are twice as likely to divorce themselves.
+- Children from broken homes show higher rates of depression, anxiety, and behavioral problems.
+- The breakdown of marriage correlates directly with increases in poverty, crime, and social dysfunction.
 
 **What Children Need from Covenant Love:**
 
@@ -116,11 +116,11 @@ When marriage is treated as a disposable contract rather than a sacred covenant,
 When parents fail to live covenant love, they create a devastating cycle that perpetuates evil across generations. Children who experience broken covenant love learn distorted lessons about relationships:
 
 **The Wounds of Broken Covenant:**
-- **Abandonment** teaches that love is unreliable and conditional
-- **Infidelity** teaches that promises can be broken when convenient
-- **Divorce** teaches that commitment is temporary and optional
-- **Cohabitation** teaches that love doesn't require permanent commitment
-- **Contraception** teaches that fertility is a burden rather than a blessing
+- **Abandonment** teaches that love is unreliable and conditional.
+- **Infidelity** teaches that promises can be broken when convenient.
+- **Divorce** teaches that commitment is temporary and optional.
+- **Cohabitation** teaches that love doesn't require permanent commitment.
+- **Contraception** teaches that fertility is a burden rather than a blessing.
 
 These wounds create adults who struggle to make and keep covenant commitments, perpetuating the cycle of broken love.
 
@@ -144,49 +144,49 @@ Marriage exists primarily for the love and protection of children. While the lov
 
 For families wounded by divorce, abandonment, or broken covenant love, healing is possible through God's grace. Parents who have experienced broken covenant can still model authentic love for their children by:
 
-- **Acknowledging failures** without making excuses or blaming others
-- **Seeking reconciliation** where possible, even if restoration isn't achievable
-- **Living faithfully** in their current state, whether single, remarried, or separated
-- **Teaching truth** about authentic love, even when their own lives haven't perfectly reflected it
-- **Modeling permanence** that teaches children love is reliable
-- **Demonstrating fidelity** that shows children promises can be kept
-- **Providing security** that allows children to develop healthy attachment
-- **Teaching sacrifice** that prepares children for the cost of authentic love
-- **Pointing to God's covenant** as the ultimate source of healing and hope
+- **Acknowledging failures** without making excuses or blaming others.
+- **Seeking reconciliation** where possible, even if restoration isn't achievable.
+- **Living faithfully** in their current state, whether single, remarried, or separated.
+- **Teaching truth** about authentic love, even when their own lives haven't perfectly reflected it.
+- **Modeling permanence** that teaches children love is reliable.
+- **Demonstrating fidelity** that shows children promises can be kept.
+- **Providing security** that allows children to develop healthy attachment.
+- **Teaching sacrifice** that prepares children for the cost of authentic love.
+- **Pointing to God's covenant** as the ultimate source of healing and hope.
 
 When parents live authentic covenant love, they heal not only their own relationship but also the wounds of previous generations, creating a legacy of love that will bless their children and grandchildren.
 
 ## Practical Applications for Marriage
 
 ### For Engaged Couples:
-- Understand marriage as a covenant, not a contract
-- Prepare for permanent commitment, not just a wedding
-- Learn about Natural Family Planning as an expression of covenant love
-- Seek pre-marriage counseling that addresses covenant expectations
-- Choose a spouse who understands and embraces covenant love
+- Understand marriage as a covenant, not a contract.
+- Prepare for permanent commitment, not just a wedding.
+- Learn about Natural Family Planning as an expression of covenant love.
+- Seek pre-marriage counseling that addresses covenant expectations.
+- Choose a spouse who understands and embraces covenant love.
 
 ### For Married Couples:
-- Renew your wedding vows regularly, both formally and in daily choice
-- Reject contraception and embrace the fruitfulness of marriage
-- Prioritize your marriage relationship as the foundation of your family
-- Seek help when struggling rather than considering divorce
-- Model covenant fidelity for your children through your treatment of each other
-- Remember that your marriage is a sacrament, not just a human relationship
+- Renew your wedding vows regularly, both formally and in daily choice.
+- Reject contraception and embrace the fruitfulness of marriage.
+- Prioritize your marriage relationship as the foundation of your family.
+- Seek help when struggling rather than considering divorce.
+- Model covenant fidelity for your children through your treatment of each other.
+- Remember that your marriage is a sacrament, not just a human relationship.
 
 ### For Divorced Catholics:
-- Understand that civil divorce doesn't dissolve the sacramental bond
-- Seek Church guidance about your situation through a qualified priest or deacon
-- Consider pursuing a declaration of nullity if there are grounds
-- Focus on living faithfully in your current state
-- Avoid remarriage without proper Church approval
-- Work to heal the wounds caused by broken covenant
+- Understand that civil divorce doesn't dissolve the sacramental bond.
+- Seek Church guidance about your situation through a qualified priest or deacon.
+- Consider pursuing a declaration of nullity if there are grounds.
+- Focus on living faithfully in your current state.
+- Avoid remarriage without proper Church approval.
+- Work to heal the wounds caused by broken covenant.
 
 ### For Single Catholics:
-- Prepare for marriage by learning to make and keep commitments
-- Practice covenant love in friendships and family relationships
-- Support married couples in your community
-- If called to religious life, embrace those covenant vows
-- Defend the truth about marriage in a culture that attacks it
+- Prepare for marriage by learning to make and keep commitments.
+- Practice covenant love in friendships and family relationships.
+- Support married couples in your community.
+- If called to religious life, embrace those covenant vows.
+- Defend the truth about marriage in a culture that attacks it.
 
 ## Resources for Further Study
 

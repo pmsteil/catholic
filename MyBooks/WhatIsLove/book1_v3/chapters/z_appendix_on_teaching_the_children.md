@@ -25,13 +25,13 @@
 <span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">— Catechism of the Catholic Church 2226</span>
 </div>
 
-*"Worldview is developed between the ages of 18 months and 13 years. According to George Barna, by the time a teenager is 13 or 14, it's done. It may be refined a bit through the teen years, but by one's 20s, not only is worldview solid, but most people become an evangelist for their view."*
+"Worldview is developed between the ages of 18 months and 13 years. According to George Barna, by the time a teenager is 13 or 14, it's done. It may be refined a bit through the teen years, but by one's 20s, not only is worldview solid, but most people become an evangelist for their view."
 — George Barna, Research on Worldview Formation¹
 
-*"Complete deprivation, in particular, had 'even more far-reaching effects on character development and may entirely cripple the capacity to make relationships.'"*
+"Complete deprivation, in particular, had 'even more far-reaching effects on character development and may entirely cripple the capacity to make relationships.'"
 — John Bowlby, Attachment Theory Pioneer²
 
-*"Adults who were securely attached in childhood tend to have good self-esteem, strong romantic relationships, and the ability to self-disclose to others. Those with insecure attachments are more likely to struggle with trust and intimacy."*
+"Adults who were securely attached in childhood tend to have good self-esteem, strong romantic relationships, and the ability to self-disclose to others. Those with insecure attachments are more likely to struggle with trust and intimacy."
 — Modern Attachment Research³
 
 ---
@@ -50,13 +50,13 @@ Child development research reveals that children understand abstract concepts by
 
 These repeated experiences create what psychologists call "internal working models"—mental frameworks that help children understand how relationships work. When children experience authentic love consistently, their brains literally develop neural pathways that prepare them to recognize and receive divine love.
 
-**The Critical Research Finding:** George Barna's research shows that worldview is formed between ages 18 months and 13 years. By age 13 or 14, a child's fundamental understanding of how the world works—including how love works—is essentially set.¹ This means parents have roughly 12 years to lay the foundation for their child's capacity to understand and receive authentic love.
+**The Critical Research Finding:** George Barna's research shows that worldview is formed between ages 18 months and 13 years. By age 13 or 14, a child's fundamental understanding of how the world works—including how love works—is essentially set.¹ This means parents have roughly twelve years to lay the foundation for their child's capacity to understand and receive authentic love.
 
 The security, trust, and attachment children form with loving parents creates the emotional and cognitive foundation for understanding God as a loving Father. This is why children from stable, loving homes often find it easier to trust God, while children from broken or abusive homes may struggle with the concept of divine love—their internal working models have been shaped by different experiences.
 
 ### **The Attachment Foundation**
 
-John Bowlby's groundbreaking research on attachment theory reveals why early relationships are so crucial. As he documented, complete deprivation of love in early childhood has "far-reaching effects on character development and may entirely cripple the capacity to make relationships."
+John Bowlby's groundbreaking research on attachment theory reveals why early relationships are so crucial. As he documented, complete deprivation of love in early childhood has "far-reaching effects on character development and may entirely cripple the capacity to make relationships."²
 
 This isn't just about emotional health—it's about spiritual capacity. Children who experience secure attachment develop:
 - The ability to trust
@@ -195,9 +195,9 @@ This research reveals the immense responsibility and privilege of those who love
 
 When we truly understand what love means, we can help children grasp the profound mystery of the Paschal Mystery through our own lived witness. We become living explanations of divine love, making visible through our daily choices the same integration of truth, justice, mercy, sacrifice, and covenant that Jesus demonstrated on Calvary and validated through His Resurrection.
 
-The stakes could not be higher. As George Barna's research shows, we have roughly 12 years to lay this foundation. After that, the basic patterns are set. This is why the Church has always emphasized the crucial importance of Christian marriage and family life—not as one option among many, but as the primary school of love where children learn to recognize and receive the love of God.
+The stakes could not be higher. As George Barna's research shows, we have roughly twelve years to lay this foundation. After that, the basic patterns are set. This is why the Church has always emphasized the crucial importance of Christian marriage and family life—not as one option among many, but as the primary school of love where children learn to recognize and receive the love of God.
 
-*"The family is the first and vital cell of society... It is in the family that children learn the first and most important lessons about love, sacrifice, forgiveness, and faithfulness. What they learn there—or fail to learn—will shape their capacity for authentic relationships for the rest of their lives."*
+"The family is the first and vital cell of society... It is in the family that children learn the first and most important lessons about love, sacrifice, forgiveness, and faithfulness. What they learn there—or fail to learn—will shape their capacity for authentic relationships for the rest of their lives."
 — The wisdom of the Church on family life
 
 May we who have been entrusted with children understand the sacred nature of our calling and live in such a way that the children in our care grow up with hearts prepared to receive the perfect love revealed in Christ's Cross and Resurrection.
