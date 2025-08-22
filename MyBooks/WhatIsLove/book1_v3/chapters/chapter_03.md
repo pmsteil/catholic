@@ -70,7 +70,7 @@ Why does every culture, no matter how isolated, develop laws against murder, the
 
 Why do atheists and believers alike feel that bone-deep revulsion when they see a child abused?
 
-Justice isn't some human invention we vote on. It's not a social convention we can rewrite when convenient. It flows from something deeper—from the very nature of reality itself, written on every human heart through what philosophers since Aristotle have called "natural law."
+Justice isn't some human invention we vote on. It's not a social convention we can rewrite when convenient. It flows from something deeper—from the very nature of reality itself, written on every human heart through what philosophers since Aristotle have recognized as "natural law."
 
 <div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 23px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
 Natural law gives us the foundation, but divine revelation completes our understanding of true justice.
@@ -421,7 +421,7 @@ True justice demands mercy - because mercy ensures that our response is ordered 
 
 ## Jesus: The Perfect Integration of Justice and Mercy
 
-Watch how the Master handles impossible situations.
+Having established both the divine foundation of justice and its necessary integration with mercy, we can now see how Jesus perfectly demonstrates this synthesis in authentic love. Throughout the Gospels, we see Jesus embodying this perfect balance, never compromising either virtue while ensuring that each perfects the other.
 
 ### The Woman Caught in Adultery (John 8:1-11)
 

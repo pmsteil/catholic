@@ -317,24 +317,24 @@ When we truly understand this, everything changes. We see that we're not just tr
 **Practical Ways to Live Eucharistic Love:**
 
 **In the Home:**
-- Begin meals with gratitude, recognizing every meal as an echo of the Eucharistic feast
-- Practice "communion" at dinner by putting away phones and being truly present
-- Make Sunday Mass preparation a family ritual with prayer and preparation
+- Begin meals with gratitude as echoes of the Eucharist
+- Put away phones at dinner to practice true communion
+- Make Sunday Mass preparation a family ritual
 
 **At Work:**
-- Offer your work as a living sacrifice, uniting it with Christ's offering at Mass
-- When facing difficult colleagues, remember you both receive from the same cup
-- Practice "spiritual communion" during the day when you can't attend Mass
+- Offer your work as a living sacrifice
+- Remember difficult colleagues receive from the same cup
+- Practice spiritual communion throughout the day
 
 **In Relationships:**
-- See every act of forgiveness as participating in Christ's mercy received in Communion
-- Practice the "Eucharistic gaze"—looking at others as Christ looks at you
-- Before difficult conversations, recall the peace Christ gives in Communion
+- See forgiveness as sharing Christ's mercy
+- Look at others as Christ looks at you
+- Recall His peace before difficult conversations
 
 **In Suffering:**
-- Unite your sufferings with Christ's sacrifice made present in the Mass
-- When feeling alone, remember Christ's Real Presence dwelling within you
-- Visit Jesus in Adoration when struggling, bringing your burdens to His presence
+- Unite your pain with Christ's sacrifice
+- Remember His Real Presence within you
+- Bring your burdens to Adoration
 
 ## Further Study
 
