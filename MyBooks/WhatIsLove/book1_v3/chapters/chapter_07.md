@@ -19,16 +19,27 @@
 
 ## The Sacred Bond That Changes Everything
 
-<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
-"I take you, for my lawful wife/husband, to have and to hold, from this day forward, for better, for worse, for richer, for poorer, in sickness and in health, until death do us part."
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">— Traditional Wedding Vows</span>
-</div>
+"For better or worse."
 
-These words, spoken at countless wedding altars, represent one of the most profound acts of human love possible—the making of a covenant. But in our culture of disposable relationships and conditional commitments, we have largely forgotten what covenant love actually means. We treat marriage like a contract that can be broken when inconvenient, rather than a sacred bond that creates permanent family relationships.
+She's holding his hand in the hospital room. The man she married—the one who ran marathons, who lifted their kids onto his shoulders, who danced with her at their daughter's wedding—can't remember her name today. Alzheimer's has stolen everything except this: her promise.
 
-Why do so many relationships fail today? What's missing when couples who once promised "till death do us part" find themselves in divorce court just a few years later? Could it be that we've lost sight of what covenant love really means?
+"In sickness and in health."
 
-While the world around us often speaks of marriage failure and broken relationships, we witness something different in couples who truly understand and live covenant love. Across the world, we see marriages that have weathered decades of storms—not because they never faced tragedy, difficulties, or even betrayal of the wedding vows, but because they understood their bond as sacred and permanent. They understood that love is not just a feeling, but rooted in a deep commitment that enables them to transcend the complexities of human relationship. They were willing to sacrifice for the good of their marriage, for the good of their children, for the good of their community. These couples become living witnesses to the power of covenant love, showing their children and communities that authentic love is not just a beautiful ideal, but a lived reality that transforms both spouses and creates stable homes where children can flourish.
+He wheels her into chemotherapy for the third time this month. The woman he married—the one with the infectious laugh, the brilliant mind, the beauty that stopped him cold thirty years ago—weighs ninety pounds. The cancer is winning. But not against this: his vow.
+
+"Until death do us part."
+
+These aren't just words. They're the difference between love and everything else.
+
+In a world of prenups and escape clauses, of swipe-right relationships and "conscious uncoupling," we've forgotten what those words mean. We treat love like a contract—terms, conditions, exit strategies. But covenant? Covenant is different.
+
+Covenant says: I'm not going anywhere. Ever.
+Covenant says: This isn't about what I get. It's about what I give.
+Covenant says: We're family now. And family is forever.
+
+You know this is true. You've seen it. The couple married sixty years who still hold hands. The parent who never gives up on the addicted child. The friend who shows up when everyone else has left.
+
+That's not contract. That's covenant. And it changes everything.
 
 In our journey through the essential facets of authentic love, we have explored truth, justice, mercy, and sacrifice in the previous chapters. Now we discover that all of these virtues find their ultimate expression and fulfillment in covenant love—the sacred, binding commitment that creates permanent relationships ordered toward the good of others.
 
@@ -178,7 +189,14 @@ Because we are made in God's image, **we are created for covenant relationships*
 
 ## The Divine Pattern: God's Covenant History
 
-God's love has always been covenant love. From the very beginning, God has chosen to relate to humanity through covenants—sacred bonds that create family relationships rather than mere legal contracts. Each covenant reveals more of God's faithful love and establishes the pattern that all human covenant relationships must follow.
+Listen: God doesn't do contracts. He does covenants.
+
+Contracts are business. Covenants are family.
+Contracts protect interests. Covenants create bonds.
+Contracts have escape clauses. Covenants have "till death do us part."
+Contracts say "what's mine is mine." Covenants say "what's mine is yours."
+
+From the very beginning, God has chosen to relate to us not as a CEO to employees, not as a judge to defendants, but as a Father to children. Every covenant He makes is a family bond. And each one teaches us what real love looks like.
 
 **The Covenant with Adam and Eve: God's Original Family Bond**
 

@@ -36,7 +36,7 @@ Listen.
 
 Do you hear it? That sound echoing through hospital corridors and divorce courts, through abortion clinics and prison cells, through broken homes and hardened hearts?
 
-It's creation itself groaning—straining under the weight of something that was never meant to be there. Not just earthquakes and cancer, though those wound us deeply. No, this is something darker: the moral evil that erupts when human hearts choose destruction over creation, taking over giving, death over life.
+It's creation itself groaning—straining under the weight of something that was never meant to be. Not just earthquakes and cancer, though those wound us deeply. No, this is something darker: the moral evil that erupts when human hearts choose destruction over creation, taking over giving, death over life.
 
 ## The Reality Children See Clearly
 
@@ -46,9 +46,9 @@ Every child knows instinctively that cruelty is wrong. This universal moral clar
 
 Take a five-year-old to a playground. Watch what happens when one child pushes another off the swing.
 
-The witness—your five-year-old—doesn't pause to consider cultural relativism. She doesn't wonder if morality is subjective. Her whole being erupts in a single, clarion cry: "That's WRONG!"
+Your five-year-old doesn't pause to consider cultural relativism. She doesn't wonder if morality is subjective. Her whole being erupts in a single, clarion cry: "That's WRONG!"
 
-She knows. Not because someone taught her, but because it's written in the very fabric of her being. When children see a bully picking on a smaller child, they instinctively cry out, "That's not fair!" When they witness someone breaking a promise, they immediately recognize the betrayal. This childlike moral clarity reflects the **natural law written on every human heart** (Romans 2:15). As the Second Vatican Council teaches, "Deep within his conscience man discovers a law which he has not laid upon himself but which he must obey. Its voice, ever calling him to love and to do what is good and to avoid evil, sounds in his heart at the right moment" (*Gaudium et Spes* 16).
+She knows—not because someone taught her, but because it's written in the very fabric of her being. When children see a bully picking on a smaller child, they instinctively cry out, "That's not fair!" When they witness someone breaking a promise, they immediately recognize the betrayal. This childlike moral clarity reflects the **natural law written on every human heart** (Romans 2:15). As the Second Vatican Council teaches, "Deep within his conscience man discovers a law which he has not laid upon himself but which he must obey. Its voice, ever calling him to love and to do what is good and to avoid evil, sounds in his heart at the right moment" (*Gaudium et Spes* 16).
 
 This natural understanding isn't limited to children—it's evident in every culture throughout human history. Anthropologists have documented that every human society, regardless of religion or geography, recognizes basic moral truths: that it's wrong to kill the innocent, that promises should be kept, that the weak should be protected, that truth should be told. The pioneering work of anthropologists like Donald Brown identified over 300 "human universals," including moral concepts like distinguishing right from wrong, reciprocity, and empathy. This universal moral sense points to our shared nature as beings created in God's image, with His law written on our hearts.
 
@@ -66,9 +66,7 @@ Moral evil results from free choices to reject good. St. Augustine's profound in
 
 ## Sin: The Root of All Evil
 
-Sin isn't just "making mistakes"—it's the deliberate choice to reject authentic love and embrace what opposes it. Evil has no positive existence; it's the absence or distortion of good, like darkness is the absence of light.
-
-This brings us to the heart of the Catholic teaching on sin—and to the heart of why evil exists in our world. Sin is not merely "making mistakes" or "being imperfect"—it is the deliberate choice to reject love and embrace what is opposed to love. The Catechism of the Catholic Church defines sin as "an offense against reason, truth, and right conscience; it is failure in genuine love for God and neighbor caused by a perverse attachment to certain goods" (CCC 1849).
+Sin isn't just "making mistakes"—it's the deliberate choice to reject authentic love and embrace what opposes it. Evil has no positive existence; it's the absence or distortion of good, like darkness is the absence of light. The Catechism of the Catholic Church defines sin as "an offense against reason, truth, and right conscience; it is failure in genuine love for God and neighbor caused by a perverse attachment to certain goods" (CCC 1849).
 
 The Pattern of Sin vs. Love
 
@@ -82,7 +80,7 @@ Sin is choosing a PERCEIVED GOOD for OURSELVES at the expense of OTHERS.
 Love is choosing the TRUE GOOD of OTHERS at OUR expense.
 </div>
 
-And note the use of "the good" vs "a perceived good". True love always chooses (at least our best understanding) of what is "truly good" for the other.  Sin often chooses what we perceive to be good for ourselves, but usually it is a distorted or false understanding of what is good for us.  It violates the definition of love in some way - usually it is not based on truth, or is not just in some way, or it is not merciful or sacrificial in some way, etc.
+Note the distinction: "the good" versus "a perceived good." True love always chooses what is truly good for the other (at least our best understanding of it). Sin chooses what we perceive to be good for ourselves, but it's usually a distorted or false understanding. It violates the definition of love in some way—lacking truth, justice, mercy, or sacrifice.
 
 This is why sin inevitably produces evil—it creates harm by prioritizing self over others—while love produces healing by choosing sacrifice for others' benefit.
 
@@ -90,21 +88,21 @@ Every evil we see in our world—every act of violence, every betrayal, every in
 
 Look at the wreckage:
 
-- **Abortion**: A young woman sits in a clinic waiting room, convinced that ending her child's life is the "loving" thing to do. She's choosing a twisted mercy over the fierce love that would fight for both her and her baby's future.
+- **Abortion:** A young woman sits in a clinic waiting room, convinced that ending her child's life is the "loving" thing to do. She's choosing a twisted mercy over the fierce love that would fight for both her and her baby's future.
 
-- **Child abuse**: Behind closed doors, someone who should be a protector becomes a predator. They're choosing the sick thrill of power over the sacred trust of innocence.
+- **Child abuse:** Behind closed doors, someone who should be a protector becomes a predator. They're choosing the sick thrill of power over the sacred trust of innocence.
 
-- **Adultery**: In a hotel room across town, wedding rings hidden in pockets, two people choose twenty minutes of passion over twenty years of faithful love. Families shatter for a feeling that won't last the night.
+- **Adultery:** In a hotel room across town, wedding rings hidden in pockets, two people choose twenty minutes of passion over twenty years of faithful love. Families shatter for a feeling that won't last the night.
 
-- **Pornography**: At 2 AM, bathed in screen light, another soul chooses pixels over presence, fantasy over fidelity, using over union. Each click forges another link in the chain of addiction.
+- **Pornography:** At 2 AM, bathed in screen light, another soul chooses pixels over presence, fantasy over fidelity, using over union. Each click forges another link in the chain of addiction.
 
 - **Divorce**: "I just don't love you anymore," she says, as if love were a feeling that comes and goes like weather. Children become casualties of adults who never learned that love is a choice, not a chance.
 
-- **Gender ideology**: A teacher tells a confused eight-year-old that maybe she's really a boy, choosing ideological applause over the child's need for patient, truthful guidance through normal developmental confusion.
+- **Gender ideology:** A teacher tells a confused eight-year-old that maybe she's really a boy, choosing ideological applause over the child's need for patient, truthful guidance through normal developmental confusion.
 
-Every single evil—every one—begins with this same fatal move: A human heart looks at what God offers and says, "No thanks, I know better. I have a better way."
+Every single evil—every one—begins with this same fatal move: A human heart looks at what God offers and says, "No thanks. I know better."
 
-This is the anatomy of every sin: We trade what lasts for what doesn't. We give up peace for a thrill, trust for a secret, love for a feeling. And in that trade, we don't just hurt others—we reject the story God authored for us, insisting we can write a better one. But we're terrible authors. Our revisions always end in tragedy, choosing to become less than what the true Author created us to be.
+This is the anatomy of every sin: We trade what lasts for what doesn't. We give up peace for a thrill, trust for a secret, love for a feeling. And in that trade, we don't just hurt others—we reject the story God authored for us, insisting we can write a better one. But we're terrible authors. Our revisions always end in tragedy.
 
 ## Sin: The Root of All Evil
 
@@ -113,32 +111,32 @@ This is the anatomy of every sin: We trade what lasts for what doesn't. We give 
 <span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">Pope John Paul II, <em>Reconciliatio et Paenitentia</em> 15</span>
 </div>
 
-**What is Sin?** The Catechism teaches us that "sin is an offense against reason, truth, and right conscience; it is failure in genuine love for God and neighbor caused by a perverse attachment to certain goods" (CCC 1849). Every sin, whether it seems "small" or "great," is fundamentally a *choice* to reject authentic love—love of God, love of neighbor, or proper love of self.
+**What is Sin?** The Catechism teaches that "sin is an offense against reason, truth, and right conscience; it is failure in genuine love for God and neighbor caused by a perverse attachment to certain goods" (CCC 1849). Every sin, whether it seems "small" or "great," is fundamentally a *choice* to reject authentic love—love of God, love of neighbor, or proper love of self.
 
-**What is Evil?** Evil, by contrast, is not a choice but the *consequence* of sinful choices. As St. Augustine taught, evil is not a substance but a privation of good—it exists only as a corruption or absence of the good that should be there. Evil has no power on its own; it is always the result of someone choosing to reject love.
+**What is Evil?** Evil, by contrast, is not a choice but the *consequence* of sinful choices. As St. Augustine taught, evil is not a substance but a privation of good—it exists only as a corruption or absence of the good that should be there. Evil has no power on its own; it's always the result of someone choosing to reject love.
 
-**How Sin Creates Evil:** When we sin, we choose our own will over God's will, our own desires over the good of others, our own immediate gratification over what is truly good for us. These sinful choices then produce evil consequences:
+**How Sin Creates Evil:** When we sin, we choose our own will over God's will, our own desires over the good of others, our own immediate gratification over what is truly good. These sinful choices then produce evil consequences:
 
-- **Personal evil** comes from individual sins that further wound our own souls
-- **Relational evil** comes from sins against covenant bonds that break families and friendships
-- **Social evil** comes from collective sins that become embedded in systems and cultures
-- **Spiritual evil** comes from the fundamental sin of rejecting God Himself
+- **Personal evil** flows from individual sins that wound our own souls
+- **Relational evil** flows from sins against covenant bonds that break families and friendships
+- **Social evil** flows from collective sins that become embedded in systems and cultures
+- **Spiritual evil** flows from the fundamental sin of rejecting God Himself
 
 <div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
 "Original sin is the 'reverse side' of the Good News that Jesus is the Savior of all men, that all need salvation and that salvation is offered to all through Christ."
 <span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">Catechism of the Catholic Church 389</span>
 </div>
 
-**Why Sin Always Produces Evil:** Because we are created in the image of God and made for love, sin is always a choice against our own deepest nature. It promises happiness but delivers misery, promises freedom but delivers slavery, promises life but delivers death. The consequences of our sinful choices are devastatingly real: waves of pain, broken relationships, and cycles of suffering that ripple outward from every choice to reject love.
+**Why Sin Always Produces Evil:** Because we're created in the image of God and made for love, sin is always a choice against our own deepest nature. It promises happiness but delivers misery. Promises freedom but delivers slavery. Promises life but delivers death. The consequences are devastatingly real: waves of pain, broken relationships, and cycles of suffering that ripple outward from every choice to reject love.
 
-**The Gravity of Our Choices:** Understanding this relationship between sin and evil helps us see why the Church takes sin so seriously. It's not because God is a harsh judge looking to condemn us, but because sin literally destroys what we are made for—love, communion, happiness, peace. Every sin, no matter how "small" it may seem, contributes to the ocean of evil that drowns our world in suffering.
+**The Gravity of Our Choices:** Understanding this relationship between sin and evil reveals why the Church takes sin so seriously. It's not because God is a harsh judge looking to condemn us, but because sin literally destroys what we're made for—love, communion, happiness, peace. Every sin, no matter how "small" it seems, contributes to the ocean of evil drowning our world in suffering.
 
 <div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
 "Sin is before all else an offense against God, a rupture of communion with him. At the same time it damages communion with the Church."
 <span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">Catechism of the Catholic Church 1440</span>
 </div>
 
-Every sin is a public sin, a sin against the entire Body of Christ.
+Every sin is public—a wound to the entire Body of Christ.
 
 **What We Really Need:** This comprehensive understanding reveals the depth of our human predicament. We cannot simply "try harder" to be good people. Sin has wounded our nature so deeply that we need:
 

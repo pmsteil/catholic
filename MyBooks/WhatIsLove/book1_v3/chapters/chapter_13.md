@@ -19,13 +19,35 @@
 
 ## The Greatest Story Ever Told
 
-If you could know only one thing about the universe, about yourself, about the meaning of existence itself, it would be this: **God is perfect love, and He created you to share in that love forever.**
+Stop everything.
 
-This is the Good News—not just a nice religious idea, but the fundamental reality that explains everything: why you exist, why you long for love, why evil hurts so deeply, why nothing in this world fully satisfies, and why your heart was made for something infinite and eternal. As the psalmist cries, "As the deer pants for streams of water, so my soul pants for you, my God" (Psalm 42:1).
+Put down your defenses. Your doubts. Your distractions.
 
-The story begins before time itself, in the eternal communion of the Trinity—Father, Son, and Holy Spirit—living in perfect love. This love is not simply a feeling or emotion, but the very essence of God's being. It is **perfect love** in its fullness—sacred, sacrificial, covenantal, integrating truth, justice, and mercy in eternal communion. The Father eternally gives Himself completely to the Son, the Son eternally gives Himself completely to the Father, and their mutual love is so real, so personal, that He is the Holy Spirit—the Third Person of the Trinity. This is the perfect unity Jesus prayed for: "that all of them may be one, Father, just as you are in me and I am in you" (John 17:21).¹
+What if I told you that everything—every longing in your heart, every tear you've cried, every moment of joy, every ache for "more"—it all makes sense? What if there's a reason you can't shake that feeling that you were made for something greater?
 
-This divine love is not contained or selfish. Perfect love overflows, creates, gives life. And so God, in His infinite goodness, chose to create the universe as an act of pure love—not because He needed anything, but because love desires to share itself. He created you, specifically you, in His own image and likeness, with the capacity to know Him, love Him, and share in His eternal happiness.
+There is.
+
+And it's not complicated. It's not hidden in philosophy books or reserved for theologians. It's so simple a child can grasp it, yet so profound it will take eternity to explore:
+
+**God is perfect love, and He created you to share in that love forever.**
+
+That's it. That's everything. That's why you exist.
+
+Not "God tolerates you." Not "God might love you if you're good enough." Not "God has bigger things to worry about."
+
+God. Is. Love.
+
+And you—with all your flaws, failures, and fears—you were created to swim in an ocean of that love forever. To breathe it. To become it. To radiate it.
+
+This isn't a nice religious platitude. This is the fundamental reality of the universe. It explains everything: why you hunger for truth (because God is Truth). Why you rage at injustice (because God is Justice). Why you ache for mercy (because God is Mercy). Why you need real relationships (because God is Communion). Why nothing in this world—nothing—fully satisfies (because you were made for the Infinite).
+
+The story begins before time itself, in the eternal communion of the Trinity—Father, Son, and Holy Spirit—living in perfect love. Not lonely. Not incomplete. Perfect communion, perfect joy, perfect love. The Father eternally pours Himself out to the Son. The Son eternally receives and returns that love to the Father. And their love is so real, so personal, so alive that He IS—the Holy Spirit, the Third Person of the Trinity.
+
+And here's the miracle: This perfect love wasn't content to remain alone. Love, by its nature, overflows. Creates. Shares. Gives life.
+
+So God created. Not because He needed to. Because He wanted to. Because love desires to share itself.
+
+And He created you. Specifically you. On purpose. For a purpose.
 
 ## The Image of God: Your True Identity
 
@@ -37,11 +59,40 @@ This is your true dignity: you are a beloved child of God, created for eternal h
 
 ## The Problem: Sin and the Slavery of Lesser Loves
 
-But something went wrong. The first humans, Adam and Eve, faced a choice: trust God's word that eating from the tree of the knowledge of good and evil would bring death, or believe the serpent's lie that they would "be like God, knowing good and evil" (Genesis 3:5). They chose to grasp at divine knowledge and power for themselves rather than receive wisdom as a gift from God. They chose immediate gratification over patient trust, autonomous self-determination over loving dependence, the promise of becoming "like God" over the reality of being beloved children of God. In choosing the fruit, they chose themselves as the ultimate authority over good and evil rather than submitting to God as the source of all truth and goodness. This original sin damaged human nature, not by destroying the image of God within us, but by disordering our loves.²
+But here's where the story takes a dark turn.
 
-Now, instead of looking at all of God's creation and the moral law written in our hearts with gratitude, we experience what St. Paul describes: "I do not do the good I want to do, but the evil I do not want to do—this I keep on doing" (Romans 7:19). We tend to make created things into gods. We worship career over family, pleasure over purity, convenience over life, self over service. We seek our ultimate happiness in things that cannot provide it—what Scripture calls "the lust of the flesh, the lust of the eyes, and the pride of life" (1 John 2:16)—money, power, sexual pleasure, human approval, entertainment, comfort.
+You know something's wrong. You feel it every day. That gap between who you are and who you know you should be. That voice that whispers "not enough" no matter what you achieve. That ache that nothing seems to fill.
 
-This is the slavery of sin: being controlled by disordered loves, seeking our ultimate good in things that are only secondary goods. And because we were created for relationship with God Himself, nothing less than God can truly satisfy the deepest longings of our hearts. We become addicted to more—more pleasure, more success, more control, more stuff—but we're never fulfilled because we're seeking in creation what can only be found in the Creator.
+It started in a garden. A simple choice: Trust God or be your own god.
+
+"You will be like God," the serpent promised.
+
+And we bit. Hard.
+
+Not just Adam and Eve. You. Me. Every single day we bite that apple again. We choose the immediate over the eternal. The visible over the invisible. The creation over the Creator.
+
+And now? Now we're addicts.
+
+Addicted to control—but we can't even control ourselves.
+Addicted to pleasure—but it never satisfies.
+Addicted to approval—but it's never enough.
+Addicted to stuff—but we're emptier than ever.
+
+This is what sin does: It disorders our loves. We were made to love God above all things, and everything else in relation to Him. But sin flips the script. Now we love things and use God. We worship our careers and sacrifice our families. We serve our appetites and destroy our souls.
+
+Look around. Look at the wreckage:
+- The workaholic who gains the world but loses his children
+- The man or woman who seeks love in all the wrong beds
+- The society that kills its most vulnerable for convenience
+- The culture that calls evil good and good evil
+
+This is slavery. Not to some external force, but to our own disordered desires. As St. Paul cries out: "I do not do the good I want to do, but the evil I do not want to do—this I keep on doing" (Romans 7:19).
+
+And here's the terrifying truth: We can't fix ourselves. Every human solution fails because the problem is in the human heart. Politics can't save us. Education can't save us. Technology can't save us. Even religion—when it's just human effort to reach God—can't save us.
+
+We need something more. Someone more. We need Perfect Love to come and reorder our loves. We need the Supreme Good to free us from the tyranny of lesser goods.
+
+We need a Savior.
 
 This is precisely what the Ten Commandments address, beginning with the first and most fundamental: "You shall have no other gods before me" (Exodus 20:3). Every violation of God's commandments flows from making something other than God into our ultimate good—whether it's money, power, pleasure, or even our own will. This is why both the Old and New Covenants teach the same essential truth: "Love the Lord your God with all your heart, and with all your soul, and with all your mind" (Matthew 22:37; Luke 10:25-27; Deuteronomy 6:5 and many others!). This complete love of God with our whole being—heart, mind, and soul—is the antidote to the slavery of disordered loves.
 

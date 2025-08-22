@@ -19,27 +19,49 @@
 
 ## The Integration of All Love's Facets
 
-In our journey through the essential facets of authentic love, we have discovered a breathtaking truth at the heart of God's love as He has revealed it: **Love is not a single virtue but the perfect integration of all virtues, each absolutely necessary and completely dependent on the others.**
+Stop trying to love with just your heart.
 
-This is the revolution of the Gospel—that love requires **truth** because we cannot love what we do not truly know. We must see the Holy Trinity as He is (Creator, Redeemer, Sustainer), ourselves as we are, and our neighbors as they truly are: beloved children made in God's image. Without truth, our "love" becomes delusion, sentiment, or manipulation.
+You've been told "love is all you need." You've been told "follow your heart." You've been told love is a feeling, an emotion, something that just happens to you.
 
-But truth alone is not enough. Love demands **true justice**—not the world's justice that seeks revenge or maintains power, but God's justice that gives to each what they are truly due. And what has God revealed to us? That He loves us immensely—creating us in His image, pouring out His grace through creation, and promising us eternal communion with Him. True justice recognizes both our complete dependence on God and His freely given love, inviting us into true relationships. Without justice, love becomes permissiveness that enables evil.
+They lied.
 
-Yet justice without **true mercy** becomes cruelty. True mercy is not weakness or compromise with evil—it is strength that chooses reconciliation over revenge, healing over punishment, restoration over destruction. Mercy sees the truth of human brokenness and responds with justice tempered by compassion. You cannot have true justice without mercy, for unmerciful justice denies the truth of human weakness. You cannot have true mercy without justice, for unjust mercy denies the truth of human dignity and responsibility. They are inseparable facets of the same precious gem of love—each reflecting and requiring the other.
+Love isn't a feeling. It's not even a single thing. **Love is a symphony**—and if even one instrument is missing, the whole thing falls apart.
 
-All of this requires **sacrifice**—the costly self-gift that makes love real. Love is not merely feeling or intention; it is action that costs us something. Without sacrifice, our "love" remains in the realm of wishes and dreams, never becoming incarnate in the world.
+Think about it. You can't love someone you don't really know—that's **truth**.
+You can't love someone while treating them unfairly—that's **justice**.
+You can't love someone without forgiving their failures—that's **mercy**.
+You can't love someone without giving something up—that's **sacrifice**.
+You can't love someone with an escape plan—that's **covenant**.
 
-And all must be bound together by **covenant**—the permanent commitment that creates the secure space for truth, justice, mercy, and sacrifice to flourish. Without covenant, our love remains conditional, ready to flee when the cost becomes clear.
+Pull out any one thread and watch the whole fabric unravel.
+
+Try to love without truth? You're loving a fantasy.
+Justice without mercy? You're a tyrant.
+Mercy without justice? You're an enabler.
+Sacrifice without covenant? You're a martyr complex.
+Covenant without sacrifice? You're a liar.
+
+This is why relationships fail. This is why families fracture. This is why the world is drowning in loneliness despite being more "connected" than ever. We're trying to love with missing pieces.
 
 <div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
     Perfect love is the integration of truth, justice, and mercy—made real by sacrifice and secured by covenant.
 </div>
 
-**This is how we overcome the moral evil in our hearts.** The evil that whispers we can love without truth (living in delusion), or have justice without mercy (becoming tyrants), or show mercy without justice (enabling destruction), or love without sacrifice (remaining in selfishness), or commit without permanence (keeping our escape routes open).
+But here's the Good News that changes everything:
 
-Do you see it? This integrated love—this perfect harmony of truth, justice, mercy, sacrifice, and covenant—**this is the entire Bible**. This is the whole history of salvation. This is what God has been teaching humanity from the Garden to Golgotha. This is the Good News of Jesus Christ in its fullness.
+**God shows us what complete love looks like.**
 
-And where do we see this perfect integration most clearly? **On the Cross.** There, Jesus revealed the ultimate truth about God and humanity—that God is love and we are worth dying for. There, He satisfied perfect justice by taking upon Himself the debt we owed for sin. There, He poured out infinite mercy, forgiving even those who crucified Him. There, He made the ultimate sacrifice, laying down His life for His friends. And there, He established the New Covenant in His Body and Blood, the unbreakable bond that unites us to God forever. On the Cross, Jesus fulfilled all the law and the prophets, showing us that authentic love is not abstract theology but flesh and blood poured out. The Cross is love incarnate—every facet blazing forth in perfect unity.
+Look at the Cross. Really look at it.
+
+There's **truth**: "This is what sin costs. This is what love is worth."
+There's **justice**: Every debt paid. Every wrong addressed.
+There's **mercy**: "Father, forgive them."
+There's **sacrifice**: Blood. Breath. Everything.
+There's **covenant**: "It is finished"—not "I quit." Finished. Complete. Forever.
+
+The Cross isn't just where Jesus died. It's where He showed us that real love has all five dimensions working together. It's where abstract theology became flesh and blood and pain and victory.
+
+This is the entire Bible in one image. This is what God's been trying to tell us since Eden. This is why the Gospel is actually good news—not because God lowered His standards, but because He showed us what love really looks like and then gave us the power to live it.
 
 ## The Role of the Church
 

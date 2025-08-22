@@ -35,7 +35,7 @@ Three words. Simple enough for a child to ask. Profound enough to unravel everyt
 
 In Chapter 1, we stared into the abyss of evil—saw how it erupts from human hearts that choose selfishness over sacrifice, taking over giving, death over life. We discovered that perfect love is the only cure for this ancient disease.
 
-But that leaves us with a question that burns: If love is the answer, what exactly *is* love?
+But that leaves us with a burning question: What exactly *is* love?
 
 Look at our young people. Really look at them. That sixteen-year-old cutting herself in the bathroom isn't seeking pain—she's desperate to feel something real in a world of digital facades. That college student cycling through hookups isn't looking for sex—he's searching for connection in the only way our broken culture has taught him. That young woman starving herself isn't pursuing thinness—she's trying to control something, anything, in a life that feels utterly out of control.
 
@@ -53,11 +53,11 @@ Meanwhile, every screen screams the same message: Follow your heart! Live your t
 
 But here's what they don't tell you: When everyone puts themselves first, everyone ends up alone.
 
-These lies don't spontaneously generate. They flow from the poisoned wells of adult hearts—from the CEO dad who hasn't been to his daughter's recital in three years, from the wine-mom who needs three glasses to get through bedtime, from the pastor who preaches love but enables abuse, from the teacher who affirms confusion rather than offering clarity.
+These lies don't spontaneously generate. They flow from poisoned wells of adult hearts—from the CEO dad who hasn't been to his daughter's recital in three years, from the wine-mom who needs three glasses to get through bedtime, from the pastor who preaches love but enables abuse, from the teacher who affirms confusion rather than offering clarity.
 
 We've created a generation dying of thirst in a desert of our own making.
 
-This is the universal cry for love—the deepest longing of every human heart. And if we can't answer the question "What is love?" clearly and completely and live that out in our lives, we're failing the next generation just when they need us most.
+This is the universal cry for love—the deepest longing of every human heart. And if we can't answer the question "What is love?" clearly and completely—and live it out—we're failing the next generation when they need us most.
 
 <div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 23px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
 Every human heart carries the same hunger—not for counterfeits, but for the authentic love that only God can give. This isn't learned behavior; it's written into our very nature as beings made in the image of Love Himself.
@@ -69,11 +69,11 @@ We also hear cries in our society today for justice and mercy, which we will add
 
 Pay attention to your body for a moment.
 
-Feel that ache in your chest when you think about being truly, completely alone? That's not weakness—that's design. You were literally built for connection.
+Feel that ache in your chest when you think about being truly, completely alone? That's not weakness—that's design. You were built for connection.
 
 **The Body's Cry for Love:**
 
-A newborn, seconds old, placed on her mother's chest, immediately calms. Her heart rate stabilizes. Her breathing deepens. She doesn't know words like "love" or "safety," but her body knows: *This is home.*
+A newborn, seconds old, placed on her mother's chest immediately calms. Her heart rate stabilizes. Her breathing deepens. She doesn't know words like "love" or "safety," but her body knows: *This is home.*
 
 Watch a toddler fall and scrape his knee. He doesn't want a bandage first—he wants arms around him, a kiss on his forehead, someone to hold him while he cries. The wound is secondary; the need for loving presence is primary.
 
@@ -93,7 +93,7 @@ St. Paul knew this ache: "At present I know partially; then I shall know fully, 
 
 Here's how you know love is written on your soul:
 
-Think about the last time someone you loved died. That pain you felt—that wasn't just sadness. It was your soul screaming that something eternal had been touched by mortality, that a love which felt like it should last forever had been interrupted by death.
+Think about the last time someone you loved died. That pain you felt wasn't just sadness. It was your soul screaming that something eternal had been touched by mortality, that a love which should last forever had been interrupted by death.
 
 Jesus wept at Lazarus's tomb (John 11:35). The Son of God, who knew He was about to raise His friend from the dead, still wept. Why? Because grief is love's testimony that every human being is irreplaceable, that every loss leaves a hole in the universe that can never be filled by anyone else.
 
@@ -103,9 +103,9 @@ Your soul knows truths your mind hasn't learned yet: You were made for a love th
 Authentic love engages our entire being—body, mind, and soul—because we are created as integrated persons, not fragmented parts. When any dimension is neglected, love becomes distorted and ultimately fails to satisfy.
 </div>
 
-When these three dimensions work in harmony, we are able and desire to seek authentic love that honors the whole person. When they're disordered, we either become purely physical (using bodies without engaging hearts), coldly intellectual (analyzing love without experiencing it), or unrealistically spiritual (expecting perfection from imperfect human beings).
+When these three dimensions work in harmony, we're able to seek authentic love that honors the whole person. When they're disordered, we either become purely physical (using bodies without engaging hearts), coldly intellectual (analyzing love without experiencing it), or unrealistically spiritual (expecting perfection from imperfect human beings).
 
-This integration of love within our heart, mind, and soul is not accidental—it flows from the very nature of our being. This is precisely why Jesus, when asked about eternal life, points the scholar of the law back to love as the means to eternal communion with God. "Teacher, what must I do to inherit eternal life?" Jesus said to him, "What is written in the law? How do you read it?" He said in reply, "You shall love the Lord, your God, with all your heart, with all your being, with all your strength, and with all your mind, and your neighbor as yourself. He replied to him, "You have answered correctly; do this and you will live." (Luke 10:25-28)
+This integration of love within our heart, mind, and soul is no accident—it flows from the very nature of our being. This is precisely why Jesus, when asked about eternal life, points the scholar of the law back to love as the means to eternal communion with God. "Teacher, what must I do to inherit eternal life?" Jesus said to him, "What is written in the law? How do you read it?" He said in reply, "You shall love the Lord, your God, with all your heart, with all your being, with all your strength, and with all your mind, and your neighbor as yourself. He replied to him, "You have answered correctly; do this and you will live." (Luke 10:25-28)
 
 ## Why This Longing is Universal: Made in the Image of God
 
@@ -134,7 +134,7 @@ Being made in God's image means we share certain qualities that make us fundamen
 - **We long for the infinite (soul)**—no finite good can fully satisfy us
 - **We are called to communion (body, mind, and soul)**—designed for relationship with God and others
 
-These are the heart, mind and soul all working together to know, choose, and love.
+This is the heart, mind, and soul working together to know, choose, and love.
 
 This is why the cry for love is universal. Every human heart knows instinctively that we're made for something more than mere survival or pleasure. We're made for love because we're made in the image of Love Himself.
 
@@ -200,7 +200,7 @@ Rather, to be "perfect" in our love for God and neighbor, we need to understand 
 
 Every word matters:
 
-**Sacred:** God is Love. Love participates in the divine nature and reflects God's own love. Because every human person is created in God's image, love is never merely human emotion but a participation in the very life of God. When we love another person, we're honoring the divine image within them and expressing our own divine calling.  We must go to the source of love to find it, know it and live it.
+**Sacred:** God is Love. Love participates in the divine nature and reflects God's own love. Because every human person is created in God's image, love is never merely human emotion but a participation in the very life of God. When we love another person, we're honoring the divine image within them and expressing our own divine calling. We must go to the source of love to find it, know it, and live it.
 
 **Sacrificial:** Love is ordered toward the true, just and merciful good of the other. It's not mere sentiment but proven through action that puts another's wellbeing before our own preferences. As Jesus taught, "No one has greater love than this, to lay down one's life for one's friends" (John 15:13). Love runs into the burning building, stays up all night with a sick child, forgives even the unrepentant, and puts the needs of others before our own.
 
@@ -212,13 +212,13 @@ Every word matters:
 
 **Justice:** Love gives to our Creator and each person what they are due based on the truth and dignity as image-bearers of God. It provides objective standards and prevents love from becoming mere sentiment. Love is 100% just.
 
-**and:** - the and binds truth, justice and mercy together. All three are required!
+**and:** The "and" binds truth, justice, and mercy together. All three are required!
 
 **Mercy:** Love goes beyond what is due, offering forgiveness and second chances. It provides compassion when justice alone would crush. Love is 100% merciful.
 
-**gathering us into:** God's love gathers us into His Kingdom. We are called to be His Kingdom on earth, servants of His love to fight against evil and build up the Kingdom of God.
+**gathering us into:** God's love gathers us into His Kingdom. We're called to be His Kingdom on earth, servants of His love to fight against evil and build up the Kingdom of God.
 
-**Life-giving Communion:** Love creates authentic relationship and community and life. It builds up rather than tears down, unites rather than divides, and generates new life and hope. Love is 100% life-giving.
+**Life-giving Communion:** Love creates authentic relationship, community, and life. It builds up rather than tears down, unites rather than divides, and generates new life and hope. Love is 100% life-giving.
 
 When all these elements are present together, love becomes perfect—capable of conquering all forms of evil and creating authentic communion between persons. This is what children instinctively understand, what the saints lived, and what Jesus demonstrated perfectly on the cross.
 
@@ -228,7 +228,7 @@ Perfect love is the sacred, sacrificial gift of covenant, binding truth, justice
 
 This isn't just a definition—it's the complete answer to the problem of evil itself.
 
-You can see from these facets of love that people understand bits and pieces of this and live these things out imperfectly. This is why we struggle to define and understand love—without God's Perfect Love as our guide, we can only see distorted fragments of what our hearts truly seek. Look around and you'll see people everywhere desperately pursuing the sacred (through spirituality), the sacrificial (through causes), the covenantal (through marriage and family), truth (through science and philosophy), justice (through politics), mercy (through humanitarian work), and communion (through community). But without the complete vision that God provides, these pursuits become twisted counterfeits that ultimately disappoint and when they don't adhere to some facet of God's Perfect Love, they can lead to great harm and evil.
+You can see from these facets that people understand bits and pieces, living them out imperfectly. This is why we struggle to define and understand love—without God's Perfect Love as our guide, we can only see distorted fragments of what our hearts truly seek. Look around and you'll see people everywhere desperately pursuing the sacred (through spirituality), the sacrificial (through causes), the covenantal (through marriage and family), truth (through science and philosophy), justice (through politics), mercy (through humanitarian work), and communion (through community). But without the complete vision that God provides, these pursuits become twisted counterfeits that ultimately disappoint and when they don't adhere to some facet of God's Perfect Love, they can lead to great harm and evil.
 
 ## The Perfect Love Made Flesh
 
@@ -245,7 +245,7 @@ In Jesus Christ, perfect love became incarnate. He is:
 - The source of **divine grace**: "From his fullness we have all received, grace upon grace" (John 1:16)
 - **Perfect love incarnate**: "God so loved the world that he gave his only Son" (John 3:16)
 
-This isn't just theological theory. In Jesus, the perfect love we've been defining—that sacred, sacrificial gift of covenant, binding truth, justice, and mercy—took on flesh and blood. He didn't just teach about perfect love; He IS perfect love.
+This isn't theological theory. In Jesus, the perfect love we've been defining—that sacred, sacrificial gift of covenant, binding truth, justice, and mercy—took on flesh and blood. He didn't just teach about perfect love; He IS perfect love.
 
 The Incarnation changes everything. God didn't send a messenger or a prophet or a philosophy. He sent Himself. The Author of all reality entered His own story to rewrite the tragedy we had made of it. The One who created love became love incarnate to show us what we had forgotten—and to give us the power to live it.
 

@@ -25,13 +25,13 @@ A four-year-old sees her brother get two cookies while she gets one. Her face cr
 
 She's never taken a philosophy class. No one taught her about distributive justice. She can't even tie her shoes.
 
-Yet she knows—with absolute, unshakeable certainty—that something is wrong with this picture.
+Yet she knows—with absolute, unshakeable certainty—that something is wrong.
 
 "That's not fair!"
 
-Three words. Universal. Primal. Erupting from every child's heart in every culture, every era, every corner of the earth. Before they learn to read, before they learn manners, before anyone tells them what justice means—they already know.
+Three words. Universal. Primal. Erupting from every child's heart in every culture, every era, every corner of earth. Before they learn to read, before they learn manners, before anyone tells them what justice means—they already know.
 
-This isn't learned behavior. This is something written on the human heart with fire.
+This isn't learned behavior. It's written on the human heart with fire.
 
 This universal cry for justice and our need for peace and harmony reveals that we are created for moral order, not chaos. Every human being, regardless of culture, education, or background, possesses an innate sense that things *ought* to be fair, that people *ought* to be treated with dignity, and that wrongs *ought* to be made right. Scripture suggests this isn't mere social conditioning—it's evidence of our creation in the image of God, who is perfectly just. As St. Paul explains, even those without the written law "show that the work of the law is written on their hearts, while their conscience also bears witness and their conflicting thoughts accuse or even defend them on the day when, according to my gospel, God will judge people’s hidden works through Christ Jesus." (Romans 2:15).
 
@@ -40,7 +40,7 @@ This universal cry for justice and our need for peace and harmony reveals that w
 Before we corrupt them with our sophisticated excuses, children see justice with crystal clarity:
 
 **"That's not fair - you're being mean!"**
-Watch a child's face when they witness cruelty. Horror. Outrage. They don't need a philosophy degree to know that using power to hurt someone weaker is evil. They expect—demand—that someone stop it.
+Watch a child's face when they witness cruelty. Horror. Outrage. They don't need a philosophy degree to know that using power to hurt someone weaker is evil. They expect—demand—that someone stops it.
 
 **"But you promised!"**
 Break a promise to a child. Watch trust shatter in their eyes like glass. They know, bone-deep, that your word should mean something. That promises create sacred bonds.
@@ -54,7 +54,7 @@ Even when they lie to escape punishment, watch their eyes dart away, their bodie
 **"I'm telling!"**
 That triumphant march to the authority figure, that expectation that wrongs will be made right—children believe justice will prevail. They haven't yet learned to be cynical about accountability.
 
-These simple childhood expressions reveal profound truths about justice: that every person deserves dignity and protection, that promises create real obligations, that truth matters more than convenience, that wrongdoing has consequences, and that legitimate authority exists to restore moral order when it's broken. Children understand intuitively what philosophers spend lifetimes trying to explain—that justice isn't arbitrary human convention but flows from the very nature of humanity itself. There is no explanation in nature or evolution for why we should have this universal moral sense, yet every child possesses it from birth.
+These simple childhood expressions reveal profound truths: every person deserves dignity and protection, promises create real obligations, truth matters more than convenience, wrongdoing has consequences, and legitimate authority exists to restore moral order when it's broken. Children understand intuitively what philosophers spend lifetimes trying to explain—that justice isn't arbitrary human convention but flows from the very nature of humanity itself. There is no explanation in nature or evolution for why we should have this universal moral sense, yet every child possesses it from birth.
 
 This reflects what St. Paul describes as "the law written on their hearts" (Romans 2:15). Jesus' command to "become like children" (Matthew 18:3) includes recovering this moral clarity that recognizes injustice immediately.
 
@@ -70,7 +70,7 @@ Why does every culture, no matter how isolated, develop laws against murder, the
 
 Why do atheists and believers alike feel that bone-deep revulsion when they see a child abused?
 
-Justice isn't some human invention we vote on. It's not a social convention we can rewrite when convenient. It flows from something deeper—from the very nature of reality itself, written on every human heart through what philosophers since Aristotle have recognized as "natural law."
+Justice isn't a human invention we vote on. It's not a social convention we can rewrite when convenient. It flows from something deeper—from the very nature of reality itself, written on every human heart through what philosophers since Aristotle have recognized as "natural law."
 
 <div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 23px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
 Natural law gives us the foundation, but divine revelation completes our understanding of true justice.
@@ -90,9 +90,15 @@ This is why Christian civilizations have produced hospitals, universities, orpha
 Justice is giving each person their due according to their nature and dignity—starting with God, then flowing to neighbor, self, and creation.
 </div>
 
-This classical definition, rooted in Natural Law and further developed by Scripture and Church teaching, reveals that justice has both retributive and meritorious dimensions. As the Catechism teaches: "Justice is the moral virtue that consists in the constant and firm will to give their due to God and neighbor" (CCC 1807).
+Here's what that means in your actual life:
 
-Retributive justice is what we typically think of as the punishment due for wrongdoing (think about the human desire for retribution when a child is murdered). Meritorious justice is the reward or honor due for good or heroic (virtuous) acts (think about the human desire for honor when a child is saved).
+You know that rage when a child killer walks free? That's retributive justice screaming in your soul—demanding wrongdoing be punished.
+
+You know that swelling pride when a firefighter rushes into flames to save a baby? That's meritorious justice singing—demanding heroism be honored.
+
+Both impulses come from God. Both are written on your heart. The Catechism confirms it: "Justice is the moral virtue that consists in the constant and firm will to give their due to God and neighbor" (CCC 1807).
+
+Justice has teeth. It bites. It demands. It won't let you sleep when things are wrong.
 
 **Retributive Justice (Punishment for Wrongdoing):**
 Retributive justice involves bringing consequences to those who violate moral order—"bringing them to justice" as we commonly say. This includes:

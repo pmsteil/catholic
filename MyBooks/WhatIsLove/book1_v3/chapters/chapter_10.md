@@ -29,11 +29,33 @@
 
 ## The Night Everything Changed
 
-The Passion of the Lord did not begin on Good Friday. It began the night before, in an upper room in Jerusalem, when Jesus gathered His disciples for what would become the most important meal in human history. There, at the Last Supper, Jesus began to reveal the full meaning of everything we have been exploring about perfect love. Through His entire Passion—the Last Supper, His death, burial, resurrection, and ascension—He showed His disciples and us exactly how the sacred, sacrificial gift of covenant love would bind truth, justice, and mercy, gathering us into life-giving communion.
+Thursday night. Jerusalem. An upper room.
 
-That night, Jesus did something that seemed impossible: He made His future sacrifice on the Cross present to His disciples before it even happened. He took bread and wine and said: *"This is my body, which is given for you... This cup that is poured out for you is the new covenant in my blood"* (Luke 22:19-20). In that moment, Jesus established the Eucharist—the way His perfect love would remain present with us always.
+Jesus holds up bread. Ordinary bread. The same bread Jews had been breaking for centuries.
 
-But to understand why Jesus chose this particular night, this particular meal, and these particular words, we need to see how everything in Scripture had been pointing toward this moment.
+"This is my body."
+
+The disciples freeze. What?
+
+He breaks it. "Given for you."
+
+Then the cup. Wine. Ordinary wine.
+
+"This is my blood. The blood of the new covenant."
+
+Peter's hand trembles as he takes the cup. John stares. Thomas doubts. Judas knows exactly what he's about to do.
+
+They don't understand—not yet—that they're holding God in their hands. They don't understand that tomorrow's crucifixion is somehow already present in this bread, this wine. They don't understand that two thousand years later, you and I would receive this same body, this same blood.
+
+But Jesus understands. He's about to do something impossible: make His death present before it happens. Make His sacrifice available forever. Make perfect love something you can touch, taste, receive into your very being.
+
+This isn't symbol. This isn't metaphor. This is the night God reveals His eternal plan to remain with us in Holy Communion—that sacred union He always desired—really, truly, substantially present—Body, Blood, Soul, and Divinity—until the end of time.
+
+This isn't just "the Lord's Supper" where we remember. This is the Lord's invitation to become one with Him—to receive Him into our very being, to be transformed by His presence, to enter into the communion that our hearts were made for.
+
+Jesus had already made this clear: "Unless you eat the flesh of the Son of Man and drink his blood, you have no life in you. Whoever eats my flesh and drinks my blood has eternal life, and I will raise them up at the last day. For my flesh is true food and my blood is true drink. Whoever eats my flesh and drinks my blood remains in me, and I in them" (John 6:53-56).
+
+This wasn't a suggestion. It was a command. And now, in this upper room, He shows them how it will happen.
 
 ---
 
@@ -44,9 +66,19 @@ But to understand why Jesus chose this particular night, this particular meal, a
 
 ## Fulfilling the Law and the Prophets
 
-When Jesus said, *"Do not think that I have come to abolish the Law or the Prophets; I have not come to abolish them but to fulfill them"* (Matthew 5:17), He was revealing something profound about love. Everything in the Old Testament—every law, every prophecy, every story—was ultimately about love. As Jesus later explained, *"All the Law and the Prophets hang on these two commandments"*: love God with all your heart, soul, and mind, and love your neighbor as yourself (Matthew 22:40).
+Here's what nobody tells you about the Old Testament: It's one long love story that was missing its ending.
 
-The perfect love we have been exploring throughout this book—with all its facets of sacrifice, covenant, truth, justice, and mercy—this is what the entire Old Testament was pointing toward. Every sacrifice, every covenant, every act of justice and mercy was preparing humanity to recognize and receive this perfect love when it appeared.
+Every sacrifice? Incomplete. Pointing to something greater.
+Every covenant? Partial. Waiting for fulfillment.
+Every prophecy? A promise. Waiting for a person.
+
+Then Jesus shows up and says, *"Do not think that I have come to abolish the Law or the Prophets; I have not come to abolish them but to fulfill them"* (Matthew 5:17).
+
+Think about that. Thousands of years of lambs slaughtered, blood spilled, promises made, laws given—all of it was God teaching humanity a language. The language of sacrifice. The language of covenant. The language of blood that speaks better than words.
+
+Why? So that when Jesus lifted that bread and said "This is my body," they'd understand—maybe not fully, but enough—that this was what everything had been pointing to. Every Passover lamb. Every drop of blood on every altar. Every covenant meal. Every broken bread.
+
+It was all preparing us for this moment when Love Himself would become our food.
 
 **The Passover Pattern:** The most important preparation was the Passover. Every year, the Jewish people remembered how God delivered them from slavery in Egypt through the sacrifice of an unblemished lamb. The lamb's blood marked their doorposts, and death "passed over" their homes. But the sacrifice wasn't complete until the lamb was eaten—the family had to consume the sacrifice to receive its benefits.
 

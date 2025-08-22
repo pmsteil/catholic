@@ -19,15 +19,43 @@
 
 ## The Rich Treasury of Catholic Virtue
 
-In our journey through the essential facets of perfect love—truth, justice, mercy, sacrifice, and covenant—we have laid the foundation for authentic Catholic living. But the Church's treasury of wisdom contains many more virtues, each a facet of the diamond of God's perfect love, each reflecting the light of divine love in its own unique way. These virtues are not separate from our comprehensive definition of love; rather, they are the beautiful expressions of how truth, justice, mercy, and covenant love manifest themselves in the countless situations of daily life.
+The alarm goes off at 5:30 AM. Again.
+
+Your body screams for more sleep. The bed is warm. Nobody would know if you hit snooze.
+
+But you promised. Morning prayer. Daily Mass. So you swing your feet to the cold floor.
+
+That's fortitude.
+
+Your coworker takes credit for your project. In front of everyone. Your boss believes them.
+
+Everything in you wants to expose them. Humiliate them. Get even.
+
+Instead, you stay quiet. Later, privately, you speak the truth with kindness.
+
+That's prudence. And justice. And temperance.
+
+Your teenager slams the door. "I hate you!" The third time this week.
+
+You could slam back. Yell louder. Ground them forever.
+
+Instead, you breathe. Knock gently. "I love you. When you're ready to talk, I'm here."
+
+That's patience. And hope. And love choosing to believe the best.
+
+See? You already know the virtues. You live them—or fail to live them—every single day. They're not abstract concepts in theology books. They're the thousand small choices that shape your soul.
 
 <div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
 A virtue is a habit or practice of walking in truth, justice, and mercy. A vice, or sin, is a habit of twisting or refusing these—sometimes from willful choice, other times from not yet knowing the good.
 </div>
 
-Think of these virtues as the many faces of love—each one revealing a different aspect of how God loves us and how we are called to love Him and our neighbors. Just as a diamond has many facets that catch and reflect light differently depending on the angle, so perfect love expresses itself through different virtues depending on the circumstances we face.
+Think of virtues as love's muscle memory. Just as a pianist practices scales until their fingers move without thinking, we practice virtues until love becomes our instinct. Until choosing good becomes as natural as breathing.
 
-The Catholic tradition has identified and developed these virtues over two millennia, guided by Scripture, the wisdom of the saints, and the teaching authority of the Church. Each virtue represents a way of participating in God's own life, a means of growing in holiness, and a path to becoming the saints God calls us to be.
+But here's what makes love so difficult to define and explain: Love isn't just one thing. It's a diamond with countless facets, each catching and reflecting divine light differently. Every virtue we've explored in this book—truth, justice, mercy, sacrifice, covenant—and every virtue we'll explore in this chapter, they're all different faces of the same reality: God's Perfect Love.
+
+This is why the Church has so many teachings, so many saints, so many ways of describing holiness. As we mentioned in Chapter 2, the Catechism tells us, "The whole concern of doctrine and its teaching must be directed to the love that never ends" (CCC 25). Every doctrine, every moral teaching, every spiritual practice—they're all trying to help us see another facet of this infinite diamond of divine love.
+
+The Catholic tradition has identified these virtues over two millennia—not by sitting in libraries, but by watching saints. By seeing what habits make people holy. By learning what practices transform sinners into saints. And what do all saints have in common? They follow Christ. They imitate His perfect love. They become living reflections of different facets of His infinite goodness.
 
 ## How All Virtues Serve Perfect Love
 

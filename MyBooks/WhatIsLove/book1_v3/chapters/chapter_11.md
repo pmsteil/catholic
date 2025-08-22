@@ -131,25 +131,42 @@ As Andrew Breitbart famously said, "Politics is downstream from culture." The pe
 
 ### 1. Sentimental/Romantic/Over-sexualized "Love": Feelings and Pleasure Without Commitment
 
-**The Appeal:** This counterfeit promises the joy of emotional connection and physical pleasure without the difficulty of sacrifice or permanent commitment. It speaks to genuine human needs for affection, intimacy, and happiness.
+"If it feels right, it must be love."
 
-**The Counterfeit:** This ideology reduces love to feelings, emotions, and sexual pleasure, teaching that love means "following your heart" and satisfying desires regardless of consequences. It avoids the truth, justice, sacrifice, and covenant commitment that authentic love requires.
+He's married with three kids, but this new coworker... the butterflies, the excitement, the way she looks at him. His marriage feels stale. Routine. This feels alive. Electric. Real.
+
+"I deserve to be happy."
+
+The culture whispers its poison: Follow your heart. You only live once. If you're not happy, leave. Love shouldn't be work. When the spark dies, the love is gone.
+
+So he texts her. Meets for coffee. "Just friends." Then drinks. Then...
+
+Six months later, his kids shuttle between two homes. His wife's trust is shattered. The coworker? She's moved on to someone else. And that electric feeling? Gone. Replaced by wreckage.
+
+His eight-year-old daughter now cries herself to sleep asking "Why doesn't Daddy live here anymore?" His ten-year-old son's grades plummet as he acts out in anger. His teenage daughter learns that promises mean nothing, that "forever" is a lie. Three young hearts learning that love isn't safe, that families are disposable, that their security matters less than Daddy's feelings.
+
+But he never thought about them when the butterflies were fluttering. Their devastation wasn't part of the equation when he was "following his heart."
+
+**The Appeal:** This counterfeit promises ecstasy without effort, passion without price, intimacy without commitment. It feels so real because it hijacks genuine human needs—for affection, excitement, connection.
+
+**The Lie:** Love equals feelings. When feelings fade, love is dead. You deserve constant happiness. Sexual chemistry equals compatibility. If it's hard, it's not meant to be.
 
 **What It Gets Right:**
-- **Importance of Emotions:** Recognizes that feelings and emotions are real and important aspects of human experience
-- **Desire for Joy:** Correctly identifies that love should bring happiness and fulfillment to human life
-- **Beauty of Human Love:** Recognizes that romantic love and physical intimacy are genuinely beautiful gifts
-- **Rejection of Coldness:** Opposes harsh, unfeeling approaches to relationships that lack warmth and affection
-- **Desire for Intimacy:** Correctly identifies the human need for deep, personal connection with another person
-- **Celebration of Beauty:** Appreciates the attractive aspects of love that draw people together
+- Feelings matter in relationships
+- Physical attraction is part of romantic love
+- We're made for joy and intimacy
+- Cold, dutiful relationships aren't the ideal
 
 **What It Gets Wrong:**
-- **Rejects the Sacred:** Treats love as purely human emotion rather than participation in God's nature [lacks truth]
-- **Avoids Sacrifice:** Promises love without cost, commitment, or difficulty [lacks justice]
-- **Corrupts Truth:** Makes feelings the measure of reality rather than objective truth about human flourishing [false truth]
-- **Prevents Communion:** Creates relationships based on **mutual use** rather than **mutual self-gift** [lacks mercy]
+- Makes feelings the boss instead of the servant
+- Treats people as sources of personal pleasure
+- Denies that love requires sacrifice and choice
+- Forgets that butterflies always fade—in every relationship
+- Ignores that real intimacy comes from weathering storms together
 
-**Why It Fails:** **Sentimental love points inward toward personal satisfaction rather than outward toward the authentic good of the beloved.** It makes the other person responsible for our happiness, which no creature can provide - only God can satisfy the human heart.
+**Why It Fails:** When you separate feelings from truth, justice, mercy, sacrifice, and covenant, those feelings have no foundation. They're like cut flowers—beautiful for a moment, then dead. Without the roots of commitment, the soil of sacrifice, the water of mercy, feelings wither. And when they do, you'll look for them elsewhere, destroying everything in your restless search.
+
+**The Truth:** When love includes all its elements—truth, justice, mercy, sacrifice, and covenant—feelings don't fade, they deepen. The couple married fifty years who still hold hands? They're not pretending. Their love is more passionate than newlyweds because it's rooted in reality, tested by trials, purified by sacrifice. When you keep your eyes on the Lord (the source of all love) and live out complete love, intimacy doesn't die—it transforms into something richer than any honeymoon. The feelings remain, but now they're servants of love, not its master.
 
 **The Authentic Alternative:** **Perfect Love addresses the need for joy, intimacy, and connection through the sacred nature of human love, sacrificial commitment, covenant bonds, and the integration of feeling, reason, and divine purpose.**
 
