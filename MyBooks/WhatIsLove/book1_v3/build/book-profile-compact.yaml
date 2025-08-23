@@ -43,10 +43,21 @@ header-includes:
     \setlength{\headheight}{14.5pt}
     \makeatletter
     \renewcommand{\chaptermark}[1]{%
-      \ifnum\thechapter=0
-        \markboth{#1}{}%
+      \def\temparg{#1}%
+      \def\prefacetext{Preface}%
+      \ifx\temparg\prefacetext
+        \markboth{Preface}{}%
       \else
-        \markboth{\@chapapp\ \thechapter\enspace #1}{}%
+        \begingroup
+        \def\checkintro##1Why I wrote this book##2\relax{%
+          \ifx\relax##2\relax
+            \markboth{\@chapapp\ \thechapter\enspace #1}{}%
+          \else
+            \markboth{Introduction}{}%
+          \fi
+        }%
+        \expandafter\checkintro\temparg Why I wrote this book\relax
+        \endgroup
       \fi
     }
     \makeatother

@@ -67,11 +67,11 @@ Wow. Let's just pause and let that sink in for a moment. _God. Is. Love._ If we 
 
 So, what _is_ this love that God _is_? How do we begin to comprehend it? Drawing from 2,000 years of Catholic teaching, the depths of prayer, and my own experience as a husband, father, and teacher of God's love over the last three decades, here's what I have perceived as the heart of it, a definition we will explore together:
 
-# *God’s Perfect Love*
+## *God’s Perfect Love*
 
 **The sacred, sacrificial gift of covenant**
 — *binding truth, justice, and mercy* —
-— *gathering us into life-giving communion* —
+— *into  life-giving communion* —
 
 That's a mouthful, I know! It's dense, and each word carries significant weight. We'll unpack every piece of that definition—sacred, sacrificial, covenant, justice, mercy, communion—throughout this book. But the core idea, the essential takeaway, is this: **Real love, God's love, the love we are all searching for, is the perfect, inseparable unity of Truth, Justice, and Mercy.**
 
@@ -131,7 +131,7 @@ There is nothing new here. This is not a new definition of love, just a clear bu
 
 **The sacred, sacrificial gift of covenant**
 — *binding truth, justice, and mercy* —
-— *gathering us into life-giving communion* —
+— *into  life-giving communion* —
 
 Think of this definition as a multi-faceted diamond. Each chapter will illuminate another facet, showing how every aspect of our faith fits perfectly together in God's amazing plan for His desire for Communion with US! I wrote this book to be both a plain english, starting from the ground up, explanation of what Christianity truly calls us to, but also a devotional that will help you grow in your relationship with the LORD and with those you love. And more importantly, I hope it will help you join God on His mission for the Salvation of the World.
 
