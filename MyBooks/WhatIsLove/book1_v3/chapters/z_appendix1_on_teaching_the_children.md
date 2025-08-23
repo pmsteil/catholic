@@ -1,38 +1,33 @@
 # Don't forget the Children!
 
-<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
-"And these words that I command you today shall be on your heart. You shall teach them diligently to your children, and shall talk of them when you sit in your house, and when you walk by the way, and when you lie down, and when you rise."
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">— Deuteronomy 6:6-7</span>
-</div>
+> "And these words that I command you today shall be on your heart. You shall teach them diligently to your children, and shall talk of them when you sit in your house, and when you walk by the way, and when you lie down, and when you rise."
+>
+> — Deuteronomy 6:6-7
 
-<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
-"Train up a child in the way he should go; even when he is old he will not depart from it."
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">— Proverbs 22:6</span>
-</div>
+> "Train up a child in the way he should go; even when he is old he will not depart from it."
+>
+> — Proverbs 22:6
 
-<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
-"Fathers, do not provoke your children to anger, but bring them up in the discipline and instruction of the Lord."
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">— Ephesians 6:4</span>
-</div>
+> "Fathers, do not provoke your children to anger, but bring them up in the discipline and instruction of the Lord."
+>
+> — Ephesians 6:4
 
-<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
-"Parents have the first responsibility for the education of their children. They bear witness to this responsibility first by creating a home where tenderness, forgiveness, respect, fidelity, and disinterested service are the rule. The home is well suited for education in the virtues."
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">— Catechism of the Catholic Church 2223</span>
-</div>
+> "Parents have the first responsibility for the education of their children. They bear witness to this responsibility first by creating a home where tenderness, forgiveness, respect, fidelity, and disinterested service are the rule. The home is well suited for education in the virtues."
+>
+> — Catechism of the Catholic Church 2223
 
-<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
-"Parents have the mission of teaching their children to pray and to discover their vocation as children of God."
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">— Catechism of the Catholic Church 2226</span>
-</div>
+> "Parents have the mission of teaching their children to pray and to discover their vocation as children of God."
+>
+> — Catechism of the Catholic Church 2226
 
 "Worldview is developed between the ages of 18 months and 13 years. According to George Barna, by the time a teenager is 13 or 14, it's done. It may be refined a bit through the teen years, but by one's 20s, not only is worldview solid, but most people become an evangelist for their view."
-— George Barna, Research on Worldview Formation¹
+— George Barna, Research on Worldview Formation^1^
 
 "Complete deprivation, in particular, had 'even more far-reaching effects on character development and may entirely cripple the capacity to make relationships.'"
-— John Bowlby, Attachment Theory Pioneer²
+— John Bowlby, Attachment Theory Pioneer^2^
 
 "Adults who were securely attached in childhood tend to have good self-esteem, strong romantic relationships, and the ability to self-disclose to others. Those with insecure attachments are more likely to struggle with trust and intimacy."
-— Modern Attachment Research³
+— Modern Attachment Research^3^
 
 ---
 
@@ -50,13 +45,13 @@ Child development research reveals that children understand abstract concepts by
 
 These repeated experiences create what psychologists call "internal working models"—mental frameworks that help children understand how relationships work. When children experience authentic love consistently, their brains literally develop neural pathways that prepare them to recognize and receive divine love.
 
-**The Critical Research Finding:** George Barna's research shows that worldview is formed between ages 18 months and 13 years. By age 13 or 14, a child's fundamental understanding of how the world works—including how love works—is essentially set.¹ This means parents have roughly twelve years to lay the foundation for their child's capacity to understand and receive authentic love.
+**The Critical Research Finding:** George Barna's research shows that worldview is formed between ages 18 months and 13 years. By age 13 or 14, a child's fundamental understanding of how the world works—including how love works—is essentially set.^1^ This means parents have roughly twelve years to lay the foundation for their child's capacity to understand and receive authentic love.
 
 The security, trust, and attachment children form with loving parents creates the emotional and cognitive foundation for understanding God as a loving Father. This is why children from stable, loving homes often find it easier to trust God, while children from broken or abusive homes may struggle with the concept of divine love—their internal working models have been shaped by different experiences.
 
 ### **The Attachment Foundation**
 
-John Bowlby's groundbreaking research on attachment theory reveals why early relationships are so crucial. As he documented, complete deprivation of love in early childhood has "far-reaching effects on character development and may entirely cripple the capacity to make relationships."²
+John Bowlby's groundbreaking research on attachment theory reveals why early relationships are so crucial. As he documented, complete deprivation of love in early childhood has "far-reaching effects on character development and may entirely cripple the capacity to make relationships."^2^
 
 This isn't just about emotional health—it's about spiritual capacity. Children who experience secure attachment develop:
 - The ability to trust
@@ -138,7 +133,7 @@ Adolescents can finally grasp abstract concepts and make theological connections
 
 ## The Imitation and Resonance Process
 
-Children also learn through what neuroscientists call "mirror neurons"—they literally mirror the emotions and behaviors they observe.⁴ When children see parents forgive each other, their brains are learning the pattern of forgiveness. When they observe parents keeping commitments despite difficulty, they're internalizing the pattern of covenant faithfulness.
+Children also learn through what neuroscientists call "mirror neurons"—they literally mirror the emotions and behaviors they observe.^4^ When children see parents forgive each other, their brains are learning the pattern of forgiveness. When they observe parents keeping commitments despite difficulty, they're internalizing the pattern of covenant faithfulness.
 
 This mirroring happens at both conscious and unconscious levels. Children absorb not just what parents say but how they say it, not just what they do but the spirit in which they do it. A parent who forgives grudgingly teaches a different lesson than a parent who forgives with genuine mercy. Children's hearts are remarkably sensitive to authenticity—they can sense whether love is genuine or performed.
 
@@ -206,13 +201,13 @@ May we who have been entrusted with children understand the sacred nature of our
 
 ## References
 
-¹ Barna, George. *Raising Spiritual Champions: Nurturing Your Child's Heart, Mind and Soul*. Ventura, CA: Regal Books, 2003. See also Barna Group research studies on worldview formation, available at www.barna.com/research.
+^1^ Barna, George. *Raising Spiritual Champions: Nurturing Your Child's Heart, Mind and Soul*. Ventura, CA: Regal Books, 2003. See also Barna Group research studies on worldview formation, available at www.barna.com/research.
 
-² Bowlby, John. *Attachment and Loss, Volume 1: Attachment*. London: Hogarth Press, 1969. See also Bowlby, John. "Maternal Care and Mental Health." World Health Organization Monograph, 1951.
+^2^ Bowlby, John. *Attachment and Loss, Volume 1: Attachment*. London: Hogarth Press, 1969. See also Bowlby, John. "Maternal Care and Mental Health." World Health Organization Monograph, 1951.
 
-³ Hazan, Cindy, and Phillip Shaver. "Romantic Love Conceptualized as an Attachment Process." *Journal of Personality and Social Psychology* 52, no. 3 (1987): 511-524. See also Fraley, R. Chris. "A Brief Overview of Adult Attachment Theory and Research." University of Illinois, 2010.
+^3^ Hazan, Cindy, and Phillip Shaver. "Romantic Love Conceptualized as an Attachment Process." *Journal of Personality and Social Psychology* 52, no. 3 (1987): 511-524. See also Fraley, R. Chris. "A Brief Overview of Adult Attachment Theory and Research." University of Illinois, 2010.
 
-⁴ Rizzolatti, Giacomo, and Laila Craighero. "The Mirror-Neuron System." *Annual Review of Neuroscience* 27 (2004): 169-192. See also Gallese, Vittorio, et al. "Action Recognition in the Premotor Cortex." *Brain* 119, no. 2 (1996): 593-609.
+^4^ Rizzolatti, Giacomo, and Laila Craighero. "The Mirror-Neuron System." *Annual Review of Neuroscience* 27 (2004): 169-192. See also Gallese, Vittorio, et al. "Action Recognition in the Premotor Cortex." *Brain* 119, no. 2 (1996): 593-609.
 
 **Additional Sources:**
 - Piaget, Jean. *The Construction of Reality in the Child*. New York: Basic Books, 1954.

@@ -1,5 +1,5 @@
 title: What Is Love?
-subtitle: God's Perfect Love is the sacred, sacrificial gift of covenant, binding truth, justice, and mercy, into  life-giving communion.
+subtitle: God's Perfect Love is the sacred, sacrificial gift of covenant, binding truth, justice, and mercy, into life-giving communion.
 author: Patrick Steil, St. John Paul II University Parish, Denton TX
 edition: 3rd Draft - August 23, 2025
 title-meta: Proofread layout (double-spaced 11pt on letter)
@@ -39,7 +39,13 @@ header-includes:
     \fancyhf{}
     \setlength{\headheight}{14.5pt}
     \makeatletter
-    \renewcommand{\chaptermark}[1]{\markboth{\@chapapp\ \thechapter\enspace #1}{}}
+    \renewcommand{\chaptermark}[1]{%
+      \ifnum\thechapter=0
+        \markboth{#1}{}%
+      \else
+        \markboth{\@chapapp\ \thechapter\enspace #1}{}%
+      \fi
+    }
     \makeatother
     \fancyhead[LE,RO]{\footnotesize \leftmark}
     \fancyfoot[CE,CO]{\thepage}

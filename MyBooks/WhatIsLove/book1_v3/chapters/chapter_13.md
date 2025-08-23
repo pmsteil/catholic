@@ -110,7 +110,7 @@ The solution had to come from God Himself, for as Isaiah reminds us, "my thought
 
 The eternal Son of God became man—Jesus Christ, who "being in very nature God, did not consider equality with God something to be used to his own advantage; rather, he made himself nothing by taking the very nature of a servant" (Philippians 2:6-7)—true God and true man—to rescue us and restore us to the relationship we were created for.³
 
-Jesus came proclaiming the Kingdom of God (a Kingdom where God's Love reigns) —not as a distant future reality, but as a present earthly Kingdom where God reigns and His people participate actively in His divine life.⁴ Through His incarnation, Jesus shows us that God cares deeply about our earthly life and calls us to live the Kingdom life here and now, transforming this world through divine love.
+Jesus came proclaiming the Kingdom of God (a Kingdom where God's Love reigns) —not as a distant future reality, but as a present earthly Kingdom where God reigns and His people participate actively in His divine life.^4^ Through His incarnation, Jesus shows us that God cares deeply about our earthly life and calls us to live the Kingdom life here and now, transforming this world through divine love.
 
 Jesus Christ is perfect love incarnate. In His life, He showed us what authentic love looks like: truth spoken with compassion, justice tempered with mercy, sacrifice offered freely, covenant faithfulness maintained even unto death. He lived the perfect integration of body, mind, and soul—fully human yet without sin.
 
@@ -118,7 +118,7 @@ But Jesus didn't come just to be a good example. He came to do what we could not
 
 ## The Last Supper: Love's Greatest Gift
 
-At the Last Supper, Jesus gave us the Eucharist—His own Body and Blood under the appearance of bread and wine. This wasn't just a symbolic gesture but the beginning of His sacrifice, the moment when He gave us everything He had and everything He was. Significantly, Jesus chose to institute the Eucharist within the Passover meal, revealing Himself as the true Lamb of God who takes away the sin of the world (John 1:29). Just as the Passover lamb's blood protected the Israelites from death and freed them from slavery in Egypt, Jesus' blood frees us from the slavery of sin and protects us from spiritual death. In the Eucharist, Jesus makes Himself our food, our life, our strength for the journey home to the Father.⁵
+At the Last Supper, Jesus gave us the Eucharist—His own Body and Blood under the appearance of bread and wine. This wasn't just a symbolic gesture but the beginning of His sacrifice, the moment when He gave us everything He had and everything He was. Significantly, Jesus chose to institute the Eucharist within the Passover meal, revealing Himself as the true Lamb of God who takes away the sin of the world (John 1:29). Just as the Passover lamb's blood protected the Israelites from death and freed them from slavery in Egypt, Jesus' blood frees us from the slavery of sin and protects us from spiritual death. In the Eucharist, Jesus makes Himself our food, our life, our strength for the journey home to the Father.^5^
 
 The Eucharist reveals the depth of God's love: He doesn't just tell us He loves us, He gives us Himself.
 
@@ -131,7 +131,7 @@ He doesn't just forgive our sins from a distance, He comes to dwell within us. H
 
 ### The Cross: Justice and Mercy United
 
-On the Cross, Jesus revealed the full depth of authentic love by uniting perfect justice and perfect mercy in one redemptive act.⁶ He took upon Himself all the consequences of human sin—not just the legal guilt we deserved, but the real wounds that sin creates in our body, mind, and soul. His cry "My God, my God, why have you forsaken me?" (Matthew 27:46) was not a moment of separation from the Father, but Jesus quoting the opening line of Psalm 22—a messianic psalm that begins in anguish but ends in triumph and vindication. By invoking this psalm, Jesus was declaring that He was fulfilling the prophetic suffering described by David, while pointing to the ultimate victory that the psalm promises: "All the ends of the earth shall remember and turn to the Lord" (Psalm 22:27). He was taking upon Himself the full weight of human alienation from God that sin creates, while remaining in perfect union with the Father's will and pointing to the resurrection victory to come.
+On the Cross, Jesus revealed the full depth of authentic love by uniting perfect justice and perfect mercy in one redemptive act.^6^ He took upon Himself all the consequences of human sin—not just the legal guilt we deserved, but the real wounds that sin creates in our body, mind, and soul. His cry "My God, my God, why have you forsaken me?" (Matthew 27:46) was not a moment of separation from the Father, but Jesus quoting the opening line of Psalm 22—a messianic psalm that begins in anguish but ends in triumph and vindication. By invoking this psalm, Jesus was declaring that He was fulfilling the prophetic suffering described by David, while pointing to the ultimate victory that the psalm promises: "All the ends of the earth shall remember and turn to the Lord" (Psalm 22:27). He was taking upon Himself the full weight of human alienation from God that sin creates, while remaining in perfect union with the Father's will and pointing to the resurrection victory to come.
 
 The Cross shows us that authentic love takes sin seriously—it's not cheap grace that ignores justice, but costly grace that fulfills Isaiah's prophecy: "But he was pierced for our transgressions, he was crushed for our iniquities; the punishment that brought us peace was on him, and by his wounds we are healed" (Isaiah 53:5). This is love that heals us completely, not just declares us forgiven from a distance.
 
@@ -139,7 +139,7 @@ We killed God and yet His mercy is always more powerful than our sin.
 
 ### The Resurrection: Death Defeated, Life Restored
 
-The Resurrection completes and validates this revelation of perfect love.⁷ It shows us that God's love is not just forgiving but creative—it doesn't just pardon us but transforms us. The Resurrection is "the crowning truth of our faith in Christ" because it reveals that divine love has the power to create new life, to transform human nature itself, and to guarantee our participation in divine life.⁸
+The Resurrection completes and validates this revelation of perfect love.^7^ It shows us that God's love is not just forgiving but creative—it doesn't just pardon us but transforms us. The Resurrection is "the crowning truth of our faith in Christ" because it reveals that divine love has the power to create new life, to transform human nature itself, and to guarantee our participation in divine life.^8^
 
 But the Resurrection points us toward something even more magnificent: eternal communion with Perfect Love Himself. Christ's glorified body after the Resurrection shows us what authentic love produces—not the destruction of our humanity, but its perfection and transformation. This is the love that will raise our own bodies on the last day and unite us forever with Perfect Love Himself.
 
@@ -149,7 +149,7 @@ This is not only restorative love—bringing us back to where we were—but crea
 
 ## The New Covenant: God's Law of Love
 
-Through His life, death, and resurrection, Jesus established a New Covenant—not written on stone tablets but on human hearts (Jeremiah 31:33; Hebrews 8:10).⁹ This is God's law of love, which teaches us to live according to His perfect love—where sacrifice becomes gift, covenant creates communion, and truth, justice, and mercy work in perfect harmony.
+Through His life, death, and resurrection, Jesus established a New Covenant—not written on stone tablets but on human hearts (Jeremiah 31:33; Hebrews 8:10).^9^ This is God's law of love, which teaches us to live according to His perfect love—where sacrifice becomes gift, covenant creates communion, and truth, justice, and mercy work in perfect harmony.
 
 This New Covenant is not a set of rules to demand obedience but to draw us into humble, obedient, sacrificial love. Consider His revolutionary teachings that redefine love itself:
 
@@ -183,7 +183,7 @@ These are not mere suggestions but the fundamental law of the New Covenant—lov
 
 ## The Sacraments: Grace for the Journey
 
-God knows that we cannot live this law of love by willpower alone. We need His perfect love—His own divine life shared with us—to transform our disordered hearts and enable us to love authentically. This is why Jesus gave us the sacraments: concrete encounters with His grace that heal, strengthen, and sanctify us.¹⁰
+God knows that we cannot live this law of love by willpower alone. We need His perfect love—His own divine life shared with us—to transform our disordered hearts and enable us to love authentically. This is why Jesus gave us the sacraments: concrete encounters with His grace that heal, strengthen, and sanctify us.^10^
 
 **Baptism** makes us God's adopted children and citizens of His Kingdom, washing away original sin and giving us new life in Christ. Through Baptism, we are brought into the Kingdom of God and become part of His royal priesthood. **Confirmation** strengthens us with the Holy Spirit for our mission to witness to God's love and advance His Kingdom on earth. **The Eucharist** feeds us with Christ's own Body and Blood, making us one with Him and with each other as we gather as the people of God's Kingdom. **Reconciliation** restores us to friendship with God and our place in His Kingdom when we fall into sin. **Anointing of the Sick** unites our suffering with Christ's redemptive passion, showing that even in illness we remain beloved citizens of His Kingdom. **Matrimony** creates a covenant of love that images God's love for His people and builds up the Kingdom through faithful families. **Holy Orders** provides shepherds to guide the people of God's Kingdom and ministers to serve us with Christ's own authority.
 
@@ -193,7 +193,7 @@ Through the Mass and the sacraments, God doesn't just tell us about His love—H
 
 ## The Promise: Perfect Love Forever in the Eternal Kingdom
 
-The Good News culminates in a promise that staggers the human heart: if you accept God's love and live in response to it, you will spend eternity in perfect communion with Perfect Love Himself in the fullness of His Kingdom.¹¹
+The Good News culminates in a promise that staggers the human heart: if you accept God's love and live in response to it, you will spend eternity in perfect communion with Perfect Love Himself in the fullness of His Kingdom.^11^
 
 Heaven is not just a place but a relationship—eternal participation in the divine love that is the Trinity. As St. Paul teaches, "Now I know in part; then I shall know fully, even as I am fully known" (1 Corinthians 13:12). While we cannot fully comprehend what this eternal communion will be like, Scripture promises that "no eye has seen, nor ear heard, nor the heart of man conceived, what God has prepared for those who love him" (1 Corinthians 2:9). What we do know is that we will find in God the fulfillment of every authentic longing our heart has ever had. The Kingdom that begins here on earth will reach its perfect fulfillment when Christ comes again and makes all things new (Revelation 21:5).
 
@@ -317,18 +317,18 @@ Amen and may God Bless us all on our journey to loving Him perfectly.
 
 ³ CCC 456-478. See also Vatican II, *Dei Verbum* §4.
 
-⁴ CCC 541-556. For deeper study: Pope Benedict XVI, *Jesus of Nazareth* Vol. 1, Ch. 3; Vatican II, *Lumen Gentium* §5.
+^4^ CCC 541-556. For deeper study: Pope Benedict XVI, *Jesus of Nazareth* Vol. 1, Ch. 3; Vatican II, *Lumen Gentium* §5.
 
-⁵ CCC 608-609, 1340. For deeper study: Pope Benedict XVI, *Sacramentum Caritatis* §§9-11.
+^5^ CCC 608-609, 1340. For deeper study: Pope Benedict XVI, *Sacramentum Caritatis* §§9-11.
 
-⁶ CCC 599-618. For deeper study: Pope Benedict XVI, *Spe Salvi* §§39-40; St. Anselm, *Cur Deus Homo*.
+^6^ CCC 599-618. For deeper study: Pope Benedict XVI, *Spe Salvi* §§39-40; St. Anselm, *Cur Deus Homo*.
 
-⁷ CCC 638-658. For deeper study: Pope Benedict XVI, *Jesus of Nazareth: Holy Week* Ch. 9.
+^7^ CCC 638-658. For deeper study: Pope Benedict XVI, *Jesus of Nazareth: Holy Week* Ch. 9.
 
-⁸ CCC 638. See also Pope John Paul II, *Redemptor Hominis* §18-19.
+^8^ CCC 638. See also Pope John Paul II, *Redemptor Hominis* §18-19.
 
-⁹ CCC 715-716, 762. See also Pope John Paul II, *Redemptoris Missio* §12-14.
+^9^ CCC 715-716, 762. See also Pope John Paul II, *Redemptoris Missio* §12-14.
 
-¹⁰ CCC 1113-1134. See also Vatican II, *Sacrosanctum Concilium* §§5-6; Pope John Paul II, *Ecclesia de Eucharistia* §§16-20.
+^10^ CCC 1113-1134. See also Vatican II, *Sacrosanctum Concilium* §§5-6; Pope John Paul II, *Ecclesia de Eucharistia* §§16-20.
 
-¹¹ CCC 1023-1029. See also Pope Benedict XVI, *Spe Salvi* §§10-12; Vatican II, *Lumen Gentium* §§48-51.
+^11^ CCC 1023-1029. See also Pope Benedict XVI, *Spe Salvi* §§10-12; Vatican II, *Lumen Gentium* §§48-51.

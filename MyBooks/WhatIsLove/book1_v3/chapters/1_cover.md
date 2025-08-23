@@ -1,6 +1,6 @@
 # What is Love?
 
-God's Perfect Love is the sacred, sacrificial gift of covenant, binding truth, justice, and mercy, into  life-giving communion.
+God's Perfect Love is the sacred, sacrificial gift of covenant, binding truth, justice, and mercy, into life-giving communion.
 
 ## What questions this book answers
 
