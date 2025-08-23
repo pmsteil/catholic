@@ -1,7 +1,7 @@
 title: What is Love?
 subtitle: The Catholic Guide to Perfect Love
 author: Patrick Steil
-edition: 2nd Draft
+edition: 3rd Draft - August 23, 2025
 title-meta: Proofread layout (double-spaced 8pt on letter)
 documentclass: extbook
 classoption: [twoside, openany, 8pt]
@@ -53,7 +53,7 @@ header-includes:
         {}{}
       \patchcmd{\maketitle}
         {\par\vfil\null}
-        {\par\vfil\null\vskip 1em\begin{center}\large\textit{Edition: }\textmd{2nd Draft}\end{center}}
+        {\par\vfil\null\vskip 1em\begin{center}\large\textit\textmd{3rd Draft - August 23, 2025}\end{center}}
         {}{}
       \makeatother
     }
@@ -66,9 +66,9 @@ geometry:
   - bottom=1in
 
 chapters:
-  - 0_cover.md
-  - 000_forward.md
-  - 00_Introduction.md
+  - 1_cover.md
+  - 2_preface.md
+  - 3_introduction.md
   - chapter_01.md
   - chapter_02.md
   - chapter_03.md
@@ -82,7 +82,7 @@ chapters:
   - chapter_11.md
   - chapter_12.md
   - chapter_13.md
-  - z_appendix_on_the_marriage_covenant.md
-  - z_appendix_on_teaching_the_children.md
-  - y_appendix_faith_alone_vs_gods_perfect_love_alone.md
-  - y_appendix_definitions.md
+  - z_appendix1_on_teaching_the_children.md
+  - z_appendix2_on_the_marriage_covenant.md
+  - z_appendix3_faith_alone_vs_gods_perfect_love_alone.md
+  - z_appendix4_definitions.md

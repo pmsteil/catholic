@@ -1,7 +1,7 @@
 title: What Is Love?
 subtitle: God's Perfect Love is the sacred, sacrificial gift of covenant, binding truth, justice, and mercy, gathering us into life-giving communion.
 author: Patrick Steil, St. John Paul II University Parish, Denton TX
-edition: 2nd Draft
+edition: 3rd Draft - August 23, 2025
 lang: en-US
 documentclass: book
 classoption: [twoside, openany]
@@ -26,7 +26,7 @@ header-includes:
   - |
     \usepackage{tocloft}
     \AtBeginDocument{
-      \cftsetindents{chapter}{0em}{5.2em}
+      \cftsetindents{chapter}{0em}{2.5em}
       \cftsetindents{section}{1.5em}{2.3em}
       \cftsetindents{subsection}{3.0em}{3.2em}
       \cftsetindents{subsubsection}{4.5em}{4.1em}
@@ -48,7 +48,7 @@ header-includes:
   - |
     \usepackage{titling}
     \pretitle{\begin{center}\LARGE\bfseries}
-    \posttitle{\par\vskip 0.5em\large\textit{Edition: }\textmd{2nd Draft}\end{center}\vskip 1em}
+    \posttitle{\par\vskip 0.5em\large\textit\textmd{3rd Draft - August 23, 2025}\end{center}\vskip 1em}
 geometry:
   - paperwidth=6in
   - paperheight=9in
@@ -58,9 +58,9 @@ geometry:
   - bottom=0.9in
   - bindingoffset=0.25in
 chapters:
-  - 0_cover.md
-  - 000_forward.md
-  - 00_Introduction.md
+  - 1_cover.md
+  - 2_preface.md
+  - 3_introduction.md
   - chapter_01.md
   - chapter_02.md
   - chapter_03.md
@@ -74,9 +74,9 @@ chapters:
   - chapter_11.md
   - chapter_12.md
   - chapter_13.md
-  - z_appendix_on_the_marriage_covenant.md
-  - z_appendix_on_teaching_the_children.md
-  - y_appendix_faith_alone_vs_gods_perfect_love_alone.md
-  - y_appendix_definitions.md
+  - z_appendix1_on_teaching_the_children.md
+  - z_appendix2_on_the_marriage_covenant.md
+  - z_appendix3_faith_alone_vs_gods_perfect_love_alone.md
+  - z_appendix4_definitions.md
 
 

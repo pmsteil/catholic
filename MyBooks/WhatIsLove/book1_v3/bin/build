@@ -5,7 +5,6 @@ from pathlib import Path
 from typing import List, Optional
 import re
 import tempfile
-from datetime import datetime
 import os
 
 ROOT_DIR = Path(__file__).resolve().parents[1]
@@ -17,8 +16,8 @@ DEFAULT_OUTPUT_PDF = ROOT_DIR / "WhatIsLove_book.pdf"
 
 # Profiles are dynamically discovered from book-profile-*.yaml files
 
-HTML_APPENDIX = CHAPTERS_DIR / "y_appendix_definitions.html"
-MD_APPENDIX = CHAPTERS_DIR / "y_appendix_definitions.md"
+HTML_APPENDIX = CHAPTERS_DIR / "z_appendix4_definitions.html"
+MD_APPENDIX = CHAPTERS_DIR / "z_appendix4_definitions.md"
 
 
 def ensure_tools_available() -> None:
@@ -86,14 +85,14 @@ def discover_profiles() -> List[str]:
     # Dynamically discover available profiles by looking for book-profile-*.yaml files
     profiles = ["default"]  # Default is always available
     profile_pattern = "book-profile-*.yaml"
-    
+
     # Find all profile files
     for profile_path in METADATA_PROFILES_DIR.glob(profile_pattern):
         # Extract profile name from filename (remove 'book-profile-' prefix and '.yaml' suffix)
         profile_name = profile_path.stem.replace("book-profile-", "")
         if profile_name != "default":  # Already added default
             profiles.append(profile_name)
-    
+
     # Sort profiles for consistent display
     profiles.sort()
     return profiles
@@ -201,7 +200,7 @@ def preprocess_files(files: List[str]) -> List[str]:
         name_only = Path(path).name
 
         # Optionally render frontmatter items as unnumbered chapters and add to TOC
-        if frontmatter_star and name_only in ("0_cover.md", "000_forward.md", "00_Introduction.md"):
+        if frontmatter_star and name_only in ("1_cover.md", "2_preface.md", "3_introduction.md"):
             h1_match = re.search(r"^(\s*#\s+)(.+?)\s*$", transformed, flags=re.MULTILINE)
             title_text = h1_match.group(2).strip() if h1_match else Path(path).stem.replace("_", " ")
             safe_title = title_text.replace("{", "\\{").replace("}", "\\}")
@@ -231,7 +230,7 @@ def preprocess_files(files: List[str]) -> List[str]:
         if not mainmatter_inserted and (name == "chapter_01.md" or name.startswith("chapter_01.")):
             mainmatter_file = Path(tmpdir) / "01__mainmatter.md"
             with open(mainmatter_file, "w", encoding="utf-8") as mf:
-                mf.write("\\mainmatter\n")
+                mf.write("\\mainmatter\n\\thispagestyle{empty}\n")
             out_files.append(str(mainmatter_file))
             mainmatter_inserted = True
 
@@ -239,7 +238,6 @@ def preprocess_files(files: List[str]) -> List[str]:
         # are lettered (A, B, C, …) and sections are numbered as A.1, A.2, …
         if not appendix_started and (
             ("appendix" in name)
-            or name.startswith("y_appendix")
             or name.startswith("z_appendix")
         ):
             appendix_file = Path(tmpdir) / "98__appendix.md"
@@ -359,11 +357,8 @@ def build_pdf(files: List[str], profile: Optional[str]) -> Path:
     else:
         output_pdf = DEFAULT_OUTPUT_PDF
 
-    # Inject dynamic date and profile metadata (date only prints on the cover page)
-    today_str = datetime.now().strftime("%Y-%m-%d")
+    # Set active profile
     active_profile = profile or "default"
-    # Do not include the profile name on the cover page date line
-    dynamic_date = f"{today_str}"
 
     cmd = [
         "pandoc",
@@ -372,7 +367,6 @@ def build_pdf(files: List[str], profile: Optional[str]) -> Path:
         "--toc",
         "--pdf-engine=tectonic",
         *metadata_args,
-        f"--metadata=date={dynamic_date}",
         f"--metadata=profile={active_profile}",
     ]
 
@@ -399,7 +393,7 @@ def build_pdf(files: List[str], profile: Optional[str]) -> Path:
         print(f"Built (debug): {ROOT_DIR / latex_out.with_suffix('.pdf').name}")
     else:
         print(f"Built: {output_pdf}")
-    
+
     return output_pdf
 
 
@@ -408,7 +402,7 @@ def open_pdf(pdf_path: Path) -> None:
     if not pdf_path.exists():
         print(f"Warning: PDF file not found at {pdf_path}")
         return
-        
+
     # Use platform-specific commands to open the PDF
     try:
         if sys.platform == "darwin":  # macOS
@@ -432,7 +426,7 @@ def main() -> None:
         print("\nUsage: bin/build [profile] [--no-open]")
         print("Run 'bin/build --help' for more information")
         sys.exit(0)
-        
+
     if len(sys.argv) > 1 and sys.argv[1] in ("-h", "--help", "help"):
         print("Usage: bin/build [profile] [--no-open]\n")
         print("Options:")
@@ -447,10 +441,10 @@ def main() -> None:
     no_open = "--no-open" in args
     if no_open:
         args.remove("--no-open")
-    
+
     profile: Optional[str] = args[0] if args else "default"
     available = discover_profiles()
-    
+
     # Check if the profile file exists
     profile_file = METADATA_PROFILES_DIR / f"book-profile-{profile}.yaml"
     if not profile_file.exists():
@@ -461,7 +455,7 @@ def main() -> None:
     convert_html_appendix_if_needed()
     files = read_ordered_files(ORDER_FILE)
     output_pdf = build_pdf(files, profile)
-    
+
     # Open the PDF unless --no-open was specified
     if not no_open:
         open_pdf(output_pdf)

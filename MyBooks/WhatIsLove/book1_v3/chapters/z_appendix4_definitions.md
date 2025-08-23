@@ -154,11 +154,7 @@ GOD (Perfect Truth + Justice + Mercy)
 
 </div>
 
-<div class="back-to-top">
 
-[^ Back to Contents](#toc)
-
-</div>
 
 </div>
 
@@ -365,11 +361,7 @@ damages relationships.
 
 </div>
 
-<div class="back-to-top">
 
-[^ Back to Contents](#toc)
-
-</div>
 
 </div>
 
@@ -503,11 +495,7 @@ schemes.
 
 </div>
 
-<div class="back-to-top">
 
-[^ Back to Contents](#toc)
-
-</div>
 
 </div>
 
