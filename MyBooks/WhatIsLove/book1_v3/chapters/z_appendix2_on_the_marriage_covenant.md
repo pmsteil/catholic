@@ -1,4 +1,4 @@
-# Appendix: The Marriage Covenant—Defending God's Plan for Human Love
+# The Marriage Covenant—Defending God's Plan for Human Love
 
 <div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
 "Have you not read that he who created them from the beginning made them male and female, and said, 'Therefore a man shall leave his father and his mother and hold fast to his wife, and the two shall become one flesh'? So they are no longer two but one flesh. What therefore God has joined together, let not man separate."
