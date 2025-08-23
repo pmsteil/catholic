@@ -1,14 +1,14 @@
 # SUMMA CARITATIS
 ## The Summit of Love: A Letter to the Faithful
 
-*On "Faith Alone" vs. "God's Perfect Love"*
+*On "Faith Alone" and God's Perfect Love*
 
 *"Caritas est vinculum perfectionis"*
 *(Love is the bond of perfection — Colossians 3:14)*
 
 ---
 
-I wrote this book so that I could write this letter! :)
+I wrote the rest of this book so that I could write this letter. :)
 
 ### Why This Letter Matters: A Personal Note
 
@@ -126,6 +126,18 @@ Let us, then, not stand in rival camps shouting slogans across a valley Christ h
 The world is watching. The lost are dying. Our children are suffering.
 
 It's time to lay down our apologetical arms and take up the arms of His Perfect Love.
+
+### The True Summa Caritatis
+
+Let me speak plainly: Christ Himself IS the Summa Caritatis—the Summit and Sum of all Love. He is Perfect Love incarnate, crucified, and risen. This title belongs first and forever to Him.
+
+But here's what changes everything: He doesn't keep this title for Himself. Just as He came not to be served but to serve, He calls us to become living extensions of His Perfect Love. "As the Father has sent me, so I send you" (John 20:21). We "get it" when we realize our whole life must be devoted to continuing HIS work of loving in the way this book has taught—with truth, justice, mercy, sacrifice, and covenant all integrated into one.
+
+For His Kingdom to come on earth as it is in heaven, we must become the soldiers willing to do His work. Not replacing Him as the Summa Caritatis, but becoming countless small reflections of His great Love. Each of us a candle lit from His eternal flame. Each of us a stream flowing from His infinite ocean.
+
+This is why unity matters so desperately. A divided army cannot win a war. Scattered lights cannot pierce the darkness. Separate streams cannot become the flood of love this dying world needs.
+
+When we finally understand that being "saved" means being commissioned—that receiving Perfect Love means becoming channels of Perfect Love—then we'll stop arguing about how salvation works and start working out our salvation by saving others through love.
 
 ### Final Word
 

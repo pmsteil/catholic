@@ -423,14 +423,15 @@ def main() -> None:
         print("Available profiles:")
         for p in discover_profiles():
             print(f"  - {p}")
-        print("\nUsage: bin/build [profile] [--no-open]")
+        print("\nUsage: bin/build [profile] [--no-open] [--all]")
         print("Run 'bin/build --help' for more information")
         sys.exit(0)
 
     if len(sys.argv) > 1 and sys.argv[1] in ("-h", "--help", "help"):
-        print("Usage: bin/build [profile] [--no-open]\n")
+        print("Usage: bin/build [profile] [--no-open] [--all]\n")
         print("Options:")
-        print("  --no-open    Don't automatically open the PDF after building\n")
+        print("  --no-open    Don't automatically open the PDF after building")
+        print("  --all        Build all available profiles (implies --no-open)\n")
         print("Profiles:")
         for p in discover_profiles():
             print(f"  - {p}")
@@ -439,11 +440,35 @@ def main() -> None:
     # Parse arguments
     args = sys.argv[1:]
     no_open = "--no-open" in args
+    build_all = "--all" in args
+    
+    if build_all:
+        no_open = True  # --all implies --no-open
+        args.remove("--all")
+    
     if no_open:
         args.remove("--no-open")
 
     profile: Optional[str] = args[0] if args else "default"
     available = discover_profiles()
+
+    # Handle --all option
+    if build_all:
+        print(f"Building all {len(available)} profiles...")
+        ensure_tools_available()
+        convert_html_appendix_if_needed()
+        files = read_ordered_files(ORDER_FILE)
+        
+        for p in available:
+            print(f"\nBuilding profile: {p}")
+            try:
+                output_pdf = build_pdf(files, p)
+                print(f"✓ Successfully built: {output_pdf.name}")
+            except Exception as e:
+                print(f"✗ Failed to build {p}: {e}")
+        
+        print(f"\nCompleted building all profiles!")
+        return
 
     # Check if the profile file exists
     profile_file = METADATA_PROFILES_DIR / f"book-profile-{profile}.yaml"
