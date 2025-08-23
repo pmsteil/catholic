@@ -6,7 +6,7 @@
 
 What Is Love? presents a clear Catholic vision of love that can heal hearts, renew families, and rebuild culture. Drawing on Scripture, the Catechism, the saints, and lived experience, Patrick Steil distills 2,000 years of wisdom into a concrete, memorable definition:
 
-> “The sacred, sacrificial gift of covenant—binding truth, justice, and mercy—gathering us into life‑giving communion.”
+> “The sacred, sacrificial gift of covenant - binding truth, justice, and mercy - into life‑giving communion.”
 
 This book shows why authentic love always unites God’s truth, God’s justice, and God’s mercy—and how Jesus reveals that unity most perfectly in the Cross and in the Holy Eucharist.
 

@@ -441,12 +441,12 @@ def main() -> None:
     args = sys.argv[1:]
     no_open = "--no-open" in args
     build_all = "--all" in args
-    
+
     if build_all:
         no_open = True  # --all implies --no-open
         args.remove("--all")
-    
-    if no_open:
+
+    if no_open and "--no-open" in args:
         args.remove("--no-open")
 
     profile: Optional[str] = args[0] if args else "default"
@@ -458,7 +458,7 @@ def main() -> None:
         ensure_tools_available()
         convert_html_appendix_if_needed()
         files = read_ordered_files(ORDER_FILE)
-        
+
         for p in available:
             print(f"\nBuilding profile: {p}")
             try:
@@ -466,7 +466,7 @@ def main() -> None:
                 print(f"✓ Successfully built: {output_pdf.name}")
             except Exception as e:
                 print(f"✗ Failed to build {p}: {e}")
-        
+
         print(f"\nCompleted building all profiles!")
         return
 

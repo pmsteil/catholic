@@ -191,7 +191,7 @@ Through careful study of Scripture and the Church's teaching on love, we can see
 <div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 23px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
 <strong>The sacred, sacrificial gift of covenant</strong><br>
 — <em>binding truth, justice, and mercy</em><br>
-— <em>gathering us into life-giving communion</em>
+— <em>into  life-giving communion</em>
 </div>
 
 Let's understand what "perfect" means here. Perfect doesn't mean flawless performance or earning God's love through our efforts. Rather, perfect means *complete* and *integrated*—love that includes all its essential facets working in harmony. Jesus calls us to this perfection: "Be perfect, therefore, as your heavenly Father is perfect" (Matthew 5:48). This is possible not through human effort alone, but through grace (His Perfect Love) that teaches and transforms us. Obviously Jesus is not going to give us a command that we cannot follow.
@@ -216,14 +216,14 @@ Every word matters:
 
 **Mercy:** Love goes beyond what is due, offering forgiveness and second chances. It provides compassion when justice alone would crush. Love is 100% merciful.
 
-**gathering us into:** God's love gathers us into His Kingdom. We're called to be His Kingdom on earth, servants of His love to fight against evil and build up the Kingdom of God.
+**into :** God's love gathers us into His Kingdom. We're called to be His Kingdom on earth, servants of His love to fight against evil and build up the Kingdom of God.
 
 **Life-giving Communion:** Love creates authentic relationship, community, and life. It builds up rather than tears down, unites rather than divides, and generates new life and hope. Love is 100% life-giving.
 
 When all these elements are present together, love becomes perfect—capable of conquering all forms of evil and creating authentic communion between persons. This is what children instinctively understand, what the saints lived, and what Jesus demonstrated perfectly on the cross.
 
 <div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 23px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
-Perfect love is the sacred, sacrificial gift of covenant, binding truth, justice, and mercy, gathering us into life-giving communion.
+Perfect love is the sacred, sacrificial gift of covenant, binding truth, justice, and mercy, into  life-giving communion.
 </div>
 
 This isn't just a definition—it's the complete answer to the problem of evil itself.
@@ -293,7 +293,7 @@ This is true freedom. Jesus said "I am the way, the truth, and the life." (John 
 
 In these first two chapters, we have laid a crucial foundation: the fundamental problem facing humanity is the evil in man's heart, and filling the heart with love is the answer to that problem. We've seen that this isn't just theological theory but corresponds to the deepest cry of every human heart and the natural understanding that even children possess.
 
-Our comprehensive definition—perfect love as "the sacred, sacrificial gift of covenant, binding truth, justice, and mercy, gathering us into life-giving communion"—now serves as our roadmap for the entire journey ahead. Chapters 3 through 7 will unpack each aspect of this definition, showing in detail how each facet of God's perfect love directly combats specific forms of evil in our hearts and in the world. In Chapters 8 through 12, we will explore how the Church that Jesus started pours out His love to us through the sacraments and the teachings of the Church about His love. In chapter 13, we will see how the Gospel is God's perfect love and how we can participate in it through the Church.
+Our comprehensive definition—perfect love as "the sacred, sacrificial gift of covenant, binding truth, justice, and mercy, into  life-giving communion"—now serves as our roadmap for the entire journey ahead. Chapters 3 through 7 will unpack each aspect of this definition, showing in detail how each facet of God's perfect love directly combats specific forms of evil in our hearts and in the world. In Chapters 8 through 12, we will explore how the Church that Jesus started pours out His love to us through the sacraments and the teachings of the Church about His love. In chapter 13, we will see how the Gospel is God's perfect love and how we can participate in it through the Church.
 
 At every step, we will see how God's perfect love—integrating all these elements—is not just a beautiful ideal but the practical, powerful answer to the sin in our hearts that creates evil in the world. Through the Catholic Faith, we have access to the fullness of this love, and through living it authentically, we become witnesses to the world of God's perfect love.
 
