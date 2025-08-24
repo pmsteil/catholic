@@ -118,11 +118,21 @@ def read_ordered_files(order_path: Path) -> List[str]:
 
 def strip_html_tags(text: str) -> str:
     # basic tag stripper for our limited use case
-    return re.sub(r"<[^>]+>", "", text)
+    text = re.sub(r"<[^>]+>", "", text)
+    # Escape LaTeX special characters
+    text = text.replace("#", r"\#")
+    text = text.replace("$", r"\$")
+    text = text.replace("%", r"\%")
+    text = text.replace("&", r"\&")
+    text = text.replace("_", r"\_")
+    text = text.replace("{", r"\{")
+    text = text.replace("}", r"\}")
+    return text
 
 
 def transform_html_widgets(markdown: str) -> str:
-    # Convert custom blockquote divs to Markdown blockquotes
+    # Convert custom blockquote divs to LaTeX blockquote environments
+    # Convert custom callout divs to LaTeX callout environments
     def repl_blockquote(match: re.Match) -> str:
         inner = match.group(1)
         # extract optional author
@@ -131,18 +141,20 @@ def transform_html_widgets(markdown: str) -> str:
         # remove author span from inner
         inner_wo_author = re.sub(r"<span[^>]*class=\"author\"[^>]*>[\s\S]*?</span>", "", inner, flags=re.IGNORECASE)
         text = strip_html_tags(inner_wo_author).strip()
-        lines = [line.strip() for line in text.splitlines() if line.strip()]
-        out = "\n".join(["> " + line_str for line_str in lines])
+
+        # Generate LaTeX blockquote environment
+        content = text
         if author:
-            out += "\n\n> " + author
-        return "\n\n" + out + "\n\n"
+            content += "\n\n" + author
+
+        return f"\n\n\\begin{{blockquote}}\n{content}\n\\end{{blockquote}}\n\n"
 
     def repl_callout(match: re.Match) -> str:
         inner = match.group(1)
         text = strip_html_tags(inner).strip()
-        lines = [line.strip() for line in text.splitlines() if line.strip()]
-        out = "\n".join(["> " + line_str for line_str in lines])
-        return "\n\n" + out + "\n\n"
+
+        # Generate LaTeX callout environment
+        return f"\n\n\\begin{{callout}}\n{text}\n\\end{{callout}}\n\n"
 
     # Patterns span multiple lines
     markdown = re.sub(r"<div[^>]*class=\"blockquote\"[^>]*>([\s\S]*?)</div>", repl_blockquote, markdown, flags=re.IGNORECASE)
