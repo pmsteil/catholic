@@ -1,0 +1,162 @@
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        margin: 0.5em;
+        font-size: 12px;
+    }
+    
+    h1 {
+        text-align: center;
+        margin: 0.5em 0;
+        font-size: 18px;
+    }
+    
+    .grid-container {
+        display: grid;
+        grid-template-columns: repeat(6, 1fr);
+        grid-template-areas:
+            "personal personal baptism baptism sacraments sacraments"
+            "marriage marriage spouse-wrapper spouse-wrapper family family"
+            "admin admin admin notes notes notes";
+        gap: 0.5em;
+    }
+
+    .card-personal { grid-area: personal; }
+    .card-baptism { grid-area: baptism; }
+    .card-sacraments { grid-area: sacraments; }
+    .card-marriage { grid-area: marriage; }
+    .spouse-fiance-wrapper { 
+        grid-area: spouse-wrapper; 
+        display: flex;
+        flex-direction: column;
+        gap: 0.5em;
+    }
+    .card-family { grid-area: family; }
+    .card-admin { grid-area: admin; }
+    .card-notes { grid-area: notes; }
+
+    
+    .card {
+        border: 1px solid #ccc;
+        padding: 0.5em;
+    }
+    
+    .card h2 {
+        margin: 0 0 0.3em 0;
+        font-size: 14px;
+        border-bottom: 1px solid #ccc;
+    }
+    
+    .field {
+        margin: 0.2em 0;
+    }
+    
+    .label {
+        font-weight: bold;
+        display: inline-block;
+        width: 140px;
+    }
+    
+    .blank_label {
+        display: inline-block;
+        font-weight: normal;
+        margin-bottom: 0.8em;
+        width: 140px;
+    }
+    
+
+    
+    ul {
+        margin: 0.2em 0;
+        padding-left: 1.2em;
+    }
+    
+    li {
+        margin: 0.1em 0;
+    }
+</style>
+
+<div class="preview-canvas">
+    <h1>OCIA Intake - Burney Roberts</h1>
+    <div class="grid-container">
+        <div class="card card-personal">
+            <h2>Personal Info</h2>
+            <div class="field"><span class="label">First Name:</span> Burney</div>
+            <div class="field"><span class="label">Middle Name:</span> R</div>
+            <div class="field"><span class="label">Last Name:</span> Roberts</div>
+            <div class="field"><span class="label">Sex / Age:</span> Male / 50</div>
+            <div class="field"><span class="label">Email:</span> burneyroberts75@gmail.com</div>
+            <div class="field"><span class="label">Phone:</span> 9403654062</div>
+            <div class="field"><span class="label">Address:</span> 4245 Sanger Meadow Drive, Sanger TX</div>
+            <div class="field"><span class="label">Personality:</span> Introvert</div>
+
+        </div>
+
+        <div class="card card-baptism">
+            <h2>Baptism Info</h2>
+            <div class="field"><span class="label">Baptized:</span> Yes</div>
+            <div class="field"><span class="label">Denomination:</span> Baptist</div>
+            <div class="field"><span class="label">Age at Baptism:</span> 7</div>
+            <div class="field"><span class="label">Baptismal Name:</span> </div>
+            <div class="field"><span class="label">Place of Baptism:</span> Parker Grove Baptist Church</div>
+            <div class="field"><span class="label">Baptism Address:</span> </div>
+        </div>
+
+        <div class="card card-sacraments">
+            <h2>Sacraments</h2>
+            <div class="field"><span class="label">Catholic Sacraments Received:</span> </div>
+        </div>
+
+        <div class="card card-marriage">
+            <h2>Marriage Info</h2>
+            <div class="field"><span class="label">Marital Status:</span> I am divorced and have remarried</div>
+            <div class="field"><span class="label">Date of Marriage:</span> Wed Dec 21 2022</div>
+            <div class="field"><span class="label">Place of Marriage:</span> Kissimee FL</div>
+            <div class="field"><span class="label">Officiating Authority:</span> Civil</div>
+        </div>
+
+        <div class="spouse-fiance-wrapper">
+            <div class="card card-spouse">
+                <h2>Spouse Info</h2>
+                <div class="field"><span class="label">Spouse Name:</span> Amanda</div>
+                <div class="field"><span class="label">First Marriage For spouse:</span> Been married before</div>
+                <div class="field"><span class="label">Spouse Religion:</span> Christian</div>
+            </div>
+
+            <div class="card card-fiance">
+                <h2>Fiancé Info</h2>
+                <div class="field"><span class="label">Fiancé Name:</span> </div>
+                <div class="field"><span class="label">First Marriage For fiancé:</span> Been married before</div>
+                <div class="field"><span class="label">Fiancé Religion:</span> </div>
+            </div>
+        </div>
+
+        <div class="card card-family">
+            <h2>Family</h2>
+            <div class="field"><span class="label">Children & Dependents:</span>Daughter Reagan 23; Madison 20; McKinley 18; Son Lincoln 16: Stepson Jacob 15; Step Daughter Laila 11</div>
+
+        </div>
+        <div class="card card-admin">
+            <h2>Administrative Use Only</h2>
+            <div class="field"><span class="blank_label">Birth Cert Received:</span> __</div>
+            <div class="field"><span class="blank_label">Baptismal Cert Received:</span> __</div>
+
+            <div class="field"><span class="blank_label">Sacraments Desired:</span> _______________________________</div>
+            <div class="field"><span class="blank_label">Sponsor Name:</span> _______________________________</div>
+            <div class="field"><span class="blank_label">Sponsor Phone:</span> _______________________________</div>
+            <div class="field"><span class="blank_label">Sponsor Email:</span> _______________________________</div>
+
+            <div class="field"><span class="blank_label"><b>OCIA Sacraments:</b></span> </div>
+            <div class="field"><span class="blank_label">Baptism:</span> __</div>
+            <div class="field"><span class="blank_label">First Communion:</span> __</div>
+            <div class="field"><span class="blank_label">Confirmation:</span> __</div>
+
+        </div>
+
+        <div class="card card-notes">
+            <h2>Interview Notes</h2>
+            <div>RSVP: yes Grew up Baptist Master of Theology - Liberty Univ Remarried - wife grew up Catholic Negative stereotype from society Exorcist files - podcast Exploring - open Gone to Mass handful of times Appreciates reverence of the Mass - their to
+            Worship God Friend told him Catholic is master level Christianity Previous Marriage...</div>
+        </div>
+    </div>
+</div>

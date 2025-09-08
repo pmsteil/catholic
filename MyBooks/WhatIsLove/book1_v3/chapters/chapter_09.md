@@ -246,19 +246,20 @@ The Cross shows love's willingness to sacrifice; the Resurrection shows love's e
 
 The Resurrection establishes that perfect love is not bound by the limitations of earthly existence. Christ's glorified humanity enjoys "the sovereign freedom of appearing as he wishes" (CCC 645), demonstrating that love, when perfected, transcends all barriers and limitations. This is why the covenant established in Christ's blood is unbreakable—it participates in the eternal life of God Himself.
 
-We are united - we experience an eternal union with Christ here on earth through the sacraments which also unites us to Him forever in heaven.
+  We are united - we experience an eternal union with Christ here on earth through the sacraments which also unites us to Him forever in heaven.
 
-<div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">Thy Kingdom Come. Thy Will Be Done. On Earth as it is in Heaven.</div>
+  <div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">Thy Kingdom Come. Thy Will Be Done. On Earth as it is in Heaven.</div>
+## Living the Response
 
-## Our Participation in Perfect Love
+  Through the Resurrection, Christ enables us to share in the divine life and gives us the actual capacity to love as God loves, not just the example or forgiveness. This is why the Eucharist makes the entire Paschal Mystery present—both death and resurrection are needed for the full gift of divine love.
 
-Through the Resurrection, Christ enables us to share in the divine life and gives us the actual capacity to love as God loves, not just the example or forgiveness. This is why the Eucharist makes the entire Paschal Mystery present—both death and resurrection are needed for the full gift of divine love.
+  The Resurrection proves that perfect love is not just an impossible ideal but an achievable reality. Through Christ's grace, we can actually live the integrated love we have been exploring. We can be people of truth and mercy, justice and compassion, sacrifice and wisdom, covenant and freedom.
 
-The Resurrection proves that perfect love is not just an impossible ideal but an achievable reality. Through Christ's grace, we can actually live the integrated love we have been exploring. We can be people of truth and mercy, justice and compassion, sacrifice and wisdom, covenant and freedom.
+  **The Pattern for Human Love:** Just as human love must follow the Cross pattern (sacrifice), it must also follow the Resurrection pattern (hope and transformation). Every authentic act of love should participate in the life-giving power of the Resurrection, creating new possibilities and bringing hope into seemingly hopeless situations.
 
-**The Pattern for Human Love:** Just as human love must follow the Cross pattern (sacrifice), it must also follow the Resurrection pattern (hope and transformation). Every authentic act of love should participate in the life-giving power of the Resurrection, creating new possibilities and bringing hope into seemingly hopeless situations.
+  <div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">What would it mean if the world practiced God's Perfect Love?</div>
 
-<div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">What would it mean if the world practiced God's Perfect Love?</div>
+*Risen Lord Jesus, You conquered death and make perfect love our new life. Grant me the grace to live Your Cross-shaped, Resurrection-powered love today—integrating truth, justice, mercy, sacrifice, and covenant in every relationship. Make my life a sign of hope that participates in Your victory. Through Christ our Lord. Amen.*
 
 ## Examen: Perfect Love Incarnate
 

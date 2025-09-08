@@ -1,0 +1,269 @@
+const FOLDER_ID = '1OFPcTbrCBmCDZuoduSlGveaQaweHVVI4'; // Your Drive folder
+
+function onOpen() {
+    SpreadsheetApp.getUi()
+        .createMenu('PDF Tools')
+        .addItem('Generate PDFs for All Rows', 'generatePDFsForAllRows')
+        .addItem('Generate PDF for Selected Rows', 'generatePDFsForSelectedRows')
+        .addToUi();
+}
+
+function generatePDFsForAllRows() {
+    const sheet = SpreadsheetApp.getActiveSpreadsheet().getActiveSheet();
+    const values = sheet.getDataRange().getValues();
+    for (let row = 2; row <= values.length; row++) {
+        generatePDFForRow(row);
+    }
+}
+
+function generatePDFsForSelectedRows() {
+    const sheet = SpreadsheetApp.getActiveSpreadsheet().getActiveSheet();
+    const selected = sheet.getActiveRangeList().getRanges();
+    selected.forEach(range => {
+        const start = range.getRow();
+        const end = start + range.getNumRows();
+        for (let row = start; row < end; row++) {
+            generatePDFForRow(row);
+        }
+    });
+}
+
+function generatePDFForRow(row) {
+    const sheet = SpreadsheetApp.getActiveSpreadsheet().getActiveSheet();
+    const headers = sheet.getRange(1, 1, 1, sheet.getLastColumn()).getValues()[0];
+    const data = sheet.getRange(row, 1, 1, sheet.getLastColumn()).getValues()[0];
+
+    // Create data map for easier access
+    const dataMap = {};
+    headers.forEach((header, index) => {
+        dataMap[header] = data[index] || '';
+    });
+
+    // Helper function to format dates to US format (MM/DD/YYYY)
+    function formatUSDate(dateString) {
+        if (!dateString || dateString === '') return '';
+        try {
+            const date = new Date(dateString);
+            if (isNaN(date.getTime())) return dateString; // Return original if invalid
+            return Utilities.formatDate(date, Session.getScriptTimeZone(), "MM/dd/yyyy");
+        } catch (e) {
+            return dateString; // Return original on error
+        }
+    }
+
+    // Helper function to format timestamps to US format (MM/DD/YYYY hh:mm:ss a)
+    function formatUSTimestamp(dateString) {
+        if (!dateString || dateString === '') return '';
+        try {
+            const date = new Date(dateString);
+            if (isNaN(date.getTime())) return dateString; // Return original if invalid
+            return Utilities.formatDate(date, Session.getScriptTimeZone(), "MM/dd/yyyy hh:mm:ss a");
+        } catch (e) {
+            return dateString; // Return original on error
+        }
+    }
+
+    // Process children/dependents
+    let childrenList = '';
+    if (dataMap["Please list the relationship, name(s) of any children or other dependents and their age (e.g., Daughter — Jane 27; Stepson — John 8)"]) {
+        childrenList = dataMap["Please list the relationship, name(s) of any children or other dependents and their age (e.g., Daughter — Jane 27; Stepson — John 8)"]
+            .split(';')
+            .map(child => `<li>${child.trim()}</li>`)
+            .join('');
+    }
+
+    const nowFormatted = Utilities.formatDate(new Date(), Session.getScriptTimeZone(), "MMMM d, yyyy");
+    let html = `<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0.5em;
+            font-size: 12px;
+        }
+
+        h1 {
+            text-align: center;
+            margin: 0.5em 0;
+            font-size: 18px;
+        }
+
+        .grid-container {
+            display: grid;
+            grid-template-columns: repeat(6, 1fr);
+            grid-template-areas:
+                "personal personal baptism baptism sacraments sacraments"
+                "marriage marriage spouse-wrapper spouse-wrapper family family"
+                "admin admin admin notes notes notes";
+            gap: 0.5em;
+        }
+
+        .card-personal { grid-area: personal; }
+        .card-baptism { grid-area: baptism; }
+        .card-sacraments { grid-area: sacraments; }
+        .card-marriage { grid-area: marriage; }
+        .spouse-fiance-wrapper {
+            grid-area: spouse-wrapper;
+            display: flex;
+            flex-direction: column;
+            gap: 0.5em;
+        }
+        .card-family { grid-area: family; }
+        .card-admin { grid-area: admin; }
+        .card-notes { grid-area: notes; }
+
+
+        .card {
+            border: 1px solid #ccc;
+            padding: 0.5em;
+        }
+
+        .card h2 {
+            margin: 0 0 0.3em 0;
+            font-size: 14px;
+            border-bottom: 1px solid #ccc;
+        }
+
+        .field {
+            margin: 0.2em 0;
+        }
+
+        .label {
+            font-weight: bold;
+            display: inline-block;
+            width: 140px;
+        }
+
+        .blank_label {
+            display: inline-block;
+            font-weight: normal;
+            margin-bottom: 0.8em;
+            width: 140px;
+        }
+
+
+
+        ul {
+            margin: 0.2em 0;
+            padding-left: 1.2em;
+        }
+
+        li {
+            margin: 0.1em 0;
+        }
+    </style>
+</head>
+<body>
+    <h1>OCIA Intake - ${dataMap["First Name"]} ${dataMap["Last Name"]}</h1>
+
+    <p style="text-align:center; font-size: 9px; margin: 0;">Received on ${formatUSTimestamp(dataMap["Timestamp"])}</p>
+    <p style="text-align:center; font-size: 9px; margin: 0;">Generated on ${nowFormatted}</p>
+    <div class="grid-container">
+            <!-- Grid Layout -->
+            <div class="card card-personal">
+                <h2>Personal Info</h2>
+                <div class="field"><span class="label">First Name:</span> ${dataMap["First Name"]}</div>
+                <div class="field"><span class="label">Middle Name:</span> ${dataMap["Middle Name"] || ''}</div>
+                <div class="field"><span class="label">Last Name:</span> ${dataMap["Last Name"]}</div>
+                <div class="field"><span class="label">Sex / Age:</span> ${dataMap["Sex"]} / ${dataMap["Age"]}</div>
+                <div class="field"><span class="label">Email:</span> ${dataMap["Email Address"]}</div>
+                <div class="field"><span class="label">Phone:</span> ${dataMap["Phone"]}</div>
+                <div class="field"><span class="label">Address:</span> ${dataMap["Mailing Address"]}</div>
+                <div class="field"><span class="label">Personality:</span> ${dataMap["Would you consider yourself an introvert (reserved) or extrovert (outgoing)? (used for planning small groups)"] || ''}</div>
+            </div>
+
+            <div class="card card-baptism">
+                <h2>Baptism Info</h2>
+                <div class="field"><span class="label">Baptized:</span> ${dataMap["Have you been baptized?"]}</div>
+                <div class="field"><span class="label">Denomination:</span> ${dataMap["In what denomination where you baptized?"] || ''}</div>
+                <div class="field"><span class="label">Age at Baptism:</span> ${dataMap["Date or your approximate age when you were baptized"] || ''}</div>
+                <div class="field"><span class="label">Baptismal Name:</span> ${dataMap["Baptismal name"] || ''}</div>
+                <div class="field"><span class="label">Place of Baptism:</span> ${dataMap["Place of Baptism"]}</div>
+                <div class="field"><span class="label">Baptism Address:</span> ${dataMap["Address where Baptized, if known"] || ''}</div>
+            </div>
+
+            <div class="card card-sacraments">
+                <h2>Catholic Sacraments</h2>
+                <div class="field"><span class="label">Sacraments Received:</span> ${dataMap["Sacraments Received"] || ''}</div>
+
+            </div>
+
+            <div class="card card-marriage">
+                <h2>Marriage Info</h2>
+                <div class="field"><span class="label">Marital Status:</span> ${dataMap["Current Marital Status"]}</div>
+                <div class="field"><span class="label">First Marriage for you:</span> ${dataMap["This is my"] || ''}</div>
+                <div class="field"><span class="label">Date of Marriage:</span> ${formatUSDate(dataMap["Date of marriage"]) || ''}</div>
+                <div class="field"><span class="label">Place of Marriage:</span> ${dataMap["Place of marriage"] || ''}</div>
+                <div class="field"><span class="label">Officiating Authority:</span> ${dataMap["Officiating Authority of Marriage"] || ''}</div>
+                </div>
+
+                <div class="spouse-fiance-wrapper">
+                <div class="card card-spouse">
+                <h2>Spouse Info</h2>
+                <div class="field"><span class="label">Spouse Name:</span> ${dataMap["Your Spouse’s Name"] || ''}</div>
+                <div class="field"><span class="label">First Marriage For spouse:</span> ${dataMap["For your spouse"] || ''}</div>
+                <div class="field"><span class="label">Spouse Religion:</span> ${dataMap["Your Spouse’s Current Religious Affiliation"] || ''}</div>
+                </div>
+                <div class="card card-fiance">
+                <h2>Fiancé Info</h2>
+                <div class="field"><span class="label">First Marriage for you:</span> ${dataMap["This will be my"] || ''}</div>
+                    <div class="field"><span class="label">Fiancé Name:</span> ${dataMap["Your Fiancé(e)’s Name:"] || ''}</div>
+                    <div class="field"><span class="label">First Marriage For fiancé:</span> ${dataMap["For your fiancé(e)"] || ''}</div>
+                    <div class="field"><span class="label">Fiancé Religion:</span> ${dataMap["Your Fiancé(e)’s Current Religious Affiliation"] || ''}</div>
+                </div>
+            </div>
+
+            <div class="card card-family">
+                <h2>Family</h2>
+                <div class="field"><span class="label">Children & Dependents:</span> ${dataMap["Please list the relationship, name(s) of any children or other dependents and their age (e.g., Daughter — Jane 27; Stepson — John 8)"] || ''}</div>
+            </div>
+
+            <div class="card card-admin">
+                <h2>Administrative Use Only</h2>
+                <div class="field"><span class="blank_label">Birth Cert Received:</span> __</div>
+                <div class="field"><span class="blank_label">Baptismal Cert Received:</span> __</div>
+                <div class="field"><span class="blank_label">Sacraments Desired:</span> _______________________________</div>
+                <div class="field"><span class="blank_label">Sponsor Name:</span> _______________________________</div>
+                <div class="field"><span class="blank_label">Sponsor Phone:</span> _______________________________</div>
+                <div class="field"><span class="blank_label">Sponsor Email:</span> _______________________________</div>
+                <div class="field"><span class="blank_label"><b>OCIA Sacraments:</b></span> </div>
+                <div class="field"><span class="blank_label">Baptism:</span> __</div>
+                <div class="field"><span class="blank_label">First Communion:</span> __</div>
+                <div class="field"><span class="blank_label">Confirmation:</span> __</div>
+            </div>
+
+            <!-- Notes Section -->
+            <div class="card card-notes">
+                <h2>Interview Notes</h2>
+                <div>${dataMap["Interview Notes"] || ''}</div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>`;
+
+    const blob = Utilities.newBlob(html, 'text/html', `FormResponse_${row}.html`).getAs('application/pdf');
+    const folder = DriveApp.getFolderById(FOLDER_ID);
+
+    const firstName = data[headers.indexOf("First Name")] || "First";
+    const lastName = data[headers.indexOf("Last Name")] || "Last";
+    const currentDateFormatted = Utilities.formatDate(new Date(), Session.getScriptTimeZone(), "MM-dd-yyyy");
+    const filename = `${firstName}-${lastName}-${currentDateFormatted}.pdf`;
+
+
+    const pdf = folder.createFile(blob.setName(filename));
+
+    // Look for the 'PDF Link' column
+    let linkCol = headers.indexOf("PDF Link") + 1;
+
+    if (linkCol === 0) {
+        // 'PDF Link' column doesn't exist yet — add it at the end
+        linkCol = headers.length + 1;
+        sheet.getRange(1, linkCol).setValue("PDF Link");
+    }
+
+    // Add the PDF URL in the correct column
+    sheet.getRange(row, linkCol).setValue(pdf.getUrl());
+
+}

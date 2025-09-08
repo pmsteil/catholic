@@ -376,7 +376,7 @@ Within the secure bonds of covenant, all the facets of perfect love find their f
 
 **Sacrifice is meaningful** because covenant guarantees that our gifts are investments in eternal relationships. We can pour out our lives because we know they will bear lasting fruit. God's sacrifice, demonstrated in Christ's death, becomes not loss but the victory that conquers every evil.
 
-## Daily Covenant Living - Make your life a living sacrament!
+## Living the Response
 
 God does not command this love from on high. He does not demand it as a tyrant. Instead, He humbly invites us into His own covenant love. He shows us "the way" by walking it Himself—speaking truth in love, executing justice with mercy, sacrificing everything on the Cross, remaining faithful to His covenant even when we break ours.
 

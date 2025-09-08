@@ -331,7 +331,9 @@ St. Ignatius of Antioch, writing around A.D. 107—just decades after the apostl
 <span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">— St. Ignatius of Antioch, c. A.D. 107</span>
 </div>
 
-When we truly understand this, everything changes. We see that we're not just trying to be "good" people—we're learning to live as people who have been loved with perfect love and called to share that love with the world. We're not just following moral rules—we're participating in the very life of God. We're not just members of an organization—we're part of the Body of Christ, nourished by His perfect love and sent to bring that love to every corner of the world.
+## Living the Response
+
+To live this chapter is to live Eucharistically: at every Mass we receive the Real Presence of Jesus—Body, Blood, Soul, and Divinity, are made present to His once-for-all sacrifice (not repeating it, but truly participating in it), renew the New Covenant and become one Body in real communion with the whole Church, offer ourselves with Christ to the Father—“a living sacrifice” (Romans 12:1)—for the salvation of the world, and are sent (missa) to love with what we have received: truth, justice, mercy, sacrificial covenant, and life-giving communion. This is the source and summit of Christian life: receive, become, and be sent.
 
 *Lord Jesus, thank You for establishing the New Covenant in Your Blood and making Your perfect love present to us in the Eucharist. Help us to understand more deeply the gift You have given us. Transform us through this sacred meal so that we may become what we receive—Your Body in the world, instruments of Your perfect love. Give us the grace to live Eucharistic lives, offering ourselves as You offered Yourself, loving others as You have loved us. Through Your perfect love, make us saints who draw others to encounter You in the Blessed Sacrament. Amen.*
 

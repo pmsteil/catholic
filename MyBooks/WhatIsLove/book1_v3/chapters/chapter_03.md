@@ -615,6 +615,8 @@ The cry for justice is not merely something we observe—it's a call to action. 
 
 **In Our World:** Jesus calls us to be "salt of the earth" and "light of the world" (Matthew 5:13-14). This includes supporting organizations that fight human trafficking, defend religious freedom, protect the unborn, and promote authentic human development. Our justice must extend beyond our immediate circle to embrace all who bear God's image.
 
+*Lord of justice and mercy, write Your law of love upon my heart. Teach me to give each person their due with compassion, to defend the vulnerable with courage, and to worship You with my whole body, mind, and soul. Make my pursuit of justice a service of love, and send me as an instrument of Your peace. Through Christ our Lord. Amen.*
+
 ## Examen: Justice in Daily Life
 
 **Morning:** Before beginning each day, ask yourself: "How can I give each person their due today? How can I honor God's image in myself and others?"
