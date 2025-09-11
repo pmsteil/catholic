@@ -63,7 +63,7 @@ But here's where the story takes a dark turn.
 
 You know something's wrong. You feel it every day. That gap between who you are and who you know you should be. That voice that whispers "not enough" no matter what you achieve. That ache that nothing seems to fill.
 
-It started in a garden. A simple choice: Trust God or be your own god.
+It started in a garden. A simple choice: Trust God or be your own God.
 
 "You will be like God," the serpent promised.
 
@@ -96,7 +96,7 @@ We need a Savior.
 
 This is precisely what the Ten Commandments address, beginning with the first and most fundamental: "You shall have no other gods before me" (Exodus 20:3). Every violation of God's commandments flows from making something other than God into our ultimate good—whether it's money, power, pleasure, or even our own will. This is why both the Old and New Covenants teach the same essential truth: "Love the Lord your God with all your heart, and with all your soul, and with all your mind" (Matthew 22:37; Luke 10:25-27; Deuteronomy 6:5 and many others!). This complete love of God with our whole being—heart, mind, and soul—is the antidote to the slavery of disordered loves.
 
-Worse, when we make lesser things into ultimate things, we inevitably hurt others. The man who makes career his "god" neglects his family. The woman who makes pleasure her "god" uses others for gratification. The society that makes comfort its "god" kills inconvenient children and elderly. The culture that makes individual autonomy its "god" destroys the bonds of marriage, family, and community.
+Worse, when we make lesser things into ultimate things, we inevitably hurt others. The man who makes career his "God" neglects his family. The woman who makes pleasure her "God" uses others for gratification. The society that makes comfort its "God" kills inconvenient children and elderly. The culture that makes individual autonomy its "God" destroys the bonds of marriage, family, and community.
 
 This is why evil exists in the world: not because God created it, but because rational creatures with free will choose lesser goods over the Supreme Good, and these disordered choices create suffering for themselves and others.
 
@@ -286,7 +286,7 @@ This is the complete Gospel our hearts were made for. And so when we understand 
 
 This book is the culmination of 35 years of living life as someone committed to understanding what the Bible says when it mentions "God is Love".  I pray that in reading this book, you have heard the Word of God made flesh, and that you have been transformed by the love of God, and that your heart now burns with desire to become one with Jesus in His Body and Blood, Soul and Divinity—united to Him in every way possible, as He is united to the Father.
 
-If you are not yet Catholic, I invite you to Mass - today. And experience Christ in the Holy Mass that he created for us. Speak to the local priest and ask him to help you understand the Faith of Christ.
+If you are not yet Catholic, I invite you to Mass - today. And experience Christ in the Holy Mass that He created for us. Speak to the local priest and ask him to help you understand the Faith of Christ.
 If you are not yet Catholic, please know that the Eucharist—the Body and Blood of Christ—is the source and summit of our faith, reserved for those who are in full communion with the Catholic Church. This is not exclusion, but rather the Church's loving protection of the sacred mystery and her desire that all who receive Christ be properly prepared and united in the same faith. The Eucharist is the sacrament of unity, and receiving it signifies complete agreement with Catholic teaching and full membership in the Church.
 
 But do not let this discourage you! Come to Mass, witness the beauty of the liturgy, hear the Word of God proclaimed, and let the Holy Spirit work in your heart. Many who are not yet Catholic find that attending Mass regularly becomes a powerful part of their journey toward the Church. Speak with the priest about beginning the Order of Christian Initiation for Adults (OCIA), where you can learn about the faith in a welcoming community and prepare to receive the sacraments of initiation—Baptism (if needed), Confirmation, and First Holy Communion.

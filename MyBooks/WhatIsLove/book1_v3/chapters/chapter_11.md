@@ -1,4 +1,4 @@
-# Counterfeit Love - What Love Is Not
+# Counterfeit Love
 
 <div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
 "Beloved, do not trust every spirit but test the spirits to see whether they belong to God."

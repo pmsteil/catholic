@@ -1,7 +1,7 @@
 # The Sacraments
 
 <div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
-"Husbands, love your wives, even as Christ loved the church and handed himself over for her."
+"Husbands, love your wives, even as Christ loved the Church and handed himself over for her."
 <span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">— Ephesians 5:25</span>
 </div>
 
@@ -459,7 +459,7 @@ The following resources will deepen your understanding of how covenant love inte
 - **Hebrews 5:1-10** - Christ as High Priest according to the order of Melchizedek
 
 **Matrimony:**
-- **Ephesians 5:25-32** - Husbands called to love as Christ loved the Church: "This mystery is a profound one, and I am saying that it refers to Christ and the church"
+- **Ephesians 5:25-32** - Husbands called to love as Christ loved the Church: "This mystery is a profound one, and I am saying that it refers to Christ and the Church"
 - **Matthew 19:3-9** - Jesus on the indissolubility of marriage: "What therefore God has joined together, let not man put asunder"
 - **Mark 10:6-9** - Jesus affirms God's plan for marriage from the beginning
 - **Ephesians 5:21-33** - Marriage as image of Christ's covenant with the Church
@@ -480,13 +480,13 @@ The following resources will deepen your understanding of how covenant love inte
 - **CCC 1499-1532** - Anointing of the Sick: healing within the covenant
 - **CCC 1533-1600** - Holy Orders: pastoral covenant love
 - **CCC 1601-1666** - The Sacrament of Matrimony and covenant love
-- **CCC 2201-2233** - The family as domestic church
+- **CCC 2201-2233** - The family as domestic Church
 - **CCC 2360-2379** - The goods and requirements of conjugal love
 
 **Papal Encyclicals and Documents:**
 
 - **Pope Paul VI, *Humanae Vitae* (1968)** - The prophetic encyclical on human life that warned of contraception's devastating effects on marriage and society
-- **Pope John Paul II, *Familiaris Consortio* (1981)** - "The family, founded upon marriage, is truly the sanctuary of life" - comprehensive teaching on marriage and family as domestic church
+- **Pope John Paul II, *Familiaris Consortio* (1981)** - "The family, founded upon marriage, is truly the sanctuary of life" - comprehensive teaching on marriage and family as domestic Church
 - **Pope John Paul II, *Theology of the Body* (1979-1984)** - Revolutionary teaching showing how the human body reveals God's plan for love: "The body, and it alone, is capable of making visible what is invisible: the spiritual and the divine"
 - **Second Vatican Council, *Gaudium et Spes* 47-52 (1965)** - "The intimate partnership of married life and love has been established by the Creator and qualified by His laws"
 - **Pope Benedict XVI, *Deus Caritas Est* (2005)** - Shows how human love participates in divine love: "Love is indeed 'ecstasy,' not in the sense of a moment of intoxication, but rather as a journey, an ongoing exodus out of the closed inward-looking self towards its liberation through self-giving"

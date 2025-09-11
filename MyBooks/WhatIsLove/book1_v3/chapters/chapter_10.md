@@ -1,4 +1,4 @@
-# The Eucharist - Perfect Love Made Present
+# Eucharist
 
 <div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
 "Do not think that I have come to abolish the Law or the Prophets; I have not come to abolish them but to fulfill them."

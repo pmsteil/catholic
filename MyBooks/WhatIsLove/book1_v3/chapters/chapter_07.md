@@ -163,7 +163,7 @@ Even when we are faithless:
 Paul explains this covenant love:
 
 <div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
-"Husbands, love your wives, as Christ loved the church and gave himself up for her"
+"Husbands, love your wives, as Christ loved the Church and gave himself up for her"
 <span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">— Ephesians 5:25</span>
 </div>
 
@@ -500,7 +500,7 @@ The following resources will deepen your understanding of covenant love as the f
 - **CCC 56-64** - God reveals himself through covenants
 - **CCC 1965-1986** - The New Law and the New Covenant
 - **CCC 1601-1666** - The Sacrament of Matrimony and covenant love
-- **CCC 2201-2233** - The family as domestic church
+- **CCC 2201-2233** - The family as domestic Church
 - **CCC 2360-2379** - The goods and requirements of conjugal love
 
 **Saints for This Chapter:**

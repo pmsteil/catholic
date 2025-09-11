@@ -234,7 +234,7 @@ This integration of our entire being in the practice of mercy reveals a sobering
 
 **The Sacrament of Reconciliation: God's Mercy Made Tangible:**
 
-Jesus himself instituted this sacrament when he breathed on the apostles and said, "Receive the Holy Spirit. If you forgive the sins of any, they are forgiven them; if you withhold forgiveness from any, it is withheld" (John 20:22-23). He gave his Church "the ministry of reconciliation" (2 Corinthians 5:18), and Saint James instructs us to "confess your sins to one another and pray for one another, that you may be healed" (James 5:16).
+Jesus himself instituted this sacrament when He breathed on the apostles and said, "Receive the Holy Spirit. If you forgive the sins of any, they are forgiven them; if you withhold forgiveness from any, it is withheld" (John 20:22-23). He gave His Church "the ministry of reconciliation" (2 Corinthians 5:18), and Saint James instructs us to "confess your sins to one another and pray for one another, that you may be healed" (James 5:16).
 
 In the confessional, we experience mercy in three profound ways:
 

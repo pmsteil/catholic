@@ -223,7 +223,7 @@ Every word matters:
 When all these elements are present together, love becomes perfect—capable of conquering all forms of evil and creating authentic communion between persons. This is what children instinctively understand, what the saints lived, and what Jesus demonstrated perfectly on the cross.
 
 <div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 23px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
-Perfect love is the sacred, sacrificial gift of covenant, binding truth, justice, and mercy, into  life-giving communion.
+God's Perfect Love is the sacred, sacrificial gift of covenant, binding truth, justice, and mercy, into life-giving communion.
 </div>
 
 This isn't just a definition—it's the complete answer to the problem of evil itself.

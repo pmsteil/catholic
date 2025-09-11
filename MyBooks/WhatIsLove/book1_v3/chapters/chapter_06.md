@@ -368,7 +368,7 @@ Sacrifice is not opposed to love—it is love's most authentic expression. As we
 
 Sacrifice conquers the **root evil of selfishness** that places the self above God and neighbor. This selfishness manifests in the seven deadly sins, each representing a different form of disordered self-love:
 
-**Pride** makes us our own god, rejecting divine truth in favor of our own opinions. **Greed** creates disordered attachment to material goods, making us unwilling to share with those in need. **Lust** reduces others to objects for our pleasure, corrupting the gift of sexuality into selfish exploitation.
+**Pride** makes us our own God, rejecting divine truth in favor of our own opinions. **Greed** creates disordered attachment to material goods, making us unwilling to share with those in need. **Lust** reduces others to objects for our pleasure, corrupting the gift of sexuality into selfish exploitation.
 
 **Envy** breeds resentment of others' good fortune and unwillingness to rejoice in their happiness. **Gluttony** demands immediate satisfaction without moderation or gratitude. **Wrath** seeks revenge rather than justice and refuses the hard work of forgiveness. **Sloth** avoids spiritual and moral responsibility, choosing comfort over service and growth.
 

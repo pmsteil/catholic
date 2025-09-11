@@ -1,4 +1,4 @@
-# Why I wrote this book... (don't skip this section!)
+# Introduction
 
 I wrote this book because I have been a Disciple of Jesus for over 35 years and I want to share what He has taught me about THE most important question we can ask: **What is Love?**
 
@@ -34,7 +34,10 @@ God is Love.
 
 And Jesus said the most important commandment was:
 
-> Love the Lord your God with all your heart, with all your soul, with all your strength, and with all your mind; and love your neighbor as yourself. (Matthew 22:37-38)
+<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+"Love the Lord your God with all your heart, with all your soul, with all your strength, and with all your mind; and love your neighbor as yourself."
+<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">— Matthew 22:37-38</span>
+</div>
 
 And He said that loving God and loving your neighbor was the fulfillment of the Law.
 
