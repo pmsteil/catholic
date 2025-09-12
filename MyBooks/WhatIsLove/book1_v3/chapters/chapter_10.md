@@ -1,28 +1,33 @@
 # Eucharist
 
-<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+<div class="blockquote">
 "Do not think that I have come to abolish the Law or the Prophets; I have not come to abolish them but to fulfill them."
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">— Matthew 5:17</span>
+
+\hfill\small — Matthew 5:17
 </div>
 
-<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+<div class="blockquote">
 "You shall love the Lord, your God, with all your heart, with all your soul, and with all your mind... You shall love your neighbor as yourself. The whole law and the prophets depend on these two commandments."
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">— Matthew 22:35-40</span>
+
+\hfill\small — Matthew 22:35-40
 </div>
 
-<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+<div class="blockquote">
 "This is my body, which is given for you... This cup that is poured out for you is the new covenant in my blood."
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">— Luke 22:19-20</span>
+
+\hfill\small — Luke 22:19-20
 </div>
 
-<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+<div class="blockquote">
 "I am the living bread that came down from heaven. Whoever eats of this bread will live forever; and the bread that I will give for the life of the world is my flesh."
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">— John 6:51</span>
+
+\hfill\small — John 6:51
 </div>
 
-<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+<div class="blockquote">
 "The cup of blessing that we bless, is it not a participation in the blood of Christ? The bread that we break, is it not a participation in the body of Christ?"
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">— 1 Corinthians 10:16</span>
+
+\hfill\small — 1 Corinthians 10:16
 </div>
 
 ---
@@ -100,9 +105,10 @@ Jesus deliberately chose the Passover meal to reveal the full meaning of His mis
 
 At the Last Supper, Jesus was surrounded by His disciples—the men He had loved, taught, and served for three years.
 
-<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+<div class="blockquote">
 "Now before the festival of the Passover, Jesus knew that his hour had come to depart from this world and go to the Father. Having loved his own who were in the world, he loved them to the end."
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">— John 13:1</span>
+
+\hfill\small — John 13:1
 </div>
 
 This meal was the ultimate expression of covenant love—Jesus binding Himself permanently to those He loved.
@@ -125,14 +131,16 @@ This is why the Church's liturgical seasons are so profound: they guide us throu
 ### The Words That Changed Everything
 
 When Jesus took the bread and said,
-<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+<div class="blockquote">
 "This is my body, which is given for you"
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">— Luke 22:19</span>
+
+\hfill\small — Luke 22:19
 </div>
 He was making present His future sacrifice on the Cross. When He took the cup and said,
-<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+<div class="blockquote">
 "This cup that is poured out for you is the new covenant in my blood"
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">— Luke 22:20</span>
+
+\hfill\small — Luke 22:20
 </div>
 He was establishing the permanent way His love would remain with us.
 
@@ -140,9 +148,10 @@ These weren't just symbolic words—**they were the words of God Himself**, with
 
 **Why This Matters:** Jesus wasn't just giving us a nice memory or a beautiful symbol. He was giving us the actual reality of His perfect love in a form we could receive. Every time we celebrate the Eucharist, we don't just remember what Jesus did—we participate in the eternal reality of His sacrifice.
 
-<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+<div class="blockquote">
 "The cup of blessing that we bless, is it not a participation in the blood of Christ? The bread that we break, is it not a participation in the body of Christ?"
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">— 1 Corinthians 10:16</span>
+
+\hfill\small — 1 Corinthians 10:16
 </div>
 
 ## John 6: The Promise Fulfilled
@@ -151,16 +160,18 @@ Months before the Last Supper, Jesus had prepared His disciples for this moment.
 
 Many people were scandalized by these words. They asked, *"How can this man give us his flesh to eat?"* (John 6:52). But Jesus didn't soften His words—He made them even stronger:
 
-<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+<div class="blockquote">
 "Very truly, I tell you, unless you eat the flesh of the Son of Man and drink his blood, you have no life in you. Those who eat my flesh and drink my blood have eternal life, and I will raise them up on the last day."
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">— John 6:53-54</span>
+
+\hfill\small — John 6:53-54
 </div>
 
 Many left him, but those that had submitted their lives to him remained.
 
-<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+<div class="blockquote">
 "As a result of this, many of his disciples returned to their former way of life and no longer accompanied him. Jesus then said to the Twelve, "Do you also want to leave?" Simon Peter answered him, "Master, to whom shall we go? You have the words of eternal life. We have come to believe and are convinced that you are the Holy One of God."
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">— John 6:66-69</span>
+
+\hfill\small — John 6:66-69
 </div>
 
 **The Connection to Perfect Love:** Jesus was revealing that perfect love isn't just something we admire from a distance—it's something we must receive into ourselves. To truly live the integrated love we've been exploring, we need more than good intentions or noble ideals. We need the actual life of God within us.
@@ -190,16 +201,18 @@ The story doesn't end with the Cross. On Easter Sunday, the risen Jesus appeared
 In Luke 24, we read about Jesus appearing to the disciples on the road to Emmaus. Notice the pattern:
 
 **First, Jesus explained the Scriptures:**
-<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+<div class="blockquote">
 "Then beginning with Moses and all the prophets, he interpreted to them the things about himself in all the scriptures"
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">— Luke 24:27</span>
+
+\hfill\small — Luke 24:27
 </div>
 This is the Liturgy of the Word—Jesus showing how all of Scripture points to Him and His perfect love.
 
 **Then, Jesus broke bread:**
-<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+<div class="blockquote">
 "When he was at the table with them, he took bread, blessed and broke it, and gave it to them. Then their eyes were opened, and they recognized him"
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">— Luke 24:30-31</span>
+
+\hfill\small — Luke 24:30-31
 </div>
 This is the Liturgy of the Eucharist—Jesus making Himself present through the breaking of bread.
 
@@ -319,16 +332,18 @@ Every time we celebrate Mass, we encounter the same perfect love that was reveal
 
 This is why the Church has always taught that the Eucharist is the center of Christian life. It's not just one devotion among many—it's the source from which all authentic love flows and the summit toward which all authentic love points. Jesus gives us His one sacrifice in the one Mass that unites us all.
 
-<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+<div class="blockquote">
 "For just as the body is one and has many members, and all the members of the body, though many, are one body, so it is with Christ. For in one Spirit we were all baptized into one body—Jews or Greeks, slaves or free—and we were all given to drink of one Spirit."
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">— 1 Corinthians 12:12-13</span>
+
+\hfill\small — 1 Corinthians 12:12-13
 </div>
 
 St. Ignatius of Antioch, writing around A.D. 107—just decades after the apostles—understood this profound unity:
 
-<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+<div class="blockquote">
 "Take care, then, to use one Eucharist, so that whatever you do, you do according to God: for there is one flesh of our Lord Jesus Christ, and one cup in union with his blood, one altar, just as there is one bishop with the presbytery and the deacons, my fellow servants — in this way whatever you do is in accordance with God."
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">— St. Ignatius of Antioch, c. A.D. 107</span>
+
+\hfill\small — St. Ignatius of Antioch, c. A.D. 107
 </div>
 
 ## Living the Response

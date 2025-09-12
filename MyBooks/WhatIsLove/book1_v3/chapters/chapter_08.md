@@ -1,18 +1,21 @@
 # The Sacraments
 
-<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+<div class="blockquote">
 "Husbands, love your wives, even as Christ loved the Church and handed himself over for her."
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">— Ephesians 5:25</span>
+
+\hfill\small — Ephesians 5:25
 </div>
 
-<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+<div class="blockquote">
 "I will put my laws on their hearts, and write them on their minds."
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">— Hebrews 10:16</span>
+
+\hfill\small — Hebrews 10:16
 </div>
 
-<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+<div class="blockquote">
 "By this all people will know that you are my disciples, if you have love for one another."
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">— John 13:35</span>
+
+\hfill\small — John 13:35
 </div>
 
 ---
@@ -87,9 +90,10 @@ Remember our definition of God's perfect love: the integration of truth, justice
 
 When Jesus instituted the sacraments during His earthly ministry, He was creating permanent channels through which His perfect love could flow to us across all time and space. Whether it's the cleansing waters of Baptism, the nourishing bread and wine of the Eucharist, or the healing touch of the priest in Confession, each sacrament is God actively pouring out that sacred gift of His perfect love upon us.
 
-<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+<div class="blockquote">
 "The sacraments are efficacious signs of grace, instituted by Christ and entrusted to the Church, by which divine life is dispensed to us."
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">— Catechism of the Catholic Church 1131</span>
+
+\hfill\small — Catechism of the Catholic Church 1131
 </div>
 
 This is why the sacraments are so powerful—they are not mere symbols or human ceremonies, but God Himself giving us His perfect love in ways we can see, touch, taste, and experience. In every sacrament, that sacred gift pours out on us, transforming us from within and drawing us deeper into covenant relationship with Him.
@@ -102,9 +106,10 @@ Can you avoid murder, rape, genocide—can you avoid mortal sin? Yes! Can you av
 
 This is the wonderful gift Paul gives us in warning us about sins that are deadly to the soul:
 
-<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+<div class="blockquote">
 "If anyone sees his brother committing a sin not leading to death, he shall ask, and God will give him life—to those who commit sins that do not lead to death. There is sin that leads to death; I do not say that one should pray for that. All wrongdoing is sin, but there is sin that does not lead to death."
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">— Galatians 6:7-8</span>
+
+\hfill\small — Galatians 6:7-8
 </div>
 
 Paul warns us so that we can fulfill the perfect love God desires for us—avoiding mortal sin (sin that destroys our relationship with God) and hopefully maturing in faith so that the only sins we commit are venial sins.
@@ -125,9 +130,10 @@ Paul warns us so that we can fulfill the perfect love God desires for us—avoid
 
 This is God's plan for our spiritual growth: that we would mature from committing mortal sins (relationship-destroying) to committing only venial sins (relationship-wounding), and eventually, through the sacraments and daily grace, grow in such union with Christ that we sin less and less. This is how we can be perfect as Jesus and the Father are perfect:
 
-<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+<div class="blockquote">
 "You therefore must be perfect, as your heavenly Father is perfect."
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">— Matthew 5:48</span>
+
+\hfill\small — Matthew 5:48
 </div>
 
 This perfection isn't achieved through our own willpower alone, but through the sacramental life that channels God's grace into our souls, gradually transforming us from within until we truly love as Christ loves. Jesus calls us into His idea of a perfect, integrated love rather than our human idea that we must be without any sin whatsoever in order to be perfect.
@@ -151,9 +157,10 @@ What does it mean to become God's child? Baptism initiates us into the fundament
 
 When we enter the Church through Baptism, we are not merely joining a human organization—we are entering as children of our Father into the Kingdom of God itself. Baptism leaves an indelible mark on our soul, a spiritual seal that can never be removed or destroyed. We become permanent members of God's Kingdom, citizens of heaven even while we journey on earth.
 
-<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+<div class="blockquote">
 "Baptism seals the Christian with the indelible spiritual mark of his belonging to Christ. No sin can erase this mark, even if sin prevents Baptism from bearing the fruits of salvation."
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">— Catechism of the Catholic Church 1272</span>
+
+\hfill\small — Catechism of the Catholic Church 1272
 </div>
 
 This is why you are "registered" in a parish, but your membership is truly in the Kingdom of God. Parish registration is merely administrative—a practical way to organize pastoral care and community life. But your real membership, your true citizenship, is in the Kingdom of Heaven itself. The parish serves you as a member of God's universal family, but it does not define or limit your membership.
@@ -174,9 +181,10 @@ The Holy Spirit, who first came upon us at Baptism, now strengthens us with His 
 
 Why does the Church require weekly Mass attendance? The Eucharist stands at the center of all covenant relationships as the source and summit of covenant love. In Jesus' own words, "This is my blood of the new covenant" (Matthew 26:28), the Mass is the ultimate new covenant renewal ceremony.
 
-<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+<div class="blockquote">
 "The Eucharist is the source and summit of the Christian life."
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">— Catechism of the Catholic Church 1324</span>
+
+\hfill\small — Catechism of the Catholic Church 1324
 </div>
 
 But the Eucharist is far more than just a weekly obligation—it is our regular participation in the New Covenant itself. Every time we receive Holy Communion, we are literally receiving the Body and Blood of Christ that sealed the New Covenant on Calvary. We are not just remembering what Jesus did; we are participating in the eternal reality of His sacrifice.
@@ -201,9 +209,10 @@ Just as married couples benefit from regularly renewing their vows, the Eucharis
 While the Church requires weekly Mass attendance, she encourages daily participation when possible. Why? Because covenant love needs constant renewal. Just as married couples need daily expressions of love to keep their relationship strong, our covenant with God flourishes through frequent Eucharistic communion.
 
 The saints understood this.
-<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+<div class="blockquote">
 "It is not to remain in a golden ciborium that He comes down each day from heaven, but to find another heaven, the heaven of our soul in which He takes delight."
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">— St. Thérèse of Lisieux</span>
+
+\hfill\small — St. Thérèse of Lisieux
 </div>
 Daily Mass becomes daily covenant renewal, daily reception of the grace we need to live authentic love.
 
@@ -232,9 +241,10 @@ The same thing happens with God when we commit serious sin. Our "spiritual birth
 
 This is why we need the Sacrament of Reconciliation. We don't need to get "re-baptized" any more than an estranged married couple needs to get "re-married." We need to restore the relationship within the permanent bond that already exists.
 
-<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+<div class="blockquote">
 "Those who approach the sacrament of Penance obtain pardon from God's mercy for the offense committed against him, and are, at the same time, reconciled with the Church."
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">— Catechism of the Catholic Church 1422</span>
+
+\hfill\small — Catechism of the Catholic Church 1422
 </div>
 
 **Frequent Confession and Covenant Fidelity:**
@@ -290,9 +300,10 @@ Marriage is the archetype of all covenant relationships, reflecting God's own fa
 
 In the Sacrament of Matrimony, God Himself joins the couple who freely choose to enter into this covenant together, making their love a participation in His own divine love. This is why the Church teaches that a valid marriage cannot be dissolved—because God Himself has created the bond. The couple doesn't just promise to love each other; they become one flesh through God's action, creating a new reality that transcends their individual wills.
 
-<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+<div class="blockquote">
 The intimate partnership of married life and love has been established by the Creator and qualified by His laws, and is rooted in the conjugal covenant of irrevocable personal consent.
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">— Second Vatican Council</span>
+
+\hfill\small — Second Vatican Council
 </div>
 
 Through their marriage covenant, spouses create what St. John Paul II called "a communion of persons"—a living image of the Trinity's own life of love.

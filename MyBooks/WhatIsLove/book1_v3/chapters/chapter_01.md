@@ -1,13 +1,15 @@
 # Evil
 
-<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+<div class="blockquote">
 "We know that all creation is groaning in labor pains even until now."
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">— Romans 8:22</span>
+
+\hfill\small — Romans 8:22
 </div>
 
-<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+<div class="blockquote">
 "If God the Father almighty, the Creator of the ordered and good world, cares for all his creatures, why does evil exist? To this question, as pressing as it is unavoidable and as painful as it is mysterious, no quick answer will suffice. Only Christian faith as a whole constitutes the answer to this question: the goodness of creation, the drama of sin and the patient love of God who comes to meet man by his covenants, the redemptive Incarnation of his Son, his gift of the Spirit, his gathering of the Church, the power of the sacraments and his call to a blessed life to which free creatures are invited to consent in advance, but from which, by a terrible mystery, they can also turn away in advance. There is not a single aspect of the Christian message that is not in part an answer to the question of evil."
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">— Catechism of the Catholic Church 309</span>
+
+\hfill\small — Catechism of the Catholic Church 309
 </div>
 
 ---
@@ -106,9 +108,10 @@ This is the anatomy of every sin: We trade what lasts for what doesn't. We give 
 
 ## Sin: The Root of All Evil
 
-<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+<div class="blockquote">
 "Sin is not just a psychological weakness... It is something much more serious: it is a mystery of iniquity that affects the very heart of human existence."
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">Pope John Paul II, <em>Reconciliatio et Paenitentia</em> 15</span>
+
+\hfill\small — Pope John Paul II, <em>Reconciliatio et Paenitentia</em> 15
 </div>
 
 **What is Sin?** The Catechism teaches that "sin is an offense against reason, truth, and right conscience; it is failure in genuine love for God and neighbor caused by a perverse attachment to certain goods" (CCC 1849). Every sin, whether it seems "small" or "great," is fundamentally a *choice* to reject authentic love—love of God, love of neighbor, or proper love of self.
@@ -122,18 +125,20 @@ This is the anatomy of every sin: We trade what lasts for what doesn't. We give 
 - **Social evil** flows from collective sins that become embedded in systems and cultures
 - **Spiritual evil** flows from the fundamental sin of rejecting God Himself
 
-<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+<div class="blockquote">
 "Original sin is the 'reverse side' of the Good News that Jesus is the Savior of all men, that all need salvation and that salvation is offered to all through Christ."
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">Catechism of the Catholic Church 389</span>
+
+\hfill\small — Catechism of the Catholic Church 389
 </div>
 
 **Why Sin Always Produces Evil:** Because we're created in the image of God and made for love, sin is always a choice against our own deepest nature. It promises happiness but delivers misery. Promises freedom but delivers slavery. Promises life but delivers death. The consequences are devastatingly real: waves of pain, broken relationships, and cycles of suffering that ripple outward from every choice to reject love.
 
 **The Gravity of Our Choices:** Understanding this relationship between sin and evil reveals why the Church takes sin so seriously. It's not because God is a harsh judge looking to condemn us, but because sin literally destroys what we're made for—love, communion, happiness, peace. Every sin, no matter how "small" it seems, contributes to the ocean of evil drowning our world in suffering.
 
-<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+<div class="blockquote">
 "Sin is before all else an offense against God, a rupture of communion with him. At the same time it damages communion with the Church."
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">Catechism of the Catholic Church 1440</span>
+
+\hfill\small — Catechism of the Catholic Church 1440
 </div>
 
 Every sin is public—a wound to the entire Body of Christ.
@@ -229,25 +234,28 @@ As we see in the story of Cain and Abel (Genesis 4:1-16), evil entered the world
 
 The Catechism teaches us that each human being has the ability to choose between good and evil.
 
-<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+<div class="blockquote">
 "God created man a rational being, conferring on him the dignity of a person who can initiate and control his own actions. God willed that man should be 'left in the hand of his own counsel,' so that he might of his own accord seek his Creator and freely attain his full and blessed perfection by cleaving to him."
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">— Catechism of the Catholic Church 1730</span>
+
+\hfill\small — Catechism of the Catholic Church 1730
 </div>
 
 This gift of free will makes us capable of great good, but also capable of choosing evil. As the Catechism further explains:
 
-<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+<div class="blockquote">
 "Sin is an offense against reason, truth, and right conscience; it is failure in genuine love for God and neighbor caused by a perverse attachment to certain goods"
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">— Catechism of the Catholic Church 1849</span>
+
+\hfill\small — Catechism of the Catholic Church 1849
 </div>
 
 **This is the crucial insight**: Evil is not some external force that attacks us from outside. Evil originates in the human heart when we choose our own will over God's will, our own desires over the good of others, our own immediate gratification over what is truly good. Every act of moral evil—from the "smallest" lie to the greatest atrocity—begins with a choice made in a human heart to reject God's love and embrace selfishness.
 
 This means that if we want to fight evil effectively, we cannot simply address external symptoms. We must address the source: the human heart that chooses evil over good, self over others, pride over humility, hatred over love.
 
-<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+<div class="blockquote">
 "Evil has no positive nature; but the loss of good has received the name 'evil.'"
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">St. Augustine, City of God, Book XI, Chapter 9</span>
+
+\hfill\small — St. Augustine, City of God, Book XI, Chapter 9
 </div>
 
 To fight against evil, we need something powerful enough to transform the very source of the problem—the human heart. We need something that can heal what's broken, restore what's lost, and integrate all those essential elements we've identified. What this transformative power is—and how it works—will be our topic for Chapter 2 and the rest of this book.

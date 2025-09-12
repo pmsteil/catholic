@@ -1,18 +1,21 @@
 # Truth
 
-<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+<div class="blockquote">
 "I am the way, and the truth, and the life."
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">John 14:6</span>
+
+\hfill\small — John 14:6
 </div>
 
-<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+<div class="blockquote">
 "...and you will know the truth, and the truth will set you free."
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">John 8:32</span>
+
+\hfill\small — John 8:32
 </div>
 
-<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+<div class="blockquote">
 "Man naturally tends toward truth. He is obliged to honor and bear witness to it."
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">Catechism of the Catholic Church 2467</span>
+
+\hfill\small — Catechism of the Catholic Church 2467
 </div>
 
 ---
@@ -87,9 +90,10 @@ The Catechism teaches us that "Man naturally tends toward truth. He is obliged t
 
 As we come to know God's Truth of who He is and how His truths teach us to love, we're brought out of darkness into light. Read John 3:16–21.
 
-<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+<div class="blockquote">
 "But whoever lives the truth comes to the light, so that his works may be clearly seen as done in God."
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">John 3:21</span>
+
+\hfill\small — John 3:21
 </div>
 
 ## The Nature of True Truth
@@ -339,7 +343,8 @@ And over all these virtues put on love, which <strong><u>binds</u> them all toge
 Let the peace of Christ rule in your hearts, since as members of one body you were called to peace [COMMUNION]. And be thankful. Let the message of Christ dwell among you richly [TRUTH] as you teach and admonish one another with all wisdom through psalms, hymns, and songs from the Spirit, singing to God with gratitude in your hearts.
 
 And whatever you do, whether in word or deed, do it all in the name of the Lord Jesus, giving thanks to God the Father through him [LIVING THE INTEGRATION OF GOD'S PERFECT LOVE]."
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">— Colossians 3:12-17</span>
+
+\hfill\small — Colossians 3:12-17
 </div>
 
 Now you see it.

@@ -1,18 +1,21 @@
 # Justice
 
-<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+<div class="blockquote">
 "Learn to do good; seek justice, correct oppression; bring justice to the fatherless, plead the widow's cause."
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">Isaiah 1:17</span>
+
+\hfill\small — Isaiah 1:17
 </div>
 
-<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+<div class="blockquote">
 "He has told you, O man, what is good; and what does the Lord require of you but to do justice, and to love kindness, and to walk humbly with your God?"
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">Micah 6:8</span>
+
+\hfill\small — Micah 6:8
 </div>
 
-<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+<div class="blockquote">
 "Justice is the constant and perpetual will to give each person his due."
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">St. Thomas Aquinas, Summa Theologiae II-II, q. 58, a. 1</span>
+
+\hfill\small — St. Thomas Aquinas, Summa Theologiae II-II, q. 58, a. 1
 </div>
 
 ---
@@ -204,9 +207,10 @@ Why should we submit to God's authority? St. Thomas Aquinas offers a profound ye
 
 #### 1. God is Our Source and Destination
 
-<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+<div class="blockquote">
 "God is the first principle and last end of all things."
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">St. Thomas Aquinas, Summa Theologiae I, q. 2–3; I-II, q. 1, a. 8</span>
+
+\hfill\small — St. Thomas Aquinas, Summa Theologiae I, q. 2–3; I-II, q. 1, a. 8
 </div>
 
 Think of it this way: just as children naturally owe respect to the parents who gave them life, we have a fundamental duty to God because:
@@ -229,9 +233,10 @@ This duty flows from justice itself: we owe God perfect justice because we owe H
 
 Therefore, **to resist God's authority is not just disobedience—it is irrational.** It is to rebel against what is best for us. As Aquinas explains:
 
-<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+<div class="blockquote">
 "The moral precepts of the natural law are part of the eternal law... therefore, we are bound to obey them."
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">St. Thomas Aquinas, Summa Theologiae I-II, q. 91–93</span>
+
+\hfill\small — St. Thomas Aquinas, Summa Theologiae I-II, q. 91–93
 </div>
 
 When we submit to God's justice, we are not surrendering our freedom—we are discovering what true freedom means: the ability to choose what is genuinely good for us and for all creation.
@@ -244,9 +249,10 @@ The "author" of justice has true "authority"—but true authority is never dicta
 
 **The deepest reason we owe God perfect justice is that we are rational beings made in His image.** Aquinas defines the natural law as:
 
-<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+<div class="blockquote">
 "The rational creature's participation in the eternal law."
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">St. Thomas Aquinas, Summa Theologiae I-II, q. 91, a. 2</span>
+
+\hfill\small — St. Thomas Aquinas, Summa Theologiae I-II, q. 91, a. 2
 </div>
 
 **Because we are rational beings created in God's image, our freedom finds its perfection not in autonomy, but in voluntary, humble obedience to right reason, which is a participation in God's eternal wisdom.** This means:
@@ -341,25 +347,28 @@ True justice is fundamentally about **giving each being what they are owed** acc
 Scripture reveals that different beings deserve different types and degrees of reverence, creating what we might call a proper ordering of our duties. This hierarchy isn't arbitrary but reflects the order established by God Himself:
 
 ### God First: The Great Commandment
-<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+<div class="blockquote">
 "You shall love the Lord your God with all your heart and with all your soul and with all your mind. This is the great and first commandment."
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">Matthew 22:37-38
+
+\hfill\small — Matthew 22:37-38
 </div>
 
 Jesus teaches that our first duty of justice is to God—giving Him the supreme worship, adoration, and obedience He deserves as Creator and Father with our entire being - our body, mind, and soul. If you study carefully, all the other commandments reiterate this same duty - do not give your 'worthship' to things that are not God (the idols of our hearts, money, power, lust, envy, anger, etc.)
 
 ### Parents and Authority: The Fourth Commandment
-<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+<div class="blockquote">
 "Honor your father and your mother, that your days may be long in the land that the Lord your God is giving you."
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">Exodus 20:12</span>
+
+\hfill\small — Exodus 20:12
 </div>
 
 Scripture consistently places honor for parents and legitimate authority immediately after duties to God, showing their special place in the hierarchy of justice. This is the only one that comes with a promise - why? Because honoring your parents (those that physically created you) passes on the gift of God's Perfect Love from one generation to the next.
 
 ### Neighbor as Yourself: The Second Great Commandment
-<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+<div class="blockquote">
 "And a second is like it: You shall love your neighbor as yourself."
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">Matthew 22:39</span>
+
+\hfill\small — Matthew 22:39
 </div>
 
 Jesus reveals that justice toward our neighbor must be measured by proper justice (and mercy) toward ourselves—neither neglecting our legitimate needs nor serving ourselves at others' expense.
@@ -369,15 +378,17 @@ Jesus reveals that justice toward our neighbor must be measured by proper justic
 "Give to Caesar what is Caesar's, and to God what is God's." (Mark 12:17)
 <br><br>
 "Obey your leaders and submit to them, for they are keeping watch over your souls, as those who will have to give an account. Let them do this with joy and not with groaning, for that would be of no advantage to you."
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">Hebrews 13:17</span>
+
+\hfill\small — Hebrews 13:17
 </div>
 
 This shows that both civil and religious authority have a special place in the hierarchy of justice, with civil authority having the duty to protect the common good and religious authority having the duty to protect the faith.
 
 ### Creation Under Our Stewardship
-<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+<div class="blockquote">
 "And God said to them, 'Be fruitful and multiply and fill the earth and subdue it, and have dominion over the fish of the sea and over the birds of the heavens and over every living thing that moves on the earth.'"
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">Genesis 1:28</span>
+
+\hfill\small — Genesis 1:28
 </div>
 
 Scripture shows that humans have a special responsibility for creation—not as owners but as stewards accountable to God.
@@ -468,9 +479,10 @@ The crowd explodes in outrage. A sinner's house! This man who's stolen from wido
 
 But watch what happens when mercy enters that house:
 
-<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+<div class="blockquote">
 "Behold, Lord, the half of my goods I give to the poor. And if I have defrauded anyone of anything, I restore it fourfold."
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">Luke 19:8</span>
+
+\hfill\small — Luke 19:8
 </div>
 
 The Law required double restitution for theft. Zacchaeus offers four times. Why? Because real mercy doesn't excuse injustice—it awakens the desperate desire to make things right.
@@ -481,9 +493,10 @@ Jesus didn't demand this restitution. Love inspired it.
 
 When the rich young man asked about eternal life, Jesus first pointed him to justice—keeping the commandments. But then He revealed that perfect love requires going beyond minimal justice. Read Mark 10:17-22.
 
-<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+<div class="blockquote">
 "You lack one thing: go, sell all that you have and give to the poor, and you will have treasure in heaven; and come, follow me."
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">Mark 10:21</span>
+
+\hfill\small — Mark 10:21
 </div>
 
 Jesus showed that while justice establishes the foundation (keeping commandments), love calls us to generous sacrifice that serves others' needs. The young man's sadness reveals how difficult it is to move from mere justice to perfect love.
@@ -526,14 +539,16 @@ These Gospel examples show us that authentic justice and mercy don't compete—t
 
 Justice is not opposed to love but is love's foundation. Without justice, love becomes mere sentiment; without love, justice becomes cold legalism. Perfect love requires both.
 
-<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+<div class="blockquote">
 "Justice without mercy is cruelty; mercy without justice is the mother of dissolution." (Dissolution is the breakdown of order)
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">St. Thomas Aquinas, Summa Theologiae. Thomas Aquinas</span>
+
+\hfill\small — St. Thomas Aquinas, Summa Theologiae. Thomas Aquinas
 </div>
 
-<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+<div class="blockquote">
 "Love will always prove necessary, even in the most just society."
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">— Pope Benedict XVI, Deus Caritas Est</span>
+
+\hfill\small — Pope Benedict XVI, Deus Caritas Est
 </div>
 
 **Creates Order:** Justice establishes the conditions in which love can flourish. When people know their rights will be respected and their dignity honored, they can trust enough to love.
@@ -558,9 +573,10 @@ God's mercy flows from His perfect justice - true justice and mercy are intertwi
 
 The universal cry for justice is particularly urgent in our contemporary world, where fundamental human rights face serious challenges:
 
-<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+<div class="blockquote">
 "Justice is both the aim and the intrinsic criterion of all politics. Politics is more than a mere mechanism for defining the rules of public life: its origin and its goal are found in justice, which by its very nature has to do with ethics."
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">— Pope Benedict XVI, Deus Caritas Est</span>
+
+\hfill\small — Pope Benedict XVI, Deus Caritas Est
 </div>
 
 **Threats to Human Dignity:** When societies fail to recognize that every person is created in God's image, they risk treating some lives as less valuable than others. This affects the most vulnerable—the unborn, elderly, disabled, and poor.

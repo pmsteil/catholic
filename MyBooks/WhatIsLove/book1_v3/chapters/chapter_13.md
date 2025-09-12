@@ -1,18 +1,21 @@
 # The "Gospel"
 
-<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+<div class="blockquote">
 "God is love, and whoever remains in love remains in God and God in him."
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">1 John 4:16</span>
+
+\hfill\small — 1 John 4:16
 </div>
 
-<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+<div class="blockquote">
 "For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life."
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">John 3:16</span>
+
+\hfill\small — John 3:16
 </div>
 
-<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+<div class="blockquote">
 "The whole concern of doctrine and its teaching must be directed to the love that never ends. Whether something is proposed for belief, for hope, or for action, the love of our Lord must always be made accessible, so that anyone can see that <u><b>all the works of perfect Christian virtue spring from love and have no other objective than to arrive at love.</b></u>"
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">Catechism of the Catholic Church 25</span>
+
+\hfill\small — Catechism of the Catholic Church 25
 </div>
 
 ---
@@ -122,9 +125,10 @@ At the Last Supper, Jesus gave us the Eucharist—His own Body and Blood under t
 
 The Eucharist reveals the depth of God's love: He doesn't just tell us He loves us, He gives us Himself.
 
-<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+<div class="blockquote">
 "I am the bread of life. Whoever comes to me will never go hungry, and whoever believes in me will never be thirsty. I am the bread of life. Your ancestors ate the manna in the desert, but they died; this is the bread that comes down from heaven so that one may eat it and not die. I am the living bread that came down from heaven; whoever eats this bread will live forever; and the bread that I will give is my flesh for the life of the world."
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">John 6:35, 48-51</span>
+
+\hfill\small — John 6:35, 48-51
 </div>
 
 He doesn't just forgive our sins from a distance, He comes to dwell within us. He doesn't just promise us eternal life, He begins to live that life in us right now through His sacramental presence. Through this ultimate, perfect, sacred sacrifice—offered once for all time—Jesus shows us that no matter what we have done to offend God, His full and perfect mercy is available to every repentant heart.
@@ -153,26 +157,30 @@ Through His life, death, and resurrection, Jesus established a New Covenant—no
 
 This New Covenant is not a set of rules to demand obedience but to draw us into humble, obedient, sacrificial love. Consider His revolutionary teachings that redefine love itself:
 
-<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+<div class="blockquote">
 "You have heard that it was said, 'You shall love your neighbor and hate your enemy.' But I say to you, love your enemies and pray for those who persecute you, that you may be children of your heavenly Father, for he makes his sun rise on the evil and on the good, and sends rain on the righteous and on the unrighteous."
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">Matthew 5:43-45</span>
+
+\hfill\small — Matthew 5:43-45
 </div>
 
-<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+<div class="blockquote">
 "A new commandment I give to you, that you love one another: just as I have loved you, you also are to love one another. By this all people will know that you are my disciples, if you have love for one another."
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">John 13:34-35</span>
+
+\hfill\small — John 13:34-35
 </div>
 
-<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+<div class="blockquote">
 "Greater love has no one than this, that someone lay down his life for his friends. You are my friends if you do what I command you."
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">John 15:13-14</span>
+
+\hfill\small — John 15:13-14
 </div>
 
 But the New Covenant was not just proclaimed in words—it was instituted in the most sacred moment of human history. At the Last Supper, Jesus spoke the words that established this eternal covenant between God and humanity:
 
-<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+<div class="blockquote">
 "Take this, all of you, and eat of it, for this is my body, which will be given up for you... Take this, all of you, and drink from it, for this is the chalice of my blood, the blood of the new and eternal covenant, which will be poured out for you and for many for the forgiveness of sins. Do this in memory of me."
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">Matthew 26:26-28; Luke 22:19-20</span>
+
+\hfill\small — Matthew 26:26-28; Luke 22:19-20
 </div>
 
 These words of institution reveal the heart of the New Covenant: it is sealed not with the blood of animals, as the Old Covenant was, but with the precious blood of God's own Son. This covenant is "new" because it accomplishes what the Old Covenant could only point toward—the complete forgiveness of sins and the restoration of humanity to friendship with God. It is "eternal" because it will never be superseded or replaced, and its effects last forever.

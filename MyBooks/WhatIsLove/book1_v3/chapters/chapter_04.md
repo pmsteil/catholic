@@ -1,13 +1,15 @@
 # Mercy
 
-<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+<div class="blockquote">
 "Be merciful, just as your Father is merciful."
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">— Luke 6:36</span>
+
+\hfill\small — Luke 6:36
 </div>
 
-<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+<div class="blockquote">
 "Blessed are the merciful, for they will be shown mercy."
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">— Matthew 5:7</span>
+
+\hfill\small — Matthew 5:7
 </div>
 
 ---
@@ -105,22 +107,26 @@ This doesn't mean mercy ignores justice. As we explored in Chapter 3, justice an
 
 Having established mercy's nature, we can now explore how Scripture reveals this truth about God's own heart. Mercy is not a human invention but a reflection of God's own nature. From the Old Testament to the New, we see that mercy is central to who God is and how He relates to His creation.
 
-**God's Mercy in the Old Testament:** The Hebrew word for mercy, *hesed*, appears over 240 times in the Old Testament and describes God's steadfast, covenant love. Psalm 136 repeats twenty-six times: "His mercy endures forever." <div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+**God's Mercy in the Old Testament:** The Hebrew word for mercy, *hesed*, appears over 240 times in the Old Testament and describes God's steadfast, covenant love. Psalm 136 repeats twenty-six times: "His mercy endures forever." <div class="blockquote">
 "The Lord, the Lord, a God merciful and gracious, slow to anger, and abounding in steadfast love and faithfulness"
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">— Exodus 34:6</span>
+
+\hfill\small — Exodus 34:6
 </div> This divine self-revelation shows that mercy is not just something God does—it's who God is.
 
-**Mercy as Divine Attribute:** The Catechism teaches that "God's mercy is His loving-kindness, His grace, His love for us that goes beyond what we deserve" (CCC 1422). <div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+**Mercy as Divine Attribute:** The Catechism teaches that "God's mercy is His loving-kindness, His grace, His love for us that goes beyond what we deserve" (CCC 1422). <div class="blockquote">
 "The Lord is merciful and gracious, slow to anger and abounding in steadfast love... As a father shows compassion to his children, so the Lord shows compassion to those who fear him. For he knows our frame; he remembers that we are dust."
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">— Psalm 103:8-14</span>
+
+\hfill\small — Psalm 103:8-14
 </div>
 
-**Prophetic Calls to Mercy:** The prophets consistently called God's people to practice mercy. <div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+**Prophetic Calls to Mercy:** The prophets consistently called God's people to practice mercy. <div class="blockquote">
 "I desire mercy, not sacrifice."
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">— Hosea 6:6</span>
-</div> This doesn't mean God rejects sacrifice—as we'll see throughout this book, sacrifice is essential to perfect love. Rather, God desires the sacrifice that flows from a merciful heart, not empty ritualistic offerings disconnected from love of neighbor. <div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+
+\hfill\small — Hosea 6:6
+</div> This doesn't mean God rejects sacrifice—as we'll see throughout this book, sacrifice is essential to perfect love. Rather, God desires the sacrifice that flows from a merciful heart, not empty ritualistic offerings disconnected from love of neighbor. <div class="blockquote">
 "Show mercy and compassion every one to his brother."
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">— Zechariah 7:9</span>
+
+\hfill\small — Zechariah 7:9
 </div> These aren't suggestions but divine imperatives that flow from God's own merciful nature.
 
 **Jesus as the Face of Mercy:** In the New Testament, Jesus reveals mercy as the very heart of God's relationship with humanity. He declares, "Be merciful, just as your Father is merciful" (Luke 6:36). The parable of the Good Samaritan (Luke 10:25-37) shows justice and mercy in action—crossing boundaries to heal and restore - a requirement for salvation according to Jesus. The parable of the Prodigal Son (Luke 15:11-32) reveals the Father's just (because the son is worthy of love) and merciful heart that runs to embrace the returning sinner.
@@ -137,14 +143,16 @@ Having established mercy's nature, we can now explore how Scripture reveals this
 
 This biblical understanding helps us see why mercy is so transformative in human relationships. Without mercy, human relationships become trapped in endless cycles of hurt and revenge. You hurt me, so I hurt you back. You retaliate, so I escalate. Soon, the original offense is forgotten in the spiral of mutual destruction. Mercy breaks this cycle by choosing to absorb the hurt rather than pass it on.
 
-But mercy is not just a nice gesture—it's actually required by justice itself. When we are wounded by sin (our own or others'), we become incapable of fulfilling our fundamental purpose as human beings: to love God with all our heart, soul, mind, and strength, and to love our neighbor as ourselves (Mark 12:30-31). Unhealed wounds create barriers to authentic love. Bitterness prevents us from loving our enemies. Shame prevents us from receiving God's love. Unforgiveness prevents us from loving ourselves properly. Justice demands that these wounds be healed so we can become who God created us to be—beings capable of perfect love. <div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+But mercy is not just a nice gesture—it's actually required by justice itself. When we are wounded by sin (our own or others'), we become incapable of fulfilling our fundamental purpose as human beings: to love God with all our heart, soul, mind, and strength, and to love our neighbor as ourselves (Mark 12:30-31). Unhealed wounds create barriers to authentic love. Bitterness prevents us from loving our enemies. Shame prevents us from receiving God's love. Unforgiveness prevents us from loving ourselves properly. Justice demands that these wounds be healed so we can become who God created us to be—beings capable of perfect love. <div class="blockquote">
 "He has sent me to bind up the brokenhearted, to proclaim freedom for the captives and release from darkness for the prisoners"
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">— Isaiah 61:1</span>
+
+\hfill\small — Isaiah 61:1
 </div> This is true salvation—not just forgiveness **of the penalty of sins**, but **authentic healing that restores our capacity for love**.
 
-<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+<div class="blockquote">
 "Forgive us our debts, as we also have forgiven our debtors"
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">— Matthew 6:12</span>
+
+\hfill\small — Matthew 6:12
 </div> Jesus makes clear that our willingness to forgive others is the condition for receiving His forgiveness—not because we earn it, but because refusing to forgive others is a barrier to receiving God's mercy ourselves (Matthew 5:23-24, CCC 2839-2840). When we refuse to forgive, we break the chain of mercy and trap ourselves in bitterness. Justice also demands that we forgive others, for we too have been forgiven by God (Matthew 6:14-15). Another place where **love requires sacrifice**.
 
 Perhaps most importantly, mercy opens the heart to genuine repentance and transformation. When someone is crushed by guilt and shame, they often become defensive and closed to change. But when they experience genuine mercy—forgiveness they don't deserve—their hearts often soften and open to the possibility of becoming better. The Prodigal Son (Luke 15:11-32) experienced this transformative power of mercy. His father's extravagant welcome didn't excuse the son's wasteful living, but it prepared the ground for genuine repentance and restoration. Mercy doesn't guarantee transformation, but it makes transformation possible. Had the Father demanded only "justice," both father and son might have suffered in bitterness and resentment rather than being restored to love.
@@ -284,9 +292,10 @@ It also keeps us focused on our love for Christ and our desire for Communion in 
 We need to learn mercy so that we can give it.
 </div>
 
-**In Our Hearts:** <div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+**In Our Hearts:** <div class="blockquote">
 "Blessed are the merciful, for they will be shown mercy"
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">— Matthew 5:7</span>
+
+\hfill\small — Matthew 5:7
 </div> We must examine our consciences regularly: Do we harbor unforgiveness toward those who have hurt us? Do we show compassion toward those who fail? Do we seek to understand before seeking to be understood?
 
 **In Our Families:** Scripture calls us to practice mercy first in our homes. This means forgiving quickly, speaking gently when correcting, and creating an atmosphere where family members feel safe to admit mistakes and seek forgiveness. As Ephesians 4:32 commands: "Be kind to one another, tenderhearted, forgiving one another, as God in Christ forgave you." This can be especially difficult if we were not taught this growing up. But it is up to us with God's healing and help to break this cycle and teach it to our children.

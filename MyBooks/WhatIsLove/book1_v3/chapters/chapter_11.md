@@ -1,18 +1,21 @@
 # Counterfeit Love
 
-<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+<div class="blockquote">
 "Beloved, do not trust every spirit but test the spirits to see whether they belong to God."
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">— 1 John 4:1</span>
+
+\hfill\small — 1 John 4:1
 </div>
 
-<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+<div class="blockquote">
 "By their fruits you will know them. Do people pick grapes from thornbushes, or figs from thistles?"
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">— Matthew 7:16</span>
+
+\hfill\small — Matthew 7:16
 </div>
 
-<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+<div class="blockquote">
 "The devil is a liar and the father of lies."
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">— John 8:44</span>
+
+\hfill\small — John 8:44
 </div>
 
 ---
@@ -318,7 +321,11 @@ Modern politicians think they can *make* people act morally toward one another, 
 
 **The Authentic Alternative:** **Perfect Love transforms society through voluntary submission to the "law of Christ", morally-formed Christians who bring the light of truth, justice, and mercy into the public square, electing representatives and supporting laws that reflect God's design for the "common good".**
 
-<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">Authority does not derive its moral legitimacy from itself. It must not behave in a despotic manner, but must act for the common good as a 'moral force based on freedom and a sense of responsibility'<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">— CCC 1903</span></div>
+<div class="blockquote">
+Authority does not derive its moral legitimacy from itself. It must not behave in a despotic manner, but must act for the common good as a 'moral force based on freedom and a sense of responsibility'
+
+\hfill\small — CCC 1903
+</div>
 
 **Sacred:** Government authority comes from God and must serve His purposes for human dignity and the common good. Human fulfillment comes from communion with God, not material wealth. **Sacrificial:** Christians engage in politics not for personal gain or tribal victory, but to serve others, especially the vulnerable. **Covenant:** We make binding commitments to moral principles that transcend party politics and guide our civic participation. **Truth:** Objective moral law provides the foundation for just laws and policies; faith and reason together inform public discourse. **Justice:** Everyone receives fair treatment and protection under the law. **Mercy:** We show compassion for those who struggle economically or socially while maintaining moral principles. **Life-giving Communion:** We build a society where faith and public life are integrated, where...
 
@@ -330,7 +337,11 @@ The greatest human authority comes from people voluntarily submitting to a Gover
 
 With every scandal of corruption, abuse of power, and failure to serve the common good, the submission of the people to the Government is weakened - why? Because all people - even atheists are aware of injustice and immorality when they see it. They just don't know what the answer to the root of this problem is. The answer is the Catholic Faith in Jesus Christ.
 
-<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">The common good is always oriented towards the progress of persons: 'The order of things must be subordinate to the order of persons, and not the other way around'<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">— CCC 1912</span></div>
+<div class="blockquote">
+The common good is always oriented towards the progress of persons: 'The order of things must be subordinate to the order of persons, and not the other way around'
+
+\hfill\small — CCC 1912
+</div>
 
 When government makes persons subordinate to systems, ideology, or power, it violates this fundamental principle.
 

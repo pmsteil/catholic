@@ -1,23 +1,27 @@
 # Paschal Mystery
 
-<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+<div class="blockquote">
 "Greater love has no one than this, that someone lay down his life for his friends."
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">— John 15:13</span>
+
+\hfill\small — John 15:13
 </div>
 
-<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+<div class="blockquote">
 "But God shows his love for us in that while we were still sinners, Christ died for us."
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">— Romans 5:8</span>
+
+\hfill\small — Romans 5:8
 </div>
 
-<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+<div class="blockquote">
 "For God so loved the world, that he gave his only Son, that whoever believes in him should not perish but have eternal life."
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">— John 3:16</span>
+
+\hfill\small — John 3:16
 </div>
 
-<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+<div class="blockquote">
 "The Resurrection of Jesus is the crowning truth of our faith in Christ."
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">— Catechism of the Catholic Church 638</span>
+
+\hfill\small — Catechism of the Catholic Church 638
 </div>
 
 ---
@@ -156,7 +160,11 @@ This understanding liberates us to love authentically and abundantly. We're not 
 
 Through this relationship of love—God loving us first and we learning to love Him in return—we are saved from the evil in our own hearts. We learn how to love one another and even ourselves properly. This is the love that saves the world, as Jesus declared:
 
-<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">For God so loved the world, that he gave his only Son, that whoever believes in him should not perish but have eternal life. And this is the judgment: the light has come into the world, and people loved the darkness rather than the light because their works were evil. But whoever does what is true comes to the light, so that it may be clearly seen that his works have been carried out in God.<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">— John 3:16, 20-21</span></div>
+<div class="blockquote">
+For God so loved the world, that he gave his only Son, that whoever believes in him should not perish but have eternal life. And this is the judgment: the light has come into the world, and people loved the darkness rather than the light because their works were evil. But whoever does what is true comes to the light, so that it may be clearly seen that his works have been carried out in God.
+
+\hfill\small — John 3:16, 20-21
+</div>
 
 ## Covenant Love Established
 
@@ -192,7 +200,11 @@ When we begin to grasp how Christ's love enables true justice and mercy, we lear
 
 This is why "faith" (meaning "trust" in God's perfect love) is a supernatural gift. As St. Paul explains:
 
-<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">For by grace you have been saved through faith. And this is not your own doing; it is the gift of God, not a result of works, so that no one may boast. For we are his workmanship, created in Christ Jesus for good works, which God prepared beforehand, that we should walk in them.<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">— Ephesians 2:8-10</span></div>
+<div class="blockquote">
+For by grace you have been saved through faith. And this is not your own doing; it is the gift of God, not a result of works, so that no one may boast. For we are his workmanship, created in Christ Jesus for good works, which God prepared beforehand, that we should walk in them.
+
+\hfill\small — Ephesians 2:8-10
+</div>
 
 It is by His Grace (His Perfect Love) that we are saved through trusting His Perfect Love, and for what purpose? To recognize that we were created for a sacred purpose - to love God and our neighbor as ourselves.
 
@@ -266,9 +278,10 @@ The Resurrection reveals that God's love is not just restorative (bringing us ba
 
 The Cross shows love's willingness to sacrifice; the Resurrection shows love's eternal permanence. Christ's risen body belongs "henceforth only to the Father's divine realm" (CCC 645), showing that divine love transcends time and space. This proves that the covenant love established on the Cross is truly eternal, not just a temporary arrangement.
 
-<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+<div class="blockquote">
 "By means of touch and the sharing of a meal, the risen Jesus establishes direct contact with his disciples. He invites them in this way to recognize that he is not a ghost and above all to verify that the risen body in which he appears to them is the same body that had been tortured and crucified, for it still bears the traces of his Passion. Yet at the same time this authentic, real body possesses the new properties of a glorious body: not limited by space and time but able to be present how and when he wills; for Christ's humanity can no longer be confined to earth, and belongs henceforth only to the Father's divine realm. For this reason too the risen Jesus enjoys the sovereign freedom of appearing as he wishes: in the guise of a gardener or in other forms familiar to his disciples, precisely to awaken their faith."
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">— Catechism of the Catholic Church 645</span>
+
+\hfill\small — Catechism of the Catholic Church 645
 </div>
 
 The Resurrection establishes that perfect love is not bound by the limitations of earthly existence. Christ's glorified humanity enjoys "the sovereign freedom of appearing as he wishes" (CCC 645), demonstrating that love, when perfected, transcends all barriers and limitations. This is why the covenant established in Christ's blood is unbreakable—it participates in the eternal life of God Himself.

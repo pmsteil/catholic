@@ -17,6 +17,9 @@ header-includes:
     \microtypesetup{protrusion=true}
   - |
     \usepackage{parskip}
+  - |
+    \usepackage{quoting}
+    \quotingsetup{vskip=6pt,leftmargin=1em,rightmargin=1em,font=itshape}
     \setlength{\parskip}{4pt}
   - |
     \usepackage{setspace}
@@ -67,6 +70,35 @@ header-includes:
     \usepackage{titling}
     \pretitle{\begin{center}\LARGE\bfseries}
     \posttitle{\par\vskip 0.5em\large\textit\textmd{3rd Draft - August 23, 2025}\end{center}\vskip 1em}
+  - |
+    \newenvironment{blockquote}{%
+      \begin{quoting}%
+    }{%
+      \end{quoting}%
+    }
+  - |
+    \usepackage{framed}
+    \usepackage{xcolor}
+    \usepackage{changepage}
+    \definecolor{calloutbg}{RGB}{0,43,54}
+    \definecolor{calloutborder}{RGB}{88,110,117}
+    \newenvironment{callout}{%
+      \def\FrameCommand{%
+        \hspace{1pt}%
+        {\color{calloutborder}\vrule width 2pt}%
+        \hspace{21pt}%
+        \colorbox{calloutbg}%
+      }%
+      \MakeFramed{\advance\hsize-\width\FrameRestore}%
+      \noindent\hspace{-4.55pt}%
+      \begin{adjustwidth}{}{7pt}%
+      \vspace{2pt}\vspace{2pt}%
+      \color{white}\itshape%
+    }{%
+      \vspace{2pt}%
+      \end{adjustwidth}%
+      \endMakeFramed%
+    }
 geometry:
   - paperwidth=6in
   - paperheight=9in

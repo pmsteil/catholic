@@ -1,28 +1,33 @@
 # God's Perfect Love
 
-<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+<div class="blockquote">
 "We have come to know and to believe in the love God has for us. God is love, and whoever remains in love remains in God and God in him. In this is love brought to perfection among us, that we have confidence on the day of judgment because as he is, so are we in this world. There is no fear in love, but perfect love drives out fear because fear has to do with punishment, and so one who fears is not yet perfect in love. We love because he first loved us. If anyone says, “I love God,” but hates his brother, he is a liar; for whoever does not love a brother whom he has seen cannot love God whom he has not seen. This is the commandment we have from him: whoever loves God must also love his brother."
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">1 John 4:16-21</span>
+
+\hfill\small — 1 John 4:16-21
 </div>
 
-<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+<div class="blockquote">
 "If I have all faith so as to remove mountains but do not have love, I am nothing."
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">1 Corinthians 13:2</span>
+
+\hfill\small — 1 Corinthians 13:2
 </div>
 
-<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+<div class="blockquote">
 "Man cannot live without love. He remains a being that is incomprehensible for himself, his life is senseless, if love is not revealed to him, if he does not encounter love, if he does not experience it and make it his own, if he does not participate intimately in it."
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">Pope St. John Paul II, <em>Redemptor Hominis</em> 10</span>
+
+\hfill\small — Pope St. John Paul II, <em>Redemptor Hominis</em> 10
 </div>
 
-<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+<div class="blockquote">
 "The whole concern of doctrine and its teaching must be directed to the love that never ends. Whether something is proposed for belief, for hope, or for action, the love of our Lord must always be made accessible, so that anyone can see that all the works of perfect Christian virtue spring from love and have no other objective than to arrive at love."
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">Catechism of the Catholic Church 25</span>
+
+\hfill\small — Catechism of the Catholic Church 25
 </div>
 
-<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+<div class="blockquote">
 "If God the Father almighty, the Creator of the ordered and good world, cares for all his creatures, why does evil exist? To this question, as pressing as it is unavoidable and as painful as it is mysterious, no quick answer will suffice. Only Christian faith as a whole constitutes the answer to this question: the goodness of creation, the drama of sin and the patient love of God who comes to meet man by his covenants, the redemptive Incarnation of his Son, his gift of the Spirit, his gathering of the Church, the power of the sacraments and his call to a blessed life to which free creatures are invited to consent in advance, but from which, by a terrible mystery, they can also turn away in advance. There is not a single aspect of the Christian message that is not in part an answer to the question of evil."
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">Catechism of the Catholic Church 309</span>
+
+\hfill\small — Catechism of the Catholic Church 309
 </div>
 
 ---
@@ -116,9 +121,10 @@ Being made in God's image means we share certain qualities that make us fundamen
 </div>
 The Second Vatican Council beautifully explains what this means: *"Man, who is the only creature on earth which God willed for itself, cannot fully find himself except through a sincere gift of himself"* (Gaudium et Spes 24). We are the only creatures that were not made for some useful "end"—yet paradoxically, we achieve our greatest dignity when we are willing to give away what and who we are for the good of others, following Christ's example.
 
-<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+<div class="blockquote">
 "If anyone wants to come after me, let him deny himself and take up his cross and follow me. For whoever wants to save his life will lose it, but whoever loses his life for my sake will find it."
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">Jesus Christ (Matthew 16:24-25)</span>
+
+\hfill\small — Jesus Christ (Matthew 16:24-25)
 </div>
 
 Pope John Paul II, in his Theology of the Body, taught that being made in God's image means we are created with the capacity for love and called to love. As he explained, *"Man cannot live without love. He remains a being that is incomprehensible for himself, his life is senseless, if love is not revealed to him, if he does not encounter love, if he does not experience it and make it his own"* (Redemptor Hominis 10).
@@ -311,9 +317,10 @@ These saints didn't just understand love intellectually—they lived it. They al
 
 This is why the Church and our Lord himself calls all Catholics to become Saints.  Saints don't just avoid sin, they live the love of God in their hearts and transform the world around them.
 
-<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+<div class="blockquote">
 "Whoever wishes to come after me must deny himself, take up his cross, and follow me. For whoever wishes to save his life will lose it, but whoever loses his life for my sake will find it."
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">Matthew 16:24-25</span>
+
+\hfill\small — Matthew 16:24-25
 </div>
 
 *Heavenly Father, You are Love itself, and You have written the cry for love in every human heart. We confess that sin and idolatry have enslaved us and corrupted our ability to love authentically. Liberate us through the truth of Your Son, Jesus Christ, who came to set the captives free. Help us to understand what love truly means—not the counterfeits the world offers, but the perfect love that flows from Your own divine nature. Break the chains of idolatry that prevent us from loving as we should, and give us the grace to live this love authentically, so that through us, others may encounter both the truth that liberates and the love they're truly seeking. Through Christ our Lord, who is Love incarnate and our Liberator. Amen.*

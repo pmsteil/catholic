@@ -58,17 +58,19 @@ Through this book we'll be able to understand the true meaning of love, sin, and
 
 It blew my mind when I rediscovered this golden nugget in the Catechism of the Catholic Church that helps us understand the complete context of all of the Church's teachings and Sacred Scripture as well:
 
-<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+<div class="blockquote">
 "The whole concern of doctrine and its teaching must be directed to the love that never ends. Whether something is proposed for belief, for hope or for action, the love of our Lord must always be made accessible, so that anyone can see that all the works of perfect Christian virtue spring from love and have no other objective than to arrive at love."
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">— CCC 25</span>
+
+\hfill\small — CCC 25
 </div>
 
 And to the problem of evil the Catechism tells us how to solve it!
 
-<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+<div class="blockquote">
 "If God the Father almighty, the Creator of the ordered and good world, cares for all his creatures, why does evil exist? To this question, as pressing as it is unavoidable and as painful as it is mysterious, no quick answer will suffice.
 Only Christian faith as a whole constitutes the answer to this question: the goodness of creation, the drama of sin and the patient love of God who comes to meet man by his covenants, the redemptive Incarnation of his Son, his gift of the Spirit, his gathering of the Church, the power of the sacraments and his call to a blessed life to which free creatures are invited to consent in advance, but from which, by a terrible mystery, they can also turn away in advance. There is not a single aspect of the Christian message that is not in part an answer to the question of evil."
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">— CCC 309</span>
+
+\hfill\small — CCC 309
 </div>
 
 Wow!  If the Catholic Faith cannot triumph over evil, then is it truly "good"?

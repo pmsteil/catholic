@@ -1,18 +1,21 @@
 # Sacrifice
 
-<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+<div class="blockquote">
 "Greater love has no one than this, that someone lay down his life for his friends."
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">John 15:13</span>
+
+\hfill\small — John 15:13
 </div>
 
-<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+<div class="blockquote">
 "I appeal to you therefore, brothers, by the mercies of God, to present your bodies as a living sacrifice, holy and acceptable to God, which is your spiritual worship."
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">Romans 12:1</span>
+
+\hfill\small — Romans 12:1
 </div>
 
-<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+<div class="blockquote">
 "Love is proved by deeds, not by words."
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">St. Ignatius of Loyola</span>
+
+\hfill\small — St. Ignatius of Loyola
 </div>
 
 ---
@@ -131,9 +134,10 @@ Sacrifice transforms the other essential facets of authentic love from ideas int
 
 To live this out means understanding this integration via our intellect and directing our will to actually make the sacrifice.
 
-<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+<div class="blockquote">
 "Not everyone who says to me, 'Lord, Lord,' will enter the kingdom of heaven, but only the one who does the will of my Father who is in heaven."
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">Matthew 7:21</span>
+
+\hfill\small — Matthew 7:21
 </div>
 
 
@@ -168,9 +172,10 @@ Every authentic sacrifice—from the Jewish offerings to Christ's Cross to our d
 
 **1. Expiation (Justice):** Sacrifice makes reparation for sin and restores right relationship with God. This is not merely symbolic—it accomplishes real spiritual work in the order of justice. The Old Testament established the principle that sacrifice makes reparation for sin and restores right relationship with God. This is not merely symbolic—it accomplishes real spiritual work in the order of justice.
 
-<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+<div class="blockquote">
 According to the law almost everything is purified by blood, and without the shedding of blood there is no forgiveness.
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">Hebrews 9:22</span>
+
+\hfill\small — Hebrews 9:22
 </div> Christ's sacrifice accomplished what animal sacrifices could only symbolize: "When Christ appeared as a high priest... he entered once for all into the Holy Place, taking not the blood of goats and calves but his own blood, thus securing an eternal redemption" (Hebrews 9:11-12).
 
 **2. Oblation (Mercy):** Sacrifice is also a free gift of love that goes beyond what justice requires. Even if we had never sinned, love would still call us to sacrifice for the beloved because love naturally gives itself away. Christ taught: "Greater love has no man than this, that a man lay down his life for his friends" (John 15:13). God's love moved Him to sacrifice even before we deserved it: "But God shows his love for us in that while we were yet sinners Christ died for us" (Romans 5:8).
@@ -183,9 +188,10 @@ The Jewish sacrificial system reveals that authentic sacrifice is not arbitrary 
 
 Each Jewish sacrifice was a shadow pointing to the reality of Christ's Cross. As the Letter to the Hebrews explains: "It is impossible for the blood of bulls and goats to take away sins" (Hebrews 10:4), but "when Christ had offered for all time a single sacrifice for sins, he sat down at the right hand of God" (Hebrews 10:12). Christ's sacrifice fulfills and perfects all sacrifices simultaneously. One of the many ways Jesus came to fulfill the Law:
 
-<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+<div class="blockquote">
 "Do not think that I have come to abolish the law or the prophets. I have come not to abolish but to fulfill."
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">Matthew 5:17</span>
+
+\hfill\small — Matthew 5:17
 </div>
 
 - His **burnt offering** is the most complete self-giving to the Father (gift)
@@ -246,16 +252,18 @@ Our response to this supreme revelation is the "Domine, non sum dignus" prayer -
 
 This prayer echoes the profound faith of the Roman centurion in Matthew 8:5-13. The centurion came to Jesus asking for healing for his servant who was paralyzed and suffering terribly. When Jesus offered to come and heal him, the centurion responded with the same humility and trust we express in our Communion prayer:
 
-<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+<div class="blockquote">
 Lord, I am not worthy to have you come under my roof; but only say the word, and my servant will be healed.
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">Matthew 8:8</span>
+
+\hfill\small — Matthew 8:8
 </div>
 
 The centurion understood authority—he was a man under authority with soldiers under him. He recognized that Jesus had absolute authority over sickness and death, needing only to speak for healing to occur. Jesus was amazed by this faith and declared:
 
-<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+<div class="blockquote">
 Truly, I say to you, not even in Israel have I found such faith.
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">Matthew 8:10b</span>
+
+\hfill\small — Matthew 8:10b
 </div>
 
 This story teaches us that approaching Christ's Sacrifice in the Eucharist requires the same humble recognition of His authority and our unworthiness, combined with absolute trust in His power to heal and transform us through His word alone.
@@ -272,9 +280,10 @@ At the **Dismissal**, we are not merely sent—we are **commissioned as Christ-b
 
 St. Paul explains this profound reality:
 
-<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+<div class="blockquote">
 The cup of blessing that we bless, is it not a participation in the blood of Christ? The bread that we break, is it not a participation in the body of Christ?
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">1 Corinthians 10:16-17</span>
+
+\hfill\small — 1 Corinthians 10:16-17
 </div>
 
 The Mass is not merely a memorial of Christ's sacrifice—it is the **mystical participation** in the very sacrifice that conquered evil itself. Here, the eternal expiation of divine justice and the perfect oblation of divine mercy become present and active in our midst.
@@ -283,18 +292,20 @@ In this sacred liturgy, we do not simply remember Christ's sacrifice—we **ente
 
 This participation transforms us from the inside out. As we consume the **Bread of Life** and drink from the **Cup of Salvation**, we become what we receive—living sacrifices animated by divine love. Jesus Himself declares this mystery:
 
-<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+<div class="blockquote">
 I am the living bread which came down from heaven; if any one eats of this bread, he will live for ever; and the bread which I shall give for the life of the world is my flesh... Truly, truly, I say to you, unless you eat the flesh of the Son of man and drink his blood, you have no life in you; he who eats my flesh and drinks my blood has eternal life, and I will raise him up at the last day. For my flesh is food indeed, and my blood is drink indeed. He who eats my flesh and drinks my blood abides in me, and I in him.
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">John 6:51-56</span>
+
+\hfill\small — John 6:51-56
 </div>
 
 The Mass teaches us that authentic sacrifice is never merely human effort, but always **participation in Christ's perfect love**—a love that simultaneously satisfies divine justice and overflows with divine mercy. Here we learn that true sacrifice is not loss but gain, not death but life, not defeat but victory over every form of evil.
 
-<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+<div class="blockquote">
 He said, “The Son of Man must suffer greatly and be rejected by the elders, the chief priests, and the scribes, and be killed and on the third day be raised.”
 
 Then he said to all, “If anyone wishes to come after me, he must deny himself and take up his cross daily and follow me. For whoever wishes to save his life will lose it, but whoever loses his life for my sake will save it.
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">Luke 9:22-24</span>
+
+\hfill\small — Luke 9:22-24
 </div>
 
 

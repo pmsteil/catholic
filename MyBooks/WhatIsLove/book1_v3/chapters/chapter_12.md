@@ -1,18 +1,21 @@
 # Virtues
 
-<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+<div class="blockquote">
 "Finally, brothers, whatever is true, whatever is honorable, whatever is just, whatever is pure, whatever is lovely, whatever is gracious, if there is any excellence and if there is anything worthy of praise, think about these things."
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">Philippians 4:8</span>
+
+\hfill\small — Philippians 4:8
 </div>
 
-<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+<div class="blockquote">
 "The fruit of the Spirit is love, joy, peace, patience, kindness, generosity, faithfulness, gentleness, self-control. Against such there is no law."
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">Galatians 5:22-23</span>
+
+\hfill\small — Galatians 5:22-23
 </div>
 
-<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+<div class="blockquote">
 "Strive for perfection, encourage one another, live in harmony, and the God of love and peace will be with you."
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">2 Corinthians 13:11</span>
+
+\hfill\small — 2 Corinthians 13:11
 </div>
 
 ---
@@ -75,9 +78,10 @@ Many books have been written about the virtues, but I want to give a brief overv
 
 ## The Heart's Response: Theological and Moral Virtues
 
-<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+<div class="blockquote">
 "The theological virtues are the foundation of Christian moral activity; they animate it and give it its special character. They inform and give life to all the moral virtues. They are infused by God into the souls of the faithful to make them capable of acting as his children and of meriting eternal life."
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">CCC 1813</span>
+
+\hfill\small — CCC 1813
 </div>
 
 
@@ -233,29 +237,34 @@ Remember that virtue is not a burden but a liberation. Each virtue you develop m
 
 Christian discipleship is not easy. It is a journey of growth in love, and it requires a commitment to daily practice and sacrifice.
 
-<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+<div class="blockquote">
 "Then he said to all, 'If anyone wishes to come after me, he must deny himself and take up his cross daily and follow me.'"
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">Luke 9:23</span>
+
+\hfill\small — Luke 9:23
 </div>
 
-<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+<div class="blockquote">
 "Every athlete exercises discipline in every way. They do it to win a perishable crown, but we an imperishable one. Thus I do not run aimlessly; I do not fight as if I were shadowboxing. No, I drive my body and train it, for fear that, after having preached to others, I myself should be disqualified."
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">1 Corinthians 9:25-27</span>
+
+\hfill\small — 1 Corinthians 9:25-27
 </div>
 
-<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+<div class="blockquote">
 "Let us not grow tired of doing good, for in due time we shall reap our harvest, if we do not give up."
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">Galatians 6:9</span>
+
+\hfill\small — Galatians 6:9
 </div>
 
-<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+<div class="blockquote">
 "Blessed are they who are persecuted for the sake of righteousness, for theirs is the kingdom of heaven."
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">Matthew 5:10</span>
+
+\hfill\small — Matthew 5:10
 </div>
 
-<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+<div class="blockquote">
 "In this you rejoice, although now for a little while you may have to suffer through various trials, so that the genuineness of your faith, more precious than gold that is perishable even though tested by fire, may prove to be for praise, glory, and honor at the revelation of Jesus Christ."
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">1 Peter 1:6-7</span>
+
+\hfill\small — 1 Peter 1:6-7
 </div>
 
 If you want to fight against evil, you must be willing to pay the price of love.

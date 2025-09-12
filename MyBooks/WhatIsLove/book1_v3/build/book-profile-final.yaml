@@ -28,14 +28,51 @@ header-includes:
     \usepackage{quoting}
     \quotingsetup{vskip=12pt,leftmargin=2em,rightmargin=2em,font=\itshape\color{crimsontext}}
   - |
-    \newenvironment{blockquote}
-    {\begin{quote}\itshape\color{crimsontext}}
-    {\end{quote}}
+    \definecolor{lightcream}{HTML}{f8f6f0}
+    \newenvironment{blockquote}{%
+      \begin{tcolorbox}[
+        colback=lightcream,
+        colframe=goldframe,
+        leftrule=5pt,
+        rightrule=0pt,
+        toprule=0pt,
+        bottomrule=0pt,
+        left=15pt,
+        right=8pt,
+        top=8pt,
+        bottom=8pt,
+        before skip=1em,
+        after skip=1em,
+        boxsep=0pt
+      ]
+      \itshape\color{crimsontext}
+    }{%
+      \end{tcolorbox}
+    }
   - |
+    \newcommand{\scriptureref}[1]{%
+      \par\vspace{0.3em}\hfill{\small\upshape — #1}%
+    }
+  - |
+    \usepackage{tcolorbox}
     \definecolor{goldframe50}{HTML}{dfc4aa}
-    \newenvironment{callout}
-    {\vspace{1.5em}\color{goldframe50}\hrule height 2pt\vspace{0.5em}\par\normalsize\color{crimsontext}}
-    {\par\vspace{0.5em}\color{goldframe50}\hrule height 2pt\vspace{1.5em}}
+    \newenvironment{callout}{%
+      \begin{tcolorbox}[
+        colback=goldframe50,
+        colframe=goldframe50,
+        arc=4pt,
+        boxrule=0pt,
+        left=12pt,
+        right=12pt,
+        top=8pt,
+        bottom=8pt,
+        before skip=1.5em,
+        after skip=1.5em
+      ]
+      \color{crimsontext}\itshape
+    }{%
+      \end{tcolorbox}
+    }
   - |
     \usepackage{tocloft}
     \AtBeginDocument{

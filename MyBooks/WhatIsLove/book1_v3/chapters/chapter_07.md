@@ -1,18 +1,21 @@
 # Covenant
 
-<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+<div class="blockquote">
 "I will make a new covenant with the house of Israel and the house of Judah... I will put my law within them, and I will write it on their hearts. And I will be their God, and they shall be my people."
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">— Jeremiah 31:31-34</span>
+
+\hfill\small — Jeremiah 31:31-34
 </div>
 
-<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+<div class="blockquote">
 "What therefore God has joined together, let not man separate."
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">— Matthew 19:6</span>
+
+\hfill\small — Matthew 19:6
 </div>
 
-<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+<div class="blockquote">
 "This cup that is poured out for you is the new covenant in my blood."
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">— Luke 22:20</span>
+
+\hfill\small — Luke 22:20
 </div>
 
 ---
@@ -51,37 +54,42 @@ Children demonstrate pure understanding of covenant love before adults complicat
 
 **"Families are forever."** Children naturally expect their family to stay together and are deeply wounded by divorce. They understand instinctively that love creates permanent bonds, not temporary arrangements, reflecting Jesus' teaching:
 
-<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+<div class="blockquote">
 "What God has joined together, let not man separate"
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">— Matthew 19:6</span>
+
+\hfill\small — Matthew 19:6
 </div>
 
 **"Promises matter."** Children take promises seriously and remember when adults break their word. They understand that authentic love keeps its commitments, mirroring God's covenant faithfulness. When a parent promises to attend a child's recital or game, that child counts on that promise with absolute certainty. The devastation when such promises are broken reveals how deeply children understand that love and commitment are inseparable. This isn't learned behavior—it's written on every human heart as part of our divine image.
 
-<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+<div class="blockquote">
 "God is not man, that he should lie"
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">Numbers 23:19</span>
+
+\hfill\small — Numbers 23:19
 </div>
 
 **"Both mom and dad are needed."** Children naturally understand they need both parents and feel the absence of either. They know from deep in their soul that mother and father should be together:
 
-<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+<div class="blockquote">
 "He said in reply, “Have you not read that from the beginning the Creator ‘made them male and female’ and said, ‘For this reason a man shall leave his father and mother and be joined to his wife, and the two shall become one flesh’? So they are no longer two, but one flesh. Therefore, what God has joined together, man must not separate.”"
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">Matthew 19:4-6</span>
+
+\hfill\small — Matthew 19:4-6
 </div>
 
 **"Love means staying."** Children equate love with presence and commitment, not just feelings. They understand that real love doesn't leave when things get hard, echoing Christ's promise:
 
-<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+<div class="blockquote">
 "Love bears all things, believes all things, hopes all things, endures all things."
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">1 Corinthians 13:7</span>
+
+\hfill\small — 1 Corinthians 13:7
 </div>
 
 Children understand covenant love naturally because they are made in the image of a God who loves through covenant. As Jesus said:
 
-<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+<div class="blockquote">
 "Unless you turn and become like children, you will never enter the kingdom of heaven"
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">Matthew 18:3</span>
+
+\hfill\small — Matthew 18:3
 </div>
 
 ## The Universal Human Need for Covenant Love
@@ -141,44 +149,50 @@ The human capacity for covenant love isn't accidental—it's written into our ve
 
 **The Father** establishes eternal covenants with His people, promising permanent relationship that endures despite human unfaithfulness. His covenant love is not based on our performance but on His unchanging nature. As He declares:
 
-<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+<div class="blockquote">
 "For I the Lord do not change; therefore you, O children of Jacob, are not consumed"
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">— Malachi 3:6</span>
+
+\hfill\small — Malachi 3:6
 </div>
 
 Even when we are faithless:
 
-<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+<div class="blockquote">
 "he remains faithful—for he cannot deny himself"
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">— 2 Timothy 2:13</span>
+
+\hfill\small — 2 Timothy 2:13
 </div>
 
 **The Son** fulfills all previous covenants and establishes the New Covenant through His death and resurrection. His covenant love for the Church is so complete that He gives His very Body and Blood to seal the relationship:
 
-<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+<div class="blockquote">
 "This cup that is poured out for you is the new covenant in my blood"
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">— Luke 22:20</span>
+
+\hfill\small — Luke 22:20
 </div>
 
 Paul explains this covenant love:
 
-<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+<div class="blockquote">
 "Husbands, love your wives, as Christ loved the Church and gave himself up for her"
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">— Ephesians 5:25</span>
+
+\hfill\small — Ephesians 5:25
 </div>
 
 **The Holy Spirit** writes the law of love on our hearts, enabling us to live covenant relationships that reflect God's own faithfulness. As God promised through Jeremiah:
 
-<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+<div class="blockquote">
 "I will put my law within them, and I will write it on their hearts. And I will be their God, and they shall be my people"
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">— Jeremiah 31:33</span>
+
+\hfill\small — Jeremiah 31:33
 </div>
 
 The Spirit enables us to cry:
 
-<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+<div class="blockquote">
 "Abba! Father!"
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">— Romans 8:15</span>
+
+\hfill\small — Romans 8:15
 </div>
 
 entering into the intimate covenant relationship that defines the Trinity itself.
@@ -216,16 +230,18 @@ Even after the Fall, God's covenant love pursued them with the first promise of 
 
 After the flood, God renewed His covenant commitment to all humanity:
 
-<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+<div class="blockquote">
 "I establish my covenant with you, that never again shall all flesh be cut off by the waters of a flood, and never again shall there be a flood to destroy the earth"
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">— Genesis 9:11</span>
+
+\hfill\small — Genesis 9:11
 </div>
 
 God gave the rainbow as the covenant sign, declaring:
 
-<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+<div class="blockquote">
 "This is the sign of the covenant that I make between me and you and every living creature that is with you, for all future generations"
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">— Genesis 9:12</span>
+
+\hfill\small — Genesis 9:12
 </div>
 
 This covenant reveals God's **permanence**—His promises endure regardless of human behavior. Notice that God doesn't say "if you are good, I won't flood the earth again." The covenant is unconditional, based on God's nature, not human performance.
@@ -234,34 +250,38 @@ This covenant reveals God's **permanence**—His promises endure regardless of h
 
 God called Abraham by name and established an intimate, personal relationship:
 
-<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+<div class="blockquote">
 "I will establish my covenant between me and you and your offspring after you throughout their generations for an everlasting covenant, to be God to you and to your offspring after you"
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">— Genesis 17:7</span>
+
+\hfill\small — Genesis 17:7
 </div>
 
 God changed Abram's name to Abraham, meaning "father of many nations," and gave circumcision as the covenant sign.
 
 This covenant reveals God's **personal** nature—He calls individuals by name and creates intimate relationships. It also shows God's **fruitfulness**—the covenant is ordered toward blessing and multiplication:
 
-<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+<div class="blockquote">
 "I will make you exceedingly fruitful, and I will make you into nations, and kings shall come from you"
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">— Genesis 17:6</span>
+
+\hfill\small — Genesis 17:6
 </div>
 
 **The Covenant at Sinai: God's Holy Law**
 
 At Mount Sinai, God established His covenant with Israel through Moses:
 
-<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+<div class="blockquote">
 "Now therefore, if you will indeed obey my voice and keep my covenant, you shall be my treasured possession among all peoples, for all the earth is mine"
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">— Exodus 19:5</span>
+
+\hfill\small — Exodus 19:5
 </div>
 
 The covenant was sealed with blood:
 
-<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+<div class="blockquote">
 "And Moses took the blood and threw it on the people and said, 'Behold the blood of the covenant that the Lord has made with you in accordance with all these words'"
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">— Exodus 24:8</span>
+
+\hfill\small — Exodus 24:8
 </div>
 
 This covenant reveals that God's love is **costly**—it requires sacrifice. The blood sacrifice points forward to Christ's ultimate sacrifice. It also shows that covenant creates **family relationship**—Israel becomes God's "treasured possession," His chosen people.
@@ -270,18 +290,20 @@ This covenant reveals that God's love is **costly**—it requires sacrifice. The
 
 God promised David an everlasting dynasty:
 
-<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+<div class="blockquote">
 "When your days are fulfilled and you lie down with your fathers, I will raise up your offspring after you, who shall come forth from your body, and I will establish his kingdom. He shall build a house for my name, and I will establish the throne of his kingdom forever"
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">— 2 Samuel 7:12-13</span>
+
+\hfill\small — 2 Samuel 7:12-13
 </div>
 
 This covenant points directly to Christ, the eternal King from David's line.
 
 This covenant reveals God's **merciful** faithfulness—even when David's descendants fail, God remains faithful to His promise. As the Psalmist declares:
 
-<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+<div class="blockquote">
 "If his children forsake my law and do not walk according to my rules... I will punish their transgression with the rod and their iniquity with stripes, but I will not remove from him my steadfast love or be false to my covenant"
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">— Psalm 89:30-33</span>
+
+\hfill\small — Psalm 89:30-33
 </div>
 
 **The Pattern of Divine Covenant:**
@@ -300,18 +322,20 @@ These Old Testament covenants establish the pattern that all authentic covenant 
 
 The New Covenant established by Jesus Christ is the fulfillment of all previous covenants and the foundation of His Kingdom on earth. At the Last Supper, Jesus declared:
 
-<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+<div class="blockquote">
 "This cup that is poured out for you is the new covenant in my blood"
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">— Luke 22:20</span>
+
+\hfill\small — Luke 22:20
 </div>
 
 Through His death and resurrection, Christ established a covenant of perfect justice and perfect mercy, creating a Kingdom where God reigns and His people participate actively in divine life.
 
 **Perfect Justice:** Christ satisfied all the demands of justice for our sins:
 
-<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+<div class="blockquote">
 "He himself bore our sins in his body on the tree"
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">— 1 Peter 2:24</span>
+
+\hfill\small — 1 Peter 2:24
 </div>
 
 The justice we explored in Chapter 3 finds its ultimate expression here—Christ gives to God what is truly due (perfect obedience) and gives to humanity what we truly need (redemption from sin).
@@ -330,9 +354,10 @@ This is God's perfect love in action—every facet working in harmony. In Christ
 
 **Perfect Covenant:** This New Covenant, sealed in Christ's blood, accomplishes what no human covenant could ever achieve—it transforms our very nature, enabling us to love as God loves. This is not merely forgiveness but *re-creation*:
 
-<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+<div class="blockquote">
 "Therefore he is the mediator of a new covenant, so that those who are called may receive the promised eternal inheritance, since a death has occurred that redeems them from the transgressions committed under the first covenant"
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">— Hebrews 9:15</span>
+
+\hfill\small — Hebrews 9:15
 </div>
 
 Through Baptism, we die to the old covenant of law and are reborn into the new covenant of grace. We become not merely forgiven sinners but adopted children, not merely servants but friends, not merely subjects but co-heirs with Christ. The Holy Spirit writes God's law of love on our hearts, transforming us from within so that covenant fidelity becomes not a burden we bear but the natural expression of our new nature.
@@ -406,9 +431,10 @@ But how do we find the strength to live such demanding love? The answer lies in 
 
 Here we discover the most beautiful truth of all: **God loved us first**. Before we ever thought to seek God, He sought us. Before we knew what love meant, He loved us into existence. Before we could choose Him, He chose us. As St. John declares:
 
-<div class="blockquote" style="background-color: #002b36; padding: 20px 20px; margin: 20px 0; border-radius: 8px; font-size: 15px; line-height: 1.6; color: #657b83; border-left: 6px solid #586e75; font-style: italic; position: relative;">
+<div class="blockquote">
 "In this is love, not that we loved God but that he loved us and sent his Son to be the propitiation (a sacrificial offering to repair injustice) for our sins"
-<span class="author" style="display: block; margin-top: 12px; font-size: 14px; color: #93a1a1; font-style: normal; text-align: right;">— 1 John 4:10</span>
+
+\hfill\small — 1 John 4:10
 </div>
 
 Every human covenant relationship—marriage, priesthood, religious life, friendship—is our response to God's prior love, our participation in the covenant He first established with us.
