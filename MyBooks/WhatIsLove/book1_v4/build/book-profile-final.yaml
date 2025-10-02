@@ -1,10 +1,10 @@
 title: What Is Love?
 subtitle: God's Perfect Love is the sacred, sacrificial gift of covenant, binding truth, justice, and mercy, into life-giving communion.
 author: Patrick Steil, St. John Paul II University Parish, Denton TX
-edition: 3rd Draft - August 23, 2025
-title-meta: Proofread layout (double-spaced 8pt on letter)
-documentclass: extbook
-classoption: [twoside, openany, 8pt]
+edition: Final Edition - 2025
+lang: en-US
+documentclass: book
+classoption: [twoside, openany, 10pt]
 numbersections: true
 secnumdepth: 0
 toc-depth: 3
@@ -14,7 +14,7 @@ top-level-division: chapter
 header-includes:
   - |
     \usepackage{setspace}
-    \setstretch{2.0}
+    \setstretch{1.2}
   - |
     \usepackage{microtype}
     \microtypesetup{protrusion=true}
@@ -26,44 +26,7 @@ header-includes:
     \definecolor{goldframe}{HTML}{be985c}
   - |
     \usepackage{quoting}
-    \quotingsetup{vskip=6pt,leftmargin=1em,rightmargin=1em,font=\itshape\color{crimsontext}}
-  - |
-    \usepackage{tocloft}
-    \setlength{\cftchapindent}{0em}
-    \setlength{\cftsecindent}{1.5em}
-    \setlength{\cftsubsecindent}{3.0em}
-    \setlength{\cftsubsubsecindent}{4.5em}
-    \setlength{\cftchapnumwidth}{2.0em}
-    \setlength{\cftsecnumwidth}{2.3em}
-    \setlength{\cftsubsecnumwidth}{3.2em}
-    \setlength{\cftsubsubsecnumwidth}{4.1em}
-  - |
-    \usepackage{fancyhdr}
-    \pagestyle{fancy}
-    \fancyhf{}
-    \setlength{\headheight}{14.5pt}
-    \makeatletter
-    \renewcommand{\chaptermark}[1]{%
-      \def\temparg{#1}%
-      \def\prefacetext{Preface}%
-      \ifx\temparg\prefacetext
-        \markboth{Preface}{}%
-      \else
-        \begingroup
-        \def\checkintro##1Why I wrote this book##2\relax{%
-          \ifx\relax##2\relax
-            \markboth{\@chapapp\ \thechapter\enspace #1}{}%
-          \else
-            \markboth{Introduction}{}%
-          \fi
-        }%
-        \expandafter\checkintro\temparg Why I wrote this book\relax
-        \endgroup
-      \fi
-    }
-    \makeatother
-    \fancyhead[LE,RO]{\footnotesize \leftmark}
-    \fancyfoot[CE,CO]{\thepage}
+    \quotingsetup{vskip=12pt,leftmargin=2em,rightmargin=2em,font=\itshape\color{crimsontext}}
   - |
     \definecolor{lightcream}{HTML}{f8f6f0}
     \newenvironment{blockquote}{%
@@ -92,7 +55,6 @@ header-includes:
     }
   - |
     \usepackage{tcolorbox}
-  - |
     \definecolor{goldframe50}{HTML}{dfc4aa}
     \newenvironment{callout}{%
       \begin{tcolorbox}[
@@ -112,27 +74,55 @@ header-includes:
       \end{tcolorbox}
     }
   - |
-    \usepackage{etoolbox}
+    \usepackage{tocloft}
     \AtBeginDocument{
-      \makeatletter
-      \patchcmd{\maketitle}
-        {\begin{titlepage}\centering}
-        {\begin{titlepage}\centering}
-        {}{}
-      \patchcmd{\maketitle}
-        {\par\vfil\null}
-        {\par\vfil\null\vskip 1em\begin{center}\large\textit\textmd{3rd Draft - August 23, 2025}\end{center}}
-        {}{}
-      \makeatother
+      \cftsetindents{chapter}{0em}{2.5em}
+      \cftsetindents{section}{1.5em}{2.3em}
+      \cftsetindents{subsection}{3.0em}{3.2em}
+      \cftsetindents{subsubsection}{4.5em}{4.1em}
+      \renewcommand{\cftchapaftersnum}{\hspace{0.75em}}
+      \renewcommand{\cftsecaftersnum}{\hspace{0.75em}}
+      \renewcommand{\cftsubsecaftersnum}{\hspace{0.75em}}
     }
+  - |
+    \usepackage{fancyhdr}
+    \pagestyle{fancy}
+    \fancyhf{}
+    \setlength{\headheight}{14.5pt}
+    \makeatletter
+    \renewcommand{\chaptermark}[1]{%
+      \def\temparg{#1}%
+      \def\prefacetext{Preface}%
+      \ifx\temparg\prefacetext
+        \markboth{Preface}{}%
+      \else
+        \begingroup
+        \def\checkintro##1Why I wrote this book##2\relax{%
+          \ifx\relax##2\relax
+            \markboth{\@chapapp\ \thechapter\enspace #1}{}%
+          \else
+            \markboth{Introduction}{}%
+          \fi
+        }%
+        \expandafter\checkintro\temparg Why I wrote this book\relax
+        \endgroup
+      \fi
+    }
+    \makeatother
+    \fancyhead[LE,RO]{\footnotesize \leftmark}
+    \fancyfoot[CE,CO]{\thepage}
+  - |
+    \usepackage{titling}
+    \pretitle{\begin{center}\LARGE\bfseries}
+    \posttitle{\par\vskip 0.5em\large\textit\textmd{Final Edition - 2025}\end{center}\vskip 1em}
 geometry:
-  - paperwidth=8.5in
-  - paperheight=11in
-  - inner=1in
-  - outer=1in
-  - top=1in
-  - bottom=1in
-
+  - paperwidth=6in
+  - paperheight=9in
+  - inner=0.9in
+  - outer=0.7in
+  - top=0.8in
+  - bottom=0.9in
+  - bindingoffset=0.25in
 chapters:
   - 1_cover.md
   - 2_preface.md
@@ -150,9 +140,8 @@ chapters:
   - chapter_11.md
   - chapter_12.md
   - chapter_13.md
+  - chapter_14_summa_caritatis.md
   - z_appendix1_on_teaching_the_children.md
   - z_appendix2_on_the_marriage_covenant.md
-  - chapter_14_summa_caritatis.md
-
-
-
+  - z_appendix3_faith_alone_vs_gods_perfect_love_alone.md
+  - z_appendix4_definitions.md

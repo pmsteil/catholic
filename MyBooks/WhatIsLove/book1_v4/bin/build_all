@@ -1,0 +1,31 @@
+#!/bin/bash
+
+# Build all working profiles
+echo "Building all available profiles..."
+
+# Build each profile individually
+echo "Building default profile..."
+bin/build default --no-open
+
+echo "Building proof profile..."
+bin/build proof --no-open
+
+echo "Building devotional profile..."
+bin/build devotional --no-open
+
+echo "Building compact profile..."
+bin/build compact --no-open
+
+echo "Building final profile..."
+bin/build final --no-open
+
+echo "All builds completed!"
+echo "Generated PDFs:"
+ls -la *.pdf
+
+# Optionally open all PDFs
+read -p "Open all PDFs? (y/n): " -n 1 -r
+echo
+if [[ $REPLY =~ ^[Yy]$ ]]; then
+    open *.pdf
+fi

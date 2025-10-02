@@ -1,0 +1,504 @@
+#!/usr/bin/env python3
+import subprocess
+import sys
+from pathlib import Path
+from typing import List, Optional
+import re
+import tempfile
+import os
+
+ROOT_DIR = Path(__file__).resolve().parents[1]
+CHAPTERS_DIR = ROOT_DIR / "chapters"
+ORDER_FILE = CHAPTERS_DIR / "build-chapters-order.txt"
+METADATA_FILE = ROOT_DIR / "build" / "book-profile-default.yaml"
+METADATA_PROFILES_DIR = ROOT_DIR / "build"
+DEFAULT_OUTPUT_PDF = ROOT_DIR / "WhatIsLove_book.pdf"
+
+# Profiles are dynamically discovered from book-profile-*.yaml files
+
+HTML_APPENDIX = CHAPTERS_DIR / "z_appendix4_definitions.html"
+MD_APPENDIX = CHAPTERS_DIR / "z_appendix4_definitions.md"
+
+
+def ensure_tools_available() -> None:
+    for tool in ("pandoc", "tectonic"):
+        try:
+            subprocess.run([tool, "--version"], check=True, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
+        except Exception:
+            print(f"Error: required tool not found: {tool}")
+            sys.exit(1)
+
+
+def convert_html_appendix_if_needed() -> None:
+    if not HTML_APPENDIX.exists():
+        return
+    if not MD_APPENDIX.exists() or HTML_APPENDIX.stat().st_mtime > MD_APPENDIX.stat().st_mtime:
+        print(f"Converting HTML → MD: {HTML_APPENDIX.name} → {MD_APPENDIX.name}")
+        subprocess.run(
+            [
+                "pandoc",
+                str(HTML_APPENDIX),
+                "-f",
+                "html",
+                "-t",
+                "gfm",
+                "-o",
+                str(MD_APPENDIX),
+            ],
+            check=True,
+        )
+
+
+def read_order_from_metadata(metadata_path: Path) -> Optional[List[str]]:
+    # Minimal YAML parsing for a top-level list under key 'chapters:'
+    if not metadata_path.exists():
+        return None
+    chapters: List[str] = []
+    in_list = False
+    base_indent: Optional[int] = None
+    with metadata_path.open("r", encoding="utf-8") as f:
+        for raw in f:
+            line = raw.rstrip("\n")
+            if not in_list:
+                if re.match(r"^chapters:\s*$", line):
+                    in_list = True
+                    base_indent = None
+                continue
+            # in_list
+            if not line.strip():
+                break
+            m = re.match(r"^(\s*)-\s+(.+?)\s*$", line)
+            if not m:
+                # stop when list ends or different structure encountered
+                break
+            indent = len(m.group(1))
+            if base_indent is None:
+                base_indent = indent
+            elif indent < base_indent:
+                break
+            item = m.group(2)
+            chapters.append(item)
+    return chapters or None
+
+
+def discover_profiles() -> List[str]:
+    # Dynamically discover available profiles by looking for book-profile-*.yaml files
+    profiles = ["default"]  # Default is always available
+    profile_pattern = "book-profile-*.yaml"
+
+    # Find all profile files
+    for profile_path in METADATA_PROFILES_DIR.glob(profile_pattern):
+        # Extract profile name from filename (remove 'book-profile-' prefix and '.yaml' suffix)
+        profile_name = profile_path.stem.replace("book-profile-", "")
+        if profile_name != "default":  # Already added default
+            profiles.append(profile_name)
+
+    # Sort profiles for consistent display
+    profiles.sort()
+    return profiles
+
+
+def read_ordered_files(order_path: Path) -> List[str]:
+    # Prefer metadata chapters list if present
+    meta_list = read_order_from_metadata(METADATA_FILE)
+    if meta_list:
+        return [str(CHAPTERS_DIR / name) for name in meta_list]
+    if not order_path.exists():
+        print(f"Missing order file: {order_path} and no 'chapters:' list in metadata")
+        sys.exit(1)
+    files: List[str] = []
+    with order_path.open("r", encoding="utf-8") as f:
+        for line in f:
+            line = line.strip()
+            if not line or line.startswith("#"):
+                continue
+            files.append(str(CHAPTERS_DIR / line))
+    return files
+
+
+def strip_html_tags(text: str) -> str:
+    # basic tag stripper for our limited use case
+    text = re.sub(r"<[^>]+>", "", text)
+    # Escape LaTeX special characters
+    text = text.replace("#", r"\#")
+    text = text.replace("$", r"\$")
+    text = text.replace("%", r"\%")
+    text = text.replace("&", r"\&")
+    text = text.replace("_", r"\_")
+    text = text.replace("{", r"\{")
+    text = text.replace("}", r"\}")
+    return text
+
+
+def transform_html_widgets(markdown: str) -> str:
+    # Convert custom blockquote divs to LaTeX blockquote environments
+    # Convert custom callout divs to LaTeX callout environments
+    def repl_blockquote(match: re.Match) -> str:
+        inner = match.group(1)
+        # extract optional author
+        author_match = re.search(r"<span[^>]*class=\"author\"[^>]*>([\s\S]*?)</span>", inner, re.IGNORECASE)
+        author = strip_html_tags(author_match.group(1)).strip() if author_match else ""
+        # remove author span from inner
+        inner_wo_author = re.sub(r"<span[^>]*class=\"author\"[^>]*>[\s\S]*?</span>", "", inner, flags=re.IGNORECASE)
+        text = strip_html_tags(inner_wo_author).strip()
+
+        # Generate LaTeX blockquote environment
+        content = text
+        if author:
+            content += "\n\n" + author
+
+        return f"\n\n\\begin{{blockquote}}\n{content}\n\\end{{blockquote}}\n\n"
+
+    def repl_callout(match: re.Match) -> str:
+        inner = match.group(1)
+        text = strip_html_tags(inner).strip()
+
+        # Generate LaTeX callout environment
+        return f"\n\n\\begin{{callout}}\n{text}\n\\end{{callout}}\n\n"
+
+    # Patterns span multiple lines
+    markdown = re.sub(r"<div[^>]*class=\"blockquote\"[^>]*>([\s\S]*?)</div>", repl_blockquote, markdown, flags=re.IGNORECASE)
+    markdown = re.sub(r"<div[^>]*class=\"callout\"[^>]*>([\s\S]*?)</div>", repl_callout, markdown, flags=re.IGNORECASE)
+    return markdown
+
+
+def preprocess_files(files: List[str]) -> List[str]:
+    # Write transformed files to a temp directory and return their paths
+    tmpdir = tempfile.mkdtemp(prefix="book_build_")
+    out_files: List[str] = []
+
+    # Optional behavior & debug flags (environment variables)
+    #  - FORCE_CHAPTER_TOP=1      → force numbered chapters/appendices to start with \chapter{...}
+    #  - BREAK_BEFORE_EACH=clearpage|cleardoublepage → insert page breaks between files
+    #  - FRONTMATTER_STAR=1       → treat 0_cover.md, 000_forward.md, 00_Introduction.md as unnumbered chapters
+    #  - DEBUG_DUMP_PREPROCESSED=1→ persist preprocessed files to _preprocessed/
+    #  - DEBUG_LOG=1              → print decisions and file handling
+    import os
+    force_chapter_top = os.environ.get("FORCE_CHAPTER_TOP") == "1"
+    break_before_each = os.environ.get("BREAK_BEFORE_EACH", "").strip()
+    if break_before_each not in ("", "clearpage", "cleardoublepage"):
+        break_before_each = ""
+    frontmatter_star = os.environ.get("FRONTMATTER_STAR") == "1"
+    debug_dump_pre = os.environ.get("DEBUG_DUMP_PREPROCESSED") == "1"
+    debug_log = os.environ.get("DEBUG_LOG") == "1"
+
+    dump_dir: Optional[Path] = None
+    if debug_dump_pre:
+        dump_dir = ROOT_DIR / "_preprocessed"
+        dump_dir.mkdir(parents=True, exist_ok=True)
+    if debug_log:
+        print(f"[build] flags: force_chapter_top={force_chapter_top} break_before_each={break_before_each or 'none'} frontmatter_star={frontmatter_star} dump_pre={debug_dump_pre}")
+
+    # Insert front matter toggle as Markdown (raw TeX) so pandoc still uses its LaTeX template
+    frontmatter_file = Path(tmpdir) / "00__frontmatter.md"
+    with open(frontmatter_file, "w", encoding="utf-8") as f:
+        f.write("\\frontmatter\n")
+    out_files.append(str(frontmatter_file))
+
+    mainmatter_inserted = False
+    appendix_started = False
+
+    is_first_content = True
+    for path in files:
+        try:
+            with open(path, "r", encoding="utf-8") as f:
+                content = f.read()
+        except UnicodeDecodeError:
+            # Fallback if encoding issues
+            with open(path, "r", encoding="latin-1") as f:
+                content = f.read()
+        transformed = transform_html_widgets(content)
+
+        name_only = Path(path).name
+
+        # Optionally render frontmatter items as unnumbered chapters and add to TOC
+        if frontmatter_star and name_only in ("1_cover.md", "2_preface.md", "3_introduction.md"):
+            h1_match = re.search(r"^(\s*#\s+)(.+?)\s*$", transformed, flags=re.MULTILINE)
+            title_text = h1_match.group(2).strip() if h1_match else Path(path).stem.replace("_", " ")
+            safe_title = title_text.replace("{", "\\{").replace("}", "\\}")
+            if h1_match:
+                transformed = re.sub(r"^\s*#\s+.+?\s*$", "", transformed, count=1, flags=re.MULTILINE)
+            transformed = f"\\chapter*{{{safe_title}}}\n\\addcontentsline{{toc}}{{chapter}}{{{safe_title}}}\n\n" + transformed.lstrip("\n")
+            if debug_log:
+                print(f"[build] frontmatter starred: {name_only} → {safe_title}")
+
+        # Optionally force \chapter at top for numbered chapters and appendices
+        if force_chapter_top and (
+            re.match(r"^(chapter_\\d+\\.md)$", name_only, flags=re.IGNORECASE) or ("appendix" in name_only.lower())
+        ):
+            h1_match = re.search(r"^(\s*#\s+)(.+?)\s*$", transformed, flags=re.MULTILINE)
+            if h1_match:
+                title_text = h1_match.group(2).strip()
+                transformed = re.sub(r"^\s*#\s+.+?\s*$", "", transformed, count=1, flags=re.MULTILINE)
+            else:
+                title_text = Path(path).stem.replace("_", " ")
+            safe_title = title_text.replace("{", "\\{").replace("}", "\\}")
+            transformed = f"\\chapter{{{safe_title}}}\n\n" + transformed.lstrip("\n")
+            if debug_log:
+                print(f"[build] forced chapter: {name_only} → {safe_title}")
+
+        # When we reach the first numbered chapter file, switch to main matter via a raw TeX block in Markdown
+        name = Path(path).name.lower()
+        if not mainmatter_inserted and (name == "chapter_01.md" or name.startswith("chapter_01.")):
+            mainmatter_file = Path(tmpdir) / "01__mainmatter.md"
+            with open(mainmatter_file, "w", encoding="utf-8") as mf:
+                mf.write("\\mainmatter\n\\thispagestyle{empty}\n")
+            out_files.append(str(mainmatter_file))
+            mainmatter_inserted = True
+
+        # When we reach the first appendix file, switch to appendix mode so chapters
+        # are lettered (A, B, C, …) and sections are numbered as A.1, A.2, …
+        if not appendix_started and (
+            ("appendix" in name)
+            or name.startswith("z_appendix")
+        ):
+            appendix_file = Path(tmpdir) / "98__appendix.md"
+            with open(appendix_file, "w", encoding="utf-8") as bf:
+                bf.write("\\appendix\n")
+            out_files.append(str(appendix_file))
+            appendix_started = True
+
+        # Optional page break before each content file (except before the first)
+        if break_before_each and not is_first_content:
+            br = Path(tmpdir) / f"_break_before_{name_only}.md"
+            with open(br, "w", encoding="utf-8") as bf:
+                bf.write(f"\\{break_before_each}\n")
+            out_files.append(str(br))
+
+        dst = Path(tmpdir) / name_only
+        with open(dst, "w", encoding="utf-8") as f:
+            f.write(transformed)
+        out_files.append(str(dst))
+        is_first_content = False
+
+        # Optional dump for inspection
+        if dump_dir is not None:
+            with open(dump_dir / name_only, "w", encoding="utf-8") as df:
+                df.write(transformed)
+    return out_files
+
+
+def build_pdf(files: List[str], profile: Optional[str]) -> Path:
+    # Preprocess files to convert custom HTML widgets to Markdown
+    processed = preprocess_files(files)
+
+    # Determine metadata file to use (either default or specified profile)
+    metadata_args: List[str] = []
+    if profile and profile != "default":
+        profile_path = METADATA_PROFILES_DIR / f"book-profile-{profile}.yaml"
+        if profile_path.exists():
+            metadata_args.append(f"--metadata-file={profile_path}")
+        else:
+            print(f"Warning: Profile '{profile}' not found, falling back to default")
+            metadata_args.append(f"--metadata-file={METADATA_FILE}")
+    else:
+        # Use default profile
+        metadata_args.append(f"--metadata-file={METADATA_FILE}")
+
+    # Optional TOC tuning via env → write a tiny YAML overlay dynamically
+    import os, tempfile
+    toc_overlay_path: Optional[Path] = None
+    # Convenience flag to widen chapter number width
+    toc_wide = os.environ.get("TOC_WIDE") == "1"
+    chap_indent = os.environ.get("TOC_CHAP_INDENT_EM")
+    chap_numwidth = os.environ.get("TOC_CHAP_NUMWIDTH_EM")
+    sec_indent = os.environ.get("TOC_SEC_INDENT_EM")
+    sec_numwidth = os.environ.get("TOC_SEC_NUMWIDTH_EM")
+    subsec_indent = os.environ.get("TOC_SUBSEC_INDENT_EM")
+    subsec_numwidth = os.environ.get("TOC_SUBSEC_NUMWIDTH_EM")
+
+    def em(val: str) -> str:
+        return val if val.endswith("em") else f"{val}em"
+
+    use_setindents = os.environ.get("TOC_USE_SETINDENTS") == "1"
+
+    if toc_wide or any([chap_indent, chap_numwidth, sec_indent, sec_numwidth, subsec_indent, subsec_numwidth]) or use_setindents:
+        # Defaults when TOC_WIDE is on
+        if toc_wide and not chap_numwidth:
+            chap_numwidth = "3.5"
+        # Build a small YAML overlay. Use \AtBeginDocument so settings run after packages load.
+        lines: List[str] = ["header-includes:"]
+        lines.append("  - |")
+        lines.append("    \\usepackage{tocloft}")
+        lines.append("    \\AtBeginDocument{")
+        if use_setindents:
+            # Prefer atomic setters to keep indent/numwidth in sync per level
+            if chap_indent or chap_numwidth:
+                lines.append(
+                    f"      \\cftsetindents{{chapter}}{{{em(chap_indent or '0')}}}{{{em(chap_numwidth or (chap_numwidth or '3.5'))}}}"
+                )
+            if sec_indent or sec_numwidth:
+                lines.append(
+                    f"      \\cftsetindents{{section}}{{{em(sec_indent or '1.5')}}}{{{em(sec_numwidth or '2.3')}}}"
+                )
+            if subsec_indent or subsec_numwidth:
+                lines.append(
+                    f"      \\cftsetindents{{subsection}}{{{em(subsec_indent or '3.0')}}}{{{em(subsec_numwidth or '3.2')}}}"
+                )
+        else:
+            if chap_indent:
+                lines.append(f"      \\setlength{{\\cftchapindent}}{{{em(chap_indent)}}}")
+            if chap_numwidth:
+                lines.append(f"      \\setlength{{\\cftchapnumwidth}}{{{em(chap_numwidth)}}}")
+            if sec_indent:
+                lines.append(f"      \\setlength{{\\cftsecindent}}{{{em(sec_indent)}}}")
+            if sec_numwidth:
+                lines.append(f"      \\setlength{{\\cftsecnumwidth}}{{{em(sec_numwidth)}}}")
+            if subsec_indent:
+                lines.append(f"      \\setlength{{\\cftsubsecindent}}{{{em(subsec_indent)}}}")
+            if subsec_numwidth:
+                lines.append(f"      \\setlength{{\\cftsubsecnumwidth}}{{{em(subsec_numwidth)}}}")
+
+        # Also normalize spacing after numbers for clarity
+        lines.append("      \\renewcommand{\\cftchapaftersnum}{\\hspace{0.75em}}")
+        lines.append("      \\renewcommand{\\cftsecaftersnum}{\\hspace{0.75em}}")
+        lines.append("      \\renewcommand{\\cftsubsecaftersnum}{\\hspace{0.75em}}")
+        lines.append("    }")
+
+        tf = tempfile.NamedTemporaryFile("w", delete=False, suffix="-toc-overlay.yaml")
+        tf.write("\n".join(lines) + "\n")
+        tf.flush(); tf.close()
+        toc_overlay_path = Path(tf.name)
+        metadata_args.append(f"--metadata-file={toc_overlay_path}")
+        if os.environ.get("DEBUG_LOG") == "1":
+            print(f"[build] toc overlay: {toc_overlay_path}")
+
+    # Determine output path
+    if profile:
+        output_pdf = ROOT_DIR / f"WhatIsLove_book.{profile}.pdf"
+    else:
+        output_pdf = DEFAULT_OUTPUT_PDF
+
+    # Set active profile
+    active_profile = profile or "default"
+
+    cmd = [
+        "pandoc",
+        "--standalone",
+        "--from=markdown+smart+raw_tex",
+        "--toc",
+        "--pdf-engine=tectonic",
+        *metadata_args,
+        f"--metadata=profile={active_profile}",
+    ]
+
+    # Optional debug flags (environment variables):
+    #  - DEBUG_HEADINGS=1   → add Lua filter that prefixes headings with [Hn]
+    #  - KEEP_LATEX=1       → emit intermediate LaTeX file alongside PDF
+    if os.environ.get("DEBUG_HEADINGS") == "1":
+        cmd += ["--lua-filter", str(ROOT_DIR / "filters" / "heading_debug.lua")]
+
+    latex_out: Optional[Path] = None
+    if os.environ.get("KEEP_LATEX") == "1":
+        latex_out = ROOT_DIR / "_debug.tex"
+        cmd += ["--output", str(latex_out)]
+    else:
+        cmd += ["--output", str(output_pdf)]
+
+    cmd += [*processed]
+    subprocess.run(cmd, check=True)
+    # If we kept LaTeX, compile it now to PDF using tectonic and save both
+    if latex_out is not None:
+        # tectonic compiles to same basename .pdf in the cwd
+        # Run in ROOT_DIR to place the PDF alongside
+        subprocess.run(["tectonic", str(latex_out.name)], check=True, cwd=str(ROOT_DIR))
+        print(f"Built (debug): {ROOT_DIR / latex_out.with_suffix('.pdf').name}")
+    else:
+        print(f"Built: {output_pdf}")
+
+    return output_pdf
+
+
+def open_pdf(pdf_path: Path) -> None:
+    """Open the PDF file using the default system viewer."""
+    if not pdf_path.exists():
+        print(f"Warning: PDF file not found at {pdf_path}")
+        return
+
+    # Use platform-specific commands to open the PDF
+    try:
+        if sys.platform == "darwin":  # macOS
+            subprocess.run(["open", str(pdf_path)], check=True)
+        elif sys.platform == "win32":  # Windows
+            os.startfile(str(pdf_path))
+        elif sys.platform.startswith("linux"):  # Linux
+            subprocess.run(["xdg-open", str(pdf_path)], check=True)
+        else:
+            print(f"Warning: Unsupported platform {sys.platform} for auto-opening PDF")
+    except Exception as e:
+        print(f"Error opening PDF: {e}")
+
+
+def main() -> None:
+    # If no arguments provided, list profiles and exit
+    if len(sys.argv) == 1:
+        print("Available profiles:")
+        for p in discover_profiles():
+            print(f"  - {p}")
+        print("\nUsage: bin/build [profile] [--no-open] [--all]")
+        print("Run 'bin/build --help' for more information")
+        sys.exit(0)
+
+    if len(sys.argv) > 1 and sys.argv[1] in ("-h", "--help", "help"):
+        print("Usage: bin/build [profile] [--no-open] [--all]\n")
+        print("Options:")
+        print("  --no-open    Don't automatically open the PDF after building")
+        print("  --all        Build all available profiles (implies --no-open)\n")
+        print("Profiles:")
+        for p in discover_profiles():
+            print(f"  - {p}")
+        sys.exit(0)
+
+    # Parse arguments
+    args = sys.argv[1:]
+    no_open = "--no-open" in args
+    build_all = "--all" in args
+
+    if build_all:
+        no_open = True  # --all implies --no-open
+        args.remove("--all")
+
+    if no_open and "--no-open" in args:
+        args.remove("--no-open")
+
+    profile: Optional[str] = args[0] if args else "default"
+    available = discover_profiles()
+
+    # Handle --all option
+    if build_all:
+        print(f"Building all {len(available)} profiles...")
+        ensure_tools_available()
+        convert_html_appendix_if_needed()
+        files = read_ordered_files(ORDER_FILE)
+
+        for p in available:
+            print(f"\nBuilding profile: {p}")
+            try:
+                output_pdf = build_pdf(files, p)
+                print(f"✓ Successfully built: {output_pdf.name}")
+            except Exception as e:
+                print(f"✗ Failed to build {p}: {e}")
+
+        print(f"\nCompleted building all profiles!")
+        return
+
+    # Check if the profile file exists
+    profile_file = METADATA_PROFILES_DIR / f"book-profile-{profile}.yaml"
+    if not profile_file.exists():
+        print(f"Warning: profile '{profile}' not found. Available: {', '.join(available) if available else 'none'}")
+        sys.exit(1)
+
+    ensure_tools_available()
+    convert_html_appendix_if_needed()
+    files = read_ordered_files(ORDER_FILE)
+    output_pdf = build_pdf(files, profile)
+
+    # Open the PDF unless --no-open was specified
+    if not no_open:
+        open_pdf(output_pdf)
+
+
+if __name__ == "__main__":
+    main()
+
+
