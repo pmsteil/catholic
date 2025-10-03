@@ -42,7 +42,7 @@ Maybe that's you. Maybe the contradictions finally became too glaring to ignore.
 
 Maybe you're reading this book because you're searching for answers—real answers, not the comfortable lies our culture keeps selling.
 
-Here's the truth that's becoming undeniable: **Personal belief without action gets a society nowhere.** You can believe all the right doctrines, attend church every Sunday, and still watch civilization collapse around you if that belief doesn't translate into authentic love—love grounded in truth, expressing justice, offering mercy, requiring sacrifice, creating covenant, building communion.
+Here's the truth that's becoming undeniable: **Personal belief without action gets a society nowhere.** You can believe all the right doctrines, attend church every Sunday, and still watch civilization collapse around you if that belief doesn't translate into authentic love—love grounded in truth, expressing justice and mercy, requiring sacrifice, creating covenant, building communion.
 
 The crisis we're facing isn't just political or cultural. It's theological. It's the fruit of centuries of Christianity that separated belief from action, personal piety from social transformation. We preached "accept Jesus and go to heaven" while the world burned. We emphasized individual salvation while families shattered. We focused on the afterlife while evil conquered this life.
 

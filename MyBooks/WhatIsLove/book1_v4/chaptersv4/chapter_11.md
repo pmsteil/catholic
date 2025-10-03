@@ -159,7 +159,7 @@ This is what we're made for. This is where love leads. This is the goal of every
 
 ## The Journey Continues
 
-We've now unpacked the complete definition: God's Perfect Love is the sacred, sacrificial gift of covenant, binding truth, justice, and mercy, into life-giving communion.
+We've now unpacked the complete definition: God's Perfect Love is the sacred gift of covenant which binds truth, justice, mercy, and sacrifice into life-giving communion.
 
 Each facet is essential. Remove any one, and love becomes something less than love. Together, they form the complete answer to the problem of evil we identified in Chapter 1.
 

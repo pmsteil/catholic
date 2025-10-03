@@ -103,7 +103,7 @@ Love has been so difficult to define because it isn't just one thing—it's a mu
 Through careful study of Scripture and the Church's teaching on love, we can see that perfect love cannot be reduced to a single dimension. It must integrate all the essential elements that Scripture and the Church reveal about love's nature. Here is the definition that will guide our entire journey:
 
 <div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 23px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
-<strong>God's Perfect Love is the sacred, sacrificial gift of covenant, binding truth, justice, and mercy, into life-giving communion.</strong>
+<strong>God's Perfect Love is the sacred gift of covenant which binds truth, justice, mercy, and sacrifice into life-giving communion.</strong>
 </div>
 
 Let's understand what "perfect" means here. Perfect doesn't mean flawless performance or earning God's love through our efforts. Rather, perfect means *complete* and *integrated*—love that includes all its essential facets working in harmony. Jesus calls us to this perfection: "Be perfect, therefore, as your heavenly Father is perfect" (Matthew 5:48, NABRE). This is possible not through human effort alone, but through grace that teaches and transforms us.
@@ -147,7 +147,7 @@ In Jesus Christ, perfect love became incarnate. He is:
 - The source of **divine grace**: "From his fullness we have all received, grace upon grace" (John 1:16, NABRE)
 - **Perfect love incarnate**: "God so loved the world that he gave his only Son" (John 3:16, NABRE)
 
-This isn't theological theory. In Jesus, the perfect love we've been defining—that sacred, sacrificial gift of covenant, binding truth, justice, and mercy—took on flesh and blood. He didn't just teach about perfect love; He IS perfect love.
+This isn't theological theory. In Jesus, the perfect love we've been defining—that sacred gift of covenant which binds truth, justice, mercy, and sacrifice—took on flesh and blood. He didn't just teach about perfect love; He IS perfect love.
 
 The Incarnation changes everything. God didn't send a messenger or a prophet or a philosophy. He sent Himself. The Author of all reality entered His own story to rewrite the tragedy we had made of it.
 
@@ -174,17 +174,17 @@ You can see from these facets that people understand bits and pieces, living the
 
 In these first two chapters, we have laid a crucial foundation: the fundamental problem facing humanity is the evil in man's heart, and filling the heart with love is the answer to that problem.
 
-Our comprehensive definition—God's Perfect Love as "the sacred, sacrificial gift of covenant, binding truth, justice, and mercy, into life-giving communion"—now serves as our roadmap for the entire journey ahead.
+Our comprehensive definition—God's Perfect Love as "the sacred gift of covenant which binds truth, justice, mercy, and sacrifice into life-giving communion"—now serves as our roadmap for the entire journey ahead.
 
 **Part 1 (Chapters 3-11)** will systematically unpack each component of this definition:
 - Chapter 3: **Sacred** - God as the source of all love
-- Chapter 4: **Sacrificial** - Love made visible through action
-- Chapter 5: **Gift of Covenant** - Permanent love through voluntary authority
-- Chapter 6: **Binding** - Love unites and integrates
-- Chapter 7: **Truth** - Love requires objective reality
-- Chapter 8: **Justice** - Love gives what is due
-- Chapter 9: **Mercy** - Love transcends justice
-- Chapter 10: **Into Life-giving** - Love creates and multiplies
+- Chapter 4: **Gift of Covenant** - Permanent love through voluntary authority
+- Chapter 5: **Binding** - Love unites and integrates
+- Chapter 6: **Truth** - Love requires objective reality
+- Chapter 7: **Justice** - Love gives what is due
+- Chapter 8: **Mercy** - Love transcends justice
+- Chapter 9: **Sacrifice** - Love made visible through action
+- Chapter 10: **Life-giving** - Love creates and multiplies
 - Chapter 11: **Communion** - Love builds authentic community
 
 **Part 2 (Chapters 12-16)** will apply this definition to key Christian questions:

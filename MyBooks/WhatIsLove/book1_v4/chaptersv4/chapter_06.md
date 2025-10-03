@@ -46,9 +46,9 @@ Think about a diamond. You can't understand a diamond by looking at just one fac
 
 Similarly, love integrates multiple essential elements. Try to reduce it to just one—just truth, or just mercy, or just sacrifice—and you lose love itself. You get a fragment, not the whole.
 
-This is why our definition includes so many elements: sacred, sacrificial, gift, covenant, binding truth, justice, and mercy, into life-giving communion. Each element is essential. Remove any one, and love becomes something else—something less than love.
+This is why our definition includes so many elements: sacred, gift, covenant, binding truth, justice, mercy, and sacrifice, into life-giving communion. Each element is essential. Remove any one, and love becomes something else—something less than love.
 
-## How Love Binds Truth, Justice, and Mercy
+## How Love Binds Truth, Justice, Mercy, and Sacrifice
 
 Let's look at how love holds these three crucial virtues together:
 

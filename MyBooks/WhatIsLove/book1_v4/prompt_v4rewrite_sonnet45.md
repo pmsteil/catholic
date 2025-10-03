@@ -8,7 +8,7 @@ This prompt provides comprehensive instructions for creating version 4 of "What 
 
 ## Core Definition
 
-**God's Perfect Love is the sacred, sacrificial gift of covenant, binding truth, justice, and mercy, into life-giving communion.**
+**God's Perfect Love is the sacred gift of covenant which binds truth, justice, mercy, and sacrifice into life-giving communion.**
 
 This definition serves as the foundation for the entire book and will be systematically unpacked in Part 1, then applied to key Christian questions in Part 2.
 
@@ -20,13 +20,13 @@ This definition serves as the foundation for the entire book and will be systema
 1. **Chapter 1: The Problem of Evil** - Establishes the fundamental problem that only love can solve
 2. **Chapter 2: The Answer is Love** - Introduces the comprehensive definition as God's solution
 3. **Chapter 3: Sacred** - God as the source of all love; love's divine origin
-4. **Chapter 4: Sacrificial** - Love requires self-giving action, not mere sentiment
-5. **Chapter 5: Gift of Covenant** - Permanent, binding relationships through voluntary acceptance of God's authority
-6. **Chapter 6: Binding** - Love unites and integrates disparate elements into harmonious whole
-7. **Chapter 7: Truth** - Love requires objective reality and cannot exist in deception
-8. **Chapter 8: Justice** - Love gives what is due according to dignity
-9. **Chapter 9: Mercy** - Love transcends justice with compassionate forgiveness
-10. **Chapter 10: Into Life-giving** - Love creates, sustains, and multiplies life
+4. **Chapter 4: Gift of Covenant** - Permanent, binding relationships through voluntary acceptance of God's authority
+5. **Chapter 5: Binding** - Love unites and integrates disparate elements into harmonious whole
+6. **Chapter 6: Truth** - Love requires objective reality and cannot exist in deception
+7. **Chapter 7: Justice** - Love gives what is due according to dignity
+8. **Chapter 8: Mercy** - Love transcends justice with compassionate forgiveness
+9. **Chapter 9: Sacrifice** - Love requires self-giving action, not mere sentiment
+10. **Chapter 10: Life-giving** - Love creates, sustains, and multiplies life
 11. **Chapter 11: Communion** - Love builds authentic community and relationship
 
 ### Part 2: Applications to Christian Faith (Chapters 12-16)
@@ -239,7 +239,7 @@ This definition serves as the foundation for the entire book and will be systema
 - [ ] Sets up Part 1's systematic unpacking
 - [ ] Final review complete
 
-**Core Thesis:** God's Perfect Love: The sacred, sacrificial gift of covenant, binding truth, justice, and mercy into life-giving communion—is the complete answer to evil.
+**Core Thesis:** God's Perfect Love: The sacred gift of covenant which binds truth, justice, mercy, and sacrifice into life-giving communion—is the complete answer to evil.
 
 **Essential Elements to Preserve:**
 - The complete definition with explanation of each component
@@ -288,49 +288,7 @@ This definition serves as the foundation for the entire book and will be systema
 - [ ] Catholic practice connections made
 - [ ] Final review complete
 
-### Chapter 4: Sacrificial - Love Made Visible Through Action
-
-**Core Thesis:** Authentic love requires concrete self-giving action that puts others before self, not mere sentiment or good intentions.
-
-**Key Elements:**
-- **Sacrifice vs. Sentiment:** Love without action is not love at all
-- **Biblical Foundation:**
-  - Christ's sacrifice on the cross (John 15:13, Philippians 2:5-11)
-  - Old Testament sacrificial system as foreshadowing
-  - "Greater love has no one than this..." (John 15:13)
-- **Forms of Sacrifice:**
-  - Daily sacrifices (small acts of service)
-  - Heroic sacrifices (martyrdom, radical service)
-  - Ultimate sacrifice (laying down one's life)
-- **Integration with Other Facets:**
-  - Sacrifice makes truth visible
-  - Sacrifice enacts justice
-  - Sacrifice embodies mercy
-- **How Sacrifice Combats Evil:** Selfishness, pride, greed, comfort-seeking
-
-**Theological Depth:**
-- Expiation (satisfying justice) and oblation (offering mercy) in Christ's sacrifice
-- How our sacrifices participate in Christ's (Colossians 1:24)
-- Difference between sacrifice and self-destruction
-- Sacrifice as liberation, not burden
-
-**Catholic Practice Connection:**
-- **The Mass as Sacrifice:** Why Catholics have Mass—because love requires sacrifice
-- We participate in Jesus' sacrifice on the cross
-- We offer our own sacrifices united with His
-- Eucharist as both sacrifice and communion
-- This is not "re-sacrificing" Christ but participating in His eternal offering
-
-**Scripture Focus:** John 15:13, Philippians 2:5-11, Romans 12:1, Hebrews 9:11-14, Colossians 1:24
-
-**Completion Checklist:**
-- [ ] Sacrifice vs. sentiment distinction clear
-- [ ] Biblical foundation strong
-- [ ] Mass as sacrifice explained
-- [ ] Integration with other facets shown
-- [ ] Final review complete
-
-### Chapter 5: Gift of Covenant - Permanent Love Through Voluntary Authority
+### Chapter 4: Gift of Covenant - Permanent Love Through Voluntary Authority
 
 **Core Thesis:** Love creates permanent, binding relationships through voluntary acceptance of God's authority as the Author of Love.
 
@@ -376,14 +334,14 @@ This definition serves as the foundation for the entire book and will be systema
 - [ ] Marriage as paradigm included
 - [ ] Final review complete
 
-### Chapter 6: Binding - Love Unites and Integrates
+### Chapter 5: Binding - Love Unites and Integrates
 
 **Core Thesis:** Love is the binding force that unites disparate elements into harmonious whole, creating coherence from chaos.
 
 **Key Elements:**
-- **Integration of Truth, Justice, and Mercy:**
-  - These three could conflict without love to bind them
-  - Love ensures truth serves justice, justice enables mercy, mercy upholds truth
+- **Integration of Truth, Justice, Mercy, and Sacrifice:**
+  - These four could conflict without love to bind them
+  - Love ensures truth serves justice, justice enables mercy, mercy upholds truth, and sacrifice makes it all real
   - The "binding" prevents fragmentation and false dichotomies
 - **Unity in Diversity:**
   - Many members, one body (1 Corinthians 12)
@@ -403,7 +361,7 @@ This definition serves as the foundation for the entire book and will be systema
 - Why we need integration, not just individual virtues
 - The danger of pitting virtues against each other
 - Love as the form of all virtues (St. Thomas Aquinas)
-- **Why defining love has been so difficult:** Because love isn't just one thing—it's a multi-faceted integration of truth + justice + mercy. This explains centuries of struggle to capture love's essence in a single definition.
+- **Why defining love has been so difficult:** Because love isn't just one thing—it's a multi-faceted integration of truth + justice + mercy + sacrifice. This explains centuries of struggle to capture love's essence in a single definition.
 
 **Catholic Practice Connection:**
 - Eucharist as the binding sacrament (communion)
@@ -419,7 +377,7 @@ This definition serves as the foundation for the entire book and will be systema
 - [ ] Eucharist as binding sacrament included
 - [ ] Final review complete
 
-### Chapter 7: Truth - Love Requires Objective Reality
+### Chapter 6: Truth - Love Requires Objective Reality
 
 **Core Thesis:** Love requires objective truth and cannot exist in deception; love without truth becomes manipulation.
 
@@ -466,7 +424,7 @@ This definition serves as the foundation for the entire book and will be systema
 - [ ] Church teaching authority explained
 - [ ] Final review complete
 
-### Chapter 8: Justice - Love Gives What Is Due
+### Chapter 7: Justice - Love Gives What Is Due
 
 **Core Thesis:** Love gives each person what they are due according to their dignity as image-bearers of God.
 
@@ -514,7 +472,7 @@ This definition serves as the foundation for the entire book and will be systema
 - [ ] Social justice implications addressed
 - [ ] Final review complete
 
-### Chapter 9: Mercy - Love Transcends Justice
+### Chapter 8: Mercy - Love Transcends Justice
 
 **Core Thesis:** Love transcends justice with compassionate forgiveness, not by violating justice but by going beyond what's strictly owed.
 
@@ -562,7 +520,49 @@ This definition serves as the foundation for the entire book and will be systema
 - [ ] Mercy toward enemies included
 - [ ] Final review complete
 
-### Chapter 10: Into Life-giving - Love Creates and Multiplies
+### Chapter 9: Sacrifice - Love Made Visible Through Action
+
+**Core Thesis:** Sacrifice is one of the essential components that love binds together; authentic love requires concrete self-giving action that puts others before self, not mere sentiment or good intentions.
+
+**Key Elements:**
+- **Sacrifice vs. Sentiment:** Love without action is not love at all
+- **Biblical Foundation:**
+  - Christ's sacrifice on the cross (John 15:13, Philippians 2:5-11)
+  - Old Testament sacrificial system as foreshadowing
+  - "Greater love has no one than this..." (John 15:13)
+- **Forms of Sacrifice:**
+  - Daily sacrifices (small acts of service)
+  - Heroic sacrifices (martyrdom, radical service)
+  - Ultimate sacrifice (laying down one's life)
+- **Integration with Other Facets:**
+  - Sacrifice makes truth visible
+  - Sacrifice enacts justice
+  - Sacrifice embodies mercy
+- **How Sacrifice Combats Evil:** Selfishness, pride, greed, comfort-seeking
+
+**Theological Depth:**
+- Expiation (satisfying justice) and oblation (offering mercy) in Christ's sacrifice
+- How our sacrifices participate in Christ's (Colossians 1:24)
+- Difference between sacrifice and self-destruction
+- Sacrifice as liberation, not burden
+
+**Catholic Practice Connection:**
+- **The Mass as Sacrifice:** Why Catholics have Mass—because love requires sacrifice
+- We participate in Jesus' sacrifice on the cross
+- We offer our own sacrifices united with His
+- Eucharist as both sacrifice and communion
+- This is not "re-sacrificing" Christ but participating in His eternal offering
+
+**Scripture Focus:** John 15:13, Philippians 2:5-11, Romans 12:1, Hebrews 9:11-14, Colossians 1:24
+
+**Completion Checklist:**
+- [ ] Sacrifice vs. sentiment distinction clear
+- [ ] Biblical foundation strong
+- [ ] Mass as sacrifice explained
+- [ ] Integration with other facets shown
+- [ ] Final review complete
+
+### Chapter 10: Life-giving - Love Creates and Multiplies
 
 **Core Thesis:** Love creates, sustains, and multiplies life—both physical and spiritual—participating in God's creative work.
 
