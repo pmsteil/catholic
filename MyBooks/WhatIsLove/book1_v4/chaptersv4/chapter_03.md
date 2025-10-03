@@ -162,13 +162,13 @@ This is why Catholics have always insisted that love is sacred, that sexuality i
 The Catholic Church doesn't just teach about love—she provides the sacramental means to encounter Love Himself. Through the Mass and sacraments, we don't just learn about God's love; we receive it, participate in it, and are transformed by it.
 </div>
 
-## The Bridge to Sacrifice
+## The Bridge to Covenant
 
-Understanding love as sacred—as participation in God's own nature—sets up everything that follows. If love is sacred, then it demands our total response. If love flows from the Trinity's eternal self-gift, then authentic human love must also be self-giving.
+Understanding love as sacred—as participation in God's own nature—sets up everything that follows. If love is sacred, then it can't be casual or temporary. If love flows from God's eternal being, then authentic human love must also be permanent.
 
-This is why the next facet of our definition is **sacrificial**. Love isn't sacred in some abstract, ethereal way. It's sacred precisely because it's the complete gift of self—just as the Father gives everything to the Son, the Son gives everything to the Father, and the Spirit is their mutual self-gift.
+This is why the next facet of our definition is crucial: **gift of covenant**. Love isn't sacred in some abstract, ethereal way. It's sacred precisely because it establishes permanent, binding covenants—just as God's covenant with His people is eternal and unbreakable. God's covenant invites us to enter into His Kingdom of Heaven and Earth, where his laws of love create an eternal communion with us and between us. This relationship is not just personal, but it is communal - it is the Church, the sacramental Body of Christ.
 
-The sacred nature of love doesn't make it less demanding—it makes it more so. Because love participates in God's own being, it requires nothing less than everything we are.
+The sacred nature of love doesn't make it less demanding—it makes it more so. Because love participates in God's own being, it requires permanent commitment, not temporary feelings. It demands covenant, not just contract.
 
 ---
 

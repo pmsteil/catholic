@@ -154,15 +154,15 @@ Not because our sacrifices add anything to Christ's perfect offering, but becaus
 Our sacrifices, united with Christ's perfect sacrifice, participate in His redemptive work. This isn't adding to what Christ did—it's allowing His sacrifice to flow through us to touch others. Every act of authentic love becomes a channel of divine grace.
 </div>
 
-## The Bridge to Covenant
+## The Bridge to Life-Giving
 
-Sacrifice isn't an end in itself. It's the means by which love creates something permanent and binding. When you sacrifice for someone—truly sacrifice, not just perform a transaction—you create a bond that transcends the moment.
+Sacrifice isn't an end in itself. It's the means by which love creates and multiplies. When you sacrifice for someone—truly sacrifice, not just perform a transaction—you don't just give something up. You create something new.
 
-A mother who sacrifices sleep for her infant doesn't just meet a need—she creates a bond of love that will last a lifetime. A husband who sacrifices career advancement to care for his sick wife doesn't just provide care—he deepens a covenant that death itself cannot break.
+A mother who sacrifices sleep for her infant doesn't just meet a need—she creates life, nurtures life, multiplies life. A husband who sacrifices career advancement to care for his sick wife doesn't just provide care—he generates new possibilities for healing, growth, and transformation.
 
-This is why the next facet of our definition is **gift of covenant**. Sacrifice is how love moves from sentiment to commitment, from feeling to promise, from temporary to permanent. It's how love becomes binding.
+This is why the next facet of our definition is crucial: **life-giving**. Sacrifice is how love moves from static to generative, from maintaining to creating, from preserving to multiplying. It's how love becomes fruitful.
 
-Because here's the truth: You can't have covenant without sacrifice. Promises without cost are just words. Commitments without self-gift are just contracts. Love that never sacrifices is love that never truly binds.
+Because here's the truth: Sacrifice that doesn't create life is just destruction. Sacrifice that doesn't multiply love is just loss. Authentic sacrifice is always life-giving—it generates something new, creates something better, multiplies what it gives.
 
 ---
 

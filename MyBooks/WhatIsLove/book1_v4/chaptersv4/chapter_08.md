@@ -186,13 +186,15 @@ The cross is where God's justice and mercy meet perfectly:
 
 This is the pattern for all mercy: Acknowledge the truth. Honor justice. Then bear the cost yourself rather than demanding the offender pay it.
 
-## The Bridge to Life-Giving
+## The Bridge to Sacrifice
 
-Mercy offers forgiveness, releases debts, restores relationships. But to what end? What's the goal of all this mercy?
+Mercy offers forgiveness, releases debts, restores relationships. But how? At what cost? Who pays the price?
 
-This is where the next facet becomes crucial: **life-giving**. Mercy doesn't just forgive the past—it creates possibility for the future. Mercy doesn't just release from death—it offers life. Mercy doesn't just stop destruction—it generates creation.
+This is where the next facet becomes crucial: **sacrifice**. Mercy isn't free—someone must bear the cost. Justice demands payment. Mercy offers to pay it. But this requires sacrifice.
 
-Without mercy, love can only maintain what exists. With mercy, love can create what doesn't yet exist—new beginnings, restored relationships, transformed lives, abundant life.
+On the cross, we see this perfectly: God's mercy toward us required Christ's sacrifice for us. He bore the cost we couldn't pay. He satisfied justice so mercy could be offered. He sacrificed Himself so we could be forgiven.
+
+This is the pattern for all authentic love: Mercy without sacrifice is just cheap sentiment. Sacrifice without mercy is just cold duty. Together, they reveal love's true nature—bearing the cost to offer what's needed.
 
 ---
 
