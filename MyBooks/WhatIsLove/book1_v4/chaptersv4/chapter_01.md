@@ -1,4 +1,4 @@
-# Chapter 1: The Problem of Evil
+# The Problem of Evil
 
 <div class="blockquote">
 "We know that all creation is groaning in labor pains even until now."

@@ -1,4 +1,4 @@
-# Chapter 3: Sacred - God as the Source of All Love
+# Sacred - God as the Source of All Love
 
 <div class="blockquote">
 "Beloved, let us love one another, because love is of God; everyone who loves is begotten by God and knows God. Whoever is without love does not know God, for God is love."

@@ -1,4 +1,4 @@
-# Chapter 11: Communion - Love Builds Authentic Community
+# Communion - Love Builds Authentic Community
 
 <div class="blockquote">
 "It is not good for the man to be alone."

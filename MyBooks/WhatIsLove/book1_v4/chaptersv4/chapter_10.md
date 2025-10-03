@@ -1,4 +1,4 @@
-# Chapter 10: Into Life-giving - Love Creates and Multiplies
+# Life-giving - Love Creates and Multiplies
 
 <div class="blockquote">
 "I came so that they might have life and have it more abundantly."

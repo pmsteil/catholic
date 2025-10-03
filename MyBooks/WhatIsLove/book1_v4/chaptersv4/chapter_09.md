@@ -1,218 +1,188 @@
-# Chapter 9: Mercy - Love Transcends Justice
+# Sacrifice - The Heart of Authentic Love Made Visible Through Action
 
 <div class="blockquote">
-"Be merciful, just as [also] your Father is merciful."
+"No one has greater love than this, to lay down one's life for one's friends."
 
-\hfill\small — Luke 6:36, NABRE
+\hfill\small — John 15:13, NABRE
+
+<div class="blockquote">
+"Have among yourselves the same attitude that is also yours in Christ Jesus, Who, though he was in the form of God, did not regard equality with God something to be grasped. Rather, he emptied himself, taking the form of a slave, coming in human likeness; and found human in appearance, he humbled himself, becoming obedient to death, even death on a cross."
+
+\hfill\small — Philippians 2:5-8, NABRE
 </div>
 
 <div class="blockquote">
-"Blessed are the merciful, for they will be shown mercy."
+"I urge you therefore, brothers, by the mercies of God, to offer your bodies as a living sacrifice, holy and pleasing to God, your spiritual worship."
 
-\hfill\small — Matthew 5:7, NABRE
-</div>
-
-<div class="blockquote">
-"For judgment is merciless to one who has not shown mercy; mercy triumphs over judgment."
-
-\hfill\small — James 2:13, NABRE
+\hfill\small — Romans 12:1, NABRE
 </div>
 
 ---
 
-## The Cry for Mercy
+## When Love Stops Being Theory
 
-"Please forgive me."
+"I love you."
 
-The child who broke the vase. The spouse who betrayed trust. The friend who spread gossip. The employee who made a costly mistake. The criminal facing sentencing. The sinner before God.
+Three words. Easy to say. Harder to prove.
 
-Every human heart knows this cry. We all need mercy—forgiveness we don't deserve, compassion beyond what justice requires, love that transcends our failures.
+A husband says "I love you" to his wife every morning—then spends every evening at the office, every weekend on the golf course, every vacation checking his phone. Does he love her? He says so. But where's the evidence?
 
-But here's the paradox: We desperately want mercy for ourselves while demanding justice for others. We want our sins forgiven while holding grudges for decades. We want second chances while refusing to give them. We want God's mercy while showing none to our neighbor.
+A mother says she loves her children—then scrolls through social media while they beg for her attention, parks them in front of screens so she can pursue her hobbies, treats them as interruptions to her real life. Does she love them? She insists she does. But what does her life actually show?
 
-This reveals something profound: Mercy is the hardest facet of love. It requires us to go beyond what's fair, beyond what's owed, beyond what feels right. It requires us to love like God loves—offering more than what's deserved.
+A Christian says he loves God—then never prays, never serves, never sacrifices comfort or convenience for anyone. Does he love God? He believes he does. But what would an outside observer conclude?
+
+This is where love stops being sacred theory and becomes concrete reality. This is where the rubber meets the road, where faith becomes works, where words become flesh.
+
+Love is **sacrificial**. Not in theory. Not in sentiment. Not in good intentions. In action. In cost. In the willingness to put another's good before our own.
 
 <div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
-Mercy is love going beyond what justice requires—offering forgiveness instead of punishment, compassion instead of condemnation, restoration instead of rejection. Mercy doesn't violate justice; it transcends it.
+Love without sacrifice is just sentiment. Love without action is just words. Love without cost is just self-interest wearing a mask. Authentic love always requires giving something up for the good of another.
 </div>
 
-## What Mercy Actually Means
+## The Biblical Foundation: From Shadow to Reality
 
-Our culture confuses mercy with weakness, forgiveness with enabling, compassion with approval. We need to recover the true meaning.
+The Old Testament sacrificial system wasn't arbitrary religious ritual—it was God teaching His people what love actually requires. Every sacrifice pointed to a deeper reality about the nature of love itself.
 
-**Biblical Mercy (*Hesed* and *Rachamim*):**
+**The Burnt Offering** (*olah*) was completely consumed on the altar—nothing held back. It taught that authentic love requires total self-gift, not partial commitment or conditional offering.
 
-The Hebrew Scriptures use two main words for mercy:
+**The Sin Offering** (*hattat*) made atonement for wrongdoing. It taught that love must address the reality of sin and its consequences—that justice must be satisfied before relationship can be restored.
 
-*Hesed*: Steadfast love, covenant faithfulness, loyal love. This is mercy as God's unwavering commitment despite our failures. "His mercy endures forever" (Psalm 136, repeated 26 times).
+**The Peace Offering** (*shelamim*) was shared between God, priest, and offerer. It taught that sacrifice creates communion—that self-gift leads to shared life and fellowship.
 
-*Rachamim*: Compassion, womb-love, tender mercy. This is mercy as God's maternal compassion—the love that can't abandon even when justice would permit it.
+But these were shadows. The reality they pointed to was Christ.
 
-Together, they reveal mercy as:
-- **Faithful love** that doesn't abandon despite betrayal
-- **Compassionate love** that feels the beloved's pain
-- **Forgiving love** that releases the debt
-- **Restoring love** that heals what's broken
+## Christ: The Perfect Sacrifice
 
-This is very different from our culture's understanding. Modern "mercy" often means:
-- Ignoring sin
-- Avoiding consequences
-- Enabling destructive behavior
-- Pretending wrong is right
+On the cross, Jesus didn't just teach about sacrifice—He became the perfect sacrifice that all others foreshadowed. Look at what His sacrifice accomplished:
 
-Biblical mercy means acknowledging the wrong (truth), recognizing what's owed (justice), and then choosing to offer more than what's owed (mercy)—not by ignoring the debt but by bearing it yourself.
+**Expiation (Satisfying Justice):** "He is expiation for our sins, and not for our sins only but for those of the whole world" (1 John 2:2, NABRE). Christ's sacrifice satisfied the demands of justice. Sin creates a real debt, a real rupture in the order of creation. Someone had to pay. Christ paid it—not because the Father is a harsh creditor, but because justice is real and love doesn't pretend otherwise.
 
-## Mercy vs. Justice: Not Opposition but Completion
+**Oblation (Offering Mercy):** "For God so loved the world that he gave his only Son" (John 3:16, NABRE). Christ's sacrifice was also pure gift—the Father's mercy reaching down to us, the Son's love embracing us. This wasn't required payment extracted from an unwilling victim. This was love choosing to bear the cost of our redemption.
 
-Here's the crucial point: Mercy doesn't oppose justice. Mercy transcends justice.
+The cross holds both dimensions in perfect tension. Justice is fully satisfied (expiation). Mercy is fully given (oblation). This is what makes Christ's sacrifice perfect—it doesn't choose between justice and mercy but integrates both in one complete act of love.
 
-**Justice says:** "You deserve consequences for what you did."
-**Mercy says:** "I'll bear those consequences for you."
+<div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
+Christ's sacrifice on the cross perfectly integrates justice and mercy. It satisfies justice's demands (expiation) while offering mercy's gift (oblation). This is the pattern for all authentic human love—never justice without mercy, never mercy without justice.
+</div>
 
-**Justice says:** "You broke the covenant."
-**Mercy says:** "I'll remain faithful anyway."
+## Why We Have Mass: Participating in Christ's Sacrifice
 
-**Justice says:** "You owe a debt you can't pay."
-**Mercy says:** "I'll pay it for you."
+This is why Catholics have Mass. Not because we're "re-sacrificing" Christ—His sacrifice was perfect and complete. But because love requires sacrifice, and we need to participate in Christ's perfect offering.
 
-See the difference? Mercy doesn't deny what justice requires. Mercy fulfills what justice requires—but not by making the offender pay. By paying it yourself.
+At every Mass, several things happen simultaneously:
 
-This is what God does on the cross. Justice demands payment for sin. Mercy offers to pay it. Christ satisfies justice (expiation) while offering mercy (oblation). Both are fulfilled—not by choosing between them, but by integrating them in one perfect act of love.
+**We Enter Christ's Eternal Offering:** The Mass makes present Christ's one sacrifice on Calvary. We're not repeating it or adding to it—we're entering into it. Time and eternity meet. The same sacrifice offered once for all becomes present to us here and now.
 
-## The Parable of the Prodigal Son
+**We Offer Ourselves United with Christ:** "I urge you therefore, brothers, by the mercies of God, to offer your bodies as a living sacrifice" (Romans 12:1, NABRE). We place our own sacrifices—our struggles, our sufferings, our daily acts of love—on the altar with Christ's. United with His perfect sacrifice, our imperfect offerings become acceptable to the Father.
 
-Jesus' parable (Luke 15:11-32) perfectly illustrates how mercy works:
+**We Receive What We Offer:** In Communion, we receive Christ Himself—the Lamb who was slain, now risen and glorious. We consume the sacrifice. It becomes part of us. His sacrificial love flows into our veins, transforms our hearts, empowers us to love as He loved.
 
-**The Younger Son:**
-- Demands his inheritance (rejecting his father)
-- Wastes it on dissolute living (sin)
-- Ends up feeding pigs (degradation)
-- Comes to his senses (repentance)
-- Returns home (conversion)
+This is not just beautiful symbolism. This is how God makes sacrificial love real in our lives. The Mass doesn't just teach us about sacrifice—it forms us to live sacrificially.
 
-**The Father:**
-- Sees him from a distance (watching, waiting)
-- Runs to meet him (eager mercy)
-- Embraces him before he can finish his confession (forgiveness)
-- Restores his status (ring, robe, sandals)
-- Celebrates his return (joy)
+## The Hierarchy of Sacrifice
 
-Notice what the father does NOT do:
-- He doesn't pretend the son didn't sin
-- He doesn't say "It's okay, it wasn't really wrong"
-- He doesn't ignore the consequences (the inheritance is gone)
-- He doesn't enable future sin
+Not all sacrifices are equal. Love has an order, a hierarchy that reflects the order of reality itself:
 
-What he DOES do:
-- Acknowledges the truth ("this son of mine was dead")
-- Offers more than justice requires (full restoration)
-- Bears the cost himself (the celebration, the robe, the ring)
-- Rejoices in restoration ("and has come to life")
+**First, Sacrifice for God:** "You shall love the Lord, your God, with all your heart, with all your being, with all your strength, and with all your mind" (Luke 10:27, NABRE). This comes first. We sacrifice our will to His will, our plans to His plans, our entire lives to His glory. This isn't oppression—it's liberation. Only when we give ourselves completely to God do we become fully ourselves.
 
-This is mercy—truth about sin, justice acknowledged, and then love that goes beyond what's required to offer what's needed.
+**Second, Sacrifice for Spouse and Children:** Marriage and family create the most fundamental human covenant after our covenant with God. A husband sacrifices his comfort, his time, his preferences for his wife's good. A wife does the same for her husband. Parents sacrifice sleep, money, career advancement, personal freedom for their children. This isn't optional—it's what covenant love requires.
 
-## Mercy Toward Enemies
+**Third, Sacrifice for Extended Family and Community:** We owe duties to parents, siblings, the Church community, neighbors. These aren't as absolute as duties to spouse and children, but they're real. We sacrifice time to care for aging parents, resources to help struggling relatives, energy to serve our parish.
 
-The hardest mercy is mercy toward enemies—those who've deeply wounded us, who don't deserve forgiveness, who haven't even asked for it.
+**Fourth, Sacrifice for Neighbors and Strangers:** "Love your neighbor as yourself" (Luke 10:27, NABRE). We sacrifice for those we encounter—the homeless man on the street, the coworker struggling with a project, the stranger whose car broke down.
 
-Jesus doesn't just teach this—He demonstrates it: "Father, forgive them, they know not what they do" (Luke 23:34, NABRE). While being crucified, He offers mercy to His executioners.
+**Fifth, Sacrifice for Enemies:** "Love your enemies, do good to those who hate you" (Luke 6:27, NABRE). This is the most difficult and the most Christ-like. We sacrifice our right to revenge, our desire for vindication, our natural inclination toward retaliation.
 
-This is the standard: "Love your enemies, do good to those who hate you, bless those who curse you, pray for those who mistreat you" (Luke 6:27-28, NABRE).
+This hierarchy isn't arbitrary. It reflects the order of love itself—from the highest (God) to the most challenging (enemies). Get the order wrong, and love becomes distorted. Put enemies before family, and you destroy your primary obligations. Put self before God, and you make an idol of your own will.
 
-Why? Not because their actions are okay. Not because justice doesn't matter. But because mercy is how we break cycles of revenge, how we overcome evil with good, how we become like our Father who "makes his sun rise on the bad and the good" (Matthew 5:45, NABRE).
+## How Sacrifice Combats Evil
 
-**Mercy toward enemies doesn't mean:**
-- Pretending they didn't harm you
-- Allowing them to continue harming you
-- Trusting them before they've proven trustworthy
-- Ignoring justice or enabling evil
+Understanding love as sacrificial directly combats specific forms of evil:
 
-**Mercy toward enemies does mean:**
-- Releasing your right to revenge
-- Praying for their conversion
-- Wishing their true good
-- Being willing to forgive if they repent
-- Not allowing bitterness to poison your soul
+**Against Selfishness:** The root of all sin is choosing our own good at others' expense. Sacrificial love reverses this—choosing others' good at our own expense. Every act of genuine sacrifice strikes at the heart of sin itself.
 
-## Forgiveness and Reconciliation
+**Against the Seven Deadly Sins:**
+- **Pride** says "I deserve to be served." Sacrifice says "I will serve."
+- **Greed** says "I need more for myself." Sacrifice says "I will give what I have."
+- **Lust** says "I will use you for my pleasure." Sacrifice says "I will honor your dignity."
+- **Envy** says "I resent your good." Sacrifice says "I will work for your good."
+- **Gluttony** says "I will indulge myself." Sacrifice says "I will practice temperance."
+- **Wrath** says "I will make you pay." Sacrifice says "I will forgive."
+- **Sloth** says "I won't make the effort." Sacrifice says "I will do what love requires."
 
-We need to distinguish between forgiveness and reconciliation:
+**Against Consumerism:** Our culture treats everything—including people—as commodities for consumption. Sacrificial love treats persons as sacred ends, never as means. You can't sacrifice for a commodity. You can only sacrifice for a person.
 
-**Forgiveness** is unilateral—you can forgive someone who never repents, never apologizes, never changes. Forgiveness releases YOU from the prison of bitterness. It's a gift you give yourself (and them) regardless of their response.
+**Against Individualism:** Modern culture preaches "Put yourself first." Sacrificial love says "Put others first." This isn't self-destruction—it's the path to becoming fully human, fully alive, fully yourself.
 
-**Reconciliation** is bilateral—it requires both parties. The offender must repent. The offended must forgive. Trust must be rebuilt. The relationship must be restored.
+**Against Despair:** When we sacrifice for others and see the fruit—a marriage strengthened, a child flourishing, a soul saved—we experience the joy that comes from participating in God's own creative, redemptive work. This joy is stronger than any suffering the sacrifice required.
 
-You can forgive without reconciling (if the other person won't repent). But you can't reconcile without forgiving (if you won't release the debt).
+## The Difference Between Sacrifice and Self-Destruction
 
-This distinction is crucial for victims of abuse, betrayal, or serious harm. You can—and should—forgive for your own healing. But you're not required to reconcile with someone who remains dangerous, unrepentant, or untrustworthy.
+Here's a crucial distinction: Sacrificial love is not the same as letting yourself be abused or destroyed.
 
-## The Sacrament of Reconciliation
+**Authentic Sacrifice:**
+- Freely chosen, not coerced
+- Ordered toward genuine good, not enabling evil
+- Builds up the beloved, not destroying the lover
+- Reflects Christ's sacrifice, which was both voluntary and redemptive
 
-The Catholic Sacrament of Reconciliation embodies mercy in concrete form:
+**False "Sacrifice" (Actually Self-Destruction):**
+- Coerced through manipulation or threat
+- Enables another's sin or addiction
+- Destroys the one "sacrificing" without helping the other
+- Reflects not Christ but codependency or fear
 
-**Confession:** Speaking the truth about our sins (truth)
-**Contrition:** Genuine sorrow for having offended God (justice acknowledged)
-**Penance:** Making amends, accepting consequences (justice fulfilled)
-**Absolution:** God's forgiveness through the priest (mercy offered)
-**Restoration:** Grace to avoid sin and grow in holiness (mercy transforming)
+A wife who stays with an abusive husband isn't practicing sacrificial love—she's enabling his sin and endangering herself and her children. A parent who gives money to an addicted child to buy drugs isn't sacrificing—they're participating in their child's destruction.
 
-The sacrament doesn't choose between truth, justice, and mercy—it integrates all three. Sin is real. Consequences matter. And forgiveness is offered—not by ignoring the debt but by Christ having paid it.
+True sacrifice always serves the true good of the other. It never enables evil. It never destroys the image of God in the one sacrificing. It always reflects the pattern of Christ's sacrifice—freely chosen, ordered toward redemption, life-giving even through death.
 
-This is why confession is so powerful. It's not just "feeling better" or "getting things off your chest." It's encountering divine mercy in concrete, sacramental form—hearing the words "I absolve you" and knowing, with certainty, that God has forgiven you.
+## Our Participation in Christ's Sacrifice
 
-## How Mercy Combats Evil
+St. Paul reveals a profound mystery: "Now I rejoice in my sufferings for your sake, and in my flesh I am filling up what is lacking in the afflictions of Christ on behalf of his body, which is the church" (Colossians 1:24, NABRE).
 
-Understanding love as including mercy directly combats specific forms of evil:
+What could possibly be "lacking" in Christ's perfect sacrifice? Nothing—in terms of its sufficiency. But everything—in terms of our participation. Christ's sacrifice is complete, but He invites us to join it, to make it our own, to let it flow through us to others.
 
-**Against Hardness of Heart:** The refusal to forgive, the nursing of grudges, the cycles of revenge—these destroy souls and societies. Mercy breaks the cycle, softens hearts, creates possibility for healing.
+**In the Eucharist**, we participate sacramentally. We enter into Christ's offering, unite our sacrifices with His, and receive His life.
 
-**Against Despair:** When people believe they're beyond forgiveness, they give up. Mercy offers hope—no sin is too great, no failure too complete, no person too far gone.
+**In daily life**, we participate practically. Every act of authentic love—every sacrifice we make for spouse, children, neighbor, enemy—becomes part of Christ's ongoing redemptive work in the world.
 
-**Against Bitterness:** Unforgiveness is poison. It doesn't hurt the person who wronged you—it destroys you from the inside. Mercy is the antidote, releasing you from the prison of resentment.
+This is the treasury of merits the Church speaks of. Our sacrifices, united with Christ's, have real spiritual value. They can be offered for others. They can help satisfy the temporal consequences of sin. They can contribute to the salvation of souls.
 
-**Against Division:** Families torn apart by old wounds. Communities fractured by historical grievances. Nations locked in cycles of retaliation. Mercy creates the possibility of reconciliation.
+Not because our sacrifices add anything to Christ's perfect offering, but because He chooses to work through us. He makes our small sacrifices participate in His infinite sacrifice.
 
-**Against Cruelty:** The harsh, unforgiving spirit that demands punishment, that takes pleasure in others' suffering, that shows no compassion. Mercy reveals this as the evil it is.
+<div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
+Our sacrifices, united with Christ's perfect sacrifice, participate in His redemptive work. This isn't adding to what Christ did—it's allowing His sacrifice to flow through us to touch others. Every act of authentic love becomes a channel of divine grace.
+</div>
 
-## Mercy and the Cross
+## The Bridge to Covenant
 
-The cross is where God's justice and mercy meet perfectly:
+Sacrifice isn't an end in itself. It's the means by which love creates something permanent and binding. When you sacrifice for someone—truly sacrifice, not just perform a transaction—you create a bond that transcends the moment.
 
-**Justice Demands:** Payment for sin. Someone must bear the consequences. The debt must be satisfied.
+A mother who sacrifices sleep for her infant doesn't just meet a need—she creates a bond of love that will last a lifetime. A husband who sacrifices career advancement to care for his sick wife doesn't just provide care—he deepens a covenant that death itself cannot break.
 
-**Mercy Offers:** "I'll pay it." God doesn't ignore justice. He doesn't pretend sin doesn't matter. He satisfies justice Himself—bearing in His own body the consequences we deserved.
+This is why the next facet of our definition is **gift of covenant**. Sacrifice is how love moves from sentiment to commitment, from feeling to promise, from temporary to permanent. It's how love becomes binding.
 
-**The Result:** "For God so loved the world that he gave his only Son, so that everyone who believes in him might not perish but might have eternal life" (John 3:16, NABRE).
-
-This is the pattern for all mercy: Acknowledge the truth. Honor justice. Then bear the cost yourself rather than demanding the offender pay it.
-
-## The Bridge to Life-Giving
-
-Mercy offers forgiveness, releases debts, restores relationships. But to what end? What's the goal of all this mercy?
-
-This is where the next facet becomes crucial: **life-giving**. Mercy doesn't just forgive the past—it creates possibility for the future. Mercy doesn't just release from death—it offers life. Mercy doesn't just stop destruction—it generates creation.
-
-Without mercy, love can only maintain what exists. With mercy, love can create what doesn't yet exist—new beginnings, restored relationships, transformed lives, abundant life.
+Because here's the truth: You can't have covenant without sacrifice. Promises without cost are just words. Commitments without self-gift are just contracts. Love that never sacrifices is love that never truly binds.
 
 ---
 
 ## Further Study
 
 ### Scripture
-- **Luke 6:36:** Be merciful as your Father is merciful
-- **Matthew 5:7:** Blessed are the merciful
-- **Luke 15:11-32:** The Prodigal Son—perfect picture of mercy
-- **Matthew 18:21-35:** The Unforgiving Servant—warning about refusing mercy
-- **Ephesians 2:4-5:** God's rich mercy saves us
-- **James 2:13:** Mercy triumphs over judgment
+- **John 15:13:** Jesus' teaching that the greatest love is laying down one's life
+- **Philippians 2:5-11:** The kenosis (self-emptying) of Christ as the pattern for Christian love
+- **Romans 12:1:** Our call to offer ourselves as living sacrifices
+- **Hebrews 9:11-14:** Christ's sacrifice as the perfect fulfillment of Old Testament offerings
+- **Colossians 1:24:** Our participation in Christ's afflictions for the sake of His body
+- **1 John 3:16:** "The way we came to know love was that he laid down his life for us; so we ought to lay down our lives for our brothers"
 
 ### Catechism of the Catholic Church
-- **CCC 1846-1848:** Mercy and sin—how God's mercy responds to human sin
-- **CCC 1422-1498:** The Sacrament of Penance and Reconciliation
-- **CCC 2447:** The corporal and spiritual works of mercy
-- **CCC 210-211:** God's mercy as revealed in His name
+- **CCC 606-618:** Christ's redemptive sacrifice—why the cross was necessary and what it accomplished
+- **CCC 1362-1372:** The Mass as sacrifice—how we participate in Christ's offering
+- **CCC 1460:** Satisfaction for sin through penance united with Christ's sacrifice
+- **CCC 2100:** The virtue of religion expressed through sacrifice
 
 ### Christian Thinkers
-- **St. Faustina Kowalska (1905-1938):** Her *Diary* records Jesus' revelations about Divine Mercy, showing mercy as the greatest attribute of God
-- **Pope St. John Paul II (1920-2005):** His encyclical *Dives in Misericordia* (Rich in Mercy) explores mercy as essential to understanding God and to Christian life
-- **St. Thomas Aquinas (1225-1274):** His teaching in the *Summa Theologica* shows how mercy is God's greatest work, transcending justice while fulfilling it
+- **St. Anselm of Canterbury (1033-1109):** His *Cur Deus Homo* (Why God Became Man) explains the necessity of Christ's sacrifice to satisfy justice while offering mercy
+- **St. Thomas Aquinas (1225-1274):** His treatment of sacrifice in the *Summa Theologica* shows how Christ's sacrifice is both expiatory and oblative, satisfying justice while offering mercy
+- **Pope Pius XII (1876-1958):** His encyclical *Mystici Corporis* explains how our sufferings, united with Christ's, participate in His redemptive work for the Church

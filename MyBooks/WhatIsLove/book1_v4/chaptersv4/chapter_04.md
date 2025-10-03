@@ -1,189 +1,193 @@
-# Chapter 4: Sacrificial - Love Made Visible Through Action
+# Gift of Covenant - Permanent Love Through Voluntary Authority
 
 <div class="blockquote">
-"No one has greater love than this, to lay down one's life for one's friends."
+"I will establish my covenant between me and you and your descendants after you throughout their generations as an everlasting covenant, to be God to you and to your descendants after you."
 
-\hfill\small — John 15:13, NABRE
+\hfill\small — Genesis 17:7, NABRE
 </div>
 
 <div class="blockquote">
-"Have among yourselves the same attitude that is also yours in Christ Jesus, Who, though he was in the form of God, did not regard equality with God something to be grasped. Rather, he emptied himself, taking the form of a slave, coming in human likeness; and found human in appearance, he humbled himself, becoming obedient to death, even death on a cross."
+"Behold, the days are coming, says the LORD, when I will make a new covenant with the house of Israel and the house of Judah. It will not be like the covenant I made with their fathers... But this is the covenant which I will make with the house of Israel after those days, says the LORD. I will place my law within them, and write it upon their hearts; I will be their God, and they shall be my people."
 
-\hfill\small — Philippians 2:5-8, NABRE
+\hfill\small — Jeremiah 31:31-33, NABRE
 </div>
 
 <div class="blockquote">
-"I urge you therefore, brothers, by the mercies of God, to offer your bodies as a living sacrifice, holy and pleasing to God, your spiritual worship."
+"This cup is the new covenant in my blood, which will be shed for you."
 
-\hfill\small — Romans 12:1, NABRE
+\hfill\small — Luke 22:20, NABRE
 </div>
 
 ---
 
-## When Love Stops Being Theory
+## The Problem with Promises
 
-"I love you."
+"I'll love you forever."
 
-Three words. Easy to say. Harder to prove.
+Easy to say on a wedding day when everything feels perfect. Harder to mean when she's gained weight, when he's lost his job, when the kids are screaming, when the bills are piling up, when that attractive coworker is paying attention, when "forever" starts feeling like a prison sentence.
 
-A husband says "I love you" to his wife every morning—then spends every evening at the office, every weekend on the golf course, every vacation checking his phone. Does he love her? He says so. But where's the evidence?
+"I'll always be there for you."
 
-A mother says she loves her children—then scrolls through social media while they beg for her attention, parks them in front of screens so she can pursue her hobbies, treats them as interruptions to her real life. Does she love them? She insists she does. But what does her life actually show?
+Beautiful words from a parent to a child. But then comes the divorce, the new family, the weekends that get skipped, the phone calls that go unreturned. The child learns that "always" has conditions, that "there for you" has limits.
 
-A Christian says he loves God—then never prays, never serves, never sacrifices comfort or convenience for anyone. Does he love God? He believes he does. But what would an outside observer conclude?
+This is the crisis of modern love: We want permanence, but we worship freedom. We crave commitment, but we demand escape clauses. We long for covenant, but we settle for contracts.
 
-This is where love stops being sacred theory and becomes concrete reality. This is where the rubber meets the road, where faith becomes works, where words become flesh.
-
-Love is **sacrificial**. Not in theory. Not in sentiment. Not in good intentions. In action. In cost. In the willingness to put another's good before our own.
+And contracts always have fine print. Conditions. Expiration dates. Ways out when things get hard.
 
 <div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
-Love without sacrifice is just sentiment. Love without action is just words. Love without cost is just self-interest wearing a mask. Authentic love always requires giving something up for the good of another.
+Love requires covenant, not contract. Contracts are conditional and temporary—"I'll stay as long as you meet my needs." Covenants are unconditional and permanent—"I'm yours, no matter what." Without covenant, love has no foundation to endure.
 </div>
 
-## The Biblical Foundation: From Shadow to Reality
+## Covenant vs. Contract: Understanding the Difference
 
-The Old Testament sacrificial system wasn't arbitrary religious ritual—it was God teaching His people what love actually requires. Every sacrifice pointed to a deeper reality about the nature of love itself.
+Our culture has forgotten the difference between covenant and contract. This confusion is destroying families, fracturing communities, and leaving a generation terrified of commitment.
 
-**The Burnt Offering** (*olah*) was completely consumed on the altar—nothing held back. It taught that authentic love requires total self-gift, not partial commitment or conditional offering.
+**Contracts:**
+- Based on mutual benefit: "I'll do this if you do that"
+- Conditional: "As long as you meet these terms"
+- Temporary: "Until the contract expires or is broken"
+- Self-interested: "What's in it for me?"
+- Breakable: "If you violate terms, I'm out"
+- Create business relationships
 
-**The Sin Offering** (*hattat*) made atonement for wrongdoing. It taught that love must address the reality of sin and its consequences—that justice must be satisfied before relationship can be restored.
+**Covenants:**
+- Based on mutual gift: "I give myself to you completely"
+- Unconditional: "No matter what happens"
+- Permanent: "Until death"
+- Other-centered: "What can I give you?"
+- Unbreakable: "Even if you fail, I remain faithful"
+- Create family bonds
 
-**The Peace Offering** (*shelamim*) was shared between God, priest, and offerer. It taught that sacrifice creates communion—that self-gift leads to shared life and fellowship.
+Think about marriage. When we treat it as a contract, we're constantly evaluating: "Are you meeting my needs? Are you holding up your end? Is this still worth it?" The moment the cost-benefit analysis tips negative, we're out.
 
-But these were shadows. The reality they pointed to was Christ.
+But covenant says: "I'm yours. Period. Not because you're perfect. Not because you make me happy. Not because it's easy. But because I gave myself to you, and that gift is irrevocable."
 
-## Christ: The Perfect Sacrifice
+This isn't oppression. This is freedom—the freedom that comes from knowing someone is committed to you regardless of your performance, your appearance, your success, or your failures.
 
-On the cross, Jesus didn't just teach about sacrifice—He became the perfect sacrifice that all others foreshadowed. Look at what His sacrifice accomplished:
+## The Biblical Pattern: God's Covenant Love
 
-**Expiation (Satisfying Justice):** "He is expiation for our sins, and not for our sins only but for those of the whole world" (1 John 2:2, NABRE). Christ's sacrifice satisfied the demands of justice. Sin creates a real debt, a real rupture in the order of creation. Someone had to pay. Christ paid it—not because the Father is a harsh creditor, but because justice is real and love doesn't pretend otherwise.
+God doesn't relate to us through contracts. He relates through covenant. And every covenant in Scripture reveals something essential about love's nature:
 
-**Oblation (Offering Mercy):** "For God so loved the world that he gave his only Son" (John 3:16, NABRE). Christ's sacrifice was also pure gift—the Father's mercy reaching down to us, the Son's love embracing us. This wasn't required payment extracted from an unwilling victim. This was love choosing to bear the cost of our redemption.
+**The Abrahamic Covenant (Genesis 15, 17):** God promises to be Abraham's God and to make his descendants into a great nation. Notice: God makes promises, but He doesn't demand Abraham earn them. God walks through the pieces of the sacrifice alone (Genesis 15:17)—taking on Himself the obligation to fulfill the covenant even if Abraham fails.
 
-The cross holds both dimensions in perfect tension. Justice is fully satisfied (expiation). Mercy is fully given (oblation). This is what makes Christ's sacrifice perfect—it doesn't choose between justice and mercy but integrates both in one complete act of love.
+**The Mosaic Covenant (Exodus 19-24):** God gives the Law not as arbitrary rules but as the blueprint for covenant relationship. "I will be your God, and you shall be my people." The Law shows what covenant love looks like in practice—how to love God, neighbor, and self.
+
+**The Davidic Covenant (2 Samuel 7):** God promises David an eternal kingdom. Even when David's descendants fail spectacularly, God remains faithful. The covenant endures because it's grounded in God's faithfulness, not human performance.
+
+**The New Covenant (Jeremiah 31, Luke 22):** God promises to write His law on our hearts, to forgive our sins, to be our God. This covenant is sealed not with animal blood but with Christ's blood—the ultimate sacrifice that makes permanent relationship possible.
+
+See the pattern? God initiates. God commits. God remains faithful even when we fail. This is what covenant love looks like—not "I'll love you if you perform," but "I'll love you, period."
+
+## Authority Properly Understood
+
+Here's where we need to be careful. The word "authority" has been so abused—by tyrants, by abusers, by those who use power to dominate—that many people recoil from it.
+
+But covenant requires authority. Not the authority of coercion or control. The authority of the Author.
 
 <div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
-Christ's sacrifice on the cross perfectly integrates justice and mercy. It satisfies justice's demands (expiation) while offering mercy's gift (oblation). This is the pattern for all authentic human love—never justice without mercy, never mercy without justice.
+God's "authority" comes from being the Author of Love—the one who designed how love works. His "laws" aren't arbitrary commands but the blueprint for authentic love. Authority is only truly active when we freely submit our will to His design.
 </div>
 
-## Why We Have Mass: Participating in Christ's Sacrifice
+Think about it this way: A piano has 88 keys arranged in a specific pattern. That's not arbitrary—it's the design that makes beautiful music possible. You're "free" to pound randomly on the keys. But you'll only make noise, not music. True freedom comes from submitting to the piano's design, learning the patterns, practicing the scales.
 
-This is why Catholics have Mass. Not because we're "re-sacrificing" Christ—His sacrifice was perfect and complete. But because love requires sacrifice, and we need to participate in Christ's perfect offering.
+Similarly, God's "laws" about love aren't restrictions on our freedom. They're the design that makes beautiful love possible. We're "free" to ignore them. But we'll only create chaos, not communion.
 
-At every Mass, several things happen simultaneously:
+**This is what "voluntary authority" means:** We freely choose to submit to the Author's design because we recognize it as true, good, and beautiful. Not because we're forced. Not because we're afraid. But because we see that His way actually works.
 
-**We Enter Christ's Eternal Offering:** The Mass makes present Christ's one sacrifice on Calvary. We're not repeating it or adding to it—we're entering into it. Time and eternity meet. The same sacrifice offered once for all becomes present to us here and now.
+Any government or person that forces authority on people doesn't understand true authority. True authority is recognized and accepted, not imposed. It's the authority of truth, not the authority of power.
 
-**We Offer Ourselves United with Christ:** "I urge you therefore, brothers, by the mercies of God, to offer your bodies as a living sacrifice" (Romans 12:1, NABRE). We place our own sacrifices—our struggles, our sufferings, our daily acts of love—on the altar with Christ's. United with His perfect sacrifice, our imperfect offerings become acceptable to the Father.
+## Marriage: The Paradigm of Human Covenant
 
-**We Receive What We Offer:** In Communion, we receive Christ Himself—the Lamb who was slain, now risen and glorious. We consume the sacrifice. It becomes part of us. His sacrificial love flows into our veins, transforms our hearts, empowers us to love as He loved.
+Marriage is the fundamental human covenant—the clearest image we have of how covenant love works. This is why Scripture uses marriage as the primary metaphor for God's relationship with His people.
 
-This is not just beautiful symbolism. This is how God makes sacrificial love real in our lives. The Mass doesn't just teach us about sacrifice—it forms us to live sacrificially.
+**The Wedding Vows reveal covenant's structure:**
 
-## The Hierarchy of Sacrifice
+"I take you..." — Free choice, not coercion
+"To be my wife/husband..." — Creating permanent relationship
+"To have and to hold..." — Exclusive commitment
+"From this day forward..." — No looking back
+"For better, for worse..." — Unconditional
+"For richer, for poorer..." — Not dependent on circumstances
+"In sickness and in health..." — Through all conditions
+"Until death do us part..." — Permanent
 
-Not all sacrifices are equal. Love has an order, a hierarchy that reflects the order of reality itself:
+Notice what's missing: Escape clauses. Performance requirements. Conditions based on feelings. The vows don't say "as long as I love you" or "if you make me happy" or "unless someone better comes along."
 
-**First, Sacrifice for God:** "You shall love the Lord, your God, with all your heart, with all your being, with all your strength, and with all your mind" (Luke 10:27, NABRE). This comes first. We sacrifice our will to His will, our plans to His plans, our entire lives to His glory. This isn't oppression—it's liberation. Only when we give ourselves completely to God do we become fully ourselves.
+Why? Because covenant creates the security that allows love to flourish. When you know your spouse is committed regardless of your performance, you're free to be vulnerable, to grow, to fail and try again. When commitment is conditional, you're always performing, always afraid, never truly known.
 
-**Second, Sacrifice for Spouse and Children:** Marriage and family create the most fundamental human covenant after our covenant with God. A husband sacrifices his comfort, his time, his preferences for his wife's good. A wife does the same for her husband. Parents sacrifice sleep, money, career advancement, personal freedom for their children. This isn't optional—it's what covenant love requires.
+**The Sacrament of Marriage** makes this even more profound. In Catholic teaching, marriage isn't just a human agreement—it's a participation in Christ's covenant with the Church. The husband and wife become living icons of Christ's sacrificial, permanent, faithful love for His bride.
 
-**Third, Sacrifice for Extended Family and Community:** We owe duties to parents, siblings, the Church community, neighbors. These aren't as absolute as duties to spouse and children, but they're real. We sacrifice time to care for aging parents, resources to help struggling relatives, energy to serve our parish.
+This is why the Church insists marriage is indissoluble. Not because we're harsh or legalistic, but because we understand what marriage truly is—a covenant that images God's own covenant love. You can't dissolve God's covenant with His people. You can't dissolve Christ's union with the Church. And you can't dissolve a valid marriage, because it participates in that same divine reality.
 
-**Fourth, Sacrifice for Neighbors and Strangers:** "Love your neighbor as yourself" (Luke 10:27, NABRE). We sacrifice for those we encounter—the homeless man on the street, the coworker struggling with a project, the stranger whose car broke down.
+## How Covenant Combats Evil
 
-**Fifth, Sacrifice for Enemies:** "Love your enemies, do good to those who hate you" (Luke 6:27, NABRE). This is the most difficult and the most Christ-like. We sacrifice our right to revenge, our desire for vindication, our natural inclination toward retaliation.
+Understanding love as covenant directly combats specific forms of evil:
 
-This hierarchy isn't arbitrary. It reflects the order of love itself—from the highest (God) to the most challenging (enemies). Get the order wrong, and love becomes distorted. Put enemies before family, and you destroy your primary obligations. Put self before God, and you make an idol of your own will.
+**Against Disposability:** Our culture treats everything—including people—as disposable. Don't like your spouse? Get a new one. Kids too difficult? Abandon them. Parents too burdensome? Put them in a home and forget them. Covenant says: People aren't products. Relationships aren't transactions. Love creates bonds that endure.
 
-## How Sacrifice Combats Evil
+**Against Commitment-Phobia:** Modern people are terrified of commitment because they've seen so many broken promises. Covenant provides the security that makes commitment possible again. When you know someone is bound to you—not by force but by freely chosen gift—you can risk vulnerability.
 
-Understanding love as sacrificial directly combats specific forms of evil:
+**Against Conditional Love:** "I'll love you if you're successful, attractive, useful, agreeable." This isn't love—it's a transaction. Covenant love says: "I'll love you because I gave myself to you, and that gift is permanent regardless of your performance."
 
-**Against Selfishness:** The root of all sin is choosing our own good at others' expense. Sacrificial love reverses this—choosing others' good at our own expense. Every act of genuine sacrifice strikes at the heart of sin itself.
+**Against Isolation:** When every relationship is conditional and temporary, we end up alone. Covenant creates the permanent bonds that overcome isolation—not just in marriage, but in family, in Church, in community.
 
-**Against the Seven Deadly Sins:**
-- **Pride** says "I deserve to be served." Sacrifice says "I will serve."
-- **Greed** says "I need more for myself." Sacrifice says "I will give what I have."
-- **Lust** says "I will use you for my pleasure." Sacrifice says "I will honor your dignity."
-- **Envy** says "I resent your good." Sacrifice says "I will work for your good."
-- **Gluttony** says "I will indulge myself." Sacrifice says "I will practice temperance."
-- **Wrath** says "I will make you pay." Sacrifice says "I will forgive."
-- **Sloth** says "I won't make the effort." Sacrifice says "I will do what love requires."
+**Against Meaninglessness:** If nothing is permanent, nothing ultimately matters. Covenant gives life meaning by creating bonds that transcend the moment, relationships that endure beyond death, love that participates in the eternal.
 
-**Against Consumerism:** Our culture treats everything—including people—as commodities for consumption. Sacrificial love treats persons as sacred ends, never as means. You can't sacrifice for a commodity. You can only sacrifice for a person.
+## Covenant in All of Life
 
-**Against Individualism:** Modern culture preaches "Put yourself first." Sacrificial love says "Put others first." This isn't self-destruction—it's the path to becoming fully human, fully alive, fully yourself.
+Marriage is the paradigm, but covenant love extends to all relationships:
 
-**Against Despair:** When we sacrifice for others and see the fruit—a marriage strengthened, a child flourishing, a soul saved—we experience the joy that comes from participating in God's own creative, redemptive work. This joy is stronger than any suffering the sacrifice required.
+**Baptism** creates a covenant bond with God and the Church. You become part of God's family—permanently. This isn't a contract you can cancel. It's a covenant that marks your soul forever.
 
-## The Difference Between Sacrifice and Self-Destruction
+**Parent-Child Relationships** are covenantal. You don't stop being someone's parent because they disappoint you. You don't stop being someone's child because they fail you. The bond endures.
 
-Here's a crucial distinction: Sacrificial love is not the same as letting yourself be abused or destroyed.
+**The Church** is a covenant community. We're not just individuals who happen to attend the same building. We're bound together as the Body of Christ—members of one another, responsible for one another, committed to one another.
 
-**Authentic Sacrifice:**
-- Freely chosen, not coerced
-- Ordered toward genuine good, not enabling evil
-- Builds up the beloved, not destroying the lover
-- Reflects Christ's sacrifice, which was both voluntary and redemptive
+**Friendship** at its deepest level is covenantal. "A friend loves at all times" (Proverbs 17:17). Not just when it's convenient. Not just when you're fun to be around. But always.
 
-**False "Sacrifice" (Actually Self-Destruction):**
-- Coerced through manipulation or threat
-- Enables another's sin or addiction
-- Destroys the one "sacrificing" without helping the other
-- Reflects not Christ but codependency or fear
+## The Freedom of Covenant
 
-A wife who stays with an abusive husband isn't practicing sacrificial love—she's enabling his sin and endangering herself and her children. A parent who gives money to an addicted child to buy drugs isn't sacrificing—they're participating in their child's destruction.
+Here's the paradox that modern people struggle to understand: Covenant doesn't restrict freedom—it creates it.
 
-True sacrifice always serves the true good of the other. It never enables evil. It never destroys the image of God in the one sacrificing. It always reflects the pattern of Christ's sacrifice—freely chosen, ordered toward redemption, life-giving even through death.
+When you know someone is permanently committed to you, you're free to:
+- **Be yourself** without performing or pretending
+- **Fail** without fear of abandonment
+- **Grow** without worry that you'll outgrow the relationship
+- **Be vulnerable** without terror of betrayal
+- **Take risks** knowing someone has your back
+- **Love deeply** without holding back in self-protection
 
-## Our Participation in Christ's Sacrifice
+This is why Jesus said, "You will know the truth, and the truth will set you free" (John 8:32, NABRE). The truth about covenant love—that God is permanently committed to you—sets you free from the slavery of performance, the prison of self-protection, the bondage of conditional relationships.
 
-St. Paul reveals a profound mystery: "Now I rejoice in my sufferings for your sake, and in my flesh I am filling up what is lacking in the afflictions of Christ on behalf of his body, which is the church" (Colossians 1:24, NABRE).
+The Church's teachings on marriage, family, and sexuality aren't chains. They're the banks of the river that allow love to flow with power and purpose. Without banks, water becomes a stagnant swamp. Without covenant, love becomes a shallow puddle.
 
-What could possibly be "lacking" in Christ's perfect sacrifice? Nothing—in terms of its sufficiency. But everything—in terms of our participation. Christ's sacrifice is complete, but He invites us to join it, to make it our own, to let it flow through us to others.
+## The Bridge to Binding
 
-**In the Eucharist**, we participate sacramentally. We enter into Christ's offering, unite our sacrifices with His, and receive His life.
+Covenant creates permanent relationship. But how does it hold together? How do all the elements of love—truth, justice, mercy, sacrifice—work together without fragmenting or conflicting?
 
-**In daily life**, we participate practically. Every act of authentic love—every sacrifice we make for spouse, children, neighbor, enemy—becomes part of Christ's ongoing redemptive work in the world.
+This is where the next facet becomes crucial: **binding**. Love doesn't just create covenant—it binds together all the essential elements into a harmonious whole. It ensures that truth serves justice, justice enables mercy, mercy upholds truth, and sacrifice makes it all real.
 
-This is the treasury of merits the Church speaks of. Our sacrifices, united with Christ's, have real spiritual value. They can be offered for others. They can help satisfy the temporal consequences of sin. They can contribute to the salvation of souls.
-
-Not because our sacrifices add anything to Christ's perfect offering, but because He chooses to work through us. He makes our small sacrifices participate in His infinite sacrifice.
-
-<div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
-Our sacrifices, united with Christ's perfect sacrifice, participate in His redemptive work. This isn't adding to what Christ did—it's allowing His sacrifice to flow through us to touch others. Every act of authentic love becomes a channel of divine grace.
-</div>
-
-## The Bridge to Covenant
-
-Sacrifice isn't an end in itself. It's the means by which love creates something permanent and binding. When you sacrifice for someone—truly sacrifice, not just perform a transaction—you create a bond that transcends the moment.
-
-A mother who sacrifices sleep for her infant doesn't just meet a need—she creates a bond of love that will last a lifetime. A husband who sacrifices career advancement to care for his sick wife doesn't just provide care—he deepens a covenant that death itself cannot break.
-
-This is why the next facet of our definition is **gift of covenant**. Sacrifice is how love moves from sentiment to commitment, from feeling to promise, from temporary to permanent. It's how love becomes binding.
-
-Because here's the truth: You can't have covenant without sacrifice. Promises without cost are just words. Commitments without self-gift are just contracts. Love that never sacrifices is love that never truly binds.
+Without this binding force, we'd have isolated virtues that could conflict with each other. With it, we have integrated love that holds everything together in perfect tension.
 
 ---
 
 ## Further Study
 
 ### Scripture
-- **John 15:13:** Jesus' teaching that the greatest love is laying down one's life
-- **Philippians 2:5-11:** The kenosis (self-emptying) of Christ as the pattern for Christian love
-- **Romans 12:1:** Our call to offer ourselves as living sacrifices
-- **Hebrews 9:11-14:** Christ's sacrifice as the perfect fulfillment of Old Testament offerings
-- **Colossians 1:24:** Our participation in Christ's afflictions for the sake of His body
-- **1 John 3:16:** "The way we came to know love was that he laid down his life for us; so we ought to lay down our lives for our brothers"
+- **Genesis 15:1-21:** God's covenant with Abraham—the pattern for all biblical covenants
+- **Genesis 17:1-14:** The sign of circumcision and the everlasting covenant
+- **Jeremiah 31:31-34:** The promise of the New Covenant written on hearts
+- **Luke 22:14-20:** Jesus establishes the New Covenant in His blood
+- **Hebrews 8:6-13:** Christ as mediator of a better covenant
+- **Ephesians 5:21-33:** Marriage as image of Christ's covenant with the Church
 
 ### Catechism of the Catholic Church
-- **CCC 606-618:** Christ's redemptive sacrifice—why the cross was necessary and what it accomplished
-- **CCC 1362-1372:** The Mass as sacrifice—how we participate in Christ's offering
-- **CCC 1460:** Satisfaction for sin through penance united with Christ's sacrifice
-- **CCC 2100:** The virtue of religion expressed through sacrifice
+- **CCC 1601-1666:** The Sacrament of Matrimony—comprehensive teaching on marriage as covenant
+- **CCC 1612-1617:** Marriage in God's plan from creation
+- **CCC 1644-1651:** The indissolubility of marriage and why covenant cannot be broken
+- **CCC 1262-1274:** Baptism as covenant entrance into God's family
 
 ### Christian Thinkers
-- **St. Anselm of Canterbury (1033-1109):** His *Cur Deus Homo* (Why God Became Man) explains the necessity of Christ's sacrifice to satisfy justice while offering mercy
-- **St. Thomas Aquinas (1225-1274):** His treatment of sacrifice in the *Summa Theologica* shows how Christ's sacrifice is both expiatory and oblative, satisfying justice while offering mercy
-- **Pope Pius XII (1876-1958):** His encyclical *Mystici Corporis* explains how our sufferings, united with Christ's, participate in His redemptive work for the Church
+- **St. John Paul II (1920-2005):** His Theology of the Body explains marriage as covenant imaging the Trinity; his teaching on the "language of the body" shows how covenant love is written into our very nature
+- **Pope Benedict XVI (1927-2022):** His encyclical *Deus Caritas Est* explores how covenant love (agape) transforms and perfects human love (eros)
+- **Scott Hahn (1957-present):** Protestant convert and biblical scholar whose work on covenant theology shows how the entire Bible is structured around God's covenant relationships with His people

@@ -1,4 +1,4 @@
-# Chapter 2: The Answer is Love
+# The Answer is Love
 
 <div class="blockquote">
 "There was a scholar of the law who stood up to test him and said, 'Teacher, what must I do to inherit eternal life?' Jesus said to him, 'What is written in the law? How do you read it?' He said in reply, 'You shall love the Lord, your God, with all your heart, with all your being, with all your strength, and with all your mind, and your neighbor as yourself.' He replied to him, 'You have answered correctly; do this and you will live.'"
