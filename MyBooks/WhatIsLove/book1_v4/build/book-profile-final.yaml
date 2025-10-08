@@ -1,5 +1,5 @@
 title: What Is Love?
-subtitle: God's Perfect Love is the sacred, sacrificial gift of covenant, binding truth, justice, and mercy, into life-giving communion.
+subtitle: God's Perfect Love is the sacred gift of covenant binding truth, justice, mercy and sacrifice into life-giving communion.
 author: Patrick Steil, St. John Paul II University Parish, Denton TX
 edition: Final Edition - 2025
 lang: en-US
@@ -55,6 +55,9 @@ header-includes:
     }
   - |
     \usepackage{tcolorbox}
+  - |
+    \usepackage{etoolbox}
+    \AtBeginEnvironment{longtable}{\footnotesize}
     \definecolor{goldframe50}{HTML}{dfc4aa}
     \newenvironment{callout}{%
       \begin{tcolorbox}[
@@ -140,8 +143,7 @@ chapters:
   - chapter_11.md
   - chapter_12.md
   - chapter_13.md
-  - chapter_14_summa_caritatis.md
-  - z_appendix1_on_teaching_the_children.md
-  - z_appendix2_on_the_marriage_covenant.md
-  - z_appendix3_faith_alone_vs_gods_perfect_love_alone.md
-  - z_appendix4_definitions.md
+  - chapter_14.md
+  - z_appendix_virtues_and_vices_matrix.md
+  - z_appendix_understanding_sin.md
+  - z_appendix_ideologies_and_belief_systems_matrix.md

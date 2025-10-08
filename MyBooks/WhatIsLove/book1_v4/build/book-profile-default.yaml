@@ -1,7 +1,7 @@
 title: What Is Love?
-subtitle: God's Perfect Love is the sacred, sacrificial gift of covenant, binding truth, justice, and mercy, into life-giving communion.
+subtitle: God's Perfect Love is the sacred gift of covenant binding truth, justice, mercy and sacrifice into life-giving communion.
 author: Patrick Steil, St. John Paul II University Parish, Denton TX
-edition: 3rd Draft - August 23, 2025
+edition: Version 4 - 1st Draft - October 8, 2025
 lang: en-US
 documentclass: book
 classoption: [twoside, openany]
@@ -69,7 +69,7 @@ header-includes:
   - |
     \usepackage{titling}
     \pretitle{\begin{center}\LARGE\bfseries}
-    \posttitle{\par\vskip 0.5em\large\textit\textmd{3rd Draft - August 23, 2025}\end{center}\vskip 1em}
+    \posttitle{\par\vskip 0.5em\large\textit\textmd{Version 4 - 1st Draft - October 8, 2025}\end{center}\vskip 1em}
   - |
     \definecolor{lightcream}{HTML}{f8f6f0}
     \newenvironment{blockquote}{%
@@ -98,6 +98,9 @@ header-includes:
     }
   - |
     \usepackage{tcolorbox}
+  - |
+    \usepackage{etoolbox}
+    \AtBeginEnvironment{longtable}{\footnotesize}
   - |
     \definecolor{goldframe50}{HTML}{dfc4aa}
     \newenvironment{callout}{%
@@ -142,10 +145,7 @@ chapters:
   - chapter_11.md
   - chapter_12.md
   - chapter_13.md
-  - chapter_14_summa_caritatis.md
-  - z_appendix1_on_teaching_the_children.md
-  - z_appendix2_on_the_marriage_covenant.md
-
-
-
-
+  - chapter_14.md
+  - z_appendix_virtues_and_vices_matrix.md
+  - z_appendix_understanding_sin.md
+  - z_appendix_ideologies_and_belief_systems_matrix.md

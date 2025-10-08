@@ -7,7 +7,7 @@
 
 This appendix demonstrates a profound truth: **every virtue upholds and flows from the four pillars of perfect love (Truth, Justice, Mercy, and Sacrifice), while every vice denies or distorts them.** This is not coincidental—it reveals that our comprehensive definition of perfect love truly captures the essence of authentic Christian virtue.
 
-The matrices below show which pillar(s) each virtue or vice primarily relates to. A "✓" indicates the virtue primarily upholds that pillar, while an "✗" indicates the vice primarily offends against it.
+The matrices below show which pillar(s) each virtue or vice primarily relates to. A "$\checkmark$" indicates the virtue primarily upholds that pillar, while an "$\times$" indicates the vice primarily offends against it.
 
 ---
 
@@ -16,33 +16,33 @@ The matrices below show which pillar(s) each virtue or vice primarily relates to
 | Virtue | Truth | Justice | Mercy | Sacrifice |
 |--------|-------|---------|-------|-----------|
 | **Theological Virtues** |
-| Faith | ✓ | ✓ | | ✓ |
-| Hope | ✓ | | ✓ | ✓ |
-| Charity/Love | ✓ | ✓ | ✓ | ✓ |
+| Faith | $\checkmark$ | $\checkmark$ | | $\checkmark$ |
+| Hope | $\checkmark$ | | $\checkmark$ | $\checkmark$ |
+| Charity/Love | $\checkmark$ | $\checkmark$ | $\checkmark$ | $\checkmark$ |
 | **Cardinal Virtues** |
-| Prudence | ✓ | ✓ | ✓ | ✓ |
-| Justice | ✓ | ✓ | | ✓ |
-| Fortitude | ✓ | ✓ | | ✓ |
-| Temperance | ✓ | ✓ | | ✓ |
-| Wisdom | ✓ | ✓ | ✓ | ✓ |
+| Prudence | $\checkmark$ | $\checkmark$ | $\checkmark$ | $\checkmark$ |
+| Justice | $\checkmark$ | $\checkmark$ | | $\checkmark$ |
+| Fortitude | $\checkmark$ | $\checkmark$ | | $\checkmark$ |
+| Temperance | $\checkmark$ | $\checkmark$ | | $\checkmark$ |
+| Wisdom | $\checkmark$ | $\checkmark$ | $\checkmark$ | $\checkmark$ |
 | **Capital Virtues** |
-| Humility | ✓ | ✓ | ✓ | ✓ |
-| Generosity | ✓ | ✓ | ✓ | ✓ |
-| Chastity | ✓ | ✓ | | ✓ |
-| Patience | ✓ | ✓ | ✓ | ✓ |
-| Diligence | ✓ | ✓ | | ✓ |
-| Kindness | ✓ | ✓ | ✓ | ✓ |
-| Contentment | ✓ | ✓ | ✓ | ✓ |
+| Humility | $\checkmark$ | $\checkmark$ | $\checkmark$ | $\checkmark$ |
+| Generosity | $\checkmark$ | $\checkmark$ | $\checkmark$ | $\checkmark$ |
+| Chastity | $\checkmark$ | $\checkmark$ | | $\checkmark$ |
+| Patience | $\checkmark$ | $\checkmark$ | $\checkmark$ | $\checkmark$ |
+| Diligence | $\checkmark$ | $\checkmark$ | | $\checkmark$ |
+| Kindness | $\checkmark$ | $\checkmark$ | $\checkmark$ | $\checkmark$ |
+| Contentment | $\checkmark$ | $\checkmark$ | $\checkmark$ | $\checkmark$ |
 | **Additional Virtues** |
-| Obedience | ✓ | ✓ | | ✓ |
-| Faithfulness | ✓ | ✓ | ✓ | ✓ |
-| Gratitude | ✓ | ✓ | ✓ | ✓ |
-| Honesty | ✓ | ✓ | ✓ | ✓ |
-| Meekness | ✓ | ✓ | ✓ | ✓ |
-| Piety | ✓ | ✓ | ✓ | ✓ |
-| Gentleness | ✓ | ✓ | ✓ | ✓ |
-| Perseverance | ✓ | ✓ | ✓ | ✓ |
-| Zeal | ✓ | ✓ | ✓ | ✓ |
+| Obedience | $\checkmark$ | $\checkmark$ | | $\checkmark$ |
+| Faithfulness | $\checkmark$ | $\checkmark$ | $\checkmark$ | $\checkmark$ |
+| Gratitude | $\checkmark$ | $\checkmark$ | $\checkmark$ | $\checkmark$ |
+| Honesty | $\checkmark$ | $\checkmark$ | $\checkmark$ | $\checkmark$ |
+| Meekness | $\checkmark$ | $\checkmark$ | $\checkmark$ | $\checkmark$ |
+| Piety | $\checkmark$ | $\checkmark$ | $\checkmark$ | $\checkmark$ |
+| Gentleness | $\checkmark$ | $\checkmark$ | $\checkmark$ | $\checkmark$ |
+| Perseverance | $\checkmark$ | $\checkmark$ | $\checkmark$ | $\checkmark$ |
+| Zeal | $\checkmark$ | $\checkmark$ | $\checkmark$ | $\checkmark$ |
 
 ---
 
@@ -51,33 +51,33 @@ The matrices below show which pillar(s) each virtue or vice primarily relates to
 | Vice | Truth | Justice | Mercy | Sacrifice |
 |------|-------|---------|-------|-----------|
 | **Opposing Theological Virtues** |
-| Unbelief/Infidelity | ✗ | ✗ | | ✗ |
-| Despair/Presumption | ✗ | | ✗ | ✗ |
-| Hatred/Indifference | ✗ | ✗ | ✗ | ✗ |
+| Unbelief/Infidelity | $\times$ | $\times$ | | $\times$ |
+| Despair/Presumption | $\times$ | | $\times$ | $\times$ |
+| Hatred/Indifference | $\times$ | $\times$ | $\times$ | $\times$ |
 | **Opposing Cardinal Virtues** |
-| Imprudence/Rashness | ✗ | ✗ | ✗ | |
-| Injustice | ✗ | ✗ | | |
-| Cowardice/Recklessness | ✗ | ✗ | | ✗ |
-| Intemperance | ✗ | ✗ | | ✗ |
-| Foolishness | ✗ | ✗ | ✗ | ✗ |
+| Imprudence/Rashness | $\times$ | $\times$ | $\times$ | |
+| Injustice | $\times$ | $\times$ | | |
+| Cowardice/Recklessness | $\times$ | $\times$ | | $\times$ |
+| Intemperance | $\times$ | $\times$ | | $\times$ |
+| Foolishness | $\times$ | $\times$ | $\times$ | $\times$ |
 | **Seven Deadly Sins** |
-| Pride | ✗ | ✗ | ✗ | ✗ |
-| Greed/Avarice | ✗ | ✗ | ✗ | ✗ |
-| Lust | ✗ | ✗ | | ✗ |
-| Wrath/Anger | ✗ | ✗ | ✗ | ✗ |
-| Sloth | ✗ | ✗ | | ✗ |
-| Envy | ✗ | ✗ | ✗ | ✗ |
-| Gluttony | ✗ | ✗ | ✗ | ✗ |
+| Pride | $\times$ | $\times$ | $\times$ | $\times$ |
+| Greed/Avarice | $\times$ | $\times$ | $\times$ | $\times$ |
+| Lust | $\times$ | $\times$ | | $\times$ |
+| Wrath/Anger | $\times$ | $\times$ | $\times$ | $\times$ |
+| Sloth | $\times$ | $\times$ | | $\times$ |
+| Envy | $\times$ | $\times$ | $\times$ | $\times$ |
+| Gluttony | $\times$ | $\times$ | $\times$ | $\times$ |
 | **Additional Vices** |
-| Disobedience/Rebellion | ✗ | ✗ | | ✗ |
-| Infidelity/Betrayal | ✗ | ✗ | ✗ | ✗ |
-| Ingratitude | ✗ | ✗ | ✗ | ✗ |
-| Dishonesty/Lying | ✗ | ✗ | ✗ | ✗ |
-| Harshness/Cruelty | ✗ | ✗ | ✗ | ✗ |
-| Impiety/Irreverence | ✗ | ✗ | ✗ | ✗ |
-| Violence | ✗ | ✗ | ✗ | ✗ |
-| Inconstancy/Fickleness | ✗ | ✗ | ✗ | ✗ |
-| Lukewarmness | ✗ | ✗ | ✗ | ✗ |
+| Disobedience/Rebellion | $\times$ | $\times$ | | $\times$ |
+| Infidelity/Betrayal | $\times$ | $\times$ | $\times$ | $\times$ |
+| Ingratitude | $\times$ | $\times$ | $\times$ | $\times$ |
+| Dishonesty/Lying | $\times$ | $\times$ | $\times$ | $\times$ |
+| Harshness/Cruelty | $\times$ | $\times$ | $\times$ | $\times$ |
+| Impiety/Irreverence | $\times$ | $\times$ | $\times$ | $\times$ |
+| Violence | $\times$ | $\times$ | $\times$ | $\times$ |
+| Inconstancy/Fickleness | $\times$ | $\times$ | $\times$ | $\times$ |
+| Lukewarmness | $\times$ | $\times$ | $\times$ | $\times$ |
 
 ---
 

@@ -15,38 +15,38 @@ Just as love has degrees of perfection (from small acts of kindness to heroic sa
 
 ## All Vices: Primary Offense Against Truth, Justice, Mercy, and Sacrifice
 
-The following matrix shows which pillar(s) each vice primarily offends against. A "✗" indicates the vice primarily offends against that pillar.
+The following matrix shows which pillar(s) each vice primarily offends against. A "$\times$" indicates the vice primarily offends against that pillar.
 
 | Vice | Truth | Justice | Mercy | Sacrifice |
 |------|-------|---------|-------|-----------|
 | **Opposing Theological Virtues** |
-| Unbelief/Infidelity | ✗ | ✗ | | ✗ |
-| Despair/Presumption | ✗ | | ✗ | ✗ |
-| Hatred/Indifference | ✗ | ✗ | ✗ | ✗ |
+| Unbelief/Infidelity | $\times$ | $\times$ | | $\times$ |
+| Despair/Presumption | $\times$ | | $\times$ | $\times$ |
+| Hatred/Indifference | $\times$ | $\times$ | $\times$ | $\times$ |
 | **Opposing Cardinal Virtues** |
-| Imprudence/Rashness | ✗ | ✗ | ✗ | |
-| Injustice | ✗ | ✗ | | |
-| Cowardice/Recklessness | ✗ | ✗ | | ✗ |
-| Intemperance | ✗ | ✗ | | ✗ |
-| Foolishness | ✗ | ✗ | ✗ | ✗ |
+| Imprudence/Rashness | $\times$ | $\times$ | $\times$ | |
+| Injustice | $\times$ | $\times$ | | |
+| Cowardice/Recklessness | $\times$ | $\times$ | | $\times$ |
+| Intemperance | $\times$ | $\times$ | | $\times$ |
+| Foolishness | $\times$ | $\times$ | $\times$ | $\times$ |
 | **Seven Deadly Sins** |
-| Pride | ✗ | ✗ | ✗ | ✗ |
-| Greed/Avarice | ✗ | ✗ | ✗ | ✗ |
-| Lust | ✗ | ✗ | | ✗ |
-| Wrath/Anger | ✗ | ✗ | ✗ | ✗ |
-| Sloth | ✗ | ✗ | | ✗ |
-| Envy | ✗ | ✗ | ✗ | ✗ |
-| Gluttony | ✗ | ✗ | ✗ | ✗ |
+| Pride | $\times$ | $\times$ | $\times$ | $\times$ |
+| Greed/Avarice | $\times$ | $\times$ | $\times$ | $\times$ |
+| Lust | $\times$ | $\times$ | | $\times$ |
+| Wrath/Anger | $\times$ | $\times$ | $\times$ | $\times$ |
+| Sloth | $\times$ | $\times$ | | $\times$ |
+| Envy | $\times$ | $\times$ | $\times$ | $\times$ |
+| Gluttony | $\times$ | $\times$ | $\times$ | $\times$ |
 | **Additional Vices** |
-| Disobedience/Rebellion | ✗ | ✗ | | ✗ |
-| Infidelity/Betrayal | ✗ | ✗ | ✗ | ✗ |
-| Ingratitude | ✗ | ✗ | ✗ | ✗ |
-| Dishonesty/Lying | ✗ | ✗ | ✗ | ✗ |
-| Harshness/Cruelty | ✗ | ✗ | ✗ | ✗ |
-| Impiety/Irreverence | ✗ | ✗ | ✗ | ✗ |
-| Violence | ✗ | ✗ | ✗ | ✗ |
-| Inconstancy/Fickleness | ✗ | ✗ | ✗ | ✗ |
-| Lukewarmness | ✗ | ✗ | ✗ | ✗ |
+| Disobedience/Rebellion | $\times$ | $\times$ | | $\times$ |
+| Infidelity/Betrayal | $\times$ | $\times$ | $\times$ | $\times$ |
+| Ingratitude | $\times$ | $\times$ | $\times$ | $\times$ |
+| Dishonesty/Lying | $\times$ | $\times$ | $\times$ | $\times$ |
+| Harshness/Cruelty | $\times$ | $\times$ | $\times$ | $\times$ |
+| Impiety/Irreverence | $\times$ | $\times$ | $\times$ | $\times$ |
+| Violence | $\times$ | $\times$ | $\times$ | $\times$ |
+| Inconstancy/Fickleness | $\times$ | $\times$ | $\times$ | $\times$ |
+| Lukewarmness | $\times$ | $\times$ | $\times$ | $\times$ |
 
 ---
 
@@ -203,10 +203,10 @@ Let's examine several vices to see how they can manifest at different levels of 
 ### **Example 1: Lying (Dishonesty)**
 
 **The Nature of Lying:**
-- **Truth (✗):** Directly denies truth by speaking falsehood
-- **Justice (✗):** Withholds truth that others have a right to know
-- **Mercy (✗):** Can harm others through deception
-- **Sacrifice (✗):** Refuses the cost of telling difficult truths
+- **Truth ($\times$):** Directly denies truth by speaking falsehood
+- **Justice ($\times$):** Withholds truth that others have a right to know
+- **Mercy ($\times$):** Can harm others through deception
+- **Sacrifice ($\times$):** Refuses the cost of telling difficult truths
 
 **Venial Lying:**
 - **Small social lie:** "I'm fine" when you're having a bad day (to avoid burdening others)
@@ -221,17 +221,17 @@ Let's examine several vices to see how they can manifest at different levels of 
 
 **Mortal Lying:**
 - **Perjury in court:** Lying under oath that leads to innocent person's conviction
-  - ⊗ Actively opposes truth (sworn testimony)
-  - ⊗ Grave injustice (destroys innocent person's life)
-  - ✗ No mercy for the victim
-  - ✗ Refuses sacrifice of telling costly truth
+  - $\otimes$ Actively opposes truth (sworn testimony)
+  - $\otimes$ Grave injustice (destroys innocent person's life)
+  - $\times$ No mercy for the victim
+  - $\times$ Refuses sacrifice of telling costly truth
   - **Grave matter + full knowledge + deliberate consent = MORTAL**
 
 - **Betraying a secret that destroys someone:** Revealing confession secrets, outing someone maliciously
-  - ⊗ Violates truth of confidentiality
-  - ⊗ Grave injustice to person betrayed
-  - ⊗ Cruel lack of mercy
-  - ✗ Refuses sacrifice of keeping difficult secret
+  - $\otimes$ Violates truth of confidentiality
+  - $\otimes$ Grave injustice to person betrayed
+  - $\otimes$ Cruel lack of mercy
+  - $\times$ Refuses sacrifice of keeping difficult secret
   - **MORTAL**
 
 **What makes the difference?**
@@ -245,10 +245,10 @@ Let's examine several vices to see how they can manifest at different levels of 
 ### **Example 2: Anger (Wrath)**
 
 **The Nature of Anger:**
-- **Truth (✗):** Distorts reality through rage
-- **Justice (✗):** Seeks disproportionate revenge
-- **Mercy (✗):** Refuses compassion and forgiveness
-- **Sacrifice (✗):** Indulges passion rather than controlling it
+- **Truth ($\times$):** Distorts reality through rage
+- **Justice ($\times$):** Seeks disproportionate revenge
+- **Mercy ($\times$):** Refuses compassion and forgiveness
+- **Sacrifice ($\times$):** Indulges passion rather than controlling it
 
 **Venial Anger:**
 - **Brief irritation:** Snapping at someone in traffic, quickly regretted
@@ -264,17 +264,17 @@ Let's examine several vices to see how they can manifest at different levels of 
 
 **Mortal Anger:**
 - **Nursing hatred:** Deliberately cultivating rage, planning revenge, refusing to forgive
-  - ⊗ Distorts truth (sees person as pure evil)
-  - ⊗ Seeks unjust revenge beyond what's due
-  - ⊗ Completely refuses mercy and forgiveness
-  - ✗ Indulges hatred rather than sacrificing it
+  - $\otimes$ Distorts truth (sees person as pure evil)
+  - $\otimes$ Seeks unjust revenge beyond what's due
+  - $\otimes$ Completely refuses mercy and forgiveness
+  - $\times$ Indulges hatred rather than sacrificing it
   - **Grave matter (hatred) + full knowledge + deliberate consent = MORTAL**
 
 - **Violence/assault:** Acting on rage to harm someone physically
-  - ⊗ Violates truth of human dignity
-  - ⊗ Grave injustice (assault)
-  - ⊗ No mercy, only cruelty
-  - ✗ Refuses all self-control
+  - $\otimes$ Violates truth of human dignity
+  - $\otimes$ Grave injustice (assault)
+  - $\otimes$ No mercy, only cruelty
+  - $\times$ Refuses all self-control
   - **MORTAL**
 
 **What makes the difference?**
@@ -288,10 +288,10 @@ Let's examine several vices to see how they can manifest at different levels of 
 ### **Example 3: Greed (Avarice)**
 
 **The Nature of Greed:**
-- **Truth (✗):** Denies that all is gift from God
-- **Justice (✗):** Hoards what others need
-- **Mercy (✗):** Ignores the poor and needy
-- **Sacrifice (✗):** Refuses to share possessions
+- **Truth ($\times$):** Denies that all is gift from God
+- **Justice ($\times$):** Hoards what others need
+- **Mercy ($\times$):** Ignores the poor and needy
+- **Sacrifice ($\times$):** Refuses to share possessions
 
 **Venial Greed:**
 - **Wanting a bit more:** Wishing you had a nicer car, bigger house
@@ -306,17 +306,17 @@ Let's examine several vices to see how they can manifest at different levels of 
 
 **Mortal Greed:**
 - **Exploiting workers:** Paying unjust wages, using sweatshop labor, denying benefits
-  - ⊗ Denies truth that workers deserve just compensation
-  - ⊗ Grave injustice (stealing what's owed)
-  - ⊗ No mercy for struggling families
-  - ✗ Refuses sacrifice of fair wages for profit
+  - $\otimes$ Denies truth that workers deserve just compensation
+  - $\otimes$ Grave injustice (stealing what's owed)
+  - $\otimes$ No mercy for struggling families
+  - $\times$ Refuses sacrifice of fair wages for profit
   - **Grave matter + full knowledge + deliberate consent = MORTAL**
 
 - **Stealing from the poor:** Embezzling charity funds, defrauding vulnerable people
-  - ⊗ Denies truth of their dignity and rights
-  - ⊗ Grave injustice (theft from those who can least afford it)
-  - ⊗ Cruelty to the vulnerable
-  - ✗ Takes rather than gives
+  - $\otimes$ Denies truth of their dignity and rights
+  - $\otimes$ Grave injustice (theft from those who can least afford it)
+  - $\otimes$ Cruelty to the vulnerable
+  - $\times$ Takes rather than gives
   - **MORTAL**
 
 **What makes the difference?**
@@ -330,10 +330,10 @@ Let's examine several vices to see how they can manifest at different levels of 
 ### **Example 4: Lust**
 
 **The Nature of Lust:**
-- **Truth (✗):** Distorts truth of sexuality's purpose
-- **Justice (✗):** Uses persons as objects
-- **Mercy (✗):** Exploits others for pleasure
-- **Sacrifice (✗):** Indulges disordered desires
+- **Truth ($\times$):** Distorts truth of sexuality's purpose
+- **Justice ($\times$):** Uses persons as objects
+- **Mercy ($\times$):** Exploits others for pleasure
+- **Sacrifice ($\times$):** Indulges disordered desires
 
 **Venial Lust:**
 - **Brief impure thought:** Fleeting temptation quickly dismissed
@@ -347,23 +347,23 @@ Let's examine several vices to see how they can manifest at different levels of 
 
 **Mortal Lust:**
 - **Deliberate pornography use:** Intentionally viewing pornography
-  - ⊗ Distorts truth of sexuality
-  - ⊗ Uses persons as objects (even in images)
-  - ✗ Exploits those in pornography
-  - ✗ Indulges lust rather than practicing chastity
+  - $\otimes$ Distorts truth of sexuality
+  - $\otimes$ Uses persons as objects (even in images)
+  - $\times$ Exploits those in pornography
+  - $\times$ Indulges lust rather than practicing chastity
   - **Grave matter + full knowledge + deliberate consent = MORTAL**
 
 - **Adultery:** Sexual relations outside marriage
-  - ⊗ Violates covenant truth
-  - ⊗ Grave injustice to spouse
-  - ⊗ No mercy for spouse or family
-  - ✗ Refuses sacrifice of fidelity
+  - $\otimes$ Violates covenant truth
+  - $\otimes$ Grave injustice to spouse
+  - $\otimes$ No mercy for spouse or family
+  - $\times$ Refuses sacrifice of fidelity
   - **MORTAL**
 
 - **Fornication:** Sexual relations before marriage
-  - ⊗ Violates truth of sexuality's purpose (covenant union)
-  - ⊗ Treats person as object for pleasure
-  - ✗ Refuses sacrifice of chastity
+  - $\otimes$ Violates truth of sexuality's purpose (covenant union)
+  - $\otimes$ Treats person as object for pleasure
+  - $\times$ Refuses sacrifice of chastity
   - **Grave matter (even without full knowledge in some cases) = potentially MORTAL**
 
 **What makes the difference?**
