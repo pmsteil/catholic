@@ -50,6 +50,10 @@ This book is basically putting forth what seems to me a very comprehensive defin
 
 I call it "God's Perfect Love".
 
+**The sacred gift of covenant**
+— *binding truth, justice, mercy and sacrifice* —
+— *into life-giving communion* —
+
 And why do we need this definition?
 
 Because we live in a world where love is misused, misunderstood, and misapplied.
