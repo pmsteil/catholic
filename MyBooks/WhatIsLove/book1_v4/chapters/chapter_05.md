@@ -1,4 +1,4 @@
-# Binding - Love Unites and Integrates
+# Binding - How love unites
 
 <div class="blockquote">
 "And over all these put on love, that is, the bond of perfection."
@@ -161,7 +161,7 @@ The Eucharist is the supreme example of love's binding power:
 
 This is why Catholics call it "Holy Communion." It's not just receiving Christ—it's being bound into communion with Him and with each other through Him.
 
-## The Bridge to Truth
+## The Bridge to Truth (editor: this chapter is a bridge to chapters on Truth, justice, mercy, sacrifice... )
 
 Love binds together all the essential elements of authentic relationship. But what grounds this binding? What ensures that what we're binding together is real and not just wishful thinking?
 

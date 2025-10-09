@@ -4,7 +4,22 @@
 
 This prompt provides comprehensive instructions for creating version 4 of "What Is Love?: God's Perfect Love" - a focused, theologically precise exploration of authentic love as the complete Christian answer to the problem of evil.
 
-**Key Shift in v4:** While written by a Catholic for all Christians, this version uses the comprehensive definition of God's Perfect Love to explain and invite readers into the fullness of Catholic faith. The book demonstrates how Catholic practices (Mass, Sacraments, etc.) flow naturally from the definition of love itself, making them accessible and compelling to all Christians.
+**Key Shift in v4:** This book has ONE focused mission: **To provide a complete, comprehensive description of God's Perfect Love and demonstrate through rigorous theological argumentation that this definition is correct.** This is not a devotional book, not a practical "how-to" guide, and not a comprehensive treatment of Catholic practices. It is a **theological foundation** that establishes what love IS, why this definition is true, and how it answers the problem of evil. It is written or any Christian, but Catholic theology is the lens through which the definition is unpacked.
+
+**What This Book IS:**
+- Easily read by any level reader
+- A systematic unpacking of the definition's components
+- A philosophical and theological defense of the definition
+- An apologetic work demonstrating the definition's coherence and completeness
+- A foundation for understanding virtues and vices through the lens of this definition
+
+**What This Book IS NOT (saved for Book 2):**
+- A guide to living the Mass and Sacraments
+- A devotional with daily practices and prayers
+- A comprehensive pastoral manual
+- A detailed exploration of Catholic spiritual life
+
+**Book 2 Will Cover:** How to LIVE this love through Mass, Sacraments, prayer, daily practices, family life, and spiritual formation. Book 1 establishes WHAT love is; Book 2 will show HOW to live it.
 
 ## Core Definition
 
@@ -29,8 +44,8 @@ This definition serves as the foundation for the entire book and will be systema
 10. **Chapter 10: Life-giving** - Love creates, sustains, and multiplies life
 11. **Chapter 11: Communion** - Love builds authentic community and relationship
 
-### Part 2: Applications to Christian Faith (Chapters 12-14)
-**Purpose:** Show how this definition solves key Christian problems, explains Catholic practices, and demonstrates the integration of virtues and vices.
+### Part 2: Implications for Christian Faith (Chapters 12-14)
+**Purpose:** Demonstrate the apologetic power of this definition by showing how it proves God's existence, explains the nature of all virtues, and provides clarity on sin. This section establishes the definition's theological coherence and completeness.
 
 12. **Chapter 12: Proof for the Existence of God** - Upgraded moral argument showing problems with Divine Command Theory
 13. **Chapter 13: The Nature of Virtues—Faith Working Through Love** - Comprehensive matrix showing how all virtues uphold the four pillars; refutes "faith alone" by demonstrating faith requires truth, justice, mercy, and sacrifice at every stage
@@ -52,10 +67,11 @@ This definition serves as the foundation for the entire book and will be systema
 - Confident in Catholic truth while respectful of Protestant readers
 
 **Catholic Elements - How to Handle:**
-- **DO include:** Mass, Sacraments, CCC references, Catholic practices
-- **DO explain:** Why these exist based on the definition (e.g., "We have Mass because love requires sacrifice—this is where we participate in Jesus' sacrifice")
-- **DO NOT avoid:** Catholic distinctives, but present them as the natural fulfillment of what all Christians seek
-- **DO NOT assume:** Readers understand Catholic terminology—explain clearly
+- **DO include:** CCC references, Catholic theological tradition, Church Fathers, papal teaching
+- **DO reference:** Mass and Sacraments when they illustrate a theological point about the definition (e.g., "The Mass demonstrates sacrifice's centrality to love")
+- **DO NOT include:** Detailed explanations of how to participate in Mass, how to pray, daily devotional practices
+- **DO NOT make this:** A "how to be Catholic" book—that's Book 2
+- **FOCUS ON:** Theological argumentation, biblical exegesis, philosophical coherence, apologetic power but in an accessible work.
 
 ### Chapter Style
 
@@ -74,7 +90,8 @@ This definition serves as the foundation for the entire book and will be systema
 - Theological depth and biblical foundation
 - Logical argumentation and philosophical rigor
 - Clear explanation of how this facet of love combats specific evils
-- Connection to Catholic practice when relevant
+- Demonstration that this component is NECESSARY to the definition (can't have authentic love without it)
+- Apologetic power: showing why alternative definitions fail
 
 ### Minimalist Approach - What to Eliminate
 
