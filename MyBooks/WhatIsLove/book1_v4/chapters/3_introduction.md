@@ -170,7 +170,7 @@ We'll journey together through these chapters exploring this definition in more 
 
 **Chapter 11: Communion** - Love builds authentic community and relationship, overcoming isolation and creating genuine human solidarity.
 
-**PART 2: IMPLICATIONS FOR CHRISTIAN FAITH (Chapters 12-14)**
+**PART 2: IMPLICATIONS FOR CHRISTIAN FAITH (Chapters 12-15)**
 
 **Chapter 12: Proof for the Existence of God** - The moral argument demonstrates God's existence through human capacity for love; this definition provides an upgraded moral argument that avoids Divine Command Theory problems.
 
@@ -178,12 +178,56 @@ We'll journey together through these chapters exploring this definition in more 
 
 **Chapter 14: Understanding Sin—Mortal and Venial Distinctions** - How vices deny the four pillars; explains three conditions for mortal sin; shows growth in holiness is possible.
 
+**Chapter 15: Counterfeit Love in the Modern World** - Systematically exposes ideologies, relationship patterns, and cultural slogans that masquerade as love but fail to deliver what they promise. Shows how authentic love provides the real goods people are actually seeking: justice for the poor, compassion and belonging, true identity and peace, freedom and flourishing, security and commitment, intimacy and connection, fruitful love, lasting love, family stability, life and meaning, transforming faith, authoritative truth, authentic community, victory over evil, true compassion, true happiness, freedom in truth, and true fulfillment.
+
+## What This Book Will Give You
+
+If you desire any of these goods—and who doesn't?—this book will demonstrate how understanding God's Perfect Love is the only way to truly obtain them:
+
+**You want justice for the poor?** God's Perfect Love provides it without class warfare or hatred.
+
+**You want compassion and belonging?** God's Perfect Love creates authentic community without affirming lies.
+
+**You want true identity and peace?** God's Perfect Love reveals who God created you to be.
+
+**You want freedom and flourishing?** God's Perfect Love liberates through truth, not government coercion.
+
+**You want security and commitment?** God's Perfect Love creates covenant bonds that last.
+
+**You want intimacy and connection?** God's Perfect Love gives yourself completely, not just temporarily.
+
+**You want fruitful love?** God's Perfect Love is open to life, not sterile and self-focused.
+
+**You want lasting love?** God's Perfect Love endures "for better or worse, till death do us part."
+
+**You want family stability?** God's Perfect Love puts children's needs before parents' desires.
+
+**You want life and meaning?** God's Perfect Love protects innocent life and gives purpose to suffering.
+
+**You want transforming faith?** God's Perfect Love works through concrete actions, not just beliefs.
+
+**You want authoritative truth?** God's Perfect Love submits to Christ's Church, not personal interpretation.
+
+**You want authentic community?** God's Perfect Love creates visible unity in Christ's Body.
+
+**You want victory over evil?** God's Perfect Love conquers through sacrifice on the Cross.
+
+**You want true compassion?** God's Perfect Love speaks truth while showing mercy.
+
+**You want true happiness?** God's Perfect Love follows God's design, not fickle feelings.
+
+**You want freedom in truth?** God's Perfect Love liberates from slavery to sin and lies.
+
+**You want true fulfillment?** God's Perfect Love finds itself by giving itself away.
+
+The counterfeits promise these goods but cannot deliver. Only God's Perfect Love—the sacred gift of covenant binding truth, justice, mercy, and sacrifice into life-giving communion—provides what your heart truly desires.
+
 ## How This Journey Transforms Us
 
 This progression is carefully designed to:
 1. **Awaken us** to the reality of evil and God's answer in perfect love (Chapters 1-2)
 2. **Educate us** systematically about each component of the definition: Sacred, Covenant, Binding, Truth, Justice, Mercy, Sacrifice, Life-giving, Communion (Chapters 3-11)
-3. **Apply this understanding** to prove God's existence, understand virtues, and recognize sin (Chapters 12-14)
+3. **Apply this understanding** to prove God's existence, understand virtues, recognize sin, and identify counterfeits (Chapters 12-15)
 
-Each chapter builds on the previous ones, creating a complete theological framework for understanding how God's Perfect Love is the comprehensive Christian answer to the problem of evil.
+Each chapter builds on the previous ones, creating a complete theological framework for understanding how God's Perfect Love is the comprehensive Christian answer to the problem of evil—and the only path to obtaining the goods your heart truly seeks.
 
