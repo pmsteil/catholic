@@ -66,6 +66,99 @@ But why must this be true? Why can't love just be a human invention or evolution
 
 This is why Scripture's declaration "God is love" isn't just poetic language or religious sentiment. It's revealing the deepest truth about the nature of reality itself. Love isn't something God does—it's who God is. And because God is the Creator of all that exists, love is woven into the very fabric of creation.
 
+## Why Humans Can't Create Their Own Morality
+
+But wait—couldn't we just develop our own authoritative morality based on what we think is true, just, and merciful? Couldn't humanity collectively decide what love means and build our ethics from there?
+
+This is precisely what the liberalism experiment has attempted for the past few centuries. Enlightenment thinkers believed that human reason alone, freed from the authority of the Church and religious "superstition," could construct a universal morality based on rational principles. We would use reason to discover what's true, just, and merciful, then build society on that foundation—without needing God or His Church to tell us what these things mean.
+
+The experiment has failed. And the failure reveals why love must depend on God. Here's why:
+
+**The Problem of Competing Claims:**
+
+If humans are the source of morality, whose humans? Which culture? Which era? What happens when sincere, thoughtful people disagree about what's "truly" just or merciful?
+
+- Ancient Sparta thought it was "just" to expose weak infants to die. Modern progressives think it's "just" to abort them. Who's right?
+- Some cultures think it's "merciful" to practice euthanasia. Others think it's "murder." Who decides?
+- Slave-owning societies thought their system was "just" and even "merciful." Abolitionists disagreed. Without a transcendent standard, this becomes mere power struggle.
+
+**Without God as the source, "truth, justice, and mercy" become whatever the powerful say they are.** There's no way to adjudicate between competing human claims except through force, consensus, or cultural conditioning—none of which establish objective truth.
+
+**And here's the critical insight: When humans claim to be the "author" of justice without being its true Author, they must enforce their version through governmental violence.** They have no moral authority—only political power. Since people won't voluntarily submit to a morality that lacks transcendent grounding, it must be imposed by force.
+
+This is why every atheistic political system—socialism, communism, fascism—has ended in mass murder. When the state claims authority to define truth, justice, and mercy without God, it must silence dissent violently. Those who refuse to comply with the state's invented morality become enemies to be eliminated.
+
+- Soviet communism: 20+ million dead
+- Chinese communism: 45+ million dead
+- Nazi fascism: 11+ million dead
+- Cambodian communism: 2+ million dead
+
+**These aren't accidents or aberrations—they're the logical outcome of rejecting God's authority.** When humans try to author justice without being its Author, they can only enforce their claims through terror. The gulags, the concentration camps, the killing fields—these are what happen when morality is grounded in human power rather than divine truth.
+
+By contrast, authentic Christian movements call people to freely submit to God's eternal laws of love. True authority invites voluntary obedience because it flows from the Author of justice Himself. We don't need to force people to recognize what's truly just—we need only to reveal it, and human hearts, made in God's image, will recognize it as true.
+
+**The Problem of Self-Interest:**
+
+Even when humans sincerely try to be objective, human-created morality inevitably serves human interests. We naturally define "justice" in ways that benefit us, "mercy" in ways that excuse our failures, and "truth" in ways that validate our choices.
+
+The regimes that murdered millions genuinely believed they were creating a better world. They weren't cynically evil—they were convinced their vision of justice was correct. This is the danger: **without God as the objective standard, even our most sincere moral reasoning becomes self-serving.**
+
+Today we see the same pattern in supposedly enlightened Western democracies. We redefine the very terms we claim to base morality on:
+
+- We redefine **"truth"** as "my truth" or "your truth"—whatever aligns with individual identity or feelings
+- We redefine **"justice"** as equal outcomes rather than giving each person their due according to their nature and dignity
+- We redefine **"mercy"** to include killing the unborn (abortion) and the elderly (euthanasia) to end their "suffering"
+- We redefine "compassion" as affirming whatever people claim about themselves, even biological impossibilities
+- We redefine "freedom" as autonomy from all constraints, including reality itself
+- We redefine "love" as whatever makes us feel good in the moment
+
+**Each redefinition serves our desire for autonomy, comfort, or sexual freedom.** We claim to be pursuing truth, justice, and mercy, but we're actually redefining these terms to mean whatever benefits us. Without God's objective standard, there's no way to distinguish genuine justice from sophisticated self-interest.
+
+**And the biggest tragedy?** Our young people are being taught these redefinitions as truth. They sincerely believe they're fighting for justice when they march for abortion "rights." They genuinely think they're defending truth when they affirm gender ideology. They protest, they tear down institutions, they destroy what previous generations built—all while believing they're on the side of righteousness.
+
+**They're not cynical or evil. They're deceived.** They've been handed counterfeit definitions of truth, justice, and mercy, and told these are the real thing. Without God's objective standard, they have no way to recognize the deception. They fight passionately for lies, thinking they're defending human rights.
+
+**The Problem of Moral Authority:**
+
+Here's the deeper issue: If we create morality, it has no authority over us. We can uncreate it whenever convenient.
+
+Think about it practically:
+- If society defines marriage, society can redefine it—and has, repeatedly
+- If culture determines sexual ethics, culture can change them—and does, constantly
+- If humans decide when life begins, humans can move that line—and we have, tragically
+
+**But if morality is just human convention, then "I don't agree with that convention" is a complete moral argument.** There's no basis to say something is objectively wrong, only that they're breaking the current rules—rules that could change tomorrow.
+
+This is why the sexual revolution, gender ideology, and abortion advocacy are logically consistent within a human-created morality. If we're the source, we can redefine everything. The only question becomes: Who has the power to enforce their definition? And this shows why any political party not grounded in God cares more about fighting for "power" than truth.
+
+**The Problem of Circular Reasoning:**
+
+Most fatally, human-created morality is circular. We claim to base it on "truth, justice, and mercy"—but who defines those terms?
+
+- If we define "truth" as what serves human flourishing, we must first define "flourishing"—which requires knowing what's truly good for humans
+- If we define "justice" as giving each person their due, we must first know what's due to each person—which requires knowing human dignity and rights
+- If we define "mercy" as compassion for suffering, we must first know what constitutes genuine compassion vs. enabling harm
+
+**Every attempt to ground morality in human reason alone ends up assuming the very things it's trying to prove.** We can't define truth, justice, and mercy without already knowing what they are—and we can't know what they are without a source beyond ourselves.
+
+**The Only Solution: God as the Source**
+
+This is why love must depend on God. Not because God is a cosmic dictator imposing arbitrary rules, but because:
+
+1. **God's nature is the standard.** Truth, justice, and mercy aren't arbitrary commands—they flow from who God is. God doesn't decide what's just; God IS justice itself.
+
+2. **God's nature is unchanging.** Unlike human opinion or cultural consensus, God's nature doesn't shift with the times. What was true, just, and merciful in the first century remains so in the twenty-first.
+
+3. **God's nature is accessible.** Through natural law (written on our hearts), Scripture, and the Church's teaching authority, we can know what authentic love requires. We're not left guessing.
+
+4. **God's nature is authoritative.** When we violate truth, justice, or mercy, we're not just breaking human rules—we're acting against reality itself, against the very structure of existence.
+
+When we discover what's truly just or merciful, we're not inventing morality—we're discovering God's nature. We are "receiving" His Truth. When we align with truth, justice, and mercy, we're not following human conventions—we're participating in divine life.
+
+<div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
+Humans can't create authoritative morality because we can't create truth, justice, or mercy—we can only recognize and participate in them. These realities exist because God exists, and God IS love. Remove God as the source, and "morality" becomes mere human preference enforced by power.
+</div>
+
 ## The Trinity: Love's Eternal Pattern
 
 But how can God be love if love requires relationship? How can a solitary being be love itself?

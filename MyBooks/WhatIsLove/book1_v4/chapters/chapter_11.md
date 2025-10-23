@@ -72,24 +72,64 @@ This is the pattern for all human relationships:
 - Not just association, but authentic community
 - Not just connection, but covenant
 
-## Communion vs. Collectivism
+## The True End of Love: From Virtue to Communion
 
-We need to distinguish communion from collectivism:
+Throughout history, Christians have understood love differently—not in its essence, but in its ultimate goal. Where does love lead? What is its "end"?
 
-**Collectivism** absorbs individuals into the group. You lose your distinctiveness. You become a cog in the machine, a cell in the organism, a unit in the collective. Your value comes from your usefulness to the group.
+**The Medieval Vision: Love as Moral Ascent**
 
-**Communion** unites persons while preserving their distinctiveness. You become more fully yourself in relationship. Your value comes from your inherent dignity, not your usefulness.
+In the medieval world, as C.S. Lewis showed in *The Allegory of Love*, love was viewed as a path toward virtue and nobility. Love refined the lover and made him "good." The knight who loved rightly became more virtuous, more noble, more worthy. Love was moral ascent—a ladder toward personal perfection.
 
-**Collectivism** says: "You exist for the group."
-**Communion** says: "The group exists so persons can flourish."
+This vision had beauty and dignity. It elevated love above mere passion. It connected love to character formation. But it contained a subtle danger: one's own virtue could become the source and summit of salvation. Goodness was pursued for its own sake rather than as participation in divine life. The goal became "being good" rather than "giving life."
 
-**Collectivism** demands uniformity: Everyone must think alike, act alike, be alike.
-**Communion** celebrates diversity: Different gifts, different roles, different persons—all united in love.
+**The Modern Vision: Love as Self-Fulfillment**
 
-**Collectivism** is totalitarian: The state, the party, the movement absorbs everything.
-**Communion** is liberating: Persons freely give themselves in love.
+The modern world rejected the medieval vision's moral demands but kept its self-focus. Now love's goal is personal fulfillment, emotional satisfaction, individual happiness. "Follow your heart." "Love yourself first." "You do you."
 
-This is why Catholic social teaching emphasizes both solidarity (we're responsible for each other) and subsidiarity (problems should be solved at the most local level possible). We're made for communion, not collectivism.
+This vision is even more self-centered than the medieval one. At least the medieval lover sought to become objectively good. The modern lover seeks only to feel good. Love becomes psychological therapy, not transformation.
+
+**God's Perfect Love: Communion as the True End**
+
+Our definition corrects both errors: "God's Perfect Love is the sacred gift of covenant which binds truth, justice, mercy, and sacrifice into life-giving communion."
+
+Notice the final word: **communion**. Not virtue. Not fulfillment. Communion.
+
+This is the true end of love—the goal toward which everything else points. Truth, justice, and mercy are the framework through which love expresses itself rightly—finding their full expression in the virtues we'll explore in Chapter 13. But they are not the destination. The destination is communion—union with God and others through self-giving love.
+
+**The Critical Distinction:**
+
+| Vision | Source of Love | Goal of Love | Direction | Character |
+|--------|---------------|--------------|-----------|-----------|
+| **Medieval** | Human desire refined by virtue | Moral goodness / becoming noble | Upward (moral ascent) | Love as self-perfection |
+| **Modern** | Human emotion and self-expression | Self-fulfillment / happiness | Inward (self-focus) | Love as self-satisfaction |
+| **God's Perfect Love** | Divine gift of covenantal grace | Communion with God and others | Outward (self-gift) | Love as life-giving participation |
+
+**Why This Matters:**
+
+The medieval lover climbed toward virtue for himself. The modern lover seeks fulfillment for himself. But the Christian lover, through God's Perfect Love, enters communion—and through it, brings the world to life.
+
+Virtue is still essential—truth, justice, mercy, and sacrifice are not optional. But they're no longer the end. They become the structure through which love flows outward to create communion. You don't become good for your own sake; you become good so that divine life can flow through you to others.
+
+This is what Jesus meant when He prayed "that they may all be one, as you, Father, are in me and I in you, that they also may be in us" (John 17:21). The goal isn't our individual perfection. The goal is communion—participation in the divine life of the Trinity, which then overflows to create communion with others.
+
+**The Protestant-Catholic Divide:**
+
+This helps us understand the Protestant-Catholic divide on virtue and works. Protestantism, reacting against medieval "virtue-based" moralism, emphasizes that salvation comes not by works but by faith—avoiding any hint that human virtue saves. This reaction is understandable given the risk of making virtue an idol.
+
+However, this can leave love disconnected from transformation. Faith is affirmed, but the relational communion—the "end" of love—is underdeveloped.
+
+Catholicism preserves what God's Perfect Love articulates: virtue is necessary but not salvific on its own; it becomes life-giving only when ordered toward communion. The sacraments—especially the Eucharist—are the true source and summit of this communion. In Holy Communion, the source (Christ's sacrifice) and the end (union with God and neighbor) converge.
+
+**Be Good to Bring Life:**
+
+Christianity's goal is not "Be good so you can go to heaven," but rather: "Be good (be like God) so that heaven—communion, peace, harmony, reconciliation—comes alive in and through you."
+
+In this framework:
+- Virtue is not a badge of holiness but a channel of communion
+- Love's fruits—peace, justice, mercy, reconciliation—are not moral achievements but signs that divine communion is taking root
+- The Cross is the model: love sacrifices self to give life
+
+This is why Catholic social teaching emphasizes both solidarity (we're responsible for each other) and subsidiarity (problems should be solved at the most local level possible). We're made for communion, not isolated perfection.
 
 ## The Church as Communion
 
