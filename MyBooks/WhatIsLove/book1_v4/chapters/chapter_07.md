@@ -32,6 +32,8 @@ We all know—immediately, instinctively, universally—that these things are wr
 
 This universal cry for justice reveals something profound: Justice is written on every human heart. It's part of the natural law, the moral order built into creation itself. We recognize it because we're made in the image of a God who IS just.
 
+As we explored in Chapter 3, this is why human attempts to author justice without God inevitably fail—they reject the natural law written on our hearts and replace divine justice with human preference that serves self-interest. True justice requires a source beyond ourselves: the God who IS justice itself.
+
 <div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
 Justice is love giving each person what they are due based on their dignity as image-bearers of God. Without justice, love becomes arbitrary sentiment. With justice, love has objective content and concrete expression.
 </div>
@@ -170,17 +172,37 @@ The Catholic Sacrament of Reconciliation perfectly demonstrates how justice and 
 
 The sacrament doesn't choose between justice and mercy—it integrates both. Sin is real (justice). Forgiveness is offered (mercy). Consequences remain (justice). Relationship is restored (mercy).
 
-This is love in action—truth about sin, justice requiring acknowledgment, mercy offering forgiveness, all working together to heal and restore.
+Notice how the structure of the sacrament honors both, grounded in truth about human nature:
+
+**Examination of Conscience:** We must face the truth about our sins—what justice demands we acknowledge.
+
+**Confession:** We must speak our sins aloud to the priest—giving God what He's due: honest admission of wrongdoing. Truth reveals that we as human beings NEED to confess, to bring our sins into the light, to hear ourselves say what we've done. Keeping sin hidden only deepens its power over us.
+
+**Contrition:** We must genuinely repent—justice requires we recognize the gravity of our offense. Truth shows us that authentic sorrow isn't just feeling bad; it's recognizing we've violated something sacred.
+
+**Penance:** We must accept consequences and make amends—justice demands restitution where possible. Here's a profound truth about human nature: when we commit grave sins, we feel a deep need to "make up" for what we've done. Simply being told "you're forgiven" isn't enough—we need to DO something, to offer something, to make tangible amends. The sacrament honors this truth about how we're made.
+
+**Absolution:** God offers complete forgiveness—mercy transcending what justice strictly requires. Truth reveals that we cannot earn this forgiveness, yet we desperately need to hear it spoken with Christ's authority: "I absolve you."
+
+**Amendment of Life:** We commit to change—justice and mercy together leading to transformation. Truth demands we not just feel sorry but actually become different people.
+
+This is love in action—truth about sin, truth about human nature, justice requiring acknowledgment, mercy offering forgiveness, all working together to heal and restore. The sacrament shows us that authentic love never chooses between truth, justice, and mercy; it holds them in perfect tension, each making the others more powerful.
 
 ## The Bridge to Mercy
 
 Justice gives each person what they're due. But what about when someone doesn't deserve forgiveness? What about when justice demands punishment? What about when giving what's strictly owed would crush rather than heal?
 
+This is where we discover that justice, by itself, is incomplete. Justice can diagnose the problem—it reveals what's wrong, what's owed, what's been violated. Justice can even demand restitution. But justice alone cannot heal the deepest wounds or restore broken relationships. Justice prepares the ground, but it cannot make things grow.
+
+Think about it: Justice can tell you that you've been wronged and deserve recompense. But justice alone cannot heal your wounded heart. Justice can demand that the offender acknowledge their sin and accept consequences. But justice alone cannot transform them into a new person. Justice can establish that a relationship has been violated. But justice alone cannot restore the trust and intimacy that were lost.
+
+**This is how justice prepares for mercy:** Justice establishes the truth about what's been broken, making mercy meaningful rather than cheap. Justice names the wound, making mercy's healing powerful rather than superficial. Justice acknowledges the debt, making mercy's forgiveness costly rather than casual. Without justice, mercy would be mere sentimentality—pretending nothing's wrong, enabling sin, cheapening grace. With justice, mercy becomes the most powerful force in the universe.
+
 This is where the next facet becomes crucial: **mercy**. Mercy doesn't violate justice—it transcends it. Mercy doesn't ignore what's owed—it offers more than what's owed.
 
-Justice says "You deserve consequences." Mercy says "I'll bear those consequences for you." Justice says "You broke the covenant." Mercy says "I'll remain faithful anyway."
+Justice says "You deserve consequences." Mercy says "I'll bear those consequences for you." Justice says "You broke the covenant." Mercy says "I'll remain faithful anyway." Justice says "This is what's owed." Mercy says "I'll give you what you need instead."
 
-Without justice, mercy is meaningless. With justice, mercy becomes the most powerful force in the universe—love that goes beyond what's required to offer what's needed.
+Without justice, mercy is meaningless. With justice, mercy becomes love that goes beyond what's required to offer what's needed—the healing, transformation, and restoration that only God can provide.
 
 ---
 

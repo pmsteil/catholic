@@ -104,6 +104,16 @@ This is the true end of love—the goal toward which everything else points. Tru
 | **Modern** | Human emotion and self-expression | Self-fulfillment / happiness | Inward (self-focus) | Love as self-satisfaction |
 | **God's Perfect Love** | Divine gift of covenantal grace | Communion with God and others | Outward (self-gift) | Love as life-giving participation |
 
+Let's unpack what each column reveals:
+
+**Source of Love:** The medieval vision starts with human desire that must be trained and refined through virtue. The modern vision starts with human emotion and self-expression. But God's Perfect Love starts with divine gift—it's not something we generate but something we receive through covenant and grace.
+
+**Goal of Love:** The medieval vision aims at moral goodness—becoming a noble, virtuous person. The modern vision aims at self-fulfillment and happiness. But God's Perfect Love aims at communion—union with God and others. The goal isn't self-improvement or self-satisfaction; it's relationship.
+
+**Direction:** The medieval vision moves upward—climbing the ladder of virtue toward moral perfection. The modern vision moves inward—focusing on self-discovery and self-expression. But God's Perfect Love moves outward—self-gift that creates communion with others.
+
+**Character:** The medieval vision sees love as self-perfection. The modern vision sees love as self-satisfaction. But God's Perfect Love sees love as life-giving participation in the divine nature—not for our sake alone, but to bring life to others.
+
 **Why This Matters:**
 
 The medieval lover climbed toward virtue for himself. The modern lover seeks fulfillment for himself. But the Christian lover, through God's Perfect Love, enters communion—and through it, brings the world to life.

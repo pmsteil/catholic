@@ -61,6 +61,18 @@ The matrix below shows which pillar(s) each virtue primarily relates to. A "✓"
 | Perseverance | ✓ | ✓ | ✓ | ✓ |
 | Zeal | ✓ | ✓ | ✓ | ✓ |
 
+**Why Some Virtues Relate to All Four Pillars:**
+
+Notice that certain virtues—Charity/Love, Prudence, Wisdom, Humility, and several others—have checkmarks across all four pillars. This isn't arbitrary. These are **integrative virtues** that by their very nature require the harmonious exercise of truth, justice, mercy, and sacrifice together.
+
+For example, **Charity/Love** is the supreme virtue that encompasses all others. You cannot truly love without truth (knowing the beloved as they are), justice (giving them what's due), mercy (forgiving their faults), and sacrifice (giving yourself for their good). Love integrates all four pillars by its very nature.
+
+Similarly, **Prudence** (right reason in action) requires truth to see reality clearly, justice to discern what's owed, mercy to temper judgment with compassion, and sacrifice to choose the good even when costly. **Wisdom** sees how all things fit together in God's plan, requiring all four pillars to function properly.
+
+By contrast, virtues like **Chastity** primarily relate to truth (honoring the truth about sexuality), justice (giving God and others their due respect), and sacrifice (self-control), but don't directly involve mercy in the same way. This doesn't make chastity less important—it simply means its primary focus is on three of the four pillars rather than all four.
+
+The pattern reveals something profound: **The more comprehensive and integrative a virtue is, the more it engages all four pillars of perfect love.** This confirms that our definition truly captures the essence of authentic Christian virtue.
+
 ---
 
 ## All Vices: Primary Offense Against Truth, Justice, Mercy, and Sacrifice

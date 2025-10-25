@@ -50,7 +50,9 @@ Look at the Trinity: The Father eternally generates the Son. The Father and Son 
 
 Creation itself is an act of love's generativity. God didn't need to create. He wasn't lonely or incomplete. He created out of the overflow of His love—love that must give, must create, must multiply.
 
-"God blessed them, saying: 'Be fertile and multiply; fill the earth and subdue it'" (Genesis 1:28, NABRE). This isn't just about biological reproduction. It's about participating in God's own creative, life-giving love.
+**This is where we see the profound connection to Chapter 9's teaching on sacrifice:** Sacrifice doesn't end in death—it leads to life. The grain of wheat must fall to the ground and die to bear much fruit (John 12:24). Christ's sacrifice on the Cross didn't end in death but exploded into resurrection life. Every authentic sacrifice—every act of self-giving love—is inherently life-giving. This is why our definition says love is both "sacrificial" and "life-giving"—they're inseparable. Sacrifice is the path to life. Death to self leads to life for others. This is the pattern woven into creation itself.
+
+"God blessed them, saying: 'Be fertile and multiply; fill the earth and subdue it'" (Genesis 1:28, NABRE). This isn't just about biological reproduction. It's about participating in God's own creative, life-giving love—love that requires sacrifice (the dying of the grain) to produce life (the abundant harvest).
 
 ## Physical Fruitfulness: Marriage and Children
 

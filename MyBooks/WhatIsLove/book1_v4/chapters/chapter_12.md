@@ -48,7 +48,7 @@ This premise claims that without God, morality becomes subjective—a matter of 
 
 **Utilitarianism** tries to ground morality in "the greatest good for the greatest number." But who defines "good"? And why should we care about the greatest number? If you could save five people by killing one innocent person, should you do it? Utilitarianism says yes. Our moral intuition says no. Why? Because persons have inherent dignity that can't be violated even for good outcomes. *The end of this view:* The sacrifice of individuals for the collective, the justification of any atrocity if it produces good outcomes, and the reduction of persons to mere units in a calculation. Utilitarianism leads to forced organ harvesting (one person dies, five live), compulsory euthanasia of the disabled (they consume resources without contributing), and totalitarian control (the state decides what maximizes utility). It destroys the concept of individual rights and human dignity.
 
-Without God, every attempt to ground objective morality fails. We're left with preferences, conventions, evolutionary accidents, or arbitrary calculations—but no objective truth about right and wrong.
+Without God, every attempt to ground objective morality fails. We're left with preferences, conventions, evolutionary accidents, or arbitrary calculations—but no objective truth about right and wrong. As we explored in Chapter 3, this is precisely why the Enlightenment's attempt to build morality on human reason alone collapsed into these failed systems—each one rejecting God's authority and replacing it with human preference that inevitably serves self-interest or power.
 
 ### Premise 2: Objective Moral Values and Duties Do Exist
 

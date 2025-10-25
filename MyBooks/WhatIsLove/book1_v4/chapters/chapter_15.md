@@ -88,9 +88,9 @@ For each counterfeit, we'll use a diagnostic table showing which components are 
 | Life-giving | ✗ | ✓ |
 | Communion | Distorted⁴ | ✓ |
 
-¹Truth subordinated to class struggle  
-²Justice becomes vengeance, not restoration  
-³Sacrifice misdirected toward violent revolution  
+¹Truth subordinated to class struggle
+²Justice becomes vengeance, not restoration
+³Sacrifice misdirected toward violent revolution
 ⁴Communion through division and hatred of "oppressors"
 
 **What's Missing:** Marxism recognizes injustice but eliminates mercy (no forgiveness for enemies), distorts sacrifice (channeling it toward violence), and destroys communion (creating division through class hatred). It appeals to envy—the desire to seize what others have—rather than building authentic solidarity.
@@ -116,9 +116,9 @@ For each counterfeit, we'll use a diagnostic table showing which components are 
 | Life-giving | ✗ | ✓ |
 | Communion | ✗ | ✓ |
 
-¹Reality subordinated to feelings  
-²Justice replaced by power dynamics and victimhood  
-³Mercy becomes affirmation of sin  
+¹Reality subordinated to feelings
+²Justice replaced by power dynamics and victimhood
+³Mercy becomes affirmation of sin
 ⁴Demands others sacrifice truth to affirm lies
 
 **What's Missing:** Wokeism demands unconditional affirmation of every self-defined identity, making truth subordinate to feelings. It destroys justice (no objective standards), truth itself (reality denied), and authentic mercy (affirming sin rather than calling to conversion). Worse, it turns all virtue inward through victim mentality—claiming false virtue through grievance rather than genuine sacrifice for what is truly good.
@@ -144,9 +144,9 @@ For each counterfeit, we'll use a diagnostic table showing which components are 
 | Life-giving | ✗ | ✓ |
 | Communion | Distorted⁴ | ✓ |
 
-¹Rejects body as gift  
-²Affirms lie instead of calling to truth  
-³Children sacrifice fertility for adult ideology  
+¹Rejects body as gift
+²Affirms lie instead of calling to truth
+³Children sacrifice fertility for adult ideology
 ⁴Denies complementarity ordered to procreation
 
 **What's Missing:** Gender ideology denies the most fundamental biological reality—our sexed bodies—destroying truth, justice (children's right to intact bodies), and life-giving communion (sterilization eliminates future generations). It attacks the fundamental building block of society: the family founded on the complementary union of man and woman. Adults debate identity while children suffer confusion, are encouraged to reject their bodies, and undergo irreversible medical interventions before they can understand the permanent consequences.
@@ -172,8 +172,8 @@ For each counterfeit, we'll use a diagnostic table showing which components are 
 | Life-giving | Partial² | ✓ |
 | Communion | Partial³ | ✓ |
 
-¹Recognizes empirical truth but denies transcendent truth  
-²Recognizes biological life but denies eternal life  
+¹Recognizes empirical truth but denies transcendent truth
+²Recognizes biological life but denies eternal life
 ³Recognizes human relationships but denies ultimate communion
 
 **What's Missing:** Atheism eliminates the sacred source, leaving no foundation for objective morality, no transcendent basis for human dignity, no hope for eternal communion. It provides no answer for our deepest human longings for truth, justice, mercy, and sacrifice—leaving humanity with needs it cannot explain and longings it cannot fulfill.
@@ -251,7 +251,7 @@ For each counterfeit, we'll use a diagnostic table showing which components are 
 | Life-giving | ✗ | ✓ |
 | Communion | ✗ | ✓ |
 
-¹Kills instead of healing  
+¹Kills instead of healing
 ²Adult avoids cost by killing child
 
 **What's Missing:** Abortion denies the child's personhood and claims absolute autonomy over another person's body, destroying the sacred (killing the image-bearer), justice (denying the child's right to life), and life-giving communion (severing the parent-child bond through violence). The debate focuses on adult autonomy while ignoring the ultimate suffering inflicted on the child: death itself, the most profound injustice possible.
@@ -277,10 +277,10 @@ For each counterfeit, we'll use a diagnostic table showing which components are 
 | Life-giving | ✗ | ✓ |
 | Communion | Distorted⁵ | ✓ |
 
-¹Rejects complementary union  
-²Intentionally deprives child of mother or father  
-³Recognizes need for commitment but not ordered to truth  
-⁴May involve sacrifice but not ordered to life  
+¹Rejects complementary union
+²Intentionally deprives child of mother or father
+³Recognizes need for commitment but not ordered to truth
+⁴May involve sacrifice but not ordered to life
 ⁵Union not ordered to procreation
 
 **What's Missing:** Same-sex "marriage" claims love alone makes marriage regardless of sexual complementarity, destroying truth (denying bodily design), covenant (rejecting complementary union), and life-giving communion (sexual acts inherently closed to procreation cannot image God's creative love). Adults debate equality while children suffer being intentionally deprived of either mother or father, denied the complementary love and formation that only the union of man and woman provides, treated as commodities to fulfill adult desires rather than persons with inherent rights to their biological parents.
@@ -310,11 +310,11 @@ For each counterfeit, we'll use a diagnostic table showing which components are 
 | Life-giving | Distorted⁵ | ✓ |
 | Communion | Partial⁶ | ✓ |
 
-¹Covenant with God but separates faith from action  
-²Recognizes theological truth but separates from moral action  
-³No obligation to act justly  
-⁴Recognizes God's mercy but not call to merciful action  
-⁵Faith without works is dead  
+¹Covenant with God but separates faith from action
+²Recognizes theological truth but separates from moral action
+³No obligation to act justly
+⁴Recognizes God's mercy but not call to merciful action
+⁵Faith without works is dead
 ⁶Communion with God but not expressed through works
 
 **What's Missing:** "Faith alone" separates belief from action, destroying sacrifice (no costly obedience required), justice (no obligation to act rightly), and life-giving communion (faith without works is dead and bears no fruit). It appeals to the desire for salvation without the cost of transformation.
@@ -340,11 +340,11 @@ For each counterfeit, we'll use a diagnostic table showing which components are 
 | Life-giving | Partial⁶ | ✓ |
 | Communion | ✗ | ✓ |
 
-¹No binding Church authority  
-²Thousands of contradictory interpretations  
-³Recognizes justice but no authority to define it  
-⁴Recognizes mercy but no authority to mediate it  
-⁵Personal sacrifice but rejects ecclesial obedience  
+¹No binding Church authority
+²Thousands of contradictory interpretations
+³Recognizes justice but no authority to define it
+⁴Recognizes mercy but no authority to mediate it
+⁵Personal sacrifice but rejects ecclesial obedience
 ⁶Individual spiritual life but not ecclesial communion
 
 **What's Missing:** "Bible alone" makes each person their own authority to interpret Scripture privately, destroying truth (thousands of contradictory interpretations), covenant (no binding Church authority), and communion (endless division into competing denominations). Worse, this division provides terrible witness to the world, dividing Christ Himself and bolstering postmodernist claims that there is no objective truth, thereby supporting the relativism destroying modern society.
@@ -370,10 +370,10 @@ For each counterfeit, we'll use a diagnostic table showing which components are 
 | Life-giving | Distorted⁴ | ✓ |
 | Communion | Partial⁵ | ✓ |
 
-¹No perseverance required  
-²Recognizes salvation but denies ongoing accountability  
-³Presumption replaces perseverance  
-⁴No ongoing transformation  
+¹No perseverance required
+²Recognizes salvation but denies ongoing accountability
+³Presumption replaces perseverance
+⁴No ongoing transformation
 ⁵Initial communion but no ongoing growth
 
 **What's Missing:** "Once saved, always saved" presumes eternal security regardless of sin, destroying sacrifice (no ongoing cost of discipleship), covenant (no perseverance required), and transformation (no need for continued conversion). Worse, it destroys the very notion of salvation itself: Christ came to free us from the slavery of sin, but ignoring sin means we remain enslaved, making salvation meaningless.
@@ -390,11 +390,15 @@ For each counterfeit, we'll use a diagnostic table showing which components are 
 Every counterfeit is identifiable by what it's missing. Partial love isn't love at all—it's a distortion that causes harm. Only God's Perfect Love has all nine components working together, which is why only it can answer the problem of evil completely.
 </div>
 
-Twenty-three counterfeits examined. The pattern is unmistakable:
+After examining twenty-three counterfeits across three categories, a clear pattern emerges:
 
-- **Ideological counterfeits** eliminate the sacred, truth, or justice—leaving no foundation for objective morality
-- **Relationship counterfeits** destroy covenant, sacrifice, or life-giving communion—fragmenting families and isolating persons
-- **Religious counterfeits** separate components that must work together—creating incomplete Christianity that cannot be lived or transmitted
+**Every counterfeit eliminates or distorts at least one essential component** of God's Perfect Love. Some remove truth (relativism, sentimentalism). Others eliminate justice (cheap grace, enabling). Still others reject sacrifice (self-fulfillment ideologies). But the result is always the same: **incomplete love creates the very evils it claims to solve.**
+
+**The ideological counterfeits** (liberalism, marxism, wokeism, etc.) systematically eliminate God as the source, reducing love to human preference or political power. Without the sacred foundation, they collapse into tyranny or chaos.
+
+**The relational counterfeits** (cohabitation, polyamory, hookup culture, etc.) destroy covenant, treating relationships as temporary contracts based on feelings rather than permanent commitments based on truth. Without covenant, they produce loneliness, betrayal, and broken families.
+
+**The religious counterfeits** (faith alone, works alone, cheap grace, etc.) fragment what God has joined—separating faith from works, grace from transformation, mercy from truth. Without integration, they produce either legalism or license, but never authentic holiness.
 
 Each counterfeit promises something good: liberation, compassion, equality, security. But because each is missing essential components, each delivers the opposite: slavery to sin, harm to the vulnerable, division, insecurity. **Incomplete love cannot answer the problem of evil because incomplete love IS evil**—the privation of the good that should be present.
 
