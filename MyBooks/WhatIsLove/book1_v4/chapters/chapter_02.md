@@ -106,13 +106,17 @@ Through careful study of Scripture and the Church's teaching on love, we can see
 <strong>God's Perfect Love is the sacred gift of covenant which binds truth, justice, mercy, and sacrifice into life-giving communion.</strong>
 </div>
 
-Let's understand what "perfect" means here. Perfect doesn't mean flawless performance or earning God's love through our efforts. Rather, perfect means *complete* and *integrated*—love that includes all its essential facets working in harmony. Jesus calls us to this perfection: "Be perfect, therefore, as your heavenly Father is perfect" (Matthew 5:48, NABRE). This is possible not through human effort alone, but through grace that teaches and transforms us.
+**Let's be clear about what "perfect" means here—this is crucial.** Perfect doesn't mean flawless performance or earning God's love through our efforts. You don't need to be sinless to love authentically. Rather, perfect means *complete* and *integrated*—love that includes all its essential facets working in harmony, even when we struggle and fail.
+
+Jesus calls us to this perfection: "Be perfect, therefore, as your heavenly Father is perfect" (Matthew 5:48, NABRE). He's not demanding impossible performance. He's inviting us into complete love—love that integrates truth, justice, mercy, and sacrifice rather than choosing only the comfortable parts. This is possible not through human effort alone, but through His perfect love (grace) that teaches and transforms us, meeting us where we are and gradually conforming us to be like Christ.
+
+**This is what it means to be a saint.** A saint is someone who submits their whole life—body, mind, and soul—to living this complete, integrated love. They're not people who never sin or struggle, but people who allow God's grace to transform them into living witnesses of His Perfect Love. This call to sainthood isn't reserved for a spiritual elite—it's the universal Christian vocation. Every baptized person is called to become a saint by allowing God's Perfect Love to permeate every dimension of their "being" - body, mind, and soul.
 
 Every word matters:
 
 **Sacred:** God is Love (1 John 4:8, NABRE). Love participates in the divine nature and reflects God's own love. Because every human person is created in God's image, love is never merely human emotion but a participation in the very life of God. When we love another person, we're honoring the divine image within them and expressing our own divine calling.
 
-**Sacrificial:** Love is ordered toward the true, just, and merciful good of the other. It's not mere sentiment but proven through action that puts another's wellbeing before our own preferences. As Jesus taught, "No one has greater love than this, to lay down one's life for one's friends" (John 15:13, NABRE).
+**Sacrifice:** Love is ordered toward the true, just, and merciful good of the other. It's not mere sentiment but proven through action that puts another's wellbeing before our own preferences. As Jesus taught, "No one has greater love than this, to lay down one's life for one's friends" (John 15:13, NABRE).
 
 **Gift:** Love is freely given, not earned or demanded. It cannot be bought, manipulated, or coerced. Love that must be earned isn't love at all—it's a transaction.
 
@@ -131,6 +135,39 @@ Every word matters:
 **Communion:** Love builds authentic community (koinonia), overcoming isolation and creating genuine human solidarity. This is the ultimate goal—union with God and neighbor.
 
 When all these elements are present together, love becomes perfect—capable of conquering all forms of evil and creating authentic communion between persons.
+
+### How the Facets Relate: A Visual Understanding
+
+The facets of God's Perfect Love don't exist in isolation—they form an integrated whole where each element supports and strengthens the others.
+
+```
+              SACRED GIFT OF COVENANT
+                        |
+                        |
+              +---------+---------+
+              |                   |
+           TRUTH                JUSTICE
+              |                   |
+              |      BINDING      |
+              |                   |
+              |                   |
+           MERCY              SACRIFICE
+              |                   |
+              +---------+---------+
+                        |
+                        |
+              LIFE-GIVING COMMUNION
+```
+
+**How to Read This:**
+- **Top:** Sacred Gift of Covenant—the source and structure of love
+- **Four Pillars:** Truth, Justice, Mercy, Sacrifice form the essential framework
+- **Center:** Binding holds all four pillars together in harmony
+- **Bottom:** Life-giving Communion—the fruit and goal of perfect love
+
+---
+
+**The Key Insight:** Remove any single element, and love becomes incomplete—vulnerable to distortion and unable to fully combat evil. But when all facets work together, love becomes perfect: capable of conquering all forms of evil and creating authentic communion.
 
 ## The Perfect Love Made Flesh
 

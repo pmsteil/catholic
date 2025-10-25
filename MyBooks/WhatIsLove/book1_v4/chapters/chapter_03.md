@@ -70,32 +70,24 @@ This is why Scripture's declaration "God is love" isn't just poetic language or 
 
 But wait—couldn't we just develop our own authoritative morality based on what we think is true, just, and merciful? Couldn't humanity collectively decide what love means and build our ethics from there?
 
-This is precisely what the liberalism experiment has attempted for the past few centuries. Enlightenment thinkers believed that human reason alone, freed from the authority of the Church and religious "superstition," could construct a universal morality based on rational principles. We would use reason to discover what's true, just, and merciful, then build society on that foundation—without needing God or His Church to tell us what these things mean.
-
-The experiment has failed. And the failure reveals why love must depend on God. Here's why:
+This is precisely what the Enlightenment experiment attempted. Human reason alone, freed from religious "superstition," would construct universal morality. The experiment has failed catastrophically, revealing why love must depend on God's true authority.
 
 **The Problem of Competing Claims:**
 
-If humans are the source of morality, whose humans? Which culture? Which era? What happens when sincere, thoughtful people disagree about what's "truly" just or merciful?
+If humans are the source of morality, whose humans decide? Ancient Sparta thought exposing weak infants was "just." Modern progressives think aborting them is "just." Slave-owners thought slavery was "just and merciful." Abolitionists disagreed. Without a transcendent standard, morality becomes a power struggle. **Without God as the source, "truth, justice, and mercy" become whatever the powerful say they are.**
 
-- Ancient Sparta thought it was "just" to expose weak infants to die. Modern progressives think it's "just" to abort them. Who's right?
-- Some cultures think it's "merciful" to practice euthanasia. Others think it's "murder." Who decides?
-- Slave-owning societies thought their system was "just" and even "merciful." Abolitionists disagreed. Without a transcendent standard, this becomes mere power struggle.
+**The Problem of Force:**
 
-**Without God as the source, "truth, justice, and mercy" become whatever the powerful say they are.** There's no way to adjudicate between competing human claims except through force, consensus, or cultural conditioning—none of which establish objective truth.
-
-**And here's the critical insight: When humans claim to be the "author" of justice without being its true Author, they must enforce their version through governmental violence.** They have no moral authority—only political power. Since people won't voluntarily submit to a morality that lacks transcendent grounding, it must be imposed by force.
-
-This is why every atheistic political system—socialism, communism, fascism—has ended in mass murder. When the state claims authority to define truth, justice, and mercy without God, it must silence dissent violently. Those who refuse to comply with the state's invented morality become enemies to be eliminated.
+When humans claim to author justice without being its true Author, they must enforce their version through violence. They have no moral authority—only political power. This is why every atheistic political system has ended in mass murder:
 
 - Soviet communism: 20+ million dead
 - Chinese communism: 45+ million dead
 - Nazi fascism: 11+ million dead
 - Cambodian communism: 2+ million dead
 
-**These aren't accidents or aberrations—they're the logical outcome of rejecting God's authority.** When humans try to author justice without being its Author, they can only enforce their claims through terror. The gulags, the concentration camps, the killing fields—these are what happen when morality is grounded in human power rather than divine truth.
+**These aren't accidents—they're the logical outcome of rejecting God's authority.** When morality is grounded in human power rather than divine truth, it must be imposed through terror. The gulags and killing fields are what happen when humans try to author justice without depending on God's true authority.
 
-By contrast, authentic Christian movements call people to freely submit to God's eternal laws of love. True authority invites voluntary obedience because it flows from the Author of justice Himself. We don't need to force people to recognize what's truly just—we need only to reveal it, and human hearts, made in God's image, will recognize it as true.
+By contrast, authentic Christian movements invite people to freely recognize truth. Human hearts, made in God's image, respond with joy when they encounter what's genuinely good for them.
 
 **The Problem of Self-Interest:**
 
@@ -105,12 +97,10 @@ The regimes that murdered millions genuinely believed they were creating a bette
 
 Today we see the same pattern in supposedly enlightened Western democracies. We redefine the very terms we claim to base morality on:
 
-- We redefine **"truth"** as "my truth" or "your truth"—whatever aligns with individual identity or feelings
-- We redefine **"justice"** as equal outcomes rather than giving each person their due according to their nature and dignity
-- We redefine **"mercy"** to include killing the unborn (abortion) and the elderly (euthanasia) to end their "suffering"
-- We redefine "compassion" as affirming whatever people claim about themselves, even biological impossibilities
-- We redefine "freedom" as autonomy from all constraints, including reality itself
-- We redefine "love" as whatever makes us feel good in the moment
+- **"Truth"** becomes "my truth"—whatever aligns with feelings
+- **"Justice"** becomes equal outcomes rather than giving each their due
+- **"Mercy"** includes killing the unborn and elderly to end "suffering"
+- **"Love"** becomes whatever makes us feel good in the moment
 
 **Each redefinition serves our desire for autonomy, comfort, or sexual freedom.** We claim to be pursuing truth, justice, and mercy, but we're actually redefining these terms to mean whatever benefits us. Without God's objective standard, there's no way to distinguish genuine justice from sophisticated self-interest.
 
@@ -118,9 +108,9 @@ Today we see the same pattern in supposedly enlightened Western democracies. We 
 
 **They're not cynical or evil. They're deceived.** They've been handed counterfeit definitions of truth, justice, and mercy, and told these are the real thing. Without God's objective standard, they have no way to recognize the deception. They fight passionately for lies, thinking they're defending human rights.
 
-**The Problem of Moral Authority:**
+**The Problem of Human Moral Authority:**
 
-Here's the deeper issue: If we create morality, it has no authority over us. We can uncreate it whenever convenient.
+Here's the deeper issue: If some group of humans create morality, it has no true authority over us. Another group can uncreate it whenever convenient.
 
 Think about it practically:
 - If society defines marriage, society can redefine it—and has, repeatedly
@@ -133,13 +123,7 @@ This is why the sexual revolution, gender ideology, and abortion advocacy are lo
 
 **The Problem of Circular Reasoning:**
 
-Most fatally, human-created morality is circular. We claim to base it on "truth, justice, and mercy"—but who defines those terms?
-
-- If we define "truth" as what serves human flourishing, we must first define "flourishing"—which requires knowing what's truly good for humans
-- If we define "justice" as giving each person their due, we must first know what's due to each person—which requires knowing human dignity and rights
-- If we define "mercy" as compassion for suffering, we must first know what constitutes genuine compassion vs. enabling harm
-
-**Every attempt to ground morality in human reason alone ends up assuming the very things it's trying to prove.** We can't define truth, justice, and mercy without already knowing what they are—and we can't know what they are without a source beyond ourselves.
+Most fatally, human-created morality is circular. We claim to base it on "truth, justice, and mercy"—but who defines those terms? We can't define truth, justice, and mercy without already knowing what they are—and we can't know what they are without a source beyond ourselves.
 
 **The Only Solution: God as the Source**
 
@@ -151,17 +135,37 @@ This is why love must depend on God. Not because God is a cosmic dictator imposi
 
 3. **God's nature is accessible.** Through natural law (written on our hearts), Scripture, and the Church's teaching authority, we can know what authentic love requires. We're not left guessing.
 
-4. **God's nature is authoritative.** When we violate truth, justice, or mercy, we're not just breaking human rules—we're acting against reality itself, against the very structure of existence.
+4. **God's nature is liberating.** When we align with truth, justice, and mercy, we're not submitting to arbitrary restrictions—we're embracing the reality that sets us free from slavery to our disordered desires.
 
 When we discover what's truly just or merciful, we're not inventing morality—we're discovering God's nature. We are "receiving" His Truth. When we align with truth, justice, and mercy, we're not following human conventions—we're participating in divine life.
 
 <div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
-Humans can't create authoritative morality because we can't create truth, justice, or mercy—we can only recognize and participate in them. These realities exist because God exists, and God IS love. Remove God as the source, and "morality" becomes mere human preference enforced by power.
+Humans can't create authoritative morality because we can't create truth, justice, or mercy—we can only receive, recognize and participate in them. These realities exist because God exists as the Authoritative Source of being and God IS love. Remove God as the source, and "morality" becomes mere human preference enforced by power.
 </div>
+
+**True Authority and True Freedom**
+
+Here's the paradox that our culture refuses to understand: **True authority is not imposed on us from above—it's something we freely submit to because we recognize it leads to our genuine good.**
+
+Think about it practically. When a loving parent tells a toddler not to touch the hot stove, is that authority being "imposed" on the child? Or is the parent revealing a truth about reality that, if the child submits to it, will protect the child from harm? The parent's authority flows from genuine knowledge of what's good for the child and genuine desire for the child's wellbeing.
+
+God's authority works the same way—but infinitely more so. God doesn't impose arbitrary rules from on high. God reveals the truth about reality, about human nature, about what genuinely leads to our flourishing. When we voluntarily submit to God's authority—whether directly through Scripture and Church teaching, or indirectly through legitimate human authorities (parents, Church, just laws)—we're not surrendering our freedom. We're embracing the only path to true freedom.
+
+**The slavery we need liberation from isn't God's "rules"—it's our own disordered desires.** When we chase pleasure without commitment, power without responsibility, autonomy without truth, we think we're being free. But we're actually enslaving ourselves to partial goods that can never satisfy our deepest longings. We become addicted to lesser pleasures, trapped in cycles of sin, imprisoned by our own choices.
+
+True freedom means being liberated from this slavery so we can pursue the Supreme Good—God Himself, who is perfect love. And this liberation only comes through voluntary submission to the truth about reality, to the justice that gives each being its due, to the mercy that heals our brokenness.
+
+**This is why authentic Christian movements throughout history have never needed to impose their morality through force.** They invite people to freely recognize the truth, and human hearts—made in God's image—respond with joy when they encounter what's genuinely good for them. The saints didn't terrorize people into holiness; they revealed the beauty of truth, and people voluntarily submitted because they recognized it as liberating.
+
+By contrast, every regime that tries to create its own morality must impose it through violence, because human hearts instinctively resist what contradicts our nature. The gulags and concentration camps aren't accidents—they're what happens when authority tries to impose lies rather than reveal truth.
+
+True authority liberates. False authority enslaves. And the difference is this: **True authority wants what's genuinely good for us and invites our free submission. False authority wants what's good for those in power and demands our forced compliance.**
 
 ## The Trinity: Love's Eternal Pattern
 
-But how can God be love if love requires relationship? How can a solitary being be love itself?
+But this raises a profound question: If God's authority flows from His nature, and God's nature IS love, what does this tell us about the very being of God? How can God be love if love requires relationship? How can a solitary being be love itself?
+
+This is where we discover something astonishing: God is not a solitary being at all.
 
 This is where the doctrine of the Trinity becomes not just theological abstraction but the key to understanding everything. God is not a solitary monad but an eternal communion of three Persons—Father, Son, and Holy Spirit—in perfect, self-giving love.
 
@@ -197,17 +201,11 @@ Consider what this means practically:
 
 ## Why Atheism Cannot Ground Love
 
-This is why atheistic attempts to ground love always fail. They can describe love's mechanisms but never its meaning. They can explain its evolutionary advantages but never its moral authority. They can map its neurological patterns but never its sacred character.
+Atheistic attempts to ground love always fail. They can describe love's mechanisms but never its meaning, its evolutionary advantages but never its moral authority, its neurological patterns but never its sacred character.
 
-**Evolutionary Psychology** reduces love to survival mechanism. But if love is just a trick our genes play to ensure reproduction, why should we honor it when it conflicts with our immediate interests? Why is betraying love wrong rather than just evolutionarily disadvantageous?
+**Evolutionary psychology** reduces love to a survival mechanism—a trick our genes play to ensure reproduction. But then why honor it when it conflicts with our interests? **Utilitarianism** makes love a calculation of pleasure and pain, meaning a love that causes suffering (like caring for a severely disabled child) becomes irrational. **Romantic sentimentalism** reduces love to feelings, making "I don't love you anymore" a complete justification for abandoning commitments and devastating children.
 
-**Utilitarianism** makes love a calculation of pleasure and pain. But this means love has no intrinsic value—it's only valuable if it produces the right outcomes. A love that causes suffering (like caring for a severely disabled child) becomes irrational, even immoral.
-
-**Social Constructivism** claims love is whatever society says it is. But this means love has no objective content—it's just a word we use for culturally approved relationships. There's no basis for critiquing a society that defines love as domination or exploitation.
-
-**Romantic Sentimentalism** reduces love to feelings. But feelings change. If love is just emotion, then "I don't love you anymore" is a complete justification for abandoning commitments, breaking families, and devastating children.
-
-None of these can explain why love feels sacred—why betraying it feels like violating something eternal and absolute, not just breaking a convention or making a poor calculation.
+None of these can explain why love feels sacred—why betraying it feels like violating something eternal and absolute, not just breaking a convention.
 
 <div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
 Atheism can describe love's mechanisms but never ground its meaning. Only if love originates from God—only if God IS love—does love have the sacred, absolute, eternal character we all instinctively recognize.
@@ -215,17 +213,15 @@ Atheism can describe love's mechanisms but never ground its meaning. Only if lov
 
 ## The Desecration of Love
 
-When we deny love's sacred origin, we inevitably desecrate it. Look at what happens when love is stripped of its divine source:
+When we deny love's sacred origin, we inevitably desecrate it. Without its divine source:
 
-**Love becomes a commodity.** Dating apps reduce people to profiles to swipe. Pornography turns bodies into products for consumption. Surrogacy treats children as goods to purchase. When love isn't sacred, persons become things.
+**Love becomes a commodity.** Dating apps reduce people to profiles. Pornography turns bodies into products. Surrogacy treats children as goods to purchase. When love isn't sacred, persons become things.
 
-**Love becomes arbitrary.** If there's no divine pattern for love, then any arrangement is equally valid. Polygamy, polyamory, temporary contracts, purely transactional relationships—who's to say what love should look like? Without the sacred, we have no standard.
+**Love becomes arbitrary.** Without a divine pattern, any arrangement is equally valid—polygamy, polyamory, temporary contracts. Without the sacred, we have no standard.
 
-**Love becomes oppressive.** Ironically, when we remove God as love's source, we make ourselves the source. Then love becomes whatever the powerful say it is. The state defines marriage. The culture defines family. The individual defines gender. Without the sacred, might makes right.
+**Love becomes impossible.** If love is just neurons firing or social conditioning, why fight for it when it's costly? When love loses its sacred character, it loses its power to command our loyalty.
 
-**Love becomes impossible.** If love is just neurons firing, why fight for it? If it's just social conditioning, why not condition ourselves differently? If it's just evolutionary programming, why not reprogram? When love loses its sacred character, it loses its power to command our loyalty when it's costly.
-
-This is the evil that desecration creates: a world where love is reduced to preference, relationship to transaction, persons to objects, and commitment to convenience. We see it everywhere—in the loneliness epidemic, the breakdown of families, the commodification of sexuality, the confusion about identity.
+This desecration creates a world where love is reduced to preference, relationship to transaction, persons to objects, and commitment to convenience—visible everywhere in the loneliness epidemic, broken families, commodified sexuality, and confusion about identity.
 
 ## How the Sacred Nature of Love Combats Evil
 
@@ -254,6 +250,24 @@ This is why Catholics have always insisted that love is sacred, that sexuality i
 <div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
 The Catholic Church doesn't just teach about love—she provides the sacramental means to encounter Love Himself. Through the Mass and sacraments, we don't just learn about God's love; we receive it, participate in it, and are transformed by it.
 </div>
+
+## Summary: Why Love Must Come from God
+
+Let's bring this all together. We've seen why love cannot be grounded in anything less than God Himself:
+
+**Love requires a personal source.** It's not a chemical reaction, evolutionary adaptation, or social construct. Love involves knowing, willing, and self-giving—realities that can only flow from a personal God who IS love.
+
+**Humans cannot create authoritative morality.** Every attempt to ground love in human reason alone fails through competing claims, self-interest, circular reasoning, and the need to impose morality through force. Without God as the source, "truth, justice, and mercy" become whatever the powerful say they are.
+
+**True authority invites free submission.** God doesn't impose arbitrary rules from on high. He reveals the truth about reality that, when we freely submit to it, liberates us from slavery to our disordered desires. This is why authentic Christian movements have never needed terror—they invite people to recognize what's genuinely good for them.
+
+**The Trinity reveals love's eternal pattern.** God is not a solitary being but an eternal communion of three Persons in perfect self-giving love. When we love authentically, we're not just being nice—we're participating in the very life of the Trinity.
+
+**Love is sacred because it participates in God's nature.** Every act of authentic love—a mother comforting her child, a husband remaining faithful, someone forgiving an enemy—participates in the eternal exchange of love between Father, Son, and Holy Spirit.
+
+**Without God, love becomes desecrated.** Strip love of its divine source and it becomes a commodity, arbitrary preference, or impossible ideal. Only if God IS love does love have the sacred, absolute, eternal character we all instinctively recognize.
+
+This is why our definition begins with **Sacred**. Love isn't something we invented or can reshape at will. Love is sacred because it originates from God, participates in divine nature, and invites us into the eternal communion of the Trinity.
 
 ## The Bridge to Covenant
 

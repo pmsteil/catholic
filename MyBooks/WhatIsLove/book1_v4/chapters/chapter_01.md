@@ -96,6 +96,8 @@ Sin is choosing a perceived good for ourselves at the expense of others. Love is
 
 Note the distinction: "the good" versus "a perceived good." True love always chooses what is truly good for the other. Sin chooses what we perceive to be good for ourselves, but it's usually a distorted or false understanding that violates the definition of love in some way—lacking truth, justice, mercy, or sacrifice.
 
+For example: A parent who gives their teenager unlimited screen time and no boundaries might perceive this as "loving"—after all, it avoids conflict and makes the child happy in the moment. But the true good requires discipline, formation, and sometimes saying no. The perceived good (peace and happiness now) conflicts with the true good (a mature, virtuous adult). True love chooses the harder path that serves the child's actual flourishing. True love decides based on what is true, just and merciful instead of purely merciful (in this example).
+
 This is why sin inevitably produces evil—it creates harm by prioritizing self over others—while love produces healing by choosing sacrifice for others' benefit.
 
 Look at the wreckage:
@@ -187,7 +189,7 @@ This comprehensive understanding reveals the depth of our human predicament. We 
 
 Where could such a perfect solution possibly come from? How could all these impossible requirements be met in one source? Who or what could be simultaneously divine enough to heal our wounded nature and human enough to understand our struggles?
 
-The answer to these questions will determine whether humanity remains trapped in cycles of evil or finds the path to authentic love and freedom. What we need seems impossible—but as we'll discover, with God all things are possible.
+The answer to these questions will determine whether humanity remains trapped in cycles of evil or finds the path to authentic love and freedom. What we need seems impossible—but as we'll discover in upcoming chapters, with God all things are possible.
 
 ---
 

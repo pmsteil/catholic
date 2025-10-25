@@ -5,6 +5,8 @@
 
 \hfill\small — John 15:13, NABRE
 
+</div>
+
 <div class="blockquote">
 "Have among yourselves the same attitude that is also yours in Christ Jesus, Who, though he was in the form of God, did not regard equality with God something to be grasped. Rather, he emptied himself, taking the form of a slave, coming in human likeness; and found human in appearance, he humbled himself, becoming obedient to death, even death on a cross."
 

@@ -197,6 +197,18 @@ This is what we're made for. This is where love leads. This is the goal of every
 
 "What we shall be has not yet been revealed. We do know that when it is revealed we shall be like him, for we shall see him as he is" (1 John 3:2, NABRE).
 
+## The Call to Sainthood
+
+**What is a saint?** A saint is someone who submits their whole life—body, mind, and soul—to living God's Perfect Love. They integrate truth, justice, mercy, and sacrifice in every dimension of their existence, allowing Christ to transform them into living witnesses of authentic love.
+
+Saints aren't people who never struggle or sin. They're people who keep getting back up, who keep submitting to God's transforming grace, who keep choosing love even when it costs them everything. They're ordinary people who allow God to do extraordinary things through them.
+
+This call to sainthood isn't reserved for a spiritual elite. It's the universal Christian vocation. Every baptized person is called to become a saint—to live the complete, integrated love we've explored in these eleven chapters. The world desperately needs saints. The next generation needs saints. Your family needs you to be a saint. Your children need you to be a saint.
+
+And here's the beautiful truth: The perfect love of the Holy Trinity is the sacramental grace that transforms us into saints. The Church teaches us how to live this love. The sacraments provide the power. The communion of saints provides the support. Everything you need to become a saint united to Christ and His Church has been given to you.
+
+The only question is: Will you submit your whole life to living God's Perfect Love?
+
 ## The Journey Continues
 
 We've now unpacked the complete definition: God's Perfect Love is the sacred gift of covenant which binds truth, justice, mercy, and sacrifice into life-giving communion.

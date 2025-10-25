@@ -122,7 +122,7 @@ This is why Scripture calls the Church "the pillar and foundation of truth" (1 T
 
 **The Church's Authority Comes from the Author:** Just as God's authority comes from being the Author of love—the one who designed how love works—the Church's authority comes from God, the source of God's Word. The Church is not an institution that creates truth and forces it down on people. Rather, she receives His truth, safeguards it, defends it, and teaches it—so that people can willingly and voluntarily submit to His truth, His whole truth, in His whole Church.
 
-"True authority" is not forced down from on high, but only exists when we submit our will and intellect to Christ, who IS truth. No government or any person has "true" authority unless we submit to them.  Any government then that tries to force its authority on its people does not have nor understand true authority.  Authority, like love is a gift from God, that we enter into willingly, not at the threat of violence.
+"True authority" is not forced down from on high, but only exists when we submit our will and intellect to Christ, who IS truth. No government or any person has "true" authority unless we submit to it.  Any government that tries to force its authority on its people does not have nor understand true authority.  Authority, like love is a gift from God, that we enter into willingly, not at the threat of violence.
 
 ## How Truth Combats Evil
 
