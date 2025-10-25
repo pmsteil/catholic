@@ -159,7 +159,7 @@ The Eucharist is the supreme example of love's binding power:
 
 **It binds truth, justice, and mercy:** The truth of our sin, the justice of Christ's sacrifice, the mercy of forgiveness—all integrated in one saving act.
 
-This is why Catholics call it "Holy Communion." It's not just receiving Christ—it's being bound into communion with Him and with each other through Him.
+This is why Catholics call it "Holy Communion." It's not just receiving Christ—it's being bound into communion with Him and with each other through Him. This binding in the Eucharist prepares us for the ultimate unity—the eternal communion with God and all the saints that is our final destiny (as we'll explore more fully in Chapter 11).
 
 ## The Bridge to Truth
 

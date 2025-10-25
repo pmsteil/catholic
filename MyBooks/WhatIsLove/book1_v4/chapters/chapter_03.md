@@ -133,7 +133,7 @@ This is why love must depend on God. Not because God is a cosmic dictator imposi
 
 2. **God's nature is unchanging.** Unlike human opinion or cultural consensus, God's nature doesn't shift with the times. What was true, just, and merciful in the first century remains so in the twenty-first.
 
-3. **God's nature is accessible.** Through natural law (written on our hearts), Scripture, and the Church's teaching authority, we can know what authentic love requires. We're not left guessing.
+3. **God's nature is accessible.** Through natural law (written on our hearts), Scripture, and the Church's teaching authority, we can know what authentic love requires. We're not left guessing. This is why the Enlightenment's attempt to build morality on human reason alone failed—it rejected the natural law written on our hearts by God, replacing divine wisdom with human opinion that inevitably serves self-interest.
 
 4. **God's nature is liberating.** When we align with truth, justice, and mercy, we're not submitting to arbitrary restrictions—we're embracing the reality that sets us free from slavery to our disordered desires.
 

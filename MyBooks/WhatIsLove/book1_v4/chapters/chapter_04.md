@@ -88,13 +88,13 @@ But covenant requires authority. Not the authority of coercion or control. The a
 God's "authority" comes from being the Author of Love—the one who designed how love works. His "laws" aren't arbitrary commands but the blueprint for authentic love. Authority is only truly active when we freely submit our will to His design.
 </div>
 
-Think about it this way: A piano has 88 keys arranged in a specific pattern. That's not arbitrary—it's the design that makes beautiful music possible. You're "free" to pound randomly on the keys. But you'll only make noise, not music. True freedom comes from submitting to the piano's design, learning the patterns, practicing the scales.
+Think about it this way: A piano has 88 keys arranged in a specific pattern. That's not arbitrary—it's the design that makes beautiful music possible. You're "free" to pound randomly on the keys. But you'll only make noise, not music. True freedom comes from submitting to the piano's design, learning the patterns, practicing the scales. The piano's structure isn't a restriction—it's what makes Mozart possible.
 
-Similarly, God's "laws" about love aren't restrictions on our freedom. They're the design that makes beautiful love possible. We're "free" to ignore them. But we'll only create chaos, not communion.
+Similarly, God's "laws" about love aren't restrictions on our freedom. They're the design that makes beautiful love possible. We're "free" to ignore them—just as we're "free" to pound randomly on piano keys. But we'll only create chaos, not communion. The covenant structure of love isn't a burden—it's what makes authentic love possible.
 
 **This is what "voluntary authority" means:** We freely choose to submit to the Author's design because we recognize it as true, good, and beautiful. Not because we're forced. Not because we're afraid. But because we see that His way actually works.
 
-Any government or person that forces authority on people doesn't understand true authority. True authority is recognized and accepted, not imposed. It's the authority of truth, not the authority of power.
+Any government or person that forces authority on people doesn't understand true authority. As we saw in Chapter 3, when humans try to author morality without God, they must impose it through violence—the gulags and killing fields are what happens when authority tries to impose lies rather than reveal truth. True authority is recognized and accepted, not imposed. It's the authority of truth that liberates, not the authority of power that enslaves.
 
 ## Marriage: The Paradigm of Human Covenant
 
