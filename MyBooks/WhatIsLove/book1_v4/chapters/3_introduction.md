@@ -192,47 +192,23 @@ We'll journey together through these chapters:
 
 **Appendix: Non-Christian Belief Systems and Contemporary Ideologies** - Comprehensive matrix showing how various worldviews relate to truth, justice, mercy, and sacrifice.
 
-## What This Book Will Give You
+## This Book Could Have Been Called...
 
-If you desire any of these goods—and who doesn't?—this book will demonstrate how understanding God's Perfect Love is the only way to truly obtain them:
+Each of these titles captures a vital dimension of what you'll discover:
 
-**You want justice for the poor?** Authentic love provides it without class warfare or hatred.
+- **God IS Love** - Because this isn't just what God does—it's who God is
+- **The Answer to Evil** - Because perfect love is the only complete solution to the problem that plagues our world
+- **The Sacred Gift of Covenant** - Because love is God's permanent, binding relationship offered freely to us
+- **Love requires Truth, Justice, Mercy, and Sacrifice** - Because these four pillars must integrate or love becomes counterfeit
+- **Why the Eucharist is the Source and Summit of the Christian Faith** - Because authentic love creates, multiplies, and builds genuine community
+- **Faith Working Through Love** - Because every virtue flows from love's four pillars, refuting "faith alone"
+- **A more Perfect Moral Argument** - Because this definition proves God's existence while avoiding Divine Command Theory
+- **Exposing Counterfeit Love** - Because 23 modern distortions are destroying souls, families, and civilization
+- **For the Love of Children** - Because the ultimate test of any "love" is what it does to the next generation
+- **The Gospel Incarnate** - Because Jesus Christ perfectly embodies every facet of this definition
+- **Why "Faith Alone" is incomplete** - Because every virtue including faith flows from love's four pillars, faith is never alone
 
-**You want compassion and belonging?** It creates genuine community without affirming lies.
-
-**You want true identity and peace?** It reveals who God created you to be.
-
-**You want freedom and flourishing?** It liberates through truth, not government coercion.
-
-**You want security and commitment?** It creates covenant bonds that last.
-
-**You want intimacy and connection?** It gives yourself completely, not just temporarily.
-
-**You want fruitful love?** It's open to life, not sterile and self-focused.
-
-**You want lasting love?** It endures "for better or worse, till death do us part."
-
-**You want family stability?** It puts children's needs before parents' desires.
-
-**You want life and meaning?** It protects innocent life and gives purpose to suffering.
-
-**You want transforming faith?** It works through concrete actions, not just beliefs.
-
-**You want authoritative truth?** It submits to Christ's Church, not personal interpretation.
-
-**You want authentic community?** It creates visible unity in Christ's Body.
-
-**You want victory over evil?** It conquers through sacrifice on the Cross.
-
-**You want true compassion?** It speaks truth while showing mercy.
-
-**You want true happiness?** It follows God's design, not fickle feelings.
-
-**You want freedom in truth?** It liberates from slavery to sin and lies.
-
-**You want true fulfillment?** It finds itself by giving itself away.
-
-The counterfeits promise these goods but cannot deliver. Only God's Perfect Love—the sacred gift of covenant binding truth, justice, mercy, and sacrifice into life-giving communion—provides what your heart truly desires.
+But we settled on *What Is Love?* because that's the question burning in every human heart—the question our culture can no longer answer, the question this book will help you understand and live.
 
 ## How This Journey Transforms Us
 
@@ -246,4 +222,6 @@ This progression is carefully designed to:
 
 Each chapter builds on the previous ones, creating a complete theological framework for understanding how God's Perfect Love is the comprehensive Christian answer to the problem of evil—and the only path to obtaining the goods your heart truly seeks.
 
-I will be praying each day for you as you journey into the depth of God's love. Let us begin.
+I will be praying each day for you as you journey into the depth of God's love.
+
+Let us begin.
