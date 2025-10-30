@@ -429,6 +429,30 @@ def build_pdf(files: List[str], profile: Optional[str]) -> Path:
     cmd += [*processed]
     subprocess.run(cmd, check=True)
     
+    # Post-process text output to clean up LaTeX commands
+    if output_format == "plain" and active_profile == "audiotxt":
+        with open(output_file, "r", encoding="utf-8") as f:
+            content = f.read()
+        
+        # Remove LaTeX commands that shouldn't appear in plain text
+        # Remove \hfill\small — pattern (citation formatting)
+        content = re.sub(r'\\hfill\\small\s*—\s*', '— ', content)
+        # Remove standalone LaTeX commands
+        content = re.sub(r'\\(begin|end)\{blockquote\}', '', content)
+        content = re.sub(r'\\(begin|end)\{callout\}', '', content)
+        content = re.sub(r'\\mainmatter\s*', '', content)
+        content = re.sub(r'\\frontmatter\s*', '', content)
+        content = re.sub(r'\\thispagestyle\{[^}]+\}', '', content)
+        content = re.sub(r'\\appendix\s*', '', content)
+        # Remove other common LaTeX commands that might appear
+        content = re.sub(r'\\chapter\*?\{[^}]+\}', '', content)
+        content = re.sub(r'\\addcontentsline\{[^}]+\}\{[^}]+\}\{[^}]+\}', '', content)
+        # Clean up multiple blank lines
+        content = re.sub(r'\n\n\n+', '\n\n', content)
+        
+        with open(output_file, "w", encoding="utf-8") as f:
+            f.write(content)
+    
     # If we kept LaTeX, compile it now to PDF using tectonic and save both
     if latex_out is not None:
         # tectonic compiles to same basename .pdf in the cwd
