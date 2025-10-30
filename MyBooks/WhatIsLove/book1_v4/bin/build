@@ -434,6 +434,9 @@ def build_pdf(files: List[str], profile: Optional[str]) -> Path:
         with open(output_file, "r", encoding="utf-8") as f:
             content = f.read()
         
+        # Remove YAML frontmatter block at the beginning
+        content = re.sub(r'^---\n.*?\n---\n\n', '', content, flags=re.DOTALL)
+        
         # Remove LaTeX commands that shouldn't appear in plain text
         # Remove \hfill\small — pattern (citation formatting)
         content = re.sub(r'\\hfill\\small\s*—\s*', '— ', content)

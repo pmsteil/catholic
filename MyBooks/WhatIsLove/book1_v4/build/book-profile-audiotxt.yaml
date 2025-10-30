@@ -5,6 +5,7 @@ edition: Version 4 - Plain Text Audio Edition - October 2025
 lang: en-US
 # Plain text output - no special formatting needed
 chapters:
+  - 1_cover_audiotxt.md
   - 1_cover.md
   - 2_preface.md
   - 3_introduction.md
