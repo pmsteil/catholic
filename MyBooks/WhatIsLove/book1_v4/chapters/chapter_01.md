@@ -18,9 +18,9 @@
 
 Look around. What do you see?
 
-A young couple casually aborts their third child—not because of poverty or health crisis, but because "we're just not ready yet." Abortion has become contraception, marketed as "reproductive healthcare" while dismembering over 600,000 babies each year in America alone. Our government funds it. Our media celebrates it. Our culture calls it "empowerment."
+A young woman casually aborts her third child—not because of poverty or health crisis, but because she's "not ready yet." Abortion has become contraception, marketed as "reproductive healthcare" while ending the life of over an estimated 600,000 to 900,000 innocent babies each year in America alone. Our government funds it. Our politicians defend it as a "human right." Our media celebrates it. Our culture calls it "empowerment."
 
-A thirteen-year-old girl is told by her school counselor that she might really be a boy—and her parents aren't allowed to know. A father watches helplessly as family court grants permission for his daughter's double mastectomy. Children are being taught to hate their bodies, mutilated in the name of "gender-affirming care," while parents who object are threatened with losing custody. The state claims ownership of our children's very identity.
+A thirteen-year-old girl is told by her school counselor that she might really be a boy—and her parents aren't allowed to know. A father watches helplessly as family court grants permission for his daughter's double mastectomy. Children are being taught to hate their bodies, mutilated in the name of "gender-affirming care," while parents who object are told their child will commit suicide if they don't comply—and threatened with losing custody if they resist. The state claims ownership of our children's very identity.
 
 A grandmother turns on the news and can't tell truth from propaganda anymore. Media outlets that once reported facts now function as partisan weapons, lying with impunity to advance political agendas. Big Tech censors doctors, silences parents, and bans anyone who questions the approved narrative. Meanwhile, political opponents aren't just wrong—they're "Nazis," "fascists," "threats to democracy" who must be silenced, cancelled, destroyed.
 

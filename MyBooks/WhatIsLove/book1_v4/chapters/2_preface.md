@@ -4,17 +4,17 @@ I collected all the words and strung them together. But I cannot claim to be the
 
 There is not a single idea or principle in this book that I created or came up with on my own.
 
-I did not create the Universe, the Earth, or the first man and woman. I did not create language, the Catholic Church, Sacred Scripture, or the Sacred Deposit of Faith. I did not even create myself—I was born of Barry J. and Magda Steil (who didn't create themselves either).
+I did not create the Universe, the Earth, or the first man and woman. I did not create language, the Catholic Church, Sacred Scripture, or the Sacred Deposit of Faith. I certainly didn't create myself—I was born of Barry J. and Magda Steil (who didn't create themselves either).
 
 Just as the role of the Church is to receive the truth from God and faithfully transmit it through the ages, I have received this truth from God through His Church—through Scripture, the Catechism, the saints, and two thousand years of faithful witnesses. God gave me a desire to organize facts and synthesize them, and a heart to share what I've received. That's all.
 
-When I was 19, on a Catholic retreat in Panama, God first revealed to me that "God is Love" (1 John 4:16). It made intuitive sense—I felt its truth deep in my bones—but I couldn't fully explain *why* it was true or *what* it meant. That moment ignited a lifelong quest.
+When I was 19, on a Catholic retreat in Panama in February 1988, God first revealed to me this life-changing truth: "God is Love" (1 John 4:16). It made intuitive sense—I felt its truth deep in my bones—but I couldn't fully explain *why* it was true or *what* it meant. That moment ignited a lifelong quest.
 
 My prayer ever since has been to understand and share the deep love that God revealed to me in a way that just makes sense to people. This book is the culmination of that journey—an attempt to explain, in an almost scientific way, just how profoundly true the statement "God is Love" really is. Not by inventing new truths, but by systematically unpacking the ancient truths in a way our generation can understand, verify, and embrace.
 
 ## Standing on the Shoulders of Giants
 
-The faith I'm sharing didn't come to me in a vacuum. I came to know, love, and serve Jesus through real people—saints in my life who were faithful witnesses and taught me to love the Lord with all my heart, soul, mind, and strength.
+The faith I'm sharing didn't come to me in a vacuum. I came to know, love, and serve Jesus through real people—saints in my life who were faithful witnesses and taught me to love the Lord with all my heart, mind, soul and strength.
 
 **My family and early formation:**
 - **MamaLou and DaddyBob** (my grandparents)—faithful Catholics with 11 children including my Dad, who showed me what a faithful husband and father looks like
@@ -26,14 +26,14 @@ The faith I'm sharing didn't come to me in a vacuum. I came to know, love, and s
 - **Father Rutledge**—who cared so much for the younger generation
 - **Father Kane**—who was a true shepherd and a true friend
 - **Laura and Ramon Reyes**—who followed the Holy Spirit and poured out their love for Jesus on so many youth and adults
-- **John Husum and Berta Briceno**—who supported our youth ministry
+- **John Husum and Berta Briceno**—who lovingly supported the revival in our youth
 
 **Teachers who opened my eyes:**
 - **Bill LaBarr**—who taught me faith begins with gratitude
 - **Timothy Keller**—who taught me what an idol actually is
 - **Jordan B. Peterson**—who showed so many in our time what it means that the Bible is "true"
 - **Bishop Robert Barron**—who makes the beauty of Catholicism accessible but inspires us to know our faith deeply
-- **Scott Hahn**—who revealed the importance of understanding the Old Covenants in order to understand the New Covenant
+- **Scott Hahn**—who revealed the importance of understanding the Old Covenants in order to understand the New Covenant and why the Eucharist is the source and summit of the Christian life
 - **Trent Horn**—who defends the faith with deep understanding, clarity and charity
 - **Joe Heschmeyer**—who demonstrates rigorous theological thinking and also great charity
 

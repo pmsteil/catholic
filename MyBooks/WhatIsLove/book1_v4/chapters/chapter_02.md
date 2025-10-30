@@ -29,7 +29,7 @@ But that leaves us with a burning question: What exactly *is* love?
 This isn't an academic question. It's the question of eternal life itself. When a scholar of the law asked Jesus, "Teacher, what must I do to inherit eternal life?" Jesus didn't point to a creed, a ritual, or even faith alone. He pointed to love: "You shall love the Lord, your God, with all your heart, with all your being, with all your strength, and with all your mind, and your neighbor as yourself" (Luke 10:25-28, NABRE).
 
 <div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
-Jesus Himself defines what is required for eternal life: love God with all your heart, soul, strength, and mind, and love your neighbor as yourself. This isn't an addition to faith—it's what faith looks like when it's real.
+Jesus Himself defines what is required for eternal life: love God with all your heart, mind, soul and strength, and love your neighbor as yourself. This isn't an addition to faith—it's what faith looks like when it's real.
 </div>
 
 Notice what Jesus is saying: Eternal life—salvation itself—is inseparable from learning to love as God loves. This will become crucial in Chapter 14 when we examine the "faith alone" controversy. For now, understand that Jesus Himself establishes love as the path to eternal life, not as an optional add-on to belief.
