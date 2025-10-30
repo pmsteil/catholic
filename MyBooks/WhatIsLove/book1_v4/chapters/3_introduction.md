@@ -22,11 +22,11 @@ That's when I realized: **We are failing our children.** Not just as individual 
 
 Within the next six to nine months, everything came to a head. The lies being told within the Methodist Church over human sexuality. The lies society was telling our young people about so-called "gender identity." The lies of the "Black Lives Matter" movement, which claimed to be fighting for racial justice but whose solution seemed to be more racism than justice. I was at a crossroads.
 
-I realized something profound: the Methodist Church had no authority structure built into it to defend "truth." What is God's plan for human sexuality? What is HIS Truth on this matter? I was hearing from both sides, and both were literally using the Bible to defend "their truth" about what Scripture said. No one was concerned with "the truth"—only "what they thought was true."
+I realized something profound: without a clear authority structure to interpret Scripture definitively, sincere Christians on both sides were using the Bible to defend completely opposite positions. What is God's plan for human sexuality? What is HIS Truth on this matter? Both sides claimed biblical support, but they couldn't both be right. No one was concerned with "the truth"—only "what they believed was true."
 
-That's when it hit me: anyone who claimed the "Bible alone" as their final authority could twist the Scriptures to fit "their truth."
+That's when it hit me: without an authoritative interpreter, even sincere believers could arrive at contradictory conclusions from the same Scripture.
 
-I was a Methodist for 20 years, and I loved being Methodist. But that was the day I knew I could no longer remain. I had to find a Church that would defend God's Truth. So I searched. I looked at many different Christian denominations. And I found that they all had the same problem: no authority structure built into them to defend "truth." It was all based on individual interpretation of the Bible.
+I was a Methodist for 20 years, and I loved being Methodist. But that was the day I knew I needed to find a Church with the authority to definitively teach God's Truth. So I searched. I looked at many different Christian denominations. And I found that they all faced the same challenge: without a teaching authority given by God, it ultimately came down to individual interpretation of the Bible.
 
 But two things I knew were true.
 
@@ -94,6 +94,8 @@ Only Christian faith as a whole constitutes the answer to this question: the goo
 **The answer to the problem of evil is LOVE!**
 
 I realized that if any religion, ideology, or worldview cannot explain how to triumph over evil, then it isn't worth following. The Catholic tradition—rooted in 2,000 years of Christian wisdom—provides a full answer to the problem of human-caused moral evil because it has taken this problem and solution seriously for 2,000 years and has handed on the fullness of truth about God's love and His answer to the problem of evil.
+
+**If you're not Catholic,** I want you to know: this book isn't primarily about convincing you to become Catholic. It's about exploring what authentic love truly is. My hope is that you'll find the definition of love I present here resonates with what you already know deep in your heart to be true—and that it helps you love God and neighbor more fully, wherever you are in your faith journey.
 
 ## God IS Love
 

@@ -2,8 +2,6 @@
 
 I collected all the words and strung them together. But I cannot claim to be the author.
 
-## What I Did Not Create
-
 There is not a single idea or principle in this book that I created or came up with on my own.
 
 I did not create the Universe, the Earth, or the first man and woman. I did not create language, the Catholic Church, Sacred Scripture, or the Sacred Deposit of Faith. I did not even create myself—I was born of Barry J. and Magda Steil (who didn't create themselves either).
@@ -39,7 +37,7 @@ The faith I'm sharing didn't come to me in a vacuum. I came to know, love, and s
 - **Trent Horn**—who defends the faith with deep understanding, clarity and charity
 - **Joe Heschmeyer**—who demonstrates rigorous theological thinking and also great charity
 
-**If you're not Catholic**, I invite you to journey with me anyway. The truths about love I've discovered through the Catholic tradition are universal—they speak to the human heart regardless of where you're starting from.
+**If you're not Catholic**, I invite you to journey with me anyway. The truths about love I've received through the Catholic tradition are universal—they speak to the human heart regardless of where you're starting from.
 
 ---
 
