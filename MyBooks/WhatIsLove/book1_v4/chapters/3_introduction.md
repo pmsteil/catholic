@@ -70,6 +70,33 @@ They deserve adults who can answer the question "What is love?" with clarity, co
 
 It sounds so simple, doesn't it? Yet, getting this wrong has devastating consequences for individuals, families, and entire societies as we can see in our society. Getting it right? That changes _everything_. It's the key that unlocks the meaning of our existence and the path to true freedom, true justice, and meaning.
 
+## The Church's Teaching on Love
+
+It blew my mind when I discovered this golden nugget in the Catechism of the Catholic Church that helps us understand the complete context of all of the Church's teachings and Sacred Scripture:
+
+<div class="blockquote">
+"The whole concern of doctrine and its teaching must be directed to the love that never ends. Whether something is proposed for belief, for hope or for action, the love of our Lord must always be made accessible, so that anyone can see that all the works of perfect Christian virtue spring from love and have no other objective than to arrive at love."
+
+\hfill\small — CCC 25
+</div>
+
+This is profound: **all** of Christian teaching—every doctrine, every moral principle, every sacrament—exists to help us understand and live authentic love. But this immediately raises the most urgent question of our time: If God is love, and we are made for love, why is there so much evil in the world? Why do we see hatred, violence, broken families, exploitation, and suffering everywhere we look?
+
+The Catechism doesn't shy away from this question. In fact, it gives us the solution!
+
+<div class="blockquote">
+"If God the Father almighty, the Creator of the ordered and good world, cares for all his creatures, why does evil exist? To this question, as pressing as it is unavoidable and as painful as it is mysterious, no quick answer will suffice.
+Only Christian faith as a whole constitutes the answer to this question: the goodness of creation, the drama of sin and the patient love of God who comes to meet man by his covenants, the redemptive Incarnation of his Son, his gift of the Spirit, his gathering of the Church, the power of the sacraments and his call to a blessed life to which free creatures are invited to consent in advance, but from which, by a terrible mystery, they can also turn away in advance. There is not a single aspect of the Christian message that is not in part an answer to the question of evil."
+
+\hfill\small — CCC 309
+</div>
+
+**The answer to the problem of evil is LOVE!**
+
+I realized that if any religion, ideology, or worldview cannot explain how to triumph over evil, then it isn't worth following. The Catholic tradition—rooted in 2,000 years of Christian wisdom—provides a full answer to the problem of human-caused moral evil because it has taken this problem and solution seriously for 2,000 years and has handed on the fullness of truth about God's love and His answer to the problem of evil.
+
+## God IS Love
+
 The shortest, most profound answer comes straight from the heart of Divine Revelation, penned by the Apostle John:
 
 <div class="blockquote">
@@ -137,12 +164,6 @@ He didn't say He *showed* the way, or *taught* the truth, or *gave* life—He sa
 </div>
 
 ## Your Roadmap for This Journey
-
-I feel so blessed that you're joining me on this exploration of the most vital topic imaginable: Love. This isn't a self-help book; it's a deep dive into the heart of the Christian Faith—not to make us feel warm and fuzzy, but to challenge us to join Him on His mission FOR THE SALVATION OF THE WORLD!
-
-My own journey into the heart of this mystery began when I was 19, on a Catholic retreat at the "Emmaus" retreat center in Panama. It was there that "God is Love" (1 John 4:16) first pierced my heart and ignited a lifelong quest: *What does it mean that God IS Love?* I had a simple prayer back then: "Lord, help me explain Your love without theological jargon or 'church speak'—in a way that just makes sense to people."
-
-For over nearly four decades, God has been answering that prayer. And since my reversion to the Catholic Faith in 2020, He has given me the clarity to share this understanding with you in a way that is both powerful and comprehensive.
 
 This book is my attempt to explain what the Church has been teaching for 2,000 years in plain English, starting from the ground up. Think of the definition as a multi-faceted diamond—each chapter will illuminate another facet, showing how every aspect of our faith fits perfectly together in God's amazing plan for communion with us.
 
