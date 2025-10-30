@@ -1,4 +1,4 @@
-# Chapter 13: The Nature of Virtues—Faith Working Through Love
+# The Nature of Virtues—Faith Working Through Love
 
 <div class="blockquote">
 "So faith, hope, love remain, these three; but the greatest of these is love."

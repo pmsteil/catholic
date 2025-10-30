@@ -1,4 +1,4 @@
-# Chapter 15: Counterfeit Love in the Modern World
+# Counterfeit Love in the Modern World
 
 <div class="blockquote">
 "Beloved, do not trust every spirit but test the spirits to see whether they belong to God, because many false prophets have gone out into the world."

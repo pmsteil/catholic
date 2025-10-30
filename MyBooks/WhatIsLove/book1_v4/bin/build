@@ -162,7 +162,7 @@ def transform_html_widgets(markdown: str) -> str:
     return markdown
 
 
-def preprocess_files(files: List[str]) -> List[str]:
+def preprocess_files(files: List[str], profile: Optional[str] = None) -> List[str]:
     # Write transformed files to a temp directory and return their paths
     tmpdir = tempfile.mkdtemp(prefix="book_build_")
     out_files: List[str] = []
@@ -181,6 +181,9 @@ def preprocess_files(files: List[str]) -> List[str]:
     frontmatter_star = os.environ.get("FRONTMATTER_STAR") == "1"
     debug_dump_pre = os.environ.get("DEBUG_DUMP_PREPROCESSED") == "1"
     debug_log = os.environ.get("DEBUG_LOG") == "1"
+    
+    # For audiotxt profile, add chapter numbers to markdown headings
+    add_chapter_numbers = (profile == "audiotxt")
 
     dump_dir: Optional[Path] = None
     if debug_dump_pre:
@@ -210,6 +213,19 @@ def preprocess_files(files: List[str]) -> List[str]:
         transformed = transform_html_widgets(content)
 
         name_only = Path(path).name
+        
+        # For audiotxt profile, add chapter numbers to markdown headings
+        if add_chapter_numbers:
+            # Extract chapter number from filename (e.g., chapter_01.md -> 1, chapter_15.md -> 15)
+            chapter_match = re.match(r"^chapter_(\d+)\.md$", name_only, flags=re.IGNORECASE)
+            if chapter_match:
+                chapter_num = int(chapter_match.group(1))
+                # Find the first H1 heading and prepend "Chapter N: "
+                h1_match = re.search(r"^#\s+(.+?)\s*$", transformed, flags=re.MULTILINE)
+                if h1_match:
+                    original_title = h1_match.group(1)
+                    new_title = f"# Chapter {chapter_num}: {original_title}"
+                    transformed = re.sub(r"^#\s+.+?\s*$", new_title, transformed, count=1, flags=re.MULTILINE)
 
         # Optionally render frontmatter items as unnumbered chapters and add to TOC
         if frontmatter_star and name_only in ("1_cover.md", "2_preface.md", "3_introduction.md"):
@@ -280,7 +296,7 @@ def preprocess_files(files: List[str]) -> List[str]:
 
 def build_pdf(files: List[str], profile: Optional[str]) -> Path:
     # Preprocess files to convert custom HTML widgets to Markdown
-    processed = preprocess_files(files)
+    processed = preprocess_files(files, profile)
 
     # Determine metadata file to use (either default or specified profile)
     metadata_args: List[str] = []
@@ -363,24 +379,39 @@ def build_pdf(files: List[str], profile: Optional[str]) -> Path:
         if os.environ.get("DEBUG_LOG") == "1":
             print(f"[build] toc overlay: {toc_overlay_path}")
 
-    # Determine output path
-    if profile:
-        output_pdf = ROOT_DIR / f"WhatIsLove_book.{profile}.pdf"
-    else:
-        output_pdf = DEFAULT_OUTPUT_PDF
-
     # Set active profile
     active_profile = profile or "default"
+    
+    # Determine output path and format
+    if active_profile == "audiotxt":
+        output_file = ROOT_DIR / f"WhatIsLove_book.{profile}.txt"
+        output_format = "plain"
+    else:
+        if profile:
+            output_file = ROOT_DIR / f"WhatIsLove_book.{profile}.pdf"
+        else:
+            output_file = DEFAULT_OUTPUT_PDF
+        output_format = "pdf"
 
+    # Build pandoc command
     cmd = [
         "pandoc",
         "--standalone",
         "--from=markdown+smart+raw_tex",
-        "--toc",
-        "--pdf-engine=tectonic",
         *metadata_args,
         f"--metadata=profile={active_profile}",
     ]
+    
+    # Add format-specific options
+    if output_format == "pdf":
+        cmd.insert(3, "--pdf-engine=tectonic")
+    else:
+        # Use markdown format for better structure preservation (keeps chapter headings)
+        cmd.extend(["--to=markdown", "--wrap=none"])
+    
+    # Only add --toc flag if not audio profile (audiopdf or audiotxt)
+    if active_profile not in ("audiopdf", "audiotxt"):
+        cmd.insert(4, "--toc")  # Insert after --from flag
 
     # Optional debug flags (environment variables):
     #  - DEBUG_HEADINGS=1   → add Lua filter that prefixes headings with [Hn]
@@ -389,14 +420,15 @@ def build_pdf(files: List[str], profile: Optional[str]) -> Path:
         cmd += ["--lua-filter", str(ROOT_DIR / "filters" / "heading_debug.lua")]
 
     latex_out: Optional[Path] = None
-    if os.environ.get("KEEP_LATEX") == "1":
+    if os.environ.get("KEEP_LATEX") == "1" and output_format == "pdf":
         latex_out = ROOT_DIR / "_debug.tex"
         cmd += ["--output", str(latex_out)]
     else:
-        cmd += ["--output", str(output_pdf)]
+        cmd += ["--output", str(output_file)]
 
     cmd += [*processed]
     subprocess.run(cmd, check=True)
+    
     # If we kept LaTeX, compile it now to PDF using tectonic and save both
     if latex_out is not None:
         # tectonic compiles to same basename .pdf in the cwd
@@ -404,9 +436,9 @@ def build_pdf(files: List[str], profile: Optional[str]) -> Path:
         subprocess.run(["tectonic", str(latex_out.name)], check=True, cwd=str(ROOT_DIR))
         print(f"Built (debug): {ROOT_DIR / latex_out.with_suffix('.pdf').name}")
     else:
-        print(f"Built: {output_pdf}")
+        print(f"Built: {output_file}")
 
-    return output_pdf
+    return output_file
 
 
 def open_pdf(pdf_path: Path) -> None:

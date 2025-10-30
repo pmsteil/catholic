@@ -1,4 +1,4 @@
-# Chapter 14: Understanding Sin—Mortal and Venial Distinctions
+# Understanding Sin—Mortal and Venial Distinctions
 
 <div class="blockquote">
 "There is such a thing as deadly sin... All wrongdoing is sin, but there is sin that is not deadly."

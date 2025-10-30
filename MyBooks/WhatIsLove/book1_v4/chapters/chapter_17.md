@@ -1,4 +1,4 @@
-# Chapter 17: The Gospel - God's Perfect Love Revealed in Christ
+# The Gospel - God's Perfect Love Revealed in Christ
 
 <div class="blockquote">
 "And the Word became flesh and made his dwelling among us, and we saw his glory, the glory as of the Father's only Son, full of grace and truth."
