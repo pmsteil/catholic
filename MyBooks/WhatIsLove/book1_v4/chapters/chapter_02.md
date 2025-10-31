@@ -36,69 +36,13 @@ Jesus Himself defines what is required for eternal life: love God with all your 
 
 Notice what Jesus is saying: Eternal life—salvation itself—is inseparable from learning to love as God loves. This will become crucial in Chapter 14 when we examine the "faith alone" controversy. For now, understand that Jesus Himself establishes love as the path to eternal life, not as an optional add-on to belief.
 
-## The Universal Cry for Love
+## Why Love is So Hard to Define
 
-Look at our young people. Really look at them. That sixteen-year-old cutting herself in the bathroom isn't seeking pain—she's desperate to feel something real in a world of digital facades. That college student cycling through hookups isn't looking for sex—he's searching for connection in the only way our broken culture has taught him. That young woman starving herself isn't pursuing thinness—she's trying to control something, anything, in a life that feels utterly out of control.
+This universal longing for love is written into our very nature because we are made in the image of God: "So God created mankind in his own image, in the image of God he created them; male and female he created them" (Genesis 1:27, NABRE). We are designed for relationship with God and others, which is why every human heart cries out for love.
 
-They're dying of thirst while drowning in counterfeits.
+Yet defining love has proven remarkably difficult.
 
-Young women learn early: Your value is measured in likes, in how many boys want you, in how "hot" you are. Give your body away—it's the price of admission for affection. Young men get their own poison: Commitment is weakness. Vulnerability is death. Conquest is everything. Use and discard.
-
-And the children of divorce? They learn the cruelest lesson of all: Love has an expiration date. Promises are just pretty words. "Forever" means "until someone better comes along."
-
-Meanwhile, every screen screams the same message: Follow your heart! Live your truth! You deserve to be happy! But here's what they don't tell you: When everyone puts themselves first, everyone ends up alone.
-
-This is the universal cry for love—the deepest longing of every human heart. And if we can't answer the question "What is love?" clearly and completely, we're failing the next generation when they need us most.
-
-## Love Written on Body, Mind, and Soul
-
-Pay attention to your body for a moment. Feel that ache in your chest when you think about being truly, completely alone? That's not weakness—that's design. You were built for connection.
-
-**The Body's Cry:** A newborn, seconds old, placed on her mother's chest immediately calms. Her heart rate stabilizes. Her breathing deepens. She doesn't know words like "love" or "safety," but her body knows: *This is home.* Watch a toddler fall and scrape his knee. He doesn't want a bandage first—he wants arms around him, someone to hold him while he cries. The wound is secondary; the need for loving presence is primary.
-
-**The Mind's Cry:** You know that moment when you're trying to explain something that matters deeply to you, and suddenly someone's eyes light up and they say, "Yes! Exactly! I get it!" That's not just communication. That's communion. Our minds aren't just processing units. They're desperate to be known, to have someone peer into the maze of our thoughts and say, "I see you. I understand you. Your thoughts matter."
-
-**The Soul's Cry:** Think about the last time someone you loved died. That pain you felt wasn't just sadness. It was your soul screaming that something eternal had been touched by mortality, that a love which should last forever had been interrupted by death. Jesus wept at Lazarus's tomb (John 11:35, NABRE). The Son of God, who knew He was about to raise His friend from the dead, still wept. Why? Because grief is love's testimony that every human being is irreplaceable.
-
-<div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
-Authentic love engages our entire being—body, mind, and soul—because we are created as integrated persons, not fragmented parts. When any dimension is neglected, love becomes distorted and ultimately fails to satisfy.
-</div>
-
-This integration of love within our heart, mind, and soul is no accident—it flows from the very nature of our being. This is precisely why Jesus, when asked about eternal life, points back to love as the means to eternal communion with God.
-
-## Made in the Image of Love
-
-This universal longing for love isn't taught or merely cultural—it's written into our very nature because we are made in the image of God. As Scripture reveals: "So God created mankind in his own image, in the image of God he created them; male and female he created them" (Genesis 1:27, NABRE).
-
-Being made in God's image means we share certain qualities that make us fundamentally different from all other creatures:
-
-- **We can know truth** about reality, goodness, and God—not just respond to stimuli
-- **We can choose freely** between good and evil—we're not driven by instinct alone
-- **We can love sacrificially**—putting another's good above our own immediate desires
-- **We long for the infinite**—no finite good can fully satisfy us
-- **We are called to communion**—designed for relationship with God and others
-
-The Second Vatican Council beautifully explains: "Man, who is the only creature on earth which God willed for itself, cannot fully find himself except through a sincere gift of himself" (*Gaudium et Spes* 24). We are the only creatures not made for some useful "end"—yet paradoxically, we achieve our greatest dignity when we give ourselves away for the good of others, following Christ's example.
-
-Pope John Paul II taught that being made in God's image means we are created with the capacity for love and called to love. As he explained, "Man cannot live without love. He remains a being that is incomprehensible for himself, his life is senseless, if love is not revealed to him, if he does not encounter love, if he does not experience it and make it his own" (*Redemptor Hominis* 10).
-
-This is why the cry for love is universal. Every human heart knows instinctively that we're made for something more than mere survival or pleasure. We're made for love because we're made in the image of Love Himself.
-
-## Why Traditional Definitions Fall Short
-
-Throughout history, great minds and holy saints have offered profound insights into the nature of love, each contributing essential pieces to our understanding.
-
-**Classical Philosophy** provided foundational categories. Aristotle's distinction between eros (romantic love), philia (friendship), and storge (familial affection) helps us recognize love's different expressions. Plato's vision of love as the soul's journey from physical beauty to spiritual truth reveals love's transformative power.
-
-**Christian Tradition** brought revolutionary depth. St. Augustine's teaching that love is the ordering principle of all virtue—"Love God, and do what you will"—reveals love as the foundation of moral life. St. Thomas Aquinas's definition of love as "willing the good of another" emphasizes love as an act of the will directed toward another's benefit.
-
-**Modern Insights** have added valuable understanding. Romantic love's emphasis on emotional attraction shows us love's affective power. Humanitarian love's stress on universal compassion reveals love's social dimension.
-
-Yet while each tradition offers valuable insights, none provides the complete picture that our hearts truly seek and that our world desperately needs. Why has defining love been so difficult?
-
-<div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
-Love has been so difficult to define because it isn't just one thing—it's a multi-faceted integration of truth, justice, and mercy. This explains centuries of struggle to capture love's essence in a single definition.
-</div>
+Throughout history, philosophers and saints have offered insights—Aristotle's categories of eros, philia, and storge; Augustine's "willing the good of another"; Aquinas's emphasis on the will. Yet none provides the complete picture. Why? Because love isn't just one thing—it's a multi-faceted integration of truth, justice, mercy, and sacrifice. This explains centuries of struggle to capture love's essence in a single definition.
 
 ## God's Perfect Love: The Complete Definition
 
@@ -138,57 +82,9 @@ Every word matters:
 
 When all these elements are present together, love becomes perfect—capable of conquering all forms of evil and creating authentic communion between persons.
 
-### How the Facets Relate: A Visual Understanding
-
-The facets of God's Perfect Love don't exist in isolation—they form an integrated whole where each element supports and strengthens the others.
-
-```
-              SACRED GIFT OF COVENANT
-                        |
-                        |
-              +---------+---------+
-              |                   |
-           TRUTH                JUSTICE
-              |                   |
-              |      BINDING      |
-              |                   |
-              |                   |
-           MERCY              SACRIFICE
-              |                   |
-              +---------+---------+
-                        |
-                        |
-              LIFE-GIVING COMMUNION
-```
-
-**How to Read This:**
-- **Top:** Sacred Gift of Covenant—the source and structure of love
-- **Four Pillars:** Truth, Justice, Mercy, Sacrifice form the essential framework
-- **Center:** Binding holds all four pillars together in harmony
-- **Bottom:** Life-giving Communion—the fruit and goal of perfect love
-
----
-
-**The Key Insight:** Remove any single element, and love becomes incomplete—vulnerable to distortion and unable to fully combat evil. But when all facets work together, love becomes perfect: capable of conquering all forms of evil and creating authentic communion.
-
-## The Perfect Love Made Flesh
-
-Remember those impossible requirements from Chapter 1? We needed a perfect lawgiver, a perfect teacher, someone who understands us completely yet never sinned, someone both divine and relatable.
-
-This is exactly what God did.
-
-In Jesus Christ, perfect love became incarnate. He is:
-- The **perfect lawgiver**: "I am the Way, the Truth, and the Life" (John 14:6, NABRE)
-- The **perfect teacher**: "Learn from me, for I am gentle and humble of heart" (Matthew 11:29, NABRE)
-- The one who reveals **God's truth, justice, and mercy**: "Whoever has seen me has seen the Father" (John 14:9, NABRE)
-- The one who **understands us completely**: "For we do not have a high priest who is unable to sympathize with our weaknesses, but one who in every respect has been tempted as we are, yet without sin" (Hebrews 4:15, NABRE)
-- The one we can **relate to**: "The Word became flesh and dwelt among us" (John 1:14, NABRE)
-- The source of **divine grace**: "From his fullness we have all received, grace upon grace" (John 1:16, NABRE)
-- **Perfect love incarnate**: "God so loved the world that he gave his only Son" (John 3:16, NABRE)
-
-This isn't theological theory. In Jesus, the perfect love we've been defining—that sacred gift of covenant which binds truth, justice, mercy, and sacrifice—took on flesh and blood. He didn't just teach about perfect love; He IS perfect love.
-
-The Incarnation changes everything. God didn't send a messenger or a prophet or a philosophy. He sent Himself. The Author of all reality entered His own story to rewrite the tragedy we had made of it.
+<div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
+Remove any single element, and love becomes incomplete—vulnerable to distortion and unable to fully combat evil. But when all facets work together, love becomes perfect: capable of conquering all forms of evil and creating authentic communion.
+</div>
 
 ## How This Definition Solves the Problem of Evil
 
@@ -211,29 +107,11 @@ You can see from these facets that people understand bits and pieces, living the
 
 ## The Path Forward
 
-In these first two chapters, we have laid a crucial foundation: the fundamental problem facing humanity is the evil in man's heart, and filling the heart with love is the answer to that problem.
+In these first two chapters, we have laid a crucial foundation: the fundamental problem facing humanity is the evil in man's heart, and the answer is love—but not just any love. God's Perfect Love, integrating truth, justice, mercy, and sacrifice into life-giving communion.
 
-Our comprehensive definition—God's Perfect Love as "the sacred gift of covenant which binds truth, justice, mercy, and sacrifice into life-giving communion"—now serves as our roadmap for the entire journey ahead.
+The rest of this book will unpack this definition and show you how to live it.
 
-**Part 1 (Chapters 3-11)** will systematically unpack each component of this definition:
-- Chapter 3: **Sacred** - God as the source of all love
-- Chapter 4: **Gift of Covenant** - Permanent love through voluntary authority
-- Chapter 5: **Binding** - Love unites and integrates
-- Chapter 6: **Truth** - Love requires objective reality
-- Chapter 7: **Justice** - Love gives what is due
-- Chapter 8: **Mercy** - Love transcends justice
-- Chapter 9: **Sacrifice** - Love made visible through action
-- Chapter 10: **Life-giving** - Love creates and multiplies
-- Chapter 11: **Communion** - Love builds authentic community
-
-**Part 2 (Chapters 12-16)** will apply this definition to key Christian questions:
-- Chapter 12: Proof for the existence of God
-- Chapter 13: This definition as the key to reading the Bible
-- Chapter 14: "Faith alone" vs "Faith working through love"
-- Chapter 15: Survey of virtues flowing from love
-- Chapter 16: The world's need for God's perfect love
-
-At every step, we will see how God's perfect love—integrating all these elements—is not just a beautiful ideal but the practical, powerful answer to the sin in our hearts that creates evil in the world.
+At every step, we will see how God's perfect love is not just a beautiful ideal but the practical, powerful answer to the sin in our hearts that creates evil in the world.
 
 ---
 

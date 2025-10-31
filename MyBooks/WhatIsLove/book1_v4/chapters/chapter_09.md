@@ -73,29 +73,19 @@ This is why Catholics have Mass. Not because we're "re-sacrificing" Christ—His
 
 At every Mass, several things happen simultaneously:
 
-**We Enter Christ's Eternal Offering:** The Mass makes present Christ's one sacrifice on Calvary. We're not repeating it or adding to it—we're entering into it. Time and eternity meet. The same sacrifice offered once for all becomes present to us here and now.
+**We Enter Christ's Eternal Offering:** The Mass makes present Christ's one sacrifice on Calvary—not repeating it or adding to it, but entering into it. Time and eternity meet. The same sacrifice offered once for all becomes present here and now.
 
-**We Offer Ourselves United with Christ:** "I urge you therefore, brothers, by the mercies of God, to offer your bodies as a living sacrifice" (Romans 12:1, NABRE). We place our own sacrifices—our struggles, our sufferings, our daily acts of love—on the altar with Christ's. United with His perfect sacrifice, our imperfect offerings become acceptable to the Father.
+**We Offer Ourselves United with Christ:** "I urge you therefore, brothers, by the mercies of God, to offer your bodies as a living sacrifice" (Romans 12:1, NABRE). We place our own sacrifices—struggles, sufferings, daily acts of love—on the altar with Christ's. United with His perfect sacrifice, our imperfect offerings become acceptable to the Father.
 
 **We Receive What We Offer:** In Communion, we receive Christ Himself—the Lamb who was slain, now risen and glorious. We consume the sacrifice. It becomes part of us. His sacrificial love flows into our veins, transforms our hearts, empowers us to love as He loved.
 
-This is not just beautiful symbolism. This is how God makes sacrificial love real in our lives. The Mass doesn't just teach us about sacrifice—it forms us to live sacrificially.
+This is not mere symbolism. This is how God makes sacrificial love real in our lives. The Mass forms us to live sacrificially.
 
 ## The Hierarchy of Sacrifice
 
-Not all sacrifices are equal. Love has an order, a hierarchy that reflects the order of reality itself:
+Not all sacrifices are equal. Love has an order that reflects the order of reality itself: First, sacrifice for God—we sacrifice our will to His will, our entire lives to His glory. Second, sacrifice for spouse and children—the most fundamental human covenant after our covenant with God. Third, sacrifice for extended family and community—parents, siblings, Church, neighbors. Fourth, sacrifice for neighbors and strangers—those we encounter in daily life. Fifth, sacrifice for enemies—the most difficult and most Christ-like.
 
-**First, Sacrifice for God:** "You shall love the Lord, your God, with all your heart, with all your being, with all your strength, and with all your mind" (Luke 10:27, NABRE). This comes first. We sacrifice our will to His will, our plans to His plans, our entire lives to His glory. This isn't oppression—it's liberation. Only when we give ourselves completely to God do we become fully ourselves.
-
-**Second, Sacrifice for Spouse and Children:** Marriage and family create the most fundamental human covenant after our covenant with God. A husband sacrifices his comfort, his time, his preferences for his wife's good. A wife does the same for her husband. Parents sacrifice sleep, money, career advancement, personal freedom for their children. This isn't optional—it's what covenant love requires.
-
-**Third, Sacrifice for Extended Family and Community:** We owe duties to parents, siblings, the Church community, neighbors. These aren't as absolute as duties to spouse and children, but they're real. We sacrifice time to care for aging parents, resources to help struggling relatives, energy to serve our parish.
-
-**Fourth, Sacrifice for Neighbors and Strangers:** "Love your neighbor as yourself" (Luke 10:27, NABRE). We sacrifice for those we encounter—the homeless man on the street, the coworker struggling with a project, the stranger whose car broke down.
-
-**Fifth, Sacrifice for Enemies:** "Love your enemies, do good to those who hate you" (Luke 6:27, NABRE). This is the most difficult and the most Christ-like. We sacrifice our right to revenge, our desire for vindication, our natural inclination toward retaliation.
-
-This hierarchy isn't arbitrary. It reflects the order of love itself—from the highest (God) to the most challenging (enemies). Get the order wrong, and love becomes distorted. Put enemies before family, and you destroy your primary obligations. Put self before God, and you make an idol of your own will.
+This hierarchy isn't arbitrary. It reflects the order of love itself. Get the order wrong, and love becomes distorted. Put enemies before family, and you destroy your primary obligations. Put self before God, and you make an idol of your own will.
 
 ## How Sacrifice Combats Evil
 
@@ -112,31 +102,13 @@ Understanding love as sacrificial directly combats specific forms of evil:
 - **Wrath** says "I will make you pay." Sacrifice says "I will forgive."
 - **Sloth** says "I won't make the effort." Sacrifice says "I will do what love requires."
 
-**Against Consumerism:** Our culture treats everything—including people—as commodities for consumption. Sacrificial love treats persons as sacred ends, never as means. You can't sacrifice for a commodity. You can only sacrifice for a person.
-
-**Against Individualism:** Modern culture preaches "Put yourself first." Sacrificial love says "Put others first." This isn't self-destruction—it's the path to becoming fully human, fully alive, fully yourself.
-
-**Against Despair:** When we sacrifice for others and see the fruit—a marriage strengthened, a child flourishing, a soul saved—we experience the joy that comes from participating in God's own creative, redemptive work. This joy is stronger than any suffering the sacrifice required.
+Sacrifice combats consumerism by treating persons as sacred ends, never as means. Sacrifice combats individualism by putting others first—the path to becoming fully human. Sacrifice combats despair by producing joy when we see the fruit—a marriage strengthened, a child flourishing, a soul saved.
 
 ## The Difference Between Sacrifice and Self-Destruction
 
-Here's a crucial distinction: Sacrificial love is not the same as letting yourself be abused or destroyed.
+Sacrificial love is not the same as letting yourself be abused or destroyed. Authentic sacrifice is freely chosen, ordered toward genuine good, builds up the beloved without destroying the lover, and reflects Christ's voluntary and redemptive sacrifice. False "sacrifice" is coerced through manipulation, enables another's sin or addiction, destroys the one "sacrificing" without helping the other, and reflects codependency or fear.
 
-**Authentic Sacrifice:**
-- Freely chosen, not coerced
-- Ordered toward genuine good, not enabling evil
-- Builds up the beloved, not destroying the lover
-- Reflects Christ's sacrifice, which was both voluntary and redemptive
-
-**False "Sacrifice" (Actually Self-Destruction):**
-- Coerced through manipulation or threat
-- Enables another's sin or addiction
-- Destroys the one "sacrificing" without helping the other
-- Reflects not Christ but codependency or fear
-
-A wife who stays with an abusive husband isn't practicing sacrificial love—she's enabling his sin and endangering herself and her children. A parent who gives money to an addicted child to buy drugs isn't sacrificing—they're participating in their child's destruction.
-
-True sacrifice always serves the true good of the other. It never enables evil. It never destroys the image of God in the one sacrificing. It always reflects the pattern of Christ's sacrifice—freely chosen, ordered toward redemption, life-giving even through death.
+A wife who stays with an abusive husband isn't practicing sacrificial love—she's enabling his sin and endangering herself and her children. A parent who gives money to an addicted child to buy drugs isn't sacrificing—they're participating in their child's destruction. True sacrifice always serves the true good of the other. It never enables evil. It never destroys the image of God in the one sacrificing.
 
 ## Our Participation in Christ's Sacrifice
 
@@ -144,13 +116,7 @@ St. Paul reveals a profound mystery: "Now I rejoice in my sufferings for your sa
 
 What could possibly be "lacking" in Christ's perfect sacrifice? Nothing—in terms of its sufficiency. But everything—in terms of our participation. Christ's sacrifice is complete, but He invites us to join it, to make it our own, to let it flow through us to others.
 
-**In the Eucharist**, we participate sacramentally. We enter into Christ's offering, unite our sacrifices with His, and receive His life.
-
-**In daily life**, we participate practically. Every act of authentic love—every sacrifice we make for spouse, children, neighbor, enemy—becomes part of Christ's ongoing redemptive work in the world.
-
-This is the treasury of merits the Church speaks of. Our sacrifices, united with Christ's, have real spiritual value. They can be offered for others. They can help satisfy the temporal consequences of sin. They can contribute to the salvation of souls.
-
-Not because our sacrifices add anything to Christ's perfect offering, but because He chooses to work through us. He makes our small sacrifices participate in His infinite sacrifice.
+In the Eucharist, we participate sacramentally. In daily life, we participate practically—every sacrifice we make for spouse, children, neighbor, enemy becomes part of Christ's ongoing redemptive work. This is the treasury of merits the Church speaks of. Our sacrifices, united with Christ's, have real spiritual value. They can be offered for others. They can help satisfy the temporal consequences of sin. They can contribute to the salvation of souls. Not because our sacrifices add anything to Christ's perfect offering, but because He chooses to work through us.
 
 <div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
 Our sacrifices, united with Christ's perfect sacrifice, participate in His redemptive work. This isn't adding to what Christ did—it's allowing His sacrifice to flow through us to touch others. Every act of authentic love becomes a channel of divine grace.

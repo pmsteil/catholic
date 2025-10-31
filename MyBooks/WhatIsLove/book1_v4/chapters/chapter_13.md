@@ -65,13 +65,11 @@ The matrix below shows which pillar(s) each virtue primarily relates to. A "✓"
 
 Notice that certain virtues—Charity/Love, Prudence, Wisdom, Humility, and several others—have checkmarks across all four pillars. This isn't arbitrary. These are **integrative virtues** that by their very nature require the harmonious exercise of truth, justice, mercy, and sacrifice together.
 
-For example, **Charity/Love** is the supreme virtue that encompasses all others. You cannot truly love without truth (knowing the beloved as they are), justice (giving them what's due), mercy (forgiving their faults), and sacrifice (giving yourself for their good). Love integrates all four pillars by its very nature.
+Charity/Love is the supreme virtue that encompasses all others. You cannot truly love without truth, justice, mercy, and sacrifice. Prudence requires truth to see reality clearly, justice to discern what's owed, mercy to temper judgment, and sacrifice to choose the good even when costly. Wisdom sees how all things fit together in God's plan, requiring all four pillars.
 
-Similarly, **Prudence** (right reason in action) requires truth to see reality clearly, justice to discern what's owed, mercy to temper judgment with compassion, and sacrifice to choose the good even when costly. **Wisdom** sees how all things fit together in God's plan, requiring all four pillars to function properly.
+By contrast, virtues like Chastity primarily relate to truth, justice, and sacrifice, but don't directly involve mercy in the same way. This doesn't make chastity less important—it simply means its primary focus is on three of the four pillars rather than all four.
 
-By contrast, virtues like **Chastity** primarily relate to truth (honoring the truth about sexuality), justice (giving God and others their due respect), and sacrifice (self-control), but don't directly involve mercy in the same way. This doesn't make chastity less important—it simply means its primary focus is on three of the four pillars rather than all four.
-
-The pattern reveals something profound: **The more comprehensive and integrative a virtue is, the more it engages all four pillars of perfect love.** This confirms that our definition truly captures the essence of authentic Christian virtue.
+The pattern reveals: **The more comprehensive and integrative a virtue is, the more it engages all four pillars of perfect love.** This confirms that our definition truly captures the essence of authentic Christian virtue.
 
 ---
 
@@ -118,15 +116,7 @@ This is not a coincidence. It demonstrates that our definition of perfect love�
 
 ### Key Insights from the Matrix:
 
-1. **All Virtues Require All Four Pillars:** No virtue can exist in isolation. Each requires truth, justice, mercy, and sacrifice working together in harmony.
-
-2. **All Vices Attack All Four Pillars:** Every vice distorts or denies truth, justice, mercy, and sacrifice in some way. Sin is fundamentally a rejection of perfect love.
-
-3. **The Pillars Are Inseparable:** You cannot have true justice without truth, mercy without sacrifice, or any virtue without the integration of all four pillars.
-
-4. **Perfect Love Is the Foundation of All Virtue:** The comprehensive definition of perfect love provides the foundation for understanding and living every virtue the Church teaches.
-
-5. **Vice Is the Absence of Perfect Love:** Every vice can be understood as a failure to integrate truth, justice, mercy, and sacrifice—a failure to love perfectly.
+Every virtue upholds at least one pillar, and most uphold multiple pillars working together. Every vice denies or distorts at least one pillar, and most deny multiple pillars. Some integrative virtues (like Charity/Love, Prudence, Wisdom, Humility) require all four pillars working in harmony. The pillars are deeply interconnected—you cannot have true justice without truth, authentic mercy without sacrifice, or lasting virtue without the integration of these essential elements. Perfect love is the foundation of all virtue. Vice is the absence or distortion of perfect love—a failure to integrate truth, justice, mercy, and sacrifice.
 
 ### Why Every Virtue Requires Sacrifice—Even Faith:
 
@@ -138,57 +128,9 @@ St. James makes this explicit: **"Faith of itself, if it does not have works, is
 
 Most Christians recognize there is a point at which we "give ourselves to the Lord"—a moment of conversion or commitment. But the Catholic Church teaches what Scripture reveals: **justification is not a one-time event but an ongoing process** that requires the integration of all four pillars of perfect love throughout our entire lives.
 
-**Before Conversion—Faith Requires Truth, Justice, Mercy, and Sacrifice:**
+**Initial Conversion—Coming to Faith Requires All Four Pillars:**
 
-Even to come to initial faith, we must engage all four pillars:
-
-*In Truth:*
-- Recognize we are sinners in need of a Savior (Romans 3:23)
-- Accept that Jesus is the Way, the Truth, and the Life (John 14:6)
-- Believe the Gospel message is objectively true, not just "true for me"
-
-*In Justice:*
-- Acknowledge God's rightful claim on our lives as Creator
-- Recognize we owe God worship, obedience, and gratitude
-- Accept that sin violates God's law and requires restitution
-
-*In Mercy:*
-- Accept that we cannot save ourselves and desperately need God's grace
-- Recognize God's merciful offer of salvation despite our unworthiness
-- Begin to hope in God's compassion rather than our own merit
-
-*In Sacrifice:*
-- Begin to turn away from sin and toward God (repentance)
-- Acknowledge that following Christ will cost us something
-- Start dying to self-will and worldly attachments
-
-**At Conversion—"Giving Your Life to the Lord" Requires All Four Pillars:**
-
-The moment of commitment involves the integration of all four:
-
-*In Truth:*
-- Confess Jesus as Lord and believe God raised Him from the dead (Romans 10:9)
-- Accept the entire deposit of faith, not just comfortable parts
-- Submit intellect to divine revelation through Scripture and Tradition
-- Reject lies and false gospels that contradict apostolic teaching
-
-*In Justice:*
-- Submit to God's authority and His rightful lordship over our lives
-- Give God the worship He is due through prayer and sacraments
-- Begin fulfilling duties to God, Church, family, and community
-- Commit to living according to God's commandments
-
-*In Mercy:*
-- Receive forgiveness through Christ's sacrifice with gratitude
-- Accept God's mercy while acknowledging we don't deserve it
-- Begin forgiving those who have wronged us (Matthew 6:14-15)
-- Show compassion to others as God has shown compassion to us
-
-*In Sacrifice:*
-- Die to self and be buried with Christ in baptism (Romans 6:3-4)
-- Renounce Satan, his works, and his empty promises
-- Sacrifice pride, comfort, and worldly security to follow Christ
-- Accept the cost of discipleship, including persecution and suffering
+The moment of conversion and commitment to Christ involves the integration of all four pillars: In Truth—recognize we are sinners in need of a Savior (Romans 3:23), confess Jesus as Lord and believe God raised Him from the dead (Romans 10:9), accept that Jesus is the Way, the Truth, and the Life (John 14:6), submit intellect to divine revelation. In Justice—acknowledge God's rightful claim on our lives as Creator, submit to God's authority, give God the worship He is due, commit to living according to God's commandments. In Mercy—accept that we cannot save ourselves and desperately need God's grace, receive forgiveness through Christ's sacrifice with gratitude, begin forgiving those who have wronged us (Matthew 6:14-15). In Sacrifice—begin to turn away from sin and toward God (repentance), die to self and be buried with Christ in baptism (Romans 6:3-4), renounce Satan, accept the cost of discipleship.
 
 **After Conversion—Ongoing Justification Requires All Four Pillars:**
 
@@ -231,17 +173,13 @@ St. Paul commands: **"Work out your salvation with fear and trembling"** (Philip
 
 **The Council of Trent teaches:** "If anyone says that the sinner is justified by faith alone, meaning that nothing else is required to cooperate in order to obtain the grace of justification... let him be anathema" (Session 6, Canon 9).
 
-**This is why "faith alone" is impossible:** Justification begins with faith, continues through faith animated by love, and is completed in glory—requiring the integration of truth, justice, mercy, and sacrifice at every stage. You cannot have authentic faith without works of love, and you cannot have works of love without engaging all four pillars of perfect love. The matrix proves what Scripture and Tradition have always taught: **faith must be lived through love, and love requires the complete integration of truth, justice, mercy, and sacrifice.**
+**This is why "faith alone" is impossible:** Justification begins with faith, continues through faith animated by love, and is completed in glory—requiring the integration of truth, justice, mercy, and sacrifice at every stage. The matrix proves what Scripture and Tradition have always taught: **faith must be lived through love, and love requires the complete integration of all four pillars.**
 
 This is why **every single virtue in this matrix requires sacrifice.** You cannot have authentic faith, hope, charity, prudence, justice, fortitude, temperance, or any other virtue without the willingness to sacrifice something of yourself. The matrix demonstrates what Scripture teaches: **perfect love integrates all four pillars, and sacrifice is essential to every expression of authentic virtue.**
 
 Jesus commands us: **"Be perfect, just as your heavenly Father is perfect"** (Matthew 5:48). St. Paul exhorts: **"Work out your salvation with fear and trembling"** (Philippians 2:12). We are called to become saints by conforming ourselves to Christ's example on the Cross—**the perfect integration of truth, justice, mercy, and sacrifice.**
 
-The Cross reveals:
-- **Truth:** Jesus is the Way, the Truth, and the Life (John 14:6)
-- **Justice:** Satisfaction for sin and restoration of right order
-- **Mercy:** Forgiveness freely offered to all who repent
-- **Sacrifice:** Total self-gift unto death for the beloved
+The Cross reveals: Truth—Jesus is the Way, the Truth, and the Life (John 14:6). Justice—satisfaction for sin and restoration of right order. Mercy—forgiveness freely offered to all who repent. Sacrifice—total self-gift unto death for the beloved.
 
 This is the pattern of perfect love. This is the path to holiness. **We cannot separate faith from works, love from sacrifice, or virtue from the Cross.** The matrix proves what the Church has always taught: authentic Christian life requires the integration of all four pillars of perfect love, and sacrifice is not optional—it is essential to every virtue, including faith itself.
 
@@ -261,10 +199,7 @@ This chapter has demonstrated that **faith must work through love**, integrating
 
 ### Practical Application:
 
-When examining your conscience, you can now see clearly:
-- **Which pillar am I neglecting?** If you struggle with a particular vice, identify which pillar(s) you are denying.
-- **How can I grow in virtue?** Focus on strengthening your practice of truth, justice, mercy, and sacrifice.
-- **What is the root of my sin?** Trace each vice back to its denial of one or more pillars of perfect love.
+When examining your conscience: Which pillar am I neglecting? If you struggle with a particular vice, identify which pillar(s) you are denying. How can I grow in virtue? Focus on strengthening your practice of truth, justice, mercy, and sacrifice. What is the root of my sin? Trace each vice back to its denial of one or more pillars of perfect love.
 
 ### The Beauty of Catholic Moral Theology:
 

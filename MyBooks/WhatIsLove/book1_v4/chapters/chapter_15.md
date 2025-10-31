@@ -65,11 +65,11 @@ For each counterfeit, we'll use a diagnostic table showing which components are 
 | Life-giving | ✗ | ✓ |
 | Communion | ✗ | ✓ |
 
-**What's Missing:** Postmodernism denies objective truth exists, reducing all moral claims to power struggles and personal narratives. Without truth, there's no objective standard for justice, no objective wrong to forgive (mercy), and no shared reality to unite us (communion). It's self-refuting: claiming "there is no objective truth" as an objective truth.
+**What's Missing:** Postmodernism denies objective truth exists, reducing all moral claims to power struggles. Without truth, there's no objective standard for justice, no objective wrong to forgive (mercy), and no shared reality to unite us (communion). It's self-refuting: claiming "there is no objective truth" as an objective truth.
 
-**Why It Fails:** Moral paralysis. If all truth is socially constructed, we cannot call anything truly wrong. Love becomes mere preference—"my truth" vs. "your truth"—with no way to resolve conflicts or build authentic community.
+**Why It Fails:** Moral paralysis. If all truth is socially constructed, we cannot call anything truly wrong. Love becomes mere preference with no way to resolve conflicts.
 
-**How Good Overcomes Evil:** God's Perfect Love is rooted in Truth—the eternal Logos who became flesh (John 1:14). Objective truth liberates us from the tyranny of subjective opinion, enabling authentic justice, mercy, and communion grounded in reality itself. As Jesus promised, "You will know the truth, and the truth will set you free" (John 8:32).
+**How Good Overcomes Evil:** God's Perfect Love is rooted in Truth—the eternal Logos who became flesh (John 1:14). Objective truth liberates us from subjective opinion, enabling authentic justice, mercy, and communion. "You will know the truth, and the truth will set you free" (John 8:32).
 
 ### Marxism: "Love Is Class Solidarity"
 
@@ -93,11 +93,11 @@ For each counterfeit, we'll use a diagnostic table showing which components are 
 ³Sacrifice misdirected toward violent revolution
 ⁴Communion through division and hatred of "oppressors"
 
-**What's Missing:** Marxism recognizes injustice but eliminates mercy (no forgiveness for enemies), distorts sacrifice (channeling it toward violence), and destroys communion (creating division through class hatred). It appeals to envy—the desire to seize what others have—rather than building authentic solidarity.
+**What's Missing:** Marxism recognizes injustice but eliminates mercy (no forgiveness for enemies), distorts sacrifice (channeling it toward violence), and destroys communion (creating division through class hatred). It appeals to envy rather than building authentic solidarity.
 
-**Why It Fails:** History proves it: over 100 million dead in the 20th century. Marxism creates resentment, not solidarity; violence, not peace; totalitarianism, not justice.
+**Why It Fails:** Over 100 million dead in the 20th century. Marxism creates resentment, not solidarity; violence, not peace; totalitarianism, not justice.
 
-**How Good Overcomes Evil:** God's Perfect Love establishes true justice through solidarity that recognizes every person's sacred dignity as image-bearer of God. It calls us to sacrificial love for all—including enemies—building communion through covenant rather than coercion. "Do not be conquered by evil but conquer evil with good" (Romans 12:21).
+**How Good Overcomes Evil:** God's Perfect Love establishes true justice through solidarity that recognizes every person's sacred dignity. It calls us to sacrificial love for all—including enemies—building communion through covenant rather than coercion. "Do not be conquered by evil but conquer evil with good" (Romans 12:21).
 
 ### Wokeism: "Love Is Affirming Identity"
 
@@ -121,11 +121,11 @@ For each counterfeit, we'll use a diagnostic table showing which components are 
 ³Mercy becomes affirmation of sin
 ⁴Demands others sacrifice truth to affirm lies
 
-**What's Missing:** Wokeism demands unconditional affirmation of every self-defined identity, making truth subordinate to feelings. It destroys justice (no objective standards), truth itself (reality denied), and authentic mercy (affirming sin rather than calling to conversion). Worse, it turns all virtue inward through victim mentality—claiming false virtue through grievance rather than genuine sacrifice for what is truly good.
+**What's Missing:** Wokeism demands unconditional affirmation of every self-defined identity, making truth subordinate to feelings. It destroys justice (no objective standards), truth itself (reality denied), and authentic mercy (affirming sin rather than calling to conversion). It turns all virtue inward through victim mentality—claiming false virtue through grievance rather than genuine sacrifice.
 
 **Why It Fails:** Denying reality harms those it claims to help. Children are sterilized for ideology. Truth becomes "hate speech." Compassion becomes complicity in self-destruction.
 
-**How Good Overcomes Evil:** God's Perfect Love offers true compassion that speaks truth in love—affirming the person's infinite dignity while calling them to their authentic identity in God's design. Real mercy seeks the person's true good, not just their comfort. "Rather, living the truth in love, we should grow in every way into him who is the head, Christ" (Ephesians 4:15).
+**How Good Overcomes Evil:** God's Perfect Love offers true compassion that speaks truth in love—affirming the person's infinite dignity while calling them to their authentic identity in God's design. Real mercy seeks the person's true good, not just their comfort. "Living the truth in love, we should grow in every way into him who is the head, Christ" (Ephesians 4:15).
 
 ### Gender Ideology: "Love Means Affirming Gender Identity"
 
@@ -149,11 +149,11 @@ For each counterfeit, we'll use a diagnostic table showing which components are 
 ³Children sacrifice fertility for adult ideology
 ⁴Denies complementarity ordered to procreation
 
-**What's Missing:** Gender ideology denies the most fundamental biological reality—our sexed bodies—destroying truth, justice (children's right to intact bodies), and life-giving communion (sterilization eliminates future generations). It attacks the fundamental building block of society: the family founded on the complementary union of man and woman. Adults debate identity while children suffer confusion, are encouraged to reject their bodies, and undergo irreversible medical interventions before they can understand the permanent consequences.
+**What's Missing:** Gender ideology denies the most fundamental biological reality—our sexed bodies—destroying truth, justice (children's right to intact bodies), and life-giving communion (sterilization eliminates future generations). It attacks the fundamental building block of society: the family founded on the complementary union of man and woman. Adults debate identity while children suffer confusion and undergo irreversible medical interventions before they can understand the permanent consequences.
 
-**Why It Fails:** Bodies matter. Denying biological reality doesn't change it—it only creates suffering. Children sterilized before puberty will never become parents, never experience the life-giving communion their bodies were designed for.
+**Why It Fails:** Bodies matter. Denying biological reality doesn't change it—it only creates suffering. Children sterilized before puberty will never become parents.
 
-**How Good Overcomes Evil:** God's Perfect Love reveals our identity as gift received, not self-created. "Male and female he created them" (Genesis 1:27). This truth liberates us to embrace our bodies, live in reality, and find fulfillment in complementary communion ordered to life—building strong families where mother and father model sacrificial love and form the foundation of flourishing societies.
+**How Good Overcomes Evil:** God's Perfect Love reveals our identity as gift received, not self-created. "Male and female he created them" (Genesis 1:27). This truth liberates us to embrace our bodies, live in reality, and find fulfillment in complementary communion ordered to life.
 
 ### Atheism: "There Is No God"
 
@@ -176,11 +176,11 @@ For each counterfeit, we'll use a diagnostic table showing which components are 
 ²Recognizes biological life but denies eternal life
 ³Recognizes human relationships but denies ultimate communion
 
-**What's Missing:** Atheism eliminates the sacred source, leaving no foundation for objective morality, no transcendent basis for human dignity, no hope for eternal communion. It provides no answer for our deepest human longings for truth, justice, mercy, and sacrifice—leaving humanity with needs it cannot explain and longings it cannot fulfill.
+**What's Missing:** Atheism eliminates the sacred source, leaving no foundation for objective morality, no transcendent basis for human dignity, no hope for eternal communion. It provides no answer for our deepest human longings for truth, justice, mercy, and sacrifice.
 
-**Why It Fails:** Atheism cannot ground the very realities it depends on. Why is truth valuable? Why does justice matter? Why should we sacrifice for others? Evolutionary psychology reduces love to survival mechanism. Utilitarianism makes it arbitrary calculation. Nihilism admits it's illusion.
+**Why It Fails:** Atheism cannot ground the very realities it depends on. Why is truth valuable? Why does justice matter? Why should we sacrifice for others? Evolutionary psychology reduces love to survival mechanism. Utilitarianism makes it arbitrary calculation.
 
-**How Good Overcomes Evil:** God's Perfect Love recognizes the most fundamental parts of our human reality—our need for truth, justice, mercy, and sacrifice—and provides the only coherent explanation: because God IS love in His very nature, and we are made in His image. Our deepest longings can only be fulfilled in Him, giving us ultimate meaning, objective moral truth, and the promise of eternal communion that death cannot destroy. "God is love, and whoever remains in love remains in God and God in him" (1 John 4:16).
+**How Good Overcomes Evil:** God's Perfect Love recognizes our need for truth, justice, mercy, and sacrifice—and provides the only coherent explanation: because God IS love in His very nature, and we are made in His image. Our deepest longings can only be fulfilled in Him. "God is love, and whoever remains in love remains in God and God in him" (1 John 4:16).
 
 ### Relativism: "Live Your Truth"
 
@@ -199,11 +199,11 @@ For each counterfeit, we'll use a diagnostic table showing which components are 
 | Life-giving | ✗ | ✓ |
 | Communion | ✗ | ✓ |
 
-**What's Missing:** Relativism claims each person creates their own truth—"my truth" means "what I want"—which destroys justice (no objective right or wrong), truth itself (contradictory "truths" cannot coexist), and communion (no shared reality to unite us). It's self-refuting: if there is no objective truth, then there is no truth at all, making "my truth" meaningless since truth by definition must correspond to reality.
+**What's Missing:** Relativism claims each person creates their own truth—"my truth" means "what I want"—which destroys justice (no objective right or wrong), truth itself (contradictory "truths" cannot coexist), and communion (no shared reality to unite us). It's self-refuting: if there is no objective truth, then "my truth" is meaningless since truth by definition must correspond to reality.
 
-**Why It Fails:** Society cannot function without shared reality. Relativism makes love arbitrary, prevents resolution of moral disputes, and fragments communities into competing subjective preferences.
+**Why It Fails:** Society cannot function without shared reality. Relativism makes love arbitrary and fragments communities into competing subjective preferences.
 
-**How Good Overcomes Evil:** God's Perfect Love calls us to live in objective truth that liberates us from the slavery of sin and disordered desires. "You will know the truth, and the truth will set you free" (John 8:32). Only truth grounded in reality enables authentic justice, mercy, and communion.
+**How Good Overcomes Evil:** God's Perfect Love calls us to live in objective truth that liberates us from the slavery of sin. "You will know the truth, and the truth will set you free" (John 8:32). Only truth grounded in reality enables authentic justice, mercy, and communion.
 
 ---
 
@@ -228,11 +228,11 @@ For each counterfeit, we'll use a diagnostic table showing which components are 
 
 ¹Treats persons as objects
 
-**What's Missing:** Pornography reduces persons to objects for sexual consumption, destroying the sacred (treating image-bearers as commodities), covenant (using rather than binding), and true communion (isolation and shame replace vulnerability and union). Habitual use devastates the individual, destroying their ability to love their own spouse and family through addiction, objectification, and emotional detachment. Adults debate free speech while children suffer the consequences: emotional absence, broken marriages, exposure to pornography themselves, and modeling of objectification that damages their future relationships.
+**What's Missing:** Pornography reduces persons to objects for sexual consumption, destroying the sacred (treating image-bearers as commodities), covenant (using rather than binding), and true communion (isolation and shame replace vulnerability and union). Habitual use devastates the individual, destroying their ability to love their own spouse and family through addiction, objectification, and emotional detachment. Adults debate free speech while children suffer: emotional absence, broken marriages, exposure to pornography themselves.
 
 **Why It Fails:** Addiction. Broken marriages. Emotional absence from children. Pornography promises intimacy but delivers isolation.
 
-**How Good Overcomes Evil:** God's Perfect Love calls spouses to total self-gift in covenant marriage where they know and are known completely in body, mind, and soul—authentic intimacy that honors the sacred dignity of the person and builds life-giving communion. "Therefore a man leaves his father and his mother and clings to his wife, and they become one flesh" (Genesis 2:24).
+**How Good Overcomes Evil:** God's Perfect Love calls spouses to total self-gift in covenant marriage where they know and are known completely—authentic intimacy that honors the sacred dignity of the person and builds life-giving communion. "Therefore a man leaves his father and his mother and clings to his wife, and they become one flesh" (Genesis 2:24).
 
 ### Abortion: "My Body, My Choice"
 
@@ -283,11 +283,11 @@ For each counterfeit, we'll use a diagnostic table showing which components are 
 ⁴May involve sacrifice but not ordered to life
 ⁵Union not ordered to procreation
 
-**What's Missing:** Same-sex "marriage" claims love alone makes marriage regardless of sexual complementarity, destroying truth (denying bodily design), covenant (rejecting complementary union), and life-giving communion (sexual acts inherently closed to procreation cannot image God's creative love). Adults debate equality while children suffer being intentionally deprived of either mother or father, denied the complementary love and formation that only the union of man and woman provides, treated as commodities to fulfill adult desires rather than persons with inherent rights to their biological parents.
+**What's Missing:** Same-sex "marriage" claims love alone makes marriage regardless of sexual complementarity, destroying truth (denying bodily design), covenant (rejecting complementary union), and life-giving communion (sexual acts inherently closed to procreation cannot image God's creative love). Adults debate equality while children suffer being intentionally deprived of either mother or father, denied the complementary love and formation that only the union of man and woman provides.
 
 **Why It Fails:** Children need both mother and father. Complementarity matters. Marriage is not just about adult desires—it's ordered to creating and nurturing the next generation.
 
-**How Good Overcomes Evil:** God's Perfect Love establishes marriage as the complementary union of man and woman whose bodies are designed for one-flesh communion naturally ordered to creating and nurturing new life. This alone images the Trinity's life-giving love and builds authentic communion across generations. "Male and female he created them. God blessed them and God said to them: Be fertile and multiply" (Genesis 1:27-28).
+**How Good Overcomes Evil:** God's Perfect Love establishes marriage as the complementary union of man and woman whose bodies are designed for one-flesh communion naturally ordered to creating and nurturing new life. This alone images the Trinity's life-giving love. "Male and female he created them. God blessed them and God said to them: Be fertile and multiply" (Genesis 1:27-28).
 
 ---
 
@@ -376,11 +376,11 @@ For each counterfeit, we'll use a diagnostic table showing which components are 
 ⁴No ongoing transformation
 ⁵Initial communion but no ongoing growth
 
-**What's Missing:** "Once saved, always saved" presumes eternal security regardless of sin, destroying sacrifice (no ongoing cost of discipleship), covenant (no perseverance required), and transformation (no need for continued conversion). Worse, it destroys the very notion of salvation itself: Christ came to free us from the slavery of sin, but ignoring sin means we remain enslaved, making salvation meaningless.
+**What's Missing:** "Once saved, always saved" presumes eternal security regardless of sin, destroying sacrifice (no ongoing cost of discipleship), covenant (no perseverance required), and transformation (no need for continued conversion). It destroys the very notion of salvation itself: Christ came to free us from the slavery of sin, but ignoring sin means we remain enslaved.
 
-**Why It Fails:** Contradicts Scripture's warnings: "Work out your salvation with fear and trembling" (Philippians 2:12). "If we say, 'We are without sin,' we deceive ourselves" (1 John 1:8). Enables moral complacency and presumption.
+**Why It Fails:** Contradicts Scripture: "Work out your salvation with fear and trembling" (Philippians 2:12). "If we say, 'We are without sin,' we deceive ourselves" (1 John 1:8). Enables moral complacency and presumption.
 
-**How Good Overcomes Evil:** God's Perfect Love calls us to persevere in grace through ongoing conversion and cooperation with the Holy Spirit until death. Authentic love requires faithful covenant living, costly sacrifice, and continuous transformation into Christ's likeness. "Be perfect, just as your heavenly Father is perfect" (Matthew 5:48).
+**How Good Overcomes Evil:** God's Perfect Love calls us to persevere in grace through ongoing conversion and cooperation with the Holy Spirit until death. Authentic love requires faithful covenant living, costly sacrifice, and continuous transformation. "Be perfect, just as your heavenly Father is perfect" (Matthew 5:48).
 
 ---
 

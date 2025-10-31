@@ -42,97 +42,51 @@ Authentic love is inherently life-giving—it creates, sustains, and multiplies 
 
 ## The Life-Giving Nature of God
 
-God is life. Not just that God has life or gives life—God IS life itself. "In him was life, and this life was the light of the human race" (John 1:4, NABRE).
+God is life. Not just that God has life or gives life—God IS life itself. "In him was life, and this life was the light of the human race" (John 1:4, NABRE). Because God is love and God is life, authentic love must be life-giving. It's essential to love's nature.
 
-Because God is love and God is life, authentic love must be life-giving. It's not optional. It's not an add-on. It's essential to love's nature.
+Look at the Trinity: The Father eternally generates the Son. The Father and Son spirate the Holy Spirit. Even within God's own being, love is generative—it creates, it multiplies, it overflows. Creation itself is an act of love's generativity. God created out of the overflow of His love—love that must give, must create, must multiply.
 
-Look at the Trinity: The Father eternally generates the Son. The Father and Son spirate the Holy Spirit. Even within God's own being, love is generative—it creates, it multiplies, it overflows.
+This is where we see the profound connection to Chapter 9's teaching on sacrifice: Sacrifice doesn't end in death—it leads to life. The grain of wheat must fall to the ground and die to bear much fruit (John 12:24). Christ's sacrifice on the Cross didn't end in death but exploded into resurrection life. This is why our definition says love is both "sacrificial" and "life-giving"—they're inseparable. Sacrifice is the path to life. Death to self leads to life for others.
 
-Creation itself is an act of love's generativity. God didn't need to create. He wasn't lonely or incomplete. He created out of the overflow of His love—love that must give, must create, must multiply.
-
-**This is where we see the profound connection to Chapter 9's teaching on sacrifice:** Sacrifice doesn't end in death—it leads to life. The grain of wheat must fall to the ground and die to bear much fruit (John 12:24). Christ's sacrifice on the Cross didn't end in death but exploded into resurrection life. Every authentic sacrifice—every act of self-giving love—is inherently life-giving. This is why our definition says love is both "sacrificial" and "life-giving"—they're inseparable. Sacrifice is the path to life. Death to self leads to life for others. This is the pattern woven into creation itself.
-
-"God blessed them, saying: 'Be fertile and multiply; fill the earth and subdue it'" (Genesis 1:28, NABRE). This isn't just about biological reproduction. It's about participating in God's own creative, life-giving love—love that requires sacrifice (the dying of the grain) to produce life (the abundant harvest).
+"God blessed them, saying: 'Be fertile and multiply; fill the earth and subdue it'" (Genesis 1:28, NABRE). This isn't just about biological reproduction. It's about participating in God's own creative, life-giving love—love that requires sacrifice to produce life.
 
 ## Physical Fruitfulness: Marriage and Children
 
-The most obvious way love is life-giving is through procreation. Marriage is ordered toward children—not as its only purpose, but as its natural fruit.
+The most obvious way love is life-giving is through procreation. Marriage is ordered toward children—not as its only purpose, but as its natural fruit. This is why the Church insists that the unitive and procreative aspects of sexuality cannot be separated. They're two aspects of one reality—love that unites and creates.
 
-This is why the Church insists that the unitive and procreative aspects of sexuality cannot be separated. They're not two different things that happen to occur together. They're two aspects of one reality—love that unites and creates.
-
-**Contraception** violates this reality. It says "I want the pleasure of union without the possibility of life." It treats fertility as a disease to be suppressed rather than a gift to be honored. It separates what God has joined—the unitive from the procreative.
-
-**Abortion** is even worse. It doesn't just prevent life—it destroys life already created. It takes the fruit of love and kills it. It's the ultimate anti-life act, the ultimate rejection of love's life-giving nature.
-
-**The Culture of Death** our society has embraced—contraception, abortion, euthanasia, assisted suicide—all share one thing: They treat life as a problem to be solved rather than a gift to be cherished. They're fundamentally opposed to love's life-giving nature.
+Contraception violates this reality by separating what God has joined. Abortion is even worse—it destroys life already created, the ultimate anti-life act. The Culture of Death our society has embraced—contraception, abortion, euthanasia, assisted suicide—treats life as a problem to be solved rather than a gift to be cherished.
 
 The Church's teaching isn't arbitrary or outdated. It's protecting the truth that love creates life, that sexuality is sacred precisely because it participates in God's creative power, that children are gifts not burdens.
 
 ## Spiritual Fruitfulness: All Are Called
 
-But not everyone is called to physical procreation. Some are called to celibacy—priests, religious, and those who remain single. Does this mean their love isn't life-giving?
+Not everyone is called to physical procreation. Some are called to celibacy—priests, religious, and those who remain single. But everyone is called to spiritual fruitfulness.
 
-Not at all. Everyone is called to spiritual fruitfulness.
-
-**Priests** generate spiritual life through the sacraments—baptizing, absolving, consecrating, anointing. They're spiritual fathers, bringing souls to birth and nourishing them with grace.
-
-**Religious** generate life through prayer, service, and witness. Their lives of consecrated celibacy testify that God alone satisfies, that there's a love greater than human marriage.
-
-**Single People** generate life through their work, their relationships, their service. They're free to give themselves in ways married people cannot—to serve the poor, to care for aging parents, to pursue vocations that require total dedication.
-
-**All Christians** are called to make disciples: "Go, therefore, and make disciples of all nations" (Matthew 28:19, NABRE). We're all called to spiritual parenthood—bringing others to faith, forming them in truth, helping them grow in holiness.
+Priests generate spiritual life through the sacraments—baptizing, absolving, consecrating, anointing. Religious generate life through prayer, service, and witness. Single people generate life through their work, relationships, and service. All Christians are called to make disciples: "Go, therefore, and make disciples of all nations" (Matthew 28:19, NABRE). We're all called to spiritual parenthood—bringing others to faith, forming them in truth, helping them grow in holiness.
 
 Jesus says, "I chose you and appointed you to go and bear fruit that will remain" (John 15:16, NABRE). Not "some of you" or "those called to marriage." All of you. Every Christian is called to be fruitful.
 
 ## The Eucharist: Life-Giving Food
 
-The Eucharist is the supreme example of love's life-giving nature:
+"I am the living bread that came down from heaven; whoever eats this bread will live forever" (John 6:51, NABRE). Christ gives us His own Body and Blood as food. Not symbolically. Not metaphorically. Really, truly, substantially. He makes Himself our nourishment, our life, our strength.
 
-"I am the living bread that came down from heaven; whoever eats this bread will live forever" (John 6:51, NABRE).
-
-Christ gives us His own Body and Blood as food. Not symbolically. Not metaphorically. Really, truly, substantially. He makes Himself our nourishment, our life, our strength.
-
-This is love at its most life-giving: The Beloved becomes food for the beloved. The Creator becomes sustenance for the creature. God becomes bread so we can have life.
-
-And this life multiplies. One host can be divided infinitely—every piece is the whole Christ. One Mass can be celebrated everywhere—the same sacrifice made present in every place. One Eucharist can feed billions—the bread that never runs out.
+This is love at its most life-giving: The Beloved becomes food for the beloved. The Creator becomes sustenance for the creature. God becomes bread so we can have life. And this life multiplies. One host can be divided infinitely—every piece is the whole Christ. One Mass can be celebrated everywhere. One Eucharist can feed billions—the bread that never runs out.
 
 This is the pattern for all love: Give yourself completely, and life multiplies. Hold back, and life withers.
 
 ## How Life-Giving Love Combats Evil
 
-Understanding love as life-giving directly combats specific forms of evil:
-
-**Against the Culture of Death:** Abortion, euthanasia, assisted suicide, contraception—all treat life as a problem. Life-giving love treats life as a gift, defends it from conception to natural death, creates cultures that welcome children and honor the elderly.
-
-**Against Sterility:** Modern relationships often deliberately avoid fruitfulness—hookups that create nothing, marriages that reject children, friendships that enable vice. Life-giving love creates, builds, multiplies—it leaves the world better than it found it.
-
-**Against Despair:** When life seems meaningless, when suffering seems pointless, when death seems final—life-giving love offers hope. It creates new possibilities, generates new life, promises resurrection.
-
-**Against Selfishness:** The refusal to give life—whether physical or spiritual—is ultimately selfish. "I don't want the burden." "I don't want to sacrifice." Life-giving love overcomes selfishness by pouring itself out for others.
-
-**Against Isolation:** Life-giving love creates family, builds community, generates connection. It overcomes the loneliness epidemic by creating bonds that endure.
+Life-giving love combats the Culture of Death by treating life as a gift, defending it from conception to natural death, creating cultures that welcome children and honor the elderly. It combats sterility by creating, building, multiplying—leaving the world better than it found it. It combats despair by creating new possibilities, generating new life, promising resurrection. It combats selfishness by pouring itself out for others. It combats isolation by creating family, building community, generating bonds that endure.
 
 ## The Difference Between Biological and Spiritual Fertility
 
-Here's a crucial distinction: Biological fertility is a gift, but spiritual fruitfulness is a command.
+Biological fertility is a gift, but spiritual fruitfulness is a command. Not everyone can have biological children. Infertility is a real cross, a genuine suffering. But it doesn't mean a person's love isn't life-giving. They can still be spiritually fruitful—adopting children, mentoring young people, serving the Church, making disciples.
 
-Not everyone can have biological children. Infertility is a real cross, a genuine suffering. But it doesn't mean a person's love isn't life-giving. They can still be spiritually fruitful—adopting children, mentoring young people, serving the Church, making disciples.
-
-Everyone can—and must—be spiritually fruitful. There's no excuse. No one is too old, too young, too busy, too broken. Christ calls every Christian to "bear fruit that will remain."
-
-This is liberating. You don't need to be married to be fruitful. You don't need biological children to be a spiritual parent. You don't need special gifts to make disciples. You just need to give what you have, share what you've received, pour out the love God has poured into you.
+Everyone can—and must—be spiritually fruitful. There's no excuse. No one is too old, too young, too busy, too broken. Christ calls every Christian to "bear fruit that will remain." You don't need to be married to be fruitful. You don't need biological children to be a spiritual parent. You just need to give what you have, share what you've received, pour out the love God has poured into you.
 
 ## Generativity in All of Life
 
-Life-giving love extends beyond procreation and evangelization to all of life:
-
-**In Work:** Are you creating value, serving others, building something that lasts? Or just collecting a paycheck, doing the minimum, leaving nothing behind?
-
-**In Art:** Are you creating beauty that elevates, truth that enlightens, goodness that inspires? Or just producing entertainment that numbs, propaganda that deceives, ugliness that degrades?
-
-**In Relationships:** Are you building people up, helping them grow, leaving them better than you found them? Or tearing them down, enabling their vices, leaving destruction in your wake?
-
-**In Community:** Are you contributing to the common good, serving the vulnerable, building up society? Or just consuming resources, taking without giving, leaving nothing for the next generation?
+Life-giving love extends beyond procreation and evangelization to all of life: In work—are you creating value, serving others, building something that lasts? In art—are you creating beauty that elevates, truth that enlightens, goodness that inspires? In relationships—are you building people up, helping them grow, leaving them better than you found them? In community—are you contributing to the common good, serving the vulnerable, building up society?
 
 Life-giving love asks: What am I creating? What am I building? What will remain after I'm gone?
 

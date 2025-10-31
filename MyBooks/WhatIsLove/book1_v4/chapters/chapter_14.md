@@ -72,32 +72,16 @@ The following matrix shows which pillar(s) each vice primarily offends against. 
 Every vice in the matrix above represents a **rejection or distortion of perfect love.** Let's understand what this means:
 
 ### **Offenses Against Truth:**
-When we sin, we deny reality:
-- We deny the truth about God (His existence, His nature, His commands)
-- We deny the truth about ourselves (our human dignity, our dependence, our calling)
-- We deny the truth about others (their human dignity, their rights, their needs)
-- We deny the truth about right and wrong (objective moral law)
+When we sin, we deny reality: the truth about God, ourselves, others, and objective moral law.
 
 ### **Offenses Against Justice:**
-When we sin, we violate what is owed:
-- We fail to give God His due (worship, obedience, gratitude)
-- We fail to give others their due (respect, honesty, what belongs to them)
-- We fail to give ourselves our due (proper self-care, human dignity)
-- We take what doesn't belong to us or withhold what we owe
+When we sin, we violate what is owed: failing to give God His due, failing to give others their due, taking what doesn't belong to us.
 
 ### **Offenses Against Mercy:**
-When we sin, we harden our hearts:
-- We refuse to forgive those who wrong us
-- We show no compassion to those who suffer
-- We judge harshly rather than showing understanding
-- We exploit the vulnerable rather than protecting them
+When we sin, we harden our hearts: refusing to forgive, showing no compassion, judging harshly, exploiting the vulnerable.
 
 ### **Offenses Against Sacrifice:**
-When we sin, we choose selfishness:
-- We refuse to give of ourselves for others' good
-- We seek our own pleasure, comfort, or advantage at others' expense
-- We avoid the cost of doing what is right
-- We take the easy path rather than the narrow way
+When we sin, we choose selfishness: refusing to give of ourselves, seeking our own pleasure at others' expense, avoiding the cost of doing what is right.
 
 **The degree to which we offend against these pillars helps us understand the nature and seriousness of each vice.** However, whether any particular instance is mortal or venial depends on three specific conditions: grave matter, full knowledge, and deliberate consent (explained in detail below). The matrix shows us which pillars each vice offends against, but the three conditions determine the actual gravity of any specific sin.
 
@@ -113,21 +97,11 @@ Those who claim all sin is equal often cite these verses:
 
 **James 2:10:** *"For whoever keeps the whole law, but falls short in one particular, has become guilty in respect to all of it."*
 
-**Isolated reading:** This verse alone might suggest all sins are equally serious.
+**Isolated reading:** James 2:10 alone might suggest all sins are equally serious. **Fuller reading in context:** James is teaching that breaking any commandment makes us lawbreakers—we can't pick and choose. But James 2:11 shows he's arguing against selective obedience, not claiming adultery and murder are equally grave. Breaking the speed limit and murder both make you a lawbreaker, but the gravity is vastly different.
 
-**Fuller reading in context:** James is teaching that breaking any commandment makes us lawbreakers—we can't pick and choose which commandments to follow. But look at the very next verse: **"For he who said, 'You shall not commit adultery,' also said, 'You shall not kill.' Even if you do not commit adultery but kill, you have become a transgressor of the law"** (James 2:11). James is arguing against selective obedience, not claiming adultery and murder are equally grave. In fact, immediately before this, James emphasizes **"judgment is merciless to one who has not shown mercy"** (James 2:13)—showing that different acts have different consequences. Breaking the speed limit and murder both make you a lawbreaker, but the gravity is vastly different.
+**Romans 3:23:** *"All have sinned and are deprived of the glory of God."* **Fuller reading:** Paul is teaching that all humans need redemption, not claiming we're perpetually in mortal sin. Later in Romans, Paul teaches we can **"walk in newness of life"** (Romans 6:4) and be **"dead to sin and living for God"** (Romans 6:11). We're called to growth in holiness.
 
-**Romans 3:23:** *"All have sinned and are deprived of the glory of God."*
-
-**Isolated reading:** This verse alone might suggest we're all equally sinful all the time.
-
-**Fuller reading in context:** Paul is teaching that all humans need redemption—no one is sinless by nature. But read the verses that follow: **"They are justified freely by his grace through the redemption in Christ Jesus"** (Romans 3:24). Paul is establishing the universal need for Christ's redemption, not claiming we're perpetually in mortal sin. Later in Romans, Paul explicitly teaches we can **"walk in newness of life"** (Romans 6:4) and be **"dead to sin and living for God"** (Romans 6:11). We're not trapped in equal sinfulness—we're called to growth in holiness.
-
-**1 John 1:8:** *"If we say, 'We are without sin,' we deceive ourselves, and the truth is not in us."*
-
-**Isolated reading:** This verse alone might suggest we're always in mortal sin.
-
-**Fuller reading in context:** John is warning against claiming sinless perfection (the heresy of the Gnostics he was refuting). But he immediately follows with: *"If we acknowledge our sins, he is faithful and just and will forgive our sins"* (1 John 1:9). We can be forgiven and restored—not perpetually guilty. And just a few chapters later, John explicitly distinguishes between deadly and non-deadly sin (1 John 5:16-17), proving he doesn't believe all sins are equal.
+**1 John 1:8:** *"If we say, 'We are without sin,' we deceive ourselves."* **Fuller reading:** John is warning against claiming sinless perfection. But he immediately follows with: *"If we acknowledge our sins, he is faithful and just and will forgive our sins"* (1 John 1:9). We can be forgiven and restored. John explicitly distinguishes between deadly and non-deadly sin (1 John 5:16-17).
 
 ### **Jesus Himself Teaches We Can Choose Good:**
 
@@ -473,19 +447,9 @@ Not every instance of grave matter automatically constitutes mortal sin. Various
 
 ### **Mitigating Factors (Reduce Culpability):**
 
-**Factors that reduce knowledge:**
-- **Invincible ignorance:** Genuinely not knowing something is wrong through no fault of your own
-- **Poor formation:** Never being taught Church teaching on a matter
-- **Confusion:** Being misled by false teachers or cultural lies
-- **Mental impairment:** Intellectual disability, severe mental illness
+**Factors that reduce knowledge:** Invincible ignorance, poor formation, confusion from false teachers, mental impairment.
 
-**Factors that reduce freedom:**
-- **Grave fear:** Being coerced or threatened
-- **Strong passion:** Anger, lust, or other emotions that cloud judgment (doesn't eliminate responsibility but reduces it)
-- **Addiction:** Chemical dependency that impairs free will (reduces but doesn't eliminate culpability)
-- **Habit:** Long-standing patterns make resistance harder (though we're still responsible for forming good habits)
-- **Psychological compulsion:** OCD, severe anxiety, trauma responses
-- **Immaturity:** Young age, lack of development
+**Factors that reduce freedom:** Grave fear, strong passion, addiction, habit, psychological compulsion, immaturity.
 
 **Important distinctions:**
 - These factors **reduce** culpability; they don't necessarily **eliminate** it
@@ -495,25 +459,13 @@ Not every instance of grave matter automatically constitutes mortal sin. Various
 
 ### **Aggravating Factors (Increase Gravity):**
 
-**Factors that increase offense against truth:**
-- **Hypocrisy:** Publicly teaching one thing while privately doing another
-- **Scandal:** Leading others into sin by your example
-- **Sacrilege:** Violating sacred things (desecrating Eucharist, sexual sin by clergy)
+**Factors that increase offense against truth:** Hypocrisy, scandal, sacrilege.
 
-**Factors that increase offense against justice:**
-- **Abuse of authority:** Using position of power to sin (parent, priest, teacher, employer)
-- **Violating sacred trust:** Betraying confidences, breaking vows, violating sacramental seal
-- **Harming the vulnerable:** Sins against children, elderly, disabled, poor
+**Factors that increase offense against justice:** Abuse of authority, violating sacred trust, harming the vulnerable.
 
-**Factors that increase offense against mercy:**
-- **Cruelty:** Deliberately causing suffering
-- **Malice:** Sinning specifically to hurt someone
-- **Refusing to repent:** Hardening heart against God's grace
+**Factors that increase offense against mercy:** Cruelty, malice, refusing to repent.
 
-**Factors that increase offense against sacrifice:**
-- **Premeditation:** Planning sin in advance
-- **Persistence:** Continuing despite warnings and opportunities to stop
-- **Leading others into sin:** Corrupting the innocent
+**Factors that increase offense against sacrifice:** Premeditation, persistence, leading others into sin.
 
 ### **The Role of Circumstances:**
 
@@ -716,20 +668,9 @@ Understanding the distinction between mortal and venial sin is not meant to make
 
 ### **The Good News:**
 
-**We can grow in holiness.** We can decrease in sin. We can, by God's grace:
-- **Learn what mortal sins are** through the Church's teaching (truth)
-- **Avoid mortal sins entirely** through prayer, sacraments, and vigilance
-- **Reduce venial sins progressively** as we grow in virtue
-- **Choose good consistently** even when tempted
-- **Grow in holiness** until we become saints
+**We can grow in holiness.** We can decrease in sin. By God's grace, we can learn what mortal sins are, avoid mortal sins entirely through prayer and sacraments, reduce venial sins progressively, choose good consistently, and grow in holiness until we become saints.
 
-### **God Created Us for Growth:**
-
-God created us as human beings who cannot be "perfect" in the same way Jesus was (sinless from conception), but we can:
-- **Always choose good over evil** with God's grace
-- **Certainly avoid mortal sins** through vigilance and the sacraments
-- **Progressively reduce venial sins** as we grow in virtue
-- **Become saints** by cooperating with God's grace
+God created us as human beings who cannot be "perfect" in the same way Jesus was (sinless from conception), but we can always choose good over evil with God's grace, certainly avoid mortal sins through vigilance and the sacraments, progressively reduce venial sins as we grow in virtue, and become saints by cooperating with God's grace.
 
 St. Paul himself testifies to this growth: **"Not that I have already obtained this or am already perfect; but I press on to make it my own, because Christ Jesus has made me his own"** (Philippians 3:12).
 
@@ -761,7 +702,7 @@ The saints demonstrate that heroic virtue is possible—not through our own powe
 
 This is what it means to "work out your salvation with fear and trembling" (Philippians 2:12)—to progressively integrate truth, justice, mercy, and sacrifice more perfectly into every aspect of our lives until we become saints.
 
-**We are not condemned to perpetual sin.** We are called to perpetual growth in love. The distinction between mortal and venial sin is a gift that helps us understand where we are, where we need to grow, and how to cooperate with God's grace in becoming the saints He created us to be.
+**We are not condemned to perpetual sin.** We are called to perpetual growth in love. The distinction between mortal and venial sin is a gift that helps us understand where we are, where we need to grow, and how to cooperate with God's grace in becoming the saints He created us to be. Saints that love God so deeply that we feel intimately connected to Him. This love enables true salvation.
 
 ---
 

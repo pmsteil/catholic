@@ -42,77 +42,29 @@ Justice is love giving each person what they are due based on their dignity as i
 
 Our culture has confused justice with revenge, fairness with equality, rights with desires. We need to recover the true meaning.
 
-**Biblical Justice (*Mishpat* and *Tsedeqah*):**
+The Hebrew Scriptures use two main words for justice: *Mishpat* (right judgment, vindication of the oppressed) and *Tsedeqah* (righteousness, right relationships). Together, they reveal justice as both giving what's due and restoring what's broken.
 
-The Hebrew Scriptures use two main words for justice:
-
-*Mishpat*: Right judgment, fairness, vindication of the oppressed. This is justice as giving what's owed, protecting rights, correcting wrongs.
-
-*Tsedeqah*: Righteousness, right relationships. This is justice as restoring proper order, healing what's broken, making things right.
-
-Together, they reveal justice as both:
-- **Giving what's due** (honoring rights, fulfilling obligations)
-- **Restoring what's broken** (healing relationships, correcting wrongs)
-
-This is very different from our culture's understanding. Modern "justice" often means:
-- Getting revenge
-- Enforcing equality of outcomes
-- Asserting individual rights without corresponding responsibilities
-- Punishing without restoring
-
-Biblical justice means giving each person what they're truly owed based on their actual dignity and nature—and working to restore right relationships when they're broken.
+Modern "justice" often means punishment or revenge, enforcing equality of outcomes, or asserting rights without responsibilities. Biblical justice means giving each person what they're truly owed based on their true dignity—and working to restore right relationships when they're broken.
 
 ## Justice Grounded in Imago Dei
 
-Why does every person deserve justice? Not because of their achievements, their usefulness, or their power. Because they're made in God's image.
+Why does every person deserve justice? Because they're made in God's image: "So God created mankind in his own image; in the image of God he created them; male and female he created them" (Genesis 1:27, NABRE).
 
-"So God created mankind in his own image; in the image of God he created them; male and female he created them" (Genesis 1:27, NABRE).
-
-This is the foundation of all human rights and all justice:
-
-**Every human being** has inherent dignity—not earned, not granted by society, but given by God.
-
-**Every human being** deserves to be treated according to that dignity—not as a means to our ends, but as an end in themselves.
-
-**Every human being** has rights that flow from their nature—life, family, truth, freedom, worship, property.
-
-**Every human being** has responsibilities that correspond to those rights—to respect others' dignity, to fulfill our duties, to contribute to the common good.
+This is the foundation of all human rights and all justice: Every human being has inherent dignity given by God. Every human being deserves to be treated according to that dignity. Every human being has rights that flow from their nature—life, family, truth, freedom, worship, property—and responsibilities that correspond to those rights.
 
 Justice means honoring this reality. Injustice means denying it—treating people as less than human, violating their dignity, refusing what's owed to them.
 
 ## How Justice Serves Love
 
-Justice isn't opposed to love—it's love's foundation. Without justice, love has no content. With justice, love becomes concrete and real.
-
-**Justice Provides Objective Standards:** Love without justice becomes arbitrary—whatever I feel, whatever I decide. Justice grounds love in reality: "This is what you're truly owed as a human being made in God's image."
-
-**Justice Protects the Vulnerable:** Love without justice can't defend those who are exploited. Justice gives love teeth—the power to say "This is wrong" and mean it objectively, not just subjectively.
-
-**Justice Creates Stability:** Love without justice is unstable—changing with moods, circumstances, feelings. Justice provides the stable foundation that allows love to endure.
-
-**Justice Enables Trust:** You can't trust someone who doesn't honor justice. Justice creates the reliability that makes relationship possible.
-
-**Justice Prepares for Mercy:** You can only transcend justice with mercy if there's justice to transcend. Mercy without justice is just sentiment. Mercy with justice is powerful transformation.
+Justice isn't opposed to love—it's love's foundation. Justice provides objective standards that ground love in reality. Justice protects the vulnerable by giving love the power to say "This is wrong" objectively. Justice creates the stability that allows love to endure. Justice enables the trust that makes relationship possible. Justice prepares for mercy—you can only transcend justice with mercy if there's justice to transcend.
 
 ## Justice vs. Sentimentality
 
 Our culture often confuses love with sentimentality—feelings without justice, compassion without standards, "niceness" without truth.
 
-**Sentimentality says:** "I feel bad for you, so I'll ignore what you've done wrong."
+Sentimentality says "I feel bad for you, so I'll ignore what you've done wrong." Justice says "What you did was wrong and has consequences, but I'll help you make it right." Sentimentality says "Love means never making anyone uncomfortable." Justice says "Love means caring enough to speak hard truths when necessary."
 
-**Justice says:** "What you did was wrong and has consequences, but I'll help you make it right."
-
-**Sentimentality says:** "Everyone deserves to be happy, so we shouldn't judge anyone."
-
-**Justice says:** "Everyone deserves to be treated with dignity, which means holding them accountable to truth."
-
-**Sentimentality says:** "Love means never making anyone uncomfortable."
-
-**Justice says:** "Love means caring enough to speak hard truths when necessary."
-
-Sentimentality feels like love but isn't. It's actually a form of contempt—treating people as too weak or too broken to handle truth, too fragile to be held to standards, too pathetic to be expected to change.
-
-True love includes justice. It treats people as capable of truth, worthy of standards, able to grow and change.
+Sentimentality feels like love but isn't. It's actually a form of contempt—treating people as too weak to handle truth, too fragile to be held to standards. True love includes justice. It treats people as capable of truth, worthy of standards, able to grow and change.
 
 ## Justice in Different Relationships
 
@@ -132,61 +84,23 @@ Justice takes different forms depending on the relationship:
 
 ## How Justice Combats Evil
 
-Understanding love as including justice directly combats specific forms of evil:
-
-**Against Exploitation:** When the powerful exploit the weak, justice cries out. Love that includes justice protects the vulnerable, defends the oppressed, gives voice to the voiceless.
-
-**Against Oppression:** Systemic injustice—racism, economic exploitation, political corruption—violates human dignity. Justice exposes and opposes these evils.
-
-**Against Relativism:** "Who are you to judge?" Justice answers: "I'm someone who recognizes objective standards of right and wrong based on human dignity."
-
-**Against Enabling:** "Love" that enables sin isn't love—it's injustice. True love holds people accountable because they're capable of better.
-
-**Against Revenge:** Justice isn't revenge. Revenge seeks to harm. Justice seeks to restore. Love that includes justice heals rather than wounds.
+Justice combats exploitation by protecting the vulnerable and defending the oppressed. Justice combats systemic oppression—racism, economic exploitation, political corruption—by exposing violations of human dignity. Justice combats relativism by recognizing objective standards based on human dignity. Justice combats enabling by holding people accountable because they're capable of better. Justice combats revenge by seeking to restore rather than harm.
 
 ## Justice and the Common Good
 
-Justice isn't just individual—it's social. We have obligations not just to specific persons but to society as a whole.
+Justice isn't just individual—it's social. The common good means the conditions that allow all people to flourish—peace, order, opportunity, protection of rights, promotion of virtue.
 
-**The Common Good** means the conditions that allow all people to flourish—peace, order, opportunity, protection of rights, promotion of virtue.
-
-Justice toward the common good requires:
-
-**Subsidiarity:** Problems should be solved at the most local level possible. Higher authorities should help (subsidium) lower ones, not replace them.
-
-**Solidarity:** We're all responsible for each other. The strong should help the weak. The wealthy should help the poor. The healthy should help the sick.
-
-**Human Dignity:** Every policy, every law, every social structure must respect the inherent dignity of every human person.
-
-**Family Priority:** The family is the fundamental unit of society. Justice requires protecting and supporting families, not undermining them.
-
-**Religious Freedom:** People have the right to worship God according to their conscience. Justice protects this right.
+Justice toward the common good requires subsidiarity (solving problems at the most local level), solidarity (the strong helping the weak), respect for human dignity in every policy and law, family priority (protecting the fundamental unit of society), and religious freedom (the right to worship according to conscience).
 
 ## The Sacrament of Reconciliation: Justice and Mercy United
 
-The Catholic Sacrament of Reconciliation perfectly demonstrates how justice and mercy work together:
+The Catholic Sacrament of Reconciliation perfectly demonstrates how justice and mercy work together. Justice requires acknowledging sin (confession), accepting consequences (penance), making amends (restitution). Mercy offers forgiveness (absolution), restoration (grace), healing (reconciliation).
 
-**Justice Requires:** Acknowledging sin (confession), accepting consequences (penance), making amends (restitution).
+The sacrament doesn't choose between justice and mercy—it integrates both. Notice how the structure honors both, grounded in truth about human nature:
 
-**Mercy Offers:** Forgiveness (absolution), restoration (grace), healing (reconciliation).
+We must face the truth about our sins (examination). We must speak our sins aloud—truth reveals that we NEED to confess, to bring sin into the light. We must genuinely repent—recognizing we've violated something sacred. We must accept consequences and make amends—when we commit grave sins, we feel a deep need to "make up" for what we've done. Simply being told "you're forgiven" might not be enough—we feel the need to DO something to make amends. The sacrament honors this truth about how we're made. God offers complete forgiveness—mercy transcending what justice requires. We commit to change—justice and mercy together leading to transformation.
 
-The sacrament doesn't choose between justice and mercy—it integrates both. Sin is real (justice). Forgiveness is offered (mercy). Consequences remain (justice). Relationship is restored (mercy).
-
-Notice how the structure of the sacrament honors both, grounded in truth about human nature:
-
-**Examination of Conscience:** We must face the truth about our sins—what justice demands we acknowledge.
-
-**Confession:** We must speak our sins aloud to the priest—giving God what He's due: honest admission of wrongdoing. Truth reveals that we as human beings NEED to confess, to bring our sins into the light, to hear ourselves say what we've done. Keeping sin hidden only deepens its power over us.
-
-**Contrition:** We must genuinely repent—justice requires we recognize the gravity of our offense. Truth shows us that authentic sorrow isn't just feeling bad; it's recognizing we've violated something sacred.
-
-**Penance:** We must accept consequences and make amends—justice demands restitution where possible. Here's a profound truth about human nature: when we commit grave sins, we feel a deep need to "make up" for what we've done. Simply being told "you're forgiven" isn't enough—we need to DO something, to offer something, to make tangible amends. The sacrament honors this truth about how we're made.
-
-**Absolution:** God offers complete forgiveness—mercy transcending what justice strictly requires. Truth reveals that we cannot earn this forgiveness, yet we desperately need to hear it spoken with Christ's authority: "I absolve you."
-
-**Amendment of Life:** We commit to change—justice and mercy together leading to transformation. Truth demands we not just feel sorry but actually become different people.
-
-This is love in action—truth about sin, truth about human nature, justice requiring acknowledgment, mercy offering forgiveness, all working together to heal and restore. The sacrament shows us that authentic love never chooses between truth, justice, and mercy; it holds them in perfect tension, each making the others more powerful.
+This is love in action—truth about sin, justice requiring acknowledgment, mercy offering forgiveness, all working together to heal and restore. The sacrament shows us that authentic love never chooses between truth, justice, and mercy; it holds them in perfect tension, each making the others more powerful.
 
 ## The Bridge to Mercy
 

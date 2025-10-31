@@ -32,29 +32,17 @@ Jesus' words are uncompromising: causing little ones to stumble merits the harsh
 
 Before examining how counterfeits fail, we must understand what children actually need. God's Perfect Love provides six essential components:
 
-**1. Truth - Knowing Reality**
+**1. Truth - Knowing Reality:** Children need to understand the world as it actually is. "Train up a child in the way he should go" (Proverbs 22:6). Confusion about reality creates anxiety and inability to navigate life. God's Perfect Love provides objective truth grounded in God's design.
 
-Children need to understand the world as it actually is. "Train up a child in the way he should go" (Proverbs 22:6). Confusion about reality creates anxiety, instability, and inability to navigate life. God's Perfect Love provides objective truth grounded in God's design.
+**2. Justice - Security and Protection:** Children need to know they have rights, dignity, and protection. "Give justice to the weak and the fatherless" (Psalm 82:3-4). Without justice, children are vulnerable to exploitation. God's Perfect Love provides recognition of sacred dignity, rights to mother and father, and protection through covenant.
 
-**2. Justice - Security and Protection**
+**3. Mercy - Healing When Things Go Wrong:** Children need forgiveness, second chances, and restoration. "The steadfast love of the Lord never ceases" (Lamentations 3:22-23). Without mercy, children carry wounds that never heal. God's Perfect Love provides compassionate forgiveness that calls to conversion and healing.
 
-Children need to know they have rights, dignity, and protection. "Give justice to the weak and the fatherless; maintain the right of the afflicted and the destitute" (Psalm 82:3-4). Without justice, children are vulnerable to exploitation and abandonment. God's Perfect Love provides recognition of sacred dignity, rights to mother and father, and protection through covenant.
+**4. Sacrifice - Adults Who Put Children First:** Children need parents willing to give up personal desires for their good. "Do nothing from selfish ambition" (Philippians 2:3-4). Without sacrifice, children are abandoned when costly. God's Perfect Love provides self-giving love that prioritizes children's needs over adult desires.
 
-**3. Mercy - Healing When Things Go Wrong**
+**5. Covenant - Stable, Permanent Relationships:** Children need to know their family won't dissolve, that promises are kept. God hates divorce because He seeks "godly offspring" (Malachi 2:15-16). Without covenant, children live in constant insecurity. God's Perfect Love provides binding promises that create safety.
 
-Children need forgiveness, second chances, and restoration. "The steadfast love of the Lord never ceases; his mercies are new every morning" (Lamentations 3:22-23). Without mercy, children carry wounds that never heal. God's Perfect Love provides compassionate forgiveness that calls to conversion and healing.
-
-**4. Sacrifice - Adults Who Put Children First**
-
-Children need parents and communities willing to give up personal desires for their good. "Do nothing from selfish ambition... let each of you look not only to his own interests, but also to the interests of others" (Philippians 2:3-4). Without sacrifice, children are abandoned when costly or inconvenient. God's Perfect Love provides self-giving love that prioritizes children's needs over adult desires.
-
-**5. Covenant - Stable, Permanent Relationships**
-
-Children need to know their family won't dissolve, that promises are kept. God hates divorce because He seeks "godly offspring" (Malachi 2:15-16). Without covenant, children live in constant insecurity. God's Perfect Love provides binding promises that create safety for vulnerability and formation.
-
-**6. Life-Giving Communion - Belonging to Family and Community**
-
-Children need to be part of something larger than themselves. The family is the domestic church (Ephesians 6:1-4). Without communion, children are isolated, without models or mentors. God's Perfect Love provides generational bonds, extended family, and Church community.
+**6. Life-Giving Communion - Belonging to Family and Community:** Children need to be part of something larger than themselves. The family is the domestic church (Ephesians 6:1-4). Without communion, children are isolated. God's Perfect Love provides generational bonds, extended family, and Church community.
 
 <div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
 Children need ALL six components working together. Remove any one, and children suffer. This is why counterfeit love always harms children—it's missing essential components.
@@ -81,11 +69,11 @@ We can map exactly what's missing—and see precisely how children suffer as a r
 
 These two counterfeits represent the ultimate harm to children: denying their very existence or their future ability to exist. Adults debate autonomy and identity while children suffer death or sterilization.
 
-Abortion eliminates 60+ million children in America alone—an entire generation lost. Families that will never exist. Grandchildren never born. Bloodlines ended. The child's right to life—the most fundamental justice—is denied completely. The mother's crisis is "solved" by killing the child, the opposite of mercy. Adults avoid the cost of parenthood through the ultimate sacrifice: the child's life.
+Abortion eliminates 60+ million children in America alone—an entire generation lost. Families that will never exist. Grandchildren never born. Bloodlines ended. The child's right to life—the most fundamental justice—is denied completely. The mother's crisis is "solved" by killing the child. Adults avoid the cost of parenthood through the ultimate sacrifice: the child's life.
 
-Gender ideology sterilizes children before they can understand the permanent consequences, destroying their future as parents. Children are told their bodies are wrong, that biological reality is negotiable. They undergo irreversible medical interventions—puberty blockers, cross-sex hormones, surgeries—that eliminate their fertility. Adults celebrate "authenticity" while children lose the ability to create the next generation.
+Gender ideology sterilizes children before they can understand the permanent consequences, destroying their future as parents. Children are told their bodies are wrong, that biological reality is negotiable. They undergo irreversible medical interventions that eliminate their fertility. Adults celebrate "authenticity" while children lose the ability to create the next generation.
 
-Both deny fundamental truth (personhood, biological reality), violate justice (right to life, right to intact body), pervert mercy (killing/mutilating instead of healing), and demand children sacrifice their lives or fertility for adult ideology. The generational impact is catastrophic: entire bloodlines eliminated, families that will never exist, civilization's future destroyed at its source.
+Both deny fundamental truth, violate justice, pervert mercy (killing/mutilating instead of healing), and demand children sacrifice their lives or fertility for adult ideology. The generational impact is catastrophic: entire bloodlines eliminated, families that will never exist, civilization's future destroyed at its source.
 
 ### Category 2: Counterfeits That Destroy Family Structure
 
@@ -102,11 +90,11 @@ Both deny fundamental truth (personhood, biological reality), violate justice (r
 
 Five counterfeits systematically destroy the family structure children depend upon for security and formation. The pattern is clear: adults debate their rights to happiness, autonomy, and self-definition while children suffer the shattering of their world.
 
-Cohabitation refuses binding promises, leaving children vulnerable to abandonment. Statistics show cohabiting couples break up at far higher rates than married couples. Children in these relationships never know if their family will still exist tomorrow. They learn that commitment is optional, promises are negotiable, and love doesn't require sacrifice.
+Cohabitation refuses binding promises, leaving children vulnerable to abandonment. Cohabiting couples break up at far higher rates than married couples. Children in these relationships never know if their family will still exist tomorrow. They learn that commitment is optional, promises are negotiable, and love doesn't require sacrifice.
 
 Divorce breaks the covenant children depend upon, forcing them to shuttle between homes with torn loyalties and lifelong wounds. "Mom's house" and "Dad's house" replace "home." Holidays become negotiations. Children feel responsible for the breakup, guilty for loving both parents, anxious about the future. The adults who promised "till death do us part" broke that promise, teaching children that no promise can be trusted.
 
-Same-sex "marriage" intentionally deprives children of either mother or father, treating them as commodities to fulfill adult desires. Children are purchased through surrogacy or artificial insemination, deliberately separated from biological parents, denied the complementary love and formation that only the union of man and woman provides. Adults claim "love is love" while children pay the price of motherlessness or fatherlessness by design.
+Same-sex "marriage" intentionally deprives children of either mother or father. Children are purchased through surrogacy or artificial insemination, deliberately separated from biological parents, denied the complementary love and formation that only the union of man and woman provides. Adults claim "love is love" while children pay the price of motherlessness or fatherlessness by design.
 
 All five distort truth (pretending commitment unnecessary, denying children's needs), violate justice (denying children's rights to stable family), pervert mercy (no perseverance, no healing), and demand children sacrifice their security for adult autonomy.
 
@@ -127,7 +115,7 @@ These counterfeits poison the source—damaging parents' ability to love their o
 
 Pornography addicts parents to fantasy, creating emotional absence, broken marriages, and modeling objectification that damages children's future relationships. The father addicted to pornography cannot be fully present to his wife or children. His mind is elsewhere, his capacity for real intimacy destroyed. When the addiction is discovered, marriages crumble. Children lose their father—not to death, but to pixels on a screen. They learn that persons are objects, that intimacy is performance, that love is consumption.
 
-Hookup culture leaves children born into instability without committed fathers, raised by mothers damaged by repeated exploitation, inheriting a culture that has forgotten how to form lasting families. The child conceived in a hookup is often unwanted, sometimes aborted, occasionally born into a single-parent home where the mother struggles alone. The father is absent—he was never committed, never bound by covenant, never willing to sacrifice for his child. The child grows up without models of authentic love, without witnessing covenant fidelity, without learning how to form a stable family.
+Hookup culture leaves children born into instability without committed fathers, raised by mothers damaged by repeated exploitation, inheriting a culture that has forgotten how to form lasting families. The child conceived in a hookup is often unwanted, sometimes aborted, occasionally born into a single-parent home where the mother struggles alone. The father is absent—never committed, never bound by covenant, never willing to sacrifice for his child. The child grows up without models of authentic love, without witnessing covenant fidelity, without learning how to form a stable family.
 
 Both distort truth (treating persons as objects, pretending sex without commitment is harmless), violate justice (denying dignity and children's rights), pervert mercy (exploitation instead of healing), and demand children sacrifice their security for adult pleasure.
 
@@ -147,11 +135,11 @@ Both distort truth (treating persons as objects, pretending sex without commitme
 
 Four counterfeits systematically destroy children's ability to grasp objective truth, leaving them unable to navigate reality. Adults debate power structures, inclusion, and personal authenticity while children suffer profound confusion about what is real.
 
-Postmodernism denies objective truth exists, leaving children unable to discern truth from opinion in moral paralysis. When teachers tell children "there is no objective truth, only perspectives," children lose the ability to call anything truly wrong. Bullying? Just a perspective. Cheating? Just a different interpretation. Murder? Just one narrative among many. Children are left morally paralyzed, unable to stand for anything because nothing is objectively true.
+Postmodernism denies objective truth exists, leaving children unable to discern truth from opinion in moral paralysis. When teachers tell children "there is no objective truth, only perspectives," children lose the ability to call anything truly wrong. Bullying? Just a perspective. Cheating? Just a different interpretation. Murder? Just one narrative among many. Children are left morally paralyzed, unable to stand for anything.
 
-Wokeism subordinates reality to feelings, forcing children to affirm what they know is false and developing victim mentality over virtue. Children are told that a boy who identifies as a girl IS a girl, that to question this is violence, that compassion requires celebrating sin. They must affirm lies or be labeled bigots. They learn to claim victim status rather than develop virtue, to seek grievance rather than excellence, to demand others sacrifice truth to affirm their feelings.
+Wokeism subordinates reality to feelings, forcing children to affirm what they know is false and developing victim mentality over virtue. Children are told that a boy who identifies as a girl IS a girl, that to question this is violence, that compassion requires celebrating sin. They must affirm lies or be labeled bigots. They learn to claim victim status rather than develop virtue, to seek grievance rather than excellence.
 
-Relativism's "my truth" creates contradictory claims that leave children without moral compass. "Your truth" says marriage is between man and woman. "My truth" says marriage is any two people who love each other. Both can't be true, but relativism forbids choosing. Children are left confused, unable to build their lives on any foundation, unable to make moral judgments, unable to function in reality.
+Relativism's "my truth" creates contradictory claims that leave children without moral compass. "Your truth" says marriage is between man and woman. "My truth" says marriage is any two people who love each other. Both can't be true, but relativism forbids choosing. Children are left confused, unable to build their lives on any foundation, unable to make moral judgments.
 
 All four distort truth (denying objective reality), violate justice (no objective standards), pervert mercy (cannot call to truth/healing if no truth exists), and demand no sacrifice (no cost to hold contradictory views or create own "truth").
 
@@ -173,7 +161,7 @@ Four counterfeits destroy children's moral formation by eliminating transcendent
 
 Marxism teaches hatred of "oppressors" and misdirects sacrificial impulse toward violent revolution, creating society of resentment rather than solidarity. Children are taught to see the world through class struggle, to hate the wealthy, to seek revenge rather than restoration. The natural impulse to sacrifice for others is channeled toward violence. The result: children who cannot build community, cannot forgive, cannot love across class lines.
 
-Scientism and atheism deny transcendent reality, leaving children with no purpose beyond biology, no foundation for human dignity, no explanation for deepest longings, and no hope for eternal communion. If humans are just matter, why does truth matter? Why should we sacrifice for others? Why is justice important? Children raised in scientism and atheism have no answers. They experience moral intuitions—the sense that some things are truly wrong—but have no foundation for those intuitions. The result: nihilism, despair, inability to explain why truth, justice, and mercy matter.
+Scientism and atheism deny transcendent reality, leaving children with no purpose beyond biology, no foundation for human dignity, no explanation for deepest longings, and no hope for eternal communion. If humans are just matter, why does truth matter? Why should we sacrifice for others? Children raised in scientism and atheism have no answers. They experience moral intuitions but have no foundation for those intuitions. The result: nihilism, despair, inability to explain why truth, justice, and mercy matter.
 
 All four distort truth (reducing reality to matter/power), violate justice (no transcendent basis), pervert mercy (no forgiveness or eternal hope), and either misdirect sacrifice (toward revolution/state) or eliminate it (no transcendent purpose).
 
@@ -194,11 +182,11 @@ All four distort truth (reducing reality to matter/power), violate justice (no t
 
 Six Protestant errors systematically destroy children's faith formation by separating essential components of authentic Christianity. Adults debate salvation, authority, and spirituality while children inherit incomplete Christianity that cannot be lived or transmitted.
 
-"Faith Alone" separates belief from action, leaving children with no virtue formation. They're told that faith is enough, that works add nothing. The result: children who believe but don't act, who claim Christ but don't follow Him, who have no formation in justice, mercy, or sacrifice. Faith becomes mere intellectual assent, not transformation of life.
+"Faith Alone" separates belief from action, leaving children with no virtue formation. They're told that faith is enough, that works add nothing. The result: children who believe but don't act, who claim Christ but don't follow Him, who have no formation in justice, mercy, or sacrifice. Faith becomes mere intellectual assent.
 
 "Once Saved Always Saved" presumes eternal security regardless of sin, teaching children sin doesn't matter and leaving them enslaved. They're told that a past decision guarantees heaven regardless of how they live. The result: moral complacency, presumption, and continued slavery to sin. Christ came to free us from sin, but this doctrine tells children they're free while they remain enslaved.
 
-"Inclusive Christianity" makes all beliefs equally valid, leaving children unable to discern truth from error. They're told that all denominations teach truth, that doctrine doesn't matter, that unity means accepting contradictions. The result: children who cannot distinguish Christianity from anything else, who reduce faith to sentiment, who have no stable truth to build their lives on.
+"Inclusive Christianity" makes all beliefs equally valid, leaving children unable to discern truth from error. They're told that all denominations teach truth, that doctrine doesn't matter, that unity means accepting contradictions. The result: children who cannot distinguish Christianity from anything else, who reduce faith to sentiment.
 
 "Spiritual not Religious" rejects institutional Church, leaving children without sacraments, community, or formation that can be transmitted. They're told that personal spirituality is sufficient, that Church is optional. The result: isolated individualism that cannot be passed to the next generation. Faith dies in one generation because there's no community to transmit it, no sacraments to convey grace, no formation to shape virtue.
 

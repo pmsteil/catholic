@@ -16,7 +16,7 @@
 
 ## What IS the Gospel?
 
-If you asked ten Christians "What is the Gospel?" you'd likely get ten different answers. Some would say "Jesus died for your sins." Others "God loves you." Still others "Believe and be saved." Each captures part of the truth, but what if the Gospel is something far more comprehensive—something that encompasses all of these and more?
+If you asked ten Christians "What is the Gospel?" you'd likely get ten different answers. Some would say "Jesus died for your sins." Others "God loves you." Still others "Believe and be saved." Each captures part of the truth, but what if the Gospel is something far more comprehensive?
 
 Modern Christianity has fragmented the Gospel into competing emphases. Some focus only on personal salvation (individualism). Others focus only on social justice (activism). Still others focus only on correct doctrine (intellectualism). Each captures part of the truth but misses the whole.
 
@@ -24,11 +24,11 @@ Here is the thesis that brings it all together: **The Gospel IS God's Perfect Lo
 
 "For God so loved the world that he gave his only Son, so that everyone who believes in him might not perish but might have eternal life" (John 3:16). This is not merely information about God's love—it IS God's Perfect Love made flesh.
 
-But notice what comes next—the verses often left out: "And this is the verdict, that the light came into the world, but people preferred darkness to light, because their works were evil. For everyone who does wicked things hates the light and does not come toward the light, so that his works might not be exposed. But whoever lives the truth comes to the light, so that his works may be clearly seen as done in God" (John 3:19-21, NABRE).
+But notice what comes next—the verses often left out: "And this is the verdict, that the light came into the world, but people preferred darkness to light, because their works were evil... But whoever lives the truth comes to the light, so that his works may be clearly seen as done in God" (John 3:19-21, NABRE).
 
-The fulfillment of verse 16 requires living the truth—not just believing intellectually, but actually living His love in order to bring out His good works of salvation for others. God's love isn't just about being saved from hell; it's about being transformed to live in the light, to do good works, to have our lives "clearly seen as done in God."
+The fulfillment of verse 16 requires living the truth—not just believing intellectually, but actually living His love in order to bring out His good works of salvation for others. God's love isn't just about being saved from hell; it's about being transformed to live in the light, to do good works.
 
-This is crucial: Christ doesn't save us "apart from us"—as if salvation happens while we remain passive spectators. Rather, He saves us by transforming us, by giving us His grace so we can cooperate with Him in living authentic love. We cannot save ourselves, but neither does He save us without our free cooperation. This is why our definition integrates truth, justice, mercy, and sacrifice—authentic love requires all of them working together, not just mental assent. God's grace enables us to live these out, but we must freely choose to cooperate. Every aspect of our definition finds its perfect fulfillment in Christ's person and work, and through His grace, in our transformed lives.
+This is crucial: Christ doesn't save us "apart from us"—as if salvation happens while we remain passive spectators. Rather, He saves us by transforming us, by giving us His grace so we can cooperate with Him in living authentic love. We cannot save ourselves, but neither does He save us without our free cooperation. This is why our definition integrates truth, justice, mercy, and sacrifice—authentic love requires all of them working together, not just mental assent. Every aspect of our definition finds its perfect fulfillment in Christ's person and work, and through His grace, in our transformed lives.
 
 ---
 
@@ -36,9 +36,9 @@ This is crucial: Christ doesn't save us "apart from us"—as if salvation happen
 
 Jesus reveals that love originates from God and participates in divine nature. "In the beginning was the Word, and the Word was with God, and the Word was God" (John 1:1). Christ's divinity establishes love's sacred origin. He is "the image of the invisible God" (Colossians 1:15), "the refraction of God's glory, the very imprint of his being" (Hebrews 1:3).
 
-The Incarnation proves love is not abstract but personal. God doesn't just send love—He BECOMES love incarnate. When Jesus declares "The Father and I are one" (John 10:30), He establishes that authentic love has its source in the divine nature itself. This refutes all attempts to reduce love to evolutionary biology, cultural construct, or human sentiment.
+The Incarnation proves love is not abstract but personal. God doesn't just send love—He BECOMES love incarnate. When Jesus declares "The Father and I are one" (John 10:30), He establishes that authentic love has its source in the divine nature itself.
 
-**How This Combats Evil:** Secularization of love claims it's merely natural, but Christ proves love has divine source. Dehumanization treats persons as objects, but the Incarnation affirms human dignity—God became human. Meaninglessness claims life has no purpose, but love has eternal, transcendent purpose in Christ.
+**How This Combats Evil:** Secularization claims love is merely natural, but Christ proves love has divine source. Dehumanization treats persons as objects, but the Incarnation affirms human dignity—God became human. Meaninglessness claims life has no purpose, but love has eternal, transcendent purpose in Christ.
 
 The sacred source means love is not what we decide it is, but what God reveals it to be. We don't invent love; we discover it in the person of Jesus Christ.
 
@@ -48,11 +48,11 @@ The sacred source means love is not what we decide it is, but what God reveals i
 
 Jesus establishes the New Covenant through His blood, creating permanent relationship between God and humanity. "This cup is the new covenant in my blood, which will be shed for you" (Luke 22:20). Christ is the mediator of a better covenant (Hebrews 8:6), fulfilling all previous covenants and establishing the final, permanent bond.
 
-**Gift:** Christ is freely given, not earned. "For by grace you have been saved through faith, and this is not from you; it is the gift of God; it is not from works, so no one may boast" (Ephesians 2:8-9). The entire Gospel is gift—unmerited, unearned, freely offered.
+**Gift:** Christ is freely given, not earned. "For by grace you have been saved through faith, and this is not from you; it is the gift of God" (Ephesians 2:8-9). The entire Gospel is gift—unmerited, unearned, freely offered.
 
 **Covenant:** Permanent, binding relationship established through voluntary acceptance. Jesus invites us to willingly accept the Father's design for love. This is not coercion but invitation. The marriage imagery throughout Scripture—Christ as Bridegroom, Church as Bride (Ephesians 5:25-32)—reveals covenant's intimate, permanent nature.
 
-**Covenant Fulfillment:** Christ fulfills every covenant in salvation history. As the New Adam, He restores what the first Adam lost (Romans 5:12-21). As seed of Abraham, He blesses all nations (Galatians 3:16). He fulfills the Mosaic Law perfectly (Matthew 5:17). As eternal King from David's line (Luke 1:32-33), He establishes the kingdom that will never end. The New Covenant in His blood (Luke 22:20) creates permanent relationship that cannot be broken.
+**Covenant Fulfillment:** Christ fulfills every covenant in salvation history. As the New Adam, He restores what the first Adam lost (Romans 5:12-21). As seed of Abraham, He blesses all nations (Galatians 3:16). He fulfills the Mosaic Law perfectly (Matthew 5:17). As eternal King from David's line (Luke 1:32-33), He establishes the kingdom that will never end.
 
 **How This Combats Evil:** Broken promises plague human relationships, but Christ's covenant is unbreakable. Abandonment wounds the soul, but God will never leave or forsake us. Insecurity paralyzes, but covenant creates permanent security. "This is my blood of the covenant, which will be shed on behalf of many for the forgiveness of sins" (Matthew 26:28).
 
@@ -62,9 +62,9 @@ Jesus establishes the New Covenant through His blood, creating permanent relatio
 
 Jesus unites what sin had separated—God and humanity, Jew and Gentile, heaven and earth. "For he is our peace, he who made both one and broke down the dividing wall of enmity" (Ephesians 2:14). Through Christ, God reconciles "all things for him, making peace by the blood of his cross" (Colossians 1:20).
 
-Christ binds truth, justice, mercy, and sacrifice into coherent whole. The Cross is where these components meet perfectly. On Calvary, covenant-love does not bypass truth but meets it; justice does not crush peace but embraces it. What sin separated, the Cross unites: heaven and earth, God and humanity, justice and mercy, body and soul, truth and love.
+Christ binds truth, justice, mercy, and sacrifice into coherent whole. The Cross is where these components meet perfectly. On Calvary, covenant-love does not bypass truth but meets it; justice does not crush peace but embraces it. What sin separated, the Cross unites: heaven and earth, God and humanity, justice and mercy.
 
-Jesus prayed for this unity: "That they may all be one, as you, Father, are in me and I in you, that they also may be in us" (John 17:21). The Church is one body with many members (1 Corinthians 12:12-27), united in Christ who is the head. "There is neither Jew nor Greek, there is neither slave nor free person, there is not male and female; for you are all one in Christ Jesus" (Galatians 3:28).
+Jesus prayed for this unity: "That they may all be one, as you, Father, are in me and I in you, that they also may be in us" (John 17:21). The Church is one body with many members (1 Corinthians 12:12-27), united in Christ. "There is neither Jew nor Greek, there is neither slave nor free person, there is not male and female; for you are all one in Christ Jesus" (Galatians 3:28).
 
 **How This Combats Evil:** Division tears communities apart, but Christ creates unity. Fragmentation scatters what should be whole, but Christ integrates what sin separated. False dichotomies pit truth against mercy, justice against love—but Christ shows they work together perfectly.
 
@@ -76,7 +76,7 @@ Jesus doesn't just teach truth—He IS truth. "I am the way and the truth and th
 
 The Word made flesh is "full of grace and truth" (John 1:14). Jesus came "to testify to the truth" (John 18:37), and His truth liberates: "You will know the truth, and the truth will set you free" (John 8:32). This is not abstract philosophical truth but living truth that transforms.
 
-**How This Combats Evil:** Relativism claims there is no objective truth, but Christ establishes truth as objective reality grounded in God's nature. Deception enslaves through lies, but Christ exposes lies and liberates through truth. Confusion paralyzes moral judgment, but Christ provides clarity about reality, morality, and human dignity.
+**How This Combats Evil:** Relativism claims there is no objective truth, but Christ establishes truth as objective reality grounded in God's nature. Deception enslaves through lies, but Christ exposes lies and liberates through truth. Confusion paralyzes moral judgment, but Christ provides clarity.
 
 Truth in Christ is not oppressive but liberating. It frees us from slavery to sin, from bondage to false ideologies, from confusion about our identity and purpose.
 
@@ -88,7 +88,7 @@ Jesus gives God His due, gives humanity what we're owed, and restores right rela
 
 Christ gives God perfect worship, obedience, and glory—the justice we owe but cannot pay. He vindicates the oppressed and defends the vulnerable throughout His ministry. His perfect obedience unto death (Philippians 2:6-8) satisfies divine justice. Though "tempted in every way, yet without sin" (Hebrews 4:15), He becomes sin for us "so that we might become the righteousness of God in him" (2 Corinthians 5:21).
 
-We cannot be justified apart from God's justice—Christ's righteousness is the only basis for our justification. His justice is a free gift offered that we voluntarily accept, enabling us to offer full justice to God, neighbor, and self. This is not mere external imputation but internal transformation. Christ's grace transforms us to live justly.
+We cannot be justified apart from God's justice—Christ's righteousness is the only basis for our justification. His justice is a free gift offered that we voluntarily accept, enabling us to offer full justice to God, neighbor, and self. This is not mere external imputation but internal transformation.
 
 **How This Combats Evil:** Injustice pervades fallen world, but Christ establishes perfect justice. Oppression crushes the vulnerable, but Christ defends them. Guilt enslaves conscience, but Christ's righteousness covers our sin and transforms us from within.
 
@@ -98,7 +98,7 @@ We cannot be justified apart from God's justice—Christ's righteousness is the 
 
 Jesus embodies God's compassionate love that transcends justice without violating it. The Prodigal Son parable (Luke 15:11-32) reveals the Father's mercy—running to embrace the returning sinner, restoring full sonship. The woman caught in adultery (John 8:1-11) experiences mercy that doesn't ignore sin but calls to conversion: "Neither do I condemn you. Go, and from now on do not sin any more."
 
-From the Cross, Jesus prays "Father, forgive them, they know not what they do" (Luke 23:34). This is mercy at its zenith—forgiving those who are murdering Him. Mercy doesn't ignore sin but heals it. Christ's mercy calls to conversion, not mere acceptance. Mercy flows from the Cross where justice was satisfied, making infinite mercy available through Christ's infinite sacrifice.
+From the Cross, Jesus prays "Father, forgive them, they know not what they do" (Luke 23:34). This is mercy at its zenith—forgiving those who are murdering Him. Mercy doesn't ignore sin but heals it. Christ's mercy calls to conversion, not mere acceptance. Mercy flows from the Cross where justice was satisfied.
 
 **How This Combats Evil:** Hardness of heart refuses forgiveness, but Christ's mercy softens. Despair claims some sins are unforgivable, but Christ offers hope to the worst sinners. Vengeance perpetuates cycles of retribution, but Christ breaks those cycles through forgiveness.
 
@@ -136,12 +136,7 @@ The Resurrection validates everything. "If Christ has not been raised, your fait
 
 Eternal life begins now, not just after death. We taste heaven in the sacraments, especially the Eucharist: "Unless you eat the flesh of the Son of Man and drink his blood, you do not have life within you" (John 6:53). Christ is "the bread of life" (John 6:35), and "just as in Adam all die, so too in Christ shall all be brought to life" (1 Corinthians 15:22).
 
-**The Resurrection Changes Everything:**
-
-- **For the Grieving:** Death is not the end. Christ promises "whoever believes in me, even if he dies, will live" (John 11:25).
-- **For the Despairing:** There is always hope. The stone was rolled away, the tomb is empty.
-- **For the Suffering:** Pain has meaning. Christ's wounds remain glorified in His risen body.
-- **For the Sinner:** New beginnings are possible. "The old things have passed away; behold, new things have come" (2 Corinthians 5:17).
+**The Resurrection Changes Everything:** For the Grieving—death is not the end. Christ promises "whoever believes in me, even if he dies, will live" (John 11:25). For the Despairing—there is always hope. The stone was rolled away, the tomb is empty. For the Suffering—pain has meaning. Christ's wounds remain glorified in His risen body. For the Sinner—new beginnings are possible. "The old things have passed away; behold, new things have come" (2 Corinthians 5:17).
 
 **How This Combats Evil:** Death is our ultimate enemy, but Christ defeats it: "The last enemy to be destroyed is death" (1 Corinthians 15:26). Spiritual death separates from God, but Christ gives new life through Baptism. Sterility produces no fruit, but Christ makes all things new: "Behold, I make all things new" (Revelation 21:5). Hopelessness sees no future, but the Resurrection proves God's promises are trustworthy.
 
@@ -153,11 +148,7 @@ Jesus creates authentic community—communion with God, with each other, and wit
 
 The early Church experienced this communion: "They devoted themselves to the teaching of the apostles and to the communal life, to the breaking of the bread and to the prayers" (Acts 2:42). "There is one body and one Spirit... one Lord, one faith, one baptism; one God and Father of all" (Ephesians 4:4-6).
 
-**Three Dimensions of Communion:**
-
-- **Vertical:** Restored relationship with God through Christ's mediation
-- **Horizontal:** Unity among believers in the Body of Christ
-- **Internal:** Integration of body, mind, and soul because Christ suffered in all three
+**Three Dimensions of Communion:** Vertical—restored relationship with God through Christ's mediation. Horizontal—unity among believers in the Body of Christ. Internal—integration of body, mind, and soul because Christ suffered in all three.
 
 The Eucharist creates communion: Christ's body unites His Body. When we receive Him, we become one with Him and with each other.
 

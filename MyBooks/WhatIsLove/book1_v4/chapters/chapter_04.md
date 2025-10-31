@@ -78,46 +78,65 @@ God doesn't relate to us through contracts. He relates through covenant. And eve
 
 See the pattern? God initiates. God commits. God remains faithful even when we fail. This is what covenant love looks like—not "I'll love you if you perform," but "I'll love you, period."
 
-## Authority Properly Understood
+## Authority Properly Understood: Invitation vs. Force
 
-Here's where we need to be careful. The word "authority" has been so abused—by tyrants, by abusers, by those who use power to dominate—that many people recoil from it.
+Here's where we need to be careful. The word "authority" has been so abused—by tyrants, by abusers, by those who use power to dominate—that many people recoil from it. But this is because we don't understand what a true authority is.
 
-But covenant requires authority. Not the authority of coercion or control. The authority of the Author.
+Covenant requires authority. Not the authority of coercion or control. True authority is inherent only to the AUTHOR.
 
 <div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
-God's "authority" comes from being the Author of Love—the one who designed how love works. His "laws" aren't arbitrary commands but the blueprint for authentic love. Authority is only truly active when we freely submit our will to His design.
+God's "authority" comes from being the Author of all Creation and Love specifically—He designed how love works. His "laws" aren't arbitrary commands but the blueprint for authentic love. Authority is only truly active when WE FREELY SUBMIT our will to His design.
 </div>
+
+**The Critical Distinction: Two Kinds of Authority**
+
+This is the key to understanding covenant love: **When humans try to author morality without God, they must impose it through force. But God's authority is always an invitation that human hearts freely recognize and accept.**
+
+Think about it practically:
+
+**Human-Authored Morality Requires Force:**
+
+If humans are the source of morality, whose humans decide? Ancient Sparta thought exposing weak infants was "just." Modern progressives think aborting them is "just." Without a transcendent standard, morality becomes a power struggle. **Without God as the source, "truth, justice, and mercy" become whatever the powerful say they are—and must be enforced through violence.**
+
+This is why every atheistic political system has ended in mass murder:
+- Soviet communism: 20+ million dead
+- Chinese communism: 45+ million dead
+- Nazi fascism: 11+ million dead
+- Cambodian communism: 2+ million dead
+
+**These aren't accidents—they're the logical outcome of rejecting God's authority.** When morality is grounded in human power rather than divine truth, it must be imposed through terror. The gulags and killing fields are what happen when humans try to author justice without depending on God's true authority.
+
+**God's Authority Invites Free Submission:**
+
+By contrast, God doesn't impose arbitrary rules from on high. He reveals the truth about reality, about human nature, about what genuinely leads to our flourishing. When we voluntarily submit to God's authority—whether directly through Scripture and Church teaching, or indirectly through legitimate human authorities (parents, Church, just laws)—we're not surrendering our freedom. We're embracing the only path to true freedom.
+
+Think about a loving parent telling a toddler not to touch the hot stove. Is that authority being "imposed" on the child? Or is the parent revealing a truth about reality that, if the child submits to it, will protect the child from harm? The parent's authority flows from genuine knowledge of what's good for the child and genuine desire for the child's wellbeing.
+
+God's authority works the same way—but infinitely more so. **True authority wants what's genuinely good for us and invites our free submission. False authority wants what's good for those in power and demands our forced compliance.**
+
+**This is why authentic Christian movements throughout history have never needed to impose their morality through force.** They invite people to freely recognize the truth, and human hearts—made in God's image—respond with joy when they encounter what's genuinely good for them. The saints didn't terrorize people into holiness; they revealed the beauty of truth, and people voluntarily submitted because they recognized it as liberating.
+
+By contrast, every regime that tries to create its own morality must impose it through violence, because human hearts instinctively resist what contradicts our nature. True authority liberates. False authority enslaves.
+
+**The Piano Analogy:**
 
 Think about it this way: A piano has 88 keys arranged in a specific pattern. That's not arbitrary—it's the design that makes beautiful music possible. You're "free" to pound randomly on the keys. But you'll only make noise, not music. True freedom comes from submitting to the piano's design, learning the patterns, practicing the scales. The piano's structure isn't a restriction—it's what makes Mozart possible.
 
 Similarly, God's "laws" about love aren't restrictions on our freedom. They're the design that makes beautiful love possible. We're "free" to ignore them—just as we're "free" to pound randomly on piano keys. But we'll only create chaos, not communion. The covenant structure of love isn't a burden—it's what makes authentic love possible.
 
-**This is what "voluntary authority" means:** We freely choose to submit to the Author's design because we recognize it as true, good, and beautiful. Not because we're forced. Not because we're afraid. But because we see that His way actually works.
-
-Any government or person that forces authority on people doesn't understand true authority. As we saw in Chapter 3, when humans try to author morality without God, they must impose it through violence—the gulags and killing fields are what happens when authority tries to impose lies rather than reveal truth. True authority is recognized and accepted, not imposed. It's the authority of truth that liberates, not the authority of power that enslaves.
+**This is what "voluntary authority" means:** We freely choose to submit to the Author's design because we recognize it as true, good, and beautiful. Not because we're forced. Not because we're afraid. But because we see that His way actually works. The slavery we need liberation from isn't God's "rules"—it's our own disordered desires that enslave us to partial goods that can never satisfy.
 
 ## Marriage: The Paradigm of Human Covenant
 
 Marriage is the fundamental human covenant—the clearest image we have of how covenant love works. This is why Scripture uses marriage as the primary metaphor for God's relationship with His people.
 
-**The Wedding Vows reveal covenant's structure:**
+**The Wedding Vows reveal covenant's structure:** "I take you... to be my wife/husband... from this day forward, for better, for worse, for richer, for poorer, in sickness and in health, until death do us part."
 
-"I take you..." — Free choice, not coercion
-"To be my wife/husband..." — Creating permanent relationship
-"To have and to hold..." — Exclusive commitment
-"From this day forward..." — No looking back
-"For better, for worse..." — Unconditional
-"For richer, for poorer..." — Not dependent on circumstances
-"In sickness and in health..." — Through all conditions
-"Until death do us part..." — Permanent
+Notice what's missing: Escape clauses. Performance requirements. Conditions based on feelings. Why? Because covenant creates the security that allows love to flourish. When you know your spouse is committed regardless of your performance, you're free to be vulnerable, to grow, to fail and try again.
 
-Notice what's missing: Escape clauses. Performance requirements. Conditions based on feelings. The vows don't say "as long as I love you" or "if you make me happy" or "unless someone better comes along."
+**The Sacrament of Marriage** makes this even more profound. In Catholic teaching, marriage isn't just a human agreement—it's a participation in Christ's covenant with the Church. The husband and wife become living icons of Christ's sacrificial, permanent, faithful love for His bride. The marriage covenant is a direct mirror of our covenant with God—we submit our lives to our spouse and children as we submit to Him. Marriage most fully fulfills our covenant with God in the domestic church.
 
-Why? Because covenant creates the security that allows love to flourish. When you know your spouse is committed regardless of your performance, you're free to be vulnerable, to grow, to fail and try again. When commitment is conditional, you're always performing, always afraid, never truly known.
-
-**The Sacrament of Marriage** makes this even more profound. In Catholic teaching, marriage isn't just a human agreement—it's a participation in Christ's covenant with the Church. The husband and wife become living icons of Christ's sacrificial, permanent, faithful love for His bride.
-
-This is why the Church insists marriage is indissoluble. Not because we're harsh or legalistic, but because we understand what marriage truly is—a covenant that images God's own covenant love. You can't dissolve God's covenant with His people. You can't dissolve Christ's union with the Church. And you can't dissolve a valid marriage, because it participates in that same divine reality.
+This is why the Church insists marriage is indissoluble. You can't dissolve God's covenant with His people. You can't dissolve Christ's union with the Church. And you can't dissolve a valid marriage, because it participates in that same divine reality.
 
 ## How Covenant Combats Evil
 
@@ -135,31 +154,8 @@ Understanding love as covenant directly combats specific forms of evil:
 
 ## Covenant in All of Life
 
-Marriage is the paradigm, but covenant love extends to all relationships:
+Marriage is the paradigm, but covenant love extends to all relationships: Baptism creates a permanent covenant bond with God and the Church. Parent-child relationships are covenantal—the bond endures regardless of performance. The Church is a covenant community where we're bound together as the Body of Christ. Even friendship at its deepest level is covenantal: "A friend loves at all times" (Proverbs 17:17).
 
-**Baptism** creates a covenant bond with God and the Church. You become part of God's family—permanently. This isn't a contract you can cancel. It's a covenant that marks your soul forever.
-
-**Parent-Child Relationships** are covenantal. You don't stop being someone's parent because they disappoint you. You don't stop being someone's child because they fail you. The bond endures.
-
-**The Church** is a covenant community. We're not just individuals who happen to attend the same building. We're bound together as the Body of Christ—members of one another, responsible for one another, committed to one another.
-
-**Friendship** at its deepest level is covenantal. "A friend loves at all times" (Proverbs 17:17). Not just when it's convenient. Not just when you're fun to be around. But always.
-
-## The Freedom of Covenant
-
-Here's the paradox that modern people struggle to understand: Covenant doesn't restrict freedom—it creates it.
-
-When you know someone is permanently committed to you, you're free to:
-- **Be yourself** without performing or pretending
-- **Fail** without fear of abandonment
-- **Grow** without worry that you'll outgrow the relationship
-- **Be vulnerable** without terror of betrayal
-- **Take risks** knowing someone has your back
-- **Love deeply** without holding back in self-protection
-
-This is why Jesus said, "You will know the truth, and the truth will set you free" (John 8:32, NABRE). The truth about covenant love—that God is permanently committed to you—sets you free from the slavery of performance, the prison of self-protection, the bondage of conditional relationships.
-
-The Church's teachings on marriage, family, and sexuality aren't chains. They're the banks of the river that allow love to flow with power and purpose. Without banks, water becomes a stagnant swamp. Without covenant, love becomes a shallow puddle.
 
 ## The Bridge to Binding
 
