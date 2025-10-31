@@ -31,7 +31,7 @@ A Catholic church burns to the ground—one of dozens attacked in recent years. 
 These aren't statistics. They're souls crying out in a darkness they can't name. Truth itself has become negotiable—a matter of personal preference rather than objective reality. And into this chaos, the world offers a thousand counterfeits of love, each one leading further into the abyss.
 
 <div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
-The rampant evil in our world isn't evidence of God's absence—it's the stark contrast that reveals where life without divine love inevitably leads.
+The rampant evil in our world forces us to confront the most fundamental question: What has gone so terribly wrong with humanity?
 </div>
 
 ## The Crisis That Forces the Question
@@ -42,17 +42,15 @@ Maybe that's you. Maybe the contradictions finally became too glaring to ignore.
 
 Maybe you're reading this book because you're searching for answers—real answers, not the comfortable lies our culture keeps selling. Maybe you are searching for truth grounded in reality.
 
-Here's the truth that's becoming undeniable: **Personal belief without action gets a society nowhere.** You can believe all the right doctrines, attend church every Sunday, and still watch civilization collapse around you if that belief doesn't translate into authentic love—love grounded in truth, expressing justice and mercy, requiring sacrifice, creating covenant, building communion.
+Here's the truth that's becoming undeniable: **Personal belief without action gets a society nowhere.** You can believe all the right doctrines, attend church every Sunday, and still watch civilization collapse around you if that belief doesn't translate into how we actually live.
 
 The crisis we're facing isn't just political or cultural. It's theological. It's the fruit of centuries of Christianity that separated belief from action, personal piety from social transformation. We preached "accept Jesus and go to heaven" while the world burned. We emphasized individual salvation while families shattered. We focused on the afterlife while evil conquered this life.
 
-But the wreckage is waking people up. They're realizing that something essential is missing. They're searching for the truth—the complete truth about what love actually is and how it actually works.
+But the wreckage is waking people up. They're realizing that something essential is missing. They're searching for the truth—the complete truth.
 
-**Perhaps that's what brought you to this book.** If so, here's the good news: God is the solution. His perfect love is the answer to every form of evil. And when you grasp what that love truly is—when you understand how it works and why it conquers evil—something beautiful happens. You become able to point others to Him. You can explain to confused friends why only God's love can fill the emptiness they feel. You can show broken families where to find healing. You can offer real hope by directing a generation drowning in counterfeits to the Source of authentic love.
+**Perhaps that's what brought you to this book.**
 
-The Church has always had this answer—God Himself, who is Love. We've just forgotten how to explain Him clearly, how to live His love completely, how to point others to Him compellingly. This book is your roadmap back to the truth that sets people free—the truth about God's perfect love that conquers every form of evil.
-
-When we abandon God's laws of love, the wreckage is immediate and undeniable. Broken families. Confused children. Despair wearing the mask of freedom. Death disguised as compassion. We don't just lose our way—we lose the very foundation of what makes us human.
+When we abandon God's laws, the wreckage is immediate and undeniable. Broken families. Confused children. Despair wearing the mask of freedom. Death disguised as compassion. We don't just lose our way—we lose the very foundation of what makes us human.
 
 This isn't new. Every generation faces this same ancient battle between light and darkness, love and selfishness, truth and lies. What we're witnessing today is simply the latest verse in humanity's oldest song—the cry of hearts that have forgotten how to love. The difference in this generation is that bad ideas travel faster than ever before. But the good news is that truth also has the same opportunity.
 
@@ -72,13 +70,13 @@ Moral evil results from free choices to reject good. St. Augustine's profound in
 
 Building on St. Augustine's insight and the Church's recognition that sin has both personal and social dimensions (CCC 1869), and that every sin harms the communion of the Church (CCC 1440), we can see how our sinful choices create evil in three spheres:
 
-**Personal Evil:** Individual choices to disobey God—pride, lust, greed, envy, gluttony, anger, sloth—corrupt our own capacity for sacrifice and truth.
+**Personal Evil:** Individual choices to disobey God—pride, lust, greed, envy, gluttony, anger, sloth—corrupt our own souls and capacity for goodness.
 
-**Relational Evil:** The breakdown of covenant bonds—adultery, divorce, abandonment, betrayal, exploitation—destroys communion in our families and friendships.
+**Relational Evil:** The breakdown of covenant bonds—adultery, divorce, abandonment, betrayal, exploitation—destroys our families and friendships.
 
-**Social Evil:** Systemic injustices—slavery, trafficking, economic exploitation, political corruption, cultural lies that deny human dignity—violate justice and mercy in our communities and nations.
+**Social Evil:** Systemic injustices—slavery, trafficking, economic exploitation, political corruption, cultural lies that deny human dignity—corrupt our communities and nations.
 
-Every form of evil is a direct assault on one or more facets of authentic love. This reveals why God's perfect love—integrating all these elements—is the only complete answer to the problem of evil.
+Every form of evil is a direct assault on what we're made for. This reveals the depth of the problem we face.
 
 ## Sin: The Root of All Evil
 
@@ -88,27 +86,27 @@ Every form of evil is a direct assault on one or more facets of authentic love. 
 \hfill\small — Romans 6:23, NABRE
 </div>
 
-The Catechism cuts to the heart of it: "sin is an offense against reason, truth, and right conscience; it is failure in genuine love for God and neighbor caused by a perverse attachment to certain goods" (CCC 1849). Every sin, whether it seems "small" or "great," is fundamentally a *choice* to reject authentic love—love of God, love of neighbor, or proper love of self.
+The Catechism cuts to the heart of it: "sin is an offense against reason, truth, and right conscience; it is failure in genuine love for God and neighbor caused by a perverse attachment to certain goods" (CCC 1849). Every sin, whether it seems "small" or "great," is fundamentally a *choice* to reject what is good and true.
 
 After years of contemplating St. Augustine's insight that love means willing the good of another, a clear pattern emerged—one that reveals the basic difference between sin and salvation:
 
 <div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
-Sin is choosing a perceived good for ourselves at the expense of others. Love is choosing the true good of others at our expense.
+Sin is choosing a perceived good for ourselves at the expense of others.
 </div>
 
-Note the distinction: "the good" versus "a perceived good." True love always chooses what is truly good for the other. Sin chooses what we perceive to be good for ourselves, but it's usually a distorted or false understanding that violates the definition of love in some way—lacking truth, justice, mercy, or sacrifice.
+Note the distinction: "the good" versus "a perceived good." Sin chooses what we perceive to be good for ourselves, but it's usually a distorted or false understanding.
 
-For example: A parent who gives their teenager unlimited screen time and no boundaries might perceive this as "loving"—after all, it avoids conflict and makes the child happy in the moment. But the true good requires discipline, formation, and sometimes saying no. The perceived good (peace and happiness now) conflicts with the true good (a mature, virtuous adult). True love chooses the harder path that serves the child's actual flourishing. True love decides based on what is true, just and merciful instead of purely merciful (in this example).
+For example: A parent who gives their teenager unlimited screen time and no boundaries might perceive this as good—after all, it avoids conflict and makes the child happy in the moment. But the true good requires discipline, formation, and sometimes saying no. The perceived good (peace and happiness now) conflicts with the true good (a mature, virtuous adult).
 
-This is why sin inevitably produces evil—it creates harm by prioritizing self over others—while love produces healing by choosing sacrifice for others' benefit.
+This is why sin inevitably produces evil—it creates harm by prioritizing self over others.
 
 Look at the wreckage:
 
-- **Abortion:** A young woman sits in a clinic waiting room, convinced she's "following her heart" and doing what's "right for her." She's choosing a twisted mercy over the fierce love that would fight for both her and her baby's future.
+- **Abortion:** A young woman sits in a clinic waiting room, convinced she's "following her heart" and doing what's "right for her." She's choosing what seems easier now over what's truly good.
 
-- **Adultery:** In a hotel room across town, wedding rings hidden in pockets, two people choose twenty minutes of passion over twenty years of faithful love. Families shatter for a feeling that won't last the night.
+- **Adultery:** In a hotel room across town, wedding rings hidden in pockets, two people choose twenty minutes of passion over twenty years of commitment. Families shatter for a feeling that won't last the night.
 
-- **Gender ideology:** A teacher tells a confused eight-year-old that maybe she's really a boy, choosing ideological applause over the child's need for patient, truthful guidance through normal developmental confusion.
+- **Gender ideology:** A teacher tells a confused eight-year-old that maybe she's really a boy, choosing ideological applause over the child's actual wellbeing.
 
 Every single evil—every one—begins with this same fatal move: A human heart looks at what God offers and says, "No thanks. I know better."
 
@@ -118,9 +116,9 @@ Every single evil—every one—begins with this same fatal move: A human heart 
 \hfill\small — Catechism of the Catholic Church 389
 </div>
 
-Because we're created in the image of God and made for love, sin is always a choice against our own deepest nature. It promises happiness but delivers misery. Promises freedom but delivers slavery. Promises life but delivers death. The consequences are devastatingly real: waves of pain, broken relationships, and cycles of suffering that ripple outward from every choice to reject love.
+Because we're created in the image of God, sin is always a choice against our own deepest nature. It promises happiness but delivers misery. Promises freedom but delivers slavery. Promises life but delivers death. The consequences are devastatingly real: waves of pain, broken relationships, and cycles of suffering that ripple outward from every sinful choice.
 
-Understanding this relationship between sin and evil reveals why the Church takes sin so seriously. It's not because God is a harsh judge looking to condemn us, but because sin literally destroys what we're made for—love, communion, happiness, peace. Every sin, no matter how "small" it seems, contributes to the ocean of evil drowning our world in suffering.
+Understanding this relationship between sin and evil reveals why the Church takes sin so seriously. It's not because God is a harsh judge looking to condemn us, but because sin literally destroys what we're made for—communion, happiness, peace. Every sin, no matter how "small" it seems, contributes to the ocean of evil drowning our world in suffering.
 
 <div class="blockquote">
 "Sin is before all else an offense against God, a rupture of communion with him. At the same time it damages communion with the Church."
@@ -141,16 +139,24 @@ Throughout history, humanity has attempted various solutions to evil, each faili
 Every approach fails for the same reason: they can't cure the disease because they don't understand the source—the human heart that chooses selfishness over love.
 
 <div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
-Evil originates in the human heart when we choose our own will over God's will. To fight evil effectively, we must address the source: the human heart that chooses selfishness over love.
+Evil originates in the human heart when we choose our own will over God's will. To fight evil effectively, we must address the source: the human heart.
 </div>
 
-## What We Really Need
+## The Depth of Our Predicament
 
-This understanding reveals the depth of our human predicament. We cannot simply "try harder" to be good people. Sin has wounded our nature so deeply that we need something—or Someone—who can heal our hearts, show us what authentic love truly looks like, and give us the grace to live it.
+This understanding reveals the depth of our human predicament. We cannot simply "try harder" to be good people. Sin has wounded our nature so deeply that we need something—or Someone—who can heal our hearts and transform us from within.
 
-We need perfect love to overcome the evil that flows from our sinful choices. We need a solution that addresses not just the symptoms but the source—the human heart.
+We need a solution that addresses not just the symptoms but the source—the human heart. We need an answer that can actually overcome the evil that flows from our sinful choices.
 
-The answer to this seemingly impossible need is what the rest of this book explores. As we'll discover, God's perfect love is not just an abstract concept—it's the comprehensive answer to the problem of evil that has plagued humanity since the beginning.
+## The Question That Demands an Answer
+
+We've seen the problem clearly: Evil originates in human hearts that choose selfishness over love. It manifests in three spheres—personal, relational, and social—creating waves of suffering that ripple through families, communities, and entire civilizations.
+
+Human solutions fail because they address symptoms, not the source. Politics can't change hearts. Education can't cure selfishness. Secularism removes the very foundation of human dignity.
+
+**So what is the answer?** What can actually heal the human heart? What can overcome evil at its source? What solution is comprehensive enough to address personal sin, relational brokenness, and social injustice all at once?
+
+That question—and its answer—is what the rest of this book explores.
 
 ---
 

@@ -22,9 +22,11 @@
 
 ## What Must I Do to Inherit Eternal Life?
 
-In Chapter 1, we stared into the abyss of evil—abortion as contraception, children mutilated by gender ideology, media lies destroying truth, families shattered by fatherlessness, churches burning while the world stays silent. We saw how evil erupts from human hearts that choose selfishness over sacrifice, taking over giving, death over life. We discovered that perfect love is the only cure for this ancient disease.
+In Chapter 1, we stared into the abyss of evil—abortion as contraception, children mutilated by gender ideology, media lies destroying truth, families shattered by fatherlessness, churches burning while the world stays silent. We saw how evil erupts from human hearts that choose selfishness over love. We discovered that human solutions fail because they address symptoms, not the source—the human heart itself.
 
-But that leaves us with a burning question: What exactly *is* love?
+We ended with the question that demands an answer: What can actually heal the human heart? What can overcome evil at its source? What solution is comprehensive enough to address personal sin, relational brokenness, and social injustice all at once?
+
+The answer is love. But that immediately raises another question: What exactly *is* love?
 
 This isn't an academic question. It's the question of eternal life itself. When a scholar of the law asked Jesus, "Teacher, what must I do to inherit eternal life?" Jesus didn't point to a creed, a ritual, or even faith alone. He pointed to love: "You shall love the Lord, your God, with all your heart, with all your being, with all your strength, and with all your mind, and your neighbor as yourself" (Luke 10:25-28, NABRE).
 
