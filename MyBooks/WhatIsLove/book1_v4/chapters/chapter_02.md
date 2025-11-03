@@ -1,12 +1,6 @@
 # The Answer is Love
 
 <div class="blockquote">
-"There was a scholar of the law who stood up to test him and said, 'Teacher, what must I do to inherit eternal life?' Jesus said to him, 'What is written in the law? How do you read it?' He said in reply, 'You shall love the Lord, your God, with all your heart, with all your being, with all your strength, and with all your mind, and your neighbor as yourself.' He replied to him, 'You have answered correctly; do this and you will live.'"
-
-\hfill\small — Luke 10:25-28, NABRE
-</div>
-
-<div class="blockquote">
 "God is love, and whoever remains in love remains in God and God in him."
 
 \hfill\small — 1 John 4:16, NABRE
@@ -42,7 +36,7 @@ This universal longing for love is written into our very nature because we are m
 
 Yet defining love has proven remarkably difficult.
 
-Throughout history, philosophers and saints have offered insights—Aristotle's categories of eros, philia, and storge; Augustine's "willing the good of another"; Aquinas's emphasis on the will. Yet none provides the complete picture. Why? Because love isn't just one thing—it's a multi-faceted integration of truth, justice, mercy, and sacrifice. This explains centuries of struggle to capture love's essence in a single definition.
+Throughout history, philosophers and saints have offered insights—Aristotle's categories of eros, philia, storge, and agape; Augustine's "willing the good of another"; Aquinas's emphasis on the will. Yet none provides the complete picture. Why? Because love has many different facets—as even the Catechism acknowledges when it says "all the works of perfect Christian virtue spring from love" (CCC 25). Through years of prayer, Scripture study, and contemplating the Church's teaching, I began to notice a pattern: all these facets integrate into four essential categories: truth, justice, mercy, and sacrifice. This explains centuries of struggle to capture love's essence in a single definition—each thinker grasped important aspects, but the complete picture requires seeing how all these virtues flow from and integrate within love.
 
 ## God's Perfect Love: The Complete Definition
 
@@ -56,7 +50,7 @@ Through careful study of Scripture and the Church's teaching on love, we can see
 
 Jesus calls us to this perfection: "Be perfect, therefore, as your heavenly Father is perfect" (Matthew 5:48, NABRE). He's not demanding impossible performance. He's inviting us into complete love—love that integrates truth, justice, mercy, and sacrifice rather than choosing only the comfortable parts. This is possible not through human effort alone, but through His perfect love (grace) that teaches and transforms us, meeting us where we are and gradually conforming us to be like Christ.
 
-**This is what it means to be a saint.** A saint is someone who submits their whole life—body, mind, and soul—to living this complete, integrated love. They're not people who never sin or struggle, but people who allow God's grace to transform them into living witnesses of His Perfect Love. This call to sainthood isn't reserved for a spiritual elite—it's the universal Christian vocation. Every baptized person is called to become a saint by allowing God's Perfect Love to permeate every dimension of their "being" - body, mind, and soul.
+**This is what it means to be a saint.** A saint is someone who submits their whole life—body, mind, and soul—to living this complete, integrated love. They're not people who never sin or struggle, but people who allow God's grace to transform them into living witnesses of His Perfect Love. (Grace is when God pours out His infinite Perfect Love into our hearts.) This call to sainthood isn't reserved for a spiritual elite—it's the universal Christian vocation. Every baptized person is called to become a saint by allowing God's Perfect Love to permeate every dimension of their "being" - body, mind, and soul.
 
 Every word matters:
 

@@ -1,6 +1,12 @@
 # Sacrifice - The Heart of Authentic Love Made Visible Through Action
 
 <div class="blockquote">
+"The way we came to know love was that he laid down his life for us; so we ought to lay down our lives for our brothers."
+
+\hfill\small — 1 John 3:16, NABRE
+</div>
+
+<div class="blockquote">
 "No one has greater love than this, to lay down one's life for one's friends."
 
 \hfill\small — John 15:13, NABRE
@@ -18,6 +24,7 @@
 
 \hfill\small — Romans 12:1, NABRE
 </div>
+
 
 ---
 
@@ -54,6 +61,12 @@ The Old Testament sacrificial system wasn't arbitrary religious ritual—it was 
 But these were shadows. The reality they pointed to was Christ.
 
 ## Christ: The Perfect Sacrifice
+
+Here's the profound mystery: God didn't need to sacrifice to love us. His infinite love could have been poured out in countless other ways. But He chose to become flesh, to enter into our human limitations, to voluntarily embrace sacrifice.
+
+Why?
+
+To show us the depth of His love in a way we finite creatures could understand. To give us the perfect example of what authentic love looks like for us as limited human beings. The Incarnation and the Cross weren't required by God's nature—they were chosen by God's love. He entered into our experience of sacrifice so we could enter into His experience of love.
 
 On the cross, Jesus didn't just teach about sacrifice—He became the perfect sacrifice that all others foreshadowed. Look at what His sacrifice accomplished:
 

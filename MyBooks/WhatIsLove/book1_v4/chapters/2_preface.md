@@ -34,8 +34,7 @@ The faith I'm sharing didn't come to me in a vacuum. I came to know, love, and s
 - **Jordan B. Peterson**—who showed so many in our time what it means that the Bible is "true"
 - **Bishop Robert Barron**—who makes the beauty of Catholicism accessible but inspires us to know our faith deeply
 - **Scott Hahn**—who revealed the importance of understanding the Old Covenants in order to understand the New Covenant and why the Eucharist is the source and summit of the Christian life
-- **Trent Horn**—who defends the faith with deep understanding, clarity and charity
-- **Joe Heschmeyer**—who demonstrates rigorous theological thinking and also great charity
+- **Trent Horn, Joe Heschmeyer, Tim Staples, and Catholic Answers**—who defend the faith with deep understanding, rigorous theological thinking, clarity, and charity
 
 **If you're not Catholic**, I invite you to journey with me anyway. The truths about love I've received through the Catholic tradition are universal—they speak to the human heart regardless of where you're starting from.
 

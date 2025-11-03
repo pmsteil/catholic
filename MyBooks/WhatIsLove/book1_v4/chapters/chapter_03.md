@@ -60,7 +60,7 @@ But why must this be true? Why can't love just be a human invention or evolution
 
 **Third, the highest good must be personal.** If the ultimate reality were impersonal (mere matter, energy, or abstract principles), then persons would be accidents—complex arrangements of atoms that happened to develop consciousness. But we instinctively know that persons have inherent dignity and worth. The only way persons can have ultimate value is if the ultimate reality is itself personal—if God is a Person (or more precisely, three Persons in one Being).
 
-**Fourth, a personal God who is the source of moral values must Himself embody those values perfectly.** God can't command love arbitrarily—as if He could have commanded hatred instead. Love must flow from God's own nature. God commands love because God IS love. His nature is the standard, and His commands reflect His nature.
+**Fourth, a personal God who is the source of moral values must Himself embody those values perfectly.** Love must flow from God's own nature. God IS love, and His nature is the standard. What He reveals to us about love reflects who He is.
 
 **Fifth, if God is the ultimate reality and God is love, then love is the ultimate reality.** This means love isn't just one value among many—it's the fundamental structure of reality itself. Everything else (truth, justice, mercy, beauty, goodness) finds its unity and meaning in love.
 
@@ -69,19 +69,13 @@ This is why Scripture's declaration "God is love" isn't just poetic language or 
 
 ## The Trinity: Love's Eternal Pattern
 
-But this raises a profound question: If God's authority flows from His nature, and God's nature IS love, what does this tell us about the very being of God? How can God be love if love requires relationship? How can a solitary being be love itself?
+But this raises a profound question: How can God be love if love requires relationship? How can a solitary being be love itself?
 
 This is where we discover something astonishing: God is not a solitary being at all.
 
-This is where the doctrine of the Trinity becomes not just theological abstraction but the key to understanding everything. God is not a solitary monad but an eternal communion of three Persons—Father, Son, and Holy Spirit—in perfect, self-giving love.
+The Church teaches that God is one God in three Persons—Father, Son, and Holy Spirit—in perfect, self-giving love (CCC 232-267). This isn't three gods but one God whose very being is an eternal exchange of perfect love. From all eternity, the Father, Son, and Holy Spirit exist in perfect communion, each Person completely giving Himself to the others.
 
-**The Father** eternally generates the Son, pouring out His entire divine nature in an act of complete self-gift. This isn't creation (the Son is not made) but eternal generation—the Father giving everything He is to the Son.
-
-**The Son** eternally receives everything from the Father and returns it in perfect love and obedience. The Son holds nothing back, offering His entire being back to the Father.
-
-**The Holy Spirit** is the eternal bond of love between Father and Son, the mutual gift they are to each other, proceeding from both as the perfection of their communion.
-
-This isn't three gods but one God whose very being is an eternal exchange of perfect love. The Father doesn't love the Son as an action He performs—the Father IS love in relation to the Son. The Son doesn't love the Father as something He does—the Son IS love in relation to the Father.
+The Catechism teaches: "God is eternal blessedness, undying life, unfading light. God is love: Father, Son and Holy Spirit. God freely wills to communicate the glory of his blessed life" (CCC 257).
 
 <div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
 The Trinity reveals that love is not something God does—it's who God is. From all eternity, God exists as perfect self-giving communion. All authentic human love is participation in this eternal divine exchange.
@@ -129,13 +123,13 @@ Let's bring this all together. We've seen why love cannot be grounded in anythin
 
 **Humans cannot create authoritative morality.** Every attempt to ground love in human reason alone fails through competing claims, self-interest, circular reasoning, and the need to impose morality through force. Without God as the source, "truth, justice, and mercy" become whatever the powerful say they are.
 
-**True authority invites free submission.** God doesn't impose arbitrary rules from on high. He reveals the truth about reality that, when we freely submit to it, liberates us from slavery to our disordered desires. This is why authentic Christian movements have never needed terror—they invite people to recognize what's genuinely good for them.
-
-**The Trinity reveals love's eternal pattern.** God is not a solitary being but an eternal communion of three Persons in perfect self-giving love. When we love authentically, we're not just being nice—we're participating in the very life of the Trinity.
+**The Trinity reveals love's eternal pattern.** God is not a solitary being but an eternal communion of three Persons in perfect self-giving love (CCC 232-267). When we love authentically, we're not just being nice—we're participating in the very life of the Trinity.
 
 **Love is sacred because it participates in God's nature.** Every act of authentic love—a mother comforting her child, a husband remaining faithful, someone forgiving an enemy—participates in the eternal exchange of love between Father, Son, and Holy Spirit.
 
 **Without God, love becomes desecrated.** Strip love of its divine source and it becomes a commodity, arbitrary preference, or impossible ideal. Only if God IS love does love have the sacred, absolute, eternal character we all instinctively recognize.
+
+**God is both the source and the destination of love.** By saying that love is sacred, we're saying that God is the source of all love. And as we will see when we get to the chapter on communion, God is also the destination—the end toward which all love moves. Love begins in God, flows through us, and returns to God, bringing us into eternal communion with Him.
 
 This is why our definition begins with **Sacred**. Love isn't something we invented or can reshape at will. Love is sacred because it originates from God, participates in divine nature, and invites us into the eternal communion of the Trinity.
 

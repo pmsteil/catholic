@@ -2,19 +2,4 @@
 
 God's Perfect Love is the sacred gift of covenant which binds truth, justice, mercy and sacrifice into life-giving communion.
 
-## What questions this book answers
-
-- What is Love?
-- What is Truth?
-- What is Justice?
-- What is Mercy?
-- What is Sacrifice?
-- What is the answer to modern society which is so broken?
-- What is evil?
-- How can a good God allow evil?
-- How do we fight evil?
-- Why mortal and venial sin are crucial to fighting the problem of evil?
-- How do we love God with all our heart, mind, soul and strength?
-- How do we love our neighbors as ourselves?
-- How do we love our enemies?
-- How can we love society enough to tell it the fullness of truth?
+This book is dedicated to you who, like me I suspect, desires to love God with all your heart, with all your soul, with all your strength, and with all your mind.

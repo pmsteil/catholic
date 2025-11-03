@@ -32,7 +32,41 @@ We all know—immediately, instinctively, universally—that these things are wr
 
 This universal cry for justice reveals something profound: Justice is written on every human heart. It's part of the natural law, the moral order built into creation itself. We recognize it because we're made in the image of a God who IS just.
 
-As we explored in Chapter 3, this is why human attempts to author justice without God inevitably fail—they reject the natural law written on our hearts and replace divine justice with human preference that serves self-interest. True justice requires a source beyond ourselves: the God who IS justice itself.
+But here's a critical question: **How can we recognize injustice unless there's a transcendent standard of justice we're comparing it to?**
+
+Think about it logically:
+
+When you say "That's not fair!" you're appealing to some higher standard of fairness. You're saying this situation falls short of how things *should* be. But where does that "should" come from?
+
+**Stop and think about this carefully—it's crucial:**
+
+Every time you claim something is unjust, you're measuring it against a standard. You're saying "This violates how things ought to be." But if there's no objective "ought"—if justice is just whatever humans make up—then your claim of injustice is meaningless. It's just your opinion. And someone else's opposite opinion has exactly the same authority: none.
+
+Consider what happens when people detach justice from God: They claim "It's unjust to deny women abortion rights"—calling the killing of innocent children "justice." They claim "It's unjust to exclude men from women's sports"—calling the erasure of biological reality "justice." They claim "It's unjust to force someone to suffer"—calling assisted suicide "justice." They claim "It's unjust that children need both a mother and father"—calling the deliberate deprivation of parents "justice."
+
+**Here's what we all need to understand:** If there's no transcendent, objective standard of justice—if justice is just a human invention or cultural preference—then **none of these claims mean anything**. Not yours. Not theirs. Not anyone's.
+
+Without an objective, true moral standard that comes from the Author of the universe, there is no "should." There is no "ought." There is no "right" or "wrong." There is only power—whoever is strongest gets to impose their preferences on everyone else. Your passionate cry for justice? It's just noise. Your moral outrage? It's just a feeling with no more authority than someone's preference for chocolate over vanilla.
+
+**You literally have no ground to stand on when you fight for "justice."** You're making an appeal to a standard that—if you're right that there's no God—doesn't exist. You're borrowing from a worldview you reject to make arguments you can't justify.
+
+Think about what this means practically:
+
+When you say "Child abuse is wrong," what you really mean—if there's no God—is "I don't like child abuse." And when someone else says "Child abuse is fine," they mean "I'm okay with child abuse." And neither statement has any more authority than the other. It's just preference. Just opinion. Just feeling.
+
+**But we all know—deep down—that some things are objectively unjust.** Not just "I don't like this" but "This is actually, truly wrong." Child abuse is wrong even if a society approves it. Slavery is wrong even if it's legal. Genocide is wrong even if the majority supports it. These aren't opinions. They're facts about reality.
+
+And the moment you recognize that—the moment you insist that some things are objectively unjust regardless of what anyone thinks—you are appealing to an objective standard of justice. A transcendent measure against which all human actions can be judged.
+
+And that standard cannot be human opinion (because humans disagree). It cannot be cultural convention (because cultures differ). It cannot be evolutionary advantage (because that changes). It cannot be majority vote (because majorities can be wrong). It cannot be personal feeling (because feelings conflict).
+
+**The standard must be eternal, unchanging, and absolute. It must transcend all human systems and preferences. In other words, it must be God Himself.**
+
+This isn't just philosophy. This is the foundation of every fight for justice you've ever cared about. Every time you've said "That's not fair," you've been appealing to God's standard—whether you knew it or not. Every time you've demanded justice, you've been proving that God exists—because without Him, justice is just a word with no meaning.
+
+This is why human attempts to author justice without God inevitably fail—they reject the only possible source of objective justice and replace it with human preference that serves self-interest. As we explored in Chapter 4, when morality is authored by humans rather than received from divine authority, it must be imposed through force because it has no inherent authority.
+
+True justice requires a source beyond ourselves: the God who IS justice itself. Without God, the cry "That's not fair!" has no more authority than "I don't like broccoli." With God, it becomes a recognition of objective reality—a violation of the moral order built into creation by its Creator.
 
 <div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
 Justice is love giving each person what they are due based on their dignity as image-bearers of God. Without justice, love becomes arbitrary sentiment. With justice, love has objective content and concrete expression.
@@ -101,6 +135,30 @@ The sacrament doesn't choose between justice and mercy—it integrates both. Not
 We must face the truth about our sins (examination). We must speak our sins aloud—truth reveals that we NEED to confess, to bring sin into the light. We must genuinely repent—recognizing we've violated something sacred. We must accept consequences and make amends—when we commit grave sins, we feel a deep need to "make up" for what we've done. Simply being told "you're forgiven" might not be enough—we feel the need to DO something to make amends. The sacrament honors this truth about how we're made. God offers complete forgiveness—mercy transcending what justice requires. We commit to change—justice and mercy together leading to transformation.
 
 This is love in action—truth about sin, justice requiring acknowledgment, mercy offering forgiveness, all working together to heal and restore. The sacrament shows us that authentic love never chooses between truth, justice, and mercy; it holds them in perfect tension, each making the others more powerful.
+
+## Do You Want True Justice?
+
+If you've read this far, you've felt it—that deep hunger for justice. You know in your bones that some things are wrong and must be made right. You've cried out "That's not fair!" and meant it with every fiber of your being.
+
+But here's the question: **Do you want human justice or God's justice?**
+
+Human justice is always incomplete. It's tainted by self-interest, limited by ignorance, corrupted by power, and ultimately imposed by force. Even at its best, human justice can only punish wrongdoing—it cannot heal the wound, restore what was broken, or transform the wrongdoer.
+
+**God's justice is different.** It's perfect because it flows from perfect love. It's complete because it integrates truth, mercy, and sacrifice. It's powerful because it doesn't just punish—it restores, heals, and transforms.
+
+God's justice says: "Yes, this was wrong. Yes, there are consequences. Yes, restitution must be made." But it doesn't stop there. God's justice opens the door to mercy. It makes room for repentance. It offers the possibility of redemption. It transforms enemies into children, criminals into saints, the broken into the whole.
+
+This is the justice your heart has been crying out for all along—not just the punishment of evil, but the restoration of good. Not just consequences for wrongdoing, but healing for the wounded. Not just accountability for the guilty, but transformation for all.
+
+**If you want true justice—the kind that actually works, that actually heals, that actually restores—you need God.** Not as an add-on to your own sense of fairness. Not as a rubber stamp for your preferences. But as the source, the standard, and the power that makes real justice possible.
+
+This means submitting your understanding of justice to His. It means accepting that His ways are higher than your ways (Isaiah 55:9). It means trusting that the God who IS justice knows better than you do what justice requires.
+
+And here's the beautiful paradox: When you submit to God's justice, you discover it's not a burden but a gift. His justice doesn't crush you—it liberates you. It doesn't condemn you—it transforms you. Because God's justice is always integrated with God's mercy, and both flow from God's perfect love.
+
+**So the question isn't whether you believe in justice.** You do—you can't help it, because it's written on your heart. The question is: Will you accept the only justice that's real, objective, and powerful enough to actually heal the world? Will you accept God's justice?
+
+If your answer is yes, then you're ready for the next step. Because God's justice, as perfect as it is, points beyond itself to something even more astonishing: God's mercy.
 
 ## The Bridge to Mercy
 

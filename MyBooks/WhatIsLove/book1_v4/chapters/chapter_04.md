@@ -24,7 +24,7 @@
 
 "I'll love you forever."
 
-Easy to say on a wedding day when everything feels perfect. Harder to mean when she's gained weight, when he's lost his job, when the kids are screaming, when the bills are piling up, when that attractive coworker is paying attention, when "forever" starts feeling like a prison sentence.
+Easy to say on a wedding day when everything feels perfect. Harder to mean it when tragedy strikes, when jobs are lost, when the kids are screaming, when the bills are piling up, when that attractive coworker is paying attention, when "forever" starts feeling like a prison sentence.
 
 "I'll always be there for you."
 
@@ -66,7 +66,15 @@ This isn't oppression. This is freedom—the freedom that comes from knowing som
 
 ## The Biblical Pattern: God's Covenant Love
 
-God doesn't relate to us through contracts. He relates through covenant. And every covenant in Scripture reveals something essential about love's nature:
+God doesn't relate to us through contracts. He relates through covenant. And every covenant in Scripture reveals something essential about love's nature.
+
+As Scott Hahn teaches, drawing on St. Augustine's insight: "The New Testament is concealed in the Old, and the Old Testament is revealed in the New."[^1] Each covenant builds on the previous ones, progressively revealing God's plan of love:
+
+[^1]: Scott Hahn, *A Father Who Keeps His Promises: God's Covenant Love in Scripture* (Cincinnati: Servant Books, 1998). This principle originates with St. Augustine: "The New Testament lies hidden in the Old and the Old Testament is unveiled in the New" (*Quaestiones in Heptateuchum* 2, 73).
+
+**The Adamic Covenant (Genesis 1-3):** God creates humanity in His image and establishes the first covenant of love—calling us to communion with Him and stewardship of creation. Even after the Fall, God promises redemption and maintains the covenant bond.
+
+**The Noahic Covenant (Genesis 9):** After the flood, God makes a covenant with all creation, promising never to destroy the earth again. The rainbow becomes the sign of God's faithful, enduring love for all humanity.
 
 **The Abrahamic Covenant (Genesis 15, 17):** God promises to be Abraham's God and to make his descendants into a great nation. Notice: God makes promises, but He doesn't demand Abraham earn them. God walks through the pieces of the sacrifice alone (Genesis 15:17)—taking on Himself the obligation to fulfill the covenant even if Abraham fails.
 
@@ -96,7 +104,7 @@ Think about it practically:
 
 **Human-Authored Morality Requires Force:**
 
-If humans are the source of morality, whose humans decide? Ancient Sparta thought exposing weak infants was "just." Modern progressives think aborting them is "just." Without a transcendent standard, morality becomes a power struggle. **Without God as the source, "truth, justice, and mercy" become whatever the powerful say they are—and must be enforced through violence.**
+If humans are the source of morality, whose humans decide? Ancient Sparta thought exposing weak infants was "just." Modern progressives think aborting them is "just." Without a transcendent standard, morality becomes a power struggle. **When morality is authored by humans rather than received from divine authority, it must be imposed through force.** This is what happens when humans try to fabricate justice using limited human opinion rather than divine authority.
 
 This is why every atheistic political system has ended in mass murder:
 - Soviet communism: 20+ million dead
@@ -104,7 +112,7 @@ This is why every atheistic political system has ended in mass murder:
 - Nazi fascism: 11+ million dead
 - Cambodian communism: 2+ million dead
 
-**These aren't accidents—they're the logical outcome of rejecting God's authority.** When morality is grounded in human power rather than divine truth, it must be imposed through terror. The gulags and killing fields are what happen when humans try to author justice without depending on God's true authority.
+**These aren't accidents—they're the logical outcome of rejecting God's authority.** When morality is grounded in human power rather than divine truth, it must be imposed through terror. The gulags and killing fields are what happen when humans try to fabricate justice without depending on God's true authority.
 
 **God's Authority Invites Free Submission:**
 

@@ -26,7 +26,7 @@ A grandmother turns on the news and can't tell truth from propaganda anymore. Me
 
 A Black father watches his community crumble—not from racism, but from the destruction of the family. Seventy percent of children growing up without fathers. Generational poverty blamed on oppression instead of addressing the real crisis: fatherlessness, failed schools, and a welfare system that rewards broken homes. The lies keep communities trapped while politicians profit from the division.
 
-A Catholic church burns to the ground—one of dozens attacked in recent years. Christians are the most persecuted religious group in the world, yet our media stays silent. A grandmother praying outside an abortion clinic is arrested and faces years in prison, while those who firebomb pregnancy centers walk free. Religious freedom, once sacred, is now called "extremism."
+Children are shot during Mass at a Catholic church. Christians are the most persecuted religious group in the world, yet our media stays silent. A grandmother praying outside an abortion clinic is arrested and faces years in prison, while those who firebomb pregnancy centers walk free. Religious freedom, once sacred, is now called "extremism."
 
 These aren't statistics. They're souls crying out in a darkness they can't name. Truth itself has become negotiable—a matter of personal preference rather than objective reality. And into this chaos, the world offers a thousand counterfeits of love, each one leading further into the abyss.
 
@@ -38,11 +38,11 @@ The rampant evil in our world forces us to confront the most fundamental questio
 
 But here's what the enemy didn't anticipate: The lies have become so extreme, so obvious, so destructive that people are waking up. They're being pushed into a corner where they have to ask: "What is going on? What is true? What can I trust?"
 
-Maybe that's you. Maybe the contradictions finally became too glaring to ignore. Maybe you watched your church close while liquor stores stayed open and thought, "Something's wrong here." Maybe you saw a man win "Woman of the Year" and realized we've lost our minds. Maybe you watched your community crumble under policies that promised compassion but delivered destruction.
+Maybe that's you. Maybe the contradictions finally became too glaring to ignore. Maybe you watched your church close while liquor stores stayed open during COVID and thought, "Something's wrong here." Maybe you saw the government mandate vaccines for children who weren't vulnerable. Maybe you watched your own church be split apart over issues of human sexuality. Maybe you saw a man win "Woman of the Year" and realized we've lost our minds. Maybe you watched your community crumble under policies that promised compassion but delivered destruction.
 
 Maybe you're reading this book because you're searching for answers—real answers, not the comfortable lies our culture keeps selling. Maybe you are searching for truth grounded in reality.
 
-Here's the truth that's becoming undeniable: **Personal belief without action gets a society nowhere.** You can believe all the right doctrines, attend church every Sunday, and still watch civilization collapse around you if that belief doesn't translate into how we actually live.
+Here's the truth that's becoming undeniable: **We have completely disconnected our society from the source of all truth—God Himself.** Without this foundation, we have no objective standard for truth, no basis for morality, no ground for human dignity. You can believe all the right doctrines, attend church every Sunday, and still watch civilization collapse around you if that belief doesn't translate into how we actually live.
 
 The crisis we're facing isn't just political or cultural. It's theological. It's the fruit of centuries of Christianity that separated belief from action, personal piety from social transformation. We preached "accept Jesus and go to heaven" while the world burned. We emphasized individual salvation while families shattered. We focused on the afterlife while evil conquered this life.
 
@@ -50,7 +50,7 @@ But the wreckage is waking people up. They're realizing that something essential
 
 **Perhaps that's what brought you to this book.**
 
-When we abandon God's laws, the wreckage is immediate and undeniable. Broken families. Confused children. Despair wearing the mask of freedom. Death disguised as compassion. We don't just lose our way—we lose the very foundation of what makes us human.
+When we abandon God's laws, the wreckage is immediate and undeniable. Broken families. Confused children. Despair wearing the mask of freedom. Death disguised as compassion—and now we understand how profoundly true it is that "the wages of sin is death" (Romans 6:23). We don't just lose our way—we lose the very foundation of what makes us human and any semblance of a moral compass.
 
 This isn't new. Every generation faces this same ancient battle between light and darkness, love and selfishness, truth and lies. What we're witnessing today is simply the latest verse in humanity's oldest song—the cry of hearts that have forgotten how to love. The difference in this generation is that bad ideas travel faster than ever before. But the good news is that truth also has the same opportunity.
 
@@ -108,7 +108,7 @@ Look at the wreckage:
 
 - **Gender ideology:** A teacher tells a confused eight-year-old that maybe she's really a boy, choosing ideological applause over the child's actual wellbeing.
 
-Every single evil—every one—begins with this same fatal move: A human heart looks at what God offers and says, "No thanks. I know better."
+Every single evil—every one—begins with this same fatal move: A human heart looks at what God offers and says, "No thanks. I know better." This is the essence of pride—the root sin from which all others flow. Pride tells us we can determine good and evil for ourselves, that we don't need God's wisdom, that our limited human perspective is sufficient. It's the same lie the serpent told Eve: "You will be like God" (Genesis 3:5). Pride makes us think we're the ultimate authority, and from that delusion flows every form of evil we see in our world.
 
 <div class="blockquote">
 "Original sin is the 'reverse side' of the Good News that Jesus is the Savior of all men, that all need salvation and that salvation is offered to all through Christ."
@@ -144,7 +144,7 @@ Evil originates in the human heart when we choose our own will over God's will. 
 
 ## The Depth of Our Predicament
 
-This understanding reveals the depth of our human predicament. We cannot simply "try harder" to be good people. Sin has wounded our nature so deeply that we need something—or Someone—who can heal our hearts and transform us from within.
+This understanding reveals the depth of our human predicament. Our own willpower and good intentions are not enough. Sin has wounded our nature so deeply that we need something—or Someone—who can heal our hearts and transform us from within. Only the Creator of our hearts can heal our most grievous pains.
 
 We need a solution that addresses not just the symptoms but the source—the human heart. We need an answer that can actually overcome the evil that flows from our sinful choices.
 

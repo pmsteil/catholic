@@ -2,7 +2,7 @@
 
 Our world feels like it's coming apart at the seams, doesn't it? We hear constant cries for justice, for equity, for inclusion, for a solution to income inequality. People are desperately searching for something, often calling it "love," but like the 1980 Johnny Lee song says, they're often "looking for love in all the wrong places." It's a deep ache in the heart of humanity, a longing for connection, meaning, purpose, and peace that seems increasingly elusive.
 
-I wrote this book because after walking with the Lord for over 35 years and deeply contemplating what "God is Love" truly means, I've observed the seismic shifts in our culture and become absolutely convinced of one thing: the chaos we see, the confusion, the division, the deep wounds both today and throughout history—all of it boils down to a failure to answer the most fundamentally human question we could ever ask, the question that lies at the very heart of who we are as persons created in God's image:
+I wrote this book because after walking with the Lord for over 35 years and deeply contemplating what "God is Love" truly means, I've observed the seismic shifts in our culture and become absolutely convinced of one thing: the chaos we see, the confusion, the division, the deep wounds both today and throughout history—all of it boils down to a failure to understand the most fundamentally human question we could ever ask and to live out that understanding, the question that lies at the very heart of who we are as persons created in God's image:
 
 **What is Love?**
 
@@ -16,13 +16,13 @@ One night at Youth Group I asked the group this piercing question: "Can we know 
 
 I was SHOCKED to the core. This is not the language of the Church. This is not language we had ever used in the three years with them in Youth Group. I had been preaching "love" to them (a very superficial love without any detailed definition). Keep in mind, these were good and faithful youth who would say they loved Jesus, loved their parents, loved each other.
 
-But what they showed me was that society had become a much more powerful teacher, and its message was relativism. They were showing me the fruits of the "modernist" worldview that had successfully taught them that "there is no objective truth." It's a worldview that has been so successful that it has become the default for most people. This is the worldview they swim in every day and it had soaked in!
+But what they showed me was that society had become a much more powerful teacher, and its message was relativism. They were showing me the fruits of the "post-modernist" worldview that had successfully taught them that "there is no objective truth." It's a worldview that has been so successful that it has become the default for most people. This is the worldview they swim in at public schools, in the media, in pop culture, and it had soaked in!
 
 That's when I realized: **We are failing our children.** Not just as individual parents or teachers, but as a Church, as a society, as a civilization. Something had to be done.
 
 Within six months, everything came to a head. Lies about human sexuality within the Methodist Church. Lies about "gender identity" being fed to our young people. The "Black Lives Matter" movement claiming to fight for "racial justice" while promoting more racism, violence, and even attacking the nuclear family. I was at a crossroads.
 
-I realized something profound: sincere, well-meaning Christians on both sides were using the Bible to defend completely opposite positions. But what is God's plan for human sexuality? What is the truth about gender identity? What does God say about the family? Both sides claimed biblical support, but they couldn't both be right. No one was concerned with "THE TRUTH"—only "what they wanted to be true."
+I noticed something profound: sincere, well-meaning Christians on both sides were using the Bible to defend completely opposite positions. But what is God's plan for human sexuality? What is the truth about gender identity? What does God say about the family? Both sides claimed biblical support, but they couldn't both be right. No one was concerned with "THE TRUTH"—only "what they wanted to be true."
 
 How could this be? What was missing? (We'll explore this crucial question in Chapter 6: Truth.)
 
@@ -56,9 +56,9 @@ Jesus is telling us that in order to understand anything in the Sacred Scripture
 
 And so I knew I had to go even deeper than I ever had before.
 
-As I rediscovered the Catholic Church of my youth, I found something extraordinary: Jesus had built a Church that he promised would be guided by the Holy Spirit into ALL truth (John 16:13). And Paul tells us that the Church is the pillar and foundation of truth (1 Timothy 3:15).
+As I rediscovered the Catholic Church of my youth, I found something extraordinary: Jesus had built a Church that he promised would be guided by the Holy Spirit into ALL truth (John 16:13b). And Paul tells us that the Church is the pillar and foundation of truth (1 Timothy 3:15).
 
-And so now, as I have been allowing the historic Christian Church that traces its roots all the way back to Jesus to pour into me all of what it has discovered and teaches about God's love, I just had to write this book.
+And so now, as I have been allowing the historic Christian Church that traces its teaching all the way back to Jesus to pour into me all of these truths it has discovered and teaches about God's love, I just had to write this book.
 
 And so my goal is to make the teachings of God's Love as thorough and cohesive and accessible as possible because it is the children who suffer the most when we fail to teach them the complete truth about God's Love.
 
@@ -74,7 +74,7 @@ Think about the biggest questions we wrestle with: What is salvation? What is si
 
 **This is why this book matters.** Not just for your own spiritual growth—though that's important—but for the children who are counting on us to get this right. The children in your family, your parish, your community and society. The children who will inherit the world we leave behind.
 
-They deserve adults who can answer the question "What is love?" with clarity, conviction, and truth. They deserve to see marriages that image God's covenant love. They deserve to experience true justice and mercy working together in their families. They deserve to grow up knowing that they are created in the image of God, that their lives have infinite dignity and purpose, and that authentic love is not only possible but is their birthright as children of God.
+They deserve adults who can answer the question "What is love?" with clarity, conviction, and truth. They deserve to see marriages that image God's covenant love. They deserve to experience true justice and mercy working together in their families. They deserve to grow up knowing that they are created in the image of God, that their lives have inherent dignity and purpose, and that authentic love is not only possible but is their birthright as children of God.
 
 **The next generation is depending on us.** Let's not fail them.
 
@@ -91,7 +91,7 @@ Here is the definition I have come to believe is the heart of God's love and our
 That's a mouthful, I know! It's dense, and each word carries significant weight and meaning. We'll unpack every piece of that definition—sacred, sacrifice, covenant, truth, justice, mercy, communion—throughout this book.
 
 <div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
-**A Note on Humility:** While we embark on this journey to explore what it means that "God is Love," we must always do so with profound humility. As the Catechism reminds us (CCC 271), God's very mystery infinitely surpasses our limited human understanding. This book focuses specifically on the deep Catholic wisdom of God's love *as He has revealed it* and how we, His children, are called to participate in that divine life. I am not presuming to fully define the infinite God Himself. I have thought and taught and prayed my whole life for Jesus to give me His words. I sincerely pray I have done His love justice.
+While we embark on this journey to explore what it means that "God is Love," we must always do so with profound humility. As the Catechism reminds us (CCC 271), God's very mystery infinitely surpasses our limited human understanding. This book focuses specifically on the deep Catholic wisdom of God's love *as He has revealed it* and how we, His children, are called to participate in that divine life. I am not presuming to fully define the infinite God Himself. I have thought and taught and prayed my whole life for Jesus to give me His words. I sincerely pray I have done His love justice.
 </div>
 
 ## Your Roadmap for This Journey
@@ -153,7 +153,7 @@ Each of these titles captures a vital dimension of what you'll discover:
 - **Exposing Counterfeit Love** - Because 23 modern distortions are destroying souls, families, and civilization
 - **For the Love of Children** - Because the ultimate test of any "love" is what it does to the next generation
 
-But we settled on *What Is Love?* because that's the question burning in every human heart—the question our culture can no longer answer, the question this book will help you understand and live.
+But we specifically chose *What Is Love?* because that's the question burning in every human heart—the question our culture can no longer answer, the question this book will help you understand and live.
 
 I will be praying each day for you as you journey into the depth of God's love.
 
