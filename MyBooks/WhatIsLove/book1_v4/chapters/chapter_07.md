@@ -42,23 +42,23 @@ When you say "That's not fair!" you're appealing to some higher standard of fair
 
 Every time you claim something is unjust, you're measuring it against a standard. You're saying "This violates how things ought to be." But if there's no objective "ought"—if justice is just whatever humans make up—then your claim of injustice is meaningless. It's just your opinion. And someone else's opposite opinion has exactly the same authority: none.
 
-Consider what happens when people detach justice from God: They claim "It's unjust to deny women abortion rights"—calling the killing of innocent children "justice." They claim "It's unjust to exclude men from women's sports"—calling the erasure of biological reality "justice." They claim "It's unjust to force someone to suffer"—calling assisted suicide "justice." They claim "It's unjust that children need both a mother and father"—calling the deliberate deprivation of parents "justice."
+Consider what happens when people detach justice from God: They claim "It's unjust to deny women abortion rights"—calling the killing of innocent children "justice." They claim "It's unjust to exclude men from women's sports"—calling the erasure of biological reality "justice." They claim "It's unjust to force someone to suffer"—calling assisted suicide "justice." They claim "It's unjust to require children to have both a mother and father"—calling the deliberate deprivation of parents "justice."
 
 **Here's what we all need to understand:** If there's no transcendent, objective standard of justice—if justice is just a human invention or cultural preference—then **none of these claims mean anything**. Not yours. Not theirs. Not anyone's.
 
-Without an objective, true moral standard that comes from the Author of the universe, there is no "should." There is no "ought." There is no "right" or "wrong." There is only power—whoever is strongest gets to impose their preferences on everyone else. Your passionate cry for justice? It's just noise. Your moral outrage? It's just a feeling with no more authority than someone's preference for chocolate over vanilla.
+Without an objective, true moral standard that comes from the Author of the universe, there is no "should." There is no "ought." There is no "right" or "wrong." There is only power—whoever is strongest gets to impose their preferences on everyone else. Your passionate cry for justice? It's just noise. Your moral outrage? It's just a feeling with no more authority than someone's preference for chocolate over vanilla. And neither statement has any more moral value than the other. It's just preference. Just opinion. Just feeling.
 
 **You literally have no ground to stand on when you fight for "justice."** You're making an appeal to a standard that—if you're right that there's no God—doesn't exist. You're borrowing from a worldview you reject to make arguments you can't justify.
 
 Think about what this means practically:
 
-When you say "Child abuse is wrong," what you really mean—if there's no God—is "I don't like child abuse." And when someone else says "Child abuse is fine," they mean "I'm okay with child abuse." And neither statement has any more authority than the other. It's just preference. Just opinion. Just feeling.
+When you say "Child abuse is wrong," what you really mean—if there's no God—is "I don't like child abuse." And when someone else says "Child abuse is fine," they mean "I'm okay with child abuse." And neither statement has any moral value over the other.
 
 **But we all know—deep down—that some things are objectively unjust.** Not just "I don't like this" but "This is actually, truly wrong." Child abuse is wrong even if a society approves it. Slavery is wrong even if it's legal. Genocide is wrong even if the majority supports it. These aren't opinions. They're facts about reality.
 
 And the moment you recognize that—the moment you insist that some things are objectively unjust regardless of what anyone thinks—you are appealing to an objective standard of justice. A transcendent measure against which all human actions can be judged.
 
-And that standard cannot be human opinion (because humans disagree). It cannot be cultural convention (because cultures differ). It cannot be evolutionary advantage (because that changes). It cannot be majority vote (because majorities can be wrong). It cannot be personal feeling (because feelings conflict).
+And that standard cannot be human opinion (because humans disagree). It cannot be cultural convention (because cultures differ). It cannot be evolutionary advantage (because evolution cannot explain the transcendent source of the moral feelings themselves—the chemical reactions in our bodies that produce feelings of despair or resentment when we experience injustice have no ability to explain why those chemicals flow in the first place). It cannot be majority vote (because majorities can be wrong). It cannot be personal feeling (because feelings conflict).
 
 **The standard must be eternal, unchanging, and absolute. It must transcend all human systems and preferences. In other words, it must be God Himself.**
 
@@ -84,7 +84,11 @@ Modern "justice" often means punishment or revenge, enforcing equality of outcom
 
 Why does every person deserve justice? Because they're made in God's image: "So God created mankind in his own image; in the image of God he created them; male and female he created them" (Genesis 1:27, NABRE).
 
-This is the foundation of all human rights and all justice: Every human being has inherent dignity given by God. Every human being deserves to be treated according to that dignity. Every human being has rights that flow from their nature—life, family, truth, freedom, worship, property—and responsibilities that correspond to those rights.
+This is the foundation of all human rights and all justice: Because every human being is made in the image and likeness of God, and because love is something we do for the good of the other, being a human being carries duties and responsibilities toward each other—to tell the truth, to treat each other justly, to forgive for the good of the relationship and covenant.
+
+If we all have these moral duties, then another way to describe this is that each of us has the right to be treated with truth, justice, and mercy in terms of our life and our freedom to do good to our neighbor. But we never have the right to carry out an act that is false, unjust, or unmerciful toward our neighbor. We may have the free will to do this, but not the "right".
+
+In other words, we cannot possibly understand how we are "endowed by our Creator with certain unalienable rights" (for American readers) unless we first understand that rights flow from our duty to treat each man, woman, and child with truth, justice, and mercy—the way we were designed by God, and the way we expect to be treated by others.
 
 Justice means honoring this reality. Injustice means denying it—treating people as less than human, violating their dignity, refusing what's owed to them.
 
@@ -92,13 +96,13 @@ Justice means honoring this reality. Injustice means denying it—treating peopl
 
 Justice isn't opposed to love—it's love's foundation. Justice provides objective standards that ground love in reality. Justice protects the vulnerable by giving love the power to say "This is wrong" objectively. Justice creates the stability that allows love to endure. Justice enables the trust that makes relationship possible. Justice prepares for mercy—you can only transcend justice with mercy if there's justice to transcend.
 
-## Justice vs. Sentimentality
+## Justice vs. Inclusion
 
-Our culture often confuses love with sentimentality—feelings without justice, compassion without standards, "niceness" without truth.
+Our culture often confuses love with inclusion—accepting everyone's choices without judgment, affirming everyone's feelings without standards, "niceness" without truth.
 
-Sentimentality says "I feel bad for you, so I'll ignore what you've done wrong." Justice says "What you did was wrong and has consequences, but I'll help you make it right." Sentimentality says "Love means never making anyone uncomfortable." Justice says "Love means caring enough to speak hard truths when necessary."
+Inclusion says "I feel bad for you, so I'll ignore any immoral actions." Justice says "What you did was wrong and has consequences, but I'll help you make it right." Inclusion says "Love means never making anyone uncomfortable." Justice says "Love means caring enough to speak hard truths when necessary."
 
-Sentimentality feels like love but isn't. It's actually a form of contempt—treating people as too weak to handle truth, too fragile to be held to standards. True love includes justice. It treats people as capable of truth, worthy of standards, able to grow and change.
+Inclusion feels like love but isn't. It's actually a form of contempt—treating people as too fragile to be taught what is right, like a three-year-old throwing a temper tantrum. As any father learns, if you don't teach the child how to control their emotions and do what is right, they will continue to be more miserable every time they face any setback, pain, or suffering. It is an injustice to the child to allow them to try and conform the world to their desires. True love includes justice. It treats people as capable of truth, worthy of standards, able to grow and change.
 
 ## Justice in Different Relationships
 
@@ -124,9 +128,9 @@ Justice combats exploitation by protecting the vulnerable and defending the oppr
 
 Justice isn't just individual—it's social. The common good means the conditions that allow all people to flourish—peace, order, opportunity, protection of rights, promotion of virtue.
 
-Justice toward the common good requires subsidiarity (solving problems at the most local level), solidarity (the strong helping the weak), respect for human dignity in every policy and law, family priority (protecting the fundamental unit of society), and religious freedom (the right to worship according to conscience).
+Justice toward the common good requires subsidiarity (solving problems at the most local level), solidarity (the strong helping the weak), respect for human dignity in every policy and law, family priority (protecting the fundamental unit of society—because the unity of the family in truth, justice, and mercy is the first and most important teacher of this love), and religious freedom (the right to worship according to conscience). The common good allows all people to live in true covenantal communion.
 
-## The Sacrament of Reconciliation: Justice and Mercy United
+## The Sacrament of Reconciliation: Justice and Mercy United in Truth
 
 The Catholic Sacrament of Reconciliation perfectly demonstrates how justice and mercy work together. Justice requires acknowledging sin (confession), accepting consequences (penance), making amends (restitution). Mercy offers forgiveness (absolution), restoration (grace), healing (reconciliation).
 
@@ -154,7 +158,7 @@ This is the justice your heart has been crying out for all along—not just the 
 
 This means submitting your understanding of justice to His. It means accepting that His ways are higher than your ways (Isaiah 55:9). It means trusting that the God who IS justice knows better than you do what justice requires.
 
-And here's the beautiful paradox: When you submit to God's justice, you discover it's not a burden but a gift. His justice doesn't crush you—it liberates you. It doesn't condemn you—it transforms you. Because God's justice is always integrated with God's mercy, and both flow from God's perfect love.
+And here's the beautiful paradox: When you submit to God's justice, you discover it's not a burden but a gift. His justice doesn't crush you—it liberates you. It doesn't condemn you—it transforms you. Because God's justice is always integrated with God's mercy, and both flow from God's perfect love. This is where true freedom comes from—justice teaches us how to pursue what is truly good for ourselves, our family, and society. It teaches us how to create covenantal communion in the light of the truth of justice, rather than destroying communion through inflicting pain and suffering on ourselves, our family, or society.
 
 **So the question isn't whether you believe in justice.** You do—you can't help it, because it's written on your heart. The question is: Will you accept the only justice that's real, objective, and powerful enough to actually heal the world? Will you accept God's justice?
 
@@ -168,7 +172,7 @@ This is where we discover that justice, by itself, is incomplete. Justice can di
 
 Think about it: Justice can tell you that you've been wronged and deserve recompense. But justice alone cannot heal your wounded heart. Justice can demand that the offender acknowledge their sin and accept consequences. But justice alone cannot transform them into a new person. Justice can establish that a relationship has been violated. But justice alone cannot restore the trust and intimacy that were lost.
 
-**This is how justice prepares for mercy:** Justice establishes the truth about what's been broken, making mercy meaningful rather than cheap. Justice names the wound, making mercy's healing powerful rather than superficial. Justice acknowledges the debt, making mercy's forgiveness costly rather than casual. Without justice, mercy would be mere sentimentality—pretending nothing's wrong, enabling sin, cheapening grace. With justice, mercy becomes the most powerful force in the universe.
+**This is how justice prepares for mercy:** Justice establishes the truth about what's been broken, making mercy meaningful rather than cheap. Justice names the wound, making mercy's healing powerful rather than superficial. Justice acknowledges the debt, making mercy's forgiveness costly rather than casual. Without justice, mercy would be mere sentimentality—pretending nothing's wrong, enabling sin, cheapening grace. When we uphold justice, mercy becomes the most powerful force in the universe.
 
 This is where the next facet becomes crucial: **mercy**. Mercy doesn't violate justice—it transcends it. Mercy doesn't ignore what's owed—it offers more than what's owed.
 
@@ -185,7 +189,7 @@ Without justice, mercy is meaningless. With justice, mercy becomes love that goe
 - **Isaiah 1:17:** Learn to do good, make justice your aim, defend the vulnerable
 - **Amos 5:24:** Let justice surge like water, righteousness like an unfailing stream
 - **Matthew 23:23:** The weightier things of the law—judgment, mercy, fidelity
-- **James 2:14-17:** Faith without works of justice is dead
+- **James 2:14-17:** Faith without works of justice and mercy is dead
 
 ### Catechism of the Catholic Church
 - **CCC 1807:** Justice as cardinal virtue giving each their due
