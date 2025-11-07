@@ -87,13 +87,13 @@ This is *perichoresis*—mutual indwelling. The Father is in the Son, the Son in
 
 This is the model for all communion:
 
-**Distinct Persons:** You don't lose yourself in communion. You become more fully yourself. The Father doesn't become the Son. Each Person retains His distinctiveness. True communion doesn't erase identity—it fulfills it.
+**Distinct Persons:** You don't lose yourself in communion. You become more fully yourself. Each Person retains His distinctiveness. True communion doesn't erase identity—it fulfills it.
 
-**Perfect Unity:** Yet they're one—one will, one purpose, one love. Unity without uniformity. Harmony without homogenization. The Father, Son, and Spirit are perfectly united while remaining perfectly distinct.
+**Perfect Unity:** Yet they're one—one will, one purpose, one love. Unity without uniformity. The Father, Son, and Spirit are perfectly united while remaining perfectly distinct.
 
-**Mutual Self-Gift:** Each Person gives Himself completely to the others. The Father holds nothing back from the Son. The Son holds nothing back from the Father. Their mutual love IS the Holy Spirit—the bond of communion between them.
+**Mutual Self-Gift:** Each Person gives Himself completely to the others. Their mutual love IS the Holy Spirit—the bond of communion between them.
 
-**Eternal Joy:** This communion is perfect happiness. The Trinity doesn't need creation. God is perfectly fulfilled in His own communal life. He created not out of need but out of the overflow of love—love that must give, must create, must multiply.
+**Eternal Joy:** This communion is perfect happiness. God created not out of need but out of the overflow of love—love that must give, must create, must multiply.
 
 This is what we're invited into: "That they also may be in us" (John 17:21, NABRE). Not just imitating Trinitarian communion from a distance, but actually participating in it. God invites us into His own life, His own communion, His own joy.
 
@@ -103,7 +103,7 @@ This is what we're invited into: "That they also may be in us" (John 17:21, NABR
 
 Why? Because we're made in the image of a God who IS communion. A solitary human doesn't fully image the Trinity. We need relationship, community, communion to be fully human.
 
-But notice: The solution to "not good to be alone" isn't just any company. It's communion—someone who complements, who corresponds, who can enter into true communion. Not just coexistence, but communion. Not just proximity, but presence. Not just association, but authentic community. Not just connection, but covenant.
+But notice: The solution to "not good to be alone" isn't just any company. It's communion—someone who complements, who corresponds, who can enter into true communion. Not just coexistence or connection, but true communion—covenant relationship that creates authentic community.
 
 We were made for this. Our hearts are restless until they rest in communion—with God first, and through Him, with others.
 
@@ -129,14 +129,6 @@ Our definition corrects both errors: "God's Perfect Love is the sacred gift of c
 Notice the final word: **communion**. Not virtue. Not fulfillment. Communion. This is the true end of love—the goal toward which everything else points.
 
 Truth, justice, mercy, and sacrifice are the framework through which love expresses itself rightly. But they are not the destination. The destination is communion—union with God and others through self-giving love.
-
-The medieval vision starts with human desire refined through virtue. The modern vision starts with human emotion. But God's Perfect Love starts with divine gift—something we receive through covenant and grace.
-
-The medieval vision aims at moral goodness. The modern vision aims at self-fulfillment. But God's Perfect Love aims at communion—union with God and others.
-
-The medieval vision moves upward toward moral perfection. The modern vision moves inward toward self-discovery. But God's Perfect Love moves outward—self-gift that creates communion.
-
-The medieval lover climbed toward virtue for himself. The modern lover seeks fulfillment for himself. But the Christian lover enters communion—and through it, brings the world to life.
 
 Virtue is still essential—truth, justice, mercy, and sacrifice are not optional. But they're no longer the end. They become the structure through which love flows outward to create communion. You don't become good for your own sake; you become good so that divine life can flow through you to others.
 
@@ -276,9 +268,7 @@ The devil wants nothing more than denominations and arguments over truth. If the
 
 Every Christian division is a scandal that contradicts the Gospel. Unity doesn't mean uniformity, but it requires submission to truth. The Catholic Church's claim: Christ established ONE Church with authority to preserve truth. Our call: Work for unity (communion) while never compromising truth because love requires truth.
 
-This is painful. Many good, sincere Christians are separated from full communion with the Catholic Church. Many have been hurt by Catholics. Many have legitimate questions about Catholic teaching. But the scandal remains: Christ prayed for unity, and we are divided.
-
-The path forward isn't pretending our differences don't matter. It's not reducing Christianity to the lowest common denominator. It's humbly seeking the truth together, trusting that Christ will lead us to the unity He prayed for. It's working for communion while never compromising the truth that makes communion possible.
+This is painful. Many good, sincere Christians are separated from full communion with the Catholic Church. Many have been hurt by Catholics. Many have legitimate questions about Catholic teaching. But the scandal remains: Christ prayed for unity, and we are divided. The path forward is humbly seeking the truth together—because truth is sacred, it comes from God—trusting that Christ will lead us to the unity He prayed for, working for communion while never compromising the truth that makes communion possible.
 
 ### Eternal: Covenant Communion of Saints
 
