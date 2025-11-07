@@ -42,40 +42,6 @@ We need to return to the origin of love: One, Holy, all-loving God. Only the Who
 
 This chapter will reveal how participating in God's Perfect Love, rooted in this Holy Truth, is the only way to heal and save our society. Because love isn't just about being nice or feeling good. Love is about communion—life-giving union with God and others that makes us fully alive.
 
-## Life vs. Death: By Their Fruits You Will Know Them
-
-Look at any dimension of life and ask one question: Is it generating life or death?
-
-**Self:**
-
-The person growing in virtue, pursuing truth, integrating body-mind-soul, becoming who God made them to be—that's life-giving.
-
-The person trapped in addiction, self-destruction, fragmentation, refusing to grow, living lies about themselves—that's death-dealing.
-
-**Family:**
-
-The marriage where spouses build each other up, create a home of peace, raise children in love, keep covenant fidelity—that's life-giving.
-
-The "relationship" of mutual exploitation, contraception ensuring no life, broken promises, only bitterness—that's death-dealing.
-
-**Society:**
-
-The community serving the common good, defending the vulnerable, building up others, creating a culture of life—that's life-giving.
-
-The society exploiting the weak, embracing the Culture of Death, promoting radical individualism, treating people as means not ends—that's death-dealing.
-
-**Jesus:**
-
-The Gospel that proclaims truth, administers sacraments through His Church, forms disciples, transforms the world—that's life-giving.
-
-The false gospels that affirm whatever culture says, avoid hard truths, make no demands, produce no fruit—that's death-dealing.
-
-<div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
-Authentic love is inherently life-giving—it creates, sustains, and multiplies life. Counterfeit love is death-dealing—it consumes, destroys, and ends in sterility. By their fruits you will know them.
-</div>
-
-This is the test. Not what people say. Not what they claim. Not their intentions or their feelings. Their fruits. Does this relationship, this choice, this way of life create life or death? Does it build up or tear down? Does it multiply or consume? Does it generate communion or isolation?
-
 
 ## God IS Communion
 
@@ -97,40 +63,7 @@ This is the model for all communion:
 
 This is what we're invited into: "That they also may be in us" (John 17:21, NABRE). Not just imitating Trinitarian communion from a distance, but actually participating in it. God invites us into His own life, His own communion, His own joy.
 
-### Made for Communion
-
-"It is not good for the man to be alone" (Genesis 2:18, NABRE). This is God's first "not good" in creation. Everything else is "good" or "very good." But human solitude is "not good."
-
-Why? Because we're made in the image of a God who IS communion. A solitary human doesn't fully image the Trinity. We need relationship, community, communion to be fully human.
-
-But notice: The solution to "not good to be alone" isn't just any company. It's communion—someone who complements, who corresponds, who can enter into true communion. Not just coexistence or connection, but true communion—covenant relationship that creates authentic community.
-
-We were made for this. Our hearts are restless until they rest in communion—with God first, and through Him, with others.
-
-
-## The True End of Love: Communion, Not Virtue or Self-Fulfillment
-
-Throughout history, Christians have understood love differently—not in its essence, but in its ultimate goal. Where does love lead?
-
-The medieval vision saw love as moral ascent—a ladder toward personal perfection. The knight who loved rightly became more virtuous, more noble, more perfect. This vision elevated love above mere passion, but it contained a subtle danger: one's own virtue could become the goal rather than participation in divine life.
-
-The modern vision sees love as self-fulfillment—personal happiness, emotional satisfaction, self-actualization. "Follow your heart." "Love yourself first." "Do what makes you happy." This is even more self-centered. The modern lover seeks only to feel good. Love becomes psychological therapy, not transformation.
-
-But God's Perfect Love reveals a different vision entirely:
-
-| Vision | Source of Love | Goal of Love | Direction | Character |
-|--------|---------------|--------------|-----------|-----------|
-| **Medieval** | Human desire refined by virtue | Moral goodness / becoming noble | Upward (moral ascent) | Love as self-perfection |
-| **Modern** | Human emotion and self-expression | Self-fulfillment / happiness | Inward (self-focus) | Love as self-satisfaction |
-| **God's Perfect Love** | Divine gift of covenantal grace | Communion with God and others | Outward (self-gift) | Love as life-giving participation |
-
-Our definition corrects both errors: "God's Perfect Love is the sacred gift of covenant which binds truth, justice, mercy, and sacrifice into life-giving **communion**."
-
-Notice the final word: **communion**. Not virtue. Not fulfillment. Communion. This is the true end of love—the goal toward which everything else points.
-
-Truth, justice, mercy, and sacrifice are the framework through which love expresses itself rightly. But they are not the destination. The destination is communion—union with God and others through self-giving love.
-
-Virtue is still essential—truth, justice, mercy, and sacrifice are not optional. But they're no longer the end. They become the structure through which love flows outward to create communion. You don't become good for your own sake; you become good so that divine life can flow through you to others.
+Our definition reveals this clearly: "God's Perfect Love is the sacred gift of covenant which binds truth, justice, mercy, and sacrifice into life-giving **communion**." Notice the final word: **communion**. Not virtue for its own sake. Not self-fulfillment. Communion. This is the true end of love—the goal toward which everything else points. Truth, justice, mercy, and sacrifice are essential, but they're the framework through which love flows outward to create communion. You don't become good for your own sake; you become good so that divine life can flow through you to others.
 
 
 ## "Be Perfect": What Jesus Really Meant
@@ -198,9 +131,7 @@ The Church's teaching isn't arbitrary or outdated. It's protecting the truth tha
 
 ### Spiritual Fruitfulness: All Vocations Called to Bear Fruit
 
-Not everyone is called to physical procreation. Some are called to celibacy—priests, religious, and those who remain single. But everyone is called to spiritual fruitfulness. Priests generate spiritual life through the sacraments. Religious generate life through prayer, service, and witness. Single people generate life through their work, relationships, and service. All Christians are called to make disciples: "Go, therefore, and make disciples of all nations" (Matthew 28:19, NABRE).
-
-Jesus says, "I chose you and appointed you to go and bear fruit that will remain" (John 15:16, NABRE). Not "some of you" or "those called to marriage." All of you. Every Christian is called to be fruitful—to spiritual parenthood, bringing others to faith, forming them in truth, helping them grow in holiness.
+Not everyone is called to physical procreation, but all are called to spiritual fruitfulness—making disciples, forming others in faith, bringing life through prayer, service, and witness. "I chose you and appointed you to go and bear fruit that will remain" (John 15:16, NABRE). Every Christian is called to be fruitful.
 
 
 ### Sacramental: The Eucharist—Where the Definition Becomes REAL
@@ -245,20 +176,9 @@ The Church knew this all along. Sacred Tradition preserved this truth for 2,000 
 
 ### Ecclesial: Church as Body of Christ
 
-"As a body is one though it has many parts, and all the parts of the body, though many, are one body, so also Christ" (1 Corinthians 12:12, NABRE).
+"As a body is one though it has many parts, and all the parts of the body, though many, are one body, so also Christ" (1 Corinthians 12:12, NABRE). The Church is not an institution or organization, but a communion—the Body of Christ, united to Him and to each other. When one member suffers, we all suffer. When one member rejoices, we all rejoice.
 
-St. Paul's image of the Body of Christ perfectly captures communion:
-
-- Many parts with different gifts, roles, and functions
-- One Body united in Christ—not just associated but actually one
-- Mutual dependence—"The eye cannot say to the hand, 'I do not need you'" (1 Corinthians 12:21, NABRE)
-- Shared suffering and joy—"If one part suffers, all the parts suffer with it; if one part is honored, all the parts share its joy" (1 Corinthians 12:26, NABRE)
-
-This is what the Church is meant to be: Not an institution, not an organization, not a social club. But a communion—the Body of Christ, united to Him and to each other.
-
-When one member suffers, we all suffer. When one member rejoices, we all rejoice. When one member sins, the whole Body is wounded. When one member grows in holiness, the whole Body is strengthened.
-
-This is why the sacraments matter so much. They're not just personal spiritual experiences. They're how we enter into and maintain communion with the Body. Baptism makes us members. Confirmation strengthens us. Eucharist nourishes us. Reconciliation heals us when we've wounded the Body through sin. Marriage and Holy Orders build up the Body in specific ways.
+The sacraments are how we enter into and maintain communion with the Body. Baptism makes us members. Confirmation strengthens us. Eucharist nourishes us. Reconciliation heals us when we've wounded the Body through sin. Marriage and Holy Orders build up the Body in specific ways.
 
 #### The Scandal of Division
 
@@ -289,32 +209,13 @@ This is what we're made for. This is where love leads. This is the end—perfect
 
 ## Call to Sainthood: FOR THE CHILDREN
 
-What is a saint? A saint is someone who submits their whole life—body, mind, and soul—to living God's Perfect Love. They integrate truth, justice, mercy, and sacrifice in every dimension of their existence, allowing Christ to transform them into living witnesses of authentic love.
-
-Saints aren't people who never struggle or sin. They're people who keep getting back up, who keep submitting to God's transforming grace, who keep choosing love even when it costs them everything. They're ordinary people who allow God to do extraordinary things through them.
-
-This call to sainthood isn't reserved for a spiritual elite. It's the universal Christian vocation. Every baptized person is called to become a saint—to live the complete, integrated love we've explored in these ten chapters.
-
-### FOR THE LOVE OF CHILDREN
-
 Everyone loves children intuitively—we're made to protect and nurture them. This is your heart's deepest instinct.
 
 **The children are watching.** They're watching YOU.
 
 Will they see authentic communion or counterfeit connection? Will they see parents ALIVE in God's love or just going through motions? Will they see marriage as life-giving covenant or disposable contract? Will they see the Church as Body of Christ or social club?
 
-Children need to SEE life-giving communion lived out:
-
-- They need parents who are WHOLE—body, heart, mind, soul integrated in love
-- They need to witness sacrifice that creates life, not selfishness that destroys it
-- They need to see truth honored, justice practiced, mercy given
-- They need to experience what it means to be ALIVE in God's love
-
-**Your first path to sainthood: Having, raising, and teaching children.**
-
-Marriage exists FOR the children—to give them mother and father united in covenant love. Not just biological parents, but a communion of persons that images the Trinity. Children need to see what covenant looks like. They need to witness sacrifice. They need to experience authentic communion.
-
-For those called to celibacy—priests, religious, single people—there's spiritual parenthood through mentoring, teaching, serving. Every Christian is called to make disciples, to form the next generation, to bring others to faith.
+Children need to SEE life-giving communion lived out—parents who are WHOLE (body, heart, mind, soul integrated in love), sacrifice that creates life, truth honored, justice practiced, mercy given. They need to experience what it means to be ALIVE in God's love.
 
 **This is urgent:**
 
@@ -332,9 +233,7 @@ They need you to show them what it looks like when someone submits their whole l
 
 They need to see that communion with God is possible. That wholeness is real. That love isn't just a feeling but a way of life. That sacrifice leads to life. That truth sets you free. That justice and mercy work together. That the Eucharist is the source and summit. That the Church is the Body of Christ. That sainthood is the universal call.
 
-The world desperately needs saints. The next generation needs saints. Your family needs you to be a saint. Your children—biological or spiritual—need you to be a saint.
-
-And here's the beautiful truth: The perfect love of the Holy Trinity is the sacramental grace that transforms us into saints. The Church teaches us how to live this love. The sacraments provide the power. The communion of saints provides the support. Everything you need to become a saint united to Christ and His Church has been given to you.
+The world desperately needs saints. The next generation needs you to be a saint. The sacramental grace of the Holy Trinity transforms us into saints. The Church teaches us how. The sacraments provide the power. The communion of saints provides the support. Everything you need has been given to you.
 
 **The only question is: Will you submit your whole life to living God's Perfect Love?**
 
