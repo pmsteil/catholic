@@ -120,23 +120,21 @@ We'll journey together through these chapters:
 
 **Chapter 9: Sacrifice** - Authentic love requires concrete self-giving action that puts others before self, not mere sentiment or good intentions.
 
-**Chapter 10: Life-giving** - Love creates, sustains, and multiplies life—both physical and spiritual—participating in God's creative work.
+**Chapter 10: Life-Giving Communion** - Love creates, sustains, and multiplies life (physical and spiritual), building authentic community and relationship that overcomes isolation. The goal of perfect love is communion with God and others.
 
-**Chapter 11: Communion** - Love builds authentic community and relationship, overcoming isolation and creating genuine human solidarity.
+**PART 2: IMPLICATIONS FOR CHRISTIAN FAITH (Chapters 11-14)**
 
-**PART 2: IMPLICATIONS FOR CHRISTIAN FAITH (Chapters 12-15)**
+**Chapter 11: Proof for the Existence of God** - The moral argument demonstrates God's existence through human capacity for love; this definition provides an upgraded moral argument that avoids Divine Command Theory problems.
 
-**Chapter 12: Proof for the Existence of God** - The moral argument demonstrates God's existence through human capacity for love; this definition provides an upgraded moral argument that avoids Divine Command Theory problems.
+**Chapter 12: The Nature of Virtues—Faith Working Through Love** - Every virtue upholds and flows from the four pillars of perfect love (Truth, Justice, Mercy, and Sacrifice), definitively refuting "faith alone."
 
-**Chapter 13: The Nature of Virtues—Faith Working Through Love** - Every virtue upholds and flows from the four pillars of perfect love (Truth, Justice, Mercy, and Sacrifice), definitively refuting "faith alone."
+**Chapter 13: Understanding Sin—Mortal and Venial Distinctions** - How vices deny the four pillars; explains three conditions for mortal sin; shows growth in holiness is possible.
 
-**Chapter 14: Understanding Sin—Mortal and Venial Distinctions** - How vices deny the four pillars; explains three conditions for mortal sin; shows growth in holiness is possible.
+**Chapter 14: Counterfeit Love in the Modern World** - Systematically exposes 23 modern counterfeits (ideological, relational, and religious) showing which essential components each lacks or distorts.
 
-**Chapter 15: Counterfeit Love in the Modern World** - Systematically exposes 23 modern counterfeits (ideological, relational, and religious) showing which essential components each lacks or distorts.
+**Chapter 15: The Generational Consequences** - Applies the ultimate test to counterfeits: What do they do to children? Shows how every counterfeit harms children in predictable ways and how God's Perfect Love provides what children need to flourish.
 
-**Chapter 16: The Generational Consequences** - Applies the ultimate test to counterfeits: What do they do to children? Shows how every counterfeit harms children in predictable ways and how God's Perfect Love provides what children need to flourish.
-
-**Chapter 17: The Gospel - God's Perfect Love Revealed in Christ** - Shows how Jesus Christ perfectly embodies and fulfills every component of the definition. The Gospel IS God's Perfect Love made flesh.
+**Chapter 16: The Gospel - God's Perfect Love Revealed in Christ** - Shows how Jesus Christ perfectly embodies and fulfills every component of the definition. The Gospel IS God's Perfect Love made flesh.
 
 **Appendix: Non-Christian Belief Systems and Contemporary Ideologies** - Comprehensive matrix showing how various worldviews relate to truth, justice, mercy, and sacrifice.
 
