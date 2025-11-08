@@ -38,7 +38,7 @@ The cult leader says it while demanding absolute obedience and cutting members o
 
 In each case, "love" is the justification for control, manipulation, and harm. And the victims often accept it because they've been taught that questioning someone who claims to love you is itself unloving.
 
-This is what happens when love is separated from truth. Without truth, "love" becomes whatever the powerful say it is. Without truth, we can't distinguish authentic love from its counterfeits. Without truth, love becomes the ultimate tool of manipulation.
+This is what happens when love is separated from truth—when lies replace reality. Without truth, "love" becomes whatever the powerful say it is. Without truth, we can't distinguish authentic love from its counterfeits. Without truth, love becomes the ultimate tool of manipulation. **Lying is the foundational sin that destroys love at its source.**
 
 <div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
 Love without truth is manipulation. Truth without love is cruelty. Authentic love requires both—truth that serves the beloved's good, love that honors objective reality.
@@ -86,11 +86,11 @@ This is why love requires truth. Because love requires knowing the beloved as th
 
 The depth of what it means that Jesus IS truth becomes even more profound when we understand how He died. On the Cross, Jesus prayed the words of Psalm 31:6: "Into your hands I commend my spirit; you will redeem me, LORD, God of truth" (NABRE).
 
-Think about the context: Jesus—who IS Truth—was dying because of lies. False witnesses testified against Him. Religious leaders accused Him falsely. Pilate knew He was innocent but condemned Him anyway to political expediency. The crowd chose Barabbas, a murderer, over Jesus, the Truth. Even His own disciples abandoned Him, with Peter denying three times that he even knew Him.
+Think about the context: Jesus—who IS Truth—was dying because of lies. False witnesses testified against Him. Religious leaders accused Him falsely. Pilate knew He was innocent but condemned Him anyway to political expediency. The crowd chose Barabbas, a murderer, over Jesus, the Truth. Even His own disciples abandoned Him, with Peter denying three times that he even knew Him. Satan is called "the father of lies" (John 8:44, NABRE) for good reason—lying is his primary weapon against love.
 
 Truth Incarnate was murdered by a world built on lies. And in His final breath, He entrusted Himself to the "God of truth"—the Father who sees reality clearly when everyone else believes lies, who judges justly when everyone else condemns the innocent.
 
-This reveals something crucial: **lies are not just mistakes or minor moral failures. Lies are deadly.** They killed God Himself when He walked among us. They crucified Love. They murdered Truth.
+This reveals something crucial: **lying is the sin directly opposed to truth, and lies are deadly.** They killed God Himself when He walked among us. They crucified Love. They murdered Truth. Every sin involves some form of lying—to ourselves, to others, or to God. See chapter 13 where we analyze each sin in detail.
 
 And lies are still deadly today—destroying marriages, families, communities, nations, and souls. Every lie is a small participation in the same evil that crucified Christ. Every time we speak truth, we participate in His resurrection victory over the kingdom of lies.
 
@@ -140,11 +140,13 @@ We are living through an unprecedented crisis of lies. The media lies to us dail
 
 We're told that men can become women and women can become men. That a baby in the womb isn't a human person. That marriage can be between any combination of people. That gender is a spectrum. That your feelings determine reality. That there are no objective moral standards. That truth itself is just a social construct used by the powerful to oppress the marginalized.
 
-These aren't just philosophical disagreements. These are lies—deliberate denials of reality that destroy lives. And like the lies that killed Jesus, these lies are deadly. They destroy children's bodies through so-called "gender-affirming care." They destroy marriages and families. They destroy the vulnerable through abortion, euthanasia, and exploitation. They destroy souls by cutting them off from truth, from reality, from God Himself.
+These aren't just philosophical disagreements. These are lies—deliberate denials of reality that destroy lives. And like the lies that killed Jesus, these lies are deadly. **Lying is the foundational destroyer of love because love cannot exist without truth.** They destroy children's bodies through so-called "gender-affirming care." They destroy marriages and families. They destroy the vulnerable through abortion, euthanasia, and exploitation. They destroy souls by cutting them off from truth, from reality, from God Himself.
 
 But here's what's remarkable: **the very fullness of these lies is driving people back to truth.** When the lies become so blatant, so destructive, so obviously contrary to reality, people start waking up. They start asking: "What is actually true? Who can I trust? Where can I find reality in a world of lies?"
 
 And many are finding their way back to the Church—the pillar and foundation of truth. Because the Church has been saying the same thing for two thousand years. She hasn't changed her teaching to match the culture. She hasn't redefined truth to make it more palatable. She stands as a lighthouse in the storm of lies, proclaiming the same truth Christ proclaimed, the same truth the Apostles died for, the same truth that has set billions free.
+
+**The most important thing we can do is cultivate in ourselves and others a sincere desire to pursue "The Truth"—wherever it leads.** Not "my truth" or "your truth," but *the* truth. Christ didn't say "I teach the truth" or "I know the truth." He said "I AM the truth" (John 14:6). This means truth is not just a set of correct propositions—it's a Person to be encountered, known, and loved. The Church Christ founded doesn't just preserve correct doctrines—she receives His truth, guards it, and teaches it to every generation through two thousand years of unbroken apostolic succession. Christ promised His Church that the Holy Spirit will "guide you to all truth" (John 16:13)—not each individual interpreting Scripture for themselves, but the Church He established to be the pillar and foundation of truth. When we genuinely seek truth with an open heart, willing to follow it wherever it leads, we will encounter Christ Himself. This is why the Church has nothing to fear from honest inquiry, rigorous philosophy, or scientific discovery. Truth cannot contradict truth. All genuine truth leads to Truth Himself.
 
 This is why truth is so pivotal to God's love. Without truth, love becomes manipulation. Without truth, we can't distinguish authentic love from its counterfeits. Without truth, we're defenseless against the lies that destroy us.
 

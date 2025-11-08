@@ -65,6 +65,10 @@ The following matrix shows which pillar(s) each vice primarily offends against. 
 | Inconstancy/Fickleness | ✗ | ✗ | ✗ | ✗ |
 | Lukewarmness | ✗ | ✗ | ✗ | ✗ |
 
+<div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
+Notice that every single vice in this matrix violates truth. This is not coincidental—<strong>every sin necessarily involves believing or speaking a lie.</strong> Whether we lie to ourselves about what will truly fulfill us, lie to others about our intentions, or deny the truth about God's nature and commands, sin cannot exist without falsehood. This is why lying is the foundational sin, and why Satan is called "the father of lies" (John 8:44, NABRE).
+</div>
+
 ---
 
 ## How Vices Offend Against the Four Pillars
