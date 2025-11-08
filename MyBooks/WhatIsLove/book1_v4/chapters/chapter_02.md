@@ -52,7 +52,7 @@ Jesus calls us to this perfection: "Be perfect, therefore, as your heavenly Fath
 
 **This is what it means to be a saint.** A saint is someone who submits their whole life—body, mind, and soul—to living this complete, integrated love. They're not people who never sin or struggle, but people who allow God's grace to transform them into living witnesses of His Perfect Love. (Grace is when God pours out His infinite Perfect Love into our hearts.) This call to sainthood isn't reserved for a spiritual elite—it's the universal Christian vocation. Every baptized person is called to become a saint by allowing God's Perfect Love to permeate every dimension of their "being" - body, mind, and soul.
 
-**Here's what's really happening when we live truth, justice, mercy, and sacrifice:** We're not just following rules or performing duties. We're allowing God's Perfect Love to shape our very souls—forming our conscience, training our hearts, molding us into His image. Like a child whose soul is formed by the true and good inputs they receive, our souls are formed by the love we practice. Each act of truth makes us more truthful. Each act of justice makes us more just. Each act of mercy makes us more merciful. Each act of sacrifice makes us more self-giving. We are literally becoming what we practice—conforming our souls to Christ Himself.
+**Here's what's really happening when we live truth, justice, mercy, and sacrifice:** We're not just following rules or performing duties. We're also allowing God's Perfect Love to shape our very souls—forming our conscience, training our hearts, molding us into His image. Like a child whose soul is formed by the true and good inputs they receive, our souls are formed by the love we practice. Each act of truth makes us more truthful. Each act of justice makes us more just. Each act of mercy makes us more merciful. Each act of sacrifice makes us more self-giving. We are literally becoming what we practice—conforming our souls to Christ Himself.
 
 This isn't just about being a better person. This is about transformation—allowing the Holy Spirit to reshape our deepest desires, our instinctive responses, our very character. When we practice these virtues sacrificially, we're cooperating with God's work of making us into living images of His Son. Our souls are being conformed to the pattern of Perfect Love.
 
@@ -101,7 +101,7 @@ This definition stands against all forms of evil and counterfeit love:
 - It opposes **relativism** by grounding love in objective truth about human dignity
 - It opposes **temporality** by establishing permanent covenant bonds
 
-You can see from these facets that people understand bits and pieces, living them out imperfectly. This is why we struggle to define and understand love—without God's Perfect Love as our guide, we can only see distorted fragments of what our hearts truly seek.
+Most people grasp fragments of these facets—a commitment to truth here, an act of mercy there—but rarely see how they integrate into perfect love. This is why we struggle to define and understand love: without God's Perfect Love as our guide, we can only see distorted fragments of what our hearts truly seek. In the chapters ahead, we will dive deep into each facet, exploring how they work together to form the complete answer to evil.
 
 ## The Path Forward
 

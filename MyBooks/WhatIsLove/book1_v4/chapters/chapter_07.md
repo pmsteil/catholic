@@ -130,7 +130,7 @@ This is partiality masquerading as justice. It creates "us vs. them" tribalism r
 
 **True justice is impartial.** It gives each person what they're due based on their nature as image-bearers of God—not based on their race, sex, class, politics, or any other immutable external characteristic. Justice doesn't play favorites. Justice doesn't create hierarchies of victimhood. Justice treats the homeless man and the CEO, the immigrant and the citizen, the conservative and the progressive with equal dignity because all bear God's image.
 
-Partiality feels like compassion but is actually a form of contempt—treating people as defined by their group identity rather than their individual dignity, as too fragile to be held to objective standards, as victims who need special treatment rather than persons capable of truth and virtue. As any father learns, if you don't teach the child how to control their emotions and do what is right, they will continue to be more miserable every time they face any setback, pain, or suffering. It is an injustice to the child to allow them to try and conform the world to their desires.
+Partiality feels like compassion but is actually a form of contempt—treating people as defined by their group identity rather than their individual dignity, as too fragile to be held to objective standards, as victims who need special treatment rather than persons capable of truth and virtue.
 
 True love REQUIRES justice—impartial justice that treats all people as capable of truth, worthy of standards, able to grow and change, regardless of their group identity.
 
