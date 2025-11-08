@@ -116,7 +116,25 @@ Every single evil—every one—begins with this same fatal move: A human heart 
 \hfill\small — Catechism of the Catholic Church 389
 </div>
 
-Because we're created in the image of God, sin is always a choice against our own deepest nature. It promises happiness but delivers misery. Promises freedom but delivers slavery. Promises life but delivers death. The consequences are devastatingly real: waves of pain, broken relationships, and cycles of suffering that ripple outward from every sinful choice.
+Because we're created in the image of God, sin is always a choice against our own deepest nature. It promises happiness but delivers misery. Promises freedom but delivers slavery. Promises life but delivers death. The consequences are devastatingly real.
+
+## The Waves of Evil: How Sin Multiplies
+
+Sin never stays contained. Like a stone thrown into still water, every sinful choice creates waves that ripple outward, touching lives far beyond our own, often for generations.
+
+**The First Wave—Personal Destruction:** A man chooses pornography—a "private" sin, "not hurting anyone." But it rewires his brain, destroys his capacity for intimacy, enslaves his soul. *Truth violated:* He believes the lie that lust is love. *Sacrifice rejected:* He chooses self-gratification over self-giving.
+
+**The Second Wave—Relational Devastation:** He brings this corrupted heart into marriage. His wife becomes an object, his children sense the absence. The covenant fractures. The marriage collapses. *Justice violated:* He denies his wife and children what they're owed. *Mercy absent:* No compassion for those his sin wounds.
+
+**The Third Wave—Social Corruption:** Those wounded children carry their brokenness into their own relationships, repeating the cycle. Meanwhile, the pornography industry—built on exploitation and trafficking—grows richer, more normalized. What was shameful becomes "empowering." *Truth corrupted:* Evil is called good. *Justice perverted:* Exploitation becomes entertainment.
+
+**The Fourth Wave—Generational Curse:** Three generations later, families inherit brokenness as their birthright, believing this is just "how life is." *All four pillars destroyed:* Truth, justice, mercy, and sacrifice are forgotten. Perfect love becomes unimaginable.
+
+One man's "private" sin has become a tsunami of destruction.
+
+<div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
+Every sin creates waves of destruction that ripple through families, communities, and generations. What begins in one human heart becomes the suffering of multitudes.
+</div>
 
 Understanding this relationship between sin and evil reveals why the Church takes sin so seriously. It's not because God is a harsh judge looking to condemn us, but because sin literally destroys what we're made for—communion, happiness, peace. Every sin, no matter how "small" it seems, contributes to the ocean of evil drowning our world in suffering.
 
