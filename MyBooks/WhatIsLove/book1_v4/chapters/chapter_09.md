@@ -77,7 +77,7 @@ On the cross, Jesus didn't just teach about sacrifice—He became the perfect sa
 The cross holds both dimensions in perfect tension. Justice is fully satisfied (expiation). Mercy is fully given (oblation). This is what makes Christ's sacrifice perfect—it doesn't choose between justice and mercy but integrates both in one complete act of love.
 
 <div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
-Christ's sacrifice on the cross perfectly integrates justice and mercy. It satisfies justice's demands (expiation) while offering mercy's gift (oblation). This is the pattern for all authentic human love—never justice without mercy, never mercy without justice.
+Christ's sacrifice on the cross perfectly integrates truth, justice, and mercy. It acknowledges the truth that we are created beings who have committed grievous crimes against our Creator's justice. It satisfies justice's demands (expiation) while offering mercy's gift (oblation). This is the pattern for all authentic human love—never justice without mercy, never mercy without truth.
 </div>
 
 ## Why We Have Mass: Participating in Christ's Sacrifice
@@ -122,6 +122,36 @@ Sacrifice combats consumerism by treating persons as sacred ends, never as means
 Sacrificial love is not the same as letting yourself be abused or destroyed. Authentic sacrifice is freely chosen, ordered toward genuine good, builds up the beloved without destroying the lover, and reflects Christ's voluntary and redemptive sacrifice. False "sacrifice" is coerced through manipulation, enables another's sin or addiction, destroys the one "sacrificing" without helping the other, and reflects codependency or fear.
 
 A wife who stays with an abusive husband isn't practicing sacrificial love—she's enabling his sin and endangering herself and her children. A parent who gives money to an addicted child to buy drugs isn't sacrificing—they're participating in their child's destruction. True sacrifice always serves the true good of the other. It never enables evil. It never destroys the image of God in the one sacrificing.
+
+## Sacrifice vs. Selfishness: The Destruction of the Family
+
+Our culture claims to champion "self-love," "self-care," and "authenticity." But here's what we need to understand: **Modern culture is actually selfish—the very opposite of the sacrificial love that creates and sustains families.**
+
+Sacrifice gives of self for the good of another. Selfishness takes from others for the good of self. Sacrifice builds families. Selfishness destroys them.
+
+Scripture explicitly condemns selfishness: "Do nothing out of selfishness or out of vainglory; rather, humbly regard others as more important than yourselves, each looking out not for his own interests, but everyone for those of others" (Philippians 2:3-4, NABRE). Why? Because selfishness is directly opposed to love— it chooses our good at the expense of others.
+
+**Here's the deception:** Modern culture doesn't call it selfishness—it calls it "self-care," "setting boundaries," "living your truth," "prioritizing mental health." It makes vice sound like virtue. It rebrands the refusal to sacrifice as psychological health.
+
+Consider what this looks like in practice, and how it directly threatens the family:
+
+- **"Self-care" and instant gratification culture** that demands "I deserve to be happy and comfortable NOW"—refusing any sacrifice or delayed gratification, justifying abandonment of spouse and children for "my needs," treating discomfort as oppression rather than the cost of love
+- **Abortion and contraception** that kill the child or reject the life-giving purpose of marriage, destroying the family before it begins, sacrificing children for convenience, career, or lifestyle
+- **Divorce culture** where "I'm not happy" becomes sufficient reason to break covenant, refusing to sacrifice for spouse's good or children's stability, treating marriage as conditional on feelings rather than permanent commitment
+- **Hookup culture and pornography** that use others' bodies for pleasure without giving self, destroying the capacity for sacrificial marital intimacy, demanding sexual gratification without responsibility or commitment
+- **Childlessness by choice** that refuses the sacrifice of parenthood—"I want to travel, sleep in, have nice things"—choosing sterile comfort over life-giving fruitfulness
+- **Technology addiction** where parents scroll through phones while children beg for attention, choosing digital dopamine over presence to family, giving screens the time that belongs to spouse and children
+- **Radical individualism** that insists "I don't owe anyone anything," destroying family obligations, rejecting duty and responsibility, treating covenant as optional
+
+This is selfishness masquerading as health. It creates a culture where families cannot form (abortion, contraception, hookup culture), cannot last (divorce culture, "self-care" justifying abandonment), and cannot flourish (technology addiction, childlessness by choice, radical individualism). It shows the self-centered spirit that Christ explicitly condemned: "Whoever wishes to come after me must deny himself, take up his cross, and follow me. For whoever wishes to save his life will lose it, but whoever loses his life for my sake will find it" (Matthew 16:24-25, NABRE).
+
+**True sacrifice gives self for the good of another.** Sacrifice doesn't ignore legitimate needs—it addresses them while prioritizing the beloved's good. Sacrifice doesn't enable abuse—it protects the dignity of all. Sacrifice doesn't demand misery—it recognizes that joy comes through self-gift, not self-focus.
+
+The selfish spirit feels like self-love but is actually self-destruction—refusing the sacrifice that creates families, builds intimacy, generates life, and produces meaning. As Jesus taught, those who try to save their life (avoid sacrifice) will lose it, but those who lose their life (embrace sacrifice) will find it.
+
+True love REQUIRES sacrifice—the willingness to give rather than take, to serve rather than be served, to put another's good before our own comfort. This is what builds families. This is what sustains marriages. This is what creates the next generation. Without sacrifice, there is no family. Without sacrifice, there is no love.
+
+**Here's the beautiful irony:** When we sacrifice for others, we experience joy, meaning, and fulfillment—the very things selfishness promises but never delivers. Work yourself to exhaustion serving a stranger on a mission trip, and you feel like you've done something real in the world. Sacrifice sleep for your infant, and you discover a depth of love you never knew existed. Give up career advancement to care for aging parents, and you find purpose that no promotion could provide. This is the paradox Christ taught: those who lose their life find it. Sacrifice doesn't diminish us—it completes us. Selfishness promises happiness but delivers emptiness. Sacrifice promises nothing but delivers joy.
 
 ## Our Participation in Christ's Sacrifice
 
