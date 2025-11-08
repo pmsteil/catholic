@@ -266,45 +266,6 @@ Will you answer?
 
 ---
 
-## Living the Response
-
-**Three Questions to Ask:**
-
-1. **Where am I experiencing true communion in my life?** (With God? With family? With the Church?) Where am I settling for mere connection instead of covenant communion?
-
-2. **What lies am I believing that fragment my wholeness?** What keeps me from being fully integrated—body, heart, mind, and soul—in love?
-
-3. **How am I being called to spiritual parenthood?** Whether through biological children, spiritual children, or making disciples—how is God calling me to bear fruit that remains?
-
-**Practical Steps:**
-
-- **Daily Eucharist (if possible):** Make the source and summit of your faith the center of your daily life. If daily Mass isn't possible, make a spiritual communion.
-
-- **Examine Communion:** Each night, ask: "Where did I experience true communion today? Where did I settle for less? Where did sin disrupt communion?"
-
-- **For the Children:** If you have children, ask daily: "What did my children see in me today? Did they see authentic communion or counterfeit connection?" If you don't have biological children, ask: "How am I being spiritually fruitful? Who am I bringing to faith?"
-
-- **Study the Eucharist:** Read John 6 slowly. Study the Church's teaching on the Real Presence. Let the Church's Sacred Tradition open your eyes to what you might be missing.
-
-- **Pursue Unity:** Pray for Christian unity. Work for communion while never compromising truth. If you're not Catholic, seriously investigate the Church's claims. If you are Catholic, learn why the Church teaches what she teaches.
-
-**Prayer:**
-
-*Lord Jesus Christ, You who are the living bread come down from heaven, open my eyes to see what communion truly means. Help me understand that You didn't just teach about love—You ARE love incarnate, inviting me into the very life of the Trinity.*
-
-*Forgive me for settling for connection when You offer communion. Forgive me for believing the lies that fragment my wholeness. Forgive me for living as if I'm alone when You've surrounded me with the communion of saints.*
-
-*Transform me into what I receive in the Eucharist. Make me a living witness of Your Perfect Love—truth, justice, mercy, and sacrifice bound together in life-giving communion.*
-
-*For the children who are watching, for the world that is waiting, for the Church that needs saints—make me a saint. Not someday. Now.*
-
-*I submit my whole life—body, heart, mind, and soul—to living Your Perfect Love. May Your communion become my communion. May Your life become my life. May Your love become my love.*
-
-*Amen.*
-
-
----
-
 ## Further Study
 
 ### Scripture

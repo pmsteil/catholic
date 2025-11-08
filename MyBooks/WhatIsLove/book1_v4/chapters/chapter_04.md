@@ -104,7 +104,7 @@ Think about it practically:
 
 **Human-Authored Morality Requires Force:**
 
-If humans are the source of morality, whose humans decide? Ancient Sparta thought exposing weak infants was "just." Modern progressives think aborting them is "just." Without a transcendent standard, morality becomes a power struggle. **When morality is authored by humans rather than received from divine authority, it must be imposed through force.** This is what happens when humans try to fabricate justice using limited human opinion rather than divine authority.
+If humans are the source of morality, which humans decide? Ancient Sparta thought exposing weak infants was "just." Modern progressives think aborting them is "just." Without a transcendent standard, morality becomes a power struggle. **When morality is authored by humans rather than received from divine authority, it must be imposed through force.** This is what happens when humans try to fabricate justice using limited human opinion rather than divine authority.
 
 This is why every atheistic political system has ended in mass murder:
 - Soviet communism: 20+ million dead
