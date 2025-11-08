@@ -34,11 +34,11 @@
 
 Three words. Easy to say. Harder to prove.
 
-A husband says "I love you" to his wife every morning—then spends every evening at the office, every weekend on the golf course, every vacation checking his phone. Does he love her? He says so. But where's the evidence?
+A husband says "I love you" to his wife every morning—then spends every evening at the office, every weekend on the golf course, every vacation checking his phone. He hasn't had a real conversation with her in months. He can't remember the last time he asked about her day or her dreams. Does he love her? He says so. But where's the evidence?
 
 A mother says she loves her children—then scrolls through social media while they beg for her attention, parks them in front of screens so she can pursue her hobbies, treats them as interruptions to her real life. Does she love them? She insists she does. But what does her life actually show?
 
-A Christian says he loves God—then never prays, never serves, never sacrifices comfort or convenience for anyone. Does he love God? He believes he does. But what would an outside observer conclude?
+A Christian says he loves God—then never prays, never serves, never sacrifices comfort or convenience for anyone. He hasn't opened his Bible in years. He skips Mass whenever it's inconvenient. He gives nothing to the poor and serves no one but himself. Does he love God?
 
 This is where love stops being sacred theory and becomes concrete reality. This is where the rubber meets the road, where faith becomes works, where words become flesh.
 
@@ -76,6 +76,8 @@ On the cross, Jesus didn't just teach about sacrifice—He became the perfect sa
 
 The cross holds both dimensions in perfect tension. Justice is fully satisfied (expiation). Mercy is fully given (oblation). This is what makes Christ's sacrifice perfect—it doesn't choose between justice and mercy but integrates both in one complete act of love.
 
+Jesus Himself taught that love directs our actions toward God and neighbor: "You shall love the Lord, your God, with all your heart, with all your soul, and with all your mind. This is the greatest and the first commandment. The second is like it: You shall love your neighbor as yourself. The whole law and the prophets depend on these two commandments" (Matthew 22:37-40, NABRE). Sacrifice is how we make this love real—giving ourselves completely to God and neighbor, not in word only, but in deed and truth.
+
 <div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
 Christ's sacrifice on the cross perfectly integrates truth, justice, and mercy. It acknowledges the truth that we are created beings who have committed grievous crimes against our Creator's justice. It satisfies justice's demands (expiation) while offering mercy's gift (oblation). This is the pattern for all authentic human love—never justice without mercy, never mercy without truth.
 </div>
@@ -90,7 +92,7 @@ At every Mass, several things happen simultaneously:
 
 **We Offer Ourselves United with Christ:** "I urge you therefore, brothers, by the mercies of God, to offer your bodies as a living sacrifice" (Romans 12:1, NABRE). We place our own sacrifices—struggles, sufferings, daily acts of love—on the altar with Christ's. United with His perfect sacrifice, our imperfect offerings become acceptable to the Father.
 
-**We Receive What We Offer:** In Communion, we receive Christ Himself—the Lamb who was slain, now risen and glorious. We consume the sacrifice. It becomes part of us. His sacrificial love flows into our veins, transforms our hearts, empowers us to love as He loved.
+**We Receive What We Offer:** In Communion, we receive Christ Himself—the Lamb who was slain, now risen and glorious. We consume the sacrifice. It becomes part of us. His sacrificial love transforms our hearts, empowers us to love as He loved.
 
 This is not mere symbolism. This is how God makes sacrificial love real in our lives. The Mass forms us to live sacrificially.
 
@@ -121,7 +123,7 @@ Sacrifice combats consumerism by treating persons as sacred ends, never as means
 
 Sacrificial love is not the same as letting yourself be abused or destroyed. Authentic sacrifice is freely chosen, ordered toward genuine good, builds up the beloved without destroying the lover, and reflects Christ's voluntary and redemptive sacrifice. False "sacrifice" is coerced through manipulation, enables another's sin or addiction, destroys the one "sacrificing" without helping the other, and reflects codependency or fear.
 
-A wife who stays with an abusive husband isn't practicing sacrificial love—she's enabling his sin and endangering herself and her children. A parent who gives money to an addicted child to buy drugs isn't sacrificing—they're participating in their child's destruction. True sacrifice always serves the true good of the other. It never enables evil. It never destroys the image of God in the one sacrificing.
+A wife who stays with an abusive husband isn't practicing sacrificial love—she's enabling his sin and endangering herself and her children. Why? Because true sacrifice requires truth (acknowledging the abuse is real and wrong), justice (protecting herself and her children from harm), and mercy (seeking the abuser's true good, which may require separation to force him to face consequences and seek help). A parent who gives money to an addicted child to buy drugs isn't sacrificing—they're participating in their child's destruction by ignoring truth (the addiction), violating justice (enabling sin), and perverting mercy (helping them continue in bondage). True sacrifice always serves the true good of the other. It never enables evil. It never destroys the image of God in the one sacrificing.
 
 ## Sacrifice vs. Selfishness: The Destruction of the Family
 
@@ -157,7 +159,7 @@ True love REQUIRES sacrifice—the willingness to give rather than take, to serv
 
 St. Paul reveals a profound mystery: "Now I rejoice in my sufferings for your sake, and in my flesh I am filling up what is lacking in the afflictions of Christ on behalf of his body, which is the church" (Colossians 1:24, NABRE).
 
-What could possibly be "lacking" in Christ's perfect sacrifice? Nothing—in terms of its sufficiency. But everything—in terms of our participation. Christ's sacrifice is complete, but He invites us to join it, to make it our own, to let it flow through us to others.
+What could possibly be "lacking" in Christ's perfect sacrifice? Nothing—in terms of its sufficiency. But everything—in terms of our participation. Christ's sacrifice is complete, but He invites us to participate in His Holy communion—holy meaning wholly complete and undivided—His sacred union with the Father. As St. Paul teaches: "The cup of blessing that we bless, is it not a participation in the blood of Christ? The bread that we break, is it not a participation in the body of Christ?" (1 Corinthians 10:16, NABRE). Christ invites us to join His sacrifice, to make it our own, to let it flow through us to others.
 
 In the Eucharist, we participate sacramentally. In daily life, we participate practically—every sacrifice we make for spouse, children, neighbor, enemy becomes part of Christ's ongoing redemptive work. This is the treasury of merits the Church speaks of. Our sacrifices, united with Christ's, have real spiritual value. They can be offered for others. They can help satisfy the temporal consequences of sin. They can contribute to the salvation of souls. Not because our sacrifices add anything to Christ's perfect offering, but because He chooses to work through us.
 
@@ -173,7 +175,7 @@ A mother who sacrifices sleep for her infant doesn't just meet a need—she crea
 
 This is why the next facet of our definition is crucial: **life-giving**. Sacrifice is how love moves from static to generative, from maintaining to creating, from preserving to multiplying. It's how love becomes fruitful.
 
-Because here's the truth: Sacrifice that doesn't create life is just destruction. Sacrifice that doesn't multiply love is just loss. Authentic sacrifice is always life-giving—it generates something new, creates something better, multiplies what it gives.
+Because here's the truth: Sacrifice that doesn't create life is just destruction. Sacrifice that doesn't multiply love is just loss. Authentic sacrifice—integrated with truth, justice, and mercy—is always life-giving. It generates something new, creates something better, multiplies what it gives.
 
 ---
 

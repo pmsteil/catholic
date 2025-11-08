@@ -70,7 +70,7 @@ Our definition reveals this clearly: "God's Perfect Love is the sacred gift of c
 
 This is what Jesus meant when He commanded: "Be perfect, just as your heavenly Father is perfect" (Matthew 5:48, NABRE).
 
-Not "sinless" perfection—that's impossible in this life. **WHOLE/COMPLETE perfection**—transformed by God's Love into God's Love, living in the true, just, merciful, and sacrificial communion we were made for.
+Not "sinless" perfection—that's impossible in this life. **HOLY/WHOLE/COMPLETE perfection**—transformed by God's Love into God's Love, living in the true, just, merciful, and sacrificial communion we were made for.
 
 Perfect = living in full communion with God, neighbor, and true self.
 
@@ -83,6 +83,12 @@ You were made for wholeness, and sin fragments you. You were made for communion,
 This is what Jesus prayed for: "That they may all be one, as you, Father, are in me and I in you, that they also may be in us" (John 17:21, NABRE). The goal isn't our individual perfection. The goal is communion—participation in the divine life of the Trinity, which then overflows to create communion with others.
 
 When Jesus commands us to "be perfect," He's not demanding sinless performance. He's inviting us into the wholeness, the completeness, the communion that makes us fully alive. He's calling us to become what we were always meant to be—living images of the God who IS communion.
+
+This same call echoes through the Old Testament. When God commands "Be holy, for I, the LORD your God, am holy" (Leviticus 19:2, NABRE), He's saying: **"Be wholly Mine, as I am wholly yours. Let your love be complete—true, just, merciful, and self-giving—so that you may live in perfect communion with Me, sharing in My own wholeness."**
+
+Holy = Wholly = Complete = Perfect = Communion with God.
+
+This is the invitation. This is the call. This is what it means to be fully alive.
 
 
 ## When You Know You're Alive: The Birth of a Child
