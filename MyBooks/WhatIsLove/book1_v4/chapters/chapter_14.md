@@ -321,6 +321,8 @@ For each counterfeit, we'll use a diagnostic table showing which components are 
 
 **Why It Fails:** Scripture explicitly contradicts it: "See how a person is justified by works and not by faith alone" (James 2:24). Faith that doesn't transform the whole person and bear fruit in acts of justice, mercy, and sacrifice is not authentic faith.
 
+**The Larger Context:** The Joint Declaration on the Doctrine of Justification (1999) was a landmark agreement that clarified how we are made right with God—by grace alone, through faith in Christ's saving work. Yet justification, important as it is, exists within a larger reality: the movement of God's Perfect Love. This love is the sacred, sacrificial gift of covenant that binds truth, justice, mercy, and sacrifice into life-giving communion. Without grasping this divine logic of love, the mechanics of justification remain incomplete. God's grace to justify is but one moment within His Perfect Love that begins with Him as Author of all and ends with Him as our eternal Communion.
+
 **How Good Overcomes Evil:** God's Perfect Love works through "faith working through love" (Galatians 5:6). Authentic faith transforms the whole person and bears fruit in acts of justice, mercy, and sacrifice, because love is not just believed but lived. "Not everyone who says to me, 'Lord, Lord,' will enter the kingdom of heaven, but only the one who does the will of my Father in heaven" (Matthew 7:21).
 
 ### "Bible Alone": Private Interpretation

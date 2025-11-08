@@ -128,6 +128,8 @@ St. James makes this explicit: **"Faith of itself, if it does not have works, is
 
 Most Christians recognize there is a point at which we "give ourselves to the Lord"—a moment of conversion or commitment. But the Catholic Church teaches what Scripture reveals: **justification is not a one-time event but an ongoing process** that requires the integration of all four pillars of perfect love throughout our entire lives.
 
+**In this divine movement, justification is the moment God's Perfect Love breaks into the sinner's life—forgiving, healing, and restoring communion entirely by grace.** We do not earn this grace; we receive it as a gift. Yet receiving this gift requires our free cooperation—opening our hearts to God's transforming love through faith, repentance, and the sacraments. This is why justification involves both God's sovereign action and our human response, both divine initiative and human cooperation.
+
 **Initial Conversion—Coming to Faith Requires All Four Pillars:**
 
 When we speak of having faith in God, we need to understand what this means. **Faith is covenant exchange—a mutual promise between God and His people.** God says: "I AM the Word, and I will keep My Word, and My Word is true." Our response of faith is to say: "Lord, I recognize the truth of Your Word and I promise to be faithful to Your truth. I promise to be obedient to Your justice and to be dependent on Your mercy."
