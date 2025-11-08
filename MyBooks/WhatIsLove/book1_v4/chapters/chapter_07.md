@@ -96,13 +96,31 @@ Justice means honoring this reality. Injustice means denying it—treating peopl
 
 Justice isn't opposed to love—it's love's foundation. Justice provides objective standards that ground love in reality. Justice protects the vulnerable by giving love the power to say "This is wrong" objectively. Justice creates the stability that allows love to endure. Justice enables the trust that makes relationship possible. Justice prepares for mercy—you can only transcend justice with mercy if there's justice to transcend.
 
-## Justice vs. Inclusion
+## Justice vs. Partiality: The Truth About "Inclusion"
 
-Our culture often confuses love with inclusion—accepting everyone's choices without judgment, affirming everyone's feelings without standards, "niceness" without truth.
+Our culture claims to champion "inclusion," "diversity," and "equity" (DEI). But here's what we need to understand: **Modern "inclusion" is actually partiality—the very opposite of justice.**
 
-Inclusion says "I feel bad for you, so I'll ignore any immoral actions." Justice says "What you did was wrong and has consequences, but I'll help you make it right." Inclusion says "Love means never making anyone uncomfortable." Justice says "Love means caring enough to speak hard truths when necessary."
+Justice treats each person according to their inherent dignity as image-bearers of God, regardless of race, class, sex, or any other external characteristic. Partiality treats people according to their group identity—showing favoritism to some while discriminating against others based on tribe, politics, or ideology.
 
-Inclusion feels like love but isn't. It's actually a form of contempt—treating people as too fragile to be taught what is right, like a three-year-old throwing a temper tantrum. As any father learns, if you don't teach the child how to control their emotions and do what is right, they will continue to be more miserable every time they face any setback, pain, or suffering. It is an injustice to the child to allow them to try and conform the world to their desires. True love includes justice. It treats people as capable of truth, worthy of standards, able to grow and change.
+Scripture explicitly condemns partiality: "My brothers, show no partiality as you adhere to the faith in our glorious Lord Jesus Christ" (James 2:1, NABRE). Why? Because partiality violates the fundamental truth that all humans share equal dignity before God.
+
+**Here's the deception:** Modern "inclusion" doesn't actually include everyone. It includes only certain favored groups while actively excluding others. Identity politics doesn't treat all identities equally—it creates hierarchies of victimhood and privilege. DEI initiatives don't pursue equal dignity—they pursue equal outcomes by showing partiality based on immutable characteristics.
+
+Consider what this looks like in practice:
+- "Inclusion" that excludes Christians who hold biblical views on marriage and sexuality
+- "Diversity" that demands uniformity of thought on political issues
+- "Equity" that discriminates against some races to favor others
+- "Anti-racism" that judges people by skin color rather than character
+- "Social justice" that divides humanity into oppressor and oppressed classes
+- "Income equality" that shows partiality based on wealth rather than addressing actual injustice
+
+This is partiality masquerading as justice. It creates "us vs. them" tribalism rather than recognizing our common humanity. It shows favoritism based on external factors rather than inherent dignity. It violates the very justice it claims to pursue.
+
+**True justice is impartial.** It gives each person what they're due based on their nature as image-bearers of God—not based on their race, sex, class, politics, or any other immutable external characteristic. Justice doesn't play favorites. Justice doesn't create hierarchies of victimhood. Justice treats the homeless man and the CEO, the immigrant and the citizen, the conservative and the progressive with equal dignity because all bear God's image.
+
+Partiality feels like compassion but is actually a form of contempt—treating people as defined by their group identity rather than their individual dignity, as too fragile to be held to objective standards, as victims who need special treatment rather than persons capable of truth and virtue. As any father learns, if you don't teach the child how to control their emotions and do what is right, they will continue to be more miserable every time they face any setback, pain, or suffering. It is an injustice to the child to allow them to try and conform the world to their desires.
+
+True love REQUIRES justice—impartial justice that treats all people as capable of truth, worthy of standards, able to grow and change, regardless of their group identity.
 
 ## Justice in Different Relationships
 
