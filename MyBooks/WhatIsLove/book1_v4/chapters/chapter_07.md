@@ -96,6 +96,18 @@ Justice means honoring this reality. Injustice means denying it—treating peopl
 
 Justice isn't opposed to love—it's love's foundation. Justice provides objective standards that ground love in reality. Justice protects the vulnerable by giving love the power to say "This is wrong" objectively. Justice creates the stability that allows love to endure. Justice enables the trust that makes relationship possible. Justice prepares for mercy—you can only transcend justice with mercy if there's justice to transcend.
 
+### How Justice Forms the Soul
+
+**When we practice justice—giving God His due in worship, giving our neighbor their due in respect—we're forming our souls to recognize and honor the dignity in every being.** This isn't cold legalism. This is training our hearts to see as God sees, to value what God values, to love as God loves.
+
+A soul formed in justice develops wisdom—the ability to treat others correctly according to their true dignity. This wisdom enables deep, authentic connection. When you truly see another person's worth and honor their dignity as an image-bearer of God, your soul can connect with their soul in a profound way.
+
+When you practice justice toward someone—acknowledging their worth, giving them what they're due—you're creating the conditions for real relationship. Your soul is learning to recognize the sacred in others, to respond appropriately to their inherent worth.
+
+This is what it means to be part of a covenant people—souls bound together by shared recognition of truth and mutual commitment to justice. We're members of a Body where each person's dignity matters, where justice creates the framework for mercy to flourish, where our souls are interconnected through mutual respect and honor.
+
+When we fail in justice—when we exploit, oppress, or dehumanize—we damage our own souls, severing the bonds that connect us to others. But when we practice justice faithfully, our souls become capable of the deep, authentic love that honors each person's true worth.
+
 ## Justice vs. Partiality: The Truth About "Inclusion"
 
 Our culture claims to champion "inclusion," "diversity," and "equity" (DEI). But here's what we need to understand: **Modern "inclusion" is actually partiality—the very opposite of justice.**

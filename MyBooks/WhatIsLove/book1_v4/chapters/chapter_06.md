@@ -100,6 +100,10 @@ The Hebrew word for truth—*emet*—means more than just factual accuracy. It m
 
 St. Thomas Aquinas captured this: "Truth is the conformity of the intellect to reality" (*Summa Theologica* I, q.16, a.2). Truth isn't something we create—it's something we discover by aligning our minds with what actually is. Truth is objective: it exists independently of our opinions, feelings, or preferences.
 
+**When we practice truth—speaking it, living it, defending it—we're not just being accurate. We're conforming our souls to Christ who IS Truth.** Each time we choose truth over lies, our conscience becomes more sensitive, our judgment more sound, our soul more aligned with reality itself. We're training our inner being to recognize and love what is real, good, and beautiful.
+
+This is soul formation in action. A child who is consistently given truth develops a well-formed conscience that can discern right from wrong. An adult who practices truth develops a soul that naturally gravitates toward what is real and rejects what is false. We become truth-tellers because our souls have been shaped by Truth Himself. This isn't just about avoiding lies—it's about becoming people whose very nature reflects reality, whose character embodies truthfulness.
+
 God has made truth accessible through natural law (written on our hearts), Scripture, and the Church's teaching authority. The Church works like science: building on accumulated wisdom. We don't start each generation rediscovering what Christ's death means or what the Trinity is. We have two thousand years of wisdom—from the Apostles through the Church Fathers, theologians, councils, and saints. The Church receives, guards, and transmits divine revelation intact to each generation.
 
 This is why both the Enlightenment's "reason alone" and Protestantism's "Scripture alone" failed—they rejected the accumulated wisdom of the Church, forcing each generation (or individual) to rediscover truth without guidance. The result: competing interpretations, each person becoming their own authority. Without the Church to preserve authentic meaning, "Scripture alone" becomes "my interpretation alone."

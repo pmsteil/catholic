@@ -154,6 +154,18 @@ Mercy combats hardness of heart by breaking cycles of revenge and creating possi
 
 Every time we repent of our sin and turn back to God, we are leaving the consequences of our sin behind—in other words, the evil that it creates—which then creates good in the world. When the people of God choose to truly love one another, good triumphs over evil.
 
+### How Mercy Heals and Connects Souls
+
+**When we practice mercy—truly forgiving from the heart—we're allowing God's healing love to flow through us to another's soul.** Unforgiveness is like a wall between souls, blocking the communion we were made for. Mercy breaks down that wall, allowing soul-to-soul connection to be restored.
+
+When you truly forgive someone, you feel the weight lift. The barrier dissolves. That's not just psychological—it's spiritual. Your soul is reconnecting to theirs through the love that flows from Christ. The bitterness poisoning your soul is washed away. The resentment isolating you from others is released.
+
+This is why holding grudges is so spiritually destructive—we're actively preventing our own soul from connecting to others and to God. We're choosing isolation over communion, allowing the wound to fester rather than heal.
+
+But when we show mercy, our souls become conduits of God's healing love. We participate in the divine work of reconciliation, binding souls back together in the Body of Christ. Each act of mercy removes a stone from the wall that separates us from others. Over time, mercy creates pathways of connection through which divine love can flow freely.
+
+This is why the Sacrament of Reconciliation is so powerful—it's about having your soul reconnected to the Body, restored to communion, healed from the isolation that sin creates. When the priest speaks the words of absolution, you're being woven back into the fabric of Christ's Body, your soul bound once again to every other soul in the communion of saints.
+
 ## Mercy and the Cross
 
 The cross is where truth, justice, and mercy meet perfectly: Justice demands payment for sin. Mercy offers "I'll pay it." God doesn't ignore justice. He doesn't pretend sin doesn't matter. He satisfies justice Himself—bearing in His own body the consequences we deserved. "For God so loved the world that he gave his only Son, so that everyone who believes in him might not perish but might have eternal life" (John 3:16, NABRE).
