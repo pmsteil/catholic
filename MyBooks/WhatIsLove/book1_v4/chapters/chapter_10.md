@@ -182,7 +182,9 @@ The Church knew this all along. Sacred Tradition preserved this truth for 2,000 
 
 ### Ecclesial: Church as Body of Christ
 
-"As a body is one though it has many parts, and all the parts of the body, though many, are one body,This is what it means to be a Christian society, a covenant people. Not just individuals who happen to believe the same things, but souls bound together in life-giving communion, each serving their purpose as part of the entire Body. When one member suffers, all suffer. When one rejoices, all rejoice (1 Corinthians 12:26). We are truly one—not through human effort, but through the Holy Spirit binding our souls together in love.
+"As a body is one though it has many parts, and all the parts of the body, though many, are one body, so also Christ" (1 Corinthians 12:12, NABRE).
+
+This is what it means to be a Christian society, a covenant people. Not just individuals who happen to believe the same things, but souls bound together in life-giving communion, each serving their purpose as part of the entire Body. When one member suffers, all suffer. When one rejoices, all rejoice (1 Corinthians 12:26). We are truly one—not through human effort, but through the Holy Spirit binding our souls together in love.
 
 ### Our Souls Are Dependent on One Another
 
