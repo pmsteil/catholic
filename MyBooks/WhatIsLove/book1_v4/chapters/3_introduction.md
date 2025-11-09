@@ -35,9 +35,9 @@ First, God is Love.
 And Second, when Jesus was asked which was the greatest commandment, He replied:
 
 <div class="blockquote">
-"Love the Lord your God with all your heart, with all your soul, with all your strength, and with all your mind; and love your neighbor as yourself."
+"And he said to him, 'You shall love the Lord your God with all your heart, and with all your soul, and with all your mind. This is the great and first commandment. And a second is like it, You shall love your neighbor as yourself.'"
 
-\hfill\small — Matthew 22:37-38, NABRE
+\hfill\small — Matthew 22:37-39
 </div>
 
 We must love God.  And then we must love our neighbor as ourselves.
@@ -47,16 +47,16 @@ Which raises our question once again: **What is Love?**
 And then in verse 40 he says:
 
 <div class="blockquote">
-"The whole law and the prophets depend on these two commandments."
+"On these two commandments depend all the law and the prophets."
 
-\hfill\small — Matthew 22:40, NABRE
+\hfill\small — Matthew 22:40
 </div>
 
 Jesus is telling us that in order to understand anything in the Sacred Scriptures, we MUST understand what Love is!
 
 And so I knew I had to go even deeper than I ever had before.
 
-As I rediscovered the Catholic Church of my youth, I found something extraordinary: Jesus had built a Church that he promised would be guided by the Holy Spirit into ALL truth (John 16:13b). And Paul tells us that the Church is the pillar and foundation of truth (1 Timothy 3:15).
+As I rediscovered the Catholic Church of my youth, I found something extraordinary: Jesus had built a Church that he promised would be guided by the Holy Spirit into all the truth (John 16:13b). And Paul tells us that the Church is the pillar and foundation of truth (1 Timothy 3:15).
 
 And so now, as I have been allowing the historic Christian Church that traces its teaching all the way back to Jesus to pour into me all of these truths it has discovered and teaches about God's love, I just had to write this book.
 
@@ -70,7 +70,7 @@ But here's the thing: **You can't give what you don't have.** If we want to teac
 
 And I believe that the definition of "God's Perfect Love" that I'm about to share ties together all of what the Bible teaches, all of what Jesus did in His life, death, and resurrection, all of what the Church teaches, and all of what the saints have taught. This definition shows how Jesus' invitation to love God and neighbor with all that we have truly is the fulfillment of the law and the prophets—it makes the entire Bible make sense and helps resolve much of the confusion that different Christian divisions have regarding the interpretation of Scripture.
 
-Here's the crucial insight that modern Christianity has largely missed: **If we don't understand what love truly is, we cannot understand what salvation truly is.** The two are inseparable. When Jesus says "God so loved the world that he gave his only Son" (John 3:16), He's not just describing God's emotional disposition toward us—He's revealing the very nature of salvation itself. Salvation IS God's perfect love breaking into our broken world, transforming us from the inside out, liberating us from sin's slavery, and drawing us into eternal communion with Him.
+Here's the crucial insight that modern Christianity has largely missed: **If we don't understand what love truly is, we cannot understand what salvation truly is.** The two are inseparable. When Jesus says "For God so loved the world that he gave his only Son, that whoever believes in him should not perish but have eternal life" (John 3:16), He's not just describing God's emotional disposition toward us—He's revealing the very nature of salvation itself. Salvation IS God's perfect love breaking into our broken world, transforming us from the inside out, liberating us from sin's slavery, and drawing us into eternal communion with Him.
 
 But what happens when we misunderstand love? We inevitably misunderstand salvation. And tragically, much of modern Christianity has done exactly that—reducing salvation to a cheap transaction, a one-time decision, a "get out of hell free" card that requires nothing of us except intellectual assent. We've turned the most profound mystery of the universe—God's infinite love poured out for us—into something we can acquire with a simple prayer, as if salvation were a commodity to be purchased rather than a relationship to be lived.
 

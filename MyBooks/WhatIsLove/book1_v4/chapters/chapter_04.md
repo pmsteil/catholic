@@ -1,21 +1,21 @@
 # Gift of Covenant - Permanent Love Through Voluntary Authority
 
 <div class="blockquote">
-"I will establish my covenant between me and you and your descendants after you throughout their generations as an everlasting covenant, to be God to you and to your descendants after you."
+"And I will establish my covenant between me and you and your descendants after you throughout their generations for an everlasting covenant, to be God to you and to your descendants after you."
 
-\hfill\small — Genesis 17:7, NABRE
+\hfill\small — Genesis 17:7
 </div>
 
 <div class="blockquote">
-"Behold, the days are coming, says the LORD, when I will make a new covenant with the house of Israel and the house of Judah. It will not be like the covenant I made with their fathers... But this is the covenant which I will make with the house of Israel after those days, says the LORD. I will place my law within them, and write it upon their hearts; I will be their God, and they shall be my people."
+"Behold, the days are coming, says the LORD, when I will make a new covenant with the house of Israel and the house of Judah, not like the covenant which I made with their fathers when I took them by the hand to bring them out of the land of Egypt, my covenant which they broke, though I was their husband, says the LORD. But this is the covenant which I will make with the house of Israel after those days, says the LORD: I will put my law within them, and I will write it upon their hearts; and I will be their God, and they shall be my people."
 
-\hfill\small — Jeremiah 31:31-33, NABRE
+\hfill\small — Jeremiah 31:31-33
 </div>
 
 <div class="blockquote">
-"This cup is the new covenant in my blood, which will be shed for you."
+"This cup which is poured out for you is the new covenant in my blood."
 
-\hfill\small — Luke 22:20, NABRE
+\hfill\small — Luke 22:20
 </div>
 
 ---
@@ -162,7 +162,7 @@ Understanding love as covenant directly combats specific forms of evil:
 
 ## Covenant in All of Life
 
-Marriage is the paradigm, but covenant love extends to all relationships: Baptism creates a permanent covenant bond with God and the Church. Parent-child relationships are covenantal—the bond endures regardless of performance. The Church is a covenant community where we're bound together as the Body of Christ. Even friendship at its deepest level is covenantal: "A friend loves at all times" (Proverbs 17:17).
+Marriage is the paradigm, but covenant love extends to all relationships: Baptism creates a permanent covenant bond with God and the Church. Parent-child relationships are covenantal—the bond endures regardless of performance. The Church is a covenant community where we're bound together as the Body of Christ. Even friendship at its deepest level is covenantal: "A friend loves at all times, and a brother is born for adversity." (Proverbs 17:17)
 
 ### How Covenant Forms Our Souls
 

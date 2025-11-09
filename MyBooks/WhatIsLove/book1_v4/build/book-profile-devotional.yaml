@@ -132,7 +132,8 @@ date: 2025
 rights: "© 2025 Patrick Steil. All rights reserved."
 
 chapters:
-  - 1_cover.md
+  - 0_cover.md
+  - 1_frontmatter.md
   - 2_preface.md
   - 3_introduction.md
   - chapter_01.md

@@ -1,28 +1,28 @@
 # Sacrifice - The Heart of Authentic Love Made Visible Through Action
 
 <div class="blockquote">
-"The way we came to know love was that he laid down his life for us; so we ought to lay down our lives for our brothers."
+"By this we know love, that he laid down his life for us; and we ought to lay down our lives for the brethren."
 
-\hfill\small — 1 John 3:16, NABRE
+\hfill\small — 1 John 3:16
 </div>
 
 <div class="blockquote">
-"No one has greater love than this, to lay down one's life for one's friends."
+"Greater love has no man than this, that a man lay down his life for his friends."
 
-\hfill\small — John 15:13, NABRE
+\hfill\small — John 15:13
 
 </div>
 
 <div class="blockquote">
-"Have among yourselves the same attitude that is also yours in Christ Jesus, Who, though he was in the form of God, did not regard equality with God something to be grasped. Rather, he emptied himself, taking the form of a slave, coming in human likeness; and found human in appearance, he humbled himself, becoming obedient to death, even death on a cross."
+"Have this mind among yourselves, which is yours in Christ Jesus, who, though he was in the form of God, did not count equality with God a thing to be grasped, but emptied himself, taking the form of a servant, being born in the likeness of men. And being found in human form he humbled himself and became obedient unto death, even death on a cross."
 
-\hfill\small — Philippians 2:5-8, NABRE
+\hfill\small — Philippians 2:5-8
 </div>
 
 <div class="blockquote">
-"I urge you therefore, brothers, by the mercies of God, to offer your bodies as a living sacrifice, holy and pleasing to God, your spiritual worship."
+"I appeal to you therefore, brethren, by the mercies of God, to present your bodies as a living sacrifice, holy and acceptable to God, which is your spiritual worship."
 
-\hfill\small — Romans 12:1, NABRE
+\hfill\small — Romans 12:1
 </div>
 
 
@@ -80,13 +80,13 @@ To show us the depth of His love in a way we finite creatures could understand. 
 
 On the cross, Jesus didn't just teach about sacrifice—He became the perfect sacrifice that all others foreshadowed. Look at what His sacrifice accomplished:
 
-**Expiation (Satisfying Justice):** "He is expiation for our sins, and not for our sins only but for those of the whole world" (1 John 2:2, NABRE). Christ's sacrifice satisfied the demands of justice. Sin creates a real debt, a real rupture in the order of creation. Someone had to pay. Christ paid it—not because the Father is a harsh creditor, but because justice is real and love doesn't pretend otherwise.
+**Expiation (Satisfying Justice):** "and he is the expiation for our sins, and not for ours only but also for the sins of the whole world." (1 John 2:2). Christ's sacrifice satisfied the demands of justice. Sin creates a real debt, a real rupture in the order of creation. Someone had to pay. Christ paid it—not because the Father is a harsh creditor, but because justice is real and love doesn't pretend otherwise.
 
-**Oblation (Offering Mercy):** "For God so loved the world that he gave his only Son" (John 3:16, NABRE). Christ's sacrifice was also pure gift—the Father's mercy reaching down to us, the Son's love embracing us. This wasn't required payment extracted from an unwilling victim. This was love choosing to bear the cost of our redemption.
+**Oblation (Offering Mercy):** "For God so loved the world that he gave his only Son, that whoever believes in him should not perish but have eternal life." (John 3:16). Christ's sacrifice was also pure gift—the Father's mercy reaching down to us, the Son's love embracing us. This wasn't required payment extracted from an unwilling victim. This was love choosing to bear the cost of our redemption.
 
 The cross holds both dimensions in perfect tension. Justice is fully satisfied (expiation). Mercy is fully given (oblation). This is what makes Christ's sacrifice perfect—it doesn't choose between justice and mercy but integrates both in one complete act of love.
 
-Jesus Himself taught that love directs our actions toward God and neighbor: "You shall love the Lord, your God, with all your heart, with all your soul, and with all your mind. This is the greatest and the first commandment. The second is like it: You shall love your neighbor as yourself. The whole law and the prophets depend on these two commandments" (Matthew 22:37-40, NABRE). Sacrifice is how we make this love real—giving ourselves completely to God and neighbor, not in word only, but in deed and truth.
+Jesus Himself taught that love directs our actions toward God and neighbor: "You shall love the Lord your God with all your heart, and with all your soul, and with all your mind. This is the great and first commandment. And a second is like it, You shall love your neighbor as yourself. On these two commandments depend all the law and the prophets." (Matthew 22:37-40). Sacrifice is how we make this love real—giving ourselves completely to God and neighbor, not in word only, but in deed and truth.
 
 <div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
 Christ's sacrifice on the cross perfectly integrates truth, justice, and mercy. It acknowledges the truth that we are created beings who have committed grievous crimes against our Creator's justice. It satisfies justice's demands (expiation) while offering mercy's gift (oblation). This is the pattern for all authentic human love—never justice without mercy, never mercy without truth.
@@ -100,7 +100,7 @@ At every Mass, several things happen simultaneously:
 
 **We Enter Christ's Eternal Offering:** The Mass makes present Christ's one sacrifice on Calvary—not repeating it or adding to it, but entering into it. Time and eternity meet. The same sacrifice offered once for all becomes present here and now.
 
-**We Offer Ourselves United with Christ:** "I urge you therefore, brothers, by the mercies of God, to offer your bodies as a living sacrifice" (Romans 12:1, NABRE). We place our own sacrifices—struggles, sufferings, daily acts of love—on the altar with Christ's. United with His perfect sacrifice, our imperfect offerings become acceptable to the Father.
+**We Offer Ourselves United with Christ:** "I urge you therefore, brothers, by the mercies of God, to offer your bodies as a living sacrifice" (Romans 12:1). We place our own sacrifices—struggles, sufferings, daily acts of love—on the altar with Christ's. United with His perfect sacrifice, our imperfect offerings become acceptable to the Father.
 
 **We Receive What We Offer:** In Communion, we receive Christ Himself—the Lamb who was slain, now risen and glorious. We consume the sacrifice. It becomes part of us. His sacrificial love transforms our hearts, empowers us to love as He loved.
 
@@ -141,7 +141,7 @@ Our culture claims to champion "self-love," "self-care," and "authenticity." But
 
 Sacrifice gives of self for the good of another. Selfishness takes from others for the good of self. Sacrifice builds families. Selfishness destroys them.
 
-Scripture explicitly condemns selfishness: "Do nothing out of selfishness or out of vainglory; rather, humbly regard others as more important than yourselves, each looking out not for his own interests, but everyone for those of others" (Philippians 2:3-4, NABRE). Why? Because selfishness is directly opposed to love— it chooses our good at the expense of others.
+Scripture explicitly condemns selfishness: "Do nothing from selfishness or conceit, but in humility count others better than yourselves. Let each of you look not only to his own interests, but also to the interests of others." (Philippians 2:3-4). Why? Because selfishness is directly opposed to love— it chooses our good at the expense of others.
 
 **Here's the deception:** Modern culture doesn't call it selfishness—it calls it "self-care," "setting boundaries," "living your truth," "prioritizing mental health." It makes vice sound like virtue. It rebrands the refusal to sacrifice as psychological health.
 
@@ -155,7 +155,7 @@ Consider what this looks like in practice, and how it directly threatens the fam
 - **Technology addiction** where parents scroll through phones while children beg for attention, choosing digital dopamine over presence to family, giving screens the time that belongs to spouse and children
 - **Radical individualism** that insists "I don't owe anyone anything," destroying family obligations, rejecting duty and responsibility, treating covenant as optional
 
-This is selfishness masquerading as health. It creates a culture where families cannot form (abortion, contraception, hookup culture), cannot last (divorce culture, "self-care" justifying abandonment), and cannot flourish (technology addiction, childlessness by choice, radical individualism). It shows the self-centered spirit that Christ explicitly condemned: "Whoever wishes to come after me must deny himself, take up his cross, and follow me. For whoever wishes to save his life will lose it, but whoever loses his life for my sake will find it" (Matthew 16:24-25, NABRE).
+This is selfishness masquerading as health. It creates a culture where families cannot form (abortion, contraception, hookup culture), cannot last (divorce culture, "self-care" justifying abandonment), and cannot flourish (technology addiction, childlessness by choice, radical individualism). It shows the self-centered spirit that Christ explicitly condemned: "If any man would come after me, let him deny himself and take up his cross and follow me. For whoever would save his life will lose it, and whoever loses his life for my sake will find it." (Matthew 16:24-25).
 
 **True sacrifice gives self for the good of another.** Sacrifice doesn't ignore legitimate needs—it addresses them while prioritizing the beloved's good. Sacrifice doesn't enable abuse—it protects the dignity of all. Sacrifice doesn't demand misery—it recognizes that joy comes through self-gift, not self-focus.
 
@@ -167,9 +167,9 @@ True love REQUIRES sacrifice—the willingness to give rather than take, to serv
 
 ## Our Participation in Christ's Sacrifice
 
-St. Paul reveals a profound mystery: "Now I rejoice in my sufferings for your sake, and in my flesh I am filling up what is lacking in the afflictions of Christ on behalf of his body, which is the church" (Colossians 1:24, NABRE).
+St. Paul reveals a profound mystery: "Now I rejoice in my sufferings for your sake, and in my flesh I complete what is lacking in Christ's afflictions for the sake of his body, that is, the church." (Colossians 1:24).
 
-What could possibly be "lacking" in Christ's perfect sacrifice? Nothing—in terms of its sufficiency. But everything—in terms of our participation. Christ's sacrifice is complete, but He invites us to participate in His Holy communion—holy meaning wholly complete and undivided—His sacred union with the Father. As St. Paul teaches: "The cup of blessing that we bless, is it not a participation in the blood of Christ? The bread that we break, is it not a participation in the body of Christ?" (1 Corinthians 10:16, NABRE). Christ invites us to join His sacrifice, to make it our own, to let it flow through us to others.
+What could possibly be "lacking" in Christ's perfect sacrifice? Nothing—in terms of its sufficiency. But everything—in terms of our participation. Christ's sacrifice is complete, but He invites us to participate in His Holy communion—holy meaning wholly complete and undivided—His sacred union with the Father. As St. Paul teaches: "The cup of blessing which we bless, is it not a participation in the blood of Christ? The bread which we break, is it not a participation in the body of Christ?" (1 Corinthians 10:16). Christ invites us to join His sacrifice, to make it our own, to let it flow through us to others.
 
 In the Eucharist, we participate sacramentally. In daily life, we participate practically—every sacrifice we make for spouse, children, neighbor, enemy becomes part of Christ's ongoing redemptive work. This is the treasury of merits the Church speaks of. Our sacrifices, united with Christ's, have real spiritual value. They can be offered for others. They can help satisfy the temporal consequences of sin. They can contribute to the salvation of souls. Not because our sacrifices add anything to Christ's perfect offering, but because He chooses to work through us.
 

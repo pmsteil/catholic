@@ -1,21 +1,21 @@
 # Sacred - God as the Source of All Love
 
 <div class="blockquote">
-"Beloved, let us love one another, because love is of God; everyone who loves is begotten by God and knows God. Whoever is without love does not know God, for God is love."
+"Beloved, let us love one another; for love is of God, and he who loves is born of God and knows God. He who does not love does not know God; for God is love."
 
-\hfill\small — 1 John 4:7-8, NABRE
+\hfill\small — 1 John 4:7-8
 </div>
 
 <div class="blockquote">
-"No one has ever seen God. Yet, if we love one another, God remains in us, and his love is brought to perfection in us."
+"No man has ever seen God; if we love one another, God abides in us and his love is perfected in us."
 
-\hfill\small — 1 John 4:12, NABRE
+\hfill\small — 1 John 4:12
 </div>
 
 <div class="blockquote">
-"God is love, and whoever remains in love remains in God and God in him."
+"So we know and believe the love God has for us. God is love, and he who abides in love abides in God, and God abides in him."
 
-\hfill\small — 1 John 4:16, NABRE
+\hfill\small — 1 John 4:16
 </div>
 
 ---
@@ -34,7 +34,7 @@ Love is sacred because God is love.
 
 ## God IS Love
 
-Notice the precision of Scripture's language. It doesn't say "God loves" or "God is loving"—though both are true. It says "God IS love" (1 John 4:8, 16, NABRE). This isn't describing God's actions or attributes. It's revealing God's very nature.
+Notice the precision of Scripture's language. It doesn't say "God loves" or "God is loving"—though both are true. It says "God IS love" (1 John 4:8, 16). This isn't describing God's actions or attributes. It's revealing God's very nature.
 
 <div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
 When Scripture declares "God is love," it's not saying God has love or does love—it's revealing that love is the very essence of God's being. Every act of authentic love participates in the divine nature itself.
@@ -85,9 +85,9 @@ This is why love requires sacrifice (complete self-gift), creates covenant (perm
 
 ## Participation in Divine Nature
 
-When Scripture says we're created in God's image (Genesis 1:27, NABRE), it means we're created with the capacity to participate in this divine love. We're not just biological organisms with useful social instincts. We're beings capable of knowing truth, choosing freely, loving sacrificially, and entering into communion—all reflections of God's own nature.
+When Scripture says we're created in God's image (Genesis 1:27), it means we're created with the capacity to participate in this divine love. We're not just biological organisms with useful social instincts. We're beings capable of knowing truth, choosing freely, loving sacrificially, and entering into communion—all reflections of God's own nature.
 
-St. Peter makes this explicit: "He has bestowed on us the precious and very great promises, so that through them you may come to share in the divine nature" (2 Peter 1:4, NABRE). We don't just imitate God's love from a distance. We actually participate in it. When we love authentically, God's own love flows through us.
+St. Peter makes this explicit: "His divine power has granted to us all things that pertain to life and godliness, through the knowledge of him who called us to his own glory and excellence, by which he has granted to us his precious and very great promises, that through these you may escape from the corruption that is in the world because of passion, and become partakers of the divine nature" (2 Peter 1:3-4). We don't just imitate God's love from a distance. We actually participate in it. When we love authentically, God's own love flows through us.
 
 This is what makes love sacred. It's not sacred because we declare it so or because society values it. It's sacred because it participates in the very being of God.
 

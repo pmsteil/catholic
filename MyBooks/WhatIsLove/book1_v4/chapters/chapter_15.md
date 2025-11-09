@@ -1,13 +1,13 @@
 # The Generational Consequences - How Counterfeit Love Destroys Children and God's Perfect Love Builds Flourishing
 
 <div class="blockquote">
-"Whoever causes one of these little ones who believe in me to sin, it would be better for him to have a great millstone fastened around his neck and to be drowned in the depth of the sea."
+"Whoever receives one such child in my name receives me; but whoever causes one of these little ones who believe in me to sin, it would be better for him to have a great millstone fastened round his neck and to be drowned in the depth of the sea."
 
-\hfill\small — Matthew 18:6
+\hfill\small — Matthew 18:5-6
 </div>
 
 <div class="blockquote">
-"See that you do not despise one of these little ones. For I tell you that in heaven their angels always see the face of my Father who is in heaven."
+"See that you do not despise one of these little ones; for I tell you that in heaven their angels always behold the face of my Father who is in heaven."
 
 \hfill\small — Matthew 18:10
 </div>
@@ -34,11 +34,11 @@ Before examining how counterfeits fail, we must understand what children actuall
 
 **1. Truth - Knowing Reality:** Children need to understand the world as it actually is. "Train up a child in the way he should go" (Proverbs 22:6). Confusion about reality creates anxiety and inability to navigate life. God's Perfect Love provides objective truth grounded in God's design.
 
-**2. Justice - Security and Protection:** Children need to know they have rights, dignity, and protection. "Give justice to the weak and the fatherless" (Psalm 82:3-4). Without justice, children are vulnerable to exploitation. God's Perfect Love provides recognition of sacred dignity, rights to mother and father, and protection through covenant.
+**2. Justice - Security and Protection:** Children need to know they have rights, dignity, and protection. "Give justice to the weak and the orphan" (Psalm 82:3-4). Without justice, children are vulnerable to exploitation. God's Perfect Love provides recognition of sacred dignity, rights to mother and father, and protection through covenant.
 
-**3. Mercy - Healing When Things Go Wrong:** Children need forgiveness, second chances, and restoration. "The steadfast love of the Lord never ceases" (Lamentations 3:22-23). Without mercy, children carry wounds that never heal. God's Perfect Love provides compassionate forgiveness that calls to conversion and healing.
+**3. Mercy - Healing When Things Go Wrong:** Children need forgiveness, second chances, and restoration. "The steadfast love of the LORD never ceases" (Lamentations 3:22-23). Without mercy, children carry wounds that never heal. God's Perfect Love provides compassionate forgiveness that calls to conversion and healing.
 
-**4. Sacrifice - Adults Who Put Children First:** Children need parents willing to give up personal desires for their good. "Do nothing from selfish ambition" (Philippians 2:3-4). Without sacrifice, children are abandoned when costly. God's Perfect Love provides self-giving love that prioritizes children's needs over adult desires.
+**4. Sacrifice - Adults Who Put Children First:** Children need parents willing to give up personal desires for their good. "Do nothing from selfishness or conceit" (Philippians 2:3-4). Without sacrifice, children are abandoned when costly. God's Perfect Love provides self-giving love that prioritizes children's needs over adult desires.
 
 **5. Covenant - Stable, Permanent Relationships:** Children need to know their family won't dissolve, that promises are kept. God hates divorce because He seeks "godly offspring" (Malachi 2:15-16). Without covenant, children live in constant insecurity. God's Perfect Love provides binding promises that create safety.
 
@@ -202,7 +202,7 @@ There is only one form of love that gives children everything they need to flour
 
 **The Complete Package: All Six Components Working Together**
 
-1. **Sacred - Children as Image-Bearers:** Every child has infinite dignity from conception. Not commodities, not burdens, not choices—persons made in God's image (Genesis 1:27, Psalm 139:13-16). Result: Children protected, welcomed, valued.
+1. **Sacred - Children as Image-Bearers:** Every child has infinite dignity from conception. Not commodities, not burdens, not choices—persons made in God's image (Genesis 1:27; Psalm 139:13-16). Result: Children protected, welcomed, valued.
 
 2. **Covenant - Permanent, Binding Promises:** Marriage vows create security for children. "Until death" means children never fear abandonment (Malachi 2:15, Matthew 19:6). Result: Children grow in safety, can be vulnerable, trust relationships.
 
@@ -264,7 +264,8 @@ Picture two children:
 
 Which child do you want for the next generation? The choice is ours. The consequences are theirs.
 
-"I have set before you life and death, blessing and curse. Therefore choose life, that you and your offspring may live" (Deuteronomy 30:19).
+"I call heaven and earth to witness against you this day, that I have set before you life and death, blessing and curse; therefore choose life, that you and your descendants may live" (Deuteronomy 30:19).
+
 
 God's Perfect Love is not just the answer to the problem of evil in theory. It is the answer to the problem of evil in practice—the only foundation that gives children what they need to flourish across generations. For their sake, for the sake of civilization itself, we must choose authentic love over its counterfeits. We must choose life.
 

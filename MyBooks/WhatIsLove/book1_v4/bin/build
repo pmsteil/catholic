@@ -200,6 +200,7 @@ def preprocess_files(files: List[str], profile: Optional[str] = None) -> List[st
 
     mainmatter_inserted = False
     appendix_started = False
+    toc_inserted = False
 
     is_first_content = True
     for path in files:
@@ -228,7 +229,7 @@ def preprocess_files(files: List[str], profile: Optional[str] = None) -> List[st
                     transformed = re.sub(r"^#\s+.+?\s*$", new_title, transformed, count=1, flags=re.MULTILINE)
 
         # Optionally render frontmatter items as unnumbered chapters and add to TOC
-        if frontmatter_star and name_only in ("1_cover.md", "2_preface.md", "3_introduction.md"):
+        if frontmatter_star and name_only in ("0_cover.md", "1_frontmatter.md", "2_preface.md", "3_introduction.md"):
             h1_match = re.search(r"^(\s*#\s+)(.+?)\s*$", transformed, flags=re.MULTILINE)
             title_text = h1_match.group(2).strip() if h1_match else Path(path).stem.replace("_", " ")
             safe_title = title_text.replace("{", "\\{").replace("}", "\\}")
@@ -253,8 +254,18 @@ def preprocess_files(files: List[str], profile: Optional[str] = None) -> List[st
             if debug_log:
                 print(f"[build] forced chapter: {name_only} → {safe_title}")
 
-        # When we reach the first numbered chapter file, switch to main matter via a raw TeX block in Markdown
+        # Insert TOC after frontmatter content (1_frontmatter.md) but before preface
         name = Path(path).name.lower()
+        if not toc_inserted and name == "2_preface.md":
+            toc_file = Path(tmpdir) / "01__toc.md"
+            with open(toc_file, "w", encoding="utf-8") as tf:
+                tf.write("\\tableofcontents\n\\clearpage\n")
+            out_files.append(str(toc_file))
+            toc_inserted = True
+            if debug_log:
+                print(f"[build] inserted TOC before {name_only}")
+        
+        # When we reach the first numbered chapter file, switch to main matter via a raw TeX block in Markdown
         if not mainmatter_inserted and (name == "chapter_01.md" or name.startswith("chapter_01.")):
             mainmatter_file = Path(tmpdir) / "01__mainmatter.md"
             with open(mainmatter_file, "w", encoding="utf-8") as mf:
@@ -409,9 +420,8 @@ def build_pdf(files: List[str], profile: Optional[str]) -> Path:
         # Use markdown format for better structure preservation (keeps chapter headings)
         cmd.extend(["--to=markdown", "--wrap=none"])
     
-    # Only add --toc flag if not audio profile (audiopdf or audiotxt)
-    if active_profile not in ("audiopdf", "audiotxt"):
-        cmd.insert(4, "--toc")  # Insert after --from flag
+    # Don't use --toc flag since we manually insert \tableofcontents in the right location
+    # (after frontmatter but before preface)
 
     # Optional debug flags (environment variables):
     #  - DEBUG_HEADINGS=1   → add Lua filter that prefixes headings with [Hn]

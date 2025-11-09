@@ -1,21 +1,21 @@
 # Mercy - Love Transcends Justice
 
 <div class="blockquote">
-"Be merciful, just as [also] your Father is merciful."
+"Be merciful, even as your Father is merciful."
 
-\hfill\small — Luke 6:36, NABRE
+\hfill\small — Luke 6:36
 </div>
 
 <div class="blockquote">
-"Blessed are the merciful, for they will be shown mercy."
+"Blessed are the merciful, for they shall obtain mercy."
 
-\hfill\small — Matthew 5:7, NABRE
+\hfill\small — Matthew 5:7
 </div>
 
 <div class="blockquote">
-"For judgment is merciless to one who has not shown mercy; mercy triumphs over judgment."
+"For judgment is without mercy to one who has shown no mercy; yet mercy triumphs over judgment."
 
-\hfill\small — James 2:13, NABRE
+\hfill\small — James 2:13
 </div>
 
 ---
@@ -50,7 +50,7 @@ Our culture claims to champion "compassion" and "empathy," but here's what we ne
 
 Mercy offers forgiveness and the possibility of restoration. Mercilessness refuses forgiveness and demands permanent condemnation. Mercy sees the person's dignity beyond their sin. Mercilessness defines people by their worst moment and refuses redemption.
 
-Scripture explicitly commands mercy: "Be merciful, just as your Father is merciful" (Luke 6:36, NABRE). Why? Because mercilessness violates the fundamental truth that we are all sinners in need of God's mercy. "For judgment is merciless to one who has not shown mercy" (James 2:13, NABRE).
+Scripture explicitly commands mercy: "Be merciful, just as your Father is merciful" (Luke 6:36). Why? Because mercilessness violates the fundamental truth that we are all sinners in need of God's mercy. "For judgment is merciless to one who has not shown mercy" (James 2:13).
 
 **Here's the deception:** Modern culture doesn't actually offer compassion to all—it shows selective compassion to favored groups while being ruthlessly merciless to others. "Cancel culture" doesn't pursue accountability—it pursues destruction. "Social justice" doesn't seek restoration—it demands permanent condemnation.
 
@@ -68,7 +68,7 @@ This is mercilessness masquerading as justice. It creates a culture of fear wher
 
 The merciless spirit feels like righteousness but is actually cruelty—taking pleasure in others' downfall, refusing the forgiveness we ourselves desperately need, playing God by deciding who deserves redemption.
 
-**When Jesus warns "Stop judging, that you may not be judged" (Matthew 7:1-2, NABRE), He's not saying "never judge right from wrong"—He Himself commands us to "judge with right judgment" (John 7:24, NABRE).** Jesus condemns merciless judgment—being all justice with no mercy, condemning persons rather than sin, refusing the forgiveness we need ourselves. God's perfect love requires truth (to know what's right), justice (to uphold what's owed), AND mercy (to offer forgiveness and restoration).
+**When Jesus warns "Judge not, that you be not judged. For with the judgment you pronounce you will be judged, and the measure you give will be the measure you get" (Matthew 7:1-2), He's not saying "never judge right from wrong"—He Himself commands us to "Do not judge by appearances, but judge with right judgment" (John 7:24).** Jesus condemns merciless judgment—being all justice with no mercy, condemning persons rather than sin, refusing the forgiveness we need ourselves. God's perfect love requires truth (to know what's right), justice (to uphold what's owed), AND mercy (to offer forgiveness and restoration).
 
 The slogan "Who am I to judge?" divides truth from love. We MUST judge actions as right or wrong (truth and justice require this), but we must judge WITH mercy—recognizing our brokenness, extending forgiveness, offering restoration. This is judging rightly: truth, justice, and mercy working together.
 
@@ -86,11 +86,11 @@ Mercy doesn't deny what justice requires. Mercy fulfills what justice requires�
 
 ## The Condition: We Must Forgive to Be Forgiven
 
-Jesus makes this startlingly clear in the Lord's Prayer: "Forgive us our debts, as we forgive our debtors" (Matthew 6:12, NABRE). Then He immediately emphasizes: "If you forgive others their transgressions, your heavenly Father will forgive you. But if you do not forgive others, neither will your Father forgive your transgressions" (Matthew 6:14-15, NABRE).
+Jesus makes this startlingly clear in the Lord's Prayer: "and forgive us our debts, as we also have forgiven our debtors" (Matthew 6:12). Then He immediately emphasizes: "For if you forgive men their trespasses, your heavenly Father also will forgive you; but if you do not forgive men their trespasses, neither will your Father forgive your trespasses" (Matthew 6:14-15).
 
 This isn't arbitrary. It's the nature of mercy itself. Mercy is like light—it must flow through us to reach us. If we block its flow by refusing to forgive others, we block its flow to ourselves. We cannot receive what we refuse to give.
 
-As Jesus warns in the parable of the unforgiving servant (Matthew 18:23-35), the servant who received mercy for an enormous debt but refused to show mercy for a tiny debt had his own forgiveness revoked. The king's words are chilling: "Should you not have had pity on your fellow servant, as I had pity on you?" (Matthew 18:33, NABRE). The servant is then handed over to torturers until he pays back the full debt. Jesus concludes with this sobering warning: "So will my heavenly Father do to you, unless each of you forgives his brother from his heart" (Matthew 18:35, NABRE).
+As Jesus warns in the parable of the unforgiving servant (Matthew 18:23-35), the servant who received mercy for an enormous debt but refused to show mercy for a tiny debt had his own forgiveness revoked. The king's words are chilling: "And should not you have had mercy on your fellow servant, as I had mercy on you?" (Matthew 18:33). The servant is then handed over to torturers until he pays back the full debt. Jesus concludes with this sobering warning: "So also my heavenly Father will do to every one of you, if you do not forgive your brother from your heart" (Matthew 18:35).
 
 The lesson is clear: We must be willing to forgive if we want to be forgiven. We must show mercy if we want to receive mercy. This is not optional—it's a condition of receiving mercy. Jesus explicitly makes God's mercy toward us dependent on our mercy toward others. When we refuse to extend mercy, we are actually holding on to the hurt selfishly, which means we are causing ongoing pain to continue festering. There can be no healing, no salvation if we are not willing to be merciful in order to receive Jesus' mercy. This is what Jesus calls us to do every day as we desire the same mercy from Him.
 
@@ -108,9 +108,9 @@ This is mercy—seeing truth about suffering, going beyond what duty requires, a
 
 The hardest mercy is mercy toward enemies—those who've deeply wounded us, who don't deserve forgiveness, who perhaps haven't even asked for it.
 
-Jesus demonstrates this from the cross: "Father, forgive them, they know not what they do" (Luke 23:34, NABRE). This is the standard: "Love your enemies, do good to those who hate you, bless those who curse you, pray for those who mistreat you" (Luke 6:27-28, NABRE).
+Jesus demonstrates this from the cross: "[And Jesus said, 'Father, forgive them; for they know not what they do']" (Luke 23:34). This is the standard: "But I say to you that hear, Love your enemies, do good to those who hate you, bless those who curse you, pray for those who abuse you" (Luke 6:27-28).
 
-Why? Because mercy is how we break cycles of revenge, how we overcome evil with good, how we become like our Father who "makes his sun rise on the bad and the good" (Matthew 5:45, NABRE).
+Why? Because mercy is how we break cycles of revenge, how we overcome evil with good, how we become like our Father who "makes his sun rise on the evil and on the good, and sends rain on the just and on the unjust" (Matthew 5:45).
 
 Mercy toward enemies doesn't mean pretending they didn't harm you, allowing them to continue harming you, or trusting them before they've proven trustworthy. To truly understand mercy is to be perfect like the perfection that Jesus called us to in Matthew 5:48. In that passage, Jesus is commanding us to share in the Father's own way of loving—to let our love become whole (holy), mature, and undivided, extending even to enemies, so that as true sons and daughters we reflect the Father's merciful generosity in every part of our lives.
 
@@ -122,7 +122,7 @@ Some sins are so grave that human mercy alone cannot restore the person. Conside
 
 **This is where and why we most poignantly need a supernatural miracle of mercy—the Cross.** Only God's mercy is powerful enough to forgive heinous crimes against humanity. Only Christ's sacrifice is sufficient to pay the debt of such grave sin. Only divine love can restore a soul so broken by the weight of what they've done.
 
-This is the scandal of the Gospel: God's mercy is greater than any sin. "Where sin increased, grace overflowed all the more" (Romans 5:20, NABRE). The abortion doctor, the sex trafficker, the mass murderer, the torturer—if they truly repent, God's mercy can forgive even them. **To repent is to turn away from sin and turn toward God's perfect love.** Not because their sins aren't grave, but because Christ's sacrifice is infinite.
+This is the scandal of the Gospel: God's mercy is greater than any sin. "Where sin increased, grace abounded all the more," (Romans 5:20). The abortion doctor, the sex trafficker, the mass murderer, the torturer—if they truly repent, God's mercy can forgive even them. **To repent is to turn away from sin and turn toward God's perfect love.** Not because their sins aren't grave, but because Christ's sacrifice is infinite.
 
 Human mercy has limits. We can forgive the wrongs done to us personally. But we cannot forgive sins against others—only God can do that. We cannot bear the weight of another's guilt—only Christ can do that. We cannot restore a soul crushed by the enormity of their crimes—only the supernatural mercy of the Cross can do that.
 
@@ -144,7 +144,7 @@ The Catholic Sacrament of Reconciliation embodies mercy in concrete form. Notice
 
 The sacrament doesn't choose between truth, justice, and mercy—it integrates all three. Sin is real (truth). Consequences matter (justice). And forgiveness is offered (mercy)—not by ignoring the debt but by Christ having paid it (sacrifice).
 
-This is according to Jesus' own plan. On the evening of His resurrection, He appeared to the apostles and said: "Peace be with you. As the Father has sent me, so I send you." And when he had said this, he breathed on them and said to them, "Receive the holy Spirit. Whose sins you forgive are forgiven them, and whose sins you retain are retained" (John 20:21-23, NABRE).
+This is according to Jesus' own plan. On the evening of His resurrection, He appeared to the apostles and said: "Peace be with you. As the Father has sent me, even so I send you." And when he had said this, he breathed on them, and said to them, 'Receive the Holy Spirit. If you forgive the sins of any, they are forgiven; if you retain the sins of any, they are retained'" (John 20:21-23).
 
 This is why confession is so powerful. It's encountering divine mercy in concrete, sacramental form—hearing the priest speak the words of absolution: "God, the Father of mercies, through the death and resurrection of his Son has reconciled the world to himself and sent the Holy Spirit among us for the forgiveness of sins; through the ministry of the Church may God give you pardon and peace, and I absolve you from your sins in the name of the Father, and of the Son, and of the Holy Spirit" (Rite of Penance). You know, with certainty, that God has forgiven you.
 
@@ -168,7 +168,7 @@ This is why the Sacrament of Reconciliation is so powerful—it's about having y
 
 ## Mercy and the Cross
 
-The cross is where truth, justice, and mercy meet perfectly: Justice demands payment for sin. Mercy offers "I'll pay it." God doesn't ignore justice. He doesn't pretend sin doesn't matter. He satisfies justice Himself—bearing in His own body the consequences we deserved. "For God so loved the world that he gave his only Son, so that everyone who believes in him might not perish but might have eternal life" (John 3:16, NABRE).
+The cross is where truth, justice, and mercy meet perfectly: Justice demands payment for sin. Mercy offers "I'll pay it." God doesn't ignore justice. He doesn't pretend sin doesn't matter. He satisfies justice Himself—bearing in His own body the consequences we deserved. "For God so loved the world that he gave his only Son, so that everyone who believes in him might not perish but might have eternal life" (John 3:16).
 
 This is the pattern for all mercy: Acknowledge the truth. Honor justice. Then bear the cost yourself (sacrifice) rather than demanding the offender pay it. Then follow the example of Christ in offering the same type of mercy to others. We will speak more about the cross in subsequent chapters.
 

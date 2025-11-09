@@ -135,7 +135,8 @@ geometry:
 # extbook with 9pt handles sizing; no explicit fontsize needed
 
 chapters:
-  - 1_cover.md
+  - 0_cover.md
+  - 1_frontmatter.md
   - 2_preface.md
   - 3_introduction.md
   - chapter_01.md

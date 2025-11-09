@@ -1,21 +1,21 @@
 # Understanding Sin—Mortal and Venial Distinctions
 
 <div class="blockquote">
-"There is such a thing as deadly sin... All wrongdoing is sin, but there is sin that is not deadly."
+"If any one sees his brother committing what is not a mortal sin, he will ask, and God will give him life for those whose sin is not mortal. There is sin which is mortal; I do not say that one is to pray for that. All wrongdoing is sin, but there is sin which is not mortal."
 
-\hfill\small — 1 John 5:16-17, NABRE
+\hfill\small — 1 John 5:16-17
 </div>
 
 <div class="blockquote">
-"Do you not know that the unjust will not inherit the kingdom of God? Do not be deceived; neither fornicators nor idolaters nor adulterers nor boy prostitutes nor sodomites nor thieves nor the greedy nor drunkards nor slanderers nor robbers will inherit the kingdom of God."
+"Do you not know that the unrighteous will not inherit the kingdom of God? Do not be deceived; neither the immoral, nor idolaters, nor adulterers, nor sexual perverts, nor thieves, nor the greedy, nor drunkards, nor revilers, nor robbers will inherit the kingdom of God."
 
-\hfill\small — 1 Corinthians 6:9-10, NABRE
+\hfill\small — 1 Corinthians 6:9-10
 </div>
 
 <div class="blockquote">
-"Do not be conquered by evil but conquer evil with good."
+"Do not be overcome by evil, but overcome evil with good."
 
-\hfill\small — Romans 12:21, NABRE
+\hfill\small — Romans 12:21
 </div>
 
 ---
@@ -66,7 +66,7 @@ The following matrix shows which pillar(s) each vice primarily offends against. 
 | Lukewarmness | ✗ | ✗ | ✗ | ✗ |
 
 <div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
-Notice that every single vice in this matrix violates truth. This is not coincidental—<strong>every sin necessarily involves believing or speaking a lie.</strong> Whether we lie to ourselves about what will truly fulfill us, lie to others about our intentions, or deny the truth about God's nature and commands, sin cannot exist without falsehood. This is why lying is the foundational sin, and why Satan is called "the father of lies" (John 8:44, NABRE).
+Notice that every single vice in this matrix violates truth. This is not coincidental—<strong>every sin necessarily involves believing or speaking a lie.</strong> Whether we lie to ourselves about what will truly fulfill us, lie to others about our intentions, or deny the truth about God's nature and commands, sin cannot exist without falsehood. This is why lying is the foundational sin, and why Satan is called "a liar and the father of lies" (John 8:44).
 </div>
 
 ---
@@ -109,18 +109,18 @@ Those who claim all sin is equal often cite these verses:
 
 ### **Jesus Himself Teaches We Can Choose Good:**
 
-When a scholar asked Jesus what he must do to inherit eternal life, Jesus responded: **"You shall love the Lord, your God, with all your heart, with all your being, with all your strength, and with all your mind, and your neighbor as yourself"** (Luke 10:27). Then Jesus said: **"Do this and you will live"** (Luke 10:28).
+When a scholar asked Jesus what he must do to inherit eternal life, Jesus responded: **"You shall love the Lord your God with all your heart, and with all your soul, and with all your strength, and with all your mind; and your neighbor as yourself"** (Luke 10:27). Then Jesus said: **"Do this and you will live"** (Luke 10:28).
 
 **Jesus would not command us to do something impossible.** If we were trapped in perpetual mortal sin with no ability to choose good, Jesus' command would be cruel mockery. But He commands us to love because **we can love**—we have the freedom and grace to choose good over evil.
 
-St. Paul reinforces this: **"Do not be conquered by evil but conquer evil with good"** (Romans 12:21). Paul wouldn't tell us to "conquer evil" if we were powerless to do so. We have real agency, real freedom, and real grace to choose good and overcome sin.
+St. Paul reinforces this: **"Do not be overcome by evil, but overcome evil with good"** (Romans 12:21). Paul wouldn't tell us to "conquer evil" if we were powerless to do so. We have real agency, real freedom, and real grace to choose good and overcome sin.
 
 **God's perfect love integrates truth, justice, and mercy:**
 - **Truth:** God tells us clearly what is right and wrong
 - **Justice:** God allows us the freedom to choose—He doesn't force us to be good
 - **Mercy:** When we choose sin, God offers forgiveness through Christ's sacrifice on the Cross and in the Sacrament of Reconciliation
 
-This is the beauty of Catholic teaching: **We are free to sin, but we are also free to repent and be restored.** We can avoid mortal sin through God's grace. We can grow in holiness. We can become saints. Jesus wouldn't command us to "be perfect, just as your heavenly Father is perfect" (Matthew 5:48) if it were impossible.
+This is the beauty of Catholic teaching: **We are free to sin, but we are also free to repent and be restored.** We can avoid mortal sin through God's grace. We can grow in holiness. We can become saints. Jesus wouldn't command us, "You, therefore, must be perfect, as your heavenly Father is perfect." (Matthew 5:48) if it were impossible.
 
 ### **But Scripture Clearly Distinguishes Degrees of Sin:**
 
@@ -132,7 +132,7 @@ This is the beauty of Catholic teaching: **We are free to sin, but we are also f
 
 St. John writes: **"There is such a thing as deadly sin... All wrongdoing is sin, but there is sin that is not deadly"** (1 John 5:16-17).
 
-St. Paul warns that certain sins exclude from the Kingdom: **"Do you not know that the unjust will not inherit the kingdom of God? Do not be deceived; neither fornicators nor idolaters nor adulterers nor boy prostitutes nor sodomites nor thieves nor the greedy nor drunkards nor slanderers nor robbers will inherit the kingdom of God"** (1 Corinthians 6:9-10).
+St. Paul warns that certain sins exclude from the Kingdom: **"Do you not know that the unrighteous will not inherit the kingdom of God? Do not be deceived; neither the immoral, nor idolaters, nor adulterers, nor sexual perverts, nor thieves, nor the greedy, nor drunkards, nor revilers, nor robbers will inherit the kingdom of God"** (1 Corinthians 6:9-10).
 
 These are **mortal sins**—they kill our relationship with God, neighbor, and self. But not all sins have this deadly effect. The Church, guided by the Holy Spirit, has preserved and clarified this biblical teaching for our salvation.
 
@@ -704,7 +704,7 @@ The saints demonstrate that heroic virtue is possible—not through our own powe
 
 ### **The Goal:**
 
-This is what it means to "work out your salvation with fear and trembling" (Philippians 2:12)—to progressively integrate truth, justice, mercy, and sacrifice more perfectly into every aspect of our lives until we become saints.
+This is what it means to "work out your own salvation with fear and trembling;" (Philippians 2:12)—to progressively integrate truth, justice, mercy, and sacrifice more perfectly into every aspect of our lives until we become saints.
 
 **We are not condemned to perpetual sin.** We are called to perpetual growth in love. The distinction between mortal and venial sin is a gift that helps us understand where we are, where we need to grow, and how to cooperate with God's grace in becoming the saints He created us to be. Saints that love God so deeply that we feel intimately connected to Him. This love enables true salvation.
 

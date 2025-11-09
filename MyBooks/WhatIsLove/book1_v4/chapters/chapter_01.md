@@ -1,9 +1,9 @@
 # The Problem of Evil
 
 <div class="blockquote">
-"We know that all creation is groaning in labor pains even until now."
+"We know that the whole creation has been groaning in travail together until now."
 
-\hfill\small — Romans 8:22, NABRE
+\hfill\small — Romans 8:22
 </div>
 
 <div class="blockquote">
@@ -60,7 +60,7 @@ But here's what gives me hope: **Deep down, we all know better.** Even in our co
 
 Take a five-year-old to a playground. Watch what happens when one child pushes another off the swing. Your five-year-old doesn't pause to consider cultural relativism. She doesn't wonder if morality is subjective. Her whole being erupts in a single, clarion cry: "You're mean!"
 
-She knows—not because someone taught her, but because it's written in the very fabric of her being. This childlike moral clarity reflects the **natural law written on every human heart** (Romans 2:15, NABRE). As the Second Vatican Council teaches, "Deep within his conscience man discovers a law which he has not laid upon himself but which he must obey. Its voice, ever calling him to love and to do what is good and to avoid evil, sounds in his heart at the right moment" (*Gaudium et Spes* 16).
+She knows—not because someone taught her, but because it's written in the very fabric of her being. This childlike moral clarity reflects the **natural law written on every human heart** (Romans 2:15). As the Second Vatican Council teaches, "Deep within his conscience man discovers a law which he has not laid upon himself but which he must obey. Its voice, ever calling him to love and to do what is good and to avoid evil, sounds in his heart at the right moment" (*Gaudium et Spes* 16).
 
 This natural understanding isn't limited to children—it's evident in every culture throughout human history. Anthropologists have documented that every human society, regardless of religion or geography, recognizes basic moral truths: that it's wrong to kill the innocent, that promises should be kept, that the weak should be protected, that truth should be told. This universal moral sense points to our shared nature as beings created in God's image, with His law written on our hearts.
 
@@ -81,9 +81,9 @@ Every form of evil is a direct assault on what we're made for. This reveals the 
 ## Sin: The Root of All Evil
 
 <div class="blockquote">
-"For the wages of sin is death, but the gift of God is eternal life in Christ Jesus our Lord."
+"For the wages of sin is death, but the free gift of God is eternal life in Christ Jesus our Lord."
 
-\hfill\small — Romans 6:23, NABRE
+\hfill\small — Romans 6:23
 </div>
 
 The Catechism cuts to the heart of it: "sin is an offense against reason, truth, and right conscience; it is failure in genuine love for God and neighbor caused by a perverse attachment to certain goods" (CCC 1849). Every sin, whether it seems "small" or "great," is fundamentally a *choice* to reject what is good and true.

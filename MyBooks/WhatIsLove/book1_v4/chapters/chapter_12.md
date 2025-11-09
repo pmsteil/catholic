@@ -1,21 +1,21 @@
 # The Nature of Virtues—Faith Working Through Love
 
 <div class="blockquote">
-"So faith, hope, love remain, these three; but the greatest of these is love."
+"So faith, hope, love abide, these three; but the greatest of these is love."
 
-\hfill\small — 1 Corinthians 13:13, NABRE
+\hfill\small — 1 Corinthians 13:13
 </div>
 
 <div class="blockquote">
-"Faith of itself, if it does not have works, is dead."
+"So faith by itself, if it has no works, is dead."
 
-\hfill\small — James 2:17, NABRE
+\hfill\small — James 2:17
 </div>
 
 <div class="blockquote">
-"For in Christ Jesus, neither circumcision nor uncircumcision counts for anything, but only faith working through love."
+"For in Christ Jesus neither circumcision nor uncircumcision is of any avail, but faith working through love."
 
-\hfill\small — Galatians 5:6, NABRE
+\hfill\small — Galatians 5:6
 </div>
 
 ---
@@ -120,9 +120,9 @@ Every virtue upholds at least one pillar, and most uphold multiple pillars worki
 
 ### Why Every Virtue Requires Sacrifice—Even Faith:
 
-St. Paul declares, **"So faith, hope, love remain, these three; but the greatest of these is love"** (1 Corinthians 13:13). He also warns that **"If I have all faith so as to move mountains but do not have love, I am nothing"** (1 Corinthians 13:2). This reveals a profound truth: **even faith itself requires sacrifice to be authentic, because faith without love is dead.**
+St. Paul declares, **"So faith, hope, love remain, these three; but the greatest of these is love"** (1 Corinthians 13:13). He also warns that **"And if I have prophetic powers, and understand all mysteries and all knowledge, and if I have all faith, so as to remove mountains, but have not love, I am nothing"** (1 Corinthians 13:2). This reveals a profound truth: **even faith itself requires sacrifice to be authentic, because faith without love is dead.**
 
-St. James makes this explicit: **"Faith of itself, if it does not have works, is dead"** (James 2:17). And again: **"You see that a person is justified by works and not by faith alone"** (James 2:24). This is the definitive refutation of the Protestant error of *sola fide* (faith alone). Faith must be animated by love, and love always requires sacrifice.
+St. James makes this explicit: **"So faith by itself, if it has no works, is dead"** (James 2:17). And again: **"You see that a man is justified by works and not by faith alone"** (James 2:24). This is the definitive refutation of the Protestant error of *sola fide* (faith alone). Faith must be animated by love, and love always requires sacrifice.
 
 ### Justification: Not a Single Moment, But an Ongoing Process
 
@@ -138,7 +138,7 @@ This covenant exchange is why the moment of conversion and commitment to Christ 
 
 **After Conversion—Ongoing Justification Requires All Four Pillars:**
 
-St. Paul commands: **"Work out your salvation with fear and trembling"** (Philippians 2:12). This ongoing process demands continuous integration of all four pillars throughout our entire lives:
+St. Paul commands: **"Work out your own salvation with fear and trembling"** (Philippians 2:12). This ongoing process demands continuous integration of all four pillars throughout our entire lives:
 
 *In Truth:*
 - Continue in the apostles' teaching (Acts 2:42); grow in knowledge of God
@@ -181,9 +181,11 @@ St. Paul commands: **"Work out your salvation with fear and trembling"** (Philip
 
 This is why **every single virtue in this matrix requires sacrifice.** You cannot have authentic faith, hope, charity, prudence, justice, fortitude, temperance, or any other virtue without the willingness to sacrifice something of yourself. The matrix demonstrates what Scripture teaches: **perfect love integrates all four pillars, and sacrifice is essential to every expression of authentic virtue.**
 
-Jesus commands us: **"Be perfect, just as your heavenly Father is perfect"** (Matthew 5:48). St. Paul exhorts: **"Work out your salvation with fear and trembling"** (Philippians 2:12). We are called to become saints by conforming ourselves to Christ's example on the Cross—**the perfect integration of truth, justice, mercy, and sacrifice.**
+Jesus commands us: **"You, therefore, must be perfect, as your heavenly Father is perfect"** (Matthew 5:48). **"Be merciful, even as your Father is merciful. Judge not, and you will not be judged; condemn not, and you will not be condemned; forgive, and you will be forgiven; give, and it will be given to you; good measure, pressed down, shaken together, running over, will be put into your lap. For the measure you give will be the measure you get back"** (Luke 6:36-38).
 
-The Cross reveals: Truth—Jesus is the Way, the Truth, and the Life (John 14:6). Justice—satisfaction for sin and restoration of right order. Mercy—forgiveness freely offered to all who repent. Sacrifice—total self-gift unto death for the beloved.
+St. Paul exhorts: **"Work out your own salvation with fear and trembling"** (Philippians 2:12). We are called to become saints by conforming ourselves to Christ's example on the Cross—**the perfect integration of truth, justice, mercy, and sacrifice.**
+
+The Cross reveals: Truth—Jesus said to him, "I am the way, and the truth, and the life; no one comes to the Father, but by me" (John 14:6). Justice—satisfaction for sin and restoration of right order. Mercy—forgiveness freely offered to all who repent. Sacrifice—total self-gift unto death for the beloved.
 
 This is the pattern of perfect love. This is the path to holiness. **We cannot separate faith from works, love from sacrifice, or virtue from the Cross.** The matrix proves what the Church has always taught: authentic Christian life requires the integration of all four pillars of perfect love, and sacrifice is not optional—it is essential to every virtue, including faith itself.
 

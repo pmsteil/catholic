@@ -8,7 +8,7 @@ I did not create the Universe, the Earth, or the first man and woman. I did not 
 
 Just as the role of the Church is to receive the truth from God and faithfully transmit it through the ages, I have received this truth from God through His Church—through Scripture, the Catechism, the saints, and two thousand years of faithful witnesses. God gave me a desire to organize facts and synthesize them, and a heart to share what I've received. That's all.
 
-When I was 19, on a Catholic retreat in Panama in February 1988, God first revealed to me this life-changing truth: "God is Love" (1 John 4:16). It made intuitive sense—I felt its truth deep in my bones—but I couldn't fully explain *why* it was true or *what* it meant. That moment ignited a lifelong quest.
+When I was 19, on a Catholic retreat in Panama in February 1988, God first revealed to me this life-changing truth: "So we know and believe the love God has for us. God is love, and he who abides in love abides in God, and God abides in him." (1 John 4:16) It made intuitive sense—I felt its truth deep in my bones—but I couldn't fully explain *why* it was true or *what* it meant. That moment ignited a lifelong quest.
 
 My prayer ever since has been to understand and share the deep love that God revealed to me in a way that just makes sense to people. This book is the culmination of that journey—an attempt to explain, in an almost scientific way, just how profoundly true the statement "God is Love" really is. Not by inventing new truths, but by systematically unpacking the ancient truths in a way our generation can understand, verify, and embrace.
 

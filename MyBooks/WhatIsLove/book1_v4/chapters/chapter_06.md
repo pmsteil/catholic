@@ -1,27 +1,27 @@
 # Truth - Love Requires Objective Reality
 
 <div class="blockquote">
-"Jesus said to him, 'I am the way and the truth and the life. No one comes to the Father except through me.'"
+"Jesus said to him, 'I am the way, and the truth, and the life; no one comes to the Father, but by me.'"
 
-\hfill\small — John 14:6, NABRE
+\hfill\small — John 14:6
 </div>
 
 <div class="blockquote">
-"If you remain in my word, you will truly be my disciples, and you will know the truth, and the truth will set you free."
+"If you continue in my word, you are truly my disciples, and you will know the truth, and the truth will make you free."
 
-\hfill\small — John 8:31-32, NABRE
+\hfill\small — John 8:31-32
 </div>
 
 <div class="blockquote">
-"Sanctify them in the truth. Your word is truth."
+"Sanctify them in the truth; thy word is truth."
 
-\hfill\small — John 17:17, NABRE
+\hfill\small — John 17:17
 </div>
 
 <div class="blockquote">
-"Into your hands I commend my spirit; you will redeem me, LORD, God of truth."
+"Into thy hand I commit my spirit; thou hast redeemed me, O LORD, faithful God."
 
-\hfill\small — Psalm 31:6, NABRE
+\hfill\small — Psalm 31:6
 </div>
 
 ---
@@ -56,7 +56,7 @@ Before we can understand Christ as Truth Incarnate, we must first recognize the 
 
 **We love and need love and need to be loved.** No one has to teach us this. From our first breath, we cry out for love. This universal longing is written on every human heart.
 
-All of these truths ring true to what Genesis 1:27 teaches us: "God created mankind in his image; in the image of God he created them; male and female he created them" (NABRE). We are made in the *likeness* of God and in the *image* of His Son—created for love, designed for communion, ordered toward truth (cf. Gen 1:27; Rom 8:29; St. Irenaeus, *Against Heresies* 5.6.1).
+All of these truths ring true to what Genesis 1:27 teaches us: "So God created man in his own image, in the image of God he created him; male and female he created them" (Genesis 1:27). We are made in the *likeness* of God and in the *image* of His Son—created for love, designed for communion, ordered toward truth (cf. Gen 1:27; Rom 8:29; St. Irenaeus, *Against Heresies* 5.6.1).
 
 ## God Has Made Truth Accessible
 
@@ -66,27 +66,27 @@ God has not left us in darkness about truth. He has made truth accessible throug
 
 **Through Natural Law:** Written on our hearts, the basic moral law that all humans recognize: do good, avoid evil; honor your parents; don't murder; don't steal. Even those who've never heard of the Ten Commandments know these truths instinctively.
 
-**Through Creation Itself:** "The heavens declare the glory of God" (Psalm 19:2, NABRE). The order, beauty, and design of creation point to the Creator.
+**Through Creation Itself:** "The heavens are telling the glory of God; and the firmament proclaims his handiwork" (Psalm 19:1). The order, beauty, and design of creation point to the Creator.
 
 **Through Divine Revelation:** God has spoken—through the prophets, through Scripture, and ultimately through His Son.
 
 ## Christ as Truth Incarnate: The Ultimate Fulfillment
 
-Now we can understand the revolutionary claim: Jesus doesn't just teach truth. He doesn't just speak truth. He IS truth: "I am the way and the truth and the life" (John 14:6, NABRE).
+Now we can understand the revolutionary claim: Jesus doesn't just teach truth. He doesn't just speak truth. He IS truth: "I am the way, and the truth, and the life" (John 14:6).
 
 Jesus is the ultimate fulfillment of all the truth of being a human being. In Him, we see what humanity was always meant to be—perfect love, perfect truth, perfect communion with the Father. He is the image of the invisible God (Colossians 1:15), the one in whose image we were created.
 
 This is revolutionary. Truth isn't just propositional—a set of correct statements about reality. Truth is personal—a Person who embodies reality itself.
 
-When we encounter Christ, we encounter Truth. Not truth as abstract principle, but truth as living relationship. Not truth as cold fact, but truth as warm embrace. Not truth that condemns, but truth that liberates: "You will know the truth, and the truth will set you free" (John 8:32, NABRE).
+When we encounter Christ, we encounter Truth. Not truth as abstract principle, but truth as living relationship. Not truth as cold fact, but truth as warm embrace. Not truth that condemns, but truth that liberates: "You will know the truth, and the truth will make you free" (John 8:32).
 
 This is why love requires truth. Because love requires knowing the beloved as they truly are—not as we imagine them, not as we wish they were, but as they actually are. And because the ultimate Beloved is Christ Himself, who IS truth, all authentic love participates in His truth.
 
 ### Truth Died Because of Lies
 
-The depth of what it means that Jesus IS truth becomes even more profound when we understand how He died. On the Cross, Jesus prayed the words of Psalm 31:6: "Into your hands I commend my spirit; you will redeem me, LORD, God of truth" (NABRE).
+The depth of what it means that Jesus IS truth becomes even more profound when we understand how He died. On the Cross, Jesus prayed the words of Psalm 31:6: "Into thy hand I commit my spirit; thou hast redeemed me, O LORD, faithful God".
 
-Think about the context: Jesus—who IS Truth—was dying because of lies. False witnesses testified against Him. Religious leaders accused Him falsely. Pilate knew He was innocent but condemned Him anyway to political expediency. The crowd chose Barabbas, a murderer, over Jesus, the Truth. Even His own disciples abandoned Him, with Peter denying three times that he even knew Him. Satan is called "the father of lies" (John 8:44, NABRE) for good reason—lying is his primary weapon against love.
+Think about the context: Jesus—who IS Truth—was dying because of lies. False witnesses testified against Him. Religious leaders accused Him falsely. Pilate knew He was innocent but condemned Him anyway to political expediency. The crowd chose Barabbas, a murderer, over Jesus, the Truth. Even His own disciples abandoned Him, with Peter denying three times that he even knew Him. Satan is called "the father of lies" (John 8:44) for good reason—lying is his primary weapon against love.
 
 Truth Incarnate was murdered by a world built on lies. And in His final breath, He entrusted Himself to the "God of truth"—the Father who sees reality clearly when everyone else believes lies, who judges justly when everyone else condemns the innocent.
 
@@ -108,13 +108,13 @@ God has made truth accessible through natural law (written on our hearts), Scrip
 
 This is why both the Enlightenment's "reason alone" and Protestantism's "Scripture alone" failed—they rejected the accumulated wisdom of the Church, forcing each generation (or individual) to rediscover truth without guidance. The result: competing interpretations, each person becoming their own authority. Without the Church to preserve authentic meaning, "Scripture alone" becomes "my interpretation alone."
 
-When the Psalmist says "Your word is truth" (Psalm 119:160, NABRE), he's proclaiming that God's revealed will is utterly reliable, completely faithful, eternally stable. This is truth you can stake your life on.
+When the Psalmist says, "The sum of thy word is truth" (Psalm 119:160), he's proclaiming that God's revealed will is utterly reliable, completely faithful, eternally stable. This is truth you can stake your life on.
 
 ## How Truth Enables All the Other Facets of Love
 
 Truth isn't just one element of love among many—it's the foundation that enables all the other facets to function:
 
-**Truth Protects from Deception:** You can't truly love someone you're deceiving or who's deceiving you. Real relationship requires knowing and being known. "Speaking the truth in love, we should grow in every way into him who is the head, Christ" (Ephesians 4:15, NABRE).
+**Truth Protects from Deception:** You can't truly love someone you're deceiving or who's deceiving you. Real relationship requires knowing and being known. "Rather, speaking the truth in love, we are to grow up in every way into him who is the head, into Christ." (Ephesians 4:15).
 
 **Truth Provides Objective Standards:** Without truth, love becomes arbitrary—whatever feels good, whatever we decide it means. Truth grounds love in reality, giving it objective content we discover rather than subjective meaning we create.
 
@@ -126,7 +126,7 @@ Truth isn't just one element of love among many—it's the foundation that enabl
 
 **Truth Validates Covenant:** Covenant requires knowing who you're binding yourself to and what you're committing to. Without truth, covenant becomes a contract based on illusions—doomed to fail when reality intrudes.
 
-**Truth Makes Communion Possible:** Real communion requires knowing and being known as we truly are. Without truth, we can only have superficial connection based on masks and pretense, not the deep unity that authentic love creates. "Now this is eternal life, that they should know you, the only true God, and the one whom you sent, Jesus Christ" (John 17:3, NABRE). Truth creates intimacy—being fully known and fully loved. And relationships require trust, which requires truthfulness. "Therefore, putting away falsehood, speak the truth, each one to his neighbor, for we are members one of another" (Ephesians 4:25, NABRE). There can be no "faith" without truth.
+**Truth Makes Communion Possible:** Real communion requires knowing and being known as we truly are. Without truth, we can only have superficial connection based on masks and pretense, not the deep unity that authentic love creates. "And this is eternal life, that they know thee the only true God, and Jesus Christ whom thou hast sent." (John 17:3). Truth creates intimacy—being fully known and fully loved. And relationships require trust, which requires truthfulness. "Therefore, putting away falsehood, let every one speak the truth with his neighbor, for we are members one of another" (Ephesians 4:25). There can be no "faith" without truth.
 
 This is why our definition places truth alongside justice and mercy as essential elements that love must bind together. Truth isn't optional—it's the foundation that makes all authentic love possible.
 
@@ -150,7 +150,7 @@ But here's what's remarkable: **the very fullness of these lies is driving peopl
 
 And many are finding their way back to the Church—the pillar and foundation of truth. Because the Church has been saying the same thing for two thousand years. She hasn't changed her teaching to match the culture. She hasn't redefined truth to make it more palatable. She stands as a lighthouse in the storm of lies, proclaiming the same truth Christ proclaimed, the same truth the Apostles died for, the same truth that has set billions free.
 
-**The most important thing we can do is cultivate in ourselves and others a sincere desire to pursue "The Truth"—wherever it leads.** Not "my truth" or "your truth," but *the* truth. Christ didn't say "I teach the truth" or "I know the truth." He said "I AM the truth" (John 14:6). This means truth is not just a set of correct propositions—it's a Person to be encountered, known, and loved. The Church Christ founded doesn't just preserve correct doctrines—she receives His truth, guards it, and teaches it to every generation through two thousand years of unbroken apostolic succession. Christ promised His Church that the Holy Spirit will "guide you to all truth" (John 16:13)—not each individual interpreting Scripture for themselves, but the Church He established to be the pillar and foundation of truth. When we genuinely seek truth with an open heart, willing to follow it wherever it leads, we will encounter Christ Himself. This is why the Church has nothing to fear from honest inquiry, rigorous philosophy, or scientific discovery. Truth cannot contradict truth. All genuine truth leads to Truth Himself.
+**The most important thing we can do is cultivate in ourselves and others a sincere desire to pursue "The Truth"—wherever it leads.** Not "my truth" or "your truth," but *the* truth. Christ didn't say "I teach the truth" or "I know the truth." He said, "I am the way, and the truth, and the life" (John 14:6). This means truth is not just a set of correct propositions—it's a Person to be encountered, known, and loved. The Church Christ founded doesn't just preserve correct doctrines—she receives His truth, guards it, and teaches it to every generation through two thousand years of unbroken apostolic succession. Christ promised His Church that the Holy Spirit will "guide you into all the truth" (John 16:13)—not each individual interpreting Scripture for themselves, but the Church He established to be the pillar and foundation of truth. When we genuinely seek truth with an open heart, willing to follow it wherever it leads, we will encounter Christ Himself. This is why the Church has nothing to fear from honest inquiry, rigorous philosophy, or scientific discovery. Truth cannot contradict truth. All genuine truth leads to Truth Himself.
 
 This is why truth is so pivotal to God's love. Without truth, love becomes manipulation. Without truth, we can't distinguish authentic love from its counterfeits. Without truth, we're defenseless against the lies that destroy us.
 
@@ -158,7 +158,7 @@ This is why truth is so pivotal to God's love. Without truth, love becomes manip
 
 **"Love Means Accepting Everything":** This sounds compassionate but is actually cruel. A doctor who "accepts" his patient's cancer isn't loving—he's negligent. Love requires truth about what harms and what heals.
 
-**"Love Never Judges":** This confuses judging persons with judging actions. Love requires discernment. "Do not judge by appearances, but judge with right judgment" (John 7:24, NABRE).
+**"Love Never Judges":** This confuses judging persons with judging actions. Love requires discernment. "Do not judge by appearances, but judge with right judgment" (John 7:24).
 
 **"Love Means Letting People Define Their Own Reality":** This denies objective truth about human nature. If words mean anything we want, reality means nothing, and love has no content.
 
@@ -172,11 +172,11 @@ When most people think of authority, they think of it in human terms—the polic
 
 When God says "don't lie," He's not arbitrarily restricting our freedom. He's revealing the truth that lies destroy relationships, corrupt souls, and participate in the evil that crucified His Son. When God says "honor marriage," He's not imposing burdens—He's revealing the truth about how human sexuality and covenant love actually work.
 
-This is why Jesus said, "The truth will set you free" (John 8:32). God's authority liberates us because it's grounded in truth about reality. Submitting to His authority isn't slavery—it's freedom from the slavery of lies, ignorance, and self-destruction. It's like submitting to the "authority" of gravity or mathematics—you're not being oppressed, you're aligning yourself with reality.
+This is why Jesus said, "The truth will make you free" (John 8:32). God's authority liberates us because it's grounded in truth about reality. Submitting to His authority isn't slavery—it's freedom from the slavery of lies, ignorance, and self-destruction. It's like submitting to the "authority" of gravity or mathematics—you're not being oppressed, you're aligning yourself with reality.
 
-Here's the beautiful paradox: **true freedom is the voluntary submission to be a slave to God's love.** St. Paul understood this deeply. He called himself "a slave of Christ Jesus" (Romans 1:1, NABRE) and "a slave of God" (Titus 1:1, NABRE). He wrote, "For you were called for freedom, brothers. But do not use this freedom as an opportunity for the flesh; rather, serve one another through love" (Galatians 5:13, NABRE).
+Here's the beautiful paradox: **true freedom is the voluntary submission to be a slave to God's love.** St. Paul understood this deeply. He called himself "a servant of Jesus Christ" (Romans 1:1) and "a servant of God" (Titus 1:1)—a word that literally means slave. He wrote, "For you were called to freedom, brethren; only do not use your freedom as an opportunity for the flesh, but through love be servants of one another." (Galatians 5:13).
 
-Paul knew that we're always slaves to something—either to sin, which leads to death, or to God, which leads to life. "Do you not know that if you present yourselves to someone as obedient slaves, you are slaves of the one you obey, either of sin, which leads to death, or of obedience, which leads to righteousness?" (Romans 6:16, NABRE). The question isn't whether we'll serve—it's whom we'll serve.
+Paul knew that we're always slaves to something—either to sin, which leads to death, or to God, which leads to life. "Do you not know that if you yield yourselves to any one as obedient slaves, you are slaves of the one whom you obey, either of sin, which leads to death, or of obedience, which leads to righteousness?" (Romans 6:16). The question isn't whether we'll serve—it's whom we'll serve.
 
 When we voluntarily submit to God's authority—grounded in truth and expressed through love—we become slaves to Love itself. And being enslaved to perfect Love is perfect freedom, because Love wills our good, knows our nature, and leads us to our true fulfillment. This is why the saints, who were most "enslaved" to God, were also the freest people who ever lived.
 
@@ -190,15 +190,15 @@ To remain as one body, as one bread, as one communion, we need one Church with H
 
 Jesus didn't just give us a book and wish us luck. He established a Church with His own authority:
 
-**All Authority Given to Christ and His Church:** "Jesus approached and said to them, 'All power in heaven and on earth has been given to me. Go, therefore, and make disciples of all nations, baptizing them in the name of the Father, and of the Son, and of the holy Spirit, teaching them to observe all that I have commanded you'" (Matthew 28:18-20, NABRE). Christ has total authority—and He shares it with His Church, commissioning her not just to write it down and let everyone interpret it themselves, but to actively teach with authority. Notice the profound significance: they are to baptize and teach "in the name of" the Trinity—meaning with His authority, by His power, as His representatives. When the Church teaches, Christ Himself teaches.
+**All Authority Given to Christ and His Church:** "And Jesus came and said to them, 'All authority in heaven and on earth has been given to me. Go therefore and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, teaching them to observe all that I have commanded you'" (Matthew 28:18-20). Christ has total authority—and He shares it with His Church, commissioning her not just to write it down and let everyone interpret it themselves, but to actively teach with authority. Notice the profound significance: they are to baptize and teach "in the name of" the Trinity—meaning with His authority, by His power, as His representatives. When the Church teaches, Christ Himself teaches.
 
-**Authority Given to Peter:** "And so I say to you, you are Peter, and upon this rock I will build my church, and the gates of the netherworld shall not prevail against it. I will give you the keys to the kingdom of heaven. Whatever you bind on earth shall be bound in heaven; and whatever you loose on earth shall be loosed in heaven" (Matthew 16:18-19, NABRE). In Jewish tradition, "binding and loosing" was the technical language for rabbinic authority to make authoritative interpretations of God's law.
+**Authority Given to Peter:** "And I tell you, you are Peter, and on this rock I will build my church, and the powers of death shall not prevail against it. I will give you the keys of the kingdom of heaven, and whatever you bind on earth shall be bound in heaven, and whatever you loose on earth shall be loosed in heaven" (Matthew 16:18-19). In Jewish tradition, "binding and loosing" was the technical language for rabbinic authority to make authoritative interpretations of God's law.
 
-**Authority Given to the Apostles:** "Whoever listens to you listens to me. Whoever rejects you rejects me. And whoever rejects me rejects the one who sent me" (Luke 10:16, NABRE). To hear the Church is to hear Christ Himself.
+**Authority Given to the Apostles:** "He who hears you hears me, and he who rejects you rejects me, and he who rejects me rejects him who sent me" (Luke 10:16). To hear the Church is to hear Christ Himself.
 
-**The Holy Spirit's Guidance:** "When he comes, the Spirit of truth, he will guide you to all truth" (John 16:13, NABRE). The Church doesn't invent truth—she receives it through the Holy Spirit's ongoing guidance.
+**The Holy Spirit's Guidance:** "When the Spirit of truth comes, he will guide you into all the truth" (John 16:13). The Church doesn't invent truth—she receives it through the Holy Spirit's ongoing guidance.
 
-Paul calls the Church "the pillar and foundation of truth" (1 Timothy 3:15, NABRE) because Christ gave her this mission: to receive His truth, guard it, and teach it to every generation.
+Paul calls the Church "a pillar and bulwark of the truth" (1 Timothy 3:15) because Christ gave her this mission: to receive His truth, guard it, and teach it to every generation.
 
 The Church's authority comes from God, the Author of love. She doesn't create truth and force it on people. She receives His truth, safeguards it, and teaches it—so people can voluntarily submit to His truth. True authority is not forced from on high, but only exists when we freely submit our will and intellect to Christ, who IS truth.
 

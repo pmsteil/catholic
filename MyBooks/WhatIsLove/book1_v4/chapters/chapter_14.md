@@ -1,13 +1,13 @@
 # Counterfeit Love in the Modern World
 
 <div class="blockquote">
-"Beloved, do not trust every spirit but test the spirits to see whether they belong to God, because many false prophets have gone out into the world."
+"Beloved, do not believe every spirit, but test the spirits to see whether they are of God; for many false prophets have gone out into the world."
 
 \hfill\small — 1 John 4:1
 </div>
 
 <div class="blockquote">
-"Even Satan masquerades as an angel of light. So it is not strange that his ministers also masquerade as ministers of righteousness."
+"And no wonder, for even Satan disguises himself as an angel of light. So it is not strange if his servants also disguise themselves as servants of righteousness. Their end will correspond to their deeds."
 
 \hfill\small — 2 Corinthians 11:14-15
 </div>
@@ -69,7 +69,7 @@ For each counterfeit, we'll use a diagnostic table showing which components are 
 
 **Why It Fails:** Moral paralysis. If all truth is socially constructed, we cannot call anything truly wrong. Love becomes mere preference with no way to resolve conflicts.
 
-**How Good Overcomes Evil:** God's Perfect Love is rooted in Truth—the eternal Logos who became flesh (John 1:14). Objective truth liberates us from subjective opinion, enabling authentic justice, mercy, and communion. "You will know the truth, and the truth will set you free" (John 8:32).
+**How Good Overcomes Evil:** God's Perfect Love is rooted in Truth—the eternal Logos who became flesh (John 1:14). Objective truth liberates us from subjective opinion, enabling authentic justice, mercy, and communion. "and you will know the truth, and the truth will make you free" (John 8:32).
 
 ### Marxism: "Love Is Class Solidarity"
 
@@ -97,7 +97,7 @@ For each counterfeit, we'll use a diagnostic table showing which components are 
 
 **Why It Fails:** Over 100 million dead in the 20th century. Marxism creates resentment, not solidarity; violence, not peace; totalitarianism, not justice.
 
-**How Good Overcomes Evil:** God's Perfect Love establishes true justice through solidarity that recognizes every person's sacred dignity. It calls us to sacrificial love for all—including enemies—building communion through covenant rather than coercion. "Do not be conquered by evil but conquer evil with good" (Romans 12:21).
+**How Good Overcomes Evil:** God's Perfect Love establishes true justice through solidarity that recognizes every person's sacred dignity. It calls us to sacrificial love for all—including enemies—building communion through covenant rather than coercion. "Do not be overcome by evil, but overcome evil with good." (Romans 12:21).
 
 ### Wokeism: "Love Is Affirming Identity"
 
@@ -125,7 +125,7 @@ For each counterfeit, we'll use a diagnostic table showing which components are 
 
 **Why It Fails:** Denying reality harms those it claims to help. Children are sterilized for ideology. Truth becomes "hate speech." Compassion becomes complicity in self-destruction.
 
-**How Good Overcomes Evil:** God's Perfect Love offers true compassion that speaks truth in love—affirming the person's infinite dignity while calling them to their authentic identity in God's design. Real mercy seeks the person's true good, not just their comfort. "Living the truth in love, we should grow in every way into him who is the head, Christ" (Ephesians 4:15).
+**How Good Overcomes Evil:** God's Perfect Love offers true compassion that speaks truth in love—affirming the person's infinite dignity while calling them to their authentic identity in God's design. Real mercy seeks the person's true good, not just their comfort. "Rather, speaking the truth in love, we are to grow up in every way into him who is the head, into Christ," (Ephesians 4:15).
 
 ### Gender Ideology: "Love Means Affirming Gender Identity"
 
@@ -153,7 +153,7 @@ For each counterfeit, we'll use a diagnostic table showing which components are 
 
 **Why It Fails:** Bodies matter. Denying biological reality doesn't change it—it only creates suffering. Children sterilized before puberty will never become parents.
 
-**How Good Overcomes Evil:** God's Perfect Love reveals our identity as gift received, not self-created. "Male and female he created them" (Genesis 1:27). This truth liberates us to embrace our bodies, live in reality, and find fulfillment in complementary communion ordered to life.
+**How Good Overcomes Evil:** God's Perfect Love reveals our identity as gift received, not self-created. "So God created man in his own image, in the image of God he created him; male and female he created them" (Genesis 1:27). This truth liberates us to embrace our bodies, live in reality, and find fulfillment in complementary communion ordered to life.
 
 ### Atheism: "There Is No God"
 
@@ -180,7 +180,7 @@ For each counterfeit, we'll use a diagnostic table showing which components are 
 
 **Why It Fails:** Atheism cannot ground the very realities it depends on. Why is truth valuable? Why does justice matter? Why should we sacrifice for others? Evolutionary psychology reduces love to survival mechanism. Utilitarianism makes it arbitrary calculation.
 
-**How Good Overcomes Evil:** God's Perfect Love recognizes our need for truth, justice, mercy, and sacrifice—and provides the only coherent explanation: because God IS love in His very nature, and we are made in His image. Our deepest longings can only be fulfilled in Him. "God is love, and whoever remains in love remains in God and God in him" (1 John 4:16).
+**How Good Overcomes Evil:** God's Perfect Love recognizes our need for truth, justice, mercy, and sacrifice—and provides the only coherent explanation: because God IS love in His very nature, and we are made in His image. Our deepest longings can only be fulfilled in Him. "God is love, and he who abides in love abides in God, and God abides in him" (1 John 4:16).
 
 ### Relativism: "Live Your Truth"
 
@@ -203,7 +203,7 @@ For each counterfeit, we'll use a diagnostic table showing which components are 
 
 **Why It Fails:** Society cannot function without shared reality. Relativism makes love arbitrary and fragments communities into competing subjective preferences.
 
-**How Good Overcomes Evil:** God's Perfect Love calls us to live in objective truth that liberates us from the slavery of sin. "You will know the truth, and the truth will set you free" (John 8:32). Only truth grounded in reality enables authentic justice, mercy, and communion.
+**How Good Overcomes Evil:** God's Perfect Love calls us to live in objective truth that liberates us from the slavery of sin. "and you will know the truth, and the truth will make you free" (John 8:32). Only truth grounded in reality enables authentic justice, mercy, and communion.
 
 ---
 
@@ -232,7 +232,7 @@ For each counterfeit, we'll use a diagnostic table showing which components are 
 
 **Why It Fails:** Addiction. Broken marriages. Emotional absence from children. Pornography promises intimacy but delivers isolation.
 
-**How Good Overcomes Evil:** God's Perfect Love calls spouses to total self-gift in covenant marriage where they know and are known completely—authentic intimacy that honors the sacred dignity of the person and builds life-giving communion. "Therefore a man leaves his father and his mother and clings to his wife, and they become one flesh" (Genesis 2:24).
+**How Good Overcomes Evil:** God's Perfect Love calls spouses to total self-gift in covenant marriage where they know and are known completely—authentic intimacy that honors the sacred dignity of the person and builds life-giving communion. "Therefore a man leaves his father and his mother and cleaves to his wife, and they become one flesh" (Genesis 2:24).
 
 ### Abortion: "My Body, My Choice"
 
@@ -258,7 +258,7 @@ For each counterfeit, we'll use a diagnostic table showing which components are 
 
 **Why It Fails:** Over 60 million children dead in America alone. Mothers wounded. An entire generation eliminated. The "solution" to crisis pregnancy is killing the child—the opposite of love.
 
-**How Good Overcomes Evil:** God's Perfect Love recognizes every human life as sacred gift from conception, calling parents to welcome and protect life through sacrifice—even when costly or inconvenient. "Before I formed you in the womb I knew you" (Jeremiah 1:5). Authentic love is ordered to life and builds communion across generations, providing support for mothers in crisis rather than eliminating their children.
+**How Good Overcomes Evil:** God's Perfect Love recognizes every human life as sacred gift from conception, calling parents to welcome and protect life through sacrifice—even when costly or inconvenient. "Before I formed you in the womb I knew you, and before you were born I consecrated you; I appointed you a prophet to the nations" (Jeremiah 1:5). Authentic love is ordered to life and builds communion across generations, providing support for mothers in crisis rather than eliminating their children.
 
 ### Same-Sex "Marriage": "Love Is Love"
 
@@ -287,7 +287,7 @@ For each counterfeit, we'll use a diagnostic table showing which components are 
 
 **Why It Fails:** Children need both mother and father. Complementarity matters. Marriage is not just about adult desires—it's ordered to creating and nurturing the next generation.
 
-**How Good Overcomes Evil:** God's Perfect Love establishes marriage as the complementary union of man and woman whose bodies are designed for one-flesh communion naturally ordered to creating and nurturing new life. This alone images the Trinity's life-giving love. "Male and female he created them. God blessed them and God said to them: Be fertile and multiply" (Genesis 1:27-28).
+**How Good Overcomes Evil:** God's Perfect Love establishes marriage as the complementary union of man and woman whose bodies are designed for one-flesh communion naturally ordered to creating and nurturing new life. This alone images the Trinity's life-giving love. "Male and female he created them. And God blessed them, and God said to them, 'Be fruitful and multiply'" (Genesis 1:27-28).
 
 ---
 
@@ -319,11 +319,11 @@ For each counterfeit, we'll use a diagnostic table showing which components are 
 
 **What's Missing:** "Faith alone" separates belief from action, destroying sacrifice (no costly obedience required), justice (no obligation to act rightly), and life-giving communion (faith without works is dead and bears no fruit). It appeals to the desire for salvation without the cost of transformation.
 
-**Why It Fails:** Scripture explicitly contradicts it: "See how a person is justified by works and not by faith alone" (James 2:24). Faith that doesn't transform the whole person and bear fruit in acts of justice, mercy, and sacrifice is not authentic faith.
+**Why It Fails:** Scripture explicitly contradicts it: "You see that a man is justified by works and not by faith alone" (James 2:24). Faith that doesn't transform the whole person and bear fruit in acts of justice, mercy, and sacrifice is not authentic faith.
 
 **The Larger Context:** The Joint Declaration on the Doctrine of Justification (1999) was a landmark agreement that clarified how we are made right with God—by grace alone, through faith in Christ's saving work. Yet justification, important as it is, exists within a larger reality: the movement of God's Perfect Love. This love is the sacred, sacrificial gift of covenant that binds truth, justice, mercy, and sacrifice into life-giving communion. Without grasping this divine logic of love, the mechanics of justification remain incomplete. God's grace to justify is but one moment within His Perfect Love that begins with Him as Author of all and ends with Him as our eternal Communion.
 
-**How Good Overcomes Evil:** God's Perfect Love works through "faith working through love" (Galatians 5:6). Authentic faith transforms the whole person and bears fruit in acts of justice, mercy, and sacrifice, because love is not just believed but lived. "Not everyone who says to me, 'Lord, Lord,' will enter the kingdom of heaven, but only the one who does the will of my Father in heaven" (Matthew 7:21).
+**How Good Overcomes Evil:** God's Perfect Love works through "For in Christ Jesus neither circumcision nor uncircumcision is of any avail, but faith working through love" (Galatians 5:6). Authentic faith transforms the whole person and bears fruit in acts of justice, mercy, and sacrifice, because love is not just believed but lived. "Not every one who says to me, 'Lord, Lord,' shall enter the kingdom of heaven, but he who does the will of my Father who is in heaven" (Matthew 7:21).
 
 ### "Bible Alone": Private Interpretation
 
@@ -353,7 +353,7 @@ For each counterfeit, we'll use a diagnostic table showing which components are 
 
 **Why It Fails:** Over 40,000 Protestant denominations, each claiming biblical authority. Cannot resolve doctrinal disputes. Scripture itself doesn't teach "Bible alone"—it points to Church authority (1 Timothy 3:15, Matthew 18:17).
 
-**How Good Overcomes Evil:** God's Perfect Love transmits truth through Scripture, Sacred Tradition, and the Magisterium working together—this three-legged stool ensures faithful interpretation, maintains covenant unity under apostolic authority, and preserves communion across time and cultures. "The church of the living God, the pillar and foundation of truth" (1 Timothy 3:15).
+**How Good Overcomes Evil:** God's Perfect Love transmits truth through Scripture, Sacred Tradition, and the Magisterium working together—this three-legged stool ensures faithful interpretation, maintains covenant unity under apostolic authority, and preserves communion across time and cultures. "if I am delayed, you may know how one ought to behave in the household of God, which is the church of the living God, the pillar and bulwark of the truth" (1 Timothy 3:15).
 
 ### "Once Saved, Always Saved": Presumption
 
@@ -380,9 +380,9 @@ For each counterfeit, we'll use a diagnostic table showing which components are 
 
 **What's Missing:** "Once saved, always saved" presumes eternal security regardless of sin, destroying sacrifice (no ongoing cost of discipleship), covenant (no perseverance required), and transformation (no need for continued conversion). It destroys the very notion of salvation itself: Christ came to free us from the slavery of sin, but ignoring sin means we remain enslaved.
 
-**Why It Fails:** Contradicts Scripture: "Work out your salvation with fear and trembling" (Philippians 2:12). "If we say, 'We are without sin,' we deceive ourselves" (1 John 1:8). Enables moral complacency and presumption.
+**Why It Fails:** Contradicts Scripture: "Therefore, my beloved, as you have always obeyed, so now, not only as in my presence but much more in my absence, work out your own salvation with fear and trembling" (Philippians 2:12). "If we say we have no sin, we deceive ourselves, and the truth is not in us" (1 John 1:8). Enables moral complacency and presumption.
 
-**How Good Overcomes Evil:** God's Perfect Love calls us to persevere in grace through ongoing conversion and cooperation with the Holy Spirit until death. Authentic love requires faithful covenant living, costly sacrifice, and continuous transformation. "Be perfect, just as your heavenly Father is perfect" (Matthew 5:48).
+**How Good Overcomes Evil:** God's Perfect Love calls us to persevere in grace through ongoing conversion and cooperation with the Holy Spirit until death. Authentic love requires faithful covenant living, costly sacrifice, and continuous transformation. "You, therefore, must be perfect, as your heavenly Father is perfect" (Matthew 5:48).
 
 ---
 

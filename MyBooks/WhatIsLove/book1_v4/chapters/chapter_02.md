@@ -1,9 +1,9 @@
 # The Answer is Love
 
 <div class="blockquote">
-"God is love, and whoever remains in love remains in God and God in him."
+"So we know and believe the love God has for us. God is love, and he who abides in love abides in God, and God abides in him."
 
-\hfill\small — 1 John 4:16, NABRE
+\hfill\small — 1 John 4:16
 </div>
 
 <div class="blockquote">
@@ -22,17 +22,17 @@ We ended with the question that demands an answer: What can actually heal the hu
 
 The answer is love. But that immediately raises another question: What exactly *is* love?
 
-This isn't an academic question. It's the question of eternal life itself. When a scholar of the law asked Jesus, "Teacher, what must I do to inherit eternal life?" Jesus didn't point to a creed, a ritual, or even faith alone. He pointed to love: "You shall love the Lord, your God, with all your heart, with all your being, with all your strength, and with all your mind, and your neighbor as yourself" (Luke 10:25-28, NABRE).
+This isn't an academic question. It's the question of eternal life itself. When a scholar of the law asked Jesus, "Teacher, what must I do to inherit eternal life?" Jesus didn't point to a creed, a ritual, or even faith alone. He pointed to love: "You shall love the Lord your God with all your heart, and with all your soul, and with all your strength, and with all your mind; and your neighbor as yourself." (Luke 10:27)
 
 <div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
-Jesus Himself defines what is required for eternal life: love God with all your heart, mind, soul and strength, and love your neighbor as yourself. This isn't an addition to faith—it's what faith looks like when it's real.
+Jesus Himself defines what is required for eternal life: love God with all your heart, soul, strength, and mind, and love your neighbor as yourself. This isn't an addition to faith—it's what faith looks like when it's real.
 </div>
 
 Notice what Jesus is saying: Eternal life—salvation itself—is inseparable from learning to love as God loves. This will become crucial in Chapter 14 when we examine the "faith alone" controversy. For now, understand that Jesus Himself establishes love as the path to eternal life, not as an optional add-on to belief.
 
 ## Why Love is So Hard to Define
 
-This universal longing for love is written into our very nature because we are made in the image of God: "So God created mankind in his own image, in the image of God he created them; male and female he created them" (Genesis 1:27, NABRE). We are designed for relationship with God and others, which is why every human heart cries out for love.
+This universal longing for love is written into our very nature because we are made in the image of God: "So God created man in his own image, in the image of God he created him; male and female he created them." (Genesis 1:27) We are designed for relationship with God and others, which is why every human heart cries out for love.
 
 Yet defining love has proven remarkably difficult.
 
@@ -48,7 +48,7 @@ Through careful study of Scripture and the Church's teaching on love, we can see
 
 **Let's be clear about what "perfect" means here—this is crucial.** Perfect doesn't mean flawless performance or earning God's love through our efforts. You don't need to be sinless to love authentically. Rather, perfect means *complete* and *integrated*—love that includes all its essential facets working in harmony, even when we struggle and fail.
 
-Jesus calls us to this perfection: "Be perfect, therefore, as your heavenly Father is perfect" (Matthew 5:48, NABRE). He's not demanding impossible performance. He's inviting us into complete love—love that integrates truth, justice, mercy, and sacrifice rather than choosing only the comfortable parts. This is possible not through human effort alone, but through His perfect love (grace) that teaches and transforms us, meeting us where we are and gradually conforming us to be like Christ.
+Jesus calls us to this perfection: "You, therefore, must be perfect, as your heavenly Father is perfect." (Matthew 5:48) He's not demanding impossible performance. He's inviting us into complete love—love that integrates truth, justice, mercy, and sacrifice rather than choosing only the comfortable parts. This is possible not through human effort alone, but through His perfect love (grace) that teaches and transforms us, meeting us where we are and gradually conforming us to be like Christ.
 
 **This is what it means to be a saint.** A saint is someone who submits their whole life—body, mind, and soul—to living this complete, integrated love. They're not people who never sin or struggle, but people who allow God's grace to transform them into living witnesses of His Perfect Love. (Grace is when God pours out His infinite Perfect Love into our hearts.) This call to sainthood isn't reserved for a spiritual elite—it's the universal Christian vocation. Every baptized person is called to become a saint by allowing God's Perfect Love to permeate every dimension of their "being" - body, mind, and soul.
 
@@ -58,9 +58,9 @@ This isn't just about being a better person. This is about transformation—allo
 
 Every word matters:
 
-**Sacred:** God is Love (1 John 4:8, NABRE). Love participates in the divine nature and reflects God's own love. Because every human person is created in God's image, love is never merely human emotion but a participation in the very life of God. When we love another person, we're honoring the divine image within them and expressing our own divine calling.
+**Sacred:** God is love (1 John 4:8). Love participates in the divine nature and reflects God's own love. Because every human person is created in God's image, love is never merely human emotion but a participation in the very life of God. When we love another person, we're honoring the divine image within them and expressing our own divine calling.
 
-**Sacrifice:** Love is ordered toward the true, just, and merciful good of the other. It's not mere sentiment but proven through action that puts another's wellbeing before our own preferences. As Jesus taught, "No one has greater love than this, to lay down one's life for one's friends" (John 15:13, NABRE).
+**Sacrifice:** Love is ordered toward the true, just, and merciful good of the other. It's not mere sentiment but proven through action that puts another's wellbeing before our own preferences. As Jesus taught, "Greater love has no man than this, that a man lay down his life for his friends." (John 15:13)
 
 **Gift:** Love is freely given, not earned or demanded. It cannot be bought, manipulated, or coerced. Love that must be earned isn't love at all—it's a transaction.
 
@@ -68,7 +68,7 @@ Every word matters:
 
 **Binding:** Love is the force that unites disparate elements into harmonious whole. It ensures truth serves justice, justice enables mercy, and mercy upholds truth. The "binding" prevents fragmentation and false dichotomies that pit these virtues against each other.
 
-**Truth:** Love cannot exist without truth. Jesus declares, "I am the way, the truth, and the life" (John 14:6, NABRE). Authentic love requires knowing the truth about God, ourselves, and each person's inherent dignity as made in God's image. We cannot truly love someone we are deceiving or whose true worth we deny.
+**Truth:** Love cannot exist without truth. Jesus declares, "I am the way, and the truth, and the life; no one comes to the Father, but by me." (John 14:6) Authentic love requires knowing the truth about God, ourselves, and each person's inherent dignity as made in God's image. We cannot truly love someone we are deceiving or whose true worth we deny.
 
 **Justice:** Love gives to our Creator and each person what they are due based on their dignity as image-bearers of God. It provides objective standards and prevents love from becoming mere sentiment.
 

@@ -1,27 +1,27 @@
 # Life-Giving Communion - The Goal of Perfect Love
 
 <div class="blockquote">
-"I came so that they might have life and have it more abundantly."
+"I came that they may have life, and have it abundantly."
 
-\hfill\small — John 10:10, NABRE
+\hfill\small — John 10:10
 </div>
 
 <div class="blockquote">
-"I pray not only for them, but also for those who will believe in me through their word, so that they may all be one, as you, Father, are in me and I in you, that they also may be in us, that the world may believe that you sent me."
+"I do not pray for these only, but also for those who believe in me through their word, that they may all be one; even as thou, Father, art in me, and I in thee, that they also may be in us, so that the world may believe that thou hast sent me."
 
-\hfill\small — John 17:20-21, NABRE
+\hfill\small — John 17:20-21
 </div>
 
 <div class="blockquote">
-"Unless you eat the flesh of the Son of Man and drink his blood, you do not have life within you."
+"Truly, truly, I say to you, unless you eat the flesh of the Son of man and drink his blood, you have no life in you;"
 
-\hfill\small — John 6:53, NABRE
+\hfill\small — John 6:53
 </div>
 
 <div class="blockquote">
-"Be perfect, just as your heavenly Father is perfect."
+"You, therefore, must be perfect, as your heavenly Father is perfect."
 
-\hfill\small — Matthew 5:48, NABRE
+\hfill\small — Matthew 5:48
 </div>
 
 ---
@@ -61,14 +61,14 @@ This is the model for all communion:
 
 **Eternal Joy:** This communion is perfect happiness. God created not out of need but out of the overflow of love—love that must give, must create, must multiply.
 
-This is what we're invited into: "That they also may be in us" (John 17:21, NABRE). Not just imitating Trinitarian communion from a distance, but actually participating in it. God invites us into His own life, His own communion, His own joy.
+This is what we're invited into: "That they also may be in us" (John 17:21). Not just imitating Trinitarian communion from a distance, but actually participating in it. God invites us into His own life, His own communion, His own joy.
 
 Our definition reveals this clearly: "God's Perfect Love is the sacred gift of covenant which binds truth, justice, mercy, and sacrifice into life-giving **communion**." Notice the final word: **communion**. Not virtue for its own sake. Not self-fulfillment. Communion. This is the true end of love—the goal toward which everything else points. Truth, justice, mercy, and sacrifice are essential, but they're the framework through which love flows outward to create communion. You don't become good for your own sake; you become good so that divine life can flow through you to others.
 
 
 ## "Be Perfect": What Jesus Really Meant
 
-This is what Jesus meant when He commanded: "Be perfect, just as your heavenly Father is perfect" (Matthew 5:48, NABRE).
+This is what Jesus meant when He commanded: "You, therefore, must be perfect, as your heavenly Father is perfect" (Matthew 5:48).
 
 Not "sinless" perfection—that's impossible in this life. **HOLY/WHOLE/COMPLETE perfection**—transformed by God's Love into God's Love, living in the true, just, merciful, and sacrificial communion we were made for.
 
@@ -80,11 +80,11 @@ Perfect = living in full communion with God, neighbor, and true self.
 
 You were made for wholeness, and sin fragments you. You were made for communion, and sin isolates you. You were made for life, and sin brings death.
 
-This is what Jesus prayed for: "That they may all be one, as you, Father, are in me and I in you, that they also may be in us" (John 17:21, NABRE). The goal isn't our individual perfection. The goal is communion—participation in the divine life of the Trinity, which then overflows to create communion with others.
+This is what Jesus prayed for: "That they may all be one, as you, Father, are in me and I in you, that they also may be in us" (John 17:21). The goal isn't our individual perfection. The goal is communion—participation in the divine life of the Trinity, which then overflows to create communion with others.
 
 When Jesus commands us to "be perfect," He's not demanding sinless performance. He's inviting us into the wholeness, the completeness, the communion that makes us fully alive. He's calling us to become what we were always meant to be—living images of the God who IS communion.
 
-This same call echoes through the Old Testament. When God commands "Be holy, for I, the LORD your God, am holy" (Leviticus 19:2, NABRE), He's saying: **"Be wholly Mine, as I am wholly yours. Let your love be complete—true, just, merciful, and self-giving—so that you may live in perfect communion with Me, sharing in My own wholeness."**
+This same call echoes through the Old Testament. When God commands "Be holy, for I, the LORD your God, am holy" (Leviticus 19:2), He's saying: **"Be wholly Mine, as I am wholly yours. Let your love be complete—true, just, merciful, and self-giving—so that you may live in perfect communion with Me, sharing in My own wholeness."**
 
 Holy = Wholly = Complete = Perfect = Communion with God.
 
@@ -114,7 +114,7 @@ Every other moment of true communion echoes this:
 - Deep prayer when you sense God's presence
 - **Receiving the Eucharist when Christ becomes one with you**
 
-These are the moments when you're WHOLE. When body, heart, mind, and soul are fully integrated in love. When you're living what Matthew 5:48 means: perfect, complete, holy communion.
+These are the moments when you're WHOLE. When body, heart, mind, and soul are fully integrated in love. When you're living what "You, therefore, must be perfect, as your heavenly Father is perfect" (Matthew 5:48) means: perfect, complete, holy communion.
 
 **And this is why sin disrupts everything:** When you lie, cheat, steal, betray—you FEEL the communion breaking. The wholeness fragments. The aliveness dies. You're no longer integrated but divided against yourself, or family, or society, or God.
 
@@ -137,12 +137,12 @@ The Church's teaching isn't arbitrary or outdated. It's protecting the truth tha
 
 ### Spiritual Fruitfulness: All Vocations Called to Bear Fruit
 
-Not everyone is called to physical procreation, but all are called to spiritual fruitfulness—making disciples, forming others in faith, bringing life through prayer, service, and witness. "I chose you and appointed you to go and bear fruit that will remain" (John 15:16, NABRE). Every Christian is called to be fruitful.
+Not everyone is called to physical procreation, but all are called to spiritual fruitfulness—making disciples, forming others in faith, bringing life through prayer, service, and witness. "You did not choose me, but I chose you and appointed you that you should go and bear fruit and that your fruit should abide;" (John 15:16). Every Christian is called to be fruitful.
 
 
 ### Sacramental: The Eucharist—Where the Definition Becomes REAL
 
-"I am the living bread that came down from heaven; whoever eats this bread will live forever" (John 6:51, NABRE). Christ gives us His own Body and Blood as food. Not symbolically. Not metaphorically. Really, truly, substantially.
+"I am the living bread which came down from heaven; if any one eats of this bread, he will live for ever;" (John 6:51). Christ gives us His own Body and Blood as food. Not symbolically. Not metaphorically. Really, truly, substantially.
 
 When I reverted to Catholicism, I heard the Church teach that the Eucharist is "the source and summit of our faith." I didn't understand it at first. Source and summit? What did that even mean?
 
@@ -175,14 +175,14 @@ And this life multiplies: One host can be divided infinitely—every piece is th
 
 **This is the pattern for all love:** Give yourself completely, and life multiplies. Hold back, and life withers.
 
-"Unless you eat the flesh of the Son of Man and drink his blood, you do not have life within you" (John 6:53, NABRE). Not metaphorical life. Not spiritual life only. **LIFE**—the fullness of communion with God that makes you fully alive.
+"Unless you eat the flesh of the Son of Man and drink his blood, you do not have life within you" (John 6:53). Not metaphorical life. Not spiritual life only. **LIFE**—the fullness of communion with God that makes you fully alive.
 
 The Church knew this all along. Sacred Tradition preserved this truth for 2,000 years. I just had to humble myself enough to learn it.
 
 
 ### Ecclesial: Church as Body of Christ
 
-"As a body is one though it has many parts, and all the parts of the body, though many, are one body, so also Christ" (1 Corinthians 12:12, NABRE).
+"As a body is one though it has many parts, and all the parts of the body, though many, are one body, so also Christ" (1 Corinthians 12:12).
 
 This is what it means to be a Christian society, a covenant people. Not just individuals who happen to believe the same things, but souls bound together in life-giving communion, each serving their purpose as part of the entire Body. When one member suffers, all suffer. When one rejoices, all rejoice (1 Corinthians 12:26). We are truly one—not through human effort, but through the Holy Spirit binding our souls together in love.
 
@@ -202,7 +202,7 @@ This is what it means to be a Christian society, a covenant people—souls bound
 
 #### The Scandal of Division
 
-Jesus prayed "that they may all be one" (John 17:21, NABRE)—yet our divisions wound His Body.
+Jesus prayed "that they may all be one" (John 17:21)—yet our divisions wound His Body.
 
 The devil wants nothing more than denominations and arguments over truth. If there is no truth, he need not worry—chaos serves his purposes.
 
@@ -222,7 +222,7 @@ This means you're never alone. You're part of a covenant communion or Body of Ch
 
 When you pray, you pray with all the saints. When you suffer, you suffer with Christ and all who have suffered before you. When you rejoice, you rejoice with the whole communion of saints. When you receive the Eucharist, you're united not just with Christ but with every believer who has ever received Him.
 
-All of this points to the ultimate goal: the Beatific Vision—seeing God face to face in perfect communion. "Now we see indistinctly, as in a mirror, but then face to face. At present I know partially; then I shall know fully, as I am fully known" (1 Corinthians 13:12, NABRE).
+All of this points to the ultimate goal: the Beatific Vision—seeing God face to face in perfect communion. "For now we see in a mirror dimly, but then face to face. Now I know in part; then I shall understand fully, even as I have been fully understood" (1 Corinthians 13:12).
 
 This is what we're made for. This is where love leads. This is the end—perfect, complete, eternal communion with God and all the saints. Not losing ourselves but finding ourselves. Not being absorbed into God but being fully united to Him while remaining fully ourselves. Perfect communion. Perfect love. Perfect life.
 
@@ -295,7 +295,7 @@ Will you answer?
 - **Genesis 2:18** - "It is not good for the man to be alone"
 - **John 10:10** - "I came so that they might have life and have it more abundantly"
 - **John 15:4-5** - "Remain in me, as I remain in you... I am the vine, you are the branches"
-- **1 Corinthians 10:17** - "Because the loaf of bread is one, we, though many, are one body"
+- **1 Corinthians 10:17** - "Because there is one loaf, we who are many are one body, for we all partake of the one loaf."
 - **1 Corinthians 12:12-27** - The Body of Christ and its many members
 - **Acts 2:42-47** - The early Church's communion in breaking of bread
 - **Revelation 21:3** - "Behold, God's dwelling is with the human race"

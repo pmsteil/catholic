@@ -1,21 +1,21 @@
 # Justice - Love Gives What Is Due
 
 <div class="blockquote">
-"This is what the LORD asks of you: only to do justice, to love goodness, and to walk humbly with your God."
+"He has showed you, O man, what is good; and what does the LORD require of you but to do justice, and to love kindness, and to walk humbly with your God?"
 
-\hfill\small — Micah 6:8, NABRE
+\hfill\small — Micah 6:8
 </div>
 
 <div class="blockquote">
-"Learn to do good. Make justice your aim: redress the wronged, hear the orphan's plea, defend the widow."
+"learn to do good; seek justice, correct oppression; defend the fatherless, plead for the widow."
 
-\hfill\small — Isaiah 1:17, NABRE
+\hfill\small — Isaiah 1:17
 </div>
 
 <div class="blockquote">
-"Woe to you, scribes and Pharisees, you hypocrites. You pay tithes of mint and dill and cummin, and have neglected the weightier things of the law: judgment and mercy and fidelity."
+"Woe to you, scribes and Pharisees, hypocrites! for you tithe mint and dill and cummin, and have neglected the weightier matters of the law, justice and mercy and faith; these you ought to have done, without neglecting the others."
 
-\hfill\small — Matthew 23:23, NABRE
+\hfill\small — Matthew 23:23
 </div>
 
 ---
@@ -82,7 +82,7 @@ Modern "justice" often means punishment or revenge, enforcing equality of outcom
 
 ## Justice Grounded in Imago Dei
 
-Why does every person deserve justice? Because they're made in God's image: "So God created mankind in his own image; in the image of God he created them; male and female he created them" (Genesis 1:27, NABRE).
+Why does every person deserve justice? Because they're made in God's image: "So God created man in his own image, in the image of God he created him; male and female he created them" (Genesis 1:27).
 
 This is the foundation of all human rights and all justice: Because every human being is made in the image and likeness of God, and because love is something we do for the good of the other, being a human being carries duties and responsibilities toward each other—to tell the truth, to treat each other justly, to forgive for the good of the relationship and covenant.
 
@@ -114,7 +114,7 @@ Our culture claims to champion "inclusion," "diversity," and "equity" (DEI). But
 
 Justice treats each person according to their inherent dignity as image-bearers of God, regardless of race, class, sex, or any other external characteristic. Partiality treats people according to their group identity—showing favoritism to some while discriminating against others based on tribe, politics, or ideology.
 
-Scripture explicitly condemns partiality: "My brothers, show no partiality as you adhere to the faith in our glorious Lord Jesus Christ" (James 2:1, NABRE). Why? Because partiality violates the fundamental truth that all humans share equal dignity before God.
+Scripture explicitly condemns partiality: "My brethren, show no partiality as you hold the faith of our Lord Jesus Christ, the Lord of glory" (James 2:1). Why? Because partiality violates the fundamental truth that all humans share equal dignity before God.
 
 **Here's the deception:** Modern "inclusion" doesn't actually include everyone. It includes only certain favored groups while actively excluding others. Identity politics doesn't treat all identities equally—it creates hierarchies of victimhood and privilege. DEI initiatives don't pursue equal dignity—they pursue equal outcomes by showing partiality based on immutable characteristics.
 
@@ -217,7 +217,7 @@ Without justice, mercy is meaningless. With justice, mercy becomes love that goe
 ### Scripture
 - **Micah 6:8:** The Lord's requirement—do justice, love goodness, walk humbly
 - **Isaiah 1:17:** Learn to do good, make justice your aim, defend the vulnerable
-- **Amos 5:24:** Let justice surge like water, righteousness like an unfailing stream
+- **Amos 5:24:** Let justice roll down like waters, righteousness like an everflowing stream
 - **Matthew 23:23:** The weightier things of the law—judgment, mercy, fidelity
 - **James 2:14-17:** Faith without works of justice and mercy is dead
 

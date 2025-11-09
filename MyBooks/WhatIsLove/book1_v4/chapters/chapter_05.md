@@ -1,21 +1,21 @@
 # Binding - How love unites
 
 <div class="blockquote">
-"And over all these put on love, that is, the bond of perfection."
+"And above all these put on love, which binds everything together in perfect harmony."
 
-\hfill\small — Colossians 3:14, NABRE
+\hfill\small — Colossians 3:14
 </div>
 
 <div class="blockquote">
-"As a body is one though it has many parts, and all the parts of the body, though many, are one body, so also Christ."
+"For just as the body is one and has many members, and all the members of the body, though many, are one body, so it is with Christ."
 
-\hfill\small — 1 Corinthians 12:12, NABRE
+\hfill\small — 1 Corinthians 12:12
 </div>
 
 <div class="blockquote">
-"I pray not only for them, but also for those who will believe in me through their word, so that they may all be one, as you, Father, are in me and I in you, that they also may be in us, that the world may believe that you sent me."
+"I do not pray for these only, but also for those who believe in me through their word, that they may all be one; even as thou, Father, art in me, and I in thee, that they also may be in us, so that the world may believe that thou hast sent me."
 
-\hfill\small — John 17:20-21, NABRE
+\hfill\small — John 17:20-21
 </div>
 
 ---
@@ -61,7 +61,7 @@ Jesus' encounter with the woman caught in adultery (John 8:1-11) perfectly demon
 
 ## Unity in Diversity: The Body of Christ
 
-St. Paul uses the image of the body to show how love creates unity without uniformity: "As a body is one though it has many parts, and all the parts of the body, though many, are one body, so also Christ" (1 Corinthians 12:12-13, NABRE).
+St. Paul uses the image of the body to show how love creates unity without uniformity: "For just as the body is one and has many members, and all the members of the body, though many, are one body, so it is with Christ. For by one Spirit we were all baptized into one body—Jews or Greeks, slaves or free—and all were made to drink of one Spirit." (1 Corinthians 12:12-13).
 
 The eye doesn't become the hand. The ear doesn't become the foot. Each part remains distinct, with its own function. But love binds them into one body, one organism, one unified whole.
 
@@ -83,7 +83,7 @@ St. Thomas Aquinas taught that love is "the form of all virtues"—meaning love 
 
 ## The Eucharist: Perfect Binding
 
-The Eucharist is the supreme example of love's binding power: It binds heaven and earth—the eternal sacrifice of Christ becomes present in time. It binds Christ and His Church—"Whoever eats my flesh and drinks my blood remains in me and I in him" (John 6:56, NABRE). It binds believers to each other—"Because the loaf of bread is one, we, though many, are one body, for we all partake of the one loaf" (1 Corinthians 10:17, NABRE). It binds past, present, and future—the Last Supper, Calvary, and the eternal wedding feast all made present in one sacramental moment. It binds truth, justice, and mercy—the truth of our sin, the justice of Christ's sacrifice, the mercy of God's full and perfect reconciliation—all integrated in one saving act.
+The Eucharist is the supreme example of love's binding power: It binds heaven and earth—the eternal sacrifice of Christ becomes present in time. It binds Christ and His Church—"He who eats my flesh and drinks my blood abides in me, and I in him." (John 6:56). It binds believers to each other—"Because there is one bread, we who are many are one body, for we all partake of the one bread." (1 Corinthians 10:17). It binds past, present, and future—the Last Supper, Calvary, and the eternal wedding feast all made present in one sacramental moment. It binds truth, justice, and mercy—the truth of our sin, the justice of Christ's sacrifice, the mercy of God's full and perfect reconciliation—all integrated in one saving act.
 
 This is why Catholics call it "Holy Communion"—and this may be the most important truth in this entire book. The Eucharist is not just a symbol, not just a memorial, not just receiving Christ spiritually. It is the actual Body, Blood, Soul, and Divinity of Jesus Christ becoming one with us, binding us into perfect communion with the Trinity and with each other. When you receive Holy Communion, you are literally united with the same Christ who hung on the Cross, who rose from the dead, who reigns in heaven. His Sacred Heart beats within you. His divine life flows through your veins. His perfect love—binding truth, justice, and mercy—becomes your love. This is the source and summit of Christian life because it is love itself made flesh, love itself binding heaven and earth, love itself transforming us into what we receive. Every other chapter in this book flows from this reality and leads back to it. If you understand nothing else, understand this: in Holy Communion, you become what you eat—the Body of Christ, bound together in perfect love.
 
@@ -99,7 +99,7 @@ This is why sin is so devastating—it severs the bonds of communion, isolating 
 
 But practicing virtue weaves your soul more deeply into the fabric of Christ's Body. Each act of love is like a thread binding you to others. Over time, these threads become unbreakable bonds. You discover you're part of something infinitely larger than yourself, a living organism where every member matters, where your flourishing depends on others and theirs depends on you.
 
-This is what it means to be a Christian society, a covenant people—souls bound together in life-giving communion, each serving their purpose as part of the entire Body. When one member suffers, all suffer. When one rejoices, all rejoice (1 Corinthians 12:26). We are truly one through the Holy Spirit binding our souls together in love.
+This is what it means to be a Christian society, a covenant people—souls bound together in life-giving communion, each serving their purpose as part of the entire Body. If one member suffers, all suffer together; if one member is honored, all rejoice together. (1 Corinthians 12:26) We are truly one through the Holy Spirit binding our souls together in love.
 
 ## The Bridge to Truth
 
