@@ -293,7 +293,7 @@ For each counterfeit, we'll use a diagnostic table showing which components are 
 
 ## Section 3: Religious Counterfeits
 
-### "Faith Alone": Belief Without Works
+### "Faith Alone": Belief Without the necessity of "Works"
 
 **The Appeal:** "Faith alone" promises salvation without the cost of sacrificial obedience.
 
@@ -321,13 +321,13 @@ For each counterfeit, we'll use a diagnostic table showing which components are 
 
 **Why It Fails:** Scripture explicitly contradicts it: "You see that a man is justified by works and not by faith alone" (James 2:24). Faith that doesn't transform the whole person and bear fruit in acts of justice, mercy, and sacrifice is not authentic faith.
 
-**The Larger Context:** The Joint Declaration on the Doctrine of Justification (1999) was a landmark agreement that clarified how we are made right with God—by grace alone, through faith in Christ's saving work. Yet justification, important as it is, exists within a larger reality: the movement of God's Perfect Love. This love is the sacred, sacrificial gift of covenant that binds truth, justice, mercy, and sacrifice into life-giving communion. Without grasping this divine logic of love, the mechanics of justification remain incomplete. God's grace to justify is but one moment within His Perfect Love that begins with Him as Author of all and ends with Him as our eternal Communion.
+**The Larger Context:** The Joint Declaration on the Doctrine of Justification (1999) was a landmark agreement that clarified how we are made right with God—by grace (God's Perfect Love) alone, through faith in Christ's saving work. Yet justification, important as it is, exists within a larger reality: the movement of God's Perfect Love. Without grasping this divine logic of love, the mechanics of justification remain incomplete. God's grace to justify is but one moment within His Perfect Love that begins with Him as Author of Love and ends with Him as our eternal Communion.
 
 **How Good Overcomes Evil:** God's Perfect Love works through "For in Christ Jesus neither circumcision nor uncircumcision is of any avail, but faith working through love" (Galatians 5:6). Authentic faith transforms the whole person and bears fruit in acts of justice, mercy, and sacrifice, because love is not just believed but lived. "Not every one who says to me, 'Lord, Lord,' shall enter the kingdom of heaven, but he who does the will of my Father who is in heaven" (Matthew 7:21).
 
 ### "Bible Alone": Private Interpretation
 
-**The Appeal:** "Bible alone" promises direct access to God's word without institutional mediation.
+**The Appeal:** "Bible alone" promises direct access to the truth of God's Word without institutional mediation.
 
 **Diagnostic Analysis:**
 
@@ -351,9 +351,9 @@ For each counterfeit, we'll use a diagnostic table showing which components are 
 
 **What's Missing:** "Bible alone" makes each person their own authority to interpret Scripture privately, destroying truth (thousands of contradictory interpretations), covenant (no binding Church authority), and communion (endless division into competing denominations). Worse, this division provides terrible witness to the world, dividing Christ Himself and bolstering postmodernist claims that there is no objective truth, thereby supporting the relativism destroying modern society.
 
-**Why It Fails:** Over 40,000 Protestant denominations, each claiming biblical authority. Cannot resolve doctrinal disputes. Scripture itself doesn't teach "Bible alone"—it points to Church authority (1 Timothy 3:15, Matthew 18:17).
+**Why It Fails:** Thousands of Protestant denominations (divisions), each claiming biblical authority, while in reality the "bible alone" tradition teaches each person to correctly interpret all of Scripture themselves. But consider the impossibility: Scripture spans thousands of years, multiple languages, diverse cultures, complex literary genres, intricate theological connections where the Old Testament prefigures the New, and a unified narrative as integrated as our definition of perfect love itself. Each individual is expected to master ancient Near Eastern customs, Greco-Roman context, Hebrew and Greek linguistics, typology, prophecy fulfillment, and the interconnections between all 73 books—then correctly interpret individual passages without authoritative guidance. It's like expecting every scientist to start from first principles of physics, rediscover calculus, and independently derive quantum mechanics before conducting a single experiment. The result is predictable: contradictory interpretations, doctrinal chaos, and endless division. This unsacred tradition has no mechanism to resolve disputes (thus why every mainline Protestant denomination has split over issues like homosexuality, women's ordination, and countless other doctrines).
 
-**How Good Overcomes Evil:** God's Perfect Love transmits truth through Scripture, Sacred Tradition, and the Magisterium working together—this three-legged stool ensures faithful interpretation, maintains covenant unity under apostolic authority, and preserves communion across time and cultures. "if I am delayed, you may know how one ought to behave in the household of God, which is the church of the living God, the pillar and bulwark of the truth" (1 Timothy 3:15).
+**How Good Overcomes Evil:** God's Perfect Love transmits truth through Scripture, Sacred Tradition, and the Magisterium (the teaching authority given by Jesus to teach all nations everything He commanded) working together—this three-legged stool ensures faithful interpretation, maintains covenant unity under apostolic authority, and preserves communion across time and cultures. "if I am delayed, you may know how one ought to behave in the household of God, which is the church of the living God, the pillar and bulwark of the truth" (1 Timothy 3:15).
 
 ### "Once Saved, Always Saved": Presumption
 

@@ -122,7 +122,7 @@ Every virtue upholds at least one pillar, and most uphold multiple pillars worki
 
 St. Paul declares, **"So faith, hope, love remain, these three; but the greatest of these is love"** (1 Corinthians 13:13). He also warns that **"And if I have prophetic powers, and understand all mysteries and all knowledge, and if I have all faith, so as to remove mountains, but have not love, I am nothing"** (1 Corinthians 13:2). This reveals a profound truth: **even faith itself requires sacrifice to be authentic, because faith without love is dead.**
 
-St. James makes this explicit: **"So faith by itself, if it has no works, is dead"** (James 2:17). And again: **"You see that a man is justified by works and not by faith alone"** (James 2:24). This is the definitive refutation of the Protestant error of *sola fide* (faith alone). Faith must be animated by love, and love always requires sacrifice.
+St. James makes this explicit: **"So faith by itself, if it has no works, is dead"** (James 2:17). And again: **"You see that a man is justified by works and not by faith alone"** (James 2:24). This is the definitive refutation of the Protestant error of *faith alone*. Faith must be animated by love, and love always requires sacrifice.
 
 ### Justification: Not a Single Moment, But an Ongoing Process
 

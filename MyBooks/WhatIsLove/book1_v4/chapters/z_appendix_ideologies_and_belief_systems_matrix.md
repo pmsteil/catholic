@@ -100,8 +100,8 @@ This appendix examines how various non-Christian belief systems and contemporary
 | System | Truth | Justice | Mercy | Sacrifice |
 |---------------|-------|---------|-------|-----------|
 | **Protestant Errors** |
-| Sola Fide (Faith Alone) | $\triangle$ | $\triangle$ | $\sim$ | $\triangle$ |
-| Sola Scriptura (Scripture Alone) | $\triangle$ | $\sim$ | $\sim$ | $\sim$ |
+| Faith Alone | $\triangle$ | $\triangle$ | $\sim$ | $\triangle$ |
+| Scripture Alone | $\triangle$ | $\sim$ | $\sim$ | $\sim$ |
 | Prosperity Gospel | $\otimes$ | $\otimes$ | $\otimes$ | $\otimes$ |
 | Antinomianism | $\otimes$ | $\otimes$ | $\triangle$ | $\otimes$ |
 | Predestination (Calvinist) | $\triangle$ | $\triangle$ | $\triangle$ | $\sim$ |
@@ -198,7 +198,7 @@ This appendix examines how various non-Christian belief systems and contemporary
 
 ### **Counterfeit Christian Systems**
 
-**Sola Fide (Faith Alone):** Contradicts James 2:24 and Council of Trent; separates faith from love. Denies necessity of just works; makes justice optional. Emphasizes God's mercy but separates from human response. Denies necessity of sacrificial works of love.
+**Faith Alone:** Contradicts James 2:24 and Council of Trent; separates faith from love. Denies necessity of just works; makes justice optional. Emphasizes God's mercy but separates from human response. Denies necessity of sacrificial works of love.
 
 **Prosperity Gospel:** Denies reality of redemptive suffering and the Cross. Blames poor for poverty; ignores structural injustice. Withholds compassion from those who "lack faith." Promises worldly gain; rejects sacrificial discipleship.
 

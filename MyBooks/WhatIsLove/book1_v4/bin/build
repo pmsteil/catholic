@@ -213,6 +213,18 @@ def preprocess_files(files: List[str], profile: Optional[str] = None) -> List[st
                 content = f.read()
         transformed = transform_html_widgets(content)
 
+        # For audiotxt profile, remove LaTeX commands
+        if profile == "audiotxt":
+            # Remove common LaTeX commands that shouldn't appear in plain text
+            transformed = re.sub(r'\\clearpage\s*', '', transformed)
+            transformed = re.sub(r'\\newpage\s*', '', transformed)
+            transformed = re.sub(r'\\pagebreak\s*', '', transformed)
+            transformed = re.sub(r'\\tableofcontents\s*', '', transformed)
+            transformed = re.sub(r'\\frontmatter\s*', '', transformed)
+            transformed = re.sub(r'\\mainmatter\s*', '', transformed)
+            transformed = re.sub(r'\\appendix\s*', '', transformed)
+            transformed = re.sub(r'\\thispagestyle\{[^}]*\}\s*', '', transformed)
+
         name_only = Path(path).name
         
         # For audiotxt profile, add chapter numbers to markdown headings

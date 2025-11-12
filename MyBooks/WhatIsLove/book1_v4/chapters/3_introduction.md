@@ -30,7 +30,15 @@ I was a Methodist for 20 years, and I loved being Methodist. But that was the da
 
 Two things I had always known were true.
 
-First, God is Love.
+First, as St. John tells us:
+
+<div class="blockquote">
+"God is love, and he who abides in love abides in God, and God abides in him."
+
+\hfill\small — 1 John 4:16
+</div>
+
+**God is Love.** This is not just what God does—it's who God is. This truth has been the foundation of my 37-year journey to understand what love truly means.
 
 And Second, when Jesus was asked which was the greatest commandment, He replied:
 
@@ -59,6 +67,8 @@ And so I knew I had to go even deeper than I ever had before.
 As I rediscovered the Catholic Church of my youth, I found something extraordinary: Jesus had built a Church that he promised would be guided by the Holy Spirit into all the truth (John 16:13b). And Paul tells us that the Church is the pillar and foundation of truth (1 Timothy 3:15).
 
 And so now, as I have been allowing the historic Christian Church that traces its teaching all the way back to Jesus to pour into me all of these truths it has discovered and teaches about God's love, I just had to write this book.
+
+This journey has been shaped by many faithful witnesses. My grandparents Daddy Bob and Mamalou, showed me the joys of living the Catholic faith and gave me the desire to have a large family and be a Father. My dad taught me what it means to be a father and husband who was faithful to God first—a living example of covenant love. My wife of now 34 years who not only has been my constant support, but who has gave me the desire to seek what is Holy for our covenental marriage. My six sons inspired me to continue seeking God's wisdom so that I could give them good counsel for their own lives.  And Catholic Answers taught me to defend the faith with clarity and conviction, equipping me to articulate these truths to others.
 
 And so my goal is to make the teachings of God's Love as thorough and cohesive and accessible as possible because it is the children who suffer the most when we fail to teach them the complete truth about God's Love.
 
@@ -110,39 +120,39 @@ We'll journey together through these chapters:
 
 **PART 1: UNPACKING GOD'S PERFECT LOVE (Chapters 1-11)**
 
-**Chapter 1: The Problem of Evil** - Evil originates in human hearts when we choose against love. Perfect love is the only solution.
+**Chapter 1: The Problem of Evil** - Evil originates in human hearts when we choose perceived goods for ourselves at the expense of others, creating waves of destruction that ripple through families and generations.
 
-**Chapter 2: The Answer is Love** - Presents the comprehensive definition of God's Perfect Love and explains why traditional definitions fall short. Shows how love engages body, mind, and soul.
+**Chapter 2: The Answer is Love** - Presents God's Perfect Love as the sacred gift of covenant binding truth, justice, mercy, and sacrifice into life-giving communion; explains that "perfect" means complete and integrated (not flawless), and shows how each act of these virtues forms our souls to reflect Christ.
 
-**Chapter 3: Sacred** - God IS love; love's divine origin and participation in divine nature. Why humans can't create their own morality without God as the source.
+**Chapter 3: Sacred** - God IS love (not just "has" love), making love eternal and unchanging; demonstrates why love requires a transcendent personal source through five logical steps, reveals the Trinity as love's eternal pattern, and shows how every act of authentic love participates in divine nature itself.
 
-**Chapter 4: Gift of Covenant** - Covenant vs. contract: permanent, unconditional love through voluntary submission to God's authority as the Author of Love.
+**Chapter 4: Gift of Covenant** - Distinguishes covenant (permanent, unconditional, "I'm yours no matter what") from contract (temporary, conditional, "as long as you meet my needs"); traces God's covenant pattern from Adam through the New Covenant, and explains that true authority flows from God as Author who invites voluntary submission to truth rather than imposing arbitrary rules through force.
 
-**Chapter 5: Binding** - Love integrates truth, justice, and mercy into one harmonious whole. Why defining love has been so difficult—it's multi-faceted integration, not a single principle.
+**Chapter 5: Binding** - Love is the force that holds truth, justice, and mercy together in perfect tension, preventing fragmentation where truth becomes cruelty, justice becomes revenge, or mercy becomes enabling; demonstrates through Jesus and the woman caught in adultery how love binds these virtues so each serves the others.
 
-**Chapter 6: Truth** - Love requires objective reality and cannot exist in deception; love without truth becomes manipulation.
+**Chapter 6: Truth** - Jesus IS Truth incarnate who died because of lies; truth is conformity of intellect to reality that makes all other facets of love possible (justice needs truth about human dignity, mercy needs truth about sin, sacrifice needs truth about genuine good); reveals that lying is the foundational sin destroying love at its source, and shows how Christ established His Church with divine authority to preserve truth across generations.
 
-**Chapter 7: Justice** - Love gives each person what they are due according to their dignity as image-bearers of God.
+**Chapter 7: Justice** - Every cry of "that's not fair!" proves God exists because objective justice requires a transcendent standard beyond human opinion; justice means giving each person what they're due based on imago Dei (Genesis 1:27), and prepares for mercy by establishing truth about what's been broken—without justice, mercy becomes meaningless sentiment.
 
-**Chapter 8: Mercy** - Love transcends justice with compassionate forgiveness, not by violating justice but by going beyond what's strictly owed.
+**Chapter 8: Mercy** - Mercy transcends justice by bearing the cost yourself rather than demanding the offender pay (sacrifice), but requires we forgive others to receive God's forgiveness (Matthew 6:14-15); exposes modern culture's merciless condemnation masquerading as justice, and shows how the Sacrament of Reconciliation reconnects isolated souls to the Body of Christ.
 
-**Chapter 9: Sacrifice** - Authentic love requires concrete self-giving action that puts others before self, not mere sentiment or good intentions.
+**Chapter 9: Sacrifice** - Love stops being theory and becomes reality through concrete self-giving action; Christ's sacrifice perfectly integrates expiation (satisfying justice) and oblation (offering mercy), and every Mass makes His sacrifice present so we can participate in it, uniting our daily sacrifices with His to form our souls into His image and participate in His redemptive work.
 
-**Chapter 10: Life-Giving Communion** - Love creates, sustains, and multiplies life (physical and spiritual), building authentic community and relationship that overcomes isolation. The goal of perfect love is communion with God and others.
+**Chapter 10: Life-Giving Communion** - The goal of all love is communion—participation in the Trinity's eternal self-giving that makes us fully alive (body, mind, soul integrated); Jesus' command to "be perfect" (Matthew 5:48) means complete/whole/holy communion with God and others, which is destroyed by lies fragmenting society and restored only through Holy Truth lived in the Eucharist, where Christ's Body unites us as one Body and calls us to become saints who multiply life rather than death.
 
 **PART 2: IMPLICATIONS FOR CHRISTIAN FAITH (Chapters 11-14)**
 
-**Chapter 11: Proof for the Existence of God** - The moral argument demonstrates God's existence through human capacity for love; this definition provides an upgraded moral argument that avoids Divine Command Theory problems.
+**Chapter 11: Proof for the Existence of God** - Each facet of love reveals objective moral truth that cannot be reduced to evolutionary programming or cultural convention; demonstrates that if love exists as an objective law with universality, binding force, and perfect integration, it requires a lawgiver—solving the Euthyphro dilemma by grounding morality in God's unchanging nature as Love itself rather than arbitrary divine commands.
 
-**Chapter 12: The Nature of Virtues—Faith Working Through Love** - Every virtue upholds and flows from the four pillars of perfect love (Truth, Justice, Mercy, and Sacrifice), definitively refuting "faith alone."
+**Chapter 12: The Nature of Virtues—Faith Working Through Love** - Comprehensive matrix demonstrates every virtue upholds and flows from the four pillars (truth, justice, mercy, sacrifice) while every vice denies or distorts them; proves faith is covenant exchange requiring all four pillars ("I recognize Your truth, promise obedience to Your justice, depend on Your mercy"), definitively refuting "faith alone" by showing justification is ongoing process requiring integration of all pillars from initial conversion through final perseverance.
 
-**Chapter 13: Understanding Sin—Mortal and Venial Distinctions** - How vices deny the four pillars; explains three conditions for mortal sin; shows growth in holiness is possible.
+**Chapter 13: Understanding Sin—Mortal and Venial Distinctions** - Sin is fundamentally failure to love by denying one or more pillars; God's mercy distinguishes mortal sin (grave matter + full knowledge + deliberate consent, killing relationship with God) from venial sin (wounds but doesn't destroy grace); refutes "all sin is equal" error by showing Scripture clearly teaches degrees of sin (1 John 5:16-17), and proves growth in holiness is possible through grace—we can avoid mortal sin, progressively reduce venial sin, and become saints.
 
-**Chapter 14: Counterfeit Love in the Modern World** - Systematically exposes 23 modern counterfeits (ideological, relational, and religious) showing which essential components each lacks or distorts.
+**Chapter 14: Counterfeit Love in the Modern World** - Diagnostic tables systematically expose 23 counterfeits across three categories (ideological like postmodernism and Marxism, relational like cohabitation and divorce, religious like faith-alone and works-alone) by showing precisely which of the nine essential components each eliminates or distorts; proves incomplete love isn't love at all but creates the very evils it claims to solve, because only God's Perfect Love integrates all components working together.
 
-**Chapter 15: The Generational Consequences** - Applies the ultimate test to counterfeits: What do they do to children? Shows how every counterfeit harms children in predictable ways and how God's Perfect Love provides what children need to flourish.
+**Chapter 15: The Generational Consequences** - Applies ultimate test to all 23 counterfeits: What do they do to children? Reveals devastating pattern where counterfeits that kill/sterilize (abortion, gender ideology), destroy family structure (divorce, cohabitation, same-sex "marriage"), confuse reality (relativism, gender ideology), wound through adult selfishness (pornography, addiction), and fragment faith (prosperity gospel, legalism) all harm children in predictable ways by denying them the six essentials they need (truth, justice, mercy, sacrifice, covenant, life-giving communion)—proving only God's Perfect Love gives children what they need to flourish across generations.
 
-**Chapter 16: The Gospel - God's Perfect Love Revealed in Christ** - Shows how Jesus Christ perfectly embodies and fulfills every component of the definition. The Gospel IS God's Perfect Love made flesh.
+**Chapter 16: The Gospel - God's Perfect Love Revealed in Christ** - Jesus Christ perfectly embodies and fulfills every component of the definition: He IS the sacred source (divine nature incarnate), the gift of covenant (New Covenant in His blood), the binding force (reconciling all things), Truth incarnate ("I am the truth"), perfect Justice (giving God and humanity their due), infinite Mercy (forgiving from the Cross), ultimate Sacrifice (supernatural expiation satisfying justice + supernatural oblation offering mercy), and Life-giving Communion (Resurrection creating eternal life)—proving the Gospel IS God's Perfect Love made flesh, not just information about love but love's complete revelation and our participation in divine nature.
 
 **Appendix: Non-Christian Belief Systems and Contemporary Ideologies** - Comprehensive matrix showing how various worldviews relate to truth, justice, mercy, and sacrifice.
 
