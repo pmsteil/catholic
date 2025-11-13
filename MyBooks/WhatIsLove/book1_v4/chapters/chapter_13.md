@@ -24,7 +24,7 @@
 
 In the previous chapter, we saw that **every virtue upholds and flows from the four pillars of perfect love: Truth, Justice, Mercy, and Sacrifice.** Now we examine the opposite reality: **every vice denies or distorts these same four pillars.**
 
-Sin is not merely "breaking rules"—it is fundamentally **a failure to love.** When we sin, we reject one or more aspects of perfect love. We deny truth, violate justice, refuse mercy, or reject sacrifice. The sophistication of sin mirrors the sophistication of love itself.
+Sin is not merely "breaking rules"—it is fundamentally **a failure to love.** When we sin, we're not just violating arbitrary commands; we're acting contrary to our own nature as beings created for love. We're rejecting the law that God has written on our hearts - the law of love - the law of the Gospel. We deny truth, violate justice, refuse mercy, or reject sacrifice. The sophistication of sin mirrors the sophistication of love itself.
 
 Just as love has degrees of perfection (from small acts of kindness to heroic sanctity), **sin has degrees of gravity** (from minor faults to mortal sins that kill our relationship with God). Understanding these degrees is essential for growing in holiness and avoiding the common error that "all sin is the same."
 

@@ -86,6 +86,14 @@ As Scott Hahn teaches, drawing on St. Augustine's insight: "The New Testament is
 
 See the pattern? God initiates. God commits. God remains faithful even when we fail. This is what covenant love looks like—not "I'll love you if you perform," but "I'll love you, period."
 
+### The New Covenant: Law Written on Hearts
+
+Notice what makes the New Covenant different from all previous covenants: "I will put my law within them, and I will write it upon their hearts" (Jeremiah 31:33). This isn't external legislation—it's interior transformation. God doesn't just tell us what to do; He changes who we are.
+
+This is why covenant creates permanent relationship while contracts remain fragile. Contracts depend on external enforcement. But when God's law is written on your heart, you don't follow it out of fear—you follow it because you recognize it as true and freely choose to cooperate with grace. The Holy Spirit transforms you from within, enabling you to freely embrace what God freely offers (CCC 1972).
+
+This is the heart of covenant: God doesn't impose His law from outside. He writes it on our hearts from within, transforming us so that we freely choose to love as He loves.
+
 ## Authority Properly Understood: Invitation vs. Force
 
 Here's where we need to be careful. The word "authority" has been so abused—by tyrants, by abusers, by those who use power to dominate—that many people recoil from it. But this is because we don't understand what a true authority is.

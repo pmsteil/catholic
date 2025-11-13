@@ -22,7 +22,9 @@
 
 ## Introduction: Every Virtue Flows from Perfect Love
 
-This chapter demonstrates a profound truth: **every virtue upholds and flows from the four pillars of perfect love (Truth, Justice, Mercy, and Sacrifice).** This is not coincidental—it reveals that our comprehensive definition of perfect love truly captures the essence of authentic Christian virtue.
+In the previous chapter, we established that love is an objective law requiring a lawgiver—God Himself. Now we see the practical implications: if virtues are habits that align us with God's nature as Love, then **every virtue should uphold and flow from the four pillars of perfect love (Truth, Justice, Mercy, and Sacrifice).**
+
+And that's exactly what we discover. The virtues aren't arbitrary rules imposed from outside—they're the natural expression of God's law written on our hearts. Each virtue flows from and serves these four pillars, showing us how to live according to God's nature as Love.
 
 The matrix below shows which pillar(s) each virtue primarily relates to. A "✓" indicates the virtue primarily upholds that pillar.
 

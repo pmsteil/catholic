@@ -32,6 +32,18 @@ This is crucial: Christ doesn't save us "apart from us"—as if salvation happen
 
 ---
 
+## Christ as the Lawgiver of the New Law
+
+Jesus doesn't just teach us about love—He *is* the Law of the Gospel incarnate. In the Sermon on the Mount (Matthew 5-7), He reveals what this law looks like in human flesh: "You have heard that it was said... But I say to you..." (Matthew 5:21-22, 27-28, 31-32, 33-34, 38-39, 43-44). 
+
+Notice what He's doing. He's not abolishing the Old Law but bringing it to perfection—showing that authentic love requires interior transformation, not just external compliance. The Old Law said "Don't murder." Christ says the law written on your heart goes deeper: "Don't even hate" (Matthew 5:21-22). The Old Law said "Don't commit adultery." Christ says: "Don't even lust" (Matthew 5:27-28).
+
+This is why the Catechism calls it "the grace of the Holy Spirit received by faith in Christ, operating through charity" (CCC 1972). Christ doesn't just give us rules—He gives us His own Spirit to transform us from within.
+
+**How This Combats Evil:** Legalism reduces faith to external rules, but Christ transforms hearts. The false teaching of Antinomianism claims Christians are "free from all law," but Christ gives us the perfect law of love. The false teaching of Relativism denies objective moral truth, but Christ establishes love as objective reality grounded in God's nature—embodied in His own person.
+
+---
+
 ## Christ as the Sacred Source
 
 Jesus reveals that love originates from God and participates in divine nature. "In the beginning was the Word, and the Word was with God, and the Word was God" (John 1:1). Christ's divinity establishes love's sacred origin. He is "the image of the invisible God" (Colossians 1:15), "He reflects the glory of God and bears the very stamp of his nature" (Hebrews 1:3).
