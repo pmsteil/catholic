@@ -34,7 +34,7 @@ This is crucial: Christ doesn't save us "apart from us"—as if salvation happen
 
 ## Christ as the Lawgiver of the New Law
 
-Jesus doesn't just teach us about love—He *is* the Law of the Gospel incarnate. In the Sermon on the Mount (Matthew 5-7), He reveals what this law looks like in human flesh: "You have heard that it was said... But I say to you..." (Matthew 5:21-22, 27-28, 31-32, 33-34, 38-39, 43-44). 
+Jesus doesn't just teach us about love—He *is* the Law of the Gospel incarnate. In the Sermon on the Mount (Matthew 5-7), He reveals what this law looks like in human flesh: "You have heard that it was said... But I say to you..." (Matthew 5:21-22, 27-28, 31-32, 33-34, 38-39, 43-44).
 
 Notice what He's doing. He's not abolishing the Old Law but bringing it to perfection—showing that authentic love requires interior transformation, not just external compliance. The Old Law said "Don't murder." Christ says the law written on your heart goes deeper: "Don't even hate" (Matthew 5:21-22). The Old Law said "Don't commit adultery." Christ says: "Don't even lust" (Matthew 5:27-28).
 
@@ -48,9 +48,11 @@ This is why the Catechism calls it "the grace of the Holy Spirit received by fai
 
 Jesus reveals that love originates from God and participates in divine nature. "In the beginning was the Word, and the Word was with God, and the Word was God" (John 1:1). Christ's divinity establishes love's sacred origin. He is "the image of the invisible God" (Colossians 1:15), "He reflects the glory of God and bears the very stamp of his nature" (Hebrews 1:3).
 
-The Incarnation proves love is not abstract but personal. God doesn't just send love—He BECOMES love incarnate. When Jesus declares "I and the Father are one" (John 10:30), He establishes that authentic love has its source in the divine nature itself.
+The Incarnation proves love is not abstract but personal. God doesn't just send love—He BECOMES love incarnate. This is why, when we recite the Creed and come to the words "and by the Holy Spirit was incarnate of the Virgin Mary, and became man," we bow in profound reverence. We bow because the infinite God—who IS love—humbled Himself to become one of us. The Creator entered His creation. The Eternal entered time. The Almighty became vulnerable.
 
-**How This Combats Evil:** Secularization claims love is merely natural, but Christ proves love has divine source. Dehumanization treats persons as objects, but the Incarnation affirms human dignity—God became human. Meaninglessness claims life has no purpose, but love has eternal, transcendent purpose in Christ.
+This is the heart of the Gospel: God who is Love came all the way down to teach us how to love. He didn't send instructions from heaven. He didn't merely reveal principles. He became flesh and dwelt among us (John 1:14) to show us in His own person what perfect love looks like—how to love God with all truth, justice, and mercy integrated perfectly.
+
+When Jesus declares "I and the Father are one" (John 10:30), He establishes that authentic love has its source in the divine nature itself. The Incarnation is God's ultimate act of justice (giving humanity what we're owed—the truth about love), mercy (condescending to our weakness), and sacrifice (emptying Himself to take human form). Every time we bow at the Creed, we acknowledge this staggering reality: Love Himself walked among us to teach us how to love.
 
 The sacred source means love is not what we decide it is, but what God reveals it to be. We don't invent love; we discover it in the person of Jesus Christ.
 
