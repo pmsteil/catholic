@@ -73,6 +73,10 @@ By contrast, virtues like Chastity primarily relate to truth, justice, and sacri
 
 The pattern reveals: **The more comprehensive and integrative a virtue is, the more it engages all four pillars of perfect love.** This confirms that our definition truly captures the essence of authentic Christian virtue.
 
+<div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
+The more comprehensive and integrative a virtue is, the more it engages all four pillars of perfect love—proving that our definition captures the essence of authentic Christian virtue.
+</div>
+
 ---
 
 ## All Vices: Primary Offense Against Truth, Justice, Mercy, and Sacrifice

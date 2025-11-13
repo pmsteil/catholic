@@ -65,6 +65,10 @@ This is what we're invited into: "That they also may be in us" (John 17:21). Not
 
 Our definition reveals this clearly: "God's Perfect Love is the sacred gift of covenant which binds truth, justice, mercy, and sacrifice into life-giving **communion**." Notice the final word: **communion**. Not virtue for its own sake. Not self-fulfillment. Communion. This is the true end of love—the goal toward which everything else points. Truth, justice, mercy, and sacrifice are essential, but they're the framework through which love flows outward to create communion. You don't become good for your own sake; you become good so that divine life can flow through you to others.
 
+<div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
+Truth, justice, mercy, and sacrifice are the framework through which love flows outward to create communion.
+</div>
+
 
 ## "Be Perfect": What Jesus Really Meant
 
@@ -87,6 +91,10 @@ When Jesus commands us to "be perfect," He's not demanding sinless performance. 
 This same call echoes through the Old Testament. When God commands "Be holy, for I, the LORD your God, am holy" (Leviticus 19:2), He's saying: **"Be wholly Mine, as I am wholly yours. Let your love be complete—true, just, merciful, and self-giving—so that you may live in perfect communion with Me, sharing in My own wholeness."**
 
 Holy = Wholly = Complete = Perfect = Communion with God.
+
+<div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
+When Jesus commands us to 'be perfect,' He's inviting us into wholeness—the communion that makes us fully alive.
+</div>
 
 This is the invitation. This is the call. This is what it means to be fully alive.
 
@@ -174,6 +182,10 @@ This is love at its most life-giving: The Beloved becomes food for the beloved. 
 And this life multiplies: One host can be divided infinitely—every piece is the whole Christ. One Mass can be celebrated everywhere—in cathedrals and prison cells, in hospitals and homes. One Eucharist can feed billions—the bread that never runs out.
 
 **This is the pattern for all love:** Give yourself completely, and life multiplies. Hold back, and life withers.
+
+<div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
+The Eucharist is where God's Perfect Love becomes REAL—body, heart, mind, and soul united with Christ in life-giving communion.
+</div>
 
 "Unless you eat the flesh of the Son of Man and drink his blood, you do not have life within you" (John 6:53). Not metaphorical life. Not spiritual life only. **LIFE**—the fullness of communion with God that makes you fully alive.
 
