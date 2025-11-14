@@ -50,9 +50,9 @@ Before we can understand Christ as Truth Incarnate, we must first recognize the 
 
 **We are created beings, limited in our timeframe and ability.** We experience life, and we die. We did not choose to exist, yet here we are. This points to a Creator.
 
-**We are born either male or female.** This is not assigned or chosen—it's written into every cell of our bodies. Our biological sex is an objective truth about who we are.
+**We are born either male or female.** This is not assigned or chosen—it's written into every cell of our bodies. Our biological sex is an objective truth about who we are. As John Paul II taught in his Theology of the Body, **"The body, and it alone, is capable of making visible what is invisible."** Our maleness or femaleness isn't just about biology—it's about how we image God and relate to others.
 
-**We are born with only half of our reproductive organs.** We are complementary to the opposite sex, designed for union that creates new life. This complementarity is built into our very nature.
+**We are born with only half of our reproductive organs.** We are complementary to the opposite sex, designed for union that creates new life. This complementarity is built into our very nature. John Paul II called this the "nuptial meaning of the body"—our bodies literally speak a language of self-gift and communion. **Man is a unity of body and soul, not a soul trapped in a body.** What our bodies reveal about complementarity isn't oppression—it's the blueprint for how love works.
 
 **We love and need love and need to be loved.** No one has to teach us this. From our first breath, we cry out for love. This universal longing is written on every human heart.
 

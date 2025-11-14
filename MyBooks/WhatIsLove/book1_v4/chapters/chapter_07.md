@@ -92,6 +92,12 @@ In other words, we cannot possibly understand how we are "endowed by our Creator
 
 Justice means honoring this reality. Injustice means denying it—treating people as less than human, violating their dignity, refusing what's owed to them.
 
+And here's something crucial we often miss: **We're not souls using bodies as tools—we're embodied persons.** Pope Saint John Paul II taught that "the body, and it alone, is capable of making visible what is invisible: the spiritual and the divine." This means justice must honor not just the soul but the body's dignity and truth.
+
+Think about what this means practically: When our culture denies biological sex and insists men can become women, it's not just wrong—it's unjust to the body itself. When we separate sexuality from procreation through contraception, we violate the body's language of self-gift. When we treat bodies as commodities through pornography, prostitution, or surrogacy, we commit injustice against the person the body reveals.
+
+To dishonor the body is to dishonor the person. To lie about what the body reveals is to commit injustice against reality itself. True justice recognizes that our bodies matter—they're not accidents of biology but essential to who we are as image-bearers of God.
+
 ## How Justice Serves Love
 
 Justice isn't opposed to love—it's love's foundation. Justice provides objective standards that ground love in reality. Justice protects the vulnerable by giving love the power to say "This is wrong" objectively. Justice creates the stability that allows love to endure. Justice enables the trust that makes relationship possible. Justice prepares for mercy—you can only transcend justice with mercy if there's justice to transcend.

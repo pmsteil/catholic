@@ -64,6 +64,10 @@ But covenant says: "I'm yours. Period. Not because you're perfect. Not because y
 
 This isn't oppression. This is freedom—the freedom that comes from knowing someone is committed to you regardless of your performance, your appearance, your success, or your failures.
 
+But what IS freedom, really? Our culture has it backwards.
+
+Pope Saint John Paul II taught that **"freedom exists for love, not for autonomy."** This is revolutionary. Our culture says freedom means "no commitments, no obligations, no one telling me what to do." But that's not freedom—that's isolation. True freedom is the capacity to make a total gift of yourself to another. As Pope Saint John Paul II wrote, "Man cannot fully find himself except through a sincere gift of himself." Covenant doesn't restrict freedom—it fulfills it. When you freely choose to bind yourself permanently to another in love, you're exercising the highest form of freedom: the freedom to love as God loves.
+
 ## The Biblical Pattern: God's Covenant Love
 
 God doesn't relate to us through contracts. He relates through covenant. And every covenant in Scripture reveals something essential about love's nature.
@@ -150,6 +154,8 @@ Marriage is the fundamental human covenant—the clearest image we have of how c
 
 Notice what's missing: Escape clauses. Performance requirements. Conditions based on feelings. Why? Because covenant creates the security that allows love to flourish. When you know your spouse is committed regardless of your performance, you're free to be vulnerable, to grow, to fail and try again.
 
+This is where Pope Saint John Paul II's teaching becomes concrete: "I take you" means "I give myself to you completely." The wedding vows are the moment when two people exercise the highest form of freedom—freely choosing to make a total, permanent gift of themselves to another. This is how "man cannot fully find himself except through a sincere gift of himself." In giving yourself away in covenant, you don't lose yourself—you become fully yourself. Marriage is where self-gift becomes life-giving.
+
 **The Sacrament of Marriage** makes this even more profound. In Catholic teaching, marriage isn't just a human agreement—it's a participation in Christ's covenant with the Church. The husband and wife become living icons of Christ's sacrificial, permanent, faithful love for His bride. The marriage covenant is a direct mirror of our covenant with God—we submit our lives to our spouse and children as we submit to Him. Marriage most fully fulfills our covenant with God in the domestic church.
 
 This is why the Church insists marriage is indissoluble. You can't dissolve God's covenant with His people. You can't dissolve Christ's union with the Church. And you can't dissolve a valid marriage, because it participates in that same divine reality.
@@ -210,6 +216,6 @@ Without this binding force, we'd have isolated virtues that could conflict with 
 - **CCC 1262-1274:** Baptism as covenant entrance into God's family
 
 ### Christian Thinkers
-- **St. John Paul II (1920-2005):** His Theology of the Body explains marriage as covenant imaging the Trinity; his teaching on the "language of the body" shows how covenant love is written into our very nature
+- **Pope Saint John Paul II (1920-2005):** His Theology of the Body explains marriage as covenant imaging the Trinity; his teaching on the "language of the body" shows how covenant love is written into our very nature
 - **Pope Benedict XVI (1927-2022):** His encyclical *Deus Caritas Est* explores how covenant love (agape) transforms and perfects human love (eros)
 - **Scott Hahn (1957-present):** Protestant convert and biblical scholar whose work on covenant theology shows how the entire Bible is structured around God's covenant relationships with His people
