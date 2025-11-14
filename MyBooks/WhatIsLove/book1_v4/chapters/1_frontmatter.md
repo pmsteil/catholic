@@ -2,7 +2,7 @@
 
 ### Copyright and Permissions
 
-Copyright © 2025 by Patrick Michael Steil
+Copyright © 2026 by Patrick Michael Steil
 
 This work is licensed under the **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License** (CC BY-NC-ND 4.0).
 
@@ -55,7 +55,7 @@ Quotations from papal encyclicals, apostolic exhortations, and other magisterial
 
 ISBN: [To be assigned]
 
-First Edition: 2025
+First Edition 2026
 
 Printed in the United States of America
 

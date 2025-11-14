@@ -1,6 +1,6 @@
 # Introduction
 
-Our world feels like it's coming apart at the seams, doesn't it? We hear constant cries for justice, for equity, for inclusion, for a solution to income inequality. People are desperately searching for something, often calling it "love," but like the 1980 Johnny Lee song says, they're often "looking for love in all the wrong places." It's a deep ache in the heart of humanity, a longing for connection, meaning, purpose, and peace that seems increasingly elusive.
+Our world feels like it's coming apart at the seams, doesn't it? We hear constant cries for justice, for equity, for inclusion, for "transgender rights", for "reproductive rights". People are desperately searching for something, often calling it "love," but like the 1980 Johnny Lee song says, they're often "looking for love in all the wrong places." It's a deep ache in the heart of humanity, a longing for connection, meaning, purpose, and peace that seems increasingly elusive.
 
 I wrote this book because after walking with the Lord for over 35 years and deeply contemplating what "God is Love" truly means, I've observed the seismic shifts in our culture and become absolutely convinced of one thing: the chaos we see—the lies, the partiality and cruelty, the indifference, the breakdown of social cohesion and the family, the deep wounds both today and throughout history—all of it boils down to a failure to understand the most fundamentally human question that lies at the very heart of who we are as persons created in God's image:
 
@@ -16,17 +16,15 @@ One night at Youth Group I asked the group this piercing question: "Can we know 
 
 I was SHOCKED to the core. This is not the language of the Church. This is not language we had ever used in the three years with them in Youth Group. I had been preaching "love" to them (a very superficial love without any detailed definition). Keep in mind, these were good and faithful youth who would say they loved Jesus, loved their parents, loved each other.
 
-But what they showed me was that society had become a much more powerful teacher, and its message was relativism. They were showing me the fruits of the "post-modernist" worldview that had successfully taught them that "there is no objective truth." It's a worldview that has been so successful that it has become the default for most people. This is the worldview they swim in at public schools, in the media, in pop culture, and it had soaked in!
+But what they showed me was that society had become a much more powerful teacher, and its message was relativism. They were showing me the fruits of the "post-modernist" worldview that had successfully taught them that "there is no objective truth." It's a worldview that has been so successful that it has become the default for our children. This is the worldview they swim in at public schools, in the media, in pop culture, and it had soaked in!
 
 That's when I realized: **We are failing our children.** Not just as individual parents or teachers, but as a Church, as a society, as a civilization. Something had to be done.
 
-Within six months, everything came to a head. Lies about human sexuality within the Methodist Church. Lies about "gender identity" being fed to our young people. The "Black Lives Matter" movement claiming to fight for "racial justice" while promoting more racism, violence, and even attacking the nuclear family. I was at a crossroads.
+Within six months, everything came to a head for me. Lies about human sexuality within the Methodist Church. Lies about "gender identity" being fed to our young people. The "Black Lives Matter" movement claiming to fight for "racial justice" while promoting more racism, violence, and even attacking the nuclear family. The lies were pushing me to look for truth.
 
-I noticed something profound: sincere, well-meaning Christians on both sides were using the Bible to defend completely opposite positions. But what is God's plan for human sexuality? What is the truth about gender identity? What does God say about the family? Both sides claimed biblical support, but they couldn't both be right. No one was concerned with "THE TRUTH"—only "what they wanted to be true."
+I noticed something profound: sincere, well-meaning Methodists on both sides were using the Bible to defend completely opposite positions. But what is God's plan for human sexuality? What does God say about the family? Both sides claimed biblical support, but they couldn't both be right. Those fighting against traditional Christian morality claimed they were concerned with how to love like Jesus loved.
 
-How could this be? What was missing? (We'll explore this crucial question in Chapter 6: Truth.)
-
-I was a Methodist for 20 years, and I loved being Methodist. But that was the day I knew I could no longer be Methodist or even Protestant.  So many interpretations of the Bible.  So much confusion. What was I as a Youth Pastor to teach the children?  I began my quest to find what is TRUE about God's Love.
+But this made me wrestle with the question: **What is Love?** Is there any way to know how to Love as Jesus loved?
 
 Two things I had always known were true.
 
@@ -66,11 +64,7 @@ And so I knew I had to go even deeper than I ever had before.
 
 As I rediscovered the Catholic Church of my youth, I found something extraordinary: Jesus had built a Church that he promised would be guided by the Holy Spirit into all the truth (John 16:13b). And Paul tells us that the Church is the pillar and foundation of truth (1 Timothy 3:15).
 
-And so now, as I have been allowing the historic Christian Church that traces its teaching all the way back to Jesus to pour into me all of the **truth it has discovered**—truth that **should be received** with humility and gratitude—I just had to write this book.
-
-This journey has been shaped by many faithful witnesses. My grandparents Daddy Bob and Mamalou, showed me the joys of living the Catholic faith and gave me the desire to have a large family and be a Father. My dad taught me what it means to be a father and husband who was faithful to God first—a living example of covenant love. My wife of now 34 years who not only has been my constant support, but who has gave me the desire to seek what is Holy for our covenental marriage. My six sons inspired me to continue seeking God's wisdom so that I could give them good counsel for their own lives.  And Catholic Answers taught me to defend the faith with clarity and conviction, equipping me to articulate these truths to others.
-
-And so my goal is to make the teachings of God's Love as thorough and cohesive and accessible as possible because it is the children who suffer the most when we fail to teach them the complete truth about God's Love.
+And so now, as I have been studying the historic Christian Church that traces its teaching all the way back to Jesus—a Church that has spent 2,000 years faithfully developing and clarifying its understanding of God's love through the guidance of the Holy Spirit—it has become clear to me how we can truly know how Jesus loved. With this clarity, I just had to write this book.
 
 **This book is for the children.** For the teenagers I worked with who will end up married and divorced with court battles over child custody dominating their lives. For the young women who believe the lie of "my choice"—a lie that leads to the killing of their own children through abortion. For those who believe the lie of "my gender"—a lie that leads to the mutilation of their own bodies and possibly sterilization through so-called "gender-affirming care." For the young men who are not taught the challenge and honor of masculinity and the sacrifice of the marriage covenant but instead are taught to be "gender fluid" and "genderqueer."
 
