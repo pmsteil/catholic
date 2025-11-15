@@ -160,9 +160,69 @@ This is where Pope Saint John Paul II's teaching becomes concrete: "I take you" 
 
 This is why the Church insists marriage is indissoluble. You can't dissolve God's covenant with His people. You can't dissolve Christ's union with the Church. And you can't dissolve a valid marriage, because it participates in that same divine reality.
 
+### Marriage: The Sacred Gift We Need, Not Just Choose
+
+Here's what our culture has forgotten: **Marriage isn't just something we choose because it's quaint or traditional. It's something we need because it gives both men and women the sacred gift they require to fulfill the law written on their hearts.**
+
+<div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
+Marriage isn't a lifestyle choice among many options. It's the sacred gift that enables men and women to fulfill the law written on their hearts—to live out truth, justice, and mercy in complementary union ordered toward children. This pattern is universal across cultures because it's written into human nature itself.
+</div>
+
+Think about it: Jesus came to fulfill the Law (Matthew 5:17). And we're called to imitate Him—to fulfill the truth of who we are as image-bearers of God. But how? Marriage is the primary way most people fulfill this calling.
+
+**For Men and Women Together:**
+
+Marriage enables us to fulfill **truth**—the truth of who we are as complementary beings created to unite and bear children. A man alone cannot fulfill his nature. A woman alone cannot fulfill her nature. We're designed for union, for fruitfulness, for the complete gift of self that creates new life.
+
+Marriage enables us to fulfill **justice**—giving each person what they're owed according to their dignity and nature. The husband is called to protect and provide, to give his wife the security and honor she deserves. The wife is called to nurture and care for him and their children, to create the home where love can flourish. This isn't oppression—it's the mutual gift of what each needs to thrive.
+
+Marriage enables us to fulfill **mercy**—teaching children how to love by modeling forgiveness, patience, and compassion. Parents don't just tell children about mercy—they show it daily in how they treat each other and their children. The family becomes the first school of love.
+
+**This Pattern is Universal, Not Culturally Constructed:**
+
+Notice something crucial: We see this pattern across cultures, throughout history, in every civilization. The husband-father who protects and provides. The wife-mother who nurtures and cares. Children raised by both, learning love from their complementary gifts.
+
+This isn't a "social construct" that we can redesign at will. It's a basic truth of human nature—written into our bodies, our psychology, our deepest longings. **Marriage between man and woman, ordered toward children, is what most fully fulfills both our desire to love and our desire to be loved.**
+
+When a man gives himself completely to his wife and children—protecting, providing, sacrificing—he becomes more fully himself. He's not losing his freedom; he's exercising it in the highest way possible.
+
+When a woman gives herself completely to her husband and children—nurturing, caring, creating the home—she becomes more fully herself. She's not being oppressed; she's fulfilling the deepest calling written on her heart.
+
+And when children are raised by both mother and father, receiving the complementary gifts each provides, they learn what authentic love looks like. They see justice and mercy working together. They experience truth embodied in covenant. They're prepared to give themselves in love when their time comes.
+
+**This is why attacks on marriage are so devastating.** When we tell people marriage is optional, that any arrangement is equally valid, that children don't need both mother and father—we're not liberating them. We're robbing them of the primary means by which human beings fulfill the law written on their hearts.
+
+The crisis of our time isn't that marriage has become unpopular. It's that we've forgotten why we need it. We've reduced it to a lifestyle preference when it's actually the fundamental human covenant that enables us to become who we're meant to be—image-bearers of God who love as He loves, creating life and nurturing it toward communion with Him.
+
+**This is the book's comprehensive definition made concrete:** Marriage is the sacred, sacrificial gift of covenant which binds truth, justice, and mercy into life-giving communion. In marriage, we see perfect love embodied in the most fundamental human relationship. This is why covenant love—especially in marriage—is such a powerful weapon against evil.
+
+### "But I'm Not Ready": Addressing the Fear
+
+"I'm not ready for marriage yet. I need to focus on my career. I want to travel. I need to find myself first. What if I choose the wrong person?"
+
+These fears are real. But here's what our culture doesn't tell you: **You're waiting for a readiness that will never come if you're pursuing it alone.**
+
+When will you be "ready"? When you have enough money? There's never enough. When you've traveled enough? There's always one more place. When you've "found yourself"? Pope Saint John Paul II already gave us the answer: "Man cannot fully find himself except through a sincere gift of himself." You don't find yourself by looking inward—you find yourself by giving yourself away.
+
+**The culture's vicious cycle:** Wait until you're ready → Stay self-focused → Never develop capacity for self-gift → Feel even less ready → Wait longer → Lose the capacity for covenant entirely.
+
+**The truth covenant reveals:** Marriage doesn't require perfection—it requires willingness. The covenant itself forms you. The daily choice to love when it's hard, to sacrifice when you're exhausted, to remain faithful when you're tempted—this is what makes you "ready." You don't get ready for marriage and then enter it. You enter marriage and it makes you ready for life.
+
+**What about choosing the wrong person?** This fear reveals the contractual mindset: "I need to find the perfect person who meets all my needs, because if they don't, I'm stuck." But covenant thinking asks: "Is this person committed to holiness? Do we share faith and values? Are we both willing to sacrifice for each other and for children? Can we help each other get to heaven?"
+
+If yes, you don't need "the one perfect soulmate." **You need to become one** through covenant. The marriage itself—the daily choice to love sacrificially—creates the unity you're seeking. You're not looking for someone who completes you; you're looking for someone you can give yourself to completely.
+
+**The beautiful paradox:** The "readiness" you're waiting for only comes through the commitment you're avoiding. You become capable of covenant love by living it. Marriage forms you. Children teach you sacrifice. The doing creates the readiness.
+
+**The call is clear:** If you've found someone who shares your faith, wants to grow in holiness, and is willing to make the total gift of self—don't wait for mythical "perfect timing." The readiness comes through the doing.
+
+Marriage isn't the end of your life—it's the beginning of your real life. Where you stop living for yourself and start living for love. Where you become fully human by becoming fully gift.
+
+**And here's the ultimate truth:** When you enter marriage and raise children in covenant love, you're raising up the next generation who will fight evil by doing good. Your children, formed in a home where they see truth, justice, and mercy embodied daily, will become the saints the world desperately needs. Your covenant love doesn't just save you—it saves society.
+
 ## How Covenant Combats Evil
 
-Understanding love as covenant directly combats specific forms of evil:
+When we understand covenant love—especially as embodied in marriage—we see how it directly combats the specific evils destroying our culture:
 
 **Against Disposability:** Our culture treats everything—including people—as disposable. Don't like your spouse? Get a new one. Kids too difficult? Abandon them. Parents too burdensome? Put them in a home and forget them. Covenant says: People aren't products. Relationships aren't transactions. Love creates bonds that endure.
 
@@ -176,7 +236,17 @@ Understanding love as covenant directly combats specific forms of evil:
 
 ## Covenant in All of Life
 
-Marriage is the paradigm, but covenant love extends to all relationships: Baptism creates a permanent covenant bond with God and the Church. Parent-child relationships are covenantal—the bond endures regardless of performance. The Church is a covenant community where we're bound together as the Body of Christ. Even friendship at its deepest level is covenantal: "A friend loves at all times, and a brother is born for adversity." (Proverbs 17:17)
+Marriage reveals the pattern of covenant love that extends to all our relationships. Because we understand how marriage works—permanent, unconditional, self-giving—we can recognize covenant love in other forms:
+
+**Baptism** creates a permanent covenant bond with God and the Church—just as marriage creates permanent family bonds.
+
+**Parent-child relationships** are covenantal—the bond endures regardless of performance, just as spouses remain committed through better and worse.
+
+**The Church** is a covenant community where we're bound together as the Body of Christ—a family of families united in permanent love.
+
+**Even friendship** at its deepest level is covenantal: "A friend loves at all times, and a brother is born for adversity" (Proverbs 17:17)—reflecting the same permanence and faithfulness we see in marriage.
+
+Marriage doesn't just participate in these other covenants—it teaches us what covenant love looks like so we can recognize and live it in every relationship.
 
 ### How Covenant Forms Our Souls
 

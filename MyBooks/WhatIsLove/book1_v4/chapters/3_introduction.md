@@ -2,7 +2,7 @@
 
 Our world feels like it's coming apart at the seams, doesn't it? We hear constant cries for justice, for equity, for inclusion, for "transgender rights", for "reproductive rights". People are desperately searching for something, often calling it "love," but like the 1980 Johnny Lee song says, they're often "looking for love in all the wrong places." It's a deep ache in the heart of humanity, a longing for connection, meaning, purpose, and peace that seems increasingly elusive.
 
-I wrote this book because after walking with the Lord for over 35 years and deeply contemplating what "God is Love" truly means, I've observed the seismic shifts in our culture and become absolutely convinced of one thing: the chaos we see—the lies, the partiality and cruelty, the indifference, the breakdown of social cohesion and the family, the deep wounds both today and throughout history—all of it boils down to a failure to understand the most fundamentally human question that lies at the very heart of who we are as persons created in God's image:
+I wrote this book because after walking with the Lord for over 35 years and deeply contemplating what "God is Love" truly means, I've observed the seismic shifts in our culture and become absolutely convinced of one thing: the chaos we see—the lies, the partiality and cruelty, the indifference, the breakdown of social cohesion and the family—all of it boils down to a failure to understand the most fundamentally human question that lies at the very heart of who we are as persons created in God's image:
 
 **What is Love?**
 
@@ -14,13 +14,15 @@ Years ago, before my reversion to the Catholic Church, when I was serving as a y
 
 One night at Youth Group I asked the group this piercing question: "Can we know absolutely for sure whether something is objectively good or evil?" Of the 15 or so youth that were there, only one raised their hand to say "yes," one timidly thought "maybe," and the rest said "no."  They told me that it was dependent on the person's viewpoint—of what "their truth" was.
 
-I was SHOCKED to the core. This is not the language of the Church. This is not language we had ever used in the three years with them in Youth Group. I had been preaching "love" to them (a very superficial love without any detailed definition). Keep in mind, these were good and faithful youth who would say they loved Jesus, loved their parents, loved each other.
+I was SHOCKED to the core. This is not the language of the Church. This is not language we had ever used in the three years with them in Youth Group. I had been preaching "love" to them (a very superficial love without any detailed definition). Keep in mind, these were good and faithful youth who loved Jesus.
 
-But what they showed me was that society had become a much more powerful teacher, and its message was relativism. They were showing me the fruits of the "post-modernist" worldview that had successfully taught them that "there is no objective truth." It's a worldview that has been so successful that it has become the default for our children. This is the worldview they swim in at public schools, in the media, in pop culture, and it had soaked in!
+But what they showed me was that society had become a much more powerful teacher, and its message was relativism. They were showing me the fruits of the "post-modernist" worldview that had successfully convinced them that "there is no objective truth." This is the worldview they swim in at public schools, in the media, in pop culture, and it had soaked in!
 
-That's when I realized: **We are failing our children.** Not just as individual parents or teachers, but as a Church, as a society, as a civilization. Something had to be done.
+And my only answer at that time was, no, we get our truth from the Bible. I felt this was an incomplete answer, but didn't know why.
 
-Within six months, everything came to a head for me. Lies about human sexuality within the Methodist Church. Lies about "gender identity" being fed to our young people. The "Black Lives Matter" movement claiming to fight for "racial justice" while promoting more racism, violence, and even attacking the nuclear family. The lies were pushing me to look for truth.
+That's when I realized: **We are failing our children.** Not just as individual parents or teachers, but as a Church, as a society, as a civilization.
+
+Over the next few months, everything came to a head for me. Lies about human sexuality within the Methodist Church. Lies about "gender identity" being fed to our young people. The "Black Lives Matter" movement claiming to fight for "racial justice" while promoting more racism, violence, and even attacking the nuclear family. The lies were pushing me to look for truth.
 
 I noticed something profound: sincere, well-meaning Methodists on both sides were using the Bible to defend completely opposite positions. But what is God's plan for human sexuality? What does God say about the family? Both sides claimed biblical support, but they couldn't both be right. Those fighting against traditional Christian morality claimed they were concerned with how to love like Jesus loved.
 
@@ -58,7 +60,7 @@ And then in verse 40 he says:
 \hfill\small — Matthew 22:40
 </div>
 
-If all the law and the prophets depend on these two commandments to love, then we cannot truly understand the Sacred Scriptures without understanding what Love is!
+If all the law and the prophets depend on these two commandments to love, then, as I have come to realize, we cannot truly understand the Sacred Scriptures without understanding what God is Love means!
 
 And so I knew I had to go even deeper than I ever had before.
 
@@ -66,7 +68,7 @@ As I rediscovered the Catholic Church of my youth, I found something extraordina
 
 And so now, as I have been studying the historic Christian Church that traces its teaching all the way back to Jesus—a Church that has spent 2,000 years faithfully developing and clarifying its understanding of God's love through the guidance of the Holy Spirit—it has become clear to me how we can truly know how Jesus loved. With this clarity, I just had to write this book.
 
-**This book is for the children.** For the teenagers I worked with who will end up married and divorced with court battles over child custody dominating their lives. For the young women who believe the lie of "my choice"—a lie that leads to the killing of their own children through abortion. For those who believe the lie of "my gender"—a lie that leads to the mutilation of their own bodies and possibly sterilization through so-called "gender-affirming care." For the young men who are not taught the challenge and honor of masculinity and the sacrifice of the marriage covenant but instead are taught to be "gender fluid" and "genderqueer."
+**So, this book is for the children.** For the teenagers I worked with who will spend their adult lives navigating divorce and custody battles instead of building stable families. For the young women who believe the lie of "my choice"—a lie that leads them to kill their own children through abortion. For those who believe the lie that they can choose their gender—a lie that leads to the mutilation of their bodies and possibly permanent sterilization through so-called "gender-affirming care." For the young men who are taught to be "gender fluid" and "genderqueer" instead of learning the challenge and honor of authentic masculinity. For the young men who are never taught the truth and justice of the marriage covenant—that they are called to be protectors and providers of their families—and who instead avoid marriage altogether out of fear of divorce.
 
 And for the thousands who take to the streets protesting injustice—their passion is real, their hearts are sincere—but without understanding the fullness of what justice truly is, they end up fighting for counterfeits that lead our society down destructive paths. They march for "equity" that denies human dignity. They demand "tolerance" that silences truth. They champion "compassion" that enables evil. All because no one taught them what authentic justice, rooted in authentic love, actually looks like.
 
