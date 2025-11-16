@@ -20,7 +20,7 @@ Look around. What do you see?
 
 A young woman casually aborts her third child—not because of poverty or health crisis, but because she's "not ready yet." Abortion has become contraception, marketed as "reproductive healthcare" while ending the life of over an estimated 600,000 to 900,000 innocent babies each year in America alone. Our government funds it. Our politicians defend it as a "human right." Our media celebrates it. Our culture calls it "empowerment."
 
-A thirteen-year-old girl is told by her school counselor that she might really be a boy—and her parents aren't allowed to know. A father watches helplessly as family court grants permission for his daughter's double mastectomy. Children are being taught to hate their bodies, mutilated in the name of "gender-affirming care," while parents who object are told their child will commit suicide if they don't comply—and threatened with losing custody if they resist. The state claims ownership of our children's very identity.
+A thirteen-year-old girl is told by her school counselor that she might really be a boy—and her parents aren't allowed to know. A father watches helplessly as family court grants permission for his daughter's double mastectomy. Children are being taught to hate their bodies, mutilated in the name of "gender-affirming care," while parents who object are told their child will commit suicide if they don't comply—and threatened with losing custody if they resist. The state claims authority over the family and even over reality itself without backing its judgments with the truth of human beings as God created them.
 
 A grandmother turns on the news and can't tell truth from propaganda anymore. Media outlets that once reported facts now function as partisan weapons, lying with impunity to advance political agendas. Big Tech censors doctors, silences parents, and bans anyone who questions the approved narrative. Meanwhile, political opponents aren't just wrong—they're "Nazis," "fascists," "threats to democracy" who must be silenced, cancelled, destroyed.
 
@@ -31,7 +31,7 @@ Children are shot during Mass at a Catholic church. Christians are the most pers
 These aren't statistics. They're souls crying out in a darkness they can't name. Truth itself has become negotiable—a matter of personal preference rather than objective reality. And into this chaos, the world offers a thousand counterfeits of love, each one leading further into the abyss.
 
 <div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
-The rampant evil in our world forces us to confront the most fundamental question: What has gone so terribly wrong with humanity?
+The rampant evil in our world forces us to ask "What has gone so terribly wrong with humanity"?
 </div>
 
 ## The Crisis That Forces the Question
@@ -40,7 +40,7 @@ But here's what the enemy didn't anticipate: The lies have become so extreme, so
 
 Maybe that's you. Maybe the contradictions finally became too glaring to ignore. Maybe you watched your church close while liquor stores stayed open during COVID and thought, "Something's wrong here." Maybe you saw the government mandate vaccines for children who weren't vulnerable. Maybe you watched your own church be split apart over issues of human sexuality. Maybe you saw a man win "Woman of the Year" and realized we've lost our minds. Maybe you watched your community crumble under policies that promised compassion but delivered destruction.
 
-Maybe you're reading this book because you're searching for answers—real answers, not the comfortable lies our culture keeps selling. Maybe you are searching for truth grounded in reality.
+Maybe you're reading this book because you're searching for answers—real answers, not the comfortable lies our culture keeps selling. They're searching for the truth—the complete truth. The Christian revival that we are seeing in America gives us hope for the world.
 
 Here's the truth that's becoming undeniable: **We have completely disconnected our society from the source of all truth—God Himself.** Without this foundation, we have no objective standard for truth, no basis for morality, no ground for human dignity. You can believe all the right doctrines, attend church every Sunday, and still watch civilization collapse around you if that belief doesn't translate into how we actually live.
 
@@ -52,7 +52,7 @@ But the wreckage is waking people up. They're realizing that something essential
 
 When we abandon God's laws, the wreckage is immediate and undeniable. Broken families. Confused children. Despair wearing the mask of freedom. Death disguised as compassion—and now we understand how profoundly true it is that "the wages of sin is death" (Romans 6:23). We don't just lose our way—we lose the very foundation of what makes us human and any semblance of a moral compass.
 
-This isn't new. Every generation faces this same ancient battle between light and darkness, love and selfishness, truth and lies. What we're witnessing today is simply the latest verse in humanity's oldest song—the cry of hearts that have forgotten how to love. The difference in this generation is that bad ideas travel faster than ever before. But the good news is that truth also has the same opportunity.
+This isn't new. Every generation faces this same ancient battle between light and darkness, love and selfishness, truth and lies. What we're witnessing today is simply the latest verse in humanity's oldest song—the cry of hearts that have forgotten how to love. The difference in this generation is that social media accelerates both the spread of lies and the discovery of truth.
 
 ## The Natural Law Written on Every Heart
 
