@@ -66,6 +66,8 @@ But why must this be true? Why can't love just be a human invention or evolution
 
 This is why Scripture's declaration "God is love" isn't just poetic language or religious sentiment. It's revealing the deepest truth about the nature of reality itself. Love isn't something God does—it's who God is. And because God is the Creator of all that exists, love is woven into the very fabric of creation.
 
+**This is what the Church means when it teaches that God is the *summum bonum*—the highest good.** In Chapter 2, we saw how philosophers from Plato to Aristotle searched for this ultimate reality, and how St. Thomas Aquinas demonstrated what reason discovers and revelation confirms: only union with God—who IS love—can satisfy the human heart completely. Every other good (pleasure, wealth, power, honor) fails to fulfill us because they're finite goods. But God, who is infinite Love, is the only good that can satisfy our infinite longing. When we participate in authentic love, we're not just doing something good—we're participating in the highest Good Himself, touching the very source of all goodness and being.
+
 
 ## The Trinity: Love's Eternal Pattern
 

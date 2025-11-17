@@ -65,8 +65,10 @@ This is what we're invited into: "That they also may be in us" (John 17:21). Not
 
 Our definition reveals this clearly: "God's Perfect Love is the sacred gift of covenant which binds truth, justice, mercy, and sacrifice into life-giving **communion**." Notice the final word: **communion**. Not virtue for its own sake. Not self-fulfillment. Communion. This is the true end of love—the goal toward which everything else points. Truth, justice, mercy, and sacrifice are essential, but they're the framework through which love flows outward to create communion. You don't become good for your own sake; you become good so that divine life can flow through you to others.
 
+**This communion is the *summum bonum*—the highest good—we explored in Chapters 2 and 3.** This is what Aquinas meant by beatitude, what Augustine meant when he said our hearts are restless until they rest in God. Jesus prayed "that they may all be one; even as thou, Father, art in me, and I in thee, that they also may be in us" (John 17:21)—He's inviting us into the very communion of the Trinity, into the highest good itself. Everything in the Christian life—every virtue, every Mass, every sacrament, every act of love—points toward this ultimate end: life-giving communion with God and, through Him, with one another.
+
 <div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
-Truth, justice, mercy, and sacrifice are the framework through which love flows outward to create communion.
+God's Perfect Love is the framework through which truth, justice, mercy, and sacrifice flow outward to create communion.
 </div>
 
 
