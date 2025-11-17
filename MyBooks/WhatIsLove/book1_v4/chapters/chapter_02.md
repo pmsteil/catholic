@@ -34,13 +34,19 @@ Let's think carefully about what any solution to evil would need to accomplish. 
 
 For any solution to be adequate, it must address all three levels. A solution that only fixes individual hearts but leaves relationships broken is incomplete. A solution that only reforms social structures but doesn't transform hearts will collapse when the next generation takes power. A solution that only heals relationships but doesn't address personal sin or social injustice is a band-aid on a hemorrhage.
 
+But there's an even deeper problem: if a solution can't overcome the destruction and darkness that evil leads to—the spiritual death, ultimate despair, and meaninglessness that are evil's final destination—then it only postpones defeat. And if it can't ground itself in objective truth, we won't even be able to identify what's good versus what's evil.
+
 **So what would an adequate solution require?**
 
-1. **Power to transform the human heart** from selfishness to choosing the good of others
-2. **Capacity to heal and restore broken relationships** between persons
-3. **Ability to create just social structures** that serve the common good
-4. **Sustainability across time, cultures, and circumstances**—not just a temporary fix
-5. **Comprehensiveness** that addresses the root cause, not just symptoms
+1. **Power to transform the human heart** from selfishness to something else—because personal evil begins in the individual will.
+
+2. **Capacity to heal and restore broken relationships**—because relational evil shatters the bonds between persons.
+
+3. **Ability to create just social structures** that honor human dignity—because social evil systematizes injustice and multiplies suffering across generations.
+
+4. **Power to overcome the destruction and darkness evil leads to**—the spiritual death, ultimate despair, and meaninglessness that rob life of purpose and hope, making all other victories temporary.
+
+5. **Foundation in objective truth**—because without truth, we cannot even identify what the problem is, let alone solve it.
 
 Now here's the crucial question: What reality in human experience meets all five criteria?
 
@@ -50,23 +56,23 @@ Look at human experience across every culture, every era, every philosophy. Ask 
 
 The answer is always the same: **Love.**
 
-Not wealth. Not power. Not pleasure. Not even happiness in the abstract. When pressed, every human being points to love: love of family, love of friends, love of beauty, love of truth, love of something or someone beyond ourselves. We all know, deep in our bones, that love is what we're made for.
+Not wealth. Not power. Not pleasure. Not even fame—the four false gods that St. Thomas Aquinas warned lead us away from true happiness. When pressed, every human being points to love: love of family, love of friends, love of beauty, love of truth, love of something or someone beyond ourselves. We all know, deep in our bones, that love is what we're made for.
 
-This isn't religious sentiment—it's observable human reality. The hardened atheist and the devout saint agree on this one point: love is the highest human good.
+From the devout saint to the secular mind—from Aristotle to the Stoics to Confucius and the Buddha—love in some form is often seen as the highest good. And even the hardened atheist who rejects this will find that God's Perfect Love exposes the failure of every alternative. (We'll address the specific failures of atheist frameworks in Chapter 14.)
 
-Now, if evil is fundamentally the absence or rejection of good, and love is the highest good that all humans recognize, then **love must be evil's opposite and cure.** This is simple logic, not theological assertion.
+And if evil is, at its core, the absence or rejection of the good, then the highest good—love—must be evil's true opposite and its only cure. This follows not from doctrine but from the very logic of privation: where love is lacking, evil takes root; where love is given, evil is undone. Whether one approaches this from metaphysics, moral philosophy, or simple human experience, the conclusion is the same—love alone restores what evil destroys.
 
 But does love meet our five criteria for an adequate solution?
 
-**1. Does love transform the human heart?** Yes. Love—authentic love—requires us to choose another's good over our own preferences. It trains the heart away from selfishness toward self-gift. Every act of genuine love makes us less selfish and more capable of choosing good.
+**1. Does love transform the human heart?** Yes. Love—authentic love—requires us to choose another's good over our own preferences. It trains the heart away from selfishness toward self-gift. Every act of genuine love makes us less selfish and more capable of choosing good. In the chapters ahead, we'll see how truth, justice, mercy, and sacrifice work together to reshape our deepest desires and conform us to Christ.
 
-**2. Does love heal broken relationships?** Obviously. Love is what creates and restores relationship. Forgiveness is love. Reconciliation is love. Trust rebuilt is love in action.
+**2. Does love heal broken relationships?** Obviously. Love is what creates and restores relationship. Forgiveness is love. Reconciliation is love. Trust rebuilt is love in action. We'll explore how covenant love creates permanent bonds that endure through difficulty, and how mercy offers the second chances that broken relationships desperately need.
 
-**3. Does love create just social structures?** Yes. A society built on authentic love—where each person's dignity is honored, where justice is pursued, where mercy tempers judgment—is a just society. Conversely, every unjust society is one where love has been replaced by exploitation, domination, or indifference.
+**3. Does love create just social structures?** Yes. A society built on authentic love—where each person's dignity is honored, where justice is pursued, where mercy tempers judgment—is a just society. Conversely, every unjust society is one where love has been replaced by exploitation, domination, or indifference. The coming chapters will show how justice grounded in truth creates the objective standards necessary for authentic community.
 
-**4. Is love sustainable across time and cultures?** Yes. Love is the one universal that transcends every boundary. Every culture honors love, even when they disagree about its proper expression.
+**4. Does love overcome the destruction and darkness evil leads to?** Yes. When evil reaches its extreme—isolation, despair, meaninglessness—we've all felt this shadow. Love addresses this deepest terror by offering connection that endures, purpose that cannot be taken away, and hope grounded in something unshakeable. Even secular philosophers recognize love as conquering the meaninglessness haunting human existence. As we'll explore, there are objective reasons why God's love alone overcomes this ultimate destruction.
 
-**5. Is love comprehensive enough to address the root cause?** Yes. If the root cause of evil is the human heart choosing self over good, then love—which is the habit of choosing another's good over self—directly addresses the disease, not just the symptoms.
+**5. Does love have a foundation in objective truth?** Yes. Love requires truth (we cannot truly love while deceiving), is comprehensive (directly addressing evil's root cause—the heart choosing self over good), and is universal (honored across all times and cultures). Yet here's the crucial insight: even this intuitive understanding shows love conquers evil, but to fight evil effectively, we need precision about what complete, authentic love actually requires.
 
 **Love is the only reality in human experience that meets all five criteria.**
 

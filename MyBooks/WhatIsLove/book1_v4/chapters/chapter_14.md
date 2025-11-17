@@ -180,6 +180,21 @@ For each counterfeit, we'll use a diagnostic table showing which components are 
 
 **Why It Fails:** Atheism cannot ground the very realities it depends on. Why is truth valuable? Why does justice matter? Why should we sacrifice for others? Evolutionary psychology reduces love to survival mechanism. Utilitarianism makes it arbitrary calculation.
 
+**Atheistic Frameworks That Deny Love as the Highest Good:**
+
+Various atheistic philosophies propose alternative "highest goods," but each collapses when confronted with God's Perfect Love:
+
+- **Nietzschean Atheism** (Will to Power): Confuses domination with greatness; ignores that true human fulfillment requires communion, not conquest.
+- **Existential Atheism** (Radical Freedom): Treats freedom as an end in itself; fails to see that freedom exists for love and collapses without truth, justice, and communion.
+- **Classical Utilitarianism** (Maximum Pleasure): Reduces goodness to feelings; cannot explain sacrificial love, moral duty, or the inviolable dignity of persons.
+- **Reductionist Materialism** (Survival/Reproduction): Reduces humans to biology; cannot account for moral truths, sacrificial love, or the spiritual dimension of the human person.
+- **Ethical Egoism** (Rational Self-Interest): Makes the self the center of morality; denies that real love requires self-gift, humility, and justice toward others.
+- **Logical Positivism** (No Objective Morality): Eliminates objective truth from morality; cannot explain universal moral intuitions or why love obligates us at all.
+- **Hedonistic Materialism** (Personal Pleasure): Mistakes comfort for goodness; cannot explain why suffering in love can be noble, meaningful, and transformative.
+- **Nihilism** (No Objective Value): Rejects intrinsic human worth; obliterates the possibility of love, justice, or any coherent moral framework.
+
+Each framework fails because it denies one or more essential components of God's Perfect Love—sacred source, truth, justice, mercy, sacrifice, or life-giving communion. Without these, they cannot explain our deepest human experiences or provide a coherent foundation for morality.
+
 **How Good Overcomes Evil:** God's Perfect Love recognizes our need for truth, justice, mercy, and sacrifice—and provides the only coherent explanation: because God IS love in His very nature, and we are made in His image. Our deepest longings can only be fulfilled in Him. "God is love, and he who abides in love abides in God, and God abides in him" (1 John 4:16).
 
 ### Relativism: "Live Your Truth"
