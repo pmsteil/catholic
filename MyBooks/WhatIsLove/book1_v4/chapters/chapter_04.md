@@ -24,15 +24,13 @@
 
 "I'll love you forever."
 
-Easy to say on a wedding day when everything feels perfect. Harder to mean it when tragedy strikes, when jobs are lost, when the kids are screaming, when the bills are piling up, when that attractive coworker is paying attention, when "forever" starts feeling like a prison sentence.
+Easy to say on a wedding day when everything feels perfect. Harder when tragedy strikes, jobs are lost, kids are screaming, bills pile up, attractive coworkers pay attention, and "forever" feels like a prison sentence.
 
 "I'll always be there for you."
 
-Beautiful words from a parent to a child. But then comes the divorce, the new family, the weekends that get skipped, the phone calls that go unreturned. The child learns that "always" has conditions, that "there for you" has limits.
+Beautiful words from parent to child. Until the divorce, the new family, the skipped weekends, the unreturned calls. The child learns "always" has conditions.
 
-This is the crisis of modern love: We want permanence, but we worship freedom. We crave commitment, but we demand escape clauses. We long for covenant, but we settle for contracts.
-
-And contracts always have fine print. Conditions. Expiration dates. Ways out when things get hard.
+This is the crisis of modern love: We want permanence but worship freedom. We crave commitment but demand escape clauses. We long for covenant but settle for contracts—with their fine print, conditions, expiration dates, and ways out when things get hard.
 
 <div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
 Love requires covenant, not contract. Contracts are conditional and temporary—"I'll stay as long as you meet my needs." Covenants are unconditional and permanent—"I'm yours, no matter what." Without covenant, love has no foundation to endure.
@@ -40,31 +38,19 @@ Love requires covenant, not contract. Contracts are conditional and temporary—
 
 ## Covenant vs. Contract: Understanding the Difference
 
-Our culture has forgotten the difference between covenant and contract. This confusion is destroying families, fracturing communities, and leaving a generation terrified of commitment.
+Our culture has forgotten the difference between covenant and contract. This confusion destroys families, fractures communities, and leaves a generation terrified of commitment.
 
-**Contracts:**
-- Based on mutual benefit: "I'll do this if you do that"
-- Conditional: "As long as you meet these terms"
-- Temporary: "Until the contract expires or is broken"
-- Self-interested: "What's in it for me?"
-- Breakable: "If you violate terms, I'm out"
-- Create business relationships
+**Contracts:** Based on mutual benefit ("I'll do this if you do that"), conditional ("as long as you meet these terms"), temporary ("until expiration or breach"), self-interested ("what's in it for me?"), breakable ("if you violate terms, I'm out"). Create business relationships.
 
-**Covenants:**
-- Based on mutual gift: "I give myself to you completely"
-- Unconditional: "No matter what happens"
-- Permanent: "Until death"
-- Other-centered: "What can I give you?"
-- Unbreakable: "Even if you fail, I remain faithful"
-- Create family bonds
+**Covenants:** Based on mutual gift ("I give myself to you completely"), unconditional ("no matter what happens"), permanent ("until death"), other-centered ("what can I give you?"), unbreakable ("even if you fail, I remain faithful"). Create family bonds.
 
-Think about marriage. When we treat it as a contract, we're constantly evaluating: "Are you meeting my needs? Are you holding up your end? Is this still worth it?" The moment the cost-benefit analysis tips negative, we're out.
+When we treat marriage as contract, we constantly evaluate: "Are you meeting my needs? Holding up your end? Is this still worth it?" The moment cost-benefit analysis tips negative, we're out.
 
-But covenant says: "I'm yours. Period. Not because you're perfect. Not because you make me happy. Not because it's easy. But because I gave myself to you, and that gift is irrevocable."
+But covenant says: "I'm yours. Period. Not because you're perfect, make me happy, or it's easy. Because I gave myself to you, and that gift is irrevocable."
 
-This isn't oppression. This is freedom—the freedom that comes from knowing someone is committed to you regardless of your performance, your appearance, your success, or your failures.
+This isn't oppression—it's freedom. The freedom of knowing someone is committed regardless of your performance, appearance, success, or failures.
 
-But what IS freedom, really? Our culture has it backwards.
+But what IS freedom? Our culture has it backwards.
 
 Pope Saint John Paul II taught that **"freedom exists for love, not for autonomy."** This is revolutionary. Our culture says freedom means "no commitments, no obligations, no one telling me what to do." But that's not freedom—that's isolation. True freedom is the capacity to make a total gift of yourself to another. As Pope Saint John Paul II wrote, "Man cannot fully find himself except through a sincere gift of himself." Covenant doesn't restrict freedom—it fulfills it. When you freely choose to bind yourself permanently to another in love, you're exercising the highest form of freedom: the freedom to love as God loves.
 
@@ -72,31 +58,29 @@ Pope Saint John Paul II taught that **"freedom exists for love, not for autonomy
 
 God doesn't relate to us through contracts. He relates through covenant. And every covenant in Scripture reveals something essential about love's nature.
 
-As Scott Hahn teaches, drawing on St. Augustine's insight: "The New Testament is concealed in the Old, and the Old Testament is revealed in the New."[^1] Each covenant builds on the previous ones, progressively revealing God's plan of love:
+As St. Augustine taught: "The New Testament is concealed in the Old, and the Old Testament is revealed in the New."[^1] Each covenant builds on the previous, progressively revealing God's plan of love:
 
-[^1]: Scott Hahn, *A Father Who Keeps His Promises: God's Covenant Love in Scripture* (Cincinnati: Servant Books, 1998). This principle originates with St. Augustine: "The New Testament lies hidden in the Old and the Old Testament is unveiled in the New" (*Quaestiones in Heptateuchum* 2, 73).
+[^1]: St. Augustine, *Quaestiones in Heptateuchum* 2, 73. See also Scott Hahn, *A Father Who Keeps His Promises: God's Covenant Love in Scripture* (Cincinnati: Servant Books, 1998).
 
-**The Adamic Covenant (Genesis 1-3):** God creates humanity in His image and establishes the first covenant of love—calling us to communion with Him and stewardship of creation. Even after the Fall, God promises redemption and maintains the covenant bond.
+**Adamic Covenant (Genesis 1-3):** God creates humanity in His image, calling us to communion and stewardship. Even after the Fall, He promises redemption.
 
-**The Noahic Covenant (Genesis 9):** After the flood, God makes a covenant with all creation, promising never to destroy the earth again. The rainbow becomes the sign of God's faithful, enduring love for all humanity.
+**Noahic Covenant (Genesis 9):** God covenants with all creation, promising never to destroy the earth again. The rainbow signs His faithful love.
 
-**The Abrahamic Covenant (Genesis 15, 17):** God promises to be Abraham's God and to make his descendants into a great nation. Notice: God makes promises, but He doesn't demand Abraham earn them. God walks through the pieces of the sacrifice alone (Genesis 15:17)—taking on Himself the obligation to fulfill the covenant even if Abraham fails.
+**Abrahamic Covenant (Genesis 15, 17):** God promises to be Abraham's God and make his descendants a great nation. God walks through the sacrifice alone (Genesis 15:17)—taking on Himself the obligation even if Abraham fails.
 
-**The Mosaic Covenant (Exodus 19-24):** God gives the Law not as arbitrary rules but as the blueprint for covenant relationship. "I will be your God, and you shall be my people." The Law shows what covenant love looks like in practice—how to love God, neighbor, and self.
+**Mosaic Covenant (Exodus 19-24):** God gives the Law as blueprint for covenant relationship: "I will be your God, and you shall be my people." The Law shows covenant love in practice.
 
-**The Davidic Covenant (2 Samuel 7):** God promises David an eternal kingdom. Even when David's descendants fail spectacularly, God remains faithful. The covenant endures because it's grounded in God's faithfulness, not human performance.
+**Davidic Covenant (2 Samuel 7):** God promises David an eternal kingdom. Even when David's descendants fail spectacularly, God remains faithful. The covenant endures because it's grounded in God's faithfulness, not human performance.
 
-**The New Covenant (Jeremiah 31, Luke 22):** God promises to write His law on our hearts, to forgive our sins, to be our God. This covenant is sealed not with animal blood but with Christ's blood—the ultimate sacrifice that makes permanent relationship possible.
+**New Covenant (Jeremiah 31, Luke 22):** God writes His law on our hearts, forgives our sins, becomes our God. Sealed not with animal blood but Christ's blood—the ultimate sacrifice making permanent relationship possible.
 
 See the pattern? God initiates. God commits. God remains faithful even when we fail. This is what covenant love looks like—not "I'll love you if you perform," but "I'll love you, period."
 
 ### The New Covenant: Law Written on Hearts
 
-Notice what makes the New Covenant different from all previous covenants: "I will put my law within them, and I will write it upon their hearts" (Jeremiah 31:33). This isn't external legislation—it's interior transformation. God doesn't just tell us what to do; He changes who we are.
+The New Covenant's difference: "I will put my law within them, and I will write it upon their hearts" (Jeremiah 31:33). Not external legislation—interior transformation. God doesn't just tell us what to do; He changes who we are.
 
-This is why covenant creates permanent relationship while contracts remain fragile. Contracts depend on external enforcement. But when God's law is written on your heart, you don't follow it out of fear—you follow it because you recognize it as true and freely choose to cooperate with grace. The Holy Spirit transforms you from within, enabling you to freely embrace what God freely offers (CCC 1972).
-
-This is the heart of covenant: God doesn't impose His law from outside. He writes it on our hearts from within, transforming us so that we freely choose to love as He loves.
+This is why covenant creates permanent relationship while contracts remain fragile. Contracts depend on external enforcement. But when God's law is written on your heart, you follow it because you recognize it as true and freely cooperate with grace. The Holy Spirit transforms you from within, enabling you to freely embrace what God freely offers (CCC 1972).
 
 ## Authority Properly Understood: Invitation vs. Force
 
@@ -165,52 +149,44 @@ This is why the Church insists marriage is indissoluble. You can't dissolve God'
 
 Here's where covenant reveals whether our love is authentic or counterfeit: **Do we love WHO the person is, or WHAT they give us?**
 
-This is the crucial distinction we introduced in Chapter 2 when defining love as "gift." Now we see how it transforms covenant relationships, especially marriage.
+This is the crucial distinction from Chapter 2's definition of love as "gift." Now we see how it transforms covenant relationships, especially marriage.
 
 **The Test Every Marriage Faces:**
 
-A husband loves his wife. But why? Is it because she is a person of infinite worth, made in God's image, worthy of his total gift of self? Or is it because she cooks his meals, keeps his house, bears his children, meets his needs?
+A husband loves his wife. But why? Because she is a person of infinite worth, made in God's image, worthy of his total gift of self? Or because she cooks his meals, keeps his house, bears his children, meets his needs?
 
-The test comes when benefits disappear:
-- When she develops Alzheimer's and no longer recognizes him
-- When illness makes her unable to fulfill her roles
-- When age diminishes her beauty
-- When depression makes her unable to give emotionally
+The test comes when benefits disappear—Alzheimer's, illness, aging, depression.
 
 **If his love was FOR the benefits, it stops when benefits cease.**
 **If his love was FOR the person, it endures because her dignity endures.**
 
-The same test applies to wives. Do you love your husband because of who he is—a man created in God's image with infinite dignity? Or because of what he provides—income, security, status, strength? When disability strikes, when job loss comes, when weakness replaces strength, does your love continue?
+The same test applies to wives. Do you love your husband for who he is—a man created in God's image with infinite dignity? Or for what he provides—income, security, status, strength? When disability, job loss, or weakness comes, does your love continue?
 
-**This is why covenant is grounded in personhood, not performance.** Contract says: "I give because you give." Covenant says: "I give because you are." Contract is contingent on benefits. Covenant is grounded in the beloved's intrinsic dignity as imago Dei.
+**This is why covenant is grounded in personhood, not performance.** Contract: "I give because you give." Covenant: "I give because you are." Contract is contingent on benefits. Covenant is grounded in the beloved's intrinsic dignity as imago Dei.
 
 **Loving God for Who He Is:**
 
-This same test applies to our relationship with God. Do we love God for who He is—the source of all love, truth, justice, and mercy? Or for what He gives—blessings, answered prayers, eternal life?
+This same test applies to God. Do we love Him for who He is—the source of all love, truth, justice, and mercy? Or for what He gives—blessings, answered prayers, eternal life?
 
-Job faced this ultimate test: "Though he slay me, yet will I trust in him" (Job 13:15). He loved God even when God seemed to give nothing. Even when he lost his children, his wealth, his health—everything that made life worth living—Job's love for God endured. Why? Because his love was for WHO God is, not WHAT God provides.
+Job faced this ultimate test: "Though he slay me, yet will I trust in him" (Job 13:15). He loved God even when he lost children, wealth, health—everything that made life worth living. Why? Because his love was for WHO God is, not WHAT God provides.
 
-This is the test of authentic love: Do we love God even when He gives us nothing? Do we love Him for His own sake—because He IS Love, Truth, Justice, Mercy—or only for the benefits we hope to receive?
+This is the test of authentic love: Do we love God even when He gives us nothing? For His own sake—because He IS Love, Truth, Justice, Mercy—or only for benefits we hope to receive?
 
-The prosperity gospel fails this test catastrophically. It reduces God to a cosmic vending machine: put in faith, get out blessings. But authentic love doesn't work that way. We love God because He is worthy of love, not because we hope to get something from Him.
+The prosperity gospel fails catastrophically, reducing God to a cosmic vending machine: put in faith, get out blessings. But authentic love doesn't work that way. We love God because He is worthy of love, not to get something from Him.
 
 **The Profound Implication:**
 
-When you love someone for their intrinsic dignity as imago Dei, you're participating in how God loves. God doesn't love us for what we provide Him—He needs nothing from us. He loves us for who we are—His image-bearers, His children, persons He "willed for themselves" (Vatican II, *Gaudium et Spes* 24).
+When you love someone for their intrinsic dignity as imago Dei, you're participating in how God loves. God doesn't love us for what we provide—He needs nothing from us. He loves us for who we are: His image-bearers, His children, persons He "willed for themselves" (Vatican II, *Gaudium et Spes* 24).
 
-This is why covenant love doesn't diminish when the beloved can no longer reciprocate:
-- The elderly parent who can give nothing back
-- The disabled child who will never be independent
-- The spouse ravaged by disease
-- The friend who has nothing left to offer
+This is why covenant love doesn't diminish when the beloved can no longer reciprocate—the elderly parent who can give nothing back, the disabled child who will never be independent, the spouse ravaged by disease, the friend who has nothing left to offer.
 
 **Their dignity doesn't depend on their abilities. Their worth doesn't depend on their utility. They are persons, made in God's image, worthy of covenant love simply because they exist.**
 
 **Why This Matters for Children:**
 
-This is why covenant love is ordered toward children but not contingent on them. We don't love our spouse in order to get children (utilitarian). We love our spouse for who they are, and that love naturally overflows into welcoming the children God may give. The children are the fruit of authentic love, not the reason for it.
+Covenant love is ordered toward children but not contingent on them. We don't love our spouse to get children (utilitarian). We love our spouse for who they are, and that love naturally overflows into welcoming the children God may give. Children are the fruit of authentic love, not the reason for it.
 
-And when children see parents loving each other for WHO they are—through sickness and health, prosperity and poverty, joy and sorrow—they learn what authentic love looks like. They see that persons have infinite worth regardless of what they can do or provide. They learn to love people, not use them.
+When children see parents loving each other for WHO they are—through sickness and health, prosperity and poverty, joy and sorrow—they learn what authentic love looks like. They see that persons have infinite worth regardless of what they can do or provide. They learn to love people, not use them.
 
 <div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
 Covenant love is grounded in personhood, not performance. We love the person for WHO they are (imago Dei), not WHAT they provide. This is how God loves us—and how we're called to love others.
@@ -224,31 +200,31 @@ Here's what our culture has forgotten: **Marriage isn't just something we choose
 Marriage isn't a lifestyle choice among many options. It's the sacred gift that enables men and women to fulfill the law written on their hearts—to live out truth, justice, and mercy in complementary union ordered toward children. This pattern is universal across cultures because it's written into human nature itself.
 </div>
 
-Think about it: Jesus came to fulfill the Law (Matthew 5:17). And we're called to imitate Him—to fulfill the truth of who we are as image-bearers of God. But how? Marriage is the primary way most people fulfill this calling.
+Jesus came to fulfill the Law (Matthew 5:17). We're called to imitate Him—to fulfill the truth of who we are as image-bearers of God. Marriage is the primary way most people fulfill this calling.
 
 **For Men and Women Together:**
 
-Marriage enables us to fulfill **truth**—the truth of who we are as complementary beings created to unite and bear children. A man alone cannot fulfill his nature. A woman alone cannot fulfill her nature. We're designed for union, for fruitfulness, for the complete gift of self that creates new life.
+Marriage enables us to fulfill **truth**—the truth of who we are as complementary beings created to unite and bear children. A man alone cannot fulfill his nature. A woman alone cannot fulfill her nature. We're designed for union, fruitfulness, and the complete gift of self that creates new life.
 
-Marriage enables us to fulfill **justice**—giving each person what they're owed according to their dignity and nature. The husband is called to protect and provide, to give his wife the security and honor she deserves. The wife is called to nurture and care for him and their children, to create the home where love can flourish. This isn't oppression—it's the mutual gift of what each needs to thrive.
+Marriage enables us to fulfill **justice**—giving each person what they're owed according to their dignity and nature. The husband protects and provides, giving his wife security and honor. The wife nurtures and cares for him and their children, creating the home where love flourishes. This isn't oppression—it's the mutual gift of what each needs to thrive.
 
-Marriage enables us to fulfill **mercy**—teaching children how to love by modeling forgiveness, patience, and compassion. Parents don't just tell children about mercy—they show it daily in how they treat each other and their children. The family becomes the first school of love.
+Marriage enables us to fulfill **mercy**—teaching children how to love by modeling forgiveness, patience, and compassion. Parents don't just tell children about mercy—they show it daily. The family becomes the first school of love.
 
 **This Pattern is Universal, Not Culturally Constructed:**
 
-Notice something crucial: We see this pattern across cultures, throughout history, in every civilization. The husband-father who protects and provides. The wife-mother who nurtures and cares. Children raised by both, learning love from their complementary gifts.
+We see this pattern across cultures, throughout history, in every civilization: husband-father who protects and provides, wife-mother who nurtures and cares, children raised by both learning love from their complementary gifts.
 
-This isn't a "social construct" that we can redesign at will. It's a basic truth of human nature—written into our bodies, our psychology, our deepest longings. **Marriage between man and woman, ordered toward children, is what most fully fulfills both our desire to love and our desire to be loved.**
+This isn't a "social construct" we can redesign at will. It's a basic truth of human nature—written into our bodies, psychology, and deepest longings. **Marriage between man and woman, ordered toward children, is what most fully fulfills both our desire to love and our desire to be loved.**
 
-When a man gives himself completely to his wife and children—protecting, providing, sacrificing—he becomes more fully himself. He's not losing his freedom; he's exercising it in the highest way possible.
+When a man gives himself completely to his wife and children—protecting, providing, sacrificing—he becomes more fully himself. Not losing his freedom but exercising it in the highest way possible.
 
-When a woman gives herself completely to her husband and children—nurturing, caring, creating the home—she becomes more fully herself. She's not being oppressed; she's fulfilling the deepest calling written on her heart.
+When a woman gives herself completely to her husband and children—nurturing, caring, creating the home—she becomes more fully herself. Not being oppressed but fulfilling the deepest calling written on her heart.
 
-And when children are raised by both mother and father, receiving the complementary gifts each provides, they learn what authentic love looks like. They see justice and mercy working together. They experience truth embodied in covenant. They're prepared to give themselves in love when their time comes.
+When children are raised by both mother and father, receiving the complementary gifts each provides, they learn what authentic love looks like. They see justice and mercy working together, truth embodied in covenant. They're prepared to give themselves in love when their time comes.
 
-**This is why attacks on marriage are so devastating.** When we tell people marriage is optional, that any arrangement is equally valid, that children don't need both mother and father—we're not liberating them. We're robbing them of the primary means by which human beings fulfill the law written on their hearts.
+**This is why attacks on marriage are so devastating.** When we tell people marriage is optional, that any arrangement is equally valid, that children don't need both mother and father—we're not liberating them. We're robbing them of the primary means by which humans fulfill the law written on their hearts.
 
-The crisis of our time isn't that marriage has become unpopular. It's that we've forgotten why we need it. We've reduced it to a lifestyle preference when it's actually the fundamental human covenant that enables us to become who we're meant to be—image-bearers of God who love as He loves, creating life and nurturing it toward communion with Him.
+The crisis isn't that marriage has become unpopular. It's that we've forgotten why we need it. We've reduced it to a lifestyle preference when it's actually the fundamental human covenant that enables us to become who we're meant to be—image-bearers of God who love as He loves, creating life and nurturing it toward communion with Him.
 
 **This is the book's comprehensive definition made concrete:** Marriage is the sacred, sacrificial gift of covenant which binds truth, justice, and mercy into life-giving communion. In marriage, we see perfect love embodied in the most fundamental human relationship. This is why covenant love—especially in marriage—is such a powerful weapon against evil.
 
@@ -260,11 +236,11 @@ These fears are real. But here's what our culture doesn't tell you: **You're wai
 
 When will you be "ready"? When you have enough money? There's never enough. When you've traveled enough? There's always one more place. When you've "found yourself"? Pope Saint John Paul II already gave us the answer: "Man cannot fully find himself except through a sincere gift of himself." You don't find yourself by looking inward—you find yourself by giving yourself away.
 
-**The culture's vicious cycle:** Wait until you're ready → Stay self-focused → Never develop capacity for self-gift → Feel even less ready → Wait longer → Lose the capacity for covenant entirely.
+**The culture's vicious cycle:** Wait until ready → Stay self-focused → Never develop capacity for self-gift → Feel less ready → Wait longer → Lose capacity for covenant entirely.
 
-**The truth covenant reveals:** Marriage doesn't require perfection—it requires willingness. The covenant itself forms you. The daily choice to love when it's hard, to sacrifice when you're exhausted, to remain faithful when you're tempted—this is what makes you "ready." You don't get ready for marriage and then enter it. You enter marriage and it makes you ready for life.
+**The truth covenant reveals:** Marriage doesn't require perfection—it requires willingness. The covenant itself forms you. The daily choice to love when it's hard, to sacrifice when exhausted, to remain faithful when tempted—this makes you "ready." You don't get ready for marriage and then enter it. You enter marriage and it makes you ready for life.
 
-**What about choosing the wrong person?** This fear reveals the contractual mindset: "I need to find the perfect person who meets all my needs, because if they don't, I'm stuck." But covenant thinking asks: "Is this person committed to holiness? Do we share faith and values? Are we both willing to sacrifice for each other and for children? Can we help each other get to heaven?"
+**What about choosing the wrong person?** This fear reveals contractual mindset: "I need to find the perfect person who meets all my needs, because if they don't, I'm stuck." But covenant thinking asks: "Is this person committed to holiness? Do we share the faith? Are we both willing to sacrifice for each other and for children? Can we help each other get to heaven?"
 
 If yes, you don't need "the one perfect soulmate." **You need to become one** through covenant. The marriage itself—the daily choice to love sacrificially—creates the unity you're seeking. You're not looking for someone who completes you; you're looking for someone you can give yourself to completely.
 
@@ -280,13 +256,13 @@ Marriage isn't the end of your life—it's the beginning of your real life. Wher
 
 When we understand covenant love—especially as embodied in marriage—we see how it directly combats the specific evils destroying our culture:
 
-**Against Disposability:** Our culture treats everything—including people—as disposable. Don't like your spouse? Get a new one. Kids too difficult? Abandon them. Parents too burdensome? Put them in a home and forget them. Covenant says: People aren't products. Relationships aren't transactions. Love creates bonds that endure.
+**Against Disposability:** Our culture treats everything—including people—as disposable. Covenant says: People aren't products. Relationships aren't transactions. Love creates bonds that endure.
 
-**Against Commitment-Phobia:** Modern people are terrified of commitment because they've seen so many broken promises. Covenant provides the security that makes commitment possible again. When you know someone is bound to you—not by force but by freely chosen gift—you can risk vulnerability.
+**Against Commitment-Phobia:** Modern people are terrified of commitment because they've seen broken promises. Covenant provides the security that makes commitment possible again. When you know someone is bound to you—not by force but by freely chosen gift—you can risk vulnerability.
 
-**Against Conditional Love:** "I'll love you if you're successful, attractive, useful, agreeable." This isn't love—it's a transaction. Covenant love says: "I'll love you because I gave myself to you, and that gift is permanent regardless of your performance."
+**Against Conditional Love:** "I'll love you if you're successful, attractive, useful, agreeable." This isn't love—it's transaction. Covenant love says: "I'll love you because I gave myself to you, and that gift is permanent regardless of your performance."
 
-**Against Isolation:** When every relationship is conditional and temporary, we end up alone. Covenant creates the permanent bonds that overcome isolation—not just in marriage, but in family, in Church, in community.
+**Against Isolation:** When every relationship is conditional and temporary, we end up alone. Covenant creates permanent bonds that overcome isolation—in marriage, family, Church, community.
 
 **Against Meaninglessness:** If nothing is permanent, nothing ultimately matters. Covenant gives life meaning by creating bonds that transcend the moment, relationships that endure beyond death, love that participates in the eternal.
 
@@ -308,7 +284,7 @@ Marriage doesn't just participate in these other covenants—it teaches us what 
 
 **When we live covenant love—keeping our promises, remaining faithful through difficulty—we're not just being reliable. We're forming our souls to reflect God's own faithfulness.** Each time we choose covenant fidelity over convenience, our character becomes more stable, our word more trustworthy, our love more enduring.
 
-This is covenant fidelity expressed through sacrifice—and this gives us meaning in life, strength to persevere, and power to "go the extra mile." It's not cold duty. It's the deeper reality that our souls are being shaped by the commitments we keep.
+This is covenant fidelity expressed through sacrifice—giving us meaning in life, strength to persevere, and power to "go the extra mile." It's not cold duty. It's the deeper reality that our souls are being shaped by the commitments we keep.
 
 A parent who stays faithful through a child's rebellion isn't just "doing their duty"—they're becoming more like God, whose love never fails. A spouse who remains committed through illness or hardship isn't just keeping a promise—they're participating in Christ's covenant love for His Church. Their souls are being transformed into His image.
 
