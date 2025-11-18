@@ -177,6 +177,41 @@ In the Eucharist, we participate sacramentally. In daily life, we participate pr
 Our sacrifices, united with Christ's perfect sacrifice, participate in His redemptive work. This isn't adding to what Christ did—it's allowing His sacrifice to flow through us to touch others. Every act of authentic love becomes a channel of divine grace.
 </div>
 
+## Sacrificing FOR the Person, Not FOR Benefits
+
+Here's where sacrifice reveals whether our love is authentic or counterfeit: **Do we sacrifice for WHO the person is, or for WHAT they give us?**
+
+**The Test in Marriage:**
+
+A husband sacrifices for his wife—working long hours, giving up hobbies, putting her needs first. But why? Is it because she is a person of infinite worth, made in God's image, worthy of his gift of self? Or is it because she cooks his meals, keeps his house, bears his children, meets his needs?
+
+The test comes when the benefits disappear:
+- When she develops Alzheimer's and no longer recognizes him
+- When illness makes her unable to fulfill her roles
+- When age diminishes her beauty
+- When depression makes her unable to give emotionally
+
+**If his sacrifice was FOR the benefits, it stops when benefits cease.**
+**If his sacrifice was FOR the person, it endures because her dignity endures.**
+
+The same test applies to wives. Do you sacrifice for your husband because of who he is—a man created in God's image with infinite dignity? Or because of what he provides—income, security, status, strength? When disability strikes, when job loss comes, when weakness replaces strength, does your sacrifice continue?
+
+**This is why covenant love is ordered toward children but not contingent on them.** We don't love our spouse in order to get children (utilitarian). We love our spouse for who they are, and that love naturally overflows into welcoming the children God may give. The children are the fruit of authentic love, not the reason for it.
+
+**The Profound Implication:**
+
+When you sacrifice for someone because of their intrinsic dignity as imago Dei, you're participating in how God loves. God doesn't love us for what we provide Him—He needs nothing from us. He loves us for who we are—His image-bearers, His children, persons He "willed for themselves" (Vatican II, *Gaudium et Spes* 24).
+
+This is why sacrifice doesn't diminish when the beloved can no longer reciprocate. The elderly parent who can give nothing back. The disabled child who will never be independent. The spouse ravaged by disease. **Their dignity doesn't depend on their abilities. Their worth doesn't depend on their utility. They are persons, made in God's image, worthy of sacrificial love simply because they exist.**
+
+**This is the difference between covenant and contract.** Contract says: "I give because you give." Covenant says: "I give because you are." Contract is contingent on performance. Covenant is grounded in personhood.
+
+When we sacrifice for the person rather than for benefits, we're loving as God loves—freely, faithfully, permanently. We're treating persons as ends, never as means. We're honoring the sacred truth that every human being has infinite, intrinsic, inalienable dignity as an image-bearer of God.
+
+<div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
+Authentic sacrifice loves the person for WHO they are (imago Dei), not WHAT they provide. This is covenant love—grounded in personhood, not performance.
+</div>
+
 ## The Bridge to Life-Giving
 
 Sacrifice isn't an end in itself. It's the means by which love creates and multiplies. When you sacrifice for someone—truly sacrifice, not just perform a transaction—you don't just give something up. You create something new.
