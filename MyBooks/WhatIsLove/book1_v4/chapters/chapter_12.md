@@ -140,46 +140,23 @@ Most Christians recognize there is a point at which we "give ourselves to the Lo
 
 When we speak of having faith in God, we need to understand what this means. **Faith is covenant exchange—a mutual promise between God and His people.** God says: "I AM the Word, and I will keep My Word, and My Word is true." Our response of faith is to say: "Lord, I recognize the truth of Your Word and I promise to be faithful to Your truth. I promise to be obedient to Your justice and to be dependent on Your mercy."
 
-This covenant exchange is why the moment of conversion and commitment to Christ involves the integration of all four pillars: In Truth—recognize we are sinners in need of a Savior (Romans 3:23), confess Jesus as Lord and believe God raised Him from the dead (Romans 10:9), accept that Jesus is the Way, the Truth, and the Life (John 14:6), submit our intellect to divine revelation, allowing His perfect intellect to perfect ours. In Justice—acknowledge God's rightful claim on our lives as Creator, submit to God's authority, give God the worship He is due, commit to living according to God's commandments. In Mercy—accept that we cannot save ourselves and desperately need God's grace, receive forgiveness through Christ's sacrifice with gratitude, begin forgiving those who have wronged us (Matthew 6:14-15). In Sacrifice—begin to turn away from sin and toward God (repentance), die to self and be buried with Christ in baptism (Romans 6:3-4), renounce Satan, accept the cost of discipleship.
+This covenant exchange is why the moment of conversion and commitment to Christ involves the integration of all four pillars:
+*   **In Truth**: We recognize we are sinners in need of a Savior (Romans 3:23), confess Jesus as Lord and believe God raised Him from the dead (Romans 10:9), and submit our intellect to divine revelation.
+*   **In Justice**: We acknowledge God's rightful claim on our lives as Creator, submit to His authority, and commit to living according to His commandments.
+*   **In Mercy**: We accept that we cannot save ourselves and desperately need God's grace, receiving forgiveness through Christ's sacrifice with gratitude.
+*   **In Sacrifice**: We turn away from sin (repentance), die to self and are buried with Christ in baptism (Romans 6:3-4), and accept the cost of discipleship.
 
 **After Conversion—Ongoing Justification Requires All Four Pillars:**
 
-St. Paul commands: **"Work out your own salvation with fear and trembling"** (Philippians 2:12). This ongoing process demands continuous integration of all four pillars throughout our entire lives:
+St. Paul commands: **"Work out your own salvation with fear and trembling"** (Philippians 2:12). This ongoing process demands continuous integration of all four pillars throughout our entire lives.
 
-*In Truth:*
-- Continue in the apostles' teaching (Acts 2:42); grow in knowledge of God
-- Submit intellect to what God has revealed, even when it contradicts human wisdom (1 Corinthians 1:25)
-- Reject lies and deception that contradict the deposit of faith
-- Witness to truth even when the world calls it foolishness or hate
-- Study Scripture, Tradition, and Church teaching to grow in understanding
-- Defend the faith against errors and heresies
+**In Truth**, to continue in the apostles' teaching (Acts 2:42) and grow in the knowledge of God, we must submit our intellect to what God has revealed, even when it contradicts human wisdom (1 Corinthians 1:25). We must witness to the truth, even when the world calls it foolishness, and defend the faith against error, rejecting the lies that contradict the deposit of faith.
 
-*In Justice:*
-- Give God His due worship through Mass, prayer, and obedience (first three commandments)
-- Honor the rights of others as image-bearers of God
-- Fulfill our duties to family, Church, and community as faith requires
-- Defend the vulnerable because justice flows from recognizing God's image in all
-- Pay just wages, honor contracts, and respect others' property
-- Render to Caesar what is Caesar's and to God what is God's (Matthew 22:21)
+**In Justice**, by giving God His due worship through the sacraments and obedience, we honor the rights of others as image-bearers of God, fulfilling our duties to family, Church, and community. True justice leads us to defend the vulnerable, pay just wages, and render "to Caesar the things that are Caesar's, and to God the things that are God's" (Matthew 22:21).
 
-*In Mercy:*
-- Forgive those who wrong us as Christ forgave us (Matthew 6:14-15; Matthew 18:21-22)
-- Show compassion to sinners while calling them to repentance
-- Bear with others' weaknesses in patience and charity
-- Intercede for the lost rather than condemning them
-- Practice the corporal and spiritual works of mercy
-- Show mercy to enemies and pray for persecutors (Matthew 5:44)
+**In Mercy**, we are called to forgive those who wrong us "as the Lord has forgiven you" (Colossians 3:13), showing compassion to sinners while calling them to repentance, bearing with others' weaknesses, and interceding for the lost. We practice the corporal and spiritual works of mercy, praying even for our persecutors (Matthew 5:44).
 
-*In Sacrifice:*
-- Take up our cross daily (Luke 9:23); die to sin and live for righteousness
-- Sacrifice pride to submit intellect to divine revelation
-- Sacrifice comfort to live according to God's will rather than our own
-- Sacrifice worldly security to trust in God's providence
-- Sacrifice reputation to witness to unpopular truths
-- Sacrifice self-will to obey God's commandments
-- Sacrifice time and resources for prayer, worship, and service
-- Fast, give alms, and practice self-denial for spiritual growth
-- Offer up suffering in union with Christ's passion
+**In Sacrifice**, to "take up our cross daily" (Luke 9:23), we must sacrifice pride to submit our intellect, comfort to live God's will, and worldly security to trust in Providence. We offer up our time, resources, and even our suffering in union with Christ's passion, dying to sin so we may live for righteousness.
 
 **The Council of Trent teaches:** "If anyone says that the sinner is justified by faith alone, meaning that nothing else is required to cooperate in order to obtain the grace of justification... let him be anathema" (Session 6, Canon 9).
 

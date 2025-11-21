@@ -12,7 +12,7 @@ Let me tell you why this question has become so urgent for me, and why I believe
 
 Years ago, before my reversion to the Catholic Church, when I was serving as a youth pastor in the Methodist Church, I had an experience that changed everything for me. I was working with teenagers—beautiful, energetic, hopeful young people who were asking the deepest questions about life, love, and meaning. But I began to notice something heartbreaking: these kids were being fed a steady diet of relativism!
 
-One night at Youth Group I asked the group this piercing question: "Can we know absolutely for sure whether something is objectively good or evil?" Of the 15 or so youth that were there, only one raised their hand to say "yes," one timidly thought "maybe," and the rest said "no."  They told me that it was dependent on the person's viewpoint—of what "their truth" was.
+One night at Youth Group I asked the group this piercing question: "Can we know absolutely for sure whether something is objectively good or evil?" Of the fifteen or so youth present, only one raised their hand to say "yes," one timidly thought "maybe," and the rest said "no."  They told me that it was dependent on the person's viewpoint—of what "their truth" was.
 
 I was SHOCKED to the core. This is not the language of the Church. This is not language we had ever used in the three years with them in Youth Group. I had been preaching "love" to them (a very superficial love without any detailed definition). Keep in mind, these were good and faithful youth who loved Jesus.
 
@@ -50,6 +50,10 @@ And Second, when Jesus was asked which was the greatest commandment, He replied:
 
 We must love God.  And then we must love our neighbor as ourselves.
 
+But here lies the problem: **How can we obey the command to love if we don't know what love is?**
+
+If love is merely a feeling, how can Jesus command it? If love means tolerating everything, how can it uphold truth? If love means affirming everyone, how can it serve justice? If love means just being nice, how can it offer real mercy?
+
 Which raises our question once again: **What is Love?**
 
 And then in verse 40 he says:
@@ -64,11 +68,19 @@ If all the law and the prophets depend on these two commandments to love, then, 
 
 And so I knew I had to go even deeper than I ever had before.
 
-As I rediscovered the Catholic Church of my youth, I found something extraordinary: Jesus had built a Church that he promised would be guided by the Holy Spirit into all the truth (John 16:13b). And Paul tells us that the Church is the pillar and foundation of truth (1 Timothy 3:15).
+As I rediscovered the Catholic Church of my youth, I found something extraordinary: Jesus had built a Church that he promised would be guided by the Spirit of truth, who "will guide you into all the truth" (John 16:13). And Paul tells us that the Church is "the pillar and bulwark of the truth" (1 Timothy 3:15).
 
 And so now, as I have been studying the historic Christian Church that traces its teaching all the way back to Jesus—a Church that has spent 2,000 years faithfully developing and clarifying its understanding of God's love through the guidance of the Holy Spirit—it has become clear to me how we can truly know how Jesus loved. With this clarity, I just had to write this book.
 
-**So, this book is for the children.** For the teenagers I worked with who will spend their adult lives navigating divorce and custody battles instead of building stable families. For the young women who believe the lie of "my choice"—a lie that leads them to kill their own children through abortion. For those who believe the lie that they can choose their gender—a lie that leads to the mutilation of their bodies and possibly permanent sterilization through so-called "gender-affirming care." For the young men who are taught to be "gender fluid" and "genderqueer" instead of learning the challenge and honor of authentic masculinity. For the young men who are never taught the truth and justice of the marriage covenant—that they are called to be protectors and providers of their families—and who instead avoid marriage altogether out of fear of divorce.
+**So, this book is for the children.**
+
+It is for the teenagers I worked with who will spend their adult lives navigating divorce and custody battles instead of building stable families.
+
+It is for the young women who believe the lie of "my choice"—a lie that leads them to kill their own children through abortion.
+
+It is for those who believe the lie that they can choose their gender—a lie that leads to the mutilation of their bodies and sterilization through "gender-affirming care."
+
+It is for the young men who are taught to be "gender fluid" instead of learning the honor of authentic masculinity. It is for the young men who avoid marriage out of fear, because no one ever taught them the truth and justice of the marriage covenant.
 
 And for the thousands who take to the streets protesting injustice—their passion is real, their hearts are sincere—but without understanding the fullness of what justice truly is, they end up fighting for counterfeits that lead our society down destructive paths. They march for "equity" that denies human dignity. They demand "tolerance" that silences truth. They champion "compassion" that enables evil. All because no one taught them what authentic justice, rooted in authentic love, actually looks like.
 
@@ -78,9 +90,9 @@ But to give them these tools, we first need to understand what authentic love ac
 
 Here's the crucial insight that modern Christianity has largely missed: **If we don't understand what love truly is, we cannot understand what salvation truly is.** The two are inseparable. When Jesus says "For God so loved the world that he gave his only Son, that whoever believes in him should not perish but have eternal life" (John 3:16), He's not just describing God's emotional disposition toward us—He's revealing the very nature of salvation itself. Salvation IS God's perfect love breaking into our broken world, transforming us from the inside out, liberating us from sin's slavery, and drawing us into eternal communion with Him.
 
-But what happens when we misunderstand love? We inevitably misunderstand salvation. And tragically, much of modern Christianity has done exactly that—reducing salvation to a cheap transaction, a one-time decision, a "get out of hell free" card that requires nothing of us except intellectual assent. We've turned the most profound mystery of the universe—God's infinite love poured out for us—into something we can acquire with a simple prayer, as if salvation were a commodity to be purchased rather than a relationship to be lived.
+But what happens when we misunderstand love? We inevitably misunderstand salvation. And tragically, much of modern Christianity has done exactly that—reducing salvation to a cheap transaction—a "get out of hell free" card that requires nothing of us but a one-time decision. We've turned the most profound mystery of the universe—God's infinite love poured out for us—into something we can acquire with a simple prayer, as if salvation were a commodity to be purchased rather than a relationship to be lived.
 
-This is not the salvation the Bible teaches. Scripture speaks of salvation as transformation, as dying to self and rising with Christ, as working out our salvation "with fear and trembling" (Philippians 2:12), as becoming "partakers of the divine nature" (2 Peter 1:4). Biblical salvation is nothing less than being caught up into God's own life of perfect love—learning to love as He loves, to give as He gives, to sacrifice as He sacrificed. It's comprehensive, demanding, glorious, and utterly transformative.
+This is not the salvation the Bible teaches. Scripture speaks of salvation as transformation, as dying to self and rising with Christ, as heeding St. Paul's command to "work out your own salvation with fear and trembling" (Philippians 2:12), as becoming "partakers of the divine nature" (2 Peter 1:4). Biblical salvation is nothing less than being caught up into God's own life of perfect love—learning to love as He loves, to give as He gives, to sacrifice as He sacrificed. It's comprehensive, demanding, glorious, and utterly transformative.
 
 **When we reduce salvation to "faith alone" in Jesus' mercy alone, we separate what God has joined together—for mercy cannot exist without truth and justice, just as faith cannot exist without love.** We create a salvation that costs nothing and changes nothing. When we make love optional or secondary to "faith alone," we gut the Gospel of its power and beauty. **We end up with a Christianity that can coexist quite comfortably with relativism**—with selfishness, with injustice, with broken families, with lives unchanged by grace—because we've lost sight of what we're actually being saved *for*: to love as God loves.
 
@@ -134,7 +146,7 @@ We'll journey together through these chapters:
 
 **Chapter 9: Sacrifice** - Love stops being theory and becomes reality through concrete self-giving action; Christ's sacrifice perfectly integrates expiation (satisfying justice) and oblation (offering mercy), and every Mass makes His sacrifice present so we can participate in it, uniting our daily sacrifices with His to form our souls into His image and participate in His redemptive work.
 
-**Chapter 10: Life-Giving Communion** - The goal of all love is communion—participation in the Trinity's eternal self-giving that makes us fully alive (body, mind, soul integrated); Jesus' command to "be perfect" (Matthew 5:48) means complete/whole/holy communion with God and others, which is destroyed by lies fragmenting society and restored only through Holy Truth lived in the Eucharist, where Christ's Body unites us as one Body and calls us to become saints who multiply life rather than death.
+**Chapter 10: Life-Giving Communion** - The goal of all love is communion—participation in the Trinity's eternal self-giving that makes us fully alive (body, mind, soul integrated); Jesus' command, "You, therefore, must be perfect, as your heavenly Father is perfect" (Matthew 5:48), means complete/whole/holy communion with God and others, which is destroyed by lies fragmenting society and restored only through Holy Truth lived in the Eucharist, where Christ's Body unites us as one Body and calls us to become saints who multiply life rather than death.
 
 **PART 2: THE TEST OF LOVE (Chapters 11-14)**
 
@@ -165,7 +177,7 @@ Each of these titles captures a vital dimension of what you'll discover:
 - **Exposing Counterfeit Love** - Because 23 modern distortions are destroying souls, families, and civilization
 - **For the Love of Children** - Because the ultimate test of any "love" is what it does to the next generation
 
-But we specifically chose *What Is Love?* because that's the question burning in every human heart—the question our culture can no longer answer, the question this book will help you understand and live.
+But we specifically chose *What Is Love?* because it is the foundational question that unlocks all the others. It is the question burning in every human heart—the question our culture can no longer answer, and the question this book will help you understand and live.
 
 I will be praying each day for you as you journey into the depth of God's love.
 

@@ -13,7 +13,7 @@
 </div>
 
 <div class="blockquote">
-"Truly, truly, I say to you, unless you eat the flesh of the Son of man and drink his blood, you have no life in you;"
+"Truly, truly, I say to you, unless you eat the flesh of the Son of man and drink his blood, you have no life in you."
 
 \hfill\small — John 6:53
 </div>
@@ -147,12 +147,12 @@ The Church's teaching isn't arbitrary or outdated. It's protecting the truth tha
 
 ### Spiritual Fruitfulness: All Vocations Called to Bear Fruit
 
-Not everyone is called to physical procreation, but all are called to spiritual fruitfulness—making disciples, forming others in faith, bringing life through prayer, service, and witness. "You did not choose me, but I chose you and appointed you that you should go and bear fruit and that your fruit should abide;" (John 15:16). Every Christian is called to be fruitful.
+Not everyone is called to physical procreation, but all are called to spiritual fruitfulness—making disciples, forming others in faith, bringing life through prayer, service, and witness. "You did not choose me, but I chose you and appointed you that you should go and bear fruit and that your fruit should abide." (John 15:16). Every Christian is called to be fruitful.
 
 
 ### Sacramental: The Eucharist—Where the Definition Becomes REAL
 
-"I am the living bread which came down from heaven; if any one eats of this bread, he will live for ever;" (John 6:51). Christ gives us His own Body and Blood as food. Not symbolically. Not metaphorically. Really, truly, substantially.
+"I am the living bread which came down from heaven; if any one eats of this bread, he will live for ever." (John 6:51). Christ gives us His own Body and Blood as food. Not symbolically. Not metaphorically. Really, truly, substantially.
 
 When I reverted to Catholicism, I heard the Church teach that the Eucharist is "the source and summit of our faith." I didn't understand it at first. Source and summit? What did that even mean?
 
@@ -189,14 +189,14 @@ And this life multiplies: One host can be divided infinitely—every piece is th
 The Eucharist is where God's Perfect Love becomes REAL—body, heart, mind, and soul united with Christ in life-giving communion.
 </div>
 
-"Unless you eat the flesh of the Son of Man and drink his blood, you do not have life within you" (John 6:53). Not metaphorical life. Not spiritual life only. **LIFE**—the fullness of communion with God that makes you fully alive.
+"Truly, truly, I say to you, unless you eat the flesh of the Son of man and drink his blood, you have no life in you" (John 6:53). Not metaphorical life. Not spiritual life only. **LIFE**—the fullness of communion with God that makes you fully alive.
 
 The Church knew this all along. Sacred Tradition preserved this truth for 2,000 years. I just had to humble myself enough to learn it.
 
 
 ### Ecclesial: Church as Body of Christ
 
-"As a body is one though it has many parts, and all the parts of the body, though many, are one body, so also Christ" (1 Corinthians 12:12).
+"For just as the body is one and has many members, and all the members of the body, though many, are one body, so it is with Christ" (1 Corinthians 12:12).
 
 This is what it means to be a Christian society, a covenant people. Not just individuals who happen to believe the same things, but souls bound together in life-giving communion, each serving their purpose as part of the entire Body. When one member suffers, all suffer. When one rejoices, all rejoice (1 Corinthians 12:26). We are truly one—not through human effort, but through the Holy Spirit binding our souls together in love.
 
@@ -212,9 +212,7 @@ But when we live these virtues sacrificially, we're weaving ourselves into the B
 
 This is what it means to be a Christian society, a covenant people—souls bound together in life-giving communion, each serving their purpose as part of the entire Body. When one member suffers, all suffer. When one rejoices, all rejoice (1 Corinthians 12:26). We are truly one through the Holy Spirit binding our souls together in love.
 
-## The Bridge to Truth
-
-#### The Scandal of Division
+## The Scandal of Division
 
 Jesus prayed "that they may all be one" (John 17:21)—yet our divisions wound His Body.
 
@@ -306,13 +304,13 @@ Will you answer?
 - **John 17:20-21** - Jesus' prayer for communion and unity
 - **John 6:51-58** - Eucharistic discourse on eating His flesh and drinking His blood
 - **Matthew 5:48** - "Be perfect as your heavenly Father is perfect"
-- **Genesis 2:18** - "It is not good for the man to be alone"
-- **John 10:10** - "I came so that they might have life and have it more abundantly"
-- **John 15:4-5** - "Remain in me, as I remain in you... I am the vine, you are the branches"
-- **1 Corinthians 10:17** - "Because there is one loaf, we who are many are one body, for we all partake of the one loaf."
+- **Genesis 2:18** - "It is not good that the man should be alone"
+- **John 10:10** - "I came that they may have life, and have it abundantly"
+- **John 15:4-5** - "Abide in me, and I in you... I am the vine, you are the branches"
+- **1 Corinthians 10:17** - "Because there is one bread, we who are many are one body, for we all partake of the one bread."
 - **1 Corinthians 12:12-27** - The Body of Christ and its many members
 - **Acts 2:42-47** - The early Church's communion in breaking of bread
-- **Revelation 21:3** - "Behold, God's dwelling is with the human race"
+- **Revelation 21:3** - "Behold, the dwelling of God is with men"
 - **1 John 1:1-10** - Fellowship with God and one another (additional reading)
 
 ### Catechism of the Catholic Church

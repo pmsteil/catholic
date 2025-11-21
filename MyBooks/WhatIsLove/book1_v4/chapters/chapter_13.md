@@ -1,4 +1,4 @@
-# Understanding Sin—Mortal and Venial Distinctions
+# Chapter 13: Sin—The Failure to Love
 
 <div class="blockquote">
 "If any one sees his brother committing what is not a mortal sin, he will ask, and God will give him life for those whose sin is not mortal. There is sin which is mortal; I do not say that one is to pray for that. All wrongdoing is sin, but there is sin which is not mortal."
@@ -30,8 +30,17 @@ Just as love has degrees of perfection (from small acts of kindness to heroic sa
 
 ---
 
-## All Vices: Primary Offense Against Truth, Justice, Mercy, and Sacrifice
+## All Vices Offend Against Love
 
+<div class="audio-only">
+Every vice represents a rejection or distortion of the four pillars of perfect love. While some vices may seem to attack one pillar more than others, most sins involve a collapse of the entire structure of love.
+
+For instance, **Pride** is not just an offense against **Truth** (denying our dependence on God); it is also an offense against **Justice** (stealing God's glory), **Mercy** (judging others), and **Sacrifice** (refusing to serve). Similarly, **Lust** is not just a failure of **Sacrifice** (self-control); it distorts the **Truth** of the body, violates **Justice** by using persons as objects, and refuses **Mercy** by prioritizing pleasure over another's good.
+
+Understanding this helps us see that sin is not just "breaking a rule"—it is breaking the bonds of communion that love creates.
+</div>
+
+<div class="print-only">
 The following matrix shows which pillar(s) each vice primarily offends against. A "✗" indicates the vice primarily offends against that pillar.
 
 | Vice | Truth | Justice | Mercy | Sacrifice |
@@ -64,16 +73,17 @@ The following matrix shows which pillar(s) each vice primarily offends against. 
 | Violence | ✗ | ✗ | ✗ | ✗ |
 | Inconstancy/Fickleness | ✗ | ✗ | ✗ | ✗ |
 | Lukewarmness | ✗ | ✗ | ✗ | ✗ |
+</div>
 
 <div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
-Notice that every single vice in this matrix violates truth. This is not coincidental—<strong>every sin necessarily involves believing or speaking a lie.</strong> Whether we lie to ourselves about what will truly fulfill us, lie to others about our intentions, or deny the truth about God's nature and commands, sin cannot exist without falsehood. This is why lying is the foundational sin, and why Satan is called "a liar and the father of lies" (John 8:44).
+Notice that every vice violates truth. This is not coincidental—<strong>every sin necessarily involves believing or speaking a lie.</strong> Whether we lie to ourselves about what will truly fulfill us, lie to others about our intentions, or deny the truth about God's nature and commands, sin cannot exist without falsehood. This is why lying is the foundational sin. As Jesus said of Satan: "When he lies, he speaks according to his own nature, for he is a liar and the father of lies" (John 8:44).
 </div>
 
 ---
 
 ## How Vices Offend Against the Four Pillars
 
-Every vice in the matrix above represents a **rejection or distortion of perfect love.** Let's understand what this means:
+Every vice represents a **rejection or distortion of perfect love.** Let's understand what this means:
 
 ### **Offenses Against Truth:**
 When we sin, we deny reality: the truth about God, ourselves, others, and objective moral law.
@@ -87,7 +97,7 @@ When we sin, we harden our hearts: refusing to forgive, showing no compassion, j
 ### **Offenses Against Sacrifice:**
 When we sin, we choose selfishness: refusing to give of ourselves, seeking our own pleasure at others' expense, avoiding the cost of doing what is right.
 
-**The degree to which we offend against these pillars helps us understand the nature and seriousness of each vice.** However, whether any particular instance is mortal or venial depends on three specific conditions: grave matter, full knowledge, and deliberate consent (explained in detail below). The matrix shows us which pillars each vice offends against, but the three conditions determine the actual gravity of any specific sin.
+**The degree to which we offend against these pillars helps us understand the nature and seriousness of each vice.** However, whether any particular instance is mortal or venial depends on three specific conditions: grave matter, full knowledge, and deliberate consent (explained in detail below). This framework shows us which pillars each vice offends against, but the three conditions determine the actual gravity of any specific sin.
 
 ---
 
@@ -99,13 +109,13 @@ When we sin, we choose selfishness: refusing to give of ourselves, seeking our o
 
 Those who claim all sin is equal often cite these verses:
 
-**James 2:10:** *"For whoever keeps the whole law, but falls short in one particular, has become guilty in respect to all of it."*
+**James 2:10:** *"For whoever keeps the whole law but fails in one point has become guilty of all of it."*
 
 **Isolated reading:** James 2:10 alone might suggest all sins are equally serious. **Fuller reading in context:** James is teaching that breaking any commandment makes us lawbreakers—we can't pick and choose. But James 2:11 shows he's arguing against selective obedience, not claiming adultery and murder are equally grave. Breaking the speed limit and murder both make you a lawbreaker, but the gravity is vastly different.
 
-**Romans 3:23:** *"All have sinned and are deprived of the glory of God."* **Fuller reading:** Paul is teaching that all humans need redemption, not claiming we're perpetually in mortal sin. Later in Romans, Paul teaches we can **"walk in newness of life"** (Romans 6:4) and be **"dead to sin and living for God"** (Romans 6:11). We're called to growth in holiness.
+**Romans 3:22-23:** *"For there is no distinction; since all have sinned and fall short of the glory of God..."* **Fuller reading:** Paul is teaching that all humans need redemption, not claiming we're perpetually in mortal sin. Later in Romans, Paul teaches we can **"walk in newness of life"** (Romans 6:4) and be **"dead to sin and living for God"** (Romans 6:11). We're called to growth in holiness.
 
-**1 John 1:8:** *"If we say, 'We are without sin,' we deceive ourselves."* **Fuller reading:** John is warning against claiming sinless perfection. But he immediately follows with: *"If we acknowledge our sins, he is faithful and just and will forgive our sins"* (1 John 1:9). We can be forgiven and restored. John explicitly distinguishes between deadly and non-deadly sin (1 John 5:16-17).
+**1 John 1:8:** *"If we say we have no sin, we deceive ourselves, and the truth is not in us."* **Fuller reading:** John is warning against claiming sinless perfection. But he immediately follows with: *"If we confess our sins, he is faithful and just, and will forgive our sins and cleanse us from all unrighteousness"* (1 John 1:9). We can be forgiven and restored. John explicitly distinguishes between deadly and non-deadly sin (1 John 5:16-17).
 
 ### **Jesus Himself Teaches We Can Choose Good:**
 
@@ -130,7 +140,7 @@ This is the beauty of Catholic teaching: **We are free to sin, but we are also f
 
 ### **Scripture Clearly Teaches This Distinction:**
 
-St. John writes: **"There is such a thing as deadly sin... All wrongdoing is sin, but there is sin that is not deadly"** (1 John 5:16-17).
+St. John writes: **"There is sin which is mortal; I do not say that one is to pray for that. All wrongdoing is sin, but there is sin which is not mortal"** (1 John 5:16-17).
 
 St. Paul warns that certain sins exclude from the Kingdom: **"Do you not know that the unrighteous will not inherit the kingdom of God? Do not be deceived; neither the immoral, nor idolaters, nor adulterers, nor sexual perverts, nor thieves, nor the greedy, nor drunkards, nor revilers, nor robbers will inherit the kingdom of God"** (1 Corinthians 6:9-10).
 
@@ -187,7 +197,7 @@ If any one of these conditions is absent or significantly diminished, the sin ma
 - Grave matter + partial knowledge + full consent = venial (or less grave)
 - Lesser matter + full knowledge + full consent = venial
 
-**This is why the same vice can be either mortal or venial depending on circumstances.** The matrix shows the nature of each vice—which pillars it offends against—but whether any particular instance is mortal depends on these three conditions.
+**This is why the same vice can be either mortal or venial depending on circumstances.** The analysis shows the nature of each vice—which pillars it offends against—but whether any particular instance is mortal depends on these three conditions.
 
 ---
 
@@ -359,7 +369,7 @@ Let's examine several vices to see how they can manifest at different levels of 
   - ⊗ Violates truth of sexuality's purpose (covenant union)
   - ⊗ Treats person as object for pleasure
   - ✗ Refuses sacrifice of chastity
-  - **Grave matter (even without full knowledge in some cases) = potentially MORTAL**
+  - **Grave matter (objectively serious; becomes mortal with full knowledge and consent)**
 
 **What makes the difference?**
 - Whether the thought/desire is consented to or resisted
@@ -535,7 +545,7 @@ The priest is **absolutely bound** never to reveal what is confessed, under pain
 - **Truth:** Protects the truth shared in confidence
 - **Justice:** Ensures the penitent's right to privacy
 - **Mercy:** Allows us to confess without fear of exposure
-- **Sacrifice:** The priest sacrifices any knowledge gained for the sake of the penitent's salvation
+- **Sacrifice:** The priest sacrifices the liberty to use any knowledge gained for the sake of the penitent's salvation
 
 ### **When to Go to Confession:**
 
@@ -704,9 +714,9 @@ The saints demonstrate that heroic virtue is possible—not through our own powe
 
 ### **The Goal:**
 
-This is what it means to "work out your own salvation with fear and trembling;" (Philippians 2:12)—to progressively integrate truth, justice, mercy, and sacrifice more perfectly into every aspect of our lives until we become saints.
+This is what it means to "work out your own salvation with fear and trembling" (Philippians 2:12)—to progressively integrate truth, justice, mercy, and sacrifice more perfectly into every aspect of our lives until we become saints.
 
-**We are not condemned to perpetual sin.** We are called to perpetual growth in love. The distinction between mortal and venial sin is a gift that helps us understand where we are, where we need to grow, and how to cooperate with God's grace in becoming the saints He created us to be. Saints that love God so deeply that we feel intimately connected to Him. This love enables true salvation.
+**We are not condemned to perpetual sin.** We are called to perpetual growth in love. The distinction between mortal and venial sin is a gift that helps us understand where we are, where we need to grow, and how to cooperate with God's grace in becoming the saints He created us to be. We become saints who love God so deeply that we are intimately connected to Him. This transformation is the fruit of true salvation.
 
 ---
 
@@ -726,7 +736,7 @@ The four pillars of perfect love—truth, justice, mercy, and sacrifice—provid
 
 **May this understanding lead us not to fear, but to hope**—hope that by God's grace, we can grow in holiness, avoid mortal sin, reduce venial sin, and become the saints God created us to be.
 
-**"For freedom Christ set us free; so stand firm and do not submit again to the yoke of slavery"** (Galatians 5:1). We are free to choose good. We are free to grow in love. We are free to become saints.
+**"For freedom Christ has set us free; stand fast therefore, and do not submit again to a yoke of slavery"** (Galatians 5:1). We are free to choose good. We are free to grow in love. We are free to become saints.
 
 ---
 
@@ -739,7 +749,7 @@ The four pillars of perfect love—truth, justice, mercy, and sacrifice—provid
 - CCC 1420-1498: The Sacrament of Penance and Reconciliation
 
 **Scripture:**
-- 1 John 5:16-17: Deadly and non-deadly sin
+- 1 John 5:16-17: Mortal and non-mortal sin
 - 1 Corinthians 6:9-10: Sins that exclude from the Kingdom
 - James 2:10-11: Different degrees of sin
 - Matthew 5:21-22: Anger and murder both sinful but different

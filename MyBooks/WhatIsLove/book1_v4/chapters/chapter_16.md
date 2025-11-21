@@ -36,9 +36,9 @@ This is crucial: Christ doesn't save us "apart from us"—as if salvation happen
 
 ## Christ as the Lawgiver of the New Law
 
-Jesus doesn't just teach us about love—He *is* the Law of the Gospel incarnate. In the Sermon on the Mount (Matthew 5-7), He reveals what this law looks like in human flesh: "You have heard that it was said... But I say to you..." (Matthew 5:21-22, 27-28, 31-32, 33-34, 38-39, 43-44).
+Jesus doesn't just teach us about love—He *is* the Law of the Gospel incarnate. In the Sermon on the Mount (Matthew 5-7), He reveals what this law looks like in human flesh, repeatedly using the formula: "You have heard that it was said... But I say to you."
 
-Notice what He's doing. He's not abolishing the Old Law but bringing it to perfection—showing that authentic love requires interior transformation, not just external compliance. The Old Law said "Don't murder." Christ says the law written on your heart goes deeper: "Don't even hate" (Matthew 5:21-22). The Old Law said "Don't commit adultery." Christ says: "Don't even lust" (Matthew 5:27-28).
+Notice what He's doing. He's not abolishing the Old Law but bringing it to perfection—showing that authentic love requires interior transformation, not just external compliance. The Old Law commanded, "You shall not kill." Christ says the law written on your heart goes deeper: "Everyone who is angry with his brother shall be liable to judgment" (Matthew 5:21-22). The Old Law commanded, "You shall not commit adultery." Christ says: "Everyone who looks at a woman lustfully has already committed adultery with her in his heart" (Matthew 5:27-28).
 
 This is why the Catechism calls it "the grace of the Holy Spirit received by faith in Christ, operating through charity" (CCC 1972). Christ doesn't just give us rules—He gives us His own Spirit to transform us from within.
 
@@ -102,8 +102,9 @@ Truth in Christ is not oppressive but liberating. It frees us from slavery to si
 
 ## Christ as Perfect Justice
 
-Jesus gives God His due, gives humanity what we're owed, and restores right relationships. "But now the righteousness of God has been manifested apart from the law... the righteousness of God through faith in Jesus Christ for all who believe" (Romans 3:21-22).
-Christ gives God perfect worship, obedience, and glory—the justice we owe but cannot pay. He vindicates the oppressed and defends the vulnerable throughout His ministry. His perfect obedience unto death (Philippians 2:6-8) satisfies divine justice. Though "who in every respect has been tempted as we are, yet without sin" (Hebrews 4:15), He becomes sin for us "so that in him we might become the righteousness of God" (2 Corinthians 5:21).
+Jesus gives God His due, gives humanity what we're owed, and restores right relationships. "But now the righteousness of God has been manifested apart from the law, although the law and the prophets bear witness to it, the righteousness of God through faith in Jesus Christ for all who believe" (Romans 3:21-22).
+
+Christ gives God perfect worship, obedience, and glory—the justice we owe but cannot pay. He vindicates the oppressed and defends the vulnerable throughout His ministry. His perfect obedience unto death (Philippians 2:6-8) satisfies divine justice. Though "who in every respect has been tempted as we are, yet without sin" (Hebrews 4:15), for our sake God made him to be sin who knew no sin, "so that in him we might become the righteousness of God" (2 Corinthians 5:21).
 
 We cannot be justified apart from God's justice—Christ's righteousness is the only basis for our justification. His justice is a free gift offered that we voluntarily accept, enabling us to offer full justice to God, neighbor, and self. This is not mere external imputation but internal transformation.
 
@@ -125,7 +126,7 @@ The thief on the cross—a criminal being executed—hears Jesus say "Truly, I s
 
 ## Christ as Perfect Sacrifice
 
-Jesus' self-giving love on the Cross is the ultimate expression of sacrificial love. "Greater love has no man than this, that a man lay down his life for his friends" (John 15:13). Christ "emptied himself, taking the form of a servant, being born in the likeness of men... he humbled himself and became obedient unto death, even death on a cross" (Philippians 2:7-8).
+Jesus' self-giving love on the Cross is the ultimate expression of sacrificial love. "Greater love has no man than this, that a man lay down his life for his friends" (John 15:13). Christ "emptied himself, taking the form of a servant, being born in the likeness of men." And being found in human form, "he humbled himself and became obedient unto death, even death on a cross" (Philippians 2:7-8).
 
 His sacrifice is complete: "It is finished" (John 19:30). It is once-for-all: "he entered once for all into the Holy Place, taking not the blood of goats and calves but his own blood, thus securing an eternal redemption" (Hebrews 9:12). It is voluntary: "No one takes it from me, but I lay it down of my own accord" (John 10:18).
 
@@ -151,7 +152,7 @@ Jesus came that we might have life and have it abundantly (John 10:10). "I am th
 
 The Resurrection validates everything. "If Christ has not been raised, then our preaching is in vain and your faith is in vain" (1 Corinthians 15:14). But Christ HAS been raised, and in Him we receive new life—not just moral improvement but supernatural transformation. "Therefore, if anyone is in Christ, he is a new creation; the old has passed away, behold, the new has come" (2 Corinthians 5:17).
 
-Eternal life begins now, not just after death. We taste heaven in the sacraments, especially the Eucharist: "unless you eat the flesh of the Son of man and drink his blood, you have no life in you" (John 6:53). Christ is "the bread of life" (John 6:35), and "For as in Adam all die, so also in Christ shall all be made alive" (1 Corinthians 15:22).
+Eternal life begins now, not just after death. We taste heaven in the sacraments, especially the Eucharist: "Truly, truly, I say to you, unless you eat the flesh of the Son of man and drink his blood, you have no life in you" (John 6:53). Christ is "the bread of life" (John 6:35), and "For as in Adam all die, so also in Christ shall all be made alive" (1 Corinthians 15:22).
 
 **The Resurrection Changes Everything:** For the Grieving—death is not the end. Christ promises "he who believes in me, though he die, yet shall he live" (John 11:25). For the Despairing—there is always hope. The stone was rolled away, the tomb is empty. For the Suffering—pain has meaning. Christ's wounds remain glorified in His risen body. For the Sinner—new beginnings are possible. "The old things have passed away; behold, new things have come" (2 Corinthians 5:17).
 
@@ -184,7 +185,7 @@ The Eucharist creates communion: Christ's body unites His Body. When we receive 
 - Evil enslaves; Christ's love liberates and empowers
 - Evil brings death; Christ's love brings eternal life
 
-**Personal Evil (Sin and Guilt):** Christ destroys sin's power through Baptism (Romans 6:3-4), breaks chains through Confession, heals wounds through Eucharist, and transforms nature through grace. We become "partakers of the divine nature" (2 Peter 1:4), having been granted God's "precious and very great promises" that enable us to "escape from the corruption that is in the world because of passion" (2 Peter 1:4).
+**Personal Evil (Sin and Guilt):** Christ destroys sin's power through Baptism (Romans 6:3-4), breaks chains through Confession, heals wounds through Eucharist, and transforms nature through grace. By these "he has granted to us his precious and very great promises, that through these you may escape from the corruption that is in the world because of passion, and become partakers of the divine nature" (2 Peter 1:4).
 
 **Relational Evil (Broken Relationships):** "God was reconciling the world to himself in Christ" (2 Corinthians 5:19). Christ reconciles us vertically to God, horizontally to each other, and internally within ourselves. The Church becomes the household of God (Ephesians 2:19).
 

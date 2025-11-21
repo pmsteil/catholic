@@ -16,19 +16,19 @@
 
 ## The Question That Won't Go Away
 
-We've spent eleven chapters unpacking what God's perfect love is: the sacred gift of covenant which binds truth, justice, mercy, and sacrifice into life-giving communion. We've seen how each facet combats specific forms of evil. We've explored how this love creates authentic relationships and transforms human hearts.
+We've spent ten chapters unpacking what God's perfect love is: the sacred gift of covenant which binds truth, justice, mercy, and sacrifice into life-giving communion. We've seen how each facet combats specific forms of evil. We've explored how this love creates authentic relationships and transforms human hearts.
 
 But now comes the question that skeptics have been asking since the beginning: How do you know God even exists? If love is truly a law—as universal and binding as the law of gravity—how do we know it's not just evolutionary programming or cultural convention?
 
 It's a fair question. If we're basing our entire understanding of love on God's nature, we need to establish that God is real.
 
-Here's the remarkable thing: The very definition of love we've been exploring provides overwhelming evidence for God's existence.
+Here's the remarkable thing: The very definition of love we've been exploring provides powerful evidence for God's existence.
 
 This chapter presents what philosophers call the **moral argument for God's existence**, demonstrating that if love exists as an objective law with the characteristics we've discovered, it requires a lawgiver. Our comprehensive definition of love shows that objective moral values and duties exist, and that only God can ground them.
 
 ## The Moral Argument: Classic Form
 
-The traditional moral argument goes like this:
+The classic moral argument goes like this:
 
 1. **If God does not exist, objective moral values and duties do not exist.**
 2. **Objective moral values and duties do exist.**
@@ -46,7 +46,7 @@ Evolutionary Psychology explains morality as an adaptation. But this explains wh
 
 Cultural Relativism claims morality is just what each culture decides. But this makes morality arbitrary. If the Nazis had won and convinced everyone genocide was good, would that make it actually good? The end: Moral paralysis. We lose all grounds for human rights, moral progress, or cross-cultural moral judgment. Might makes right.
 
-Utilitarianism grounds morality in "the greatest good for the greatest number." But who defines "good"? If you could save five people by killing one innocent person, should you do it? Utilitarianism says yes. Our moral intuition says no. The end: The sacrifice of individuals for the collective. Utilitarianism leads to forced organ harvesting, compulsory euthanasia, and totalitarian control.
+Utilitarianism grounds morality in "the greatest good for the greatest number." But who defines "good"? If you could save five people by killing one innocent person, should you do it? Utilitarianism says yes. Our moral intuition says no. The end: The sacrifice of individuals for the collective. Utilitarian logic can justify forced organ harvesting, compulsory euthanasia, and totalitarian control.
 
 Without God, every attempt to ground objective morality fails. As we explored in Chapter 3, this is why the Enlightenment's attempt to build morality on human reason alone collapsed—each one rejecting God's authority and replacing it with human preference.
 
@@ -108,7 +108,7 @@ Love flows from God's nature—not arbitrary commands but the blueprint of reali
 
 ## Why Only God Can Ground Love
 
-Only God can ground the objective moral order we've discovered. Love requires: a personal source (only a personal God grounds personal obligations), an eternal foundation (only an eternal God grounds eternal truths), infinite authority (only an infinite God creates universal obligations), perfect integration (only a perfect God sources perfect integration), and sacred origin (only God sources the sacred).
+Only God can ground the objective moral order we've discovered. Love requires a personal source—only a personal God grounds personal obligations. It needs an eternal foundation—only an eternal God grounds eternal truths. It demands infinite authority—only an infinite God creates universal obligations. It requires perfect integration and a sacred origin—which only God can source.
 
 The comprehensive nature of authentic love—its integration of multiple objective requirements, its universal binding force, its eternal truth, its sacred character—points unmistakably to God as its source.
 
@@ -150,7 +150,7 @@ This isn't just intellectual exercise—it's an invitation to encounter the God 
 
 The question isn't just "Does God exist?" The question is: Does love exist at all? Not just feelings or preferences—but love as we've defined it throughout this book. If love is truly a law of our universe—as universal and binding as the law of gravity—then it must have the characteristics we've discovered: objectivity, universality, binding force, integration, coherence. And if love has all these characteristics of a law, then like every law, it requires a lawgiver. You can't have the law of love without an Author of love.
 
-This law is not arbitrary (it flows from God's nature). It's not coercive (we freely recognize it as true). It's not external (the Holy Spirit writes it on our hearts). It's not burdensome (it liberates us to become who we were created to be). As Jesus promised, "You will know the truth, and the truth will set you free" (John 8:32).
+This law is not arbitrary (it flows from God's nature). It's not coercive (we freely recognize it as true). It's not external (the Holy Spirit writes it on our hearts). It's not burdensome (it liberates us to become who we were created to be). As Jesus promised, "you will know the truth, and the truth will make you free" (John 8:32).
 
 <div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
 If love exists as an objective law of the universe with objectivity, universality, binding force, integration, and coherence, then it requires a lawgiver. Every genuine act of love is an encounter with the God who is Love, the Author of the law written on our hearts.
@@ -161,7 +161,7 @@ If love exists as an objective law of the universe with objectivity, universalit
 The Catholic Church gives us a beautiful name for this law: **the Law of the Gospel** (CCC 1965-1974). This is not a burden imposed from outside, but God's own interior law of love written on our hearts through the Holy Spirit. As St. Paul tells us:
 
 <div class="blockquote">
-"For the law of the Spirit of life in Christ Jesus has set you free from the law of sin and death."
+"For the law of the Spirit of life in Christ Jesus has set me free from the law of sin and death."
 
 \hfill\small — Romans 8:2
 </div>
@@ -190,7 +190,7 @@ Every person you meet already lives according to this law imperfectly—it's the
 
 **Your witness matters more than your words.** When you live authentically—integrating truth, justice, mercy, and sacrifice in your daily life—others see the Law of the Gospel made visible. Your sacrificial love becomes evidence that God exists. Your joy in obedience becomes an invitation to freedom.
 
-As Jesus said, "Be perfect, as your heavenly Father is perfect" (Matthew 5:48). Not because perfection is a burden, but because it's your destiny. You were created to love as God loves—perfectly integrating all the facets we've explored. And when you pursue this perfection through grace, **others will come to know God through your sacrifice.**
+As Jesus said, "You, therefore, must be perfect, as your heavenly Father is perfect" (Matthew 5:48). Not because perfection is a burden, but because it's your destiny. You were created to love as God loves—perfectly integrating all the facets we've explored. And when you pursue this perfection through grace, **others will come to know God through your sacrifice.**
 
 This is how the Gospel spreads: not through coercion, but through witness. Not by imposing law from outside, but by helping others recognize the law already written within. Not by argument alone, but by lives that demonstrate the freedom and flourishing that come from conforming to God's love.
 
@@ -205,7 +205,7 @@ Virtues are habits that align us with God's love. Vices distort or deny it. Unde
 ## Further Study
 
 ### Scripture
-- **Romans 8:2:** "For the law of the Spirit of life in Christ Jesus has set you free from the law of sin and death" - the Law of the Gospel as interior liberation
+- **Romans 8:2:** "For the law of the Spirit of life in Christ Jesus has set me free from the law of sin and death" - the Law of the Gospel as interior liberation
 - **Galatians 6:2:** "Bear one another's burdens, and so fulfil the law of Christ" - the Law of the Gospel as mutual love
 - **John 13:34:** "A new commandment I give to you, that you love one another; even as I have loved you" - Jesus establishes the New Law
 - **Jeremiah 31:33:** "I will put my law within them, and I will write it upon their hearts" - prophecy of the Law of the Gospel

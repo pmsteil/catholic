@@ -21,6 +21,10 @@ header-includes:
   - |
     \usepackage{parskip}
   - |
+    \usepackage{pifont}
+    \providecommand{\cmark}{\ding{51}}
+    \providecommand{\xmark}{\ding{55}}
+  - |
     \usepackage{xcolor}
     \definecolor{crimsontext}{HTML}{541e23}
     \definecolor{goldframe}{HTML}{be985c}

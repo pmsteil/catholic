@@ -22,7 +22,7 @@ The modern world is flooded with imitations that claim to be love but lack essen
 
 But we now have a diagnostic tool. Just as a jeweler tests gold against a standard, we can examine any claim about love against our comprehensive definition: **God's Perfect Love is the sacred gift of covenant which binds truth, justice, mercy, and sacrifice into life-giving communion.** If any component is missing or distorted, it's counterfeit—and counterfeits always cause harm.
 
-This chapter systematically examines twenty-three modern counterfeits, showing precisely what each eliminates or distorts, why it fails, and how God's Perfect Love provides the authentic good these counterfeits promise but cannot deliver. The pattern will become clear: **incomplete love isn't love at all**—it's a distortion that creates the very evils it claims to solve.
+This chapter systematically examines twelve modern counterfeits, showing precisely what each eliminates or distorts, why it fails, and how God's Perfect Love provides the authentic good these counterfeits promise but cannot deliver. The pattern will become clear: **incomplete love isn't love at all**—it's a distortion that creates the very evils it claims to solve.
 
 ---
 
@@ -69,7 +69,7 @@ For each counterfeit, we'll use a diagnostic table showing which components are 
 
 **Why It Fails:** Moral paralysis. If all truth is socially constructed, we cannot call anything truly wrong. Love becomes mere preference with no way to resolve conflicts.
 
-**How Good Overcomes Evil:** God's Perfect Love is rooted in Truth—the eternal Logos who became flesh (John 1:14). Objective truth liberates us from subjective opinion, enabling authentic justice, mercy, and communion. "and you will know the truth, and the truth will make you free" (John 8:32).
+**How Good Overcomes Evil:** God's Perfect Love is rooted in Truth—the eternal Logos who became flesh (John 1:14). Objective truth liberates us from subjective opinion, enabling authentic justice, mercy, and communion. "If you continue in my word, you are truly my disciples, and you will know the truth, and the truth will make you free" (John 8:32).
 
 ### Marxism: "Love Is Class Solidarity"
 
@@ -125,7 +125,7 @@ For each counterfeit, we'll use a diagnostic table showing which components are 
 
 **Why It Fails:** Denying reality harms those it claims to help. Children are sterilized for ideology. Truth becomes "hate speech." Compassion becomes complicity in self-destruction.
 
-**How Good Overcomes Evil:** God's Perfect Love offers true compassion that speaks truth in love—affirming the person's infinite dignity while calling them to their authentic identity in God's design. Real mercy seeks the person's true good, not just their comfort. "Rather, speaking the truth in love, we are to grow up in every way into him who is the head, into Christ," (Ephesians 4:15).
+**How Good Overcomes Evil:** God's Perfect Love offers true compassion that speaks truth in love—affirming the person's infinite dignity while calling them to their authentic identity in God's design. Real mercy seeks the person's true good, not just their comfort. "Rather, speaking the truth in love, we are to grow up in every way into him who is the head, into Christ, from whom the whole body, joined and knit together by every joint with which it is supplied, when each part is working properly, makes bodily growth and upbuilds itself in love" (Ephesians 4:15-16).
 
 ### Gender Ideology: "Love Means Affirming Gender Identity"
 
@@ -218,7 +218,7 @@ Each framework fails because it denies one or more essential components of God's
 
 **Why It Fails:** Society cannot function without shared reality. Relativism makes love arbitrary and fragments communities into competing subjective preferences.
 
-**How Good Overcomes Evil:** God's Perfect Love calls us to live in objective truth that liberates us from the slavery of sin. "and you will know the truth, and the truth will make you free" (John 8:32). Only truth grounded in reality enables authentic justice, mercy, and communion.
+**How Good Overcomes Evil:** God's Perfect Love calls us to live in objective truth that liberates us from the slavery of sin. "If you continue in my word, you are truly my disciples, and you will know the truth, and the truth will make you free" (John 8:32). Only truth grounded in reality enables authentic justice, mercy, and communion.
 
 ---
 
@@ -366,9 +366,9 @@ Each framework fails because it denies one or more essential components of God's
 
 **What's Missing:** "Bible alone" makes each person their own authority to interpret Scripture privately, destroying truth (thousands of contradictory interpretations), covenant (no binding Church authority), and communion (endless division into competing denominations). Worse, this division provides terrible witness to the world, dividing Christ Himself and bolstering postmodernist claims that there is no objective truth, thereby supporting the relativism destroying modern society.
 
-**Why It Fails:** Thousands of Protestant denominations (divisions), each claiming biblical authority, while in reality the "bible alone" tradition teaches each person to correctly interpret all of Scripture themselves. But consider the impossibility: Scripture spans thousands of years, multiple languages, diverse cultures, complex literary genres, intricate theological connections where the Old Testament prefigures the New, and a unified narrative as integrated as our definition of perfect love itself. Each individual is expected to master ancient Near Eastern customs, Greco-Roman context, Hebrew and Greek linguistics, typology, prophecy fulfillment, and the interconnections between all 73 books—then correctly interpret individual passages without authoritative guidance. It's like expecting every scientist to start from first principles of physics, rediscover calculus, and independently derive quantum mechanics before conducting a single experiment. The result is predictable: contradictory interpretations, doctrinal chaos, and endless division. This unsacred tradition has no mechanism to resolve disputes (thus why every mainline Protestant denomination has split over issues like homosexuality, women's ordination, and countless other doctrines).
+**Why It Fails:** Thousands of Protestant denominations (divisions), each claiming biblical authority, while in reality the "bible alone" tradition teaches each person to correctly interpret all of Scripture themselves. But consider the impossibility: Scripture spans thousands of years, multiple languages, diverse cultures, complex literary genres, intricate theological connections where the Old Testament prefigures the New, and a unified narrative as integrated as our definition of perfect love itself. Each individual is expected to master ancient Near Eastern customs, Greco-Roman context, Hebrew and Greek linguistics, typology, prophecy fulfillment, and the interconnections between all 73 books—then correctly interpret individual passages without authoritative guidance. It's like expecting every scientist to start from first principles of physics, rediscover calculus, and independently derive quantum mechanics before conducting a single experiment. The result is predictable: contradictory interpretations, doctrinal chaos, and endless division. This human tradition has no mechanism to resolve disputes (this is why every mainline Protestant denomination has split over issues like homosexuality, women's ordination, and countless other doctrines).
 
-**How Good Overcomes Evil:** God's Perfect Love transmits truth through Scripture, Sacred Tradition, and the Magisterium (the teaching authority given by Jesus to teach all nations everything He commanded) working together—this three-legged stool ensures faithful interpretation, maintains covenant unity under apostolic authority, and preserves communion across time and cultures. "if I am delayed, you may know how one ought to behave in the household of God, which is the church of the living God, the pillar and bulwark of the truth" (1 Timothy 3:15).
+**How Good Overcomes Evil:** God's Perfect Love transmits truth through Scripture, Sacred Tradition, and the Magisterium (the teaching authority given by Jesus to teach all nations everything He commanded) working together—this three-legged stool ensures faithful interpretation, maintains covenant unity under apostolic authority, and preserves communion across time and cultures. "I hope to come to you soon, but I am writing these instructions to you so that, if I am delayed, you may know how one ought to behave in the household of God, which is the church of the living God, the pillar and bulwark of the truth" (1 Timothy 3:14-15).
 
 ### "Once Saved, Always Saved": Presumption
 
@@ -407,7 +407,7 @@ Each framework fails because it denies one or more essential components of God's
 Every counterfeit is identifiable by what it's missing. Partial love isn't love at all—it's a distortion that causes harm. Only God's Perfect Love has all nine components working together, which is why only it can answer the problem of evil completely.
 </div>
 
-After examining twenty-three counterfeits across three categories, a clear pattern emerges:
+After examining twelve counterfeits across three categories, a clear pattern emerges:
 
 **Every counterfeit eliminates or distorts at least one essential component** of God's Perfect Love. Some remove truth (relativism, sentimentalism). Others eliminate justice (cheap grace, enabling). Still others reject sacrifice (self-fulfillment ideologies). But the result is always the same: **incomplete love creates the very evils it claims to solve.**
 
@@ -423,7 +423,7 @@ The diagnostic tables reveal why our definition matters. It's not arbitrary. It'
 
 The counterfeits we've examined aren't just theoretical errors. Each creates real suffering—especially for children, as the next chapter will demonstrate. When adults embrace counterfeit love, children pay the price. The ultimate test of any "love" is simple: **Does it protect and nurture the next generation?**
 
-Twenty-three counterfeits. Twenty-three failures of this test. Only God's Perfect Love passes—because only it has everything children need to flourish.
+Twelve counterfeits. Twelve failures of this test. Only God's Perfect Love passes—because only it has everything children need to flourish.
 
 ---
 

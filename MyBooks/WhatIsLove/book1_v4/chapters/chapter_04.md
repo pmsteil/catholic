@@ -40,9 +40,9 @@ Love requires covenant, not contract. Contracts are conditional and temporary—
 
 Our culture has forgotten the difference between covenant and contract. This confusion destroys families, fractures communities, and leaves a generation terrified of commitment.
 
-**Contracts:** Based on mutual benefit ("I'll do this if you do that"), conditional ("as long as you meet these terms"), temporary ("until expiration or breach"), self-interested ("what's in it for me?"), breakable ("if you violate terms, I'm out"). Create business relationships.
+**Contracts** are based on mutual benefit and conditions. They say, "I'll do this if you do that." They are temporary and self-interested, asking "what's in it for me?" And they are breakable—if you violate the terms, I'm out. They create business relationships.
 
-**Covenants:** Based on mutual gift ("I give myself to you completely"), unconditional ("no matter what happens"), permanent ("until death"), other-centered ("what can I give you?"), unbreakable ("even if you fail, I remain faithful"). Create family bonds.
+**Covenants** are based on mutual gift. They say, "I give myself to you completely." They are unconditional ("no matter what happens") and permanent ("until death"). They are other-centered ("what can I give you?") and unbreakable ("even if you fail, I remain faithful"). They create family bonds.
 
 When we treat marriage as contract, we constantly evaluate: "Are you meeting my needs? Holding up your end? Is this still worth it?" The moment cost-benefit analysis tips negative, we're out.
 
@@ -82,6 +82,8 @@ The New Covenant's difference: "I will put my law within them, and I will write 
 
 This is why covenant creates permanent relationship while contracts remain fragile. Contracts depend on external enforcement. But when God's law is written on your heart, you follow it because you recognize it as true and freely cooperate with grace. The Holy Spirit transforms you from within, enabling you to freely embrace what God freely offers (CCC 1972).
 
+But this idea of "embracing" God's law brings us to a difficult word, one that our culture often rejects: Authority.
+
 ## Authority Properly Understood: Invitation vs. Force
 
 Here's where we need to be careful. The word "authority" has been so abused—by tyrants, by abusers, by those who use power to dominate—that many people recoil from it. But this is because we don't understand what a "true" authority is.
@@ -102,10 +104,7 @@ Think about it practically:
 
 If humans are the source of morality, which humans decide? Ancient Sparta thought exposing weak infants was "just." Modern progressives think aborting them is "just." Without a transcendent standard, morality becomes a power struggle. **When morality is authored by humans rather than received from divine authority, it must be imposed through force.** This is what happens when humans try to fabricate justice using limited human opinion rather than divine authority.
 
-This is why every atheistic political system has ended in mass murder:
-- Nazi fascism: 11+ million dead
-- Soviet communism: 20+ million dead
-- Chinese communism: 45+ million dead
+This is why every atheistic political system has ended in mass murder. Nazi fascism left over 11 million dead. Soviet communism killed more than 20 million. Chinese communism claimed over 45 million lives.
 
 **These aren't accidents—they're the logical outcome of rejecting God's authority.** When morality is grounded in human power rather than divine truth, it must be imposed through terror. The gulags and killing fields are what happen when humans try to fabricate justice without depending on God's true authority. The wages of sin (not getting love right) truly are death.
 
@@ -168,7 +167,7 @@ The same test applies to wives. Do you love your husband for who he is—a man c
 
 This same test applies to God. Do we love Him for who He is—the source of all love, truth, justice, and mercy? Or for what He gives—blessings, answered prayers, eternal life?
 
-Job faced this ultimate test: "Though he slay me, yet will I trust in him" (Job 13:15). He loved God even when he lost children, wealth, health—everything that made life worth living. Why? Because his love was for WHO God is, not WHAT God provides.
+Job faced this ultimate test: "The LORD gave, and the LORD has taken away; blessed be the name of the LORD" (Job 1:21). He loved God even when he lost children, wealth, health—everything that made life worth living. Why? Because his love was for WHO God is, not WHAT God provides.
 
 This is the test of authentic love: Do we love God even when He gives us nothing? For His own sake—because He IS Love, Truth, Justice, Mercy—or only for benefits we hope to receive?
 
@@ -236,7 +235,7 @@ These fears are real. But here's what our culture doesn't tell you: **You're wai
 
 When will you be "ready"? When you have enough money? There's never enough. When you've traveled enough? There's always one more place. When you've "found yourself"? Pope Saint John Paul II already gave us the answer: "Man cannot fully find himself except through a sincere gift of himself." You don't find yourself by looking inward—you find yourself by giving yourself away.
 
-**The culture's vicious cycle:** Wait until ready → Stay self-focused → Never develop capacity for self-gift → Feel less ready → Wait longer → Lose capacity for covenant entirely.
+**The culture's vicious cycle works like this:** We wait until we're ready, so we stay focused on "self". Because we're self-focused, we never develop the capacity for self-gift. This makes us feel *less* ready, so we wait even longer, while our capacity for covenant love withers from lack of practice.
 
 **The truth covenant reveals:** Marriage doesn't require perfection—it requires willingness. The covenant itself forms you. The daily choice to love when it's hard, to sacrifice when exhausted, to remain faithful when tempted—this makes you "ready." You don't get ready for marriage and then enter it. You enter marriage and it makes you ready for life.
 

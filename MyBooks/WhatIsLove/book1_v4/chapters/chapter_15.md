@@ -1,4 +1,4 @@
-# The Generational Consequences - How Counterfeit Love Destroys Children and God's Perfect Love Builds Flourishing
+# The Generational Consequences: How Counterfeit Love Destroys Children
 
 <div class="blockquote">
 "Whoever receives one such child in my name receives me; but whoever causes one of these little ones who believe in me to sin, it would be better for him to have a great millstone fastened round his neck and to be drowned in the depth of the sea."
@@ -22,7 +22,7 @@ Adults debate autonomy, equality, personal authenticity, and happiness. They cra
 
 This isn't just about ideas—it's about real children experiencing real suffering. Not just one generation—these wounds compound across generations, creating cascading destruction that threatens civilization itself.
 
-The test of any "love" is simple: **Does it give children what they need to flourish?** In the previous chapter, we examined twenty-three counterfeits and showed what each is missing. Now we apply the ultimate test: What do they do to children? The answer is devastating. Every single counterfeit harms children in predictable ways because each is missing essential components of God's Perfect Love.
+The test of any "love" is simple: **Does it give children what they need to flourish?** In the previous chapter, we examined various counterfeits and showed what each is missing. Now we apply the ultimate test: What do they do to children? The answer is devastating. Every single counterfeit harms children in predictable ways because each is missing essential components of God's Perfect Love.
 
 Jesus' words are uncompromising: causing little ones to stumble merits the harshest judgment. Their angels behold the Father's face. Children are not collateral damage in adult ideological battles—they are persons with sacred dignity, rights, and needs that authentic love must protect and nurture.
 
@@ -32,15 +32,15 @@ Jesus' words are uncompromising: causing little ones to stumble merits the harsh
 
 Before examining how counterfeits fail, we must understand what children actually need. God's Perfect Love provides six essential components:
 
-**1. Truth - Knowing Reality:** Children need to understand the world as it actually is. "Train up a child in the way he should go" (Proverbs 22:6). Confusion about reality creates anxiety and inability to navigate life. God's Perfect Love provides objective truth grounded in God's design.
+**1. Truth - Knowing Reality:** Children need to understand the world as it actually is. "Train up a child in the way he should go, and when he is old he will not depart from it" (Proverbs 22:6). Confusion about reality creates anxiety and inability to navigate life. God's Perfect Love provides objective truth grounded in God's design.
 
-**2. Justice - Security and Protection:** Children need to know they have rights, dignity, and protection. "Give justice to the weak and the orphan" (Psalm 82:3-4). Without justice, children are vulnerable to exploitation. God's Perfect Love provides recognition of sacred dignity, rights to mother and father, and protection through covenant.
+**2. Justice - Security and Protection:** Children need to know they have rights, dignity, and protection. "Give justice to the weak and the fatherless; maintain the right of the afflicted and the destitute" (Psalm 82:3). Without justice, children are vulnerable to exploitation. God's Perfect Love provides recognition of sacred dignity, rights to mother and father, and protection through covenant.
 
-**3. Mercy - Healing When Things Go Wrong:** Children need forgiveness, second chances, and restoration. "The steadfast love of the LORD never ceases" (Lamentations 3:22-23). Without mercy, children carry wounds that never heal. God's Perfect Love provides compassionate forgiveness that calls to conversion and healing.
+**3. Mercy - Healing When Things Go Wrong:** Children need forgiveness, second chances, and restoration. "The steadfast love of the Lord never ceases, his mercies never come to an end" (Lamentations 3:22). Without mercy, children carry wounds that never heal. God's Perfect Love provides compassionate forgiveness that calls to conversion and healing.
 
-**4. Sacrifice - Adults Who Put Children First:** Children need parents willing to give up personal desires for their good. "Do nothing from selfishness or conceit" (Philippians 2:3-4). Without sacrifice, children are abandoned when costly. God's Perfect Love provides self-giving love that prioritizes children's needs over adult desires.
+**4. Sacrifice - Adults Who Put Children First:** Children need parents willing to give up personal desires for their good. "Do nothing from selfishness or conceit, but in humility count others better than yourselves" (Philippians 2:3). Without sacrifice, children are abandoned when costly. God's Perfect Love provides self-giving love that prioritizes children's needs over adult desires.
 
-**5. Covenant - Stable, Permanent Relationships:** Children need to know their family won't dissolve, that promises are kept. God hates divorce because He seeks "godly offspring" (Malachi 2:15-16). Without covenant, children live in constant insecurity. God's Perfect Love provides binding promises that create safety.
+**5. Covenant - Stable, Permanent Relationships:** Children need to know their family won't dissolve, that promises are kept. "Has not the one God made and sustained for us the spirit of life? And what does he desire? Godly offspring" (Malachi 2:15). Without covenant, children live in constant insecurity. God's Perfect Love provides binding promises that create safety.
 
 **6. Life-Giving Communion - Belonging to Family and Community:** Children need to be part of something larger than themselves. The family is the domestic church (Ephesians 6:1-4). Without communion, children are isolated. God's Perfect Love provides generational bonds, extended family, and Church community.
 
@@ -52,7 +52,7 @@ Children need ALL six components working together. Remove any one, and children 
 
 ## The Pattern of Generational Destruction
 
-In Chapter 14, we examined 23 counterfeits that masquerade as love. Now we apply the ultimate test: Do they protect and nurture children? The answer is devastating. Every single counterfeit harms children in predictable ways because each is missing essential components of God's Perfect Love.
+In the previous chapter, we examined the landscape of counterfeit love. Now we apply the ultimate test: Do they protect and nurture children? The answer is devastating. Every single counterfeit harms children in predictable ways because each is missing essential components of God's Perfect Love.
 
 We can map exactly what's missing—and see precisely how children suffer as a result. For each category, we'll show the pattern of distortion, then explain how children suffer across generations.
 
@@ -242,7 +242,7 @@ The test of any "love" is simple: Does it give children what they need to flouri
 
 **The Evidence:**
 
-Twenty-three counterfeits, twenty-three failures of the test. Only God's Perfect Love passes—because only it has ALL the components children need.
+Many counterfeits, many failures of the test. Only God's Perfect Love passes—because only it has ALL the components children need.
 
 **The Stakes:**
 

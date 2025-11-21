@@ -21,7 +21,7 @@
 <div class="blockquote">
 "Into thy hand I commit my spirit; thou hast redeemed me, O LORD, faithful God."
 
-\hfill\small — Psalm 31:6
+\hfill\small — Psalm 31:5
 </div>
 
 ---
@@ -96,6 +96,8 @@ And lies are still deadly today—destroying marriages, families, communities, n
 
 ## The Biblical Concept of Truth (Emet)
 
+But what is this "Truth" that Jesus died for? To understand, we must look at the ancient Hebrew concept that shaped Scripture.
+
 The Hebrew word for truth—*emet*—means more than just factual accuracy. It means faithfulness, reliability, stability, and reality—truth you can rely on that corresponds to what actually is.
 
 St. Thomas Aquinas captured this: "Truth is the conformity of the intellect to reality" (*Summa Theologica* I, q.16, a.2). Truth isn't something we create—it's something we discover by aligning our minds with what actually is. Truth is objective: it exists independently of our opinions, feelings, or preferences.
@@ -104,7 +106,7 @@ St. Thomas Aquinas captured this: "Truth is the conformity of the intellect to r
 
 This is soul formation in action. A child who is consistently given truth develops a well-formed conscience that can discern right from wrong. An adult who practices truth develops a soul that naturally gravitates toward what is real and rejects what is false. We become truth-tellers because our souls have been shaped by Truth Himself. This isn't just about avoiding lies—it's about becoming people whose very nature reflects reality, whose character embodies truthfulness.
 
-God has made truth accessible through natural law (written on our hearts), Scripture, and the Church's teaching authority. The Church works like science: building on accumulated wisdom. We don't start each generation rediscovering what Christ's death means or what the Trinity is. We have two thousand years of wisdom—from the Apostles through the Church Fathers, theologians, councils, and saints. The Church receives, guards, and transmits divine revelation intact to each generation.
+God has made truth accessible through natural law (written on our hearts), Scripture, and the Church's teaching authority. The Church relies on accumulated wisdom, growing in understanding over centuries. We don't start each generation rediscovering what Christ's death means or what the Trinity is. We have two thousand years of wisdom—from the Apostles through the Church Fathers, theologians, councils, and saints. The Church receives, guards, and transmits divine revelation intact to each generation.
 
 This is why both the Enlightenment's "reason alone" and Protestantism's "Scripture alone" failed—they rejected the accumulated wisdom of the Church, forcing each generation (or individual) to rediscover truth without guidance. The result: competing interpretations, each person becoming their own authority. Without the Church to preserve authentic meaning, "Scripture alone" becomes "my interpretation alone."
 
@@ -190,9 +192,9 @@ To remain as one body, as one bread, as one communion, we need one Church with H
 
 Jesus didn't just give us a book and wish us luck. He established a Church with His own authority:
 
-**All Authority Given to Christ and His Church:** "And Jesus came and said to them, 'All authority in heaven and on earth has been given to me. Go therefore and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, teaching them to observe all that I have commanded you'" (Matthew 28:18-20). Christ has total authority—and He shares it with His Church, commissioning her not just to write it down and let everyone interpret it themselves, but to actively teach with authority. Notice the profound significance: they are to baptize and teach "in the name of" the Trinity—meaning with His authority, by His power, as His representatives. When the Church teaches, Christ Himself teaches.
+**Christ Shares His Authority with His Church:** "And Jesus came and said to them, 'All authority in heaven and on earth has been given to me. Go therefore and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, teaching them to observe all that I have commanded you'" (Matthew 28:18-20). Christ has total authority—and He shares it with His Church, commissioning her not just to write it down and let everyone interpret it themselves, but to actively teach with authority. Notice the profound significance: they are to baptize and teach "in the name of" the Trinity—meaning with His authority, by His power, as His representatives. When the Church teaches, Christ Himself teaches.
 
-**Authority Given to Peter:** "And I tell you, you are Peter, and on this rock I will build my church, and the powers of death shall not prevail against it. I will give you the keys of the kingdom of heaven, and whatever you bind on earth shall be bound in heaven, and whatever you loose on earth shall be loosed in heaven" (Matthew 16:18-19). In Jewish tradition, "binding and loosing" was the technical language for rabbinic authority to make authoritative interpretations of God's law.
+**Authority Given to Peter:** "And I tell you, you are Peter, and on this rock I will build my church, and the gates of Hades shall not prevail against it. I will give you the keys of the kingdom of heaven, and whatever you bind on earth shall be bound in heaven, and whatever you loose on earth shall be loosed in heaven." (Matthew 16:18-19). In Jewish tradition, "binding and loosing" was the technical language for rabbinic authority to make authoritative interpretations of God's law.
 
 **Authority Given to the Apostles:** "He who hears you hears me, and he who rejects you rejects me, and he who rejects me rejects him who sent me" (Luke 10:16). To hear the Church is to hear Christ Himself.
 

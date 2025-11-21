@@ -58,7 +58,7 @@ When you say "Child abuse is wrong," what you really mean—if there's no God—
 
 And the moment you recognize that—the moment you insist that some things are objectively unjust regardless of what anyone thinks—you are appealing to an objective standard of justice. A transcendent measure against which all human actions can be judged.
 
-And that standard cannot be human opinion (because humans disagree). It cannot be cultural convention (because cultures differ). It cannot be evolutionary advantage (because evolution cannot explain the transcendent source of the moral feelings themselves—the chemical reactions in our bodies that produce feelings of despair or resentment when we experience injustice have no ability to explain why those chemicals flow in the first place). It cannot be majority vote (because majorities can be wrong). It cannot be personal feeling (because feelings conflict).
+And that standard cannot be human opinion (because humans disagree). It cannot be cultural convention (because cultures differ). It cannot be evolutionary advantage (because evolution might explain a survival instinct, but it cannot explain the transcendent moral *authority* of that instinct—why we *ought* to obey it rather than ignore it). It cannot be majority vote (because majorities can be wrong). It cannot be personal feeling (because feelings conflict).
 
 **The standard must be eternal, unchanging, and absolute. It must transcend all human systems and preferences. In other words, it must be God Himself.**
 
@@ -172,7 +172,12 @@ The Catholic Sacrament of Reconciliation perfectly demonstrates how justice and 
 
 The sacrament doesn't choose between justice and mercy—it integrates both. Notice how the structure honors both, grounded in truth about human nature:
 
-We must face the truth about our sins (examination). We must speak our sins aloud—truth reveals that we NEED to confess, to bring sin into the light. We must genuinely repent—recognizing we've violated something sacred. We must accept consequences and make amends—when we commit grave sins, we feel a deep need to "make up" for what we've done. Simply being told "you're forgiven" might not be enough—we feel the need to DO something to make amends. The sacrament honors this truth about how we're made. God offers complete forgiveness—mercy transcending what justice requires. We commit to change—justice and mercy together leading to transformation.
+1. **We must face the TRUTH (Examination).** We stop hiding behind excuses and align our minds with the reality of our sin.
+2. **We must acknowledge the demands of JUSTICE (Confession).** By speaking our sins aloud, we admit we have violated the covenant and owe a debt to God and neighbor.
+3. **We must open ourselves to MERCY (Contrition).** We turn away from our pride and ask God to forgive a debt we cannot pay.
+4. **We must offer a SACRIFICE to make amends (Penance).** We feel the deep need to "make up" for what we've done, so we offer a sacrificial act to participate in healing the wound and restoring the balance.
+
+The sacrament honors this truth about how we're made. God offers complete forgiveness—mercy transcending what justice requires. We commit to change—justice and mercy together leading to transformation.
 
 This is love in action—truth about sin, justice requiring acknowledgment, mercy offering forgiveness, all working together to heal and restore. The sacrament shows us that authentic love never chooses between truth, justice, and mercy; it holds them in perfect tension, each making the others more powerful.
 
