@@ -162,6 +162,36 @@ def transform_html_widgets(markdown: str) -> str:
     return markdown
 
 
+def filter_conditional_content(text: str, profile: Optional[str]) -> str:
+    """
+    Filter content based on profile.
+    - If profile contains 'audio' (e.g. 'audiotxt', 'audiopdf'): remove .print-only, keep .audio-only
+    - Otherwise: remove .audio-only, keep .print-only
+    """
+    # Pattern for matching the divs with content
+    # Use more robust pattern for attributes (handles both ' and ")
+    print_pattern = re.compile(r'<div[^>]*class=["\']print-only["\'][^>]*>(.*?)</div>', re.DOTALL | re.IGNORECASE)
+    audio_pattern = re.compile(r'<div[^>]*class=["\']audio-only["\'][^>]*>(.*?)</div>', re.DOTALL | re.IGNORECASE)
+
+    def unwrap(match):
+        # Return the content inside the div, stripped of leading/trailing whitespace
+        return match.group(1).strip()
+
+    # Check if profile indicates audio (audiotxt, audiopdf, etc)
+    is_audio = (profile and "audio" in profile)
+
+    if is_audio:
+        # For audio: remove print-only, unwrap audio-only
+        text = print_pattern.sub('', text)
+        text = audio_pattern.sub(unwrap, text)
+    else:
+        # For print (default/others): remove audio-only, unwrap print-only
+        text = audio_pattern.sub('', text)
+        text = print_pattern.sub(unwrap, text)
+
+    return text
+
+
 def preprocess_files(files: List[str], profile: Optional[str] = None) -> List[str]:
     # Write transformed files to a temp directory and return their paths
     tmpdir = tempfile.mkdtemp(prefix="book_build_")
@@ -181,7 +211,7 @@ def preprocess_files(files: List[str], profile: Optional[str] = None) -> List[st
     frontmatter_star = os.environ.get("FRONTMATTER_STAR") == "1"
     debug_dump_pre = os.environ.get("DEBUG_DUMP_PREPROCESSED") == "1"
     debug_log = os.environ.get("DEBUG_LOG") == "1"
-    
+
     # For audiotxt profile, add chapter numbers to markdown headings
     add_chapter_numbers = (profile == "audiotxt")
 
@@ -211,6 +241,10 @@ def preprocess_files(files: List[str], profile: Optional[str] = None) -> List[st
             # Fallback if encoding issues
             with open(path, "r", encoding="latin-1") as f:
                 content = f.read()
+
+        # Filter conditional content based on profile
+        content = filter_conditional_content(content, profile)
+
         transformed = transform_html_widgets(content)
 
         # For audiotxt profile, remove LaTeX commands
@@ -226,7 +260,7 @@ def preprocess_files(files: List[str], profile: Optional[str] = None) -> List[st
             transformed = re.sub(r'\\thispagestyle\{[^}]*\}\s*', '', transformed)
 
         name_only = Path(path).name
-        
+
         # For audiotxt profile, add chapter numbers to markdown headings
         if add_chapter_numbers:
             # Extract chapter number from filename (e.g., chapter_01.md -> 1, chapter_15.md -> 15)
@@ -276,7 +310,7 @@ def preprocess_files(files: List[str], profile: Optional[str] = None) -> List[st
             toc_inserted = True
             if debug_log:
                 print(f"[build] inserted TOC before {name_only}")
-        
+
         # When we reach the first numbered chapter file, switch to main matter via a raw TeX block in Markdown
         if not mainmatter_inserted and (name == "chapter_01.md" or name.startswith("chapter_01.")):
             mainmatter_file = Path(tmpdir) / "01__mainmatter.md"
@@ -404,7 +438,7 @@ def build_pdf(files: List[str], profile: Optional[str]) -> Path:
 
     # Set active profile
     active_profile = profile or "default"
-    
+
     # Determine output path and format
     if active_profile == "audiotxt":
         output_file = ROOT_DIR / f"WhatIsLove_book.{profile}.txt"
@@ -424,14 +458,14 @@ def build_pdf(files: List[str], profile: Optional[str]) -> Path:
         *metadata_args,
         f"--metadata=profile={active_profile}",
     ]
-    
+
     # Add format-specific options
     if output_format == "pdf":
         cmd.insert(3, "--pdf-engine=tectonic")
     else:
         # Use markdown format for better structure preservation (keeps chapter headings)
         cmd.extend(["--to=markdown", "--wrap=none"])
-    
+
     # Don't use --toc flag since we manually insert \tableofcontents in the right location
     # (after frontmatter but before preface)
 
@@ -450,15 +484,15 @@ def build_pdf(files: List[str], profile: Optional[str]) -> Path:
 
     cmd += [*processed]
     subprocess.run(cmd, check=True)
-    
+
     # Post-process text output to clean up LaTeX commands
     if output_format == "plain" and active_profile == "audiotxt":
         with open(output_file, "r", encoding="utf-8") as f:
             content = f.read()
-        
+
         # Remove YAML frontmatter block at the beginning
         content = re.sub(r'^---\n.*?\n---\n\n', '', content, flags=re.DOTALL)
-        
+
         # Remove LaTeX commands that shouldn't appear in plain text
         # Remove \hfill\small — pattern (citation formatting)
         content = re.sub(r'\\hfill\\small\s*—\s*', '— ', content)
@@ -474,10 +508,10 @@ def build_pdf(files: List[str], profile: Optional[str]) -> Path:
         content = re.sub(r'\\addcontentsline\{[^}]+\}\{[^}]+\}\{[^}]+\}', '', content)
         # Clean up multiple blank lines
         content = re.sub(r'\n\n\n+', '\n\n', content)
-        
+
         with open(output_file, "w", encoding="utf-8") as f:
             f.write(content)
-    
+
     # If we kept LaTeX, compile it now to PDF using tectonic and save both
     if latex_out is not None:
         # tectonic compiles to same basename .pdf in the cwd
