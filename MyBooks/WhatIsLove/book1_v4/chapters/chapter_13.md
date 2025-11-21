@@ -125,10 +125,11 @@ When a scholar asked Jesus what he must do to inherit eternal life, Jesus respon
 
 St. Paul reinforces this: **"Do not be overcome by evil, but overcome evil with good"** (Romans 12:21). Paul wouldn't tell us to "conquer evil" if we were powerless to do so. We have real agency, real freedom, and real grace to choose good and overcome sin.
 
-**God's perfect love integrates truth, justice, and mercy:**
+**God's perfect love integrates truth, justice, mercy and sacrifice:**
 - **Truth:** God tells us clearly what is right and wrong
 - **Justice:** God allows us the freedom to choose—He doesn't force us to be good
 - **Mercy:** When we choose sin, God offers forgiveness through Christ's sacrifice on the Cross and in the Sacrament of Reconciliation
+- **Sacrifice:** God bore the cost of our sin Himself so we could be restored
 
 This is the beauty of Catholic teaching: **We are free to sin, but we are also free to repent and be restored.** We can avoid mortal sin through God's grace. We can grow in holiness. We can become saints. Jesus wouldn't command us, "You, therefore, must be perfect, as your heavenly Father is perfect." (Matthew 5:48) if it were impossible.
 

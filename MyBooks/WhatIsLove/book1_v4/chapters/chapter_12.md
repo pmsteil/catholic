@@ -118,7 +118,7 @@ The more comprehensive and integrative a virtue is, the more it engages all four
 
 This comprehensive matrix reveals a stunning truth: **every virtue taught by the Catholic Church upholds and flows from the four pillars of perfect love (Truth, Justice, Mercy, and Sacrifice), while every vice denies or distorts them.**
 
-This is not a coincidence. It demonstrates that our definition of perfect love—**"the sacred, sacrificial gift of covenant, binding truth, justice, and mercy, gathering us into life-giving communion"**—truly captures the essence of Christian virtue and is at the heart of the Gospel.
+This is not a coincidence. It demonstrates that our definition of perfect love—**"the sacred gift of covenant binding truth, justice, mercy and sacrifice into life-giving communion"**—truly captures the essence of Christian virtue and is at the heart of the Gospel.
 
 ### Key Insights from the Matrix:
 

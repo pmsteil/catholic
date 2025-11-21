@@ -110,8 +110,8 @@ It sounds so simple, doesn't it? Yet, getting this wrong has devastating consequ
 
 Here is the definition I have come to believe is the heart of God's love and our human nature:
 
-**The sacred, sacrificial gift of covenant**
-— *binding truth, justice, and mercy* —
+**The sacred gift of covenant**
+— *binding truth, justice, mercy and sacrifice* —
 — *into life-giving communion* —
 
 That's a mouthful, I know! It's dense, and each word carries significant weight and meaning. We'll unpack every piece of that definition—sacred, sacrifice, covenant, truth, justice, mercy, communion—throughout this book.
@@ -126,7 +126,7 @@ We'll journey together through these chapters:
 
 ## The Journey Ahead: Chapter-by-Chapter Progression
 
-**PART 1: THE NATURE OF PERFECT LOVE (Chapters 1-11)**
+**PART 1: THE NATURE OF PERFECT LOVE (Chapters 1-10)**
 
 **Chapter 1: The Problem of Evil** - Evil originates in human hearts when we choose perceived goods for ourselves at the expense of others, creating waves of destruction that ripple through families and generations.
 

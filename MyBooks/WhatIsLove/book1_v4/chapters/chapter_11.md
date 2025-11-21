@@ -16,7 +16,7 @@
 
 ## The Question That Won't Go Away
 
-We've spent ten chapters unpacking what God's perfect love is: the sacred gift of covenant which binds truth, justice, mercy, and sacrifice into life-giving communion. We've seen how each facet combats specific forms of evil. We've explored how this love creates authentic relationships and transforms human hearts.
+We've spent ten chapters unpacking what God's perfect love is: the sacred gift of covenant binding truth, justice, mercy and sacrifice into life-giving communion. We've seen how each facet combats specific forms of evil. We've explored how this love creates authentic relationships and transforms human hearts.
 
 But now comes the question that skeptics have been asking since the beginning: How do you know God even exists? If love is truly a law—as universal and binding as the law of gravity—how do we know it's not just evolutionary programming or cultural convention?
 
@@ -150,7 +150,7 @@ This isn't just intellectual exercise—it's an invitation to encounter the God 
 
 The question isn't just "Does God exist?" The question is: Does love exist at all? Not just feelings or preferences—but love as we've defined it throughout this book. If love is truly a law of our universe—as universal and binding as the law of gravity—then it must have the characteristics we've discovered: objectivity, universality, binding force, integration, coherence. And if love has all these characteristics of a law, then like every law, it requires a lawgiver. You can't have the law of love without an Author of love.
 
-This law is not arbitrary (it flows from God's nature). It's not coercive (we freely recognize it as true). It's not external (the Holy Spirit writes it on our hearts). It's not burdensome (it liberates us to become who we were created to be). As Jesus promised, "you will know the truth, and the truth will make you free" (John 8:32).
+This law is not arbitrary (it flows from God's nature). It's not coercive (we freely recognize it as true). It's not external (the Holy Spirit writes it on our hearts). It's not burdensome (it liberates us to become who we were created to be). As Jesus promised, "If you continue in my word, you are truly my disciples, and you will know the truth, and the truth will make you free" (John 8:31-32).
 
 <div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
 If love exists as an objective law of the universe with objectivity, universality, binding force, integration, and coherence, then it requires a lawgiver. Every genuine act of love is an encounter with the God who is Love, the Author of the law written on our hearts.
