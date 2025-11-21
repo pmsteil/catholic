@@ -192,6 +192,17 @@ def filter_conditional_content(text: str, profile: Optional[str]) -> str:
     return text
 
 
+def convert_symbols_for_profile(text: str, profile: Optional[str]) -> str:
+    """Replace Unicode check/cross symbols with LaTeX macros for print profiles."""
+    is_audio = profile and "audio" in profile
+    if is_audio:
+        return text
+    # Replace common checkmark/cross symbols with macros
+    text = text.replace("✓", "\\cmark")
+    text = text.replace("✗", "\\xmark")
+    return text
+
+
 def preprocess_files(files: List[str], profile: Optional[str] = None) -> List[str]:
     # Write transformed files to a temp directory and return their paths
     tmpdir = tempfile.mkdtemp(prefix="book_build_")
@@ -244,6 +255,8 @@ def preprocess_files(files: List[str], profile: Optional[str] = None) -> List[st
 
         # Filter conditional content based on profile
         content = filter_conditional_content(content, profile)
+        # Replace Unicode symbols for print outputs so LaTeX renders them
+        content = convert_symbols_for_profile(content, profile)
 
         transformed = transform_html_widgets(content)
 
@@ -483,7 +496,11 @@ def build_pdf(files: List[str], profile: Optional[str]) -> Path:
         cmd += ["--output", str(output_file)]
 
     cmd += [*processed]
-    subprocess.run(cmd, check=True)
+    try:
+        subprocess.run(cmd, check=True)
+    finally:
+        if toc_overlay_path and toc_overlay_path.exists():
+            toc_overlay_path.unlink(missing_ok=True)
 
     # Post-process text output to clean up LaTeX commands
     if output_format == "plain" and active_profile == "audiotxt":
