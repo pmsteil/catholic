@@ -63,7 +63,13 @@ This is the model for all communion:
 
 This is what we're invited into: "That they also may be in us" (John 17:21). Not just imitating Trinitarian communion from a distance, but actually participating in it. God invites us into His own life, His own communion, His own joy.
 
-Our definition reveals this clearly: "God's Perfect Love is the sacred gift of covenant which binds truth, justice, mercy, and sacrifice into life-giving **communion**." Notice the final word: **communion**. Not virtue for its own sake. Not self-fulfillment. Communion. This is the true end of love—the goal toward which everything else points. Truth, justice, mercy, and sacrifice are essential, but they're the framework through which love flows outward to create communion. You don't become good for your own sake; you become good so that divine life can flow through you to others.
+Our definition reveals this clearly: "God's Perfect Love is the sacred gift of covenant which binds truth, justice, mercy, and sacrifice into life-giving **communion**." Notice the final word: **communion**. Not virtue for its own sake. Not self-fulfillment. But the self-giving of sacrifice creates communion. This is the true end of love—the goal toward which everything else points. You don't become good for your own sake; you live a life that's good so your communion with God flows through you to others.
+
+<div class="blockquote">
+"It is love which not only creates the good, but also grants participation in the very life of God: Father, Son and Holy Spirit. For he who loves desires to give himself."
+
+\hfill\small — St. John Paul II, *Redemptoris Missio* (1990), §89
+</div>
 
 **This communion is the *summum bonum*—the highest good—we explored in Chapters 2 and 3.** This is what Aquinas meant by beatitude, what Augustine meant when he said our hearts are restless until they rest in God. Jesus prayed "that they may all be one; even as thou, Father, art in me, and I in thee, that they also may be in us" (John 17:21)—He's inviting us into the very communion of the Trinity, into the highest good itself. Everything in the Christian life—every virtue, every Mass, every sacrament, every act of love—points toward this ultimate end: life-giving communion with God and, through Him, with one another.
 

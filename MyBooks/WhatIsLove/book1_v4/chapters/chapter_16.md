@@ -42,7 +42,21 @@ Notice what He's doing. He's not abolishing the Old Law but bringing it to perfe
 
 This is why the Catechism calls it "the grace of the Holy Spirit received by faith in Christ, operating through charity" (CCC 1972). Christ doesn't just give us rules—He gives us His own Spirit to transform us from within.
 
-**How This Combats Evil:** Legalism reduces faith to external rules, but Christ transforms hearts. The false teaching of Antinomianism claims Christians are "free from all law," but Christ gives us the perfect law of love. The false teaching of Relativism denies objective moral truth, but Christ establishes love as objective reality grounded in God's nature—embodied in His own person.
+<div class="blockquote">
+"Every person therefore is invited to 'repent' and to 'believe' in God's merciful love."
+
+\hfill\small — Pope Leo XVI, Address to the Roman Curia (Nov. 21, 2025)
+</div>
+
+**How This Combats Evil:** Legalism reduces faith to external rules, but Christ transforms hearts. The false teaching of Antinomianism claims Christians are "free from all law," but Christ gives us the perfect law of love. The Church's teaching isn't arbitrary or outdated. It's protecting the truth that love creates life, that sexuality is sacred precisely because it participates in God's creative power, that children are gifts not burdens. Marriage exists for the children—to give them a mother and father united in covenant love, to welcome them into a communion of persons that images the Trinity.
+
+Communion is therefore missionary. Because God's Perfect Love binds truth, justice, mercy, and sacrifice into life-giving communion, the Church must carry that communion to every person.
+
+<div class="blockquote">
+"The Church was sent by Christ to reveal and communicate the love of God to all people and nations."
+
+\hfill\small — Pope Leo XVI, Address to the Roman Curia (Nov. 21, 2025)
+</div>
 
 ---
 

@@ -172,6 +172,12 @@ When most people think of authority, they think of it in human terms—the polic
 
 **You have to be the author in order to have true authority.** Just as a novelist has authority over the world he creates because he made it, God is the Author of the universe He created. He has authority over all creation because He made it. He knows its purpose, its design, its proper functioning. **His authority isn't imposed by force—it flows from truth.** He doesn't force us to obey arbitrary rules; He reveals the truth about how reality actually works, how we're actually designed, what will actually fulfill us.
 
+<div class="blockquote">
+"The sacred authority is participation in the authority of Christ, and its service to truth is a way of knowing and embracing the ultimate Truth, which is Christ Himself (cf. Jn 14:6)."
+
+\hfill\small — Pope Leo XVI, Address to the Roman Curia (Nov. 21, 2025)
+</div>
+
 When God says "don't lie," He's not arbitrarily restricting our freedom. He's revealing the truth that lies destroy relationships, corrupt souls, and participate in the evil that crucified His Son. When God says "honor marriage," He's not imposing burdens—He's revealing the truth about how human sexuality and covenant love actually work.
 
 This is why Jesus said, "The truth will make you free" (John 8:32). God's authority liberates us because it's grounded in truth about reality. Submitting to His authority isn't slavery—it's freedom from the slavery of lies, ignorance, and self-destruction. It's like submitting to the "authority" of gravity or mathematics—you're not being oppressed, you're aligning yourself with reality.
@@ -202,11 +208,23 @@ Jesus didn't just give us a book and wish us luck. He established a Church with 
 
 Paul calls the Church "a pillar and bulwark of the truth" (1 Timothy 3:15) because Christ gave her this mission: to receive His truth, guard it, and teach it to every generation.
 
+<div class="blockquote">
+"The Church was sent by Christ to reveal and communicate the love of God to all people and nations."
+
+\hfill\small — Pope Leo XVI, Address to the Roman Curia (Nov. 21, 2025)
+</div>
+
 The Church's authority comes from God, the Author of love. She doesn't create truth and force it on people. She receives His truth, safeguards it, and teaches it—so people can voluntarily submit to His truth. True authority is not forced from on high, but only exists when we freely submit our will and intellect to Christ, who IS truth.
 
 ## Why Truth Matters Now More Than Ever
 
 Jesus knew that lies would always threaten His people. That's why He gave us a Church with His authority to preserve and teach truth—so that in every generation, no matter how dark the lies become, His people would have access to reality.
+
+<div class="blockquote">
+"Every person therefore is invited to 'repent' and to 'believe' in God's merciful love."
+
+\hfill\small — Pope Leo XVI, Address to the Roman Curia (Nov. 21, 2025)
+</div>
 
 When Jesus entrusted Himself to the "God of truth" on the Cross, He was demonstrating what we must do: in a world of lies, we must entrust ourselves to Truth Himself. We must anchor ourselves to the Church He established. We must be willing to stand for truth even when it costs us everything—because truth is worth dying for, just as Christ died to reveal it.
 
