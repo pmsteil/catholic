@@ -9,6 +9,43 @@ This project develops a comprehensive OCIA/RCIA retreat focused on **Grace and t
 
 ---
 
+## Participant Context: Catechumens in the Catechumenate
+
+**Stage:** Catechumenate (post-Pre-Evangelization)
+
+These participants have completed the inquiry/pre-evangelization phase and are now catechumens actively learning the faith. They have already received instruction on the following topics, which this retreat builds upon:
+
+### Prior OCIA Lessons (Foundation Already Laid)
+
+1. **The Existence of God & the Problem of Evil and Suffering**
+2. **The Solution is Love: Unpacking Truth, Justice & Mercy**
+3. **Our Foundation: Dignity of the Human Person**
+4. **Who is the Answer? The Blessed Trinity**
+5. **The Answer Unfolds: God's Covenant Plan**
+6. **The Answer Incarnate: Jesus Christ**
+7. **The Answer Lives On: The Church & 4 Marks of the Church**
+8. **A Trustworthy Answer: Revelation, Scripture & Tradition**
+9. **The Heart of the Answer: The Mass and Church Tour**
+10. **Our Family in the Answer: Mary and The Communion of Saints**
+11. **The Sacramental Economy**
+
+### What This Means for the Retreat
+
+Participants already understand:
+- God exists and is the answer to suffering
+- Love (integrating truth, justice, mercy) is God's solution
+- The Trinity as communion of love
+- God's covenant plan culminating in Christ
+- The Church as Christ's continuing presence
+- Scripture and Tradition as trustworthy revelation
+- The Mass as the heart of Catholic life
+- Mary and the saints as our spiritual family
+- The sacraments as channels of grace
+
+**This retreat deepens their understanding** by focusing on *how we personally receive and respond* to everything they've learned—through grace and the theological virtues of faith, hope, and love.
+
+---
+
 ## Retreat Vision
 
 **Goal:** Move participants deeper into relationship with God who IS Love, through an authentically Catholic experience that integrates:
@@ -67,12 +104,12 @@ These are called "theological" because:
 ### 1. Retreat Schedule
 - `retreat_schedule.md` - Detailed timeline with locations and activities
 
-### 2. Session Content
-- `session_1_grace.md` - Teaching content, discussion questions, prayer guides
-- `session_2_faith.md` - Teaching content, discussion questions, prayer guides
-- `session_3_hope.md` - Teaching content, discussion questions, prayer guides
-- `session_4_love.md` - Teaching content, discussion questions, prayer guides
-- `session_5_closing.md` - Integration and commissioning
+### 2. Session Content (in `sessions/` folder)
+- ✅ `session_1_grace.md` - Teaching content, discussion questions, prayer guides
+- ✅ `session_2_faith.md` - Teaching content, discussion questions, prayer guides
+- ✅ `session_3_hope.md` - Teaching content, discussion questions, prayer guides
+- ✅ `session_4_love.md` - Teaching content, discussion questions, prayer guides
+- ✅ `session_5_closing.md` - Integration and commissioning
 
 ### 3. Prayer Resources
 - `prayers_and_devotions.md` - Collection of prayers for the retreat
@@ -97,6 +134,7 @@ These are called "theological" because:
 ### Authentically Catholic
 - Rooted in Scripture and Tradition
 - Connected to the Catechism of the Catholic Church
+- **Scripture Translation: NABRE (New American Bible Revised Edition)** — All Bible verses must be complete, unabridged NABRE text
 - Sacramental and liturgical emphasis
 - Communion of Saints as living reality
 
@@ -120,52 +158,20 @@ These are called "theological" because:
 
 ---
 
-## Scripture Foundation
-
-### Grace
-- **Ephesians 2:8-9** - "For by grace you have been saved through faith"
-- **2 Corinthians 12:9** - "My grace is sufficient for you"
-- **John 1:16** - "From his fullness we have all received, grace upon grace"
-
-### Faith
-- **Hebrews 11:1** - "Faith is the assurance of things hoped for"
-- **Romans 10:17** - "Faith comes from hearing"
-- **Mark 9:24** - "I believe; help my unbelief!"
-
-### Hope
-- **Romans 5:5** - "Hope does not disappoint us"
-- **Romans 8:24-25** - "In hope we were saved"
-- **1 Peter 3:15** - "Always be ready to give a reason for your hope"
-
-### Love
-- **1 John 4:8** - "God is love"
-- **1 Corinthians 13:13** - "The greatest of these is love"
-- **John 15:13** - "Greater love has no one than this"
-
----
-
-## Catechism References
-
-- **Grace:** CCC 1996-2005
-- **Theological Virtues Overview:** CCC 1812-1829
-- **Faith:** CCC 1814-1816
-- **Hope:** CCC 1817-1821
-- **Love (Charity):** CCC 1822-1829
-
----
-
 ## Next Steps
 
 1. ✅ Create agents.md (this document)
-2. ⬜ Develop retreat schedule with timing
-3. ⬜ Write Session 1: Grace content
-4. ⬜ Write Session 2: Faith content
-5. ⬜ Write Session 3: Hope content
-6. ⬜ Write Session 4: Love content
-7. ⬜ Write Session 5: Closing content
-8. ⬜ Compile prayer resources
-9. ⬜ Create participant guide
-10. ⬜ Create facilitator guide
+2. ✅ Develop retreat schedule with timing
+3. ✅ Create session file scaffolding (sessions/ folder)
+4. 🔄 Hone Scripture and CCC references for each session
+5. ⬜ Write Session 1: Grace teaching content
+6. ⬜ Write Session 2: Faith teaching content
+7. ⬜ Write Session 3: Hope teaching content
+8. ⬜ Write Session 4: Love teaching content
+9. ⬜ Write Session 5: Closing content
+10. ⬜ Compile prayer resources
+11. ⬜ Create participant guide
+12. ⬜ Create facilitator guide
 
 ---
 

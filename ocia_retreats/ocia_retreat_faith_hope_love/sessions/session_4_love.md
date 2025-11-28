@@ -1,0 +1,185 @@
+# Session 4: Love - Participating in God's Life
+
+**Time:** 2:15 PM - 3:30 PM
+**Location:** Parish Hall (Teaching & Discussion) → Sanctuary (Prayer)
+
+---
+
+## Session Overview
+
+| Time | Duration | Activity | Location |
+|------|----------|----------|----------|
+| 2:15 PM | 30 min | Teaching: Love | Parish Hall |
+| 2:45 PM | 30 min | Group Discussion | Parish Hall |
+| 3:15 PM | 15 min | Prayer with Jesus | Sanctuary |
+
+---
+
+## Part 1: Teaching (30 minutes)
+
+### Central Truth
+> **Love is the essence of the inner life of the Trinity. It is the soul of holiness and the basis upon which we will be judged. In Heaven, the faithful will live in the joy of perfect love.**
+
+---
+
+### Opening (3 minutes)
+
+*Connect to the entire retreat:* Everything we've talked about today leads here. Grace is God giving us his life. Faith is saying "yes" to God. Hope is trusting his promises. But love—love is the destination. Love is why God created us. Love is what we were made for.
+
+Ask the group: *"What must I do to inherit eternal life?"*
+
+That's the question a lawyer asked Jesus in Luke 10. And Jesus' answer was: Love. Love God. Love your neighbor. *"Do this, and you will live."*
+
+---
+
+### Talking Point 1: God IS Love—Not Just That He Loves (8 minutes)
+
+**Primary Scripture: 1 John 4:7-12, 16 (NABRE)**
+
+> *"Beloved, let us love one another, because love is of God; everyone who loves is begotten by God and knows God. Whoever is without love does not know God, for God is love. In this way the love of God was revealed to us: God sent his only Son into the world so that we might have life through him. In this is love: not that we have loved God, but that he loved us and sent his Son as expiation for our sins. Beloved, if God so loved us, we also must love one another. No one has ever seen God. Yet, if we love one another, God remains in us, and his love is brought to perfection in us... God is love, and whoever remains in love remains in God and God in him."*
+
+**Key points to emphasize:**
+- *"God IS love"*—not just that God loves, but that love is his very nature
+- The Trinity is an eternal communion of love: Father, Son, and Holy Spirit giving themselves to each other
+- We were created to participate in this love—to receive it and to give it
+- *"He who does not love does not know God"*—you cannot know God without loving
+- Love is not optional for Christians—it's the very definition of what it means to follow Christ
+
+**CCC 1822:** *"Charity is the theological virtue by which we love God above all things for his own sake, and our neighbor as ourselves for the love of God."*
+
+Notice: We love God *for his own sake*—not for what we get from him. And we love neighbor *for the love of God*—not because they deserve it.
+
+---
+
+### Talking Point 2: Love Is a Command—Which Means It's a Choice (8 minutes)
+
+**Primary Scripture: John 13:34-35; 15:12-13 (NABRE)**
+
+> *"I give you a new commandment: love one another. As I have loved you, so you also should love one another. This is how all will know that you are my disciples, if you have love for one another."*
+
+> *"This is my commandment: love one another as I love you. No one has greater love than this, to lay down one's life for one's friends."*
+
+**Key points to emphasize:**
+- Jesus *commands* us to love—which means love is an act of the will, not just a feeling
+- *"As I have loved you"*—the standard is Christ's love, not human affection
+- How did Jesus love? Sacrificially. Unconditionally. To the point of death.
+- *"By this all men will know"*—love is the mark of a Christian, the proof of our faith
+- Love is not "something to do"—it is the point of all doing
+
+**What love is NOT:**
+- Love is not a feeling (though feelings may accompany it)
+- Love is not approval of everything someone does
+- Love is not being "nice" or avoiding conflict
+- Love is not earned or deserved
+
+**What love IS:**
+- Willing the good of the other
+- Self-gift—giving yourself for the sake of another
+- An act of the will that can be commanded and chosen
+- The fulfillment of the entire law (Romans 13:10)
+
+---
+
+### Talking Point 3: The Final Test—Love in Action (8 minutes)
+
+**Primary Scripture: Matthew 25:31-40 (NABRE)**
+
+> *"When the Son of Man comes in his glory, and all the angels with him, he will sit upon his glorious throne, and all the nations will be assembled before him. And he will separate them one from another, as a shepherd separates the sheep from the goats. He will place the sheep on his right and the goats on his left. Then the king will say to those on his right, 'Come, you who are blessed by my Father. Inherit the kingdom prepared for you from the foundation of the world. For I was hungry and you gave me food, I was thirsty and you gave me drink, a stranger and you welcomed me, naked and you clothed me, ill and you cared for me, in prison and you visited me.' Then the righteous will answer him and say, 'Lord, when did we see you hungry and feed you, or thirsty and give you drink? When did we see you a stranger and welcome you, or naked and clothe you? When did we see you ill or in prison, and visit you?' And the king will say to them in reply, 'Amen, I say to you, whatever you did for one of these least brothers of mine, you did for me.'"*
+
+**Key points to emphasize:**
+- This is the "final test"—the basis on which we will be judged
+- Notice: Jesus doesn't ask about our theology or our feelings. He asks about our actions.
+- *"As you did it to one of the least of these, you did it to me"*—Jesus identifies with the poor, the suffering, the forgotten
+- Love must be concrete—it must take action
+- Faith and hope prepare us for love; love is the destination
+
+**CCC 1826:** *"If I... have not charity, I am nothing... Charity is superior to all the virtues. It is the first of the theological virtues."*
+
+**The sins against love:**
+- Indifference—not caring
+- Ingratitude—taking God's love for granted
+- Lukewarmness—half-hearted response to God's love
+- Acedia (spiritual sloth)—refusing to engage with God's love
+- Hatred—the direct opposite of love
+
+---
+
+### Closing (3 minutes)
+
+Here's the truth we've been building toward all day:
+
+- **Grace** is God giving us his life—so that we can love
+- **Faith** is saying "yes" to God—so that we can receive his love
+- **Hope** is trusting God's promises—so that we're freed to love without fear
+- **Love** is the destination—participating in the very life of the Trinity
+
+The question isn't "Do you feel loving?" The question is "Will you choose to love?"
+
+Jesus said: *"By this all men will know that you are my disciples, if you have love for one another."*
+
+Not by your knowledge. Not by your attendance. Not by your feelings. By your love.
+
+*Transition to discussion...*
+
+---
+
+## Part 2: Group Discussion (30 minutes)
+
+*Allow approximately 10 minutes per question. These are the deepest questions of the retreat—designed to bring participants to a point of decision about how they will live in response to God's love.*
+
+---
+
+### Question 1: Receiving Love Before Giving It (10 minutes)
+
+**"We've talked all day about God's love for you—his grace, his faithfulness, his promises. Be honest: Do you actually believe God loves you? Not in theory, but personally—do you believe God delights in you, wants you, pursues you? What makes it hard to receive that love?"**
+
+*Facilitator notes:*
+- This is the foundational question—we cannot give what we haven't received
+- Many people struggle to believe God loves *them* specifically
+- Common obstacles: shame, past failures, feeling unworthy, comparing to others
+- Connect to 1 John 4:19: "We love because he first loved us"
+- The goal is to help participants receive before they're asked to give
+
+---
+
+### Question 2: The Person You Find Hardest to Love (10 minutes)
+
+**"Jesus commands us to love—even our enemies. Think of the person in your life who is hardest for you to love. It might be someone who hurt you, someone who annoys you, or someone you've written off. What would it look like to actually love that person—not to feel warm toward them, but to will their good and act for their benefit?"**
+
+*Facilitator notes:*
+- This question makes love concrete and uncomfortable
+- Remind them: love is an act of the will, not a feeling
+- Possible actions: praying for them, forgiving them, serving them, speaking well of them
+- Connect to Jesus' teaching: "Love your enemies and pray for those who persecute you"
+- The goal is not to resolve the situation today, but to name it honestly
+
+---
+
+### Question 3: What Will You Do? (10 minutes)
+
+**"At the end of your life, Jesus will ask: 'Did you love?' Not 'Did you believe the right things?' or 'Did you attend the right services?' but 'Did you love?' Based on everything you've heard today, what is one specific way you will choose to love this week—either in receiving God's love more deeply, or in giving love to someone who needs it?"**
+
+*Facilitator notes:*
+- This is the decision point of the entire retreat
+- Encourage specificity: not "I'll try to be more loving" but "I will call my estranged brother" or "I will spend 10 minutes in prayer each morning receiving God's love"
+- Connect to the progression: Grace → Faith → Hope → Love → Action
+- This prepares them for the closing session and their return to daily life
+
+---
+
+## Part 3: Prayer with Jesus (15 minutes)
+
+*In the Sanctuary, before the Blessed Sacrament*
+
+Guide participants to:
+1. Sit quietly in the presence of Jesus—Love Incarnate
+2. Ask him: "Lord, help me receive your love"
+3. Bring to him the person you find hardest to love
+4. Ask him: "Lord, help me love as you love"
+5. Make a commitment: What will you do this week?
+
+*Close with the Act of Love:*
+
+> O my God, I love you above all things, with my whole heart and soul, because you are all good and worthy of all my love. I love my neighbor as myself for the love of you. I forgive all who have injured me, and I ask pardon of all whom I have injured. Amen.
+
+---
