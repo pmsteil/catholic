@@ -86,7 +86,24 @@ Notice: We love God *for his own sake*—not for what we get from him. And we lo
 - The fulfillment of the entire law (Romans 13:10)
 - The bond of perfect harmony that holds all virtues together (Colossians 3:14)
 
-**The key connection:** *"Faith working through love"* (Galatians 5:6). Faith and love cannot be separated. A faith that does not express itself in love is not saving faith. Love is the "soul of holiness" (CCC 826)—it's what animates everything else.
+**Supporting Scripture: Galatians 5:6 (NABRE)**
+> *"For in Christ Jesus, neither circumcision nor uncircumcision counts for anything, but only faith working through love."*
+
+Faith and love cannot be separated. A faith that does not express itself in love is not saving faith. As James writes: *"Faith of itself, if it does not have works, is dead"* (James 2:17).
+
+**Why can't faith be separated from love?** Because faith, hope, and all the virtues are all part of the supernatural gift of LOVE!
+
+Think about it this way:
+- **Love is the "form" of all the virtues** (CCC 1827)—it gives them their shape and direction
+- **Faith** believes in God—but *why* do we believe? Because we love the One who reveals himself
+- **Hope** trusts God's promises—but *why* do we trust? Because we love the One who promises
+- **Every virtue** is ordered toward love—justice, mercy, patience, kindness—all of them flow from and lead back to love
+
+St. Paul says love is *"the bond of perfection"* (Colossians 3:14)—it's the glue that holds all the virtues together. Without love, the other virtues fall apart. With love, they become a unified whole.
+
+This is why the Church teaches that **charity is the soul of holiness** (CCC 826). You can have faith and hope without charity (as in mortal sin), but they cannot save you—they're like a body without a soul. Love is what animates everything else.
+
+So when we talk about growing in faith, hope, or any virtue—we're really talking about growing in love. It's all one gift, and that gift is participation in God's own life—because *God IS love*.
 
 
 ### Talking Point 3: The Final Test—Love in Action (8 minutes)
@@ -142,21 +159,9 @@ Now we're going to send you to spend time with Jesus in the Sanctuary. As you si
 
 ---
 
-## If Time Permits: Going Deeper
+## If Time Permits or During Group Discussion
 
 *Use this material if you finish early or if participants want to explore further during discussion.*
-
-### Why Faith Can't Be Separated from Love
-
-**Galatians 5:6 (NABRE):** *"For in Christ Jesus, neither circumcision nor uncircumcision counts for anything, but only faith working through love."*
-
-Think about it this way:
-- **Love is the "form" of all the virtues** (CCC 1827)—it gives them their shape and direction
-- **Faith** believes in God—but *why* do we believe? Because we love the One who reveals himself
-- **Hope** trusts God's promises—but *why* do we trust? Because we love the One who promises
-- **Every virtue** is ordered toward love—justice, mercy, patience, kindness—all of them flow from and lead back to love
-
-St. Paul says love is *"the bond of perfection"* (Colossians 3:14)—it's the glue that holds all the virtues together.
 
 ### Love and the Sacraments
 

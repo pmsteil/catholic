@@ -111,7 +111,7 @@ Now we're going to send you to spend time with Jesus in the Sanctuary. As you si
 
 ---
 
-## If Time Permits: Going Deeper
+## If Time Permits or During Group Discussion
 
 *Use this material if you finish early or if participants want to explore further during discussion.*
 
