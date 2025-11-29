@@ -1,7 +1,7 @@
 # Session 4: Love - Participating in God's Life
 
 **Time:** 2:15 PM - 3:30 PM
-**Location:** Parish Hall (Teaching & Discussion) → Sanctuary (Prayer)
+**Location:** Parish Hall (Teaching) → Sanctuary (Prayer) → Parish Hall (Discussion)
 
 ---
 
@@ -10,8 +10,8 @@
 | Time | Duration | Activity | Location |
 |------|----------|----------|----------|
 | 2:15 PM | 30 min | Teaching: Love | Parish Hall |
-| 2:45 PM | 30 min | Group Discussion | Parish Hall |
-| 3:15 PM | 15 min | Prayer with Jesus | Sanctuary |
+| 2:45 PM | 25 min | Prayer with Jesus | Sanctuary |
+| 3:10 PM | 20 min | Group Discussion | Parish Hall |
 
 ---
 
@@ -119,67 +119,51 @@ Jesus said: *"By this all men will know that you are my disciples, if you have l
 
 Not by your knowledge. Not by your attendance. Not by your feelings. By your love.
 
-*Transition to discussion...*
+Now we're going to send you to spend time with Jesus in the Sanctuary. As you sit before him in the Blessed Sacrament—Love Incarnate—bring to him whatever is stirring in your heart. Ask him to help you receive his love and to love as he loves. Just be with him.
+
+**Let us pray**
+
+> Lord Jesus, you are Love Incarnate—God who IS love, made visible in human flesh. We have heard your command to love as you have loved us. Now send us into your presence. As we sit before you in the Blessed Sacrament, help us first to receive your love, so that we may have love to give. Soften our hearts toward those we find hard to love. Set us on fire with the love that casts out fear. We go now to be with the One who loved us to the end. In your holy name we pray. Amen.
+
+*Please proceed quietly to the Sanctuary.*
 
 ---
 
-## Part 2: Group Discussion (30 minutes)
+## Part 2: Group Discussion (20 minutes)
 
-*Allow approximately 10 minutes per question. These are the deepest questions of the retreat—designed to bring participants to a point of decision about how they will live in response to God's love.*
+*Participants return from the Sanctuary to share what God revealed to them during their time with Jesus.*
 
 ---
 
-### Question 1: Receiving Love Before Giving It (10 minutes)
+### Opening Question: What Is God Showing You? (10 minutes)
 
-**"We've talked all day about God's love for you—his grace, his faithfulness, his promises. Be honest: Do you actually believe God loves you? Not in theory, but personally—do you believe God delights in you, wants you, pursues you? What makes it hard to receive that love?"**
+**"How is God helping you grow in love today? What revelations or insights did you receive during your time with Jesus?"**
 
 *Facilitator notes:*
-- This is the foundational question—we cannot give what we haven't received
-- Many people struggle to believe God loves *them* specifically
-- Common obstacles: shame, past failures, feeling unworthy, comparing to others
+- This is the primary question—give it space and time
+- Let participants share freely what they experienced in prayer
+- Some may have felt God's love deeply; others may have been challenged
+- All responses are valid—God works differently in each person
+- Listen for themes that emerge across the group
+
+---
+
+### Follow-Up Questions (if needed, 10 minutes)
+
+*Use these only if the conversation needs prompting:*
+
+**"Do you actually believe God loves you? Not in theory, but personally—do you believe God delights in you, wants you, pursues you? What makes it hard to receive that love?"**
+
+*Facilitator notes:*
+- This is foundational—we cannot give what we haven't received
+- Common obstacles: shame, past failures, feeling unworthy
 - Connect to 1 John 4:19: "We love because he first loved us"
-- The goal is to help participants receive before they're asked to give
 
----
-
-### Question 2: The Person You Find Hardest to Love (10 minutes)
-
-**"Jesus commands us to love—even our enemies. Think of the person in your life who is hardest for you to love. It might be someone who hurt you, someone who annoys you, or someone you've written off. What would it look like to actually love that person—not to feel warm toward them, but to will their good and act for their benefit?"**
-
-*Facilitator notes:*
-- This question makes love concrete and uncomfortable
-- Remind them: love is an act of the will, not a feeling
-- Possible actions: praying for them, forgiving them, serving them, speaking well of them
-- Connect to Jesus' teaching: "Love your enemies and pray for those who persecute you"
-- The goal is not to resolve the situation today, but to name it honestly
-
----
-
-### Question 3: What Will You Do? (10 minutes)
-
-**"At the end of your life, Jesus will ask: 'Did you love?' Not 'Did you believe the right things?' or 'Did you attend the right services?' but 'Did you love?' Based on everything you've heard today, what is one specific way you will choose to love this week—either in receiving God's love more deeply, or in giving love to someone who needs it?"**
+**"Based on everything you've heard today, what is one specific way you will choose to love this week—either in receiving God's love more deeply, or in giving love to someone who needs it?"**
 
 *Facilitator notes:*
 - This is the decision point of the entire retreat
 - Encourage specificity: not "I'll try to be more loving" but "I will call my estranged brother" or "I will spend 10 minutes in prayer each morning receiving God's love"
-- Connect to the progression: Grace → Faith → Hope → Love → Action
 - This prepares them for the closing session and their return to daily life
-
----
-
-## Part 3: Prayer with Jesus (15 minutes)
-
-*In the Sanctuary, before the Blessed Sacrament*
-
-Guide participants to:
-1. Sit quietly in the presence of Jesus—Love Incarnate
-2. Ask him: "Lord, help me receive your love"
-3. Bring to him the person you find hardest to love
-4. Ask him: "Lord, help me love as you love"
-5. Make a commitment: What will you do this week?
-
-*Close with the Act of Love:*
-
-> O my God, I love you above all things, with my whole heart and soul, because you are all good and worthy of all my love. I love my neighbor as myself for the love of you. I forgive all who have injured me, and I ask pardon of all whom I have injured. Amen.
 
 ---

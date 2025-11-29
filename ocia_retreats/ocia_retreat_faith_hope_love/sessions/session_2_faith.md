@@ -1,7 +1,7 @@
 # Session 2: Faith - Believing in Love
 
 **Time:** 11:15 AM - 12:30 PM
-**Location:** Parish Hall (Teaching & Discussion) → Sanctuary (Prayer)
+**Location:** Parish Hall (Teaching) → Sanctuary (Prayer) → Parish Hall (Discussion)
 
 ---
 
@@ -10,8 +10,8 @@
 | Time | Duration | Activity | Location |
 |------|----------|----------|----------|
 | 11:15 AM | 30 min | Teaching: Faith | Parish Hall |
-| 11:45 AM | 30 min | Group Discussion | Parish Hall |
-| 12:15 PM | 15 min | Prayer with Jesus | Sanctuary |
+| 11:45 AM | 25 min | Prayer with Jesus | Sanctuary |
+| 12:10 PM | 20 min | Group Discussion | Parish Hall |
 
 ---
 
@@ -105,67 +105,51 @@ Faith is saying "yes" to God—yes to his existence, yes to his revelation, yes 
 
 The father in Mark's Gospel gives us the perfect prayer: *"I believe; help my unbelief!"* That's where most of us live—somewhere between belief and doubt. And Jesus doesn't reject that. He works with it.
 
-*Transition to discussion...*
+Now we're going to send you to spend time with Jesus in the Sanctuary. As you sit before him in the Blessed Sacrament, bring to him whatever is stirring in your heart about faith—your doubts, your questions, your desire to trust more deeply. Just be with him.
+
+**Let us pray**
+
+> Lord Jesus, you are the Way, the Truth, and the Life. We have heard your call to faith—to trust in you, not just to know about you. Now send us into your presence. As we sit before you in the Blessed Sacrament, help us to bring our doubts, our fears, and our unbelief. Meet us there. Increase our faith. We go now to be with you, the One in whom we place our trust. In your holy name we pray. Amen.
+
+*Please proceed quietly to the Sanctuary.*
 
 ---
 
-## Part 2: Group Discussion (30 minutes)
+## Part 2: Group Discussion (20 minutes)
 
-*Allow approximately 10 minutes per question. These questions build on Session 1, moving participants from recognizing their need for grace to examining their willingness to trust God.*
+*Participants return from the Sanctuary to share what God revealed to them during their time with Jesus.*
 
 ---
 
-### Question 1: The Struggle to Trust (10 minutes)
+### Opening Question: What Is God Showing You? (10 minutes)
 
-**"In Session 1, we talked about receiving grace. But receiving requires trust. What makes it hard for you to trust God? Is it something from your past? Something you've seen? Something you don't understand?"**
+**"How is God helping you grow in faith today? What revelations or insights did you receive during your time with Jesus?"**
+
+*Facilitator notes:*
+- This is the primary question—give it space and time
+- Let participants share freely what they experienced in prayer
+- Some may have wrestled with doubts; others may have felt peace
+- All responses are valid—God works differently in each person
+- Listen for themes that emerge across the group
+
+---
+
+### Follow-Up Questions (if needed, 10 minutes)
+
+*Use these only if the conversation needs prompting:*
+
+**"What makes it hard for you to trust God? Is it something from your past? Something you've seen? Something you don't understand?"**
 
 *Facilitator notes:*
 - This question invites honesty about obstacles to faith
-- Common answers: past hurts, unanswered prayers, suffering in the world, hypocrisy in the Church
+- Common answers: past hurts, unanswered prayers, suffering in the world
 - Don't try to "fix" people's doubts—let them name them
-- The goal is honest acknowledgment, not resolution (yet)
 - Connect to the father's prayer: "Help my unbelief"
 
----
-
-### Question 2: Faith vs. Certainty (10 minutes)
-
-**"Faith is 'the conviction of things not seen.' If God wanted us to believe, why doesn't he just show himself clearly and remove all doubt? What might be the purpose of faith requiring trust rather than proof?"**
+**"Where in your life is God asking you to act on faith—to do something that requires trusting him even though you can't see the outcome?"**
 
 *Facilitator notes:*
-- This is a deep theological question—don't rush to easy answers
-- Possible directions: Love requires freedom; proof would compel, not invite
-- Faith is relational—you can't have a relationship with a mathematical proof
-- God gives enough evidence to believe, but not so much that we're forced
-- Connect to Jesus blessing those "who have not seen and yet believe" (John 20:29)
-
----
-
-### Question 3: Acting on Faith (10 minutes)
-
-**"James says 'faith without works is dead.' Where in your life is God asking you to act on faith—to do something that requires trusting him even though you can't see the outcome? What's holding you back?"**
-
-*Facilitator notes:*
-- This question moves from concept to commitment
 - Encourage specificity: a conversation, a decision, a change, a risk
 - What would it look like to take one step of faith this week?
-- Connect to the progression: Grace enables → Faith responds → Action follows
-- This prepares them for the deeper questions in Sessions 3 and 4
-
----
-
-## Part 3: Prayer with Jesus (15 minutes)
-
-*In the Sanctuary, before the Blessed Sacrament*
-
-Guide participants to:
-1. Sit quietly in the presence of Jesus—the One in whom we place our faith
-2. Bring to him any doubts, fears, or obstacles to trust
-3. Pray the father's prayer: "Lord, I believe; help my unbelief"
-4. Ask for the grace to take one step of faith
-
-*Close with the Act of Faith:*
-
-> O my God, I firmly believe that you are one God in three divine Persons, Father, Son, and Holy Spirit. I believe that your divine Son became man and died for our sins, and that he will come to judge the living and the dead. I believe these and all the truths which the holy Catholic Church teaches, because you have revealed them, who can neither deceive nor be deceived. Amen.
 
 ---

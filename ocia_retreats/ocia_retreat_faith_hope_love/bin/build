@@ -338,16 +338,16 @@ def build_participant_guide():
     sections.append(md_to_html(read_file(PARTICIPANT_FILES / "schedule_overview.md")))
     sections.append('</div>')
 
-    # Sessions and devotionals
+    # Sessions: participant notes + devotional for each
     for i, (topic, name) in enumerate([
         ("grace", "Grace"),
         ("faith", "Faith"),
         ("hope", "Hope"),
         ("love", "Love")
     ], 1):
-        # Session content
+        # Participant notes
         sections.append('<div class="section">')
-        sections.append(md_to_html(read_file(SESSIONS_DIR / f"session_{i}_{topic}.md")))
+        sections.append(md_to_html(read_file(SESSIONS_DIR / f"session_{i}_{topic}_participant_notes.md")))
         sections.append('</div>')
 
         # Devotional

@@ -1,7 +1,7 @@
 # Session 3: Hope - Trusting in Love's Promise
 
 **Time:** 1:00 PM - 2:15 PM
-**Location:** Parish Hall (Teaching & Discussion) → Sanctuary (Prayer)
+**Location:** Parish Hall (Teaching) → Sanctuary (Prayer) → Parish Hall (Discussion)
 
 ---
 
@@ -10,8 +10,8 @@
 | Time | Duration | Activity | Location |
 |------|----------|----------|----------|
 | 1:00 PM | 30 min | Teaching: Hope | Parish Hall |
-| 1:30 PM | 30 min | Group Discussion | Parish Hall |
-| 2:00 PM | 15 min | Prayer with Jesus | Sanctuary |
+| 1:30 PM | 25 min | Prayer with Jesus | Sanctuary |
+| 1:55 PM | 20 min | Group Discussion | Parish Hall |
 
 ---
 
@@ -107,66 +107,50 @@ Hope is what gets us through. When the diagnosis is bad, when the relationship i
 
 By faith, we believe. In hope, we trust. And hope prepares us for love—because when we're confident in God's love for us, we're freed to love others.
 
-*Transition to discussion...*
+Now we're going to send you to spend time with Jesus in the Sanctuary. As you sit before him in the Blessed Sacrament, bring to him whatever is stirring in your heart about hope—your fears, your disappointments, your longing for something more. Just be with him.
+
+**Let us pray**
+
+> Lord Jesus, you are our hope—the anchor of our souls. We have heard your promises, and we know that you are faithful. Now send us into your presence. As we sit before you in the Blessed Sacrament, anchor our hearts in you. Where we are tempted to despair, give us confidence. Where we are tempted to presume, give us holy reverence. We go now to rest in the One who keeps his promises. In your holy name we pray. Amen.
+
+*Please proceed quietly to the Sanctuary.*
 
 ---
 
-## Part 2: Group Discussion (30 minutes)
+## Part 2: Group Discussion (20 minutes)
 
-*Allow approximately 10 minutes per question. These questions go deeper, helping participants confront their fears and disappointments, and discover where they need to anchor their hope in God.*
+*Participants return from the Sanctuary to share what God revealed to them during their time with Jesus.*
 
 ---
 
-### Question 1: Where Hope Has Been Tested (10 minutes)
+### Opening Question: What Is God Showing You? (10 minutes)
 
-**"Think of a time when you felt hopeless—when circumstances seemed impossible or when you couldn't see a way forward. What happened to your relationship with God during that time? Did you draw closer or pull away?"**
+**"How is God helping you grow in hope today? What revelations or insights did you receive during your time with Jesus?"**
+
+*Facilitator notes:*
+- This is the primary question—give it space and time
+- Let participants share freely what they experienced in prayer
+- Some may have confronted fears; others may have felt peace
+- All responses are valid—God works differently in each person
+- Listen for themes that emerge across the group
+
+---
+
+### Follow-Up Questions (if needed, 10 minutes)
+
+*Use these only if the conversation needs prompting:*
+
+**"Think of a time when you felt hopeless—when circumstances seemed impossible. What happened to your relationship with God during that time? Did you draw closer or pull away?"**
 
 *Facilitator notes:*
 - This question invites vulnerability about dark times
-- Some may share loss, illness, broken relationships, failure
 - Don't rush to "fix" or offer platitudes—let people sit with the reality
-- Notice patterns: Do people tend toward despair (giving up) or presumption (denial)?
 - Connect to Romans 5: suffering can produce hope, but it's a process
 
----
-
-### Question 2: What Are You Really Hoping For? (10 minutes)
-
-**"Be honest: When you think about what you're hoping for in life, how much of it is about this world—success, health, relationships, comfort—and how much is about Heaven and eternal life with God? What does that reveal about where your heart is anchored?"**
+**"What is one concrete way you could practice hope this week? What would it look like to anchor your soul more firmly in God's promises?"**
 
 *Facilitator notes:*
-- This is a challenging question—most of us hope primarily for earthly things
-- The goal isn't to shame, but to honestly examine our priorities
-- Connect to Jesus' teaching: "Where your treasure is, there your heart will be also"
-- If our hope is only in this world, what happens when this world disappoints?
-- Guide toward the realization that ultimate hope must be in something that can't be taken away
-
----
-
-### Question 3: Choosing Hope (10 minutes)
-
-**"Hope is a virtue—which means it can be practiced and strengthened. Given what you've heard today, what is one concrete way you could practice hope this week? What would it look like to anchor your soul more firmly in God's promises?"**
-
-*Facilitator notes:*
-- Move from reflection to action
-- Possible answers: praying when anxious instead of worrying, meditating on Scripture promises, going to Confession to address despair, trusting God with a specific situation
-- Connect to the progression of the retreat: We've recognized our need (grace), said yes to God (faith), and now we're learning to trust his promises (hope)
+- Possible answers: praying when anxious instead of worrying, meditating on Scripture promises, trusting God with a specific situation
 - This prepares them for the final session on love—hope frees us to love
-
----
-
-## Part 3: Prayer with Jesus (15 minutes)
-
-*In the Sanctuary, before the Blessed Sacrament*
-
-Guide participants to:
-1. Sit quietly in the presence of Jesus—the One who is our hope
-2. Bring to him any area of despair or presumption
-3. Ask him: "Lord, anchor my hope in you"
-4. Meditate on his promise: "I am with you always, to the end of the age" (Matthew 28:20)
-
-*Close with the Act of Hope:*
-
-> O my God, relying on your infinite goodness and promises, I hope to obtain pardon of my sins, the help of your grace, and life everlasting, through the merits of Jesus Christ, my Lord and Redeemer. Amen.
 
 ---

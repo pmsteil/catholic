@@ -129,6 +129,20 @@ _______________________________________________________________________________
 
 ---
 
+## Rest in His Presence
+
+*Now, set aside this booklet.*
+
+You have reflected. You have prayed. But the most important thing is simply to *be* with Jesus.
+
+He is here—truly present in the Blessed Sacrament before you. You don't need to have all the answers. You don't need perfect faith. Just be with the One who is calling you. Speak to Him from your heart—your doubts, your hopes, your desire to believe. Or simply be still and let Him speak to you.
+
+**Remain here in silence until the bell rings.**
+
+When you hear the bell, pray the closing prayer below, then return quietly to the Parish Hall.
+
+---
+
 ## Closing Prayer: The Anima Christi
 
 *Ask Christ to deepen your faith as you pray:*

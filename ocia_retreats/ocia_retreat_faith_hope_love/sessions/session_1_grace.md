@@ -1,7 +1,7 @@
 # Session 1: Grace - God's Gift of Himself
 
 **Time:** 10:00 AM - 11:15 AM
-**Location:** Parish Hall (Teaching & Discussion) → Sanctuary (Prayer)
+**Location:** Parish Hall (Teaching) → Sanctuary (Prayer) → Parish Hall (Discussion)
 
 ---
 
@@ -10,8 +10,8 @@
 | Time | Duration | Activity | Location |
 |------|----------|----------|----------|
 | 10:00 AM | 30 min | Teaching: Grace | Parish Hall |
-| 10:30 AM | 30 min | Group Discussion | Parish Hall |
-| 11:00 AM | 15 min | Prayer with Jesus | Sanctuary |
+| 10:30 AM | 25 min | Prayer with Jesus | Sanctuary |
+| 10:55 AM | 20 min | Group Discussion | Parish Hall |
 
 ---
 
@@ -54,10 +54,11 @@ That's what we're talking about today. Grace is God giving us *himself*—not ju
 
 **Key points to emphasize:**
 - Grace isn't just a one-time gift at Baptism—it's an ongoing relationship
-- Like a branch connected to the vine, we receive life continuously from Christ
+- Like a branch connected to the vine, we receive **life continuously from Christ**
 - *"Apart from me you can do nothing"*—this is humbling but also liberating
 - The sacraments are the primary channels through which grace flows to us
 - We can cooperate with grace or resist it—God respects our freedom
+- Grace flows from God the Vine to us the branches like nourishment—and the fruit we bear is the natural result of staying connected to Him. No vine? No love, no fruit, no life.
 
 **Two kinds of grace:**
 1. **Sanctifying grace** — God's life dwelling in us (received at Baptism, restored in Confession)
@@ -91,66 +92,50 @@ Grace is the foundation of everything else we'll discuss today. Faith, hope, and
 
 The question isn't "Am I good enough for God?" The question is "Will I receive what God is offering?"
 
-*Transition to discussion...*
+Now we're going to send you to spend time with Jesus in the Sanctuary. As you sit before him in the Blessed Sacrament, bring to him whatever is on your heart about grace—your need for it, your struggle to receive it, your gratitude for it. Just be with him.
+
+**Let us pray**
+
+> Lord Jesus, you have taught us about your grace—your very life poured out for us. Now send us to sit at your feet. As we enter your presence in the Blessed Sacrament, open our hearts to receive what we cannot earn. Help us to simply be with you, the Vine, so that your life may flow into us, the branches. We go now to receive your Grace. In your holy name we pray. Amen.
+
+*Please proceed quietly to the Sanctuary.*
 
 ---
 
-## Part 2: Group Discussion (30 minutes)
+## Part 2: Group Discussion (20 minutes)
 
-*Allow approximately 10 minutes per question. These questions are designed to help participants recognize their need for God's grace and begin to open themselves to receive it.*
+*Participants return from the Sanctuary to share what God revealed to them during their time with Jesus.*
 
 ---
 
-### Question 1: Recognizing Our Need (10 minutes)
+### Opening Question: What Is God Showing You? (10 minutes)
 
-**"Think of a time when you tried to change something about yourself—a habit, a pattern, a relationship—through sheer willpower alone. What happened? What does this tell you about your need for something beyond your own strength?"**
+**"How is God helping you grow in your understanding of grace today? What revelations or insights did you receive during your time with Jesus?"**
 
 *Facilitator notes:*
-- Let people share honestly about failure—this isn't about shame, it's about truth
-- Guide toward the realization that lasting transformation requires more than human effort
-- Connect their experience to Paul's words: "Apart from me you can do nothing"
-- The goal is not discouragement but honest recognition of our need
+- This is the primary question—give it space and time
+- Let participants share freely what they experienced in prayer
+- Some may have had profound insights; others may have simply rested
+- All responses are valid—God works differently in each person
+- Listen for themes that emerge across the group
 
 ---
 
-### Question 2: Receiving vs. Earning (10 minutes)
+### Follow-Up Questions (if needed, 10 minutes)
 
-**"Many of us were raised to believe we have to earn everything we get. How does the idea that God's grace is completely free—that you cannot earn it and don't deserve it—make you feel? Does it bring relief? Discomfort? Why?"**
+*Use these only if the conversation needs prompting:*
+
+**"Where in your life right now do you most need to hear that God's grace is enough? What would it look like to actually believe that?"**
 
 *Facilitator notes:*
-- This question often surfaces deep-seated beliefs about worthiness
+- Encourage specificity—not "my life in general" but "this relationship," "this struggle," "this fear"
+- What would change if they truly believed grace was sufficient?
+
+**"Many of us were raised to believe we have to earn everything we get. How does the idea that God's grace is completely free make you feel?"**
+
+*Facilitator notes:*
 - Some may feel relief ("I don't have to be perfect")
 - Others may feel uncomfortable ("If I can't earn it, how do I know I have it?")
 - Guide toward understanding that receiving a gift requires humility, not achievement
-- Connect to the reality that love cannot be earned—only received
-
----
-
-### Question 3: Opening to Grace (10 minutes)
-
-**"Jesus said his grace is 'sufficient'—enough. Where in your life right now do you most need to hear that God's grace is enough? What would it look like to actually believe that?"**
-
-*Facilitator notes:*
-- This question moves from concept to personal application
-- Encourage specificity—not "my life in general" but "this relationship," "this struggle," "this fear"
-- What would change if they truly believed grace was sufficient?
-- How might they live differently starting today?
-- This prepares them for the prayer time that follows
-
----
-
-## Part 3: Prayer with Jesus (15 minutes)
-
-*In the Sanctuary, before the Blessed Sacrament*
-
-Guide participants to:
-1. Sit quietly in the presence of Jesus
-2. Bring to him the area of life they identified in Question 3
-3. Simply ask: "Lord, help me receive your grace"
-4. Rest in silence, trusting that he hears
-
-*Close with the Prayer for Grace:*
-
-> Lord Jesus, I cannot save myself. I cannot transform myself. I cannot earn your love. But I can receive it. Open my heart to your grace. Help me to stop striving and start receiving. Let your life flow into me like sap into a branch. Apart from you, I can do nothing. With you, all things are possible. Amen.
 
 ---

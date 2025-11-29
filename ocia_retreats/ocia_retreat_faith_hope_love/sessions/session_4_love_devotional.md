@@ -185,6 +185,20 @@ _______________________________________________________________________________
 
 ---
 
+## Rest in His Presence
+
+*Now, set aside this booklet.*
+
+You have reflected. You have prayed. But the most important thing is simply to *be* with Jesus—Love Himself.
+
+He is here—truly present in the Blessed Sacrament before you. You don't need to do anything. You don't need to prove anything. Just rest in the arms of the Jesus who loves you more than you can imagine. Speak to Him from your heart—your gratitude, your surrender, your desire to love as He loves. Or simply be still and receive His love.
+
+**Remain here in silence until the bell rings.**
+
+When you hear the bell, pray the closing prayer below, then return quietly to the Parish Hall.
+
+---
+
 ## Closing Prayer: The Anima Christi
 
 *Ask Christ to fill you with His love as you pray:*

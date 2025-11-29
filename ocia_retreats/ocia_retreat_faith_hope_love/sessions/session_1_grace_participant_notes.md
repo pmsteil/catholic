@@ -105,7 +105,7 @@ Grace is the **foundation** of everything else. Faith, hope, and love are only p
 
 The question isn't *"Am I good enough for God?"*
 
-The question is *"Will I receive what God is offering?"*
+The question is *"Will I receive what God's gift of His self?"*
 
 ---
 
