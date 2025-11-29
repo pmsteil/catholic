@@ -19,18 +19,6 @@
 **Romans 8:28** — *"We know that all things work for good for those who love God, who are called according to his purpose."*
 
 
-## Key Terms to Know
-
-| Term | Definition |
-|------|------------|
-| **Hope** | The theological virtue by which we desire Heaven and eternal life, trusting Christ's promises and relying on the Holy Spirit's help (CCC 1817) |
-| **Theological Virtue** | A virtue infused by God at Baptism that has God as its origin, object, and motive (CCC 1266, 1812) |
-| **Despair** | A sin against hope; giving up on God's promises (CCC 2091) |
-| **Presumption** | A sin against hope; expecting salvation without conversion (CCC 2092) |
-| **Beatitudes** | The interior dispositions and outward actions Jesus taught lead to true happiness (Mt 5:3-12) |
-| **Purgatory** | The final purification before Heaven; a sign of God's mercy and our hope |
-
-
 ## Lesson Outline
 
 ### 1. Hope Is Anchored in God's Promises, Not Our Circumstances
@@ -95,34 +83,11 @@ _______________________________________________________________________________
 
 ### 3. The Enemies of Hope
 
-**Two Sins Against Hope:**
-
-| Sin | What It Is | What It Says |
-|-----|------------|--------------|
-| **Despair** | Giving up on God's promises | "God can't" or "God won't" |
-| **Presumption** | Taking God's promises for granted | "God must" or "God owes me" |
-
-**Despair looks like:**
-- Believing your sins are too great to be forgiven
-- Believing your situation is beyond God's help
-- Believing Heaven isn't real or isn't for you
-
-**Presumption looks like:**
-- Assuming you'll be saved without conversion
-- Expecting forgiveness without repentance
-- Living however you want because "God is merciful"
-
-**CCC 2091:** *"Despair... is contrary to God's goodness, to his justice—for the Lord is faithful to his promises—and to his mercy."*
+**Two sins against hope:**
+- **Despair** — Giving up on God's promises ("God can't" or "God won't")
+- **Presumption** — Taking God's promises for granted ("God must" or "God owes me")
 
 **Hope walks the middle path:** trusting God's mercy while taking his justice seriously.
-
-**Purgatory: A Sign of Hope**
-
-Purgatory gives us hope. Why? Because it shows us how much God wants us to be with him in Heaven. Purgatory isn't punishment—it's purification. Even if we die imperfect (and we all will), God has made a way for us to be made ready for Heaven. That's hope.
-
-**Hope Fosters Prayer (CCC 2657)**
-
-Hope and prayer go together. When we hope, we pray. When we pray, our hope grows.
 
 **My Notes:**
 
@@ -156,4 +121,16 @@ _______________________________________________________________________________
 ## Act of Hope
 
 > O my God, relying on your infinite goodness and promises, I hope to obtain pardon of my sins, the help of your grace, and life everlasting, through the merits of Jesus Christ, my Lord and Redeemer. **Amen.**
+
+
+---
+
+## For Further Study
+
+*Topics to explore when you have more time:*
+
+- **The Beatitudes:** Jesus' roadmap of hope (Matthew 5:3-12)
+- **Purgatory:** A sign of God's mercy and our hope (CCC 1030-1032)
+- **Hope and prayer:** How they nourish each other (CCC 2657)
+- **Despair and presumption:** The sins against hope in detail (CCC 2091-2092)
 

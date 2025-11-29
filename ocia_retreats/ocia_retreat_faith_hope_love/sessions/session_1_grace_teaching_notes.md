@@ -54,19 +54,9 @@ That's what we're talking about today. Grace is God giving us *himself*—not ju
 - We can cooperate with grace or resist it—God respects our freedom
 - Grace flows from God the Vine to us the branches like nourishment—and the fruit we bear is the natural result of staying connected to Him. No vine? No love, no fruit, no life.
 
-**Key Catholic Terms on Grace:**
-
-1. **Sanctifying grace** (also called *habitual grace*) — God's life dwelling permanently in us; makes us holy and capable of supernatural love; received at Baptism, restored in Confession (CCC 1999-2000)
-
-2. **Actual grace** — God's help in specific moments to do good and avoid evil; prompts and assists us to act rightly (CCC 2000)
-
-3. **Sacramental grace** — The particular grace proper to each sacrament; the seven sacraments are the primary channels through which grace flows to us (CCC 1129)
-
-4. **Charism** — Special gifts of grace given by the Holy Spirit for the building up of the Church and the salvation of others (CCC 799-801)
-
-5. **Justification** — The action of the Holy Spirit in us that makes us holy; our sins are truly forgiven and taken away, not merely covered over (CCC 1987-1995)
-
-6. **Graces of state** — Special graces given to help us fulfill the duties of our particular vocation (married, single, religious, ordained) (CCC 2004)
+**Two essential types of grace to know:**
+- **Sanctifying grace** — God's life dwelling permanently in us; received at Baptism, restored in Confession
+- **Actual grace** — God's help in specific moments to do good and avoid evil
 
 
 ### Talking Point 3: Why This Changes Everything (8 minutes)
@@ -87,12 +77,6 @@ That's what we're talking about today. Grace is God giving us *himself*—not ju
 - It is restored through the Sacrament of Reconciliation
 - We increase in grace by prayer, the sacraments, and acts of love
 
-**What grace does in us:**
-- **Transforms our intellect and will** — We are empowered to know and love in a new way
-- **Makes us members of the Body of Christ** — We belong to the Church, connected to all believers
-- **Gives us the Gifts of the Holy Spirit** — Wisdom, understanding, counsel, fortitude, knowledge, piety, fear of the Lord
-- **Produces the Fruits of the Spirit** — Love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, self-control (Galatians 5:22-23)
-
 
 ### Closing (3 minutes)
 
@@ -107,3 +91,32 @@ Now we're going to send you to spend time with Jesus in the Sanctuary. As you si
 > Lord Jesus, you have taught us about your grace—your very life poured out for us. Now send us to sit at your feet. As we enter your presence in the Blessed Sacrament, open our hearts to receive what we cannot earn. Help us to simply be with you, the Vine, so that your life may flow into us, the branches. We go now to receive your Grace. In your holy name we pray. Amen.
 
 *Please proceed quietly to the Sanctuary.*
+
+---
+
+## If Time Permits: Going Deeper
+
+*Use this material if you finish early or if participants want to explore further during discussion.*
+
+### Additional Types of Grace
+
+Beyond sanctifying and actual grace, the Church teaches about several other forms:
+
+1. **Sacramental grace** — The particular grace proper to each sacrament; the seven sacraments are the primary channels through which grace flows to us (CCC 1129)
+
+2. **Charism** — Special gifts of grace given by the Holy Spirit for the building up of the Church and the salvation of others (CCC 799-801)
+
+3. **Justification** — The action of the Holy Spirit in us that makes us holy; our sins are truly forgiven and taken away, not merely covered over (CCC 1987-1995)
+
+4. **Graces of state** — Special graces given to help us fulfill the duties of our particular vocation (married, single, religious, ordained) (CCC 2004)
+
+
+### What Grace Produces in Us
+
+**The Gifts of the Holy Spirit** (Isaiah 11:2-3):
+- Wisdom, Understanding, Counsel, Fortitude, Knowledge, Piety, Fear of the Lord
+
+**The Fruits of the Spirit** (Galatians 5:22-23):
+- Love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, self-control
+
+These gifts and fruits are the natural result of staying connected to Christ the Vine. They are evidence that grace is at work in us.

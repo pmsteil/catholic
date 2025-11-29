@@ -86,24 +86,7 @@ Notice: We love God *for his own sake*—not for what we get from him. And we lo
 - The fulfillment of the entire law (Romans 13:10)
 - The bond of perfect harmony that holds all virtues together (Colossians 3:14)
 
-**Supporting Scripture: Galatians 5:6 (NABRE)**
-> *"For in Christ Jesus, neither circumcision nor uncircumcision counts for anything, but only faith working through love."*
-
-Faith and love cannot be separated. A faith that does not express itself in love is not saving faith. As James writes: *"Faith of itself, if it does not have works, is dead"* (James 2:17).
-
-**Why can't faith be separated from love?** Because faith, hope, and all the virtues are all part of the supernatural gift of LOVE!
-
-Think about it this way:
-- **Love is the "form" of all the virtues** (CCC 1827)—it gives them their shape and direction
-- **Faith** believes in God—but *why* do we believe? Because we love the One who reveals himself
-- **Hope** trusts God's promises—but *why* do we trust? Because we love the One who promises
-- **Every virtue** is ordered toward love—justice, mercy, patience, kindness—all of them flow from and lead back to love
-
-St. Paul says love is *"the bond of perfection"* (Colossians 3:14)—it's the glue that holds all the virtues together. Without love, the other virtues fall apart. With love, they become a unified whole.
-
-This is why the Church teaches that **charity is the soul of holiness** (CCC 826). You can have faith and hope without charity (as in mortal sin), but they cannot save you—they're like a body without a soul. Love is what animates everything else.
-
-So when we talk about growing in faith, hope, or any virtue—we're really talking about growing in love. It's all one gift, and that gift is participation in God's own life—because *God IS love*.
+**The key connection:** *"Faith working through love"* (Galatians 5:6). Faith and love cannot be separated. A faith that does not express itself in love is not saving faith. Love is the "soul of holiness" (CCC 826)—it's what animates everything else.
 
 
 ### Talking Point 3: The Final Test—Love in Action (8 minutes)
@@ -133,19 +116,6 @@ So when we talk about growing in faith, hope, or any virtue—we're really talki
 - **Venial sin** wounds charity—it weakens our love but does not destroy it
 - This is why we need the Sacrament of Reconciliation—to restore and heal our capacity to love
 
-**Love and the Sacraments:**
-- The **Eucharist** is the "Sacrament of Love"—Jesus stays with us because of love
-- **Confession** restores our broken fellowship with the Father when sin has wounded or destroyed love
-- Through the sacraments, God's love is poured into our hearts by the Holy Spirit (Romans 5:5)
-
-
-**Love and Prayer (CCC 2658):**
-Love is both the *source* of prayer and the *heights* of prayer. We pray because we love God. And the more we pray, the more we grow in love. Prayer and love feed each other.
-
-**Love and Justice (CCC 1889):**
-It is charity that enables us to act justly. Without love, we cannot give others what they are owed. Love is not opposed to justice—love *enables* justice.
-
----
 
 ### Closing (3 minutes)
 
@@ -169,3 +139,35 @@ Now we're going to send you to spend time with Jesus in the Sanctuary. As you si
 > Lord Jesus, you are Love Incarnate—God who IS love, made visible in human flesh. We have heard your command to love as you have loved us. Now send us into your presence. As we sit before you in the Blessed Sacrament, help us first to receive your love, so that we may have love to give. Soften our hearts toward those we find hard to love. Set us on fire with the love that casts out fear. We go now to be with the One who loved us to the end. In your holy name we pray. Amen.
 
 *Please proceed quietly to the Sanctuary.*
+
+---
+
+## If Time Permits: Going Deeper
+
+*Use this material if you finish early or if participants want to explore further during discussion.*
+
+### Why Faith Can't Be Separated from Love
+
+**Galatians 5:6 (NABRE):** *"For in Christ Jesus, neither circumcision nor uncircumcision counts for anything, but only faith working through love."*
+
+Think about it this way:
+- **Love is the "form" of all the virtues** (CCC 1827)—it gives them their shape and direction
+- **Faith** believes in God—but *why* do we believe? Because we love the One who reveals himself
+- **Hope** trusts God's promises—but *why* do we trust? Because we love the One who promises
+- **Every virtue** is ordered toward love—justice, mercy, patience, kindness—all of them flow from and lead back to love
+
+St. Paul says love is *"the bond of perfection"* (Colossians 3:14)—it's the glue that holds all the virtues together.
+
+### Love and the Sacraments
+
+- The **Eucharist** is the "Sacrament of Love"—Jesus stays with us because of love
+- **Confession** restores our broken fellowship with the Father when sin has wounded or destroyed love
+- Through the sacraments, God's love is poured into our hearts by the Holy Spirit (Romans 5:5)
+
+### Love and Prayer (CCC 2658)
+
+Love is both the *source* of prayer and the *heights* of prayer. We pray because we love God. And the more we pray, the more we grow in love. Prayer and love feed each other.
+
+### Love and Justice (CCC 1889)
+
+It is charity that enables us to act justly. Without love, we cannot give others what they are owed. Love is not opposed to justice—love *enables* justice.

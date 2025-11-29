@@ -17,14 +17,6 @@
 **Hebrews 11:1, 6** — *"Faith is the realization of what is hoped for and evidence of things not seen... without faith it is impossible to please him, for anyone who approaches God must believe that he exists and that he rewards those who seek him."*
 
 
-## Key Terms to Know
-
-| Term | Definition |
-|------|------------|
-| **Theological Virtues** | Faith, hope, and love—infused by God at Baptism, directed toward God Himself (CCC 1812-1813) |
-| **Deposit of Faith** | The heritage of faith in Sacred Scripture and Tradition, handed on from the Apostles (CCC 84) |
-
-
 ## Lesson Outline
 
 ### 1. Faith Is Personal Trust, Not Just Information
@@ -64,26 +56,9 @@ _______________________________________________________________________________
 
 - **Doubt** is not the opposite of faith—**refusal** is the opposite of faith
 
-**From CCC 2089:**
-- **Incredulity** — the refusal to believe
-- **Heresy** — obstinate, post-baptismal rejection of a doctrine
-- **Apostasy** — total rejection of the faith
-- **Schism** — refusal to submit to the Roman Pontiff
+- Faith grows through prayer, sacraments, Scripture, community, and acting on what we believe
 
-**How Faith Grows:**
-- Prayer—asking God for more faith
-- The sacraments—especially Eucharist and Confession
-- Scripture and the teaching of the Church
-- Community with other believers
-- Acting on the faith we have (faith without works is dead)
-
-**How Faith Weakens:**
-- Neglecting prayer and the sacraments
-- Surrounding ourselves only with unbelief
-- Refusing to act on what we know to be true
-- Letting other things become more important than God
-
-**Faith as a Shield:** *"Take up the shield of faith, with which you can quench all the flaming arrows of the evil one"* (Ephesians 6:16). Faith is not passive—it's spiritual armor!
+- Faith weakens when we neglect these things
 
 **My Notes:**
 
@@ -142,4 +117,16 @@ _______________________________________________________________________________
 ## Act of Faith
 
 > O my God, I firmly believe that you are one God in three divine Persons, Father, Son, and Holy Spirit. I believe that your divine Son became man and died for our sins, and that he will come to judge the living and the dead. I believe these and all the truths which the holy Catholic Church teaches, because you have revealed them, who can neither deceive nor be deceived. **Amen.**
+
+
+---
+
+## For Further Study
+
+*Topics to explore when you have more time:*
+
+- **Sins against faith:** Incredulity, heresy, apostasy, schism (CCC 2089)
+- **Faith as spiritual armor:** "The shield of faith" (Ephesians 6:16)
+- **Faith and reason:** How they work together (CCC 35, 156-159)
+- **The Deposit of Faith:** Sacred Scripture and Tradition (CCC 84)
 

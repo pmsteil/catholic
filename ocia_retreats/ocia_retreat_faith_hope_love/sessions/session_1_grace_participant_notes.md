@@ -56,16 +56,9 @@ _______________________________________________________________________________
 
 - We can **cooperate** with grace or **resist** it—God respects our freedom
 
-**Key Catholic Terms on Grace:**
-
-| Type | What It Is |
-|------|------------|
-| **Sanctifying Grace** | God's life dwelling permanently in us; makes us holy (CCC 1999-2000) |
-| **Actual Grace** | God's help in specific moments to do good and avoid evil (CCC 2000) |
-| **Sacramental Grace** | The particular grace proper to each sacrament (CCC 1129) |
-| **Charism** | Special gifts of the Holy Spirit for building up the Church (CCC 799-801) |
-| **Justification** | The Holy Spirit's action making us holy; sins truly forgiven (CCC 1987-1995) |
-| **Graces of State** | Special graces for our particular vocation (CCC 2004) |
+**Two essential types of grace:**
+- **Sanctifying grace** — God's life dwelling permanently in us; received at Baptism, restored in Confession
+- **Actual grace** — God's help in specific moments to do good and avoid evil
 
 **My Notes:**
 
@@ -82,27 +75,14 @@ _______________________________________________________________________________
 
 - God's answer: *"My grace is sufficient"*—not "I'll fix your problem" but **"I am enough"**
 
-- Grace transforms us **from the inside out**—new intellect, new will, new capacity to love
+- Grace transforms us **from the inside out**
 
 - We become capable of things we could **never do on our own**
 
 **The Stakes:**
-
 - Sanctifying grace can be **lost** through mortal sin
-
 - It is **restored** through the Sacrament of Reconciliation
-
 - We **increase** in grace by prayer, the sacraments, and acts of love
-
-**What Grace Does in Us:**
-
-- **Transforms our intellect and will** — We are empowered to know and love in a new way
-
-- **Makes us members of the Body of Christ** — We belong to the Church, connected to all believers
-
-- **Gives us the Gifts of the Holy Spirit** — Wisdom, understanding, counsel, fortitude, knowledge, piety, fear of the Lord
-
-- **Produces the Fruits of the Spirit** — Love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, self-control (Galatians 5:22-23)
 
 **My Notes:**
 
@@ -134,4 +114,16 @@ _______________________________________________________________________________
 ## Prayer for Grace
 
 > Lord Jesus, I cannot save myself. I cannot transform myself. I cannot earn your love. But I can receive it. Open my heart to your grace. Help me to stop striving and start receiving. Apart from you, I can do nothing. With you, all things are possible. **Amen.**
+
+
+---
+
+## For Further Study
+
+*Topics to explore when you have more time:*
+
+- **Additional types of grace:** Sacramental grace, charism, justification, graces of state (CCC 1129, 799-801, 1987-1995, 2004)
+- **The Gifts of the Holy Spirit:** Wisdom, understanding, counsel, fortitude, knowledge, piety, fear of the Lord (Isaiah 11:2-3)
+- **The Fruits of the Spirit:** Love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, self-control (Galatians 5:22-23)
+- **Grace and free will:** How we cooperate with God's grace (CCC 1993, 2002)
 

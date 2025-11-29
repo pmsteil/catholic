@@ -19,17 +19,6 @@
 **Matthew 25:40** — *"Whatever you did for one of these least brothers of mine, you did for me."*
 
 
-## Key Terms to Know
-
-| Term | Definition |
-|------|------------|
-| **Charity** | The theological virtue of love; loving God above all things for his own sake, and our neighbor as ourselves for the love of God |
-| **Acedia** | A form of spiritual laziness (also called sloth); refusing to engage with God's love |
-| **Theological Virtue** | A virtue infused by God at Baptism, having God as its origin, object, and motive |
-| **Mortal Sin** | A grave sin that destroys charity in the heart and separates us from God |
-| **Venial Sin** | A lesser sin that wounds charity but does not destroy it |
-
-
 ## Lesson Outline
 
 ### 1. God IS Love—Not Just That He Loves
@@ -82,18 +71,7 @@ _______________________________________________________________________________
 - The **fulfillment** of the entire law (Romans 13:10)
 - The **bond of perfect harmony** that holds all virtues together (Colossians 3:14)
 
-**Why Faith Can't Be Separated from Love:**
-
-*"For in Christ Jesus, neither circumcision nor uncircumcision counts for anything, but only faith working through love."* (Galatians 5:6)
-
-- **Love is the "form" of all the virtues** (CCC 1827)—it gives them their shape and direction
-- **Faith** believes in God—but *why* do we believe? Because we love the One who reveals himself
-- **Hope** trusts God's promises—but *why* do we trust? Because we love the One who promises
-- **Every virtue** is ordered toward love—all of them flow from and lead back to love
-
-St. Paul says love is *"the bond of perfection"* (Colossians 3:14)—it's the glue that holds all the virtues together.
-
-**CCC 826:** Charity is the **soul of holiness**. You can have faith and hope without charity (as in mortal sin), but they cannot save you—they're like a body without a soul.
+**The key connection:** *"Faith working through love"* (Galatians 5:6). Faith and love cannot be separated. Love is the "soul of holiness" (CCC 826)—it's what animates everything else.
 
 **My Notes:**
 
@@ -118,28 +96,10 @@ _______________________________________________________________________________
 
 **CCC 1826:** *"If I... have not charity, I am nothing... Charity is superior to all the virtues. It is the first of the theological virtues."*
 
-**The Sins Against Love (CCC 2093-2094):**
-
-| Sin | What It Is |
-|-----|------------|
-| **Indifference** | Not caring about God's love or the needs of others |
-| **Ingratitude** | Taking God's love for granted, failing to give thanks |
-| **Lukewarmness** | Half-hearted response to God's love |
-| **Acedia** | Refusing to engage with God's love; spiritual laziness |
-| **Hatred** | The direct opposite of love, wishing evil upon God or neighbor |
-
-**How Sin Affects Love:**
-- **Mortal sin** destroys charity in the heart—it kills love, even when faith and hope remain
+**How sin affects love:**
+- **Mortal sin** destroys charity—it kills love, even when faith and hope remain
 - **Venial sin** wounds charity—it weakens our love but does not destroy it
 - This is why we need the Sacrament of Reconciliation—to restore and heal our capacity to love
-
-**Love and the Sacraments:**
-- The **Eucharist** is the "Sacrament of Love"—Jesus stays with us because of love
-- **Confession** restores our broken fellowship with the Father when sin has wounded or destroyed love
-
-**Love and Prayer (CCC 2658):** Love is both the *source* of prayer and the *heights* of prayer. We pray because we love God. And the more we pray, the more we grow in love.
-
-**Love and Justice (CCC 1889):** It is charity that enables us to act justly. Without love, we cannot give others what they are owed. Love *enables* justice.
 
 **My Notes:**
 
@@ -191,4 +151,17 @@ _______________________________________________________________________________
 ## Act of Love
 
 > O my God, I love you above all things, with my whole heart and soul, because you are all good and worthy of all my love. I love my neighbor as myself for the love of you. I forgive all who have injured me, and I ask pardon of all whom I have injured. **Amen.**
+
+
+---
+
+## For Further Study
+
+*Topics to explore when you have more time:*
+
+- **The sins against love:** Indifference, ingratitude, lukewarmness, acedia, hatred (CCC 2093-2094)
+- **Love as the form of all virtues:** How love shapes faith, hope, and every virtue (CCC 1827)
+- **Love and the sacraments:** Eucharist as the "Sacrament of Love" (CCC 1323-1324)
+- **Love and prayer:** How they nourish each other (CCC 2658)
+- **Love and justice:** How charity enables us to act justly (CCC 1889)
 

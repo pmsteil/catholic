@@ -9,19 +9,6 @@
 
 ## Session Overview
 
-### Key Catholic Terms for This Session
-
-| Term | Definition |
-|------|------------|
-| **Hope** | The theological virtue by which we desire the kingdom of heaven and eternal life as our happiness, placing our trust in Christ's promises and relying not on our own strength, but on the help of the grace of the Holy Spirit (CCC 1817) |
-| **Theological Virtue** | A virtue infused by God at Baptism that has God as its origin, object, and motive—we can't earn it, it's directed toward God, and we practice it because of who God is (CCC 1266, 1812) |
-| **Despair** | A sin against hope; giving up on God's promises, believing one's sins are too great to be forgiven, or that salvation is impossible (CCC 2091) |
-| **Presumption** | A sin against hope; expecting salvation without conversion, forgiveness without repentance, or Heaven without following God's commands (CCC 2092) |
-| **Beatitudes** | The interior dispositions and outward actions which Jesus taught lead to true happiness here on earth and eternal blessedness in Heaven (Mt 5:3-12) |
-| **Virtue** | A firm and habitual disposition to do good; theological virtues are infused by God, while moral virtues are developed through practice |
-| **Purgatory** | The final purification of the elect before entering Heaven; a sign of God's mercy and our hope that He wants us with Him forever |
-| **Paschal Mystery** | Christ's work of redemption through his Passion, Death, Resurrection, and Ascension—the foundation of our hope |
-
 ---
 
 ## Part 1: Teaching (30 minutes)
@@ -59,8 +46,6 @@ This is why we call hope an "anchor"—it holds us steady when everything else i
 
 Key phrase: *"relying not on our own strength."* Hope is not optimism about our abilities. It's confidence in God's faithfulness.
 
-**CCC 1266:** The theological virtues—faith, hope, and love—are *infused* at Baptism. You didn't earn hope. God gave it to you as a gift when you were baptized. It's supernatural—it comes from God and leads us back to God.
-
 
 ### Talking Point 2: Hope Gives Us a Reason to Live Differently (8 minutes)
 
@@ -81,9 +66,6 @@ Key phrase: *"relying not on our own strength."* Hope is not optimism about our 
 - Frees us from despair—even when things look hopeless, God is working
 - Motivates holiness—if Heaven is our destination, we want to be ready
 
-**The Beatitudes: Jesus' Roadmap of Hope (Matthew 5:3-12)**
-
-Jesus gave us the Beatitudes to show us what a hope-filled life looks like. Each beatitude is a promise: "Blessed are the poor in spirit, for *theirs is the kingdom of heaven*." Hope isn't passive—it shapes how we live *now* because we know where we're going.
 
 
 ### Talking Point 3: The Enemies of Hope (8 minutes)
@@ -114,13 +96,6 @@ Jesus gave us the Beatitudes to show us what a hope-filled life looks like. Each
 
 Hope walks the middle path: trusting God's mercy while taking his justice seriously.
 
-**Purgatory: A Sign of Hope**
-
-Here's something beautiful: Purgatory gives us hope. Why? Because it shows us how much God wants us to be with him in Heaven. Purgatory isn't punishment—it's purification. It means that even if we die imperfect (and we all will), God has made a way for us to be made ready for Heaven. That's hope.
-
-**Hope Fosters Prayer (CCC 2657)**
-
-Hope and prayer go together. When we hope, we pray. When we pray, our hope grows. The Psalms are filled with hope: *"For God alone my soul waits in silence; from him comes my salvation"* (Ps 62:1). The Mass, the Liturgy of the Hours, personal prayer—all of these nourish hope in us.
 
 
 ### Closing (3 minutes)
@@ -140,3 +115,30 @@ Now we're going to send you to spend time with Jesus in the Sanctuary. As you si
 > Lord Jesus, you are our hope—the anchor of our souls. We have heard your promises, and we know that you are faithful. Now send us into your presence. As we sit before you in the Blessed Sacrament, anchor our hearts in you. Where we are tempted to despair, give us confidence. Where we are tempted to presume, give us holy reverence. We go now to rest in the One who keeps his promises. In your holy name we pray. Amen.
 
 *Please proceed quietly to the Sanctuary.*
+
+---
+
+## If Time Permits: Going Deeper
+
+*Use this material if you finish early or if participants want to explore further during discussion.*
+
+### Key Catholic Terms
+
+| Term | Definition |
+|------|------------|
+| **Theological Virtue** | A virtue infused by God at Baptism that has God as its origin, object, and motive (CCC 1266, 1812) |
+| **Beatitudes** | The interior dispositions and outward actions which Jesus taught lead to true happiness (Mt 5:3-12) |
+| **Purgatory** | The final purification of the elect before entering Heaven; a sign of God's mercy |
+| **Paschal Mystery** | Christ's work of redemption through his Passion, Death, Resurrection, and Ascension—the foundation of our hope |
+
+### The Beatitudes: Jesus' Roadmap of Hope (Matthew 5:3-12)
+
+Jesus gave us the Beatitudes to show us what a hope-filled life looks like. Each beatitude is a promise: "Blessed are the poor in spirit, for *theirs is the kingdom of heaven*." Hope isn't passive—it shapes how we live *now* because we know where we're going.
+
+### Purgatory: A Sign of Hope
+
+Here's something beautiful: Purgatory gives us hope. Why? Because it shows us how much God wants us to be with him in Heaven. Purgatory isn't punishment—it's purification. It means that even if we die imperfect (and we all will), God has made a way for us to be made ready for Heaven. That's hope.
+
+### Hope Fosters Prayer (CCC 2657)
+
+Hope and prayer go together. When we hope, we pray. When we pray, our hope grows. The Psalms are filled with hope: *"For God alone my soul waits in silence; from him comes my salvation"* (Ps 62:1). The Mass, the Liturgy of the Hours, personal prayer—all of these nourish hope in us.

@@ -68,27 +68,11 @@ But with God, our trust is well-placed. The key phrase: *"because he is truth it
 - But we must *choose* to receive it and cooperate with it
 - Faith can grow or shrink depending on how we nurture it
 
-From CCC 2089:
-- Doubt is not the opposite of faith—*refusal* is the opposite of faith
-- Incredulity is the refusal to believe
-- Heresy is the obstinate, post baptismal rejection of a doctrine
-- Apostasy is the total rejection of the faith
-- Schism is the refusal to submit to the Roman Pontiff
+**Key insight from CCC 2089:** Doubt is not the opposite of faith—*refusal* is the opposite of faith. We can have questions and still believe. What matters is whether we keep saying "yes" to God.
 
-**How faith grows:**
-- Prayer—asking God for more faith
-- The sacraments—especially Eucharist and Confession
-- Scripture and the teaching of the Church
-- Community with other believers
-- Acting on the faith we have (faith without works is dead)
-
-**How faith weakens:**
-- Neglecting prayer and the sacraments
-- Surrounding ourselves only with unbelief
-- Refusing to act on what we know to be true
-- Letting other things become more important than God
-
-**Faith as a shield:** In Ephesians 6:16, St. Paul tells us to take up "the shield of faith, with which you can quench all the flaming arrows of the evil one." Faith is not passive—it's spiritual armor. The enemy attacks with doubt, discouragement, and deception. Faith is our active defense, protecting us from lies that would separate us from God.
+**Faith can grow or weaken** depending on how we nurture it:
+- It grows through prayer, the sacraments, Scripture, community, and acting on what we believe
+- It weakens when we neglect these things or let other priorities crowd out God
 
 
 ### Talking Point 3: Faith Is the Foundation for Everything Else (8 minutes)
@@ -124,3 +108,38 @@ Now we're going to send you to spend time with Jesus in the Sanctuary. As you si
 > Lord Jesus, you are the Way, the Truth, and the Life. We have heard your call to faith—to trust in you, not just to know about you. Now send us into your presence. As we sit before you in the Blessed Sacrament, help us to bring our doubts, our fears, and our unbelief. Meet us there. Increase our faith. We go now to be with you, the One in whom we place our trust. In your holy name we pray. Amen.
 
 *Please proceed quietly to the Sanctuary.*
+
+---
+
+## If Time Permits: Going Deeper
+
+*Use this material if you finish early or if participants want to explore further during discussion.*
+
+### Sins Against Faith (CCC 2089)
+
+The Church identifies specific ways we can sin against faith:
+- **Incredulity** — the refusal to believe
+- **Heresy** — obstinate, post-baptismal rejection of a doctrine
+- **Apostasy** — total rejection of the faith
+- **Schism** — refusal to submit to the Roman Pontiff
+
+### How Faith Grows and Weakens
+
+**How faith grows:**
+- Prayer—asking God for more faith
+- The sacraments—especially Eucharist and Confession
+- Scripture and the teaching of the Church
+- Community with other believers
+- Acting on the faith we have (faith without works is dead)
+
+**How faith weakens:**
+- Neglecting prayer and the sacraments
+- Surrounding ourselves only with unbelief
+- Refusing to act on what we know to be true
+- Letting other things become more important than God
+
+### Faith as Spiritual Armor
+
+**Ephesians 6:16 (NABRE):** *"In all circumstances, hold faith as a shield, to quench all the flaming arrows of the evil one."*
+
+Faith is not passive—it's spiritual armor. The enemy attacks with doubt, discouragement, and deception. Faith is our active defense, protecting us from lies that would separate us from God.
