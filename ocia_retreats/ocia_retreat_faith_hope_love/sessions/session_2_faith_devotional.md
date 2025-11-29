@@ -166,7 +166,7 @@ When you hear the bell, pray the closing prayer below, then return quietly to th
 
 > Holy Mary, Seat of Wisdom, **pray for us.**
 >
-> St. John Paul II, our parish patron, **pray for us.**
+> St. John Paul II, **pray for us.**
 >
 > St. John Henry Newman, **pray for us.**
 >

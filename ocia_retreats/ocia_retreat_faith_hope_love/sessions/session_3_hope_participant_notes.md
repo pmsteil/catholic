@@ -20,7 +20,7 @@
 
 ---
 
-## Teaching Outline
+## Lesson Outline
 
 ### 1. Hope Is Anchored in God's Promises, Not Our Circumstances
 
@@ -115,17 +115,7 @@ Hope is what **gets us through**. When the diagnosis is bad, when the relationsh
 
 ## My Response
 
-*What stood out to me most from this session:*
-
-_______________________________________________________________________________
-
-_______________________________________________________________________________
-
-_______________________________________________________________________________
-
-_______________________________________________________________________________
-
-*One thing I want to remember:*
+*One thing I want to remember about this lesson:*
 
 _______________________________________________________________________________
 

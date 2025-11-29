@@ -20,7 +20,7 @@
 
 ---
 
-## Teaching Outline
+## Lesson Outline
 
 ### 1. God IS Love—Not Just That He Loves
 
@@ -131,17 +131,7 @@ Jesus said: *"By this all men will know that you are my disciples, if you have l
 
 ## My Response
 
-*What stood out to me most from this session:*
-
-_______________________________________________________________________________
-
-_______________________________________________________________________________
-
-_______________________________________________________________________________
-
-_______________________________________________________________________________
-
-*One thing I want to remember:*
+*One thing I want to remember about this lesson:*
 
 _______________________________________________________________________________
 

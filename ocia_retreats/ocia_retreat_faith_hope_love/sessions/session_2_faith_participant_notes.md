@@ -20,7 +20,7 @@
 
 ---
 
-## Teaching Outline
+## Lesson Outline
 
 ### 1. Faith Is Personal Trust, Not Just Information
 
@@ -117,17 +117,7 @@ It's not a blind leap into the dark; it's a **trusting step toward the Light**.
 
 ## My Response
 
-*What stood out to me most from this session:*
-
-_______________________________________________________________________________
-
-_______________________________________________________________________________
-
-_______________________________________________________________________________
-
-_______________________________________________________________________________
-
-*One thing I want to remember:*
+*One thing I want to remember about this lesson:*
 
 _______________________________________________________________________________
 

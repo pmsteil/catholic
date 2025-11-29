@@ -27,15 +27,7 @@ Each session follows this pattern:
 
 ---
 
-## The Theological Virtues
-
-| Virtue | God's Gift | Our Response |
-|--------|-----------|--------------|
-| **Faith** | God reveals Himself | We trust and believe |
-| **Hope** | God promises salvation | We trust His promises |
-| **Love** | God loves us first | We love in return |
-
----
+## Key Scripture
 
 > *"So faith, hope, love remain, these three; but the greatest of these is love."*
 > — 1 Corinthians 13:13 (NABRE)

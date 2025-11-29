@@ -222,7 +222,7 @@ When you hear the bell, pray the closing prayer below, then return quietly to th
 
 > Holy Mary, Queen of Heaven, **pray for us.**
 >
-> St. John Paul II, our parish patron, **pray for us.**
+> St. John Paul II, **pray for us.**
 >
 > St. Augustine, **pray for us.**
 >

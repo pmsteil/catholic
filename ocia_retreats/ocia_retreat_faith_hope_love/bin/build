@@ -29,6 +29,7 @@ try:
 except ImportError:
     PANDOC_AVAILABLE = False
 
+
 # Get the project root directory
 PROJECT_ROOT = Path(__file__).parent.parent.resolve()
 SESSIONS_DIR = PROJECT_ROOT / "sessions"
@@ -338,7 +339,12 @@ def build_participant_guide():
     sections.append(md_to_html(read_file(PARTICIPANT_FILES / "schedule_overview.md")))
     sections.append('</div>')
 
-    # Sessions: participant notes + devotional for each
+    # Session 0: Opening Foundation (participant notes only, no devotional)
+    sections.append('<div class="section">')
+    sections.append(md_to_html(read_file(SESSIONS_DIR / "session_0_participant_notes.md")))
+    sections.append('</div>')
+
+    # Sessions 1-4: participant notes + devotional for each
     for i, (topic, name) in enumerate([
         ("grace", "Grace"),
         ("faith", "Faith"),
@@ -510,6 +516,54 @@ def convert_html_to_docx(html_path: Path) -> Path:
         return None
 
 
+def convert_html_to_pdf(html_path: Path) -> Path:
+    """Convert an HTML file to PDF.
+
+    Note: Automated PDF generation requires additional system dependencies.
+    The easiest way to generate PDFs is to open the HTML file in a browser
+    and use Print > Save as PDF, which preserves all styling.
+    """
+    pdf_path = html_path.with_suffix('.pdf')
+
+    # Try using the 'prince' command if available (commercial, but free for non-commercial)
+    import subprocess
+    try:
+        result = subprocess.run(
+            ['prince', str(html_path), '-o', str(pdf_path)],
+            capture_output=True,
+            text=True
+        )
+        if result.returncode == 0:
+            print(f"✅ PDF saved to: {pdf_path}")
+            return pdf_path
+    except FileNotFoundError:
+        pass  # prince not installed
+
+    # Try using Chrome/Chromium headless if available
+    for chrome_path in [
+        '/Applications/Google Chrome.app/Contents/MacOS/Google Chrome',
+        '/Applications/Chromium.app/Contents/MacOS/Chromium',
+        'google-chrome',
+        'chromium'
+    ]:
+        try:
+            result = subprocess.run(
+                [chrome_path, '--headless', '--disable-gpu',
+                 f'--print-to-pdf={pdf_path}', str(html_path)],
+                capture_output=True,
+                text=True
+            )
+            if result.returncode == 0:
+                print(f"✅ PDF saved to: {pdf_path}")
+                return pdf_path
+        except FileNotFoundError:
+            continue
+
+    print(f"⚠️  PDF generation skipped for {html_path.name}")
+    print(f"   To create PDF: Open {html_path.name} in browser → Print → Save as PDF")
+    return None
+
+
 def main():
     """Main entry point."""
     # Parse command line arguments
@@ -535,20 +589,19 @@ def main():
                 print("Usage: ./bin/build [participant|facilitator] [--html-only]")
                 sys.exit(1)
 
-    # Convert to DOCX unless --html-only flag is set
+    # Convert to DOCX and PDF unless --html-only flag is set
     if not html_only:
         print("\n--- Converting to DOCX ---")
         for html_path in html_files:
             if html_path:
                 convert_html_to_docx(html_path)
 
-    print("\n✅ Build complete!")
+        print("\n--- Converting to PDF ---")
+        for html_path in html_files:
+            if html_path:
+                convert_html_to_pdf(html_path)
 
-    print("Opening DOCXs in browser...")
-    import webbrowser
-    for docx_path in html_files:
-        if docx_path:
-            webbrowser.open(f"file://{docx_path}")
+    print("\n✅ Build complete!")
 
 
 if __name__ == "__main__":
