@@ -2,12 +2,10 @@
 
 **15 Minutes with Jesus**
 
----
 
 > *"Jesus said to him, 'I am the way and the truth and the life. No one comes to the Father except through me.'"*
 > — John 14:6 (NABRE)
 
----
 
 ## The Leap That Isn't Blind
 
@@ -23,7 +21,6 @@ Faith is not pretending to be certain when you're not. Faith is not checking you
 
 You can have questions. You can struggle. You can wrestle. That's not the opposite of faith—that's often how faith grows. What matters is that you keep turning toward the One who created you, who loves you, who is calling you to a life in Him.
 
----
 
 ## Faith Built on Grace
 
@@ -46,13 +43,11 @@ Without grace, we could not believe. But grace has been given. The question now 
 
 God is calling. He is breaking through. Faith is hearing that call and responding.
 
----
 
 ## Reflection Questions
 
 *Sit quietly with Jesus. Let these questions rest in your heart.*
 
----
 
 **1. What has God done to reveal Himself to me?**
 
@@ -66,7 +61,6 @@ _______________________________________________________________________________
 
 _______________________________________________________________________________
 
----
 
 **2. Where do I struggle to believe?**
 
@@ -80,7 +74,6 @@ _______________________________________________________________________________
 
 _______________________________________________________________________________
 
----
 
 **3. What would it mean for me to say "yes" to God today?**
 
@@ -94,7 +87,6 @@ _______________________________________________________________________________
 
 _______________________________________________________________________________
 
----
 
 ## A Prayer for Faith
 
@@ -113,7 +105,6 @@ _______________________________________________________________________________
 >
 > **Amen.**
 
----
 
 ## Traditional Prayer: Act of Faith
 
@@ -127,7 +118,6 @@ _______________________________________________________________________________
 >
 > **Amen.**
 
----
 
 ## Rest in His Presence
 
@@ -141,7 +131,6 @@ He is here—truly present in the Blessed Sacrament before you. You don't need t
 
 When you hear the bell, pray the closing prayer below, then return quietly to the Parish Hall.
 
----
 
 ## Closing Prayer: The Anima Christi
 
@@ -174,7 +163,6 @@ When you hear the bell, pray the closing prayer below, then return quietly to th
 >
 > All holy men and women, **pray for us.**
 
----
 
 ## As You Leave
 
@@ -189,9 +177,7 @@ You have taken another step. Faith grows not by having all the answers, but by c
 
 Go in peace. The journey continues.
 
----
 
 *"I do believe, help my unbelief!"*
 — Mark 9:24 (NABRE)
 
----

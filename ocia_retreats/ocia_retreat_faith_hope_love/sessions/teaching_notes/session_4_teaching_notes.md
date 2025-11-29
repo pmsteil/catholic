@@ -1,6 +1,5 @@
 # Session 4: Love (Charity) - Teaching Notes
 
----
 
 ## Part 1: Catechist Preparation
 
@@ -67,7 +66,6 @@
 - Where Charity and Love Prevail (*Ubi Caritas*)
 - Where True Love and Charity Are Found (*Ubi Caritas*)
 
----
 
 ## Part 2: Catechetical Session
 

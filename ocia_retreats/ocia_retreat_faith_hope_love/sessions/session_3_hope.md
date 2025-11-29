@@ -3,7 +3,6 @@
 **Time:** 1:00 PM - 2:15 PM
 **Location:** Parish Hall (Teaching) → Sanctuary (Prayer) → Parish Hall (Discussion)
 
----
 
 ## Session Overview
 
@@ -13,14 +12,12 @@
 | 1:30 PM | 25 min | Prayer with Jesus | Sanctuary |
 | 1:55 PM | 20 min | Group Discussion | Parish Hall |
 
----
 
 ## Part 1: Teaching (30 minutes)
 
 ### Central Truth
 > **We hope in God's promise of a share in his glory in Heaven. God's promises are trustworthy. Hope offers to us authentic joy and true courage, and sustains us in times of trial.**
 
----
 
 ### Opening (3 minutes)
 
@@ -30,7 +27,6 @@ Ask the group: *"What's the difference between hope and wishful thinking?"*
 
 Hope isn't crossing your fingers. Hope is anchoring your soul to the faithfulness of God.
 
----
 
 ### Talking Point 1: Hope Is Anchored in God's Promises, Not Our Circumstances (8 minutes)
 
@@ -48,7 +44,6 @@ Hope isn't crossing your fingers. Hope is anchoring your soul to the faithfulnes
 
 Key phrase: *"relying not on our own strength."* Hope is not optimism about our abilities. It's confidence in God's faithfulness.
 
----
 
 ### Talking Point 2: Hope Gives Us a Reason to Live Differently (8 minutes)
 
@@ -69,7 +64,6 @@ Key phrase: *"relying not on our own strength."* Hope is not optimism about our 
 - Frees us from despair—even when things look hopeless, God is working
 - Motivates holiness—if Heaven is our destination, we want to be ready
 
----
 
 ### Talking Point 3: The Enemies of Hope (8 minutes)
 
@@ -99,7 +93,6 @@ Key phrase: *"relying not on our own strength."* Hope is not optimism about our 
 
 Hope walks the middle path: trusting God's mercy while taking his justice seriously.
 
----
 
 ### Closing (3 minutes)
 
@@ -115,13 +108,11 @@ Now we're going to send you to spend time with Jesus in the Sanctuary. As you si
 
 *Please proceed quietly to the Sanctuary.*
 
----
 
 ## Part 2: Group Discussion (20 minutes)
 
 *Participants return from the Sanctuary to share what God revealed to them during their time with Jesus.*
 
----
 
 ### Opening Question: What Is God Showing You? (10 minutes)
 
@@ -134,7 +125,6 @@ Now we're going to send you to spend time with Jesus in the Sanctuary. As you si
 - All responses are valid—God works differently in each person
 - Listen for themes that emerge across the group
 
----
 
 ### Follow-Up Questions (if needed, 10 minutes)
 
@@ -153,4 +143,3 @@ Now we're going to send you to spend time with Jesus in the Sanctuary. As you si
 - Possible answers: praying when anxious instead of worrying, meditating on Scripture promises, trusting God with a specific situation
 - This prepares them for the final session on love—hope frees us to love
 
----

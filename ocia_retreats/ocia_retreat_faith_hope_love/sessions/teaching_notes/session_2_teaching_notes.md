@@ -1,6 +1,5 @@
 # Session 2: Faith - Teaching Notes
 
----
 
 ## Part 1: Catechist Preparation
 
@@ -66,7 +65,6 @@
 - The Lord Is My Light
 - We Walk by Faith
 
----
 
 ## Part 2: Catechetical Session
 

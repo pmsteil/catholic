@@ -21,7 +21,6 @@ These catechumens have already completed instruction on:
 
 **This retreat builds on that foundation** by focusing on the personal encounter with God.
 
----
 
 ## Retreat Goals
 
@@ -33,7 +32,6 @@ By the end of this retreat, participants should:
 4. **Live Love** — See love as the greatest virtue that integrates all others
 5. **Experience Encounter** — Have personal time with Jesus in the Blessed Sacrament
 
----
 
 ## Session Flow
 
@@ -47,7 +45,6 @@ Each session follows this pattern:
 
 **Key Insight:** The prayer time comes *after* teaching so participants can bring what they learned directly to Jesus. The discussion comes *after* prayer so they can share what they experienced.
 
----
 
 ## Your Role as Facilitator
 
@@ -67,7 +64,6 @@ Each session follows this pattern:
 - Create a safe space for honest sharing
 - Keep to time (20 minutes)
 
----
 
 ## Team Roles
 
@@ -79,7 +75,6 @@ Each session follows this pattern:
 | **Sanctuary Coordinator** | Manage Blessed Sacrament exposition, transitions |
 | **Hospitality** | Setup, lunch, participant needs |
 
----
 
 ## Critical Reminders
 

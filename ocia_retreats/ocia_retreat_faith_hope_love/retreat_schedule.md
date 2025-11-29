@@ -1,7 +1,6 @@
 # Retreat Schedule
 ## OCIA Retreat: Grace and the Theological Virtues
 
----
 
 ## Schedule Overview
 
@@ -10,7 +9,6 @@
 **Start:** 8:00 AM
 **End:** 4:30 PM (hard stop)
 
----
 
 ## Session Format
 
@@ -23,7 +21,6 @@ Each teaching session follows this pattern:
 
 **Total per session:** 1 hour 15 minutes
 
----
 
 ## Detailed Timeline
 
@@ -41,7 +38,6 @@ Each teaching session follows this pattern:
 
 **Note:** Two options for Eucharistic Adoration - see "Adoration Options" section below.
 
----
 
 ### Session 1: Grace - God's Gift of Himself
 
@@ -61,7 +57,6 @@ Each teaching session follows this pattern:
   - What weakness are you ashamed of? Can you bring it to Jesus and hear Him say, "My grace is sufficient for you"?
   - How is God inviting you to trust Him more deeply?
 
----
 
 ### Session 2: Faith - Believing in Love
 
@@ -81,7 +76,6 @@ Each teaching session follows this pattern:
   - Where do you struggle to believe? Can you bring that struggle honestly to Jesus?
   - What would it mean for you to say "yes" to God today—not a perfect yes, just an honest yes?
 
----
 
 ### Lunch
 
@@ -89,7 +83,6 @@ Each teaching session follows this pattern:
 |------|----------|----------|----------|
 | 12:30 PM | 30 min | **Lunch** | Parish Hall |
 
----
 
 ### Session 3: Hope - Trusting in Love's Promise
 
@@ -109,7 +102,6 @@ Each teaching session follows this pattern:
   - What are you trying to carry that you need to surrender to God? Anxiety? Grief? Fear? The need to control?
   - How would your life be different if you truly believed God's promises?
 
----
 
 ### Session 4: Love - Participating in God's Life
 
@@ -130,7 +122,6 @@ Each teaching session follows this pattern:
   - How is God calling you to be His love in the world? To bear truth? To do justice? To love mercy? To walk humbly?
   - Will you accept the call to be light in the darkness?
 
----
 
 ### Closing: Integration and Commissioning
 
@@ -143,7 +134,6 @@ Each teaching session follows this pattern:
 | | | - Reposition of Blessed Sacrament | |
 | 4:30 PM | — | **Retreat Ends** | — |
 
----
 
 ## Time Summary
 
@@ -159,7 +149,6 @@ Each teaching session follows this pattern:
 | Breaks/Transitions | 15 min |
 | **Total** | **8 hr 30 min** |
 
----
 
 ## Location Notes
 
@@ -176,7 +165,6 @@ Each teaching session follows this pattern:
 - Prayer with Jesus (25 min after each teaching)
 - Closing session (3:30-4:30 PM)
 
----
 
 ## Blessed Sacrament Exposition
 
@@ -194,7 +182,6 @@ The Blessed Sacrament will be exposed in the Sanctuary from approximately 9:50 A
 
 Either option maintains the rhythm of teaching → prayer → discussion, with the Sanctuary as the heart of the retreat.
 
----
 
 ## Facilitator Notes
 

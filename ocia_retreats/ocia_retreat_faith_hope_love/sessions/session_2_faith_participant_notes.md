@@ -2,13 +2,11 @@
 
 **Participant Notes**
 
----
 
 ## Central Truth
 
 > **We believe because of the authority of God who reveals. Our response is a gift of his grace. We must remain steadfast in faith to see God.**
 
----
 
 ## Key Scripture
 
@@ -18,7 +16,6 @@
 
 **Hebrews 11:1, 6** — *"Faith is the realization of what is hoped for and evidence of things not seen... without faith it is impossible to please him."*
 
----
 
 ## Lesson Outline
 
@@ -42,7 +39,6 @@ _______________________________________________________________________________
 
 _______________________________________________________________________________
 
----
 
 ### 2. Faith Is a Gift We Must Choose to Receive
 
@@ -75,7 +71,6 @@ _______________________________________________________________________________
 
 _______________________________________________________________________________
 
----
 
 ### 3. Faith Is the Foundation for Everything Else
 
@@ -105,7 +100,6 @@ _______________________________________________________________________________
 
 _______________________________________________________________________________
 
----
 
 ## Key Takeaway
 
@@ -113,7 +107,6 @@ Faith is saying **"yes"** to God—yes to his existence, yes to his revelation, 
 
 It's not a blind leap into the dark; it's a **trusting step toward the Light**.
 
----
 
 ## My Response
 
@@ -123,10 +116,8 @@ _______________________________________________________________________________
 
 _______________________________________________________________________________
 
----
 
 ## Act of Faith
 
 > O my God, I firmly believe that you are one God in three divine Persons, Father, Son, and Holy Spirit. I believe that your divine Son became man and died for our sins, and that he will come to judge the living and the dead. I believe these and all the truths which the holy Catholic Church teaches, because you have revealed them, who can neither deceive nor be deceived. **Amen.**
 
----

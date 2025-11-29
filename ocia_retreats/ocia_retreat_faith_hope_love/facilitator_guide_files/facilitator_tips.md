@@ -35,7 +35,6 @@ Always begin each discussion with:
 - Remind them: "Jesus heard that too, just now in the Sanctuary."
 - Follow up privately after the session if needed
 
----
 
 ## Teaching Tips
 
@@ -54,7 +53,6 @@ Always begin each discussion with:
 - Pause for emphasis
 - Let Scripture breathe
 
----
 
 ## Managing Time
 
@@ -66,7 +64,6 @@ Always begin each discussion with:
 
 **Be disciplined about time.** The schedule is tight, and the 4:30 PM end is a hard stop.
 
----
 
 ## Handling Common Situations
 
@@ -90,7 +87,6 @@ Always begin each discussion with:
 - Don't rush them
 - A team member can sit with them if needed
 
----
 
 ## Prayer for Facilitators
 
@@ -106,7 +102,6 @@ Before the retreat, pray together as a team:
 > St. Thérèse, St. Thomas, St. Josephine Bakhita, St. Maximilian Kolbe—pray for us.
 > Amen.
 
----
 
 ## After the Retreat
 

@@ -2,12 +2,10 @@
 
 **15 Minutes with Jesus**
 
----
 
 > *"God is love, and whoever remains in love remains in God and God in him."*
 > — 1 John 4:16 (NABRE)
 
----
 
 ## The Destination of the Journey
 
@@ -29,7 +27,6 @@ But here is the beautiful truth—love is not just the destination. Love has bee
 
 Love begins with God. Always. You are not here to earn God's love. You are here to receive it, to rest in it, and to let it transform you.
 
----
 
 ## God IS Love
 
@@ -45,7 +42,6 @@ Because love is who God *is*. Not just what God does—who God *is*. The Father,
 
 The restlessness you have felt—the longing, the searching, the ache for something more—that is your heart seeking the love it was made for. And that love is here. That love is now. That love is Jesus, present before you.
 
----
 
 ## Called to Be Love in the World
 
@@ -65,7 +61,6 @@ Jesus gave everything for you. Now He invites you to give your whole life to Him
 
 Not on how much we knew. Not on how much we accomplished. Not on how impressive our faith appeared. On love. Only love.
 
----
 
 ## The Next Generation
 
@@ -79,13 +74,11 @@ You are the next generation that brings light into the darkness. You are the one
 
 This is not a burden. This is a gift. This is the adventure you were made for.
 
----
 
 ## Reflection Questions
 
 *Sit quietly with Jesus. Let these questions rest in your heart.*
 
----
 
 **1. Do I truly believe that God—who IS love—has been pursuing me my whole life?**
 
@@ -99,7 +92,6 @@ _______________________________________________________________________________
 
 _______________________________________________________________________________
 
----
 
 **2. Am I willing to give my whole life to Christ, as He gave His life for me?**
 
@@ -113,7 +105,6 @@ _______________________________________________________________________________
 
 _______________________________________________________________________________
 
----
 
 **3. How is God calling me to be His love in the world?**
 
@@ -127,7 +118,6 @@ _______________________________________________________________________________
 
 _______________________________________________________________________________
 
----
 
 **4. Will I accept the call to be light in the darkness?**
 
@@ -141,7 +131,6 @@ _______________________________________________________________________________
 
 _______________________________________________________________________________
 
----
 
 ## A Prayer of Total Surrender
 
@@ -169,7 +158,6 @@ _______________________________________________________________________________
 >
 > **Amen.**
 
----
 
 ## Traditional Prayer: Act of Love
 
@@ -183,7 +171,6 @@ _______________________________________________________________________________
 >
 > **Amen.**
 
----
 
 ## Rest in His Presence
 
@@ -197,7 +184,6 @@ He is here—truly present in the Blessed Sacrament before you. You don't need t
 
 When you hear the bell, pray the closing prayer below, then return quietly to the Parish Hall.
 
----
 
 ## Closing Prayer: The Anima Christi
 
@@ -230,7 +216,6 @@ When you hear the bell, pray the closing prayer below, then return quietly to th
 >
 > All holy men and women, **pray for us.**
 
----
 
 ## As You Leave
 
@@ -245,9 +230,7 @@ You have received grace. You have said yes in faith. You have anchored yourself 
 
 Go in peace. The journey continues—and love leads the way.
 
----
 
 *"Beloved, let us love one another, because love is of God; everyone who loves is begotten by God and knows God."*
 — 1 John 4:7 (NABRE)
 
----

@@ -24,7 +24,6 @@
 - [ ] Bell or chime for transitions
 - [ ] Clock visible to facilitators
 
----
 
 ## Sanctuary Setup
 
@@ -45,7 +44,6 @@
 - Someone assigned to remain with Blessed Sacrament at all times
 - Bell/chime for signaling end of prayer time
 
----
 
 ## Timeline Checklist
 
@@ -75,7 +73,6 @@
 - [ ] Debrief with team
 - [ ] Follow up with participants as needed
 
----
 
 ## Emergency Contacts
 

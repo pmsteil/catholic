@@ -3,7 +3,6 @@
 **Time:** 2:15 PM - 3:30 PM
 **Location:** Parish Hall (Teaching) → Sanctuary (Prayer) → Parish Hall (Discussion)
 
----
 
 ## Session Overview
 
@@ -13,14 +12,12 @@
 | 2:45 PM | 25 min | Prayer with Jesus | Sanctuary |
 | 3:10 PM | 20 min | Group Discussion | Parish Hall |
 
----
 
 ## Part 1: Teaching (30 minutes)
 
 ### Central Truth
 > **Love is the essence of the inner life of the Trinity. It is the soul of holiness and the basis upon which we will be judged. In Heaven, the faithful will live in the joy of perfect love.**
 
----
 
 ### Opening (3 minutes)
 
@@ -30,7 +27,6 @@ Ask the group: *"What must I do to inherit eternal life?"*
 
 That's the question a lawyer asked Jesus in Luke 10. And Jesus' answer was: Love. Love God. Love your neighbor. *"Do this, and you will live."*
 
----
 
 ### Talking Point 1: God IS Love—Not Just That He Loves (8 minutes)
 
@@ -49,7 +45,6 @@ That's the question a lawyer asked Jesus in Luke 10. And Jesus' answer was: Love
 
 Notice: We love God *for his own sake*—not for what we get from him. And we love neighbor *for the love of God*—not because they deserve it.
 
----
 
 ### Talking Point 2: Love Is a Command—Which Means It's a Choice (8 minutes)
 
@@ -78,7 +73,6 @@ Notice: We love God *for his own sake*—not for what we get from him. And we lo
 - An act of the will that can be commanded and chosen
 - The fulfillment of the entire law (Romans 13:10)
 
----
 
 ### Talking Point 3: The Final Test—Love in Action (8 minutes)
 
@@ -102,7 +96,6 @@ Notice: We love God *for his own sake*—not for what we get from him. And we lo
 - Acedia (spiritual sloth)—refusing to engage with God's love
 - Hatred—the direct opposite of love
 
----
 
 ### Closing (3 minutes)
 
@@ -127,13 +120,11 @@ Now we're going to send you to spend time with Jesus in the Sanctuary. As you si
 
 *Please proceed quietly to the Sanctuary.*
 
----
 
 ## Part 2: Group Discussion (20 minutes)
 
 *Participants return from the Sanctuary to share what God revealed to them during their time with Jesus.*
 
----
 
 ### Opening Question: What Is God Showing You? (10 minutes)
 
@@ -146,7 +137,6 @@ Now we're going to send you to spend time with Jesus in the Sanctuary. As you si
 - All responses are valid—God works differently in each person
 - Listen for themes that emerge across the group
 
----
 
 ### Follow-Up Questions (if needed, 10 minutes)
 
@@ -166,4 +156,3 @@ Now we're going to send you to spend time with Jesus in the Sanctuary. As you si
 - Encourage specificity: not "I'll try to be more loving" but "I will call my estranged brother" or "I will spend 10 minutes in prayer each morning receiving God's love"
 - This prepares them for the closing session and their return to daily life
 
----

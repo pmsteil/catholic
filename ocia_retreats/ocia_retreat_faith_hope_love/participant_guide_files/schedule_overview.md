@@ -15,7 +15,6 @@
 | 3:30 PM | Closing Session | Sanctuary |
 | 4:30 PM | Retreat Ends | — |
 
----
 
 ## Session Format
 
@@ -25,7 +24,6 @@ Each session follows this pattern:
 2. **Prayer with Jesus** (25 min) — Sanctuary
 3. **Group Discussion** (20 min) — Parish Hall
 
----
 
 ## Key Scripture
 

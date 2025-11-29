@@ -1,6 +1,5 @@
 # Session 1: Grace - Teaching Notes
 
----
 
 ## Part 1: Catechist Preparation
 
@@ -70,7 +69,6 @@
 - The King of Love My Shepherd Is
 - Veni Sancte Spiritus (*Veni Sancte Spiritus*) (tune: Taizé)
 
----
 
 ## Part 2: Catechetical Session
 

@@ -2,13 +2,11 @@
 
 **Participant Notes**
 
----
 
 ## Central Truth
 
 > **We hope in God's promise of a share in his glory in Heaven. God's promises are trustworthy. Hope offers to us authentic joy and true courage, and sustains us in times of trial.**
 
----
 
 ## Key Scripture
 
@@ -18,7 +16,6 @@
 
 **Romans 8:28** — *"We know that all things work for good for those who love God."*
 
----
 
 ## Lesson Outline
 
@@ -42,7 +39,6 @@ _______________________________________________________________________________
 
 _______________________________________________________________________________
 
----
 
 ### 2. Hope Gives Us a Reason to Live Differently
 
@@ -72,7 +68,6 @@ _______________________________________________________________________________
 
 _______________________________________________________________________________
 
----
 
 ### 3. The Enemies of Hope
 
@@ -103,7 +98,6 @@ _______________________________________________________________________________
 
 _______________________________________________________________________________
 
----
 
 ## Key Takeaway
 
@@ -111,7 +105,6 @@ Hope is what **gets us through**. When the diagnosis is bad, when the relationsh
 
 *"God is faithful. He keeps his promises. This is not the end."*
 
----
 
 ## My Response
 
@@ -121,10 +114,8 @@ _______________________________________________________________________________
 
 _______________________________________________________________________________
 
----
 
 ## Act of Hope
 
 > O my God, relying on your infinite goodness and promises, I hope to obtain pardon of my sins, the help of your grace, and life everlasting, through the merits of Jesus Christ, my Lord and Redeemer. **Amen.**
 
----

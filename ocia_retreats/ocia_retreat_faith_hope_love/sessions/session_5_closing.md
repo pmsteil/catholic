@@ -3,7 +3,6 @@
 **Time:** 3:30 PM - 4:30 PM
 **Location:** Sanctuary
 
----
 
 ## Session Overview
 
@@ -11,7 +10,6 @@
 |------|----------|----------|----------|
 | 3:30 PM | 60 min | Closing Session | Sanctuary |
 
----
 
 ## Teaching Content
 
@@ -21,7 +19,6 @@
 - Communal prayer and blessing
 - Reposition of Blessed Sacrament
 
----
 
 ## Scripture Foundation
 
@@ -47,7 +44,6 @@
 - **1 Corinthians 13:13** - "The greatest of these is love"
 - **John 15:13** - "Greater love has no one than this"
 
----
 
 ## Catechism References
 
@@ -59,16 +55,13 @@
 - **Hope:** CCC 1817-1821
 - **Love (Charity):** CCC 1822-1829
 
----
 
 ## Closing Prayer
 
 *To be developed*
 
----
 
 ## Commissioning
 
 *To be developed*
 
----

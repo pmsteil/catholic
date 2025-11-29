@@ -2,12 +2,10 @@
 
 **15 Minutes with Jesus**
 
----
 
 > *"But God, who is rich in mercy, because of the great love he had for us, even when we were dead in our transgressions, brought us to life with Christ."*
 > — Ephesians 2:4-5 (NABRE)
 
----
 
 ## The Gift You Cannot Earn
 
@@ -27,7 +25,6 @@ But grace is how you come to know God *personally*. Grace is not a thing God giv
 
 Can you receive this? Can you let go of the need to earn, to prove, to be worthy—and simply receive?
 
----
 
 ## Grace and the Virtues: The Foundation of Everything
 
@@ -47,13 +44,11 @@ Without grace, we cannot take a single step toward God. But *with* grace, everyt
 
 You are not alone. You have never been alone. God's grace surrounds you, sustains you, and empowers you for everything He calls you to.
 
----
 
 ## Reflection Questions
 
 *Sit quietly with Jesus. Let these questions rest in your heart. You don't need to answer them—just let them open you to God's presence.*
 
----
 
 **1. Where have I been trying to earn God's love?**
 
@@ -67,7 +62,6 @@ _______________________________________________________________________________
 
 _______________________________________________________________________________
 
----
 
 **2. What weakness am I ashamed of?**
 
@@ -81,7 +75,6 @@ _______________________________________________________________________________
 
 _______________________________________________________________________________
 
----
 
 **3. How is God inviting me to trust Him more deeply?**
 
@@ -95,7 +88,6 @@ _______________________________________________________________________________
 
 _______________________________________________________________________________
 
----
 
 ## A Prayer of Surrender
 
@@ -121,7 +113,6 @@ _______________________________________________________________________________
 >
 > **Amen.**
 
----
 
 ## Rest in His Presence
 
@@ -135,7 +126,6 @@ He is here—truly present in the Blessed Sacrament before you. You don't need w
 
 When you hear the bell, pray the closing prayer below, then return quietly to the Parish Hall.
 
----
 
 ## Closing Prayer: The Anima Christi
 
@@ -170,7 +160,6 @@ When you hear the bell, pray the closing prayer below, then return quietly to th
 >
 > All holy men and women, **pray for us.**
 
----
 
 ## As You Leave
 
@@ -185,9 +174,7 @@ You don't need to feel anything special. You don't need to have had a profound e
 
 Go in peace. The journey continues.
 
----
 
 *"For by grace you have been saved through faith, and this is not from you; it is the gift of God."*
 — Ephesians 2:8 (NABRE)
 
----

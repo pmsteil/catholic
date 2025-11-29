@@ -2,13 +2,11 @@
 
 **Participant Notes**
 
----
 
 ## Central Truth
 
 > **God gives his own life and friendship to us. We call this gift grace. We do not earn or deserve God's grace. Grace allows us to become God's adopted children and to respond to his abundant love.**
 
----
 
 ## Key Scripture
 
@@ -18,7 +16,6 @@
 
 **2 Corinthians 12:9** — *"My grace is sufficient for you, for power is made perfect in weakness."*
 
----
 
 ## Lesson Outline
 
@@ -42,7 +39,6 @@ _______________________________________________________________________________
 
 _______________________________________________________________________________
 
----
 
 ### 2. How Grace Works in Us
 
@@ -69,7 +65,6 @@ _______________________________________________________________________________
 
 _______________________________________________________________________________
 
----
 
 ### 3. Why This Changes Everything
 
@@ -97,7 +92,6 @@ _______________________________________________________________________________
 
 _______________________________________________________________________________
 
----
 
 ## Key Takeaway
 
@@ -107,7 +101,6 @@ The question isn't *"Am I good enough for God?"*
 
 The question is *"Will I receive what God's gift of His self?"*
 
----
 
 ## My Response
 
@@ -117,10 +110,8 @@ _______________________________________________________________________________
 
 _______________________________________________________________________________
 
----
 
 ## Prayer for Grace
 
 > Lord Jesus, I cannot save myself. I cannot transform myself. I cannot earn your love. But I can receive it. Open my heart to your grace. Help me to stop striving and start receiving. Apart from you, I can do nothing. With you, all things are possible. **Amen.**
 
----

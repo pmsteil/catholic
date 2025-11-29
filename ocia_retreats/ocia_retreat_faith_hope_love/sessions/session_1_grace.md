@@ -3,7 +3,6 @@
 **Time:** 10:00 AM - 11:15 AM
 **Location:** Parish Hall (Teaching) → Sanctuary (Prayer) → Parish Hall (Discussion)
 
----
 
 ## Session Overview
 
@@ -13,14 +12,12 @@
 | 10:30 AM | 25 min | Prayer with Jesus | Sanctuary |
 | 10:55 AM | 20 min | Group Discussion | Parish Hall |
 
----
 
 ## Part 1: Teaching (30 minutes)
 
 ### Central Truth
 > **God gives his own life and friendship to us. We call this gift grace. We do not earn or deserve God's grace. Grace allows us to become God's adopted children and to respond to his abundant love.**
 
----
 
 ### Opening (3 minutes)
 
@@ -28,7 +25,6 @@ Begin with this question to the group: *"Have you ever received a gift so extrav
 
 That's what we're talking about today. Grace is God giving us *himself*—not just blessings, not just help, but his very life.
 
----
 
 ### Talking Point 1: What Grace Actually Is (8 minutes)
 
@@ -44,7 +40,6 @@ That's what we're talking about today. Grace is God giving us *himself*—not ju
 
 **CCC 1996:** *"Grace is favor, the free and undeserved help that God gives us to respond to his call to become children of God."*
 
----
 
 ### Talking Point 2: How Grace Works in Us (8 minutes)
 
@@ -64,7 +59,6 @@ That's what we're talking about today. Grace is God giving us *himself*—not ju
 1. **Sanctifying grace** — God's life dwelling in us (received at Baptism, restored in Confession)
 2. **Actual grace** — God's help in specific moments to do good and avoid evil
 
----
 
 ### Talking Point 3: Why This Changes Everything (8 minutes)
 
@@ -84,7 +78,6 @@ That's what we're talking about today. Grace is God giving us *himself*—not ju
 - It is restored through the Sacrament of Reconciliation
 - We increase in grace by prayer, the sacraments, and acts of love
 
----
 
 ### Closing (3 minutes)
 
@@ -100,13 +93,11 @@ Now we're going to send you to spend time with Jesus in the Sanctuary. As you si
 
 *Please proceed quietly to the Sanctuary.*
 
----
 
 ## Part 2: Group Discussion (20 minutes)
 
 *Participants return from the Sanctuary to share what God revealed to them during their time with Jesus.*
 
----
 
 ### Opening Question: What Is God Showing You? (10 minutes)
 
@@ -119,7 +110,6 @@ Now we're going to send you to spend time with Jesus in the Sanctuary. As you si
 - All responses are valid—God works differently in each person
 - Listen for themes that emerge across the group
 
----
 
 ### Follow-Up Questions (if needed, 10 minutes)
 
@@ -138,4 +128,3 @@ Now we're going to send you to spend time with Jesus in the Sanctuary. As you si
 - Others may feel uncomfortable ("If I can't earn it, how do I know I have it?")
 - Guide toward understanding that receiving a gift requires humility, not achievement
 
----

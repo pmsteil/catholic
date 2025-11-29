@@ -2,13 +2,11 @@
 
 **Participant Notes**
 
----
 
 ## Central Truth
 
 > **Love is the essence of the inner life of the Trinity. It is the soul of holiness and the basis upon which we will be judged. In Heaven, the faithful will live in the joy of perfect love.**
 
----
 
 ## Key Scripture
 
@@ -18,7 +16,6 @@
 
 **Matthew 25:40** — *"Whatever you did for one of these least brothers of mine, you did for me."*
 
----
 
 ## Lesson Outline
 
@@ -42,7 +39,6 @@ _______________________________________________________________________________
 
 _______________________________________________________________________________
 
----
 
 ### 2. Love Is a Command—Which Means It's a Choice
 
@@ -74,7 +70,6 @@ _______________________________________________________________________________
 
 _______________________________________________________________________________
 
----
 
 ### 3. The Final Test—Love in Action
 
@@ -104,7 +99,6 @@ _______________________________________________________________________________
 
 _______________________________________________________________________________
 
----
 
 ## The Progression of the Day
 
@@ -115,7 +109,6 @@ _______________________________________________________________________________
 | **Hope** | Trusting God's promises | So that we're **freed** to love without fear |
 | **Love** | The destination | **Participating** in the very life of the Trinity |
 
----
 
 ## Key Takeaway
 
@@ -127,7 +120,6 @@ Jesus said: *"By this all men will know that you are my disciples, if you have l
 
 **Not by your knowledge. Not by your attendance. Not by your feelings. By your love.**
 
----
 
 ## My Response
 
@@ -145,10 +137,8 @@ _______________________________________________________________________________
 
 _______________________________________________________________________________
 
----
 
 ## Act of Love
 
 > O my God, I love you above all things, with my whole heart and soul, because you are all good and worthy of all my love. I love my neighbor as myself for the love of you. I forgive all who have injured me, and I ask pardon of all whom I have injured. **Amen.**
 
----

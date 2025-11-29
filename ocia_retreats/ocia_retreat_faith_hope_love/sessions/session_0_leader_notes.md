@@ -3,7 +3,6 @@
 **Time:** 8:00 AM - 8:25 AM (25 minutes)
 **Location:** Parish Hall
 
----
 
 ## Purpose of This Session
 
@@ -12,7 +11,6 @@ This opening session accomplishes three essential goals:
 2. **Establish** the theological foundation (virtue, theological virtue, grace)
 3. **Invite** participants into an encounter with Jesus, not just information about Jesus
 
----
 
 ## Part 1: Welcome and Schedule Overview (8 minutes)
 
@@ -73,7 +71,6 @@ Don't just think about what you learned—*bring it to Him*. Ask Him questions. 
 
 The Blessed Sacrament will be exposed after Mass, which means Jesus is truly present—Body, Blood, Soul, and Divinity. You're not praying to a symbol. You're sitting with a Person who loves you and wants to speak to your heart.
 
----
 
 ## Part 2: What Is a Virtue? (5 minutes)
 
@@ -122,7 +119,6 @@ The Church teaches that there are two kinds of virtues:
 
 This brings us to the heart of today's retreat...
 
----
 
 ## Part 3: What Is a Theological Virtue? (7 minutes)
 
@@ -170,7 +166,6 @@ These are the three virtues that remain for eternity. When we see God face to fa
 - Hope will become possession (we'll have what we hoped for)
 - But Love will remain forever, because God IS Love
 
----
 
 ## Part 4: Why We Start with Grace (5 minutes)
 
@@ -212,12 +207,10 @@ Let us prepare to go to Him together in the Rosary.
 
 *Sign of the Cross*
 
----
 
 ## Transition to Rosary
 
 
----
 
 ## Leader Preparation Notes
 
@@ -235,4 +228,3 @@ Let us prepare to go to Him together in the Rosary.
 - Create anticipation for encounter with Jesus
 - Emphasize that this is a day of receiving, not achieving
 
----

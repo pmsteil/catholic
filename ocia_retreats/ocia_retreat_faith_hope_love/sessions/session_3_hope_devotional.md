@@ -2,12 +2,10 @@
 
 **15 Minutes with Jesus**
 
----
 
 > *"Hope does not disappoint, because the love of God has been poured out into our hearts through the holy Spirit that has been given to us."*
 > — Romans 5:5 (NABRE)
 
----
 
 ## The Anchor That Holds
 
@@ -39,7 +37,6 @@ Jesus said:
 
 Notice: hope relies *not on our own strength*. This is crucial. Hope is not about being strong enough to endure. Hope is about trusting a God who is strong enough to carry us.
 
----
 
 ## Hope Built on Grace and Faith
 
@@ -58,13 +55,11 @@ Hope is faith looking forward.
 
 God has begun something in you. Hope trusts that He will finish it.
 
----
 
 ## Reflection Questions
 
 *Sit quietly with Jesus. Let these questions rest in your heart.*
 
----
 
 **1. Where in my life am I tempted to despair or discouragement?**
 
@@ -78,7 +73,6 @@ _______________________________________________________________________________
 
 _______________________________________________________________________________
 
----
 
 **2. What am I trying to carry that I need to surrender to God?**
 
@@ -92,7 +86,6 @@ _______________________________________________________________________________
 
 _______________________________________________________________________________
 
----
 
 **3. How would my life be different if I truly believed God's promises?**
 
@@ -106,7 +99,6 @@ _______________________________________________________________________________
 
 _______________________________________________________________________________
 
----
 
 ## A Prayer for Hope
 
@@ -129,7 +121,6 @@ _______________________________________________________________________________
 >
 > **Amen.**
 
----
 
 ## Traditional Prayer: Act of Hope
 
@@ -139,7 +130,6 @@ _______________________________________________________________________________
 >
 > **Amen.**
 
----
 
 ## Rest in His Presence
 
@@ -153,7 +143,6 @@ He is here—truly present in the Blessed Sacrament before you. You don't need t
 
 When you hear the bell, pray the closing prayer below, then return quietly to the Parish Hall.
 
----
 
 ## Closing Prayer: The Anima Christi
 
@@ -186,7 +175,6 @@ When you hear the bell, pray the closing prayer below, then return quietly to th
 >
 > All holy men and women, **pray for us.**
 
----
 
 ## As You Leave
 
@@ -201,9 +189,7 @@ You are not alone. You have never been alone. The God who began a good work in y
 
 Go in peace. The journey continues.
 
----
 
 *"For I know well the plans I have in mind for you—oracle of the LORD—plans for your welfare and not for woe, so as to give you a future of hope."*
 — Jeremiah 29:11 (NABRE)
 
----

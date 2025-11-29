@@ -1,13 +1,11 @@
 # OCIA Retreat: Grace and the Theological Virtues
 ## Faith, Hope, and Love
 
----
 
 ## Project Overview
 
 This project develops a comprehensive OCIA/RCIA retreat focused on **Grace and the Theological Virtues of Faith, Hope, and Love**. The retreat will be held at **JP2 Parish**, utilizing both the **Parish Hall** (for teaching and group activities) and the **Sanctuary** (for prayer and liturgical experiences).
 
----
 
 ## Participant Context: Catechumens in the Catechumenate
 
@@ -44,7 +42,6 @@ Participants already understand:
 
 **This retreat deepens their understanding** by focusing on *how we personally receive and respond* to everything they've learned—through grace and the theological virtues of faith, hope, and love.
 
----
 
 ## Retreat Vision
 
@@ -56,7 +53,6 @@ Participants already understand:
 
 **Foundation:** God's perfect love is the sacred gift of covenant which binds truth, justice, mercy and sacrifice into life-giving communion. The theological virtues are God's gifts that enable us to participate in His divine life and love.
 
----
 
 ## Theological Framework
 
@@ -77,7 +73,6 @@ These are called "theological" because:
 | **Hope** | Confident expectation of eternal life and the grace to attain it | God promises salvation | We trust His promises |
 | **Love** | Loving God above all and neighbor as self for God's sake | God loves us first | We love in return |
 
----
 
 ## Retreat Structure
 
@@ -99,7 +94,6 @@ These are called "theological" because:
 
 *See `retreat_schedule.md` for detailed timeline.*
 
----
 
 ## Deliverables to Create
 
@@ -129,7 +123,6 @@ These are called "theological" because:
 - `facilitator_guide.md` - Instructions for retreat leaders
 - `room_setup.md` - Physical setup for Parish Hall and Sanctuary
 
----
 
 ## Key Principles
 
@@ -158,7 +151,6 @@ These are called "theological" because:
 - Connection to sacramental life
 - Living the virtues in ordinary life
 
----
 
 ## Next Steps
 
@@ -174,7 +166,6 @@ These are called "theological" because:
 10. ⬜ Create participant guide
 11. ⬜ Create facilitator guide
 
----
 
 ## Working Definition of Perfect Love
 
@@ -191,7 +182,6 @@ This definition helps participants understand that:
 
 The theological virtues are God's gifts that enable us to receive and participate in this perfect love.
 
----
 
 *Project initiated: November 28, 2025*
 *Parish: JP2 Parish*

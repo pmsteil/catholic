@@ -1,6 +1,5 @@
 # Session 3: Hope - Teaching Notes
 
----
 
 ## Part 1: Catechist Preparation
 
@@ -65,7 +64,6 @@
 - Though the Mountains May Fall
 - You Are My Hope, O God
 
----
 
 ## Part 2: Catechetical Session
 

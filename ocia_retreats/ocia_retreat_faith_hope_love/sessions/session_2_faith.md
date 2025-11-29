@@ -3,7 +3,6 @@
 **Time:** 11:15 AM - 12:30 PM
 **Location:** Parish Hall (Teaching) → Sanctuary (Prayer) → Parish Hall (Discussion)
 
----
 
 ## Session Overview
 
@@ -13,14 +12,12 @@
 | 11:45 AM | 25 min | Prayer with Jesus | Sanctuary |
 | 12:10 PM | 20 min | Group Discussion | Parish Hall |
 
----
 
 ## Part 1: Teaching (30 minutes)
 
 ### Central Truth
 > **We believe because of the authority of God who reveals. Our response is a gift of his grace. We must remain steadfast in faith to see God.**
 
----
 
 ### Opening (3 minutes)
 
@@ -30,7 +27,6 @@ Ask the group: *"What's the difference between knowing about someone and actuall
 
 That's the difference between information about God and faith in God.
 
----
 
 ### Talking Point 1: Faith Is Personal Trust, Not Just Information (8 minutes)
 
@@ -48,7 +44,6 @@ That's the difference between information about God and faith in God.
 
 The key phrase: *"because he is truth itself."* We don't believe because we've figured everything out. We believe because God cannot lie.
 
----
 
 ### Talking Point 2: Faith Is a Gift We Must Choose to Receive (8 minutes)
 
@@ -76,7 +71,6 @@ The key phrase: *"because he is truth itself."* We don't believe because we've f
 - Refusing to act on what we know to be true
 - Letting other things become more important than God
 
----
 
 ### Talking Point 3: Faith Is the Foundation for Everything Else (8 minutes)
 
@@ -97,7 +91,6 @@ The key phrase: *"because he is truth itself."* We don't believe because we've f
 - Faith leads to hope, and hope leads to love
 - "Faith working through love" (Galatians 5:6)—faith that doesn't lead to love isn't real faith
 
----
 
 ### Closing (3 minutes)
 
@@ -113,13 +106,11 @@ Now we're going to send you to spend time with Jesus in the Sanctuary. As you si
 
 *Please proceed quietly to the Sanctuary.*
 
----
 
 ## Part 2: Group Discussion (20 minutes)
 
 *Participants return from the Sanctuary to share what God revealed to them during their time with Jesus.*
 
----
 
 ### Opening Question: What Is God Showing You? (10 minutes)
 
@@ -132,7 +123,6 @@ Now we're going to send you to spend time with Jesus in the Sanctuary. As you si
 - All responses are valid—God works differently in each person
 - Listen for themes that emerge across the group
 
----
 
 ### Follow-Up Questions (if needed, 10 minutes)
 
@@ -152,4 +142,3 @@ Now we're going to send you to spend time with Jesus in the Sanctuary. As you si
 - Encourage specificity: a conversation, a decision, a change, a risk
 - What would it look like to take one step of faith this week?
 
----
