@@ -1,18 +1,22 @@
 #!/usr/bin/env python3
 """
 Build script for OCIA Retreat guides.
-Generates HTML and DOCX versions of the Participant Guide and Facilitator Guide.
+Generates HTML versions of the Participant Guide and Facilitator Guide.
+Optionally generates DOCX and PDF versions.
 
 Usage:
-    ./bin/build              # Build both guides (HTML + DOCX)
+    ./bin/build              # Build all guides (HTML only, opens in browser)
     ./bin/build participant  # Build only participant guide
     ./bin/build facilitator  # Build only facilitator guide
-    ./bin/build --html-only  # Build HTML only (skip DOCX)
+    ./bin/build table_leader # Build only table leader guide
+    ./bin/build --docx       # Also generate DOCX files
+    ./bin/build --pdf        # Also generate PDF files
+    ./bin/build --all        # Generate HTML, DOCX, and PDF
 
 Requirements:
     uv add markdown pypandoc
 
-    Also requires Pandoc to be installed on your system:
+    Also requires Pandoc to be installed on your system for DOCX/PDF:
     - macOS: brew install pandoc
     - Ubuntu: sudo apt install pandoc
     - Windows: choco install pandoc
@@ -35,7 +39,7 @@ PROJECT_ROOT = Path(__file__).parent.parent.resolve()
 SESSIONS_DIR = PROJECT_ROOT / "sessions"
 PARTICIPANT_FILES = PROJECT_ROOT / "participant_guide_files"
 FACILITATOR_FILES = PROJECT_ROOT / "facilitator_guide_files"
-TEACHING_NOTES_DIR = PROJECT_ROOT / "teaching_notes"
+TABLE_LEADER_FILES = PROJECT_ROOT / "table_leader_files"
 OUTPUT_DIR = PROJECT_ROOT / "output"
 
 
@@ -429,7 +433,7 @@ def build_facilitator_guide():
     sections.append(md_to_html(read_file(FACILITATOR_FILES / "setup_guide.md")))
     sections.append('</div>')
 
-    # Sessions with teaching notes
+    # Sessions
     for i, (topic, name) in enumerate([
         ("grace", "Grace"),
         ("faith", "Faith"),
@@ -438,15 +442,14 @@ def build_facilitator_guide():
     ], 1):
         # Teaching notes
         sections.append('<div class="section">')
-        sections.append(f'<h1>Session {i}: {name}</h1>')
         sections.append('<h2>Teaching Notes</h2>')
-        sections.append(md_to_html(read_file(TEACHING_NOTES_DIR / f"session_{i}_teaching_notes.md")))
+        sections.append(md_to_html(read_file(SESSIONS_DIR / f"session_{i}_{topic}_teaching_notes.md")))
         sections.append('</div>')
 
-        # Session content
+        # Group discussion
         sections.append('<div class="section">')
-        sections.append('<h2>Session Content</h2>')
-        sections.append(md_to_html(read_file(SESSIONS_DIR / f"session_{i}_{topic}.md")))
+        sections.append('<h2>Group Discussion</h2>')
+        sections.append(md_to_html(read_file(SESSIONS_DIR / f"session_{i}_{topic}_group_discussion.md")))
         sections.append('</div>')
 
         # Devotional
@@ -490,6 +493,87 @@ def build_facilitator_guide():
         f.write(html)
 
     print(f"✅ Facilitator Guide HTML saved to: {output_path}")
+    return output_path
+
+
+def build_table_leader_guide():
+    """Build the Table Leader Guide HTML.
+
+    Similar to Facilitator Guide but excludes setup guide and facilitator-only tips.
+    """
+    print("Building Table Leader Guide...")
+
+    sections = []
+
+    # Title page
+    sections.append("""
+<div class="title-page">
+    <h1>OCIA Retreat</h1>
+    <div class="subtitle">Grace and the Theological Virtues<br>Faith, Hope, and Love</div>
+    <div class="guide-type">Table Leader Guide</div>
+    <div class="parish">JP2 Parish</div>
+</div>
+""")
+
+    # Table Leader Overview
+    sections.append('<div class="section">')
+    sections.append(md_to_html(read_file(TABLE_LEADER_FILES / "overview.md")))
+    sections.append('</div>')
+
+    # Schedule
+    sections.append('<div class="section">')
+    sections.append(md_to_html(read_file(PROJECT_ROOT / "retreat_schedule.md")))
+    sections.append('</div>')
+
+    # Sessions (same as facilitator)
+    for i, topic in enumerate(["grace", "faith", "hope", "love"], 1):
+
+        # Teaching notes
+        sections.append('<div class="section">')
+        sections.append(md_to_html(read_file(SESSIONS_DIR / f"session_{i}_{topic}_teaching_notes.md")))
+        sections.append('</div>')
+
+        # Group discussion
+        sections.append('<div class="section">')
+        sections.append(md_to_html(read_file(SESSIONS_DIR / f"session_{i}_{topic}_group_discussion.md")))
+        sections.append('</div>')
+
+        # Devotional
+        sections.append('<div class="section">')
+        sections.append(md_to_html(read_file(SESSIONS_DIR / f"session_{i}_{topic}_devotional.md")))
+        sections.append('</div>')
+
+    # Closing (Benediction)
+    sections.append('<div class="section">')
+    sections.append(md_to_html(read_file(SESSIONS_DIR / "session_5_closing.md")))
+    sections.append('</div>')
+
+    # Note: No setup guide or facilitator addendum for table leaders
+
+    # Build full HTML (use facilitator CSS - green theme)
+    html = f"""<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>OCIA Retreat - Table Leader Guide</title>
+    <style>{FACILITATOR_CSS}</style>
+</head>
+<body>
+{''.join(sections)}
+</body>
+</html>
+"""
+
+    # Ensure output directory exists
+    OUTPUT_DIR.mkdir(exist_ok=True)
+
+    # Save HTML
+    output_path = OUTPUT_DIR / "Table_Leader_Guide.html"
+    with open(output_path, 'w', encoding='utf-8') as f:
+        f.write(html)
+
+    print(f"✅ Table Leader Guide HTML saved to: {output_path}")
     return output_path
 
 
@@ -564,42 +648,65 @@ def convert_html_to_pdf(html_path: Path) -> Path:
     return None
 
 
+def open_in_browser(html_path: Path):
+    """Open an HTML file in the default browser."""
+    import subprocess
+    try:
+        subprocess.run(['open', str(html_path)], check=True)
+        print(f"📖 Opened in browser: {html_path.name}")
+    except Exception as e:
+        print(f"⚠️  Could not open browser: {e}")
+
+
 def main():
     """Main entry point."""
     # Parse command line arguments
     args = [a.lower() for a in sys.argv[1:]]
-    html_only = '--html-only' in args
+    generate_docx = '--docx' in args or '--all' in args
+    generate_pdf = '--pdf' in args or '--all' in args
     targets = [a for a in args if not a.startswith('--')]
 
     html_files = []
 
     if not targets:
-        # Build both
+        # Build all three guides
         html_files.append(build_participant_guide())
         print()
         html_files.append(build_facilitator_guide())
+        print()
+        html_files.append(build_table_leader_guide())
     else:
         for target in targets:
             if target == "participant":
                 html_files.append(build_participant_guide())
             elif target == "facilitator":
                 html_files.append(build_facilitator_guide())
+            elif target == "table_leader" or target == "tableleader":
+                html_files.append(build_table_leader_guide())
             else:
                 print(f"Unknown target: {target}")
-                print("Usage: ./bin/build [participant|facilitator] [--html-only]")
+                print("Usage: ./bin/build [participant|facilitator|table_leader] [--docx] [--pdf] [--all]")
                 sys.exit(1)
 
-    # Convert to DOCX and PDF unless --html-only flag is set
-    if not html_only:
+    # Convert to DOCX if requested
+    if generate_docx:
         print("\n--- Converting to DOCX ---")
         for html_path in html_files:
             if html_path:
                 convert_html_to_docx(html_path)
 
+    # Convert to PDF if requested
+    if generate_pdf:
         print("\n--- Converting to PDF ---")
         for html_path in html_files:
             if html_path:
                 convert_html_to_pdf(html_path)
+
+    # Open HTML files in browser
+    print("\n--- Opening in Browser ---")
+    for html_path in html_files:
+        if html_path:
+            open_in_browser(html_path)
 
     print("\n✅ Build complete!")
 

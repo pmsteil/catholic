@@ -1,67 +1,128 @@
-# Session 5: Closing - Integration and Commissioning
+# Benediction
 
-**Time:** 3:30 PM - 4:30 PM
-**Location:** Sanctuary
+*The closing of Eucharistic Adoration with the traditional Benediction rite.*
 
+---
 
-## Session Overview
+## The Divine Praises
 
-| Time | Duration | Activity | Location |
-|------|----------|----------|----------|
-| 3:30 PM | 60 min | Closing Session | Sanctuary |
+*Led by the priest or deacon, with the people repeating each line:*
 
+Blessed be God.
+Blessed be His Holy Name.
+Blessed be Jesus Christ, true God and true Man.
+Blessed be the Name of Jesus.
+Blessed be His Most Sacred Heart.
+Blessed be His Most Precious Blood.
+Blessed be Jesus in the Most Holy Sacrament of the Altar.
+Blessed be the Holy Spirit, the Paraclete.
+Blessed be the great Mother of God, Mary most Holy.
+Blessed be her Holy and Immaculate Conception.
+Blessed be her Glorious Assumption.
+Blessed be the name of Mary, Virgin and Mother.
+Blessed be St. Joseph, her most chaste spouse.
+Blessed be God in His Angels and in His Saints.
 
-## Teaching Content
+---
 
-### Key Points
-- Integration: How the virtues work together
-- Living the theological virtues daily
-- Communal prayer and blessing
-- Reposition of Blessed Sacrament
+## Tantum Ergo
 
+*Sung or recited as the priest prepares to bless the people with the Blessed Sacrament:*
 
-## Scripture Foundation
+**Tantum ergo Sacraméntum**
+**Venerémur cérnui:**
+**Et antíquum documéntum**
+**Novo cedat rítui:**
+**Præstet fides suppleméntum**
+**Sénsuum deféctui.**
 
-*All Scripture from previous sessions integrated:*
+**Genitóri, Genitóque**
+**Laus et jubilátio,**
+**Salus, honor, virtus quoque**
+**Sit et benedíctio:**
+**Procedénti ab utróque**
+**Compar sit laudátio. Amen.**
 
-### Grace
-- **Ephesians 2:4-10** - "For by grace you have been saved through faith"
-- **2 Corinthians 12:9** - "My grace is sufficient for you"
-- **John 1:14-16** - "From his fullness we have all received, grace upon grace"
+*English translation:*
 
-### Faith
-- **Hebrews 11:1** - "Faith is the assurance of things hoped for"
-- **Romans 10:17** - "Faith comes from hearing"
-- **Mark 9:24** - "I believe; help my unbelief!"
+*Down in adoration falling,*
+*Lo! the sacred Host we hail,*
+*Lo! oe'r ancient forms departing*
+*Newer rites of grace prevail;*
+*Faith for all defects supplying,*
+*Where the feeble senses fail.*
 
-### Hope
-- **Romans 5:5** - "Hope does not disappoint us"
-- **Romans 8:24-25** - "In hope we were saved"
-- **1 Peter 3:15** - "Always be ready to give a reason for your hope"
+*To the everlasting Father,*
+*And the Son Who reigns on high*
+*With the Holy Spirit proceeding*
+*Forth from each eternally,*
+*Be salvation, honor, blessing,*
+*Might and endless majesty. Amen.*
 
-### Love
-- **1 John 4:8** - "God is love"
-- **1 Corinthians 13:13** - "The greatest of these is love"
-- **John 15:13** - "Greater love has no one than this"
+---
 
+## The Blessing
 
-## Catechism References
+*The priest or deacon takes the monstrance and makes the Sign of the Cross over the people in silence.*
 
-*All Catechism references from previous sessions:*
+*The people bow their heads in reverence as the blessing is given.*
 
-- **Grace:** CCC 1996-2005
-- **Theological Virtues Overview:** CCC 1812-1829
-- **Faith:** CCC 1814-1816
-- **Hope:** CCC 1817-1821
-- **Love (Charity):** CCC 1822-1829
+---
 
+## Reposition
 
-## Closing Prayer
+*After the blessing, the Blessed Sacrament is reposed in the tabernacle.*
 
-*To be developed*
+*The people may sing or recite:*
 
+**Holy God, We Praise Thy Name**
 
-## Commissioning
+Holy God, we praise Thy name;
+Lord of all, we bow before Thee!
+All on earth Thy scepter claim,
+All in Heaven above adore Thee;
+Infinite Thy vast domain,
+Everlasting is Thy reign.
 
-*To be developed*
+Hark! the loud celestial hymn
+Angel choirs above are raising,
+Cherubim and seraphim,
+In unceasing chorus praising;
+Fill the heavens with sweet accord:
+Holy, holy, holy, Lord.
 
+Holy Father, Holy Son,
+Holy Spirit, Three we name Thee;
+While in essence only One,
+Undivided God we claim Thee;
+And adoring bend the knee,
+While we own the mystery.
+
+---
+
+## Closing Prayer for the Retreat
+
+*The priest or retreat leader may add:*
+
+Lord Jesus Christ,
+you have fed us with your Word and Sacrament throughout this day.
+You have poured out your grace upon us
+and strengthened our faith, hope, and love.
+
+Send us forth now as witnesses to your perfect love—
+love that is sacred, sacrificial, and covenantal,
+love that binds truth, justice, and mercy
+into life-giving communion.
+
+May the theological virtues you have planted in our hearts
+bear fruit in our daily lives,
+that all we meet may encounter your love through us.
+
+We ask this through the intercession of Mary, our Mother,
+and all the saints who have gone before us.
+
+**All:** Amen.
+
+---
+
+*The retreat concludes. Participants depart in silence or with quiet music.*
