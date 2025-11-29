@@ -1,22 +1,19 @@
 # Session 2: Faith - Believing in Love
 
-**Time:** 11:15 AM - 12:30 PM
-**Location:** Parish Hall (Teaching) → Sanctuary (Prayer) → Parish Hall (Discussion)
-
-
-## Session Overview
-
 | Time | Duration | Activity | Location |
 |------|----------|----------|----------|
 | 11:15 AM | 30 min | Teaching: Faith | Parish Hall |
 | 11:45 AM | 25 min | Prayer with Jesus | Sanctuary |
 | 12:10 PM | 20 min | Group Discussion | Parish Hall |
 
+> **Retreat Verse:** *"So faith, hope, love remain, these three; but the greatest of these is love."* (1 Corinthians 13:13 NABRE)
+
+## Session Overview
 
 ## Part 1: Teaching (30 minutes)
 
 ### Central Truth
-> **We believe because of the authority of God who reveals. Our response is a gift of his grace. We must remain steadfast in faith to see God.**
+> **We believe because God, the Author of Creation, reality, truth, love  reveals all that is true, good, and beautiful. Our response is a gift of his grace. We must remain steadfast in faith to see God.**
 
 
 ### Opening (3 minutes)
@@ -28,6 +25,11 @@ Ask the group: *"What's the difference between knowing about someone and actuall
 That's the difference between information about God and faith in God.
 
 
+### Key Terms to Know
+
+- **Theological Virtues:** Faith, hope, and love—infused by God at Baptism, directed toward God Himself, and necessary for salvation (CCC 1812-1813)
+- **Deposit of Faith:** The heritage of faith contained in Sacred Scripture and Tradition, handed on in the Church from the Apostles—this is *what* we believe (CCC 84)
+
 ### Talking Point 1: Faith Is Personal Trust, Not Just Information (8 minutes)
 
 **Primary Scripture: John 14:1-6 (NABRE)**
@@ -35,14 +37,23 @@ That's the difference between information about God and faith in God.
 > *"Do not let your hearts be troubled. You have faith in God; have faith also in me. In my Father's house there are many dwelling places. If there were not, would I have told you that I am going to prepare a place for you? And if I go and prepare a place for you, I will come back again and take you to myself, so that where I am you also may be. Where I am going you know the way." Thomas said to him, "Master, we do not know where you are going; how can we know the way?" Jesus said to him, "I am the way and the truth and the life. No one comes to the Father except through me."*
 
 **Key points to emphasize:**
-- Jesus doesn't say "believe these facts about me"—he says "believe *in* me"
-- Faith is personal trust in a Person, not just intellectual agreement with doctrines
-- "Let not your hearts be troubled"—faith is meant to bring peace, not anxiety
+- When you hear the word "faith" - think "trust in Jesus"
+- The Greek word for faith (*pistis*) always orbits around trust—whether it's the act of trusting God, His trustworthiness, the proof that grounds our trust, or "the faith" (the content of what we trust Him for). It all points to personal trust in a Person.
+- Jesus doesn't say "trust these facts about me"—he says "trust *in* me"
 - Jesus claims to be *the* way—not *a* way. This is exclusive, but it's also an invitation.
+- Faith is trust in His Grace - Trusting the Author of all that is true
 
-**CCC 1814:** *"Faith is the theological virtue by which we believe in God and believe all that he has said and revealed to us, and that Holy Church proposes for our belief, because he is truth itself."*
+**CCC 1814:** *"Faith is the theological virtue by which we believe in God and believe all that he has said and revealed to us, and that Holy Church proposes for our belief, because he is truth itself. By faith 'man freely commits his entire self to God.' For this reason the believer seeks to know and do God's will. 'The righteous shall live by faith.' Living faith 'works through charity.'"*
 
-The key phrase: *"because he is truth itself."* We don't believe because we've figured everything out. We believe because God cannot lie.
+**CCC 1815:** *"The gift of faith remains in one who has not sinned against it. But 'faith apart from works is dead': when it is deprived of hope and love, faith does not fully unite the believer to Christ and does not make him a living member of his Body."*
+
+Faith is not separate from love, but is the first step in truly loving God. Without trust, we cannot love.
+
+Think about this in human terms: **What happens when someone betrays your trust?** Your ability to trust them is shattered. You can never be sure what they'll do. You can never be sure if they'll be there for you when you need them. Your ability to love them fully is broken.
+
+But with God, our trust is well-placed. The key phrase: *"because he is truth itself."* We don't believe because we've figured everything out. We believe because God is Truth.
+
+**Faith and reason work together:** Faith is not a blind leap—it does not oppose reason. God is the source of both faith and reason, so they can never truly contradict each other (CCC 35). Reason prepares us for faith and helps us see its reasonableness; faith enlightens reason and opens us to truths beyond what reason alone can discover.
 
 
 ### Talking Point 2: Faith Is a Gift We Must Choose to Receive (8 minutes)
@@ -56,7 +67,13 @@ The key phrase: *"because he is truth itself."* We don't believe because we've f
 - Faith is a gift from God—we can't manufacture it on our own
 - But we must *choose* to receive it and cooperate with it
 - Faith can grow or shrink depending on how we nurture it
+
+From CCC 2089:
 - Doubt is not the opposite of faith—*refusal* is the opposite of faith
+- Incredulity is the refusal to believe
+- Heresy is the obstinate, post baptismal rejection of a doctrine
+- Apostasy is the total rejection of the faith
+- Schism is the refusal to submit to the Roman Pontiff
 
 **How faith grows:**
 - Prayer—asking God for more faith
@@ -70,6 +87,8 @@ The key phrase: *"because he is truth itself."* We don't believe because we've f
 - Surrounding ourselves only with unbelief
 - Refusing to act on what we know to be true
 - Letting other things become more important than God
+
+**Faith as a shield:** In Ephesians 6:16, St. Paul tells us to take up "the shield of faith, with which you can quench all the flaming arrows of the evil one." Faith is not passive—it's spiritual armor. The enemy attacks with doubt, discouragement, and deception. Faith is our active defense, protecting us from lies that would separate us from God.
 
 
 ### Talking Point 3: Faith Is the Foundation for Everything Else (8 minutes)

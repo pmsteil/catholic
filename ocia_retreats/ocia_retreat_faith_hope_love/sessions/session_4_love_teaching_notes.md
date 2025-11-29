@@ -1,17 +1,27 @@
 # Session 4: Love - Participating in God's Life
 
-**Time:** 2:15 PM - 3:30 PM
-**Location:** Parish Hall (Teaching) → Sanctuary (Prayer) → Parish Hall (Discussion)
-
-
-## Session Overview
-
 | Time | Duration | Activity | Location |
 |------|----------|----------|----------|
 | 2:15 PM | 30 min | Teaching: Love | Parish Hall |
 | 2:45 PM | 25 min | Prayer with Jesus | Sanctuary |
 | 3:10 PM | 20 min | Group Discussion | Parish Hall |
 
+> **Retreat Verse:** *"So faith, hope, love remain, these three; but the greatest of these is love."* (1 Corinthians 13:13 NABRE)
+
+## Session Overview
+
+### Key Catholic Terms for This Session
+
+| Term | Definition |
+|------|------------|
+| **Charity** | The theological virtue of love; loving God above all things for his own sake, and our neighbor as ourselves for the love of God |
+| **Acedia** | A form of spiritual laziness (also called sloth); refusing to engage with God's love |
+| **Virtue** | A disposition to do good that is both firm and ongoing |
+| **Theological Virtue** | A virtue infused by God at Baptism, having God as its origin, object, and motive |
+| **Mortal Sin** | A grave sin that destroys charity in the heart and separates us from God |
+| **Venial Sin** | A lesser sin that wounds charity but does not destroy it |
+
+---
 
 ## Part 1: Teaching (30 minutes)
 
@@ -45,6 +55,8 @@ That's the question a lawyer asked Jesus in Luke 10. And Jesus' answer was: Love
 
 Notice: We love God *for his own sake*—not for what we get from him. And we love neighbor *for the love of God*—not because they deserve it.
 
+**Important:** The theological virtues—including love—are *infused* by God at Baptism (CCC 1266). We don't earn them; we receive them as gift. They adapt us for participation in God's own nature (CCC 1812). This is why love is not just a nice feeling—it's a supernatural gift that enables us to love as God loves.
+
 
 ### Talking Point 2: Love Is a Command—Which Means It's a Choice (8 minutes)
 
@@ -72,6 +84,26 @@ Notice: We love God *for his own sake*—not for what we get from him. And we lo
 - Self-gift—giving yourself for the sake of another
 - An act of the will that can be commanded and chosen
 - The fulfillment of the entire law (Romans 13:10)
+- The bond of perfect harmony that holds all virtues together (Colossians 3:14)
+
+**Supporting Scripture: Galatians 5:6 (NABRE)**
+> *"For in Christ Jesus, neither circumcision nor uncircumcision counts for anything, but only faith working through love."*
+
+Faith and love cannot be separated. A faith that does not express itself in love is not saving faith. As James writes: *"Faith of itself, if it does not have works, is dead"* (James 2:17).
+
+**Why can't faith be separated from love?** Because faith, hope, and all the virtues are all part of the supernatural gift of LOVE!
+
+Think about it this way:
+- **Love is the "form" of all the virtues** (CCC 1827)—it gives them their shape and direction
+- **Faith** believes in God—but *why* do we believe? Because we love the One who reveals himself
+- **Hope** trusts God's promises—but *why* do we trust? Because we love the One who promises
+- **Every virtue** is ordered toward love—justice, mercy, patience, kindness—all of them flow from and lead back to love
+
+St. Paul says love is *"the bond of perfection"* (Colossians 3:14)—it's the glue that holds all the virtues together. Without love, the other virtues fall apart. With love, they become a unified whole.
+
+This is why the Church teaches that **charity is the soul of holiness** (CCC 826). You can have faith and hope without charity (as in mortal sin), but they cannot save you—they're like a body without a soul. Love is what animates everything else.
+
+So when we talk about growing in faith, hope, or any virtue—we're really talking about growing in love. It's all one gift, and that gift is participation in God's own life—because *God IS love*.
 
 
 ### Talking Point 3: The Final Test—Love in Action (8 minutes)
@@ -89,13 +121,31 @@ Notice: We love God *for his own sake*—not for what we get from him. And we lo
 
 **CCC 1826:** *"If I... have not charity, I am nothing... Charity is superior to all the virtues. It is the first of the theological virtues."*
 
-**The sins against love:**
-- Indifference—not caring
-- Ingratitude—taking God's love for granted
-- Lukewarmness—half-hearted response to God's love
-- Acedia (spiritual sloth)—refusing to engage with God's love
-- Hatred—the direct opposite of love
+**The sins against love (CCC 2093-2094):**
+- **Indifference**—not caring about God's love or the needs of others
+- **Ingratitude**—taking God's love for granted, failing to give thanks
+- **Lukewarmness**—half-hearted response to God's love
+- **Acedia** (spiritual sloth)—refusing to engage with God's love; spiritual laziness
+- **Hatred**—the direct opposite of love, wishing evil upon God or neighbor
 
+**How sin affects love:**
+- **Mortal sin** destroys charity in the heart—it kills love, even when faith and hope remain
+- **Venial sin** wounds charity—it weakens our love but does not destroy it
+- This is why we need the Sacrament of Reconciliation—to restore and heal our capacity to love
+
+**Love and the Sacraments:**
+- The **Eucharist** is the "Sacrament of Love"—Jesus stays with us because of love
+- **Confession** restores our broken fellowship with the Father when sin has wounded or destroyed love
+- Through the sacraments, God's love is poured into our hearts by the Holy Spirit (Romans 5:5)
+
+
+**Love and Prayer (CCC 2658):**
+Love is both the *source* of prayer and the *heights* of prayer. We pray because we love God. And the more we pray, the more we grow in love. Prayer and love feed each other.
+
+**Love and Justice (CCC 1889):**
+It is charity that enables us to act justly. Without love, we cannot give others what they are owed. Love is not opposed to justice—love *enables* justice.
+
+---
 
 ### Closing (3 minutes)
 

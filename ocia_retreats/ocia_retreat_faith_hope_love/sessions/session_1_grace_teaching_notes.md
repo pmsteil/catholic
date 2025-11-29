@@ -1,17 +1,14 @@
 # Session 1: Grace - God's Gift of Himself
 
-**Time:** 10:00 AM - 11:15 AM
-**Location:** Parish Hall (Teaching) → Sanctuary (Prayer) → Parish Hall (Discussion)
-
-
-## Session Overview
-
 | Time | Duration | Activity | Location |
 |------|----------|----------|----------|
 | 10:00 AM | 30 min | Teaching: Grace | Parish Hall |
 | 10:30 AM | 25 min | Prayer with Jesus | Sanctuary |
 | 10:55 AM | 20 min | Group Discussion | Parish Hall |
 
+> **Retreat Verse:** *"So faith, hope, love remain, these three; but the greatest of these is love."* (1 Corinthians 13:13 NABRE)
+
+## Session Overview
 
 ## Part 1: Teaching (30 minutes)
 
@@ -34,7 +31,9 @@ That's what we're talking about today. Grace is God giving us *himself*—not ju
 
 **Key points to emphasize:**
 - Grace is not a thing—it's God's own divine life shared with us
+- In the beginning, God created us and endowed us with grace—but it was lost by Adam's sin (original sin)
 - We were *dead* in sin. Dead people can't save themselves. God made us alive.
+- Jesus came to restore God's grace to us; we receive all grace by the merit of his Paschal mystery (death and resurrection)
 - This is pure gift. We didn't earn it. We can't earn it. We can only receive it.
 - Grace makes us God's adopted children—not servants, not employees, but *sons and daughters*
 
@@ -55,9 +54,19 @@ That's what we're talking about today. Grace is God giving us *himself*—not ju
 - We can cooperate with grace or resist it—God respects our freedom
 - Grace flows from God the Vine to us the branches like nourishment—and the fruit we bear is the natural result of staying connected to Him. No vine? No love, no fruit, no life.
 
-**Two kinds of grace:**
-1. **Sanctifying grace** — God's life dwelling in us (received at Baptism, restored in Confession)
-2. **Actual grace** — God's help in specific moments to do good and avoid evil
+**Key Catholic Terms on Grace:**
+
+1. **Sanctifying grace** (also called *habitual grace*) — God's life dwelling permanently in us; makes us holy and capable of supernatural love; received at Baptism, restored in Confession (CCC 1999-2000)
+
+2. **Actual grace** — God's help in specific moments to do good and avoid evil; prompts and assists us to act rightly (CCC 2000)
+
+3. **Sacramental grace** — The particular grace proper to each sacrament; the seven sacraments are the primary channels through which grace flows to us (CCC 1129)
+
+4. **Charism** — Special gifts of grace given by the Holy Spirit for the building up of the Church and the salvation of others (CCC 799-801)
+
+5. **Justification** — The action of the Holy Spirit in us that makes us holy; our sins are truly forgiven and taken away, not merely covered over (CCC 1987-1995)
+
+6. **Graces of state** — Special graces given to help us fulfill the duties of our particular vocation (married, single, religious, ordained) (CCC 2004)
 
 
 ### Talking Point 3: Why This Changes Everything (8 minutes)
@@ -77,6 +86,12 @@ That's what we're talking about today. Grace is God giving us *himself*—not ju
 - Sanctifying grace can be lost through mortal sin
 - It is restored through the Sacrament of Reconciliation
 - We increase in grace by prayer, the sacraments, and acts of love
+
+**What grace does in us:**
+- **Transforms our intellect and will** — We are empowered to know and love in a new way
+- **Makes us members of the Body of Christ** — We belong to the Church, connected to all believers
+- **Gives us the Gifts of the Holy Spirit** — Wisdom, understanding, counsel, fortitude, knowledge, piety, fear of the Lord
+- **Produces the Fruits of the Spirit** — Love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, self-control (Galatians 5:22-23)
 
 
 ### Closing (3 minutes)
