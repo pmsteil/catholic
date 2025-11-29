@@ -1,0 +1,12 @@
+[project]
+name = "ocia-retreat-faith-hope-love"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "fpdf2>=2.8.5",
+    "markdown>=3.10",
+    "pypandoc>=1.16.2",
+    "weasyprint>=66.0",
+]

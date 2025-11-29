@@ -1,0 +1,555 @@
+#!/usr/bin/env python3
+"""
+Build script for OCIA Retreat guides.
+Generates HTML and DOCX versions of the Participant Guide and Facilitator Guide.
+
+Usage:
+    ./bin/build              # Build both guides (HTML + DOCX)
+    ./bin/build participant  # Build only participant guide
+    ./bin/build facilitator  # Build only facilitator guide
+    ./bin/build --html-only  # Build HTML only (skip DOCX)
+
+Requirements:
+    uv add markdown pypandoc
+
+    Also requires Pandoc to be installed on your system:
+    - macOS: brew install pandoc
+    - Ubuntu: sudo apt install pandoc
+    - Windows: choco install pandoc
+"""
+
+import sys
+from pathlib import Path
+
+import markdown
+
+try:
+    import pypandoc
+    PANDOC_AVAILABLE = True
+except ImportError:
+    PANDOC_AVAILABLE = False
+
+# Get the project root directory
+PROJECT_ROOT = Path(__file__).parent.parent.resolve()
+SESSIONS_DIR = PROJECT_ROOT / "sessions"
+PARTICIPANT_FILES = PROJECT_ROOT / "participant_guide_files"
+FACILITATOR_FILES = PROJECT_ROOT / "facilitator_guide_files"
+TEACHING_NOTES_DIR = PROJECT_ROOT / "teaching_notes"
+OUTPUT_DIR = PROJECT_ROOT / "output"
+
+
+def read_file(path: Path) -> str:
+    """Read a file and return its contents."""
+    with open(path, 'r', encoding='utf-8') as f:
+        return f.read()
+
+
+def md_to_html(content: str) -> str:
+    """Convert markdown to HTML."""
+    return markdown.markdown(
+        content,
+        extensions=['tables', 'toc', 'fenced_code']
+    )
+
+
+# CSS for participant guide (blue theme)
+PARTICIPANT_CSS = """
+:root {
+    --primary: #1e40af;
+    --primary-light: #3b82f6;
+    --bg-light: #eff6ff;
+}
+
+* { box-sizing: border-box; }
+
+body {
+    font-family: 'Georgia', 'Times New Roman', serif;
+    line-height: 1.7;
+    color: #1f2937;
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 2rem;
+    background: #fff;
+}
+
+h1 {
+    color: var(--primary);
+    border-bottom: 3px solid var(--primary-light);
+    padding-bottom: 0.5rem;
+    margin-top: 2.5rem;
+}
+
+h2 {
+    color: var(--primary-light);
+    margin-top: 2rem;
+}
+
+h3 {
+    color: #4b5563;
+    margin-top: 1.5rem;
+}
+
+blockquote {
+    border-left: 4px solid var(--primary);
+    background: var(--bg-light);
+    margin: 1.5rem 0;
+    padding: 1rem 1.5rem;
+    font-style: italic;
+    color: #374151;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 1.5rem 0;
+}
+
+th, td {
+    border: 1px solid #d1d5db;
+    padding: 0.75rem;
+    text-align: left;
+}
+
+th {
+    background: var(--bg-light);
+    color: var(--primary);
+    font-weight: bold;
+}
+
+tr:nth-child(even) {
+    background: #f9fafb;
+}
+
+ul, ol {
+    margin: 1rem 0;
+    padding-left: 2rem;
+}
+
+li {
+    margin-bottom: 0.5rem;
+}
+
+strong {
+    color: var(--primary);
+}
+
+hr {
+    border: none;
+    border-top: 2px solid #e5e7eb;
+    margin: 2rem 0;
+}
+
+.title-page {
+    text-align: center;
+    padding: 4rem 0;
+    page-break-after: always;
+}
+
+.title-page h1 {
+    font-size: 2.5rem;
+    border: none;
+    margin-bottom: 0.5rem;
+}
+
+.title-page .subtitle {
+    font-size: 1.5rem;
+    color: var(--primary-light);
+    margin-bottom: 2rem;
+}
+
+.title-page .guide-type {
+    font-size: 1.25rem;
+    font-style: italic;
+    color: #6b7280;
+}
+
+.title-page .parish {
+    margin-top: 3rem;
+    color: #9ca3af;
+}
+
+.section {
+    page-break-before: always;
+    padding-top: 1rem;
+}
+
+@media print {
+    body { max-width: none; padding: 0; }
+    .section { page-break-before: always; }
+    .title-page { page-break-after: always; }
+}
+"""
+
+# CSS for facilitator guide (red/maroon theme)
+FACILITATOR_CSS = """
+:root {
+    --primary: #742a2a;
+    --primary-light: #9b2c2c;
+    --bg-light: #fff5f5;
+}
+
+* { box-sizing: border-box; }
+
+body {
+    font-family: 'Georgia', 'Times New Roman', serif;
+    line-height: 1.7;
+    color: #1f2937;
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 2rem;
+    background: #fff;
+}
+
+h1 {
+    color: var(--primary);
+    border-bottom: 3px solid var(--primary-light);
+    padding-bottom: 0.5rem;
+    margin-top: 2.5rem;
+}
+
+h2 {
+    color: var(--primary-light);
+    margin-top: 2rem;
+}
+
+h3 {
+    color: #4b5563;
+    margin-top: 1.5rem;
+}
+
+blockquote {
+    border-left: 4px solid var(--primary);
+    background: var(--bg-light);
+    margin: 1.5rem 0;
+    padding: 1rem 1.5rem;
+    font-style: italic;
+    color: #374151;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 1.5rem 0;
+}
+
+th, td {
+    border: 1px solid #d1d5db;
+    padding: 0.75rem;
+    text-align: left;
+}
+
+th {
+    background: var(--bg-light);
+    color: var(--primary);
+    font-weight: bold;
+}
+
+tr:nth-child(even) {
+    background: #f9fafb;
+}
+
+ul, ol {
+    margin: 1rem 0;
+    padding-left: 2rem;
+}
+
+li {
+    margin-bottom: 0.5rem;
+}
+
+strong {
+    color: var(--primary);
+}
+
+hr {
+    border: none;
+    border-top: 2px solid #e5e7eb;
+    margin: 2rem 0;
+}
+
+.title-page {
+    text-align: center;
+    padding: 4rem 0;
+    page-break-after: always;
+}
+
+.title-page h1 {
+    font-size: 2.5rem;
+    border: none;
+    margin-bottom: 0.5rem;
+}
+
+.title-page .subtitle {
+    font-size: 1.5rem;
+    color: var(--primary-light);
+    margin-bottom: 2rem;
+}
+
+.title-page .guide-type {
+    font-size: 1.25rem;
+    font-style: italic;
+    color: #6b7280;
+}
+
+.title-page .parish {
+    margin-top: 3rem;
+    color: #9ca3af;
+}
+
+.section {
+    page-break-before: always;
+    padding-top: 1rem;
+}
+
+.facilitator-note {
+    background: var(--bg-light);
+    border: 2px solid var(--primary);
+    padding: 1rem;
+    margin: 1rem 0;
+    border-radius: 4px;
+}
+
+@media print {
+    body { max-width: none; padding: 0; }
+    .section { page-break-before: always; }
+    .title-page { page-break-after: always; }
+}
+"""
+
+
+def build_participant_guide():
+    """Build the Participant Guide HTML."""
+    print("Building Participant Guide...")
+
+    sections = []
+
+    # Title page
+    sections.append("""
+<div class="title-page">
+    <h1>OCIA Retreat</h1>
+    <div class="subtitle">Grace and the Theological Virtues<br>Faith, Hope, and Love</div>
+    <div class="guide-type">Participant Guide</div>
+    <div class="parish">JP2 Parish</div>
+</div>
+""")
+
+    # Schedule Overview
+    sections.append('<div class="section">')
+    sections.append(md_to_html(read_file(PARTICIPANT_FILES / "schedule_overview.md")))
+    sections.append('</div>')
+
+    # Sessions and devotionals
+    for i, (topic, name) in enumerate([
+        ("grace", "Grace"),
+        ("faith", "Faith"),
+        ("hope", "Hope"),
+        ("love", "Love")
+    ], 1):
+        # Session content
+        sections.append('<div class="section">')
+        sections.append(md_to_html(read_file(SESSIONS_DIR / f"session_{i}_{topic}.md")))
+        sections.append('</div>')
+
+        # Devotional
+        sections.append('<div class="section">')
+        sections.append(md_to_html(read_file(SESSIONS_DIR / f"session_{i}_{topic}_devotional.md")))
+        sections.append('</div>')
+
+    # Closing
+    sections.append('<div class="section">')
+    sections.append(md_to_html(read_file(SESSIONS_DIR / "session_5_closing.md")))
+    sections.append('</div>')
+
+    # Notes page
+    sections.append('<div class="section">')
+    sections.append(md_to_html(read_file(PARTICIPANT_FILES / "notes_page.md")))
+    sections.append('</div>')
+
+    # Build full HTML
+    html = f"""<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>OCIA Retreat - Participant Guide</title>
+    <style>{PARTICIPANT_CSS}</style>
+</head>
+<body>
+{''.join(sections)}
+</body>
+</html>
+"""
+
+    # Ensure output directory exists
+    OUTPUT_DIR.mkdir(exist_ok=True)
+
+    # Save HTML
+    output_path = OUTPUT_DIR / "Participant_Guide.html"
+    with open(output_path, 'w', encoding='utf-8') as f:
+        f.write(html)
+
+    print(f"✅ Participant Guide HTML saved to: {output_path}")
+    return output_path
+
+
+def build_facilitator_guide():
+    """Build the Facilitator Guide HTML."""
+    print("Building Facilitator Guide...")
+
+    sections = []
+
+    # Title page
+    sections.append("""
+<div class="title-page">
+    <h1>OCIA Retreat</h1>
+    <div class="subtitle">Grace and the Theological Virtues<br>Faith, Hope, and Love</div>
+    <div class="guide-type">Facilitator Guide</div>
+    <div class="parish">JP2 Parish</div>
+</div>
+""")
+
+    # Overview
+    sections.append('<div class="section">')
+    sections.append(md_to_html(read_file(FACILITATOR_FILES / "overview.md")))
+    sections.append('</div>')
+
+    # Schedule
+    sections.append('<div class="section">')
+    sections.append(md_to_html(read_file(PROJECT_ROOT / "retreat_schedule.md")))
+    sections.append('</div>')
+
+    # Setup Guide
+    sections.append('<div class="section">')
+    sections.append(md_to_html(read_file(FACILITATOR_FILES / "setup_guide.md")))
+    sections.append('</div>')
+
+    # Sessions with teaching notes
+    for i, (topic, name) in enumerate([
+        ("grace", "Grace"),
+        ("faith", "Faith"),
+        ("hope", "Hope"),
+        ("love", "Love")
+    ], 1):
+        # Teaching notes
+        sections.append('<div class="section">')
+        sections.append(f'<h1>Session {i}: {name}</h1>')
+        sections.append('<h2>Teaching Notes</h2>')
+        sections.append(md_to_html(read_file(TEACHING_NOTES_DIR / f"session_{i}_teaching_notes.md")))
+        sections.append('</div>')
+
+        # Session content
+        sections.append('<div class="section">')
+        sections.append('<h2>Session Content</h2>')
+        sections.append(md_to_html(read_file(SESSIONS_DIR / f"session_{i}_{topic}.md")))
+        sections.append('</div>')
+
+        # Devotional
+        sections.append('<div class="section">')
+        sections.append('<h2>Devotional Guide</h2>')
+        sections.append(md_to_html(read_file(SESSIONS_DIR / f"session_{i}_{topic}_devotional.md")))
+        sections.append('</div>')
+
+    # Closing
+    sections.append('<div class="section">')
+    sections.append('<h1>Session 5: Closing</h1>')
+    sections.append(md_to_html(read_file(SESSIONS_DIR / "session_5_closing.md")))
+    sections.append('</div>')
+
+    # Facilitator Tips
+    sections.append('<div class="section">')
+    sections.append(md_to_html(read_file(FACILITATOR_FILES / "facilitator_tips.md")))
+    sections.append('</div>')
+
+    # Build full HTML
+    html = f"""<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>OCIA Retreat - Facilitator Guide</title>
+    <style>{FACILITATOR_CSS}</style>
+</head>
+<body>
+{''.join(sections)}
+</body>
+</html>
+"""
+
+    # Ensure output directory exists
+    OUTPUT_DIR.mkdir(exist_ok=True)
+
+    # Save HTML
+    output_path = OUTPUT_DIR / "Facilitator_Guide.html"
+    with open(output_path, 'w', encoding='utf-8') as f:
+        f.write(html)
+
+    print(f"✅ Facilitator Guide HTML saved to: {output_path}")
+    return output_path
+
+
+def convert_html_to_docx(html_path: Path) -> Path:
+    """Convert an HTML file to DOCX using Pandoc."""
+    if not PANDOC_AVAILABLE:
+        print("⚠️  pypandoc not installed. Run: uv add pypandoc")
+        return None
+
+    docx_path = html_path.with_suffix('.docx')
+
+    try:
+        pypandoc.convert_file(
+            str(html_path),
+            'docx',
+            outputfile=str(docx_path),
+            extra_args=['--standalone']
+        )
+        print(f"✅ DOCX saved to: {docx_path}")
+        return docx_path
+    except Exception as e:
+        print(f"❌ Failed to convert to DOCX: {e}")
+        print("   Make sure Pandoc is installed: brew install pandoc")
+        return None
+
+
+def main():
+    """Main entry point."""
+    # Parse command line arguments
+    args = [a.lower() for a in sys.argv[1:]]
+    html_only = '--html-only' in args
+    targets = [a for a in args if not a.startswith('--')]
+
+    html_files = []
+
+    if not targets:
+        # Build both
+        html_files.append(build_participant_guide())
+        print()
+        html_files.append(build_facilitator_guide())
+    else:
+        for target in targets:
+            if target == "participant":
+                html_files.append(build_participant_guide())
+            elif target == "facilitator":
+                html_files.append(build_facilitator_guide())
+            else:
+                print(f"Unknown target: {target}")
+                print("Usage: ./bin/build [participant|facilitator] [--html-only]")
+                sys.exit(1)
+
+    # Convert to DOCX unless --html-only flag is set
+    if not html_only:
+        print("\n--- Converting to DOCX ---")
+        for html_path in html_files:
+            if html_path:
+                convert_html_to_docx(html_path)
+
+    print("\n✅ Build complete!")
+
+    print("Opening DOCXs in browser...")
+    import webbrowser
+    for docx_path in html_files:
+        if docx_path:
+            webbrowser.open(f"file://{docx_path}")
+
+
+if __name__ == "__main__":
+    main()

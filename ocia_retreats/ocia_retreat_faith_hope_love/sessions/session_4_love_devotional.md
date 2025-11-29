@@ -85,17 +85,61 @@ This is not a burden. This is a gift. This is the adventure you were made for.
 
 *Sit quietly with Jesus. Let these questions rest in your heart.*
 
-1. **Do I truly believe that God—who IS love—has been pursuing me my whole life?**
-   How does this change the way I see my past, my present, my future?
+---
 
-2. **Am I willing to give my whole life to Christ, as He gave His life for me?**
-   What am I still holding back? What would it look like to surrender completely?
+**1. Do I truly believe that God—who IS love—has been pursuing me my whole life?**
 
-3. **How is God calling me to be His love in the world?**
-   To bear truth? To do justice? To love mercy? To walk humbly? Where is He sending me?
+How does this change the way I see my past, my present, my future?
 
-4. **Will I accept the call to be light in the darkness?**
-   The world needs what you have received. Will you share it?
+*My thoughts:*
+
+_______________________________________________________________________________
+
+_______________________________________________________________________________
+
+_______________________________________________________________________________
+
+---
+
+**2. Am I willing to give my whole life to Christ, as He gave His life for me?**
+
+What am I still holding back? What would it look like to surrender completely?
+
+*My thoughts:*
+
+_______________________________________________________________________________
+
+_______________________________________________________________________________
+
+_______________________________________________________________________________
+
+---
+
+**3. How is God calling me to be His love in the world?**
+
+To bear truth? To do justice? To love mercy? To walk humbly? Where is He sending me?
+
+*My thoughts:*
+
+_______________________________________________________________________________
+
+_______________________________________________________________________________
+
+_______________________________________________________________________________
+
+---
+
+**4. Will I accept the call to be light in the darkness?**
+
+The world needs what you have received. Will you share it?
+
+*My thoughts:*
+
+_______________________________________________________________________________
+
+_______________________________________________________________________________
+
+_______________________________________________________________________________
 
 ---
 

@@ -64,14 +64,47 @@ God has begun something in you. Hope trusts that He will finish it.
 
 *Sit quietly with Jesus. Let these questions rest in your heart.*
 
-1. **Where in my life am I tempted to despair or discouragement?**
-   Can I bring that place to Jesus right now and ask for hope?
+---
 
-2. **What am I trying to carry that I need to surrender to God?**
-   Anxiety? Grief? Fear? The need to control?
+**1. Where in my life am I tempted to despair or discouragement?**
 
-3. **How would my life be different if I truly believed God's promises?**
-   What would I do? What would I stop doing? How would I face tomorrow?
+Can I bring that place to Jesus right now and ask for hope?
+
+*My thoughts:*
+
+_______________________________________________________________________________
+
+_______________________________________________________________________________
+
+_______________________________________________________________________________
+
+---
+
+**2. What am I trying to carry that I need to surrender to God?**
+
+Anxiety? Grief? Fear? The need to control?
+
+*My thoughts:*
+
+_______________________________________________________________________________
+
+_______________________________________________________________________________
+
+_______________________________________________________________________________
+
+---
+
+**3. How would my life be different if I truly believed God's promises?**
+
+What would I do? What would I stop doing? How would I face tomorrow?
+
+*My thoughts:*
+
+_______________________________________________________________________________
+
+_______________________________________________________________________________
+
+_______________________________________________________________________________
 
 ---
 

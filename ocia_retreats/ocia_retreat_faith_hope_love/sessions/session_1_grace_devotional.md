@@ -53,14 +53,47 @@ You are not alone. You have never been alone. God's grace surrounds you, sustain
 
 *Sit quietly with Jesus. Let these questions rest in your heart. You don't need to answer them—just let them open you to God's presence.*
 
-1. **Where have I been trying to earn God's love?**
-   What would it mean to stop striving and simply receive?
+---
 
-2. **What weakness am I ashamed of?**
-   Can I bring it to Jesus right now and hear Him say, "My grace is sufficient for you"?
+**1. Where have I been trying to earn God's love?**
 
-3. **How is God inviting me to trust Him more deeply?**
-   Grace is the beginning—faith, hope, and love will follow.
+What would it mean to stop striving and simply receive?
+
+*My thoughts:*
+
+_______________________________________________________________________________
+
+_______________________________________________________________________________
+
+_______________________________________________________________________________
+
+---
+
+**2. What weakness am I ashamed of?**
+
+Can I bring it to Jesus right now and hear Him say, "My grace is sufficient for you"?
+
+*My thoughts:*
+
+_______________________________________________________________________________
+
+_______________________________________________________________________________
+
+_______________________________________________________________________________
+
+---
+
+**3. How is God inviting me to trust Him more deeply?**
+
+Grace is the beginning—faith, hope, and love will follow.
+
+*My thoughts:*
+
+_______________________________________________________________________________
+
+_______________________________________________________________________________
+
+_______________________________________________________________________________
 
 ---
 

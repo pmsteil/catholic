@@ -52,14 +52,47 @@ God is calling. He is breaking through. Faith is hearing that call and respondin
 
 *Sit quietly with Jesus. Let these questions rest in your heart.*
 
-1. **What has God done to reveal Himself to me?**
-   A person? An experience? A longing that won't go away?
+---
 
-2. **Where do I struggle to believe?**
-   Can I bring that struggle honestly to Jesus right now?
+**1. What has God done to reveal Himself to me?**
 
-3. **What would it mean for me to say "yes" to God today?**
-   Not a perfect yes. Not a certain yes. Just an honest yes.
+A person? An experience? A longing that won't go away?
+
+*My thoughts:*
+
+_______________________________________________________________________________
+
+_______________________________________________________________________________
+
+_______________________________________________________________________________
+
+---
+
+**2. Where do I struggle to believe?**
+
+Can I bring that struggle honestly to Jesus right now?
+
+*My thoughts:*
+
+_______________________________________________________________________________
+
+_______________________________________________________________________________
+
+_______________________________________________________________________________
+
+---
+
+**3. What would it mean for me to say "yes" to God today?**
+
+Not a perfect yes. Not a certain yes. Just an honest yes.
+
+*My thoughts:*
+
+_______________________________________________________________________________
+
+_______________________________________________________________________________
+
+_______________________________________________________________________________
 
 ---
 

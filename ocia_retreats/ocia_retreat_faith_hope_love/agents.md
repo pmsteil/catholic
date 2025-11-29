@@ -91,9 +91,11 @@ These are called "theological" because:
 | 4:30 PM | Retreat Ends | — | Hard stop |
 
 ### Session Format
-- **30 minutes** teaching (Parish Hall)
-- **30 minutes** group discussion (Parish Hall)
-- **15 minutes** prayer break (Sanctuary with Blessed Sacrament)
+1. **30 minutes** - Teaching (Parish Hall)
+2. **25 minutes** - Prayer with Jesus (Sanctuary - Blessed Sacrament exposed)
+3. **20 minutes** - Group Discussion (Parish Hall)
+
+**Discussion Format:** Each group discussion begins with an open question inviting participants to share insights from their time with Jesus. Additional discussion questions (drawn from the devotional reflection questions) are available if needed.
 
 *See `retreat_schedule.md` for detailed timeline.*
 
@@ -163,15 +165,14 @@ These are called "theological" because:
 1. ✅ Create agents.md (this document)
 2. ✅ Develop retreat schedule with timing
 3. ✅ Create session file scaffolding (sessions/ folder)
-4. 🔄 Hone Scripture and CCC references for each session
-5. ⬜ Write Session 1: Grace teaching content
-6. ⬜ Write Session 2: Faith teaching content
-7. ⬜ Write Session 3: Hope teaching content
-8. ⬜ Write Session 4: Love teaching content
-9. ⬜ Write Session 5: Closing content
-10. ⬜ Compile prayer resources
-11. ⬜ Create participant guide
-12. ⬜ Create facilitator guide
+4. ✅ Hone Scripture and CCC references for each session
+5. ✅ Write Session 1: Grace teaching content
+6. ✅ Write Session 2: Faith teaching content
+7. ✅ Write Session 3: Hope teaching content
+8. ✅ Write Session 4: Love teaching content
+9. ✅ Write Session 5: Closing content
+10. ⬜ Create participant guide
+11. ⬜ Create facilitator guide
 
 ---
 
