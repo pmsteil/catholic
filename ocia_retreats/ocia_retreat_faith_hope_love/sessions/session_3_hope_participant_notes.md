@@ -35,7 +35,7 @@
 
 **CCC 1817:** *"Hope is the theological virtue by which we desire the kingdom of heaven and eternal life as our happiness, placing our trust in Christ's promises and relying not on our own strength, but on the help of the grace of the Holy Spirit."*
 
-**CCC 1266:** The theological virtues—faith, hope, and love—are *infused* at Baptism. You didn't earn hope. God gave it to you as a gift.
+The theological virtues—faith, hope, and love—are *infused* at Baptism. You didn't earn hope. God gave it to you as a gift. (CCC 1266)
 
 **My Notes:**
 
