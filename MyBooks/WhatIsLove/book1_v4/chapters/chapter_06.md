@@ -28,6 +28,8 @@
 
 ## When Love Becomes Manipulation
 
+Chapter 5 asked what grounds love's binding power—what ensures that what we're uniting is real and not wishful thinking. The answer is truth. And when truth is absent, love becomes its opposite.
+
 "I'm doing this because I love you."
 
 The abusive husband says it as he isolates his wife from friends and family. "I just love you so much I can't bear to share you."
@@ -134,19 +136,15 @@ When the Psalmist says, "The sum of thy word is truth" (Psalm 119:160), he's pro
 
 Truth isn't just one element of love among many—it's the foundation that enables all the other facets to function:
 
-**Truth Protects from Deception:** You can't truly love someone you're deceiving or who's deceiving you. Real relationship requires knowing and being known. "Rather, speaking the truth in love, we are to grow up in every way into him who is the head, into Christ." (Ephesians 4:15).
+**Truth Protects from Deception:** You can't truly love someone you're deceiving or who's deceiving you. Real relationship requires knowing and being known. "Rather, speaking the truth in love, we are to grow up in every way into him who is the head, into Christ" (Ephesians 4:15).
 
-**Truth Provides Objective Standards:** Without truth, love becomes arbitrary—whatever feels good, whatever we decide it means. Truth grounds love in reality, giving it objective content we discover rather than subjective meaning we create.
+**Truth Enables Justice and Mercy:** Justice requires knowing what's truly owed to each person based on their actual dignity. Mercy only makes sense if there's truth about right and wrong—if nothing is truly wrong, there's nothing to forgive. Truth about sin makes mercy powerful; truth about human dignity makes mercy necessary.
 
-**Truth Enables Justice:** Justice requires knowing what's truly owed to each person based on their actual dignity and nature. Without truth about human nature (made in God's image), justice has no foundation. You can't give people what they're due if you don't know what they truly are.
-
-**Truth Makes Mercy Meaningful:** Mercy only makes sense if there's truth about right and wrong. If nothing is truly wrong, there's nothing to forgive. If everything is relative, mercy is just preference. Truth about sin makes mercy powerful—and truth about human dignity makes mercy necessary.
-
-**Truth Grounds Sacrifice:** You can't sacrifice for someone's genuine good if you don't know what their genuine good actually is. Truth reveals what's truly worth sacrificing for, distinguishing authentic sacrifice from self-destruction or enabling.
+**Truth Grounds Sacrifice:** You can't sacrifice for someone's genuine good if you don't know what their genuine good actually is. Truth reveals what's truly worth sacrificing for, distinguishing authentic sacrifice from self-destruction or enabling. Without truth, we might sacrifice for illusions—destroying ourselves for false goods. With truth, sacrifice becomes meaningful—we know what we're giving up and why it matters.
 
 **Truth Validates Covenant:** Covenant requires knowing who you're binding yourself to and what you're committing to. Without truth, covenant becomes a contract based on illusions—doomed to fail when reality intrudes.
 
-**Truth Makes Communion Possible:** Real communion requires knowing and being known as we truly are. Without truth, we can only have superficial connection based on masks and pretense, not the deep unity that authentic love creates. "And this is eternal life, that they know thee the only true God, and Jesus Christ whom thou hast sent." (John 17:3). Truth creates intimacy—being fully known and fully loved. And relationships require trust, which requires truthfulness. "Therefore, putting away falsehood, let every one speak the truth with his neighbor, for we are members one of another" (Ephesians 4:25). There can be no "faith" without truth.
+**Truth Makes Communion Possible:** Real communion requires knowing and being known as we truly are. "And this is eternal life, that they know thee the only true God, and Jesus Christ whom thou hast sent" (John 17:3). Truth creates intimacy—being fully known and fully loved. "Therefore, putting away falsehood, let every one speak the truth with his neighbor, for we are members one of another" (Ephesians 4:25). There can be no "faith" without truth.
 
 This is why our definition places truth alongside justice and mercy as essential elements that love must bind together. Truth isn't optional—it's the foundation that makes all authentic love possible.
 
@@ -168,7 +166,7 @@ These aren't just philosophical disagreements. These are lies—deliberate denia
 
 But here's what's remarkable: **the very fullness of these lies is driving people back to truth.** When the lies become so blatant, so destructive, so obviously contrary to reality, people start waking up. They start asking: "What is actually true? Who can I trust? Where can I find reality in a world of lies?"
 
-And many are finding their way back to the Church—the pillar and foundation of truth. Because the Church has been saying the same thing for two thousand years. She hasn't changed her teaching to match the culture. She hasn't redefined truth to make it more palatable. She stands as a lighthouse in the storm of lies, proclaiming the same truth Christ proclaimed, the same truth the Apostles died for, the same truth that has set billions free.
+And many are finding their way back to the Church—the pillar and foundation of truth. She stands as a lighthouse in the storm of lies, proclaiming the same truth Christ proclaimed, the same truth the Apostles died for.
 
 **The most important thing we can do is cultivate in ourselves and others a sincere desire to pursue "The Truth"—wherever it leads.** Not "my truth" or "your truth," but *the* truth. Christ didn't say "I teach the truth" or "I know the truth." He said, "I am the way, and the truth, and the life" (John 14:6). This means truth is not just a set of correct propositions—it's a Person to be encountered, known, and loved. The Church Christ founded doesn't just preserve correct doctrines—she receives His truth, guards it, and teaches it to every generation through two thousand years of unbroken apostolic succession. Christ promised His Church that the Holy Spirit will "guide you into all the truth" (John 16:13)—not each individual interpreting Scripture for themselves, but the Church He established to be the pillar and foundation of truth. When we genuinely seek truth with an open heart, willing to follow it wherever it leads, we will encounter Christ Himself. This is why the Church has nothing to fear from honest inquiry, rigorous philosophy, or scientific discovery. Truth cannot contradict truth. All genuine truth leads to Truth Himself.
 
