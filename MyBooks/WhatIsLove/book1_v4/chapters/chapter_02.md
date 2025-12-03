@@ -58,7 +58,7 @@ The answer is always the same: **Love.**
 
 Not wealth. Not power. Not pleasure. Not even fame—the four false gods that St. Thomas Aquinas warned lead us away from true happiness. When pressed, every human being points to love: love of family, love of friends, love of beauty, love of truth, love of something or someone beyond ourselves. We all know, deep in our bones, that love is what we're made for.
 
-From the devout saint to the secular mind—from Aristotle to the Stoics to Confucius and the Buddha—love in some form is often seen as the highest good. And even the hardened atheist who rejects this will find that God's Perfect Love exposes the failure of every alternative. (We'll address the specific failures of atheist frameworks in Chapter 14.)
+From the devout saint to the secular mind—from Aristotle's *philia* to the Stoics' universal benevolence to Confucius's *ren* (benevolence) and the Buddha's *metta* (loving-kindness)—love in some form is often seen as the highest good. And even the hardened atheist who rejects this will find that God's Perfect Love exposes the failure of every alternative. (We'll address the specific failures of atheist frameworks in Chapter 14.)
 
 The Church has long taught this truth through the concept of the *summum bonum*—the "highest good" that all human beings seek, whether they know it or not. Ancient philosophers searched for this ultimate good, but St. Thomas Aquinas demonstrated what reason discovers and revelation confirms: all human action aims at some good, but only one good can satisfy completely—union with God, who is Love itself. St. Augustine expressed this perfectly: our hearts are restless until they rest in God. The Catechism affirms this: "The desire for God is written in the human heart, because man is created by God and for God; and God never ceases to draw man to himself. Only in God will he find the truth and happiness he never stops searching for" (CCC 27). **This is why love—specifically, love that leads to communion with God—is the ultimate good, and therefore the complete answer to evil.**
 
@@ -124,7 +124,7 @@ Through careful study of Scripture and the Church's teaching on love, we can see
 <strong>God's Perfect Love is the sacred gift of covenant binding truth, justice, mercy and sacrifice into life-giving communion.</strong>
 </div>
 
-**Let's be clear about what "perfect" means here—this is crucial.** Perfect means these four facets—truth, justice, mercy, and sacrifice—aren't separate things we're trying to combine. They're inseparable aspects of God's one, simple, perfect nature. In God, truth *is* justice *is* mercy *is* sacrifice—they cannot be split apart because they're all expressions of His one perfect Love. Our whole problem is that we try to divide what God has united: we want mercy without truth, justice without sacrifice, truth without mercy. But in God's Perfect Love, they exist as one harmonious whole. When we practice authentic love, we're participating in this divine unity, allowing all four facets to work together as they do in God Himself.
+**Let's be clear about what "perfect" means here—this is crucial.** Perfect means these four facets—truth, justice, mercy, and sacrifice—are not separate attributes of God. They're inseparable aspects of God's one, simple, perfect nature. In God, truth *is* justice *is* mercy *is* sacrifice—they cannot be split apart because they're all expressions of His one perfect Love, distinct in our understanding but unified in His being. Our whole problem is that we try to divide what God has united: we want mercy without truth, justice without sacrifice, truth without mercy. But in God's Perfect Love, they exist as one harmonious whole. When we practice authentic love, we're participating in this divine unity, allowing all four facets to work together as they do in God Himself.
 
 Every word in this definition matters:
 
@@ -156,33 +156,13 @@ Remove any single element, and love becomes incomplete—vulnerable to distortio
 
 ## How This Definition Solves the Problem of Evil
 
-Remember our five criteria for an adequate solution to evil? Now we can see how God's Perfect Love meets each one:
+Notice how this definition meets every criterion we established: it transforms hearts (sacred, sacrificial), heals relationships (gift, covenant, mercy), creates just structures (justice, truth, communion), overcomes darkness (life-giving), and is grounded in objective truth (all four facets integrated). **God's Perfect Love is the complete answer to evil** because it's not a human construct but a participation in God's own nature—and in God, truth, justice, mercy, and sacrifice exist as one perfect, unified whole.
 
-**1. Transforms the human heart?** Yes—because love is **sacred** (participating in God's nature), **sacrificial** (requiring us to choose another's good), and **binding** (integrating truth, justice, and mercy that reshape our desires).
+**In the chapters ahead, we will dive deep into every word of this definition.** Each word matters. Each element is essential. We'll explore what makes love **sacred**, how **covenant** creates permanent bonds, why **truth** is love's foundation, how **justice** and **mercy** work together, how **sacrifice** makes love concrete, and why **communion** is the ultimate goal. Each facet will be shown combating specific forms of evil and integrating with the others.
 
-**2. Heals broken relationships?** Yes—because love is a **gift** (freely given, not earned), grounded in **mercy** (offering forgiveness), and creates **covenant** (permanent bonds that endure through difficulty).
+But someone might object: "If love is the answer, why has two thousand years of Christianity not eliminated evil?" The answer is simple but profound: *knowing* the answer and *living* the answer are different things. This definition gives us the map; the rest of this book shows how to walk the path. The Church has always taught that grace must be received and cooperated with—and that's precisely what we'll learn to do.
 
-**3. Creates just social structures?** Yes—because love includes **justice** (giving each person their due based on dignity), **truth** (objective standards), and **communion** (authentic community ordered toward the common good).
-
-**4. Overcomes destruction and darkness?** Yes—because love is **life-giving** (building up rather than tearing down), creates **communion** (overcoming isolation), and offers hope grounded in God's perfect nature.
-
-**5. Has foundation in objective truth?** Yes—because love requires **truth** (we cannot love while deceiving), is grounded in **sacred** reality (God's nature and human dignity as image-bearers), and is **comprehensive** (addressing evil's root cause through all four essential facets working together).
-
-This is why we can say with confidence: **God's Perfect Love is the complete answer to evil.** It meets every criterion because it's not a human construct but a participation in God's own nature—and in God, truth, justice, mercy, and sacrifice exist as one perfect, unified whole.
-
-**In the chapters ahead, we will dive deep into every word of this definition.** Each word matters. Each element is essential. We'll explore:
-- What makes love **sacred** and how it participates in God's divine nature
-- What it means for love to be a **gift** freely given and how we receive it
-- How **covenant** creates permanent bonds that endure
-- What it means to **bind** these elements into an integrated whole
-- Why **truth** is love's foundation
-- How **justice** gives love objective standards
-- Why **mercy** completes justice without contradicting it
-- How **sacrifice** makes love concrete and visible
-- What **life-giving** means for relationships and communities
-- Why **communion** is the ultimate goal—union with God and neighbor
-
-Each element will be explored in depth, showing how it combats specific forms of evil and how it integrates with the others to form the complete answer to evil.
+We begin with the first word of our definition: **sacred**. Why start there? Because if love doesn't come from God—if it's merely a human invention or evolutionary adaptation—then everything else collapses. The sacred nature of love is the foundation on which all other facets rest.
 
 **Let's begin.**
 
