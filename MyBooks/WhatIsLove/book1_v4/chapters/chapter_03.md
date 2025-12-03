@@ -87,12 +87,7 @@ Furthermore, if the ultimate reality were impersonal (mere matter, energy, or ab
 **Fifth, if God is the ultimate reality and God is love, then love is the ultimate reality.** This means love isn't just one value among many—it's the fundamental structure of reality itself. Everything else (existence, truth, justice, mercy, beauty, goodness) finds its unity and meaning in love. Because love is the ultimate reality, truth is not cold fact but the light of love; justice is not abstract calculation but the order of love; beauty is not random preference but the radiance of love. This is the only foundation that can sustain objective moral truth: not human opinion, not evolutionary advantage, not social contract, but the unchanging nature of God who IS love.
 
 <div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
-The logical chain is complete:
-1. Love requires a personal source.
-2. Objective morality requires a transcendent ground.
-3. The highest good must be personal.
-4. That personal God must embody love perfectly.
-5. Therefore, God IS love, and love is the ultimate reality.
+The logical chain is complete: Love requires a personal source → Objective morality requires a transcendent ground → The highest good must be personal → That personal God must embody love perfectly → Therefore, God IS love, and love is the ultimate reality.
 </div>
 
 This is why Scripture's declaration "God is love" isn't just poetic language or religious sentiment. It's revealing the deepest truth about the nature of reality itself. Love isn't something God does—it's who God is. And because God is the Creator of all that exists, love is woven into the very fabric of creation and in the very fabric of our being.

@@ -122,13 +122,13 @@ Think about it practically:
 
 If humans are the source of morality, which humans decide? Ancient Sparta thought exposing weak infants was "just." Modern progressives think aborting them is "just." Without a transcendent standard, morality becomes a power struggle. **When morality is authored by humans rather than received from divine authority, it must be imposed through force.** This is what happens when humans try to fabricate justice using limited human opinion rather than divine authority.
 
-This is why every atheistic political system has ended in mass murder. Nazi fascism left over 11 million dead. Soviet communism killed more than 20 million. Chinese communism claimed over 45 million lives.
+This is why major atheistic totalitarian regimes have ended in mass murder—the logical outcome of rejecting God's authority.
 
-**These aren't accidents—they're the logical outcome of rejecting God's authority.** When morality is grounded in human power rather than divine truth, it must be imposed through terror. The gulags and killing fields are what happen when humans try to fabricate justice without depending on God's true authority. The wages of sin (not getting love right) truly are death.
+The death tolls of atheistic regimes are staggering: Nazi fascism left over 11 million dead; Soviet communism killed more than 20 million; Chinese communism claimed over 45 million lives. These aren't accidents but the inevitable result of grounding morality in human power rather than divine truth. When morality is grounded in human power rather than divine truth, it must be imposed through terror. The gulags and killing fields are what happen when humans try to fabricate justice without depending on God's true authority. The wages of sin (not getting love right) truly are death.
 
 **God's Authority Invites Free Submission:**
 
-By contrast, God doesn't impose arbitrary rules from on high. He reveals the truth about reality, about human nature, about what genuinely leads to our flourishing. When we voluntarily submit to God's authority—whether directly through Scripture and Church teaching, or indirectly through legitimate human authorities (parents, Church, just laws)—we're not surrendering our freedom. We're embracing the only path to true freedom.
+By contrast, God doesn't impose arbitrary rules from on high. He reveals the truth about reality, about human nature, about what genuinely leads to our flourishing. When we voluntarily submit to God's authority—enabled by grace—whether directly through Scripture and Church teaching, or indirectly through legitimate human authorities (parents, Church, just laws)—we're not surrendering our freedom. We're embracing the only path to true freedom.
 
 Think about a loving parent telling a toddler not to touch the hot stove. Is that authority being "imposed" on the child? Or is the parent revealing a truth about reality that, if the child submits to it, will protect the child from harm? The parent's authority flows from genuine knowledge of what's good for the child and genuine desire for the child's wellbeing. Parents, understand that your authority is only good if it reflects God's authority—teaching your child to submit freely to what's truly good for them.
 
@@ -142,7 +142,7 @@ By contrast, every regime that tries to create its own morality must impose it t
 
 Think about it this way: A piano has 88 keys arranged in a specific pattern. That's not arbitrary—it's the design that makes beautiful music possible. You're "free" to pound randomly on the keys. But you'll only make noise, not music. True freedom comes from submitting to the piano's design, learning the patterns, practicing the scales. The piano's structure isn't a restriction—it's what makes Mozart possible.
 
-Similarly, God's "laws" about love aren't restrictions on our freedom. They're the design that makes beautiful love possible. We're "free" to ignore them—just as we're "free" to pound randomly on piano keys. But we'll only create chaos, not communion. The covenant structure of love isn't a burden—it's what makes authentic love possible.
+Similarly, God's "laws" about love aren't restrictions on our freedom. They're the design that makes beautiful love possible. We're "free" to ignore them, but we'll only create chaos, not communion. The covenant structure of love isn't a burden—it's what makes authentic love possible.
 
 **This is what the Church calls "the obedience of faith" (CCC 143-144):** We freely conform our will to God's will because we recognize His design as true, good, and beautiful—the transcendentals that reflect His own nature. This isn't coercion but liberation. As Vatican II teaches, "it is only in freedom that man can turn to what is good" (*Gaudium et Spes* 17). True freedom isn't freedom *from* authority—it's freedom *for* love, freedom *for* truth. The slavery we need liberation from isn't God's law—it's our disordered desires that enslave us to partial goods that can never satisfy.
 
@@ -164,6 +164,8 @@ This is why the Church insists marriage is indissoluble (CCC 1644-1651). You can
 
 Note: The Church's annulment process doesn't "dissolve" marriages—it recognizes that a valid sacramental bond never existed in the first place due to lack of consent, capacity, or form.
 
+**What About Those Called to Celibacy?** Marriage isn't the only form of covenant self-gift. Those called to religious life or consecrated celibacy make a covenant gift of themselves directly to God and His Church. Their vows of poverty, chastity, and obedience are covenant commitments that image Christ's own spousal love for the Church. Single persons, too, live covenant love through Baptism, deep friendships, and service to the Body of Christ. Marriage is the *paradigmatic* human covenant—the clearest image of how covenant works—but it's not the only path to covenant love.
+
 ### Covenant Love: Loving the Person, Not the Benefits
 
 Here's where covenant reveals whether our love is authentic or counterfeit: **Do we love WHO the person is, or WHAT they give us?**
@@ -182,16 +184,6 @@ The test comes when benefits disappear—Alzheimer's, illness, aging, depression
 The same test applies to wives. Do you love your husband for who he is—a man created in God's image with infinite dignity? Or for what he provides—income, security, status, strength? When disability, job loss, or weakness comes, does your love continue?
 
 **This is why covenant is grounded in personhood, not performance.** Contract: "I give because you give." Covenant: "I give because you are." Contract is contingent on benefits. Covenant is grounded in the beloved's intrinsic dignity as imago Dei.
-
-**Loving God for Who He Is:**
-
-This same test applies to God. Do we love Him for who He is—the source of all love, truth, justice, and mercy? Or for what He gives—blessings, answered prayers, eternal life?
-
-Job faced this ultimate test: "The LORD gave, and the LORD has taken away; blessed be the name of the LORD" (Job 1:21). He loved God even when he lost children, wealth, health—everything that made life worth living. Why? Because his love was for WHO God is, not WHAT God provides.
-
-This is the test of authentic love: Do we love God even when He gives us nothing? For His own sake—because He IS Love, Truth, Justice, Mercy—or only for benefits we hope to receive?
-
-The prosperity gospel fails catastrophically, reducing God to a cosmic vending machine: put in faith, get out blessings. But authentic love doesn't work that way. We love God because He is worthy of love, not to get something from Him.
 
 **The Profound Implication:**
 
@@ -225,7 +217,7 @@ Jesus came to fulfill the Law (Matthew 5:17). We're called to imitate Him—to f
 
 Marriage enables us to fulfill **truth**—the truth of who we are as complementary beings created to unite and bear children. A man alone cannot fulfill his nature. A woman alone cannot fulfill her nature. We're designed for union, fruitfulness, and the complete gift of self that creates new life.
 
-Marriage enables us to fulfill **justice**—giving each person what they're owed according to their dignity and nature. The husband protects and provides, giving his wife security and honor. The wife nurtures and cares for him and their children, creating the home where love flourishes. This isn't oppression—it's the mutual gift of what each needs to thrive.
+Marriage enables us to fulfill **justice**—giving each person what they're owed according to their dignity and nature. Husband and wife, in their distinctive and complementary ways, give each other security, honor, and care. Children receive what they're owed: the love of both mother and father, stability, formation, and a home where they can flourish. This isn't oppression—it's the mutual gift of what each family member needs to thrive.
 
 Marriage enables us to fulfill **mercy**—teaching children how to love by modeling forgiveness, patience, and compassion. Parents don't just tell children about mercy—they show it daily. The family becomes the first school of love.
 
@@ -242,30 +234,6 @@ When a woman gives herself completely to her husband and children—nurturing, c
 When children are raised by both mother and father, receiving the complementary gifts each provides, they learn what authentic love looks like. They see justice and mercy working together, truth embodied in covenant. They're prepared to give themselves in love when their time comes.
 
 **This is the book's comprehensive definition made concrete:** Marriage is the sacred, sacrificial gift of covenant which binds truth, justice, and mercy into life-giving communion. In marriage, we see perfect love embodied in the most fundamental human relationship—which is why covenant love in marriage is such a powerful weapon against evil.
-
-### "But I'm Not Ready": Addressing the Fear
-
-"I'm not ready for marriage yet. I need to focus on my career. I want to travel. I need to find myself first. What if I choose the wrong person?"
-
-These fears are real. But here's what our culture doesn't tell you: **You're waiting for a readiness that will never come if you're pursuing it alone.**
-
-When will you be "ready"? When you have enough money? There's never enough. When you've traveled enough? There's always one more place. When you've "found yourself"? Pope Saint John Paul II already gave us the answer: "Man cannot fully find himself except through a sincere gift of himself." You don't find yourself by looking inward—you find yourself by giving yourself away.
-
-**The culture's vicious cycle works like this:** We wait until we're ready, so we stay focused on "self". Because we're self-focused, we never develop the capacity for self-gift. This makes us feel *less* ready, so we wait even longer, while our capacity for covenant love withers from lack of practice.
-
-**The truth covenant reveals:** Marriage doesn't require perfection—it requires willingness. The covenant itself forms you. The daily choice to love when it's hard, to sacrifice when exhausted, to remain faithful when tempted—this makes you "ready." You don't get ready for marriage and then enter it. You enter marriage and it makes you ready for life.
-
-**What about choosing the wrong person?** This fear reveals contractual mindset: "I need to find the perfect person who meets all my needs, because if they don't, I'm stuck." But covenant thinking asks: "Is this person committed to holiness? Do we share the faith? Are we both willing to sacrifice for each other and for children? Can we help each other get to heaven?"
-
-If yes, you don't need "the one perfect soulmate." **You need to become one** through covenant. The marriage itself—the daily choice to love sacrificially—creates the unity you're seeking. You're not looking for someone who completes you; you're looking for someone you can give yourself to completely.
-
-**The beautiful paradox:** The "readiness" you're waiting for only comes through the commitment you're avoiding. You become capable of covenant love by living it. Marriage forms you. Children teach you sacrifice. The doing creates the readiness.
-
-**The call is clear:** If you've found someone who shares the faith, wants to grow in holiness, and is willing to make the total gift of self—don't wait for mythical "perfect timing." The readiness comes through the doing.
-
-Marriage isn't the end of your life—it's the beginning of your real life. Where you stop living for yourself and start living for love. Where you become fully human by becoming fully gift.
-
-**And here's the ultimate truth:** When you enter marriage and raise children in covenant love, you're raising up the next generation who will fight evil by doing good. Your children, formed in a home where they see truth, justice, and mercy embodied daily, will become the saints the world desperately needs. Your covenant love doesn't just save you—it saves society.
 
 ## How Covenant Combats Evil
 
@@ -310,9 +278,9 @@ When we keep our covenants, we're not just maintaining relationships—we're bec
 
 ## The Bridge to Binding
 
-Covenant creates permanent relationship. But a question remains: How do truth and mercy work together when they seem to pull in opposite directions? How does justice serve love without becoming harsh? How do all the elements of love—truth, justice, mercy, sacrifice—work together without fragmenting or conflicting?
+Covenant creates permanent relationship. But a question remains: How do we hold together what seems to pull apart? Truth and mercy. Justice and compassion. Sacrifice and joy. When these virtues fragment—when we isolate them from each other—each becomes distorted. Truth becomes cruelty. Justice becomes vengeance. Mercy becomes weakness.
 
-This is where the next facet becomes crucial: **binding**.
+This is where the next facet becomes crucial: **binding**. Love doesn't just create covenant—it integrates all the elements of authentic relationship into one harmonious whole.
 
 ---
 

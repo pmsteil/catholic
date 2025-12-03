@@ -84,7 +84,7 @@ Jesus' encounter with the woman caught in adultery (John 8:1-11) perfectly demon
 
 ## Unity in Diversity: The Body of Christ
 
-St. Paul uses the image of the body to show how love creates unity without uniformity: "For just as the body is one and has many members, and all the members of the body, though many, are one body, so it is with Christ. For by one Spirit we were all baptized into one body—Jews or Greeks, slaves or free—and all were made to drink of one Spirit." (1 Corinthians 12:12-13).
+This principle of integration extends beyond individual encounters to the very structure of Christian community. St. Paul uses the image of the body to show how love creates unity without uniformity: "For just as the body is one and has many members, and all the members of the body, though many, are one body, so it is with Christ. For by one Spirit we were all baptized into one body—Jews or Greeks, slaves or free—and all were made to drink of one Spirit." (1 Corinthians 12:12-13).
 
 The eye doesn't become the hand. The ear doesn't become the foot. Each part remains distinct, with its own function. But love binds them into one body, one organism, one unified whole.
 
@@ -102,13 +102,15 @@ Why? Because love binds together what false philosophies tear apart. Catholic te
 
 ## Love as the Form of All Virtues
 
-This integration isn't just about balancing opposing ideas. It changes the very nature of virtue itself. St. Thomas Aquinas taught that love is "the form of all virtues"—meaning love gives shape and direction to all other virtues. Without love, courage becomes recklessness, wisdom becomes manipulation, justice becomes revenge. With love, these same virtues become heroic sacrifice, prudent care, and restorative redemption. Love shapes them into a coherent whole because they are all different facets of love found by truth, justice, and mercy, which we will explore each virtue in detail in Chapter 13.
+This integration isn't just about balancing opposing ideas. It changes the very nature of virtue itself. St. Thomas Aquinas taught that love is "the form of all virtues"—meaning love gives shape and direction to all other virtues. Without love, courage becomes recklessness, wisdom becomes manipulation, justice becomes revenge. With love, these same virtues become heroic sacrifice, prudent care, and restorative redemption.
+
+Love shapes virtue into a coherent whole because all virtues are expressions of the same reality: truth, justice, and mercy bound together in self-gift.
 
 ## The Eucharist: Perfect Binding
 
 The Eucharist is the supreme example of love's binding power: It binds heaven and earth—the eternal sacrifice of Christ becomes present in time. It binds Christ and His Church—"He who eats my flesh and drinks my blood abides in me, and I in him." (John 6:56). It binds believers to each other—"Because there is one bread, we who are many are one body, for we all partake of the one bread." (1 Corinthians 10:17). It binds past, present, and future—the Last Supper, Calvary, and the eternal wedding feast all made present in one sacramental moment. It binds truth, justice, mercy, and sacrifice—the truth of our sin, the justice of God's law, the mercy of reconciliation, and the sacrifice of Christ—all integrated in one saving act.
 
-This is why Catholics call it "Holy Communion"—and this may be the most important truth in this entire book. The Eucharist is not just a symbol, not just a memorial, not just receiving Christ spiritually. It is the actual Body, Blood, Soul, and Divinity of Jesus Christ becoming one with us, binding us into perfect communion with the Trinity and with each other.
+This is why Catholics call it "Holy Communion"—and this is one of the most profound truths about love we can grasp. The Eucharist is not just a symbol, not just a memorial, not just receiving Christ spiritually. It is the actual Body, Blood, Soul, and Divinity of Jesus Christ becoming one with us, binding us into perfect communion with the Trinity and with each other.
 
 When you receive Holy Communion, you are literally united with the same Christ who hung on the Cross, who rose from the dead, who reigns in heaven. His Sacred Heart beats within you. His divine life flows through your veins. His perfect love—binding truth, justice, mercy, and sacrifice—becomes your love. This is the source and summit of Christian life because it is love itself made flesh, love itself binding heaven and earth, love itself transforming us into what we receive. Every other chapter in this book flows from this reality and leads back to it. If you understand nothing else, understand this: in Holy Communion, you become what you eat—the Body of Christ, bound together in perfect love.
 
@@ -116,7 +118,7 @@ When you receive Holy Communion, you are literally united with the same Christ w
 
 This binding power of love doesn't just integrate virtues within us—it binds our very souls to one another. When we live truth, justice, mercy, and sacrifice sacrificially, we're becoming more deeply connected to every other soul in the Body of Christ.
 
-This isn't evolutionary herding for protection. This is ontological reality—our souls are actually dependent on being connected to one another for our flourishing. Just as the Trinity exists in eternal communion, we were created for soul-to-soul communion. When you practice mercy toward your neighbor, you're strengthening the bonds that connect your soul to theirs, to the whole Body, and to Christ the Head.
+This isn't evolutionary herding for protection. This is ontological reality—our souls are actually dependent on being connected to one another for our flourishing (CCC 1878-1885). Just as the Trinity exists in eternal communion, we were created for soul-to-soul communion. When you practice mercy toward your neighbor, you're strengthening the bonds that connect your soul to theirs, to the whole Body, and to Christ the Head.
 
 Think about what happens when you truly forgive someone. You feel the weight lift. The barrier dissolves. That's not just psychological—it's spiritual. Your soul is reconnecting to theirs through the love that flows from Christ. When you speak truth in love, you feel the connection deepen. That's your soul binding to theirs through shared reality.
 
