@@ -22,6 +22,8 @@
 
 ## The Universal Cry
 
+Chapter 6 showed us that truth is the foundation of love—without truth, we can't know reality, and without knowing reality, we can't love what's real. But truth reveals something specific that love must honor: what each person is *owed* by virtue of their dignity. This is justice.
+
 "That's not fair!"
 
 Every child knows it. Every human heart feels it. The instinctive recognition that some things are objectively wrong—not just unpleasant or inconvenient, but actually, truly unjust.
@@ -34,37 +36,19 @@ This universal cry for justice reveals something profound: Justice is written on
 
 But here's a critical question: **How can we recognize injustice unless there's a transcendent standard of justice we're comparing it to?**
 
-Think about it logically:
+When you say "That's not fair!" you're appealing to some higher standard of fairness—saying this situation falls short of how things *should* be. But where does that "should" come from? If there's no objective standard—if justice is just whatever humans make up—then your claim of injustice is meaningless. It's just your opinion, with no more authority than someone else's opposite opinion.
 
-When you say "That's not fair!" you're appealing to some higher standard of fairness. You're saying this situation falls short of how things *should* be. But where does that "should" come from?
+Consider what happens when people detach justice from God: They call abortion "reproductive justice," assisted suicide "death with dignity," and redefining marriage to deny children a mother or father "marriage equality." Without an objective standard, **none of these claims mean anything**—not yours, not theirs, not anyone's. There is only power: whoever is strongest gets to impose their preferences on everyone else.
 
-**Stop and think about this carefully—it's crucial:**
+**But we all know—deep down—that some things are objectively unjust.** Child abuse is wrong even if a society approves it. Slavery is wrong even if it's legal. Genocide is wrong even if the majority supports it. These aren't opinions. They're facts about reality.
 
-Every time you claim something is unjust, you're measuring it against a standard. You're saying "This violates how things ought to be." But if there's no objective "ought"—if justice is just whatever humans make up—then your claim of injustice is meaningless. It's just your opinion. And someone else's opposite opinion has exactly the same authority: none.
+The moment you recognize this, you're appealing to an objective standard of justice—one that cannot be human opinion (humans disagree), cultural convention (cultures differ), evolutionary advantage (evolution cannot explain moral *authority*), majority vote (majorities can be wrong), or personal feeling (feelings conflict).
 
-Consider what happens when people detach justice from God: They claim "It's unjust to deny women abortion rights"—calling the killing of innocent children "justice." They claim "It's unjust to exclude men from women's sports"—calling the erasure of biological reality "justice." They claim "It's unjust to force someone to suffer"—calling assisted suicide "justice." They claim "It's unjust to require children to have both a mother and father"—calling the deliberate deprivation of parents "justice."
-
-**Here's what we all need to understand:** If there's no transcendent, objective standard of justice—if justice is just a human invention or cultural preference—then **none of these claims mean anything**. Not yours. Not theirs. Not anyone's.
-
-Without an objective, true moral standard that comes from the Author of the universe, there is no "should." There is no "ought." There is no "right" or "wrong." There is only power—whoever is strongest gets to impose their preferences on everyone else. Your passionate cry for justice? It's just noise. Your moral outrage? It's just a feeling with no more authority than someone's preference for chocolate over vanilla. And neither statement has any more moral value than the other. It's just preference. Just opinion. Just feeling.
-
-**You literally have no ground to stand on when you fight for "justice."** You're making an appeal to a standard that—if you're right that there's no God—doesn't exist. You're borrowing from a worldview you reject to make arguments you can't justify.
-
-Think about what this means practically:
-
-When you say "Child abuse is wrong," what you really mean—if there's no God—is "I don't like child abuse." And when someone else says "Child abuse is fine," they mean "I'm okay with child abuse." And neither statement has any moral value over the other.
-
-**But we all know—deep down—that some things are objectively unjust.** Not just "I don't like this" but "This is actually, truly wrong." Child abuse is wrong even if a society approves it. Slavery is wrong even if it's legal. Genocide is wrong even if the majority supports it. These aren't opinions. They're facts about reality.
-
-And the moment you recognize that—the moment you insist that some things are objectively unjust regardless of what anyone thinks—you are appealing to an objective standard of justice. A transcendent measure against which all human actions can be judged.
-
-And that standard cannot be human opinion (because humans disagree). It cannot be cultural convention (because cultures differ). It cannot be evolutionary advantage (because evolution might explain a survival instinct, but it cannot explain the transcendent moral *authority* of that instinct—why we *ought* to obey it rather than ignore it). It cannot be majority vote (because majorities can be wrong). It cannot be personal feeling (because feelings conflict).
-
-**The standard must be eternal, unchanging, and absolute. It must transcend all human systems and preferences. In other words, it must be God Himself.**
+**The standard must be eternal, unchanging, and absolute. It must be God Himself.**
 
 This isn't just philosophy. This is the foundation of every fight for justice you've ever cared about. Every time you've said "That's not fair," you've been appealing to God's standard—whether you knew it or not. Every time you've demanded justice, you've been proving that God exists—because without Him, justice is just a word with no meaning.
 
-This is why human attempts to author justice without God inevitably fail—they reject the only possible source of objective justice and replace it with human preference that serves self-interest. As we explored in Chapter 4, when morality is authored by humans rather than received from divine authority, it must be imposed through force because it has no inherent authority.
+This is why human attempts to author justice without God inevitably fail—not because non-believers cannot recognize any justice (natural law allows this), but because they cannot justify *why* their sense of justice should be authoritative. They reject the only possible source of objective justice and replace it with human preference that serves self-interest. As we explored in Chapter 4, when morality is authored by humans rather than received from divine authority, it must be imposed through force because it has no inherent authority.
 
 True justice requires a source beyond ourselves: the God who IS justice itself. Without God, the cry "That's not fair!" has no more authority than "I don't like broccoli." With God, it becomes a recognition of objective reality—a violation of the moral order built into creation by its Creator.
 
@@ -94,7 +78,17 @@ This is what happens when justice is violated within the family: the child learn
 
 Our culture has confused justice with revenge, fairness with equality, rights with desires. We need to recover the true meaning.
 
+St. Thomas Aquinas defined justice as "the perpetual and constant will to render to each one his right" (*Summa Theologica* II-II, q.58, a.1). This isn't cold legalism—it's love in action, giving each person what they're truly owed.
+
 The Hebrew Scriptures use two main words for justice: *Mishpat* (right judgment, vindication of the oppressed) and *Tsedeqah* (righteousness, right relationships). Together, they reveal justice as both giving what's due and restoring what's broken.
+
+Aquinas distinguished three types of justice that help us understand how love operates in different relationships:
+
+- **Commutative Justice:** Fairness between individuals—keeping contracts, paying debts, honoring agreements. This is the justice of "I owe you what I promised."
+- **Distributive Justice:** Fair distribution of common goods according to need and contribution. This is the justice of leaders toward those in their care.
+- **Legal (or General) Justice:** What individuals owe to the community—contributing to the common good, obeying just laws, serving others. This is the justice of citizens toward society.
+
+All three types serve love by ensuring that relationships—whether personal, economic, or civic—honor the dignity of each person involved.
 
 Modern "justice" often means punishment or revenge, enforcing equality of outcomes, or asserting rights without responsibilities. Biblical justice means giving each person what they're truly owed based on their true dignity—and working to restore right relationships when they're broken.
 
@@ -177,6 +171,10 @@ Justice takes different forms depending on the relationship:
 ## How Justice Combats Evil
 
 Justice combats exploitation by protecting the vulnerable and defending the oppressed. Justice combats systemic oppression—racism, economic exploitation, political corruption—by exposing violations of human dignity. Justice combats relativism by recognizing objective standards based on human dignity. Justice combats enabling by holding people accountable because they're capable of better. Justice combats revenge by seeking to restore rather than harm.
+
+<div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
+Justice is one of the four essential elements that God's perfect love binds together. Without justice, love becomes arbitrary sentiment. With justice, love has objective content: giving each person what they are truly owed as image-bearers of God.
+</div>
 
 ## Justice and the Common Good
 
