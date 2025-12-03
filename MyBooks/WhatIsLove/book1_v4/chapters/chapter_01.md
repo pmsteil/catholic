@@ -16,7 +16,7 @@
 
 ## The Urgency of Our Response
 
-Look around. What do you see?
+Before we can understand love, we must first confront what happens when love is absent. Look around. What do you see?
 
 A young woman casually aborts her third child—not because of poverty or health crisis, but because she's "not ready yet." Abortion has become contraception, marketed as "reproductive healthcare" while ending the life of over an estimated 600,000 to 900,000 innocent babies each year in America alone. Our government funds it. Our politicians defend it as a "human right." Our media celebrates it. Our culture calls it "empowerment."
 
@@ -28,7 +28,7 @@ A Black father watches his community crumble—not from racism, but from the des
 
 Children are shot during Mass at a Catholic church. Christians are the most persecuted religious group in the world, yet our media stays silent. A grandmother praying outside an abortion clinic is arrested and faces years in prison, while those who firebomb pregnancy centers walk free. Religious freedom, once sacred, is now called "extremism."
 
-These aren't statistics. They're souls crying out in a darkness they can't name. Truth itself has become negotiable—a matter of personal preference rather than objective reality. And into this chaos, the world offers a thousand counterfeits of love, each one leading further into the abyss.
+These aren't statistics. They're souls crying out in a darkness they can't name. And no, this isn't just "culture war grievance"—these are real people, real families, real children whose lives are being destroyed. Truth itself has become negotiable—a matter of personal preference rather than objective reality. And into this chaos, the world offers a thousand counterfeits of love, each one leading further into the abyss.
 
 <div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
 The rampant evil in our world forces us to ask "What has gone so terribly wrong with humanity"?
@@ -114,7 +114,7 @@ Look at the wreckage:
 
 - **Gender ideology:** A teacher tells a confused eight-year-old that maybe she's really a boy, choosing cultural applause over the child's actual wellbeing.
 
-Every single evil—every one—begins with this same fatal move: A human heart looks at what God offers and says, "No thanks. I know better." This is the essence of pride—the root sin from which all others flow. Pride tells us we can determine good and evil for ourselves, that we don't need God's wisdom, that our limited human perspective is sufficient. It's the same lie the serpent told Eve: "You will be like God, knowing good and evil" (Genesis 3:5). Pride makes us think we're the ultimate authority, and from that delusion flows every form of evil we see in our world.
+Every single evil—every one—begins with this same fatal move: A human heart looks at what God offers and says, "No thanks. I know better." This is the essence of pride—the root sin from which all others flow. Pride tells us we can determine good and evil for ourselves, that we don't need God's wisdom, that our limited human perspective is sufficient. It's the same lie the serpent told Eve: "You will be like God, knowing good and evil" (Genesis 3:5). Pride makes us think we're the ultimate authority, and from that delusion—whether directly or indirectly—flows the evil we see in our world.
 
 <div class="blockquote">
 "Original sin is the 'reverse side' of the Good News that Jesus is the Savior of all men, that all need salvation and that salvation is offered to all through Christ."
@@ -128,17 +128,11 @@ Because we're created in the image of God, sin is always a choice against our ow
 
 Sin never stays contained. Like a stone thrown into still water, every sinful choice creates waves that ripple outward, touching lives far beyond our own, often for generations.
 
-**The First Wave—Personal Destruction:** A man chooses pornography—a "private" sin, "not hurting anyone." But it rewires his brain, destroys his capacity for intimacy, enslaves his soul. *Truth violated:* He believes the lie that lust is love. *Sacrifice rejected:* He chooses self-gratification over self-giving.
+**The First Wave—Personal Destruction:** A man chooses pornography—a "private" sin, "not hurting anyone." But it rewires his brain, destroys his capacity for intimacy, enslaves his soul. He believes the lie that lust is love, choosing self-gratification over self-giving.
 
-**The Second Wave—Relational Devastation:** He brings this corrupted heart into marriage. His wife becomes an object, his children sense the absence. The covenant fractures. The marriage collapses. *Justice violated:* He denies his wife and children what they're owed. *Mercy absent:* No compassion for those his sin wounds.
+**The Second Wave—Relational Devastation:** He brings this corrupted heart into marriage. His wife becomes an object, his children sense the absence. The covenant fractures. Divorce follows. The children witness a profound lesson: that marriage vows can be cast aside, that covenant love is disposable. *Truth, justice, mercy, sacrifice*—all violated in one family.
 
-**The Third Wave—Relational Devastation Spreads:** The wife discovers her husband's repeated adultery. Divorce follows. The children witness not just the breakdown of their family, but a profound lesson in betrayal: that marriage vows can be cast aside for the pursuit of selfish pleasure, that covenant love is disposable when it becomes inconvenient. Their own sense of betrayal and the immorality they've witnessed sets up a pattern—marriage becomes something you can throw away rather than something sacred worth fighting for.
-
-**The Fourth Wave—Social Corruption:** Meanwhile, the pornography industry—built on exploitation and trafficking—grows richer, more normalized. What was shameful becomes "empowering." The culture celebrates what destroys. Politicians defend it as "free speech." Educators normalize it as "victimless crime." The lie becomes so pervasive that speaking truth becomes "hateful." *Truth corrupted:* Evil is called good, and good is called evil.
-
-**The Fifth Wave—Generational Curse:** Those wounded children carry their brokenness into their own relationships, repeating the cycle. They marry with one foot already out the door, expecting betrayal, prepared to abandon ship at the first sign of difficulty. Three generations later, families inherit brokenness as their birthright, believing this is just "how life is." *All four pillars destroyed:* Truth, justice, mercy, and sacrifice are forgotten. Perfect love becomes nearly unattainable.
-
-One man's "private" sin has become a tsunami of destruction.
+**The Third Wave—Generational Curse:** Those wounded children carry their brokenness into their own relationships. They marry expecting betrayal, prepared to abandon ship at the first difficulty. Three generations later, families inherit brokenness as their birthright. Meanwhile, the pornography industry grows richer, the culture celebrates what destroys, and speaking truth becomes "hateful." One man's "private" sin has become a tsunami of destruction.
 
 <div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
 Every sin creates waves of destruction that ripple through families, communities, and generations. What begins in one human heart becomes the suffering of multitudes.
