@@ -42,6 +42,8 @@ A Christian says he loves God—then never prays, never serves, never sacrifices
 
 This is where love stops being sacred theory and becomes concrete reality. This is where the rubber meets the road, where faith becomes works, where words become flesh.
 
+In the previous chapter, we saw that mercy offers forgiveness, releases debts, restores relationships. But at what cost? Who pays the price? Mercy isn't free—someone must bear the cost. That cost is sacrifice. This is why sacrifice follows mercy in our exploration of love's facets.
+
 Love is **sacrificial**. Not in theory. Not in sentiment. Not in good intentions. In action. In cost. In the willingness to put another's good before our own.
 
 <div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
@@ -75,6 +77,8 @@ Children know they should be gifts, not debts. They know sacrifice should come w
 **Here's the profound mystery: when we sacrifice for others, we're being transformed ourselves.** Each act of sacrifice conforms our soul more closely to Christ's. We are truly becoming more like Him through lived experience of self-giving love.
 
 Your soul is like a child's heart that needs true and good inputs to become true and good itself. Every time you sacrifice for another—putting their needs before your wants—you're giving your soul the "input" of Christ-like love. Over time, these acts form your character, shape your desires, mold your very being. You're not just doing good things—you're becoming a good person, conformed to the image of the One who sacrificed everything for you.
+
+And sacrifice transforms not just our souls but our minds—we begin to see others as Christ sees them, as persons worthy of our gift rather than obstacles to our comfort.
 
 And here's the beautiful paradox: as your soul becomes more like Christ through sacrifice, you become more capable of deep communion with others. Selfish souls remain isolated. Sacrificial souls connect deeply. When you live for others, you're woven into the fabric of the Body of Christ, your soul bound to every other soul through the love you share.
 
@@ -149,7 +153,7 @@ Our sacrifices, united with Christ's perfect sacrifice, participate in His redem
 
 Not all sacrifices are equal. This reflects the ancient Church teaching of the *Ordo Amoris* or "Order of Love." St. Augustine and St. Thomas Aquinas taught that love must be ordered correctly to be virtuous.
 
-Where does love of self fit in? Right after God. Aquinas teaches that we must love our own souls next, because we cannot love our neighbor "as ourselves" if we do not first cherish the image of God within us. We sacrifice our *comfort* for others, but never our *souls*. We can never sin to "help" another.
+Where does love of self fit in? Right after God. Aquinas teaches that we must love our own souls next, because we cannot love our neighbor "as ourselves" if we do not first cherish the image of God within us. We sacrifice our *comfort* for others, but never our *souls*. We can never sin to "help" another—no matter how noble the intention seems.
 
 Following this, the order of sacrifice reflects our covenant obligations:
 1.  **God:** The foundation. We sacrifice everything for Him.
@@ -204,12 +208,6 @@ Consider what this looks like in practice, and how it directly threatens the fam
 - **Radical individualism** that insists "I don't owe anyone anything," destroying family obligations, rejecting duty and responsibility, treating covenant as optional
 
 This is selfishness masquerading as health. It creates a culture where families cannot form (abortion, contraception, hookup culture), cannot last (divorce culture, "self-care" justifying abandonment), and cannot flourish (technology addiction, childlessness by choice, radical individualism). It shows the self-centered spirit that Christ explicitly condemned: "If any man would come after me, let him deny himself and take up his cross and follow me. For whoever would save his life will lose it, and whoever loses his life for my sake will find it." (Matthew 16:24-25).
-
-**True sacrifice gives self for the good of another.** Sacrifice doesn't ignore legitimate needs—it addresses them while prioritizing the beloved's good. Sacrifice doesn't enable abuse—it protects the dignity of all. Sacrifice doesn't demand misery—it recognizes that joy comes through self-gift, not self-focus.
-
-The selfish spirit feels like self-love but is actually self-destruction—refusing the sacrifice that creates families, builds intimacy, generates life, and produces meaning. As Jesus taught, those who try to save their life (avoid sacrifice) will lose it, but those who lose their life (embrace sacrifice) will find it.
-
-True love REQUIRES sacrifice—the willingness to give rather than take, to serve rather than be served, to put another's good before our own comfort. This is what builds families. This is what sustains marriages. This is what creates the next generation. Without sacrifice, there is no family. Without sacrifice, there is no love.
 
 **Here's the beautiful irony:** When we sacrifice for others, we experience joy, meaning, and fulfillment—the very things selfishness promises but never delivers. Work yourself to exhaustion serving a stranger on a mission trip, and you feel like you've done something real in the world. Sacrifice sleep for your infant, and you discover a depth of love you never knew existed. Give up career advancement to care for aging parents, and you find purpose that no promotion could provide. This is the paradox Christ taught: those who lose their life find it. Sacrifice doesn't diminish us—it completes us. Selfishness promises happiness but delivers emptiness. Sacrifice promises nothing but delivers joy.
 
