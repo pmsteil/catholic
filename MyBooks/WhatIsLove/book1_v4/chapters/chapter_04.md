@@ -22,6 +22,8 @@
 
 ## The Problem with Promises
 
+In Chapter 3, we saw that love originates in God—the eternal exchange of gift between Father, Son, and Spirit. But how does that eternal pattern translate to our temporal, fragile human relationships? How can finite beings make permanent promises when everything around us changes?
+
 "I'll love you forever."
 
 Easy to say on a wedding day when everything feels perfect. Harder when tragedy strikes, jobs are lost, kids are screaming, bills pile up, attractive coworkers pay attention, and "forever" feels like a prison sentence.
@@ -142,7 +144,7 @@ Think about it this way: A piano has 88 keys arranged in a specific pattern. Tha
 
 Similarly, God's "laws" about love aren't restrictions on our freedom. They're the design that makes beautiful love possible. We're "free" to ignore them—just as we're "free" to pound randomly on piano keys. But we'll only create chaos, not communion. The covenant structure of love isn't a burden—it's what makes authentic love possible.
 
-**This is what "voluntary authority" means:** We freely choose to give ourselves to the Author's design because we recognize it as true, good, and beautiful. Not because we're forced. Not because we're afraid. But because we see that His way actually works. The slavery we need liberation from isn't God's "rules"—it's our own disordered desires that enslave us to partial goods that can never satisfy.
+**This is what the Church calls "the obedience of faith" (CCC 143-144):** We freely conform our will to God's will because we recognize His design as true, good, and beautiful—the transcendentals that reflect His own nature. This isn't coercion but liberation. As Vatican II teaches, "it is only in freedom that man can turn to what is good" (*Gaudium et Spes* 17). True freedom isn't freedom *from* authority—it's freedom *for* love, freedom *for* truth. The slavery we need liberation from isn't God's law—it's our disordered desires that enslave us to partial goods that can never satisfy.
 
 Understanding authority is critical to understanding the free gift of Covenant that God offers us.
 
@@ -158,7 +160,9 @@ This is where Pope Saint John Paul II's teaching becomes concrete: "I take you" 
 
 **The Sacrament of Marriage** makes this even more profound. In Catholic teaching, marriage isn't just a human agreement—it's a participation in Christ's covenant with the Church. The husband and wife become living icons of Christ's sacrificial, permanent, faithful love for His bride. The marriage covenant is a direct mirror of our covenant with God—we submit our lives to our spouse and children as we submit to Him. Marriage most fully fulfills our covenant with God in the domestic church.
 
-This is why the Church insists marriage is indissoluble. You can't dissolve God's covenant with His people. You can't dissolve Christ's union with the Church. And you can't dissolve a valid marriage, because it participates in that same divine reality.
+This is why the Church insists marriage is indissoluble (CCC 1644-1651). You can't dissolve God's covenant with His people. You can't dissolve Christ's union with the Church. And you can't dissolve a valid marriage, because it participates in that same divine reality.
+
+Note: The Church's annulment process doesn't "dissolve" marriages—it recognizes that a valid sacramental bond never existed in the first place due to lack of consent, capacity, or form.
 
 ### Covenant Love: Loving the Person, Not the Benefits
 
@@ -199,7 +203,7 @@ This is why covenant love doesn't diminish when the beloved can no longer recipr
 
 **Why This Matters for Children:**
 
-Covenant love is ordered toward children but not contingent on them. We don't love our spouse to get children (utilitarian). We love our spouse for who they are, and that love naturally overflows into welcoming the children God may give. Children are the fruit of authentic love, not the reason for it.
+Covenant love is ordered toward children but not contingent on them. What does this mean? We don't love our spouse *to get* children (that would be utilitarian). We love our spouse for who they are as a person made in God's image, and that authentic love naturally overflows into welcoming the children God may give. Children are the fruit of genuine spousal love, not a transaction or requirement for it.
 
 When children see parents loving each other for WHO they are—through sickness and health, prosperity and poverty, joy and sorrow—they learn what authentic love looks like. They see that persons have infinite worth regardless of what they can do or provide. They learn to love people, not use them.
 
@@ -209,10 +213,10 @@ Covenant love is grounded in personhood, not performance. We love the person for
 
 ### Marriage: The Sacred Gift We Need, Not Just Choose
 
-Here's what our culture has forgotten: **Marriage isn't just something we choose because it's quaint or traditional. It's something we need because it gives both men and women the sacred gift they require to fulfill the law written on their hearts.**
+Here's what our culture has forgotten:
 
 <div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
-Marriage isn't a lifestyle choice among many options. It's the sacred gift that enables men and women to fulfill the law written on their hearts—to live out truth, justice, and mercy in complementary union ordered toward children. This pattern is universal across cultures because it's written into human nature itself.
+Marriage isn't a lifestyle choice among many options—it's a sacred necessity. It's the gift that enables men and women to fulfill the law written on their hearts: to live out truth, justice, and mercy in complementary union ordered toward children. This pattern is universal across cultures because it's written into human nature itself.
 </div>
 
 Jesus came to fulfill the Law (Matthew 5:17). We're called to imitate Him—to fulfill the truth of who we are as image-bearers of God. Marriage is the primary way most people fulfill this calling.
@@ -237,11 +241,7 @@ When a woman gives herself completely to her husband and children—nurturing, c
 
 When children are raised by both mother and father, receiving the complementary gifts each provides, they learn what authentic love looks like. They see justice and mercy working together, truth embodied in covenant. They're prepared to give themselves in love when their time comes.
 
-**This is why attacks on marriage are so devastating.** When we tell people marriage is optional, that any arrangement is equally valid, that children don't need both mother and father—we're not liberating them. We're robbing them of the primary means by which humans fulfill the law written on their hearts.
-
-The crisis isn't that marriage has become unpopular. It's that we've forgotten why we need it. We've reduced it to a lifestyle preference when it's actually the fundamental human covenant that enables us to become who we're meant to be—image-bearers of God who love as He loves, creating life and nurturing it toward communion with Him.
-
-**This is the book's comprehensive definition made concrete:** Marriage is the sacred, sacrificial gift of covenant which binds truth, justice, and mercy into life-giving communion. In marriage, we see perfect love embodied in the most fundamental human relationship. This is why covenant love—especially in marriage—is such a powerful weapon against evil.
+**This is the book's comprehensive definition made concrete:** Marriage is the sacred, sacrificial gift of covenant which binds truth, justice, and mercy into life-giving communion. In marriage, we see perfect love embodied in the most fundamental human relationship—which is why covenant love in marriage is such a powerful weapon against evil.
 
 ### "But I'm Not Ready": Addressing the Fear
 
@@ -281,9 +281,11 @@ When we understand covenant love—especially as embodied in marriage—we see h
 
 **Against Meaninglessness:** If nothing is permanent, nothing ultimately matters. Covenant gives life meaning by creating bonds that transcend the moment, relationships that endure beyond death, love that participates in the eternal.
 
+**Against Cultural Breakdown:** When we tell people marriage is optional, that any arrangement is equally valid, that children don't need both mother and father—we're not liberating them. We're robbing them of the primary means by which humans fulfill the law written on their hearts. The crisis isn't that marriage has become unpopular. It's that we've forgotten why we need it. We've reduced it to a lifestyle preference when it's actually the fundamental human covenant that enables us to become who we're meant to be—image-bearers of God who love as He loves, creating life and nurturing it toward communion with Him.
+
 ## Covenant in All of Life
 
-Marriage reveals the pattern of covenant love that extends to all our relationships. Because we understand how marriage works—permanent, unconditional, self-giving—we can recognize covenant love in other forms:
+Marriage reveals the pattern of covenant love that extends to all our relationships. Because we understand how marriage works—permanent, unconditional, self-giving—we can recognize covenant love in other forms. Each of these covenants holds together multiple elements (truth, justice, mercy, sacrifice) in harmonious unity:
 
 **Baptism** creates a permanent covenant bond with God and the Church—just as marriage creates permanent family bonds.
 
@@ -308,11 +310,9 @@ When we keep our covenants, we're not just maintaining relationships—we're bec
 
 ## The Bridge to Binding
 
-Covenant creates permanent relationship. But how does it hold together? How do all the elements of love—truth, justice, mercy, sacrifice—work together without fragmenting or conflicting?
+Covenant creates permanent relationship. But a question remains: How do truth and mercy work together when they seem to pull in opposite directions? How does justice serve love without becoming harsh? How do all the elements of love—truth, justice, mercy, sacrifice—work together without fragmenting or conflicting?
 
-This is where the next facet becomes crucial: **binding**. Love doesn't just create covenant—it binds together all the essential elements into a harmonious whole. It ensures that truth serves justice, justice enables mercy, mercy upholds truth, and sacrifice makes it all real.
-
-Without this binding force, we'd have isolated virtues that could conflict with each other. With it, we have integrated love that holds everything together in perfect tension.
+This is where the next facet becomes crucial: **binding**.
 
 ---
 
