@@ -48,6 +48,28 @@ Love is **sacrificial**. Not in theory. Not in sentiment. Not in good intentions
 Love without sacrifice is just sentiment. Love without action is just words. Love without cost is just self-interest wearing a mask. Authentic love always requires giving something up for the good of another.
 </div>
 
+## What Children Know About Sacrifice
+
+The examples above show *absence* of sacrifice—the husband at golf, the mother on her phone, the Christian who never serves. But there's another failure, equally devastating:
+
+*"I gave up everything for you."*
+
+Said with resentment. Said as accusation. Said to make the child feel like a burden.
+
+A child knows immediately that something is wrong here. Yes, parents sacrifice—and children know it. They see the exhaustion, the missed opportunities, the years of giving. But authentic sacrifice is gift, not weapon. It creates gratitude, not guilt. It builds up the beloved rather than crushing them with debt.
+
+When sacrifice becomes ammunition—"After all I've sacrificed for you!"—the child learns something devastating: that their existence is a burden. That they owe a debt they can never repay. That they are not a gift received with joy but a cost reluctantly borne.
+
+Consider the difference:
+
+**Authentic sacrifice:** "I chose to give my time, my energy, my dreams because you are worth it. Because loving you is my joy. Because this is what love does."
+
+**Weaponized sacrifice:** "I gave up my career, my freedom, my life for you—and this is how you repay me? You owe me."
+
+The first makes the child feel treasured. The second makes them feel like a bill collector is demanding payment.
+
+Children know they should be gifts, not debts. They know sacrifice should come with joy, not resentment. They know the parent who truly loves them doesn't keep a running tally of what they're owed. When sacrifice is weaponized—when it becomes a tool for manipulation rather than an expression of love—the child feels the violation. They may not have words for it, but they know: this isn't how love is supposed to work.
+
 ### How Sacrifice Conforms Our Souls to Christ
 
 **Here's the profound mystery: when we sacrifice for others, we're being transformed ourselves.** Each act of sacrifice conforms our soul more closely to Christ's. We are truly becoming more like Him through lived experience of self-giving love.

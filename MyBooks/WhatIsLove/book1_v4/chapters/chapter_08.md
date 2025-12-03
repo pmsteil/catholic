@@ -36,6 +36,26 @@ This reveals something profound: Mercy is both gift and task. We receive it from
 Mercy is love going beyond what justice requires—offering forgiveness instead of punishment, compassion instead of condemnation, restoration instead of rejection. Mercy doesn't violate justice; it fulfills it. Justice and mercy are so intertwined they are not two different things; both must be there for either to be true. Mercy presupposes justice, yet mercy is more powerful than justice. We receive mercy from God, but we must also learn to give it to others. We must be merciful in order to receive mercy.
 </div>
 
+## What Children Know About Mercy
+
+*"You always..."*
+
+*"You never..."*
+
+*"You'll never change."*
+
+A child knows what these words do. They take one mistake—or even a pattern of mistakes—and make it permanent. They freeze the child in their worst moment. They close the door on growth, on change, on becoming someone new.
+
+The adults in our opening examples *need* mercy—the spouse who betrayed trust, the employee who made a costly mistake. They cry out for a second chance. But the child's experience is different: they are *denied* mercy. They are told their failures define them. They learn that grace doesn't exist, that restoration is impossible, that they *are* their worst moment forever.
+
+Consider the weight of "You'll never change." A child has their whole life ahead of them. They're still forming, still growing, still becoming. And now they're being told the verdict is already in. The book is closed. Who they've been is who they'll always be.
+
+This is mercilessness from the one who should extend mercy most readily. The parent who should see potential sees only past failure. The one who should model forgiveness models condemnation. The one who should say "I know you can do better" says "You never will."
+
+Children know instinctively that they need room to grow, room to fail and try again, room to become. They know they're not finished yet. And when that room is denied—when they're defined by their worst moments rather than their potential—something in them dies. Hope withers. Effort seems pointless. Why try to change if you've already been told you can't?
+
+This is the opposite of how God sees us. He sees who we can become, not just who we've been. He offers fresh starts, not permanent condemnation. He is "rich in mercy" (Ephesians 2:4), always offering one more chance. Children know they need this kind of love—and they feel the wound deeply when it's refused.
+
 ## What Mercy Actually Means
 
 Our culture confuses mercy with weakness, forgiveness with enabling, compassion with approval. We need to recover the true meaning.

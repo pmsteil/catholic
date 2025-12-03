@@ -36,6 +36,29 @@ This is the crisis of fragmented virtue. When we isolate truth, justice, and mer
 Love is the binding force that holds truth, justice, mercy, and sacrifice together in perfect unison. Without love to integrate them, these virtues fragment and become distorted. With love, they work together as one harmonious whole.
 </div>
 
+## What Children Know About Binding
+
+In Chapter 4, we saw the devastation when covenant breaks—"Mommy and Daddy are getting divorced." But now consider what comes *after*. Consider the lived reality of fragmentation:
+
+*"Tell your mother I said..."*
+
+*"Your father doesn't really love you—I'm the one who loves you."*
+
+*"Which parent do you want to live with?"*
+
+Two houses. Two sets of rules. Two warring factions. What was once one family is now fragmented into competing loyalties. The child isn't just hurt by the covenant breaking—they're torn apart by the unity shattering.
+
+The distinction matters: Chapter 4 is about the *promise* breaking—"They said forever. They lied." This chapter is about the *unity* shattering—"I'm torn between two worlds that should be one." The moment of breaking versus the lived reality of fragmentation.
+
+And here is the most tragic consequence: fragmentation doesn't just wound the child—it *corrupts* them.
+
+Watch what happens when parents use the child as a weapon against each other. The child learns to play one against the other. "If you don't let me, I'll go live with Dad." "Mom always lets me do this." The child discovers that the broken system can be exploited, that factions can be manipulated, that escaping true accountability is possible by running to the other parent.
+
+A child shouldn't be able to thwart parental authority through manipulation. In a unified family, both parents present a unified front. Truth, justice, and mercy work together because mother and father are bound together in covenant love. But when that binding breaks, the child learns something devastating: that unity doesn't matter, that playing factions works, that there's always an escape from truth, justice, and mercy if you know how to work the angles.
+
+This isn't just sad—it's corruption. The child who learns to manipulate fragmented authority carries those patterns into every future relationship. They learn that commitments can be leveraged, that people can be played against each other, that unity is for suckers.
+
+The wound of divorce creates harm. The fragmentation that follows corrupts. This is what happens when the binding force of love is broken—not just pain, but the distortion of the very virtues that make us human.
 
 ## How Love Binds Truth, Justice, Mercy, and Sacrifice
 

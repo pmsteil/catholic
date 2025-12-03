@@ -77,6 +77,31 @@ Our definition reveals this clearly: "God's Perfect Love is the sacred gift of c
 God's Perfect Love is the framework through which truth, justice, mercy, and sacrifice flow outward to create communion.
 </div>
 
+## What Children Know About Communion
+
+Throughout these chapters, we've seen children wounded by violations of love's facets—the sacred desecrated, covenant broken, truth denied, justice flipped, mercy refused, sacrifice weaponized. But now we come to the ultimate wound:
+
+*"I have no son."*
+
+*"I have no daughter."*
+
+*"You are dead to me."*
+
+This is exile. This is being cast out from the communion you were born into. This is the ultimate severance of belonging.
+
+The earlier chapters dealt with *abstractions* becoming concrete through children's experience. This chapter deals with something viscerally *personal*: the family itself rejecting you. Not just violating love's nature, but removing you from love's community.
+
+Consider what a child *knows* about belonging. Before anyone teaches them anything, they know they have a place. They are part of this family. They belong here. Mother, father, siblings—these aren't just relationships but the ground of their identity. "I am their child. I am part of this."
+
+And then: "You are no longer my child."
+
+The child's place—which they assumed was secure, which was the foundation of their world—has been revoked. They have been cast out of the communion that gave them identity. They have been told they no longer belong where they always belonged.
+
+This is why family rejection is so utterly devastating. It's not just emotional hurt. It's ontological exile. The child isn't just hurt—they've been told they don't exist as a member of this family anymore. Their place in communion has been erased.
+
+Children know they belong before anyone tells them. They know their place in the family is not conditional on performance. They know communion should be permanent—that you can't stop being someone's child any more than you can stop being yourself. And when that belonging is revoked, when they're cast out of the communion they were born into, they feel the violation at the deepest level of their being.
+
+This is what happens when communion is shattered: not just pain, but exile. Not just hurt, but the loss of one's place in the world.
 
 ## "Be Perfect": What Jesus Really Meant
 

@@ -36,6 +36,22 @@ This is the crisis of modern love: We want permanence but worship freedom. We cr
 Love requires covenant, not contract. Contracts are conditional and temporary—"I'll stay as long as you meet my needs." Covenants are unconditional and permanent—"I'm yours, no matter what." Without covenant, love has no foundation to endure.
 </div>
 
+## What Children Know About Covenant
+
+*"Mommy and Daddy are getting divorced."*
+
+No words need to follow. The action itself speaks louder than anything that could be said. The covenant is being broken.
+
+Consider what a child *assumes* about family before anyone teaches them anything. A child doesn't hope their parents will stay together—they assume it. Mother and father together isn't a wish or a preference—it's the default, the given, the foundation upon which their entire world is built. It would never occur to a child that parents could separate—unless society has already normalized it, unless they've seen it happen to friends, unless the unthinkable has become thinkable.
+
+This is remarkable: children instinctively know that their parents' union is permanent. No one teaches them this. They don't learn it from books or conversations. They know it because covenant permanence is written on the human heart. They know it because their parents—united in one flesh—are meant to image God's own covenant love. They know it because family unity isn't a social construct that varies by culture—it's a basic truth of human existence that children recognize before they can articulate it.
+
+And when that covenant breaks? When the unthinkable becomes real? The child's world doesn't just change—it crumbles. The foundation they stood on gives way beneath their feet. The permanence they assumed reveals itself as conditional. The "always" they trusted was actually "for now."
+
+This wound runs deep precisely because children know what love should be. They didn't learn that marriage should be permanent from a textbook—they knew it in their souls. And now they've learned something far more devastating: that covenants can be broken. That "forever" has conditions. That even the most fundamental promises—the union of mother and father—can be revoked when love gets hard.
+
+This shapes how they approach every future promise, every relationship, every vow. If the most basic covenant of their existence could be broken, why would any promise be different?
+
 ## Covenant vs. Contract: Understanding the Difference
 
 Our culture has forgotten the difference between covenant and contract. This confusion destroys families, fractures communities, and leaves a generation terrified of commitment.

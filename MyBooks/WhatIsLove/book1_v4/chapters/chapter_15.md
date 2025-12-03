@@ -258,16 +258,16 @@ Choose God's Perfect Love—not because it's easier (it requires sacrifice), not
 
 Picture two children:
 
-**Child 1:** Raised in counterfeit love—confused about reality, insecure in relationships, wounded by adult choices, inheriting broken worldview, unable to form healthy family.
+**Child 1:** Raised in counterfeit love—confused about reality, insecure in relationships, wounded by adult choices, inheriting broken worldview, unable to form healthy family. Prone to sin and creating more evil for themselves and others.
 
-**Child 2:** Raised in God's Perfect Love—confident in truth, secure in covenant, healed by mercy, formed in virtue, ready to build flourishing family.
+**Child 2:** Raised in God's Perfect Love—confident in truth, secure in covenant, healed by mercy, formed in virtue, ready to build flourishing family. Prone to virtue and creating more "good" for themselves and others.
 
 Which child do you want for the next generation? The choice is ours. The consequences are theirs.
 
 "I call heaven and earth to witness against you this day, that I have set before you life and death, blessing and curse; therefore choose life, that you and your descendants may live" (Deuteronomy 30:19).
 
 
-God's Perfect Love is not just the answer to the problem of evil in theory. It is the answer to the problem of evil in practice—the only foundation that gives children what they need to flourish across generations. For their sake, for the sake of civilization itself, we must choose authentic love over its counterfeits. We must choose life.
+God's Perfect Love is not just the answer to the problem of evil in theory. It is the answer to the problem of evil in practice—the only foundation that gives children what they need to flourish across generations and actually fight against evil. For their sake, for the sake of civilization itself, we must choose authentic love over its counterfeits. We must choose life.
 
 ---
 

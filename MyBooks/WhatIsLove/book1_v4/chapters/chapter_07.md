@@ -72,6 +72,24 @@ True justice requires a source beyond ourselves: the God who IS justice itself. 
 Justice is love giving each person what they are due based on their dignity as image-bearers of God. Without justice, love becomes arbitrary sentiment. With justice, love has objective content and concrete expression.
 </div>
 
+## What Children Know About Justice
+
+We've seen that children instinctively recognize injustice in the world—the bully, the cheater, the one who cuts in line. "That's not fair!" comes naturally.
+
+But there's a deeper wound: when injustice comes *from* the one who should protect you.
+
+*"After everything I've done for you..."*
+
+Listen to what this phrase does. The parent is demanding what they're owed—gratitude, compliance, repayment—while ignoring what the *child* is owed. It flips justice upside down. Basic care becomes a loan to be repaid. Feeding, clothing, and sheltering a child becomes an investment with expected returns. The parent's sacrifices are counted; the child's rightful claim to be loved unconditionally is erased.
+
+A child doesn't just *witness* injustice here—they *experience* it from the person who should be their protector. The one responsible for giving them what they're owed (love, care, formation) is now demanding the child repay a debt that was never supposed to be a debt at all.
+
+Children know something instinctively that adults sometimes forget: parenting isn't a transaction. Parents don't give so they can receive. Children aren't investments. The basic duties of parenthood—food, shelter, love, protection—aren't loans. They're what children are *owed* by virtue of being brought into existence by their parents.
+
+When a parent weaponizes their care—"After everything I've done for you, this is how you repay me?"—the child feels the injustice immediately. They may not have the words, but they know something is wrong. They know they're being treated as a debtor rather than a child. They know the relationship has been twisted from gift to transaction.
+
+This is what happens when justice is violated within the family: the child learns that love comes with a bill. That nothing is really given freely. That even the most basic care will someday be used as leverage against them. And this shapes how they understand all love, all relationships, all giving and receiving.
+
 ## What Justice Actually Means
 
 Our culture has confused justice with revenge, fairness with equality, rights with desires. We need to recover the true meaning.

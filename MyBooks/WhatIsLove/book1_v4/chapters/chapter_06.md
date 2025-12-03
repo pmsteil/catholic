@@ -44,6 +44,24 @@ This is what happens when love is separated from truth—when lies replace reali
 Love without truth is manipulation. Truth without love is cruelty. Authentic love requires both—truth that serves the beloved's good, love that honors objective reality.
 </div>
 
+## What Children Know About Truth
+
+*"That didn't happen."*
+
+*"I never said that."*
+
+A child knows what they experienced. They heard the words. They saw what happened. They remember clearly. And now the parent is telling them their memory is wrong. Their perception is faulty. Reality is not what they know it to be.
+
+This is gaslighting—and children know immediately that something is deeply, terribly wrong. They may not have the word for it, but they feel it in their gut. The ground beneath their feet is shifting. The person who should be their anchor to reality is denying reality itself.
+
+Watch a child's face when this happens. Confusion. Disorientation. A desperate search for solid ground. They *know* what happened. But the parent's authority is insisting otherwise. Who do they trust—their own experience or the adult who claims to love them?
+
+If this happens repeatedly, the child learns something devastating: not to trust their own perceptions. They learn that reality is negotiable. That what they experienced might not have happened. That truth depends on who has the power to define it.
+
+This is how lying destroys love at its foundation. The adult examples we considered—the abusive husband, the manipulative parent, the cult leader—are about *control*. But the child's experience is about *reality being denied*. It's about learning that the world itself cannot be trusted, that their own mind might be their enemy, that the person who should love them most is willing to erase what they know to be true.
+
+No one has to teach a child that lying is wrong. They know it. They feel the violation when truth is denied—when their experience is erased, when their memory is overwritten, when reality itself is stolen from them. They know because truth is written on the human heart, and lies always feel like violence against something sacred.
+
 ## The Fundamental Truths of Human Existence
 
 Before we can understand Christ as Truth Incarnate, we must first recognize the basic truths of our existence—truths so obvious that no one needs to teach them to us:
