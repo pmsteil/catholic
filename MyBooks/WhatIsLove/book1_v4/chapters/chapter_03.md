@@ -22,6 +22,8 @@
 
 ## More Than Biology
 
+Our definition of perfect love begins with a crucial word: *sacred*. But why must love be sacred? Why can't it simply be a human invention?
+
 Why does love matter at all?
 
 The materialist has a coherent theory of how this works. Evolution, they argue, produced genuine altruism—not mere selfishness in disguise. Natural selection favored creatures who formed deep bonds, protected their young, cooperated with their tribe. Over millions of years, these tendencies became encoded in our neural architecture. Love, on this view, is a real emergent phenomenon: oxytocin floods the brain during bonding, mirror neurons create empathy, attachment systems wire us for connection. The experience is genuine, the benefits measurable, the neuroscience increasingly precise. We don't need God, the materialist concludes, to explain why love feels profound—evolution gave us brains that experience profound connection because such connection helped our ancestors survive.
@@ -82,6 +84,8 @@ Consider the logical foundation for why love must come from God. This isn't just
 
 Furthermore, if the ultimate reality were impersonal (mere matter, energy, or abstract principles), then persons would be accidents—complex arrangements of atoms that happened to develop consciousness. But we instinctively know that persons have inherent dignity and worth *independent* of what anyone thinks about them. The only way persons can have intrinsic value is if the ultimate reality is itself personal—if God is a Person (or more precisely, three Persons in one Being) who confers dignity on those created in His image.
 
+Let's press further.
+
 **Fourth, a personal God who is the source of moral values must Himself embody those values perfectly and unchangingly.** Here's why: We don't just recognize that some things are wrong—we recognize that they are *necessarily* and *unchangingly* wrong. Child abuse isn't wrong just today or in our culture; it was wrong a thousand years ago and will be wrong a thousand years from now. This points to a source that is itself unchanging and perfect. If God were capricious or indifferent to morality, then moral truths would be arbitrary and changeable—"wrong" would mean "whatever God happens to feel like prohibiting today." But we know moral truth is at least as stable and necessary as the laws of physics. Therefore, love cannot be arbitrary divine command—it must flow from God's own unchanging, perfect "being" or nature. God IS love, and His nature is the eternal standard. What He reveals to us about love reflects who He is. This is why love's demands are absolute and unchanging: they're grounded in the very being of God, not in human consensus, utility calculations, or even divine whim.
 
 **Fifth, if God is the ultimate reality and God is love, then love is the ultimate reality.** This means love isn't just one value among many—it's the fundamental structure of reality itself. Everything else (existence, truth, justice, mercy, beauty, goodness) finds its unity and meaning in love. Because love is the ultimate reality, truth is not cold fact but the light of love; justice is not abstract calculation but the order of love; beauty is not random preference but the radiance of love. This is the only foundation that can sustain objective moral truth: not human opinion, not evolutionary advantage, not social contract, but the unchanging nature of God who IS love.
@@ -119,7 +123,7 @@ The Trinity reveals that love is not something God does—it's who God is. From 
 
 This is why love is sacred—and why it has the characteristics it does. Love requires sacrifice (complete self-gift) because the Trinity is eternal self-giving. Love creates covenant (permanent relationship) because the Father, Son, and Spirit are eternally bound in perfect communion. Love binds together (unity in diversity) because three Persons are one God. Love generates communion (the Spirit as fruit of love) because divine love is eternally fruitful. These aren't arbitrary requirements we impose on love—they reflect how love exists eternally in God's own nature.
 
-Love is sacred because it participates in the eternal life of the Trinity—the perfect communion of Father, Son, and Holy Spirit. When we love authentically, we're not just performing a human action. We're participating in the very being of God, touching the eternal, acting in harmony with the deepest structure of reality itself.
+Love is sacred because it participates in the eternal life of the Trinity—the perfect communion of Father, Son, and Holy Spirit. When we love authentically, we're not just performing a human action. We're sharing in God's own life, touching the eternal, acting in harmony with the deepest structure of reality itself.
 
 ## God IS Love
 
