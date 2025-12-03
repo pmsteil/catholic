@@ -20,7 +20,7 @@
 
 ---
 
-## The Question Behind the Question
+## More Than Biology
 
 Why does love matter at all?
 
@@ -84,16 +84,29 @@ Furthermore, if the ultimate reality were impersonal (mere matter, energy, or ab
 
 **Fourth, a personal God who is the source of moral values must Himself embody those values perfectly and unchangingly.** Here's why: We don't just recognize that some things are wrong—we recognize that they are *necessarily* and *unchangingly* wrong. Child abuse isn't wrong just today or in our culture; it was wrong a thousand years ago and will be wrong a thousand years from now. This points to a source that is itself unchanging and perfect. If God were capricious or indifferent to morality, then moral truths would be arbitrary and changeable—"wrong" would mean "whatever God happens to feel like prohibiting today." But we know moral truth is at least as stable and necessary as the laws of physics. Therefore, love cannot be arbitrary divine command—it must flow from God's own unchanging, perfect "being" or nature. God IS love, and His nature is the eternal standard. What He reveals to us about love reflects who He is. This is why love's demands are absolute and unchanging: they're grounded in the very being of God, not in human consensus, utility calculations, or even divine whim.
 
-**Fifth, if God is the ultimate reality and God is love, then love is the ultimate reality.** This means love isn't just one value among many—it's the fundamental structure of reality itself. Everything else (existence, truth, justice, mercy, beauty, goodness) finds its unity and meaning in love. This is the only foundation that can sustain objective moral truth: not human opinion, not evolutionary advantage, not social contract, but the unchanging nature of God who IS love.
+**Fifth, if God is the ultimate reality and God is love, then love is the ultimate reality.** This means love isn't just one value among many—it's the fundamental structure of reality itself. Everything else (existence, truth, justice, mercy, beauty, goodness) finds its unity and meaning in love. Because love is the ultimate reality, truth is not cold fact but the light of love; justice is not abstract calculation but the order of love; beauty is not random preference but the radiance of love. This is the only foundation that can sustain objective moral truth: not human opinion, not evolutionary advantage, not social contract, but the unchanging nature of God who IS love.
 
 <div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
-The logical chain is complete: Love requires a personal source → Objective morality requires a transcendent ground → The highest good must be personal → That personal God must embody love perfectly → Therefore, God IS love, and love is the ultimate reality.
+The logical chain is complete:
+1. Love requires a personal source.
+2. Objective morality requires a transcendent ground.
+3. The highest good must be personal.
+4. That personal God must embody love perfectly.
+5. Therefore, God IS love, and love is the ultimate reality.
 </div>
 
 This is why Scripture's declaration "God is love" isn't just poetic language or religious sentiment. It's revealing the deepest truth about the nature of reality itself. Love isn't something God does—it's who God is. And because God is the Creator of all that exists, love is woven into the very fabric of creation and in the very fabric of our being.
 
 This is what the Church means when it teaches that God is the *summum bonum*—the highest good. Philosophers from Plato to Aristotle searched for this ultimate reality. St. Thomas Aquinas demonstrated what reason discovers and revelation confirms: only union with God—who IS love—can satisfy the human heart completely. Every other good (pleasure, wealth, power, honor) fails to fulfill us because they're finite goods. But God, who is infinite Love, is the only good that can satisfy our infinite longing. When we participate in authentic love, we're not just doing something good—we're participating in the highest Good Himself, touching the very source of all goodness and being.
 
+
+## How We Know God Is Love
+
+Some might object: "You're just projecting human values onto God. How do you know God is actually loving?"
+
+The answer: We're not imposing our standards on God—we're recognizing that our moral knowledge comes *from* God. The Church teaches that God created humans with the capacity to know moral truth through reason—the doctrine of natural law (CCC 1954-1960). When we recognize that love, justice, and mercy are objectively good, we're discovering truths God built into creation and wrote on our hearts. What reason discovers, revelation confirms: "God is love" (1 John 4:8, 16).
+
+The alternative is incoherent: if our deepest moral convictions have nothing to do with ultimate reality, then we're fundamentally deceived about goodness itself. But if we can't trust our basic moral knowledge, we can't trust *any* knowledge—including the skeptic's objection. The only coherent position is that our moral knowledge, though imperfect, genuinely reflects the nature of the God who created us in His image.
 
 ## The Trinity: Love's Eternal Pattern
 
@@ -131,7 +144,19 @@ This changes everything. If God IS love, then:
 - Love is personal—it flows from a Person, not an impersonal force
 - Love is the ultimate reality—more fundamental than matter, energy, or time
 
-When we love authentically, we're not just being nice or following social norms. We're participating in the very life of God. We're touching the eternal. We're acting in harmony with the deepest structure of reality itself.
+When we love authentically, we're not just being nice or following social norms. We're participating in the very life of God.
+
+When Scripture says we're created in God's image (Genesis 1:27), it means we're created with the capacity to participate in this divine love. We're not just biological organisms with useful social instincts. We're beings capable of knowing truth, choosing freely, loving sacrificially, and entering into communion—all reflections of God's own nature.
+
+St. Peter makes this explicit: "His divine power has granted to us all things that pertain to life and godliness... that through these you may escape from the corruption that is in the world because of passion, and become partakers of the divine nature" (2 Peter 1:3-4). We don't just imitate God's love from a distance. We actually participate in it. When we love authentically, God's own love flows through us.
+
+Consider what this means practically:
+
+**When a mother sacrifices sleep to comfort her crying infant**, she's not just following maternal instinct. She's participating in the Father's eternal self-gift to the Son. Her love is sacred because it reflects and participates in divine love.
+
+**When a husband remains faithful to his wife through decades of marriage**, he's not just keeping a social contract. He's participating in the covenant love of the Trinity. His fidelity is sacred because it images God's own faithfulness.
+
+**When someone forgives an enemy who has deeply wounded them**, they're not just being psychologically healthy. They're participating in the mercy that flows eternally between Father, Son, and Spirit. Their forgiveness is sacred because it makes visible the invisible God.
 
 ## How the Sacred Nature of Love Combats Evil
 
@@ -146,31 +171,6 @@ Now we can see why understanding love as sacred—as participation in God's own 
 **Against Isolation:** If love is participation in the Trinity's communion, then we're never meant to be alone. The epidemic of loneliness in our culture, the rise of suicide rates, the addiction to digital substitutes for real relationship—all these reveal what happens when we forget love's sacred nature. Isolation is a violation of our nature as beings made for sacred communion.
 
 **Against Meaninglessness:** If the God who IS love created everything, then the universe has meaning and purpose. We're not accidents but beloved children invited into eternal communion. Every act of authentic love—no matter how small—participates in the ultimate meaning of existence itself.
-
-## Participation in Divine Nature
-
-When Scripture says we're created in God's image (Genesis 1:27), it means we're created with the capacity to participate in this divine love. We're not just biological organisms with useful social instincts. We're beings capable of knowing truth, choosing freely, loving sacrificially, and entering into communion—all reflections of God's own nature.
-
-St. Peter makes this explicit: "His divine power has granted to us all things that pertain to life and godliness, through the knowledge of him who called us to his own glory and excellence, by which he has granted to us his precious and very great promises, that through these you may escape from the corruption that is in the world because of passion, and become partakers of the divine nature" (2 Peter 1:3-4). We don't just imitate God's love from a distance. We actually participate in it. When we love authentically, God's own love flows through us.
-
-This is what makes love sacred. It's not sacred because we declare it so or because society values it. It's sacred because it participates in the very being of God.
-
-## How We Know God Is Love
-
-Some might object: "You're just projecting human values onto God. How do you know God is actually loving?"
-
-The answer: We're not imposing our standards on God—we're recognizing that our moral knowledge comes *from* God. The Church teaches that God created humans with the capacity to know moral truth through reason—the doctrine of natural law (CCC 1954-1960). When we recognize that love, justice, and mercy are objectively good, we're discovering truths God built into creation and wrote on our hearts. What reason discovers, revelation confirms: "God is love" (1 John 4:8, 16).
-
-The alternative is incoherent: if our deepest moral convictions have nothing to do with ultimate reality, then we're fundamentally deceived about goodness itself. But if we can't trust our basic moral knowledge, we can't trust *any* knowledge—including the skeptic's objection. The only coherent position is that our moral knowledge, though imperfect, genuinely reflects the nature of the God who created us in His image.
-
-Consider what this means practically:
-
-**When a mother sacrifices sleep to comfort her crying infant**, she's not just following maternal instinct. She's participating in the Father's eternal self-gift to the Son. Her love is sacred because it reflects and participates in divine love.
-
-**When a husband remains faithful to his wife through decades of marriage**, he's not just keeping a social contract. He's participating in the covenant love of the Trinity. His fidelity is sacred because it images God's own faithfulness.
-
-**When someone forgives an enemy who has deeply wounded them**, they're not just being psychologically healthy. They're participating in the mercy that flows eternally between Father, Son, and Spirit. Their forgiveness is sacred because it makes visible the invisible God.
-
 
 ## Why This Changes Everything
 
