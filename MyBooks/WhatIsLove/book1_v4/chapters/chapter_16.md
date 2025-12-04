@@ -16,6 +16,8 @@
 
 ## What IS the Gospel?
 
+Chapter 15 asked where God's Perfect Love comes from. The answer is not a philosophy or a program—it's a Person.
+
 If you asked ten Christians "What is the Gospel?" you'd likely get ten different answers. Some would say "Jesus died for your sins." Others "God loves you." Still others "Believe and be saved." Each captures part of the truth, but what if the Gospel is something far more comprehensive?
 
 Modern Christianity has fragmented the Gospel into competing emphases. Some focus only on personal salvation (individualism). Others focus only on social justice (activism). Still others focus only on correct doctrine (intellectualism). Each captures part of the truth but misses the whole.
@@ -30,7 +32,7 @@ But notice what comes next—the verses often left out: "And this is the judgmen
 
 The fulfillment of verse 16 requires living the truth—not just believing intellectually, but actually living His love in order to bring out His good works of salvation for others. God's love isn't just about being saved from hell; it's about being transformed to live in the light, to do good works because God's "good" working through us transforms our hearts and the "world".
 
-This is crucial: Christ doesn't save us "apart from us"—as if salvation happens while we remain passive spectators. Rather, He saves us by transforming us, by giving us His grace (His Perfect Love) so we can cooperate with Him in living authentic love. We cannot save ourselves, but neither does He save us without our free cooperation. This is why our definition integrates truth, justice, mercy, and sacrifice—authentic love requires all of them working together, not just mental assent. Every aspect of our definition finds its perfect fulfillment in Christ's person and work, and through His grace, in our transformed lives.
+This is crucial: Christ doesn't save us "apart from us"—as if salvation happens while we remain passive spectators. Rather, He saves us by transforming us, by giving us His grace (His Perfect Love) so we can cooperate with Him in living authentic love. We cannot save ourselves, but neither does He save us without our free cooperation (CCC 1993, 2002). This is why our definition integrates truth, justice, mercy, and sacrifice—authentic love requires all of them working together, not just mental assent. Every aspect of our definition finds its perfect fulfillment in Christ's person and work, and through His grace, in our transformed lives.
 
 ---
 
@@ -43,9 +45,9 @@ Notice what He's doing. He's not abolishing the Old Law but bringing it to perfe
 This is why the Catechism calls it "the grace of the Holy Spirit received by faith in Christ, operating through charity" (CCC 1972). Christ doesn't just give us rules—He gives us His own Spirit to transform us from within.
 
 <div class="blockquote">
-"Every person therefore is invited to 'repent' and to 'believe' in God's merciful love."
+"The time is fulfilled, and the kingdom of God is at hand; repent, and believe in the gospel."
 
-\hfill\small — Pope Leo XVI, Address to the Roman Curia (Nov. 21, 2025)
+\hfill\small — Mark 1:15
 </div>
 
 **How This Combats Evil:** Legalism reduces faith to external rules, but Christ transforms hearts. The false teaching of Antinomianism claims Christians are "free from all law," but Christ gives us the perfect law of love. The Church's teaching isn't arbitrary or outdated. It's protecting the truth that love creates life, that sexuality is sacred precisely because it participates in God's creative power, that children are gifts not burdens. Marriage exists for the children—to give them a mother and father united in covenant love, to welcome them into a communion of persons that images the Trinity.
@@ -53,9 +55,9 @@ This is why the Catechism calls it "the grace of the Holy Spirit received by fai
 Communion is therefore missionary. Because God's Perfect Love binds truth, justice, mercy, and sacrifice into life-giving communion, the Church must carry that communion to every person.
 
 <div class="blockquote">
-"The Church was sent by Christ to reveal and communicate the love of God to all people and nations."
+"The Church exists in order to evangelize... She exists in order to bring the Good News to all the strata of humanity, and through its influence to transform humanity from within."
 
-\hfill\small — Pope Leo XVI, Address to the Roman Curia (Nov. 21, 2025)
+\hfill\small — Pope Paul VI, *Evangelii Nuntiandi*, 14
 </div>
 
 ---
@@ -68,11 +70,7 @@ The Incarnation proves love is not abstract but personal. God doesn't just send 
 
 Pope Saint John Paul II taught that **"the body, and it alone, is capable of making visible what is invisible: the spiritual and the divine."** This is why the Incarnation matters so profoundly: God chose to reveal Himself through a human body. Christ didn't just have a body—He IS the Word made flesh. Every action, every touch, every wound on the Cross speaks the language of perfect love through His body. And His bodily Resurrection proves that redemption isn't just spiritual—our bodies participate in divine life forever. We're not souls trapped in bodies; we're embodied persons made for embodied love.
 
-This is the heart of the Gospel: God who is Love came all the way down to teach us how to love. He didn't send instructions from heaven. He didn't merely reveal principles. He became flesh and dwelt among us (John 1:14) to show us in His own person what perfect love looks like—how to love God with all truth, justice, and mercy integrated perfectly.
-
-When Jesus declares "I and the Father are one" (John 10:30), He establishes that authentic love has its source in the divine nature itself. The Incarnation is God's ultimate act of justice (giving humanity what we're owed—the truth about love), mercy (condescending to our weakness), and sacrifice (emptying Himself to take human form). Every time we bow at the Creed, we acknowledge this staggering reality: Love Himself walked among us to teach us how to love.
-
-The sacred source means love is not what we decide it is, but what God reveals it to be. We don't invent love; we discover it in the person of Jesus Christ.
+When Jesus declares "I and the Father are one" (John 10:30), He establishes that authentic love has its source in the divine nature itself. The Incarnation is God's ultimate act of justice (giving humanity what we're owed—the truth about love), mercy (condescending to our weakness), and sacrifice (emptying Himself to take human form). The sacred source means love is not what we decide it is, but what God reveals it to be. We don't invent love; we discover it in the person of Jesus Christ.
 
 ---
 
@@ -203,7 +201,7 @@ The Eucharist creates communion: Christ's body unites His Body. When we receive 
 
 **Relational Evil (Broken Relationships):** "God was reconciling the world to himself in Christ" (2 Corinthians 5:19). Christ reconciles us vertically to God, horizontally to each other, and internally within ourselves. The Church becomes the household of God (Ephesians 2:19).
 
-**Social Evil (Injustice and Oppression):** Christ establishes every person's dignity—He died for all. "Whatever you did for one of these least brothers of mine, you did for me" (Matthew 25:40). The Kingdom brings justice: the last shall be first, the humble exalted. The Church, when faithful, becomes counter-cultural witness to authentic human dignity.
+**Social Evil (Injustice and Oppression):** Christ establishes every person's dignity—He died for all. "As you did it to one of the least of these my brethren, you did it to me" (Matthew 25:40). The Kingdom brings justice: the last shall be first, the humble exalted. The Church, when faithful, becomes counter-cultural witness to authentic human dignity.
 
 **Spiritual Evil (Meaninglessness, Despair, Death):** All creation finds its purpose in Christ (Colossians 1:16-17). "Hope does not disappoint us" (Romans 5:5). Death is defeated: "O death, where is your victory?" (1 Corinthians 15:55). Christ is "the light of the world" (John 8:12), giving clear purpose and meaning.
 
@@ -215,13 +213,13 @@ The victory is won. Christ has conquered on the Cross and in the Resurrection. W
 
 ---
 
-## The Gospel Call
+## Living the Response: The Gospel Call
 
-You've now seen that the Gospel is not just information about God's love—it IS God's Perfect Love incarnate in Jesus Christ. Every component of authentic love finds its perfect fulfillment in Him. The question is no longer "What is love?" but "Will you accept Love Himself?"
+You've now seen that the Gospel is not just information about God's love—it IS God's Perfect Love incarnate in Jesus Christ. Christ, the *summum bonum*—the highest good—calls you not merely to admire Him but to follow Him. Every component of authentic love finds its perfect fulfillment in Him. The question is no longer "What is love?" but "Will you accept Love Himself?"
 
 **The Response Required:**
 
-1. **Faith:** Believing Christ IS who He claims to be—not just intellectual assent but personal trust. "Lord, I believe; help my unbelief!" (Mark 9:24).
+1. **Faith:** Believing Christ IS who He claims to be—not just intellectual assent but personal trust. "I believe; help my unbelief!" (Mark 9:24).
 
 2. **Repentance:** Turning from sin to embrace His love. Acknowledging our need for a Savior. Confession as the sacrament of ongoing conversion.
 
