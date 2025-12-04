@@ -106,7 +106,7 @@ Mercy doesn't deny what justice requires. Mercy fulfills what justice requiresâ€
 
 ## The Condition: We Must Forgive to Be Forgiven
 
-Jesus makes this condition explicit in the Lord's Prayer: "and forgive us our debts, as we also have forgiven our debtors" (Matthew 6:12). He immediately clarifies that if we refuse to forgive others, the Father will not forgive us (Matthew 6:15).
+Jesus makes this condition explicit in the Lord's Prayer: "and forgive us our debts, as we also have forgiven our debtors" (Matthew 6:12). He immediately clarifies: "For if you forgive men their trespasses, your heavenly Father also will forgive you; but if you do not forgive men their trespasses, neither will your Father forgive your trespasses" (Matthew 6:14-15).
 
 This isn't arbitrary; it's the nature of love. Mercy is like lightâ€”it must flow *through* us to reach *us*. If we block the flow to others, we block it to ourselves. Justice also demands it: we who have been forgiven an enormous debt by God cannot justly refuse mercy for the smaller debts of others. As the parable of the Unforgiving Servant warns (Matthew 18:23-35), refusing mercy to others revokes the mercy we've received. We cannot keep what we refuse to share. To hold onto a grudge is to cling to a blight that prevents us from receiving the very love we desperately need.
 

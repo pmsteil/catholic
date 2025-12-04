@@ -204,7 +204,7 @@ If any one of these conditions is absent or significantly diminished, the sin ma
 
 ## Detailed Examples: The Same Vice at Different Levels
 
-Let's examine several vices to see how they can manifest at different levels of gravity, showing how they offend against the four pillars with varying degrees of intensity.
+Two examples will illustrate how the same vice can manifest at different levels of gravity. The pattern applies to all vices: the three conditions (grave matter, full knowledge, deliberate consent) determine whether a particular act is mortal or venial.
 
 ### **Example 1: Lying (Dishonesty)**
 
@@ -227,16 +227,16 @@ Let's examine several vices to see how they can manifest at different levels of 
 
 **Mortal Lying:**
 - **Perjury in court:** Lying under oath that leads to innocent person's conviction
-  - ⊗ Actively opposes truth (sworn testimony)
-  - ⊗ Grave injustice (destroys innocent person's life)
+  - ✗ Actively opposes truth (sworn testimony)
+  - ✗ Grave injustice (destroys innocent person's life)
   - ✗ No mercy for the victim
   - ✗ Refuses sacrifice of telling costly truth
   - **Grave matter + full knowledge + deliberate consent = MORTAL**
 
 - **Betraying a secret that destroys someone:** Revealing confession secrets, outing someone maliciously
-  - ⊗ Violates truth of confidentiality
-  - ⊗ Grave injustice to person betrayed
-  - ⊗ Cruel lack of mercy
+  - ✗ Violates truth of confidentiality
+  - ✗ Grave injustice to person betrayed
+  - ✗ Cruel lack of mercy
   - ✗ Refuses sacrifice of keeping difficult secret
   - **MORTAL**
 
@@ -246,94 +246,11 @@ Let's examine several vices to see how they can manifest at different levels of 
 - Whether it violates a sacred trust or oath
 - The intention and circumstances
 
----
-
-### **Example 2: Anger (Wrath)**
-
-**The Nature of Anger:**
-- **Truth (✗):** Distorts reality through rage
-- **Justice (✗):** Seeks disproportionate revenge
-- **Mercy (✗):** Refuses compassion and forgiveness
-- **Sacrifice (✗):** Indulges passion rather than controlling it
-
-**Venial Anger:**
-- **Brief irritation:** Snapping at someone in traffic, quickly regretted
-  - Minor offense against mercy
-  - Quickly repented
-  - No lasting harm
-  - Venial due to imperfect consent (passion overcame reason momentarily)
-
-- **Impatience with children:** Getting frustrated when they misbehave
-  - Partial offense against mercy and sacrifice
-  - Not fully deliberate (stress, fatigue reduce freedom)
-  - Venial
-
-**Mortal Anger:**
-- **Nursing hatred:** Deliberately cultivating rage, planning revenge, refusing to forgive
-  - ⊗ Distorts truth (sees person as pure evil)
-  - ⊗ Seeks unjust revenge beyond what's due
-  - ⊗ Completely refuses mercy and forgiveness
-  - ✗ Indulges hatred rather than sacrificing it
-  - **Grave matter (hatred) + full knowledge + deliberate consent = MORTAL**
-
-- **Violence/assault:** Acting on rage to harm someone physically
-  - ⊗ Violates truth of human dignity
-  - ⊗ Grave injustice (assault)
-  - ⊗ No mercy, only cruelty
-  - ✗ Refuses all self-control
-  - **MORTAL**
-
-**What makes the difference?**
-- Whether anger is momentary or nursed deliberately
-- Whether it leads to violence or serious harm
-- The degree of consent (overcome by passion vs. deliberately chosen)
-- Whether forgiveness is refused
+The same pattern applies to **anger** (brief irritation vs. nursing hatred), **greed** (wanting more vs. exploiting workers), and every other vice. The three conditions always determine whether a particular act is mortal or venial.
 
 ---
 
-### **Example 3: Greed (Avarice)**
-
-**The Nature of Greed:**
-- **Truth (✗):** Denies that all is gift from God
-- **Justice (✗):** Hoards what others need
-- **Mercy (✗):** Ignores the poor and needy
-- **Sacrifice (✗):** Refuses to share possessions
-
-**Venial Greed:**
-- **Wanting a bit more:** Wishing you had a nicer car, bigger house
-  - Minor offense against contentment
-  - Doesn't deprive others
-  - Venial due to lesser matter
-
-- **Being stingy:** Not giving to charity as generously as you could
-  - Partial offense against justice and mercy
-  - Not grave deprivation of others
-  - Venial
-
-**Mortal Greed:**
-- **Exploiting workers:** Paying unjust wages, using sweatshop labor, denying benefits
-  - ⊗ Denies truth that workers deserve just compensation
-  - ⊗ Grave injustice (stealing what's owed)
-  - ⊗ No mercy for struggling families
-  - ✗ Refuses sacrifice of fair wages for profit
-  - **Grave matter + full knowledge + deliberate consent = MORTAL**
-
-- **Stealing from the poor:** Embezzling charity funds, defrauding vulnerable people
-  - ⊗ Denies truth of their dignity and rights
-  - ⊗ Grave injustice (theft from those who can least afford it)
-  - ⊗ Cruelty to the vulnerable
-  - ✗ Takes rather than gives
-  - **MORTAL**
-
-**What makes the difference?**
-- Whether it deprives others of necessities
-- The degree of injustice (wanting more vs. stealing from the poor)
-- Whether it violates duties to employees, family, etc.
-- The harm caused to vulnerable people
-
----
-
-### **Example 4: Lust**
+### **Example 2: Lust**
 
 **The Nature of Lust:**
 - **Truth (✗):** Distorts truth of sexuality's purpose
@@ -353,22 +270,22 @@ Let's examine several vices to see how they can manifest at different levels of 
 
 **Mortal Lust:**
 - **Deliberate pornography use:** Intentionally viewing pornography
-  - ⊗ Distorts truth of sexuality
-  - ⊗ Uses persons as objects (even in images)
+  - ✗ Distorts truth of sexuality
+  - ✗ Uses persons as objects (even in images)
   - ✗ Exploits those in pornography
   - ✗ Indulges lust rather than practicing chastity
   - **Grave matter + full knowledge + deliberate consent = MORTAL**
 
 - **Adultery:** Sexual relations outside marriage
-  - ⊗ Violates covenant truth
-  - ⊗ Grave injustice to spouse
-  - ⊗ No mercy for spouse or family
+  - ✗ Violates covenant truth
+  - ✗ Grave injustice to spouse
+  - ✗ No mercy for spouse or family
   - ✗ Refuses sacrifice of fidelity
   - **MORTAL**
 
 - **Fornication:** Sexual relations before marriage
-  - ⊗ Violates truth of sexuality's purpose (covenant union)
-  - ⊗ Treats person as object for pleasure
+  - ✗ Violates truth of sexuality's purpose (covenant union)
+  - ✗ Treats person as object for pleasure
   - ✗ Refuses sacrifice of chastity
   - **Grave matter (objectively serious; becomes mortal with full knowledge and consent)**
 
@@ -392,54 +309,17 @@ The Seven Deadly Sins (also called Capital Vices) are called "deadly" not becaus
 
 3. **They progressively harden the heart:** The more we indulge these vices, the more difficult it becomes to resist them. They form habits that cloud our judgment, weaken our will, and make mortal sin more likely.
 
-### **How Each Deadly Sin Destroys Relationship:**
+### **What Each Deadly Sin Leads To:**
 
-**Pride** (offends all four pillars):
-- Denies truth of our dependence on God
-- Steals glory due to God alone (injustice)
-- Judges others harshly rather than showing mercy
-- Exalts self rather than sacrificing for others
-- **Leads to:** Disobedience, presumption, contempt for others, spiritual blindness
+The matrix above shows which pillars each deadly sin offends. Here's what each leads to when left unchecked:
 
-**Greed/Avarice** (offends all four pillars):
-- Denies truth that all is gift from God
-- Hoards what others need (injustice)
-- Ignores the poor (lack of mercy)
-- Refuses to share (lack of sacrifice)
-- **Leads to:** Theft, fraud, exploitation, hardness of heart toward the needy
-
-**Lust** (offends truth, justice, sacrifice):
-- Distorts truth of sexuality's purpose
-- Uses persons as objects (injustice)
-- Indulges disordered desires (refuses sacrifice)
-- **Leads to:** Pornography, adultery, fornication, exploitation, broken families
-
-**Wrath/Anger** (offends all four pillars):
-- Distorts truth through rage
-- Seeks disproportionate revenge (injustice)
-- Refuses forgiveness (lack of mercy)
-- Indulges passion (refuses sacrifice)
-- **Leads to:** Violence, murder, hatred, revenge, broken relationships
-
-**Sloth** (offends truth, justice, sacrifice):
-- Denies truth of our duties
-- Neglects obligations (injustice)
-- Refuses sacrificial effort
-- **Leads to:** Neglect of prayer, abandonment of duties, spiritual lukewarmness, despair
-
-**Envy** (offends all four pillars):
-- Denies truth of God's providence
-- Resents others' good (injustice)
-- Wishes harm on others (lack of mercy)
-- Refuses to rejoice with others (lack of sacrifice)
-- **Leads to:** Detraction, slander, schadenfreude, hatred, division
-
-**Gluttony** (offends all four pillars):
-- Denies truth of sufficiency
-- Takes more than one's due (injustice)
-- Ignores hungry neighbors (lack of mercy)
-- Indulges without restraint (refuses sacrifice)
-- **Leads to:** Drunkenness, addiction, neglect of others, health problems, spiritual dullness
+- **Pride** → Disobedience, presumption, contempt for others, spiritual blindness
+- **Greed** → Theft, fraud, exploitation, hardness of heart toward the needy
+- **Lust** → Pornography, adultery, fornication, exploitation, broken families
+- **Wrath** → Violence, murder, hatred, revenge, broken relationships
+- **Sloth** → Neglect of prayer, abandonment of duties, spiritual lukewarmness, despair
+- **Envy** → Detraction, slander, schadenfreude, hatred, division
+- **Gluttony** → Drunkenness, addiction, neglect of others, health problems, spiritual dullness
 
 ### **The Progressive Nature of Deadly Sin:**
 
@@ -723,7 +603,7 @@ This is what it means to "work out your own salvation with fear and trembling" (
 
 ## Conclusion: The Mercy and Justice of God
 
-This appendix reveals the profound mercy and justice of God:
+This chapter reveals the profound mercy and justice of God:
 
 **His Justice:** Different sins receive proportional judgment. God doesn't treat a small lie the same as murder. This is just.
 
@@ -735,9 +615,21 @@ This appendix reveals the profound mercy and justice of God:
 
 The four pillars of perfect love—truth, justice, mercy, and sacrifice—provide the framework for understanding both virtue and vice, both holiness and sin. When we live these pillars, we grow in sanctity. When we deny them, we fall into sin.
 
+**Sin also breaks covenant and destroys communion.** Every mortal sin ruptures our covenant relationship with God—the sacred bond established in Baptism. It severs us from life-giving communion with the Trinity, with the Church, and even with our true selves. This is why the Sacrament of Reconciliation is so essential: it restores the covenant and rebuilds the communion that sin has destroyed.
+
 **May this understanding lead us not to fear, but to hope**—hope that by God's grace, we can grow in holiness, avoid mortal sin, reduce venial sin, and become the saints God created us to be.
 
 **"For freedom Christ has set us free; stand fast therefore, and do not submit again to a yoke of slavery"** (Galatians 5:1). We are free to choose good. We are free to grow in love. We are free to become saints.
+
+---
+
+## The Bridge to Counterfeit Love
+
+Understanding sin as a failure to love prepares us for what comes next. If personal sin is the rejection of truth, justice, mercy, and sacrifice in our individual hearts, **counterfeit love is the same rejection systematized into ideologies, movements, and cultural norms.**
+
+Every ideology that denies objective truth, every movement that distorts justice, every cultural trend that refuses sacrifice—these are personal sins writ large. They are the collective failure to love, dressed up in appealing language and marketed as liberation.
+
+The next chapter will examine these counterfeits systematically, showing how each eliminates or distorts essential components of God's Perfect Love. The same diagnostic framework we've used here—testing against truth, justice, mercy, and sacrifice—will expose why these counterfeits fail and why only authentic love can answer the problem of evil.
 
 ---
 

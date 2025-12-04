@@ -145,7 +145,7 @@ This changes everything. If God IS love, then:
 
 When we love authentically, we're not just being nice or following social norms. We're participating in the very life of God.
 
-When Scripture says we're created in God's image (Genesis 1:27), it means we're created with the capacity to participate in this divine love. We're not just biological organisms with useful social instincts. We're beings capable of knowing truth, choosing freely, loving sacrificially, and entering into communion—all reflections of God's own nature.
+Scripture declares: "So God created man in his own image, in the image of God he created him; male and female he created them" (Genesis 1:27). This means we're created with the capacity to participate in divine love. We're not just biological organisms with useful social instincts. We're beings capable of knowing truth, choosing freely, loving sacrificially, and entering into communion—all reflections of God's own nature.
 
 St. Peter makes this explicit: "His divine power has granted to us all things that pertain to life and godliness... that through these you may escape from the corruption that is in the world because of passion, and become partakers of the divine nature" (2 Peter 1:3-4). We don't just imitate God's love from a distance. We actually participate in it. When we love authentically, God's own love flows through us.
 
