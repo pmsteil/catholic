@@ -40,7 +40,7 @@ Truth Incarnate was murdered by a world built on lies. And those same lies are k
 
 We need to return to the origin of love: One, Holy, all-loving God. Only the Whole Truth can heal our fractured society. Only Holy Truth can restore what we were made for—communion with God, with each other, and with our true selves.
 
-This chapter will reveal how participating in God's Perfect Love, rooted in this Holy Truth, is the only way to heal and save our society. Because love isn't just about being nice or feeling good. Love is about communion—life-giving union with God and others that makes us fully alive.
+In the previous chapter, we saw that sacrifice is love made visible—the costly self-gift that proves love is real. But sacrifice isn't an end in itself. It's the means by which love creates something new. This chapter will reveal how participating in God's Perfect Love, rooted in this Holy Truth, is the only way to heal and save our society. Because love isn't just about being nice or feeling good. Love is about communion—life-giving union with God and others that makes us fully alive.
 
 
 ## God IS Communion
@@ -102,6 +102,8 @@ This is why family rejection is so utterly devastating. It's not just emotional 
 Children know they belong before anyone tells them. They know their place in the family is not conditional on performance. They know communion should be permanent—that you can't stop being someone's child any more than you can stop being yourself. And when that belonging is revoked, when they're cast out of the communion they were born into, they feel the violation at the deepest level of their being.
 
 This is what happens when communion is shattered: not just pain, but exile. Not just hurt, but the loss of one's place in the world.
+
+But here's the hope: What children know instinctively about belonging points to what we were made for—wholeness, completeness, perfect communion. The wound of exile reveals the glory of what should be.
 
 ## "Be Perfect": What Jesus Really Meant
 
@@ -168,13 +170,7 @@ Now we can see how love—God's Perfect Love—creates life-giving communion in 
 
 The most obvious way love is life-giving is through procreation. Marriage is ordered toward children—not as its only purpose, but as its natural fruit. This is why the Church insists that the unitive and procreative aspects of sexuality cannot be separated. They're two aspects of one reality—love that unites and creates.
 
-Contraception violates this reality by separating what God has joined. It says "I want the pleasure of union but not the responsibility of life." It treats fertility as a disease to be suppressed rather than a gift to be received. It turns the marriage act into mutual use rather than mutual self-gift.
-
-Abortion is even worse—it destroys life already created, the ultimate anti-life act. The child in the womb is not "potential life" but actual life, made in God's image, with infinite dignity and worth. To kill that child is to reject the life-giving nature of love itself.
-
-The Culture of Death our society has embraced—contraception, abortion, euthanasia, assisted suicide—treats life as a problem to be solved rather than a gift to be cherished. It sees children as burdens, the elderly as useless, the disabled as less than human. It's the opposite of communion—it's isolation, consumption, death.
-
-The Church's teaching isn't arbitrary or outdated. It's protecting the truth that love creates life, that sexuality is sacred precisely because it participates in God's creative power, that children are gifts not burdens. Marriage exists for the children—to give them a mother and father united in covenant love, to welcome them into a communion of persons that images the Trinity.
+The Culture of Death our society has embraced—contraception, abortion, euthanasia, assisted suicide—treats life as a problem to be solved rather than a gift to be cherished. It separates what God has joined, destroys life already created, and sees children as burdens rather than blessings. The Church's teaching protects the truth that love creates life, that sexuality is sacred precisely because it participates in God's creative power. Marriage exists for the children—to give them a mother and father united in covenant love, to welcome them into a communion of persons that images the Trinity.
 
 ### Spiritual Fruitfulness: All Vocations Called to Bear Fruit
 
@@ -202,7 +198,7 @@ And what I discovered was this:
 
 **The Eucharist is WHERE the entire definition becomes REAL in body, heart, mind, and soul:**
 
-**Body:** We physically consume Christ's Body and Blood—not spiritual metaphor but physical reality. Your body receives His Body. Your blood mingles with His Blood. This is the most intimate physical union possible—God entering into you, becoming one with you at the cellular level.
+**Body:** We physically consume Christ's Body and Blood—not spiritual metaphor but physical reality. Your body receives His Body. Your life is united with His life. This is the most intimate union possible—God entering into you, becoming one with you in a way that transcends mere physical contact.
 
 **Heart:** Our love united with His love in the most intimate union possible. Your heart, which so often loves poorly and selfishly, is united with the Sacred Heart that loves perfectly. His love becomes your love. His desires become your desires.
 
@@ -229,7 +225,7 @@ The Church knew this all along. Sacred Tradition preserved this truth for 2,000 
 
 "For just as the body is one and has many members, and all the members of the body, though many, are one body, so it is with Christ" (1 Corinthians 12:12).
 
-This is what it means to be a Christian society, a covenant people. Not just individuals who happen to believe the same things, but souls bound together in life-giving communion, each serving their purpose as part of the entire Body. When one member suffers, all suffer. When one rejoices, all rejoice (1 Corinthians 12:26). We are truly one—not through human effort, but through the Holy Spirit binding our souls together in love.
+We are not isolated individuals who happen to believe the same things. We are souls bound together in life-giving communion, each serving our purpose as part of the entire Body.
 
 ### Our Souls Are Dependent on One Another
 
@@ -242,16 +238,6 @@ This is why practicing truth, justice, mercy, and sacrifice isn't just about bei
 But when we live these virtues sacrificially, we're weaving ourselves into the Body of Christ. Our souls connect to other souls in deep, meaningful ways. We're not isolated individuals but members of a living body, dependent on each other, strengthening each other, loving each other with Christ's own love flowing through us.
 
 This is what it means to be a Christian society, a covenant people—souls bound together in life-giving communion, each serving their purpose as part of the entire Body. When one member suffers, all suffer. When one rejoices, all rejoice (1 Corinthians 12:26). We are truly one through the Holy Spirit binding our souls together in love.
-
-## The Scandal of Division
-
-Jesus prayed "that they may all be one" (John 17:21)—yet our divisions wound His Body.
-
-The devil wants nothing more than denominations and arguments over truth. If there is no truth, he need not worry—chaos serves his purposes.
-
-Every Christian division is a scandal that contradicts the Gospel. Unity doesn't mean uniformity, but it requires submission to truth. The Catholic Church's claim: Christ established ONE Church with authority to preserve truth. Our call: Work for unity (communion) while never compromising truth because love requires truth.
-
-This is painful. Many good, sincere Christians are separated from full communion with the Catholic Church. Many have been hurt by Catholics. Many have legitimate questions about Catholic teaching. But the scandal remains: Christ prayed for unity, and we are divided. The path forward is humbly seeking the truth together—because truth is sacred, it comes from God—trusting that Christ will lead us to the unity He prayed for, working for communion while never compromising the truth that makes communion possible.
 
 ### Eternal: Covenant Communion of Saints
 
@@ -268,6 +254,16 @@ When you pray, you pray with all the saints. When you suffer, you suffer with Ch
 All of this points to the ultimate goal: the Beatific Vision—seeing God face to face in perfect communion. "For now we see in a mirror dimly, but then face to face. Now I know in part; then I shall understand fully, even as I have been fully understood" (1 Corinthians 13:12).
 
 This is what we're made for. This is where love leads. This is the end—perfect, complete, eternal communion with God and all the saints. Not losing ourselves but finding ourselves. Not being absorbed into God but being fully united to Him while remaining fully ourselves. Perfect communion. Perfect love. Perfect life.
+
+## The Scandal of Division
+
+Jesus prayed "that they may all be one" (John 17:21)—yet our divisions wound His Body.
+
+The devil wants nothing more than denominations and arguments over truth. If there is no truth, he need not worry—chaos serves his purposes.
+
+Every Christian division is a scandal that contradicts the Gospel. Unity doesn't mean uniformity, but it requires submission to truth. The Catholic Church's claim: Christ established ONE Church with authority to preserve truth. Our call: Work for unity (communion) while never compromising truth because love requires truth.
+
+This is painful. Many good, sincere Christians are separated from full communion with the Catholic Church. Many have been hurt by Catholics. Many have legitimate questions about Catholic teaching. But the scandal remains: Christ prayed for unity, and we are divided. The path forward is humbly seeking the truth together—because truth is sacred, it comes from God—trusting that Christ will lead us to the unity He prayed for, working for communion while never compromising the truth that makes communion possible.
 
 
 ## Call to Sainthood: FOR THE CHILDREN
