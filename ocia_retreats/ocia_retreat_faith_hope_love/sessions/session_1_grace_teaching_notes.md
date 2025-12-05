@@ -55,7 +55,7 @@ That's what we're talking about today. Grace is God giving us *himself*—not ju
 - Grace flows from God the Vine to us the branches like nourishment—and the fruit we bear is the natural result of staying connected to Him. No vine? No love, no fruit, no life.
 
 **Two essential types of grace to know:**
-- **Sanctifying grace** — God's life dwelling permanently in us; received at Baptism, restored in Confession
+- **Sanctifying grace** — God's life dwelling permanently in us; initially received at Baptism, restored in Confession, and conferred in all of the Sacraments of the Church. Sanctifying grace is not a state to be in or out of; it is a way of life.
 - **Actual grace** — God's help in specific moments to do good and avoid evil
 
 
@@ -84,13 +84,13 @@ Grace is the foundation of everything else we'll discuss today. Faith, hope, and
 
 The question isn't "Am I good enough for God?" The question is "Will I receive what God is offering?"
 
-Now we're going to send you to spend time with Jesus in the Sanctuary. As you sit before him in the Blessed Sacrament, bring to him whatever is on your heart about grace—your need for it, your struggle to receive it, your gratitude for it. Just be with him.
+Now we're going to take time for prayer with Jesus. Bring to him whatever is on your heart about grace—your need for it, your struggle to receive it, your gratitude for it. Just be with him.
 
 **Let us pray**
 
-> Lord Jesus, you have taught us about your grace—your very life poured out for us. Now send us to sit at your feet. As we enter your presence in the Blessed Sacrament, open our hearts to receive what we cannot earn. Help us to simply be with you, the Vine, so that your life may flow into us, the branches. We go now to receive your Grace. In your holy name we pray. Amen.
+> Lord Jesus, you have taught us about your grace—your very life poured out for us. Now we take time to sit at your feet in prayer. Open our hearts to receive what we cannot earn. Help us to simply be with you, the Vine, so that your life may flow into us, the branches. In your holy name we pray. Amen.
 
-*Please proceed quietly to the Sanctuary.*
+*Please take this time for quiet prayer.*
 
 ---
 

@@ -4,16 +4,14 @@
 
 | Time | Activity | Location |
 |------|----------|----------|
-| 8:00 AM | Welcome & Introduction | Parish Hall |
-| 8:30 AM | Rosary | Sanctuary |
-| 9:00 AM | Mass | Sanctuary |
-| 10:00 AM | **Session 1: Grace** | Parish Hall → Sanctuary → Parish Hall |
-| 11:15 AM | **Session 2: Faith** | Parish Hall → Sanctuary → Parish Hall |
-| 12:30 PM | Lunch | Parish Hall |
-| 1:00 PM | **Session 3: Hope** | Parish Hall → Sanctuary → Parish Hall |
-| 2:15 PM | **Session 4: Love** | Parish Hall → Sanctuary → Parish Hall |
-| 3:30 PM | Closing Session | Sanctuary |
-| 4:30 PM | Retreat Ends | — |
+| 9:00 AM | Welcome & Introduction | Parish Hall |
+| 9:30 AM | Session 1: Grace | Parish Hall & Sanctuary |
+| 10:45 AM | Session 2: Faith | Parish Hall & Sanctuary |
+| 12:00 PM | Lunch | Parish Hall |
+| 12:30 PM | Session 3: Hope | Parish Hall & Sanctuary |
+| 1:45 PM | Session 4: Love | Parish Hall & Sanctuary |
+| 3:00 PM | Closing Remarks & Prayer | Parish Hall |
+| 3:30 PM | Retreat Ends | — |
 
 
 ## Session Format

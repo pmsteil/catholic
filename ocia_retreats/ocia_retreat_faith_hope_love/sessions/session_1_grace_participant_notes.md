@@ -57,7 +57,7 @@ _______________________________________________________________________________
 - We can **cooperate** with grace or **resist** it—God respects our freedom
 
 **Two essential types of grace:**
-- **Sanctifying grace** — God's life dwelling permanently in us; received at Baptism, restored in Confession
+- **Sanctifying grace** — God's life dwelling permanently in us; initially received at Baptism, restored in Confession, and conferred in all of the Sacraments of the Church. Sanctifying grace is not a state to be in or out of; it is a way of life.
 - **Actual grace** — God's help in specific moments to do good and avoid evil
 
 **My Notes:**

@@ -101,13 +101,13 @@ Faith is saying "yes" to God—yes to his existence, yes to his revelation, yes 
 
 The father in Mark's Gospel gives us the perfect prayer: *"I believe; help my unbelief!"* That's where most of us live—somewhere between belief and doubt. And Jesus doesn't reject that. He works with it.
 
-Now we're going to send you to spend time with Jesus in the Sanctuary. As you sit before him in the Blessed Sacrament, bring to him whatever is stirring in your heart about faith—your doubts, your questions, your desire to trust more deeply. Just be with him.
+Now we're going to take time for prayer with Jesus. Bring to him whatever is stirring in your heart about faith—your doubts, your questions, your desire to trust more deeply. Just be with him.
 
 **Let us pray**
 
-> Lord Jesus, you are the Way, the Truth, and the Life. We have heard your call to faith—to trust in you, not just to know about you. Now send us into your presence. As we sit before you in the Blessed Sacrament, help us to bring our doubts, our fears, and our unbelief. Meet us there. Increase our faith. We go now to be with you, the One in whom we place our trust. In your holy name we pray. Amen.
+> Lord Jesus, you are the Way, the Truth, and the Life. We have heard your call to faith—to trust in you, not just to know about you. Now we take time for prayer in your presence. Help us to bring our doubts, our fears, and our unbelief. Meet us there. Increase our faith. We come now to be with you, the One in whom we place our trust. In your holy name we pray. Amen.
 
-*Please proceed quietly to the Sanctuary.*
+*Please take this time for quiet prayer.*
 
 ---
 

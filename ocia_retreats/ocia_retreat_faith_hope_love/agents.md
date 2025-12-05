@@ -23,7 +23,7 @@ These participants have completed the inquiry/pre-evangelization phase and are n
 6. **The Answer Incarnate: Jesus Christ**
 7. **The Answer Lives On: The Church & 4 Marks of the Church**
 8. **A Trustworthy Answer: Revelation, Scripture & Tradition**
-9. **The Heart of the Answer: The Mass and Church Tour**
+
 10. **Our Family in the Answer: Mary and The Communion of Saints**
 11. **The Sacramental Economy**
 
@@ -36,7 +36,7 @@ Participants already understand:
 - God's covenant plan culminating in Christ
 - The Church as Christ's continuing presence
 - Scripture and Tradition as trustworthy revelation
-- The Mass as the heart of Catholic life
+
 - Mary and the saints as our spiritual family
 - The sacraments as channels of grace
 
@@ -79,10 +79,7 @@ These are called "theological" because:
 ### Fixed Schedule Elements
 | Time | Event | Location | Notes |
 |------|-------|----------|-------|
-| 8:00 AM | Retreat Begins | Parish Hall | Welcome & Introduction (no breakfast) |
-| 8:30 AM | Rosary | Sanctuary | Communal prayer |
-| 9:00 AM | Mass | Sanctuary | Open to public; all retreatants attend |
-| ~9:50 AM | Exposition Begins | Sanctuary | Blessed Sacrament exposed for remainder of day |
+| 9:00 AM | Retreat Begins | Parish Hall | Welcome & Introduction (no breakfast) |
 | 4:30 PM | Retreat Ends | — | Hard stop |
 
 ### Session Format
@@ -181,6 +178,46 @@ This definition helps participants understand that:
 - **Love creates communion** - relationship with God and neighbor
 
 The theological virtues are God's gifts that enable us to receive and participate in this perfect love.
+
+
+## Build Script (`bin/build`)
+
+The `bin/build` script generates formatted HTML guides from the markdown source files. It compiles session content, devotionals, and supporting materials into printable guides for different audiences.
+
+### Usage
+
+```bash
+uv run bin/build              # Build all guides (HTML only, opens in browser)
+uv run bin/build participant  # Build only Participant Guide
+uv run bin/build facilitator  # Build only Facilitator Guide
+uv run bin/build table_leader # Build only Table Leader Guide
+uv run bin/build --docx       # Also generate DOCX files
+uv run bin/build --pdf        # Also generate PDF files
+uv run bin/build --all        # Generate HTML, DOCX, and PDF
+```
+
+### Output Guides
+
+| Guide | Theme | Contents |
+|-------|-------|----------|
+| **Participant Guide** | Blue | Schedule overview, participant notes (Sessions 0-4), devotionals, closing, notes page |
+| **Facilitator Guide** | Maroon/Red | Full overview, schedule, setup guide, teaching notes, group discussions, devotionals, facilitator tips |
+| **Table Leader Guide** | Green | Subset of Facilitator Guide — teaching notes, discussions, devotionals (excludes setup guide and facilitator-only tips) |
+
+### Output Location
+
+All generated files are saved to: `output/`
+- `Participant_Guide.html` (+ `.docx`/`.pdf` if requested)
+- `Facilitator_Guide.html` (+ `.docx`/`.pdf` if requested)
+- `Table_Leader_Guide.html` (+ `.docx`/`.pdf` if requested)
+
+### Requirements
+
+The build script uses `uv` to manage Python dependencies automatically. For DOCX/PDF generation:
+
+```bash
+brew install pandoc        # For DOCX/PDF generation (macOS)
+```
 
 
 *Project initiated: November 28, 2025*

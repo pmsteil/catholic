@@ -149,13 +149,13 @@ Jesus said: *"By this all men will know that you are my disciples, if you have l
 
 Not by your knowledge. Not by your attendance. Not by your feelings. By your love.
 
-Now we're going to send you to spend time with Jesus in the Sanctuary. As you sit before him in the Blessed Sacrament—Love Incarnate—bring to him whatever is stirring in your heart. Ask him to help you receive his love and to love as he loves. Just be with him.
+Now we're going to take time for prayer with Jesus—Love Incarnate. Bring to him whatever is stirring in your heart. Ask him to help you receive his love and to love as he loves. Just be with him.
 
 **Let us pray**
 
-> Lord Jesus, you are Love Incarnate—God who IS love, made visible in human flesh. We have heard your command to love as you have loved us. Now send us into your presence. As we sit before you in the Blessed Sacrament, help us first to receive your love, so that we may have love to give. Soften our hearts toward those we find hard to love. Set us on fire with the love that casts out fear. We go now to be with the One who loved us to the end. In your holy name we pray. Amen.
+> Lord Jesus, you are Love Incarnate—God who IS love, made visible in human flesh. We have heard your command to love as you have loved us. Now we take time for prayer in your presence. Help us first to receive your love, so that we may have love to give. Soften our hearts toward those we find hard to love. Set us on fire with the love that casts out fear. We come now to be with the One who loved us to the end. In your holy name we pray. Amen.
 
-*Please proceed quietly to the Sanctuary.*
+*Please take this time for quiet prayer.*
 
 ---
 

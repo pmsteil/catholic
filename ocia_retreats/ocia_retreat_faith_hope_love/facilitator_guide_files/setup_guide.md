@@ -30,27 +30,16 @@
 ### Blessed Sacrament Exposition
 - Monstrance prepared
 - Altar of repose or main altar
-- Candles lit
 - Kneelers available
 - Chairs for those who cannot kneel
 
 ### Atmosphere
 - Dim lighting (if possible)
-- Silence maintained
-- Devotional music (optional, very soft)
-
-### Logistics
-- Clear path from Parish Hall to Sanctuary
-- Someone assigned to remain with Blessed Sacrament at all times
-- Bell/chime for signaling end of prayer time
-
-
-## Timeline Checklist
 
 ### Day Before
 - [ ] Print Participant Guides
 - [ ] Print Facilitator Guide
-- [ ] Confirm with priest for Mass and Exposition
+
 - [ ] Test any A/V equipment
 - [ ] Prepare hospitality supplies
 
@@ -59,7 +48,7 @@
 - [ ] Set up chairs in Parish Hall
 - [ ] Set up hospitality station
 - [ ] Place Participant Guides at seats or welcome table
-- [ ] Prepare Sanctuary for Rosary and Mass
+
 - [ ] Brief prayer with team
 
 ### During Retreat

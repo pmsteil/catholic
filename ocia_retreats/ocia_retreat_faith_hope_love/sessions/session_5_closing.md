@@ -1,102 +1,50 @@
-# Benediction
+# Session 5: Closing
 
-*The closing of Eucharistic Adoration with the traditional Benediction rite.*
+*A time to reflect on the day and send participants forth with a blessing.*
 
----
+## Closing Remarks (10 minutes)
 
-## The Divine Praises
+**Gather everyone in the Parish Hall.**
 
-*Led by the priest or deacon, with the people repeating each line:*
+\> *\"We've come to the end of our retreat. What a day this has been.\"*
 
-Blessed be God.
-Blessed be His Holy Name.
-Blessed be Jesus Christ, true God and true Man.
-Blessed be the Name of Jesus.
-Blessed be His Most Sacred Heart.
-Blessed be His Most Precious Blood.
-Blessed be Jesus in the Most Holy Sacrament of the Altar.
-Blessed be the Holy Spirit, the Paraclete.
-Blessed be the great Mother of God, Mary most Holy.
-Blessed be her Holy and Immaculate Conception.
-Blessed be her Glorious Assumption.
-Blessed be the name of Mary, Virgin and Mother.
-Blessed be St. Joseph, her most chaste spouse.
-Blessed be God in His Angels and in His Saints.
+**Invite brief sharing (optional):**
 
----
+\> *\"Before we close, I'd like to invite anyone who feels moved to share—in just a sentence or two—one thing God spoke to your heart today. What will you take with you from this retreat?\"*
 
-## Tantum Ergo
+*Allow 2-3 people to share briefly. Keep it short and focused.*
 
-*Sung or recited as the priest prepares to bless the people with the Blessed Sacrament:*
 
-**Tantum ergo Sacraméntum**
-**Venerémur cérnui:**
-**Et antíquum documéntum**
-**Novo cedat rítui:**
-**Præstet fides suppleméntum**
-**Sénsuum deféctui.**
+## Closing Prayer (5 minutes)
 
-**Genitóri, Genitóque**
-**Laus et jubilátio,**
-**Salus, honor, virtus quoque**
-**Sit et benedíctio:**
-**Procedénti ab utróque**
-**Compar sit laudátio. Amen.**
+**Lead the group in a final prayer:**
 
-*English translation:*
+\> *\"Let us pray. In the name of the Father, and of the Son, and of the Holy Spirit. Amen.\"*
+\>
+\> *\"Lord Jesus, thank You for this day. Thank You for Your grace that has been poured out on us. Thank You for the gift of faith, the anchor of hope, and the call to love.\"*
+\>
+\> *\"As we leave this place, go with us. Help us to live what we have received. May Your grace sustain us, Your truth guide us, and Your love transform us.\"*
+\>
+\> *\"We ask this in Your holy name, Jesus Christ our Lord. Amen.\"*
 
-*Down in adoration falling,*
-*Lo! the sacred Host we hail,*
-*Lo! oe'r ancient forms departing*
-*Newer rites of grace prevail;*
-*Faith for all defects supplying,*
-*Where the feeble senses fail.*
+**Final Blessing:**
 
-*To the everlasting Father,*
-*And the Son Who reigns on high*
-*With the Holy Spirit proceeding*
-*Forth from each eternally,*
-*Be salvation, honor, blessing,*
-*Might and endless majesty. Amen.*
+\> *\"May almighty God bless you: the Father, and the Son, and the Holy Spirit.\"*
+\>
+\> **All respond:** *\"Amen.\"*
 
----
+**Dismissal:**
 
-## The Blessing
+\> *\"Go in peace to love and serve the Lord.\"*
+\>
+\> **All respond:** *\"Thanks be to God.\"*
 
-*The priest or deacon takes the monstrance and makes the Sign of the Cross over the people in silence.*
 
-*The people bow their heads in reverence as the blessing is given.*
+## As Participants Leave
 
----
-
-## Reposition
-
-*After the blessing, the Blessed Sacrament is reposed in the tabernacle.*
-
-*The people may sing or recite:*
-
-**Holy God, We Praise Thy Name**
-
-Holy God, we praise Thy name;
-Lord of all, we bow before Thee!
-All on earth Thy scepter claim,
-All in Heaven above adore Thee;
-Infinite Thy vast domain,
-Everlasting is Thy reign.
-
-Hark! the loud celestial hymn
-Angel choirs above are raising,
-Cherubim and seraphim,
-In unceasing chorus praising;
-Fill the heavens with sweet accord:
-Holy, holy, holy, Lord.
-
-Holy Father, Holy Son,
-Holy Spirit, Three we name Thee;
-While in essence only One,
-Undivided God we claim Thee;
-And adoring bend the knee,
-While we own the mystery.
+- Thank each person individually as they leave
+- Remind them to take their participant guides
+- Encourage them to continue reflecting on what they experienced today
 
 ---
 
@@ -105,7 +53,7 @@ While we own the mystery.
 *The priest or retreat leader may add:*
 
 Lord Jesus Christ,
-you have fed us with your Word and Sacrament throughout this day.
+you have fed us with your Word throughout this day.
 You have poured out your grace upon us
 and strengthened our faith, hope, and love.
 

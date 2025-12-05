@@ -26,59 +26,55 @@ This opening session accomplishes three essential goals:
 
 Good morning and welcome to our retreat on Grace and the Theological Virtues. Today is not primarily about learning information—though you will learn. Today is about *encounter*. We want you to meet Jesus in a deeper way and to receive what He wants to give you.
 
-### The Day's Schedule (3 minutes)
+## Purpose
 
-*Walk through the day:*
-
-Here's what our day looks like:
-
-**Morning Foundation:**
-- **8:00 AM** — We're here now, setting the foundation
-- **8:30 AM** — We'll move to the Sanctuary to pray the Rosary together
-- **9:00 AM** — Mass (open to the public—this is the heart of our day)
-- **9:50 AM** — Short break
-
-**Four Teaching Sessions:**
-After Mass, we'll have four teaching sessions:
-1. **Session 1: Grace** — God's Gift of Himself
-2. **Session 2: Faith** — Believing in Love
-3. **Session 3: Hope** — Trusting in Love's Promise
-4. **Session 4: Love** — Participating in God's Life
-
-**Lunch:** 12:30 PM (30 minutes)
-
-**Closing:** 3:30 PM — Integration and commissioning in the Sanctuary
-
-**End:** 4:30 PM (hard stop)
-
-### The Rhythm of Each Session (3 minutes)
-
-*Explain the teaching-prayer-discussion pattern:*
-
-Each teaching session follows the same rhythm:
-
-1. **30 minutes of Teaching** — Here in the Parish Hall, we'll explore each virtue together
-2. **25 minutes of Prayer with Jesus** — We'll move to the Sanctuary where the Blessed Sacrament will be exposed. This is your time to talk directly to Jesus about what you've heard.
-3. **20 minutes of Group Discussion** — We'll return here to share what struck us during our time with Jesus
-
-*Emphasize the prayer time:*
-
-**This is important:** The prayer time is not a break. It's the most important part of each session.
-
-After each teaching, we're going to ask you to go to Jesus and talk to Him about what He's inviting you to. A deeper faith. A stronger hope. A more complete love.
-
-Don't just think about what you learned—*bring it to Him*. Ask Him questions. Tell Him your struggles. Listen for His voice in the silence.
-
-The Blessed Sacrament will be exposed after Mass, which means Jesus is truly present—Body, Blood, Soul, and Divinity. You're not praying to a symbol. You're sitting with a Person who loves you and wants to speak to your heart.
+This opening session sets the tone for the entire retreat. We want participants to feel welcomed, oriented, and spiritually prepared for the day ahead. This is not just logistics—it's the beginning of an encounter with Jesus.
 
 
-## Part 2: What Is a Virtue? (5 minutes)
+## Opening (5 minutes)
+
+**Welcome everyone warmly.** Make eye contact. Smile. Let them know you're glad they're here.
+
+> *"Good morning! Welcome to our OCIA Retreat: Grace and the Theological Virtues. We are so glad you're here. This is going to be a special day—a day set apart to encounter Jesus in a deeper way and to reflect on the incredible gifts He offers us: grace, faith, hope, and love."*
+
+**Brief Prayer:**
+
+> *"Let's begin with a prayer. In the name of the Father, and of the Son, and of the Holy Spirit. Amen."*
+>
+> *"Lord Jesus, we thank You for bringing us together today. Open our hearts to receive what You want to give us. Help us to be present, to listen, and to encounter You in a new way. We ask this in Your holy name. Amen."*
+
+
+## Overview of the Day (10 minutes)
+
+**Explain the flow of the retreat:**
+
+- **9:00 AM** — We're here now, setting the foundation
+
+After this welcome, we'll have four teaching sessions:
+1. **Grace** — The foundation of everything
+2. **Faith** — Our response to God's gift
+3. **Hope** — Trusting in God's promises
+4. **Love** — The destination and the journey
+
+Each session will follow the same pattern:
+- **30 minutes** of teaching
+- **25 minutes** of prayer with Jesus in the Sanctuary
+- **20 minutes** of group discussion back here in the Parish Hall
+
+**Emphasize the prayer time:**
+
+The prayer time is not just a break. It's the heart of each session. After each teaching, you'll go to the Sanctuary for 25 minutes of silent prayer. This is your time to bring what you've heard to Jesus—to sit with Him, to talk to Him, to listen to Him.
+
+You'll have a devotional guide to help you reflect, but the most important thing is simply to be with Jesus. Speak to Him from your heart. Be honest. Be real. He's waiting for you.
+
+
+## Practical Details (5 minutes)
 
 ### The Basic Concept (2 minutes)
 
 **"So faith, hope, love remain, these three; but the greatest of these is love."** 1 Corinthians 13:13 (NABRE)
 
-This is what we are focusing on today.  The Church calls these - faith, hope and love - the theological virtues.
+This is what we are focusing on today. The Church calls these - faith, hope and love - the theological virtues.
 
 Before we dive into the theological virtues, let's make sure we understand what a virtue is.
 

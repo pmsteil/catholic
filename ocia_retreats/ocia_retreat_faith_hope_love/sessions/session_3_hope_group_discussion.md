@@ -1,6 +1,6 @@
 # Session 3: Hope - Group Discussion (20 minutes)
 
-*Participants return from the Sanctuary to share what God revealed to them during their time with Jesus.*
+*Participants return from prayer time to share what God revealed to them during their time with Jesus.*
 
 
 ## Opening Question: What Is God Showing You? (10 minutes)

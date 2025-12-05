@@ -108,13 +108,13 @@ By faith, we believe. In hope, we trust. And hope prepares us for love—because
 
 Hope is our helmet—it protects our minds from despair and presumption. It guards our thinking so we can live as children of the light.
 
-Now we're going to send you to spend time with Jesus in the Sanctuary. As you sit before him in the Blessed Sacrament, bring to him whatever is stirring in your heart about hope—your fears, your disappointments, your longing for something more. Just be with him.
+Now we're going to take time for prayer with Jesus. Bring to him whatever is stirring in your heart about hope—your fears, your disappointments, your longing for something more. Just be with him.
 
 **Let us pray**
 
-> Lord Jesus, you are our hope—the anchor of our souls. We have heard your promises, and we know that you are faithful. Now send us into your presence. As we sit before you in the Blessed Sacrament, anchor our hearts in you. Where we are tempted to despair, give us confidence. Where we are tempted to presume, give us holy reverence. We go now to rest in the One who keeps his promises. In your holy name we pray. Amen.
+> Lord Jesus, you are our hope—the anchor of our souls. We have heard your promises, and we know that you are faithful. Now we take time for prayer in your presence. Anchor our hearts in you. Where we are tempted to despair, give us confidence. Where we are tempted to presume, give us holy reverence. We come now to rest in the One who keeps his promises. In your holy name we pray. Amen.
 
-*Please proceed quietly to the Sanctuary.*
+*Please take this time for quiet prayer.*
 
 ---
 

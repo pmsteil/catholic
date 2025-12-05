@@ -36,7 +36,7 @@ These catechumens have already completed instruction on:
 - Jesus Christ
 - The Church and its four marks
 - Scripture and Tradition
-- The Mass
+
 - Mary and the Communion of Saints
 - The Sacramental Economy
 

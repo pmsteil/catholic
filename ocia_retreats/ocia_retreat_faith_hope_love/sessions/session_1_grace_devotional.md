@@ -120,7 +120,7 @@ _______________________________________________________________________________
 
 You have reflected. You have prayed. But the most important thing is simply to *be* with Jesus.
 
-He is here—truly present in the Blessed Sacrament before you. You don't need words. You don't need to figure anything out. Just rest in His presence. Let Him look at you with love. Speak to Him from your heart—whatever comes naturally. Or simply be still and know that He is God.
+He is here—truly present with you in prayer. You don't need words. You don't need to figure anything out. Just rest in His presence. Let Him look at you with love. Speak to Him from your heart—whatever comes naturally. Or simply be still and know that He is God.
 
 **Remain here in silence until the bell rings.**
 

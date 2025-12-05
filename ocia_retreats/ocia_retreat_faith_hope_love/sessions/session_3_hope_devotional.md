@@ -137,7 +137,7 @@ _______________________________________________________________________________
 
 You have reflected. You have prayed. But the most important thing is simply to *be* with Jesus.
 
-He is here—truly present in the Blessed Sacrament before you. You don't need to solve your problems right now. You don't need to feel hopeful. Just rest in the presence of the One who holds your future. Speak to Him from your heart—your fears, your weariness, your longing for something more. Or simply be still and let His peace wash over you.
+He is here—truly present with you in prayer. You don't need to solve your problems right now. You don't need to feel hopeful. Just rest in the presence of the One who holds your future. Speak to Him from your heart—your fears, your weariness, your longing for something more. Or simply be still and let His peace wash over you.
 
 **Remain here in silence until the bell rings.**
 
