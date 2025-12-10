@@ -55,6 +55,27 @@ ANTHROPIC_MODEL_MAP = {
     "haiku": "claude-haiku-4-20250514",
 }
 
+# Priority mapping for recommendations
+PRIORITY_MAP = {
+    1: {"label": "HIGH", "class": "priority-high", "icon": "🔴", "color": "#DC2626"},
+    2: {"label": "REC", "class": "priority-rec", "icon": "🟡", "color": "#D97706"},
+    3: {"label": "OPT", "class": "priority-opt", "icon": "🔵", "color": "#2563EB"},
+}
+
+
+def get_priority_info(priority: int) -> dict:
+    """Get priority display information for a given priority level."""
+    return PRIORITY_MAP.get(priority, PRIORITY_MAP[3])  # Default to OPT if unknown
+
+
+def sort_recommendations_by_priority(recommendations: List[Any]) -> List[Any]:
+    """Sort recommendations by priority (1=HIGH first, then 2=REC, then 3=OPT)."""
+    def get_priority(rec):
+        if isinstance(rec, dict):
+            return rec.get("priority", 3)
+        return 3  # Default to OPT for legacy string recommendations
+    return sorted(recommendations, key=get_priority)
+
 
 def get_env_file_path() -> Path:
     """Get the path to .env.local file in the chapters directory."""
@@ -349,11 +370,20 @@ def find_agent_workflow(agent_name: str, base_dir: Path) -> Path:
     sys.exit(1)
 
 
-def get_next_review_filename(agent_name: str, output_dir: Path) -> Path:
-    """Get the next available review filename (never overwrite)."""
+def get_next_review_filename(agent_name: str, output_dir: Path, chapter_name: str = None) -> Path:
+    """Get the next available review filename (never overwrite).
+
+    If chapter_name is provided, includes it in the filename for per-chapter reports.
+    """
     counter = 1
     while True:
-        filename = output_dir / f"{agent_name}-review{counter}.html"
+        if chapter_name:
+            # Per-chapter report: AGENT-chapter_name-review1.html
+            base_name = chapter_name.replace('.md', '')
+            filename = output_dir / f"{agent_name}-{base_name}-review{counter}.html"
+        else:
+            # Combined report: AGENT-review1.html
+            filename = output_dir / f"{agent_name}-review{counter}.html"
         if not filename.exists():
             return filename
         counter += 1
@@ -377,7 +407,7 @@ IMPORTANT: Return your response in the following JSON format:
         {{"check": "Check name", "issue": "Description of the problem", "location": "Line/section reference if applicable"}}
     ],
     "summary": "Brief summary of the review",
-    "recommendations": ["List of recommendations for improvement"]
+    "recommendations": ["List of final recommendations for improvement of the chapter based on all failed_checks"]
 }}
 
 Perform the review thoroughly and return ONLY the JSON object."""
@@ -635,12 +665,26 @@ def display_results(results: List[Dict[str, Any]], agent_name: str):
 
                     console.print(table)
 
-                # Recommendations
+                # Recommendations (with priority support)
                 recommendations = result.get("recommendations", [])
                 if recommendations:
                     console.print("[sacred]📿 Recommendations:[/sacred]")
-                    for rec in recommendations:
-                        console.print(f"  • {rec}")
+                    sorted_recs = sort_recommendations_by_priority(recommendations)
+                    for rec in sorted_recs:
+                        if isinstance(rec, dict):
+                            # New priority-based format
+                            priority = rec.get("priority", 3)
+                            priority_info = get_priority_info(priority)
+                            location = rec.get("location", "")
+                            issue = rec.get("issue", "")
+                            console.print(f"  {priority_info['icon']} [{priority_info['label']}] {location}: {issue}")
+                            if rec.get("original"):
+                                console.print(f"      [dim]Original:[/dim] {rec['original'][:80]}...")
+                            if rec.get("suggested"):
+                                console.print(f"      [dim]Suggested:[/dim] {rec['suggested'][:80]}...")
+                        else:
+                            # Legacy string format
+                            console.print(f"  • {rec}")
 
                 console.print("─" * 80)
 
@@ -889,6 +933,76 @@ def save_html_report(results: List[Dict[str, Any]], agent_name: str, output_file
             margin: 15px 0;
         }
 
+        /* Priority-based styling */
+        .priority-high {
+            border-left: 4px solid #DC2626;
+            padding-left: 12px;
+            margin: 8px 0;
+        }
+
+        .priority-high .priority-label {
+            color: #DC2626;
+            font-weight: bold;
+        }
+
+        .priority-rec {
+            border-left: 4px solid #D97706;
+            padding-left: 12px;
+            margin: 8px 0;
+        }
+
+        .priority-rec .priority-label {
+            color: #D97706;
+        }
+
+        .priority-opt {
+            border-left: 4px solid #2563EB;
+            padding-left: 12px;
+            margin: 8px 0;
+        }
+
+        .priority-opt .priority-label {
+            color: #2563EB;
+        }
+
+        .recommendation-item {
+            background: white;
+            padding: 12px;
+            margin: 10px 0;
+            border-radius: 4px;
+        }
+
+        .recommendation-item .location {
+            font-family: monospace;
+            color: #666;
+            font-size: 0.9em;
+        }
+
+        .recommendation-item .issue {
+            font-weight: bold;
+            margin: 5px 0;
+        }
+
+        .recommendation-item .original {
+            background: #fee2e2;
+            padding: 8px;
+            border-radius: 3px;
+            margin: 5px 0;
+            font-family: monospace;
+            font-size: 0.9em;
+            white-space: pre-wrap;
+        }
+
+        .recommendation-item .suggested {
+            background: #dcfce7;
+            padding: 8px;
+            border-radius: 3px;
+            margin: 5px 0;
+            font-family: monospace;
+            font-size: 0.9em;
+            white-space: pre-wrap;
+        }
+
         .conclusion {
             background: var(--light-bg);
             border: 2px solid var(--purple);
@@ -1058,18 +1172,41 @@ def save_html_report(results: List[Dict[str, Any]], agent_name: str, output_file
         </table>
 """)
 
-            # Recommendations
+            # Recommendations (with priority support)
             recommendations = result.get("recommendations", [])
             if recommendations:
+                sorted_recs = sort_recommendations_by_priority(recommendations)
                 f.write("""        <div class="recommendations">
-            <h4>📿 Recommendations</h4>
-            <ul>
+            <h4>📿 Recommendations (sorted by priority)</h4>
 """)
-                for rec in recommendations:
-                    rec_html = rec.replace("<", "&lt;").replace(">", "&gt;")
-                    f.write(f"""                <li>{rec_html}</li>\n""")
-                f.write("""            </ul>
-        </div>
+                for rec in sorted_recs:
+                    if isinstance(rec, dict):
+                        # New priority-based format
+                        priority = rec.get("priority", 3)
+                        priority_info = get_priority_info(priority)
+                        location = rec.get("location", "").replace("<", "&lt;").replace(">", "&gt;")
+                        issue = rec.get("issue", "").replace("<", "&lt;").replace(">", "&gt;")
+                        original = rec.get("original", "").replace("<", "&lt;").replace(">", "&gt;")
+                        suggested = rec.get("suggested", "").replace("<", "&lt;").replace(">", "&gt;")
+
+                        f.write(f"""            <div class="recommendation-item {priority_info['class']}">
+                <span class="priority-label">{priority_info['icon']} {priority_info['label']}</span>
+                <span class="location">{location}</span>
+                <div class="issue">{issue}</div>
+""")
+                        if original:
+                            f.write(f"""                <div class="original"><strong>Original:</strong> {original}</div>\n""")
+                        if suggested:
+                            f.write(f"""                <div class="suggested"><strong>Suggested:</strong> {suggested}</div>\n""")
+                        f.write("""            </div>\n""")
+                    else:
+                        # Legacy string format
+                        rec_html = str(rec).replace("<", "&lt;").replace(">", "&gt;")
+                        f.write(f"""            <div class="recommendation-item priority-opt">
+                <span class="priority-label">🔵 OPT</span>
+                <div class="issue">{rec_html}</div>
+            </div>\n""")
+                f.write("""        </div>
 """)
 
             f.write("""    </div>
@@ -1078,7 +1215,7 @@ def save_html_report(results: List[Dict[str, Any]], agent_name: str, output_file
         # Summary of issues
         if failed > 0 or errors > 0:
             f.write("""
-    <h2>Summary of Issues Requiring Attention</h2>
+    <h2>The following Issues Require Attention</h2>
     <p>The following chapters require corrections before final approval:</p>
 """)
 
@@ -1089,13 +1226,13 @@ def save_html_report(results: List[Dict[str, Any]], agent_name: str, output_file
                     f.write(f"""
     <div class="chapter-section failed">
         <h3>{chapter_name}</h3>
-        <ul>
+        <ol>
 """)
                     for check in failed_checks:
                         check_name = check.get("check", "Unknown").replace("<", "&lt;").replace(">", "&gt;")
                         issue = check.get("issue", "No details").replace("<", "&lt;").replace(">", "&gt;")
                         f.write(f"""            <li><strong>{check_name}:</strong> {issue}</li>\n""")
-                    f.write("""        </ul>
+                    f.write("""        </ol>
     </div>
 """)
 
@@ -1142,17 +1279,14 @@ Generates professional HTML reports suitable for Bishop's office submission.""",
         epilog="""
 Examples:
   # Review all chapters
-  %(prog)s CCCR
-  %(prog)s DOCTRINE
+  %(prog)s CCC
+  %(prog)s COMPREHENSIVE
 
   # Review specific chapters
-  %(prog)s CCCR chapter_01.md
-  %(prog)s DOCTRINE chapter_01.md chapter_02.md chapter_03.md
+  %(prog)s CCC chapter_01.md
+  %(prog)s COMPREHENSIVE chapter_01.md chapter_02.md chapter_03.md
 
-Available Agents:
-  CCCR      - Catechism of the Catholic Church quote reviewer
-  DOCTRINE  - Doctrinal accuracy reviewer
-  SCRIBE    - Writing & grammar reviewer
+Available Agents located in .agents folder.
 
 Models:
   opus      - Claude Opus 4.5 (most capable, higher cost)
@@ -1176,7 +1310,7 @@ Ad Maiorem Dei Gloriam ✟
     )
     parser.add_argument(
         "agent_name",
-        help="Name of the agent to use (e.g., CCCR, DOCTRINE, SCRIBE)"
+        help="Name of the agent to use (e.g., CCC, COMPREHENSIVE, CONCISE)"
     )
     parser.add_argument(
         "chapters",
@@ -1265,9 +1399,16 @@ Ad Maiorem Dei Gloriam ✟
         console.print("[success]Anthropic API ready[/success]")
         console.print()
 
+    # Determine if we're doing per-chapter reports (specific chapters) or combined report (all chapters)
+    per_chapter_mode = bool(args.chapters)
+
     # Process chapters with progress bar
     results = []
-    output_file = get_next_review_filename(args.agent_name, output_dir)
+    output_files = []  # Track all output files for per-chapter mode
+
+    # For combined mode, get a single output file
+    if not per_chapter_mode:
+        output_file = get_next_review_filename(args.agent_name, output_dir)
 
     with Progress(
         SpinnerColumn(),
@@ -1348,8 +1489,15 @@ Ad Maiorem Dei Gloriam ✟
 
             progress.console.print(status_line)
 
-            # Update HTML report incrementally after each chapter
-            save_html_report(results, args.agent_name, output_file)
+            # Save report(s)
+            if per_chapter_mode:
+                # Per-chapter mode: save one report per chapter
+                chapter_output_file = get_next_review_filename(args.agent_name, output_dir, chapter.name)
+                save_html_report([result], args.agent_name, chapter_output_file)
+                output_files.append(chapter_output_file)
+            else:
+                # Combined mode: update the combined report incrementally
+                save_html_report(results, args.agent_name, output_file)
 
             progress.advance(task)
 
@@ -1357,14 +1505,6 @@ Ad Maiorem Dei Gloriam ✟
 
     # Display results
     display_results(results, args.agent_name)
-
-    # Save final report without version number
-    final_file = final_dir / f"{args.agent_name}.html"
-    save_html_report(results, args.agent_name, final_file)
-
-    # HTML report already saved incrementally during processing
-    console.print(f"[info]Versioned report:[/info] [chapter]{output_file}[/chapter]")
-    console.print(f"[info]Latest report:[/info] [chapter]{final_file}[/chapter]")
 
     # Calculate total token usage and cost
     total_input_tokens = sum(r.get("_metadata", {}).get("input_tokens", 0) for r in results)
@@ -1375,13 +1515,26 @@ Ad Maiorem Dei Gloriam ✟
 
     console.print()
 
-    # Format the summary message
-    summary_msg = f"[success]✓ Review Complete[/success]\n"
-    summary_msg += f"[info]Versioned:[/info] [chapter]reports/{output_file.name}[/chapter]\n"
-    summary_msg += f"[info]Latest:[/info] [chapter]reports/final/{final_file.name}[/chapter]\n\n"
+    if per_chapter_mode:
+        # Per-chapter mode: show each report file, no final report
+        summary_msg = "[success]✓ Review Complete[/success]\n"
+        summary_msg += "[info]Reports generated:[/info]\n"
+        for of in output_files:
+            summary_msg += f"  [chapter]reports/{of.name}[/chapter]\n"
+    else:
+        # Combined mode: save final report and show both
+        final_file = final_dir / f"{args.agent_name}.html"
+        save_html_report(results, args.agent_name, final_file)
+
+        console.print(f"[info]Versioned report:[/info] [chapter]{output_file}[/chapter]")
+        console.print(f"[info]Latest report:[/info] [chapter]{final_file}[/chapter]")
+
+        summary_msg = f"[success]✓ Review Complete[/success]\n"
+        summary_msg += f"[info]Versioned:[/info] [chapter]reports/{output_file.name}[/chapter]\n"
+        summary_msg += f"[info]Latest:[/info] [chapter]reports/final/{final_file.name}[/chapter]\n"
 
     if total_tokens > 0:
-        summary_msg += f"[sacred]📊 Total Usage:[/sacred]\n"
+        summary_msg += f"\n[sacred]📊 Total Usage:[/sacred]\n"
         summary_msg += f"[info]  Input tokens: {total_input_tokens:,}[/info]\n"
         summary_msg += f"[info]  Output tokens: {total_output_tokens:,}[/info]\n"
         summary_msg += f"[info]  Total tokens: {total_tokens:,}[/info]\n"
@@ -1390,6 +1543,20 @@ Ad Maiorem Dei Gloriam ✟
 
     console.print(Panel.fit(summary_msg, border_style="green"))
     console.print()
+
+    # Open report(s) in the editor
+    open_script = chapters_dir / "bin" / "open-in-editor"
+    if open_script.exists():
+        try:
+            if per_chapter_mode:
+                # Open each per-chapter report
+                for of in output_files:
+                    subprocess.run([str(open_script), str(of)], check=False)
+            else:
+                # Open the final combined report
+                subprocess.run([str(open_script), str(final_file)], check=False)
+        except Exception as e:
+            console.print(f"[warning]Could not open report: {e}[/warning]")
 
     # Exit with appropriate code
     failed = sum(1 for r in results if r.get("overall_status") != "PASS")

@@ -22,33 +22,81 @@ Examples:
 1. Copy the exact quoted text from the chapter
 2. Look up the verse at the source
 3. Compare word-for-word
-4. Mark as ✅ Verified or ❌ Needs Correction
+4. Mark as verified or needs correction
 
-### Step 3: Output Results
+---
 
-#### If ALL verses verify correctly:
+## Priority System
+
+| Value | Label | Use When |
+|:-----:|-------|----------|
+| `1` | HIGH | Misquote changes meaning, wrong reference, or doctrinal impact |
+| `2` | REC | Minor wording differences, truncation that doesn't change meaning |
+| `3` | OPT | Stylistic issues, formatting preferences |
+
+---
+
+## Output Format (JSON)
+
+Return your response as a JSON object with this structure:
+
+```json
+{
+  "chapter_name": "chapter_01.md",
+  "overall_status": "PASS" or "FAIL",
+  "summary": "Brief summary of verification results",
+  "successful_checks": [
+    {"check": "Scripture Verification", "details": "All X verses verified against RSVCE"}
+  ],
+  "failed_checks": [
+    {"check": "Scripture Accuracy", "issue": "Description of problem", "location": "Line X"}
+  ],
+  "recommendations": [
+    {
+      "priority": 1,
+      "location": "Line 45",
+      "issue": "Misquote",
+      "original": "For God loved the world...",
+      "suggested": "For God so loved the world that he gave his only Son...",
+      "reference": "John 3:16",
+      "source_link": "https://www.biblegateway.com/passage/?search=John+3:16&version=RSVCE"
+    },
+    {
+      "priority": 2,
+      "location": "Line 78",
+      "issue": "Paraphrase as quote",
+      "original": "All things work for good",
+      "suggested": "We know that in everything God works for good with those who love him",
+      "reference": "Rom 8:28",
+      "source_link": "https://www.biblegateway.com/passage/?search=Romans+8:28&version=RSVCE"
+    }
+  ]
+}
 ```
-## Scripture Verification: ✅✅✅ PASSED
-All [X] Bible verses in this chapter have been verified against RSVCE.
-```
 
-#### ONLY WHEN ANY verses need correction, create this table:
+### If ALL verses verify correctly:
+Set `overall_status` to `"PASS"` and leave `recommendations` as an empty array.
 
-```markdown
-## Scripture Verification: ❌ CORRECTIONS NEEDED
+---
 
-| # | Reference | Text in Chapter | Correct RSVCE Text | Issue | Source Link |
-|---|-----------|-----------------|---------------------|-------|-------------|
-| 1 | John 3:16 | "For God loved the world..." | "For God so loved the world that he gave his only Son..." | Missing "so" and truncated | [BibleGateway](https://www.biblegateway.com/passage/?search=John+3:16&version=RSVCE) |
-| 2 | Rom 8:28 | "All things work for good" | "We know that in everything God works for good with those who love him" | Paraphrase presented as quote | [BibleGateway](https://www.biblegateway.com/passage/?search=Romans+8:28&version=RSVCE) |
-```
+## Issue Types and Priority Classification
 
-**Issue types to flag:**
-- **Misquote** — Words changed, added, or removed
-- **Wrong translation** — Text matches NIV/KJV/etc. but not RSVCE
-- **Paraphrase as quote** — Summary presented in quotation marks
+### Priority 1 (HIGH) — Use when:
+- **Misquote** — Words changed, added, or removed in ways that alter meaning
 - **Wrong reference** — Citation points to different verse
-- **Truncated** — Quote cut off mid-sentence changing meaning
+- **Wrong translation** — Text matches NIV/KJV/etc. but not RSVCE (if meaning differs)
+- **Contextual misuse** — Scripture used out of context or proof-texted
+
+### Priority 2 (REC) — Use when:
+- **Truncated** — Quote cut off but meaning preserved
+- **Minor wording** — Small differences that don't change meaning
+- **Wrong translation** — Text matches another translation but meaning is identical
+
+### Priority 3 (OPT) — Use when:
+- **Formatting** — Citation style inconsistencies
+- **Stylistic** — Preference for fuller quote when partial is acceptable
+
+---
 
 ## Additional Checks
 *   **Citation Completeness:** Verify CCC references, papal documents, and saints' quotes are properly attributed

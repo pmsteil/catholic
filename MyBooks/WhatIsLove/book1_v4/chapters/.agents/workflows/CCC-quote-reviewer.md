@@ -1,4 +1,4 @@
-# **CCC: Review accuracy of quoted CCC paragraphs**
+# **CCC**: Review accuracy of quoted CCC paragraphs
 
 ## Task
 Verify **every** Catechism of the Catholic Church (CCC) quote in the text against the official Vatican source. Each citation must be checked word-for-word.
@@ -24,35 +24,84 @@ For each CCC reference, use these **reliable sources** (in order of preference):
 1. Copy the exact quoted text from the chapter
 2. Look up the paragraph at the source
 3. Compare word-for-word
-4. Mark as ✅ Verified or ❌ Needs Correction
+4. Mark as verified or needs correction
 
-### Step 3: Output Results
+---
 
-#### If ALL citations verify correctly:
+## Priority System
+
+
+
+| Value | Label | Use When |
+|:-----:|-------|----------|
+| `1` | HIGH | Misquote changes meaning, wrong paragraph, doctrinal impact, non-existent reference |
+| `2` | REC | Minor wording differences, truncation that doesn't change meaning |
+| `3` | OPT | Formatting issues, citation style preferences |
+
+---
+
+## Output Format (JSON)
+
+Return your response as a JSON object with this structure:
+
+```json
+{
+  "chapter_name": "chapter_01.md",
+  "overall_status": "PASS" or "FAIL",
+  "summary": "Brief summary of verification results",
+  "successful_checks": [
+    {"check": "CCC Verification", "details": "All X citations verified against official sources"}
+  ],
+  "failed_checks": [
+    {"check": "CCC Accuracy", "issue": "Description of problem", "location": "Line X"}
+  ],
+  "recommendations": [
+    {
+      "priority": 1,
+      "location": "Line 45",
+      "issue": "Misquote",
+      "original": "Charity is the theological virtue...",
+      "suggested": "Charity is the theological virtue by which we love God above all things...",
+      "reference": "CCC 1823",
+      "source_link": "https://scborromeo.org/ccc/para/1823.htm"
+    },
+    {
+      "priority": 2,
+      "location": "Line 78",
+      "issue": "Paraphrase as quote",
+      "original": "Jesus summarizes the law",
+      "suggested": "When someone asks him, 'Which commandment in the Law is the greatest?'...",
+      "reference": "CCC 2055",
+      "source_link": "https://scborromeo.org/ccc/para/2055.htm"
+    }
+  ]
+}
 ```
-## CCC Verification: ✅✅✅ PASSED
-All [X] Catechism citations in this chapter have been verified against official sources.
-```
 
-#### ONLY WHEN ANY citations need correction, create this table:
+### If ALL citations verify correctly:
+Set `overall_status` to `"PASS"` and leave `recommendations` as an empty array.
 
-```markdown
-## CCC Verification: ❌ CORRECTIONS NEEDED
+---
 
-| # | Reference | Text in Chapter | Correct CCC Text | Issue | Source Link |
-|---|-----------|-----------------|------------------|-------|-------------|
-| 1 | CCC 1823 | "Charity is the theological virtue..." | "Charity is the theological virtue by which we love God above all things..." | Truncated quote | [St. Charles Borromeo](https://scborromeo.org/ccc/para/1823.htm) |
-| 2 | CCC 2055 | "Jesus summarizes the law" | "When someone asks him, 'Which commandment in the Law is the greatest?'..." | Paraphrase presented as quote | [St. Charles Borromeo](https://scborromeo.org/ccc/para/2055.htm) |
-```
+## Issue Types and Priority Classification
 
-**Issue types to flag:**
-- **Misquote** — Words changed, added, or removed
+### Priority 1 (HIGH) — Use when:
+- **Misquote** — Words changed, added, or removed in ways that alter meaning
 - **Wrong paragraph** — Citation points to different content
-- **Paraphrase as quote** — Summary presented in quotation marks
-- **Non-existent reference** — Paragraph number doesn't exist or is out of range
-- **Truncated** — Quote cut off mid-sentence changing meaning
+- **Non-existent reference** — Paragraph number doesn't exist or is out of range (1-2865)
+- **Contextual misuse** — CCC passage used out of context or selectively quoted to change meaning
 - **Conflated** — Multiple paragraphs merged without indication
-- **Edition mismatch** — Text from a different edition or translation
+
+### Priority 2 (REC) — Use when:
+- **Truncated** — Quote cut off but meaning preserved
+- **Minor wording** — Small differences that don't change meaning
+- **Edition mismatch** — Text from a different edition but meaning is identical
+
+### Priority 3 (OPT) — Use when:
+- **Formatting** — Citation style inconsistencies
+- **Stylistic** — Preference for fuller quote when partial is acceptable
+
+---
 
 ## Additional Checks
 *   **Paragraph Range Validity:** CCC paragraphs range from 1-2865; flag any numbers outside this range
