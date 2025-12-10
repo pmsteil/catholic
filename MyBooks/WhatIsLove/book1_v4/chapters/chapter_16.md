@@ -42,7 +42,7 @@ Jesus doesn't just teach us about love—He *is* the Law of the Gospel incarnate
 
 Notice what He's doing. He's not abolishing the Old Law but bringing it to perfection—showing that authentic love requires interior transformation, not just external compliance. The Old Law commanded, "You shall not kill." Christ says the law written on your heart goes deeper: "Everyone who is angry with his brother shall be liable to judgment" (Matthew 5:21-22). The Old Law commanded, "You shall not commit adultery." Christ says: "Everyone who looks at a woman lustfully has already committed adultery with her in his heart" (Matthew 5:27-28).
 
-This is why the Catechism calls it "the grace of the Holy Spirit received by faith in Christ, operating through charity" (CCC 1972). Christ doesn't just give us rules—He gives us His own Spirit to transform us from within.
+This is why the Catechism teaches: "The New Law is the grace of the Holy Spirit given to the faithful through faith in Christ. It works through charity; it uses the Sermon on the Mount to teach us what must be done and makes use of the sacraments to give us the grace to do it" (CCC 1966). Christ doesn't just give us rules—He gives us His own Spirit to transform us from within.
 
 <div class="blockquote">
 "The time is fulfilled, and the kingdom of God is at hand; repent, and believe in the gospel."

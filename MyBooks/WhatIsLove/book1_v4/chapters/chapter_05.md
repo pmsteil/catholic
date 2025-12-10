@@ -1,15 +1,15 @@
 # Binding - How love unites
 
 <div class="blockquote">
-"And above all these put on love, which binds everything together in perfect harmony."
+"If I . . . have not charity," says the Apostle, "I am nothing." Whatever my privilege, service, or even virtue, "if I . . . have not charity, I gain nothing." Charity is superior to all the virtues. It is the first of the theological virtues: "So faith, hope, charity abide, these three. But the greatest of these is charity. (1 Corinthians 13:13)""
 
-\hfill\small — Colossians 3:14
+\hfill\small — CCC 1826
 </div>
 
 <div class="blockquote">
-"For just as the body is one and has many members, and all the members of the body, though many, are one body, so it is with Christ."
+"The practice of all the virtues is animated and inspired by charity, which 'binds everything together in perfect harmony' (Col 3:14); it is the form of the virtues; it articulates and orders them among themselves; it is the source and the goal of their Christian practice. Charity upholds and purifies our human ability to love, and raises it to the supernatural perfection of divine love."
 
-\hfill\small — 1 Corinthians 12:12
+\hfill\small — CCC 1827
 </div>
 
 <div class="blockquote">
@@ -86,9 +86,21 @@ This answers a crucial objection: Doesn't "binding" risk suppressing legitimate 
 
 ## Love as the Form of All Virtues
 
-This integration isn't just about balancing opposing ideas. It changes the very nature of virtue itself. St. Thomas Aquinas taught that love is "the form of all virtues"—meaning love gives shape and direction to all other virtues. Without love, courage becomes recklessness, wisdom becomes manipulation, justice becomes revenge. With love, these same virtues become heroic sacrifice, prudent care, and restorative redemption.
+This integration isn't just about balancing opposing ideas. It changes the very nature of virtue itself.
 
-Love shapes virtue into a coherent whole because all virtues are expressions of the same reality: truth, justice, and mercy bound together in self-gift.
+Return to CCC 1826-1827, which opened this chapter. Notice what the Church is teaching: charity is not merely *one* virtue among many—it is "superior to all the virtues," the "first of the theological virtues," and the very *form* that animates and inspires the practice of all the others.
+
+What does it mean for charity to be the "form" of the virtues? In philosophical terms, form is what makes a thing what it is—the form of a chair makes wood and nails into something you can sit on. Without charity as their form, the virtues remain raw moral material—potentially good, but not yet ordered toward their true purpose. CCC 1827 tells us that charity "articulates and orders them among themselves," *binding* them into a coherent whole directed toward God.
+
+This is why CCC 1826 insists that without charity, "I am nothing" and "I gain nothing." You can have brilliant faith—but without charity, it's mere intellectual assent. You can have burning hope—but without charity, it's self-interested calculation. You can exercise careful prudence—but without charity, it's cunning manipulation. You can practice perfect justice—but without charity, it's cold retribution. You can display heroic courage—but without charity, it's recklessness or pride.
+
+The Catechism continues: "The practice of the moral life animated by charity gives to the Christian the spiritual freedom of the children of God. He no longer stands before God as a slave, in servile fear, or as a mercenary looking for wages, but as a son responding to the love of him who 'first loved us'" (CCC 1828). This is why mere rule-following fails. The Pharisees stood before God as slaves to the Law rather than sons responding to love. Without charity to bind the virtues together, even perfect external compliance becomes dead legalism.
+
+A crucial clarification: when we speak of truth, justice, mercy, and sacrifice as the essential facets of love, we are not suggesting these replace or supersede the other virtues. The theological virtues—faith, hope, and charity. The cardinal virtues—prudence, justice, fortitude, and temperance. The human virtues—patience, kindness, humility, chastity, generosity, meekness, and all the rest the Church has always taught—are all a cohesive whole. After all, God is "simple" and "one."
+
+What we're proposing is that truth, justice, mercy, and sacrifice are the *dimensions* through which all virtues express themselves. Prudence operates through truth (discerning what is real) and justice (determining what is owed). Fortitude expresses itself through sacrifice (the courage to pay the cost of love). Patience is mercy extended through time. Humility is truth about ourselves before God.
+
+Every virtue, when animated by charity, will express itself through some combination of these four dimensions. They are not a replacement set but an organizing framework—a way of understanding how the one virtue of charity (CCC 1827) manifests in the countless expressions of authentic love. In Chapter 12, we will demonstrate this explicitly, showing how each virtue relates to these four pillars of perfect love.
 
 ## The Eucharist: Perfect Binding
 

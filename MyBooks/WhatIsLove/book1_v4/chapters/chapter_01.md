@@ -28,7 +28,7 @@ A Black father watches his community crumble—not from racism, but from the des
 
 Children are shot during Mass at a Catholic church. Christians are the most persecuted religious group in the world, yet our media stays silent. A grandmother praying outside an abortion clinic is arrested and faces years in prison, while those who firebomb pregnancy centers walk free. Religious freedom, once sacred, is now called "extremism."
 
-These aren't statistics. They're souls crying out in a darkness they can't name. And no, this isn't just "culture war grievance"—these are real people, real families, real children whose lives are being destroyed. Truth itself has become negotiable—a matter of personal preference rather than objective reality. And into this chaos, the world offers a thousand counterfeits of love, each one leading further into the abyss.
+These aren't statistics. They're souls crying out in a darkness they can't name. And no, this isn't just "culture war grievance"—these are families whose lives are being destroyed. Truth itself has become negotiable—a matter of personal preference rather than objective reality. And into this chaos, the world offers a thousand counterfeits of love, each one leading further into the abyss.
 
 <div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
 The rampant evil in our world forces us to ask "What has gone so terribly wrong with humanity"?
@@ -42,7 +42,7 @@ Maybe that's you. Maybe the contradictions finally became too glaring to ignore.
 
 Maybe you're reading this book because you're searching for answers—real answers, not the comfortable lies our culture keeps selling. They're searching for the truth—the complete truth. The Christian revival that we are seeing in America gives us hope for the world.
 
-Here's the truth that's becoming undeniable: **We have completely disconnected our society from the source of all truth—God Himself.** Without this foundation, we have no objective standard for truth, no basis for morality, no ground for human dignity. You can believe all the right doctrines, attend church every Sunday, and still watch civilization collapse around you if that belief doesn't translate into how we actually live.
+Here's the truth that's becoming undeniable: **We have disconnected our society from the source of all truth—God Himself.** Without this foundation, we have no objective standard for truth, no basis for morality, no ground for human dignity. You can believe all the right doctrines, attend church every Sunday, and still watch civilization collapse around you if that belief doesn't translate into how we actually live.
 
 The crisis we're facing isn't just political or cultural. It's theological. It's the fruit of centuries of Christianity that separated belief from action, personal piety from social transformation. We preached "accept Jesus and go to heaven" while the world burned. We emphasized individual salvation while families shattered. We focused on the afterlife while evil conquered this life.
 
