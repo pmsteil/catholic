@@ -303,10 +303,21 @@ Perform the review thoroughly and return ONLY the JSON object."""
 
         # Try to parse as JSON
         try:
-            json_start = result_text.find("{")
-            json_end = result_text.rfind("}") + 1
+            # Strip markdown code fences if present
+            clean_text = result_text.strip()
+            if clean_text.startswith("```"):
+                # Remove opening fence (```json or ```)
+                first_newline = clean_text.find("\n")
+                if first_newline != -1:
+                    clean_text = clean_text[first_newline + 1:]
+                # Remove closing fence
+                if clean_text.rstrip().endswith("```"):
+                    clean_text = clean_text.rstrip()[:-3].rstrip()
+
+            json_start = clean_text.find("{")
+            json_end = clean_text.rfind("}") + 1
             if json_start != -1 and json_end > json_start:
-                review_data = json.loads(result_text[json_start:json_end])
+                review_data = json.loads(clean_text[json_start:json_end])
                 review_data["_metadata"] = metadata
                 return review_data
         except json.JSONDecodeError:
@@ -479,11 +490,22 @@ Perform the review thoroughly and return ONLY the JSON object."""
 
             # Try to parse the result as JSON
             try:
+                # Strip markdown code fences if present
+                clean_text = result_text.strip()
+                if clean_text.startswith("```"):
+                    # Remove opening fence (```json or ```)
+                    first_newline = clean_text.find("\n")
+                    if first_newline != -1:
+                        clean_text = clean_text[first_newline + 1:]
+                    # Remove closing fence
+                    if clean_text.rstrip().endswith("```"):
+                        clean_text = clean_text.rstrip()[:-3].rstrip()
+
                 # Find JSON object in the result
-                json_start = result_text.find("{")
-                json_end = result_text.rfind("}") + 1
+                json_start = clean_text.find("{")
+                json_end = clean_text.rfind("}") + 1
                 if json_start != -1 and json_end > json_start:
-                    review_data = json.loads(result_text[json_start:json_end])
+                    review_data = json.loads(clean_text[json_start:json_end])
                     # Add metadata to the review data
                     review_data["_metadata"] = metadata
                     return review_data

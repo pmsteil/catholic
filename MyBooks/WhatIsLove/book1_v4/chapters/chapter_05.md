@@ -24,7 +24,7 @@
 
 Truth without mercy becomes the Pharisees demanding the adulteress be stoned. Mercy without truth becomes the parent enabling their child's addiction. Justice without mercy becomes endless cycles of retaliation. Mercy without justice becomes the abuser forgiven while victims suffer.
 
-This is fragmented virtue. Isolated from each other, truth becomes cruelty, justice becomes vengeance, mercy becomes weakness.
+These are fragmented virtues. Isolated from each other, truth becomes cruelty, justice becomes vengeance, mercy becomes weakness.
 
 <div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
 This is why our definition of perfect love includes the word "binds"—love holds truth, justice, mercy, and sacrifice together in life-giving communion. Without love to integrate them, these virtues fragment and become distorted. With love, they work together as one harmonious whole. Holy, you could say.
@@ -42,7 +42,7 @@ In Chapter 4, we saw the devastation when covenant breaks—"Mommy and Daddy are
 
 Two houses. Two sets of rules. Two warring factions. What was once one family is now fragmented into competing loyalties. The child isn't just hurt by the covenant breaking—they're torn apart by the unity shattering.
 
-The distinction matters: Chapter 4 is about the *promise* breaking—"They said forever. They lied." This chapter is about the *unity* shattering—"I'm torn between two worlds that should be one." The moment of breaking versus the lived reality of fragmentation.
+Chapter 4 addressed the *promise* breaking—"They said forever. They lied." This chapter is about the *unity* shattering—"I'm torn between two worlds that should be one." The moment of breaking versus the lived reality of fragmentation.
 
 And here is the most tragic consequence: fragmentation doesn't just wound the child—it *corrupts* them.
 
@@ -56,7 +56,7 @@ The wound of divorce creates harm. The fragmentation that follows corrupts. This
 
 ## How Love Binds Truth, Justice, Mercy, and Sacrifice
 
-Let's look at how love holds these crucial virtues together:
+Love holds these virtues together:
 
 **Truth Without Love:** Becomes harsh, condemning, weaponized. "You're a sinner and you're going to hell." Technically true, perhaps, but without love it destroys rather than heals. **Love Binding Truth:** Ensures truth serves the beloved's good. "You're caught in sin, and it's destroying you. Let me help you find freedom." Same truth, but bound by love, it becomes medicine rather than poison.
 
@@ -72,7 +72,7 @@ Jesus' encounter with the woman caught in adultery (John 8:1-11) perfectly demon
 
 ## Unity in Diversity: The Body of Christ
 
-This principle of integration extends beyond individual encounters to the very structure of Christian community. St. Paul uses the image of the body to show how love creates unity without uniformity: "For just as the body is one and has many members, and all the members of the body, though many, are one body, so it is with Christ. For by one Spirit we were all baptized into one body—Jews or Greeks, slaves or free—and all were made to drink of one Spirit." (1 Corinthians 12:12-13).
+This integration extends to Christian community itself. St. Paul uses the image of the body to show how love creates unity without uniformity: "For just as the body is one and has many members, and all the members of the body, though many, are one body, so it is with Christ. For by one Spirit we were all baptized into one body—Jews or Greeks, slaves or free—and all were made to drink of one Spirit." (1 Corinthians 12:12-13).
 
 The eye doesn't become the hand. The ear doesn't become the foot. Each part remains distinct, with its own function. But love binds them into one body, one organism, one unified whole.
 
@@ -80,11 +80,9 @@ This answers a crucial objection: Doesn't "binding" risk suppressing legitimate 
 
 ## Love as the Form of All Virtues
 
-This integration isn't just about balancing opposing ideas. It changes the very nature of virtue itself.
+What does it mean for charity to be the "form" of the virtues?
 
-Return to CCC 1826-1827, which opened this chapter. Notice what the Church is teaching: charity is not merely *one* virtue among many—it is "superior to all the virtues," the "first of the theological virtues," and the very *form* that animates and inspires the practice of all the others.
-
-What does it mean for charity to be the "form" of the virtues? In philosophical terms, form is what makes a thing what it is—the form of a chair makes wood and nails into something you can sit on. Without charity as their form, the virtues remain raw moral material—potentially good, but not yet ordered toward their true purpose. CCC 1827 tells us that charity "articulates and orders them among themselves," *binding* them into a coherent whole directed toward God.
+Return to CCC 1826-1827, which opened this chapter. Notice what the Church is teaching: charity is not merely *one* virtue among many—it is "superior to all the virtues," the "first of the theological virtues," and the very *form* that animates and inspires the practice of all the others. As St. Paul writes, love "binds everything together in perfect harmony" (Col 3:14). This integration isn't just about balancing opposing ideas—it changes the very nature of virtue itself. In philosophical terms, form is what makes a thing what it is—the form of a chair makes wood and nails into something you can sit on. Without charity as their form, the virtues remain raw moral material—potentially good, but not yet ordered toward their true purpose. CCC 1827 tells us that charity "articulates and orders them among themselves," *binding* them into a coherent whole directed toward God.
 
 This is why CCC 1826 insists that without charity, "I am nothing" and "I gain nothing." You can have brilliant faith—but without charity, it's mere intellectual assent. You can have burning hope—but without charity, it's self-interested calculation. You can exercise careful prudence—but without charity, it's cunning manipulation. You can practice perfect justice—but without charity, it's cold retribution. You can display heroic courage—but without charity, it's recklessness or pride.
 
