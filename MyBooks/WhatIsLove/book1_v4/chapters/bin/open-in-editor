@@ -1,0 +1,4 @@
+#!/bin/bash
+
+# open any files passed to this script in Windsurf
+windsurf "$@"

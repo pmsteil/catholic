@@ -677,11 +677,18 @@ def display_results(results: List[Dict[str, Any]], agent_name: str):
                             priority_info = get_priority_info(priority)
                             location = rec.get("location", "")
                             issue = rec.get("issue", "")
-                            console.print(f"  {priority_info['icon']} [{priority_info['label']}] {location}: {issue}")
-                            if rec.get("original"):
-                                console.print(f"      [dim]Original:[/dim] {rec['original'][:80]}...")
-                            if rec.get("suggested"):
-                                console.print(f"      [dim]Suggested:[/dim] {rec['suggested'][:80]}...")
+                            original = rec.get("original", "")
+                            suggested = rec.get("suggested", "")
+
+                            # Build location display - show prominently
+                            console.print(f"  {priority_info['icon']} [bold][{priority_info['label']}][/bold] {location}: {issue}")
+                            if original:
+                                # Truncate but show more context
+                                orig_display = original[:100] + "..." if len(original) > 100 else original
+                                console.print(f"      [dim]Original:[/dim] {orig_display}")
+                            if suggested:
+                                sugg_display = suggested[:100] + "..." if len(suggested) > 100 else suggested
+                                console.print(f"      [dim]Suggested:[/dim] {sugg_display}")
                         else:
                             # Legacy string format
                             console.print(f"  • {rec}")
@@ -701,8 +708,151 @@ def display_results(results: List[Dict[str, Any]], agent_name: str):
                 console.print(f"[success]✓[/success] [chapter]{chapter_name}[/chapter] - {len(successful_checks)} checks passed")
 
 
-def save_html_report(results: List[Dict[str, Any]], agent_name: str, output_file: Path):
-    """Save validation report as HTML suitable for Bishop's office submission."""
+def save_concise_html_report(results: List[Dict[str, Any]], agent_name: str, output_file: Path):
+    """Save a concise HTML report with only recommendations - optimized for LLM processing.
+
+    Shows the same detailed recommendation info as the full report (location, original, suggested)
+    but omits summary stats, detailed check tables, and other verbose sections.
+    """
+    timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+
+    with open(output_file, "w", encoding="utf-8") as f:
+        f.write("""<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>""" + agent_name + """ Review - Recommendations</title>
+    <style>
+        body { font-family: Georgia, serif; max-width: 900px; margin: 0 auto; padding: 20px; line-height: 1.5; }
+        h1 { color: #663399; border-bottom: 2px solid #D4AF37; padding-bottom: 10px; }
+        h2 { color: #663399; margin-top: 25px; margin-bottom: 10px; }
+        h3 { color: #333; margin-top: 20px; }
+        .chapter { background: #f9f9f9; border-left: 4px solid #663399; padding: 15px; margin: 20px 0; }
+        .summary { margin-bottom: 5px; color: #555; font-style: italic; }
+        .failed-checks { margin: 15px 0; }
+        .failed-checks table { width: 100%; border-collapse: collapse; font-size: 0.9em; }
+        .failed-checks th { background: #8B0000; color: white; padding: 8px; text-align: left; }
+        .failed-checks td { padding: 8px; border-bottom: 1px solid #ddd; }
+        .recommendations { background: #fffef0; border-left: 4px solid #D4AF37; padding: 15px; margin: 15px 0; }
+        .priority-high { border-left: 4px solid #DC2626; padding-left: 12px; margin: 10px 0; background: #fef2f2; }
+        .priority-rec { border-left: 4px solid #D97706; padding-left: 12px; margin: 10px 0; background: #fffbeb; }
+        .priority-opt { border-left: 4px solid #2563EB; padding-left: 12px; margin: 10px 0; background: #eff6ff; }
+        .priority-label { font-weight: bold; margin-right: 8px; }
+        .priority-high .priority-label { color: #DC2626; }
+        .priority-rec .priority-label { color: #D97706; }
+        .priority-opt .priority-label { color: #2563EB; }
+        .location { font-family: monospace; color: #666; font-size: 0.9em; }
+        .issue { margin: 5px 0; }
+        .original, .suggested { font-size: 0.9em; color: #555; margin: 5px 0; padding: 8px; background: #fff; border: 1px solid #eee; }
+        .original strong, .suggested strong { color: #333; }
+        .footer { text-align: center; margin-top: 40px; color: #888; font-style: italic; }
+        .passed { color: #2D5016; font-weight: bold; }
+    </style>
+</head>
+<body>
+    <h1>✟ """ + agent_name + """ Review - Recommendations</h1>
+    <p><em>Generated: """ + timestamp + """</em></p>
+""")
+
+        # Count totals for summary
+        total_recs = sum(len(r.get("recommendations", [])) for r in results)
+        total_failed = sum(len(r.get("failed_checks", [])) for r in results)
+
+        f.write(f"""    <p><strong>Summary:</strong> {total_recs} recommendations, {total_failed} failed checks across {len(results)} chapter(s)</p>\n""")
+
+        # Output each chapter
+        for result in results:
+            chapter_name = result.get("chapter_name", "Unknown")
+            status = result.get("overall_status", "UNKNOWN")
+            summary = result.get("summary", "")
+            failed_checks = result.get("failed_checks", [])
+            recommendations = result.get("recommendations", [])
+
+            # Skip chapters with nothing to report
+            if not recommendations and not failed_checks and status == "PASS":
+                f.write(f"""    <p class="passed">✓ {chapter_name} - No changes needed</p>\n""")
+                continue
+
+            f.write(f"""
+    <div class="chapter">
+        <h2>{chapter_name}</h2>
+""")
+
+            # Summary if present
+            if summary:
+                summary_html = summary.replace("<", "&lt;").replace(">", "&gt;")
+                f.write(f"""        <p class="summary">{summary_html}</p>\n""")
+
+            # Failed checks table (concise version)
+            if failed_checks:
+                f.write("""        <div class="failed-checks">
+            <h3>Failed Checks</h3>
+            <table>
+                <tr><th>Check</th><th>Issue</th><th>Location</th></tr>
+""")
+                for check in failed_checks:
+                    check_name = check.get("check", "Unknown").replace("<", "&lt;").replace(">", "&gt;")
+                    issue = check.get("issue", "No details").replace("<", "&lt;").replace(">", "&gt;")
+                    location = check.get("location", "N/A").replace("<", "&lt;").replace(">", "&gt;")
+                    f.write(f"""                <tr><td>{check_name}</td><td>{issue}</td><td>{location}</td></tr>\n""")
+                f.write("""            </table>
+        </div>
+""")
+
+            # Recommendations (full detail)
+            if recommendations:
+                sorted_recs = sort_recommendations_by_priority(recommendations)
+                f.write("""        <div class="recommendations">
+            <h3>📿 Recommendations</h3>
+""")
+                for rec in sorted_recs:
+                    if isinstance(rec, dict):
+                        priority = rec.get("priority", 3)
+                        priority_info = get_priority_info(priority)
+                        location = rec.get("location", "").replace("<", "&lt;").replace(">", "&gt;")
+                        issue = rec.get("issue", "").replace("<", "&lt;").replace(">", "&gt;")
+                        original = rec.get("original", "").replace("<", "&lt;").replace(">", "&gt;")
+                        suggested = rec.get("suggested", "").replace("<", "&lt;").replace(">", "&gt;")
+
+                        f.write(f"""            <div class="recommendation-item {priority_info['class']}">
+                <span class="priority-label">{priority_info['icon']} {priority_info['label']}</span>
+                <span class="location">{location}</span>
+                <div class="issue">{issue}</div>
+""")
+                        if original:
+                            f.write(f"""                <div class="original"><strong>Original:</strong> {original}</div>\n""")
+                        if suggested:
+                            f.write(f"""                <div class="suggested"><strong>Suggested:</strong> {suggested}</div>\n""")
+                        f.write("""            </div>\n""")
+                    else:
+                        # Legacy string format
+                        rec_html = str(rec).replace("<", "&lt;").replace(">", "&gt;")
+                        f.write(f"""            <div class="recommendation-item priority-opt">
+                <span class="priority-label">🔵 OPT</span>
+                <div class="issue">{rec_html}</div>
+            </div>\n""")
+                f.write("""        </div>\n""")
+
+            f.write("""    </div>\n""")
+
+        f.write("""
+    <div class="footer">
+        <p>✟ Ad Maiorem Dei Gloriam ✟</p>
+    </div>
+</body>
+</html>
+""")
+
+
+def save_html_report(results: List[Dict[str, Any]], agent_name: str, output_file: Path, concise: bool = False):
+    """Save validation report as HTML suitable for Bishop's office submission.
+
+    If concise=True, generates a minimal report with only recommendations,
+    suitable for passing to an LLM for modifications.
+    """
+    if concise:
+        save_concise_html_report(results, agent_name, output_file)
+        return
     timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
     date_formatted = datetime.now().strftime("%B %d, %Y")
 
@@ -755,7 +905,7 @@ def save_html_report(results: List[Dict[str, Any]], agent_name: str, output_file
 
         .header {
             text-align: center;
-            border-bottom: 3px solid var(--gold);
+            # border-bottom: 3px solid var(--gold);
             padding-bottom: 30px;
             margin-bottom: 40px;
         }
@@ -777,7 +927,7 @@ def save_html_report(results: List[Dict[str, Any]], agent_name: str, output_file
             color: var(--purple);
             margin-top: 30px;
             margin-bottom: 15px;
-            border-bottom: 2px solid var(--gold);
+            # border-bottom: 2px solid var(--gold);
             padding-bottom: 5px;
         }
 
@@ -1051,7 +1201,7 @@ def save_html_report(results: List[Dict[str, Any]], agent_name: str, output_file
         <p><strong>Total Chapters:</strong> """ + str(total) + """</p>
     </div>
 
-    <h2>Executive Summary</h2>
+    <h2>Report Summary</h2>
     <div class="summary-box">
         <p>This report documents the """ + agent_name + """ review of all """ + str(total) + """ chapters.
         A total of """ + str(total_checks) + """ validation checks were performed across all chapters.</p>
@@ -1305,6 +1455,11 @@ Output:
   - Versioned reports: reports/{AGENT}-review1.html (auto-incremented)
   - Latest report: reports/final/{AGENT}.html (always overwritten)
 
+Concise Mode (--concise):
+  Generates a minimal report with only recommendations, optimized for
+  passing to an LLM for automated modifications. Omits detailed check
+  results and focuses on actionable items.
+
 Ad Maiorem Dei Gloriam ✟
         """
     )
@@ -1338,6 +1493,11 @@ Ad Maiorem Dei Gloriam ✟
         "--api",
         action="store_true",
         help="Use Anthropic API directly instead of Claude CLI"
+    )
+    parser.add_argument(
+        "--concise",
+        action="store_true",
+        help="Generate concise report with only recommendations (for LLM processing)"
     )
 
     # Show help if no arguments provided
@@ -1493,11 +1653,11 @@ Ad Maiorem Dei Gloriam ✟
             if per_chapter_mode:
                 # Per-chapter mode: save one report per chapter
                 chapter_output_file = get_next_review_filename(args.agent_name, output_dir, chapter.name)
-                save_html_report([result], args.agent_name, chapter_output_file)
+                save_html_report([result], args.agent_name, chapter_output_file, args.concise)
                 output_files.append(chapter_output_file)
             else:
                 # Combined mode: update the combined report incrementally
-                save_html_report(results, args.agent_name, output_file)
+                save_html_report(results, args.agent_name, output_file, args.concise)
 
             progress.advance(task)
 
@@ -1524,7 +1684,7 @@ Ad Maiorem Dei Gloriam ✟
     else:
         # Combined mode: save final report and show both
         final_file = final_dir / f"{args.agent_name}.html"
-        save_html_report(results, args.agent_name, final_file)
+        save_html_report(results, args.agent_name, final_file, args.concise)
 
         console.print(f"[info]Versioned report:[/info] [chapter]{output_file}[/chapter]")
         console.print(f"[info]Latest report:[/info] [chapter]{final_file}[/chapter]")

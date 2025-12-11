@@ -20,7 +20,7 @@ In Chapter 1, we stared into the abyss of evil—abortion as contraception, chil
 
 We ended with a claim that demands substantiation: **If we truly want to fight against evil, we must know what is truly good. We must understand love.**
 
-But why love? Why not justice, or truth, or wisdom, or power? What makes love—specifically—the answer to evil? This isn't a question we can answer by simply asserting Church teaching or quoting Scripture. We need to arrive at this conclusion through reason, through observable reality about how human beings actually are.
+Why love specifically? Why not justice, truth, wisdom, or power? We can't answer this by simply asserting Church teaching or quoting Scripture. We need to arrive at this conclusion through reason—through what we can observe about human nature itself.
 
 ## What Would an Adequate Solution Require?
 
@@ -36,7 +36,7 @@ For any solution to be adequate, it must address all three levels. A solution th
 
 But there's an even deeper problem: if a solution can't overcome the destruction and darkness that evil leads to—the spiritual death, ultimate despair, and meaninglessness that are evil's final destination—then it only postpones defeat. And if it can't ground itself in objective truth, we won't even be able to identify what's good versus what's evil.
 
-**So what would an adequate solution require?**
+**What must an adequate solution accomplish?**
 
 1. **Power to transform the human heart** from selfishness to something else—because personal evil begins in the individual will.
 
@@ -52,9 +52,7 @@ Now here's the crucial question: What reality in human experience meets all five
 
 ## The Universal Human Answer
 
-Look at human experience across every culture, every era, every philosophy. Ask anyone—believer or atheist, ancient or modern, Eastern or Western—what makes life worth living. What is the highest human good? What do we all long for?
-
-The answer is always the same: **Love.**
+Ask anyone across every culture and era what makes life worth living. What is the highest human good? The answer is always the same: **Love.**
 
 Not wealth. Not power. Not pleasure. Not even fame—the four false gods that St. Thomas Aquinas warned lead us away from true happiness. When pressed, every human being points to love: love of family, love of friends, love of beauty, love of truth, love of something or someone beyond ourselves. We all know, deep in our bones, that love is what we're made for.
 
@@ -82,7 +80,7 @@ This is why we can say with philosophical confidence, not just religious faith: 
 
 ## Scripture Confirms What Reason Discovers
 
-Now here's what's remarkable: The conclusion we've reached through reason—that love is the answer to evil—is exactly what Scripture has been teaching from the beginning. The Bible doesn't just suggest love as one option among many; it reveals that **"God is love"** (1 John 4:8). Love isn't merely something God does—it's who God is. If love is the ultimate good and God is Love, then God's Love is the ultimate good and therefore the answer to evil.
+Remarkably, the conclusion we've reached through reason—that love is the answer to evil—is exactly what Scripture has been teaching from the beginning. The Bible doesn't just suggest love as one option among many; it reveals that **"God is love"** (1 John 4:8). Love isn't merely something God does—it's who God is. If love is the ultimate good and God is Love, then God's Love is the ultimate good and therefore the answer to evil.
 
 This teaching runs from the Old Testament to the New. When Moses gave Israel the greatest commandment, he said: "You shall love the LORD your God with all your heart, and with all your soul, and with all your might" (Deuteronomy 6:5). Centuries later, when a scholar of the law asked Jesus, "Teacher, what must I do to inherit eternal life?"—essentially asking, "What is the ultimate good? What conquers evil and death itself?"—Jesus pointed to exactly what human reason discovers and what Moses taught:
 
@@ -102,7 +100,7 @@ So we've established that God's Love is the answer to evil. We've shown through 
 
 But here's where we hit a crisis: **If everyone agrees love is the answer, why is the world still drowning in evil?**
 
-Because we've lost clarity about what love actually *is*. We use the same word to describe everything from sexual attraction to ice cream preferences, from God's nature to our favorite TV shows. Our culture has reduced love to feelings, to tolerance, to whatever makes us comfortable. We've been sold a thousand counterfeits, and we can't tell the real thing from the fakes anymore.
+Because we've lost clarity about what love actually *is*, using the same word for everything from sexual attraction to ice cream preferences, from God's nature to our favorite TV shows. Our culture has reduced love to feelings, to tolerance, to whatever makes us comfortable. We've been sold a thousand counterfeits, and we can't tell the real thing from the fakes anymore.
 
 **This is why we desperately need a precise definition.** Not just to win arguments or satisfy intellectual curiosity, but because societies depend on it. Families depend on it. Souls depend on it. If we get this wrong, we'll keep fighting evil with counterfeits that only make things worse.
 
