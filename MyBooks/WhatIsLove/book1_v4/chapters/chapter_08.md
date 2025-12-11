@@ -159,7 +159,7 @@ The Catechism affirms this distinction: "It is not in our power not to feel or t
 
 ## The Sacrament of Reconciliation
 
-The Catholic Sacrament of Reconciliation embodies mercy in concrete form. Notice how truth, justice, mercy, and sacrifice are all at play: Confession (speaking the truth about our sins), Contrition (genuine sorrow for having offended God), Penance (making amends, accepting consequences—justice), Absolution (God's forgiveness through the priest—mercy made possible by Christ's sacrifice), Restoration (grace to avoid sin and grow in holiness).
+The Catholic Sacrament of Reconciliation embodies mercy in concrete form. Notice how all four elements integrate: Confession (speaking the truth about our sins), Contrition (genuine sorrow for having offended God-justice), Penance (making amends, accepting consequences—justice), Absolution (God's forgiveness through the priest—mercy made possible by Christ's sacrifice), Restoration (grace to avoid sin - mercy/sacrifice and grow in holiness).
 
 The sacrament doesn't choose between truth, justice, and mercy—it integrates all three. Sin is real (truth). Consequences matter (justice). And forgiveness is offered (mercy)—not by ignoring the debt but by Christ having paid it (sacrifice).
 
