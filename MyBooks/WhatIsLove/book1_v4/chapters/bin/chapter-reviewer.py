@@ -16,6 +16,7 @@ Supports both Claude CLI and Anthropic API (as fallback when CLI budget is exhau
 import argparse
 import json
 import os
+import re
 import subprocess
 import sys
 from datetime import datetime
@@ -58,8 +59,8 @@ ANTHROPIC_MODEL_MAP = {
 # Priority mapping for recommendations
 PRIORITY_MAP = {
     1: {"label": "HIGH", "class": "priority-high", "icon": "🔴", "color": "#DC2626"},
-    2: {"label": "REC", "class": "priority-rec", "icon": "🟡", "color": "#D97706"},
-    3: {"label": "OPT", "class": "priority-opt", "icon": "🔵", "color": "#2563EB"},
+    2: {"label": "RECOMMENDED", "class": "priority-rec", "icon": "🟡", "color": "#D97706"},
+    3: {"label": "OPTIONAL", "class": "priority-opt", "icon": "🔵", "color": "#2563EB"},
 }
 
 
@@ -252,10 +253,18 @@ def run_anthropic_review(chapter_file: Path, workflow_file: Path, model: str = "
 {workflow_content}
 === END INSTRUCTIONS ===
 
-IMPORTANT: Return your response in the following JSON format:
+CRITICAL: Return ONLY valid, parseable JSON. No markdown code fences. No explanatory text before or after.
+
+STRICT JSON REQUIREMENTS:
+- All strings must have quotes properly escaped (use \\" for quotes inside strings)
+- No trailing commas
+- No comments
+- overall_status MUST be exactly "PASS" or "FAIL" - no other values allowed
+- Use the EXACT structure shown below
+
 {{
     "chapter_name": "{chapter_file.name}",
-    "overall_status": "PASS" or "FAIL",
+    "overall_status": "PASS or FAIL only",
     "successful_checks": [
         {{"check": "Check name", "details": "Why it passed"}}
     ],
@@ -266,7 +275,7 @@ IMPORTANT: Return your response in the following JSON format:
     "recommendations": ["List of recommendations for improvement"]
 }}
 
-Perform the review thoroughly and return ONLY the JSON object."""
+Perform the review thoroughly. Return ONLY the raw JSON object, nothing else."""
 
     # Map model name to Anthropic model ID
     model_id = ANTHROPIC_MODEL_MAP.get(model, ANTHROPIC_MODEL_MAP["sonnet"])
@@ -303,25 +312,32 @@ Perform the review thoroughly and return ONLY the JSON object."""
 
         # Try to parse as JSON
         try:
-            # Strip markdown code fences if present
+            # Strip markdown code fences if present using regex for robustness
             clean_text = result_text.strip()
-            if clean_text.startswith("```"):
-                # Remove opening fence (```json or ```)
-                first_newline = clean_text.find("\n")
-                if first_newline != -1:
-                    clean_text = clean_text[first_newline + 1:]
-                # Remove closing fence
-                if clean_text.rstrip().endswith("```"):
-                    clean_text = clean_text.rstrip()[:-3].rstrip()
+            # Remove ```json or ``` at start and ``` at end
+            clean_text = re.sub(r'^```(?:json)?\s*\n?', '', clean_text)
+            clean_text = re.sub(r'\n?```\s*$', '', clean_text)
 
             json_start = clean_text.find("{")
             json_end = clean_text.rfind("}") + 1
             if json_start != -1 and json_end > json_start:
-                review_data = json.loads(clean_text[json_start:json_end])
+                json_str = clean_text[json_start:json_end]
+                review_data = json.loads(json_str)
                 review_data["_metadata"] = metadata
                 return review_data
-        except json.JSONDecodeError:
-            pass
+        except json.JSONDecodeError as e:
+            # JSON parsing failed - return with error details
+            return {
+                "chapter_name": chapter_file.name,
+                "overall_status": "ERROR",
+                "error": f"JSON parsing failed: {str(e)}",
+                "successful_checks": [],
+                "failed_checks": [{"check": "JSON Parsing", "issue": f"LLM returned invalid JSON: {str(e)}", "location": "API Response"}],
+                "summary": f"The LLM returned malformed JSON that could not be parsed. Error: {str(e)}",
+                "recommendations": [],
+                "raw_output": result_text,
+                "_metadata": metadata
+            }
 
         # Return raw text if JSON parsing failed
         return {
@@ -415,13 +431,13 @@ IMPORTANT: Return your response in the following JSON format:
         {{"check": "Check name", "details": "Why it passed"}}
     ],
     "failed_checks": [
-        {{"check": "Check name", "issue": "Description of the problem", "location": "Line/section reference if applicable"}}
+        {{"check": "Check name", "issue": "Description of the problem", "location": "Line/section references"}}
     ],
     "summary": "Brief summary of the review",
     "recommendations": ["List of final recommendations for improvement of the chapter based on all failed_checks"]
 }}
 
-Perform the review thoroughly and return ONLY the JSON object."""
+Perform the review thoroughly and return ONLY the JSON object with no additional text or markdown."""
 
     try:
         result = subprocess.run(
@@ -490,16 +506,10 @@ Perform the review thoroughly and return ONLY the JSON object."""
 
             # Try to parse the result as JSON
             try:
-                # Strip markdown code fences if present
+                # Strip markdown code fences if present using regex for robustness
                 clean_text = result_text.strip()
-                if clean_text.startswith("```"):
-                    # Remove opening fence (```json or ```)
-                    first_newline = clean_text.find("\n")
-                    if first_newline != -1:
-                        clean_text = clean_text[first_newline + 1:]
-                    # Remove closing fence
-                    if clean_text.rstrip().endswith("```"):
-                        clean_text = clean_text.rstrip()[:-3].rstrip()
+                clean_text = re.sub(r'^```(?:json)?\s*\n?', '', clean_text)
+                clean_text = re.sub(r'\n?```\s*$', '', clean_text)
 
                 # Find JSON object in the result
                 json_start = clean_text.find("{")
@@ -509,8 +519,19 @@ Perform the review thoroughly and return ONLY the JSON object."""
                     # Add metadata to the review data
                     review_data["_metadata"] = metadata
                     return review_data
-            except json.JSONDecodeError:
-                pass
+            except json.JSONDecodeError as e:
+                # Return error details instead of silently falling through
+                return {
+                    "chapter_name": chapter_file.name,
+                    "overall_status": "ERROR",
+                    "error": f"JSON parsing failed: {str(e)}",
+                    "successful_checks": [],
+                    "failed_checks": [{"check": "JSON Parsing", "issue": f"LLM returned invalid JSON: {str(e)}", "location": "API Response"}],
+                    "summary": f"The LLM returned malformed JSON that could not be parsed. Error: {str(e)}",
+                    "recommendations": [],
+                    "raw_output": result_text,
+                    "_metadata": metadata
+                }
 
             # If parsing failed, return the raw text
             return {
@@ -608,10 +629,19 @@ def display_results(results: List[Dict[str, Any]], agent_name: str):
     ))
     console.print()
 
-    # Summary statistics
-    passed = sum(1 for r in results if r.get("overall_status") == "PASS")
-    failed = sum(1 for r in results if r.get("overall_status") == "FAIL")
-    errors = sum(1 for r in results if r.get("overall_status") in ["ERROR", "TIMEOUT", "UNKNOWN"])
+    # Summary statistics - normalize status based on failed_checks if LLM returns non-standard status
+    def normalize_status(r):
+        status = r.get("overall_status", "UNKNOWN")
+        if status in ["PASS", "FAIL", "ERROR", "TIMEOUT", "UNKNOWN"]:
+            return status
+        # LLM returned non-standard status (e.g., "REC") - determine from failed_checks
+        if len(r.get("failed_checks", [])) > 0:
+            return "FAIL"
+        return "PASS"
+
+    passed = sum(1 for r in results if normalize_status(r) == "PASS")
+    failed = sum(1 for r in results if normalize_status(r) == "FAIL")
+    errors = sum(1 for r in results if normalize_status(r) in ["ERROR", "TIMEOUT", "UNKNOWN"])
 
     summary_table = Table(title="📊 Summary", border_style="cyan")
     summary_table.add_column("Status", style="bold")
@@ -632,11 +662,14 @@ def display_results(results: List[Dict[str, Any]], agent_name: str):
         console.print(Panel("[error]✗ Chapters Requiring Attention[/error]", border_style="red"))
 
         for result in results:
-            if result.get("overall_status") in ["FAIL", "ERROR", "TIMEOUT", "UNKNOWN"]:
+            # Use normalized status to catch non-standard LLM responses like "REC"
+            normalized = normalize_status(result)
+            if normalized in ["FAIL", "ERROR", "TIMEOUT", "UNKNOWN"]:
                 chapter_name = result.get("chapter_name", "Unknown")
+                original_status = result.get("overall_status", "UNKNOWN")
 
                 console.print(f"\n[chapter]📖 {chapter_name}[/chapter]")
-                console.print(f"[error]Status: {result.get('overall_status', 'UNKNOWN')}[/error]")
+                console.print(f"[error]Status: {original_status}[/error]")
 
                 if result.get("summary"):
                     console.print(f"[info]Summary:[/info] {result['summary']}")
@@ -878,10 +911,19 @@ def save_html_report(results: List[Dict[str, Any]], agent_name: str, output_file
     timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
     date_formatted = datetime.now().strftime("%B %d, %Y")
 
-    # Calculate statistics
-    passed = sum(1 for r in results if r.get("overall_status") == "PASS")
-    failed = sum(1 for r in results if r.get("overall_status") == "FAIL")
-    errors = sum(1 for r in results if r.get("overall_status") in ["ERROR", "TIMEOUT", "UNKNOWN"])
+    # Calculate statistics - normalize status based on failed_checks if LLM returns non-standard status
+    def normalize_status(r):
+        status = r.get("overall_status", "UNKNOWN")
+        if status in ["PASS", "FAIL", "ERROR", "TIMEOUT", "UNKNOWN"]:
+            return status
+        # LLM returned non-standard status (e.g., "REC") - determine from failed_checks
+        if len(r.get("failed_checks", [])) > 0:
+            return "FAIL"
+        return "PASS"
+
+    passed = sum(1 for r in results if normalize_status(r) == "PASS")
+    failed = sum(1 for r in results if normalize_status(r) == "FAIL")
+    errors = sum(1 for r in results if normalize_status(r) in ["ERROR", "TIMEOUT", "UNKNOWN"])
     total = len(results)
 
     # Count total checks
@@ -1564,9 +1606,9 @@ Ad Maiorem Dei Gloriam ✟
         chapters = find_chapters(chapters_dir)
         console.print(f"[success]Found {len(chapters)} chapters[/success]")
 
-    console.print(f"[info]🤖 Looking for agent workflow:[/info] {args.agent_name}")
+    # console.print(f"[info]🤖 Looking for skill:[/info] {args.agent_name}")
     workflow_file = find_agent_workflow(args.agent_name, chapters_dir)
-    console.print(f"[success]Found workflow:[/success] {workflow_file.name}")
+    console.print(f"[success]Found skill:[/success] {workflow_file.name}")
     console.print()
 
     # Initialize API mode
