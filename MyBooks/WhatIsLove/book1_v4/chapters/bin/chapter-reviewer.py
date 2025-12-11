@@ -668,7 +668,7 @@ def display_results(results: List[Dict[str, Any]], agent_name: str):
                 # Recommendations (with priority support)
                 recommendations = result.get("recommendations", [])
                 if recommendations:
-                    console.print("[sacred]📿 Recommendations:[/sacred]")
+                    console.print("[sacred]Edit Recommendations:[/sacred]")
                     sorted_recs = sort_recommendations_by_priority(recommendations)
                     for rec in sorted_recs:
                         if isinstance(rec, dict):
@@ -1327,7 +1327,7 @@ def save_html_report(results: List[Dict[str, Any]], agent_name: str, output_file
             if recommendations:
                 sorted_recs = sort_recommendations_by_priority(recommendations)
                 f.write("""        <div class="recommendations">
-            <h4>📿 Recommendations (sorted by priority)</h4>
+            <h4>📿 Edit Recommendations</h4>
 """)
                 for rec in sorted_recs:
                     if isinstance(rec, dict):

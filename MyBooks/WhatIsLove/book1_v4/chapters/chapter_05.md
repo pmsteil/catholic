@@ -22,15 +22,9 @@
 
 ## The Problem of Fragmentation
 
-Tell the truth, but show no mercy. You get harsh legalism—the Pharisees condemning the woman caught in adultery, demanding she be stoned according to the Law.
+Truth without mercy becomes the Pharisees demanding the adulteress be stoned. Mercy without truth becomes the parent enabling their child's addiction. Justice without mercy becomes endless cycles of retaliation. Mercy without justice becomes the abuser forgiven while victims suffer.
 
-Show mercy, but ignore truth. You get dangerous sentimentality—the parent who "loves" their addicted child by enabling their addiction, the pastor who affirms sin because "God is love."
-
-Demand justice, but offer no mercy. You get revenge—the endless cycles of retaliation that destroy families, communities, and nations.
-
-Offer mercy, but ignore justice. You get injustice—the abuser who's forgiven again and again while victims continue to suffer, evil that's tolerated in the name of compassion.
-
-This is the crisis of fragmented virtue. When we isolate truth, justice, and mercy from each other, each becomes distorted. Truth becomes cruelty. Justice becomes vengeance. Mercy becomes weakness.
+This is fragmented virtue. Isolated from each other, truth becomes cruelty, justice becomes vengeance, mercy becomes weakness.
 
 <div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
 This is why our definition of perfect love includes the word "binds"—love holds truth, justice, mercy, and sacrifice together in life-giving communion. Without love to integrate them, these virtues fragment and become distorted. With love, they work together as one harmonious whole. Holy, you could say.
@@ -58,7 +52,7 @@ A child shouldn't be able to thwart parental authority through manipulation. In 
 
 This isn't just sad—it's corruption. The child who learns to manipulate fragmented authority carries those patterns into every future relationship. They learn that commitments can be leveraged, that people can be played against each other, that unity is for suckers.
 
-The wound of divorce creates harm. The fragmentation that follows corrupts. This is what happens when the binding force of love is broken—not just pain, but the distortion of the very virtues that make us human.
+The wound of divorce creates harm. The fragmentation that follows corrupts. This is what happens when the binding force of love is broken—not just pain, but the distortion of the very virtues that humanize us.
 
 ## How Love Binds Truth, Justice, Mercy, and Sacrifice
 
@@ -70,7 +64,7 @@ Let's look at how love holds these crucial virtues together:
 
 **Mercy Without Love:** Becomes enabling, weakness, injustice. "I'll forgive you no matter what you do." Sounds loving, but it allows evil to continue, victims to suffer, and the sinner to remain trapped in sin. **Love Binding Mercy:** Ensures mercy serves truth and justice. "I forgive you, but you must stop this behavior. I'll help you change, but I won't enable your sin." Mercy becomes transformative rather than permissive.
 
-See how it works? Love doesn't choose between truth, justice, mercy, and sacrifice. Love binds them together so they work as one integrated whole. Truth serves justice. Justice enables mercy. Mercy upholds truth. Sacrifice makes it all real. Because they are all expressions of the same reality: authentic love.
+Love doesn't choose between these virtues—it binds them together. Truth serves justice. Justice enables mercy. Mercy upholds truth. Sacrifice makes it all real.
 
 ## The Woman Caught in Adultery: Perfect Integration
 
@@ -96,11 +90,9 @@ This is why CCC 1826 insists that without charity, "I am nothing" and "I gain no
 
 The Catechism continues: "The practice of the moral life animated by charity gives to the Christian the spiritual freedom of the children of God. He no longer stands before God as a slave, in servile fear, or as a mercenary looking for wages, but as a son responding to the love of him who 'first loved us'" (CCC 1828). This is why mere rule-following fails. The Pharisees stood before God as slaves to the Law rather than sons responding to love. Without charity to bind the virtues together, even perfect external compliance becomes dead legalism.
 
-A crucial clarification: when we speak of truth, justice, mercy, and sacrifice as the essential facets of love, we are not suggesting these replace or supersede the other virtues. The theological virtues—faith, hope, and charity. The cardinal virtues—prudence, justice, fortitude, and temperance. The human virtues—patience, kindness, humility, chastity, generosity, meekness, and all the rest the Church has always taught—are all a cohesive whole. After all, God is "simple" and "one."
+When we speak of truth, justice, mercy, and sacrifice as the essential facets of love, we are not replacing the other virtues. The theological virtues, the cardinal virtues, the human virtues—all remain a cohesive whole. After all, God is "simple" and "one" and so is His love.
 
-What we're proposing is that truth, justice, mercy, and sacrifice are the *dimensions* through which all virtues express themselves. Prudence operates through truth (discerning what is real) and justice (determining what is owed). Fortitude expresses itself through sacrifice (the courage to pay the cost of love). Patience is mercy extended through time. Humility is truth about ourselves before God.
-
-Every virtue, when animated by charity, will express itself through some combination of these four dimensions. They are not a replacement set but an organizing framework—a way of understanding how the one virtue of charity (CCC 1827) manifests in the countless expressions of authentic love. In Chapter 12, we will demonstrate this explicitly, showing how each virtue relates to these four pillars of perfect love.
+Rather, truth, justice, mercy, and sacrifice are the *dimensions* through which all virtues express themselves. Prudence operates through truth and justice. Fortitude expresses itself through sacrifice. Patience is mercy extended through time. Humility is truth about ourselves before God. Every virtue, animated by charity, expresses itself through some combination of these four dimensions. Chapter 12 will demonstrate this explicitly.
 
 ## The Eucharist: Perfect Binding
 
@@ -154,6 +146,6 @@ Truth is the foundation that makes love's binding power real rather than imagina
 - **CCC 813-822:** The unity of the Church as reflection of Trinitarian unity
 
 ### Christian Thinkers
-- **St. Thomas Aquinas (1225-1274):** His teaching on love as "the form of all virtues" in the *Summa Theologica* shows how love shapes and directs all other virtues into an integrated whole
+- **St. Thomas Aquinas (1225-1274):** His teaching on love as "the form of all virtues" in the *Summa Theologica* shows how love shapes and directs all other virtues into an integrated whole; his treatment of divine simplicity explains why God's love, like God Himself, is perfectly one
 - **St. Augustine of Hippo (354-430):** His principle "Love God and do what you will" reveals how love integrates all moral action when properly ordered
 - **Pope St. John Paul II (1920-2005):** His teaching on the "unity of life" shows how faith must integrate all aspects of human existence—personal, social, political, economic—into one coherent whole
