@@ -32,9 +32,9 @@ The rampant evil in our world demands we ask: "What has gone so terribly wrong w
 
 ## The Crisis That Forces the Question
 
-The lies have become so extreme that people are waking up. Maybe that's you. Maybe you watched your church close while liquor stores stayed open during covid. Maybe you saw a man win "Woman of the Year" and realized sanity has fled. Maybe you're searching for real answers.
+The lies have become so extreme that people are waking up. Maybe that's you. Maybe you watched your church close while liquor stores stayed open during covid. Maybe you saw a man win "Woman of the Year" and realized we've lost our minds. Maybe you're searching for real answers.
 
-**We have disconnected our society from God Himself.** Without this foundation, we have no objective standard for truth, no basis for morality, no ground for human dignity.
+**We have disconnected society from God Himself.** Without this foundation, we have no objective standard for truth, no basis for morality, no ground for human dignity.
 
 The crisis isn't just political or cultural—it's theological. We preached "accept Jesus and go to heaven" while the world burned. We emphasized individual salvation while families shattered. When we abandon God's laws, the wreckage is immediate: broken families, confused children, despair wearing the mask of freedom, death disguised as compassion. "The wages of sin is death" (Romans 6:23).
 
@@ -94,7 +94,7 @@ Because we're created in the image of God, sin is always a choice against our ow
 
 ## The Waves of Evil: How Sin Multiplies
 
-Sin never stays contained. Like a stone thrown into water, every sinful choice ripples outward for generations.
+Sin never stays contained. Every sinful choice ripples outward for generations.
 
 **Personal:** A man chooses pornography—a "private" sin. But it rewires his brain, destroys his capacity for intimacy, enslaves his soul.
 
@@ -116,7 +116,7 @@ The Church takes sin seriously not because God is harsh, but because sin destroy
 
 ## Why Human Solutions Fall Short
 
-**Politics** promises to legislate evil away. But laws don't change hearts.
+**Politics** promises to legislate evil away. But laws cannot change hearts.
 
 **Education** assumes knowledge conquers evil. But schools that exclude God cannot teach truth, justice, or mercy without teaching about their Author.
 
@@ -124,7 +124,7 @@ The Church takes sin seriously not because God is harsh, but because sin destroy
 
 Every approach fails because they don't address the root cause—the heart that chooses selfishness over what is objectively good.
 
-So where do we turn?
+Where do we turn?
 
 **If we truly want to fight evil, we have to know what is truly good.** We need to understand love—not the counterfeits our culture sells, but authentic love that heals hearts, restores families, and transforms civilizations.
 
