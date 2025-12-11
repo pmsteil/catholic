@@ -361,7 +361,7 @@ Perform the review thoroughly. Return ONLY the raw JSON object, nothing else."""
                     review_data = json.loads(json_str)
                     review_data["_metadata"] = metadata
                     return review_data
-                except json.JSONDecodeError:
+                except json.JSONDecodeError as first_error:
                     # Try to repair common JSON issues
                     repaired = json_str
                     # Fix trailing commas before ] or }
@@ -371,24 +371,27 @@ Perform the review thoroughly. Return ONLY the raw JSON object, nothing else."""
                     repaired = repaired.replace(''', "'").replace(''', "'")
                     # Fix unescaped control characters in strings
                     repaired = repaired.replace('\t', '\\t')
+                    # Fix em-dashes and other special chars that might break things
+                    repaired = repaired.replace('—', '-').replace('–', '-')
                     # Try again after basic repairs
                     try:
                         review_data = json.loads(repaired)
                         review_data["_metadata"] = metadata
                         return review_data
                     except json.JSONDecodeError:
-                        # More aggressive: try to fix unescaped quotes in string values
-                        # This is a heuristic - find strings and escape internal quotes
-                        def fix_string_quotes(match):
-                            content = match.group(1)
-                            # Escape unescaped quotes inside the string
-                            fixed = re.sub(r'(?<!\\)"', '\\"', content)
-                            return f'"{fixed}"'
-                        # Match string values (between quotes, not keys)
-                        repaired = re.sub(r': "([^"]*(?:\\.[^"]*)*)"', lambda m: f': "{m.group(1)}"', repaired)
-                        review_data = json.loads(repaired)
-                        review_data["_metadata"] = metadata
-                        return review_data
+                        # Try json_repair library if available
+                        try:
+                            from json_repair import repair_json
+                            repaired = repair_json(json_str)
+                            review_data = json.loads(repaired)
+                            review_data["_metadata"] = metadata
+                            return review_data
+                        except ImportError:
+                            pass
+                        except Exception:
+                            pass
+                        # Last resort: re-raise original error
+                        raise first_error
         except json.JSONDecodeError as e:
             # JSON parsing failed - return with error details
             return {
@@ -586,7 +589,7 @@ Perform the review thoroughly and return ONLY the JSON object with no additional
                         review_data = json.loads(json_str)
                         review_data["_metadata"] = metadata
                         return review_data
-                    except json.JSONDecodeError:
+                    except json.JSONDecodeError as first_error:
                         # Try to repair common JSON issues
                         repaired = json_str
                         # Fix trailing commas before ] or }
@@ -596,17 +599,27 @@ Perform the review thoroughly and return ONLY the JSON object with no additional
                         repaired = repaired.replace(''', "'").replace(''', "'")
                         # Fix unescaped control characters in strings
                         repaired = repaired.replace('\t', '\\t')
+                        # Fix em-dashes and other special chars
+                        repaired = repaired.replace('—', '-').replace('–', '-')
                         # Try again after basic repairs
                         try:
                             review_data = json.loads(repaired)
                             review_data["_metadata"] = metadata
                             return review_data
                         except json.JSONDecodeError:
-                            # More aggressive: try to fix unescaped quotes in string values
-                            repaired = re.sub(r': "([^"]*(?:\\.[^"]*)*)"', lambda m: f': "{m.group(1)}"', repaired)
-                            review_data = json.loads(repaired)
-                            review_data["_metadata"] = metadata
-                            return review_data
+                            # Try json_repair library if available
+                            try:
+                                from json_repair import repair_json
+                                repaired = repair_json(json_str)
+                                review_data = json.loads(repaired)
+                                review_data["_metadata"] = metadata
+                                return review_data
+                            except ImportError:
+                                pass
+                            except Exception:
+                                pass
+                            # Last resort: re-raise original error
+                            raise first_error
             except json.JSONDecodeError as e:
                 # Return error details instead of silently falling through
                 return {

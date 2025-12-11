@@ -30,7 +30,7 @@ Every human heart knows this cry. We all need mercy—forgiveness we don't deser
 
 In the previous chapter, we saw that justice gives each person what they're due based on their dignity as image-bearers of God. But justice alone cannot heal the deepest wounds or restore broken relationships. This is where mercy enters—not to override justice, but to fulfill it by bearing the cost that justice demands.
 
-But here's the paradox: We want mercy for ourselves while often demanding only justice for others. We want our sins forgiven while holding grudges for decades. We want second chances while refusing to give them. We want God's mercy while showing none to our neighbor.
+But here's the paradox: We plead for mercy when we're the offender, but demand justice when we're the offended. We want our sins forgiven while holding grudges for decades. We want second chances while refusing to give them. We want God's mercy while showing none to our neighbor.
 
 This reveals something profound: Mercy is both gift and task. We receive it from God, yet we must learn to give it to others. We cannot keep what we refuse to share.
 
@@ -86,7 +86,7 @@ Consider what this looks like in practice:
 - **Political tribalism** treats opponents as irredeemable enemies
 - **Harsh, unforgiving spirits** in families and churches cut people off permanently
 
-This is mercilessness masquerading as justice. It creates a culture of fear where one mistake can destroy you, where forgiveness is weakness, where restoration is impossible.
+This is mercilessness disguised as justice. It creates a culture of fear where one mistake can destroy you, where forgiveness is weakness, where restoration is impossible.
 
 **When Jesus warns "Judge not, that you be not judged. For with the judgment you pronounce you will be judged, and the measure you give will be the measure you get" (Matthew 7:1-2), He's not saying "never judge right from wrong"—He Himself commands us to "Do not judge by appearances, but judge with right judgment" (John 7:24).** Jesus condemns merciless judgment—being all justice with no mercy, condemning persons rather than sin, refusing the forgiveness we need ourselves. God's perfect love requires truth (to know what's right), justice (to uphold what's owed), AND mercy (to offer forgiveness and restoration). We MUST judge actions as right or wrong (truth and justice require this), but we must judge WITH mercy—recognizing our brokenness, extending forgiveness, offering restoration. This is judging rightly: truth, justice, and mercy working together.
 
