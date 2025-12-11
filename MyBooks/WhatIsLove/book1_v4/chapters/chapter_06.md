@@ -28,7 +28,7 @@
 
 ## When Love Becomes Manipulation
 
-Chapter 5 asked what grounds love's binding power—what ensures that what we're uniting is real and not wishful thinking. The answer is truth. And when truth is absent, love becomes its opposite.
+What grounds love's binding power? Truth. When truth is absent, love becomes manipulation.
 
 "I'm doing this because I love you."
 
@@ -40,7 +40,7 @@ The cult leader says it while demanding absolute obedience and cutting members o
 
 In each case, "love" is the justification for control, manipulation, and harm. And the victims often accept it because they've been taught that questioning someone who claims to love you is itself unloving.
 
-This is what happens when love is separated from truth—when lies replace reality. Without truth, "love" becomes whatever the powerful say it is. Without truth, we can't distinguish authentic love from its counterfeits. Without truth, love becomes the ultimate tool of manipulation. **Lying is the foundational sin that destroys love at its source.**
+This is what happens when love is separated from truth. Without truth, "love" becomes whatever the powerful say it is. Without truth, we can't distinguish authentic love from its counterfeits. Without truth, love becomes the ultimate tool of manipulation. **Lying is a foundational sin that destroys love at its source.**
 
 <div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
 Love without truth is manipulation. Truth without love is cruelty. Authentic love requires both—truth that serves the beloved's good, love that honors objective reality.
@@ -76,11 +76,11 @@ Before we can understand Christ as Truth Incarnate, we must first recognize the 
 
 **We love and need love and need to be loved.** No one has to teach us this. From our first breath, we cry out for love. This universal longing is written on every human heart.
 
-All of these truths ring true to what Genesis 1:27 teaches us: "So God created man in his own image, in the image of God he created him; male and female he created them" (Genesis 1:27). We are made in the *likeness* of God and in the *image* of His Son—created for love, designed for communion, ordered toward truth (cf. Gen 1:27; Rom 8:29; St. Irenaeus, *Against Heresies* 5.6.1).
+These truths reflect Genesis 1:27: "So God created man in his own image, in the image of God he created him; male and female he created them." We are made in God's likeness and His Son's image—created for love, designed for communion, ordered toward truth (cf. Rom 8:29; St. Irenaeus, *Against Heresies* 5.6.1).
 
 ## God Has Made Truth Accessible
 
-God has not left us in darkness about truth. He has made truth accessible through multiple means:
+God hasn't left us in darkness. He provides truth through multiple means:
 
 **Through Our Intellect and Will:** God gave us the capacity for logic and reason—the ability to discover truth through observation, reflection, and rational thought. Our minds can conform to reality when we use them properly.
 
@@ -96,9 +96,9 @@ Now we can understand the revolutionary claim: Jesus doesn't just teach truth. H
 
 Jesus is the ultimate fulfillment of all the truth of being a human being. In Him, we see what humanity was always meant to be—perfect love, perfect truth, perfect communion with the Father. He is the image of the invisible God (Colossians 1:15), the one in whose image we were created.
 
-This is revolutionary. Truth isn't just propositional—a set of correct statements about reality. Truth is personal—a Person who embodies reality itself.
+Truth isn't just propositional statements about reality—it's personal, a Person who embodies reality itself.
 
-When we encounter Christ, we encounter Truth. Not truth as abstract principle, but truth as living relationship. Not truth as cold fact, but truth as warm embrace. Not truth that condemns, but truth that liberates: "You will know the truth, and the truth will make you free" (John 8:32).
+When we encounter Christ, we encounter Truth—living relationship, not abstract principle; warm embrace, not cold fact; liberation, not condemnation: "You will know the truth, and the truth will make you free" (John 8:32).
 
 This is why love requires truth. Because love requires knowing the beloved as they truly are—not as we imagine them, not as we wish they were, but as they actually are. And because the ultimate Beloved is Christ Himself, who IS truth, all authentic love participates in His truth.
 
@@ -118,13 +118,11 @@ And lies are still deadly today—destroying marriages, families, communities, n
 
 But what is this "Truth" that Jesus died for? To understand, we must look at the ancient Hebrew concept that shaped Scripture.
 
-The Hebrew word for truth—*emet*—means more than just factual accuracy. It means faithfulness, reliability, stability, and reality—truth you can rely on that corresponds to what actually is.
-
-St. Thomas Aquinas captured this: "Truth is the conformity of the intellect to reality" (*Summa Theologica* I, q.16, a.2). Truth isn't something we create—it's something we discover by aligning our minds with what actually is. Truth is objective: it exists independently of our opinions, feelings, or preferences.
+The Hebrew word for truth—*emet*—means faithfulness, reliability, and reality itself. As Aquinas taught: "Truth is the conformity of the intellect to reality" (*Summa Theologica* I, q.16, a.2). Truth isn't something we create—it's something we discover by aligning our minds with what actually is.
 
 **When we practice truth—speaking it, living it, defending it—we're not just being accurate. We're conforming our souls to Christ who IS Truth.** Each time we choose truth over lies, our conscience becomes more sensitive, our judgment more sound, our soul more aligned with reality itself. We're training our inner being to recognize and love what is real, good, and beautiful.
 
-This is soul formation in action. A child who is consistently given truth develops a well-formed conscience that can discern right from wrong. An adult who practices truth develops a soul that naturally gravitates toward what is real and rejects what is false. We become truth-tellers because our souls have been shaped by Truth Himself. This isn't just about avoiding lies—it's about becoming people whose very nature reflects reality, whose character embodies truthfulness.
+This is soul formation in action. Consistent exposure to truth forms conscience and character—we become truth-tellers because our souls have been shaped by Truth Himself.
 
 God has made truth accessible through natural law (written on our hearts), Scripture, and the Church's teaching authority. The Church relies on accumulated wisdom, growing in understanding over centuries. We don't start each generation rediscovering what Christ's death means or what the Trinity is. We have two thousand years of wisdom—from the Apostles through the Church Fathers, theologians, councils, and saints. The Church receives, guards, and transmits divine revelation intact to each generation.
 
@@ -150,11 +148,11 @@ This is why our definition places truth alongside justice and mercy as essential
 
 ## Truth vs. Relativism
 
-Our culture's dominant philosophy is relativism: "Your truth" vs. "my truth." This sounds tolerant and loving. It's actually the death of love.
+Our culture embraces relativism: "Your truth" vs. "my truth." This sounds loving but destroys love's foundation.
 
-If truth is relative, love is impossible—because love requires knowing the beloved's true good. If truth is relative, justice is impossible—because justice requires objective standards. If truth is relative, mercy is meaningless—because there's nothing objectively wrong to forgive. If truth is relative, freedom is impossible—Jesus said truth sets us free (John 8:32), but without truth we become slaves to our disordered desires, unable to distinguish between what we want and what is truly good for us.
+If truth is relative, love becomes impossible—love requires knowing the beloved's true good. Without objective truth, justice has no standards, mercy has nothing to forgive, and freedom becomes slavery to disordered desires (cf. John 8:32).
 
-Relativism doesn't create love. It destroys the foundation love requires.
+Relativism destroys the foundation love requires.
 
 ### The Fullness of Lies in Our Time
 
@@ -184,7 +182,7 @@ This is why truth is so pivotal to God's love. Without truth, love becomes manip
 
 ## Truth and Authority
 
-When most people think of authority, they think of it in human terms—the police or government having authority over us, enforced by power or coercion, "lording it over" people (cf. Matthew 20:25). But true authority is completely different. True authority comes from God because He is the Author—and His authority flows from truth, not from force.
+Most people think of authority in human terms—police or government enforcing power over us, "lording it over" people (cf. Matthew 20:25). But true authority is different. It comes from God because He is the Author—and His authority flows from truth, not force.
 
 **You have to be the author in order to have true authority.** Just as a novelist has authority over the world he creates because he made it, God is the Author of the universe He created. He has authority over all creation because He made it. He knows its purpose, its design, its proper functioning. **His authority isn't imposed by force—it flows from truth.** He doesn't force us to obey arbitrary rules; He reveals the truth about how reality actually works, how we're actually designed, what will actually fulfill us.
 

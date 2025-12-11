@@ -48,6 +48,7 @@ console = Console(theme=CATHOLIC_THEME)
 # Global state for API mode
 _use_anthropic_api = False
 _anthropic_client = None
+_debug_mode = False
 
 # Model mapping for Anthropic API
 ANTHROPIC_MODEL_MAP = {
@@ -67,6 +68,22 @@ PRIORITY_MAP = {
 def get_priority_info(priority: int) -> dict:
     """Get priority display information for a given priority level."""
     return PRIORITY_MAP.get(priority, PRIORITY_MAP[3])  # Default to OPT if unknown
+
+
+def debug_print(title: str, content: str, is_request: bool = True) -> None:
+    """Print a dimmed debug box with the given title and content."""
+    if not _debug_mode:
+        return
+
+    icon = "📤" if is_request else "📥"
+    border_color = "dim blue" if is_request else "dim green"
+
+    console.print(Panel(
+        f"[dim]{content}[/dim]",
+        title=f"{icon} {title}",
+        border_style=border_color,
+        padding=(0, 1)
+    ))
 
 
 def sort_recommendations_by_priority(recommendations: List[Any]) -> List[Any]:
@@ -256,11 +273,13 @@ def run_anthropic_review(chapter_file: Path, workflow_file: Path, model: str = "
 CRITICAL: Return ONLY valid, parseable JSON. No markdown code fences. No explanatory text before or after.
 
 STRICT JSON REQUIREMENTS:
-- All strings must have quotes properly escaped (use \\" for quotes inside strings)
-- No trailing commas
+- Use ASCII quotes only (straight quotes ", not curly quotes "" or '')
+- Escape quotes inside strings with backslash: \\"
+- Escape newlines inside strings with: \\n
+- No trailing commas after the last item in arrays or objects
 - No comments
 - overall_status MUST be exactly "PASS" or "FAIL" - no other values allowed
-- Use the EXACT structure shown below
+- All output must be valid JSON that passes JSON.parse()
 
 {{
     "chapter_name": "{chapter_file.name}",
@@ -279,6 +298,13 @@ Perform the review thoroughly. Return ONLY the raw JSON object, nothing else."""
 
     # Map model name to Anthropic model ID
     model_id = ANTHROPIC_MODEL_MAP.get(model, ANTHROPIC_MODEL_MAP["sonnet"])
+
+    # Debug: show request
+    debug_print(
+        f"API Request → {model_id}",
+        f"Model: {model_id}\nMax Tokens: 8192\n\n--- PROMPT ---\n{prompt}",
+        is_request=True
+    )
 
     start_time = time.time()
 
@@ -310,6 +336,13 @@ Perform the review thoroughly. Return ONLY the raw JSON object, nothing else."""
         # Get the response text
         result_text = response.content[0].text if response.content else ""
 
+        # Debug: show response
+        debug_print(
+            f"API Response ← {model_id}",
+            f"Input Tokens: {response.usage.input_tokens}\nOutput Tokens: {response.usage.output_tokens}\nCost: ${metadata['total_cost_usd']:.4f}\n\n--- RESPONSE ---\n{result_text}",
+            is_request=False
+        )
+
         # Try to parse as JSON
         try:
             # Strip markdown code fences if present using regex for robustness
@@ -333,12 +366,29 @@ Perform the review thoroughly. Return ONLY the raw JSON object, nothing else."""
                     repaired = json_str
                     # Fix trailing commas before ] or }
                     repaired = re.sub(r',(\s*[}\]])', r'\1', repaired)
-                    # Fix unescaped newlines in strings (replace with space)
-                    repaired = re.sub(r'(?<!\\)\n(?=[^"]*"[^"]*(?:"[^"]*"[^"]*)*$)', ' ', repaired)
-
-                    review_data = json.loads(repaired)
-                    review_data["_metadata"] = metadata
-                    return review_data
+                    # Fix smart quotes
+                    repaired = repaired.replace('"', '"').replace('"', '"')
+                    repaired = repaired.replace(''', "'").replace(''', "'")
+                    # Fix unescaped control characters in strings
+                    repaired = repaired.replace('\t', '\\t')
+                    # Try again after basic repairs
+                    try:
+                        review_data = json.loads(repaired)
+                        review_data["_metadata"] = metadata
+                        return review_data
+                    except json.JSONDecodeError:
+                        # More aggressive: try to fix unescaped quotes in string values
+                        # This is a heuristic - find strings and escape internal quotes
+                        def fix_string_quotes(match):
+                            content = match.group(1)
+                            # Escape unescaped quotes inside the string
+                            fixed = re.sub(r'(?<!\\)"', '\\"', content)
+                            return f'"{fixed}"'
+                        # Match string values (between quotes, not keys)
+                        repaired = re.sub(r': "([^"]*(?:\\.[^"]*)*)"', lambda m: f': "{m.group(1)}"', repaired)
+                        review_data = json.loads(repaired)
+                        review_data["_metadata"] = metadata
+                        return review_data
         except json.JSONDecodeError as e:
             # JSON parsing failed - return with error details
             return {
@@ -541,12 +591,22 @@ Perform the review thoroughly and return ONLY the JSON object with no additional
                         repaired = json_str
                         # Fix trailing commas before ] or }
                         repaired = re.sub(r',(\s*[}\]])', r'\1', repaired)
-                        # Fix unescaped newlines in strings (replace with space)
-                        repaired = re.sub(r'(?<!\\)\n(?=[^"]*"[^"]*(?:"[^"]*"[^"]*)*$)', ' ', repaired)
-
-                        review_data = json.loads(repaired)
-                        review_data["_metadata"] = metadata
-                        return review_data
+                        # Fix smart quotes
+                        repaired = repaired.replace('"', '"').replace('"', '"')
+                        repaired = repaired.replace(''', "'").replace(''', "'")
+                        # Fix unescaped control characters in strings
+                        repaired = repaired.replace('\t', '\\t')
+                        # Try again after basic repairs
+                        try:
+                            review_data = json.loads(repaired)
+                            review_data["_metadata"] = metadata
+                            return review_data
+                        except json.JSONDecodeError:
+                            # More aggressive: try to fix unescaped quotes in string values
+                            repaired = re.sub(r': "([^"]*(?:\\.[^"]*)*)"', lambda m: f': "{m.group(1)}"', repaired)
+                            review_data = json.loads(repaired)
+                            review_data["_metadata"] = metadata
+                            return review_data
             except json.JSONDecodeError as e:
                 # Return error details instead of silently falling through
                 return {
@@ -789,6 +849,35 @@ def display_results(results: List[Dict[str, Any]], agent_name: str):
                 successful_checks = result.get("successful_checks", [])
 
                 console.print(f"[success]✓[/success] [chapter]{chapter_name}[/chapter] - {len(successful_checks)} checks passed")
+
+                # Also show recommendations for passing chapters (optional improvements)
+                recommendations = result.get("recommendations", [])
+                if recommendations:
+                    console.print("[sacred]  Edit Recommendations:[/sacred]")
+                    sorted_recs = sort_recommendations_by_priority(recommendations)
+                    for rec in sorted_recs:
+                        if isinstance(rec, dict):
+                            # New priority-based format
+                            priority = rec.get("priority", 3)
+                            priority_info = get_priority_info(priority)
+                            location = rec.get("location", "")
+                            issue = rec.get("issue", "")
+                            original = rec.get("original", "")
+                            suggested = rec.get("suggested", "")
+
+                            # Build location display - show prominently
+                            console.print(f"    {priority_info['icon']} [bold][{priority_info['label']}][/bold] {location}: {issue}")
+                            if original:
+                                # Truncate but show more context
+                                orig_display = original[:100] + "..." if len(original) > 100 else original
+                                console.print(f"        [dim]Original:[/dim] {orig_display}")
+                            if suggested:
+                                sugg_display = suggested[:100] + "..." if len(suggested) > 100 else suggested
+                                console.print(f"        [dim]Suggested:[/dim] {sugg_display}")
+                        else:
+                            # Legacy string format
+                            console.print(f"    • {rec}")
+                    console.print()
 
 
 def save_concise_html_report(results: List[Dict[str, Any]], agent_name: str, output_file: Path):
@@ -1591,6 +1680,11 @@ Ad Maiorem Dei Gloriam ✟
         action="store_true",
         help="Generate concise report with only recommendations (for LLM processing)"
     )
+    parser.add_argument(
+        "--debug",
+        action="store_true",
+        help="Show dimmed debug boxes around each API request and response"
+    )
 
     # Show help if no arguments provided
     if len(sys.argv) == 1:
@@ -1639,9 +1733,10 @@ Ad Maiorem Dei Gloriam ✟
     console.print(f"[success]Found skill:[/success] {workflow_file.name}")
     console.print()
 
-    # Initialize API mode
-    global _use_anthropic_api
+    # Initialize API mode and debug mode
+    global _use_anthropic_api, _debug_mode
     _use_anthropic_api = args.api
+    _debug_mode = args.debug
 
     if _use_anthropic_api:
         console.print("[info]🔑 Using Anthropic API mode[/info]")

@@ -108,7 +108,15 @@ Evaluate the chapter's overall structure:
 
 ## Output Format (JSON)
 
-Return your response as a JSON object with this structure:
+Return your response as a **valid, parseable JSON object**. Follow these strict requirements:
+
+**JSON FORMATTING RULES:**
+- Use ASCII straight quotes only (", not curly quotes "" or '')
+- Escape quotes inside strings with backslash: \"
+- Escape newlines inside strings with: \n
+- No trailing commas after the last item in arrays or objects
+- No comments in the JSON
+- overall_status MUST be exactly "PASS" or "FAIL" - no other values
 
 ```json
 {
