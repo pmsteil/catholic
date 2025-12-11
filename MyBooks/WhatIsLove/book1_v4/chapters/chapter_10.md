@@ -28,7 +28,7 @@
 
 ## A Society Torn Apart by Lies
 
-Our society is fracturing before our eyes. Families divided. Churches splitting. The nation polarized. But this isn't just political disagreement or cultural tension. It's something far deeper—a fundamental breakdown of shared reality.
+Our society is fracturing. Families divided. Churches splitting. The nation polarized. This isn't political disagreement or cultural tension—it's a fundamental breakdown of shared reality.
 
 Everyone claims their own "truth." Gender ideology insists that biological sex is a social construct. Abortion advocates call the killing of the unborn "healthcare." Marriage has been redefined to mean whatever we want it to mean. Children, we're told, don't need both a mother and a father. Each group has its own "truth," and anyone who disagrees is labeled hateful, bigoted, or worse.
 
@@ -49,9 +49,7 @@ We've seen throughout this book that the Trinity is the pattern for all love. No
 
 The Father, Son, and Holy Spirit exist in perfect communion—three Persons, one God. Not three gods who cooperate. Not one Person with three masks. But three distinct Persons in one divine nature, united in perfect love.
 
-This is *perichoresis*—mutual indwelling. The Father is in the Son, the Son in the Father, the Spirit in both. They're distinct but not separate, united but not confused, one but not solitary.
-
-This is the model for all communion:
+This is *perichoresis*—mutual indwelling. The Father is in the Son, the Son in the Father, the Spirit in both. Distinct but not separate, united but not confused, one but not solitary. This is the model for all communion:
 
 **Distinct Persons:** You don't lose yourself in communion. You become more fully yourself. Each Person retains His distinctiveness. True communion doesn't erase identity—it fulfills it.
 
@@ -91,11 +89,11 @@ This is exile. This is being cast out from the communion you were born into. Thi
 
 The earlier chapters dealt with *abstractions* becoming concrete through children's experience. This chapter deals with something viscerally *personal*: the family itself rejecting you. Not just violating love's nature, but removing you from love's community.
 
-Consider what a child *knows* about belonging. Before anyone teaches them anything, they know they have a place. They are part of this family. They belong here. Mother, father, siblings—these aren't just relationships but the ground of their identity. "I am their child. I am part of this."
+Children intuitively know belonging. Before anyone teaches them, they know their place in the family. Mother, father, siblings—these aren't just relationships but the ground of their identity.
 
 And then: "You are no longer my child."
 
-The child's place—which they assumed was secure, which was the foundation of their world—has been revoked. They have been cast out of the communion that gave them identity. They have been told they no longer belong where they always belonged.
+The child's place—the foundation of their world—has been revoked. They've been cast out of the communion that gave them identity.
 
 This is why family rejection is so utterly devastating. It's not just emotional hurt. It's ontological exile. The child isn't just hurt—they've been told they don't exist as a member of this family anymore. Their place in communion has been erased.
 
@@ -109,7 +107,7 @@ But here's the hope: What children know instinctively about belonging points to 
 
 This is what Jesus meant when He commanded: "You, therefore, must be perfect, as your heavenly Father is perfect" (Matthew 5:48).
 
-Not "sinless" perfection—that's impossible in this life. **HOLY/WHOLE/COMPLETE perfection**—transformed by God's Love into God's Love, living in the true, just, merciful, and sacrificial communion we were made for.
+Not sinless perfection—that's impossible in this life. **HOLY/WHOLE/COMPLETE perfection**—transformed by God's Love, living in the true, just, merciful, and sacrificial communion we were made for.
 
 Perfect = living in full communion with God, neighbor, and true self.
 
@@ -174,16 +172,14 @@ The Culture of Death our society has embraced—contraception, abortion, euthana
 
 ### Spiritual Fruitfulness: All Vocations Called to Bear Fruit
 
-Not everyone is called to physical procreation, but all are called to spiritual fruitfulness—making disciples, forming others in faith, bringing life through prayer, service, and witness. "You did not choose me, but I chose you and appointed you that you should go and bear fruit and that your fruit should abide." (John 15:16). Every Christian is called to be fruitful.
+Not everyone is called to physical procreation, but all are called to spiritual fruitfulness—discipling others, forming others in faith, bringing life through prayer, service, and witness. "You did not choose me, but I chose you and appointed you that you should go and bear fruit and that your fruit should abide." (John 15:16). Every Christian is called to be fruitful.
 
 
 ### Sacramental: The Eucharist—Where the Definition Becomes REAL
 
 "I am the living bread which came down from heaven; if any one eats of this bread, he will live for ever." (John 6:51). Christ gives us His own Body and Blood as food. Not symbolically. Not metaphorically. Really, truly, substantially.
 
-When I reverted to Catholicism, I heard the Church teach that the Eucharist is "the source and summit of our faith." I didn't understand it at first. Source and summit? What did that even mean?
-
-I had to dig in. I had to study. I had to let the Church's wisdom teach me what I couldn't see on my own. And it was through digging into this teaching that the Church's Sacred Tradition opened my eyes to see what I had been missing: **the "end" is communion with God**. Which is why our definition of love shows the whole purpose of God's love is "life-giving communion."
+When I reverted to Catholicism, I heard the Church teach that the Eucharist is "the source and summit of our faith." I didn't understand it at first. But through study and submission to the Church's wisdom, Sacred Tradition opened my eyes: **the "end" is communion with God**. This is why our definition shows the whole purpose of God's love is "life-giving communion."
 
 The Eucharist IS the source and summit because:
 
@@ -278,7 +274,7 @@ Children need to SEE life-giving communion lived out—parents who are WHOLE (bo
 
 **This is urgent:**
 
-Children are being fed lies about love, identity, purpose, truth. They're being told there's no objective reality, no sacred truth, no holy communion. They're being raised in the Culture of Death that treats life as problem. They're being robbed of the wholeness they were made for.
+Children are being fed lies about love, identity, purpose, truth. They're being told there's no objective reality, no sacred truth, no communion. They're being raised in the Culture of Death that treats life as problem. They're being robbed of the wholeness they were made for.
 
 They're being told that gender is a choice, that marriage is whatever you want it to be, that children don't need mothers and fathers, that life in the womb isn't really life, that the elderly and disabled are burdens, that truth is whatever you feel it to be.
 

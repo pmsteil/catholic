@@ -40,11 +40,11 @@ A mother says she loves her children—then scrolls through social media while t
 
 A Christian says he loves God—then never prays, never serves, never sacrifices comfort or convenience for anyone. He hasn't opened his Bible in years. He skips Mass whenever it's inconvenient. He gives nothing to the poor and serves no one but himself. Does he love God?
 
-This is where love stops being sacred theory and becomes concrete reality. This is where the rubber meets the road, where faith becomes works, where words become flesh.
+Here love stops being theory and becomes reality. This is where the rubber meets the road, where faith becomes works of love, where words become flesh.
 
 In the previous chapter, we saw that mercy offers forgiveness, releases debts, restores relationships. But at what cost? Who pays the price? Mercy isn't free—someone must bear the cost. That cost is sacrifice. This is why sacrifice follows mercy in our exploration of love's facets.
 
-Love is **sacrificial**. Not in theory. Not in sentiment. Not in good intentions. In action. In cost. In the willingness to put another's good before our own.
+Love is **sacrificial**. Not in theory. Not in sentiment. Not in good intentions. In action. In cost. In putting another's good before our own.
 
 <div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
 Love without sacrifice is just sentiment. Love without action is just words. Love without cost is just self-interest wearing a mask. Authentic love always requires giving something up for the good of another.
@@ -56,7 +56,7 @@ The examples above show *absence* of sacrifice—the husband at golf, the mother
 
 *"I gave up everything for you."*
 
-Said with resentment. Said as accusation. Said to make the child feel like a burden.
+Said with resentment, as accusation, to make the child feel like a burden.
 
 A child knows immediately that something is wrong here. Yes, parents sacrifice—and children know it. They see the exhaustion, the missed opportunities, the years of giving. But authentic sacrifice is gift, not weapon. It creates gratitude, not guilt. It builds up the beloved rather than crushing them with debt.
 
@@ -74,7 +74,7 @@ Children know they should be gifts, not debts. They know sacrifice should come w
 
 ### How Sacrifice Conforms Our Souls to Christ
 
-**Here's the profound mystery: when we sacrifice for others, we're being transformed ourselves.** Each act of sacrifice conforms our soul more closely to Christ's. We are truly becoming more like Him through lived experience of self-giving love.
+**When we sacrifice for others, we're transformed ourselves.** Each act of sacrifice conforms our soul more closely to Christ's. We are truly becoming more like Him through lived experience of self-giving love.
 
 Your soul is like a child's heart that needs true and good inputs to become true and good itself. Every time you sacrifice for another—putting their needs before your wants—you're giving your soul the "input" of Christ-like love. Over time, these acts form your character, shape your desires, mold your very being. You're not just doing good things—you're becoming a good person, conformed to the image of the One who sacrificed everything for you.
 
@@ -90,7 +90,7 @@ The Old Testament sacrificial system wasn't arbitrary religious ritual—it was 
 
 **The Burnt Offering** (*olah*) was completely consumed on the altar—nothing held back. It taught that authentic love requires total self-gift, like a candle that burns itself out completely to give light, holding nothing of itself back.
 
-**The Sin Offering** (*hattat*) made atonement for wrongdoing. It taught that love must address the reality of sin and its consequences—that justice must be satisfied before relationship can be restored.
+**The Sin Offering** (*hattat*) atoned for wrongdoing. It taught that love must address the reality of sin and its consequences—that justice must be satisfied before relationship can be restored.
 
 **The Peace Offering** (*shelamim*) was shared between God, priest, and offerer. It taught that sacrifice creates communion—that self-gift leads to shared life and fellowship.
 
@@ -120,7 +120,7 @@ Christ's sacrifice on the cross perfectly integrates truth, justice, and mercy. 
 
 ## Why We Have Mass: Participating in Christ's Sacrifice
 
-This is why Catholics have Mass. Not because we're "re-sacrificing" Christ—His sacrifice was perfect and complete. But because love requires sacrifice, and we need to participate in Christ's perfect offering.
+This is why Catholics have Mass. Not because we're "re-sacrificing" Christ—His sacrifice was perfect and complete—but because love requires sacrifice, and we need to participate in Christ's perfect offering.
 
 At every Mass, several things happen simultaneously:
 
@@ -140,7 +140,7 @@ What could possibly be "lacking" in Christ's perfect sacrifice? Nothing—in ter
 
 In the Eucharist, we participate sacramentally. In daily life, we participate practically—every sacrifice we make for spouse, children, neighbor, enemy becomes part of Christ's ongoing redemptive work.
 
-Think of a father moving a heavy table. He is strong enough to lift it alone, but his toddler wants to "help." The father lets the child put his hands on the table and push. The father provides the strength, but he accepts the child's effort as a real contribution. This illustrates precisely what the Catechism teaches: "The merit of man before God in the Christian life arises from the fact that God has freely chosen to associate man with the work of his grace. The paternal action of God is first on his own initiative, and then follows man's free acting through his collaboration, so that the merit of good works is to be attributed in the first place to the grace of God, then to the faithful" (CCC 2008).
+A father moves a heavy table. He is strong enough to lift it alone, but his toddler wants to "help." The father lets the child put his hands on the table and push. The father provides the strength, but he accepts the child's effort as a real contribution. This illustrates precisely what the Catechism teaches: "The merit of man before God in the Christian life arises from the fact that God has freely chosen to associate man with the work of his grace. The paternal action of God is first on his own initiative, and then follows man's free acting through his collaboration, so that the merit of good works is to be attributed in the first place to the grace of God, then to the faithful" (CCC 2008). When we love, we are like that toddler—pushing with our strength, but accepting the Father's grace - his perfect love - as the true source of our merit.
 
 This is the "treasury of the Church," which includes "the infinite value, which can never be exhausted, which Christ's merits have before God" (CCC 1476). The Catechism further teaches that this treasury "includes as well the prayers and good works of the Blessed Virgin Mary" and "all the saints... In this way they attained their own salvation and at the same time cooperated in saving their brothers in the unity of the Mystical Body" (CCC 1477). Christ doesn't *need* our help. But He *wants* our participation. Our small sacrifices are like that toddler's push. We don't add to His infinite power, but He allows us to unite our finite love with His, making our small offering part of His eternal work.
 
