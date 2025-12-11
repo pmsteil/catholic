@@ -322,9 +322,23 @@ Perform the review thoroughly. Return ONLY the raw JSON object, nothing else."""
             json_end = clean_text.rfind("}") + 1
             if json_start != -1 and json_end > json_start:
                 json_str = clean_text[json_start:json_end]
-                review_data = json.loads(json_str)
-                review_data["_metadata"] = metadata
-                return review_data
+
+                # Try parsing directly first
+                try:
+                    review_data = json.loads(json_str)
+                    review_data["_metadata"] = metadata
+                    return review_data
+                except json.JSONDecodeError:
+                    # Try to repair common JSON issues
+                    repaired = json_str
+                    # Fix trailing commas before ] or }
+                    repaired = re.sub(r',(\s*[}\]])', r'\1', repaired)
+                    # Fix unescaped newlines in strings (replace with space)
+                    repaired = re.sub(r'(?<!\\)\n(?=[^"]*"[^"]*(?:"[^"]*"[^"]*)*$)', ' ', repaired)
+
+                    review_data = json.loads(repaired)
+                    review_data["_metadata"] = metadata
+                    return review_data
         except json.JSONDecodeError as e:
             # JSON parsing failed - return with error details
             return {
@@ -515,10 +529,24 @@ Perform the review thoroughly and return ONLY the JSON object with no additional
                 json_start = clean_text.find("{")
                 json_end = clean_text.rfind("}") + 1
                 if json_start != -1 and json_end > json_start:
-                    review_data = json.loads(clean_text[json_start:json_end])
-                    # Add metadata to the review data
-                    review_data["_metadata"] = metadata
-                    return review_data
+                    json_str = clean_text[json_start:json_end]
+
+                    # Try parsing directly first
+                    try:
+                        review_data = json.loads(json_str)
+                        review_data["_metadata"] = metadata
+                        return review_data
+                    except json.JSONDecodeError:
+                        # Try to repair common JSON issues
+                        repaired = json_str
+                        # Fix trailing commas before ] or }
+                        repaired = re.sub(r',(\s*[}\]])', r'\1', repaired)
+                        # Fix unescaped newlines in strings (replace with space)
+                        repaired = re.sub(r'(?<!\\)\n(?=[^"]*"[^"]*(?:"[^"]*"[^"]*)*$)', ' ', repaired)
+
+                        review_data = json.loads(repaired)
+                        review_data["_metadata"] = metadata
+                        return review_data
             except json.JSONDecodeError as e:
                 # Return error details instead of silently falling through
                 return {

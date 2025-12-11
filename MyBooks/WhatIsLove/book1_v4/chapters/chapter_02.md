@@ -36,9 +36,9 @@ Any adequate solution must address all three levels—a fix for individual heart
 
 But there's a deeper problem: if a solution can't overcome the destruction evil leads to—spiritual death, despair, meaninglessness—it only postpones defeat. And without objective truth, we can't even identify good from evil.
 
-An adequate solution must transform hearts, heal relationships, create just structures, overcome despair and meaninglessness, and be grounded in objective truth.
+An adequate solution must transform the human heart from selfishness, heal broken relationships, create just social structures, overcome the despair and meaninglessness that evil leads to, and be grounded in objective truth.
 
-The crucial question: What reality meets all five criteria?
+What reality meets all five criteria?
 
 ## The Universal Human Answer
 
@@ -46,7 +46,7 @@ Ask anyone across cultures and eras: what makes life worth living? What is the h
 
 Not wealth. Not power. Not pleasure. Not even fame—the four false gods that St. Thomas Aquinas warned lead us away from true happiness. When pressed, every human being points to love: love of family, love of friends, love of beauty, love of truth, love of something or someone beyond ourselves. We all know, deep in our bones, that love is what we're made for.
 
-From the devout saint to the secular mind—from Aristotle's *philia* to the Stoics' universal benevolence to Confucius's *ren* (benevolence) and the Buddha's *metta* (loving-kindness)—love in some form is often seen as the highest good. And even the hardened atheist who rejects this will find that God's Perfect Love exposes the failure of every alternative. (We'll address the specific failures of atheist frameworks in Chapter 14.)
+From Aristotle's *philia* to the Stoics' universal benevolence to Confucius's *ren* and the Buddha's *metta*—love in some form is universally seen as the highest good. And even the hardened atheist who rejects this will find that God's Perfect Love exposes the failure of every alternative. (We'll address the specific failures of atheist frameworks in Chapter 14.)
 
 The Church has long taught this truth through the concept of the *summum bonum*—the "highest good" that all human beings seek, whether they know it or not. Ancient philosophers searched for this ultimate good, but St. Thomas Aquinas demonstrated what reason discovers and revelation confirms: all human action aims at some good, but only one good can satisfy completely—union with God, who is Love itself. St. Augustine expressed this perfectly: our hearts are restless until they rest in God. The Catechism affirms this: "The desire for God is written in the human heart, because man is created by God and for God; and God never ceases to draw man to himself. Only in God will he find the truth and happiness he never stops searching for" (CCC 27). **This is why love—specifically, love that leads to communion with God—is the ultimate good, and therefore the complete answer to evil.**
 
@@ -70,13 +70,13 @@ This is why we can say with philosophical confidence, not just religious faith: 
 
 ## Scripture Confirms What Reason Discovers
 
-The conclusion we've reached through reason aligns perfectly with Scripture. The Bible doesn't just suggest love as one option among many; it reveals that **"God is love"** (1 John 4:8). Love isn't merely something God does—it's who God is. If love is the ultimate good and God is Love, then God's Love is the ultimate good and therefore the answer to evil.
+The conclusion we've reached through reason aligns perfectly with Scripture. The Bible reveals that **"God is love"** (1 John 4:8)—not merely something God does, but who God is. Since love is the ultimate good and God is Love, God's Love is the ultimate good and therefore the answer to evil.
 
 This teaching runs from the Old Testament to the New. When Moses gave Israel the greatest commandment, he said: "You shall love the LORD your God with all your heart, and with all your soul, and with all your might" (Deuteronomy 6:5). Centuries later, when a scholar of the law asked Jesus, "Teacher, what must I do to inherit eternal life?"—essentially asking, "What is the ultimate good? What conquers evil and death itself?"—Jesus pointed to exactly what human reason discovers and what Moses taught:
 
 "You shall love the Lord your God with all your heart, and with all your soul, and with all your strength, and with all your mind; and your neighbor as yourself." (Luke 10:27)
 
-From Genesis to Revelation, from the Law to the Prophets to the Gospels, the consistent message is clear: **Love is the apex of biblical teaching.** Not rules for their own sake. Not ritual divorced from relationship. Not knowledge without transformation. But love—authentic, complete, perfect love—as the path to eternal life and the answer to every form of evil.
+Scripture's consistent message is clear: **Love is the apex of biblical teaching.** Not rules for their own sake. Not ritual divorced from relationship. Not knowledge without transformation. But love—authentic, complete, perfect love—as the path to eternal life and the answer to every form of evil.
 
 <div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
 Scripture confirms what reason discovers: God is love, and love is the apex of all biblical teaching—the path to eternal life and the answer to evil.
@@ -110,7 +110,7 @@ Through careful study of Scripture and the Church's teaching on love, we can see
 <strong>God's Perfect Love is the sacred gift of covenant binding truth, justice, mercy and sacrifice into life-giving communion.</strong>
 </div>
 
-**What does "perfect" mean here?** These four facets—truth, justice, mercy, and sacrifice—are not separate attributes of God but inseparable aspects of His one, simple nature. In God, truth *is* justice *is* mercy *is* sacrifice—distinct in our understanding but unified in His being. Our problem is we try to divide what God has united: mercy without truth, justice without sacrifice. In God's Perfect Love, they exist as one harmonious whole - they are "perfect".
+"Perfect" means these four facets exist as inseparable aspects of God's one nature. In God, truth *is* justice *is* mercy *is* sacrifice—distinct in our understanding but unified in His being. Our problem is dividing what God has united: mercy without truth, justice without sacrifice. In God's Perfect Love, they exist as one harmonious whole. They are "Holy" (wholly).
 
 Every word in this definition matters:
 
@@ -156,7 +156,7 @@ We begin with the first word of our definition: **sacred**. Why start there? Bec
 
 Our focus in this book is on *moral* evil—the evil that comes from human hearts choosing against good (because this is evil that we can choose to avoid). But what about *natural* evil—suffering, disease, death, decay? I've found that as I've thought deeply about God's Perfect Love and its power against moral evil, the objections about natural evil seem to fade away and are seen in their proper context. Once you see how truth, justice, mercy, and sacrifice transform moral evil, you begin to see natural evil differently—not as an argument against God's love, but as the very context that makes authentic love possible and proves it real. **Truth** reveals that suffering has meaning when united to Christ, while **justice** demands we fight against preventable suffering—but **mercy** teaches us to accept with compassion what cannot be changed, offering hope beyond this life. These three work together: truth grounds our understanding, justice directs our action, and mercy completes both with compassion and hope. **Sacrifice** then transforms suffering from meaningless pain into redemptive love. Without suffering, there could be no sacrifice; without mortality, no appreciation for the gift of life; without the possibility of loss, no gift of self.
 
-This is why the saints could embrace suffering—not because they loved pain, but because they saw how suffering, united to Christ's love through these four facets, becomes redemptive. Consider how these facets transform even the deepest natural suffering: When we lose someone we love, the very grief we feel becomes *proof* that our love was real and remains real—**truth** made manifest. Honoring them properly in death, giving them the dignity they deserve—this is **justice** that transcends the grave. Allowing ourselves to grieve fully, neither avoiding the pain nor succumbing to despair, trusting in the hope of resurrection—this is **mercy** toward ourselves and faith in God's mercy toward them. And the entire experience of loss, when united to Christ, becomes **sacrifice** that deepens our capacity to love. This is what it means to suffer "graciously"—not with mere stoicism, but with grace, which is God's Perfect Love working in us even through our tears and heartache.
+The four facets transform even natural suffering: **Truth** reveals that suffering has meaning when united to Christ. **Justice** demands we fight preventable suffering. **Mercy** teaches us to accept with compassion what cannot be changed. **Sacrifice** transforms suffering from meaningless pain into redemptive love—without suffering, there could be no sacrifice; without mortality, no appreciation for life's gift.
 
 My hope is that as you journey through this book and encounter the depth of God's Perfect Love, the problem of natural evil will similarly recede for you, seen in its proper context as the stage on which authentic love proves itself real. God's Perfect Love doesn't promise to eliminate natural suffering in this life, but it gives suffering ultimate meaning and promises final victory in the resurrection of the body and the life of the world to come.
 
