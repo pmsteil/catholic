@@ -32,7 +32,7 @@ Easy to say on a wedding day when everything feels perfect. Harder when tragedy 
 
 Beautiful words from parent to child. Until the divorce, the new family, the skipped weekends, the unreturned calls. The child learns "always" has conditions.
 
-This is the crisis of modern love: We want permanence but worship freedom. We crave commitment but demand escape clauses. We long for covenant but settle for contracts—with their fine print, conditions, expiration dates, and ways out when things get hard.
+This is the crisis of modern love: We want permanence but worship freedom. We crave commitment but demand escape clauses. We long for covenant but settle for contracts.
 
 <div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
 Love requires covenant, not contract. Contracts are conditional and temporary—"I'll stay as long as you meet my needs." Covenants are unconditional and permanent—"I'm yours, no matter what." Without covenant, love has no foundation to endure.
@@ -70,7 +70,7 @@ This isn't oppression—it's freedom. The freedom of knowing someone is committe
 
 But what IS freedom? Our culture has it backwards.
 
-Pope Saint John Paul II taught that **"freedom exists for love, not for autonomy."** This is revolutionary. Our culture says freedom means "no commitments, no obligations, no one telling me what to do." But that's not freedom—that's isolation. True freedom is the capacity to make a total gift of yourself to another. As Pope Saint John Paul II wrote, "Man cannot fully find himself except through a sincere gift of himself." Covenant doesn't restrict freedom—it fulfills it. When you freely choose to bind yourself permanently to another in love, you're exercising the highest form of freedom: the freedom to love as God loves.
+Pope Saint John Paul II taught that **"freedom exists for love, not for autonomy."** Our culture says freedom means no commitments, no obligations. But that's isolation, not freedom. True freedom is the capacity to give yourself totally to another. As John Paul II wrote, "Man cannot fully find himself except through a sincere gift of himself." Covenant doesn't restrict freedom—it fulfills it.
 
 ## The Biblical Pattern: God's Covenant Love
 
@@ -104,9 +104,7 @@ But this idea of "embracing" God's law brings us to a difficult word, one that o
 
 ## Authority Properly Understood: Invitation vs. Force
 
-Here's where we need to be careful. The word "authority" has been so abused—by tyrants, by abusers, by those who use power to dominate—that many people recoil from it. But this is because we don't understand what a "true" authority is.
-
-Covenant requires authority. Not the authority of coercion or control. True authority is inherent only to the AUTHOR.
+The word "authority" has been abused by tyrants and manipulators until many recoil from it. But true authority is inherent only to the AUTHOR.
 
 <div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
 God's "authority" comes from being the "author" of all Creation and Love specifically—He designed how love works. His "laws" aren't arbitrary commands but the blueprint for authentic love. Authority is only truly active when WE FREELY SUBMIT our will to His design.
@@ -122,21 +120,17 @@ Think about it practically:
 
 If humans are the source of morality, which humans decide? Ancient Sparta thought exposing weak infants was "just." Modern progressives think aborting them is "just." Without a transcendent standard, morality becomes a power struggle. **When morality is authored by humans rather than received from divine authority, it must be imposed through force.** This is what happens when humans try to fabricate justice using limited human opinion rather than divine authority.
 
-This is why major atheistic totalitarian regimes have ended in mass murder—the logical outcome of rejecting God's authority.
+This is why atheistic regimes resort to mass murder—the inevitable result of grounding morality in human power rather than divine truth. Nazi fascism: 11 million dead. Soviet communism: 20 million. Chinese communism: 45 million. The gulags and killing fields are what happens when humans fabricate justice without God's authority.
 
-The death tolls of atheistic regimes are staggering: Nazi fascism left over 11 million dead; Soviet communism killed more than 20 million; Chinese communism claimed over 45 million lives. These aren't accidents but the inevitable result of grounding morality in human power rather than divine truth. When morality is grounded in human power rather than divine truth, it must be imposed through terror. The gulags and killing fields are what happen when humans try to fabricate justice without depending on God's true authority. The wages of sin (not getting love right) truly are death.
+The wages of sin truly is death.
 
 **God's Authority Invites Free Submission:**
 
-By contrast, God doesn't impose arbitrary rules from on high. He reveals the truth about reality, about human nature, about what genuinely leads to our flourishing. When we voluntarily submit to God's authority—enabled by grace—whether directly through Scripture and Church teaching, or indirectly through legitimate human authorities (parents, Church, just laws)—we're not surrendering our freedom. We're embracing the only path to true freedom.
+By contrast, God reveals truth about reality and human flourishing. When we voluntarily submit to His authority—enabled by grace—we're not surrendering freedom. We're embracing the only path to it.
 
-Think about a loving parent telling a toddler not to touch the hot stove. Is that authority being "imposed" on the child? Or is the parent revealing a truth about reality that, if the child submits to it, will protect the child from harm? The parent's authority flows from genuine knowledge of what's good for the child and genuine desire for the child's wellbeing. Parents, understand that your authority is only good if it reflects God's authority—teaching your child to submit freely to what's truly good for them.
+Think about a parent telling a toddler not to touch the hot stove. The parent's authority flows from genuine knowledge of what's good for the child. God's authority works the same way—infinitely more so. **True authority wants what's genuinely good for us and invites free submission. False authority wants what's good for those in power and demands forced compliance.**
 
-God's authority works the same way—but infinitely more so. **True authority wants what's genuinely good for us and invites our free submission. False authority wants what's good for those in power and demands our forced compliance.**
-
-**This is why authentic Christian movements throughout history have never needed to impose their morality through force.** They invite people to freely recognize the truth, and human hearts—made in God's image—respond with joy when they encounter what's genuinely good for them. The earliest generations of Christian saints didn't terrorize people into holiness; they gave their lives as a living witness of their deep submission to God - showing that true freedom comes from voluntarily aligning with divine truth.
-
-By contrast, every regime that tries to create its own morality must impose it through violence, because human hearts instinctively resist what contradicts our nature. True authority liberates. False authority enslaves.
+**This is why authentic Christian movements have never *needed* to impose morality through force.** The earliest saints gave their lives as witness, showing that true freedom comes from voluntarily aligning with divine truth. True authority liberates. False authority enslaves.
 
 **The Piano Analogy:**
 
@@ -215,23 +209,13 @@ Jesus came to fulfill the Law (Matthew 5:17). We're called to imitate Him—to f
 
 **For Men and Women Together:**
 
-Marriage enables us to fulfill **truth**—the truth of who we are as complementary beings created to unite and bear children. A man alone cannot fulfill his nature. A woman alone cannot fulfill her nature. We're designed for union, fruitfulness, and the complete gift of self that creates new life.
-
-Marriage enables us to fulfill **justice**—giving each person what they're owed according to their dignity and nature. Husband and wife, in their distinctive and complementary ways, give each other security, honor, and care. Children receive what they're owed: the love of both mother and father, stability, formation, and a home where they can flourish. This isn't oppression—it's the mutual gift of what each family member needs to thrive.
-
-Marriage enables us to fulfill **mercy**—teaching children how to love by modeling forgiveness, patience, and compassion. Parents don't just tell children about mercy—they show it daily. The family becomes the first school of love.
-
-**This Pattern is Universal, Not Culturally Constructed:**
+Marriage enables us to fulfill all three: **truth** (our complementary nature designed for union and fruitfulness), **justice** (giving spouse and children what they're owed—security, honor, care, stability), and **mercy** (modeling forgiveness and compassion daily). The family becomes the first school of love.
 
 We see this pattern across cultures, throughout history, in every civilization: husband-father who protects and provides, wife-mother who nurtures and cares, children raised by both learning love from their complementary gifts.
 
 This isn't a "social construct" we can redesign at will. It's a basic truth of human nature—written into our bodies, psychology, and deepest longings. **Marriage between man and woman, ordered toward children, is what most fully fulfills both our desire to love and our desire to be loved.**
 
-When a man gives himself completely to his wife and children—protecting, providing, sacrificing—he becomes more fully himself. Not losing his freedom but exercising it in the highest way possible.
-
-When a woman gives herself completely to her husband and children—nurturing, caring, creating the home—she becomes more fully herself. Not being oppressed but fulfilling the deepest calling written on her heart.
-
-When children are raised by both mother and father, receiving the complementary gifts each provides, they learn what authentic love looks like. They see justice and mercy working together, truth embodied in covenant. They're prepared to give themselves in love when their time comes.
+When a man gives himself completely to his wife and children, he becomes more fully himself—not losing freedom but exercising it in the highest way. When a woman gives herself completely to her husband and children, she fulfills the deepest calling written on her heart. When children receive both parents' complementary gifts, they learn what authentic love looks like and are prepared to give themselves in love when their time comes.
 
 **This is the book's comprehensive definition made concrete:** Marriage is the sacred, sacrificial gift of covenant which binds truth, justice, and mercy into life-giving communion. In marriage, we see perfect love embodied in the most fundamental human relationship—which is why covenant love in marriage is such a powerful weapon against evil.
 
