@@ -787,7 +787,7 @@ def display_results(results: List[Dict[str, Any]], agent_name: str):
                     # Show raw output preview if present (first 500 chars)
                     if result.get("raw_output"):
                         raw_output = result["raw_output"]
-                        preview_length = 500
+                        preview_length = 99999
                         if len(raw_output) > preview_length:
                             preview = raw_output[:preview_length] + "..."
                         else:
