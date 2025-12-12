@@ -806,22 +806,7 @@ def display_results(results: List[Dict[str, Any]], agent_name: str):
                             padding=(1, 2)
                         ))
 
-                # Failed checks
-                failed_checks = result.get("failed_checks", [])
-                if failed_checks:
-                    table = Table(show_header=True, header_style="bold red", border_style="red")
-                    table.add_column("Check", style="warning")
-                    table.add_column("Issue", style="error")
-                    table.add_column("Location", style="info")
-
-                    for check in failed_checks:
-                        table.add_row(
-                            check.get("check", "Unknown"),
-                            check.get("issue", "No details"),
-                            check.get("location", "N/A")
-                        )
-
-                    console.print(table)
+                # Failed checks - details are in HTML report, skip console table
 
                 # Recommendations (with priority support)
                 recommendations = result.get("recommendations", [])
@@ -1927,3 +1912,5 @@ Ad Maiorem Dei Gloriam ✟
 
 if __name__ == "__main__":
     main()
+        summary_msg = f"[success]✓ Review Complete[/success]\n"
+        summary_msg = f"[success]✓ Review Complete[/success]\n"

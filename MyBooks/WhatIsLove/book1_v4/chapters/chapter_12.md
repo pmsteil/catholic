@@ -22,7 +22,7 @@
 
 ## Introduction: Every Virtue Flows from Perfect Love
 
-In the previous chapter, we established that love is an objective law requiring a lawgiver—God Himself. Now we see the practical implications: if virtues are habits that align us with God's nature as Love, then **every virtue should uphold and flow from the four pillars of perfect love (Truth, Justice, Mercy, and Sacrifice).**
+The previous chapter established love as an objective law requiring a lawgiver—God Himself. Now we see the practical implications: if virtues are habits that align us with God's nature as Love, then **every virtue should uphold and flow from the four pillars of perfect love (Truth, Justice, Mercy, and Sacrifice).**
 
 Consider a mother who stays up all night with a sick child. In that single act, she embodies truth (acknowledging her child's real need), justice (fulfilling her duty as a parent), mercy (responding with compassion rather than irritation), and sacrifice (giving up her own rest for another's good). This is virtue in action—the four pillars integrated in a concrete act of love.
 
@@ -67,7 +67,7 @@ The matrix below shows which pillar(s) each virtue primarily relates to. A "✓"
 
 **Why Some Virtues Relate to All Four Pillars:**
 
-Notice that certain virtues—Charity/Love, Prudence, Wisdom, Humility, and several others—have checkmarks across all four pillars. This isn't arbitrary. These are **integrative virtues** that by their very nature require the harmonious exercise of truth, justice, mercy, and sacrifice together.
+Certain virtues—Charity/Love, Prudence, Wisdom, Humility—have checkmarks across all four pillars. These are **integrative virtues** that by their very nature require the harmonious exercise of truth, justice, mercy, and sacrifice together.
 
 Charity (caritas in latin, agape in Greek) is the supreme virtue. As the Catechism teaches: "The practice of all the virtues is animated and inspired by charity, which 'binds everything together in perfect harmony'; it is the form of the virtues; it articulates and orders them among themselves; it is the source and the goal of their Christian practice" (CCC 1827). You cannot truly love without truth, justice, mercy, and sacrifice. Prudence requires truth to see reality clearly, justice to discern what's owed, mercy to temper judgment, and sacrifice to choose the good even when costly. Wisdom sees how all things fit together in God's plan, requiring all four pillars.
 
@@ -75,7 +75,7 @@ By contrast, virtues like Chastity primarily relate to truth, justice, and sacri
 
 **Virtues also serve covenant and communion.** Faithfulness, chastity, and obedience preserve covenant bonds. Kindness, generosity, and patience build life-giving communion with others. Every virtue, rightly understood, serves the complete definition of perfect love.
 
-The pattern reveals: **The more comprehensive and integrative a virtue is, the more it engages all four pillars of perfect love.** This confirms that our definition truly captures the essence of authentic Christian virtue.
+The pattern reveals: **The more comprehensive and integrative a virtue is, the more it engages all four pillars of perfect love.** This confirms that our definition captures the essence of authentic Christian virtue.
 
 <div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
 This is what it means to love God with all your heart, soul, mind, and strength—and your neighbor as yourself. Every virtue is an expression of this total love.
@@ -85,7 +85,7 @@ This is what it means to love God with all your heart, soul, mind, and strength�
 
 ## The Flip Side: Vice as the Denial of Love
 
-Just as every virtue upholds the four pillars, **every vice denies or distorts them.** Pride denies the truth of our dependence on God. Greed violates justice by hoarding what others need. Wrath refuses mercy. Sloth rejects sacrifice. The next chapter will examine vices in detail, showing how sin is fundamentally a failure to love—and how God's mercy provides the path to restoration.
+Just as every virtue upholds the four pillars, **every vice denies or distorts them.** Pride denies the truth of our dependence on God. Greed violates justice by hoarding what others need. Wrath refuses mercy. Sloth rejects sacrifice. The next chapter examines vices in detail, showing how sin is fundamentally a failure to love—and how God's mercy provides the path to restoration.
 
 For now, the key insight is this: **virtue and vice are not arbitrary categories.** They flow from the same source—our relationship to perfect love. When we embrace the four pillars, we grow in virtue. When we deny them, we fall into vice.
 
@@ -93,12 +93,10 @@ For now, the key insight is this: **virtue and vice are not arbitrary categories
 
 ## The Integration of Faith and Love
 
-The matrix confirms what we've seen: **every Catholic virtue upholds the four pillars; every vice denies them.**
-
-This demonstrates that our definition of perfect love—**"the sacred gift of covenant binding truth, justice, mercy and sacrifice into life-giving communion"**—truly captures the heart of the Gospel.
+The matrix confirms: **every Catholic virtue upholds the four pillars; every vice denies them.** Our definition of perfect love—**"the sacred gift of covenant binding truth, justice, mercy and sacrifice into life-giving communion"**—captures the heart of the Gospel.
 
 **Key Insights:**
-- Every virtue upholds at least one pillar, and most uphold multiple pillars working together
+- Most virtues uphold multiple pillars working together
 - Some integrative virtues (like Charity, Prudence, Wisdom) require all four pillars in harmony
 - The pillars are deeply interconnected—you cannot have true justice without truth, authentic mercy without sacrifice
 - Perfect love is the foundation of all virtue; vice is its absence or distortion
@@ -143,11 +141,11 @@ A lawyer asked Jesus, **"Teacher, what shall I do to inherit eternal life?"** Je
 
 And Jesus said to him, **"You have answered right; do this, and you will live."** (Luke 10:25-28)
 
-Do you see what just happened? When asked directly **"What must I do to inherit eternal life?"**—the question every human heart asks—Jesus affirmed that the answer is *this*: love God with everything you are, and love your neighbor as yourself. **Do this, and you will live.**
+When asked directly **"What must I do to inherit eternal life?"**—the question every human heart asks—Jesus affirmed that the answer is *this*: love God with everything you are, and love your neighbor as yourself. **Do this, and you will live.**
 
 This is the summary of everything we've explored in this chapter. To love God with all your **heart** is to desire truth, justice, mercy, and sacrifice. To love Him with all your **soul** is to orient your entire being toward communion with Him. To love Him with all your **mind** is to embrace the truth He has revealed. To love Him with all your **strength** is to sacrifice—to act, to serve, to give yourself completely.
 
-And to love your neighbor as yourself? That's where virtue becomes visible. Every virtue in the matrix above is simply an expression of this twofold love—love of God and love of neighbor, integrated and inseparable.
+And to love your neighbor as yourself? That's where virtue becomes visible—every virtue in the matrix above is simply an expression of this twofold love, integrated and inseparable.
 
 Virtue is not merely intellectual assent—it engages body, mind, and soul:
 - **Body:** Virtues form habits of action. The patient person doesn't just think patient thoughts; their body learns to pause, breathe, and respond calmly.
