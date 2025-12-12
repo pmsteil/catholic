@@ -64,7 +64,7 @@ Scan every sentence for these common verbosity patterns:
 For each paragraph, ask:
 
 1. **Does this paragraph make ONE clear point?** If it makes multiple points, should it be split or tightened?
-2. **Is the point made in the first 1-2 sentences?** If the main idea is buried at the end, restructure.
+2. **Is the point made in the first 1-2 sentences?** If the main idea is buried at the end, restructure (unless the paragraph is intentionally building tension for a hook/crescendo).
 3. **Are there sentences that repeat the same idea in different words?** Combine or delete.
 4. **Does every sentence advance the argument?** If a sentence could be removed without losing meaning, flag it.
 
@@ -106,64 +106,18 @@ Evaluate the chapter's overall structure:
 
 ---
 
-## Output Format (JSON)
+## Output
 
-Return your response as a **valid, parseable JSON object**. Follow these strict requirements:
+Return **only** the JSON object specified. Do not include any prose, markdown, or code fences outside the JSON.
 
-**JSON FORMATTING RULES:**
-- Use ASCII straight quotes only (", not curly quotes "" or '')
-- Escape quotes inside strings with backslash: \"
-- Escape newlines inside strings with: \n
-- No trailing commas after the last item in arrays or objects
-- No comments in the JSON
-- overall_status MUST be exactly "PASS" or "FAIL" - no other values
+**Status rule:**
+- Set `overall_status` to `"PASS"` when `failed_checks` is empty.
+- Set `overall_status` to `"FAIL"` when `failed_checks` is non-empty.
 
-```json
-{
-  "chapter_name": "chapter_01.md",
-  "overall_status": "PASS" or "FAIL",
-  "summary": "Brief assessment of the chapter's conciseness",
-  "major_points": [
-    {"point": "Point 1 Title", "summary": "One-sentence summary"},
-    {"point": "Point 2 Title", "summary": "One-sentence summary"}
-  ],
-  "successful_checks": [
-    {"check": "Sentence-Level Conciseness", "details": "No verbose patterns found"},
-    {"check": "Section-Level Redundancy", "details": "No belabored points identified"}
-  ],
-  "failed_checks": [
-    {"check": "Paragraph Structure", "issue": "Main point buried in paragraph", "location": "Lines 45-52"}
-  ],
-  "recommendations": [
-    {
-      "priority": 1,
-      "location": "Line 45",
-      "issue": "Throat-clearing phrase",
-      "original": "It is important to note that love requires sacrifice",
-      "suggested": "Love requires sacrifice",
-      "words_saved": 6
-    },
-    {
-      "priority": 2,
-      "location": "Line 78",
-      "issue": "Verbose phrasing",
-      "original": "creates waves that ripple outward",
-      "suggested": "ripples outward",
-      "words_saved": 3
-    },
-    {
-      "priority": 3,
-      "location": "Line 53",
-      "issue": "Stylistic preference",
-      "original": "Here's the tragedy",
-      "suggested": "Yet the tragedy"
-    }
-  ]
-}
-```
-
-### If the chapter passes all checks:
-Set `overall_status` to `"PASS"` and leave `recommendations` as an empty array.
+**Recommendations:**
+- Prefer structured recommendations with `priority` (1-3), `location`, `issue`, `original`, and `suggested`.
+- Use `words_saved` when it's meaningful.
+- If line numbers are unstable, use a section heading plus a short excerpt for `location`.
 
 ---
 
@@ -202,9 +156,3 @@ Set `overall_status` to `"PASS"` and leave `recommendations` as an empty array.
 10. **Trust the reader:** Don't over-explain. Catholic readers can handle substantive content.
 11. **Every word must earn its place:** If a word doesn't add meaning *or rhetorical power*, cut it.
 12. **The "Would C.S. Lewis cut this?" test:** Lewis was concise but never dry. If a passage has the kind of memorable, quotable power that makes readers underline it, preserve it even if it's not strictly "necessary."
-
----
-
-## After Review
-
-After providing the JSON output, make all suggested edits directly to the chapter for the user to review. Present a clean, tightened version alongside the original flagged items so the user can see what changed and why.

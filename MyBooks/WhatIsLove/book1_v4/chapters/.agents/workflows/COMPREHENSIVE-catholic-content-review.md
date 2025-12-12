@@ -57,50 +57,17 @@
 
 ---
 
-## Output Format (JSON)
+## Output
 
-Return your response as a JSON object with this structure:
+Return **only** the JSON object specified by the calling tool. Do not include any prose, markdown, or code fences outside the JSON.
 
-```json
-{
-  "chapter_name": "chapter_01.md",
-  "overall_status": "PASS" or "FAIL",
-  "summary": "Executive summary of the chapter's health",
-  "successful_checks": [
-    {"check": "Theological Precision", "details": "All theological statements accurate to Magisterium"},
-    {"check": "Core Definition Integration", "details": "Chapter clearly serves the 'truth' facet of the definition"}
-  ],
-  "failed_checks": [
-    {"check": "Argument Structure", "issue": "Logical leap between sections 2 and 3", "location": "Lines 45-60"}
-  ],
-  "recommendations": [
-    {
-      "priority": 1,
-      "location": "Line 45",
-      "issue": "Theological ambiguity",
-      "original": "God changes His mind when we pray",
-      "suggested": "God, in His eternal providence, incorporates our prayers into His unchanging plan"
-    },
-    {
-      "priority": 2,
-      "location": "Lines 78-95",
-      "issue": "Pacing - section belabors point",
-      "original": "[Full section text]",
-      "suggested": "Condense to 2 paragraphs; the argument is won by line 82"
-    },
-    {
-      "priority": 3,
-      "location": "Line 120",
-      "issue": "Clarity",
-      "original": "This is what the Church has always taught about this matter",
-      "suggested": "The Church has consistently taught that love requires sacrifice"
-    }
-  ]
-}
-```
+**Status rule:**
+- Set `overall_status` to `"PASS"` when `failed_checks` is empty.
+- Set `overall_status` to `"FAIL"` when `failed_checks` is non-empty.
 
-### If the chapter passes all checks:
-Set `overall_status` to `"PASS"` and leave `recommendations` as an empty array.
+**Recommendations:**
+- Use priority `1`/`2`/`3` per the priority system.
+- Prefer structured recommendations with `priority`, `location`, `issue`, `original`, and `suggested`.
 
 ---
 
@@ -130,4 +97,4 @@ Set `overall_status` to `"PASS"` and leave `recommendations` as an empty array.
 ## Notes
 - **Scripture Verification:** Do not verify scripture quotes; handled by BIBLE agent.
 - **Catechism Verification:** Do not verify CCC quotes; handled by CCC agent.
-- After providing JSON output, make all suggested edits directly to the chapter for the user to review.
+

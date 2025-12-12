@@ -27,7 +27,6 @@ from rich.console import Console
 from rich.panel import Panel
 from rich.progress import Progress, SpinnerColumn, TextColumn, BarColumn, TaskProgressColumn
 from rich.table import Table
-from rich.markdown import Markdown
 from rich.theme import Theme
 from rich.prompt import Confirm, Prompt
 
@@ -493,7 +492,7 @@ Review instructions: @{workflow_file}
 IMPORTANT: Return your response in the following JSON format:
 {{
     "chapter_name": "{chapter_file.name}",
-    "overall_status": "PASS" or "FAIL",
+    "overall_status": "PASS",
     "successful_checks": [
         {{"check": "Check name", "details": "Why it passed"}}
     ],
@@ -504,7 +503,10 @@ IMPORTANT: Return your response in the following JSON format:
     "recommendations": ["List of final recommendations for improvement of the chapter based on all failed_checks"]
 }}
 
-Perform the review thoroughly and return ONLY the JSON object with no additional text or markdown."""
+CRITICAL:
+- overall_status MUST be exactly "PASS" or "FAIL" (no other values)
+- Return ONLY the JSON object with no additional text or markdown
+"""
 
     try:
         result = subprocess.run(
@@ -1889,12 +1891,12 @@ Ad Maiorem Dei Gloriam ✟
         console.print(f"[info]Versioned report:[/info] [chapter]{output_file}[/chapter]")
         console.print(f"[info]Latest report:[/info] [chapter]{final_file}[/chapter]")
 
-        summary_msg = f"[success]✓ Review Complete[/success]\n"
+        summary_msg = "[success]✓ Review Complete[/success]\n"
         summary_msg += f"[info]Versioned:[/info] [chapter]reports/{output_file.name}[/chapter]\n"
         summary_msg += f"[info]Latest:[/info] [chapter]reports/final/{final_file.name}[/chapter]\n"
 
     if total_tokens > 0:
-        summary_msg += f"\n[sacred]📊 Total Usage:[/sacred]\n"
+        summary_msg += "\n[sacred]📊 Total Usage:[/sacred]\n"
         summary_msg += f"[info]  Input tokens: {total_input_tokens:,}[/info]\n"
         summary_msg += f"[info]  Output tokens: {total_output_tokens:,}[/info]\n"
         summary_msg += f"[info]  Total tokens: {total_tokens:,}[/info]\n"

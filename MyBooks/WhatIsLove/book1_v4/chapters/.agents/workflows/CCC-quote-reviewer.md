@@ -40,46 +40,17 @@ For each CCC reference, use these **reliable sources** (in order of preference):
 
 ---
 
-## Output Format (JSON)
+## Output
 
-Return your response as a JSON object with this structure:
+Return **only** the JSON object specified by the calling tool. Do not include any prose, markdown, or code fences outside the JSON.
 
-```json
-{
-  "chapter_name": "chapter_01.md",
-  "overall_status": "PASS" or "FAIL",
-  "summary": "Brief summary of verification results",
-  "successful_checks": [
-    {"check": "CCC Verification", "details": "All X citations verified against official sources"}
-  ],
-  "failed_checks": [
-    {"check": "CCC Accuracy", "issue": "Description of problem", "location": "Line X"}
-  ],
-  "recommendations": [
-    {
-      "priority": 1,
-      "location": "Line 45",
-      "issue": "Misquote",
-      "original": "Charity is the theological virtue...",
-      "suggested": "Charity is the theological virtue by which we love God above all things...",
-      "reference": "CCC 1823",
-      "source_link": "https://scborromeo.org/ccc/para/1823.htm"
-    },
-    {
-      "priority": 2,
-      "location": "Line 78",
-      "issue": "Paraphrase as quote",
-      "original": "Jesus summarizes the law",
-      "suggested": "When someone asks him, 'Which commandment in the Law is the greatest?'...",
-      "reference": "CCC 2055",
-      "source_link": "https://scborromeo.org/ccc/para/2055.htm"
-    }
-  ]
-}
-```
+**Status rule:**
+- Set `overall_status` to `"PASS"` when `failed_checks` is empty.
+- Set `overall_status` to `"FAIL"` when `failed_checks` is non-empty.
 
-### If ALL citations verify correctly:
-Set `overall_status` to `"PASS"` and leave `recommendations` as an empty array.
+**Recommendations:**
+- Use priority `1`/`2`/`3` per the priority system.
+- Include `reference` and `source_link` for each CCC-related correction.
 
 ---
 

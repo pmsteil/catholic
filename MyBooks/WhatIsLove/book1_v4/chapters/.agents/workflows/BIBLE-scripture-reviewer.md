@@ -36,46 +36,17 @@ Examples:
 
 ---
 
-## Output Format (JSON)
+## Output
 
-Return your response as a JSON object with this structure:
+Return **only** the JSON object specified by the calling tool. Do not include any prose, markdown, or code fences outside the JSON.
 
-```json
-{
-  "chapter_name": "chapter_01.md",
-  "overall_status": "PASS" or "FAIL",
-  "summary": "Brief summary of verification results",
-  "successful_checks": [
-    {"check": "Scripture Verification", "details": "All X verses verified against RSVCE"}
-  ],
-  "failed_checks": [
-    {"check": "Scripture Accuracy", "issue": "Description of problem", "location": "Line X"}
-  ],
-  "recommendations": [
-    {
-      "priority": 1,
-      "location": "Line 45",
-      "issue": "Misquote",
-      "original": "For God loved the world...",
-      "suggested": "For God so loved the world that he gave his only Son...",
-      "reference": "John 3:16",
-      "source_link": "https://www.biblegateway.com/passage/?search=John+3:16&version=RSVCE"
-    },
-    {
-      "priority": 2,
-      "location": "Line 78",
-      "issue": "Paraphrase as quote",
-      "original": "All things work for good",
-      "suggested": "We know that in everything God works for good with those who love him",
-      "reference": "Rom 8:28",
-      "source_link": "https://www.biblegateway.com/passage/?search=Romans+8:28&version=RSVCE"
-    }
-  ]
-}
-```
+**Status rule:**
+- Set `overall_status` to `"PASS"` when `failed_checks` is empty.
+- Set `overall_status` to `"FAIL"` when `failed_checks` is non-empty.
 
-### If ALL verses verify correctly:
-Set `overall_status` to `"PASS"` and leave `recommendations` as an empty array.
+**Recommendations:**
+- Use priority `1`/`2`/`3` per the priority system.
+- Include `reference` and `source_link` for each Scripture-related correction.
 
 ---
 

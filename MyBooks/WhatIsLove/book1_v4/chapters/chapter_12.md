@@ -93,9 +93,9 @@ For now, the key insight is this: **virtue and vice are not arbitrary categories
 
 ## The Integration of Faith and Love
 
-This matrix reveals a stunning truth: **every virtue taught by the Catholic Church upholds and flows from the four pillars of perfect love, while every vice denies or distorts them.**
+The matrix confirms what we've seen: **every Catholic virtue upholds the four pillars; every vice denies them.**
 
-This demonstrates that our definition of perfect love—**"the sacred gift of covenant binding truth, justice, mercy and sacrifice into life-giving communion"**—truly captures the essence of Christian virtue and is at the heart of the Gospel.
+This demonstrates that our definition of perfect love—**"the sacred gift of covenant binding truth, justice, mercy and sacrifice into life-giving communion"**—truly captures the heart of the Gospel.
 
 **Key Insights:**
 - Every virtue upholds at least one pillar, and most uphold multiple pillars working together
@@ -113,11 +113,11 @@ St. James makes this explicit: **"So faith by itself, if it has no works, is dea
 
 Notice the word: *justification*. It shares the same root as *justice*—the Latin *iustus*, meaning "right" or "just." To be justified is to be **made right with God**—restored to the relationship of love for which we were created.
 
-But here's where many Christians go wrong. They think justification is a legal fiction—God declaring us "not guilty" while we remain unchanged, like a judge stamping "ACQUITTED" on a criminal's file while the criminal walks out the same person he walked in. This is the error of "imputed righteousness."
+Many Christians treat justification as legal fiction—God declaring us "not guilty" while we remain unchanged, like a judge stamping "ACQUITTED" on a criminal's file while the criminal walks out the same person he walked in. This is the error of "imputed righteousness."
 
-The Catholic Church teaches something far more beautiful and far more demanding. Justification is "not only the remission of sins, but also the sanctification and renewal of the interior man" (Council of Trent, Session 6, Chapter 7). God doesn't just *declare* us righteous—He actually *makes* us righteous. He transforms us from within, healing our disordered desires and empowering us to love as He loves.
+The Catholic Church teaches something far more beautiful—and far more demanding. Justification is "not only the remission of sins, but also the sanctification and renewal of the interior man" (Council of Trent, Session 6, Chapter 7). God doesn't just *declare* us righteous—He actually *makes* us righteous. He transforms us from within, healing our disordered desires and empowering us to love as He loves.
 
-**This is why justification is inseparable from justice.** God's justice isn't about punishment—it's about *right relationship*. He created us for perfect love, and sin broke that relationship. Justification is God restoring us to what we were meant to be: people who *want* His perfect love, who *desire* truth, justice, mercy, and sacrifice, and who *long* for life-giving communion with God and neighbor—because our hearts have been transformed by His grace.
+**This is why justification is inseparable from justice.** God's justice isn't about punishment—it's about *right relationship*. He created us for perfect love, and sin broke that relationship. Justification is God restoring us to what we were meant to be: people who genuinely desire truth, justice, mercy, and sacrifice—because grace has transformed our hearts.
 
 This transformation begins at Baptism but continues throughout our lives. As St. Paul commands: **"Work out your own salvation with fear and trembling"** (Philippians 2:12). We cooperate with grace through faith, hope, charity, and the sacraments—not earning our salvation, but allowing God to complete the work He began in us.
 
@@ -156,9 +156,9 @@ Virtue is not merely intellectual assent—it engages body, mind, and soul:
 
 This integration is why virtue cannot be reduced to following rules. It's about becoming a certain kind of person—one whose entire being is aligned with God's love, ready to love Him and neighbor with everything you have.
 
-### The Bridge to Sin
+### Looking Ahead: Sin as the Failure to Love
 
-**In the next chapter, we will examine sin as the failure to love**—how vices deny the four pillars, why not all sins are equal, and how God's mercy provides the path to restoration. If this chapter shows what it looks like to love God with your whole heart, soul, mind, and strength, the next chapter shows what happens when we refuse—and how God's grace brings us back.
+The next chapter examines how vices deny the four pillars, why not all sins are equal, and how God's mercy provides the path to restoration. If this chapter shows what it looks like to love God with your whole heart, soul, mind, and strength, the next chapter shows what happens when we refuse—and how God's grace brings us back.
 
 ### Practical Application
 
