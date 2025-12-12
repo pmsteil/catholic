@@ -87,25 +87,13 @@ This is what it means to love God with all your heart, soul, mind, and strength�
 
 Just as every virtue upholds the four pillars, **every vice denies or distorts them.** Pride denies the truth of our dependence on God. Greed violates justice by hoarding what others need. Wrath refuses mercy. Sloth rejects sacrifice. The next chapter examines vices in detail, showing how sin is fundamentally a failure to love—and how God's mercy provides the path to restoration.
 
-For now, the key insight is this: **virtue and vice are not arbitrary categories.** They flow from the same source—our relationship to perfect love. When we embrace the four pillars, we grow in virtue. When we deny them, we fall into vice.
+**Virtue and vice are not arbitrary categories.** They flow from the same source—our relationship to perfect love. When we embrace the four pillars, we grow in virtue. When we deny them, we fall into vice.
 
 ---
 
 ## The Integration of Faith and Love
 
-The matrix confirms: **every Catholic virtue upholds the four pillars; every vice denies them.** Our definition of perfect love—**"the sacred gift of covenant binding truth, justice, mercy and sacrifice into life-giving communion"**—captures the heart of the Gospel.
-
-**Key Insights:**
-- Most virtues uphold multiple pillars working together
-- Some integrative virtues (like Charity, Prudence, Wisdom) require all four pillars in harmony
-- The pillars are deeply interconnected—you cannot have true justice without truth, authentic mercy without sacrifice
-- Perfect love is the foundation of all virtue; vice is its absence or distortion
-
-### Why Every Virtue Requires Sacrifice—Even Faith:
-
-St. Paul declares, **"So faith, hope, love remain, these three; but the greatest of these is love"** (1 Corinthians 13:13). He also warns that **"if I have all faith, so as to remove mountains, but have not love, I am nothing"** (1 Corinthians 13:2). This reveals a profound truth: **even faith itself requires sacrifice to be authentic, because faith without love is dead.**
-
-St. James makes this explicit: **"So faith by itself, if it has no works, is dead"** (James 2:17). And again: **"You see that a man is justified by works and not by faith alone"** (James 2:24). Faith must be animated by love, and love always requires sacrifice.
+St. Paul warns: **"if I have all faith, so as to remove mountains, but have not love, I am nothing"** (1 Corinthians 13:2). St. James agrees: **"faith by itself, if it has no works, is dead"** (James 2:17). **Even faith requires sacrifice to be authentic—faith without love is dead.**
 
 ### Justification: Being Made Right with God
 
@@ -113,9 +101,9 @@ Notice the word: *justification*. It shares the same root as *justice*—the Lat
 
 Many Christians treat justification as legal fiction—God declaring us "not guilty" while we remain unchanged, like a judge stamping "ACQUITTED" on a criminal's file while the criminal walks out the same person he walked in. This is the error of "imputed righteousness."
 
-The Catholic Church teaches something far more beautiful—and far more demanding. Justification is "not only the remission of sins, but also the sanctification and renewal of the interior man" (Council of Trent, Session 6, Chapter 7). God doesn't just *declare* us righteous—He actually *makes* us righteous. He transforms us from within, healing our disordered desires and empowering us to love as He loves.
+The Catholic Church and Sacred Scripture teach something far more beautiful—and far more demanding. Justification is "not only the remission of sins, but also the sanctification and renewal of the interior man" (Council of Trent, Session 6, Chapter 7). God doesn't just *declare* us righteous—He actually *makes* us righteous. He transforms us from within, healing our disordered desires and empowering us to love as He loves.
 
-**This is why justification is inseparable from justice.** God's justice isn't about punishment—it's about *right relationship*. He created us for perfect love, and sin broke that relationship. Justification is God restoring us to what we were meant to be: people who genuinely desire truth, justice, mercy, and sacrifice—because grace has transformed our hearts.
+**This is why justification is inseparable from justice.** God's justice isn't about punishment—it's about *right relationship*. He created us for perfect love, and sin breaks that relationship. Justification is God restoring us to what we were meant to be: people who genuinely live in "holy communion" with Him—because grace has transformed our hearts.
 
 This transformation begins at Baptism but continues throughout our lives. As St. Paul commands: **"Work out your own salvation with fear and trembling"** (Philippians 2:12). We cooperate with grace through faith, hope, charity, and the sacraments—not earning our salvation, but allowing God to complete the work He began in us.
 
@@ -141,11 +129,11 @@ A lawyer asked Jesus, **"Teacher, what shall I do to inherit eternal life?"** Je
 
 And Jesus said to him, **"You have answered right; do this, and you will live."** (Luke 10:25-28)
 
-When asked directly **"What must I do to inherit eternal life?"**—the question every human heart asks—Jesus affirmed that the answer is *this*: love God with everything you are, and love your neighbor as yourself. **Do this, and you will live.**
+Do you see what just happened? When asked directly **"What must I do to inherit eternal life?"**—the question every human heart asks—Jesus affirmed that the answer is *this*: love God with everything you are, and love your neighbor as yourself. **Do this, and you will live.**
 
 This is the summary of everything we've explored in this chapter. To love God with all your **heart** is to desire truth, justice, mercy, and sacrifice. To love Him with all your **soul** is to orient your entire being toward communion with Him. To love Him with all your **mind** is to embrace the truth He has revealed. To love Him with all your **strength** is to sacrifice—to act, to serve, to give yourself completely.
 
-And to love your neighbor as yourself? That's where virtue becomes visible—every virtue in the matrix above is simply an expression of this twofold love, integrated and inseparable.
+And to love your neighbor as yourself? That's where virtue becomes visible. Every virtue in the matrix above is simply an expression of this twofold love—love of God and love of neighbor, integrated and inseparable.
 
 Virtue is not merely intellectual assent—it engages body, mind, and soul:
 - **Body:** Virtues form habits of action. The patient person doesn't just think patient thoughts; their body learns to pause, breathe, and respond calmly.
@@ -154,9 +142,9 @@ Virtue is not merely intellectual assent—it engages body, mind, and soul:
 
 This integration is why virtue cannot be reduced to following rules. It's about becoming a certain kind of person—one whose entire being is aligned with God's love, ready to love Him and neighbor with everything you have.
 
-### Looking Ahead: Sin as the Failure to Love
+### The Bridge to Sin
 
-The next chapter examines how vices deny the four pillars, why not all sins are equal, and how God's mercy provides the path to restoration. If this chapter shows what it looks like to love God with your whole heart, soul, mind, and strength, the next chapter shows what happens when we refuse—and how God's grace brings us back.
+**In the next chapter, we will examine sin as the failure to love**—how vices deny the four pillars, why not all sins are equal, and how God's mercy provides the path to restoration. If this chapter shows what it looks like to love God with your whole heart, soul, mind, and strength, the next chapter shows what happens when we refuse—and how God's grace brings us back.
 
 ### Practical Application
 

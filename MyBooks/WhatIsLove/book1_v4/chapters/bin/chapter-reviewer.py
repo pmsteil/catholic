@@ -1912,5 +1912,3 @@ Ad Maiorem Dei Gloriam ✟
 
 if __name__ == "__main__":
     main()
-        summary_msg = f"[success]✓ Review Complete[/success]\n"
-        summary_msg = f"[success]✓ Review Complete[/success]\n"
