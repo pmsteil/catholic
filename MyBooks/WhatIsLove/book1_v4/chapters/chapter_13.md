@@ -24,20 +24,20 @@
 
 In the previous chapter, we saw that **every virtue upholds and flows from the four pillars of perfect love: Truth, Justice, Mercy, and Sacrifice.** Now we examine the opposite reality: **every vice denies or distorts these same four pillars.**
 
-Sin is not merely "breaking rules"—it is fundamentally **a failure to love.** When we sin, we're not just violating arbitrary commands; we're acting contrary to our own nature as beings created for love. We're rejecting the law that God has written on our hearts - the law of love - the law of the Gospel. We deny truth, violate justice, refuse mercy, or reject sacrifice. The sophistication of sin mirrors the sophistication of love itself.
+Sin is not merely "breaking rules"—it is fundamentally **a failure to love.** When we sin, we act contrary to our nature as beings created for love, rejecting the law God has written on our hearts. We deny truth, violate justice, refuse mercy, or reject sacrifice.
 
-Just as love has degrees of perfection (from small acts of kindness to heroic sanctity), **sin has degrees of gravity** (from minor faults to mortal sins that kill our relationship with God). Understanding these degrees is essential for growing in holiness and avoiding the common error that "all sin is the same."
+Just as love has degrees of perfection, **sin has degrees of gravity**—from minor faults to mortal sins that kill our relationship with God. Understanding these degrees is essential for growing in holiness.
 
 ---
 
 ## All Vices Offend Against Love
 
 <div class="audio-only">
-Every vice represents a rejection or distortion of the four pillars of perfect love. While some vices may seem to attack one pillar more than others, most sins involve a collapse of the entire structure of love.
+Every vice rejects or distorts the four pillars of perfect love, often collapsing the entire structure.
 
-For instance, **Pride** is not just an offense against **Truth** (denying our dependence on God); it is also an offense against **Justice** (stealing God's glory), **Mercy** (judging others), and **Sacrifice** (refusing to serve). Similarly, **Lust** is not just a failure of **Sacrifice** (self-control); it distorts the **Truth** of the body, violates **Justice** by using persons as objects, and refuses **Mercy** by prioritizing pleasure over another's good.
+**Pride** offends against **Truth** (denying dependence on God), **Justice** (stealing God's glory), **Mercy** (judging others), and **Sacrifice** (refusing to serve). **Lust** distorts the **Truth** of the body, violates **Justice** by using persons as objects, and refuses **Mercy** by prioritizing pleasure over another's good.
 
-Understanding this helps us see that sin is not just "breaking a rule"—it is breaking the bonds of communion that love creates.
+Sin breaks the bonds of communion that love creates.
 </div>
 
 <div class="print-only">
@@ -83,7 +83,7 @@ Notice that every vice violates truth. This is not coincidental—<strong>every 
 
 ## How Vices Offend Against the Four Pillars
 
-Every vice represents a **rejection or distortion of perfect love.** Let's understand what this means:
+How vices offend against each pillar:
 
 ### **Offenses Against Truth:**
 When we sin, we deny reality: the truth about God, ourselves, others, and objective moral law.
@@ -103,7 +103,7 @@ When we sin, we choose selfishness: refusing to give of ourselves, seeking our o
 
 ## The Gift: God's Merciful Distinction Between Mortal and Venial Sin
 
-**What a profound mercy God has given us!** He does not treat all sins the same. Some Christians claim "all sin is the same" and "we can never be without sin, so we're always equally guilty before God." But this denies both God's justice and His mercy.
+God does not treat all sins the same. Some Christians claim "all sin is equal" and "we're always equally guilty before God." But this denies both God's justice and His mercy.
 
 ### **A Common Misinterpretation of Scripture:**
 
@@ -157,11 +157,11 @@ The Catechism teaches that for a sin to be mortal, **all three** of the followin
 The act itself must be seriously wrong—a grave violation of God's law. The Ten Commandments identify the most serious areas: idolatry, blasphemy, murder, adultery, theft, false witness, coveting. The Church's moral teaching clarifies what constitutes grave matter in various circumstances.
 
 **Examples of grave matter:**
-- Murder, abortion, euthanasia (violations of the Fifth Commandment)
-- Adultery, fornication, pornography, masturbation (violations of the Sixth Commandment)
-- Theft of significant value, fraud, exploitation (violations of the Seventh Commandment)
-- Perjury, serious slander, betrayal of secrets (violations of the Eighth Commandment)
-- Apostasy, heresy, schism, sacrilege (violations of the First Commandment)
+- Murder, abortion, euthanasia (Fifth Commandment)
+- Adultery, fornication, pornography, masturbation (Sixth Commandment)
+- Theft of significant value, fraud, exploitation (Seventh Commandment)
+- Perjury, serious slander, betrayal of secrets (Eighth Commandment)
+- Apostasy, heresy, schism, sacrilege (First Commandment)
 
 **Not all instances of these vices are automatically mortal**—the other two conditions must also be present.
 
@@ -338,7 +338,7 @@ The deadly sins typically follow this pattern:
 
 ## Mitigating and Aggravating Factors
 
-Not every instance of grave matter automatically constitutes mortal sin. Various factors can reduce culpability (making it venial) or increase gravity (making it more serious).
+Various factors can reduce culpability or increase gravity of grave matter.
 
 ### **Mitigating Factors (Reduce Culpability):**
 
@@ -364,12 +364,12 @@ Not every instance of grave matter automatically constitutes mortal sin. Various
 
 ### **The Role of Circumstances:**
 
-The same act can have different gravity depending on circumstances:
+Circumstances affect gravity:
 
-**Example: Taking money**
-- Taking $5 from a millionaire's wallet = theft (venial, lesser matter)
-- Taking $5 from a poor widow's purse = theft (potentially mortal, depriving her of necessities)
-- Taking $5 from the collection basket = theft + sacrilege (mortal, stealing from God)
+**Example: Taking what isn't yours**
+- Taking a pen from work without asking = minor appropriation (venial, easily returned)
+- Stealing $100 from a coworker's desk = theft (mortal, grave matter)
+- Stealing from the collection basket = theft + sacrilege (mortal, gravely aggravated)
 
 **Example: Sexual sin**
 - Impure thought briefly entertained = venial (lesser consent)
@@ -388,11 +388,10 @@ The same act can have different gravity depending on circumstances:
 ### **What Mortal Sin Does:**
 
 Mortal sin **kills** our relationship with God:
-- Destroys sanctifying grace (God's life in our soul)
-- Breaks our communion with the Trinity
-- Separates us from the Body of Christ (the Church)
+- Destroys sanctifying grace
+- Breaks communion with Trinity and Church
 - Makes us unable to receive Communion worthily
-- If we die in mortal sin without repentance, we face eternal separation from God (hell)
+- If unrepented at death, leads to eternal separation from God
 
 ### **What Confession Does:**
 
@@ -459,11 +458,10 @@ The four pillars of perfect love provide a powerful framework for examining our 
 ### **Questions to Ask:**
 
 **Regarding Truth:**
-- Have I denied or distorted truth in my thoughts, words, or actions?
-- Have I lied, deceived, or misled others?
-- Have I refused to learn Church teaching or form my conscience properly?
-- Have I spread falsehoods or believed lies about God, others, or myself?
-- **Gravity:** How serious was the falsehood? Who was harmed? Was it under oath?
+- Have I denied truth, lied, or misled others?
+- Have I refused to learn Church teaching?
+- Have I spread falsehoods about God, others, or myself?
+- **Gravity:** How serious? Who was harmed? Under oath?
 
 **Regarding Justice:**
 - Have I failed to give God His due worship, obedience, and gratitude?
@@ -563,9 +561,9 @@ Understanding the distinction between mortal and venial sin is not meant to make
 
 ### **The Good News:**
 
-**We can grow in holiness.** We can decrease in sin. By God's grace, we can learn what mortal sins are, avoid mortal sins entirely through prayer and sacraments, reduce venial sins progressively, choose good consistently, and grow in holiness until we become saints.
+By God's grace, we can learn to avoid mortal sins, reduce venial sins, choose good consistently, and grow in holiness until we become saints.
 
-God created us as human beings who cannot be "perfect" in the same way Jesus was (sinless from conception), but we can always choose good over evil with God's grace, certainly avoid mortal sins through vigilance and the sacraments, progressively reduce venial sins as we grow in virtue, and become saints by cooperating with God's grace.
+We cannot be sinless as Jesus was, but we can always choose good over evil with God's grace, avoid mortal sins through vigilance and the sacraments, and become saints by cooperating with grace.
 
 St. Paul himself testifies to this growth: **"Not that I have already obtained this or am already perfect; but I press on to make it my own, because Christ Jesus has made me his own"** (Philippians 3:12).
 
@@ -605,9 +603,9 @@ This is what it means to "work out your own salvation with fear and trembling" (
 
 This chapter reveals the profound mercy and justice of God:
 
-**His Justice:** Different sins receive proportional judgment. God doesn't treat a small lie the same as murder. This is just.
+**His Justice:** Different sins receive proportional judgment—a small lie differs from murder.
 
-**His Mercy:** He distinguishes between sins that wound (venial) and sins that kill (mortal), and He provides the Sacrament of Reconciliation to restore us after mortal sin. This is merciful.
+**His Mercy:** He distinguishes between sins that wound (venial) and sins that kill (mortal), providing Reconciliation to restore us.
 
 **His Wisdom:** He gave us the Church to teach us what constitutes grave matter, so we can avoid mortal sin. This is wise.
 
@@ -625,7 +623,7 @@ The four pillars of perfect love—truth, justice, mercy, and sacrifice—provid
 
 ## The Bridge to Counterfeit Love
 
-Understanding sin as a failure to love prepares us for what comes next. If personal sin is the rejection of truth, justice, mercy, and sacrifice in our individual hearts, **counterfeit love is the same rejection systematized into ideologies, movements, and cultural norms.**
+If personal sin rejects truth, justice, mercy, and sacrifice in individual hearts, **counterfeit love systematizes this rejection into ideologies, movements, and cultural norms.**
 
 Every ideology that denies objective truth, every movement that distorts justice, every cultural trend that refuses sacrifice—these are personal sins writ large. They are the collective failure to love, dressed up in appealing language and marketed as liberation.
 

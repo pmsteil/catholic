@@ -67,7 +67,11 @@ Return **only** the JSON object specified by the calling tool. Do not include an
 
 **Recommendations:**
 - Use priority `1`/`2`/`3` per the priority system.
-- Prefer structured recommendations with `priority`, `location`, `issue`, `original`, and `suggested`.
+- recommendations MUST be an array of objects (no strings)
+- each recommendation MUST include: `priority` (1-3), `location`, `issue`
+- optional fields: `original`, `suggested`, `words_saved`
+- `location` MUST include line number(s) when possible (e.g., "Line 42" or "Lines 42-45")
+- Only use section heading + excerpt for `location` if line numbers cannot be determined.
 
 ---
 

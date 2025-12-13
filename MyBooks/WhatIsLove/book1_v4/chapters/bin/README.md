@@ -138,6 +138,63 @@ Add new agents by creating workflow files following the pattern in `.agents/work
 5. HTML reports feature Catholic theming, professional styling, and are print-ready
 6. Review files are incrementally numbered (review1.html, review2.html, etc.) to preserve history
 
+## API Call Logging
+
+When using the Anthropic API (`--api` flag), all API calls are logged to `reports/.chapter-reviewer-logs/` for cost tracking and debugging.
+
+### Log Location
+```
+reports/.chapter-reviewer-logs/
+├── 20251213_054700_CONCISE_chapter_01.json
+├── 20251213_054815_CONCISE_chapter_02.json
+└── ...
+```
+
+### Log Contents
+Each JSON log file contains:
+```json
+{
+  "timestamp": "2025-12-13T05:47:00.123456",
+  "chapter": "chapter_14.md",
+  "agent": "CONCISE",
+  "model": "claude-sonnet-4-20250514",
+  "request": {
+    "prompt": "...",
+    "max_tokens": 8192
+  },
+  "response": {
+    "text": "...",
+    "stop_reason": "end_turn"
+  },
+  "stats": {
+    "input_tokens": 12345,
+    "output_tokens": 2500,
+    "total_tokens": 14845,
+    "duration_ms": 15234.5,
+    "cost_usd": 0.0745
+  },
+  "pricing": {
+    "input_per_1m": 3.0,
+    "output_per_1m": 15.0,
+    "note": "Sonnet 4 pricing as of late 2024"
+  }
+}
+```
+
+### Key Fields
+- **stop_reason**: `"end_turn"` = complete response, `"max_length"` = truncated (consider increasing `max_tokens`)
+- **stats.cost_usd**: Actual cost for this API call
+- **stats.total_tokens**: Combined input + output tokens
+
+### Analyzing Costs
+```bash
+# Sum all costs from logs
+cat reports/.chapter-reviewer-logs/*.json | jq -s 'map(.stats.cost_usd) | add'
+
+# Find truncated responses
+grep -l '"stop_reason": "max_length"' reports/.chapter-reviewer-logs/*.json
+```
+
 ## Dependencies
 
 - Python 3.9+

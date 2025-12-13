@@ -128,9 +128,12 @@ Return **only** the JSON object specified. Do not include any prose, markdown, o
 - Set `overall_status` to `"FAIL"` when `failed_checks` is non-empty.
 
 **Recommendations:**
-- Prefer structured recommendations with `priority` (1-3), `location`, `issue`, `original`, and `suggested`.
+- recommendations MUST be an array of objects (no strings)
+- each recommendation MUST include: `priority` (1-3), `location`, `issue`
+- optional fields: `original`, `suggested`, `words_saved`
 - Use `words_saved` when it's meaningful.
-- If line numbers are unstable, use a section heading plus a short excerpt for `location`.
+- `location` MUST include line number(s) when possible (e.g., "Line 42" or "Lines 42-45")
+- Only use section heading + excerpt for `location` if line numbers cannot be determined.
 
 ---
 

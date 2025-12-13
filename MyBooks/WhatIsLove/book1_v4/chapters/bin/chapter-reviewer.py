@@ -49,6 +49,9 @@ _use_anthropic_api = False
 _anthropic_client = None
 _debug_mode = False
 
+# Logging directory
+LOG_DIR_NAME = ".chapter-reviewer-logs"
+
 # Model mapping for Anthropic API
 ANTHROPIC_MODEL_MAP = {
     "opus": "claude-sonnet-4-20250514",  # Opus 4.5 not yet available via API, use Sonnet 4
@@ -62,6 +65,14 @@ PRIORITY_MAP = {
     2: {"label": "RECOMMENDED", "class": "priority-rec", "icon": "🟡", "color": "#D97706"},
     3: {"label": "OPTIONAL", "class": "priority-opt", "icon": "🔵", "color": "#2563EB"},
 }
+
+
+class ReviewFormatError(ValueError):
+    pass
+
+
+class LegacyRecommendationFormatError(ReviewFormatError):
+    pass
 
 
 def get_priority_info(priority: int) -> dict:
@@ -85,12 +96,141 @@ def debug_print(title: str, content: str, is_request: bool = True) -> None:
     ))
 
 
-def sort_recommendations_by_priority(recommendations: List[Any]) -> List[Any]:
+def log_api_call(
+    log_dir: Path,
+    chapter_name: str,
+    agent_name: str,
+    model_id: str,
+    prompt: str,
+    response_text: str,
+    metadata: Dict[str, Any],
+    stop_reason: str = None
+) -> Path:
+    """Log API request, response, and stats to a timestamped JSON file.
+
+    Returns the path to the log file.
+    """
+    # Ensure log directory exists
+    log_dir.mkdir(parents=True, exist_ok=True)
+
+    # Create timestamped filename
+    timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+    chapter_base = chapter_name.replace('.md', '')
+    log_filename = f"{timestamp}_{agent_name}_{chapter_base}.json"
+    log_path = log_dir / log_filename
+
+    # Build log entry
+    log_entry = {
+        "timestamp": datetime.now().isoformat(),
+        "chapter": chapter_name,
+        "agent": agent_name,
+        "model": model_id,
+        "request": {
+            "prompt": prompt,
+            "max_tokens": 8192,
+        },
+        "response": {
+            "text": response_text,
+            "stop_reason": stop_reason,
+        },
+        "stats": {
+            "input_tokens": metadata.get("input_tokens", 0),
+            "output_tokens": metadata.get("output_tokens", 0),
+            "total_tokens": metadata.get("input_tokens", 0) + metadata.get("output_tokens", 0),
+            "duration_ms": metadata.get("duration_ms", 0),
+            "cost_usd": metadata.get("total_cost_usd", 0),
+        },
+        "pricing": {
+            "input_per_1m": 3.0,
+            "output_per_1m": 15.0,
+            "note": "Sonnet 4 pricing as of late 2024"
+        }
+    }
+
+    # Write log file
+    with open(log_path, 'w', encoding='utf-8') as f:
+        json.dump(log_entry, f, indent=2, ensure_ascii=False)
+
+    return log_path
+
+
+def normalize_review_data(review_data: Dict[str, Any]) -> Dict[str, Any]:
+    """Normalize and validate the review JSON payload.
+
+    Enforces that recommendations are structured objects (no legacy strings).
+    """
+    recommendations = review_data.get("recommendations")
+    if recommendations is None:
+        review_data["recommendations"] = []
+        return review_data
+
+    if not isinstance(recommendations, list):
+        raise ReviewFormatError(f"recommendations must be a list, got {type(recommendations).__name__}")
+
+    normalized_recs: List[Dict[str, Any]] = []
+    for idx, rec in enumerate(recommendations):
+        if not isinstance(rec, dict):
+            raise LegacyRecommendationFormatError(
+                f"Legacy recommendation format detected at index {idx}: expected object, got {type(rec).__name__}"
+            )
+
+        priority = rec.get("priority", 3)
+        try:
+            priority_int = int(priority)
+        except Exception:
+            raise ReviewFormatError(f"recommendations[{idx}].priority must be an int (1-3), got {priority!r}")
+
+        if priority_int not in (1, 2, 3):
+            raise ReviewFormatError(f"recommendations[{idx}].priority must be 1, 2, or 3, got {priority_int}")
+
+        issue = rec.get("issue", "")
+        if not isinstance(issue, str) or not issue.strip():
+            raise ReviewFormatError(f"recommendations[{idx}].issue must be a non-empty string")
+
+        location = rec.get("location", "")
+        if not isinstance(location, str) or not location.strip():
+            location = "N/A"
+
+        original = rec.get("original", "")
+        if original is None:
+            original = ""
+        if not isinstance(original, str):
+            original = str(original)
+
+        suggested = rec.get("suggested", "")
+        if suggested is None:
+            suggested = ""
+        if not isinstance(suggested, str):
+            suggested = str(suggested)
+
+        normalized: Dict[str, Any] = {
+            "priority": priority_int,
+            "location": location,
+            "issue": issue.strip(),
+            "original": original,
+            "suggested": suggested,
+        }
+
+        if "words_saved" in rec:
+            normalized["words_saved"] = rec.get("words_saved")
+
+        normalized_recs.append(normalized)
+
+    review_data["recommendations"] = normalized_recs
+    return review_data
+
+
+def sort_recommendations_by_priority(recommendations: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
     """Sort recommendations by priority (1=HIGH first, then 2=REC, then 3=OPT)."""
-    def get_priority(rec):
-        if isinstance(rec, dict):
-            return rec.get("priority", 3)
-        return 3  # Default to OPT for legacy string recommendations
+    for idx, rec in enumerate(recommendations):
+        if not isinstance(rec, dict):
+            raise LegacyRecommendationFormatError(
+                f"Legacy recommendation format detected at index {idx}: expected object, got {type(rec).__name__}"
+            )
+
+    def get_priority(rec: Dict[str, Any]) -> int:
+        return int(rec.get("priority", 3))
+
     return sorted(recommendations, key=get_priority)
 
 
@@ -228,7 +368,7 @@ def is_budget_exhausted_error(error_text: str) -> bool:
     return any(indicator in error_lower for indicator in budget_indicators)
 
 
-def run_anthropic_review(chapter_file: Path, workflow_file: Path, model: str = "opus") -> Dict[str, Any]:
+def run_anthropic_review(chapter_file: Path, workflow_file: Path, model: str = "opus", agent_name: str = "unknown", log_dir: Path = None) -> Dict[str, Any]:
     """Run Anthropic API review on a single chapter and return parsed results."""
     import time
 
@@ -271,6 +411,13 @@ def run_anthropic_review(chapter_file: Path, workflow_file: Path, model: str = "
 
 CRITICAL: Return ONLY valid, parseable JSON. No markdown code fences. No explanatory text before or after.
 
+RECOMMENDATION FORMAT IS STRICT:
+- recommendations MUST be an array of objects, not strings
+- each recommendation MUST include: priority (1-3), location, issue
+- optional fields: original, suggested, words_saved
+- location MUST include line number(s) when possible (e.g., "Line 42" or "Lines 42-45")
+- Only use section heading + excerpt for location if line numbers cannot be determined
+
 STRICT JSON REQUIREMENTS:
 - Use ASCII quotes only (straight quotes ", not curly quotes "" or '')
 - Escape quotes inside strings with backslash: \\"
@@ -290,7 +437,16 @@ STRICT JSON REQUIREMENTS:
         {{"check": "Check name", "issue": "Description of the problem", "location": "Line/section reference if applicable"}}
     ],
     "summary": "Brief summary of the review",
-    "recommendations": ["List of recommendations for improvement"]
+    "recommendations": [
+        {{
+            "priority": 1,
+            "location": "Line 42 (or Lines 42-45)",
+            "issue": "What to change",
+            "original": "(optional excerpt)",
+            "suggested": "(optional replacement)",
+            "words_saved": 0
+        }}
+    ]
 }}
 
 Perform the review thoroughly. Return ONLY the raw JSON object, nothing else."""
@@ -332,8 +488,22 @@ Perform the review thoroughly. Return ONLY the raw JSON object, nothing else."""
         output_cost = (response.usage.output_tokens / 1_000_000) * 15.0
         metadata["total_cost_usd"] = input_cost + output_cost
 
-        # Get the response text
+        # Get the response text and stop reason
         result_text = response.content[0].text if response.content else ""
+        stop_reason = response.stop_reason if hasattr(response, 'stop_reason') else None
+
+        # Log the API call if log_dir is provided
+        if log_dir:
+            log_api_call(
+                log_dir=log_dir,
+                chapter_name=chapter_file.name,
+                agent_name=agent_name,
+                model_id=model_id,
+                prompt=prompt,
+                response_text=result_text,
+                metadata=metadata,
+                stop_reason=stop_reason
+            )
 
         # Debug: show response
         debug_print(
@@ -359,7 +529,7 @@ Perform the review thoroughly. Return ONLY the raw JSON object, nothing else."""
                 try:
                     review_data = json.loads(json_str)
                     review_data["_metadata"] = metadata
-                    return review_data
+                    return normalize_review_data(review_data)
                 except json.JSONDecodeError as first_error:
                     # Try to repair common JSON issues
                     repaired = json_str
@@ -418,6 +588,8 @@ Perform the review thoroughly. Return ONLY the raw JSON object, nothing else."""
         }
 
     except Exception as e:
+        if isinstance(e, LegacyRecommendationFormatError):
+            raise
         return {
             "chapter_name": chapter_file.name,
             "overall_status": "ERROR",
@@ -500,12 +672,22 @@ IMPORTANT: Return your response in the following JSON format:
         {{"check": "Check name", "issue": "Description of the problem", "location": "Line/section references"}}
     ],
     "summary": "Brief summary of the review",
-    "recommendations": ["List of final recommendations for improvement of the chapter based on all failed_checks"]
+    "recommendations": [
+        {
+            "priority": 1,
+            "location": "Line/section reference",
+            "issue": "What to change",
+            "original": "(optional excerpt)",
+            "suggested": "(optional replacement)",
+            "words_saved": 0
+        }
+    ]
 }}
 
 CRITICAL:
 - overall_status MUST be exactly "PASS" or "FAIL" (no other values)
 - Return ONLY the JSON object with no additional text or markdown
+- recommendations MUST be an array of objects (no strings)
 """
 
     try:
@@ -546,7 +728,13 @@ CRITICAL:
                     "successful_checks": [],
                     "failed_checks": [{"check": "Claude CLI Budget", "issue": full_error, "location": "N/A"}],
                     "summary": "Claude CLI budget exhausted",
-                    "recommendations": ["Consider using Anthropic API directly"]
+                    "recommendations": [{
+                        "priority": 2,
+                        "location": "N/A",
+                        "issue": "Consider using Anthropic API directly",
+                        "original": "",
+                        "suggested": ""
+                    }]
                 }
             return {
                 "chapter_name": chapter_file.name,
@@ -590,7 +778,7 @@ CRITICAL:
                     try:
                         review_data = json.loads(json_str)
                         review_data["_metadata"] = metadata
-                        return review_data
+                        return normalize_review_data(review_data)
                     except json.JSONDecodeError as first_error:
                         # Try to repair common JSON issues
                         repaired = json_str
@@ -607,7 +795,7 @@ CRITICAL:
                         try:
                             review_data = json.loads(repaired)
                             review_data["_metadata"] = metadata
-                            return review_data
+                            return normalize_review_data(review_data)
                         except json.JSONDecodeError:
                             # Try json_repair library if available
                             try:
@@ -615,7 +803,7 @@ CRITICAL:
                                 repaired = repair_json(json_str)
                                 review_data = json.loads(repaired)
                                 review_data["_metadata"] = metadata
-                                return review_data
+                                return normalize_review_data(review_data)
                             except ImportError:
                                 pass
                             except Exception:
@@ -665,9 +853,27 @@ CRITICAL:
                 }],
                 "summary": "Review incomplete - exceeded maximum turns",
                 "recommendations": [
-                    "Try increasing --max-turns (e.g., --max-turns 20)",
-                    "Or simplify the review workflow",
-                    "Or break the chapter into smaller sections"
+                    {
+                        "priority": 2,
+                        "location": "N/A",
+                        "issue": "Try increasing --max-turns (e.g., --max-turns 20)",
+                        "original": "",
+                        "suggested": ""
+                    },
+                    {
+                        "priority": 2,
+                        "location": "N/A",
+                        "issue": "Or simplify the review workflow",
+                        "original": "",
+                        "suggested": ""
+                    },
+                    {
+                        "priority": 2,
+                        "location": "N/A",
+                        "issue": "Or break the chapter into smaller sections",
+                        "original": "",
+                        "suggested": ""
+                    }
                 ],
                 "raw_output": json.dumps(output, indent=2),
                 "_metadata": metadata
@@ -709,6 +915,8 @@ CRITICAL:
             "raw_output": result.stdout if 'result' in locals() else "No output captured"
         }
     except Exception as e:
+        if isinstance(e, LegacyRecommendationFormatError):
+            raise
         return {
             "chapter_name": chapter_file.name,
             "overall_status": "ERROR",
@@ -824,7 +1032,7 @@ def display_results(results: List[Dict[str, Any]], agent_name: str):
                             suggested = rec.get("suggested", "")
 
                             # Build location display - show prominently
-                            console.print(f"  {priority_info['icon']} [bold][{priority_info['label']}][/bold] {location}: {issue}")
+                            console.print(f"  {priority_info['icon']} [bold]{priority_info['label']}[/bold] {location}: {issue}")
                             if original:
                                 # Truncate but show more context
                                 orig_display = original[:100] + "..." if len(original) > 100 else original
@@ -833,8 +1041,9 @@ def display_results(results: List[Dict[str, Any]], agent_name: str):
                                 sugg_display = suggested[:100] + "..." if len(suggested) > 100 else suggested
                                 console.print(f"      [dim]Suggested:[/dim] {sugg_display}")
                         else:
-                            # Legacy string format
-                            console.print(f"  • {rec}")
+                            raise LegacyRecommendationFormatError(
+                                f"Legacy recommendation format detected in display_results: {type(rec).__name__}"
+                            )
 
                 console.print("─" * 80)
 
@@ -866,7 +1075,7 @@ def display_results(results: List[Dict[str, Any]], agent_name: str):
                             suggested = rec.get("suggested", "")
 
                             # Build location display - show prominently
-                            console.print(f"    {priority_info['icon']} [bold][{priority_info['label']}][/bold] {location}: {issue}")
+                            console.print(f"    {priority_info['icon']} [bold]{priority_info['label']}[/bold] {location}: {issue}")
                             if original:
                                 # Truncate but show more context
                                 orig_display = original[:100] + "..." if len(original) > 100 else original
@@ -875,8 +1084,9 @@ def display_results(results: List[Dict[str, Any]], agent_name: str):
                                 sugg_display = suggested[:100] + "..." if len(suggested) > 100 else suggested
                                 console.print(f"        [dim]Suggested:[/dim] {sugg_display}")
                         else:
-                            # Legacy string format
-                            console.print(f"    • {rec}")
+                            raise LegacyRecommendationFormatError(
+                                f"Legacy recommendation format detected in display_results: {type(rec).__name__}"
+                            )
                     console.print()
 
 
@@ -997,12 +1207,9 @@ def save_concise_html_report(results: List[Dict[str, Any]], agent_name: str, out
                             f.write(f"""                <div class="suggested"><strong>Suggested:</strong> {suggested}</div>\n""")
                         f.write("""            </div>\n""")
                     else:
-                        # Legacy string format
-                        rec_html = str(rec).replace("<", "&lt;").replace(">", "&gt;")
-                        f.write(f"""            <div class="recommendation-item priority-opt">
-                <span class="priority-label">🔵 OPT</span>
-                <div class="issue">{rec_html}</div>
-            </div>\n""")
+                        raise LegacyRecommendationFormatError(
+                            f"Legacy recommendation format detected in save_concise_html_report: {type(rec).__name__}"
+                        )
                 f.write("""        </div>\n""")
 
             f.write("""    </div>\n""")
@@ -1531,12 +1738,9 @@ def save_html_report(results: List[Dict[str, Any]], agent_name: str, output_file
                             f.write(f"""                <div class="suggested"><strong>Suggested:</strong> {suggested}</div>\n""")
                         f.write("""            </div>\n""")
                     else:
-                        # Legacy string format
-                        rec_html = str(rec).replace("<", "&lt;").replace(">", "&gt;")
-                        f.write(f"""            <div class="recommendation-item priority-opt">
-                <span class="priority-label">🔵 OPT</span>
-                <div class="issue">{rec_html}</div>
-            </div>\n""")
+                        raise LegacyRecommendationFormatError(
+                            f"Legacy recommendation format detected in save_html_report: {type(rec).__name__}"
+                        )
                 f.write("""        </div>
 """)
 
@@ -1749,6 +1953,10 @@ Ad Maiorem Dei Gloriam ✟
     # Determine if we're doing per-chapter reports (specific chapters) or combined report (all chapters)
     per_chapter_mode = bool(args.chapters)
 
+    # Setup logging directory
+    log_dir = output_dir / LOG_DIR_NAME
+    log_dir.mkdir(parents=True, exist_ok=True)
+
     # Process chapters with progress bar
     results = []
     output_files = []  # Track all output files for per-chapter mode
@@ -1775,7 +1983,7 @@ Ad Maiorem Dei Gloriam ✟
 
             # Choose review method based on mode
             if _use_anthropic_api:
-                result = run_anthropic_review(chapter, workflow_file, args.model)
+                result = run_anthropic_review(chapter, workflow_file, args.model, args.agent_name, log_dir)
             else:
                 result = run_claude_review(chapter, workflow_file, args.model)
 
@@ -1797,7 +2005,7 @@ Ad Maiorem Dei Gloriam ✟
                             # Resume progress bar
                             progress.start()
                             # Retry this chapter with API
-                            result = run_anthropic_review(chapter, workflow_file, args.model)
+                            result = run_anthropic_review(chapter, workflow_file, args.model, args.agent_name, log_dir)
                         else:
                             console.print("[error]Failed to setup Anthropic API. Stopping.[/error]")
                             results.append(result)
