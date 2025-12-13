@@ -1943,12 +1943,11 @@ Ad Maiorem Dei Gloriam ✟
     _debug_mode = args.debug
 
     if _use_anthropic_api:
-        console.print("[info]🔑 Using Anthropic API mode[/info]")
         if not setup_anthropic_api():
             console.print("[error]Failed to setup Anthropic API. Exiting.[/error]")
             sys.exit(1)
-        console.print("[success]Anthropic API ready[/success]")
-        console.print()
+        model_id = ANTHROPIC_MODEL_MAP.get(args.model, ANTHROPIC_MODEL_MAP["sonnet"])
+        console.print(f"[success]🔑 Anthropic API ready (model: {model_id})[/success]")
 
     # Determine if we're doing per-chapter reports (specific chapters) or combined report (all chapters)
     per_chapter_mode = bool(args.chapters)

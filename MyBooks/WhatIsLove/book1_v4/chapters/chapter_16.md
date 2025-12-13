@@ -16,11 +16,21 @@
 
 ## What IS the Gospel?
 
+Everyone talks about "the Gospel". Few can define it fully.
+
 Chapter 15 asked where God's Perfect Love comes from. The answer is not a philosophy or a program—it's a Person.
 
-If you asked ten Christians "What is the Gospel?" you'd likely get ten different answers. Some would say "Jesus died for your sins." Others "God loves you." Still others "Believe and be saved." Each captures part of the truth, but what if the Gospel is something far more comprehensive?
+Ask ten Christians "What is the Gospel?" and you'll get ten different answers—each capturing part of the truth: "Jesus died for your sins." "God loves you." "Believe and be saved." But the Gospel is more comprehensive than any single slogan.
 
-Modern Christianity has fragmented the Gospel into competing emphases. Some focus only on personal salvation (individualism). Others focus only on social justice (activism). Still others focus only on correct doctrine (intellectualism). Each captures part of the truth but misses the whole.
+Consider the common reductions in modern Christianity:
+
+- **"The Gospel is going to heaven when you die."** This ignores transformation—Christ doesn't just save us *from* something but *for* something: to become partakers of the divine nature.
+- **"The Gospel is social justice."** This ignores sin and salvation—we cannot build the Kingdom by human effort alone; we need grace.
+- **"The Gospel is believing the right things."** This ignores relationship and sacraments—even the demons believe (James 2:19); the Gospel calls us into communion.
+
+Each reduction captures a fragment while losing the whole.
+
+When we reduce the Gospel, we reduce Christ. And when we reduce Christ, we lose the power to overcome evil. A fragmented Gospel produces fragmented Christians—unable to integrate truth with mercy, justice with love, salvation with transformation.
 
 Here is the thesis that brings it all together: **The Gospel IS God's Perfect Love revealed in Christ.** Throughout this book, we've explored each facet of authentic love—truth, justice, mercy, sacrifice, covenant, life-giving, and communion. We've seen how they bind together, how they combat evil, and how counterfeits fail when any component is missing. Now we see that Jesus Christ perfectly embodies and fulfills every component. The Gospel is not just a message about love; it IS love incarnate.
 
@@ -28,11 +38,11 @@ Here is the thesis that brings it all together: **The Gospel IS God's Perfect Lo
 
 "For God so loved the world that he gave his only Son, that whoever believes in him should not perish but have eternal life" (John 3:16). This is not merely information about God's love—it IS God's Perfect Love made flesh, the highest Good entering human history to draw us into eternal communion with Himself.
 
-But notice what comes next—the verses often left out: "And this is the judgment, that the light has come into the world, and men loved darkness rather than light, because their deeds were evil. For every one who does evil hates the light, and does not come to the light, lest his deeds should be exposed. But he who does what is true comes to the light, that it may be clearly seen that his deeds have been wrought in God" (John 3:19-21).
+But the verses often left out: "And this is the judgment, that the light has come into the world, and men loved darkness rather than light, because their deeds were evil. For every one who does evil hates the light, and does not come to the light, lest his deeds should be exposed. But he who does what is true comes to the light, that it may be clearly seen that his deeds have been wrought in God" (John 3:19-21).
 
-The fulfillment of verse 16 requires living the truth—not just believing intellectually, but actually living His love in order to bring out His good works of salvation for others. God's love isn't just about being saved from hell; it's about being transformed to live in the light, to do good works because God's "good" working through us transforms our hearts and the "world".
+Verse 16 is not separated from conversion. The Light has come, and we must come to the Light—so that our deeds may be clearly seen as "wrought in God" (John 3:21).
 
-This is crucial: Christ doesn't save us "apart from us"—as if salvation happens while we remain passive spectators. Rather, He saves us by transforming us, by giving us His grace (His Perfect Love) so we can cooperate with Him in living authentic love. We cannot save ourselves, but neither does He save us without our free cooperation (CCC 1993, 2002). This is why our definition integrates truth, justice, mercy, and sacrifice—authentic love requires all of them working together, not just mental assent. Every aspect of our definition finds its perfect fulfillment in Christ's person and work, and through His grace, in our transformed lives.
+This is crucial: Christ doesn't save us while we remain passive. He saves us by transforming us—by giving us His grace (His Perfect Love) so we can cooperate with Him in living authentic love. We cannot save ourselves, but neither does He save us without our free cooperation of charity (CCC 1993, 2002).
 
 ---
 
@@ -40,7 +50,7 @@ This is crucial: Christ doesn't save us "apart from us"—as if salvation happen
 
 Jesus doesn't just teach us about love—He *is* the Law of the Gospel incarnate. In the Sermon on the Mount (Matthew 5-7), He reveals what this law looks like in human flesh, repeatedly using the formula: "You have heard that it was said... But I say to you."
 
-Notice what He's doing. He's not abolishing the Old Law but bringing it to perfection—showing that authentic love requires interior transformation, not just external compliance. The Old Law commanded, "You shall not kill." Christ says the law written on your heart goes deeper: "Everyone who is angry with his brother shall be liable to judgment" (Matthew 5:21-22). The Old Law commanded, "You shall not commit adultery." Christ says: "Everyone who looks at a woman lustfully has already committed adultery with her in his heart" (Matthew 5:27-28).
+He's not abolishing the Old Law but bringing it to perfection—showing that authentic love requires interior transformation, not just external compliance. The Old Law commanded, "You shall not kill." Christ says the law written on your heart goes deeper: "Everyone who is angry with his brother shall be liable to judgment" (Matthew 5:21-22). The Old Law commanded, "You shall not commit adultery." Christ says: "Everyone who looks at a woman lustfully has already committed adultery with her in his heart" (Matthew 5:27-28).
 
 This is why the Catechism teaches: "The New Law is the grace of the Holy Spirit given to the faithful through faith in Christ. It works through charity; it uses the Sermon on the Mount to teach us what must be done and makes use of the sacraments to give us the grace to do it" (CCC 1966). Christ doesn't just give us rules—He gives us His own Spirit to transform us from within.
 
@@ -50,7 +60,7 @@ This is why the Catechism teaches: "The New Law is the grace of the Holy Spirit 
 \hfill\small — Mark 1:15
 </div>
 
-**How This Combats Evil:** Legalism reduces faith to external rules, but Christ transforms hearts. The false teaching of Antinomianism claims Christians are "free from all law," but Christ gives us the perfect law of love. The Church's teaching isn't arbitrary or outdated. It's protecting the truth that love creates life, that sexuality is sacred precisely because it participates in God's creative power, that children are gifts not burdens. Marriage exists for the children—to give them a mother and father united in covenant love, to welcome them into a communion of persons that images the Trinity.
+*This is how Christ's law combats evil:* Legalism reduces faith to external rules, but Christ transforms hearts. The false teaching of Antinomianism claims Christians are "free from all law," but Christ gives us the perfect law of love. The Church's teaching isn't arbitrary or outdated. It's protecting the truth that love creates life, that sexuality is sacred precisely because it participates in God's creative power, that children are gifts not burdens. Marriage exists for the children—to give them a mother and father united in covenant love, to welcome them into a communion of persons that images the Trinity.
 
 Communion is therefore missionary. Because God's Perfect Love binds truth, justice, mercy, and sacrifice into life-giving communion, the Church must carry that communion to every person.
 
@@ -66,11 +76,13 @@ Communion is therefore missionary. Because God's Perfect Love binds truth, justi
 
 Jesus reveals that love originates from God and participates in divine nature. "In the beginning was the Word, and the Word was with God, and the Word was God" (John 1:1). Christ's divinity establishes love's sacred origin. He is "the image of the invisible God" (Colossians 1:15), "He reflects the glory of God and bears the very stamp of his nature" (Hebrews 1:3).
 
-The Incarnation proves love is not abstract but personal. God doesn't just send love—He BECOMES love incarnate. This is why, when we recite the Creed and come to the words "and by the Holy Spirit was incarnate of the Virgin Mary, and became man," we bow in profound reverence. We bow because the infinite God—who IS love—humbled Himself to become one of us. The Creator entered His creation. The Eternal entered time. The Almighty became vulnerable.
+God doesn't just send love—He BECOMES love incarnate. This is why we bow at the Creed's words "was incarnate of the Virgin Mary, and became man"—the infinite God entered His creation.
 
 Pope Saint John Paul II taught that **"the body, and it alone, is capable of making visible what is invisible: the spiritual and the divine."** This is why the Incarnation matters so profoundly: God chose to reveal Himself through a human body. Christ didn't just have a body—He IS the Word made flesh. Every action, every touch, every wound on the Cross speaks the language of perfect love through His body. And His bodily Resurrection proves that redemption isn't just spiritual—our bodies participate in divine life forever. We're not souls trapped in bodies; we're embodied persons made for embodied love.
 
 When Jesus declares "I and the Father are one" (John 10:30), He establishes that authentic love has its source in the divine nature itself. The Incarnation is God's ultimate act of justice (giving humanity what we're owed—the truth about love), mercy (condescending to our weakness), and sacrifice (emptying Himself to take human form). The sacred source means love is not what we decide it is, but what God reveals it to be. We don't invent love; we discover it in the person of Jesus Christ.
+
+*This is how Christ as Sacred Source combats evil:* Idolatry makes gods of created things, but Christ reveals the one true God. Subjectivism claims we define love for ourselves, but Christ grounds love in divine nature. Spiritual orphanhood leaves us searching for identity, but Christ reveals we are children of the Father.
 
 ---
 
@@ -84,7 +96,7 @@ Jesus establishes the New Covenant through His blood, creating permanent relatio
 
 **Covenant Fulfillment:** Christ fulfills every covenant in salvation history. As the New Adam, He restores what the first Adam lost (Romans 5:12-21). As seed of Abraham, He blesses all nations (Galatians 3:16). He fulfills the Mosaic Law perfectly (Matthew 5:17). As eternal King from David's line (Luke 1:32-33), He establishes the kingdom that will never end.
 
-**How This Combats Evil:** Broken promises plague human relationships, but Christ's covenant is unbreakable. Abandonment wounds the soul, but God will never leave or forsake us. Insecurity paralyzes, but covenant creates permanent security. "For this is my blood of the covenant, which is poured out for many for the forgiveness of sins" (Matthew 26:28).
+*This is how Christ's covenant combats evil:* Broken promises plague human relationships, but Christ's covenant is unbreakable. Abandonment wounds the soul, but God will never leave or forsake us. Insecurity paralyzes, but covenant creates permanent security. "For this is my blood of the covenant, which is poured out for many for the forgiveness of sins" (Matthew 26:28).
 
 ---
 
@@ -96,7 +108,7 @@ Christ binds truth, justice, mercy, and sacrifice into coherent whole. The Cross
 
 Jesus prayed for this unity: "That they may all be one; even as thou, Father, art in me, and I in thee, that they also may be in us" (John 17:21). The Church is one body with many members (1 Corinthians 12:12-27), united in Christ. "There is neither Jew nor Greek, there is neither slave nor free, there is neither male nor female; for you are all one in Christ Jesus" (Galatians 3:28).
 
-**How This Combats Evil:** Division tears communities apart, but Christ creates unity. Fragmentation scatters what should be whole, but Christ integrates what sin separated. False dichotomies pit truth against mercy, justice against love—but Christ shows they work together perfectly.
+*This is how Christ's unity combats evil:* Division tears communities apart, but Christ creates unity. Fragmentation scatters what should be whole, but Christ integrates what sin separated. False dichotomies pit truth against mercy, justice against love—but Christ shows they work together perfectly.
 
 ---
 
@@ -106,7 +118,7 @@ Jesus doesn't just teach truth—He IS truth. "I am the way, and the truth, and 
 
 The Word made flesh is "full of grace and truth" (John 1:14). Jesus came "to testify to the truth" (John 18:37), and His truth liberates: "You will know the truth, and the truth will set you free" (John 8:32). This is not abstract philosophical truth but living truth that transforms.
 
-**How This Combats Evil:** Relativism claims there is no objective truth, but Christ establishes truth as objective reality grounded in God's nature. Deception enslaves through lies, but Christ exposes lies and liberates through truth. Confusion paralyzes moral judgment, but Christ provides clarity.
+*This is how Christ's truth combats evil:* Relativism claims there is no objective truth, but Christ establishes truth as objective reality grounded in God's nature. Deception enslaves through lies, but Christ exposes lies and liberates through truth. Confusion paralyzes moral judgment, but Christ provides clarity.
 
 Truth in Christ is not oppressive but liberating. It frees us from slavery to sin, from bondage to false ideologies, from confusion about our identity and purpose.
 
@@ -120,7 +132,7 @@ Christ gives God perfect worship, obedience, and glory—the justice we owe but 
 
 We cannot be justified apart from God's justice—Christ's righteousness is the only basis for our justification. His justice is a free gift offered that we voluntarily accept, enabling us to offer full justice to God, neighbor, and self. This is not mere external imputation but internal transformation.
 
-**How This Combats Evil:** Injustice pervades fallen world, but Christ establishes perfect justice. Oppression crushes the vulnerable, but Christ defends them. Guilt enslaves conscience, but Christ's righteousness covers our sin and transforms us from within.
+*This is how Christ's justice combats evil:* Injustice pervades fallen world, but Christ establishes perfect justice. Oppression crushes the vulnerable, but Christ defends them. Guilt enslaves conscience, but Christ's righteousness covers our sin and transforms us from within.
 
 ---
 
@@ -130,7 +142,7 @@ Jesus embodies God's compassionate love that transcends justice without violatin
 
 From the Cross, Jesus prays "Father, forgive them; for they know not what they do" (Luke 23:34). This is mercy at its zenith—forgiving those who are murdering Him. Mercy doesn't ignore sin but heals it. Christ's mercy calls to conversion, not mere acceptance. Mercy flows from the Cross where justice was satisfied.
 
-**How This Combats Evil:** Hardness of heart refuses forgiveness, but Christ's mercy softens. Despair claims some sins are unforgivable, but Christ offers hope to the worst sinners. Vengeance perpetuates cycles of retribution, but Christ breaks those cycles through forgiveness.
+*This is how Christ's mercy combats evil:* Hardness of heart refuses forgiveness, but Christ's mercy softens. Despair claims some sins are unforgivable, but Christ offers hope to the worst sinners. Vengeance perpetuates cycles of retribution, but Christ breaks those cycles through forgiveness.
 
 The thief on the cross—a criminal being executed—hears Jesus say "Truly, I say to you, today you will be with me in Paradise" (Luke 23:43). If mercy reaches him in his final moments, it can reach anyone.
 
@@ -146,15 +158,13 @@ His sacrifice is complete: "It is finished" (John 19:30). It is once-for-all: "h
 
 On Calvary, Psalm 85:10 finds its fulfillment. The psalmist sketched a promise: ḥesed (covenant-faithful love) meets 'emet (unwavering truth), and ṣedeq (righteousness/setting-things-right) kisses šālōm (peace/wholeness/communion). On the Cross, covenant-love does not bypass truth but meets it; justice does not crush peace but embraces it.
 
-The Cross reveals ultimate truth: Jesus is God, and His sacrifice has infinite value. The Cross demonstrates perfect justice: God's justice is satisfied, the debt of sin paid in full. The Cross reveals infinite mercy: greater than any sin we could ever commit. The Cross is perfect sacrifice: voluntary, complete, once-for-all.
-
 <div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
 The Cross is where Truth, Justice, Mercy, and Sacrifice become one. It is the complete revelation of God's Perfect Love. Because Jesus is God, His sacrifice has infinite value—greater than any sin. Because He forgave those who crucified Him, there is no sin too great for His mercy. Because He suffered in body, mind, and soul, He can heal us completely. The Cross proves that no one is beyond reach, no sin beyond forgiveness, no brokenness beyond restoration.
 </div>
 
 **Christ Fulfills All Jewish Sacrifices:** The sin offering (Leviticus 4)—Christ atones for our sins. The guilt offering (Leviticus 5-6)—Christ makes restitution. The burnt offering (Leviticus 1)—Christ offers complete self-giving. The peace offering (Leviticus 3)—Christ restores communion. The Passover lamb (Exodus 12)—Christ's blood saves us from death (1 Corinthians 5:7). The Day of Atonement (Leviticus 16)—Christ enters the heavenly sanctuary with His own blood (Hebrews 9:11-12).
 
-**How This Combats Evil:** Selfishness enslaves to self-interest, but Christ's sacrifice conquers self-centeredness. Pride exalts self above God, but the Cross humbles all human pride. Death is the ultimate enemy, but Christ's sacrifice defeats death itself.
+*This is how Christ's sacrifice combats evil:* Selfishness enslaves to self-interest, but Christ's sacrifice conquers self-centeredness. Pride exalts self above God, but the Cross humbles all human pride. Death is the ultimate enemy, but Christ's sacrifice defeats death itself.
 
 ---
 
@@ -166,9 +176,9 @@ The Resurrection validates everything. "If Christ has not been raised, then our 
 
 Eternal life begins now, not just after death. We taste heaven in the sacraments, especially the Eucharist: "Truly, truly, I say to you, unless you eat the flesh of the Son of man and drink his blood, you have no life in you" (John 6:53). Christ is "the bread of life" (John 6:35), and "For as in Adam all die, so also in Christ shall all be made alive" (1 Corinthians 15:22).
 
-**The Resurrection Changes Everything:** For the Grieving—death is not the end. Christ promises "he who believes in me, though he die, yet shall he live" (John 11:25). For the Despairing—there is always hope. The stone was rolled away, the tomb is empty. For the Suffering—pain has meaning. Christ's wounds remain glorified in His risen body. For the Sinner—new beginnings are possible. "The old things have passed away; behold, new things have come" (2 Corinthians 5:17).
+**The Resurrection Changes Everything:** For the Grieving—death is not the end. For the Despairing—there is always hope. The stone was rolled away, the tomb is empty. For the Suffering—pain has meaning. Christ's wounds remain glorified in His risen body. For the Sinner—new beginnings are possible.
 
-**How This Combats Evil:** Death is our ultimate enemy, but Christ defeats it: "The last enemy to be destroyed is death" (1 Corinthians 15:26). Spiritual death separates from God, but Christ gives new life through Baptism. Sterility produces no fruit, but Christ makes all things new: "Behold, I make all things new" (Revelation 21:5). Hopelessness sees no future, but the Resurrection proves God's promises are trustworthy.
+*This is how Christ's resurrection combats evil:* Death is our ultimate enemy, but Christ defeats it: "The last enemy to be destroyed is death" (1 Corinthians 15:26). Spiritual death separates from God, but Christ gives new life through Baptism. Sterility produces no fruit, but Christ makes all things new: "Behold, I make all things new" (Revelation 21:5). Hopelessness sees no future, but the Resurrection proves God's promises are trustworthy.
 
 ---
 
@@ -182,7 +192,7 @@ The early Church experienced this communion: "And they devoted themselves to the
 
 The Eucharist creates communion: Christ's body unites His Body. When we receive Him, we become one with Him and with each other.
 
-**How This Combats Evil:** Isolation leaves us alone, but Christ creates community. Division tears apart, but Christ establishes unity. Alienation produces loneliness, but Christ restores belonging. We are no longer strangers but "members of the household of God" (Ephesians 2:19).
+*This is how Christ's communion combats evil:* Isolation leaves us alone, but Christ creates community. Division tears apart, but Christ establishes unity. Alienation produces loneliness, but Christ restores belonging. We are no longer strangers but "members of the household of God" (Ephesians 2:19)—a community built on Christ's perfect love.
 
 ---
 
@@ -197,7 +207,7 @@ The Eucharist creates communion: Christ's body unites His Body. When we receive 
 - Evil enslaves; Christ's love liberates and empowers
 - Evil brings death; Christ's love brings eternal life
 
-**Personal Evil (Sin and Guilt):** Christ destroys sin's power through Baptism (Romans 6:3-4), breaks chains through Confession, heals wounds through Eucharist, and transforms nature through grace. By these "he has granted to us his precious and very great promises, that through these you may escape from the corruption that is in the world because of passion, and become partakers of the divine nature" (2 Peter 1:4).
+The Gospel confronts evil at every level. Personally, Christ destroys sin's power through Baptism (Romans 6:3-4), breaks chains through Confession, heals wounds through Eucharist, and transforms nature through grace—so we can "escape from the corruption that is in the world" and become "partakers of the divine nature" (2 Peter 1:4).
 
 **Relational Evil (Broken Relationships):** "God was reconciling the world to himself in Christ" (2 Corinthians 5:19). Christ reconciles us vertically to God, horizontally to each other, and internally within ourselves. The Church becomes the household of God (Ephesians 2:19).
 
@@ -211,11 +221,15 @@ This is the entire "end" of the Gospel: Jesus saves us with the fullness of His 
 
 The victory is won. Christ has conquered on the Cross and in the Resurrection. We await the full manifestation of His kingdom, but the decisive battle is already won. Our role is to participate in Christ's ongoing victory through lives of sacrificial love, receiving Him in the sacraments, and proclaiming His Gospel to all nations.
 
+<div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
+**The Gospel Defined:** The Gospel is the sacred gift of the New Covenant in which Christ—who is Truth, Justice, Mercy, and Sacrifice incarnate—binds us into life-giving communion with God and one another, conquering every form of evil through His perfect love.
+</div>
+
 ---
 
 ## Living the Response: The Gospel Call
 
-You've now seen that the Gospel is not just information about God's love—it IS God's Perfect Love incarnate in Jesus Christ. Christ, the *summum bonum*—the highest good—calls you not merely to admire Him but to follow Him. Every component of authentic love finds its perfect fulfillment in Him. The question is no longer "What is love?" but "Will you accept Love Himself?"
+Christ, the *summum bonum*—the highest good—calls you not merely to admire Him but to "deny yourself, pick up your cross and follow me." The question is no longer "What is love?" but "Will you accept Love Himself?"
 
 **The Response Required:**
 
@@ -247,31 +261,29 @@ You've now seen that the Gospel is not just information about God's love—it IS
 
 The Gospel is not one option among many. It is THE answer to the problem of evil. To reject Christ is to reject love itself. To accept Him is to enter into the victory He has already won.
 
+Imagine a world where every Christian lived the full Gospel—truth, justice, mercy, and sacrifice united in Christ. That world is the Kingdom. It begins with Christ fully present in you.
+
 ---
 
 ## Prayer: Encountering Love Himself
 
 *Lord Jesus Christ, You are not just a teacher of love—You ARE Love incarnate.*
 
-*You are the sacred source of all love, the gift of the New Covenant, the binding force that unites what sin has separated.*
-
-*You are Truth itself, perfect Justice, infinite Mercy, and the ultimate Sacrifice.*
-
-*You are Life-giving through Your Resurrection, and You create perfect Communion between God and humanity.*
+*You are the sacred source of all love, the gift of the New Covenant, the binding force that unites what sin has separated. You are Truth itself, perfect Justice, infinite Mercy, and the ultimate Sacrifice. You are Life-giving through Your Resurrection, and You create perfect Communion between God and humanity.*
 
 *I believe that You are God's Perfect Love revealed in human flesh. I believe that Your Cross and Resurrection are the complete answer to every form of evil.*
 
 *Forgive me for the times I have sought love in counterfeits—in sentiment without sacrifice, in tolerance without truth, in justice without mercy, in mercy without justice.*
 
-*Help me to accept Your love fully—not just as information but as transformation. Help me to die and rise with You in Baptism. Help me to receive You in the Eucharist. Help me to confess my sins and experience Your mercy.*
+*Help me to accept Your love fully—not just as information but as transformation. Help me to die and rise with You in Baptism. Help me to receive You in the Eucharist. Help me to confess my sins and experience Your mercy. Bind me to You in covenant love that nothing can break.*
 
-*Teach me to love as You loved: with truth, justice, mercy, and sacrifice. Make me a living witness to Your Gospel—a sign of Your victory over evil.*
+*Teach me to love as You loved: with truth, justice, mercy, and sacrifice. Make me a living witness to Your Gospel—a sign of Your victory over evil. Give me courage to proclaim this Good News to a world dying for lack of it.*
 
-*I give You my body, mind, and soul. Unite them in Your love. Heal what is broken, restore what is lost, and make me a partaker of Your divine nature.*
+*I give You my whole self—body, mind, soul, and most importantly, my heart. Unite them in Your love. Heal what is broken, restore what is lost, and make me a partaker of Your divine nature.*
 
 *Lord Jesus, You are the Way, the Truth, and the Life. You are my Savior, my Lord, and my Love.*
 
-*I am Yours. Amen.*
+*I am Yours, completely and forever. Amen.*
 
 ---
 
