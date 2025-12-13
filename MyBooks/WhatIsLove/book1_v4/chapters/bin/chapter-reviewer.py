@@ -54,9 +54,9 @@ LOG_DIR_NAME = ".chapter-reviewer-logs"
 
 # Model mapping for Anthropic API
 ANTHROPIC_MODEL_MAP = {
-    "opus": "claude-sonnet-4-20250514",  # Opus 4.5 not yet available via API, use Sonnet 4
-    "sonnet": "claude-sonnet-4-20250514",
-    "haiku": "claude-haiku-4-20250514",
+    "opus": "claude-opus-4-5",
+    "sonnet": "claude-sonnet-4-5",
+    "haiku": "claude-haiku-4-5",
 }
 
 # Priority mapping for recommendations
