@@ -1,6 +1,6 @@
 # Introduction
 
-Our world feels like it's coming apart at the seams, doesn't it? We hear constant cries for justice, for equity, for inclusion, for "transgender rights", for "reproductive rights". People are desperately searching for something, often calling it "love," but like the 1980 Johnny Lee song says, they're often "looking for love in all the wrong places." It's a deep ache in the heart of humanity, a longing for connection, meaning, purpose, and peace that seems increasingly elusive.
+Our world feels like it's coming apart at the seams. Constant cries for justice, equity, inclusion, "transgender rights," and "reproductive rights." People are desperately searching for something, often calling it "love," but like the 1980 Johnny Lee song says, they're often "looking for love in all the wrong places." It's a deep ache in the heart of humanity, a longing for connection, meaning, purpose, and peace that seems increasingly elusive.
 
 I wrote this book because after walking with the Lord for over 35 years and deeply contemplating what "God is Love" truly means, I've observed the seismic shifts in our culture and become absolutely convinced of one thing: the chaos we see—the lies, the partiality and cruelty, the indifference, the breakdown of social cohesion and the family—all of it boils down to a failure to understand the most fundamentally human question that lies at the very heart of who we are as persons created in God's image:
 
@@ -86,7 +86,7 @@ And for the thousands who take to the streets protesting injustice—their passi
 
 But here's the thing: **You can't give what you don't have.** If we want to teach our children about authentic love, we must have a basic understanding of what love is! If we want to protect them from counterfeits, it would be most helpful if we could recognize and articulate a specific definition. If we want to raise a generation that can heal our broken world, we have to give them the tools to do it.
 
-But to give them these tools, we first need to understand what authentic love actually is—not in vague, sentimental terms, but with precision and clarity. And I believe that the definition of "God's Perfect Love" that I'm about to share is the interpretive key we've been missing. When we read Scripture through this lens, everything suddenly comes into focus—what the Bible teaches, what Jesus did on the Cross, what the Church proclaims, what the saints lived. This definition shows how Jesus' invitation to love God and neighbor truly is the fulfillment of the law and the prophets, and it helps resolve much of the confusion that separates Christians in their interpretation of Scripture.
+But to give them these tools, we first need to understand what authentic love actually is—not in vague, sentimental terms, but with precision and clarity. The definition of "God's Perfect Love" I'm about to share is the interpretive key we've been missing. When we read Scripture through this lens, everything suddenly comes into focus—what the Bible teaches, what Jesus did on the Cross, what the Church proclaims, what the saints lived. This definition shows how Jesus' invitation to love God and neighbor truly is the fulfillment of the law and the prophets, and it helps resolve much of the confusion that separates Christians in their interpretation of Scripture.
 
 Here's the crucial insight that modern Christianity has largely missed: **If we don't understand what love truly is, we cannot understand what salvation truly is.** The two are inseparable. When Jesus says "For God so loved the world that he gave his only Son, that whoever believes in him should not perish but have eternal life" (John 3:16), He's not just describing God's emotional disposition toward us—He's revealing the very nature of salvation itself. Salvation IS God's perfect love breaking into our broken world, transforming us from the inside out, liberating us from sin's slavery, and drawing us into eternal communion with Him.
 
@@ -94,7 +94,7 @@ But what happens when we misunderstand love? We inevitably misunderstand salvati
 
 This is not the salvation the Bible teaches. Scripture speaks of salvation as transformation, as dying to self and rising with Christ, as heeding St. Paul's command to "work out your own salvation with fear and trembling" (Philippians 2:12), as becoming "partakers of the divine nature" (2 Peter 1:4). Biblical salvation is nothing less than being caught up into God's own life of perfect love—learning to love as He loves, to give as He gives, to sacrifice as He sacrificed. It's comprehensive, demanding, glorious, and utterly transformative.
 
-**When we reduce salvation to "faith alone" in Jesus' mercy alone, we separate what God has joined together—for mercy cannot exist without truth and justice, just as faith cannot exist without love.** We create a salvation that costs nothing and changes nothing. When we make love optional or secondary to "faith alone," we gut the Gospel of its power and beauty. **We end up with a Christianity that can coexist quite comfortably with relativism**—with selfishness, with injustice, with broken families, with lives unchanged by grace—because we've lost sight of what we're actually being saved *for*: to love as God loves.
+How did we lose sight of this transformative vision? By separating what God has joined together. **When we reduce salvation to "faith alone" in Jesus' mercy alone, we separate what God has joined together—for mercy cannot exist without truth and justice, just as faith cannot exist without love.** We create a salvation that costs nothing and changes nothing. When we make love optional or secondary to "faith alone," we gut the Gospel of its power and beauty. **We end up with a Christianity that can coexist quite comfortably with relativism**—with selfishness, with injustice, with broken families, with lives unchanged by grace—because we've lost sight of what we're actually being saved *for*: to love as God loves.
 
 Think about the biggest questions we wrestle with as Christians today: What is salvation? What is sin? What is grace? What is the purpose of the sacraments? What does it mean to be holy? How do we fight evil? What is justice? What is mercy? How should we live? Understanding God's Perfect Love provides the framework that answers all of these questions. It's not just one theological concept among many—it's the key that unlocks everything else. When we understand what perfect love truly is, suddenly the entire Christian life comes into focus. We see that salvation is not escape from the world but transformation within it. We see that grace is not a legal fiction but real power to love authentically. We see that the sacraments are not empty rituals but encounters with divine love that change us. We see that holiness is not impossible perfection but growing capacity to participate in God's own life of self-giving love.
 
@@ -104,7 +104,7 @@ They deserve adults who can answer the question "What is love?" with clarity, co
 
 **The next generation is depending on us.** Let's not fail them.
 
-It sounds so simple, doesn't it? Yet, getting this wrong has devastating consequences for individuals, families, and entire societies as we can see in our society. Getting it right? That changes _everything_. God's Perfect Love is the key that unlocks the meaning of our existence and the path to true service, true freedom, true justice - true salvation.
+It sounds so simple, doesn't it? Yet, getting this wrong has devastating consequences for individuals, families, and entire societies as we can see in our society. Getting it right changes the trajectory of our lives—and our children's lives. God's Perfect Love is the key that unlocks the meaning of our existence and the path to true service, true freedom, true justice - true salvation.
 
 ## *God’s Perfect Love*
 
@@ -120,11 +120,9 @@ That's a mouthful, I know! It's dense, and each word carries significant weight 
 While we embark on this journey to explore what it means that "God is Love," we must always do so with profound humility. As the Catechism reminds us (CCC 271), God's very mystery infinitely surpasses our limited human understanding. This book focuses specifically on the deep Catholic wisdom of God's love *as He has revealed it* and how we, His children, are called to participate in that divine life. I am not presuming to fully define the infinite God Himself. I have thought and taught and prayed my whole life for Jesus to give me His words. I sincerely pray I have done His love "justice".
 </div>
 
-## Your Roadmap for This Journey
+## The Journey Ahead
 
 We'll journey together through these chapters:
-
-## The Journey Ahead: Chapter-by-Chapter Progression
 
 **PART 1: THE NATURE OF PERFECT LOVE (Chapters 1-10)**
 
@@ -166,18 +164,12 @@ We'll journey together through these chapters:
 
 ## This Book Could Have Been Called...
 
-Each of these titles captures a vital dimension of what you'll discover:
-
 - **God IS Love** - Because this isn't just what God does—it's who God is
 - **The Answer to Evil** - Because perfect love is the only complete solution to the problem that plagues our world
-- **The Sacred Gift of Covenant** - Because love is God's permanent, binding relationship offered freely to us
 - **The Gospel Incarnate** - Because Jesus Christ perfectly embodies every facet of this definition
-- **Why the Eucharist is the Source and Summit of the Christian Faith** - Because authentic love creates, multiplies, and builds genuine communion of the faithful
-- **Faith Working Through Love** - Because every virtue flows from love's four pillars, proving "faith alone" is incomplete
-- **Exposing Counterfeit Love** - Because 23 modern distortions are destroying souls, families, and civilization
 - **For the Love of Children** - Because the ultimate test of any "love" is what it does to the next generation
 
-But we specifically chose *What Is Love?* because it is the foundational question that unlocks all the others. It is the question burning in every human heart—the question our culture can no longer answer, and the question this book will help you understand and live.
+But we specifically chose *What Is Love?* because it is the foundational question that unlocks all the others—the question burning in every human heart, the question our culture can no longer answer, and the question this book will help you understand and live.
 
 I will be praying each day for you as you journey into the depth of God's love.
 

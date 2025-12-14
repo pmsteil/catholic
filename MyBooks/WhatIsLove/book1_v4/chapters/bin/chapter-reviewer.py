@@ -673,14 +673,14 @@ IMPORTANT: Return your response in the following JSON format:
     ],
     "summary": "Brief summary of the review",
     "recommendations": [
-        {
+        {{
             "priority": 1,
             "location": "Line/section reference",
             "issue": "What to change",
             "original": "(optional excerpt)",
             "suggested": "(optional replacement)",
             "words_saved": 0
-        }
+        }}
     ]
 }}
 
