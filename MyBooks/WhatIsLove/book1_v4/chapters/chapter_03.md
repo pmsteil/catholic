@@ -34,7 +34,7 @@ But notice what this theory actually explains: *how love works*, not *why love e
 
 Why would there even be such a thing as natural selection? Why would any mechanism exist for transmitting life in the first place? Why would existence itself be a thing—and why would any being, having come into existence, possess a drive to continue existing? The materialist account takes all of this for granted. It assumes a universe already humming with life, already ordered toward continuation, already structured so that cooperation could emerge and be favored. But what grounds any of this? Why is there something rather than nothing? And why is that something ordered toward life, connection, and love rather than toward chaos, isolation, and indifference?
 
-Science describes mechanisms. It answers "how" questions brilliantly—how do these behaviors develop, how do these neural pathways function, how does this chemical affect that receptor. But it is not equipped to answer "why" questions—questions of existence, purpose, and ultimate grounding. These are the questions behind the questions. And materialism has no tools to answer them.
+Science describes mechanisms brilliantly—how behaviors develop, how neural pathways function, how chemicals affect receptors. But it is not equipped to answer "why" questions—questions of existence, purpose, and ultimate grounding. Materialism cannot ground these questions because it cannot explain why there is any ground at all.
 
 Even granting the evolutionary story, it cannot explain why loving behaviors should *bind us morally*. It can describe the neural correlates of love, but not why betraying love feels like violating something sacred rather than merely breaking a useful social pattern. It can explain why we *do* love, but not why we *ought* to—or why failing to love makes us not just evolutionarily maladapted but genuinely *guilty*.
 
@@ -64,7 +64,7 @@ This is what sacred means: set apart, elevated, inviolable. Even in a secular co
 
 And watch how children love their parents. They don't love Mom and Dad because of how well they perform parental duties, or because of the benefits they provide, or because they've earned it through good behavior. Children love their parents simply because they *are* their parents—because of the sacred bond that exists between them. Even children in difficult circumstances, with imperfect parents, instinctively love and long for their mother and father. This isn't based on merit or utility. It's based on relationship, on covenant, on something sacred that transcends performance or benefit.
 
-This is why parental abuse causes such devastating wounds. When parents violate this sacred bond through abuse, neglect, or abandonment, they're not just causing physical or emotional harm—they're desecrating something holy. The child knows, deep in their soul, that what should have been sacred has been profaned. What should have been the safest love becomes the deepest wound. The very relationship that was meant to image God's faithful love becomes a source of trauma. These wounds run so deep precisely because children understand, even if they can't articulate it, that something sacred has been violated.
+This is why parental abuse causes such devastating wounds. When parents violate this sacred bond through abuse, neglect, or abandonment, they're not just causing physical or emotional harm—they're desecrating something holy. The child knows, deep in their soul, that what should have been sacred has been profaned—the very relationship meant to image God's faithful love becomes a source of trauma. These wounds run so deep precisely because children understand, even if they can't articulate it, that something sacred has been violated.
 
 This isn't naivety—it's moral clarity. Children recognize what adults often forget: love participates in something transcendent. It's not just a feeling we can turn on and off. It's not just a social arrangement we can renegotiate. It's not a transaction based on benefits received. It's sacred because it touches the eternal, because it flows from bonds that reflect God's own covenant love.
 
@@ -74,7 +74,9 @@ When we teach children that love is just a feeling, or that marriage is just a c
 
 But why must this be true? Why can't love just be a human invention or evolutionary adaptation?
 
-Consider the logical foundation for why love must come from God. This isn't just abstract philosophy; it is the only reasoning that explains our actual experience of love:
+Consider the logical foundation for why love must come from God. This isn't just abstract philosophy; it is the only reasoning that explains our actual experience of love.
+
+Five observations establish why love must originate in God:
 
 **First, love requires a personal source.** Love is inherently personal—it involves knowing, willing, and giving. Impersonal forces (like evolution or social conditioning) might produce behaviors that *look* like love, but they can't produce the *meaning* of love. Natural selection might explain why humans developed altruistic behaviors that benefit survival, but it cannot explain why we have moral *obligations*. Why should I care about someone else's well-being if it costs me? Evolution describes what *is* (behaviors that emerged), but it cannot prescribe what *ought* to be (moral duties that bind us). The gap between descriptive facts and prescriptive values requires a personal source who can call us to moral responsibility.
 
@@ -98,10 +100,11 @@ This is why Scripture's declaration "God is love" isn't just poetic language or 
 
 This is what the Church means when it teaches that God is the *summum bonum*—the highest good. Philosophers from Plato to Aristotle searched for this ultimate reality. St. Thomas Aquinas demonstrated what reason discovers and revelation confirms: only union with God—who IS love—can satisfy the human heart completely. Every other good (pleasure, wealth, power, honor) fails to fulfill us because they're finite goods. But God, who is infinite Love, is the only good that can satisfy our infinite longing. When we participate in authentic love, we're not just doing something good—we're participating in the highest Good Himself, touching the very source of all goodness and being.
 
-
 ## How We Know God Is Love
 
 Some might object: "You're just projecting human values onto God. How do you know God is actually loving?"
+
+This deserves a careful answer, because it touches the fundamental question of how we can know anything about God at all.
 
 The answer: We're not imposing our standards on God—we're recognizing that our moral knowledge comes *from* God. The Church teaches that God created humans with the capacity to know moral truth through reason—the doctrine of natural law (CCC 1954-1960). When we recognize that love, justice, and mercy are objectively good, we're discovering truths God built into creation and wrote on our hearts. What reason discovers, revelation confirms: "God is love" (1 John 4:8, 16).
 
@@ -137,10 +140,10 @@ When Scripture declares "God is love," it's not saying God has love or does love
 
 This changes everything. If God IS love, then:
 
-- Love existed before the universe—it's not a product of evolution
-- Love is eternal and unchanging—it's not subject to cultural shifts
-- Love has objective content—it's not whatever we decide it means
-- Love is personal—it flows from a Person, not an impersonal force
+- Love preceded the universe—not a product of evolution
+- Love is eternal and unchanging—not subject to cultural shifts
+- Love has objective content—not whatever we decide it means
+- Love is personal—flowing from a Person, not an impersonal force
 - Love is the ultimate reality—more fundamental than matter, energy, or time
 
 When we love authentically, we're not just being nice or following social norms. We're participating in the very life of God.
