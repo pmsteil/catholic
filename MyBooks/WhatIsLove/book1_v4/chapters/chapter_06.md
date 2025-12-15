@@ -43,7 +43,7 @@ In each case, "love" is the justification for control, manipulation, and harm. A
 This is what happens when love is separated from truth. Without truth, "love" becomes whatever the powerful say it is. Without truth, we can't distinguish authentic love from its counterfeits. Without truth, love becomes the ultimate tool of manipulation. **Lying is a foundational sin that destroys love at its source.**
 
 <div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
-Love without truth is manipulation. Truth without love is cruelty. Authentic love requires both—truth that serves the beloved's good, love that honors objective reality.
+Love without truth is manipulation. Truth without love is cruelty. Authentic love requires both—truth that serves the beloved's good, love that honors objective reality. In God, truth and love are not two separate things bound together—they are one simple divine act viewed from different angles.
 </div>
 
 ## What Children Know About Truth
@@ -70,9 +70,9 @@ Before we can understand Christ as Truth Incarnate, we must first recognize the 
 
 **We are created beings, limited in our timeframe and ability.** We experience life, and we die. We did not choose to exist, yet here we are. This points to a Creator.
 
-**We are born either male or female.** This is not assigned or chosen—it's written into every cell of our bodies. Our biological sex is an objective truth about who we are. As John Paul II taught in his Theology of the Body, **"The body, and it alone, is capable of making visible what is invisible."** Our maleness or femaleness isn't just about biology—it's about how we image God and relate to others.
+**We are born either male or female.** This is not assigned or chosen—it's written into every cell of our bodies. Our biological sex is an objective truth about who we are. As John Paul II taught in his Theology of the Body, **"The body, and it alone, is capable of making visible what is invisible"** (TOB 19:4). Our maleness or femaleness isn't just about biology—it's about how we image God and relate to others.
 
-**We are born with only half of our reproductive organs.** We are complementary to the opposite sex, designed for union that creates new life. This complementarity is built into our very nature. John Paul II called this the "nuptial meaning of the body"—our bodies literally speak a language of self-gift and communion. **Man is a unity of body and soul, not a soul trapped in a body.** What our bodies reveal about complementarity isn't oppression—it's the blueprint for how love works.
+**We are born with only half of our reproductive organs.** We are complementary to the opposite sex, designed for union that creates new life. This complementarity is built into our very nature. John Paul II called this the "nuptial meaning of the body" (cf. TOB 14:4-15:5)—our bodies literally speak a language of self-gift and communion. **Man is a unity of body and soul, not a soul trapped in a body.** What our bodies reveal about complementarity isn't oppression—it's the blueprint for how love works.
 
 **We love and need love and need to be loved.** No one has to teach us this. From our first breath, we cry out for love. This universal longing is written on every human heart.
 
@@ -104,13 +104,13 @@ This is why love requires truth. Because love requires knowing the beloved as th
 
 ### Truth Died Because of Lies
 
-The depth of what it means that Jesus IS truth becomes even more profound when we understand how He died. On the Cross, Jesus prayed the words of Psalm 31:6: "Into thy hand I commit my spirit; thou hast redeemed me, O LORD, faithful God".
+The depth of what it means that Jesus IS truth becomes even more profound when we understand how He died. On the Cross, Jesus prayed the words of Psalm 31:5: "Into thy hand I commit my spirit; thou hast redeemed me, O LORD, faithful God".
 
 Think about the context: Jesus—who IS Truth—was dying because of lies. False witnesses testified against Him. Religious leaders accused Him falsely. Pilate knew He was innocent but condemned Him anyway to political expediency. The crowd chose Barabbas, a murderer, over Jesus, the Truth. Even His own disciples abandoned Him, with Peter denying three times that he even knew Him. Satan is called "the father of lies" (John 8:44) for good reason—lying is his primary weapon against love.
 
 Truth Incarnate was murdered by a world built on lies. And in His final breath, He entrusted Himself to the "God of truth"—the Father who sees reality clearly when everyone else believes lies, who judges justly when everyone else condemns the innocent.
 
-This reveals something crucial: **lying is the sin directly opposed to truth, and lies are deadly.** They killed God Himself when He walked among us. They crucified Love. They murdered Truth. Every sin involves some form of lying—to ourselves, to others, or to God. See chapter 13 where we analyze each sin in detail.
+This reveals something crucial: **lying is the sin directly opposed to truth, and lies are deadly.** They killed God Himself when He walked among us. They crucified Love. They murdered Truth. Falsehood strikes at the very foundation of love and communion. Every sin involves some form of lying—to ourselves, to others, or to God. See chapter 13 where we analyze each sin in detail.
 
 And lies are still deadly today—destroying marriages, families, communities, nations, and souls. Every lie is a small participation in the same evil that crucified Christ. Every time we speak truth, we participate in His resurrection victory over the kingdom of lies.
 
@@ -158,9 +158,9 @@ Relativism destroys the foundation love requires.
 
 We are living through an unprecedented crisis of lies. The media lies to us daily—manipulating narratives, suppressing truth, gaslighting entire populations. Politicians lie brazenly—promising what they won't deliver, denying what everyone can see, redefining words to mean their opposite. Institutions lie systematically—corporations, universities, even some church leaders—twisting truth to serve power, profit, or ideology.
 
-We're told that men can become women and women can become men. That a baby in the womb isn't a human person. That marriage can be between any combination of people. That gender is a spectrum. That your feelings determine reality. That there are no objective moral standards. That truth itself is just a social construct used by the powerful to oppress the marginalized.
+The Church, drawing on Scripture and natural law, teaches the truth about the human person: that we are created male and female in God's image (Genesis 1:27), that every human life has dignity from conception to natural death, that marriage is the union of one man and one woman ordered toward children. When our culture denies these truths—claiming that biological sex is merely "assigned," that unborn children are not human persons, that marriage can be redefined at will—it isn't just offering alternative opinions. It's denying reality.
 
-These aren't just philosophical disagreements. These are lies—deliberate denials of reality that destroy lives. And like the lies that killed Jesus, these lies are deadly. **Lying is the foundational destroyer of love because love cannot exist without truth.** They destroy children's bodies through so-called "gender-affirming care." They destroy marriages and families. They destroy the vulnerable through abortion, euthanasia, and exploitation. They destroy souls by cutting them off from truth, from reality, from God Himself.
+And denial of reality is deadly. Like the lies that killed Jesus, these falsehoods destroy those they claim to help. **Lying is the foundational destroyer of love because love cannot exist without truth.** The Eighth Commandment prohibits not only direct lying but "every kind of act contrary to justice and truth" (CCC 2476). When we deny truth about human nature, we harm real people—children confused about their bodies, the vulnerable denied legal protection, marriages weakened by false foundations, souls cut off from the reality of God's design.
 
 But here's what's remarkable: **the very fullness of these lies is driving people back to truth.** When the lies become so blatant, so destructive, so obviously contrary to reality, people start waking up. They start asking: "What is actually true? Who can I trust? Where can I find reality in a world of lies?"
 
