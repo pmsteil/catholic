@@ -48,11 +48,9 @@ Consider what a child *assumes* about family before anyone teaches them anything
 
 This is remarkable: children instinctively know that their parents' union is permanent. No one teaches them this. They don't learn it from books or conversations. They know it because covenant permanence is written on the human heart. They know it because their parents—united in one flesh—are meant to image God's own covenant love. They know it because family unity isn't a social construct that varies by culture—it's a basic truth of human existence that children recognize before they can articulate it.
 
-And when that covenant breaks? When the unthinkable becomes real? The child's world doesn't just change—it crumbles. The foundation they stood on gives way beneath their feet. The permanence they assumed reveals itself as conditional. The "always" they trusted was actually "for now."
+And when that covenant breaks? When the unthinkable becomes real? The child's world doesn't just change—it crumbles. The foundation they stood on gives way beneath their feet.
 
-This wound runs deep precisely because children know what love should be. They didn't learn that marriage should be permanent from a textbook—they knew it in their souls. And now they've learned something far more devastating: that covenants can be broken. That "forever" has conditions. That even the most fundamental promises—the union of mother and father—can be revoked when love gets hard.
-
-This shapes how they approach every future promise, every relationship, every vow. If the most basic covenant of their existence could be broken, why would any promise be different?
+This wound runs deep precisely because children know what love should be—they knew it in their souls before anyone taught them. And now they've learned something far more devastating: that covenants can be broken, that "forever" has conditions, that even the most fundamental promise—the union of mother and father—can be revoked when love gets hard. This shapes how they approach every future promise, every relationship, every vow. If the most basic covenant of their existence could be broken, why would any promise be different?
 
 ## Covenant vs. Contract: Understanding the Difference
 
@@ -120,6 +118,8 @@ Think about it practically:
 
 If humans are the source of morality, which humans decide? Ancient Sparta thought exposing weak infants was "just." Modern progressives think aborting them is "just." Without a transcendent standard, morality becomes a power struggle. **When morality is authored by humans rather than received from divine authority, it must be imposed through force.** This is what happens when humans try to fabricate justice using limited human opinion rather than divine authority.
 
+And imposed morality inevitably escalates. First come laws, then coercion, then elimination of dissenters—because if there's no transcendent truth, only power determines who's right, and power must silence opposition to maintain control.
+
 This is why atheistic regimes resort to mass murder—the inevitable result of grounding morality in human power rather than divine truth. Nazi fascism: 11 million dead. Soviet communism: 20 million. Chinese communism: 45 million. The gulags and killing fields are what happens when humans fabricate justice without God's authority.
 
 The wages of sin truly is death.
@@ -175,7 +175,7 @@ The test comes when benefits disappear—Alzheimer's, illness, aging, depression
 **If his love was FOR the benefits, it stops when benefits cease.**
 **If his love was FOR the person, it endures because her dignity endures.**
 
-The same test applies to wives. Do you love your husband for who he is—a man created in God's image with infinite dignity? Or for what he provides—income, security, status, strength? When disability, job loss, or weakness comes, does your love continue?
+The same test applies in reverse. When income, strength, or status disappear, does your love continue—or was it contingent on what he could provide?
 
 **This is why covenant is grounded in personhood, not performance.** Contract: "I give because you give." Covenant: "I give because you are." Contract is contingent on benefits. Covenant is grounded in the beloved's intrinsic dignity as imago Dei.
 
@@ -233,7 +233,7 @@ When we understand covenant love—especially as embodied in marriage—we see h
 
 **Against Meaninglessness:** If nothing is permanent, nothing ultimately matters. Covenant gives life meaning by creating bonds that transcend the moment, relationships that endure beyond death, love that participates in the eternal.
 
-**Against Cultural Breakdown:** When we tell people marriage is optional, that any arrangement is equally valid, that children don't need both mother and father—we're not liberating them. We're robbing them of the primary means by which humans fulfill the law written on their hearts. The crisis isn't that marriage has become unpopular. It's that we've forgotten why we need it. We've reduced it to a lifestyle preference when it's actually the fundamental human covenant that enables us to become who we're meant to be—image-bearers of God who love as He loves, creating life and nurturing it toward communion with Him.
+**Against Cultural Breakdown:** When we tell people marriage is optional, that any arrangement is equally valid, that children don't need both mother and father—we're not liberating them. We're robbing them of the primary means by which humans fulfill the law written on their hearts. The crisis isn't that marriage has become unpopular—it's that we've forgotten why we need it.
 
 ## Covenant in All of Life
 
@@ -255,9 +255,7 @@ Marriage doesn't just participate in these other covenants—it teaches us what 
 
 This is covenant fidelity expressed through sacrifice—giving us meaning in life, strength to persevere, and power to "go the extra mile." It's not cold duty. It's the deeper reality that our souls are being shaped by the commitments we keep.
 
-A parent who stays faithful through a child's rebellion isn't just "doing their duty"—they're becoming more like God, whose love never fails. A spouse who remains committed through illness or hardship isn't just keeping a promise—they're participating in Christ's covenant love for His Church. Their souls are being transformed into His image.
-
-When we keep our covenants, we're not just maintaining relationships—we're becoming people whose very character reflects the Author of love Himself. Our souls are being woven into the fabric of divine faithfulness, making us capable of the deep, enduring love that the world desperately needs.
+A parent who stays faithful through a child's rebellion isn't just "doing their duty"—they're becoming more like God, whose love never fails. A spouse who remains committed through illness or hardship isn't just keeping a promise—they're participating in Christ's covenant love for His Church. Their souls are being transformed into His image—becoming capable of the deep, enduring love that the world desperately needs.
 
 
 ## The Bridge to Binding
