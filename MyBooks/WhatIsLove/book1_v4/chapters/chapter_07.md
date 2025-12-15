@@ -70,6 +70,8 @@ A child doesn't just *witness* injustice here—they *experience* it from the pe
 
 Children know something instinctively that adults sometimes forget: parenting isn't a transaction. Parents don't give so they can receive. Children aren't investments. The basic duties of parenthood—food, shelter, love, protection—aren't loans. They're what children are *owed* by virtue of being brought into existence by their parents.
 
+This doesn't mean children owe parents nothing—the Fourth Commandment establishes real duties of honor, respect, and care. Children genuinely owe their parents gratitude for life itself and for the sacrifices of raising them. But these duties flow from the nature of the relationship, not from a debt ledger. The child honors the parent because honor is what parents are due—not because the parent has accumulated credits to be repaid on demand.
+
 When a parent weaponizes their care—"After everything I've done for you, this is how you repay me?"—the child feels the injustice immediately. They may not have the words, but they know something is wrong. They know they're being treated as a debtor rather than a child. They know the relationship has been twisted from gift to transaction.
 
 This is what happens when justice is violated within the family: the child learns that love comes with a bill. That nothing is really given freely. That even the most basic care will someday be used as leverage against them. And this shapes how they understand all love, all relationships, all giving and receiving.
@@ -80,7 +82,7 @@ Our culture has confused justice with revenge, fairness with equality, rights wi
 
 St. Thomas Aquinas defined justice as "the perpetual and constant will to render to each one his right" (*Summa Theologica* II-II, q.58, a.1). This isn't cold legalism—it's love in action, giving each person what they're truly owed.
 
-The Hebrew Scriptures use two main words for justice: *Mishpat* (right judgment, vindication of the oppressed) and *Tsedeqah* (righteousness, right relationships). Together, they reveal justice as both giving what's due and restoring what's broken.
+The Hebrew Scriptures use two main words for justice: *Mishpat* and *Tsedeqah*. *Mishpat* appears over 400 times in the Old Testament, meaning right judgment, legal decision, and vindication of the oppressed—it's the justice of the courtroom, ensuring fair treatment. *Tsedeqah* means righteousness, right relationships, and covenant faithfulness—it's the justice of restored communion. When the prophets cry "Let justice (*mishpat*) roll down like waters, and righteousness (*tsedeqah*) like an ever-flowing stream" (Amos 5:24), they're calling for both: fair treatment AND restored relationships. Together, these words reveal that biblical justice is never merely punitive—it always aims at healing and restoration.
 
 Aquinas distinguished three types of justice that help us understand how love operates in different relationships:
 
@@ -129,6 +131,10 @@ When we fail in justice—when we exploit, oppress, or dehumanize—we damage ou
 ## Justice vs. Partiality: The Truth About "Inclusion"
 
 Our culture claims to champion "inclusion," "diversity," and "equity" (DEI). But here's what we need to understand: **Modern "inclusion" is actually partiality—the very opposite of justice.**
+
+First, let's be clear: Scripture explicitly commands special concern for the vulnerable. "Learn to do good; seek justice, correct oppression; defend the fatherless, plead for the widow" (Isaiah 1:17). God has always demanded that His people protect those who cannot protect themselves—the orphan, the widow, the stranger, the poor. This is not partiality; this is justice recognizing that some people face greater obstacles and greater vulnerability, and love requires meeting them in their need.
+
+But there's a crucial difference between biblical advocacy for the vulnerable and ideological partiality. Biblical justice serves the actual good of the person—it aims to restore them to full dignity and flourishing. Ideological partiality uses groups as political tools, creates permanent victim classes, and judges people by external characteristics rather than individual dignity.
 
 Justice treats each person according to their inherent dignity as image-bearers of God, regardless of race, class, sex, or any other external characteristic. Partiality treats people according to their group identity—showing favoritism to some while discriminating against others based on tribe, politics, or ideology.
 
@@ -225,17 +231,17 @@ If your answer is yes, then you're ready for the next step. Because God's justic
 
 Justice gives each person what they're due. But what about when someone doesn't deserve forgiveness? What about when justice demands punishment? What about when giving what's strictly owed would crush rather than heal?
 
-This is where we discover that justice, by itself, is incomplete. Justice can diagnose the problem—it reveals what's wrong, what's owed, what's been violated. Justice can even demand restitution. But justice alone cannot heal the deepest wounds or restore broken relationships. Justice prepares the ground, but it cannot make things grow.
+This is where we discover that justice, viewed in isolation from the other facets of God's love, reveals only part of the picture. In God, justice and mercy are not two separate things that must be balanced or sequenced—they are one simple divine act viewed from different angles. God's justice IS His mercy IS His love. But because we are finite creatures who cannot grasp God's simplicity all at once, we must explore each facet in turn.
 
-Think about it: Justice can tell you that you've been wronged and deserve recompense. But justice alone cannot heal your wounded heart. Justice can demand that the offender acknowledge their sin and accept consequences. But justice alone cannot transform them into a new person. Justice can establish that a relationship has been violated. But justice alone cannot restore the trust and intimacy that were lost.
+From our human perspective, justice reveals what's wrong, what's owed, what's been violated. It establishes the truth about what's been broken. But when we isolate justice from mercy in our thinking or practice, we see only diagnosis without healing, debt without forgiveness, violation without restoration.
 
-**This is how justice prepares for mercy:** Justice establishes the truth about what's been broken, making mercy meaningful rather than cheap. Justice names the wound, making mercy's healing powerful rather than superficial. Justice acknowledges the debt, making mercy's forgiveness costly rather than casual. Without justice, mercy would be mere sentimentality—pretending nothing's wrong, enabling sin, cheapening grace. When we uphold justice, mercy becomes the most powerful force in the universe.
+**This is why we must see justice and mercy together:** Justice establishes the truth about what's been broken, making mercy meaningful rather than cheap. Justice names the wound, making mercy's healing powerful rather than superficial. Justice acknowledges the debt, making mercy's forgiveness costly rather than casual. Without justice, mercy would be mere sentimentality—pretending nothing's wrong, enabling sin, cheapening grace. Without mercy, justice would crush rather than restore.
 
-This is where the next facet becomes crucial: **mercy**. Mercy doesn't violate justice—it transcends it. Mercy doesn't ignore what's owed—it offers more than what's owed.
+This is where the next facet becomes crucial: **mercy**. Mercy doesn't violate justice—it fulfills it. Mercy doesn't ignore what's owed—it offers more than what's owed. In God, these are not competing demands but one perfect love.
 
-Justice says "You deserve consequences." Mercy says "I'll bear those consequences for you." Justice says "You broke the covenant." Mercy says "I'll remain faithful anyway." Justice says "This is what's owed." Mercy says "I'll give you what you need instead."
+From our limited perspective, it can seem like justice says "You deserve consequences" while mercy says "I'll bear those consequences for you." Justice says "You broke the covenant" while mercy says "I'll remain faithful anyway." But in God's perfect love, both are happening simultaneously—the same act that satisfies justice also extends mercy.
 
-Without justice, mercy is meaningless. With justice, mercy becomes love that goes beyond what's required to offer what's needed—the healing, transformation, and restoration that only God can provide.
+When we hold justice and mercy together as facets of one love, we experience what only God can provide: healing, transformation, and restoration that honor truth while offering grace.
 
 ---
 
