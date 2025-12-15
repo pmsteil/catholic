@@ -70,13 +70,13 @@ Modern "mercy" often means ignoring sin, avoiding consequences, or enabling dest
 
 ## Mercy vs. Mercilessness: The Culture of Condemnation
 
-Our culture claims to champion "compassion" and "empathy," but here's what we need to understand: **Modern culture is actually merciless—the very opposite of the mercy Christ commands.**
+Our culture claims to champion "compassion" and "empathy," yet **modern culture is actually merciless—the very opposite of the mercy Christ commands.**
 
 Mercy offers forgiveness and the possibility of restoration. Mercilessness refuses forgiveness and demands permanent condemnation. Mercy sees the person's dignity beyond their sin. Mercilessness defines people by their worst moment and refuses redemption.
 
 Scripture explicitly commands mercy: "Be merciful, just as your Father is merciful" (Luke 6:36). Why? Because mercilessness violates the fundamental truth that we are all sinners in need of God's mercy. "For judgment is merciless to one who has not shown mercy" (James 2:13).
 
-**Here's the deception:** Modern culture doesn't actually offer compassion to all—it shows selective compassion to favored groups while being ruthlessly merciless to others. "Cancel culture" doesn't pursue accountability—it pursues destruction. "Social justice" doesn't seek restoration—it demands permanent condemnation.
+**The deception:** Modern culture doesn't actually offer compassion to all—it shows selective compassion to favored groups while being ruthlessly merciless to others. "Cancel culture" doesn't pursue accountability—it pursues destruction. "Social justice" doesn't seek restoration—it demands permanent condemnation.
 
 Consider what this looks like in practice:
 - **Cancel culture** destroys careers and reputations for past mistakes without redemption
@@ -94,15 +94,21 @@ True love REQUIRES mercy—the willingness to forgive as we have been forgiven, 
 
 ## Mercy vs. Justice: Not Opposition but Completion
 
-Mercy doesn't oppose justice. Mercy fulfills justice.
+How does mercy fulfill justice rather than oppose it?
 
-It can never be a choice between justice and mercy. Both must always be present for love to be authentic. To pit them against each other is a false dichotomy. God is simple and undivided—justice and mercy are equally attributes of the one God. His truth reveals what is right, His justice upholds it, and His mercy restores it. All three work together in perfect unity.
+Both must always be present for love to be authentic—to pit them against each other is a false dichotomy. God is simple and undivided—justice and mercy are equally attributes of the one God. His truth reveals what is right, His justice upholds it, and His mercy restores it. All three work together in perfect unity.
 
 But first, we must understand that mercy requires sacrifice. Mercy requires that we sacrifice the justice that we are owed for the good of the covenant relationship. Whether it is to repair the harm done to ourselves, our family, our church, or greater society, the health of the covenant relationship requires forgiveness and mercy for healing. Here we see the interplay between truth, justice, mercy, and sacrifice working together.
 
-Justice says "You deserve consequences for what you did." Mercy says "I'll bear those consequences for you" (sacrifice). Justice says "You broke the covenant." Mercy says "I'll remain faithful anyway." Justice says "You owe a debt you can't pay." Mercy says "I'll pay it for you."
+Consider what this means in practice:
 
-Mercy doesn't deny what justice requires. Mercy fulfills what justice requires—but not by making the offender pay. By paying it yourself. This is what God does on the cross. Justice demands payment for sin. Mercy offers to pay it. Christ satisfies justice (expiation) while offering mercy (oblation). Both are fulfilled in one perfect act of love.
+Justice says "You owe a debt you can't pay." Mercy says "I'll pay it for you."
+
+Justice says "You broke the covenant." Mercy says "I'll remain faithful anyway."
+
+Justice says "You deserve consequences for what you did." Mercy says "I'll bear those consequences for you."
+
+Mercy doesn't deny what justice requires—it fulfills what justice requires by bearing the cost rather than demanding payment from the offender. This is what God does on the cross. Christ satisfies justice (expiation) while offering mercy (oblation). Both are fulfilled in one perfect act of love.
 
 ## The Condition: We Must Forgive to Be Forgiven
 
@@ -125,7 +131,7 @@ This is mercy—seeing truth about suffering, going beyond what duty requires, a
 
 The hardest mercy is mercy toward enemies—those who've deeply wounded us, who don't deserve forgiveness, who perhaps haven't even asked for it.
 
-Jesus demonstrates this from the cross: "And Jesus said, 'Father, forgive them; for they know not what they do'" (Luke 23:34). This is the standard: "But I say to you that hear, Love your enemies, do good to those who hate you, bless those who curse you, pray for those who abuse you" (Luke 6:27-28).
+Jesus demonstrates this from the cross: "And Jesus said, 'Father, forgive them; for they know not what they do'" (Luke 23:34). He sets the standard: "But I say to you that hear, Love your enemies, do good to those who hate you, bless those who curse you, pray for those who abuse you" (Luke 6:27-28).
 
 Why? Because mercy is how we break cycles of revenge, how we overcome evil with good, how we become like our Father who "makes his sun rise on the evil and on the good, and sends rain on the just and on the unjust" (Matthew 5:45).
 
@@ -151,7 +157,7 @@ This doesn't minimize the gravity of the sin. It magnifies the power of God's me
 
 ## Forgiveness and Reconciliation
 
-We need to distinguish between forgiveness and reconciliation: Forgiveness is unilateral—you can forgive someone who never repents. Forgiveness releases you from the prison of bitterness. Reconciliation is bilateral—it requires both parties. The offender must repent. The offended must forgive. Trust must be rebuilt.
+Forgiveness and reconciliation are not the same: Forgiveness is unilateral—you can forgive someone who never repents. It releases you from the prison of bitterness. Reconciliation is bilateral—it requires both parties. The offender must repent. The offended must forgive. Trust must be rebuilt.
 
 You can forgive without reconciling (if the other person won't repent). But you can't reconcile without forgiving (if you won't release the debt). This distinction is crucial for victims of abuse, betrayal, or serious harm. You can—and should—forgive for your own healing. But you're not required to reconcile with someone who remains dangerous, unrepentant, or untrustworthy, because this would not be proper justice toward your own self. Reconciliation may also not be possible if the offender is unreachable or is no longer living.
 
@@ -169,7 +175,7 @@ This is why confession is so powerful. It's encountering divine mercy in concret
 
 ## How Mercy Combats Evil
 
-Mercy combats hardness of heart by breaking cycles of revenge and creating possibility for healing. Mercy combats despair by offering hope—no sin is too great, no person too far gone. Mercy combats bitterness by releasing you from the prison of resentment. Mercy combats division by creating the possibility of reconciliation in families, communities, and nations. Mercy combats cruelty by revealing the harsh, unforgiving spirit as the evil it is.
+Mercy combats hardness of heart by breaking cycles of revenge and revealing the harsh, unforgiving spirit as the evil it is. Mercy combats despair by offering hope—no sin is too great, no person too far gone. Mercy combats bitterness by releasing you from the prison of resentment. Mercy combats division by creating possibility for healing and reconciliation in families, communities, and nations.
 
 Every time we repent of our sin and turn back to God, we are leaving the consequences of our sin behind—in other words, the evil that it creates—which then creates good in the world. When the people of God choose to truly love one another, good triumphs over evil.
 
@@ -187,7 +193,7 @@ This is why the Sacrament of Reconciliation is so powerful—it engages your who
 
 ## The Bridge to Sacrifice: Mercy and the Cross
 
-Mercy offers forgiveness, releases debts, restores relationships. But how? At what cost? Who pays the price?
+Mercy forgives, releases debts, restores relationships. But how? At what cost? Who pays the price?
 
 This is where the next facet becomes crucial: **sacrifice**. Mercy isn't free—someone must bear the cost. Justice demands payment. Mercy offers to pay it. But this requires sacrifice.
 
