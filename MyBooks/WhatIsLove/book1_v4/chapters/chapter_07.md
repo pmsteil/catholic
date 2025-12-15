@@ -28,17 +28,15 @@ Chapter 6 showed us that truth is the foundation of love—without truth, we can
 
 Every child knows it. Every human heart feels it. The instinctive recognition that some things are objectively wrong—not just unpleasant or inconvenient, but actually, truly unjust.
 
-The bully taking the smaller child's lunch money. The boss taking credit for his employee's work. The judge accepting bribes to favor the wealthy. The strong exploiting the weak. The powerful oppressing the vulnerable.
+The bully taking lunch money. The boss stealing credit. The judge taking bribes. We know—immediately, instinctively, universally—that these things are wrong. Not just socially disapproved. *Wrong.*
 
-We all know—immediately, instinctively, universally—that these things are wrong. Not just socially disapproved. Not just culturally relative. Wrong.
-
-This universal cry for justice reveals something profound: Justice is written on every human heart. It's part of the natural law, the moral order built into creation itself. We recognize it because we're made in the image of a God who IS just.
+This universal cry reveals something profound: justice is written on every human heart—part of the natural law built into creation. We recognize it because we're made in the image of a God who IS just.
 
 But here's a critical question: **How can we recognize injustice unless there's a transcendent standard of justice we're comparing it to?**
 
-When you say "That's not fair!" you're appealing to some higher standard of fairness—saying this situation falls short of how things *should* be. But where does that "should" come from? If there's no objective standard—if justice is just whatever humans make up—then your claim of injustice is meaningless. It's just your opinion, with no more authority than someone else's opposite opinion.
+When you say "That's not fair!" you're appealing to a higher standard—saying this situation falls short of how things *should* be. But where does that "should" come from? If justice is just whatever humans make up, your claim is meaningless—no more authoritative than someone else's opposite opinion.
 
-Consider what happens when people detach justice from God: They call abortion "reproductive justice," assisted suicide "death with dignity," and redefining marriage to deny children a mother or father "marriage equality." Without an objective standard, **none of these claims mean anything**—not yours, not theirs, not anyone's. There is only power: whoever is strongest gets to impose their preferences on everyone else.
+Consider what happens when people detach justice from God: They call abortion "reproductive justice," assisted suicide "death with dignity," and redefining marriage to deny children a mother or father "marriage equality." Without an objective standard, there is only power: whoever is strongest imposes their preferences on everyone else.
 
 **But we all know—deep down—that some things are objectively unjust.** Child abuse is wrong even if a society approves it. Slavery is wrong even if it's legal. Genocide is wrong even if the majority supports it. These aren't opinions. They're facts about reality.
 
@@ -46,11 +44,11 @@ The moment you recognize this, you're appealing to an objective standard of just
 
 **The standard must be eternal, unchanging, and absolute. It must be God Himself.**
 
-This isn't just philosophy. This is the foundation of every fight for justice you've ever cared about. Every time you've said "That's not fair," you've been appealing to God's standard—whether you knew it or not. Every time you've demanded justice, you've been proving that God exists—because without Him, justice is just a word with no meaning.
+This isn't just philosophy—it's the foundation of every fight for justice you've ever cared about. Every time you've said "That's not fair," you've appealed to God's standard, whether you knew it or not. Every time you've demanded justice, you've proven God exists—because without God (the source of what is good and just), justice is just a word with no meaning.
 
-This is why human attempts to author justice without God inevitably fail—not because non-believers cannot recognize any justice (natural law allows this), but because they cannot justify *why* their sense of justice should be authoritative. They reject the only possible source of objective justice and replace it with human preference that serves self-interest. As we explored in Chapter 4, when morality is authored by humans rather than received from divine authority, it must be imposed through force because it has no inherent authority.
+Human attempts to author justice without God inevitably fail—not because non-believers can't recognize justice (natural law allows this), but because they can't justify *why* their sense of justice should be authoritative. They replace the only source of objective justice with human preference serving self-interest. As we explored in Chapter 4, morality authored by humans must be imposed through force because it has no inherent authority.
 
-True justice requires a source beyond ourselves: the God who IS justice itself. Without God, the cry "That's not fair!" has no more authority than "I don't like broccoli." With God, it becomes a recognition of objective reality—a violation of the moral order built into creation by its Creator.
+True justice requires a source beyond ourselves: the God who IS justice. Without God, "That's not fair!" has no more authority than "I don't like broccoli." With God, it becomes recognition of objective reality—a violation of the moral order built into creation by its Creator.
 
 <div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
 Justice is love giving each person what they are due based on their dignity as image-bearers of God. Without justice, love becomes arbitrary sentiment. With justice, love has objective content and concrete expression.
@@ -66,15 +64,13 @@ But there's a deeper wound: when injustice comes *from* the one who should prote
 
 Listen to what this phrase does. The parent is demanding what they're owed—gratitude, compliance, repayment—while ignoring what the *child* is owed. It flips justice upside down. Basic care becomes a loan to be repaid. Feeding, clothing, and sheltering a child becomes an investment with expected returns. The parent's sacrifices are counted; the child's rightful claim to be loved unconditionally is erased.
 
-A child doesn't just *witness* injustice here—they *experience* it from the person who should be their protector. The one responsible for giving them what they're owed (love, care, formation) is now demanding the child repay a debt that was never supposed to be a debt at all.
+Children know instinctively what adults forget: parenting isn't a transaction. Basic parental duties—food, shelter, love, protection—aren't loans. They're what children are *owed* by virtue of being brought into existence.
 
-Children know something instinctively that adults sometimes forget: parenting isn't a transaction. Parents don't give so they can receive. Children aren't investments. The basic duties of parenthood—food, shelter, love, protection—aren't loans. They're what children are *owed* by virtue of being brought into existence by their parents.
+This doesn't mean children owe parents nothing—the Fourth Commandment establishes real duties of honor, respect, and care. Children genuinely owe gratitude for life itself and for the sacrifices of raising them. But these duties flow from the nature of the relationship, not from a debt ledger. The child honors the parent because honor is what parents are due—not because the parent has accumulated credits to be repaid on demand.
 
-This doesn't mean children owe parents nothing—the Fourth Commandment establishes real duties of honor, respect, and care. Children genuinely owe their parents gratitude for life itself and for the sacrifices of raising them. But these duties flow from the nature of the relationship, not from a debt ledger. The child honors the parent because honor is what parents are due—not because the parent has accumulated credits to be repaid on demand.
+When a parent weaponizes their care—"After everything I've done for you, this is how you repay me?"—the child feels the injustice immediately. They may not have the words, but they know something is wrong: they're being treated as a debtor rather than a child. The relationship has been twisted from gift to transaction.
 
-When a parent weaponizes their care—"After everything I've done for you, this is how you repay me?"—the child feels the injustice immediately. They may not have the words, but they know something is wrong. They know they're being treated as a debtor rather than a child. They know the relationship has been twisted from gift to transaction.
-
-This is what happens when justice is violated within the family: the child learns that love comes with a bill. That nothing is really given freely. That even the most basic care will someday be used as leverage against them. And this shapes how they understand all love, all relationships, all giving and receiving.
+This is what happens when justice is violated within the family: the child learns that love comes with a bill, that nothing is given freely, that even the most basic care will be used as leverage. This shapes how they understand all love and all relationships.
 
 ## What Justice Actually Means
 
@@ -82,31 +78,31 @@ Our culture has confused justice with revenge, fairness with equality, rights wi
 
 St. Thomas Aquinas defined justice as "the perpetual and constant will to render to each one his right" (*Summa Theologica* II-II, q.58, a.1). This isn't cold legalism—it's love in action, giving each person what they're truly owed.
 
-The Hebrew Scriptures use two main words for justice: *Mishpat* and *Tsedeqah*. *Mishpat* appears over 400 times in the Old Testament, meaning right judgment, legal decision, and vindication of the oppressed—it's the justice of the courtroom, ensuring fair treatment. *Tsedeqah* means righteousness, right relationships, and covenant faithfulness—it's the justice of restored communion. When the prophets cry "Let justice (*mishpat*) roll down like waters, and righteousness (*tsedeqah*) like an ever-flowing stream" (Amos 5:24), they're calling for both: fair treatment AND restored relationships. Together, these words reveal that biblical justice is never merely punitive—it always aims at healing and restoration.
+The Hebrew Scriptures use two main words for justice: *Mishpat* and *Tsedeqah*. *Mishpat* appears over 400 times in the Old Testament, meaning right judgment, legal decision, and vindication of the oppressed—it's the justice of the courtroom, ensuring fair treatment. *Tsedeqah* means righteousness, right relationships, and covenant faithfulness—it's the justice of restored communion. When the prophets cry "Let justice (*mishpat*) roll down like waters, and righteousness (*tsedeqah*) like an ever-flowing stream" (Amos 5:24), they're calling for both: fair treatment AND restored relationships. Together, they reveal that biblical justice always aims at healing and restoration, not mere punishment.
 
 Aquinas distinguished three types of justice that help us understand how love operates in different relationships:
 
-- **Commutative Justice:** Fairness between individuals—keeping contracts, paying debts, honoring agreements. This is the justice of "I owe you what I promised."
-- **Distributive Justice:** Fair distribution of common goods according to need and contribution. This is the justice of leaders toward those in their care.
-- **Legal (or General) Justice:** What individuals owe to the community—contributing to the common good, obeying just laws, serving others. This is the justice of citizens toward society.
+- **Commutative Justice:** Fairness between individuals—keeping contracts, paying debts, honoring agreements.
+- **Distributive Justice:** Fair distribution of common goods according to need and contribution.
+- **Legal Justice:** What individuals owe to the community—contributing to the common good, obeying just laws.
 
-All three types serve love by ensuring that relationships—whether personal, economic, or civic—honor the dignity of each person involved.
-
-Modern "justice" often means punishment or revenge, enforcing equality of outcomes, or asserting rights without responsibilities. Biblical justice means giving each person what they're truly owed based on their true dignity—and working to restore right relationships when they're broken.
+A contemporary secular understanding of justice often means punishment, equality of outcomes, or rights without responsibilities. Biblical justice means giving each person what they're truly owed based on their value and dignity as image-bearers of God—and restoring right relationships when they're broken.
 
 ## Justice Grounded in Imago Dei
 
 Why does every person deserve justice? Because they're made in God's image: "So God created man in his own image, in the image of God he created him; male and female he created them" (Genesis 1:27).
 
-This is the foundation of all human rights and all justice: Because every human being is made in the image and likeness of God, and because love is something we do for the good of the other, being a human being carries duties and responsibilities toward each other—to tell the truth, to treat each other justly, to forgive for the good of the relationship and covenant.
+This is the foundation of all human rights: Because every person is made in God's image, we have duties toward each other—to tell the truth, to treat each other justly, to forgive. If we have these duties, then we have corresponding rights—to be treated with truth, justice, and mercy.
 
-If we all have these moral duties, then another way to describe this is that each of us has the right to be treated with truth, justice, and mercy in terms of our life and our freedom to do good to our neighbor. But we never have the right to carry out an act that is false, unjust, or unmerciful toward our neighbor. We may have the free will to do this, but not the "right".
+But here's a crucial distinction our culture has lost: **A right is always ordered toward the good.** There is no "right" to do evil. We don't have a "right" to murder the innocent, a "right" to lie, or a "right" to exploit our neighbor. We may have the *freedom* to choose evil—free will is real—but freedom to choose is not the same as a right to choose wrongly.
 
-In other words, we cannot possibly understand how we are "endowed by our Creator with certain unalienable rights" (for American readers) unless we first understand that rights flow from our duty to treat each man, woman, and child with truth, justice, and mercy—the way we were designed by God, and the way we expect to be treated by others.
+<div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
+We never have the "right" to act falsely, unjustly, or unmercifully. We may have free will, but not the right.
+</div>
 
-Justice means honoring this reality. Injustice means denying it—treating people as less than human, violating their dignity, refusing what's owed to them.
+We cannot understand how we are "endowed by our Creator with certain unalienable rights" unless we first understand that rights flow from duties. Justice means honoring this reality. Injustice means denying it.
 
-And here's something crucial we often miss: **We're not souls using bodies as tools—we're embodied persons.** Pope Saint John Paul II taught that "the body, and it alone, is capable of making visible what is invisible: the spiritual and the divine." This means justice must honor not just the soul but the body's dignity and truth.
+And this dignity we possess as image-bearers is not merely spiritual—it is embodied. **We're not souls using bodies as tools—we're embodied persons.** Pope Saint John Paul II taught that "the body, and it alone, is capable of making visible what is invisible: the spiritual and the divine." This means justice must honor not just the soul but the body's dignity and truth.
 
 Think about what this means practically: When our culture denies biological sex and insists men can become women, it's not just wrong—it's unjust to the body itself. When we separate sexuality from procreation through contraception, we violate the body's language of self-gift. When we treat bodies as commodities through pornography, prostitution, or surrogacy, we commit injustice against the person the body reveals.
 
@@ -114,19 +110,15 @@ To dishonor the body is to dishonor the person. To lie about what the body revea
 
 ## How Justice Serves Love
 
-Justice isn't opposed to love—it's love's foundation. Justice provides objective standards that ground love in reality. Justice protects the vulnerable by giving love the power to say "This is wrong" objectively. Justice creates the stability that allows love to endure. Justice enables the trust that makes relationship possible. Justice prepares for mercy—you can only transcend justice with mercy if there's justice to transcend.
+Justice isn't opposed to love—it's love's foundation. Justice grounds love in reality with objective standards. It protects the vulnerable by giving love the power to say "This is wrong." It creates the stability and trust that make relationship possible. And it prepares for mercy—you can only transcend justice with mercy if there's justice to transcend.
 
 ### How Justice Forms the Soul
 
-**When we practice justice—giving God His due in worship, giving our neighbor their due in respect—we're forming our souls to recognize and honor the dignity in every being.** This isn't cold legalism. This is training our hearts to see as God sees, to value what God values, to love as God loves.
+**When we practice justice—giving God His due in worship, giving our neighbor their due in respect—we're forming our souls to recognize dignity in every being.** This isn't cold legalism. This is training our hearts to see as God sees.
 
-A soul formed in justice develops wisdom—the ability to treat others correctly according to their true dignity. This wisdom enables deep, authentic connection. When you truly see another person's worth and honor their dignity as an image-bearer of God, your soul can connect with their soul in a profound way.
+A soul formed in justice develops wisdom—the ability to treat others according to their true dignity. When you truly see another person's worth, your soul can connect with theirs in a profound way. This is what it means to be part of a covenant people—souls bound together by shared recognition of truth and mutual commitment to justice.
 
-When you practice justice toward someone—acknowledging their worth, giving them what they're due—you're creating the conditions for real relationship. Your soul is learning to recognize the sacred in others, to respond appropriately to their inherent worth.
-
-This is what it means to be part of a covenant people—souls bound together by shared recognition of truth and mutual commitment to justice. We're members of a Body where each person's dignity matters, where justice creates the framework for mercy to flourish, where our souls are interconnected through mutual respect and honor.
-
-When we fail in justice—when we exploit, oppress, or dehumanize—we damage our own souls, severing the bonds that connect us to others. But when we practice justice faithfully, our souls become capable of the deep, authentic love that honors each person's true worth.
+When we fail in justice—when we exploit, oppress, or dehumanize—we damage our own souls. But when we practice justice faithfully, our souls become capable of deep, authentic love.
 
 ## Justice vs. Partiality: The Truth About "Inclusion"
 
@@ -134,7 +126,7 @@ Our culture claims to champion "inclusion," "diversity," and "equity" (DEI). But
 
 First, let's be clear: Scripture explicitly commands special concern for the vulnerable. "Learn to do good; seek justice, correct oppression; defend the fatherless, plead for the widow" (Isaiah 1:17). God has always demanded that His people protect those who cannot protect themselves—the orphan, the widow, the stranger, the poor. This is not partiality; this is justice recognizing that some people face greater obstacles and greater vulnerability, and love requires meeting them in their need.
 
-But there's a crucial difference between biblical advocacy for the vulnerable and ideological partiality. Biblical justice serves the actual good of the person—it aims to restore them to full dignity and flourishing. Ideological partiality uses groups as political tools, creates permanent victim classes, and judges people by external characteristics rather than individual dignity.
+Real injustices exist—slavery, segregation, exploitation of workers, abuse of the vulnerable—and they require real redress. The Church has always taught that structural sin must be addressed through structural change. But there's a crucial difference between biblical advocacy for the vulnerable and ideological partiality. Biblical justice serves the actual good of the person—it aims to restore them to full dignity and flourishing. Ideological partiality uses groups as political tools, creates permanent victim classes, and judges people by external characteristics rather than individual dignity.
 
 Justice treats each person according to their inherent dignity as image-bearers of God, regardless of race, class, sex, or any other external characteristic. Partiality treats people according to their group identity—showing favoritism to some while discriminating against others based on tribe, politics, or ideology.
 
@@ -142,21 +134,11 @@ Scripture explicitly condemns partiality: "My brethren, show no partiality as yo
 
 **Here's the deception:** Modern "inclusion" doesn't actually include everyone. It includes only certain favored groups while actively excluding others. Identity politics doesn't treat all identities equally—it creates hierarchies of victimhood and privilege. DEI initiatives don't pursue equal dignity—they pursue equal outcomes by showing partiality based on immutable characteristics.
 
-Consider what this looks like in practice:
-- "Inclusion" that excludes Christians who hold biblical views on marriage and sexuality
-- "Diversity" that demands uniformity of thought on political issues
-- "Equity" that discriminates against some races to favor others
-- "Anti-racism" that judges people by skin color rather than character
-- "Social justice" that divides humanity into oppressor and oppressed classes
-- "Income equality" that shows partiality based on wealth rather than addressing actual injustice
+Consider: "Inclusion" that excludes biblical Christians. "Diversity" that demands uniform thought. "Equity" that discriminates by race. "Anti-racism" that judges by skin color. "Social justice" that divides humanity into oppressor and oppressed. This is partiality masquerading as justice—creating tribalism rather than recognizing our common humanity.
 
-This is partiality masquerading as justice. It creates "us vs. them" tribalism rather than recognizing our common humanity. It shows favoritism based on external factors rather than inherent dignity. It violates the very justice it claims to pursue.
+**True justice is impartial**—giving each person their due based on their dignity as image-bearers of God, not their race, sex, class, or politics. Justice treats the homeless man and the CEO, the immigrant and the citizen with equal dignity because all bear God's image.
 
-**True justice is impartial.** It gives each person what they're due based on their nature as image-bearers of God—not based on their race, sex, class, politics, or any other immutable external characteristic. Justice doesn't play favorites. Justice doesn't create hierarchies of victimhood. Justice treats the homeless man and the CEO, the immigrant and the citizen, the conservative and the progressive with equal dignity because all bear God's image.
-
-Partiality feels like compassion but is actually a form of contempt—treating people as defined by their group identity rather than their individual dignity, as too fragile to be held to objective standards, as victims who need special treatment rather than persons capable of truth and virtue.
-
-True love REQUIRES justice—impartial justice that treats all people as capable of truth, worthy of standards, able to grow and change, regardless of their group identity.
+Partiality feels like compassion but is actually contempt—treating people as defined by group identity rather than individual dignity, as too fragile for objective standards, as victims rather than persons capable of truth and virtue. True love requires justice.
 
 ## Justice in Different Relationships
 
@@ -172,11 +154,11 @@ Justice takes different forms depending on the relationship:
 
 **Justice Toward Neighbors:** Respect, honesty, fairness. They share our common humanity. Justice means treating them as we'd want to be treated.
 
-**Justice Toward Enemies:** Even enemies deserve basic human dignity. Justice means not dehumanizing them, not seeking revenge, not violating their fundamental rights.
+**Justice Toward Enemies:** Even enemies deserve basic human dignity. Justice means not dehumanizing them, not seeking revenge, not violating their fundamental rights. But justice toward enemies doesn't mean ignoring wrongdoing—it means holding them accountable while refusing to become like them. This is where justice and mercy meet: we pursue accountability without hatred, consequences without cruelty, truth without vengeance.
 
 ## How Justice Combats Evil
 
-Justice combats exploitation by protecting the vulnerable and defending the oppressed. Justice combats systemic oppression—racism, economic exploitation, political corruption—by exposing violations of human dignity. Justice combats relativism by recognizing objective standards based on human dignity. Justice combats enabling by holding people accountable because they're capable of better. Justice combats revenge by seeking to restore rather than harm.
+Justice combats exploitation by protecting the vulnerable. It exposes systemic oppression—racism, economic exploitation, political corruption—as violations of human dignity. It overcomes relativism with objective standards. It resists enabling by holding people accountable. And it transcends revenge by seeking restoration rather than harm.
 
 <div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
 Justice is one of the four essential elements that God's perfect love binds together. Without justice, love becomes arbitrary sentiment. With justice, love has objective content: giving each person what they are truly owed as image-bearers of God.
