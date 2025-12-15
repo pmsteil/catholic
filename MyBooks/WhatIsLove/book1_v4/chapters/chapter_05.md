@@ -22,7 +22,7 @@
 
 ## The Problem of Fragmentation
 
-Truth without mercy becomes the Pharisees demanding the adulteress be stoned. Mercy without truth becomes the parent enabling their child's addiction. Justice without mercy becomes endless cycles of retaliation. Mercy without justice becomes the abuser forgiven while victims suffer.
+Truth without mercy becomes the Pharisees demanding the adulteress be stoned. Mercy without truth becomes the parent who pays for their child's addiction rather than insisting on treatment. Justice without mercy becomes endless cycles of retaliation. Mercy without justice becomes the abuser forgiven while victims suffer.
 
 These are fragmented virtues. Isolated from each other, truth becomes cruelty, justice becomes vengeance, mercy becomes weakness.
 
@@ -46,11 +46,9 @@ Chapter 4 addressed the *promise* breaking—"They said forever. They lied." Thi
 
 And here is the most tragic consequence: fragmentation doesn't just wound the child—it *corrupts* them.
 
-Watch what happens when parents use the child as a weapon against each other. The child learns to play one against the other. "If you don't let me, I'll go live with Dad." "Mom always lets me do this." The child discovers that the broken system can be exploited, that factions can be manipulated, that escaping true accountability is possible by running to the other parent.
+Watch what happens when parents use the child as a weapon against each other. The child learns to play one against the other: "If you don't let me, I'll go live with Dad." "Mom always lets me do this." In a unified family, both parents present a unified front—truth, justice, and mercy work together because mother and father are bound together in covenant love. But when that binding breaks, the child discovers that factions can be manipulated, that running to the other parent offers escape from accountability.
 
-A child shouldn't be able to thwart parental authority through manipulation. In a unified family, both parents present a unified front. Truth, justice, and mercy work together because mother and father are bound together in covenant love. But when that binding breaks, the child learns something devastating: that unity doesn't matter, that playing factions works, that there's always an escape from truth, justice, and mercy if you know how to work the angles.
-
-This isn't just sad—it's corruption. The child who learns to manipulate fragmented authority carries those patterns into every future relationship. They learn that commitments can be leveraged, that people can be played against each other, that unity is for suckers.
+This isn't just sad—it's corruption. The child who learns to manipulate fragmented authority carries those patterns into every future relationship: commitments can be leveraged, people can be played against each other, unity is naive.
 
 The wound of divorce creates harm. The fragmentation that follows corrupts. This is what happens when the binding force of love is broken—not just pain, but the distortion of the very virtues that humanize us.
 
@@ -58,17 +56,13 @@ The wound of divorce creates harm. The fragmentation that follows corrupts. This
 
 Love holds these virtues together:
 
-**Truth Without Love:** Becomes harsh, condemning, weaponized. "You're a sinner and you're going to hell." Technically true, perhaps, but without love it destroys rather than heals. **Love Binding Truth:** Ensures truth serves the beloved's good. "You're caught in sin, and it's destroying you. Let me help you find freedom." Same truth, but bound by love, it becomes medicine rather than poison.
-
-**Justice Without Love:** Becomes cold calculation, revenge, legalism. "You broke the law, so you must be punished." No consideration of circumstances, no room for mercy, no path to restoration. **Love Binding Justice:** Ensures justice serves relationship. "You broke the law, and there are consequences. But those consequences are meant to restore you, not just punish you." Justice becomes restorative rather than merely retributive.
-
-**Mercy Without Love:** Becomes enabling, weakness, injustice. "I'll forgive you no matter what you do." Sounds loving, but it allows evil to continue, victims to suffer, and the sinner to remain trapped in sin. **Love Binding Mercy:** Ensures mercy serves truth and justice. "I forgive you, but you must stop this behavior. I'll help you change, but I won't enable your sin." Mercy becomes transformative rather than permissive.
+Consider how different each virtue becomes when love binds it to the others. Truth without love becomes harsh and condemning—"You're a sinner and you're going to hell"—technically accurate, perhaps, but destroying rather than healing. Yet when love binds truth, it becomes medicine: "You're caught in sin, and it's destroying you. Let me help you find freedom." Justice without love becomes cold retribution—"You broke the law, so you must be punished"—with no path to restoration. But love transforms justice into something restorative: "There are consequences, but they're meant to heal you, not just punish you." Mercy without love becomes enabling weakness—"I'll forgive you no matter what you do"—allowing evil to continue and victims to suffer. Yet love ensures mercy serves transformation: "I forgive you, but you must stop. I'll help you change, but I won't enable your sin."
 
 Love doesn't choose between these virtues—it binds them together. Truth serves justice. Justice enables mercy. Mercy upholds truth. Sacrifice makes it all real.
 
 ## The Woman Caught in Adultery: Perfect Integration
 
-Jesus' encounter with the woman caught in adultery (John 8:1-11) perfectly demonstrates this binding: He acknowledges the truth of her sin without denying it. He upholds the Law's authority while exposing hypocrisy. He offers mercy—"Neither do I condemn you"—while demanding transformation—"Go, and from now on do not sin any more." This is perfect love: truth, justice, mercy, and sacrifice working together as one, each serving the others.
+Jesus' encounter with the woman caught in adultery (John 8:1-11) perfectly demonstrates this binding: He acknowledges the truth of her sin without denying it. He upholds the Law's authority while exposing hypocrisy. He offers mercy—"Neither do I condemn you"—while demanding transformation—"Go, and from now on do not sin any more." This is perfect love in action: truth, justice, mercy, and sacrifice working together as one, each serving the others.
 
 ## Unity in Diversity: The Body of Christ
 
@@ -98,13 +92,13 @@ The Eucharist is the supreme example of love's binding power: It binds heaven an
 
 This is why Catholics call it "Holy Communion"—and this is one of the most profound truths about love we can grasp. The Eucharist is not just a symbol, not just a memorial, not just receiving Christ spiritually. It is the actual Body, Blood, Soul, and Divinity of Jesus Christ becoming one with us, binding us into perfect communion with the Trinity and with each other.
 
-When you receive Holy Communion, you are literally united with the same Christ who hung on the Cross, who rose from the dead, who reigns in heaven. His Sacred Heart beats within you. His divine life flows through your veins. His perfect love—binding truth, justice, mercy, and sacrifice—becomes your love. In that physical act of receiving—opening your hands, consuming the Host, letting Christ enter your body—binding becomes not just theological truth but bodily reality. This is the source and summit of Christian life because it is love itself made flesh, love itself binding heaven and earth, love itself transforming us into what we receive. Every other chapter in this book flows from this reality and leads back to it. If you understand nothing else, understand this: in Holy Communion, you become what you eat—the Body of Christ, bound together in perfect love.
+When you receive Holy Communion, you are literally united with the same Christ who hung on the Cross, who rose from the dead, who reigns in heaven. His Sacred Heart becomes one with yours. His divine life flows into your soul. His perfect love—binding truth, justice, mercy, and sacrifice—becomes your love. In that physical act of receiving the Host, letting Christ enter your body—binding becomes not just theological truth but bodily reality. This is the source and summit of Christian life because it is love itself made flesh, love itself binding heaven and earth, love itself transforming us into what we receive. Every other chapter in this book flows from this reality and leads back to it. If you understand nothing else, understand this: in Holy Communion, you become what you eat—the Body of Christ, bound together in perfect love.
 
 ## Binding Souls Together in the Body of Christ
 
 This binding power of love doesn't just integrate virtues within us—it binds our very souls to one another. When we live truth, justice, mercy, and sacrifice sacrificially, we're becoming more deeply connected to every other soul in the Body of Christ.
 
-This isn't evolutionary herding for protection. This is ontological reality—our souls are actually dependent on being connected to one another for our flourishing (CCC 1878-1885). Just as the Trinity exists in eternal communion, we were created for soul-to-soul communion. When you practice mercy toward your neighbor, you're strengthening the bonds that connect your soul to theirs, to the whole Body, and to Christ the Head.
+This isn't evolutionary herding for protection, nor merely spiritual fellowship or shared beliefs—it is participation in Christ's own life through the sacraments, making us genuinely one Body in a way no Protestant association of believers can claim. This is ontological reality—our souls are actually dependent on being connected to one another for our flourishing (CCC 1878-1885). Just as the Trinity exists in eternal communion, we were created for soul-to-soul communion. When you practice mercy toward your neighbor, you're strengthening the bonds that connect your soul to theirs, to the whole Body, and to Christ the Head.
 
 Think about what happens when you truly forgive someone. You feel the weight lift. The barrier dissolves. That's not just psychological—it's spiritual. Your soul is reconnecting to theirs through the love that flows from Christ. When you speak truth in love, you feel the connection deepen. That's your soul binding to theirs through shared reality.
 
