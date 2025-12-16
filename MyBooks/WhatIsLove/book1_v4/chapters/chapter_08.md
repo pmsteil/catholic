@@ -58,11 +58,13 @@ Children know instinctively that they need room to grow, room to fail and try ag
 
 This is the opposite of how God sees us. He sees who we can become, not just who we've been. He offers fresh starts, not permanent condemnation. He is "rich in mercy" (Ephesians 2:4), always offering one more chance. Children know they need this kind of love—and they feel the wound deeply when it's refused.
 
+The tragedy is that children denied mercy often become adults who either desperately crave it or bitterly withhold it. Some spend their lives seeking the forgiveness they never received as children. Others become the merciless judges they once feared, perpetuating the same cycle of condemnation. This is why mercy—or its absence—shapes not just individual souls but entire generations.
+
 ## What Mercy Actually Means
 
 Our culture confuses mercy with weakness, forgiveness with enabling, compassion with approval. We need to recover the true meaning.
 
-The Hebrew Scriptures use two main words for mercy: *Hesed* (steadfast love, covenant faithfulness) and *Rachamim* (compassion, womb-love, tender mercy). Together, they reveal mercy as faithful love that doesn't abandon despite betrayal, compassionate love that feels the beloved's pain, forgiving love that releases the debt, and restoring love that heals what is broken for the good of the covenant relationship.
+The Hebrew Scriptures use two main words for mercy: *hesed* (steadfast love, covenant faithfulness) and *rachamim* (from the Hebrew word for "womb"—the tender, instinctive compassion a mother has for her child). Together, they reveal mercy as faithful love that doesn't abandon despite betrayal, compassionate love that feels the beloved's pain, forgiving love that releases the debt, and restoring love that heals what is broken for the good of the covenant relationship.
 
 This is why mercy is essential to covenant love—the "gift of covenant" in our definition of perfect love. When one party breaks the covenant, justice would demand termination. But *hesed*—covenant mercy—chooses to remain faithful anyway, bearing the cost of the other's betrayal rather than abandoning the relationship. Mercy is what maintains covenant when justice alone would break it. This is precisely what God does with Israel again and again, and what He does for us in Christ.
 
@@ -137,7 +139,7 @@ Why? Because mercy is how we break cycles of revenge, how we overcome evil with 
 
 Mercy toward enemies doesn't mean pretending they didn't harm you, allowing them to continue harming you, or trusting them before they've proven trustworthy.
 
-But we must wrestle with Jesus' command in the middle of this radical teaching: "You, therefore, must be perfect, as your heavenly Father is perfect" (Matthew 5:48). When Jesus says "perfect" (*teleios*), He doesn't mean "flawless performance" or "sinlessness" in the way we typically think. He means *complete, whole, mature, and undivided*. He is teaching us what *He* means by love—a love that doesn't stop with friends but extends to enemies, just as the Father sends rain on the just and unjust. To be "perfect" is to love completely, without holding back a part of our heart for hatred or revenge.
+But we must understand Jesus' command in its context—placed deliberately at the heart of his most radical teaching on what love truly means: "You, therefore, must be perfect, as your heavenly Father is perfect" (Matthew 5:48). When Jesus says "perfect" (*teleios*), He doesn't mean "flawless performance" or "sinlessness" in the way many modern Christians typically think. He means *complete, whole, mature, and undivided*. The Father is "perfect" because His love is undivided—He doesn't withhold mercy from some while showing it to others. He sends rain on the just and unjust alike. Jesus is teaching us what *He* means by love—a love that doesn't stop with friends but extends to enemies. To be "perfect" is to love completely, without holding back a part of our heart for hatred or revenge.
 
 Mercy toward enemies means being willing to forgive, even if they do not repent. It means releasing your right to revenge, praying for their conversion, wishing their true good, and not allowing bitterness to poison your soul.
 
@@ -145,7 +147,7 @@ Mercy toward enemies means being willing to forgive, even if they do not repent.
 
 Some sins are so grave that human mercy alone cannot restore the person. Consider the abortion doctor who finally comes to his senses, realizing the truth of what he has done—the thousands of innocent lives destroyed by his own hands. The weight of justice he is "due" may drive him to extreme actions against himself. No human being can offer the type of mercy he needs for restoration. His guilt is too crushing. His debt is too enormous. His conscience is too tormented.
 
-**This is where and why we most poignantly need a supernatural miracle of mercy—the Cross.** Only God's mercy is powerful enough to forgive heinous crimes against humanity. Only Christ's sacrifice is sufficient to pay the debt of such grave sin. Only divine love can restore a soul so broken by the weight of what they've done.
+**This is where and why we most poignantly need a supernatural miracle of mercy—the Cross.** Only God's mercy is powerful enough to forgive heinous crimes against humanity. Only Christ's sacrifice is sufficient to pay the debt of such grave sin. Only divine love can restore a soul so broken by the weight of what they've done. Yet the truth is, *all* sin separates us from God and requires His supernatural mercy—whether our sins seem monstrous or merely mundane. We all need divine mercy. Some simply feel the weight of that need more acutely.
 
 This is the scandal of the Gospel: God's mercy is greater than any sin. "Where sin increased, grace abounded all the more," (Romans 5:20). The abortion doctor, the sex trafficker, the mass murderer, the torturer—if they truly repent, God's mercy can forgive even them. **To repent is to turn away from sin and turn toward God's perfect love.** Not because their sins aren't grave, but because Christ's sacrifice is infinite.
 
@@ -159,7 +161,7 @@ This doesn't minimize the gravity of the sin. It magnifies the power of God's me
 
 Forgiveness and reconciliation are not the same: Forgiveness is unilateral—you can forgive someone who never repents. It releases you from the prison of bitterness. Reconciliation is bilateral—it requires both parties. The offender must repent. The offended must forgive. Trust must be rebuilt.
 
-You can forgive without reconciling (if the other person won't repent). But you can't reconcile without forgiving (if you won't release the debt). This distinction is crucial for victims of abuse, betrayal, or serious harm. You can—and should—forgive for your own healing. But you're not required to reconcile with someone who remains dangerous, unrepentant, or untrustworthy, because this would not be proper justice toward your own self. Reconciliation may also not be possible if the offender is unreachable or is no longer living.
+You can—and must—forgive even when the other person won't repent or remains dangerous. But you can't reconcile without both forgiveness and the offender's repentance. This distinction is crucial for victims of abuse, betrayal, or serious harm. You can—and should—forgive for your own healing. But you're not required to reconcile with someone who remains dangerous, unrepentant, or untrustworthy, because this would not be proper justice toward your own self. Reconciliation may also not be possible if the offender is unreachable or is no longer living.
 
 The Catechism affirms this distinction: "It is not in our power not to feel or to forget an offense; but the heart that offers itself to the Holy Spirit turns injury into compassion and purifies the memory in transforming the hurt into intercession" (CCC 2843). Forgiveness is an interior act of the will, aided by grace. Reconciliation, however, requires the offender's conversion and may not always be prudent or possible, especially where safety is at risk.
 
