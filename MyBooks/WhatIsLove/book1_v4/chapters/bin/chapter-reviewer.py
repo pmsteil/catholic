@@ -2099,18 +2099,23 @@ Ad Maiorem Dei Gloriam ✟
     console.print()
 
     # Open report(s) in the editor
-    open_script = chapters_dir / "bin" / "open-in-editor"
-    if open_script.exists():
-        try:
-            if per_chapter_mode:
-                # Open each per-chapter report
-                for of in output_files:
-                    subprocess.run([str(open_script), str(of)], check=False)
-            else:
-                # Open the final combined report
-                subprocess.run([str(open_script), str(final_file)], check=False)
-        except Exception as e:
-            console.print(f"[warning]Could not open report: {e}[/warning]")
+    if False:
+        open_script = chapters_dir / "bin" / "open-in-editor"
+        if open_script.exists():
+            try:
+                if per_chapter_mode:
+                    # Open each per-chapter report
+                    for of in output_files:
+                        subprocess.run([str(open_script), str(of)], check=False)
+                else:
+                    # Open the final combined report
+                    subprocess.run([str(open_script), str(final_file)], check=False)
+            except Exception as e:
+                console.print(f"[warning]Could not open report: {e}[/warning]")
+
+    # call beep cli with no args...
+    if True:
+        subprocess.run(["beep"], check=False)
 
     # Exit with appropriate code
     failed = sum(1 for r in results if r.get("overall_status") != "PASS")

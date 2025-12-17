@@ -38,13 +38,7 @@ Let's examine each premise.
 
 Without God, morality becomes subjective—a matter of personal preference, cultural convention, or evolutionary accident.
 
-**Atheistic Materialism** reduces humans to biological machines—our sense of "right" and "wrong" becomes mere brain chemistry, and morality an illusion.
-
-**Evolutionary Psychology** explains why we *believe* things are right or wrong, but not that they actually *are*. If morality is just adaptation, then rape and genocide become explainable "evolutionary strategies."
-
-**Cultural Relativism** makes morality arbitrary. If the Nazis had won and convinced everyone genocide was good, would that make it actually good?
-
-**Utilitarianism** grounds morality in "the greatest good for the greatest number"—but this logic can justify forced organ harvesting and compulsory euthanasia.
+Without God, morality gets reduced to some non-moral explanation: brain chemistry (**materialism**), adaptive instincts (**evolutionary psychology**), tribal convention (**cultural relativism**), or outcome-calculation (**utilitarianism**). Each can explain why we *feel* moral pressure, but none can make moral obligations objectively real—and each can and have been used to justify atrocities if “the program,” “the tribe,” or “the majority” demands it.
 
 Without God, every attempt to ground objective morality fails. As we explored in Chapter 3, this is why the Enlightenment's attempt to build morality on human reason *divorced from God* collapsed—each philosopher rejecting divine authority and replacing it with human preference. The problem wasn't reason itself (natural law is reason-based), but reason cut off from its transcendent source.
 
@@ -52,23 +46,23 @@ Without God, every attempt to ground objective morality fails. As we explored in
 
 Our definition of love provides powerful evidence. Love requires:
 
-**Truth:** When you discover your spouse has been lying about an affair, you don't think "honesty is just my preference." You recognize you were *owed* the truth. The very concept of betrayal presupposes that truth is objectively required in relationships.
+**Truth:** When a spouse hides an affair with lies, you don't treat honesty as “personal preference.” You recognize a real obligation was violated—betrayal only makes sense if truth is objectively required.
 
-**Justice:** When someone murders your child, your outrage isn't personal preference—you're recognizing that something objectively wrong occurred. Even atheists sue for justice and protest unfairness. Every "That's not fair!" appeals to an objective standard.
+**Justice:** When someone murders your child, your outrage appeals to more than emotion—you recognize an objective wrong. Every “That’s not fair!” assumes a real standard.
 
-**Mercy:** The very concept of forgiveness presupposes objective wrongdoing. If your friend's betrayal was just their "personal choice," there's nothing to forgive. Mercy only makes sense if there's objective moral truth.
+**Mercy:** Forgiveness only makes sense if there was something objectively wrong to forgive.
 
-**Sacrifice:** A firefighter dies saving a child. If morality is just evolutionary programming, he was a fool who eliminated his genes. But we call him a hero—because we recognize that sacrificing for others is objectively good.
+**Sacrifice:** We call the firefighter who dies saving a child a hero—because we recognize self-gift for another is objectively good.
 
-**Covenant, Life-giving, and Communion:** When your spouse breaks their vows, you don't think "promises are just sounds." You recognize they were *objectively bound*. Every broken promise you resent, every murder you mourn, every isolation you suffer points to objective moral truth.
+**Covenant, Life-giving, and Communion:** Broken vows and broken promises aren’t just “sounds.” They wound because we know we were meant to be bound in faithful, life-giving communion.
 
 <div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
 The comprehensive nature of authentic love—requiring truth, justice, mercy, sacrifice, covenant, life-giving, and communion—cannot be reduced to evolutionary programming, cultural convention, or personal preference. These are objective requirements that point to an objective moral order.
 </div>
 
-Every facet of love reveals objective moral truth—not opinion, not cultural preference, but reality itself.
+Every facet of love reveals objective moral truth.
 
-The crucial question: If these facets are built into us—if even atheists cannot deny their pull—how did they get there? We didn't invent them. We discovered them. You can't have a law without a lawgiver. You can't have objective moral truth written on human hearts without someone who did the writing.
+The crucial question: If these facets are built into us—if even atheists cannot deny their pull—how did they get there? We didn't invent them. We discovered them. You can't have objective moral truth written on human hearts without an 'author' who did the writing. You can't have a law without a lawgiver.
 
 ### Conclusion: Therefore, God Exists
 
@@ -92,9 +86,7 @@ This is why love isn't arbitrary commands but the revelation of God's own nature
 
 This means:
 
-- **Love is not arbitrary**—God can't command cruelty because cruelty contradicts His nature. God cannot deny Himself (2 Timothy 2:13).
-- **Love is not independent of God**—love is grounded in God's eternal nature, not in some abstract standard above Him.
-- **God's nature is unchanging**—God doesn't decide what love is; He *is* love, eternally and unchangeably.
+Love flows necessarily from God's unchanging nature: not arbitrary (God cannot command cruelty, because cruelty contradicts His nature; God cannot deny Himself—2 Timothy 2:13), not independent (grounded in His essence, not in a standard above Him), and not mutable (He is love eternally).
 
 This solves the Euthyphro dilemma by revealing a third option the ancient Greeks didn't consider: Good is neither arbitrary command nor independent standard—it flows necessarily from God's eternal, unchanging nature. God's commands reveal His nature, and His nature is love.
 
