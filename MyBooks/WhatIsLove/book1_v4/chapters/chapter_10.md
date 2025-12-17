@@ -38,7 +38,7 @@ As we saw in Chapter 6, Jesus IS Truth incarnate. And it was lies that killed Hi
 
 Truth Incarnate was murdered by a world built on lies. And those same lies are killing us now—destroying marriages, fracturing families, tearing apart communities, and leaving souls isolated and alone.
 
-We need to return to the origin of love: One, Holy, all-loving God. Only the Whole Truth can heal our fractured society. Only Holy Truth can restore what we were made for—communion with God, with each other, and with our true selves.
+We need to return to the origin of love: One, Holy, all-loving God—and the communion He alone can restore. What we are losing is not just truth or civility or common ground. What we are losing is communion itself—the life-giving union with God and each other that we were made for. Only the Whole Truth can heal our fractured society. Only Holy Truth can restore what we were made for—communion with God, with each other, and with our true selves.
 
 In the previous chapter, we saw that sacrifice is love made visible—the costly self-gift that proves love is real. But sacrifice isn't an end in itself. It's the means by which love creates something new. This chapter will reveal how participating in God's Perfect Love, rooted in this Holy Truth, is the only way to heal and save our society. Because love isn't just about being nice or feeling good. Love is about communion—life-giving union with God and others that makes us fully alive.
 
@@ -107,7 +107,7 @@ But here's the hope: What children know instinctively about belonging points to 
 
 This is what Jesus meant when He commanded: "You, therefore, must be perfect, as your heavenly Father is perfect" (Matthew 5:48).
 
-Not sinless perfection—that's impossible in this life. **HOLY/WHOLE/COMPLETE perfection**—transformed by God's Love, living in the true, just, merciful, and sacrificial communion we were made for.
+The Greek word *teleios*, translated "perfect," doesn't mean flawless—it means "complete" or "having reached its end/goal." Jesus isn't demanding sinless performance, which is impossible in this life. He's calling us to **HOLY/WHOLE/COMPLETE perfection**—transformed by God's Love, living in the true, just, merciful, and sacrificial communion we were made for.
 
 Perfect = living in full communion with God, neighbor, and true self.
 
@@ -123,7 +123,7 @@ When Jesus commands us to "be perfect," He's not demanding sinless performance. 
 
 This same call echoes through the Old Testament. When God commands "Be holy, for I, the LORD your God, am holy" (Leviticus 19:2), He's saying: **"Be wholly Mine, as I am wholly yours. Let your love be complete—true, just, merciful, and self-giving—so that you may live in perfect communion with Me, sharing in My own wholeness."**
 
-Holy = Wholly = Complete = Perfect = Communion with God.
+Holiness leads to wholeness; wholeness enables completeness; completeness IS perfect communion with God.
 
 <div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
 When Jesus commands us to 'be perfect,' He's inviting us into wholeness—the communion that makes us fully alive.
@@ -157,8 +157,6 @@ Every other moment of true communion echoes this:
 
 These are the moments when you're WHOLE. When body, heart, mind, and soul are fully integrated in love. When you're living what "You, therefore, must be perfect, as your heavenly Father is perfect" (Matthew 5:48) means: perfect, complete, holy communion.
 
-**And this is why sin disrupts everything:** When you lie, cheat, steal, betray—you FEEL the communion breaking. The wholeness fragments. The aliveness dies. You're no longer integrated but divided against yourself, or family, or society, or God.
-
 
 ## How Love Creates Life-Giving Communion
 
@@ -179,7 +177,7 @@ Not everyone is called to physical procreation, but all are called to spiritual 
 
 "I am the living bread which came down from heaven; if any one eats of this bread, he will live for ever." (John 6:51). Christ gives us His own Body and Blood as food. Not symbolically. Not metaphorically. Really, truly, substantially.
 
-When I reverted to Catholicism, I heard the Church teach that the Eucharist is "the source and summit of our faith." I didn't understand it at first. But through study and submission to the Church's wisdom, Sacred Tradition opened my eyes: **the "end" is communion with God**. This is why our definition shows the whole purpose of God's love is "life-giving communion."
+The Church teaches that the Eucharist is "the source and summit of our faith." Many don't understand this at first. But through study and submission to the Church's wisdom, Sacred Tradition opens our eyes: **the "end" is communion with God**. This is why our definition shows the whole purpose of God's love is "life-giving communion."
 
 The Eucharist IS the source and summit because:
 
@@ -188,9 +186,9 @@ The Eucharist IS the source and summit because:
 
 It mirrors our definition perfectly: **Sacred** (God's gift) → **Communion** (our participation).
 
-Once I saw that communion with God is both the beginning and the end, everything in Scripture suddenly made sense—from Genesis ("It is not good for the man to be alone") to Revelation ("Behold, God's dwelling is with the human race"). The entire story of salvation is God pursuing communion with us.
+Once we see that communion with God is both the beginning and the end, everything in Scripture suddenly makes sense—from Genesis ("It is not good for the man to be alone") to Revelation ("Behold, God's dwelling is with the human race"). The entire story of salvation is God pursuing communion with us and for us.
 
-And what I discovered was this:
+And here is the discovery:
 
 **The Eucharist is WHERE the entire definition becomes REAL in body, heart, mind, and soul:**
 
@@ -214,7 +212,7 @@ The Eucharist is where God's Perfect Love becomes REAL—body, heart, mind, and 
 
 "Truly, truly, I say to you, unless you eat the flesh of the Son of man and drink his blood, you have no life in you" (John 6:53). Not metaphorical life. Not spiritual life only. **LIFE**—the fullness of communion with God that makes you fully alive.
 
-The Church knew this all along. Sacred Tradition preserved this truth for 2,000 years. I just had to humble myself enough to learn it.
+The Church has known this all along. Sacred Tradition has preserved this truth for 2,000 years. We simply need to humble ourselves enough to learn it.
 
 
 ### Ecclesial: Church as Body of Christ
@@ -225,7 +223,7 @@ We are not isolated individuals who happen to believe the same things. We are so
 
 ### Our Souls Are Dependent on One Another
 
-This communion isn't optional—it's essential to our very nature. **Our souls are literally dependent on being connected to one another for our flourishing.** This isn't evolutionary biology or social psychology. This is theological anthropology—the truth about what we are.
+This communion isn't optional—it's essential to our very nature. Because we are made in the image of a God who IS communion, our very nature is relational. The *imago Dei* is not merely individual—it is communal. **Our souls are dependent on being connected to one another for our flourishing.** This isn't evolutionary biology or social psychology. This is theological anthropology—the truth about what we are.
 
 God created us in His image, and God IS communion—Father, Son, and Holy Spirit in eternal relationship. We cannot be fully human, fully alive, or fully ourselves in isolation. A soul cut off from communion withers and dies, just as a branch cut off from the vine withers (John 15:5-6).
 
@@ -259,18 +257,18 @@ The devil wants nothing more than denominations and arguments over truth. If the
 
 Every Christian division is a scandal that contradicts the Gospel. Unity doesn't mean uniformity, but it requires submission to truth. The Catholic Church's claim: Christ established ONE Church with authority to preserve truth. Our call: Work for unity (communion) while never compromising truth because love requires truth.
 
-This is painful. Many good, sincere Christians are separated from full communion with the Catholic Church. Many have been hurt by Catholics. Many have legitimate questions about Catholic teaching. But the scandal remains: Christ prayed for unity, and we are divided. The path forward is humbly seeking the truth together—because truth is sacred, it comes from God—trusting that Christ will lead us to the unity He prayed for, working for communion while never compromising the truth that makes communion possible.
+This is painful. Many good, sincere Christians are separated from full communion with the Catholic Church. Many have been hurt by Catholics. Many have legitimate questions about Catholic teaching. We must also acknowledge with sorrow that Catholics have sometimes failed to live the love we profess—scandals, abuses of power, arrogance, and loveless presentations of truth have all contributed to these divisions. But the scandal remains: Christ prayed for unity, and we are divided. The path forward is humbly seeking the truth together—because truth is sacred, it comes from God—trusting that Christ will lead us to the unity He prayed for, working for communion while never compromising the truth that makes communion possible.
 
 
 ## Call to Sainthood: FOR THE CHILDREN
 
 Everyone loves children intuitively—we're made to protect and nurture them. This is your heart's deepest instinct.
 
-**The children are watching.** They're watching YOU.
+**The children are watching.** They're watching *you*.
 
-Will they see authentic communion or counterfeit connection? Will they see parents ALIVE in God's love or just going through motions? Will they see marriage as life-giving covenant or disposable contract? Will they see the Church as Body of Christ or social club?
+Will they see authentic communion or counterfeit connection? Will they see parents alive in God's love or just going through motions? Will they see marriage as life-giving covenant or disposable contract? Will they see the Church as Body of Christ or social club?
 
-Children need to SEE life-giving communion lived out—parents who are WHOLE (body, heart, mind, soul integrated in love), sacrifice that creates life, truth honored, justice practiced, mercy given. They need to experience what it means to be ALIVE in God's love.
+Children need to see life-giving communion lived out—parents who are whole (body, heart, mind, soul integrated in love), sacrifice that creates life, truth honored, justice practiced, mercy given. They need to experience what it means to be alive in God's love.
 
 **This is urgent:**
 
@@ -280,9 +278,9 @@ They're being told that gender is a choice, that marriage is whatever you want i
 
 They're being lied to. And these lies are killing them—spiritually, emotionally, sometimes even physically.
 
-**They need YOU to be a saint who lives in life-giving communion.**
+**They need you to be a saint who lives in life-giving communion.**
 
-Not perfect. Not sinless. But WHOLE. Alive. Integrated. Real.
+Not perfect. Not sinless. But **whole**. Alive. Integrated. Real.
 
 They need you to show them what it looks like when someone submits their whole life to God's Perfect Love—when truth, justice, mercy, and sacrifice bind together into life-giving communion.
 
