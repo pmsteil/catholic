@@ -34,11 +34,9 @@
 
 Three words. Easy to say. Harder to prove.
 
-A husband says "I love you" to his wife every morning—then spends every evening at the office, every weekend on the golf course, every vacation checking his phone. He hasn't had a real conversation with her in months. He can't remember the last time he asked about her day or her dreams. Does he love her? He says so. But where's the evidence?
-
-A mother says she loves her children—then scrolls through social media while they beg for her attention, parks them in front of screens so she can pursue her hobbies, treats them as interruptions to her real life. Does she love them? She insists she does. But what does her life actually show?
-
 A Christian says he loves God—then never prays, never serves, never sacrifices comfort or convenience for anyone. He hasn't opened his Bible in years. He skips Mass whenever it's inconvenient. He gives nothing to the poor and serves no one but himself. Does he love God?
+
+The same pattern appears in other relationships: a husband says "I love you" every morning but spends every evening at the office and every weekend on the golf course, never having real conversations with his wife. A mother insists she loves her children but scrolls through social media while they beg for attention, treating them as interruptions to her real life. But where's the evidence?
 
 Here love stops being theory and becomes reality. This is where the rubber meets the road, where faith becomes works of love, where words become flesh.
 
@@ -72,6 +70,8 @@ The first makes the child feel treasured. The second makes them feel like a bill
 
 Children know they should be gifts, not debts. They know sacrifice should come with joy, not resentment. They know the parent who truly loves them doesn't keep a running tally of what they're owed. When sacrifice is weaponized—when it becomes a tool for manipulation rather than an expression of love—the child feels the violation. They may not have words for it, but they know: this isn't how love is supposed to work.
 
+But when sacrifice is rightly ordered—given freely and joyfully for the genuine good of another—it becomes something beautiful. It conforms our souls to Christ Himself.
+
 ### How Sacrifice Conforms Our Souls to Christ
 
 **When we sacrifice for others, we're transformed ourselves.** Each act of sacrifice conforms our soul more closely to Christ's. We are truly becoming more like Him through lived experience of self-giving love.
@@ -88,7 +88,7 @@ This is why sacrifice isn't a burden—it's liberation. It frees us from the pri
 
 The Old Testament sacrificial system wasn't arbitrary religious ritual—it was God teaching His people what love actually requires. Every sacrifice pointed to a deeper reality about the nature of love itself.
 
-**The Burnt Offering** (*olah*) was completely consumed on the altar—nothing held back. It taught that authentic love requires total self-gift, like a candle that burns itself out completely to give light, holding nothing of itself back.
+**The Burnt Offering** (*olah*) was completely consumed on the altar—nothing held back. It taught that authentic love requires total self-gift, like a candle that gives all its light while it burns, holding nothing back from its purpose.
 
 **The Sin Offering** (*hattat*) atoned for wrongdoing. It taught that love must address the reality of sin and its consequences—that justice must be satisfied before relationship can be restored.
 
@@ -120,7 +120,7 @@ Christ's sacrifice on the cross perfectly integrates truth, justice, and mercy. 
 
 ## Why We Have Mass: Participating in Christ's Sacrifice
 
-This is why Catholics have Mass. Not because we're "re-sacrificing" Christ—His sacrifice was perfect and complete—but because love requires sacrifice, and we need to participate in Christ's perfect offering.
+Christ's sacrifice on Calvary was offered once for all—complete, unrepeatable, sufficient for the salvation of the whole world. The Mass does not repeat that sacrifice or add anything to it. But here is the mystery: Christ does not want us to be mere spectators of His love. He wants us to enter into it, to participate in His offering, to unite our small sacrifices with His perfect one. The Mass is how He makes that participation possible.
 
 At every Mass, several things happen simultaneously:
 
@@ -136,7 +136,7 @@ This is not mere symbolism. This is how God makes sacrificial love real in our l
 
 St. Paul reveals a profound mystery: "Now I rejoice in my sufferings for your sake, and in my flesh I complete what is lacking in Christ's afflictions for the sake of his body, that is, the church." (Colossians 1:24).
 
-What could possibly be "lacking" in Christ's perfect sacrifice? Nothing—in terms of its sufficiency. But everything—in terms of our participation. Christ's sacrifice is complete, but He invites us to participate in His Holy communion—holy meaning wholly complete and undivided—His sacred union with the Father. As St. Paul teaches: "The cup of blessing which we bless, is it not a participation in the blood of Christ? The bread which we break, is it not a participation in the body of Christ?" (1 Corinthians 10:16). Christ invites us to join His sacrifice, to make it our own, to let it flow through us to others.
+What could possibly be "lacking" in Christ's perfect sacrifice? Nothing—in terms of its sufficiency. But everything—in terms of our participation. Christ's sacrifice is complete, but He invites us to participate in His holy communion—His sacred, wholly undivided union with the Father. As St. Paul teaches: "The cup of blessing which we bless, is it not a participation in the blood of Christ? The bread which we break, is it not a participation in the body of Christ?" (1 Corinthians 10:16). Christ invites us to join His sacrifice, to make it our own, to let it flow through us to others.
 
 In the Eucharist, we participate sacramentally. In daily life, we participate practically—every sacrifice we make for spouse, children, neighbor, enemy becomes part of Christ's ongoing redemptive work.
 
@@ -151,7 +151,7 @@ Our sacrifices, united with Christ's perfect sacrifice, participate in His redem
 
 ## The Hierarchy of Sacrifice
 
-Not all sacrifices are equal. This reflects the ancient Church teaching of the *Ordo Amoris* or "Order of Love." St. Augustine and St. Thomas Aquinas taught that love must be ordered correctly to be virtuous.
+Not all sacrifices are equal. This reflects the ancient Church teaching of the *Ordo Amoris* or "Order of Love." St. Augustine and St. Thomas Aquinas taught that love must be ordered correctly to be virtuous. As Aquinas explains in the *Summa Theologica* (II-II, q.26), the order of charity (*ordo caritatis*) directs us to love God first, then ourselves, then our neighbor—with specific priorities within each category.
 
 Where does love of self fit in? Right after God. Aquinas teaches that we must love our own souls next, because we cannot love our neighbor "as ourselves" if we do not first cherish the image of God within us. We sacrifice our *comfort* for others, but never our *souls*. We can never sin to "help" another—no matter how noble the intention seems.
 
@@ -199,13 +199,11 @@ Scripture explicitly condemns selfishness: "Do nothing from selfishness or conce
 
 Consider what this looks like in practice, and how it directly threatens the family:
 
-- **"Self-care" and instant gratification culture** that demands "I deserve to be happy and comfortable NOW"—refusing any sacrifice or delayed gratification, justifying abandonment of spouse and children for "my needs," treating discomfort as oppression rather than the cost of love
-- **Abortion and contraception** that kill the child or reject the life-giving purpose of marriage, destroying the family before it begins, sacrificing children for convenience, career, or lifestyle
-- **Divorce culture** where "I'm not happy" becomes sufficient reason to break covenant, refusing to sacrifice for spouse's good or children's stability, treating marriage as conditional on feelings rather than permanent commitment
-- **Hookup culture and pornography** that use others' bodies for pleasure without giving self, destroying the capacity for sacrificial marital intimacy, demanding sexual gratification without responsibility or commitment
-- **Childlessness by choice** that refuses the sacrifice of parenthood—"I want to travel, sleep in, have nice things"—choosing sterile comfort over life-giving fruitfulness
-- **Technology addiction** where parents scroll through phones while children beg for attention, choosing digital dopamine over presence to family, giving screens the time that belongs to spouse and children
-- **Radical individualism** that insists "I don't owe anyone anything," destroying family obligations, rejecting duty and responsibility, treating covenant as optional
+**Attacks on Life:** Abortion and contraception kill the child or reject the life-giving purpose of marriage, destroying the family before it begins, sacrificing children for convenience, career, or lifestyle.
+
+**Attacks on Permanence:** Divorce culture where "I'm not happy" becomes sufficient reason to break covenant, refusing to sacrifice for spouse's good or children's stability, treating marriage as conditional on feelings rather than permanent commitment. Hookup culture and pornography use others' bodies for pleasure without giving self, destroying the capacity for sacrificial marital intimacy, demanding sexual gratification without responsibility or commitment.
+
+**Attacks on Presence:** "Self-care" and instant gratification culture that demands "I deserve to be happy and comfortable NOW"—refusing any sacrifice or delayed gratification, justifying abandonment of spouse and children for "my needs." Technology addiction where parents scroll through phones while children beg for attention, choosing digital dopamine over presence to family. Childlessness by choice that refuses the sacrifice of parenthood—"I want to travel, sleep in, have nice things"—choosing sterile comfort over life-giving fruitfulness. Radical individualism that insists "I don't owe anyone anything," destroying family obligations, rejecting duty and responsibility, treating covenant as optional.
 
 This is selfishness masquerading as health. It creates a culture where families cannot form (abortion, contraception, hookup culture), cannot last (divorce culture, "self-care" justifying abandonment), and cannot flourish (technology addiction, childlessness by choice, radical individualism). It shows the self-centered spirit that Christ explicitly condemned: "If any man would come after me, let him deny himself and take up his cross and follow me. For whoever would save his life will lose it, and whoever loses his life for my sake will find it." (Matthew 16:24-25).
 
