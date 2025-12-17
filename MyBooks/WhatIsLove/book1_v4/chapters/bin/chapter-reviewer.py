@@ -5,6 +5,7 @@
 #     "rich>=13.0.0",
 #     "anthropic>=0.39.0",
 #     "python-dotenv>=1.0.0",
+#     "inquirerpy>=0.3.4",
 # ]
 # ///
 """
@@ -29,6 +30,7 @@ from rich.progress import Progress, SpinnerColumn, TextColumn, BarColumn, TaskPr
 from rich.table import Table
 from rich.theme import Theme
 from rich.prompt import Confirm, Prompt
+from InquirerPy import inquirer
 
 # Catholic-themed colors
 CATHOLIC_THEME = Theme({
@@ -154,10 +156,11 @@ def log_api_call(
     return log_path
 
 
-def normalize_review_data(review_data: Dict[str, Any]) -> Dict[str, Any]:
+def normalize_review_data(review_data: Dict[str, Any], lenient: bool = False) -> Dict[str, Any]:
     """Normalize and validate the review JSON payload.
 
     Enforces that recommendations are structured objects (no legacy strings).
+    If lenient=True, skip malformed recommendations instead of raising errors.
     """
     recommendations = review_data.get("recommendations")
     if recommendations is None:
@@ -165,11 +168,19 @@ def normalize_review_data(review_data: Dict[str, Any]) -> Dict[str, Any]:
         return review_data
 
     if not isinstance(recommendations, list):
+        if lenient:
+            review_data["recommendations"] = []
+            review_data["_normalization_warnings"] = [f"recommendations was {type(recommendations).__name__}, expected list - cleared"]
+            return review_data
         raise ReviewFormatError(f"recommendations must be a list, got {type(recommendations).__name__}")
 
     normalized_recs: List[Dict[str, Any]] = []
+    warnings: List[str] = []
     for idx, rec in enumerate(recommendations):
         if not isinstance(rec, dict):
+            if lenient:
+                warnings.append(f"recommendations[{idx}] was {type(rec).__name__}, expected dict - skipped")
+                continue
             raise LegacyRecommendationFormatError(
                 f"Legacy recommendation format detected at index {idx}: expected object, got {type(rec).__name__}"
             )
@@ -217,6 +228,8 @@ def normalize_review_data(review_data: Dict[str, Any]) -> Dict[str, Any]:
         normalized_recs.append(normalized)
 
     review_data["recommendations"] = normalized_recs
+    if warnings:
+        review_data["_normalization_warnings"] = warnings
     return review_data
 
 
@@ -529,7 +542,22 @@ Perform the review thoroughly. Return ONLY the raw JSON object, nothing else."""
                 try:
                     review_data = json.loads(json_str)
                     review_data["_metadata"] = metadata
-                    return normalize_review_data(review_data)
+                    try:
+                        return normalize_review_data(review_data)
+                    except (ReviewFormatError, LegacyRecommendationFormatError) as norm_error:
+                        # Normalization failed - return with full raw data so user can still use it
+                        return {
+                            "chapter_name": chapter_file.name,
+                            "overall_status": "FORMAT_ERROR",
+                            "error": f"Response structure invalid: {str(norm_error)}",
+                            "successful_checks": review_data.get("successful_checks", []),
+                            "failed_checks": review_data.get("failed_checks", []) + [{"check": "Format Validation", "issue": str(norm_error), "location": "recommendations"}],
+                            "summary": review_data.get("summary", "LLM returned malformed recommendations structure"),
+                            "recommendations": [],  # Can't use malformed recs
+                            "raw_output": result_text,
+                            "parsed_json": review_data,  # Include parsed JSON so user can see what was returned
+                            "_metadata": metadata
+                        }
                 except json.JSONDecodeError as first_error:
                     # Try to repair common JSON issues
                     repaired = json_str
@@ -590,14 +618,17 @@ Perform the review thoroughly. Return ONLY the raw JSON object, nothing else."""
     except Exception as e:
         if isinstance(e, LegacyRecommendationFormatError):
             raise
+        import traceback
+        tb_str = traceback.format_exc()
         return {
             "chapter_name": chapter_file.name,
             "overall_status": "ERROR",
             "error": str(e),
             "successful_checks": [],
             "failed_checks": [{"check": "API Call", "issue": str(e), "location": "N/A"}],
-            "summary": f"Anthropic API error: {str(e)}",
+            "summary": f"Error: {str(e)}",
             "recommendations": [],
+            "raw_output": tb_str,  # Include full traceback
             "_metadata": {"total_cost_usd": 0, "duration_ms": 0, "input_tokens": 0, "output_tokens": 0}
         }
 
@@ -749,6 +780,62 @@ CRITICAL:
         # Parse the JSON output from Claude
         output = json.loads(result.stdout)
 
+        # Handle case where Claude returns a list instead of a dict
+        if isinstance(output, list):
+            # Claude sometimes returns a list of conversation turns - try to extract the result
+            result_text = None
+            for item in output:
+                if isinstance(item, dict) and "result" in item:
+                    result_text = item["result"]
+                    break
+                elif isinstance(item, dict) and item.get("type") == "result":
+                    result_text = item.get("result", str(item))
+                    break
+
+            if result_text:
+                # Try to parse the result_text as JSON and process it
+                try:
+                    clean_text = result_text.strip()
+                    clean_text = re.sub(r'^```(?:json)?\s*\n?', '', clean_text)
+                    clean_text = re.sub(r'\n?```\s*$', '', clean_text)
+                    json_start = clean_text.find("{")
+                    json_end = clean_text.rfind("}") + 1
+                    if json_start != -1 and json_end > json_start:
+                        json_str = clean_text[json_start:json_end]
+                        review_data = json.loads(json_str)
+                        review_data["_metadata"] = {"total_cost_usd": 0, "duration_ms": 0, "input_tokens": 0, "output_tokens": 0}
+                        try:
+                            return normalize_review_data(review_data)
+                        except (ReviewFormatError, LegacyRecommendationFormatError) as norm_error:
+                            return {
+                                "chapter_name": chapter_file.name,
+                                "overall_status": "FORMAT_ERROR",
+                                "error": f"Response structure invalid: {str(norm_error)}",
+                                "successful_checks": review_data.get("successful_checks", []),
+                                "failed_checks": review_data.get("failed_checks", []) + [{"check": "Format Validation", "issue": str(norm_error), "location": "recommendations"}],
+                                "summary": review_data.get("summary", "LLM returned malformed recommendations structure"),
+                                "recommendations": [],
+                                "raw_output": result_text,
+                                "parsed_json": review_data,
+                                "_metadata": {"total_cost_usd": 0, "duration_ms": 0, "input_tokens": 0, "output_tokens": 0}
+                            }
+                except (json.JSONDecodeError, Exception):
+                    pass  # Fall through to error return
+
+            if result_text is None:
+                result_text = json.dumps(output, indent=2)
+            return {
+                "chapter_name": chapter_file.name,
+                "overall_status": "ERROR",
+                "error": "Claude CLI returned list format - could not parse result",
+                "successful_checks": [],
+                "failed_checks": [{"check": "Output Format", "issue": "Claude CLI returned a list instead of expected dict format", "location": "N/A"}],
+                "summary": "Claude CLI returned unexpected output format",
+                "recommendations": [],
+                "raw_output": result_text,
+                "_metadata": {"total_cost_usd": 0, "duration_ms": 0, "input_tokens": 0, "output_tokens": 0}
+            }
+
         # Extract metadata (tokens, cost, duration)
         metadata = {
             "total_cost_usd": output.get("total_cost_usd", 0),
@@ -778,7 +865,22 @@ CRITICAL:
                     try:
                         review_data = json.loads(json_str)
                         review_data["_metadata"] = metadata
-                        return normalize_review_data(review_data)
+                        try:
+                            return normalize_review_data(review_data)
+                        except (ReviewFormatError, LegacyRecommendationFormatError) as norm_error:
+                            # Normalization failed - return with full raw data
+                            return {
+                                "chapter_name": chapter_file.name,
+                                "overall_status": "FORMAT_ERROR",
+                                "error": f"Response structure invalid: {str(norm_error)}",
+                                "successful_checks": review_data.get("successful_checks", []),
+                                "failed_checks": review_data.get("failed_checks", []) + [{"check": "Format Validation", "issue": str(norm_error), "location": "recommendations"}],
+                                "summary": review_data.get("summary", "LLM returned malformed recommendations structure"),
+                                "recommendations": [],
+                                "raw_output": result_text,
+                                "parsed_json": review_data,
+                                "_metadata": metadata
+                            }
                     except json.JSONDecodeError as first_error:
                         # Try to repair common JSON issues
                         repaired = json_str
@@ -795,7 +897,21 @@ CRITICAL:
                         try:
                             review_data = json.loads(repaired)
                             review_data["_metadata"] = metadata
-                            return normalize_review_data(review_data)
+                            try:
+                                return normalize_review_data(review_data)
+                            except (ReviewFormatError, LegacyRecommendationFormatError) as norm_error:
+                                return {
+                                    "chapter_name": chapter_file.name,
+                                    "overall_status": "FORMAT_ERROR",
+                                    "error": f"Response structure invalid: {str(norm_error)}",
+                                    "successful_checks": review_data.get("successful_checks", []),
+                                    "failed_checks": review_data.get("failed_checks", []) + [{"check": "Format Validation", "issue": str(norm_error), "location": "recommendations"}],
+                                    "summary": review_data.get("summary", "LLM returned malformed recommendations structure"),
+                                    "recommendations": [],
+                                    "raw_output": result_text,
+                                    "parsed_json": review_data,
+                                    "_metadata": metadata
+                                }
                         except json.JSONDecodeError:
                             # Try json_repair library if available
                             try:
@@ -803,7 +919,21 @@ CRITICAL:
                                 repaired = repair_json(json_str)
                                 review_data = json.loads(repaired)
                                 review_data["_metadata"] = metadata
-                                return normalize_review_data(review_data)
+                                try:
+                                    return normalize_review_data(review_data)
+                                except (ReviewFormatError, LegacyRecommendationFormatError) as norm_error:
+                                    return {
+                                        "chapter_name": chapter_file.name,
+                                        "overall_status": "FORMAT_ERROR",
+                                        "error": f"Response structure invalid: {str(norm_error)}",
+                                        "successful_checks": review_data.get("successful_checks", []),
+                                        "failed_checks": review_data.get("failed_checks", []) + [{"check": "Format Validation", "issue": str(norm_error), "location": "recommendations"}],
+                                        "summary": review_data.get("summary", "LLM returned malformed recommendations structure"),
+                                        "recommendations": [],
+                                        "raw_output": result_text,
+                                        "parsed_json": review_data,
+                                        "_metadata": metadata
+                                    }
                             except ImportError:
                                 pass
                             except Exception:
@@ -917,6 +1047,8 @@ CRITICAL:
     except Exception as e:
         if isinstance(e, LegacyRecommendationFormatError):
             raise
+        import traceback
+        tb_str = traceback.format_exc()
         return {
             "chapter_name": chapter_file.name,
             "overall_status": "ERROR",
@@ -924,7 +1056,8 @@ CRITICAL:
             "successful_checks": [],
             "failed_checks": [{"check": "Execution", "issue": str(e), "location": "N/A"}],
             "summary": f"Error: {str(e)}",
-            "recommendations": []
+            "recommendations": [],
+            "raw_output": tb_str  # Include full traceback
         }
 
 
@@ -943,7 +1076,7 @@ def display_results(results: List[Dict[str, Any]], agent_name: str):
     # Summary statistics - normalize status based on failed_checks if LLM returns non-standard status
     def normalize_status(r):
         status = r.get("overall_status", "UNKNOWN")
-        if status in ["PASS", "FAIL", "ERROR", "TIMEOUT", "UNKNOWN"]:
+        if status in ["PASS", "FAIL", "ERROR", "FORMAT_ERROR", "TIMEOUT", "UNKNOWN"]:
             return status
         # LLM returned non-standard status (e.g., "REC") - determine from failed_checks
         if len(r.get("failed_checks", [])) > 0:
@@ -952,7 +1085,7 @@ def display_results(results: List[Dict[str, Any]], agent_name: str):
 
     passed = sum(1 for r in results if normalize_status(r) == "PASS")
     failed = sum(1 for r in results if normalize_status(r) == "FAIL")
-    errors = sum(1 for r in results if normalize_status(r) in ["ERROR", "TIMEOUT", "UNKNOWN"])
+    errors = sum(1 for r in results if normalize_status(r) in ["ERROR", "FORMAT_ERROR", "TIMEOUT", "UNKNOWN"])
 
     summary_table = Table(title="📊 Summary", border_style="cyan")
     summary_table.add_column("Status", style="bold")
@@ -1165,6 +1298,28 @@ def save_concise_html_report(results: List[Dict[str, Any]], agent_name: str, out
                 summary_html = summary.replace("<", "&lt;").replace(">", "&gt;")
                 f.write(f"""        <p class="summary">{summary_html}</p>\n""")
 
+            # Show parsed JSON for FORMAT_ERROR so user can still utilize the content
+            if status == "FORMAT_ERROR" and result.get("parsed_json"):
+                parsed_json = result.get("parsed_json", {})
+                # Pretty print the JSON
+                import html
+                json_html = html.escape(json.dumps(parsed_json, indent=2, ensure_ascii=False))
+                f.write(f"""        <div class="raw-output">
+            <h3>⚠️ LLM Response (Parsed but Malformed Structure)</h3>
+            <p><em>The LLM returned valid JSON but with incorrect structure. Here is the full parsed response so you can still use the content:</em></p>
+            <pre style="background: #1a1a2e; color: #eee; padding: 15px; border-radius: 5px; overflow-x: auto; max-height: 600px; overflow-y: auto;">{json_html}</pre>
+        </div>\n""")
+            # Show raw output for other errors
+            elif status in ["ERROR", "UNKNOWN"] and result.get("raw_output"):
+                raw_output = result.get("raw_output", "")
+                import html
+                raw_html = html.escape(raw_output)
+                f.write(f"""        <div class="raw-output">
+            <h3>⚠️ Raw LLM Response</h3>
+            <p><em>The LLM response could not be parsed. Here is the raw output:</em></p>
+            <pre style="background: #1a1a2e; color: #eee; padding: 15px; border-radius: 5px; overflow-x: auto; max-height: 600px; overflow-y: auto;">{raw_html}</pre>
+        </div>\n""")
+
             # Failed checks table (concise version)
             if failed_checks:
                 f.write("""        <div class="failed-checks">
@@ -1238,7 +1393,7 @@ def save_html_report(results: List[Dict[str, Any]], agent_name: str, output_file
     # Calculate statistics - normalize status based on failed_checks if LLM returns non-standard status
     def normalize_status(r):
         status = r.get("overall_status", "UNKNOWN")
-        if status in ["PASS", "FAIL", "ERROR", "TIMEOUT", "UNKNOWN"]:
+        if status in ["PASS", "FAIL", "ERROR", "FORMAT_ERROR", "TIMEOUT", "UNKNOWN"]:
             return status
         # LLM returned non-standard status (e.g., "REC") - determine from failed_checks
         if len(r.get("failed_checks", [])) > 0:
@@ -1247,7 +1402,7 @@ def save_html_report(results: List[Dict[str, Any]], agent_name: str, output_file
 
     passed = sum(1 for r in results if normalize_status(r) == "PASS")
     failed = sum(1 for r in results if normalize_status(r) == "FAIL")
-    errors = sum(1 for r in results if normalize_status(r) in ["ERROR", "TIMEOUT", "UNKNOWN"])
+    errors = sum(1 for r in results if normalize_status(r) in ["ERROR", "FORMAT_ERROR", "TIMEOUT", "UNKNOWN"])
     total = len(results)
 
     # Count total checks
@@ -2116,6 +2271,38 @@ Ad Maiorem Dei Gloriam ✟
     # call beep cli with no args...
     if True:
         subprocess.run(["beep"], check=False)
+
+    # Collect and format all recommendations
+    all_recs = []
+    for result in results:
+        if not isinstance(result, dict):
+            continue
+        chapter_name = result.get("chapter_name", result.get("chapter", "Unknown"))
+        recs = result.get("recommendations", [])
+        if recs and isinstance(recs, list):
+            all_recs.append(f"\n## {chapter_name}\n")
+            for rec in recs:
+                if not isinstance(rec, dict):
+                    continue
+                priority = PRIORITY_MAP.get(rec.get("priority", 3), PRIORITY_MAP[3])
+                location = rec.get("location", "N/A")
+                issue = rec.get("issue", "No description")
+                all_recs.append(f"- [{priority['label']}] {location}: {issue}")
+                if rec.get("original"):
+                    all_recs.append(f"  Original: {rec['original']}")
+                if rec.get("suggested"):
+                    all_recs.append(f"  Suggested: {rec['suggested']}")
+
+    # Prompt user to copy recommendations to clipboard
+    if all_recs:
+        recommendations_text = "\n".join(all_recs)
+        copy_to_clipboard = inquirer.confirm(
+            message="Copy recommendations to clipboard?",
+            default=True
+        ).execute()
+        if copy_to_clipboard:
+            subprocess.run(["pbcopy"], input=recommendations_text.encode("utf-8"), check=False)
+            console.print("[success]✓ Recommendations copied to clipboard[/success]")
 
     # Exit with appropriate code
     failed = sum(1 for r in results if r.get("overall_status") != "PASS")
