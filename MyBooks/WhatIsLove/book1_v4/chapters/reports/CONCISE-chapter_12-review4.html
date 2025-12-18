@@ -1,0 +1,688 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Official Validation Report - CONCISE</title>
+    <style>
+        :root {
+            --gold: #D4AF37;
+            --purple: #663399;
+            --red: #8B0000;
+            --dark: #2C2C2C;
+            --light-bg: #FAFAFA;
+            --success: #2D5016;
+            --error: #8B0000;
+            --warning: #B8860B;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Georgia', 'Times New Roman', serif;
+            line-height: 1.6;
+            color: var(--dark);
+            background: white;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 40px;
+        }
+
+        .header {
+            text-align: center;
+            # border-bottom: 3px solid var(--gold);
+            padding-bottom: 30px;
+            margin-bottom: 40px;
+        }
+
+        .cross {
+            font-size: 48px;
+            color: var(--gold);
+            margin-bottom: 10px;
+        }
+
+        h1 {
+            font-size: 32px;
+            color: var(--purple);
+            margin-bottom: 10px;
+        }
+
+        h2 {
+            font-size: 24px;
+            color: var(--purple);
+            margin-top: 30px;
+            margin-bottom: 15px;
+            # border-bottom: 2px solid var(--gold);
+            padding-bottom: 5px;
+        }
+
+        h3 {
+            font-size: 20px;
+            color: var(--dark);
+            margin-top: 25px;
+            margin-bottom: 10px;
+        }
+
+        h4 {
+            font-size: 16px;
+            color: var(--purple);
+            margin-top: 15px;
+            margin-bottom: 10px;
+        }
+
+        .metadata {
+            background: var(--light-bg);
+            border-left: 4px solid var(--gold);
+            padding: 20px;
+            margin: 20px 0;
+        }
+
+        .metadata p {
+            margin: 5px 0;
+        }
+
+        .summary-box {
+            background: linear-gradient(to right, #f8f8f8, white);
+            border: 2px solid var(--gold);
+            padding: 25px;
+            margin: 20px 0;
+            border-radius: 5px;
+        }
+
+        .stats {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 15px;
+            margin: 20px 0;
+        }
+
+        .stat-card {
+            background: white;
+            border: 1px solid #ddd;
+            padding: 15px;
+            border-radius: 5px;
+            border-left: 4px solid var(--gold);
+        }
+
+        .stat-card.success {
+            border-left-color: var(--success);
+        }
+
+        .stat-card.error {
+            border-left-color: var(--error);
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 15px 0;
+            background: white;
+        }
+
+        th {
+            background: var(--purple);
+            color: white;
+            padding: 12px;
+            text-align: left;
+            font-weight: bold;
+        }
+
+        td {
+            padding: 10px 12px;
+            border-bottom: 1px solid #ddd;
+        }
+
+        tr:nth-child(even) {
+            background: var(--light-bg);
+        }
+
+        tr:hover {
+            background: #f0f0f0;
+        }
+
+        .chapter-section {
+            background: white;
+            border: 1px solid #ddd;
+            margin: 20px 0;
+            padding: 20px;
+            border-radius: 5px;
+            page-break-inside: avoid;
+        }
+
+        .chapter-section.passed {
+            border-left: 5px solid var(--success);
+        }
+
+        .chapter-section.failed {
+            border-left: 5px solid var(--error);
+        }
+
+        .status-badge {
+            display: inline-block;
+            padding: 5px 15px;
+            border-radius: 3px;
+            font-weight: bold;
+            font-size: 14px;
+        }
+
+        .status-badge.passed {
+            background: var(--success);
+            color: white;
+        }
+
+        .status-badge.failed {
+            background: var(--error);
+            color: white;
+        }
+
+        .status-badge.error {
+            background: var(--warning);
+            color: white;
+        }
+
+        .check-icon {
+            font-weight: bold;
+            margin-right: 5px;
+        }
+
+        .check-icon.success {
+            color: var(--success);
+        }
+
+        .check-icon.error {
+            color: var(--error);
+        }
+
+        ul {
+            margin: 10px 0 10px 30px;
+        }
+
+        li {
+            margin: 5px 0;
+        }
+
+        .recommendations {
+            background: #fffef0;
+            border-left: 4px solid var(--gold);
+            padding: 15px;
+            margin: 15px 0;
+        }
+
+        /* Priority-based styling */
+        .priority-high {
+            border-left: 4px solid #DC2626;
+            padding-left: 12px;
+            margin: 8px 0;
+        }
+
+        .priority-high .priority-label {
+            color: #DC2626;
+            font-weight: bold;
+        }
+
+        .priority-rec {
+            border-left: 4px solid #D97706;
+            padding-left: 12px;
+            margin: 8px 0;
+        }
+
+        .priority-rec .priority-label {
+            color: #D97706;
+        }
+
+        .priority-opt {
+            border-left: 4px solid #2563EB;
+            padding-left: 12px;
+            margin: 8px 0;
+        }
+
+        .priority-opt .priority-label {
+            color: #2563EB;
+        }
+
+        .recommendation-item {
+            background: white;
+            padding: 12px;
+            margin: 10px 0;
+            border-radius: 4px;
+        }
+
+        .recommendation-item .location {
+            font-family: monospace;
+            color: #666;
+            font-size: 0.9em;
+        }
+
+        .recommendation-item .issue {
+            font-weight: bold;
+            margin: 5px 0;
+        }
+
+        .recommendation-item .original {
+            background: #fee2e2;
+            padding: 8px;
+            border-radius: 3px;
+            margin: 5px 0;
+            font-family: monospace;
+            font-size: 0.9em;
+            white-space: pre-wrap;
+        }
+
+        .recommendation-item .suggested {
+            background: #dcfce7;
+            padding: 8px;
+            border-radius: 3px;
+            margin: 5px 0;
+            font-family: monospace;
+            font-size: 0.9em;
+            white-space: pre-wrap;
+        }
+
+        .conclusion {
+            background: var(--light-bg);
+            border: 2px solid var(--purple);
+            padding: 25px;
+            margin: 30px 0;
+            border-radius: 5px;
+            page-break-before: always;
+        }
+
+        .footer {
+            text-align: center;
+            margin-top: 50px;
+            padding-top: 30px;
+            border-top: 2px solid var(--gold);
+            font-style: italic;
+            color: #666;
+        }
+
+        hr {
+            border: none;
+            border-top: 1px solid #ddd;
+            margin: 30px 0;
+        }
+
+        @media print {
+            body {
+                padding: 20px;
+            }
+            .chapter-section {
+                page-break-inside: avoid;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <div class="cross">✟</div>
+        <h1>Official Validation Report</h1>
+        <h2 style="border: none;">CONCISE Review</h2>
+    </div>
+
+    <div class="metadata">
+        <p><strong>Date:</strong> December 12, 2025</p>
+        <p><strong>Generated:</strong> 2025-12-12 06:13:19</p>
+        <p><strong>Review Type:</strong> CONCISE</p>
+        <p><strong>Total Chapters:</strong> 1</p>
+    </div>
+
+    <h2>Report Summary</h2>
+    <div class="summary-box">
+        <p>This report documents the CONCISE review of all 1 chapters.
+        A total of 40 validation checks were performed across all chapters.</p>
+    </div>
+
+    <h3>Overall Results</h3>
+    <div class="stats">
+        <div class="stat-card success">
+            <h4>Chapters Passed</h4>
+            <p style="font-size: 24px; font-weight: bold; color: var(--success);">0 / 1</p>
+            <p>0.0% Success Rate</p>
+        </div>
+        <div class="stat-card error">
+            <h4>Chapters Failed</h4>
+            <p style="font-size: 24px; font-weight: bold; color: var(--error);">1 / 1</p>
+            <p>100.0% Failure Rate</p>
+        </div>
+        <div class="stat-card">
+            <h4>Total Validation Checks</h4>
+            <p style="font-size: 24px; font-weight: bold; color: var(--purple);">40</p>
+            <p>✓ Successful: 6 (15.0%)</p>
+            <p>✗ Failed: 34 (85.0%)</p>
+        </div>
+    </div>
+
+    <h2>Detailed Chapter Validation Reports</h2>
+    <p>The following sections provide complete validation details for each chapter, including all successful and unsuccessful checks.</p>
+
+    <div class="chapter-section failed">
+        <h3>✗ chapter_12.md</h3>
+        <span class="status-badge failed">FAILED</span>
+        <p><strong>Checks Performed:</strong> 40 |
+           <strong>Passed:</strong> 6 |
+           <strong>Failed:</strong> 34</p>
+        <p><strong>Summary:</strong> Chapter 12 has strong theological content and effective use of Scripture, but suffers from significant redundancy, particularly in the 'Integration of Faith and Love' section (lines 94-134). The chapter repeatedly restates its thesis—that virtues flow from the four pillars of perfect love—without adding new insight. Several sections over-explain after making their point clearly. The virtue matrix is effective, but surrounding prose often repeats what the matrix shows. The Great Commandment section (lines 136-155) has good content but is verbose in its four-part breakdown. The introduction is tight and the practical application section is appropriately concise. Total estimated word savings: ~400 words (approximately 15-18% reduction possible while preserving theological depth and rhetorical power).</p>
+
+        <h4>✓ Successful Validations</h4>
+        <table>
+            <thead>
+                <tr>
+                    <th>Check</th>
+                    <th>Details</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td><span class="check-icon success">✓</span>Opening quotes</td>
+                    <td>Three Scripture quotes efficiently establish the chapter's theme without redundancy.</td>
+                </tr>
+                <tr>
+                    <td><span class="check-icon success">✓</span>Mother example in introduction</td>
+                    <td>Concrete, vivid illustration that earns its words by making the abstract tangible.</td>
+                </tr>
+                <tr>
+                    <td><span class="check-icon success">✓</span>Virtue matrix</td>
+                    <td>Efficient visual format that conveys information without verbose prose.</td>
+                </tr>
+                <tr>
+                    <td><span class="check-icon success">✓</span>Callout box (lines 80-82)</td>
+                    <td>Appropriately crystallizes the key insight in memorable form.</td>
+                </tr>
+                <tr>
+                    <td><span class="check-icon success">✓</span>Practical Application section</td>
+                    <td>Tight, actionable questions that don't over-explain.</td>
+                </tr>
+                <tr>
+                    <td><span class="check-icon success">✓</span>For Further Study section</td>
+                    <td>Clean reference list without unnecessary commentary.</td>
+                </tr>
+            </tbody>
+        </table>
+
+        <h4>✗ Failed Validations</h4>
+        <table>
+            <thead>
+                <tr>
+                    <th>Check</th>
+                    <th>Issue</th>
+                    <th>Location</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td><span class="check-icon error">✗</span>Verbose phrase</td>
+                    <td>Unnecessary qualifier 'exact'</td>
+                    <td>Line 72</td>
+                </tr>
+                <tr>
+                    <td><span class="check-icon error">✗</span>Redundant explanation</td>
+                    <td>The explanation of why some virtues relate to all four pillars repeats the matrix's implicit message</td>
+                    <td>Lines 68-78 (Why Some Virtues Relate to All Four Pillars)</td>
+                </tr>
+                <tr>
+                    <td><span class="check-icon error">✗</span>Verbose transition</td>
+                    <td>Throat-clearing phrase</td>
+                    <td>Line 88</td>
+                </tr>
+                <tr>
+                    <td><span class="check-icon error">✗</span>Redundant summary</td>
+                    <td>Lines 94-96 repeat what was just said in lines 86-90</td>
+                    <td>Lines 94-96 (The Integration of Faith and Love opening)</td>
+                </tr>
+                <tr>
+                    <td><span class="check-icon error">✗</span>Redundant key insights</td>
+                    <td>Lines 98-102 (Key Insights) repeat points already made in prose</td>
+                    <td>Lines 98-102</td>
+                </tr>
+                <tr>
+                    <td><span class="check-icon error">✗</span>Verbose phrase</td>
+                    <td>Redundant emphasis</td>
+                    <td>Line 106</td>
+                </tr>
+                <tr>
+                    <td><span class="check-icon error">✗</span>Over-explanation after Scripture</td>
+                    <td>The point is made by Scripture; prose explanation is redundant</td>
+                    <td>Lines 106-108</td>
+                </tr>
+                <tr>
+                    <td><span class="check-icon error">✗</span>Verbose phrase</td>
+                    <td>Hedging language</td>
+                    <td>Line 114</td>
+                </tr>
+                <tr>
+                    <td><span class="check-icon error">✗</span>Verbose analogy</td>
+                    <td>Analogy is vivid but could be tightened</td>
+                    <td>Line 114-115</td>
+                </tr>
+                <tr>
+                    <td><span class="check-icon error">✗</span>Verbose transition</td>
+                    <td>Unnecessary setup phrase</td>
+                    <td>Line 116</td>
+                </tr>
+                <tr>
+                    <td><span class="check-icon error">✗</span>Redundant emphasis</td>
+                    <td>Word 'actually' is unnecessary</td>
+                    <td>Line 116</td>
+                </tr>
+                <tr>
+                    <td><span class="check-icon error">✗</span>Verbose phrase</td>
+                    <td>Redundant pair 'healing...empowering'</td>
+                    <td>Line 117</td>
+                </tr>
+                <tr>
+                    <td><span class="check-icon error">✗</span>Redundant explanation</td>
+                    <td>The etymology of 'justification' is explained but then over-explained</td>
+                    <td>Lines 118-119</td>
+                </tr>
+                <tr>
+                    <td><span class="check-icon error">✗</span>Verbose phrase</td>
+                    <td>Unnecessary qualifier</td>
+                    <td>Line 120</td>
+                </tr>
+                <tr>
+                    <td><span class="check-icon error">✗</span>Redundant Scripture</td>
+                    <td>Two quotes from Council of Trent make similar points</td>
+                    <td>Lines 120-123</td>
+                </tr>
+                <tr>
+                    <td><span class="check-icon error">✗</span>Verbose transition</td>
+                    <td>Wordy setup before Micah quote</td>
+                    <td>Line 124</td>
+                </tr>
+                <tr>
+                    <td><span class="check-icon error">✗</span>Redundant sentence</td>
+                    <td>Restates what was just said</td>
+                    <td>Line 124 (end)</td>
+                </tr>
+                <tr>
+                    <td><span class="check-icon error">✗</span>Verbose phrase</td>
+                    <td>Unnecessary prepositional phrase</td>
+                    <td>Line 126</td>
+                </tr>
+                <tr>
+                    <td><span class="check-icon error">✗</span>Over-explanation</td>
+                    <td>The four pillars in the Cross are listed but then followed by more explanation</td>
+                    <td>Lines 126-127</td>
+                </tr>
+                <tr>
+                    <td><span class="check-icon error">✗</span>Verbose transition</td>
+                    <td>Rhetorical question answered immediately</td>
+                    <td>Lines 128-130</td>
+                </tr>
+                <tr>
+                    <td><span class="check-icon error">✗</span>Redundant summary</td>
+                    <td>Restates what the Scripture quote just said</td>
+                    <td>Lines 131-132</td>
+                </tr>
+                <tr>
+                    <td><span class="check-icon error">✗</span>Verbose sentence</td>
+                    <td>Could be more direct</td>
+                    <td>Line 132</td>
+                </tr>
+                <tr>
+                    <td><span class="check-icon error">✗</span>Redundant sentence</td>
+                    <td>Restates mission without adding new insight</td>
+                    <td>Line 132-133</td>
+                </tr>
+                <tr>
+                    <td><span class="check-icon error">✗</span>Redundant summary</td>
+                    <td>Repeats the chapter's main thesis again</td>
+                    <td>Line 134</td>
+                </tr>
+                <tr>
+                    <td><span class="check-icon error">✗</span>Verbose introduction to Great Commandment section</td>
+                    <td>Setup could be tighter</td>
+                    <td>Lines 138-142</td>
+                </tr>
+                <tr>
+                    <td><span class="check-icon error">✗</span>Redundant emphasis</td>
+                    <td>Repeats what Jesus said</td>
+                    <td>Lines 144-145</td>
+                </tr>
+                <tr>
+                    <td><span class="check-icon error">✗</span>Verbose phrase</td>
+                    <td>Unnecessary words</td>
+                    <td>Line 146</td>
+                </tr>
+                <tr>
+                    <td><span class="check-icon error">✗</span>Over-explanation</td>
+                    <td>Four-part breakdown of loving God is thorough but verbose</td>
+                    <td>Lines 146-148</td>
+                </tr>
+                <tr>
+                    <td><span class="check-icon error">✗</span>Redundant sentence</td>
+                    <td>Restates what was just said</td>
+                    <td>Line 148</td>
+                </tr>
+                <tr>
+                    <td><span class="check-icon error">✗</span>Verbose section introduction</td>
+                    <td>The Body/Mind/Soul breakdown could be introduced more directly</td>
+                    <td>Line 150</td>
+                </tr>
+                <tr>
+                    <td><span class="check-icon error">✗</span>Verbose examples</td>
+                    <td>Each bullet point is longer than needed</td>
+                    <td>Lines 151-153</td>
+                </tr>
+                <tr>
+                    <td><span class="check-icon error">✗</span>Redundant conclusion</td>
+                    <td>Restates what was just demonstrated</td>
+                    <td>Lines 154-155</td>
+                </tr>
+                <tr>
+                    <td><span class="check-icon error">✗</span>Verbose transition</td>
+                    <td>Transition to next chapter is wordy</td>
+                    <td>Lines 157-159</td>
+                </tr>
+                <tr>
+                    <td><span class="check-icon error">✗</span>Verbose closing statement</td>
+                    <td>Final bold statement is too long</td>
+                    <td>Lines 170-171</td>
+                </tr>
+            </tbody>
+        </table>
+        <div class="recommendations">
+            <h4>📿 Edit Recommendations</h4>
+            <div class="recommendation-item priority-high">
+                <span class="priority-label">🔴 HIGH</span>
+                <span class="location">Lines 94-102</span>
+                <div class="issue">Major redundancy - summary restates introduction</div>
+                <div class="original"><strong>Original:</strong> The matrix confirms: **every Catholic virtue upholds the four pillars; every vice denies them.** Our definition of perfect love... [plus Key Insights bulleted list]</div>
+                <div class="suggested"><strong>Suggested:</strong> Delete lines 94-102 entirely. The matrix and preceding explanation have already made these points clearly. This section adds no new insight.</div>
+            </div>
+            <div class="recommendation-item priority-high">
+                <span class="priority-label">🔴 HIGH</span>
+                <span class="location">Lines 106-134 (Faith requires sacrifice through conclusion)</span>
+                <div class="issue">Section is verbose with redundant explanations and Scripture stacking</div>
+                <div class="original"><strong>Original:</strong> Multiple paragraphs explaining faith/works/justification</div>
+                <div class="suggested"><strong>Suggested:</strong> Consolidate to approximately half the length by: (1) removing redundant James quotes, (2) tightening justification explanation, (3) removing redundant summary sentences</div>
+            </div>
+            <div class="recommendation-item priority-high">
+                <span class="priority-label">🔴 HIGH</span>
+                <span class="location">Lines 157-159</span>
+                <div class="issue">Transition to next chapter is wordy and redundant</div>
+                <div class="original"><strong>Original:</strong> The next chapter examines how vices deny the four pillars, why not all sins are equal, and how God's mercy provides the path to restoration. If this chapter shows what it looks like to love God with your whole heart, soul, mind, and strength, the next chapter shows what happens when we refuse—and how God's grace brings us back.</div>
+                <div class="suggested"><strong>Suggested:</strong> The next chapter examines how vices deny the four pillars, why not all sins are equal, and how God's mercy restores us.</div>
+            </div>
+            <div class="recommendation-item priority-rec">
+                <span class="priority-label">🟡 RECOMMENDED</span>
+                <span class="location">Lines 144-155 (Great Commandment section)</span>
+                <div class="issue">Over-explanation of the four-part love (heart/soul/mind/strength)</div>
+                <div class="original"><strong>Original:</strong> Multiple sentences explaining each component</div>
+                <div class="suggested"><strong>Suggested:</strong> Tighten the four-part breakdown to shorter parallel phrases; remove redundant conclusion</div>
+            </div>
+            <div class="recommendation-item priority-rec">
+                <span class="priority-label">🟡 RECOMMENDED</span>
+                <span class="location">Throughout</span>
+                <div class="issue">Verbose phrases and unnecessary qualifiers</div>
+                <div class="original"><strong>Original:</strong> Various instances of 'This reveals a profound truth', 'For now, the key insight is this', 'This is the summary of everything we've explored'</div>
+                <div class="suggested"><strong>Suggested:</strong> Replace with more direct phrasing or delete entirely</div>
+            </div>
+        </div>
+    </div>
+
+    <h2>The following Issues Require Attention</h2>
+    <p>The following chapters require corrections before final approval:</p>
+
+    <div class="chapter-section failed">
+        <h3>chapter_12.md</h3>
+        <ol>
+            <li><strong>Verbose phrase:</strong> Unnecessary qualifier 'exact'</li>
+            <li><strong>Redundant explanation:</strong> The explanation of why some virtues relate to all four pillars repeats the matrix's implicit message</li>
+            <li><strong>Verbose transition:</strong> Throat-clearing phrase</li>
+            <li><strong>Redundant summary:</strong> Lines 94-96 repeat what was just said in lines 86-90</li>
+            <li><strong>Redundant key insights:</strong> Lines 98-102 (Key Insights) repeat points already made in prose</li>
+            <li><strong>Verbose phrase:</strong> Redundant emphasis</li>
+            <li><strong>Over-explanation after Scripture:</strong> The point is made by Scripture; prose explanation is redundant</li>
+            <li><strong>Verbose phrase:</strong> Hedging language</li>
+            <li><strong>Verbose analogy:</strong> Analogy is vivid but could be tightened</li>
+            <li><strong>Verbose transition:</strong> Unnecessary setup phrase</li>
+            <li><strong>Redundant emphasis:</strong> Word 'actually' is unnecessary</li>
+            <li><strong>Verbose phrase:</strong> Redundant pair 'healing...empowering'</li>
+            <li><strong>Redundant explanation:</strong> The etymology of 'justification' is explained but then over-explained</li>
+            <li><strong>Verbose phrase:</strong> Unnecessary qualifier</li>
+            <li><strong>Redundant Scripture:</strong> Two quotes from Council of Trent make similar points</li>
+            <li><strong>Verbose transition:</strong> Wordy setup before Micah quote</li>
+            <li><strong>Redundant sentence:</strong> Restates what was just said</li>
+            <li><strong>Verbose phrase:</strong> Unnecessary prepositional phrase</li>
+            <li><strong>Over-explanation:</strong> The four pillars in the Cross are listed but then followed by more explanation</li>
+            <li><strong>Verbose transition:</strong> Rhetorical question answered immediately</li>
+            <li><strong>Redundant summary:</strong> Restates what the Scripture quote just said</li>
+            <li><strong>Verbose sentence:</strong> Could be more direct</li>
+            <li><strong>Redundant sentence:</strong> Restates mission without adding new insight</li>
+            <li><strong>Redundant summary:</strong> Repeats the chapter's main thesis again</li>
+            <li><strong>Verbose introduction to Great Commandment section:</strong> Setup could be tighter</li>
+            <li><strong>Redundant emphasis:</strong> Repeats what Jesus said</li>
+            <li><strong>Verbose phrase:</strong> Unnecessary words</li>
+            <li><strong>Over-explanation:</strong> Four-part breakdown of loving God is thorough but verbose</li>
+            <li><strong>Redundant sentence:</strong> Restates what was just said</li>
+            <li><strong>Verbose section introduction:</strong> The Body/Mind/Soul breakdown could be introduced more directly</li>
+            <li><strong>Verbose examples:</strong> Each bullet point is longer than needed</li>
+            <li><strong>Redundant conclusion:</strong> Restates what was just demonstrated</li>
+            <li><strong>Verbose transition:</strong> Transition to next chapter is wordy</li>
+            <li><strong>Verbose closing statement:</strong> Final bold statement is too long</li>
+        </ol>
+    </div>
+
+    <div class="conclusion">
+        <h2>Conclusion</h2>
+        <p>This manuscript has been reviewed with 40 validation checks across 1 chapters.
+        0 chapters passed all validations, while 1 chapters require attention as detailed in the sections above.</p>
+
+        <h3>Certification</h3>
+        <p>This validation report was generated using automated CONCISE review processes and provides
+        an assessment of the manuscript's compliance with established criteria.</p>
+    </div>
+
+    <div class="footer">
+        <p>Report prepared: December 12, 2025</p>
+        <p>Generated by: Catholic Chapter Reviewer</p>
+        <p>For submission to: Bishop's Office</p>
+        <p style="margin-top: 20px; font-size: 18px; color: var(--gold);">✟ Ad Maiorem Dei Gloriam ✟</p>
+    </div>
+</body>
+</html>

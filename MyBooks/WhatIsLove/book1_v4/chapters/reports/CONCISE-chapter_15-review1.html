@@ -1,0 +1,653 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Official Validation Report - CONCISE</title>
+    <style>
+        :root {
+            --gold: #D4AF37;
+            --purple: #663399;
+            --red: #8B0000;
+            --dark: #2C2C2C;
+            --light-bg: #FAFAFA;
+            --success: #2D5016;
+            --error: #8B0000;
+            --warning: #B8860B;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Georgia', 'Times New Roman', serif;
+            line-height: 1.6;
+            color: var(--dark);
+            background: white;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 40px;
+        }
+
+        .header {
+            text-align: center;
+            # border-bottom: 3px solid var(--gold);
+            padding-bottom: 30px;
+            margin-bottom: 40px;
+        }
+
+        .cross {
+            font-size: 48px;
+            color: var(--gold);
+            margin-bottom: 10px;
+        }
+
+        h1 {
+            font-size: 32px;
+            color: var(--purple);
+            margin-bottom: 10px;
+        }
+
+        h2 {
+            font-size: 24px;
+            color: var(--purple);
+            margin-top: 30px;
+            margin-bottom: 15px;
+            # border-bottom: 2px solid var(--gold);
+            padding-bottom: 5px;
+        }
+
+        h3 {
+            font-size: 20px;
+            color: var(--dark);
+            margin-top: 25px;
+            margin-bottom: 10px;
+        }
+
+        h4 {
+            font-size: 16px;
+            color: var(--purple);
+            margin-top: 15px;
+            margin-bottom: 10px;
+        }
+
+        .metadata {
+            background: var(--light-bg);
+            border-left: 4px solid var(--gold);
+            padding: 20px;
+            margin: 20px 0;
+        }
+
+        .metadata p {
+            margin: 5px 0;
+        }
+
+        .summary-box {
+            background: linear-gradient(to right, #f8f8f8, white);
+            border: 2px solid var(--gold);
+            padding: 25px;
+            margin: 20px 0;
+            border-radius: 5px;
+        }
+
+        .stats {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 15px;
+            margin: 20px 0;
+        }
+
+        .stat-card {
+            background: white;
+            border: 1px solid #ddd;
+            padding: 15px;
+            border-radius: 5px;
+            border-left: 4px solid var(--gold);
+        }
+
+        .stat-card.success {
+            border-left-color: var(--success);
+        }
+
+        .stat-card.error {
+            border-left-color: var(--error);
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 15px 0;
+            background: white;
+        }
+
+        th {
+            background: var(--purple);
+            color: white;
+            padding: 12px;
+            text-align: left;
+            font-weight: bold;
+        }
+
+        td {
+            padding: 10px 12px;
+            border-bottom: 1px solid #ddd;
+        }
+
+        tr:nth-child(even) {
+            background: var(--light-bg);
+        }
+
+        tr:hover {
+            background: #f0f0f0;
+        }
+
+        .chapter-section {
+            background: white;
+            border: 1px solid #ddd;
+            margin: 20px 0;
+            padding: 20px;
+            border-radius: 5px;
+            page-break-inside: avoid;
+        }
+
+        .chapter-section.passed {
+            border-left: 5px solid var(--success);
+        }
+
+        .chapter-section.failed {
+            border-left: 5px solid var(--error);
+        }
+
+        .status-badge {
+            display: inline-block;
+            padding: 5px 15px;
+            border-radius: 3px;
+            font-weight: bold;
+            font-size: 14px;
+        }
+
+        .status-badge.passed {
+            background: var(--success);
+            color: white;
+        }
+
+        .status-badge.failed {
+            background: var(--error);
+            color: white;
+        }
+
+        .status-badge.error {
+            background: var(--warning);
+            color: white;
+        }
+
+        .check-icon {
+            font-weight: bold;
+            margin-right: 5px;
+        }
+
+        .check-icon.success {
+            color: var(--success);
+        }
+
+        .check-icon.error {
+            color: var(--error);
+        }
+
+        ul {
+            margin: 10px 0 10px 30px;
+        }
+
+        li {
+            margin: 5px 0;
+        }
+
+        .recommendations {
+            background: #fffef0;
+            border-left: 4px solid var(--gold);
+            padding: 15px;
+            margin: 15px 0;
+        }
+
+        /* Priority-based styling */
+        .priority-high {
+            border-left: 4px solid #DC2626;
+            padding-left: 12px;
+            margin: 8px 0;
+        }
+
+        .priority-high .priority-label {
+            color: #DC2626;
+            font-weight: bold;
+        }
+
+        .priority-rec {
+            border-left: 4px solid #D97706;
+            padding-left: 12px;
+            margin: 8px 0;
+        }
+
+        .priority-rec .priority-label {
+            color: #D97706;
+        }
+
+        .priority-opt {
+            border-left: 4px solid #2563EB;
+            padding-left: 12px;
+            margin: 8px 0;
+        }
+
+        .priority-opt .priority-label {
+            color: #2563EB;
+        }
+
+        .recommendation-item {
+            background: white;
+            padding: 12px;
+            margin: 10px 0;
+            border-radius: 4px;
+        }
+
+        .recommendation-item .location {
+            font-family: monospace;
+            color: #666;
+            font-size: 0.9em;
+        }
+
+        .recommendation-item .issue {
+            font-weight: bold;
+            margin: 5px 0;
+        }
+
+        .recommendation-item .original {
+            background: #fee2e2;
+            padding: 8px;
+            border-radius: 3px;
+            margin: 5px 0;
+            font-family: monospace;
+            font-size: 0.9em;
+            white-space: pre-wrap;
+        }
+
+        .recommendation-item .suggested {
+            background: #dcfce7;
+            padding: 8px;
+            border-radius: 3px;
+            margin: 5px 0;
+            font-family: monospace;
+            font-size: 0.9em;
+            white-space: pre-wrap;
+        }
+
+        .conclusion {
+            background: var(--light-bg);
+            border: 2px solid var(--purple);
+            padding: 25px;
+            margin: 30px 0;
+            border-radius: 5px;
+            page-break-before: always;
+        }
+
+        .footer {
+            text-align: center;
+            margin-top: 50px;
+            padding-top: 30px;
+            border-top: 2px solid var(--gold);
+            font-style: italic;
+            color: #666;
+        }
+
+        hr {
+            border: none;
+            border-top: 1px solid #ddd;
+            margin: 30px 0;
+        }
+
+        @media print {
+            body {
+                padding: 20px;
+            }
+            .chapter-section {
+                page-break-inside: avoid;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <div class="cross">✟</div>
+        <h1>Official Validation Report</h1>
+        <h2 style="border: none;">CONCISE Review</h2>
+    </div>
+
+    <div class="metadata">
+        <p><strong>Date:</strong> December 13, 2025</p>
+        <p><strong>Generated:</strong> 2025-12-13 06:17:29</p>
+        <p><strong>Review Type:</strong> CONCISE</p>
+        <p><strong>Total Chapters:</strong> 1</p>
+    </div>
+
+    <h2>Report Summary</h2>
+    <div class="summary-box">
+        <p>This report documents the CONCISE review of all 1 chapters.
+        A total of 9 validation checks were performed across all chapters.</p>
+    </div>
+
+    <h3>Overall Results</h3>
+    <div class="stats">
+        <div class="stat-card success">
+            <h4>Chapters Passed</h4>
+            <p style="font-size: 24px; font-weight: bold; color: var(--success);">0 / 1</p>
+            <p>0.0% Success Rate</p>
+        </div>
+        <div class="stat-card error">
+            <h4>Chapters Failed</h4>
+            <p style="font-size: 24px; font-weight: bold; color: var(--error);">1 / 1</p>
+            <p>100.0% Failure Rate</p>
+        </div>
+        <div class="stat-card">
+            <h4>Total Validation Checks</h4>
+            <p style="font-size: 24px; font-weight: bold; color: var(--purple);">9</p>
+            <p>✓ Successful: 4 (44.4%)</p>
+            <p>✗ Failed: 5 (55.6%)</p>
+        </div>
+    </div>
+
+    <h2>Detailed Chapter Validation Reports</h2>
+    <p>The following sections provide complete validation details for each chapter, including all successful and unsuccessful checks.</p>
+
+    <div class="chapter-section failed">
+        <h3>✗ chapter_15.md</h3>
+        <span class="status-badge failed">FAILED</span>
+        <p><strong>Checks Performed:</strong> 9 |
+           <strong>Passed:</strong> 4 |
+           <strong>Failed:</strong> 5</p>
+        <p><strong>Summary:</strong> Chapter contains strong theological content and rhetorical structure but suffers from verbose patterns, redundant explanations, and introduction bloat. Significant word savings possible while preserving persuasive power.</p>
+
+        <h4>✓ Successful Validations</h4>
+        <table>
+            <thead>
+                <tr>
+                    <th>Check</th>
+                    <th>Details</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td><span class="check-icon success">✓</span>Rhetorical structure</td>
+                    <td>Strong use of triadic patterns and parallel construction preserved</td>
+                </tr>
+                <tr>
+                    <td><span class="check-icon success">✓</span>Theological precision</td>
+                    <td>Doctrine remains accurate throughout</td>
+                </tr>
+                <tr>
+                    <td><span class="check-icon success">✓</span>Voice consistency</td>
+                    <td>Personal, prophetic tone maintained</td>
+                </tr>
+                <tr>
+                    <td><span class="check-icon success">✓</span>Strategic repetition</td>
+                    <td>Key concepts repeated for emphasis appropriately</td>
+                </tr>
+            </tbody>
+        </table>
+
+        <h4>✗ Failed Validations</h4>
+        <table>
+            <thead>
+                <tr>
+                    <th>Check</th>
+                    <th>Issue</th>
+                    <th>Location</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td><span class="check-icon error">✗</span>Introduction bloat</td>
+                    <td>Takes too long to reach main point</td>
+                    <td>Lines 15-25</td>
+                </tr>
+                <tr>
+                    <td><span class="check-icon error">✗</span>Redundant explanations</td>
+                    <td>Multiple sentences making same point</td>
+                    <td>Lines 35-45</td>
+                </tr>
+                <tr>
+                    <td><span class="check-icon error">✗</span>Verbose patterns</td>
+                    <td>Weak verb + noun constructions throughout</td>
+                    <td>Multiple locations</td>
+                </tr>
+                <tr>
+                    <td><span class="check-icon error">✗</span>Throat-clearing phrases</td>
+                    <td>Unnecessary qualifiers and hedging</td>
+                    <td>Lines 65, 120, 185</td>
+                </tr>
+                <tr>
+                    <td><span class="check-icon error">✗</span>Over-explanation</td>
+                    <td>Points belabored after being made clearly</td>
+                    <td>Lines 150-170</td>
+                </tr>
+            </tbody>
+        </table>
+        <div class="recommendations">
+            <h4>📿 Edit Recommendations</h4>
+            <div class="recommendation-item priority-high">
+                <span class="priority-label">🔴 HIGH</span>
+                <span class="location">Lines 15-20</span>
+                <div class="issue">Introduction takes too long to reach main point</div>
+                <div class="original"><strong>Original:</strong> In every debate about love, freedom, identity, and rights, there is one question almost never asked: What about the children? Adults debate autonomy, equality, personal authenticity, and happiness. They craft sophisticated arguments for their choices, citing rights and freedoms.</div>
+                <div class="suggested"><strong>Suggested:</strong> In every debate about love, freedom, identity, and rights, one question goes unasked: What about the children? Adults craft sophisticated arguments citing rights and freedoms.</div>
+            </div>
+            <div class="recommendation-item priority-high">
+                <span class="priority-label">🔴 HIGH</span>
+                <span class="location">Lines 25-30</span>
+                <div class="issue">Redundant phrasing in consecutive sentences</div>
+                <div class="original"><strong>Original:</strong> This isn't just about ideas—it's about real children experiencing real suffering. Not just one generation—these wounds compound across generations, creating cascading destruction that threatens civilization itself.</div>
+                <div class="suggested"><strong>Suggested:</strong> This isn't about ideas—it's about children experiencing real suffering. These wounds compound across generations, creating cascading destruction that threatens civilization itself.</div>
+            </div>
+            <div class="recommendation-item priority-high">
+                <span class="priority-label">🔴 HIGH</span>
+                <span class="location">Lines 40-45</span>
+                <div class="issue">Over-explanation after point is made</div>
+                <div class="original"><strong>Original:</strong> The answer is devastating. Every single counterfeit harms children in predictable ways because each is missing essential components of God's Perfect Love.</div>
+                <div class="suggested"><strong>Suggested:</strong> The answer is devastating: every counterfeit harms children because it lacks essential components of God's Perfect Love.</div>
+            </div>
+            <div class="recommendation-item priority-high">
+                <span class="priority-label">🔴 HIGH</span>
+                <span class="location">Lines 85-90</span>
+                <div class="issue">Verbose section header explanation</div>
+                <div class="original"><strong>Original:</strong> Before examining how counterfeits fail, we must understand what children actually need. God's Perfect Love provides six essential inputs that produce life-giving communion for children:</div>
+                <div class="suggested"><strong>Suggested:</strong> God's Perfect Love provides six essential components children need for life-giving communion:</div>
+            </div>
+            <div class="recommendation-item priority-high">
+                <span class="priority-label">🔴 HIGH</span>
+                <span class="location">Lines 150-160</span>
+                <div class="issue">Major redundancy in abortion description</div>
+                <div class="original"><strong>Original:</strong> Abortion eliminates 60+ million children in America alone—an entire generation lost. Families that will never exist. Grandchildren never born. Bloodlines ended.</div>
+                <div class="suggested"><strong>Suggested:</strong> Abortion eliminates 60+ million children in America alone—entire bloodlines ended, families that will never exist.</div>
+            </div>
+            <div class="recommendation-item priority-high">
+                <span class="priority-label">🔴 HIGH</span>
+                <span class="location">Lines 185-190</span>
+                <div class="issue">Over-explanation of obvious point</div>
+                <div class="original"><strong>Original:</strong> Both deny fundamental truth, violate justice, pervert mercy (killing/mutilating instead of healing), and demand children sacrifice their lives or fertility for adult ideology.</div>
+                <div class="suggested"><strong>Suggested:</strong> Both deny truth, violate justice, pervert mercy, and sacrifice children for adult ideology.</div>
+            </div>
+            <div class="recommendation-item priority-high">
+                <span class="priority-label">🔴 HIGH</span>
+                <span class="location">Lines 240-245</span>
+                <div class="issue">Repetitive sentence structure</div>
+                <div class="original"><strong>Original:</strong> "Mom's house" and "Dad's house" replace "home." Holidays become negotiations. Children feel responsible for the breakup, guilty for loving both parents, anxious about the future.</div>
+                <div class="suggested"><strong>Suggested:</strong> "Mom's house" and "Dad's house" replace "home." Children feel responsible, guilty, anxious about the future.</div>
+            </div>
+            <div class="recommendation-item priority-high">
+                <span class="priority-label">🔴 HIGH</span>
+                <span class="location">Lines 285-290</span>
+                <div class="issue">Verbose summary repetition</div>
+                <div class="original"><strong>Original:</strong> All five distort truth (pretending commitment unnecessary, denying children's needs), violate justice (denying children's rights to stable family), pervert mercy (no perseverance, no healing), and demand children sacrifice their security for adult autonomy.</div>
+                <div class="suggested"><strong>Suggested:</strong> All five distort truth, violate justice, pervert mercy, and sacrifice children's security for adult autonomy.</div>
+            </div>
+            <div class="recommendation-item priority-high">
+                <span class="priority-label">🔴 HIGH</span>
+                <span class="location">Lines 340-350</span>
+                <div class="issue">Over-detailed example when point is clear</div>
+                <div class="original"><strong>Original:</strong> The father addicted to pornography cannot be fully present to his wife or children. His mind is elsewhere, his capacity for real intimacy destroyed. When the addiction is discovered, marriages crumble.</div>
+                <div class="suggested"><strong>Suggested:</strong> The father addicted to pornography cannot be present to his family. His capacity for intimacy is destroyed, marriages crumble.</div>
+            </div>
+            <div class="recommendation-item priority-high">
+                <span class="priority-label">🔴 HIGH</span>
+                <span class="location">Lines 420-425</span>
+                <div class="issue">Repetitive structure in examples</div>
+                <div class="original"><strong>Original:</strong> Bullying? Just a perspective. Murder? Just one narrative among many.</div>
+                <div class="suggested"><strong>Suggested:</strong> Bullying and murder become mere perspectives.</div>
+            </div>
+            <div class="recommendation-item priority-high">
+                <span class="priority-label">🔴 HIGH</span>
+                <span class="location">Lines 480-485</span>
+                <div class="issue">Over-explanation of clear concept</div>
+                <div class="original"><strong>Original:</strong> If humans are just matter, why does truth matter? Why sacrifice for others? Children experience moral intuitions but have no foundation for them.</div>
+                <div class="suggested"><strong>Suggested:</strong> If humans are just matter, why does anything matter? Children experience moral intuitions without foundation.</div>
+            </div>
+            <div class="recommendation-item priority-high">
+                <span class="priority-label">🔴 HIGH</span>
+                <span class="location">Lines 580-585</span>
+                <div class="issue">Verbose transition</div>
+                <div class="original"><strong>Original:</strong> The contrast is stark: Counterfeit love creates generational destruction, compounding wounds, and societal collapse. God's Perfect Love creates generational flourishing, compounding blessings, and societal renewal.</div>
+                <div class="suggested"><strong>Suggested:</strong> Counterfeit love creates generational destruction. God's Perfect Love creates generational flourishing.</div>
+            </div>
+            <div class="recommendation-item priority-high">
+                <span class="priority-label">🔴 HIGH</span>
+                <span class="location">Lines 650-655</span>
+                <div class="issue">Repetitive sentence structure in conclusion</div>
+                <div class="original"><strong>Original:</strong> Choose God's Perfect Love—not because it's easier (it requires sacrifice), not because it's popular (it's countercultural), but because it's the only love that gives children what they need to flourish.</div>
+                <div class="suggested"><strong>Suggested:</strong> Choose God's Perfect Love—not because it's easier or popular, but because it alone gives children what they need to flourish.</div>
+            </div>
+            <div class="recommendation-item priority-rec">
+                <span class="priority-label">🟡 RECOMMENDED</span>
+                <span class="location">Line 35</span>
+                <div class="issue">Weak verb construction</div>
+                <div class="original"><strong>Original:</strong> The test of any "love" is simple:</div>
+                <div class="suggested"><strong>Suggested:</strong> Any "love" must pass a simple test:</div>
+            </div>
+            <div class="recommendation-item priority-rec">
+                <span class="priority-label">🟡 RECOMMENDED</span>
+                <span class="location">Line 65</span>
+                <div class="issue">Throat-clearing phrase</div>
+                <div class="original"><strong>Original:</strong> None of this means children from broken homes are doomed.</div>
+                <div class="suggested"><strong>Suggested:</strong> Children from broken homes aren't doomed.</div>
+            </div>
+            <div class="recommendation-item priority-rec">
+                <span class="priority-label">🟡 RECOMMENDED</span>
+                <span class="location">Lines 70-75</span>
+                <div class="issue">Redundant explanation</div>
+                <div class="original"><strong>Original:</strong> The point isn't that imperfect families produce broken children. The point is that we should never deliberately deprive children of what they need.</div>
+                <div class="suggested"><strong>Suggested:</strong> The point is that we should never deliberately deprive children of what they need.</div>
+            </div>
+            <div class="recommendation-item priority-rec">
+                <span class="priority-label">🟡 RECOMMENDED</span>
+                <span class="location">Line 95</span>
+                <div class="issue">Redundant phrase</div>
+                <div class="original"><strong>Original:</strong> Children need to understand the world as it actually is.</div>
+                <div class="suggested"><strong>Suggested:</strong> Children need to understand reality.</div>
+            </div>
+            <div class="recommendation-item priority-rec">
+                <span class="priority-label">🟡 RECOMMENDED</span>
+                <span class="location">Line 120</span>
+                <div class="issue">Weak verb construction</div>
+                <div class="original"><strong>Original:</strong> Without sacrifice, children are abandoned when costly.</div>
+                <div class="suggested"><strong>Suggested:</strong> Without sacrifice, costly children get abandoned.</div>
+            </div>
+            <div class="recommendation-item priority-rec">
+                <span class="priority-label">🟡 RECOMMENDED</span>
+                <span class="location">Line 165</span>
+                <div class="issue">Redundant qualifier</div>
+                <div class="original"><strong>Original:</strong> irreversible medical interventions</div>
+                <div class="suggested"><strong>Suggested:</strong> medical interventions</div>
+            </div>
+            <div class="recommendation-item priority-rec">
+                <span class="priority-label">🟡 RECOMMENDED</span>
+                <span class="location">Line 220</span>
+                <div class="issue">Weak verb construction</div>
+                <div class="original"><strong>Original:</strong> Cohabiting couples break up at far higher rates</div>
+                <div class="suggested"><strong>Suggested:</strong> Cohabiting couples separate far more often</div>
+            </div>
+            <div class="recommendation-item priority-rec">
+                <span class="priority-label">🟡 RECOMMENDED</span>
+                <span class="location">Line 265</span>
+                <div class="issue">Redundant phrase</div>
+                <div class="original"><strong>Original:</strong> deliberately separated from biological parents</div>
+                <div class="suggested"><strong>Suggested:</strong> separated from biological parents</div>
+            </div>
+            <div class="recommendation-item priority-rec">
+                <span class="priority-label">🟡 RECOMMENDED</span>
+                <span class="location">Line 320</span>
+                <div class="issue">Redundant qualifier</div>
+                <div class="original"><strong>Original:</strong> completely eliminate their fertility</div>
+                <div class="suggested"><strong>Suggested:</strong> eliminate their fertility</div>
+            </div>
+            <div class="recommendation-item priority-rec">
+                <span class="priority-label">🟡 RECOMMENDED</span>
+                <span class="location">Line 380</span>
+                <div class="issue">Weak verb construction</div>
+                <div class="original"><strong>Original:</strong> When teachers tell children</div>
+                <div class="suggested"><strong>Suggested:</strong> When teachers inform children</div>
+            </div>
+            <div class="recommendation-item priority-rec">
+                <span class="priority-label">🟡 RECOMMENDED</span>
+                <span class="location">Line 450</span>
+                <div class="issue">Redundant phrase</div>
+                <div class="original"><strong>Original:</strong> Society cannot function without shared reality.</div>
+                <div class="suggested"><strong>Suggested:</strong> Society requires shared reality.</div>
+            </div>
+            <div class="recommendation-item priority-rec">
+                <span class="priority-label">🟡 RECOMMENDED</span>
+                <span class="location">Line 520</span>
+                <div class="issue">Redundant qualifier</div>
+                <div class="original"><strong>Original:</strong> Every child has infinite dignity from conception.</div>
+                <div class="suggested"><strong>Suggested:</strong> Every child has dignity from conception.</div>
+            </div>
+            <div class="recommendation-item priority-rec">
+                <span class="priority-label">🟡 RECOMMENDED</span>
+                <span class="location">Line 620</span>
+                <div class="issue">Throat-clearing phrase</div>
+                <div class="original"><strong>Original:</strong> The test of any "love" is simple:</div>
+                <div class="suggested"><strong>Suggested:</strong> Any "love" must pass this test:</div>
+            </div>
+        </div>
+    </div>
+
+    <h2>The following Issues Require Attention</h2>
+    <p>The following chapters require corrections before final approval:</p>
+
+    <div class="chapter-section failed">
+        <h3>chapter_15.md</h3>
+        <ol>
+            <li><strong>Introduction bloat:</strong> Takes too long to reach main point</li>
+            <li><strong>Redundant explanations:</strong> Multiple sentences making same point</li>
+            <li><strong>Verbose patterns:</strong> Weak verb + noun constructions throughout</li>
+            <li><strong>Throat-clearing phrases:</strong> Unnecessary qualifiers and hedging</li>
+            <li><strong>Over-explanation:</strong> Points belabored after being made clearly</li>
+        </ol>
+    </div>
+
+    <div class="conclusion">
+        <h2>Conclusion</h2>
+        <p>This manuscript has been reviewed with 9 validation checks across 1 chapters.
+        0 chapters passed all validations, while 1 chapters require attention as detailed in the sections above.</p>
+
+        <h3>Certification</h3>
+        <p>This validation report was generated using automated CONCISE review processes and provides
+        an assessment of the manuscript's compliance with established criteria.</p>
+    </div>
+
+    <div class="footer">
+        <p>Report prepared: December 13, 2025</p>
+        <p>Generated by: Catholic Chapter Reviewer</p>
+        <p>For submission to: Bishop's Office</p>
+        <p style="margin-top: 20px; font-size: 18px; color: var(--gold);">✟ Ad Maiorem Dei Gloriam ✟</p>
+    </div>
+</body>
+</html>
