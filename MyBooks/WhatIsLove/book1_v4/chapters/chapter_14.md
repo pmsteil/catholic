@@ -22,7 +22,7 @@ Modern culture floods us with competing definitions of love. "Love is love." "Lo
 
 We now have a diagnostic tool. Just as a jeweler tests gold against a standard, we can test any claim about love against our definition: **God's Perfect Love is the sacred gift of covenant binding truth, justice, mercy and sacrifice into life-giving communion.** If any component is missing or distorted, it's counterfeit—and counterfeits always cause harm.
 
-This chapter applies this diagnostic tool to twelve modern counterfeits, showing precisely what each eliminates or distorts, why it fails, and how God's Perfect Love provides the authentic good these counterfeits promise but cannot deliver. The pattern will become clear: **incomplete love isn't love at all**—it's a distortion that creates the very evils it claims to solve.
+This chapter applies this diagnostic tool to twelve modern counterfeits, showing precisely what each eliminates or distorts, why it fails, and how God's Perfect Love provides the authentic good these counterfeits promise but cannot deliver. **Incomplete love isn't love at all**—it's a distortion that creates the very evils it claims to solve.
 
 ---
 
@@ -81,7 +81,7 @@ The counterfeits we'll examine fall into three categories: **ideological** (worl
 
 **What's Missing:** Marxism recognizes injustice but eliminates mercy—no forgiveness for enemies, distorts sacrifice (channeling it toward violence), and destroys communion (creating division through class/gender/race/identity-based hatred). It appeals to envy rather than building authentic solidarity.
 
-**Why It Fails:** Over 100 million dead in the 20th century. Marxism creates resentment, not solidarity; violence, not peace; totalitarianism, not justice.
+**Why It Fails:** Tens of millions dead in the 20th century under Marxist regimes. Marxism creates resentment, not solidarity; violence, not peace; totalitarianism, not justice.
 
 **How Good Overcomes Evil:** God's Perfect Love establishes true justice through solidarity that recognizes every person's sacred dignity. It calls us to sacrificial love for all—including enemies—building communion through covenant rather than coercion. "Do not be overcome by evil, but overcome evil with good." (Romans 12:21).
 
@@ -245,7 +245,7 @@ Various atheistic philosophies propose alternative "highest goods," but each col
 
 **What's Missing:** Abortion denies the child's personhood and claims absolute autonomy over another person's body, destroying the sacred (killing the image-bearer), justice (denying the child's right to life), and life-giving communion (severing the parent-child bond through violence). The debate focuses on adult autonomy while ignoring the child's death—the ultimate injustice.
 
-**Why It Fails:** Over 60 million children dead in America alone. Mothers wounded. An entire generation eliminated. The "solution" to crisis pregnancy is killing the child—the opposite of love—confirming the truth that "the wages of sin is death."
+**Why It Fails:** Over 60 million children dead in America since 1973. Mothers wounded. An entire generation eliminated. The "solution" to crisis pregnancy is killing the child—the opposite of love—confirming the truth that "the wages of sin is death."
 
 **How Good Overcomes Evil:** God's Perfect Love recognizes every human life as sacred gift from conception, calling parents to welcome and protect life through sacrifice—even when costly or inconvenient. "Before I formed you in the womb I knew you, and before you were born I consecrated you; I appointed you a prophet to the nations" (Jeremiah 1:5). Authentic love is ordered to life and builds communion across generations, providing support for mothers in crisis rather than eliminating their children.
 
@@ -307,6 +307,8 @@ Various atheistic philosophies propose alternative "highest goods," but each col
 
 **Why It Fails:** Scripture explicitly contradicts it: "You see that a man is justified by works and not by faith alone" (James 2:24). Faith that doesn't transform the whole person and bear fruit in acts of justice, mercy, and sacrifice is not authentic faith.
 
+**A Note on Ecumenical Dialogue:** The 1999 *Joint Declaration on the Doctrine of Justification* between the Catholic Church and the Lutheran World Federation achieved significant consensus on justification, affirming that "by grace alone, in faith in Christ's saving work and not because of any merit on our part, we are accepted by God." Catholics and many Protestants agree that saving faith necessarily produces good works. The counterfeit addressed here is the more extreme position that separates faith entirely from its fruits—a position that even many Protestant traditions reject.
+
 **The Larger Context:** Grace is God's Perfect Love poured into our hearts. Christ's saving work is the perfect integration of truth, justice, mercy, and sacrifice displayed on the Cross. Justification exists within this larger reality—God's grace to justify is one moment within His Perfect Love that begins with Him as Author of Love and ends with Him as our eternal Communion.
 
 **How Good Overcomes Evil:** God's Perfect Love works through "For in Christ Jesus neither circumcision nor uncircumcision is of any avail, but faith working through love" (Galatians 5:6). Authentic faith transforms the whole person and bears fruit in acts of justice, mercy, and sacrifice, because love is not just believed but lived. "Not every one who says to me, 'Lord, Lord,' shall enter the kingdom of heaven, but he who does the will of my Father who is in heaven" (Matthew 7:21).
@@ -335,7 +337,7 @@ Various atheistic philosophies propose alternative "highest goods," but each col
 
 **What's Missing:** "Bible alone" makes each person their own interpretive authority, destroying truth (contradictory interpretations), covenant (no binding Church authority), and communion (endless division). This division provides terrible witness to the world—dividing Christ himself and bolstering postmodernist claims that there is no objective truth.
 
-**Why It Fails:** Thousands of Protestant denominations, each claiming biblical authority. Scripture spans thousands of years, multiple languages, diverse cultures, and complex theological connections—expecting each individual to master all this without authoritative guidance is like expecting every scientist to rediscover calculus and derive quantum mechanics before conducting a single experiment. The result: contradictory interpretations, doctrinal chaos, and endless division with no mechanism to resolve disputes.
+**Why It Fails:** Thousands of Protestant denominations, each claiming biblical authority. Scripture spans thousands of years, multiple languages, diverse cultures, and complex theological connections—expecting each individual to achieve interpretive certainty without authoritative guidance places an impossible burden on private judgment. The result: contradictory interpretations, doctrinal chaos, and endless division with no mechanism to resolve disputes.
 
 **How Good Overcomes Evil:** God's Perfect Love transmits truth through Scripture, Sacred Tradition, and the Magisterium (the teaching authority given by Jesus to teach all nations everything He commanded) working together—this three-legged stool ensures faithful interpretation, maintains covenant unity under apostolic authority, and preserves communion across time and cultures. "I hope to come to you soon, but I am writing these instructions to you so that, if I am delayed, you may know how one ought to behave in the household of God, which is the church of the living God, the pillar and bulwark of the truth" (1 Timothy 3:14-15).
 
@@ -413,3 +415,4 @@ Twelve counterfeits. Twelve failures of this test. Only God's Perfect Love passe
 - **Pope Benedict XVI:** *Deus Caritas Est*—God is love, authentic vs. counterfeit
 - **Peter Kreeft:** *Making Sense Out of Suffering*—The problem of evil and love's answer
 - **J. Budziszewski:** *What We Can't Not Know*—Natural law and moral knowledge
+- **Jonathan Haidt:** *The Righteous Mind* and *The Anxious Generation*—Moral psychology and how digital culture shapes (and distorts) moral formation

@@ -22,7 +22,7 @@ Adults debate autonomy, equality, personal authenticity, and happiness. They cra
 
 This isn't about ideas—it's about children experiencing real suffering. These wounds compound across generations, creating cascading destruction that threatens civilization itself.
 
-Any "love" must pass a simple test: **Does it give children what they need to flourish?** The previous chapter examined counterfeits and what each is missing. Now we apply the ultimate test: What do they do to children? The answer is devastating: every counterfeit harms children because it lacks essential components of God's Perfect Love.
+Any "love" must pass a simple test: **Does it give children what they need to flourish?** The previous chapter examined fifteen counterfeits and identified exactly what each is missing from God's Perfect Love. Now we apply the ultimate test: What do they do to children? The answer is devastating: every counterfeit harms children because it lacks essential components of God's Perfect Love.
 
 Jesus' words are uncompromising: causing little ones to stumble merits the harshest judgment. Their angels behold the Father's face. Children are not collateral damage in adult ideological battles—they are persons with sacred dignity, rights, and needs that authentic love must protect and nurture.
 
@@ -36,7 +36,7 @@ Children from broken homes aren't doomed. God's grace can redeem any situation. 
 
 God's Perfect Love provides six essential components children need for life-giving communion:
 
-**1. Truth - Knowing Reality:** Children need to understand reality. "Train up a child in the way he should go, and when he is old he will not depart from it" (Proverbs 22:6). Confusion creates anxiety and inability to navigate life. God's Perfect Love provides objective truth grounded in God's design. Wonder why anxiety is rampant today?
+**1. Truth - Knowing Reality:** Children need to understand reality. "Train up a child in the way he should go, and when he is old he will not depart from it" (Proverbs 22:6). Confusion creates anxiety and inability to navigate life. God's Perfect Love provides objective truth grounded in God's design. Is it any wonder that anxiety is rampant among the young today?
 
 **2. Justice - Security and Protection:** Children need to know they have rights, dignity, and protection. "Give justice to the weak and the fatherless; maintain the right of the afflicted and the destitute" (Psalm 82:3). Without justice, children are vulnerable to exploitation. God's Perfect Love provides recognition of sacred dignity, rights to mother and father, and protection through covenant.
 
@@ -71,7 +71,7 @@ We can map exactly what's missing from each counterfeit—and see precisely how 
 
 These two counterfeits represent the ultimate harm to children: denying their very existence or their future ability to exist. Adults debate autonomy and identity while children suffer death or sterilization.
 
-Abortion eliminates 60+ million children in America alone—entire bloodlines ended, families that will never exist, grandchildren never born. The child's right to life—the most fundamental justice—is denied completely. Adults avoid the cost of parenthood through the ultimate sacrifice: the child's life—child sacrifice. This is the exact inversion of Christ's love: instead of the strong sacrificing for the weak, the weak are sacrificed for the strong.
+Abortion eliminates 60+ million children in America alone—entire bloodlines ended, families that will never exist, grandchildren never born. The child's right to life—the most fundamental justice—is denied completely. Adults avoid the cost of parenthood through the ultimate sacrifice: the child's life—child sacrifice, echoing the ancient horrors God condemned (Leviticus 18:21). This is the exact inversion of Christ's love: instead of the strong sacrificing for the weak, the weak are sacrificed for the strong.
 
 Gender ideology sterilizes children before they can understand the permanent consequences, destroying their future as parents. Children are told their bodies are wrong, that biological reality is negotiable. They undergo irreversible medical interventions that eliminate their fertility. Adults celebrate "authenticity" while children lose the ability to create the next generation.
 
@@ -90,7 +90,7 @@ Both deny truth, violate justice, pervert mercy, and sacrifice children for adul
 
 **The Generational Impact:**
 
-Five counterfeits systematically destroy the family structure children depend upon for security and formation. The pattern is clear: adults debate their rights to happiness, autonomy, and self-definition while children suffer the shattering of their world.
+Four counterfeits systematically destroy the family structure children depend upon (with divorce affecting children in particularly acute ways). The pattern is clear: adults debate their rights to happiness, autonomy, and self-definition while children suffer the shattering of their world.
 
 Cohabitation refuses binding promises, leaving children vulnerable to abandonment. Cohabiting couples separate far more often than married couples. Children never know if their family will exist tomorrow. They learn that commitment is optional, promises are negotiable, and love doesn't require sacrifice.
 
@@ -98,7 +98,7 @@ Divorce breaks the covenant children depend upon, forcing them to shuttle betwee
 
 Same-sex "marriage" intentionally deprives children of either mother or father. Children are purchased through surrogacy or artificial insemination, separated from biological parents, denied the complementary love that only the union of man and woman provides. Adults claim "love is love" while children pay the price of motherlessness or fatherlessness by design.
 
-All five distort truth, violate justice, pervert mercy, and sacrifice children's security for adult autonomy.
+All four distort truth, violate justice, pervert mercy, and sacrifice children's security for adult autonomy.
 
 **Generational impact:** Children who never learn covenant fidelity repeat the pattern, creating cascading family breakdown across generations. The domestic church—the first school of love—is shattered, leaving children unable to form their own stable families.
 
@@ -187,7 +187,7 @@ There is only one form of love that gives children everything they need to flour
 
 **Second Generation:** First generation children become parents who know how to love. Pass on authentic love to their children. Build strong families that strengthen community. Result: Virtuous cycle of flourishing families.
 
-**Third Generation and Beyond:** Multiple generations of strong families transform society. Common good built through countless acts of sacrificial love. Culture that protects children, honors families, seeks truth. Result: Civilization of love.
+**Third Generation and Beyond:** Multiple generations of strong families transform society. Common good built through countless acts of sacrificial love. Culture that protects children, honors families, seeks truth. Result: Civilization of love. Consider the Kolbe family: St. Maximilian's parents modeled sacrificial faith, he gave his life for a stranger at Auschwitz, and his witness has inspired countless families across generations to embrace heroic love.
 
 <div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
 Counterfeit love creates generational destruction. God's Perfect Love creates generational flourishing.

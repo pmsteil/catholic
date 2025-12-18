@@ -107,15 +107,7 @@ God does not treat all sins the same. Some Christians claim "all sin is equal" a
 
 ### **A Common Misinterpretation of Scripture:**
 
-Those who claim all sin is equal often cite these verses:
-
-**James 2:10:** *"For whoever keeps the whole law but fails in one point has become guilty of all of it."*
-
-**Isolated reading:** James 2:10 alone might suggest all sins are equally serious. **Fuller reading in context:** James is teaching that breaking any commandment makes us lawbreakers—we can't pick and choose. But James 2:11 shows he's arguing against selective obedience, not claiming adultery and murder are equally grave. Breaking the speed limit and murder both make you a lawbreaker, but the gravity is vastly different.
-
-**Romans 3:22-23:** *"For there is no distinction; since all have sinned and fall short of the glory of God..."* **Fuller reading:** Paul is teaching that all humans need redemption, not claiming we're perpetually in mortal sin. Later in Romans, Paul teaches we can **"walk in newness of life"** (Romans 6:4) and be **"dead to sin and living for God"** (Romans 6:11). We're called to growth in holiness.
-
-**1 John 1:8:** *"If we say we have no sin, we deceive ourselves, and the truth is not in us."* **Fuller reading:** John is warning against claiming sinless perfection. But he immediately follows with: *"If we confess our sins, he is faithful and just, and will forgive our sins and cleanse us from all unrighteousness"* (1 John 1:9). We can be forgiven and restored. John explicitly distinguishes between deadly and non-deadly sin (1 John 5:16-17).
+Those who claim all sin is equal often cite James 2:10 ("whoever fails in one point has become guilty of all") or Romans 3:23 ("all have sinned"). But context reveals their true meaning: James argues against *selective* obedience, not equal gravity—breaking the speed limit and murder both make you a lawbreaker, but the gravity differs vastly. Paul teaches that all need redemption, not that all remain in mortal sin—he later calls us to "walk in newness of life" (Romans 6:4). And when John warns "if we say we have no sin, we deceive ourselves" (1 John 1:8), he immediately adds that confession brings forgiveness (1 John 1:9)—and explicitly distinguishes between deadly and non-deadly sin (1 John 5:16-17).
 
 ### **Jesus Himself Teaches We Can Choose Good:**
 
@@ -299,15 +291,7 @@ The same pattern applies to **anger** (brief irritation vs. nursing hatred), **g
 
 ## The Seven Deadly Sins: Capital Vices That Lead to Death
 
-The Seven Deadly Sins (also called Capital Vices) are called "deadly" not because every instance is automatically mortal, but because **they are the root sources (capita = head) from which other sins spring.** They are spiritual diseases that, if left unchecked, progressively destroy our relationship with God, neighbor, and self.
-
-### **Why They're Called "Deadly":**
-
-1. **They kill spiritual life when fully embraced:** When we give ourselves over to pride, greed, lust, anger, gluttony, envy, or sloth, we turn away from God and toward created things as our ultimate good. This is idolatry—a mortal sin.
-
-2. **They lead to other mortal sins:** Each capital vice spawns a family of related sins. Pride leads to disobedience and blasphemy. Greed leads to theft and exploitation. Lust leads to adultery and pornography. They are gateways to grave sin.
-
-3. **They progressively harden the heart:** The more we indulge these vices, the more difficult it becomes to resist them. They form habits that cloud our judgment, weaken our will, and make mortal sin more likely.
+The Seven Deadly Sins (Capital Vices) are called "deadly" because they are *root sources* (capita = head) from which other sins spring—spiritual diseases that progressively destroy our relationship with God, neighbor, and self. When fully embraced, they become idolatry; they spawn families of related sins; and they progressively harden the heart, making mortal sin more likely.
 
 ### **What Each Deadly Sin Leads To:**
 
@@ -385,22 +369,11 @@ Circumstances affect gravity:
 
 **Here is the great mercy:** God has given us the Sacrament of Reconciliation (Confession) so that we can be absolved of mortal sins and restored to a state of grace.
 
-### **What Mortal Sin Does:**
+### **What Mortal Sin Does—and What Confession Restores:**
 
-Mortal sin **kills** our relationship with God:
-- Destroys sanctifying grace
-- Breaks communion with Trinity and Church
-- Makes us unable to receive Communion worthily
-- If unrepented at death, leads to eternal separation from God
+Mortal sin **kills** our relationship with God: it destroys sanctifying grace, breaks communion with the Trinity and the Church, renders us unable to receive Communion worthily, and—if unrepented at death—leads to eternal separation from God.
 
-### **What Confession Does:**
-
-Through the Sacrament of Reconciliation:
-- **Sanctifying grace is restored:** We are brought back to life spiritually
-- **Communion with God is reestablished:** Our relationship with the Trinity is healed
-- **Communion with the Church is restored:** We are reconciled with the Body of Christ
-- **We can receive Communion again:** Worthily partaking in the Eucharist
-- **We receive grace to avoid sin in the future:** Sacramental grace strengthens us against temptation
+But here is the great mercy: through the Sacrament of Reconciliation, sanctifying grace is restored and we are brought back to life spiritually. Our communion with God is reestablished, our relationship with the Church is restored, we can receive Communion worthily again, and we receive grace to avoid sin in the future.
 
 ### **The Three Acts of the Penitent:**
 
@@ -561,15 +534,11 @@ Understanding the distinction between mortal and venial sin is not meant to make
 
 ### **The Good News:**
 
-By God's grace, we can learn to avoid mortal sins, reduce venial sins, choose good consistently, and grow in holiness until we become saints.
-
-We cannot be sinless as Jesus was, but we can always choose good over evil with God's grace, avoid mortal sins through vigilance and the sacraments, and become saints by cooperating with grace.
-
-St. Paul himself testifies to this growth: **"Not that I have already obtained this or am already perfect; but I press on to make it my own, because Christ Jesus has made me his own"** (Philippians 3:12).
+We cannot be sinless as Christ was, but by cooperating with grace we can avoid mortal sin and become saints. St. Paul testifies: **"Not that I have already obtained this or am already perfect; but I press on to make it my own, because Christ Jesus has made me his own"** (Philippians 3:12).
 
 ### **The Saints Prove It's Possible:**
 
-The saints demonstrate that heroic virtue is possible—not through our own power, but through God's grace working in us:
+Heroic virtue is possible—not through our own power, but through God's grace:
 - St. Mary Magdalene: From grave sinner to great saint
 - St. Augustine: From dissolute life to Doctor of the Church
 - St. Francis of Assisi: From worldly pleasure to perfect poverty
@@ -609,9 +578,9 @@ This chapter reveals the profound mercy and justice of God:
 
 **His Wisdom:** He gave us the Church to teach us what constitutes grave matter, so we can avoid mortal sin. This is wise.
 
-**His Love:** He gives us grace to grow in holiness, avoid sin, and become saints. This is perfect love.
+**His Love:** He gives us grace to grow in holiness, avoid sin, and become saints.
 
-The four pillars of perfect love—truth, justice, mercy, and sacrifice—provide the framework for understanding both virtue and vice, both holiness and sin. When we live these pillars, we grow in sanctity. When we deny them, we fall into sin.
+When we live the four pillars—truth, justice, mercy, sacrifice—we grow in sanctity. When we deny them, we fall into sin.
 
 **Sin also breaks covenant and destroys communion.** Every mortal sin ruptures our covenant relationship with God—the sacred bond established in Baptism. It severs us from life-giving communion with the Trinity, with the Church, and even with our true selves. This is why the Sacrament of Reconciliation is so essential: it restores the covenant and rebuilds the communion that sin has destroyed.
 
