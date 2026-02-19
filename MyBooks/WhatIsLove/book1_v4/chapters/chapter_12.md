@@ -22,13 +22,17 @@
 
 ## Introduction: Every Virtue Flows from Perfect Love
 
-Having established that love is not merely subjective sentiment but an objective moral law—grounded in God's nature as Love itself—we now see the practical implications. If virtues are habits that align us with God's nature as Love, then **every virtue should uphold and flow from the four pillars of perfect love (Truth, Justice, Mercy, and Sacrifice).**
+Having established that love is not merely subjective sentiment but the law of the Gospel—grounded in God's nature as Love itself—we now see the practical implications. But first, we need to understand what a virtue actually is.
+
+**A virtue is a habitual and firm disposition to do good.** It's not just knowing what's right—it's having trained yourself through repeated practice to consistently choose the good. Virtues are like spiritual muscles: the more you exercise them, the stronger they become. The Catechism teaches that "Human virtues are firm attitudes, stable dispositions, habitual perfections of intellect and will that govern our actions, order our passions, and guide our conduct according to reason and faith" (CCC 1804).
+
+If virtues are habits that align us with God's nature as Love, then **every virtue should uphold and flow from the four pillars of perfect love (Truth, Justice, Mercy, and Sacrifice).**
 
 Consider a mother who stays up all night with a sick child. In that single act, she embodies truth (acknowledging her child's real need), justice (fulfilling her duty as a parent), mercy (responding with compassion rather than irritation), and sacrifice (giving up her own rest for another's good). This is virtue in action—the four pillars integrated in a concrete act of love.
 
 And that's exactly what we discover across all the virtues. They aren't arbitrary rules imposed from outside—they're the natural expression of God's law written on our hearts. Each virtue flows from and serves these four pillars, showing us how to live according to God's nature as Love.
 
-The matrix below shows which pillar(s) each virtue primarily relates to. A "✓" indicates the virtue primarily upholds that pillar.
+The matrix below shows which facets of love each virtue actively engages when practicing the virtue. A "✓" indicates the virtue primarily upholds that facet.
 
 ---
 
@@ -69,15 +73,13 @@ The matrix below shows which pillar(s) each virtue primarily relates to. A "✓"
 
 *Every* virtue ultimately relates to all four pillars—since every virtue is an expression of love, and love is God, who is perfectly simple and undivided. This is true in the deepest sense. However, the matrix highlights where each virtue *primarily operates*—its most direct and immediate relationship to the pillars. Think of it as asking: "When I practice this virtue, which pillars am I most consciously engaging?"
 
-Certain virtues—Charity/Love, Prudence, Wisdom, Humility—have checkmarks across all four pillars. These are **integrative virtues** that by their very nature require the harmonious exercise of truth, justice, mercy, and sacrifice together.
+Certain virtues—Charity/Love, Prudence, Wisdom, Humility—have checkmarks across all four pillars. These virtues interpenetrate one another; they are integrated. They are, in the deepest sense, holy—wholly God's, wholly undivided, participating in the very simplicity of God who is Love.
 
-Charity (caritas in Latin, agape in Greek) is the supreme virtue. As the Catechism teaches: "The practice of all the virtues is animated and inspired by charity, which 'binds everything together in perfect harmony'; it is the form of the virtues; it articulates and orders them among themselves; it is the source and the goal of their Christian practice" (CCC 1827). You cannot truly love without truth, justice, mercy, and sacrifice. Prudence requires truth to see reality clearly, justice to discern what's owed, mercy to temper judgment, and sacrifice to choose the good even when costly. Wisdom sees how all things fit together in God's plan, requiring all four pillars.
-
-By contrast, virtues like Chastity primarily relate to truth, justice, and sacrifice, but don't directly involve mercy in the same way. This doesn't make chastity less important—it simply means its primary focus is on three of the four pillars rather than all four.
+Charity (caritas in Latin, agape in Greek) is the supreme virtue. As the Catechism teaches: "The practice of all the virtues is animated and inspired by charity, which 'binds everything together in perfect harmony' (Colossians 3:14); it is the form of the virtues; it articulates and orders them among themselves; it is the source and the goal of their Christian practice" (CCC 1827). You cannot truly love without truth, justice, mercy, and sacrifice. Prudence requires truth to see reality clearly, justice to discern what's owed, mercy to temper judgment, and sacrifice to choose the good even when costly. Wisdom sees how all things fit together in God's plan, requiring all four pillars.
 
 **Why doesn't Faith have a checkmark under Mercy?** Faith is primarily about *assent to truth* (believing what God has revealed) and *trust in God's promises*. Yes, faith receives God's mercy—we trust in His merciful love toward us. But the matrix asks: which pillars does practicing this virtue *actively engage toward others*? Faith receives mercy; charity *extends* mercy. When you forgive your enemy, that's charity at work. When you trust that God will forgive you, that's faith. The checkmarks indicate where each virtue *primarily operates outward*, not what it receives.
 
-**Virtues also serve covenant and communion.** Faithfulness, chastity, and obedience preserve covenant bonds. Kindness, generosity, and patience build life-giving communion with others. Every virtue, rightly understood, serves the complete definition of perfect love.
+**Virtues also serve covenant and communion.** Faithfulness, chastity, and obedience preserve covenant bonds. Kindness, generosity, and patience build life-giving communion with others. Every virtue, rightly understood, serves the complete definition of God's perfect love.
 
 The pattern reveals: **The more comprehensive and integrative a virtue is, the more it engages all four pillars of perfect love.** This confirms that our definition captures the essence of authentic Christian virtue.
 
@@ -91,7 +93,7 @@ This is what it means to love God with all your heart, soul, mind, and strength�
 
 Just as every virtue upholds the four pillars, **every vice denies or distorts them.** Pride denies the truth of our dependence on God. Greed violates justice by hoarding what others need. Wrath refuses mercy. Sloth rejects sacrifice. The next chapter examines vices in detail, showing how sin is fundamentally a failure to love—and how God's mercy provides the path to restoration.
 
-**Virtue and vice are not arbitrary categories.** They flow from the same source—our relationship to perfect love. When we embrace the four pillars, we grow in virtue. When we deny them, we fall into vice.
+**Virtue and vice are not arbitrary categories.** They flow from the same source—our relationship to God's perfect love. When we embrace the four pillars, we grow in our love for Christ. When we reject them, we reject Christ.
 
 ---
 
@@ -103,9 +105,9 @@ St. Paul warns: **"if I have all faith, so as to remove mountains, but have not 
 
 Notice the word: *justification*. It shares the same root as *justice*—the Latin *iustus*, meaning "right" or "just." To be justified is to be **made right with God**—restored to the relationship of love for which we were created.
 
-Many Christians treat justification as legal fiction—God declaring us "not guilty" while we remain unchanged, like a judge stamping "ACQUITTED" on a criminal's file while the criminal walks out the same person he walked in. This is the error of "imputed righteousness."
+Many Christians treat justification as legal fiction—God declaring us "not guilty" while we remain unchanged, like a judge stamping "ACQUITTED" on a criminal's file while the criminal walks out the same person he walked in. This is the incomplete view of "imputed righteousness."
 
-The Catholic Church and Sacred Scripture teach something far more beautiful—and far more demanding. Justification is "not only the remission of sins, but also the sanctification and renewal of the interior man" (Council of Trent, Session 6, Chapter 7). God doesn't just *declare* us righteous—He actually *makes* us righteous. He transforms us from within, healing our disordered desires so we can love as He loves.
+The Catholic Church and Sacred Scripture teach something far more beautiful. Justification is "not only the remission of sins, but also the sanctification and renewal of the interior man" (Council of Trent, Session 6, Chapter 7). God doesn't just *declare* us righteous—He actually *makes* us righteous. He transforms us from within, healing our disordered desires so we can love as He loves.
 
 **This is why justification is inseparable from justice.** God's justice isn't about punishment—it's about *right relationship*. He created us for perfect love, and sin breaks that relationship. Justification is God restoring us to what we were meant to be: people who genuinely live in "holy communion" with Him—because grace has transformed our hearts.
 
@@ -129,7 +131,7 @@ And consider Jesus' own teaching about the final judgment. In Matthew 25, when t
 
 Grace doesn't excuse us from cooperation; grace *enables* our cooperation—for the salvation of our own souls and the world.
 
-The prophet Micah summarized what God requires: **"He has told you, O man, what is good; and what does the Lord require of you but to do justice, and to love mercy, and to walk humbly with your God?"** (Micah 6:8). And Jesus made the cost clear: **"If any man would come after me, let him deny himself and take up his cross daily and follow me"** (Luke 9:23). Justification is not a one-time event—it's God actually saving you, transforming you into someone capable of perfect love. And that transformation requires your daily cooperation.
+The prophet Micah summarized what God requires: **"He has told you, O man, what is good; and what does the Lord require of you but to do justice, and to love mercy, and to walk humbly with your God"** (Micah 6:8). And Jesus made the cost clear: **"If any man would come after me, let him deny himself and take up his cross daily and follow me"** (Luke 9:23). Justification is not a one-time event—it's God actually saving you, transforming you into someone capable of perfect love. And that transformation requires your daily cooperation.
 
 Jesus commands us: **"You, therefore, must be perfect, as your heavenly Father is perfect"** (Matthew 5:48). The Cross reveals what this perfection looks like: Truth ("I am the way, and the truth, and the life"—John 14:6), Justice (satisfaction for sin), Mercy (forgiveness freely offered), and Sacrifice (total self-gift unto death). When we embrace these four pillars, we participate in God's saving work.
 
@@ -168,13 +170,13 @@ This integration is why virtue cannot be reduced to following rules. The Pharise
 
 ### Practical Application
 
-This week, examine your life through the lens of the four pillars:
+Examine your life through the lens of the four pillars:
 - **Truth:** Where am I deceiving myself or others?
 - **Justice:** What duties am I neglecting? What do I owe God, family, neighbor?
 - **Mercy:** Whom have I refused to forgive? Where is my heart hardened?
 - **Sacrifice:** Where am I choosing comfort over what is right?
 
-Identify one virtue to focus on. Ask: Which pillar does it serve? How can I practice it concretely this week? Choose the area where you felt the most conviction—that discomfort often signals where God is calling you to grow.
+Identify one virtue to focus on. Ask: Which pillar does it serve? How can I practice it concretely? What Scripture, saint, or Church writing can help me understand and love this virtue more fully? Choose the area where you felt the most conviction—that discomfort often signals where God is calling you to grow.
 
 **This is what it means to become a saint: to love the Lord your God with all your heart, soul, mind, and strength—and your neighbor as yourself. It means letting God's perfect love transform you completely, so that every thought, word, and deed flows from and returns to perfect love.**
 

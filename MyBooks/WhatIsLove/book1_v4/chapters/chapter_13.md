@@ -297,13 +297,13 @@ The Seven Deadly Sins (Capital Vices) are called "deadly" because they are *root
 
 The matrix above shows which pillars each deadly sin offends. Here's what each leads to when left unchecked:
 
-- **Pride** → Disobedience, presumption, contempt for others, spiritual blindness
-- **Greed** → Theft, fraud, exploitation, hardness of heart toward the needy
-- **Lust** → Pornography, adultery, fornication, exploitation, broken families
-- **Wrath** → Violence, murder, hatred, revenge, broken relationships
-- **Sloth** → Neglect of prayer, abandonment of duties, spiritual lukewarmness, despair
-- **Envy** → Detraction, slander, schadenfreude, hatred, division
-- **Gluttony** → Drunkenness, addiction, neglect of others, health problems, spiritual dullness
+- **Pride** → Idolatry, selfishness, ingratitude, disobedience, presumption, contempt for others, spiritual blindness
+- **Greed** → Exploitation, fraud, theft, hardness of heart toward the needy
+- **Lust** → Adultery, fornication, pornography, exploitation, broken families
+- **Wrath** → Murder, war, violence, hatred, revenge, broken relationships
+- **Sloth** → Despair, abandonment of duties, neglect of prayer, spiritual lukewarmness
+- **Envy** → Jealousy, hatred, slander, detraction, joy at another's misfortune, division
+- **Gluttony** → Addiction, drunkenness, neglect of others, health problems, spiritual dullness
 
 ### **The Progressive Nature of Deadly Sin:**
 
@@ -316,7 +316,7 @@ The deadly sins typically follow this pattern:
 5. **Mortal Sin:** Eventually leads to grave matter with full consent
 6. **Spiritual Death:** Complete separation from God if unrepented
 
-**This is why we must resist these vices at the earliest stages.** What begins as a small indulgence can grow into a deadly habit that destroys our souls.
+**This is why we must resist these vices at the earliest stages.** What begins as a small giving-in can grow into a deadly habit that destroys our souls. This is precisely why St. Paul distinguishes between mortal and venial sin: it honors the truth of human dignity both for the offender and the offended. To equate a momentary lustful glance with the sin of murder is unjust and unmerciful—which makes it untrue. None of these conditions could arise from a God who is all truth and mercy.
 
 ---
 
@@ -377,7 +377,7 @@ But here is the great mercy: through the Sacrament of Reconciliation, sanctifyin
 
 ### **The Three Acts of the Penitent:**
 
-1. **Contrition:** Sorrow for sin and firm purpose of amendment
+1. **Contrition:** Sorrow for sin and a firm resolve to turn away from it
    - Perfect contrition: Sorrow because we offended God whom we love
    - Imperfect contrition: Sorrow because we fear hell or loss of heaven
    - Both are valid, but perfect contrition is more meritorious
@@ -385,7 +385,7 @@ But here is the great mercy: through the Sacrament of Reconciliation, sanctifyin
 2. **Confession:** Telling our sins to the priest
    - Must confess all mortal sins by number and kind
    - Should confess venial sins for spiritual growth
-   - The priest acts *in persona Christi* (in the person of Christ)
+   - The priest acts *in persona Christi* (in the person of Christ), with the authority given by Christ to the disciples in John 20:21–23—absolving sins in the name and authority of the Trinity, not by his own power
 
 3. **Satisfaction:** Doing the penance assigned
    - Makes reparation for harm done
@@ -476,55 +476,87 @@ For each sin identified, ask:
    - Or was I coerced, overcome by passion, or acting compulsively?
    - Did I have full freedom of will?
 
-**If all three conditions are present: MORTAL SIN → Go to confession before receiving Communion**
-
-**If any condition is absent or significantly diminished: VENIAL SIN → Still confess for spiritual growth**
+When all three conditions are present, the sin is mortal—it severs our relationship with God, and we must go to confession before receiving Communion. When any condition is absent or significantly diminished, the sin is venial—it wounds but does not kill our relationship with God. Venial sins should still be brought to confession for spiritual growth and healing.
 
 ### **A Simple Examination Based on the Ten Commandments:**
 
-**First Commandment (No other gods):**
+**First Commandment (No other gods):** *(Violates: Truth about God's primacy, Justice owed to God, Sacrifice of total devotion)*
 - Have I made idols of money, pleasure, power, or created things?
 - Have I practiced superstition, divination, or occult activities?
 - Have I denied my faith or been ashamed of being Catholic?
 
-**Second Commandment (Don't take God's name in vain):**
+*Idolatry and apostasy, heresy, and schism are the gravest offenses against this commandment.*
+
+*See Also: Exodus 20:2-6; CCC 2084-2141*
+
+**Second Commandment (Don't take God's name in vain):** *(Violates: Truth about God's holiness, Justice owed to God's name)*
 - Have I used God's name irreverently or blasphemed?
 - Have I broken vows or oaths made in God's name?
 - Have I cursed others in God's name?
 
-**Third Commandment (Keep holy the Sabbath):**
-- Have I missed Mass on Sunday or Holy Days without serious reason?
-- Have I done unnecessary work on Sunday that prevented rest and worship?
+*See Also: Exodus 20:7; CCC 2142-2167*
+
+**Third Commandment (Keep holy the Sabbath):** *(Violates: Truth about worship, Justice owed to God, Sacrifice of time)*
+- Have I missed Mass on Sunday or Holy Days without serious reason or permission from my parish priest?
+- Have I done unnecessary work on Sunday that prevented rest, worship, and building of family relationships?
 - Have I treated Sunday as just another day?
 
-**Fourth Commandment (Honor father and mother):**
+*See Also: Exodus 20:8-11; CCC 2168-2195*
+
+**Fourth Commandment (Honor father and mother):** *(Violates: Truth about family covenant, Justice owed to parents/children, Mercy toward family)*
 - Have I disobeyed or disrespected my parents?
 - Have I neglected my duties to my children or family?
 - Have I failed to care for elderly parents?
 
-**Fifth Commandment (Don't kill):**
+*See Also: Exodus 20:12; CCC 2196-2257*
+
+**Fifth Commandment (Don't murder):** *(Violates: Truth about human dignity, Justice owed to life, Mercy toward the vulnerable)*
 - Have I murdered, assaulted, or seriously harmed anyone?
 - Have I supported or procured abortion?
 - Have I been cruel, violent, or abusive?
 - Have I harbored hatred or wished harm on others?
 
-**Sixth and Ninth Commandments (Chastity):**
+*See Also: Exodus 20:13; CCC 2258-2330*
+
+**Sixth Commandment (Don't commit adultery):** *(Violates: Truth about sexuality, Justice owed to spouse/self/children, Sacrifice of self-control)*
 - Have I committed adultery or fornication?
 - Have I used pornography or engaged in masturbation?
 - Have I entertained impure thoughts deliberately?
 - Have I been immodest or led others into sexual sin?
 
-**Seventh and Tenth Commandments (Don't steal/covet):**
+*See Also: Exodus 20:14; CCC 2331-2400*
+
+**Ninth Commandment (Don't covet your neighbor's wife):** *(Violates: Truth about purity of heart, Justice owed to marriage, Sacrifice of self-control)*
+- Have I entertained lustful desires for someone other than my spouse?
+- Have I deliberately fostered impure thoughts or fantasies?
+- Have I failed to guard my heart and eyes from occasions of lust?
+
+*See Also: Exodus 20:17; CCC 2514-2533*
+
+**Seventh Commandment (Don't steal):** *(Violates: Truth about ownership, Justice owed to others, Mercy toward the poor)*
 - Have I stolen or cheated?
 - Have I damaged others' property?
-- Have I been greedy or envious?
 - Have I failed to pay just wages or debts?
+- Have I failed to make restitution for what I have stolen?
 
-**Eighth Commandment (Don't bear false witness):**
-- Have I lied seriously?
+*See Also: Exodus 20:15; CCC 2401-2463*
+
+**Eighth Commandment (Don't bear false witness):** *(Violates: Truth itself, Justice owed to reputation, Mercy toward the accused)*
+- Have I lied?
+- Have I withheld the truth when I had a duty to speak it?
 - Have I committed perjury?
 - Have I slandered or detracted from others' reputation?
 - Have I betrayed confidences?
+
+*See Also: Exodus 20:16; CCC 2464-2513*
+
+**Tenth Commandment (Don't covet your neighbor's goods):** *(Violates: Truth about contentment, Justice owed to others, Mercy toward the poor)*
+- Have I been greedy or envious of others' possessions?
+- Have I desired to acquire wealth unjustly?
+- Have I been discontent with what God has provided?
+- Have I harbored resentment toward those who have more than I do?
+
+*See Also: Exodus 20:17; CCC 2534-2557*
 
 ---
 
@@ -534,7 +566,7 @@ Understanding the distinction between mortal and venial sin is not meant to make
 
 ### **The Good News:**
 
-We cannot be sinless as Christ was, but by cooperating with grace we can avoid mortal sin and become saints. St. Paul testifies: **"Not that I have already obtained this or am already perfect; but I press on to make it my own, because Christ Jesus has made me his own"** (Philippians 3:12).
+We cannot be sinless as Christ was, but by learning and sacrificially submitting to God's perfect love—Grace—we can avoid mortal sin and become saints. St. Paul testifies: **"Not that I have already obtained this or am already perfect; but I press on to make it my own, because Christ Jesus has made me his own"** (Philippians 3:12).
 
 ### **The Saints Prove It's Possible:**
 
@@ -545,7 +577,7 @@ Heroic virtue is possible—not through our own power, but through God's grace:
 - St. Ignatius of Loyola: From vainglory to humble service
 - St. Paul: From persecutor to apostle
 
-**If they can do it, so can we.** The same grace that transformed them is available to us.
+The same perfect love that transformed them is available to you—for the salvation of your soul, your family, and as the Body of Christ, the entire world.
 
 ### **Practical Steps:**
 
@@ -580,7 +612,7 @@ This chapter reveals the profound mercy and justice of God:
 
 **His Love:** He gives us grace to grow in holiness, avoid sin, and become saints.
 
-When we live the four pillars—truth, justice, mercy, sacrifice—we grow in sanctity. When we deny them, we fall into sin.
+When we live the four pillars—truth, justice, mercy, sacrifice—we grow in sanctity. When we deny them, we separate ourselves from the love of Christ.
 
 **Sin also breaks covenant and destroys communion.** Every mortal sin ruptures our covenant relationship with God—the sacred bond established in Baptism. It severs us from life-giving communion with the Trinity, with the Church, and even with our true selves. This is why the Sacrament of Reconciliation is so essential: it restores the covenant and rebuilds the communion that sin has destroyed.
 
@@ -592,11 +624,7 @@ When we live the four pillars—truth, justice, mercy, sacrifice—we grow in sa
 
 ## The Bridge to Counterfeit Love
 
-If personal sin rejects truth, justice, mercy, and sacrifice in individual hearts, **counterfeit love systematizes this rejection into ideologies, movements, and cultural norms.**
-
-Every ideology that denies objective truth, every movement that distorts justice, every cultural trend that refuses sacrifice—these are personal sins writ large. They are the collective failure to love, dressed up in appealing language and marketed as liberation.
-
-The next chapter will examine these counterfeits systematically, showing how each eliminates or distorts essential components of God's Perfect Love. The same diagnostic framework we've used here—testing against truth, justice, mercy, and sacrifice—will expose why these counterfeits fail and why only authentic love can answer the problem of evil.
+Personal sin, when it is systematized into ideologies and cultural norms, becomes counterfeit love—and the next chapter will show exactly how.
 
 ---
 

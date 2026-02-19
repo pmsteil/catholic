@@ -46,7 +46,7 @@ No words need to follow. The action itself speaks louder than anything that coul
 
 Consider what a child *assumes* about family before anyone teaches them anything. A child doesn't hope their parents will stay together—they assume it. Mother and father together isn't a wish or a preference—it's the default, the given, the foundation upon which their entire world is built. It would never occur to a child that parents could separate—unless society has already normalized it, unless they've seen it happen to friends, unless the unthinkable has become thinkable.
 
-This is remarkable: children instinctively know that their parents' union is permanent. No one teaches them this. They don't learn it from books or conversations. They know it because covenant permanence is written on the human heart. They know it because their parents—united in one flesh—are meant to image God's own covenant love. They know it because family unity isn't a social construct that varies by culture—it's a basic truth of human existence that children recognize before they can articulate it.
+This is remarkable: children instinctively know that their parents' union is permanent. No one teaches them this. They don't learn it from books or conversations. They know it because covenant permanence is written on the human heart. They know it because their parents—united in one flesh—are meant to image God's own covenant love. They know it because it is intertwined with the most basic truth that their existence originated from mommy and daddy. Breaking the marriage rips out this most fundamental ground of their existence.
 
 And when that covenant breaks? When the unthinkable becomes real? The child's world doesn't just change—it crumbles. The foundation they stood on gives way beneath their feet.
 
@@ -92,11 +92,13 @@ As St. Augustine taught: "The New Testament is concealed in the Old, and the Old
 
 See the pattern? God initiates. God commits. God remains faithful even when we fail. This is what covenant love looks like—not "I'll love you if you perform," but "I'll love you, period."
 
+**Why is covenant so central to love?** Because covenant is directly tied to the truth of our very existence and our need for love to sustain our souls. God is our Creator—the same way our parents create us and create the biological reality of the family. This obviously mirrors God's covenant with us because He created us. God could have caused us to be born in an egg, totally isolated in the desert. But instead He created us as part of a family that cares for us and that we are then called to care for. The family covenant reflects the divine covenant because both flow from the act of creation itself. When parents bring a child into existence, they enter a covenant relationship grounded in the very fact that they (in a limited way) authored that child's life. This is why covenant love is inseparable from the truth of our existence.
+
 ### The New Covenant: Law Written on Hearts
 
 The New Covenant's difference: "I will put my law within them, and I will write it upon their hearts" (Jeremiah 31:33). Not external legislation—interior transformation. God doesn't just tell us what to do; He changes who we are.
 
-This is why covenant creates permanent relationship while contracts remain fragile. Contracts depend on external enforcement. But when God's law is written on your heart, you follow it because you recognize it as true and freely cooperate with grace. The Holy Spirit transforms you from within, enabling you to freely embrace what God freely offers (CCC 1972).
+This is why covenant creates permanent relationship while contracts remain fragile. Contracts depend on external enforcement. But when God's law is written on your heart, you follow it because you recognize it as true and freely cooperate with grace. The Holy Spirit transforms you from within, enabling you to freely embrace what God freely offers. As the Catechism teaches, through the New Covenant we are no longer merely servants but "friends" of God, adopted as "sons" and made "heirs" of His kingdom (CCC 1972).
 
 But this idea of "embracing" God's law brings us to a difficult word, one that our culture often rejects: Authority.
 

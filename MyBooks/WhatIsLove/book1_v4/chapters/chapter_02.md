@@ -70,17 +70,17 @@ This is why we can say with philosophical confidence, not just religious faith: 
 
 The conclusion we've reached through reason aligns perfectly with Scripture. The Bible reveals that **"God is love"** (1 John 4:8)—not merely something God does, but who God is. Since love is the ultimate good and God is Love, God's Love is the ultimate good and therefore the answer to evil.
 
-This teaching runs from the Old Testament to the New. When Moses gave Israel the greatest commandment, he said: "You shall love the LORD your God with all your heart, and with all your soul, and with all your might" (Deuteronomy 6:5). Centuries later, when a scholar of the law asked Jesus, "Teacher, what must I do to inherit eternal life?"—essentially asking, "What is the ultimate good? What conquers evil and death itself?"—Jesus pointed to exactly what human reason discovers and what Moses taught:
+This teaching runs from the Old Testament to the New. When Moses gave Israel the greatest commandment, he said: "Hear, O Israel: The LORD our God is one LORD; and you shall love the LORD your God with all your heart, and with all your soul, and with all your might" (Deuteronomy 6:4-5). Centuries later, when a scholar of the law asked Jesus, "Teacher, what must I do to inherit eternal life?"—essentially asking, "What is the ultimate good? What conquers evil and death itself?"—Jesus pointed to exactly what human reason discovers and what Moses taught:
 
 "You shall love the Lord your God with all your heart, and with all your soul, and with all your strength, and with all your mind; and your neighbor as yourself." (Luke 10:27)
 
 Scripture's consistent message is clear: **Love is the apex of biblical teaching.** Not rules for their own sake. Not ritual divorced from relationship. Not knowledge without transformation. But love—authentic, complete, perfect love—as the path to eternal life and the answer to every form of evil.
 
 <div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
-Scripture confirms what reason discovers: God is love, and love is the apex of all biblical teaching—the path to eternal life and the answer to evil.
+What reason discovers, Scripture confirms: God is love. Love is the path to eternal life and the answer to evil.
 </div>
 
-What we can know through reason and human experience, God has revealed with perfect clarity in Scripture. Love isn't just a nice idea or a moral suggestion—it's the very nature of God and therefore the ultimate answer to everything that opposes God, which is evil.
+Scripture reveals what we can observe in human experience. Love is the very nature of God—the ultimate answer to everything that opposes Him.
 
 ## The Crisis: We've Lost the Definition
 
@@ -88,7 +88,7 @@ But here's the crisis: **If love is the answer, why is the world still drowning 
 
 Because we've lost clarity about what love actually *is*, using the same word for sexual attraction, ice cream preferences, God's nature, and TV shows. Our culture has reduced love to feelings, to tolerance, to whatever makes us comfortable. We've been sold a thousand counterfeits, and we can't tell the real thing from the fakes anymore.
 
-**This is why we desperately need a precise definition.** Not just to win arguments or satisfy intellectual curiosity, but because societies depend on it. Families depend on it. Souls depend on it. If we get this wrong, we'll keep fighting evil with counterfeits that only make things worse.
+**This is why we desperately need a precise definition.** Not just to win arguments or satisfy intellectual curiosity, but because societies depend on it. Families depend on it. Children depend on it. If we get this wrong, we'll keep fighting evil with counterfeits that only make things worse.
 
 ## Why Love is So Hard to Define
 
@@ -100,7 +100,7 @@ Throughout history, philosophers and saints have offered profound insights—Ari
 
 Through years of prayer, study, and living out love as husband, father, and teacher, I noticed a pattern: all the virtues integrate and converge into **four essential facets of love: truth, justice, mercy, and sacrifice.** These four are the pillars that support everything else. This explains the centuries-long challenge—each thinker grasped important truths, but seeing how all the virtues simultaneously integrate into this multi-faceted "crazy little thing called love" requires understanding how these four facets work together.
 
-## God's Perfect Love: The Complete Definition
+## God's Perfect Love: The Definition
 
 Through careful study of Scripture and the Church's teaching on love, we can see that perfect love cannot be reduced to a single dimension. It must integrate all the essential elements that Scripture and the Church reveal about love's nature. Here is the definition that will guide our entire journey:
 
@@ -118,7 +118,7 @@ Every word in this definition matters:
 
 **Covenant:** Love creates permanent, binding relationships that endure through difficulties—first to God, then family, then society ordered toward the common good.
 
-**Binds:** Love unites the four facets into a harmonious whole, preventing fragmentation. Without integration: truth without mercy becomes cruelty, mercy without truth becomes enabling, justice without sacrifice becomes theory.
+**Binds:** Love unites the four facets into a harmonious whole, preventing fragmentation. Truth without mercy becomes cruelty, mercy without truth becomes enabling, justice without sacrifice becomes theory.
 
 **Truth:** Love requires truth (John 14:6). We cannot truly love someone we deceive or whose dignity we deny.
 

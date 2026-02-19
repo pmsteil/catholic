@@ -7,15 +7,15 @@
 </div>
 
 <div class="blockquote">
-"I do not pray for these only, but also for those who believe in me through their word, that they may all be one; even as thou, Father, art in me, and I in thee, that they also may be in us, so that the world may believe that thou hast sent me."
+"I do not pray for these only, but also for those who believe in me through their word, that they may all be one; even as thou, Father, art in me, and I in thee, that they also may be in us, so that the world may believe that thou hast sent me. The glory which thou hast given me I have given to them, that they may be one even as we are one, I in them and thou in me, that they may become perfectly one, so that the world may know that thou hast sent me and hast loved them even as thou hast loved me."
 
-\hfill\small — John 17:20-21
+\hfill\small — John 17:20-23
 </div>
 
 <div class="blockquote">
-"Truly, truly, I say to you, unless you eat the flesh of the Son of man and drink his blood, you have no life in you."
+"Truly, truly, I say to you, unless you eat the flesh of the Son of man and drink his blood, you have no life in you... He who eats my flesh and drinks my blood abides in me, and I in him."
 
-\hfill\small — John 6:53
+\hfill\small — John 6:53, 56
 </div>
 
 <div class="blockquote">
@@ -59,7 +59,7 @@ This is *perichoresis*—mutual indwelling. The Father is in the Son, the Son in
 
 **Eternal Joy:** This communion is perfect happiness. God created not out of need but out of the overflow of love—love that must give, must create, must multiply.
 
-This is what we're invited into: "That they also may be in us" (John 17:21). Not just imitating Trinitarian communion from a distance, but actually participating in it. God invites us into His own life, His own communion, His own joy.
+This is what we're invited into: "That they may all be one; even as thou, Father, art in me, and I in thee, that they also may be in us" (John 17:20-21). Jesus is praying that those who believe would be united together in the one love of the Trinity—not just imitating Trinitarian communion from a distance, but actually participating in it. The unity He prays for is the same unity that exists between the Father and the Son. God invites us into His own life, His own communion, His own joy.
 
 Our definition reveals this clearly: "God's Perfect Love is the sacred gift of covenant which binds truth, justice, mercy, and sacrifice into life-giving **communion**." Notice the final word: **communion**. Not virtue for its own sake. Not self-fulfillment. But the self-giving of sacrifice creates communion. This is the true end of love—the goal toward which everything else points. You don't become good for your own sake; you live a life that's good so your communion with God flows through you to others.
 
@@ -69,7 +69,7 @@ Our definition reveals this clearly: "God's Perfect Love is the sacred gift of c
 \hfill\small — St. John Paul II, *Redemptoris Missio* (1990), §89
 </div>
 
-**This communion is the *summum bonum*—the highest good—we explored in Chapters 2 and 3.** This is what Aquinas meant by beatitude, what Augustine meant when he said our hearts are restless until they rest in God. Jesus prayed "that they may all be one; even as thou, Father, art in me, and I in thee, that they also may be in us" (John 17:21)—He's inviting us into the very communion of the Trinity, into the highest good itself. Everything in the Christian life—every virtue, every Mass, every sacrament, every act of love—points toward this ultimate end: life-giving communion with God and, through Him, with one another.
+**This communion is the *summum bonum*—the highest good—we explored in Chapters 2 and 3.** This is what Aquinas meant by beatitude, what Augustine meant when he said our hearts are restless until they rest in God. As the Catechism beautifully teaches: "God, infinitely perfect and blessed in Himself, in a plan of sheer goodness freely created man to make him share in His own blessed life" (CCC 1). And further: "The ultimate end of the whole divine economy is the entry of God's creatures into the perfect unity of the Blessed Trinity" (CCC 260). Jesus prayed "that they may all be one; even as thou, Father, art in me, and I in thee, that they also may be in us" (John 17:21)—He's inviting us into the very communion of the Trinity, into the highest good itself. Everything in the Christian life—every virtue, every Mass, every sacrament, every act of love—points toward this ultimate end: life-giving communion with God and, through Him, with one another.
 
 <div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
 God's Perfect Love is the framework through which truth, justice, mercy, and sacrifice flow outward to create communion.
@@ -95,7 +95,7 @@ And then: "You are no longer my child."
 
 The child's place—the foundation of their world—has been revoked. They've been cast out of the communion that gave them identity.
 
-This is why family rejection is so utterly devastating. It's not just emotional hurt. It's ontological exile. The child isn't just hurt—they've been told they don't exist as a member of this family anymore. Their place in communion has been erased.
+This is why family rejection is so utterly devastating. It's not just emotional hurt. It's exile from their very being. The child isn't just hurt—they've been told they don't exist as a member of this family anymore. Their place in communion has been erased.
 
 Children know they belong before anyone tells them. They know their place in the family is not conditional on performance. They know communion should be permanent—that you can't stop being someone's child any more than you can stop being yourself. And when that belonging is revoked, when they're cast out of the communion they were born into, they feel the violation at the deepest level of their being.
 
@@ -117,13 +117,13 @@ Perfect = living in full communion with God, neighbor, and true self.
 
 You were made for wholeness, and sin fragments you. You were made for communion, and sin isolates you. You were made for life, and sin brings death.
 
-This is what Jesus prayed for: "That they may all be one, as you, Father, are in me and I in you, that they also may be in us" (John 17:21). The goal isn't our individual perfection. The goal is communion—participation in the divine life of the Trinity, which then overflows to create communion with others.
+This is what Jesus prayed for: "That they may all be one, as you, Father, are in me and I in you, that they also may be in us" (John 17:21). Christ is calling us to be perfect—whole, complete—not as isolated individuals, but as the Body of Christ. The goal isn't our individual perfection so we can consider ourselves "perfect." The goal is communion—participation in the divine life of the Trinity with Him and with those we love, which then overflows to create communion in the entire Body of Christ. This is what we pray for when we pray "Thy kingdom come, Thy will be done on earth as it is in heaven."
 
 When Jesus commands us to "be perfect," He's not demanding sinless performance. He's inviting us into the wholeness, the completeness, the communion that makes us fully alive. He's calling us to become what we were always meant to be—living images of the God who IS communion.
 
 This same call echoes through the Old Testament. When God commands "Be holy, for I, the LORD your God, am holy" (Leviticus 19:2), He's saying: **"Be wholly Mine, as I am wholly yours. Let your love be complete—true, just, merciful, and self-giving—so that you may live in perfect communion with Me, sharing in My own wholeness."**
 
-Holiness leads to wholeness; wholeness enables completeness; completeness IS perfect communion with God.
+Holiness IS wholeness. The word "holiness" comes from "whollyness"—being wholly God's, wholly integrated, wholly alive in communion with Him.
 
 <div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
 When Jesus commands us to 'be perfect,' He's inviting us into wholeness—the communion that makes us fully alive.
@@ -148,7 +148,7 @@ And the father, witnessing this sacred communion, enters into it—three distinc
 
 **This is when you know you're ALIVE.** Not just existing. Not just functioning. ALIVE. This is what communion looks like in real life—body, heart, mind, and soul fully integrated in love.
 
-Every other moment of true communion echoes this:
+Every other moment of true communion also echoes this:
 
 - The marriage vows when you become one flesh
 - Holding a dying parent's hand as they pass into eternity
@@ -198,7 +198,7 @@ And here is the discovery:
 
 **Mind:** We understand the mystery through faith—"This is my body... this is my blood." Your mind grasps what your senses cannot perceive. You believe what seems impossible. You trust what you cannot see. This is faith—the mind submitting to divine truth.
 
-**Soul:** We're transformed into what we receive—becoming Christ's Body in the world. Your soul, made in God's image, is conformed to Christ's image. You become what you eat. You are transformed into Him. St. Augustine heard Christ say, "I am the food of grown men; grow, and you shall feed upon Me; nor shall you change Me, like the food of your flesh, into yourself, but you shall be changed into Me."
+**Soul:** We're transformed into what we receive—becoming Christ's Body in the world. Your soul, made in God's image, is conformed to Christ's image. You become what you eat. You are transformed into Him. St. Augustine recorded in his *Confessions* (VII.10.16) hearing Christ say: "I am the food of grown men; grow, and you shall feed upon Me; nor shall you change Me, like the food of your flesh, into yourself, but you shall be changed into Me."
 
 This is love at its most life-giving: The Beloved becomes food for the beloved. The Creator becomes sustenance for the creature. God becomes bread so we can have life.
 
@@ -239,7 +239,7 @@ One of the most beautiful aspects of Catholic teaching is the communion of saint
 
 - **Church Triumphant** (saints in heaven) pray for us, intercede for us, cheer us on
 - **Church Suffering** (souls in purgatory) are being purified—we can help them through our prayers and sacrifices
-- **Church Militant** (us on earth) are fighting the good fight, united with each other and with all the saints
+- **Church Militant** (us on earth) are fighting the good fight against evil with love as our primary weapon, united with each other and with all the saints
 
 This means you're never alone. You're part of a covenant communion or Body of Christ that spans heaven and earth, past and present, time and eternity.
 
@@ -255,7 +255,7 @@ Jesus prayed "that they may all be one" (John 17:21)—yet our divisions wound H
 
 The devil wants nothing more than denominations and arguments over truth. If there is no truth, he need not worry—chaos serves his purposes.
 
-Every Christian division is a scandal that contradicts the Gospel. Unity doesn't mean uniformity, but it requires submission to truth. The Catholic Church's claim: Christ established ONE Church with authority to preserve truth. Our call: Work for unity (communion) while never compromising truth because love requires truth.
+Every Christian division is a scandal that contradicts the Gospel. Unity doesn't mean uniformity, but it requires submission to truth. Christ established one Church where He granted His authority to teach everything He had commanded: "All authority in heaven and on earth has been given to me. Go therefore and make disciples of all nations... teaching them to observe all that I have commanded you" (Matthew 28:18-20). All those who submit to the authority of Christ are united in one Church. Our call: Work for unity (communion) while never compromising truth, because love requires truth.
 
 This is painful. Many good, sincere Christians are separated from full communion with the Catholic Church. Many have been hurt by Catholics. Many have legitimate questions about Catholic teaching. We must also acknowledge with sorrow that Catholics have sometimes failed to live the love we profess—scandals, abuses of power, arrogance, and loveless presentations of truth have all contributed to these divisions. But the scandal remains: Christ prayed for unity, and we are divided. The path forward is humbly seeking the truth together—because truth is sacred, it comes from God—trusting that Christ will lead us to the unity He prayed for, working for communion while never compromising the truth that makes communion possible.
 

@@ -86,6 +86,8 @@ This is why sacrifice isn't a burden—it's liberation. It frees us from the pri
 
 ## The Biblical Foundation: From Shadow to Reality
 
+An entire book could be written about the Old Testament sacrifices and how Jesus completes all of them.[^1] Here I just want to touch briefly on the three biggest sacrifices that Jesus fulfills and that help us understand the nuances of love.
+
 The Old Testament sacrificial system wasn't arbitrary religious ritual—it was God teaching His people what love actually requires. Every sacrifice pointed to a deeper reality about the nature of love itself.
 
 **The Burnt Offering** (*olah*) was completely consumed on the altar—nothing held back. It taught that authentic love requires total self-gift, like a candle that gives all its light while it burns, holding nothing back from its purpose.
@@ -108,14 +110,14 @@ On the cross, Jesus didn't just teach about sacrifice—He became the perfect sa
 
 **Expiation (Satisfying Justice):** "and he is the expiation for our sins, and not for ours only but also for the sins of the whole world." (1 John 2:2). Christ's sacrifice satisfied the demands of justice. Think of it this way: If a boy hits a baseball through a neighbor's window, the damage is real. A simple "I'm sorry" doesn't put the glass back together. Justice demands the window be repaired. If the boy has empty pockets, his father must open his own wallet to pay the bill. He absorbs the cost himself to make things right. Sin is like that broken window—real damage to the moral universe that we can't afford to fix. Christ paid the bill for us—not because God is a harsh creditor, but because the damage was real and love doesn't pretend otherwise.
 
-**Oblation (Offering Mercy):** "For God so loved the world that he gave his only Son, that whoever believes in him should not perish but have eternal life." (John 3:16). Christ's sacrifice was also pure gift. Imagine that parent not just paying the debt grudgingly ("Fine, I'll handle it"), but gladly bearing the cost out of overwhelming love for the child. This wasn't payment extracted from an unwilling victim. This was love choosing to bear the cost of our redemption.
+**Oblation (Offering Mercy):** "For God so loved the world that he gave his only Son, that whoever believes in him should not perish but have eternal life." (John 3:16). Christ's sacrifice was also pure gift. Imagine that parent not just paying the debt grudgingly ("Fine, I'll handle it"), but gladly bearing the cost out of overwhelming love for the child and a deep commitment to making things right with the neighbor. This wasn't payment extracted from an unwilling victim. This was love choosing to bear the cost of our redemption.
 
 The cross holds both dimensions in perfect tension. Justice is fully satisfied (expiation). Mercy is fully given (oblation). This is what makes Christ's sacrifice perfect—it doesn't choose between justice and mercy but integrates both in one complete act of love.
 
-Jesus Himself taught that love directs our actions toward God and neighbor: "You shall love the Lord your God with all your heart, and with all your soul, and with all your mind. This is the great and first commandment. And a second is like it, You shall love your neighbor as yourself. On these two commandments depend all the law and the prophets." (Matthew 22:37-40). Sacrifice is how we make this love real—giving ourselves completely to God and neighbor, not in word only, but in deed and truth.
+Jesus Himself taught that love directs our actions toward God and neighbor: "You shall love the Lord your God with all your heart, and with all your soul, and with all your mind. This is the great and first commandment. And a second is like it, You shall love your neighbor as yourself. On these two commandments depend all the law and the prophets." (Matthew 22:37-40). Sacrifice is how we make this love real—giving ourselves completely to God and neighbor, not in word only, but sacrificially willing the true good of the other in justice and mercy.
 
 <div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
-Christ's sacrifice on the cross perfectly integrates truth, justice, and mercy. It acknowledges the truth that we are created beings who have committed grievous crimes against our Creator's justice. It satisfies justice's demands (expiation) while offering mercy's gift (oblation). This is the pattern for all authentic human love—never justice without mercy, never mercy without truth.
+Christ's sacrifice on the cross perfectly integrates truth, justice, and mercy. It acknowledges the truth that we are created beings who have committed grievous crimes against our Creator's justice. It satisfies justice's demands (expiation) while offering mercy's gift (oblation). This is the pattern for all authentic human love—never justice without mercy, never justice or mercy without truth.
 </div>
 
 ## Why We Have Mass: Participating in Christ's Sacrifice
@@ -126,9 +128,11 @@ At every Mass, several things happen simultaneously:
 
 **We Enter Christ's Eternal Offering:** The Mass makes present Christ's one sacrifice on Calvary—not repeating it or adding to it, but entering into it. It's like a curtain is pulled back, and we are suddenly standing at the foot of the Cross. The same sacrifice offered once for all becomes present here and now.
 
-**We Offer Ourselves United with Christ:** "I urge you therefore, brothers, by the mercies of God, to offer your bodies as a living sacrifice" (Romans 12:1). We place our own sacrifices—struggles, sufferings, daily acts of love—on the altar with Christ's. Like the drop of water added to the chalice of wine, our small, imperfect human offerings are mingled with His perfect blood and become acceptable to the Father.
+This is possible because Christ's sacrifice is not trapped in the past. In Revelation 5:6, John sees Jesus in heaven as "a Lamb standing, as though it had been slain"—risen and alive, yet bearing the wounds of His passion eternally before the Father. The one sacrifice offered on Calvary is perpetually present in the heavenly liturgy. When Jesus said "Do this in remembrance of me," He used the word *anamnesis*—not mere mental recall, but the same liturgical re-presentation by which Jews at Passover understood themselves to be genuinely participating in the Exodus. The Mass doesn't repeat the Cross or add to it; it joins us to what Christ is eternally doing. We step out of ordinary time and into sacred time, where past, present, and future converge at the altar of the Lamb. For a deeper exploration of how the Book of Revelation unveils the Mass as participation in heaven's eternal liturgy, Scott Hahn's *The Lamb's Supper* is an essential and accessible read.
 
-**We Receive What We Offer:** In Communion, we receive Christ Himself—the Lamb who was slain, now risen and glorious. We receive the Victim who is now Victor. It becomes part of us. His sacrificial love transforms our hearts, empowers us to love as He loved.
+**We Offer Ourselves United with Christ:** "I urge you therefore, brothers, by the mercies of God, to offer your bodies as a living sacrifice, holy and acceptable to God, which is your spiritual worship" (Romans 12:1). We place our own sacrifices—struggles, sufferings, daily acts of love—on the altar with Christ's. Like the drop of water added to the chalice of wine, our small, imperfect human offerings are mingled with His perfect blood and become acceptable to the Father.
+
+**We Receive What We Offer:** In Communion, we receive Christ Himself—the Lamb who was slain, now risen and glorious. We receive the Victim who is now Victor. We receive Jesus, who is Love, as our Bread of Life—fulfilling His promise: "I am the living bread which came down from heaven; if any one eats of this bread, he will live for ever" (John 6:51). It becomes part of us. His sacrificial love transforms our hearts, empowers us to love as He loved.
 
 This is not mere symbolism. This is how God makes sacrificial love real in our lives. The Mass forms us to live sacrificially.
 
@@ -136,9 +140,9 @@ This is not mere symbolism. This is how God makes sacrificial love real in our l
 
 St. Paul reveals a profound mystery: "Now I rejoice in my sufferings for your sake, and in my flesh I complete what is lacking in Christ's afflictions for the sake of his body, that is, the church." (Colossians 1:24).
 
-What could possibly be "lacking" in Christ's perfect sacrifice? Nothing—in terms of its sufficiency. But everything—in terms of our participation. Christ's sacrifice is complete, but He invites us to participate in His holy communion—His sacred, wholly undivided union with the Father. As St. Paul teaches: "The cup of blessing which we bless, is it not a participation in the blood of Christ? The bread which we break, is it not a participation in the body of Christ?" (1 Corinthians 10:16). Christ invites us to join His sacrifice, to make it our own, to let it flow through us to others.
+What could possibly be "lacking" in Christ's perfect sacrifice? Nothing—in terms of its sufficiency. But everything—in terms of our participation. Christ's sacrifice is complete, but He invites us to participate in His holy communion—His sacred, wholly undivided union with the Father. As St. Paul teaches: "The cup of blessing which we bless, is it not a participation in the blood of Christ? The bread which we break, is it not a participation in the body of Christ?" (1 Corinthians 10:16). Note that Paul does not refer to the body and blood as a mere symbol or retelling of Christ's sacrifice, but as our participation in it. Christ invites us to join His sacrifice, to make it our own, to let it flow through us to others.
 
-In the Eucharist, we participate sacramentally. In daily life, we participate practically—every sacrifice we make for spouse, children, neighbor, enemy becomes part of Christ's ongoing redemptive work.
+In the Eucharist, we participate sacramentally—in other words, it is Christ who established the Eucharist so that He can pour His perfect love directly into us and continually call us to be united with Him physically, spiritually, and intellectually. In daily life, we participate practically—every sacrifice we make for spouse, children, neighbor, enemy becomes part of Christ's ongoing redemptive work.
 
 A father moves a heavy table. He is strong enough to lift it alone, but his toddler wants to "help." The father lets the child put his hands on the table and push. The father provides the strength, but he accepts the child's effort as a real contribution. This illustrates precisely what the Catechism teaches: "The merit of man before God in the Christian life arises from the fact that God has freely chosen to associate man with the work of his grace. The paternal action of God is first on his own initiative, and then follows man's free acting through his collaboration, so that the merit of good works is to be attributed in the first place to the grace of God, then to the faithful" (CCC 2008). When we love, we are like that toddler—pushing with our strength, but accepting the Father's grace - his perfect love - as the true source of our merit.
 
@@ -148,6 +152,7 @@ This is the "treasury of the Church," which includes "the infinite value, which 
 Our sacrifices, united with Christ's perfect sacrifice, participate in His redemptive work. This isn't adding to what Christ did—it's allowing His sacrifice to flow through us to touch others. Every act of authentic love becomes a channel of divine grace.
 </div>
 
+Christ's sacrifice wasn't just for "my personal salvation." He died for the sins of the whole world (1 John 2:2). His sacrifice teaches us that to sacrifice IS to love—and here's the profound irony: **our salvation is not for us.** It's so we can turn from the desires of this world and turn toward loving others sacrificially. Christ saved us not so we could live for ourselves, but so we could die to ourselves and live for others. This is a far cry from the notion that Christianity just means "be nice." It means dying to self, taking up your cross daily, and pouring out your life for others as Christ poured out His for you. Before His Ascension, He gave His disciples authority to continue this mission: "Go therefore and make disciples of all nations... teaching them to observe all that I have commanded you" (Matthew 28:18-20). What had He commanded? To love God and neighbor sacrificially. And today, that means you and me—called to turn from worldly desires, to sacrifice as Christ sacrificed, to love as He loved, participating in His redemptive work through our own acts of sacrificial love for the salvation of the world.
 
 ## The Hierarchy of Sacrifice
 
@@ -170,14 +175,14 @@ Understanding love as sacrificial directly combats specific forms of evil:
 
 **Against Selfishness:** The root of all sin is choosing our own good at others' expense. Sacrificial love reverses this—choosing others' good at our own expense. Every act of genuine sacrifice strikes at the heart of sin itself.
 
-**Against the Seven Deadly Sins:**
-- **Pride** says "I deserve to be served." Sacrifice says "I will serve."
-- **Greed** says "I need more for myself." Sacrifice says "I will give what I have."
-- **Lust** says "I will use you for my pleasure." Sacrifice says "I will honor your dignity."
-- **Envy** says "I resent your good." Sacrifice says "I will work for your good."
-- **Gluttony** says "I will indulge myself." Sacrifice says "I will practice temperance."
-- **Wrath** says "I will make you pay." Sacrifice says "I will forgive."
-- **Sloth** says "I won't make the effort." Sacrifice says "I will do what love requires."
+**Against the Seven Deadly Sins:** Each deadly sin is ultimately a refusal to sacrifice—a turning inward rather than outward. Sacrificial love transforms each one by redirecting the will toward the true good of the other:
+- **Pride** demands to be served and exalted. Sacrificial love transforms pride into humble service—choosing to lift others rather than ourselves, honoring God as the source of every gift.
+- **Greed** hoards what God has given. Sacrificial love transforms greed into generosity—freely giving time, treasure, and talent because we trust the God who provides.
+- **Lust** uses another person as an object for self-gratification. Sacrificial love transforms lust into chastity—honoring the full dignity of the other as a child of God, willing their true good rather than our own pleasure.
+- **Envy** resents the good of another and desires their diminishment. Sacrificial love transforms envy into rejoicing—working for another's flourishing even at cost to ourselves.
+- **Gluttony** consumes without restraint, making appetite an idol. Sacrificial love transforms gluttony into temperance—ordering our desires so we have something left to give.
+- **Wrath** demands that others pay for the harm they've caused. Sacrificial love transforms wrath into mercy—bearing the cost of forgiveness rather than exacting revenge.
+- **Sloth** refuses the effort that love requires. Sacrificial love transforms sloth into diligence—doing what love demands even when it is costly, inconvenient, or unnoticed.
 
 Sacrifice combats consumerism by treating persons as sacred ends, never as means. Sacrifice combats individualism by putting others first—the path to becoming fully human. Sacrifice combats despair by producing joy when we see the fruit—a marriage strengthened, a child flourishing, a soul saved.
 
@@ -199,11 +204,11 @@ Scripture explicitly condemns selfishness: "Do nothing from selfishness or conce
 
 Consider what this looks like in practice, and how it directly threatens the family:
 
+**Attacks on Presence:** "Self-care" and instant gratification culture that demands "I deserve to be happy and comfortable NOW"—refusing any sacrifice or delayed gratification, justifying abandonment of spouse and children for "my needs." Technology addiction where parents scroll through phones while children beg for attention, choosing digital dopamine over presence to family. Childlessness by choice that refuses the sacrifice of parenthood—"I want to travel, sleep in, have nice things"—choosing sterile comfort over life-giving fruitfulness. Radical individualism that insists "I don't owe anyone anything," destroying family obligations, rejecting duty and responsibility, treating covenant as optional.
+
 **Attacks on Life:** Abortion and contraception kill the child or reject the life-giving purpose of marriage, destroying the family before it begins, sacrificing children for convenience, career, or lifestyle.
 
 **Attacks on Permanence:** Divorce culture where "I'm not happy" becomes sufficient reason to break covenant, refusing to sacrifice for spouse's good or children's stability, treating marriage as conditional on feelings rather than permanent commitment. Hookup culture and pornography use others' bodies for pleasure without giving self, destroying the capacity for sacrificial marital intimacy, demanding sexual gratification without responsibility or commitment.
-
-**Attacks on Presence:** "Self-care" and instant gratification culture that demands "I deserve to be happy and comfortable NOW"—refusing any sacrifice or delayed gratification, justifying abandonment of spouse and children for "my needs." Technology addiction where parents scroll through phones while children beg for attention, choosing digital dopamine over presence to family. Childlessness by choice that refuses the sacrifice of parenthood—"I want to travel, sleep in, have nice things"—choosing sterile comfort over life-giving fruitfulness. Radical individualism that insists "I don't owe anyone anything," destroying family obligations, rejecting duty and responsibility, treating covenant as optional.
 
 This is selfishness masquerading as health. It creates a culture where families cannot form (abortion, contraception, hookup culture), cannot last (divorce culture, "self-care" justifying abandonment), and cannot flourish (technology addiction, childlessness by choice, radical individualism). It shows the self-centered spirit that Christ explicitly condemned: "If any man would come after me, let him deny himself and take up his cross and follow me. For whoever would save his life will lose it, and whoever loses his life for my sake will find it." (Matthew 16:24-25).
 
@@ -246,15 +251,7 @@ Authentic sacrifice loves the person for WHO they are (imago Dei), not WHAT they
 
 ## The Bridge to Life-Giving
 
-Sacrifice isn't an end in itself. It's the means by which love creates and multiplies. When you sacrifice for someone—truly sacrifice, not just perform a transaction—you don't just give something up. Love creates something new.
-
-A mother who sacrifices sleep for her infant doesn't just meet a need—she creates life, nurtures life, multiplies life. A husband who sacrifices career advancement to care for his sick wife doesn't just provide care—he generates new possibilities for healing, growth, and transformation.
-
-This is why the next facet of our definition is crucial: **life-giving**.
-
-Think of a seed. As long as it sits safe and whole in a jar, it remains alone. It is preserved, but it is dead. Only when it is buried in the ground and "sacrificed"—broken open and consumed—does it sprout and create a harvest. Sacrifice is that breaking open. It is how love moves from merely existing to actually generating life.
-
-Because here's the truth: Sacrifice that isn't ordered toward life is just destruction. Sacrifice that doesn't multiply love is just loss. Authentic sacrifice—integrated with truth, justice, and mercy—is always life-giving. It generates something new, creates something better, multiplies what it gives.
+Sacrifice is never the end—it is always the beginning of something new. The next chapter explores where sacrifice leads: life-giving communion.
 
 ---
 
@@ -278,3 +275,7 @@ Because here's the truth: Sacrifice that isn't ordered toward life is just destr
 - **St. Anselm of Canterbury (1033-1109):** His *Cur Deus Homo* (Why God Became Man) explains the necessity of Christ's sacrifice to satisfy justice while offering mercy
 - **St. Thomas Aquinas (1225-1274):** His treatment of sacrifice in the *Summa Theologica* shows how Christ's sacrifice is both expiatory and oblative, satisfying justice while offering mercy
 - **Pope Pius XII (1876-1958):** His encyclical *Mystici Corporis* explains how our sufferings, united with Christ's, participate in His redemptive work for the Church
+
+---
+
+[^1]: For a comprehensive exploration of how God's covenants and the Old Testament sacrificial system point to Christ, see Scott Hahn's *A Father Who Keeps His Promises: God's Covenant Love in Scripture*.

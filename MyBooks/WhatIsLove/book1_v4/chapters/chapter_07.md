@@ -170,6 +170,8 @@ Justice isn't just individual—it's social. The common good means the condition
 
 Justice toward the common good requires subsidiarity (solving problems at the most local level), solidarity (the strong helping the weak), respect for human dignity in every policy and law, family priority (protecting the fundamental unit of society—because the unity of the family in truth, justice, and mercy is the first and most important teacher of this love), and religious freedom (the right to worship according to conscience). The common good allows all people to live in true covenantal communion.
 
+These principles—subsidiarity, solidarity, the preferential option for the poor, human dignity, the common good—form the foundation of Catholic social teaching. The Church has developed a rich body of wisdom on how justice applies to economic life, political structures, family relationships, and international relations. This chapter can only introduce these concepts. I encourage you to dive deeper into the Church's social teaching through papal encyclicals like *Rerum Novarum*, *Centesimus Annus*, and *Caritas in Veritate*, and through the Catechism's treatment of the seventh through tenth commandments (CCC 2401-2557). Understanding how justice applies to every dimension of human life is essential for living authentic love in the world.
+
 ## The Sacrament of Reconciliation: Justice and Mercy United in Truth
 
 The Catholic Sacrament of Reconciliation perfectly demonstrates how justice and mercy work together. Justice requires acknowledging sin (confession), accepting consequences (penance), making amends (restitution). Mercy offers forgiveness (absolution), restoration (grace), healing (reconciliation).
@@ -183,7 +185,7 @@ The sacrament doesn't choose between justice and mercy—it integrates both. Not
 
 The sacrament honors this truth about how we're made. God offers complete forgiveness—mercy transcending what justice requires. We commit to change—justice and mercy together leading to transformation.
 
-This is love in action—truth about sin, justice requiring acknowledgment, mercy offering forgiveness, all working together to heal and restore. The sacrament shows us that authentic love never chooses between truth, justice, and mercy; it holds them in perfect tension, each making the others more powerful.
+This is love in action—truth about sin, justice requiring acknowledgment, mercy offering forgiveness, all working together to heal and restore. The sacrament shows us that authentic love never chooses between truth, justice, and mercy; it holds them in perfect harmony, each making the others more powerful.
 
 ## Do You Want True Justice?
 
@@ -199,7 +201,7 @@ God's justice says: "Yes, this was wrong. Yes, there are consequences. Yes, rest
 
 This is the justice your heart has been crying out for all along—not just the punishment of evil, but the restoration of good. Not just consequences for wrongdoing, but healing for the wounded. Not just accountability for the guilty, but transformation for all.
 
-**If you want true justice—the kind that actually works, that actually heals, that actually restores—you need God.** Not as an add-on to your own sense of fairness. Not as a rubber stamp for your preferences. But as the source, the standard, and the power that makes real justice possible.
+**If you want true justice—the kind that actually works, that actually heals, that actually restores—you need God.** Not as an add-on to your own sense of fairness. Not as a rubber stamp for your preferences. But as the source, the standard, and the authority that makes real justice possible.
 
 This means submitting your understanding of justice to His. It means accepting that His ways are higher than your ways (Isaiah 55:9). It means trusting that the God who IS justice knows better than you do what justice requires.
 

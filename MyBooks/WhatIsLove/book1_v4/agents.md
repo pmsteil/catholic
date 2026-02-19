@@ -12,8 +12,8 @@ The book has been written and is undergoing final editing.
 
 ## Project Structure
 
-- **Main Directory**: `/book1_v3/` - Contains the current version of the book project
-- **Chapter Files**: Individual chapter markdown files (e.g., `01_Chapter_01.md`)
+- **Main Directory**: The current folder contains the current version of the book project
+- **Chapter Files**: Individual chapter markdown files (e.g., `chapters/chapter_01.md`)
 - **Reference Materials**:
   - `write-book-prompt-v3.md` - Master writing guidelines and workflow
   - `book1-blogpost-for-catholics.md` - Written by the author - writing style reference

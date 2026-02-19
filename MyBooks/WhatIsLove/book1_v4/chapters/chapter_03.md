@@ -7,22 +7,16 @@
 </div>
 
 <div class="blockquote">
-"No man has ever seen God; if we love one another, God abides in us and his love is perfected in us."
+"No man has ever seen God; if we love one another, God abides in us and his love is perfected in us... So we know and believe the love God has for us. God is love, and he who abides in love abides in God, and God abides in him."
 
-\hfill\small — 1 John 4:12
-</div>
-
-<div class="blockquote">
-"So we know and believe the love God has for us. God is love, and he who abides in love abides in God, and God abides in him."
-
-\hfill\small — 1 John 4:16
+\hfill\small — 1 John 4:12, 16
 </div>
 
 ---
 
 ## More Than Biology
 
-Our definition of perfect love begins with a crucial word: *sacred*. But why must love be sacred? Why can't it simply be a human invention?
+Our definition of perfect love begins with a crucial word: *sacred*—meaning that love originates from God. But why must love be sacred? Why can't it simply be a human invention?
 
 Why does love matter at all?
 
@@ -44,7 +38,7 @@ Love is sacred because God is love. Let me show you why.
 
 ## What Children Know About the Sacred
 
-Consider something remarkable: children instinctively understand that love is sacred.
+Consider something remarkable: children instinctively know that love is sacred.
 
 Watch a young child when a parent breaks a promise. The child doesn't just feel disappointed—they feel *betrayed*. Something sacred has been violated. They know, without anyone teaching them, that promises about love aren't like other promises. You can reschedule a trip to the park, but you can't treat "I love you" as a casual statement you can take back when it's inconvenient.
 
@@ -86,8 +80,6 @@ Five observations establish why love must originate in God:
 
 Furthermore, if the ultimate reality were impersonal (mere matter, energy, or abstract principles), then persons would be accidents—complex arrangements of atoms that happened to develop consciousness. But we instinctively know that persons have inherent dignity and worth *independent* of what anyone thinks about them. The only way persons can have intrinsic value is if the ultimate reality is itself personal—if God is a Person (or more precisely, three Persons in one Being) who confers dignity on those created in His image.
 
-Let's press further.
-
 **Fourth, a personal God who is the source of moral values must Himself embody those values perfectly and unchangingly.** Here's why: We don't just recognize that some things are wrong—we recognize that they are *necessarily* and *unchangingly* wrong. Child abuse isn't wrong just today or in our culture; it was wrong a thousand years ago and will be wrong a thousand years from now. This points to a source that is itself unchanging and perfect. If God were capricious or indifferent to morality, then moral truths would be arbitrary and changeable—"wrong" would mean "whatever God happens to feel like prohibiting today." But we know moral truth is at least as stable and necessary as the laws of physics. Therefore, love cannot be arbitrary divine command—it must flow from God's own unchanging, perfect "being" or nature. God IS love, and His nature is the eternal standard. What He reveals to us about love reflects who He is. This is why love's demands are absolute and unchanging: they're grounded in the very being of God, not in human consensus, utility calculations, or even divine whim.
 
 **Fifth, if God is the ultimate reality and God is love, then love is the ultimate reality.** This means love isn't just one value among many—it's the fundamental structure of reality itself. Everything else (existence, truth, justice, mercy, beauty, goodness) finds its unity and meaning in love. Because love is the ultimate reality, truth is not cold fact but the light of love; justice is not abstract calculation but the order of love; beauty is not random preference but the radiance of love. This is the only foundation that can sustain objective moral truth: not human opinion, not evolutionary advantage, not social contract, but the unchanging nature of God who IS love.
@@ -98,7 +90,7 @@ The logical chain is complete: Love requires a personal source → Objective mor
 
 This is why Scripture's declaration "God is love" isn't just poetic language or religious sentiment. It's revealing the deepest truth about the nature of reality itself. Love isn't something God does—it's who God is. And because God is the Creator of all that exists, love is woven into the very fabric of creation and in the very fabric of our being.
 
-This is what the Church means when it teaches that God is the *summum bonum*—the highest good. Philosophers from Plato to Aristotle searched for this ultimate reality. St. Thomas Aquinas demonstrated what reason discovers and revelation confirms: only union with God—who IS love—can satisfy the human heart completely. Every other good (pleasure, wealth, power, honor) fails to fulfill us because they're finite goods. But God, who is infinite Love, is the only good that can satisfy our infinite longing. When we participate in authentic love, we're not just doing something good—we're participating in the highest Good Himself, touching the very source of all goodness and being.
+This is what the Church means when it teaches that God is the *summum bonum*—the highest good. Philosophers from Plato to Aristotle searched for this ultimate reality. St. Thomas Aquinas demonstrated what reason discovers and revelation confirms: only union with God—who IS love—can satisfy the human heart completely. Every other good fails to fulfill us because each of these are means to the end, which is love. They are not the end in themselves. But God, who is infinite Love, is the only good that can satisfy our infinite longing. When we participate in authentic love, we're not just doing something good—we're participating in the highest Good Himself, touching the very source of all goodness and being.
 
 ## How We Know God Is Love
 
@@ -108,7 +100,7 @@ This deserves a careful answer, because it touches the fundamental question of h
 
 The answer: We're not imposing our standards on God—we're recognizing that our moral knowledge comes *from* God. The Church teaches that God created humans with the capacity to know moral truth through reason—the doctrine of natural law (CCC 1954-1960). When we recognize that love, justice, and mercy are objectively good, we're discovering truths God built into creation and wrote on our hearts. What reason discovers, revelation confirms: "God is love" (1 John 4:8, 16).
 
-The alternative is incoherent: if our deepest moral convictions have nothing to do with ultimate reality, then we're fundamentally deceived about goodness itself. But if we can't trust our basic moral knowledge, we can't trust *any* knowledge—including the skeptic's objection. The only coherent position is that our moral knowledge, though imperfect, genuinely reflects the nature of the God who created us in His image.
+The alternative is incoherent: if our deepest moral convictions have nothing to do with ultimate reality, then we're fundamentally deceived about goodness itself. But if we can't trust our basic moral knowledge, we can't trust *any* knowledge—including the skeptic's objection. The only coherent position is that the moral law that we know genuinely reflects the moral law giver.
 
 ## The Trinity: Love's Eternal Pattern
 

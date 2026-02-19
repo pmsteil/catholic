@@ -112,9 +112,11 @@ This recognition isn't just intellectual. When you witness injustice, your *body
 
 St. Paul explains how this works: "When Gentiles who have not the law do by nature what the law requires, they are a law to themselves, even though they do not have the law. They show that what the law requires is written on their hearts, while their conscience also bears witness" (Romans 2:14-15).
 
-This is **natural law**—the moral order God has written on every human heart. It's why people across all cultures recognize basic moral truths: murder is wrong, promises should be kept, children should be protected.
+This is **natural law**—the moral order God has written on every human heart. It's why people across all cultures recognize basic moral truths: murder is wrong, promises should be kept, children should be protected.[^1]
 
-This explains why atheists can be moral people—they're discovering the moral order God has written on their hearts. But recognizing moral truth and grounding moral truth are different things. Atheists can recognize that murder is wrong, but they can't explain *why* it's objectively wrong without appealing to God.
+[^1]: For a comprehensive exploration of cross-cultural moral agreement, see C.S. Lewis's *The Abolition of Man*, Appendix: "Illustrations of the Tao," which documents remarkably similar moral principles across diverse cultures and time periods.
+
+This explains why atheists can be moral people—they're discovering the moral order God has written on their hearts. But recognizing moral truth and grounding moral truth are different things. Atheists can recognize that murder is wrong, but they can't explain *why* it's objectively wrong without destroying its objective nature if they don't invoke God.
 
 ## The Integration Points to Intelligence
 
@@ -124,16 +126,16 @@ The way love integrates truth, justice, mercy, sacrifice, covenant, life-giving,
 
 For those who live authentically—experiencing love's objective requirements and perfect integration—God's existence becomes undeniable. As St. Paul writes, God's "invisible nature, namely, his eternal power and deity, has been clearly perceived in the things that have been made" (Romans 1:20).
 
-Yet some still don't believe—not because the evidence is insufficient, but because "they suppress the truth" (Romans 1:18). Atheism requires us to believe that objective moral truth emerged from mindless matter, that universal obligations arose from evolutionary accidents. I don't have enough "faith" to be an atheist.
+Yet some still don't believe—not because the evidence is insufficient, but because "they suppress the truth" (Romans 1:18). Atheism requires us to believe that objective moral truth emerged from mindless matter, that universal obligations arose from evolutionary accidents. As Protestant pastor Frank Turek aptly put it: I don't have enough "faith" to be an atheist.
 
 Theism is simpler: Objective moral truth exists because God exists. Love has objective requirements because God is love.
 
-This isn't just intellectual exercise—it's an invitation to encounter the God we've been exploring for eleven chapters. Every time you recognize authentic love, you're encountering God. Every time you feel the pull of moral obligation, you're hearing God's voice. Every time you sacrifice for another, you're participating in God's nature.
+This isn't an intellectual exercise—it's an invitation to encounter the God we've been exploring for eleven chapters. Every time you recognize authentic love, you're encountering God. Every time you feel the pull of moral obligation, you're hearing God's voice. Every time you sacrifice for another, you're participating in God's nature.
 
 The question isn't just "Does God exist?" but "Does love exist at all?" If love is truly a law—as universal as gravity—then like every law, it requires a lawgiver. This law flows from God's nature, is freely recognized as true, is written on our hearts by the Holy Spirit, and liberates us to become who we were created to be. As Jesus promised, "If you continue in my word, you are truly my disciples, and you will know the truth, and the truth will make you free" (John 8:31-32).
 
 <div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
-If love exists as an objective law of the universe with objectivity, universality, binding force, integration, and coherence, then it requires a lawgiver. Every genuine act of love is an encounter with the God who is Love, the Author of the law written on our hearts.
+If love exists as a law of the universe with objectivity, universality, binding force, integration, and coherence, then it requires a lawgiver. Every genuine act of love is an encounter with the God who is Love, the Author of the law written on our hearts.
 </div>
 
 ## The Law of the Gospel: Freedom Through Love
@@ -150,7 +152,7 @@ This is the New Law that Jesus proclaimed—a perfection and fulfillment of the 
 
 When we say "yes" to this law, we're not enslaved—we're liberated. We become who we were always meant to be.
 
-Think of it this way: A fish is most free when it swims in water, conforming to its nature. Try to "liberate" it onto land, and you've destroyed its freedom entirely. The same is true for us—we're most free when we conform to the law of love written on our hearts. It's not a restriction on our freedom but the very condition for our flourishing.
+Think of it this way: A fish is most free when it swims in water, conforming to its nature. Try to "liberate" it onto land, and you've destroyed its freedom entirely. The same is true for us—we're most free when we conform to the law of love written on our hearts. It's not a restriction on our freedom but the very condition for it.
 
 The Catechism teaches that the Law of the Gospel is "the grace of the Holy Spirit received by faith in Christ, operating through charity" (CCC 1972). It works through love and expresses itself most perfectly in the Sermon on the Mount.
 
@@ -160,15 +162,15 @@ The Law of the Gospel calls us to an interior transformation that enables us to 
 
 If you've recognized the Law of the Gospel in your own life—if you've experienced the freedom that comes from conforming to God's love—you have a mission: **help others recognize what's already written on their hearts.**
 
-Every person you meet already lives according to this law imperfectly—it's the water they swim in. When they demand justice, show mercy, or sacrifice for their children, they're encountering the God who is Love.
+Every person you meet already lives according to this law imperfectly—it's the water they swim in. When they speak truth, demand justice, show mercy, or sacrifice for their children, they're encountering the God who is Love.
 
-**Your role isn't to impose this law from outside.** It's to gently help them recognize what they already know deep within:
+**Our role as good Catholics isn't to teach how the Church imposes this law, but to show people that this law is already written on their hearts, and that it is a gift that is freely received from the Author of the law who is the Father, Son, and Holy Spirit.** It's to gently help them recognize what they already know deep within:
 
 **With non-believers:** Don't start by arguing theology. Start by affirming what they already recognize. "You believe that's wrong—why? What makes it objectively wrong?" Help them see that their moral convictions point to something beyond themselves. The law is already written on their hearts; you're just helping them read it.
 
 **With struggling Christians:** Many know the rules but haven't encountered the freedom. They see Christianity as burden, not liberation. Show them—through your own life—that conforming to God's law isn't slavery but the condition for flourishing. Like the fish in water, we're most free when we live according to our nature as beings made for love.
 
-**Your witness matters more than your words.** When you live authentically—integrating truth, justice, mercy, and sacrifice in your daily life—others see the Law of the Gospel made visible. Your sacrificial love becomes evidence that God exists. Your joy in obedience becomes an invitation to freedom.
+**Your witness matters more than your words.** When you live authentically—integrating truth, justice, mercy, and sacrifice in your daily life—others see the Law of the Gospel made visible. To live an authentic life is to live a life in communion with God, the Author, the Authority of all that is good, so that His perfect love flows through you to help others live their authentic life in communion with God. Your sacrificial love becomes evidence that God exists. Your joy in obedience becomes an invitation to freedom.
 
 As Jesus said, "You, therefore, must be perfect, as your heavenly Father is perfect" (Matthew 5:48). Not because perfection is a burden, but because it's your destiny. You were created to love as God loves—perfectly integrating all the facets we've explored. And when you pursue this perfection through grace, **others will come to know God through your sacrifice.**
 

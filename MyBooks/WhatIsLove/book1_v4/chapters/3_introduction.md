@@ -14,7 +14,7 @@ Years ago, before my reversion to the Catholic Church, when I was serving as a y
 
 One night at Youth Group I asked the group this piercing question: "Can we know absolutely for sure whether something is objectively good or evil?" Of the fifteen or so youth present, only one raised their hand to say "yes," one timidly thought "maybe," and the rest said "no."  They told me that it was dependent on the person's viewpoint—of what "their truth" was.
 
-I was SHOCKED to the core. This is not the language of the Church. This is not language we had ever used in the three years with them in Youth Group. I had been preaching "love" to them (a very superficial love without any detailed definition). Keep in mind, these were good and faithful youth who loved Jesus.
+I was SHOCKED to the core. This is not the language of the Church. This is not language we had ever used in the three years I had spent with them in Youth Group. I had been preaching "love" to them (a very superficial love without any detailed definition). Keep in mind, these were good and faithful youth who loved Jesus.
 
 But what they showed me was that society had become a much more powerful teacher, and its message was relativism. They were showing me the fruits of the "post-modernist" worldview that had successfully convinced them that "there is no objective truth." This is the worldview they swim in at public schools, in the media, in pop culture, and it had soaked in!
 
@@ -68,6 +68,8 @@ If all the law and the prophets depend on these two commandments to love, then, 
 
 And so I knew I had to go even deeper than I ever had before.
 
+I also discovered that God is truth and justice and mercy.
+
 As I rediscovered the Catholic Church of my youth, I found something extraordinary: Jesus had built a Church that he promised would be guided by the Spirit of truth, who "will guide you into all the truth" (John 16:13). And Paul tells us that the Church is "the pillar and bulwark of the truth" (1 Timothy 3:15).
 
 And so now, as I have been studying the historic Christian Church that traces its teaching all the way back to Jesus—a Church that has spent 2,000 years faithfully developing and clarifying its understanding of God's love through the guidance of the Holy Spirit—it has become clear to me how we can truly know how Jesus loved. With this clarity, I just had to write this book.
@@ -94,9 +96,9 @@ But what happens when we misunderstand love? We inevitably misunderstand salvati
 
 This is not the salvation the Bible teaches. Scripture speaks of salvation as transformation, as dying to self and rising with Christ, as heeding St. Paul's command to "work out your own salvation with fear and trembling" (Philippians 2:12), as becoming "partakers of the divine nature" (2 Peter 1:4). Biblical salvation is nothing less than being caught up into God's own life of perfect love—learning to love as He loves, to give as He gives, to sacrifice as He sacrificed. It's comprehensive, demanding, glorious, and utterly transformative.
 
-How did we lose sight of this transformative vision? By separating what God has joined together. **When we reduce salvation to "faith alone" in Jesus' mercy alone, we separate what God has joined together—for mercy cannot exist without truth and justice, just as faith cannot exist without love.** We create a salvation that costs nothing and changes nothing. When we make love optional or secondary to "faith alone," we gut the Gospel of its power and beauty. **We end up with a Christianity that can coexist quite comfortably with relativism**—with selfishness, with injustice, with broken families, with lives unchanged by grace—because we've lost sight of what we're actually being saved *for*: to love as God loves.
+How did we lose sight of this transformative vision? By separating what God has joined together. We'll address this more fully later in the book, but for now it's enough to say: when we reduce salvation to incomplete formulas, we create a salvation that costs nothing and changes nothing. **We end up with a Christianity that can coexist quite comfortably with relativism**—with selfishness, with injustice, with broken families, with lives unchanged by grace—because we've lost sight of what we're actually being saved *for*: to love as God loves.
 
-Think about the biggest questions we wrestle with as Christians today: What is salvation? What is sin? What is grace? What is the purpose of the sacraments? What does it mean to be holy? How do we fight evil? What is justice? What is mercy? How should we live? Understanding God's Perfect Love provides the framework that answers all of these questions. It's not just one theological concept among many—it's the key that unlocks everything else. When we understand what perfect love truly is, suddenly the entire Christian life comes into focus. We see that salvation is not escape from the world but transformation within it. We see that grace is not a legal fiction but real power to love authentically. We see that the sacraments are not empty rituals but encounters with divine love that change us. We see that holiness is not impossible perfection but growing capacity to participate in God's own life of self-giving love.
+Think about the biggest questions we wrestle with as Christians today: What is salvation? What is sin? What is grace? What is the purpose of the sacraments? What does it mean to be holy? How do we fight evil? What is justice? What is mercy? How should we live? Understanding God's Perfect Love provides the framework that answers all of these questions. It's not just one theological concept among many—it's the key that unlocks everything else. When we understand what God's perfect love truly is, suddenly the entire Christian life comes into focus. We see that salvation is not escape from the world but transformation within it. We see that grace is not a legal fiction but real power to love authentically. We see that the sacraments are not empty rituals but encounters with divine love that change us. We see that holiness is not impossible perfection but growing capacity to participate in God's own life of self-giving love.
 
 **This is why this book matters.** Not just for your own spiritual growth—though that's important—but for the children who are counting on us to get this right. The children in your family, your parish, your community and society. The children who will inherit the world we leave behind.
 
@@ -110,7 +112,7 @@ It sounds so simple, doesn't it? Yet, getting this wrong has devastating consequ
 
 Here is the definition I have come to believe is the heart of God's love and our human nature:
 
-**The sacred gift of covenant**
+**God's Perfect love is the sacred gift of covenant**
 — *binding truth, justice, mercy and sacrifice* —
 — *into life-giving communion* —
 
@@ -128,29 +130,15 @@ We'll journey together through these chapters:
 
 **Chapter 1: The Problem of Evil** - Evil originates in human hearts when we choose perceived goods for ourselves at the expense of others, creating waves of destruction that ripple through families and generations.
 
-**Chapter 2: The Answer is Love** - Presents God's Perfect Love as the sacred gift of covenant binding truth, justice, mercy, and sacrifice into life-giving communion; explains that "perfect" means complete and integrated (not flawless), and shows how each act of these virtues forms our souls to reflect Christ.
+**Chapter 2: The Answer is Love** - The answer to the problem of evil is God's Perfect Love.
 
-**Chapter 3: Sacred** - God IS love (not just "has" love), making love eternal and unchanging; demonstrates why love requires a transcendent personal source through five logical steps, reveals the Trinity as love's eternal pattern, and shows how every act of authentic love participates in divine nature itself.
-
-**Chapter 4: Gift of Covenant** - Distinguishes covenant (permanent, unconditional, "I'm yours no matter what") from contract (temporary, conditional, "as long as you meet my needs"); traces God's covenant pattern from Adam through the New Covenant, and explains that true authority flows from God as Author who invites voluntary submission to truth rather than imposing arbitrary rules through force.
-
-**Chapter 5: Binding** - Love is the force that holds truth, justice, and mercy together in perfect unity and integration, preventing fragmentation where truth "alone" becomes cruelty, justice "alone" becomes revenge, or mercy "alone" becomes enabling; demonstrates through Jesus and the woman caught in adultery how love binds these virtues so each serves the others.
-
-**Chapter 6: Truth** - Jesus IS Truth incarnate who died because of lies; truth is conformity of intellect to reality that makes all other facets of love possible (justice needs truth about human dignity, mercy needs truth about sin, sacrifice needs truth about genuine good); reveals that lying is the foundational sin destroying love at its source, and shows how Christ established His Church with divine authority to preserve truth across generations.
-
-**Chapter 7: Justice** - Every cry of "that's not fair!" proves God exists because objective justice requires a transcendent standard beyond human opinion; justice means giving each person what they're due based on imago Dei (Genesis 1:27), and prepares for mercy by establishing truth about what's been broken—without justice, mercy becomes meaningless sentiment.
-
-**Chapter 8: Mercy** - Mercy transcends justice by bearing the cost yourself rather than demanding the offender pay (sacrifice), but requires we forgive others to receive God's forgiveness (Matthew 6:14-15); exposes modern culture's merciless condemnation masquerading as justice, and shows how the Sacrament of Reconciliation reconnects isolated souls to the Body of Christ.
-
-**Chapter 9: Sacrifice** - Love stops being theory and becomes reality through concrete self-giving action; Christ's sacrifice perfectly integrates expiation (satisfying justice) and oblation (offering mercy), and every Mass makes His sacrifice present so we can participate in it, uniting our daily sacrifices with His to form our souls into His image and participate in His redemptive work.
-
-**Chapter 10: Life-Giving Communion** - The goal of all love is communion—participation in the Trinity's eternal self-giving that makes us fully alive (body, mind, soul integrated); Jesus' command, "You, therefore, must be perfect, as your heavenly Father is perfect" (Matthew 5:48), means complete/whole/holy communion with God and others, which is destroyed by lies fragmenting society and restored only through Holy Truth lived in the Eucharist, where Christ's Body unites us as one Body and calls us to become saints who multiply life rather than death.
+**Chapters 3-10** explore each facet of the definition of God's Perfect Love: Sacred (Chapter 3), Gift of Covenant (Chapter 4), Binding (Chapter 5), Truth (Chapter 6), Justice (Chapter 7), Mercy (Chapter 8), Sacrifice (Chapter 9), and Life-Giving Communion (Chapter 10).
 
 **PART 2: THE TEST OF LOVE (Chapters 11-14)**
 
 "Test everything; hold fast what is good." (1 Thessalonians 5:21)
 
-**Chapter 11: The New Law requires a Lawgiver** - Each facet of love reveals objective moral truth that cannot be reduced to evolutionary programming or cultural convention; demonstrates that if love exists as an objective law with universality, binding force, and perfect integration, it requires a lawgiver.
+**Chapter 11: The New Law requires a Lawgiver** - Each facet of love reveals objective moral truth that cannot be reduced to evolutionary programming or cultural convention; demonstrates that if love exists as an objective law with universality, binding force, and perfect integration, it requires a lawgiver. This section of the book shows how the definition of love is true through different ways of proving it.
 
 **Chapter 12: Virtues: Faith Working Through Love** - Comprehensive matrix demonstrates every virtue upholds and flows from the four pillars (truth, justice, mercy, sacrifice) while every vice denies or distorts them; proves faith is covenant exchange requiring all four pillars ("I recognize Your truth, promise obedience to Your justice, depend on Your mercy"), definitively refuting "faith alone" by showing justification is ongoing process requiring integration of all pillars from initial conversion through final perseverance.
 

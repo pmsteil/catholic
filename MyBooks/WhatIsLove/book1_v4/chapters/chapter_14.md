@@ -190,11 +190,11 @@ Various atheistic philosophies propose alternative "highest goods," but each col
 | Sacrifice | ✗ | ✓ |
 | Life-giving Communion | ✗ | ✓ |
 
-**What's Missing:** Relativism claims each person creates truth—destroying justice, truth itself, and communion. It's self-refuting: if there is no objective truth, then "my truth" is meaningless since truth by definition must correspond to reality.
+**What's Missing:** Relativism claims each person creates truth—destroying justice, truth itself, and communion. It's self-refuting: if there is no objective truth, then "my truth" is meaningless since truth by definition must correspond to reality. And multiple contradictory "truths" about the same thing prove there is no truth at all.
 
 **Why It Fails:** Society requires shared reality. Relativism makes love arbitrary and fragments communities into competing subjective preferences.
 
-**How Good Overcomes Evil:** God's Perfect Love calls us to live in objective truth that liberates us from the slavery of sin. "If you continue in my word, you are truly my disciples, and you will know the truth, and the truth will make you free" (John 8:32). Only truth grounded in reality enables authentic justice, mercy, and communion.
+**How Good Overcomes Evil:** God's Perfect Love calls us to live in objective truth that liberates us from the slavery of sin. "If you continue in my word, you are truly my disciples, and you will know the truth, and the truth will make you free" (John 8:32). Only truth grounded in reality—His Word, which encompasses all of creation, all of His revelation, and the truth of who He is written on our hearts—enables authentic justice, mercy, and communion.
 
 ---
 
@@ -226,7 +226,7 @@ Various atheistic philosophies propose alternative "highest goods," but each col
 
 ### Abortion: "My Body, My Choice"
 
-**The Appeal:** Abortion promises compassion for women in difficult circumstances and respects autonomy.
+**The Appeal:** Abortion promises compassion for women in difficult circumstances and attempts to honor autonomy.
 
 **Diagnostic Analysis:**
 
@@ -251,7 +251,7 @@ Various atheistic philosophies propose alternative "highest goods," but each col
 
 ### Same-Sex "Marriage": "Love Is Love"
 
-**The Appeal:** Same-sex "marriage" promises equality and celebrates love between any two people.
+**The Appeal:** Same-sex "marriage" promises equality with the idea of traditional marriage and the creation of a family.
 
 **Diagnostic Analysis:**
 
@@ -309,7 +309,7 @@ Various atheistic philosophies propose alternative "highest goods," but each col
 
 **A Note on Ecumenical Dialogue:** The 1999 *Joint Declaration on the Doctrine of Justification* between the Catholic Church and the Lutheran World Federation achieved significant consensus on justification, affirming that "by grace alone, in faith in Christ's saving work and not because of any merit on our part, we are accepted by God." Catholics and many Protestants agree that saving faith necessarily produces good works. The counterfeit addressed here is the more extreme position that separates faith entirely from its fruits—a position that even many Protestant traditions reject.
 
-**The Larger Context:** Grace is God's Perfect Love poured into our hearts. Christ's saving work is the perfect integration of truth, justice, mercy, and sacrifice displayed on the Cross. Justification exists within this larger reality—God's grace to justify is one moment within His Perfect Love that begins with Him as Author of Love and ends with Him as our eternal Communion.
+**The Larger Context:** Grace is God's Perfect Love poured into our hearts. Christ's saving work is the perfect integration of truth, justice, mercy, and sacrifice displayed on the Cross. Justification exists within this larger reality—God's grace to justify is not a time-stamped event but an aspect of His Perfect Love that begins with Him as Author of Love and ends with Him as our eternal Communion.
 
 **How Good Overcomes Evil:** God's Perfect Love works through "For in Christ Jesus neither circumcision nor uncircumcision is of any avail, but faith working through love" (Galatians 5:6). Authentic faith transforms the whole person and bears fruit in acts of justice, mercy, and sacrifice, because love is not just believed but lived. "Not every one who says to me, 'Lord, Lord,' shall enter the kingdom of heaven, but he who does the will of my Father who is in heaven" (Matthew 7:21).
 
@@ -362,11 +362,11 @@ Various atheistic philosophies propose alternative "highest goods," but each col
 ³Presumption replaces perseverance
 ⁴No ongoing transformation or growth
 
-**What's Missing:** "Once saved, always saved" presumes eternal security regardless of sin, destroying sacrifice (no ongoing discipleship), covenant (no perseverance), and transformation (no continued conversion). Christ came to free us from sin's slavery, but ignoring sin means we remain enslaved.
+**What's Missing:** "Once saved, always saved" presumes eternal security regardless of sin (no justice, and no mercy for the offender or the offended), destroying sacrifice (no ongoing discipleship), covenant (no perseverance), and transformation (no continued conversion). Christ came to free us from sin's slavery, but ignoring sin means we remain enslaved.
 
-**Why It Fails:** Contradicts Scripture: "Therefore, my beloved, as you have always obeyed, so now, not only as in my presence but much more in my absence, work out your own salvation with fear and trembling" (Philippians 2:12). "If we say we have no sin, we deceive ourselves, and the truth is not in us" (1 John 1:8). Enables moral complacency and presumption.
+**Why It Fails:** Contradicts hundreds of places in the New Testament—the Gospels and all the Epistles—that direct us to turn away from sin and turn toward God's perfect love. "Therefore, my beloved, as you have always obeyed, so now, not only as in my presence but much more in my absence, work out your own salvation with fear and trembling" (Philippians 2:12). "If we say we have no sin, we deceive ourselves, and the truth is not in us" (1 John 1:8). Enables moral complacency and presumption.
 
-**How Good Overcomes Evil:** God's Perfect Love calls us to persevere in grace through ongoing conversion and cooperation with the Holy Spirit until death. Authentic love requires faithful covenant living, costly sacrifice, and continuous transformation. "You, therefore, must be perfect, as your heavenly Father is perfect" (Matthew 5:48).
+**How Good Overcomes Evil:** God's Perfect Love calls us to persevere in grace—to persevere in our relationship with God and others by doing His truth, justice, mercy, and sacrifice—through ongoing conversion and cooperation with the Holy Spirit until death. Authentic love requires faithful covenant living, costly sacrifice, and continuous transformation. "You, therefore, must be perfect, as your heavenly Father is perfect" (Matthew 5:48).
 
 ---
 
