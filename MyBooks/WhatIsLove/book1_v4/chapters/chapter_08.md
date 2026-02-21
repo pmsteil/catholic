@@ -195,13 +195,15 @@ Every time we repent of our sin and turn back to God, we prevent future conseque
 
 ## Binding Check
 
-What happens to mercy when it's cut off from the other pillars?
+Mercy is the pillar most often mistaken for the whole of love — which means its distortions are the most common, and the hardest to see. Listen for these:
 
-- **Mercy without Truth** becomes enabling. You "forgive" sins you refuse to name.
-- **Mercy without Justice** becomes injustice to the victim. The offender pays nothing; the wounded keep suffering.
-- **Mercy without Sacrifice** becomes sentimentality. Forgiveness that costs you nothing is just indifference.
+*"I'm just being understanding."* Mercy without justice. The offender feels forgiven; the wounded keep suffering.
 
-Every pillar needs the others. Love binds them all.
+*"I don't want to make it worse."* Mercy without truth. The sin goes unnamed, the wound festers, and nothing actually heals.
+
+*"Of course I forgive you."* Said quickly, before anything costs you. Mercy without sacrifice. Nothing changes because nothing was paid.
+
+Mercy untethered from the other pillars isn't gentleness. It is a form of abandonment dressed as love.
 
 ## The Bridge to Sacrifice
 

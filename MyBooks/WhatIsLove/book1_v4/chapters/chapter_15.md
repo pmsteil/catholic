@@ -22,7 +22,7 @@ Adults debate autonomy, equality, personal authenticity, and happiness. They cra
 
 This isn't about ideas—it's about children experiencing real suffering. These wounds compound across generations, creating cascading destruction that threatens civilization itself.
 
-If God is love, and as Christians we are called to love one another, then our love should pass a most important test: **Does it give children what they need to flourish?** The previous chapter examined fifteen counterfeits and identified exactly what each is missing from God's Perfect Love. Now we apply the ultimate test: What do they do to children? The answer is devastating: every counterfeit harms children because it lacks essential components of God's Perfect Love.
+If God is love, and as Christians we are called to love one another, then our love should pass a most important test: **Does it give children what they need to flourish?** The previous chapter examined twelve counterfeits through the diagnostic matrix. This chapter applies the ultimate test—What do they do to children?—and extends the analysis to fifteen counterfeits, adding three that affect children most acutely through family structure: cohabitation, no-fault divorce, and hookup culture. The answer is devastating: every counterfeit harms children because it lacks essential components of God's Perfect Love.
 
 Jesus' words are uncompromising: causing little ones to stumble merits the harshest judgment. Their angels behold the Father's face. They are not collateral damage. They are the ones who suffer the most.
 
@@ -235,8 +235,6 @@ Which child do you want for the next generation? The choice is ours. The consequ
 
 "I call heaven and earth to witness against you this day, that I have set before you life and death, blessing and curse; therefore choose life, that you and your descendants may live" (Deuteronomy 30:19).
 
-
-God's Perfect Love is not just the answer to the problem of evil in theory. It is the answer to the problem of evil in practice—the only foundation that gives children what they need to flourish across generations and actually fight against evil. For their sake, for the sake of civilization itself, we must choose authentic love over its counterfeits. We must choose life.
 
 But where does this Perfect Love come from? How do we access it? The answer is not a philosophy or a program—it's a Person. In the next chapter, we turn to the source: Jesus Christ, who IS God's Perfect Love incarnate.
 

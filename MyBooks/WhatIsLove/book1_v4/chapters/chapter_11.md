@@ -18,11 +18,13 @@
 
 We've spent ten chapters unpacking what God's perfect love is: the sacred gift of covenant binding truth, justice, mercy and sacrifice into life-giving communion. We've seen how each facet combats specific forms of evil. We've explored how this love creates authentic relationships and transforms human hearts. Chapter 10 ended with a call to become saints—to let God's perfect love transform us so completely that others encounter Christ through our witness.
 
-But here's the challenge: When you share this vision of love with others—especially skeptics—they may push back with a fundamental question: *How do you know God even exists?* If love is truly a law—as universal and binding as the law of gravity—how do we know it's not just evolutionary programming or cultural convention?
+Before we go further, we need to pause and check the ground beneath our feet.
 
-It's a fair question. If we're basing our entire understanding of love on God's nature, we need to establish that God is real.
+Everything we've explored—love's objectivity, its binding demands, its sacred character—only holds if God actually exists. This is not a detour. This is the foundation check. We've been building on the claim that love is a law as real and universal as gravity. But laws require lawgivers. If that claim is wrong, the entire architecture collapses. So the question is not peripheral: it is the question on which everything else depends.
 
-The very definition of love we've been exploring provides powerful evidence for God's existence. This chapter presents the **moral argument**: if love exists as an objective law with the characteristics we've discovered, it requires a lawgiver.
+*How do we know God exists?* If love is truly a law—as universal and binding as the law of gravity—how do we know it's not just evolutionary programming or cultural convention?
+
+It's a fair question. And here is the remarkable answer: the very definition of love we've been exploring *provides the proof*. This chapter presents the **moral argument**: if love exists as an objective law with the characteristics we've discovered, it requires a lawgiver. We don't have to assume God to begin—we can reason our way to God from the reality of love itself.
 
 ## The Moral Argument: Classic Form
 

@@ -251,13 +251,15 @@ Authentic sacrifice loves the person for WHO they are (imago Dei), not WHAT they
 
 ## Binding Check
 
-What happens to sacrifice when it's cut off from the other pillars?
+Think of the parent who gives everything — every evening, every dollar, every ounce of energy — and whose child grows up anxious, guilty, and unable to receive love freely. What went wrong?
 
-- **Sacrifice without Truth** becomes self-destruction. You pour yourself out for a lie, or for someone's false "good."
-- **Sacrifice without Justice** becomes manipulation. "After everything I've done for you" weaponizes the gift.
-- **Sacrifice without Mercy** becomes martyrdom complex. You suffer loudly so others feel the debt.
+*Sacrifice without truth:* they poured themselves out for what the child *wanted*, not what the child *needed*. The sacrifice was real; the direction was false.
 
-Every pillar needs the others. Love binds them all.
+*Sacrifice without justice:* the debt was never named, so the child could never repay it — or refuse it. The gift became a claim.
+
+*Sacrifice without mercy:* there was no room to fail, only to receive perfectly. Love with no exit is a kind of prison.
+
+Sacrifice untethered is not heroism. It is a weight placed on the one you love. The other pillars are what make it a gift instead of a burden.
 
 ## The Bridge to Life-Giving
 

@@ -20,6 +20,8 @@
 
 ---
 
+Consider the Lord's Passion. In a single act, Christ offers truth (His body broken for our sin), justice (the debt paid in full), mercy (forgiveness freely given), and sacrifice (Himself, held back nothing). None cancels the others. All serve the others. That is what binding looks like—and Chapter 10 will dwell there fully. For now, hold the image: perfect integration, nothing left out, nothing distorted. Then consider what happens when any one piece is removed.
+
 ## The Problem of Fragmentation
 
 Truth without mercy becomes the Pharisees demanding the adulteress be stoned. Mercy without truth becomes the parent who pays for their child's addiction rather than insisting on treatment. Justice without mercy becomes endless cycles of retaliation. Mercy without justice becomes the abuser forgiven while victims suffer.
@@ -32,7 +34,7 @@ This is why our definition of perfect love includes the word "binds"—love hold
 
 ## What Children Know About Binding
 
-In Chapter 4, we saw the devastation when covenant breaks—"Mommy and Daddy are getting divorced." But now consider what comes *after*. Consider the lived reality of fragmentation:
+Chapter 4 ended with the moment covenant breaks. This chapter is about what comes *after*—the lived reality of the binding gone:
 
 *"Tell your mother I said..."*
 
@@ -40,17 +42,11 @@ In Chapter 4, we saw the devastation when covenant breaks—"Mommy and Daddy are
 
 *"Which parent do you want to live with?"*
 
-Two houses. Two sets of rules. Two warring factions. What was once one family is now fragmented into competing loyalties. The child isn't just hurt by the covenant breaking—they're torn apart by the unity shattering.
+Two houses. Two sets of rules. Two warring factions. The child isn't just hurt—they're *torn*. And here is the most tragic consequence: fragmentation doesn't just wound a child, it *corrupts* them.
 
-Chapter 4 addressed the *promise* breaking—"They said forever. They lied." This chapter is about the *unity* shattering—"I'm torn between two worlds that should be one." The moment of breaking versus the lived reality of fragmentation.
+Watch what happens. The child learns to play one parent against the other: "If you don't let me, I'll go live with Dad." In a unified family, both parents present a unified front—truth, justice, and mercy work together because the parents themselves are bound in love. When that binding breaks, the child discovers that factions can be manipulated. They carry that discovery into every future relationship: unity is naive, authority can be exploited, commitments can be leveraged.
 
-And here is the most tragic consequence: fragmentation doesn't just wound the child—it *corrupts* them.
-
-Watch what happens when parents use the child as a weapon against each other. The child learns to play one against the other: "If you don't let me, I'll go live with Dad." "Mom always lets me do this." In a unified family, both parents present a unified front—truth, justice, and mercy work together because mother and father are bound together in covenant love. But when that binding breaks, the child discovers that factions can be manipulated, that running to the other parent offers escape from accountability.
-
-This isn't just sad—it's corruption. The child who learns to manipulate fragmented authority carries those patterns into every future relationship: commitments can be leveraged, people can be played against each other, unity is naive.
-
-The wound of divorce creates harm. The fragmentation that follows corrupts. This is what happens when the binding force of love is broken—not just pain, but the distortion of the very virtues that humanize us.
+The wound creates harm. The fragmentation that follows corrupts. This is what happens when love's binding force is broken—not just pain, but the distortion of the very virtues that humanize us.
 
 ## How Love Binds Truth, Justice, Mercy, and Sacrifice
 
@@ -62,7 +58,24 @@ Love doesn't choose between these virtues—it binds them together. Truth serves
 
 ## The Woman Caught in Adultery: Perfect Integration
 
-Jesus' encounter with the woman caught in adultery (John 8:1-11) perfectly demonstrates this binding: He acknowledges the truth of her sin without denying it. He upholds the Law's authority while exposing hypocrisy. He offers mercy—"Neither do I condemn you"—while demanding transformation—"Go, and from now on do not sin any more." This is perfect love in action: truth, justice, mercy, and sacrifice working together as one, each serving the others.
+If you want to see binding in a single scene, read John 8:1-11.
+
+The scribes and Pharisees drag a woman before Jesus in the Temple courts. She has been caught in adultery—the Law of Moses is clear, and they invoke it: she must be stoned. They have engineered a trap with no good exit. If Jesus upholds the Law, He is the harsh judge, not the merciful teacher. If He dismisses the Law, He is a fraud who undermines Scripture. The trap works precisely because it forces a choice between fragments: truth *or* mercy, justice *or* compassion.
+
+Jesus refuses the choice. He binds them.
+
+He does not deny her sin—He acknowledges the truth of it. He does not undermine the Law—He upholds its authority while exposing the accusers' own guilt ("Let the one among you who is without sin be the first to throw a stone"). He does not excuse her—He demands real transformation ("Go, and from now on do not sin any more"). And He does not abandon her—He kneels in the dust beside a condemned woman and becomes her advocate at the cost of His own standing.
+
+Look at what each fragment alone would have produced:
+
+- **Truth without mercy:** The stones fly. The Law is satisfied. Nothing is healed.
+- **Mercy without truth:** "Don't worry about it." She walks away unchanged. The wound festers.
+- **Justice without compassion:** Execution. The accusers are vindicated. The woman is erased.
+- **Compassion without justice:** The Law collapses. Future victims lose their protection.
+
+Instead, Jesus binds them. Truth is spoken *through* mercy. Justice is upheld *through* compassion. Mercy is granted *through* the call to conversion. Sacrifice is made *through* the willingness to bear the cost of standing with her. Every facet serves the others. None is discarded. The woman is not destroyed and not excused—she is *restored*.
+
+This is what binding does. This is why our definition of love cannot drop the word.
 
 ## Unity in Diversity: The Body of Christ
 

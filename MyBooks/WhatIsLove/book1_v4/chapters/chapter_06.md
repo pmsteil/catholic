@@ -260,9 +260,9 @@ The Church's commitment to truth isn't opposed to love—it's an expression of l
 
 What happens to truth when it's cut off from the other pillars?
 
-- **Truth without Justice** becomes abstract. You can know what's right and never defend anyone.
-- **Truth without Mercy** becomes cruelty. The Pharisees were factually correct about the adulteress—and wanted to stone her with that correctness.
-- **Truth without Sacrifice** becomes cheap talk. Truth that costs you nothing changes nothing.
+- **Truth without Justice** becomes a spectator sport. You can know what's right, name what's wrong, and never move a muscle to defend anyone.
+- **Truth without Mercy** becomes a weapon. The Pharisees were factually correct about the adulteress — and they were about to kill her with that correctness.
+- **Truth without Sacrifice** becomes opinion. Truth you won't pay for is truth you don't actually believe.
 
 Every pillar needs the others. Love binds them all.
 

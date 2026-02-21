@@ -7,3 +7,4 @@
 - Completed "Ruthless edit" waves: August 23, 2025
 - Begin v4 rewrite: 10/2/25
 - v4 Draft 1: 10/8/25
+- Finalizing v4 Draft: 2/21/26
