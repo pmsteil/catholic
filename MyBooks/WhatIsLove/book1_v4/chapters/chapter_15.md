@@ -22,7 +22,7 @@ Adults debate autonomy, equality, personal authenticity, and happiness. They cra
 
 This isn't about ideas—it's about children experiencing real suffering. These wounds compound across generations, creating cascading destruction that threatens civilization itself.
 
-If God is love, and as Christians we are called to love one another, then our love must pass the most important test: **Does it give children what they need to flourish?** The previous chapter examined fifteen counterfeits and identified exactly what each is missing from God's Perfect Love. Now we apply the ultimate test: What do they do to children? The answer is devastating: every counterfeit harms children because it lacks essential components of God's Perfect Love.
+If God is love, and as Christians we are called to love one another, then our love should pass a most important test: **Does it give children what they need to flourish?** The previous chapter examined fifteen counterfeits and identified exactly what each is missing from God's Perfect Love. Now we apply the ultimate test: What do they do to children? The answer is devastating: every counterfeit harms children because it lacks essential components of God's Perfect Love.
 
 Jesus' words are uncompromising: causing little ones to stumble merits the harshest judgment. Their angels behold the Father's face. They are not collateral damage. They are the ones who suffer the most.
 

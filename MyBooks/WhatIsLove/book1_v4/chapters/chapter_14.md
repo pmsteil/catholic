@@ -226,7 +226,7 @@ Various atheistic philosophies propose alternative "highest goods," but each col
 
 ### Abortion: "My Body, My Choice"
 
-**The Appeal:** Abortion promises compassion for women in difficult circumstances and attempts to honor autonomy.
+**The Appeal:** Abortion promises compassion for women in difficult circumstances and attempts to honor individual autonomy.
 
 **Diagnostic Analysis:**
 
@@ -246,6 +246,14 @@ Various atheistic philosophies propose alternative "highest goods," but each col
 **What's Missing:** Abortion denies the child's personhood and claims absolute autonomy over another person's body, destroying the sacred (killing the image-bearer), justice (denying the child's right to life), and life-giving communion (severing the parent-child bond through violence). The debate focuses on adult autonomy while ignoring the child's death—the ultimate injustice.
 
 **Why It Fails:** Over 60 million children dead in America since 1973. Mothers wounded. An entire generation eliminated. The "solution" to crisis pregnancy is killing the child—the opposite of love—confirming the truth that "the wages of sin is death."
+
+But the statistics hide the personal devastation. The woman who chose abortion in the name of her own autonomy did not gain freedom—she lost something irreplaceable inside herself. She sought to be the author of her own story, but the act of ending her child's life wrote a chapter she cannot unwrite. The grief that follows is unlike ordinary grief: it cannot be spoken easily, because to name the loss is to name what was lost—a person, her child. Many women carry this wound for decades in silence: the anniversary dates, the wondering, the dreams. Psychologists call it post-abortion syndrome; the Church calls it what it is—a wound to the soul that touches the deepest place a human being can be wounded, the place where love and life and communion meet.
+
+This is the bitter irony of counterfeit autonomy: in the act of asserting absolute control over her own body, she exercised absolute and irreversible power over another person's existence—and in doing so, destroyed a part of herself. The individual autonomy she sought became the instrument of her own interior destruction. She did not become more free. She became bound—to guilt, to grief, to a secret that reshapes every relationship that follows.
+
+No therapist, no political movement, no amount of cultural affirmation can reach this wound. "No Regrets" is a slogan, not a healing. Only One who is both perfectly just and perfectly merciful can forgive what no human court can try and heal what no human hand can reach. Jesus Christ, who said "Come to me, all you who are weary and burdened, and I will give you rest" (Matthew 11:28), is the only answer to this particular darkness. His mercy is not cheap—it does not pretend the child did not exist—but it is real, and it is offered. The Church's *Project Rachel* ministry exists precisely because the wound is real and the healing is possible, but only through Him.
+
+It is worth pausing to recognize what this reveals about the nature of sin itself. Abortion may be the most diagnostically complete sin in human experience: it violates every component of Perfect Love simultaneously, and a careful examination finds it in conflict with all ten commandments—from the first (placing self above God as lord of life and death) through the last (coveting the unburdened life of others). It also embodies all seven deadly sins: the pride that claims sovereignty over life, the lust that treated a person as an object, the sloth that refuses the sacrifice of parenthood, the greed that hoards an unencumbered future, the envy of others' freedom, the gluttony of self-comfort, and the wrath turned against the most innocent. This is why Catholics intuitively feel the full weight of this sin in a way that secular culture cannot explain—we are formed by the very framework that abortion violates completely. No other single act so thoroughly maps onto the full anatomy of sin, which is precisely why no merely human remedy can reach it, and why only the One who conquered sin itself can heal it.
 
 **How Good Overcomes Evil:** God's Perfect Love recognizes every human life as sacred gift from conception, calling parents to welcome and protect life through sacrifice—even when costly or inconvenient. "Before I formed you in the womb I knew you, and before you were born I consecrated you; I appointed you a prophet to the nations" (Jeremiah 1:5). Authentic love is ordered to life and builds communion across generations, providing support for mothers in crisis rather than eliminating their children.
 
@@ -273,7 +281,7 @@ Various atheistic philosophies propose alternative "highest goods," but each col
 
 **What's Missing:** Same-sex "marriage" claims love alone makes marriage regardless of sexual complementarity, destroying truth (denying bodily design), covenant (rejecting complementary union), and life-giving communion (sexual acts inherently closed to procreation cannot image God's creative love). Adults debate 'equality' while children are intentionally deprived of mother or father—denied the complementary love that models justice and mercy together.
 
-**Why It Fails:** Marriage isn't about fulfilling desires—it's about creating new life and living for children. Children need both mother and father, yet we've made marriage about adult satisfaction rather than the next generation's flourishing.
+**Why It Fails:** Marriage is not a legal arrangement between two people who love each other—it is a covenantal, familial relationship with God Himself, entered into by a man and a woman whose complementary bodies are the only union capable of, and ordered toward, producing the family that covenant requires. This is not a restriction imposed on marriage from outside; it is what marriage *is*. A union that is by nature incapable of or closed to producing family is not a different kind of marriage—it is not marriage at all, any more than a triangle with four sides is a different kind of triangle. Redefining marriage to mean something other than the covenantal union of man, woman, and God open to new life does not expand marriage; it dissolves it. Children need both mother and father, yet we've made marriage about adult satisfaction rather than the next generation's flourishing—and in doing so, we have not liberated love but abandoned it.
 
 **How Good Overcomes Evil:** God's Perfect Love establishes marriage as the complementary union of man and woman whose bodies are designed for one-flesh communion naturally ordered to creating and nurturing new life. This alone images the Trinity's life-giving love. "Male and female he created them. And God blessed them, and God said to them, 'Be fruitful and multiply'" (Genesis 1:27-28).
 
@@ -362,7 +370,7 @@ Various atheistic philosophies propose alternative "highest goods," but each col
 ³Presumption replaces perseverance
 ⁴No ongoing transformation or growth
 
-**What's Missing:** "Once saved, always saved" presumes eternal security regardless of sin (no justice, and no mercy for the offender or the offended), destroying sacrifice (no ongoing discipleship), covenant (no perseverance), and transformation (no continued conversion). Christ came to free us from sin's slavery, but ignoring sin means we remain enslaved.
+**What's Missing:** "Once saved, always saved" presumes eternal security regardless of sin (no justice, and no mercy for the offender or the offended), destroying sacrifice (no obligation to ongoing discipleship), covenant (no perseverance), and transformation (no continued conversion). Christ came to free us from sin's slavery, but ignoring sin means we remain enslaved.
 
 **Why It Fails:** Contradicts hundreds of places in the New Testament—the Gospels and all the Epistles—that direct us to turn away from sin and turn toward God's perfect love. "Therefore, my beloved, as you have always obeyed, so now, not only as in my presence but much more in my absence, work out your own salvation with fear and trembling" (Philippians 2:12). "If we say we have no sin, we deceive ourselves, and the truth is not in us" (1 John 1:8). Enables moral complacency and presumption.
 

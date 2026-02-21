@@ -123,7 +123,7 @@ When Jesus commands us to "be perfect," He's not demanding sinless performance. 
 
 This same call echoes through the Old Testament. When God commands "Be holy, for I, the LORD your God, am holy" (Leviticus 19:2), He's saying: **"Be wholly Mine, as I am wholly yours. Let your love be complete—true, just, merciful, and self-giving—so that you may live in perfect communion with Me, sharing in My own wholeness."**
 
-Holiness IS wholeness. The word "holiness" comes from "whollyness"—being wholly God's, wholly integrated, wholly alive in communion with Him.
+Holiness is wholeness. In English, holy comes from an old word-family tied to whole, hale, health, and heal, pointing to being made complete and sound. Holiness is being set apart for God and made whole in communion with Him. To "be holy" is to be "whole" in communion with God.
 
 <div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
 When Jesus commands us to 'be perfect,' He's inviting us into wholeness—the communion that makes us fully alive.
@@ -150,9 +150,10 @@ And the father, witnessing this sacred communion, enters into it—three distinc
 
 Every other moment of true communion also echoes this:
 
-- The marriage vows when you become one flesh
-- Holding a dying parent's hand as they pass into eternity
-- Deep prayer when you sense God's presence
+- A moment in prayer so deep that you know, without doubt, you are not alone
+- The marriage vows when two become one flesh
+- The first cry of a newborn, when a family becomes more whole than it was before
+- Weeping at a graveside, where the depth of your grief reveals the depth of your love
 - **Receiving the Eucharist when Christ becomes one with you**
 
 These are the moments when you're WHOLE. When body, heart, mind, and soul are fully integrated in love. When you're living what "You, therefore, must be perfect, as your heavenly Father is perfect" (Matthew 5:48) means: perfect, complete, holy communion.
@@ -198,7 +199,7 @@ And here is the discovery:
 
 **Mind:** We understand the mystery through faith—"This is my body... this is my blood." Your mind grasps what your senses cannot perceive. You believe what seems impossible. You trust what you cannot see. This is faith—the mind submitting to divine truth.
 
-**Soul:** We're transformed into what we receive—becoming Christ's Body in the world. Your soul, made in God's image, is conformed to Christ's image. You become what you eat. You are transformed into Him. St. Augustine recorded in his *Confessions* (VII.10.16) hearing Christ say: "I am the food of grown men; grow, and you shall feed upon Me; nor shall you change Me, like the food of your flesh, into yourself, but you shall be changed into Me."
+**Soul:** We're transformed into what we receive—becoming Christ's Body in the world. Your soul, made in God's image, is conformed to Christ's image. You become what you eat. You are transformed into Him. St. Augustine recorded in his *Confessions* (VII.10.16), as if he heard this voice from on high: "I am the food of grown men; grow, and you shall feed upon Me; nor shall you change Me, like the food of your flesh, into yourself, but you shall be changed into Me."
 
 This is love at its most life-giving: The Beloved becomes food for the beloved. The Creator becomes sustenance for the creature. God becomes bread so we can have life.
 
@@ -239,9 +240,9 @@ One of the most beautiful aspects of Catholic teaching is the communion of saint
 
 - **Church Triumphant** (saints in heaven) pray for us, intercede for us, cheer us on
 - **Church Suffering** (souls in purgatory) are being purified—we can help them through our prayers and sacrifices
-- **Church Militant** (us on earth) are fighting the good fight against evil with love as our primary weapon, united with each other and with all the saints
+- **Church Militant** (us on earth) are fighting the good fight, united with each other and with all the saints across time
 
-This means you're never alone. You're part of a covenant communion or Body of Christ that spans heaven and earth, past and present, time and eternity.
+This means you're never alone. You're part of a covenant communion—the Body of Christ—that spans heaven and earth, past and present, time and eternity. The faith you received was handed on by this communion, and you are called to hand it on in turn.
 
 When you pray, you pray with all the saints. When you suffer, you suffer with Christ and all who have suffered before you. When you rejoice, you rejoice with the whole communion of saints. When you receive the Eucharist, you're united not just with Christ but with every believer who has ever received Him.
 

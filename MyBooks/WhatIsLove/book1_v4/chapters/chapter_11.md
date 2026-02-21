@@ -116,7 +116,7 @@ This is **natural law**—the moral order God has written on every human heart. 
 
 [^1]: For a comprehensive exploration of cross-cultural moral agreement, see C.S. Lewis's *The Abolition of Man*, Appendix: "Illustrations of the Tao," which documents remarkably similar moral principles across diverse cultures and time periods.
 
-This explains why atheists can be moral people—they're discovering the moral order God has written on their hearts. But recognizing moral truth and grounding moral truth are different things. Atheists can recognize that murder is wrong, but they can't explain *why* it's objectively wrong without destroying its objective nature if they don't invoke God.
+This explains why atheists can be moral people—they're discovering the moral order God has written on their hearts. But recognizing moral truth and grounding moral truth are different things. Atheists can recognize that murder is wrong, but they can't explain *why* it's objectively wrong without destroying its objective nature if they don't invoke some source outside their own opinions.
 
 ## The Integration Points to Intelligence
 
@@ -126,7 +126,7 @@ The way love integrates truth, justice, mercy, sacrifice, covenant, life-giving,
 
 For those who live authentically—experiencing love's objective requirements and perfect integration—God's existence becomes undeniable. As St. Paul writes, God's "invisible nature, namely, his eternal power and deity, has been clearly perceived in the things that have been made" (Romans 1:20).
 
-Yet some still don't believe—not because the evidence is insufficient, but because "they suppress the truth" (Romans 1:18). Atheism requires us to believe that objective moral truth emerged from mindless matter, that universal obligations arose from evolutionary accidents. As Protestant pastor Frank Turek aptly put it: I don't have enough "faith" to be an atheist.
+Yet some still don't believe—not because the evidence is insufficient, but because "they suppress the truth" (Romans 1:18). Atheism requires us to believe that objective moral truth emerged from mindless matter, that universal obligations arose from evolutionary accidents. As Protestant pastor Frank Turek (pray for his reversion to the Church) aptly put it: I don't have enough "faith" to be an atheist.
 
 Theism is simpler: Objective moral truth exists because God exists. Love has objective requirements because God is love.
 
@@ -164,7 +164,7 @@ If you've recognized the Law of the Gospel in your own life—if you've experien
 
 Every person you meet already lives according to this law imperfectly—it's the water they swim in. When they speak truth, demand justice, show mercy, or sacrifice for their children, they're encountering the God who is Love.
 
-**Our role as good Catholics isn't to teach how the Church imposes this law, but to show people that this law is already written on their hearts, and that it is a gift that is freely received from the Author of the law who is the Father, Son, and Holy Spirit.** It's to gently help them recognize what they already know deep within:
+**Our role as good Catholics isn't to teach how the Church imposes this law, but to show people that this law is already written on their hearts, and that it is a gift that is freely received from the Author of the law who is the Father, Son, and Holy Spirit.** It's to gently help them recognize what they already partially know deep within and to help them submit to the fullness of this law.
 
 **With non-believers:** Don't start by arguing theology. Start by affirming what they already recognize. "You believe that's wrong—why? What makes it objectively wrong?" Help them see that their moral convictions point to something beyond themselves. The law is already written on their hearts; you're just helping them read it.
 

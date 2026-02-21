@@ -297,7 +297,7 @@ The Seven Deadly Sins (Capital Vices) are called "deadly" because they are *root
 
 The matrix above shows which pillars each deadly sin offends. Here's what each leads to when left unchecked:
 
-- **Pride** → Idolatry, selfishness, ingratitude, disobedience, presumption, contempt for others, spiritual blindness
+- **Pride** → Idolatry, selfishness, ingratitude, disobedience, presumption, contempt for others, spiritual blindness, all the other sins
 - **Greed** → Exploitation, fraud, theft, hardness of heart toward the needy
 - **Lust** → Adultery, fornication, pornography, exploitation, broken families
 - **Wrath** → Murder, war, violence, hatred, revenge, broken relationships
@@ -309,12 +309,11 @@ The matrix above shows which pillars each deadly sin offends. Here's what each l
 
 The deadly sins typically follow this pattern:
 
-1. **Temptation:** The initial attraction to the vice
-2. **Consent:** Giving in to the temptation (may be venial at first)
-3. **Habit:** Repeated acts form a pattern
-4. **Hardening:** The conscience becomes dulled
-5. **Mortal Sin:** Eventually leads to grave matter with full consent
-6. **Spiritual Death:** Complete separation from God if unrepented
+1. **Temptation:** The initial attraction to the vice—not yet sin
+2. **Consent:** Giving in to the temptation—this is sin, and if the matter is grave, it is mortal from this moment
+3. **Habit:** Repeated acts form a pattern, deepening the vice
+4. **Hardening:** The conscience becomes dulled, making repentance harder
+5. **Spiritual Death:** Complete separation from God if unrepented
 
 **This is why we must resist these vices at the earliest stages.** What begins as a small giving-in can grow into a deadly habit that destroys our souls. This is precisely why St. Paul distinguishes between mortal and venial sin: it honors the truth of human dignity both for the offender and the offended. To equate a momentary lustful glance with the sin of murder is unjust and unmerciful—which makes it untrue. None of these conditions could arise from a God who is all truth and mercy.
 
@@ -492,14 +491,15 @@ When all three conditions are present, the sin is mortal—it severs our relatio
 **Second Commandment (Don't take God's name in vain):** *(Violates: Truth about God's holiness, Justice owed to God's name)*
 - Have I used God's name irreverently or blasphemed?
 - Have I broken vows or oaths made in God's name?
-- Have I cursed others in God's name?
+- Have I misrepresented God or His teachings?
+- Have I gave a witness as a Christian who treated others with injustice, cruelty, or contempt?
 
 *See Also: Exodus 20:7; CCC 2142-2167*
 
 **Third Commandment (Keep holy the Sabbath):** *(Violates: Truth about worship, Justice owed to God, Sacrifice of time)*
 - Have I missed Mass on Sunday or Holy Days without serious reason or permission from my parish priest?
 - Have I done unnecessary work on Sunday that prevented rest, worship, and building of family relationships?
-- Have I treated Sunday as just another day?
+- Have I treated Sunday as just another work day?
 
 *See Also: Exodus 20:8-11; CCC 2168-2195*
 
@@ -519,7 +519,7 @@ When all three conditions are present, the sin is mortal—it severs our relatio
 *See Also: Exodus 20:13; CCC 2258-2330*
 
 **Sixth Commandment (Don't commit adultery):** *(Violates: Truth about sexuality, Justice owed to spouse/self/children, Sacrifice of self-control)*
-- Have I committed adultery or fornication?
+- Have I engaged in the marital act outside of the sacrament of marriage?
 - Have I used pornography or engaged in masturbation?
 - Have I entertained impure thoughts deliberately?
 - Have I been immodest or led others into sexual sin?

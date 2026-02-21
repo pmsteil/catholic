@@ -86,7 +86,7 @@ This is why sacrifice isn't a burden—it's liberation. It frees us from the pri
 
 ## The Biblical Foundation: From Shadow to Reality
 
-An entire book could be written about the Old Testament sacrifices and how Jesus completes all of them.[^1] Here I just want to touch briefly on the three biggest sacrifices that Jesus fulfills and that help us understand the nuances of love.
+Entire books have been written about the Old Covenants and how Jesus fulfills them (see the Recommended Reading section at the end of this chapter). Here I just want to touch briefly on the three biggest sacrifices that Jesus fulfills and that help us understand the nuances of love.
 
 The Old Testament sacrificial system wasn't arbitrary religious ritual—it was God teaching His people what love actually requires. Every sacrifice pointed to a deeper reality about the nature of love itself.
 
@@ -128,7 +128,7 @@ At every Mass, several things happen simultaneously:
 
 **We Enter Christ's Eternal Offering:** The Mass makes present Christ's one sacrifice on Calvary—not repeating it or adding to it, but entering into it. It's like a curtain is pulled back, and we are suddenly standing at the foot of the Cross. The same sacrifice offered once for all becomes present here and now.
 
-This is possible because Christ's sacrifice is not trapped in the past. In Revelation 5:6, John sees Jesus in heaven as "a Lamb standing, as though it had been slain"—risen and alive, yet bearing the wounds of His passion eternally before the Father. The one sacrifice offered on Calvary is perpetually present in the heavenly liturgy. When Jesus said "Do this in remembrance of me," He used the word *anamnesis*—not mere mental recall, but the same liturgical re-presentation by which Jews at Passover understood themselves to be genuinely participating in the Exodus. The Mass doesn't repeat the Cross or add to it; it joins us to what Christ is eternally doing. We step out of ordinary time and into sacred time, where past, present, and future converge at the altar of the Lamb. For a deeper exploration of how the Book of Revelation unveils the Mass as participation in heaven's eternal liturgy, Scott Hahn's *The Lamb's Supper* is an essential and accessible read.
+This is possible because Christ's sacrifice is not trapped in the past. In Revelation 5:6-12, John sees Jesus in heaven as "a Lamb standing, as though it had been slain"—and the entire heavenly court breaks into worship: "Worthy is the Lamb that was slain" (Rev 5:12). This is the eternal liturgy of heaven, and it is happening right now. The one sacrifice offered on Calvary is perpetually present before the Father. When Jesus said "Do this in remembrance of me," He used the word *anamnesis*—not mere mental recall, but the same liturgical re-presentation by which Jews at Passover understood themselves to be genuinely participating in the Exodus. The Mass doesn't repeat the Cross or add to it; it joins us to what Christ is eternally doing. We step out of ordinary time and into sacred time, where past, present, and future converge at the altar of the Lamb.
 
 **We Offer Ourselves United with Christ:** "I urge you therefore, brothers, by the mercies of God, to offer your bodies as a living sacrifice, holy and acceptable to God, which is your spiritual worship" (Romans 12:1). We place our own sacrifices—struggles, sufferings, daily acts of love—on the altar with Christ's. Like the drop of water added to the chalice of wine, our small, imperfect human offerings are mingled with His perfect blood and become acceptable to the Father.
 
@@ -179,8 +179,8 @@ Understanding love as sacrificial directly combats specific forms of evil:
 - **Pride** demands to be served and exalted. Sacrificial love transforms pride into humble service—choosing to lift others rather than ourselves, honoring God as the source of every gift.
 - **Greed** hoards what God has given. Sacrificial love transforms greed into generosity—freely giving time, treasure, and talent because we trust the God who provides.
 - **Lust** uses another person as an object for self-gratification. Sacrificial love transforms lust into chastity—honoring the full dignity of the other as a child of God, willing their true good rather than our own pleasure.
-- **Envy** resents the good of another and desires their diminishment. Sacrificial love transforms envy into rejoicing—working for another's flourishing even at cost to ourselves.
-- **Gluttony** consumes without restraint, making appetite an idol. Sacrificial love transforms gluttony into temperance—ordering our desires so we have something left to give.
+- **Envy** resents the good of another and desires their diminishment. Sacrificial love transforms envy into rejoicing—working for another's flourishing.
+- **Gluttony** consumes without restraint, making appetite an idol. Sacrificial love transforms gluttony into temperance—ordering our desires so we have even more to give.
 - **Wrath** demands that others pay for the harm they've caused. Sacrificial love transforms wrath into mercy—bearing the cost of forgiveness rather than exacting revenge.
 - **Sloth** refuses the effort that love requires. Sacrificial love transforms sloth into diligence—doing what love demands even when it is costly, inconvenient, or unnoticed.
 
@@ -251,7 +251,7 @@ Authentic sacrifice loves the person for WHO they are (imago Dei), not WHAT they
 
 ## The Bridge to Life-Giving
 
-Sacrifice is never the end—it is always the beginning of something new. The next chapter explores where sacrifice leads: life-giving communion.
+Sacrifice is never the "end" or goal—it is always the beginning of something new. The next chapter explores where sacrifice leads: life-giving communion.
 
 ---
 
@@ -276,6 +276,12 @@ Sacrifice is never the end—it is always the beginning of something new. The ne
 - **St. Thomas Aquinas (1225-1274):** His treatment of sacrifice in the *Summa Theologica* shows how Christ's sacrifice is both expiatory and oblative, satisfying justice while offering mercy
 - **Pope Pius XII (1876-1958):** His encyclical *Mystici Corporis* explains how our sufferings, united with Christ's, participate in His redemptive work for the Church
 
----
+### Recommended Reading: The Old Covenants and the Fullness of the New
 
-[^1]: For a comprehensive exploration of how God's covenants and the Old Testament sacrificial system point to Christ, see Scott Hahn's *A Father Who Keeps His Promises: God's Covenant Love in Scripture*.
+For readers who want to go deeper into how the Old Testament covenants and sacrificial system find their complete fulfillment in Christ, these three books are essential:
+
+- **Scott Hahn, *A Father Who Keeps His Promises: God's Covenant Love in Scripture* (1998)** — The most accessible entry point. Hahn traces every major covenant from Adam through Moses to David, showing how each one is a progressive revelation of the Father's love, all pointing to and fulfilled in the New Covenant sealed in Christ's blood. Ideal for Catholics who want to read the Old Testament with new eyes.
+
+- **Scott Hahn, *The Lamb's Supper: The Mass as Heaven on Earth* (1999)** — Focuses specifically on how the sacrificial system of the Old Covenant—especially the Passover lamb—is not abolished but *completed* in the Eucharist. Hahn shows that the Book of Revelation is the New Testament's liturgical key, and that every Mass is the fulfillment of every Old Testament sacrifice. Transformative for understanding why the Mass is the center of Catholic life.
+
+- **Brant Pitre, *Jesus and the Jewish Roots of the Eucharist* (2011)** — A rigorous but readable biblical theology showing how Jesus' words at the Last Supper are incomprehensible apart from the Old Testament context: the Passover, the manna in the wilderness, and the new exodus. Pitre demonstrates that Jesus was not inventing something new—He was fulfilling everything the sacrificial system had been promising for centuries.

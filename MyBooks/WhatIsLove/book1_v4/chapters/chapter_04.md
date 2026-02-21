@@ -46,7 +46,7 @@ No words need to follow. The action itself speaks louder than anything that coul
 
 Consider what a child *assumes* about family before anyone teaches them anything. A child doesn't hope their parents will stay together—they assume it. Mother and father together isn't a wish or a preference—it's the default, the given, the foundation upon which their entire world is built. It would never occur to a child that parents could separate—unless society has already normalized it, unless they've seen it happen to friends, unless the unthinkable has become thinkable.
 
-This is remarkable: children instinctively know that their parents' union is permanent. No one teaches them this. They don't learn it from books or conversations. They know it because covenant permanence is written on the human heart. They know it because their parents—united in one flesh—are meant to image God's own covenant love. They know it because it is intertwined with the most basic truth that their existence originated from mommy and daddy. Breaking the marriage rips out this most fundamental ground of their existence.
+This is remarkable: children instinctively know that their parents' union is permanent. No one teaches them this. They don't learn it from books or conversations. They know it because covenant permanence is written on the human heart. They know it because their parents—united in one flesh—are meant to image God's own covenant love. They know it because it is intertwined with the most basic truth that their existence originated through Mommy and Daddy. Breaking the marriage rips out this most fundamental ground and origin of their existence.
 
 And when that covenant breaks? When the unthinkable becomes real? The child's world doesn't just change—it crumbles. The foundation they stood on gives way beneath their feet.
 
@@ -98,7 +98,7 @@ See the pattern? God initiates. God commits. God remains faithful even when we f
 
 The New Covenant's difference: "I will put my law within them, and I will write it upon their hearts" (Jeremiah 31:33). Not external legislation—interior transformation. God doesn't just tell us what to do; He changes who we are.
 
-This is why covenant creates permanent relationship while contracts remain fragile. Contracts depend on external enforcement. But when God's law is written on your heart, you follow it because you recognize it as true and freely cooperate with grace. The Holy Spirit transforms you from within, enabling you to freely embrace what God freely offers. As the Catechism teaches, through the New Covenant we are no longer merely servants but "friends" of God, adopted as "sons" and made "heirs" of His kingdom (CCC 1972).
+This is why covenant creates permanent relationship while contracts remain fragile. Contracts depend on external enforcement. But when God's law is written on your heart, you follow it because you recognize it as true and freely cooperate with His perfect love (Grace). The Holy Spirit transforms you from within, enabling you to freely embrace what God freely offers. As the Catechism teaches, through the New Covenant we are no longer merely servants but "friends" of God, adopted as "sons" and made "heirs" of His kingdom (CCC 1972).
 
 But this idea of "embracing" God's law brings us to a difficult word, one that our culture often rejects: Authority.
 

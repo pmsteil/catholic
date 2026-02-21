@@ -88,7 +88,7 @@ But here's the crisis: **If love is the answer, why is the world still drowning 
 
 Because we've lost clarity about what love actually *is*, using the same word for sexual attraction, ice cream preferences, God's nature, and TV shows. Our culture has reduced love to feelings, to tolerance, to whatever makes us comfortable. We've been sold a thousand counterfeits, and we can't tell the real thing from the fakes anymore.
 
-**This is why we desperately need a precise definition.** Not just to win arguments or satisfy intellectual curiosity, but because societies depend on it. Families depend on it. Children depend on it. If we get this wrong, we'll keep fighting evil with counterfeits that only make things worse.
+**This is why we desperately need a precise definition.** Not just to win arguments or satisfy intellectual curiosity, but because societies depend on it. Families depend on it. Children depend on it. We need it. If we get this wrong, we'll keep fighting evil with counterfeits that only make things worse.
 
 ## Why Love is So Hard to Define
 

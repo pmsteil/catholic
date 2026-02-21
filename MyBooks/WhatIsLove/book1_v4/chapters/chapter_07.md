@@ -170,7 +170,7 @@ Justice isn't just individual—it's social. The common good means the condition
 
 Justice toward the common good requires subsidiarity (solving problems at the most local level), solidarity (the strong helping the weak), respect for human dignity in every policy and law, family priority (protecting the fundamental unit of society—because the unity of the family in truth, justice, and mercy is the first and most important teacher of this love), and religious freedom (the right to worship according to conscience). The common good allows all people to live in true covenantal communion.
 
-These principles—subsidiarity, solidarity, the preferential option for the poor, human dignity, the common good—form the foundation of Catholic social teaching. The Church has developed a rich body of wisdom on how justice applies to economic life, political structures, family relationships, and international relations. This chapter can only introduce these concepts. I encourage you to dive deeper into the Church's social teaching through papal encyclicals like *Rerum Novarum*, *Centesimus Annus*, and *Caritas in Veritate*, and through the Catechism's treatment of the seventh through tenth commandments (CCC 2401-2557). Understanding how justice applies to every dimension of human life is essential for living authentic love in the world.
+These principles—subsidiarity, solidarity, the preferential option for the poor, human dignity, the common good—form the foundation of Catholic social teaching. The Church has developed a rich body of wisdom on how justice applies to economic life, political structures, family relationships, and international relations. This chapter can only introduce these concepts. I encourage you to dive deeper—see the *Catholic Social Teaching References* section at the end of this chapter for key documents, encyclicals, and Catechism passages. Understanding how justice applies to every dimension of human life is profitable for living authentic love in the world.
 
 ## The Sacrament of Reconciliation: Justice and Mercy United in Truth
 
@@ -240,11 +240,30 @@ When we hold justice and mercy together as facets of one love, we experience wha
 
 ### Catechism of the Catholic Church
 - **CCC 1807:** Justice as cardinal virtue giving each their due
+- **CCC 1897-1927:** Human dignity, the common good, authority, and participation
 - **CCC 1928-1948:** Social justice and the common good
-- **CCC 2401-2449:** The Seventh Commandment—justice in economic life
+- **CCC 2401-2463:** Property, the universal destination of goods, and economic life
 - **CCC 2464-2470:** Justice in speech and truth-telling
 
-### Christian Thinkers
-- **St. Thomas Aquinas (1225-1274):** His treatment of justice in the *Summa Theologica* distinguishes commutative, distributive, and legal justice, showing how each serves the common good
-- **Pope Leo XIII (1810-1903):** His encyclical *Rerum Novarum* established modern Catholic social teaching on justice for workers and the dignity of labor
-- **St. John Paul II (1920-2005):** His teaching on the "structures of sin" shows how injustice becomes embedded in social systems and how love must work for structural change
+### Catholic Social Teaching References
+
+The Church's social teaching is a rich treasury of wisdom on how justice applies to every dimension of human life. The following are essential starting points for deeper study:
+
+#### Papal Encyclicals
+- ***Rerum Novarum*** **(Pope Leo XIII, 1891):** The founding document of modern Catholic social teaching—on the rights of workers, private property, and the role of the state
+- ***Quadragesimo Anno*** **(Pope Pius XI, 1931):** Develops subsidiarity and the social order forty years after *Rerum Novarum*
+- ***Populorum Progressio*** **(Pope Paul VI, 1967):** Integral human development and global solidarity, especially in the face of poverty and inequality
+- ***Centesimus Annus*** **(Pope John Paul II, 1991):** Reflects on capitalism, socialism, and the human person after the fall of communism
+- ***Caritas in Veritate*** **(Pope Benedict XVI, 2009):** Integral human development and justice in a globalized world
+- ***Laudato Si'*** **(Pope Francis, 2015):** Care for creation as a dimension of justice toward the poor and future generations
+
+#### Compendium of the Social Doctrine of the Church
+The *Compendium of the Social Doctrine of the Church* (Pontifical Council for Justice and Peace, 2004) is the most comprehensive single-volume summary of Catholic social teaching available. It covers human dignity, the family, work, economic life, the political community, the international community, and care for the environment—all through the lens of justice and love. **It is freely available online at the Vatican's website: [vatican.va](https://www.vatican.va)**
+
+#### Catechism of the Catholic Church
+- **CCC 1897-1927:** Human dignity, the common good, authority, and participation
+- **CCC 1928-1948:** Social justice and the common good
+- **CCC 2401-2463:** Property, the universal destination of goods, and economic life
+- **CCC 2443-2449:** Love for the poor
+- **CCC 2464-2470:** Truthfulness in speech (the Eighth Commandment’s opening on the moral demands of truth)
+- **CCC 2534-2557:** The Tenth Commandment—detachment and poverty of heart
