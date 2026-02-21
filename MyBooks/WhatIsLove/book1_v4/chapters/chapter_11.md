@@ -178,9 +178,7 @@ This is how the Gospel spreads: not through coercion, but through witness. Not b
 
 ## The Bridge to Virtues
 
-Understanding God as the ground of objective morality sets up our next chapter perfectly. If God's nature is love, and if love integrates truth, justice, mercy, and sacrifice, then growing in virtue means conforming our lives to God's nature.
-
-Virtues are habits that align us with God's love. Vices distort or deny it. Understanding how virtues uphold the four pillars of love—and how vices attack them—will show us the path to becoming who God created us to be.
+If God's nature is love, then growing in virtue means conforming our lives to that love—and vices are whatever distorts or denies it.
 
 ---
 

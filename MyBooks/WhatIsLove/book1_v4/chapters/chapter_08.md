@@ -193,6 +193,16 @@ Mercy combats hardness of heart by breaking cycles of revenge and revealing the 
 
 Every time we repent of our sin and turn back to God, we prevent future consequences of our sin. When we repent and turn toward God's truth, justice, and mercy, we no longer participate in creating evil in the world, but rather good. When the people of God choose to truly love one another, good triumphs over evil.
 
+## Binding Check
+
+What happens to mercy when it's cut off from the other pillars?
+
+- **Mercy without Truth** becomes enabling. You "forgive" sins you refuse to name.
+- **Mercy without Justice** becomes injustice to the victim. The offender pays nothing; the wounded keep suffering.
+- **Mercy without Sacrifice** becomes sentimentality. Forgiveness that costs you nothing is just indifference.
+
+Every pillar needs the others. Love binds them all.
+
 ## The Bridge to Sacrifice
 
 Mercy always comes at a cost—and that cost is sacrifice, the next facet of God's perfect love.

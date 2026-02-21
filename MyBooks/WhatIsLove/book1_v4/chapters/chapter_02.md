@@ -158,6 +158,9 @@ The four facets transform even natural suffering: **Truth** reveals that sufferi
 
 My hope is that as you journey through this book and encounter the depth of God's Perfect Love, the problem of natural evil will similarly recede for you, seen in its proper context as the stage on which authentic love proves itself real. God's Perfect Love doesn't promise to eliminate natural suffering in this life, but it gives suffering ultimate meaning and promises final victory in the resurrection of the body and the life of the world to come.
 
+## The Bridge to Sacred
+
+Every facet of love rests on a single foundation: love must be **sacred**—or it is nothing at all.
 
 ---
 

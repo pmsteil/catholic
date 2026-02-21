@@ -178,7 +178,7 @@ Now you see why this matters so urgently. Everything hinges on whether love is s
 
 ## The Bridge to the Gift of Covenant
 
-Understanding love as sacred—as participation in God's own nature—sets up everything that follows. If love flows from God's eternal being, then it can't be casual or temporary. This is why the next facet of our definition is crucial: **gift of covenant**. Because love participates in God's own being, it requires permanent commitment, not temporary feelings. It calls for covenant, not just contract. We'll explore this in the next chapter.
+If love participates in God's own eternal being, it can't be casual or temporary—it calls for covenant, not contract.
 
 ---
 

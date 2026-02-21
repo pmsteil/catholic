@@ -249,6 +249,16 @@ When we sacrifice for the person rather than for benefits, we're loving as God l
 Authentic sacrifice loves the person for WHO they are (imago Dei), not WHAT they provide. This is covenant love—grounded in personhood, not performance.
 </div>
 
+## Binding Check
+
+What happens to sacrifice when it's cut off from the other pillars?
+
+- **Sacrifice without Truth** becomes self-destruction. You pour yourself out for a lie, or for someone's false "good."
+- **Sacrifice without Justice** becomes manipulation. "After everything I've done for you" weaponizes the gift.
+- **Sacrifice without Mercy** becomes martyrdom complex. You suffer loudly so others feel the debt.
+
+Every pillar needs the others. Love binds them all.
+
 ## The Bridge to Life-Giving
 
 Sacrifice is never the "end" or goal—it is always the beginning of something new. The next chapter explores where sacrifice leads: life-giving communion.

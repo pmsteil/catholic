@@ -168,7 +168,7 @@ This integration is why virtue cannot be reduced to following rules. The Pharise
 
 ### The Bridge to Sin
 
-**In the next chapter, we will examine sin as the failure to love**—how vices deny the four pillars, why not all sins are equal, and how God's mercy provides the path to restoration. If this chapter shows what it looks like to love God with your whole heart, soul, mind, and strength, the next chapter shows what happens when we refuse—and how God's grace brings us back.
+If this chapter shows what it looks like to love well, the next shows what happens when we refuse—and how God's grace brings us back.
 
 ### Practical Application
 

@@ -24,7 +24,7 @@
 
 Truth without mercy becomes the Pharisees demanding the adulteress be stoned. Mercy without truth becomes the parent who pays for their child's addiction rather than insisting on treatment. Justice without mercy becomes endless cycles of retaliation. Mercy without justice becomes the abuser forgiven while victims suffer.
 
-These are fragmented virtues. Isolated from each other, truth becomes cruelty, justice becomes vengeance, mercy becomes weakness.
+These are fragmented virtues. Isolated from each other, truth becomes cruelty, justice becomes vengeance, and mercy becomes weakness. Even sacrifice, when isolated, can become a weapon of manipulation or a path to self-destruction. The world constantly tempts us to pick our favorite virtue—to be the ones who 'tell it like it is' or the ones who 'just love everybody,' the fighters for justice or the ones who wear their suffering like a badge. But choosing one facet over the others inevitably leads to a distorted, incomplete, and ultimately harmful version of love.
 
 <div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
 This is why our definition of perfect love includes the word "binds"—love holds truth, justice, mercy, and sacrifice together in life-giving communion. Without love to integrate them, these virtues fragment and become distorted. With love, they work together as one harmonious whole. Holy, you could say.
@@ -116,11 +116,7 @@ How do we practice this binding in daily life? When you're tempted to speak trut
 
 ## The Bridge to Truth
 
-Love binds together all the essential elements of authentic relationship. But what grounds this binding? What ensures that what we're binding together is real and not just wishful thinking?
-
-This is where the next facet becomes crucial: **truth**. Love requires objective reality. It cannot exist in deception or illusion. Without truth, love has nothing solid to bind together—it's just sentiment binding fantasies.
-
-Truth is the foundation that makes love's binding power real rather than imaginary. It ensures that what love unites is actually good, actually real, actually worth binding together.
+Love binds together all the elements of authentic relationship—but what ensures that what we're binding together is real? Without **truth**, love has nothing solid to bind.
 
 ---
 

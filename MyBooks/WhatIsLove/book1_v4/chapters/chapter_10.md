@@ -318,6 +318,10 @@ The children are watching. The world is waiting. The Church needs you. Christ is
 
 Will you answer?
 
+### A Turn Toward the Source
+
+We have spent ten chapters defining the absolute necessity and profound beauty of God's Perfect Love. But you might be asking: *How do we know this isn't just a beautiful theory? If love is truly a universal law, how do we know the Lawgiver actually exists?* This is not merely an academic question; it is the foundation upon which everything we've discussed rests. In the next chapter, we will shift our focus from defining the nature of love to defending the existence of its Author, exploring why the very reality of love we've just defined points undeniably to the reality of God.
+
 ---
 
 ## Further Study

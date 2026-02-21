@@ -256,13 +256,19 @@ In our time especially, truth combats the fullness of lies that saturate our med
 
 The Church's commitment to truth isn't opposed to love—it's an expression of love. Because real love requires real truth.
 
+## Binding Check
+
+What happens to truth when it's cut off from the other pillars?
+
+- **Truth without Justice** becomes abstract. You can know what's right and never defend anyone.
+- **Truth without Mercy** becomes cruelty. The Pharisees were factually correct about the adulteress—and wanted to stone her with that correctness.
+- **Truth without Sacrifice** becomes cheap talk. Truth that costs you nothing changes nothing.
+
+Every pillar needs the others. Love binds them all.
+
 ## The Bridge to Justice
 
-Truth provides the foundation. But foundation for what? What does truth reveal that love must honor?
-
-This is where the next facet becomes crucial: **justice**. Truth reveals what each person is truly owed based on their actual nature and dignity. Justice is love giving what truth reveals is due.
-
-Without truth, justice becomes arbitrary opinion. With truth, justice becomes love's concrete expression—giving to each person what they're truly owed as beings made in God's image.
+Truth reveals what each person is truly owed—and **justice** is love giving what truth reveals is due.
 
 ---
 

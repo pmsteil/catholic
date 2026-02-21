@@ -262,9 +262,7 @@ A parent who stays faithful through a child's rebellion isn't just "doing their 
 
 ## The Bridge to Binding
 
-Covenant creates permanent relationship. But a question remains: How do we hold together what seems to pull apart? Truth and mercy. Justice and compassion. Sacrifice and joy. When these virtues fragment—when we isolate them from each other—each becomes distorted. Truth becomes cruelty. Justice becomes vengeance. Mercy becomes weakness.
-
-This is where the next facet becomes crucial: **binding**. Love doesn't just create covenant—it integrates all the elements of authentic relationship into one harmonious whole.
+Covenant creates permanent relationship—but how do we hold together what seems to pull apart? This is where **binding** becomes crucial.
 
 ---
 

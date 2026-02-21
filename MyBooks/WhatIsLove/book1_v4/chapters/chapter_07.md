@@ -211,21 +211,19 @@ And here's the beautiful paradox: When you submit to God's justice, you discover
 
 If your answer is yes, then you're ready for the next step. Because God's justice, as perfect as it is, points beyond itself to something even more astonishing: God's mercy.
 
+## Binding Check
+
+What happens to justice when it's cut off from the other pillars?
+
+- **Justice without Truth** becomes a mob. Every lynch mob believed it was pursuing justice.
+- **Justice without Mercy** becomes vengeance. Debts are never forgiven, and retribution never ends.
+- **Justice without Sacrifice** becomes bureaucratic. Just laws mean nothing if no one will pay the cost to uphold them.
+
+Every pillar needs the others. Love binds them all.
+
 ## The Bridge to Mercy
 
-Justice gives each person what they're due. But what about when someone doesn't deserve forgiveness? What about when justice demands punishment? What about when giving what's strictly owed would crush rather than heal?
-
-This is where we discover that justice, viewed in isolation from the other facets of God's love, reveals only part of the picture. In God, justice and mercy are not two separate things that must be balanced or sequenced—they are one simple divine act viewed from different angles. God's justice IS His mercy IS His love. But because we are finite creatures who cannot grasp God's simplicity all at once, we must explore each facet in turn.
-
-From our human perspective, justice reveals what's wrong, what's owed, what's been violated. It establishes the truth about what's been broken. But when we isolate justice from mercy in our thinking or practice, we see only diagnosis without healing, debt without forgiveness, violation without restoration.
-
-**This is why we must see justice and mercy together:** Justice establishes the truth about what's been broken, making mercy meaningful rather than cheap. Justice names the wound, making mercy's healing powerful rather than superficial. Justice acknowledges the debt, making mercy's forgiveness costly rather than casual. Without justice, mercy would be mere sentimentality—pretending nothing's wrong, enabling sin, cheapening grace. Without mercy, justice would crush rather than restore.
-
-This is where the next facet becomes crucial: **mercy**. Mercy doesn't violate justice—it fulfills it. Mercy doesn't ignore what's owed—it offers more than what's owed. In God, these are not competing demands but one perfect love.
-
-From our limited perspective, it can seem like justice says "You deserve consequences" while mercy says "I'll bear those consequences for you." Justice says "You broke the covenant" while mercy says "I'll remain faithful anyway." But in God's perfect love, both are happening simultaneously—the same act that satisfies justice also extends mercy.
-
-When we hold justice and mercy together as facets of one love, we experience what only God can provide: healing, transformation, and restoration that honor truth while offering grace.
+Justice gives each person what they're due—but what about when giving what's strictly owed would crush rather than heal? This is where **mercy** becomes crucial: not violating justice, but fulfilling it.
 
 ---
 
