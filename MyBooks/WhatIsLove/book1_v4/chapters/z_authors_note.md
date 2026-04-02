@@ -6,7 +6,7 @@ First of all, I want to thank our Lord Jesus Christ, who is the source of all lo
 
 I am thankful that the Church has preserved the truth of God's love for over 2,000 years through Sacred Scripture, Sacred Tradition, and the Liturgy.
 
-I am thankful and indebted to the saints, the doctors of the Church, and the faithful who have lived out this truth in their lives and have passed it down through the generations.
+I am thankful and indebted to the Disciples who passed on the offices of Bishop, Priest and Deacon so that we here 2000 years later might know anything about the love of Jesus.  And thus all the saints, the doctors of the Church, and the faithful who have lived out this truth in their lives and have passed it down through the generations.
 
 And then what an amazing age we live in! We have access to incredible resources and tools that can help us understand and share the truth of God's love.
 

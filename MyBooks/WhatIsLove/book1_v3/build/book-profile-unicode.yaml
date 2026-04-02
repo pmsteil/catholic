@@ -1,7 +1,7 @@
 title: What Is Love?
 subtitle: The Catholic Guide to Perfect Love
 author: Patrick M. Steil
-edition: 3rd Draft - August 23, 2025
+edition: 4th Draft - March 2026
 title-meta: Unicode layout (devotional + fontspec)
 documentclass: book
 classoption: [twoside, openany]
@@ -98,7 +98,7 @@ header-includes:
       \vskip 1.5em%
       {\large \@author \par}%
       \vskip 1em%
-      {\large \textit\textmd{3rd Draft - August 23, 2025} \par}%
+      {\large \textit\textmd{4th Draft - March 2026} \par}%
       \end{center}%
       \par
       \vskip 1.5em}

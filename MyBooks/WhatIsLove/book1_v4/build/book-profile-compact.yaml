@@ -1,7 +1,7 @@
 title: What Is Love?
 subtitle: God's Perfect Love is the sacred gift of covenant binding truth, justice, mercy and sacrifice into life-giving communion.
 author: Patrick Steil, St. John Paul II University Parish, Denton TX
-edition: Version 4 - 1st Draft - October 8, 2025
+edition: Version 4 - 4th Draft - March 2026
 title-meta: Compact layout (minimize page count)
 documentclass: extbook
 classoption: [twoside, openany, 9pt]
@@ -73,7 +73,7 @@ header-includes:
   - |
     \usepackage{titling}
     \pretitle{\begin{center}\LARGE\bfseries}
-    \posttitle{\par\vskip 0.5em\large\textit\textmd{Version 4 - 1st Draft - October 8, 2025}\end{center}\vskip 1em}
+    \posttitle{\par\vskip 0.5em\large\textit\textmd{Version 4 - 4th Draft - March 2026}\end{center}\vskip 1em}
   - |
     \definecolor{lightcream}{HTML}{f8f6f0}
     \newenvironment{blockquote}{%

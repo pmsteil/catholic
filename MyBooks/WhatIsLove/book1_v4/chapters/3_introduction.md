@@ -2,7 +2,7 @@
 
 Our world feels like it's coming apart at the seams. Constant cries for justice, equity, inclusion, "transgender rights," and "reproductive rights." People are desperately searching for something, often calling it "love," but like the 1980 Johnny Lee song says, they're often "looking for love in all the wrong places." It's a deep ache in the heart of humanity, a longing for connection, meaning, purpose, and peace that seems increasingly elusive.
 
-I wrote this book because after walking with the Lord for over 35 years and deeply contemplating what "God is Love" truly means, I've observed the seismic shifts in our culture and become absolutely convinced of one thing: the chaos we see—the lies, the partiality and cruelty, the indifference, the breakdown of social cohesion and the family—all of it boils down to a failure to understand the most fundamentally human question that lies at the very heart of who we are as persons created in God's image:
+I wrote this book because after walking with the Lord for over 37 years and deeply contemplating what "God is Love" truly means, I've observed the seismic shifts in our culture and become absolutely convinced of one thing: the chaos we see—the lies, the partiality and cruelty, the indifference, the breakdown of social cohesion and the family—all of it boils down to a failure to understand the most fundamentally human question that lies at the very heart of who we are as persons created in God's image:
 
 **What is Love?**
 
