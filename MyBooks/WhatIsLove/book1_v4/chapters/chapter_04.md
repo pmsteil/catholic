@@ -32,7 +32,7 @@ Easy to say on a wedding day when everything feels perfect. Harder when tragedy 
 
 Beautiful words from parent to child. Until the divorce, the new family, the skipped weekends, the unreturned calls. The child learns "always" has conditions.
 
-This is the crisis of modern love: We want permanence but worship freedom. We crave commitment but demand escape clauses. We long for covenant but settle for contracts.
+This is the crisis of modern love: We want love but worship personal freedom. We crave commitment but demand escape clauses. We long for covenant but settle for contracts.
 
 <div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
 Love requires covenant, not contract. Contracts are conditional and temporary—"I'll stay as long as you meet my needs." Covenants are unconditional and permanent—"I'm yours, no matter what." Without covenant, love has no foundation to endure.
@@ -56,7 +56,7 @@ This wound runs deep precisely because children know what love should be—they 
 
 Our culture has forgotten the difference between covenant and contract. This confusion destroys families, fractures communities, and leaves a generation terrified of commitment.
 
-**Contracts** are based on mutual benefit and conditions. They say, "I'll do this if you do that." They are temporary and self-interested, asking "what's in it for me?" And they are breakable—if you violate the terms, I'm out. They create business relationships.
+**Contracts** are based on mutual benefit and conditions. They say, "I'll do this if you do that." They are temporary and self-interested, asking "what's in it for me?" And they are breakable—if you violate the terms, I'm out. They create business arrangements but not relationships.
 
 **Covenants** are based on mutual gift. They say, "I give myself to you completely." They are unconditional ("no matter what happens") and permanent ("until death"). They are other-centered ("what can I give you?") and unbreakable ("even if you fail, I remain faithful"). They create family bonds.
 
@@ -68,19 +68,21 @@ This isn't oppression—it's freedom. The freedom of knowing someone is committe
 
 But what IS freedom? Our culture has it backwards.
 
-Pope Saint John Paul II taught that **"freedom exists for love, not for autonomy."** Our culture says freedom means no commitments, no obligations. But that's isolation, not freedom. True freedom is the capacity to give yourself totally to another. As John Paul II wrote, "Man cannot fully find himself except through a sincere gift of himself." Covenant doesn't restrict freedom—it fulfills it.
+Pope Saint John Paul II taught that **"freedom exists for love, not for autonomy."** Our culture says freedom means no commitments, no obligations. "I can do whatever I want". But that's isolation, not freedom. Culture says freedom begins and ends with me. "I" can do whatever "I" want. What is important is me.
+
+True freedom is the capacity to give yourself totally to another. As John Paul II wrote, "Man cannot fully find himself except through a sincere gift of himself." Covenant doesn't restrict freedom—it fulfills it.
 
 ## The Biblical Pattern: God's Covenant Love
 
 God doesn't relate to us through contracts. He relates through covenant. And every covenant in Scripture reveals something essential about love's nature.
 
-As St. Augustine taught: "The New Testament is concealed in the Old, and the Old Testament is revealed in the New."[^1] Each covenant builds on the previous, progressively revealing God's plan of love:
+As St. Augustine taught: "The New Testament is concealed in the Old, and the Old Testament is revealed in the New."[^1] Each covenant builds on the previous one, progressively revealing God's plan of love:
 
 [^1]: St. Augustine, *Quaestiones in Heptateuchum* 2, 73. See also Scott Hahn, *A Father Who Keeps His Promises: God's Covenant Love in Scripture* (Cincinnati: Servant Books, 1998).
 
 **Adamic Covenant (Genesis 1-3):** God creates humanity in His image, calling us to communion and stewardship. Even after the Fall, He promises redemption.
 
-**Noahic Covenant (Genesis 9):** God covenants with all creation, promising never to destroy the earth again. The rainbow signs His faithful love.
+**Noahic Covenant (Genesis 9):** God covenants with all creation, promising never to destroy the earth again. The rainbow is the sign of His faithful love.
 
 **Abrahamic Covenant (Genesis 15, 17):** God promises to be Abraham's God and make his descendants a great nation. God walks through the sacrifice alone (Genesis 15:17)—taking on Himself the obligation even if Abraham fails.
 
@@ -92,7 +94,9 @@ As St. Augustine taught: "The New Testament is concealed in the Old, and the Old
 
 See the pattern? God initiates. God commits. God remains faithful even when we fail. This is what covenant love looks like—not "I'll love you if you perform," but "I'll love you, period."
 
-**Why is covenant so central to love?** Because covenant is directly tied to the truth of our very existence and our need for love to sustain our souls. God is our Creator—the same way our parents create us and create the biological reality of the family. This obviously mirrors God's covenant with us because He created us. God could have caused us to be born in an egg, totally isolated in the desert. But instead He created us as part of a family that cares for us and that we are then called to care for. The family covenant reflects the divine covenant because both flow from the act of creation itself. When parents bring a child into existence, they enter a covenant relationship grounded in the very fact that they (in a limited way) authored that child's life. This is why covenant love is inseparable from the truth of our existence.
+**Why is covenant so central to love?** Because covenant is directly tied to the truth of our very existence and our need for love to sustain our souls. God is our Creator—the same way our parents create us and create the biological reality of the family. This obviously mirrors God's covenant with us because He created us. God could have caused us to be born in an egg, totally isolated in the desert or any myriad of ways that don't involve being born into the loving arms of a mother, father, extended family, etc. We ought not take this for granted.
+
+Instead He created us to be cared for by our family. The family covenant reflects the divine covenant because both flow from the act of creation itself. When parents bring a child into existence, they enter a covenant relationship grounded in the very fact that they (most immediately, but not on their own) authored that child's life. And as that child grows up, he learns how to love his family and eventually how to love his own family. This is why covenant love is inseparable from the truth of our existence. Without family, there is no existence. Without our existence there is no family.
 
 ### The New Covenant: Law Written on Hearts
 
@@ -104,10 +108,16 @@ But this idea of "embracing" God's law brings us to a difficult word, one that o
 
 ## Authority Properly Understood: Invitation vs. Force
 
-The word "authority" has been abused by tyrants and manipulators until many recoil from it. But true authority is inherent only to the AUTHOR.
+The word "authority" has been abused by tyrants and manipulators until many recoil from it.
+
+When we think of authority in modern terms, usually we think of the authority of our parents, teachers or something like the government. Some institution or structure that establishes and enforces rules or laws which we eventually learn are for our own good or for the common good of society. But we view this authority as something that is delivered top down, enforced upon us and in terms of government authority is backed by the threat of punishment or even imprisonment. We see authority as a necessary evil but also as something that stands in opposition to our freedom. And of course, in America, liberty is taught as one of our highest ideals and the story of our country is that we fought against tyranny and oppression in order to gain our freedom. But I submit to you that in order to have true freedom, we must understand what true authority is.
+
+True authority is inherent only to the "author" of the laws.
+
+For example, if you decide to write a novel, as the author, you have the authority to establish the laws of your fictional universe. You decide if there are even concepts like liberty or freedom or any other laws of your universe. You get to define reality for the characters and you become the authority.
 
 <div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
-God's "authority" comes from being the "author" of all Creation and Love specifically—He designed how love works. His "laws" aren't arbitrary commands but the blueprint for authentic love. Authority is only truly active when WE FREELY SUBMIT our will to His design.
+God's "authority" comes from being the "author" of all Creation and the laws of love specifically—He designed how love works. His "laws" aren't arbitrary commands but the blueprint for authentic love. Authority is only truly active when WE FREELY SUBMIT our will to His laws since he is the Author.
 </div>
 
 **The Critical Distinction: Two Kinds of Authority**
@@ -118,31 +128,29 @@ Think about it practically:
 
 **Human-Authored Morality Requires Force:**
 
-If humans are the source of morality, which humans decide? Ancient Sparta thought exposing weak infants was "just." Modern progressives think aborting them is "just." Without a transcendent standard, morality becomes a power struggle. **When morality is authored by humans rather than received from divine authority, it must be imposed through force.** This is what happens when humans try to fabricate justice using limited human opinion rather than divine authority.
+If humans are the source of morality, which humans decide? Ancient Rome thought slavery was "just." Medieval kingdoms thought slavery was "just." The American South thought slavery was "just." Now the modern West has abolished slavery and declares it unjust. But here's the problem: if morality is merely human opinion that changes over time, how do we know which position is actually just? The ancients were convinced slavery was right. We're convinced it's wrong. Without a transcendent standard, morality becomes a power struggle—whoever has the power to enforce their opinion wins. **When morality is authored by humans rather than received from divine authority, morality becomes arbitrary and must be imposed through force.** This is what happens when humans try to fabricate justice using limited human opinion rather than consulting with the "author" of morality.
 
 And imposed morality inevitably escalates. First come laws, then coercion, then elimination of dissenters—because if there's no transcendent truth, only power determines who's right, and power must silence opposition to maintain control.
 
-This is why atheistic regimes resort to mass murder—the inevitable result of grounding morality in human power rather than divine truth. Nazi fascism: 11 million dead. Soviet communism: 20 million. Chinese communism: 45 million. The gulags and killing fields are what happens when humans fabricate justice without God's authority.
+This is why atheistic regimes always end in mass murder—the inevitable result of grounding morality in human power rather than divine truth. Nazi fascism: 11 million dead. Soviet communism: 20 million. Chinese communism: 45 million. The gulags and killing fields are what happens when humans fabricate justice without God's authority.
 
-The wages of sin truly is death.
+The wages of sin truly are death.
 
 **God's Authority Invites Free Submission:**
 
-By contrast, God reveals truth about reality and human flourishing. When we voluntarily submit to His authority—enabled by grace—we're not surrendering freedom. We're embracing the only path to it.
+By contrast, God reveals truth about reality and human flourishing. When we voluntarily submit to His authority—enabled by His Perfect Love (grace) —we're not surrendering freedom. We're embracing the only path to it.
 
 Think about a parent telling a toddler not to touch the hot stove. The parent's authority flows from genuine knowledge of what's good for the child. God's authority works the same way—infinitely more so. **True authority wants what's genuinely good for us and invites free submission. False authority wants what's good for those in power and demands forced compliance.**
 
-**This is why authentic Christian movements have never *needed* to impose morality through force.** The earliest saints gave their lives as witness, showing that true freedom comes from voluntarily aligning with divine truth. True authority liberates. False authority enslaves.
+**This is why authentic Christian movements have never *needed* to impose morality through force.** The earliest saints gave their lives as witness, showing that true freedom comes from voluntarily aligning with divine truth. True authority liberates. False authority enslaves. Christianity can never be forced upon someone because that goes against the nature of God's gift of covenant love.
 
 **The Piano Analogy:**
 
-Think about it this way: A piano has 88 keys arranged in a specific pattern. That's not arbitrary—it's the design that makes beautiful music possible. You're "free" to pound randomly on the keys. But you'll only make noise, not music. True freedom comes from submitting to the piano's design, learning the patterns, practicing the scales. The piano's structure isn't a restriction—it's what makes Mozart possible.
+Think about it this way: A piano has 88 keys arranged in a specific pattern. That's not arbitrary—it's the design that makes beautiful music possible. You're "free" to pound randomly on the keys. But you'll only make noise, not music. True freedom comes from submitting to the piano's design, learning the patterns, practicing the scales. The piano's structure isn't a restriction—it's what makes Mozart (who was also Catholic by the way) possible.
 
 Similarly, God's "laws" about love aren't restrictions on our freedom. They're the design that makes beautiful love possible. We're "free" to ignore them, but we'll only create chaos, not communion. The covenant structure of love isn't a burden—it's what makes authentic love possible.
 
-**This is what the Church calls "the obedience of faith" (CCC 143-144):** We freely conform our will to God's will because we recognize His design as true, good, and beautiful—the transcendentals that reflect His own nature. This isn't coercion but liberation. As Vatican II teaches, "it is only in freedom that man can turn to what is good" (*Gaudium et Spes* 17). True freedom isn't freedom *from* authority—it's freedom *for* love, freedom *for* truth. The slavery we need liberation from isn't God's law—it's our disordered desires that enslave us to partial goods that can never satisfy.
-
-Understanding authority is critical to understanding the free gift of Covenant that God offers us.
+**This is what the Church calls "the obedience of faith" (CCC 143-144):** We freely conform our will to God's will because we recognize His design as true, good, and beautiful—the transcendentals that reflect His own nature. This isn't coercion but liberation. As Vatican II teaches, "it is only in freedom that man can turn to what is good" (*Gaudium et Spes* 17). True freedom isn't freedom *from* authority—it's freedom to obey a good and true authority  *for* love, freedom *for* truth, freedom to do what is just and merciful. The slavery we need liberation from isn't God's law—it's our disordered desires that enslave us to partial goods that can never satisfy and lead us to covenant demolishing slavery.
 
 ## Marriage: The Paradigm of Human Covenant
 
@@ -154,7 +162,7 @@ Notice what's missing: Escape clauses. Performance requirements. Conditions base
 
 This is where Pope Saint John Paul II's teaching becomes concrete: "I take you" means "I give myself to you completely." The wedding vows are the moment when two people exercise the highest form of freedom—freely choosing to make a total, permanent gift of themselves to another. This is how "man cannot fully find himself except through a sincere gift of himself." In giving yourself away in covenant, you don't lose yourself—you become fully yourself. Marriage is where self-gift becomes life-giving.
 
-**The Sacrament of Marriage** makes this even more profound. In Catholic teaching, marriage isn't just a human agreement—it's a participation in Christ's covenant with the Church. The husband and wife become living icons of Christ's sacrificial, permanent, faithful love for His bride. The marriage covenant is a direct mirror of our covenant with God—we submit our lives to our spouse and children as we submit to Him. Marriage most fully fulfills our covenant with God in the domestic church.
+**The Sacrament of Marriage** makes this even more profound. In Catholic teaching, marriage isn't just a human agreement—it's a participation in Christ's covenant with the Church. The husband and wife become living icons of Christ's sacrificial, permanent, faithful love for His bride. The marriage covenant is a direct mirror of our covenant with God—we submit our lives to our spouse and children as we submit to Him. Marriage most fully fulfills our covenant with God in the domestic church - the family.
 
 This is why the Church insists marriage is indissoluble (CCC 1644-1651). You can't dissolve God's covenant with His people. You can't dissolve Christ's union with the Church. And you can't dissolve a valid marriage, because it participates in that same divine reality.
 
@@ -172,12 +180,10 @@ This is the crucial distinction from Chapter 2's definition of love as "gift." N
 
 A husband loves his wife. But why? Because she is a person of infinite worth, made in God's image, worthy of his total gift of self? Or because she cooks his meals, keeps his house, bears his children, meets his needs?
 
-The test comes when benefits disappear—Alzheimer's, illness, aging, depression.
+The test comes when benefits disappear— loss of job, family tragedy, illness, aging, depression.
 
 **If his love was FOR the benefits, it stops when benefits cease.**
 **If his love was FOR the person, it endures because her dignity endures.**
-
-The same test applies in reverse. When income, strength, or status disappear, does your love continue—or was it contingent on what he could provide?
 
 **This is why covenant is grounded in personhood, not performance.** Contract: "I give because you give." Covenant: "I give because you are." Contract is contingent on benefits. Covenant is grounded in the beloved's intrinsic dignity as imago Dei.
 
@@ -204,22 +210,24 @@ Covenant love is grounded in personhood, not performance. We love the person for
 Here's what our culture has forgotten:
 
 <div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
-Marriage isn't a lifestyle choice among many options—it's a sacred necessity. It's the gift that enables men and women to fulfill the law written on their hearts: to live out truth, justice, and mercy in complementary union ordered toward children. This pattern is universal across cultures because it's written into human nature itself.
+Marriage isn't a lifestyle choice among many options—it's a sacred necessity. It's the gift that enables men and women to fulfill the law written on their hearts: to live out truth, justice, mercy and sacrifice in complementary union ordered toward children. This pattern is universal across cultures because it's written into human nature itself.
 </div>
 
 Jesus came to fulfill the Law (Matthew 5:17). We're called to imitate Him—to fulfill the truth of who we are as image-bearers of God. Marriage is the primary way most people fulfill this calling.
 
 **For Men and Women Together:**
 
-Marriage enables us to fulfill all three: **truth** (our complementary nature designed for union and fruitfulness), **justice** (giving spouse and children what they're owed—security, honor, care, stability), and **mercy** (modeling forgiveness and compassion daily). The family becomes the first school of love.
+Marriage enables us to fulfill all three: **truth** (our complementary nature designed for union and fruitfulness), **justice** (giving spouse and children what they're owed—provision, security, care, honor, stability), and **mercy** (modeling forgiveness and compassion daily). The family becomes the first school of love.
 
 We see this pattern across cultures, throughout history, in every civilization: husband-father who protects and provides, wife-mother who nurtures and cares, children raised by both learning love from their complementary gifts.
 
 This isn't a "social construct" we can redesign at will. It's a basic truth of human nature—written into our bodies, psychology, and deepest longings. **Marriage between man and woman, ordered toward children, is what most fully fulfills both our desire to love and our desire to be loved.**
 
-When a man gives himself completely to his wife and children, he becomes more fully himself—not losing freedom but exercising it in the highest way. When a woman gives herself completely to her husband and children, she fulfills the deepest calling written on her heart. When children receive both parents' complementary gifts, they learn what authentic love looks like and are prepared to give themselves in love when their time comes.
+When a man gives himself completely to his wife and children, he becomes more fully himself—not losing freedom but exercising it in the highest way. When a woman gives herself completely to her husband and children, she fulfills the deepest calling written on her heart. When children receive both parents' complementary gifts, they learn what authentic love looks like and are likewise prepared to give themselves in love.
 
 **This is the book's comprehensive definition made concrete:** Marriage is the sacred, sacrificial gift of covenant which binds truth, justice, and mercy into life-giving communion. In marriage, we see perfect love embodied in the most fundamental human relationship—which is why covenant love in marriage is such a powerful weapon against evil.
+
+**This is the pattern for all human society.** The health of families directly reflects—and determines—the health of civilization itself. Strong covenant marriages create strong families. Strong families create strong communities. Strong communities create flourishing civilizations. When covenant love breaks down in marriage, everything downstream collapses: children suffer, communities fragment, and society unravels. This is why every civilization that has endured has protected the permanent union of husband and wife ordered toward children—not as one lifestyle choice among many, but as the essential foundation of human flourishing.
 
 ## How Covenant Combats Evil
 
@@ -235,17 +243,17 @@ When we understand covenant love—especially as embodied in marriage—we see h
 
 **Against Meaninglessness:** If nothing is permanent, nothing ultimately matters. Covenant gives life meaning by creating bonds that transcend the moment, relationships that endure beyond death, love that participates in the eternal.
 
-**Against Cultural Breakdown:** When we tell people marriage is optional, that any arrangement is equally valid, that children don't need both mother and father—we're not liberating them. We're robbing them of the primary means by which humans fulfill the law written on their hearts. The crisis isn't that marriage has become unpopular—it's that we've forgotten why we need it.
+**Against Cultural Breakdown:** When we deviate from the pattern of marriage given to us by God—between one man and one woman, ordered toward children—we're not liberating society. We're robbing it of the primary means by which humans fulfill the covenant love written on their hearts. The crisis isn't that marriage has become unpopular—it's that we've forgotten why we need it: because it images God's own covenant love and provides the foundation for all human flourishing.
 
 ## Covenant in All of Life
 
 Marriage reveals the pattern of covenant love that extends to all our relationships. Because we understand how marriage works—permanent, unconditional, self-giving—we can recognize covenant love in other forms. Each of these covenants holds together multiple elements (truth, justice, mercy, sacrifice) in harmonious unity:
 
-**Baptism** creates a permanent covenant bond with God and the Church—just as marriage creates permanent family bonds.
+**Baptism** creates a permanent covenant bond with God and the Church—just as marriage creates permanent family bonds. Baptism leaves an indelible mark on our soul that we cannot erase.
 
 **Parent-child relationships** are covenantal—the bond endures regardless of performance, just as spouses remain committed through better and worse.
 
-**The Church** is a covenant community where we're bound together as the Body of Christ—a family of families united in permanent love.
+**The Church** is a covenant community where we're bound together as the Body of Christ—a family of families united in permanent love united in His laws of love so that we an actually love Him and each other.
 
 **Even friendship** at its deepest level is covenantal: "A friend loves at all times, and a brother is born for adversity" (Proverbs 17:17)—reflecting the same permanence and faithfulness we see in marriage.
 
@@ -262,7 +270,7 @@ A parent who stays faithful through a child's rebellion isn't just "doing their 
 
 ## The Bridge to Binding
 
-Covenant creates permanent relationship—but how do we hold together what seems to pull apart? This is where **binding** becomes crucial.
+Covenant creates permanent relationship—but how do we hold together what seems to pull apart? This is where the **binding** of God's truth, justice, mercy and sacrifice becomes crucial.
 
 ---
 
