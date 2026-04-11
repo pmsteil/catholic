@@ -1,0 +1,593 @@
+{
+  "_meta": {
+    "description": "Print-on-demand research for 'What Is Love' book self-publishing",
+    "book_specs": {
+      "trim_size": "6x9 inches",
+      "page_count_estimate": 250,
+      "interior": "Black & white",
+      "paper": "White or cream",
+      "draft_format": "Paperback",
+      "final_format": "Hardcover (cloth-like or case wrap)"
+    },
+    "research_date": "2026-02-24",
+    "pricing_note": "All prices in USD. Estimates based on 250-page, 6x9, B&W book. Many services use dynamic calculators - verify exact pricing before ordering."
+  },
+
+  "recommendation_summary": {
+    "best_for_drafts": "Amazon KDP",
+    "best_for_drafts_reason": "Cheapest paperback at $4.00/copy, no setup fees, easiest upload process. Must be publicly listed to order author copies.",
+    "best_for_final_hardcover": "48 Hour Books",
+    "best_for_final_hardcover_reason": "Real cloth/leather hardcover options, fast 5-day turnaround, no public listing required, high quality. Good for 100-copy runs.",
+    "best_for_distribution": "IngramSpark",
+    "best_for_distribution_reason": "40,000+ retailer network including bookstores and libraries. Professional-grade quality. Best if you want the book in Catholic bookstores.",
+    "best_overall_for_ease": "Lulu",
+    "best_overall_for_ease_reason": "Very easy upload, good quality, direct sales via your own website (Lulu Direct), no public listing required for personal copies.",
+    "recommended_strategy": "Use Amazon KDP for cheap draft paperbacks ($4/copy). Use 48 Hour Books or Lulu for final hardcover copies. Consider IngramSpark if you want bookstore/library distribution later."
+  },
+
+  "companies": {
+    "amazon_kdp": {
+      "name": "Amazon KDP (Kindle Direct Publishing)",
+      "website": "https://kdp.amazon.com",
+      "type": "Print-on-demand",
+      "ease_of_upload": "Excellent - upload PDF interior + PDF cover, preview digitally, publish",
+      "upload_format": "PDF (interior) + PDF (cover). Also accepts .docx for interior.",
+      "setup_fees": 0,
+      "revision_fees": 0,
+
+      "paperback": {
+        "pricing_formula": "$1.00 fixed + ($0.012 x page_count)",
+        "cost_per_unit_250pg": 4.00,
+        "cost_10_copies": 40.00,
+        "cost_100_copies": 400.00,
+        "cover_options": ["Matte", "Glossy"],
+        "paper_options": ["White", "Cream"]
+      },
+
+      "hardcover": {
+        "pricing_formula": "$5.65 fixed + ($0.012 x page_count)",
+        "cost_per_unit_250pg": 8.65,
+        "cost_10_copies": 86.50,
+        "cost_100_copies": 865.00,
+        "type": "Case laminate only (printed image on hard cover)",
+        "note": "NO dust jacket, NO cloth cover option. Limited compared to IngramSpark."
+      },
+
+      "bulk_discounts": "None. Same price per unit for 1 or 999 copies.",
+      "shipping": {
+        "note": "No fixed rates published. No Prime/free shipping for author copies.",
+        "estimated_per_copy_standard": "~$4-5",
+        "estimated_10_copies": "~$15-25",
+        "estimated_100_copies": "~$60-100",
+        "warning": "Shipping + tax can roughly double the per-copy cost."
+      },
+
+      "isbn": {
+        "free_isbn": true,
+        "free_isbn_imprint": "Independently published",
+        "own_isbn": true,
+        "own_isbn_note": "Can use your own from Bowker ($125/single, $295/10 pack)"
+      },
+
+      "turnaround": "~2-3 weeks total (manufacturing + standard shipping). Manufacturing cannot be expedited.",
+      "print_quality": "Good for B&W text. 55lb white paper (thicker than IngramSpark). Occasional consistency issues reported.",
+      "must_be_publicly_listed": true,
+      "must_be_publicly_listed_note": "Book MUST be live on Amazon to order author copies. Proof copies (max 5) available before publishing but have 'Not for Resale' watermark.",
+      "max_order_per_transaction": 999,
+      "distribution": "Amazon only (unless you also use IngramSpark)"
+    },
+
+    "lulu": {
+      "name": "Lulu",
+      "website": "https://www.lulu.com",
+      "type": "Print-on-demand",
+      "ease_of_upload": "Very easy - step-by-step wizard, upload PDF, built-in cover creator",
+      "upload_format": "PDF or DOCX for interior, PDF for cover (or use built-in cover creator)",
+      "setup_fees": 0,
+      "revision_fees": 0,
+
+      "paperback": {
+        "pricing_formula": "Dynamic - based on page count, paper type, binding, trim size",
+        "cost_per_unit_250pg_estimate": "~$6.00-7.00",
+        "cost_10_copies_estimate": "~$60-70",
+        "cost_100_copies_estimate": "~$570-665 (with 5% volume discount at 100+)",
+        "reference_200pg": "$5.34-5.54 for 200-page B&W paperback",
+        "cover_options": ["Matte", "Glossy"],
+        "paper_options": ["Standard white", "Cream", "Lightweight"]
+      },
+
+      "hardcover": {
+        "type": "Casewrap (image printed on hard cover)",
+        "cost_per_unit_250pg_estimate": "~$13.00-15.00",
+        "cost_10_copies_estimate": "~$130-150",
+        "cost_100_copies_estimate": "~$1235-1425 (with 5% discount at 100+)",
+        "reference_200pg": "$12.30 for 200-page B&W hardcover",
+        "other_options": ["Linen wrap with dust jacket"]
+      },
+
+      "bulk_discounts": {
+        "100_to_499": "5% off",
+        "500_plus": "Contact sales for custom quote",
+        "note": "Volume discounts stack with promo codes."
+      },
+
+      "shipping": {
+        "note": "Varies by destination and speed. Calculated at checkout.",
+        "fulfillment_fee": "$1.75 per order via Lulu Direct"
+      },
+
+      "isbn": {
+        "free_isbn": true,
+        "free_isbn_imprint": "Lulu (cannot be changed)",
+        "own_isbn": true
+      },
+
+      "turnaround": "Print-on-demand, ships when ordered. ~1-2 weeks typical.",
+      "print_quality": "Good. Well-regarded for paperbacks. Founded 2002 with long track record.",
+      "must_be_publicly_listed": false,
+      "must_be_publicly_listed_note": "Can order personal copies without listing for sale. Three goals: Lulu Bookstore, Global Distribution, or Lulu Direct (sell on your own site).",
+      "distribution": "Lulu Bookstore, Amazon, 40,000+ retailers via global distribution, or sell on your own website via Lulu Direct",
+
+      "pros": [
+        "No public listing required for personal copies",
+        "Very easy upload process",
+        "Direct sales via your own website (Lulu Direct)",
+        "Free to use, no setup fees",
+        "Good paperback quality"
+      ],
+      "cons": [
+        "Prices higher than KDP",
+        "Distribution royalties are low (retailers take 40-55%, Lulu takes 20% of remainder)",
+        "Some customer service complaints",
+        "No cloth hardcover option"
+      ]
+    },
+
+    "ingramspark": {
+      "name": "IngramSpark",
+      "website": "https://www.ingramspark.com",
+      "type": "Print-on-demand with professional distribution",
+      "ease_of_upload": "Moderate - requires print-ready PDF files, stricter requirements. File review takes 3-5 business days. Must approve eProof before printing.",
+      "upload_format": "Print-ready PDF only. Interior and cover as separate files. Strict specs (300dpi, CMYK, embedded fonts).",
+      "setup_fees": "Free for new titles. $25 revision fee after 60 days.",
+      "revision_fees": "$25 per revision (after initial 60-day window)",
+
+      "paperback": {
+        "pricing_note": "Dynamic calculator. Prices as of Feb 2026 price sheet.",
+        "cost_per_unit_250pg_estimate": "~$4.50-5.00",
+        "cost_per_unit_200pg_reference": "$4.17 (6x9, 200pg, B&W, 50lb white)",
+        "cost_10_copies_estimate": "~$45-50",
+        "cost_100_copies_estimate": "~$405-450 (with 2% bulk discount at 100+)",
+        "paper_options": ["50lb white", "70lb white", "Cream/groundwood"]
+      },
+
+      "hardcover": {
+        "type": "Case laminate, dust jacket, or cloth options available",
+        "cost_per_unit_250pg_estimate": "~$8.94 (case laminate, B&W)",
+        "cost_per_unit_200pg_reference": "$7.95 (5.5x8.5, 200pg, B&W, creme - from bulk discount page)",
+        "cost_10_copies_estimate": "~$89",
+        "cost_100_copies_estimate": "~$876 (with 2% discount at 100+)",
+        "note": "Best hardcover options of any POD service. Dust jackets available."
+      },
+
+      "bulk_discounts": {
+        "1_to_99": "Standard price",
+        "100_to_299": "2% off",
+        "300_to_399": "5% off",
+        "400_to_499": "7.5% off",
+        "500_to_999": "10% off",
+        "1000_to_1499": "15% off",
+        "1500_plus": "Up to 35% (contact for 10,000+)"
+      },
+
+      "shipping": {
+        "ground_domestic": "7-10 business days",
+        "standard_commercial": "1-6 business days",
+        "print_and_ship_time": "2-3 business days to print, then shipping",
+        "international": "Available to 200+ countries",
+        "note": "Shipping calculator available. Rates quoted at time of order."
+      },
+
+      "isbn": {
+        "free_isbn": true,
+        "free_isbn_imprint": "You can use your own imprint name (unlike KDP free ISBN)",
+        "own_isbn": true,
+        "purchase_through_ingram": "$85 for single ISBN"
+      },
+
+      "turnaround": "3-5 business days for file review, 2-3 days to print, then shipping. Total ~2-3 weeks.",
+      "print_quality": "Professional grade. Slight edge over KDP, especially for hardcovers. 50lb paper standard.",
+      "must_be_publicly_listed": false,
+      "must_be_publicly_listed_note": "Can order author copies without distribution. Can also list for global distribution.",
+      "market_access_fee": "1.875% of list price (as of Feb 2026)",
+
+      "distribution": {
+        "network": "40,000+ retailers including Barnes & Noble, Amazon, Baker & Taylor, independent bookstores, libraries, schools, universities",
+        "global": "200+ countries via Ingram International and Global Connect (local printing partners)",
+        "note": "THE standard for getting books into physical bookstores and libraries. Catholic bookstores would likely order through Ingram."
+      },
+
+      "pros": [
+        "Best distribution network (bookstores, libraries)",
+        "Professional-grade print quality",
+        "Best hardcover options (dust jackets, cloth)",
+        "Free ISBN with your own imprint name",
+        "Bulk discounts starting at 100 copies"
+      ],
+      "cons": [
+        "Steeper learning curve - strict file requirements",
+        "File review takes 3-5 business days",
+        "$25 revision fee after 60 days",
+        "Slightly more expensive than KDP",
+        "Market access fee of 1.875%"
+      ]
+    },
+
+    "barnes_noble_press": {
+      "name": "Barnes & Noble Press",
+      "website": "https://press.barnesandnoble.com",
+      "type": "Print-on-demand",
+      "ease_of_upload": "Easy - similar to KDP. Upload PDF files, approval within 24 hours typically.",
+      "upload_format": "PDF for interior and cover",
+      "setup_fees": 0,
+      "revision_fees": 0,
+
+      "paperback": {
+        "cost_per_unit_250pg_estimate": "~$3.60-4.25",
+        "reference_200pg": "~$3.60 for 200pg 6x9 B&W",
+        "cost_10_copies_estimate": "~$36-43",
+        "cost_100_copies_estimate": "~$360-425"
+      },
+
+      "hardcover": {
+        "type": "Case laminate or dust jacket available",
+        "cost_per_unit_250pg_estimate": "~$8.00-9.00",
+        "reference_200pg": "~$7.60 for 200pg 6x9 B&W case laminate",
+        "cost_10_copies_estimate": "~$80-90",
+        "cost_100_copies_estimate": "~$800-900"
+      },
+
+      "bulk_discounts": "None currently. B&N says they hope to offer them in the future.",
+      "shipping": {
+        "note": "US only. No free shipping for author copies. Costs calculated at checkout.",
+        "estimated_delivery": "Within 1 week for personal use copies",
+        "international": "NOT AVAILABLE - US shipping only"
+      },
+
+      "isbn": {
+        "free_isbn": true,
+        "not_required_for_personal_use": true,
+        "own_isbn": true
+      },
+
+      "turnaround": "Printing + shipping typically within 1 week. Approval within 24 hours.",
+      "print_quality": "Good paperback quality. Some hardcover errors reported (wrong covers on wrong books).",
+      "must_be_publicly_listed": false,
+      "must_be_publicly_listed_note": "Can order 'Print for Personal Use' copies without listing for sale. No ISBN required for personal copies.",
+      "royalty_rate": "55% of retail price minus printing cost",
+      "distribution": "Barnes & Noble stores and BN.com only. Very limited compared to IngramSpark.",
+
+      "pros": [
+        "No public listing required - can print for personal use",
+        "No setup or revision fees",
+        "Competitive printing costs",
+        "Fast approval (~24 hours)",
+        "Hardcover with dust jacket option"
+      ],
+      "cons": [
+        "US shipping only - cannot ship internationally",
+        "Limited distribution (B&N only)",
+        "No bulk discounts",
+        "Books are 'nonreturnable' in B&N system (problematic for in-store orders)",
+        "Limited customer support (email only, AI-like responses reported)",
+        "Some hardcover quality control issues reported"
+      ]
+    },
+
+    "48_hour_books": {
+      "name": "48 Hour Books",
+      "website": "https://www.48hrbooks.com",
+      "type": "Short-run book printer (NOT print-on-demand marketplace)",
+      "ease_of_upload": "Good - upload print-ready PDF after placing order. Pre-press review included. PDF proof within 1-2 business days.",
+      "upload_format": "Print-ready PDF for interior and cover",
+      "setup_fees": "$100 deposit required to start (applied toward balance)",
+      "revision_fees": "$50 new file fee if you send revised files after proofing",
+
+      "paperback": {
+        "pricing_note": "Uses online calculator. Prices vary by exact specs and quantity.",
+        "cost_per_unit_180pg_100copies": "~$4.74 effective (with 25 free bonus books)",
+        "cost_per_unit_250pg_estimate": "~$5.50-7.00",
+        "cost_10_copies_estimate": "~$55-70 + shipping",
+        "cost_100_copies_estimate": "~$550-700 + shipping (includes 25 free bonus books)",
+        "minimum_order": 10
+      },
+
+      "hardcover": {
+        "type": "Case bound - cloth, leather, leatherette, or printed laminate covers available",
+        "conversion_cost": "$210 to convert 25 books to hardcover (when ordering 35+ paperbacks)",
+        "cost_per_unit_estimate": "~$12-18 per copy (varies significantly by options)",
+        "options": [
+          "Full-color laminated covers (gloss or matte)",
+          "Leatherette covers (customizable with foil)",
+          "Cloth covers (foil stamped, with optional dust jacket)",
+          "Leather covers (foil stamped, with optional dust jacket)",
+          "PUR adhesive binding (strongest available)"
+        ],
+        "note": "BEST hardcover options of any service researched. Real cloth and leather available."
+      },
+
+      "bulk_discounts": {
+        "100_plus": "25 FREE bonus books",
+        "500_plus": "Automatic price break",
+        "1000_plus": "Deeper automatic discount",
+        "2500_plus": "Even deeper discount",
+        "5000_plus": "Best pricing tier"
+      },
+
+      "shipping": {
+        "carrier": "UPS",
+        "domestic": "US and Canada only (international via customer-arranged carrier)",
+        "pickup_locations": ["Twinsburg, OH", "Las Vegas, NV"],
+        "split_shipping": true,
+        "individual_shrinkwrap": "$1/book extra",
+        "note": "Shipping costs calculated by zip code in their price calculator."
+      },
+
+      "isbn": {
+        "available": true,
+        "cost": "$125 for single ISBN (through Bowker)",
+        "barcode_generation": "Included with ISBN purchase",
+        "own_isbn": true
+      },
+
+      "turnaround": {
+        "paperback": "48 hours production time (for print-ready files)",
+        "hardcover": "5 business days production time",
+        "proof_review": "1-2 business days for PDF proof",
+        "note": "Production time only - add shipping time. Reformatting adds 5-10 days."
+      },
+
+      "print_quality": "Highly rated. HP Indigo and Xeikon presses. PUR adhesive for hardcovers. 5/5 on eKomi from 69 reviews.",
+      "must_be_publicly_listed": false,
+      "must_be_publicly_listed_note": "This is a printer, not a marketplace. You order books and they ship to you. No public listing involved.",
+      "distribution": "None - this is a printer only. You handle your own distribution/sales.",
+
+      "pros": [
+        "Fastest turnaround (48 hours for paperback production)",
+        "Best hardcover options (cloth, leather, leatherette)",
+        "No public listing required",
+        "25 free books with orders of 100+",
+        "Excellent customer reviews",
+        "Split shipping available",
+        "New: book edge printing available"
+      ],
+      "cons": [
+        "$100 deposit required upfront",
+        "$50 fee for revised files",
+        "Minimum order of 10 books",
+        "US and Canada shipping only",
+        "No distribution services - you sell/distribute yourself",
+        "Pricing not transparent without using calculator",
+        "Reformatting service ($250 for 201-399 pages) adds time"
+      ]
+    },
+
+    "bookbaby": {
+      "name": "BookBaby",
+      "website": "https://www.bookbaby.com",
+      "type": "Full-service self-publishing and printing",
+      "ease_of_upload": "Good - upload PDF after configuring quote. Templates provided. Press proof available ($99).",
+      "upload_format": "PDF for interior and cover. Templates available for Word, InDesign, Google Docs, Apple Pages.",
+      "setup_fees": "None for printing only. Distribution packages: $199 (BookBaby Bookshop) or $399 (Global Distribution)",
+
+      "paperback": {
+        "pricing_note": "Uses online quoter. Prices include no distribution.",
+        "cost_1_copy_200pg": "~$79",
+        "cost_25_copies_200pg": "~$219 ($8.76/ea)",
+        "cost_100_copies_300pg": "~$946 ($9.46/ea)",
+        "cost_per_unit_250pg_estimate_100copies": "~$7-9",
+        "minimum_order": 25,
+        "minimum_order_note": "Minimum 25 books required for print-on-demand"
+      },
+
+      "hardcover": {
+        "type": "Adhesive case wrap, or case wrap with dust jacket",
+        "cost_per_unit_estimate": "~$17-19 per copy",
+        "cost_25_copies": "~$17/copy",
+        "sizes_available": 8
+      },
+
+      "bulk_discounts": "Prices decrease with quantity. Use online quoter for exact pricing.",
+
+      "shipping": {
+        "domestic": "UPS (various speeds)",
+        "international": "DHL to 170 countries (DDU - duties unpaid)",
+        "split_shipping": true,
+        "turnaround": "3-5 days printing, 5 days typical to receive books"
+      },
+
+      "isbn": {
+        "cost": "$19-$79 (varies by package)",
+        "note": "BookBaby listed as publisher of record if they provide ISBN",
+        "own_isbn": true
+      },
+
+      "turnaround": "3-5 days printing. 4-8 weeks for full process with design services. Rush service available.",
+      "print_quality": "High quality - HP Indigo and Xeikon presses (in-house printing).",
+      "must_be_publicly_listed": false,
+      "distribution": "Optional: BookBaby Bookshop ($199) or Global Distribution ($399) covering Amazon, B&N, Walmart, 50+ retailers",
+
+      "pros": [
+        "Full-service options (editing, design, formatting, marketing)",
+        "International shipping to 170 countries",
+        "In-house printing for quality control",
+        "Split shipping available"
+      ],
+      "cons": [
+        "EXPENSIVE - much higher per-unit cost than KDP or IngramSpark",
+        "Distribution packages are $199-$399 on top of printing",
+        "Minimum 25 books for POD",
+        "$399 distribution fee is on top of print costs",
+        "Total for 100 copies can exceed $1,300 including distribution"
+      ]
+    },
+
+    "blurb": {
+      "name": "Blurb",
+      "website": "https://www.blurb.com",
+      "type": "Print-on-demand (originally focused on photo books)",
+      "ease_of_upload": "Good - uses BookWright (free desktop software) or upload PDF. Also supports Adobe InDesign plugin.",
+      "upload_format": "PDF, or create in BookWright (free) or InDesign",
+      "setup_fees": 0,
+
+      "trade_book_paperback": {
+        "pricing_note": "Trade books are Blurb's text-focused format in 6x9",
+        "cost_per_unit_250pg_estimate": "~$5-9 (economy B&W paper)",
+        "cost_per_unit_350pg_hardcover": "$13.99 (ImageWrap hardcover, economy B&W)",
+        "paper_options": ["Economy B&W (cheapest)", "Standard B&W", "Economy Color", "Standard Color"],
+        "note": "Originally a photo book company. Trade books are their text-book format."
+      },
+
+      "hardcover": {
+        "type": "ImageWrap (printed image on hard cover)",
+        "cost_per_unit_250pg_estimate": "~$11-14 (economy B&W)",
+        "note": "No cloth or leather options. ImageWrap only."
+      },
+
+      "bulk_discounts": {
+        "10_plus": "10% off trade books (20% off photo books)",
+        "100_plus": "Contact Large Order Services for custom quote",
+        "750_plus": "Offset printing available"
+      },
+
+      "shipping": {
+        "production_time": "~5 business days to print and bind",
+        "shipping_time": "1-5 business days depending on method",
+        "total_estimate": "6-10 business days",
+        "note": "No expedited production option"
+      },
+
+      "isbn": {
+        "free_isbn": true,
+        "free_isbn_note": "All trade books get an ISBN automatically (required for trade format)",
+        "own_isbn": true
+      },
+
+      "turnaround": "5 business days print + 1-5 business days shipping = 6-10 business days total",
+      "print_quality": "Good for photo books. Trade books are adequate but not Blurb's primary focus.",
+      "distribution": "Blurb Bookstore, Amazon and Ingram network (via Blurb's distribution)",
+
+      "pros": [
+        "Free BookWright software is easy to use",
+        "Good for books with images/illustrations",
+        "Free ISBN included on trade books",
+        "Volume discounts start at 10 copies"
+      ],
+      "cons": [
+        "Originally a photo book company - not optimized for text-only books",
+        "Higher prices than KDP/IngramSpark for text books",
+        "No cloth/leather hardcover options",
+        "6-10 business day minimum turnaround"
+      ]
+    },
+
+    "gorham_printing": {
+      "name": "Gorham Printing",
+      "website": "https://gorhamprinting.com",
+      "type": "Short-run book printer",
+      "ease_of_upload": "Good - upload print-ready PDF, automated prepress review, online proof of cover and interior",
+      "note": "Traditional short-run printer. Good for medium runs (100-500+).",
+
+      "paperback": {
+        "cost_per_unit_250pg_250copies": "Interpolated ~$8.50 (between 150pg/$6.26 and 300pg/$9.90 at 250 qty)",
+        "cost_per_unit_300pg_100copies": "$10.69",
+        "cost_per_unit_300pg_250copies": "$9.90",
+        "cost_per_unit_300pg_500copies": "$9.23",
+        "cost_per_unit_150pg_100copies": "$6.92"
+      },
+
+      "hardcover": {
+        "cost_per_unit_300pg_100copies": "$32.53",
+        "cost_per_unit_300pg_250copies": "$28.36",
+        "cost_per_unit_300pg_500copies": "$25.81",
+        "cost_per_unit_150pg_100copies": "$27.80",
+        "note": "Significantly more expensive than POD services for hardcover."
+      },
+
+      "pros": ["Transparent published price charts", "Traditional quality printing"],
+      "cons": ["More expensive than POD services", "No distribution services", "Better suited for larger runs"]
+    }
+  },
+
+  "pricing_comparison_250pg_6x9_bw": {
+    "description": "Quick comparison table - estimated per-unit cost for 250pg 6x9 B&W book",
+    "paperback_per_unit": {
+      "amazon_kdp": {"price": 4.00, "note": "Exact (formula-based)"},
+      "barnes_noble_press": {"price": "~3.60-4.25", "note": "Estimate"},
+      "ingramspark": {"price": "~4.50-5.00", "note": "Estimate"},
+      "lulu": {"price": "~6.00-7.00", "note": "Estimate"},
+      "48_hour_books": {"price": "~5.50-7.00", "note": "Estimate, improves with quantity"},
+      "bookbaby": {"price": "~7.00-9.00", "note": "Estimate at 100 copies"},
+      "blurb": {"price": "~5.00-9.00", "note": "Estimate, economy B&W"},
+      "gorham_printing": {"price": "~8.50-10.00", "note": "At 100-250 copies"}
+    },
+    "hardcover_per_unit": {
+      "amazon_kdp": {"price": 8.65, "note": "Exact. Case laminate only, no cloth."},
+      "barnes_noble_press": {"price": "~8.00-9.00", "note": "Estimate. Case laminate or dust jacket."},
+      "ingramspark": {"price": "~8.94", "note": "Case laminate. Dust jacket also available."},
+      "lulu": {"price": "~13.00-15.00", "note": "Casewrap. Linen wrap with dust jacket also available."},
+      "48_hour_books": {"price": "~12.00-18.00", "note": "Cloth, leather, leatherette options available."},
+      "bookbaby": {"price": "~17.00-19.00", "note": "Case wrap or with dust jacket."},
+      "blurb": {"price": "~11.00-14.00", "note": "ImageWrap only."},
+      "gorham_printing": {"price": "~28.00-32.00", "note": "Traditional printing. Expensive for small runs."}
+    }
+  },
+
+  "feature_comparison": {
+    "no_public_listing_required": {
+      "amazon_kdp": false,
+      "lulu": true,
+      "ingramspark": true,
+      "barnes_noble_press": true,
+      "48_hour_books": true,
+      "bookbaby": true,
+      "blurb": true
+    },
+    "cloth_hardcover_available": {
+      "amazon_kdp": false,
+      "lulu": false,
+      "ingramspark": false,
+      "barnes_noble_press": false,
+      "48_hour_books": true,
+      "bookbaby": false,
+      "blurb": false
+    },
+    "free_isbn": {
+      "amazon_kdp": true,
+      "lulu": true,
+      "ingramspark": true,
+      "barnes_noble_press": true,
+      "48_hour_books": false,
+      "bookbaby": false,
+      "blurb": true
+    },
+    "bookstore_distribution": {
+      "amazon_kdp": "Amazon only",
+      "lulu": "40,000+ retailers via global distribution",
+      "ingramspark": "40,000+ retailers (BEST for bookstores/libraries)",
+      "barnes_noble_press": "Barnes & Noble only",
+      "48_hour_books": "None (printer only)",
+      "bookbaby": "Amazon, B&N, Walmart, 50+ retailers ($399 fee)",
+      "blurb": "Amazon and Ingram network"
+    },
+    "international_shipping": {
+      "amazon_kdp": true,
+      "lulu": true,
+      "ingramspark": true,
+      "barnes_noble_press": false,
+      "48_hour_books": false,
+      "bookbaby": true,
+      "blurb": true
+    }
+  }
+}
