@@ -1,0 +1,320 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>What Is Love? Cover Batch Viewer</title>
+  <style>
+    :root {
+      --bg: #120609;
+      --panel: #1b0b0f;
+      --panel-2: #241017;
+      --line: #5a3b22;
+      --gold: #f0d060;
+      --gold-2: #be985c;
+      --text: #f1e7cf;
+      --muted: #d7c4a2;
+    }
+    * { box-sizing: border-box; }
+    html, body {
+      margin: 0;
+      padding: 0;
+      width: 100%;
+      min-height: 100%;
+      background: var(--bg);
+      color: var(--text);
+      font-family: Georgia, serif;
+      overflow-x: hidden;
+    }
+    body {
+      display: flex;
+      flex-direction: column;
+      margin: 0;
+    }
+    header {
+      padding: 16px 18px;
+      border-bottom: 1px solid var(--line);
+      position: sticky;
+      top: 0;
+      background: rgba(18, 6, 9, 0.96);
+      backdrop-filter: blur(6px);
+      z-index: 50;
+      width: 100%;
+    }
+    h1 { margin: 0 0 6px 0; font-size: 28px; }
+    p { margin: 4px 0; color: var(--muted); }
+    .toolbar {
+      margin-top: 12px;
+      display: flex;
+      gap: 8px;
+      flex-wrap: wrap;
+      align-items: center;
+    }
+    button {
+      background: var(--gold-2);
+      color: #1a0d08;
+      border: 0;
+      padding: 9px 13px;
+      border-radius: 8px;
+      cursor: pointer;
+      font-weight: bold;
+      font-family: inherit;
+    }
+    button.secondary {
+      background: var(--panel-2);
+      color: var(--text);
+      border: 1px solid var(--line);
+    }
+    .main {
+      width: 100%;
+      max-width: none;
+      padding: 10px;
+      flex: 1;
+      margin: 0;
+    }
+    .grid {
+      width: 100%;
+      max-width: none;
+      margin: 0;
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 10px;
+      align-items: start;
+    }
+    .card {
+      background: var(--panel);
+      border: 1px solid var(--line);
+      border-radius: 10px;
+      overflow: hidden;
+      box-shadow: 0 4px 14px rgba(0,0,0,.28);
+      width: 100%;
+      max-width: 100%;
+    }
+    .meta {
+      padding: 10px 12px;
+      border-bottom: 1px solid #3d2417;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 12px;
+    }
+    .num {
+      font-size: 24px;
+      font-weight: bold;
+      color: var(--gold);
+      line-height: 1;
+      margin-bottom: 2px;
+    }
+    .tag { font-size: 13px; color: var(--muted); }
+    .viewer {
+      width: 100%;
+      background: #090304;
+      padding: 6px;
+    }
+    .viewer img {
+      width: 100%;
+      max-width: 100%;
+      height: auto;
+      display: block;
+      background: #000;
+      cursor: zoom-in;
+    }
+    .actions {
+      display: flex;
+      gap: 8px;
+      padding: 10px 12px 12px;
+      flex-wrap: wrap;
+    }
+    .hidden-note {
+      padding: 40px 24px;
+      text-align: center;
+      color: #c9b18c;
+    }
+    .modal {
+      position: fixed;
+      inset: 0;
+      background: rgba(0,0,0,0.92);
+      display: none;
+      align-items: center;
+      justify-content: center;
+      z-index: 1000;
+      padding: 16px;
+    }
+    .modal.open { display: flex; }
+    .modal-inner {
+      width: 100%;
+      height: 100%;
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+    }
+    .modal-top {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      color: var(--text);
+      gap: 16px;
+    }
+    .modal-title {
+      font-size: 20px;
+      color: var(--gold);
+      font-weight: bold;
+    }
+    .modal-stage {
+      flex: 1;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      overflow: auto;
+      border: 1px solid var(--line);
+      border-radius: 12px;
+      background: #070203;
+    }
+    .modal-stage img {
+      max-width: 100%;
+      max-height: 100%;
+      object-fit: contain;
+      display: block;
+    }
+    .modal-actions {
+      display: flex;
+      gap: 10px;
+      flex-wrap: wrap;
+    }
+    @media (max-width: 700px) {
+      header { padding: 14px; }
+      .main { padding: 8px; }
+      .grid { grid-template-columns: 1fr; gap: 8px; }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>What Is Love? — Cover Viewer</h1>
+    <p>Refer to images by number. Click any image to open it large.</p>
+    <p>Hide rejected options in the browser, then tell Pi which numbers you want to keep or refine.</p>
+    <div class="toolbar">
+      <button onclick="restoreAll()">Restore All Hidden</button>
+      <button class="secondary" onclick="window.scrollTo({top: document.body.scrollHeight, behavior: 'smooth'})">Jump to Bottom</button>
+      <button class="secondary" onclick="window.scrollTo({top: 0, behavior: 'smooth'})">Jump to Top</button>
+    </div>
+  </header>
+
+  <main class="main">
+    <div id="grid" class="grid"></div>
+  </main>
+
+  <div id="modal" class="modal" onclick="closeModal(event)">
+    <div class="modal-inner">
+      <div class="modal-top">
+        <div id="modalTitle" class="modal-title"></div>
+        <div class="modal-actions">
+          <button class="secondary" onclick="closeModal(event)">Close</button>
+        </div>
+      </div>
+      <div class="modal-stage">
+        <img id="modalImg" src="" alt="Large preview" />
+      </div>
+    </div>
+  </div>
+
+  <script>
+    const cards = [
+      [1, 'Minimal Crucifix', '01.png'],
+      [2, 'Crucifix + Host + Rays', '02.png'],
+      [3, 'Crucifix + Altar + Chalice', '03.png'],
+      [4, 'Crucifix + Host + Arch', '04.png'],
+      [5, 'No Text — Arch Refine', '05.png'],
+      [6, 'Title + Subtitle', '06.png'],
+      [7, 'Title + Subtitle More Space', '07.png'],
+      [8, 'Title Only', '08.png'],
+      [9, 'No Text — Cross from Altar', '09.png'],
+      [10, 'Realistic Mount Crucifix', '10.png'],
+      [11, 'Realistic Mount Crucifix + Title + Subtitle', '11.png'],
+      [12, 'Realistic Mount Crucifix + Correct Subtitle', '12.png'],
+      [13, 'Realistic Mount Crucifix + Two-Line Subtitle', '13.png'],
+      [14, 'Altar + Chalice + Two-Line Subtitle', '14.png'],
+      [15, 'Host + Arch + Two-Line Subtitle', '15.png'],
+      [16, 'Arch Refine + Two-Line Subtitle', '16.png'],
+      [17, 'Cross from Altar + Two-Line Subtitle', '17.png']
+    ];
+
+    const grid = document.getElementById('grid');
+    cards.forEach(([id, tag, file]) => {
+      const safeTag = tag.replace(/'/g, "&#39;");
+      const section = document.createElement('section');
+      section.className = 'card';
+      section.dataset.id = id;
+      section.innerHTML = `
+        <div class="meta">
+          <div>
+            <div class="num">${id}</div>
+            <div class="tag">${tag}</div>
+          </div>
+        </div>
+        <div class="viewer">
+          <img src="${file}" alt="Cover ${id}" onclick="openModal(${id}, '${safeTag}', '${file}')" />
+        </div>
+        <div class="actions">
+          <button onclick="hideCard(${id})">Reject / Hide</button>
+          <button class="secondary" onclick="openModal(${id}, '${safeTag}', '${file}')">Open Large</button>
+        </div>
+      `;
+      grid.appendChild(section);
+    });
+
+    const HIDE_KEY = 'wil-cover-hidden';
+    function getHidden() {
+      try { return JSON.parse(localStorage.getItem(HIDE_KEY) || '[]'); } catch { return []; }
+    }
+    function setHidden(arr) {
+      localStorage.setItem(HIDE_KEY, JSON.stringify(arr));
+    }
+    function applyHidden() {
+      const hidden = new Set(getHidden());
+      document.querySelectorAll('.card').forEach(card => {
+        const id = Number(card.dataset.id);
+        card.style.display = hidden.has(id) ? 'none' : 'block';
+      });
+      if ([...document.querySelectorAll('.card')].every(c => c.style.display === 'none')) {
+        if (!document.getElementById('all-hidden')) {
+          const msg = document.createElement('div');
+          msg.id = 'all-hidden';
+          msg.className = 'hidden-note';
+          msg.textContent = 'All images are hidden. Click “Restore All Hidden” to show them again.';
+          document.body.appendChild(msg);
+        }
+      } else {
+        document.getElementById('all-hidden')?.remove();
+      }
+    }
+    function hideCard(id) {
+      const hidden = new Set(getHidden());
+      hidden.add(id);
+      setHidden([...hidden]);
+      applyHidden();
+    }
+    function restoreAll() {
+      setHidden([]);
+      applyHidden();
+    }
+
+    function openModal(id, tag, file) {
+      document.getElementById('modalTitle').textContent = `#${id} — ${tag}`;
+      document.getElementById('modalImg').src = file;
+      document.getElementById('modal').classList.add('open');
+    }
+    function closeModal(event) {
+      if (!event || event.target.id === 'modal' || event.target.tagName === 'BUTTON') {
+        document.getElementById('modal').classList.remove('open');
+        document.getElementById('modalImg').src = '';
+      }
+    }
+    document.addEventListener('keydown', (e) => {
+      if (e.key === 'Escape') closeModal();
+    });
+
+    applyHidden();
+  </script>
+</body>
+</html>
