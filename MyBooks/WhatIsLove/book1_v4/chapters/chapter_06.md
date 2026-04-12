@@ -206,7 +206,7 @@ When we voluntarily submit to God's authority—grounded in truth and expressed 
 
 Jesus understood something crucial about human nature: we desperately need truth, and we need it to be clear, authoritative, and accessible. Without truth, we fragment into competing opinions. Without authority to preserve truth, each generation must rediscover it from scratch. Without unity in truth, the Body of Christ splinters into thousands of denominations, each claiming to follow Scripture but arriving at contradictory conclusions.
 
-To remain as one body, as one bread, as one communion, we need one Church with His authority to bind us together in truth.
+To remain as one body—made one by the one bread, united in one communion—we need one Church with His authority to bind us together in truth.
 
 ### Christ Establishes His Church with Divine Authority
 
@@ -228,7 +228,7 @@ Paul calls the Church "a pillar and bulwark of the truth" (1 Timothy 3:15) becau
 \hfill\small — Pope Leo XVI, Address to the Roman Curia (Nov. 21, 2025)
 </div>
 
-The Church's authority comes from God, the Author of love. She doesn't create truth and force it on people. She receives His truth, safeguards it, and teaches it—so people can voluntarily submit to His truth. True authority is not forced from on high, but only exists when we freely submit our will and intellect to Christ, who IS truth.
+The Church's authority comes from God, the Author of love. The Church doesn't create truth and force it on people. She receives His truth, safeguards it, and teaches it—so people can voluntarily submit to His truth. True authority is not forced from on high, but only exists when we freely submit our will and intellect to Christ, who IS truth. And because the Church's authority serves not just truth alone but the integration of truth with justice, mercy, and sacrifice—the whole of God's love bound together—her authority is itself an expression of that love (as we saw in Chapter 5, and as Chapter 10 will reveal fully in the Eucharist).
 
 ## Why Truth Matters Now More Than Ever
 

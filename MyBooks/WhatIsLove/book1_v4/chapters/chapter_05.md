@@ -93,7 +93,7 @@ Rather, truth, justice, mercy, and sacrifice are the human words we use to expla
 
 ## Binding Souls Together in the Body of Christ
 
-This binding of these four dimensions of love is exactly why the Church's sacred authority—culminating in the Pope—is so profound and essential: Christ Himself instituted this hierarchy so that we might know His love definitively, and through that shared truth, unite as one Body of Christ in the one bread and the one baptism, generation after generation.
+This binding of these four dimensions of love is exactly why the Church's sacred authority—culminating in the Pope—is so profound and essential: Christ Himself instituted this hierarchy so that we might know His love definitively, and through that shared truth, unite as one Body of Christ in the one bread and the one baptism, generation after generation. As St. Paul reveals: "Because there is one bread, we who are many are one body" (1 Corinthians 10:17). The One Bread and the One Body are not two separate realities—they are one. The Eucharist, the Church, the Bride united to her Bridegroom, and the four dimensions of love that bind us all make sense only when held together. Chapter 10 will explore this profound unity fully.
 
 This binding power of love doesn't just integrate virtues within us—it binds our very souls to one another. When we live truth, justice, and mercy sacrificially, we become more deeply connected to every other soul in the Body of Christ and of course to Christ Himself. Thus the greatest commandment: love God with all your heart, and love your neighbor as yourself. Authentic love enables deeper love, drawing us into ever-greater communion; deformed love hinders it, creating distance and isolation where communion should flourish.
 

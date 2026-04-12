@@ -186,14 +186,20 @@ And because the Eucharist binds these virtues together, it binds everything else
 
 This is why we call it "Holy Communion"—and this is one of the most profound truths about love we can grasp. The Eucharist is not just a symbol, not just a memorial, not just receiving Christ spiritually. It is Christ becoming one with us, binding us into perfect communion with the Trinity and with each other.
 
-The Church teaches that the Eucharist is "the source and summit of our faith." Many don't understand this at first. But through study and submission to the Church's wisdom, Sacred Tradition opens our eyes: **the "end" is communion with God**. This is why our definition shows the whole purpose of God's love is "life-giving communion."
+Pause here and consider what St. Paul is really saying: "Because there is one bread, we who are many are one body, for we all partake of the one bread" (1 Corinthians 10:17). This is not two separate truths but one indivisible reality. The One Bread—Christ's Body in the Eucharist—*constitutes* the One Body—the Church. The Eucharist doesn't merely symbolize our unity; it *creates* it. We don't receive Communion and then go form the Church. In receiving Communion, we *become* the Church. The Bride is made one with the Bridegroom in the very act of receiving Him.
+
+This is why "One" is the first mark of the Church—One, Holy, Catholic, and Apostolic. The Church's unity is not an organizational achievement or a human aspiration. It is the direct expression of God's love, created and sustained by the Eucharist itself. And the four dimensions of love we've traced throughout this book—truth, justice, mercy, and sacrifice—are precisely what bind us into that unity. They are not four separate obligations we must fulfill. They are four facets of the one love that the one bread makes real in the one body. Remove any facet, and the communion fractures. Hold them together, and you have the Church as Christ intended her: His Bride, His Body, one and indivisible.
+
+This is the deepest meaning of "One Bread, One Body": not just that we share a meal, but that in sharing Christ Himself we become what we receive—one Body, bound by the same love that binds the Trinity in eternal communion.
+
+This is some of the understanding that leads the Church to teach that the Eucharist is "the source and summit of our faith." Many don't understand this at first. But through study and submission to the Church's wisdom, Sacred Tradition opens our eyes: **the "end" is communion with God**. This is why our definition shows the whole purpose of God's love is "life-giving communion."
 
 The Eucharist IS the source and summit because:
 
 - **SOURCE:** Where we receive God's life (the sacred gift)—communion with God is the starting point
-- **SUMMIT:** Where we achieve deepest communion (the goal)—communion with God is the end
+- **SUMMIT:** Where we achieve deepest communion (the goal)—communion with God, now and eternally is the end
 
-It mirrors our definition perfectly: **Sacred** (God's gift) → **Communion** (our participation).
+It mirrors our definition perfectly: **Sacred** (God's gift) leads to **Communion** (His Love poured out in us so that we pour out His love to others).
 
 Once we see that communion with God is both the beginning and the end, everything in Scripture suddenly makes sense—from Genesis ("It is not good for the man to be alone") to Revelation ("Behold, God's dwelling is with the human race"). The entire story of salvation is God pursuing communion with us and for us.
 
