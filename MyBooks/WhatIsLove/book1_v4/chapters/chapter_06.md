@@ -13,9 +13,9 @@
 </div>
 
 <div class="blockquote">
-"Sanctify them in the truth; thy word is truth."
+"Sanctify them in the truth; thy word is truth. As thou didst send me into the world, so I have sent them into the world. And for their sake I consecrate myself, that they also may be consecrated in truth. I do not pray for these only, but also for those who believe in me through their word, that they may all be one; even as thou, Father, art in me, and I in thee, that they also may be in us, so that the world may believe that thou hast sent me. The glory which thou hast given me I have given to them, that they may be one even as we are one, I in them and thou in me, that they may become perfectly one, so that the world may know that thou hast sent me and hast loved them even as thou hast loved me."
 
-\hfill\small — John 17:17
+\hfill\small — John 17:17-23
 </div>
 
 <div class="blockquote">
@@ -36,17 +36,19 @@ The abusive husband says it as he isolates his wife from friends and family. "I 
 
 The manipulative parent says it while controlling every aspect of their adult child's life. "I only want what's best for you."
 
-The cult leader says it while demanding absolute obedience and cutting members off from outside information. "We love you too much to let you be deceived by the world."
+The cult leader says it while demanding absolute obedience and cutting members off from the outside world. "We love you too much to let you be deceived by the world."
 
 In each case, "love" is the justification for control, manipulation, and harm. And the victims often accept it because they've been taught that questioning someone who claims to love you is itself unloving.
 
-This is what happens when love is separated from truth. Without truth, "love" becomes whatever the powerful say it is. Without truth, we can't distinguish authentic love from its counterfeits. Without truth, love becomes the ultimate tool of manipulation. **Lying is a foundational sin that destroys love at its source.**
+This is what happens when love is separated from truth. Without truth, "love" becomes whatever the powerful say it is. Without truth, we can't distinguish authentic love from its counterfeits. Without truth, love becomes the ultimate tool of manipulation. Lying is a foundational sin that destroys love at its source. "Lying lips are an abomination to the LORD, but those who act faithfully are his delight" (Proverbs 12:22).
 
 <div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
-Love without truth is manipulation. Truth without love is cruelty. Authentic love requires both—truth that serves the beloved's good, love that honors objective reality. In God, truth and love are not two separate things bound together—they are one simple divine act viewed from different angles.
+Love without truth is manipulation. Truth without justice is hypocrisy. Truth without mercy is cruelty. Authentic love requires all three—truth that knows what is real, justice that renders what is owed, mercy that restores what is broken. In God, truth and love are not two separate things bound together—they are one simple divine act viewed from different angles.
 </div>
 
 ## What Children Know About Truth
+
+A child stands in the kitchen, certain of what she just heard. Then:
 
 *"That didn't happen."*
 
@@ -70,9 +72,9 @@ Before we can understand Christ as Truth Incarnate, we must first recognize the 
 
 **We are created beings, limited in our timeframe and ability.** We experience life, and we die. We did not choose to exist, yet here we are. This points to a Creator.
 
-**We are born either male or female.** This is not assigned or chosen—it's written into every cell of our bodies. Our biological sex is an objective truth about who we are. As John Paul II taught in his Theology of the Body, **"The body, and it alone, is capable of making visible what is invisible"** (TOB 19:4). Our maleness or femaleness isn't just about biology—it's about how we image God and relate to others.
+**We are born either male or female.** This is not assigned or chosen—it's written into every cell of our bodies. Our biological sex is an objective truth about who we are. As John Paul II taught in his *Theology of the Body* — his landmark series of reflections on the human person — **"The body, and it alone, is capable of making visible what is invisible"** (TOB 19:4). Our maleness or femaleness isn't just about biology—it's about how we image God and relate to others.
 
-**We are born with only half of our reproductive organs.** We are complementary to the opposite sex, designed for union that creates new life. This complementarity is built into our very nature. John Paul II called this the "nuptial meaning of the body" (cf. TOB 14:4-15:5)—our bodies literally speak a language of self-gift and communion. **Man is a unity of body and soul, not a soul trapped in a body.** What our bodies reveal about complementarity isn't oppression—it's the blueprint for how love works.
+**We are born with only half of our reproductive organs.** We are complementary to the opposite sex, designed for union that creates new life. This complementarity is built into our very nature. John Paul II called this the "nuptial meaning of the body" (cf. *Theology of the Body* 14:4-15:5)—our bodies literally speak a language of self-gift and communion. **Man is a unity of body and soul, not a soul trapped in a body.** What our bodies reveal about complementarity isn't oppression—it's the blueprint for how love works.
 
 **We love and need love and need to be loved.** No one has to teach us this. From our first breath, we cry out for love. This universal longing is written on every human heart.
 
@@ -80,15 +82,25 @@ These truths reflect Genesis 1:27: "So God created man in his own image, in the 
 
 ## God Has Made Truth Accessible
 
-God hasn't left us in darkness. He provides truth through multiple means:
+God hasn't left us in darkness. He provides the ability to access his truth through multiple means:
 
-**Through Our Intellect and Will:** God gave us the capacity for logic and reason—the ability to discover truth through observation, reflection, and rational thought. Our minds can conform to reality when we use them properly.
+**Through Our Intellect:** God gave us the capacity for logic and reason—the ability to discover truth through observation, reflection, and rational thought. Our minds can conform to reality when we use them properly.
 
-**Through Natural Law:** Written on our hearts, the basic moral law that all humans recognize: do good, avoid evil; honor your parents; don't murder; don't steal. Even those who've never heard of the Ten Commandments know these truths instinctively.
+**Through Natural Law:** Written on our hearts, the basic moral law that all humans recognize: do good, avoid evil; honor your parents; don't murder; don't steal. Even those who've never heard of the Ten Commandments know these truths instinctively — their *will* is inclined toward the good, even when their intellect hasn't articulated why.
 
-**Through Creation Itself:** "The heavens are telling the glory of God; and the firmament proclaims his handiwork" (Psalm 19:1). The order, beauty, and design of creation point to the Creator.
+**Through Creation Itself:** Before you ever opened a Bible, the universe was already speaking. Creation is our very first contact with reality—the first place any human being encounters existence, beauty, order, and the haunting question: *Why is there something rather than nothing?* Long before we hear a word of Scripture, we are already immersed in a world saturated with meaning. "The heavens are telling the glory of God; and the firmament proclaims his handiwork" (Psalm 19:1).
 
-**Through Divine Revelation:** God has spoken—through the prophets, through Scripture, and ultimately through His Son.
+And the more deeply we look—through science, exploration, mathematics, and wonder—the louder that proclamation becomes. The fine-tuning of physical constants, the breathtaking complexity of living cells, the mathematical elegance underlying the cosmos: creation does not whisper, it shouts. The Church has always recognized this. God reveals Himself through two books: the Book of Scripture and the Book of Nature. Both are His word. Both carry His truth. "Ever since the creation of the world his invisible nature, namely, his eternal power and deity, has been clearly perceived in the things that have been made" (Rom 1:20). God's truth isn't locked inside the pages of a single volume—it is woven into the fabric of reality itself, waiting to be found by anyone willing to look honestly at the world He made.
+
+**Through Human Knowledge:** Philosophy, history, psychology, biology, anthropology, literature — every honest discipline that studies reality, the human person, or the natural world is, in some sense, studying God's handiwork. And the deeper they go, the more they tend to confirm what God has already revealed about Himself, about us, and about love. History shows the consequences when societies abandon truth. Psychology confirms that human beings are wired for relationship, meaning, and self-gift. Biology reveals the breathtaking design of bodies made for complementarity and new life. Philosophy arrives, through reason alone, at a First Cause, an Uncaused Mover, a necessary Being — what we call God.
+
+None of this is coincidence. Truth is one. It has one Author. All honest inquiry into reality is, whether it knows it or not, a search for God (cf. CCC 159; *Fides et Ratio* 1–3). This is why the supposed war between faith and science is a false dichotomy — one of the most damaging lies of the modern age. As John Paul II wrote, *"Faith and reason are like two wings on which the human spirit rises to the contemplation of truth"* (*Fides et Ratio*, opening). Faith without reason becomes superstition; reason without faith becomes cold and baseless. We owe it to our children to teach them this — that they never have to choose between loving God and loving knowledge, between faith and honest inquiry. Every truth they discover in any classroom, laboratory, or library is another glimpse of the same God.
+
+**Through Divine Revelation:** God has not left us to guess at Him from a distance. He has spoken directly — breaking into human history through the hearts and minds of those who loved Him most completely: with their whole heart, soul, mind, and strength. Sacred Scripture is the record of that encounter. It is God revealing Himself through the prophets, the psalmists, the apostles — men and women who surrendered themselves so fully to God's will that His truth could flow through them. "No prophecy ever came by the impulse of man, but men moved by the Holy Spirit spoke from God" (2 Pet 1:21). And then, when the fullness of time had come, God did not send another prophet. He came Himself.
+
+**Through His Church:** The Church is the pillar and foundation of truth (1 Tim 3:15). She receives Christ's truth, guards it, and hands it on to every generation through unbroken apostolic succession. And Christ did not leave her to do this alone — He promised the Holy Spirit would guide her into all truth (John 16:13). "He who hears you hears me" (Luke 10:16). When the Church teaches in Christ's name, she speaks with His authority, not her own.
+
+This is what Sacred Tradition is: the Church's living transmission of the *complete* deposit of God's word — not only the written pages of Scripture, but everything God has revealed: through creation, through the law written on our hearts, through the prophets, through the apostles, through the life and worship of the Church across the centuries. Scripture and Tradition are not competing sources. They are two hands holding the same gift — the fullness of everything God has revealed to us of His truth (cf. Dei Verbum 9–10; CCC 80–83).
 
 ## Christ as Truth Incarnate: The Ultimate Fulfillment
 
@@ -101,6 +113,10 @@ Truth isn't just propositional statements about reality—it's personal, a Perso
 When we encounter Christ, we encounter Truth—living relationship, not abstract principle; warm embrace, not cold fact; liberation, not condemnation: "You will know the truth, and the truth will make you free" (John 8:32).
 
 This is why love requires truth. Because love requires knowing the beloved as they truly are—not as we imagine them, not as we wish they were, but as they actually are. And because the ultimate Beloved is Christ Himself, who IS truth, all authentic love participates in His truth.
+
+Look at what Jesus reveals in His final prayer before the Cross. He doesn't ask the Father simply to protect His disciples from lies—He asks the Father to *sanctify* them in truth: "Sanctify them in the truth; thy word is truth" (John 17:17). To sanctify is to make holy—to transform, to draw into communion with God. **For Jesus, truth is not just a standard to uphold. It is the agent of transformation, the very medium through which we are drawn into the life of God Himself.**
+
+Then He goes deeper still. He prays that His disciples may be one "even as thou, Father, art in me, and I in thee"—drawn into the unity of the Trinity itself. The Father and Son are one because they share one divine nature, one divine truth, one divine love. Jesus is asking that we be drawn into *that same oneness*. And the proof to the world that God loves us will not be miracles or armies—it will be the unity of those who are sanctified in truth: "that the world may know that thou hast sent me and hast loved them even as thou hast loved me" (John 17:23). This is how deep God's truth runs: it is the living current that pulls us into communion with the Trinity and makes divine love visible to a watching world.
 
 ### Truth Died Because of Lies
 
@@ -119,6 +135,8 @@ And lies are still deadly today—destroying marriages, families, communities, n
 But what is this "Truth" that Jesus died for? To understand, we must look at the ancient Hebrew concept that shaped Scripture.
 
 The Hebrew word for truth—*emet*—means faithfulness, reliability, and reality itself. As Aquinas taught: "Truth is the conformity of the intellect to reality" (*Summa Theologica* I, q.16, a.2). Truth isn't something we create—it's something we discover by aligning our minds with what actually is.
+
+The Church Fathers were equally clear: truth does not originate in us—it comes from God and is received by us. St. Augustine put it directly: *"Wherever I found truth, there found I my God, the Truth itself"* (*Confessions* X.23). Truth is not something we generate by looking inward; it is something we discover by turning toward the God who *is* Truth. The intellect is not the source of truth—it is the faculty God gave us to receive it. Christ is called the *Logos*—the eternal Word and Reason of God—because He is the very ground of all intelligibility, the Light in which the intellect sees what is real. This is why the tradition has always distinguished truth (in the intellect) from justice (in the will): you can know what is owed without rendering it—which is precisely why Christ reserved His harshest words not for sinners but for those who *knew* the law and refused to live it.
 
 **When we practice truth—speaking it, living it, defending it—we're not just being accurate. We're conforming our souls to Christ who IS Truth.** Each time we choose truth over lies, our conscience becomes more sensitive, our judgment more sound, our soul more aligned with reality itself. We're training our inner being to recognize and love what is real, good, and beautiful.
 
@@ -156,19 +174,13 @@ Relativism destroys the foundation love requires.
 
 ### The Fullness of Lies in Our Time
 
-We are living through an unprecedented crisis of lies. The media lies to us daily—manipulating narratives, suppressing truth, gaslighting entire populations. Politicians lie brazenly—promising what they won't deliver, denying what everyone can see, redefining words to mean their opposite. Institutions lie systematically—corporations, universities, even some church leaders—twisting truth to serve power, profit, or ideology.
+The Eighth Commandment—*"You shall not bear false witness against your neighbor"* (Exodus 20:16)—is deeper than a rule against courtroom perjury. God was warning an entire civilization about what lies do to a *society*. A people who cannot trust what they are told cannot make sound decisions, form authentic relationships, raise children grounded in reality, or orient their lives toward God. Lies do not merely harm individuals—they dissolve the shared world of meaning that makes civilization possible. We are watching this destruction unfold in real time. God saw it coming. That is why He forbade it.
 
-The Church, drawing on Scripture and natural law, teaches the truth about the human person: that we are created male and female in God's image (Genesis 1:27), that every human life has dignity from conception to natural death, that marriage is the union of one man and one woman ordered toward children. When our culture denies these truths—claiming that biological sex is merely "assigned," that unborn children are not human persons, that marriage can be redefined at will—it isn't just offering alternative opinions. It's denying reality.
+The Eighth Commandment prohibits not only direct lying but "every kind of act contrary to justice and truth" (CCC 2476). Wherever truth about reality is denied, real people are harmed—not helped. Denial of reality is always deadly. Like the lies that killed Jesus, falsehood destroys those it claims to set free. **Lying is the foundational destroyer of love because love cannot exist without truth.**
 
-And denial of reality is deadly. Like the lies that killed Jesus, these falsehoods destroy those they claim to help. **Lying is the foundational destroyer of love because love cannot exist without truth.** The Eighth Commandment prohibits not only direct lying but "every kind of act contrary to justice and truth" (CCC 2476). When we deny truth about human nature, we harm real people—children confused about their bodies, the vulnerable denied legal protection, marriages weakened by false foundations, souls cut off from the reality of God's design.
+But here's what's remarkable: **the very fullness of these lies is driving people back to truth.** When lies become so blatant, so destructive, so obviously contrary to reality, people start waking up. *What is actually true? Who can I trust? Where can I find reality?* And many are finding their way back to the Church—the pillar and foundation of truth, standing as a lighthouse in the storm.
 
-But here's what's remarkable: **the very fullness of these lies is driving people back to truth.** When the lies become so blatant, so destructive, so obviously contrary to reality, people start waking up. They start asking: "What is actually true? Who can I trust? Where can I find reality in a world of lies?"
-
-And many are finding their way back to the Church—the pillar and foundation of truth. She stands as a lighthouse in the storm of lies, proclaiming the same truth Christ proclaimed, the same truth the Apostles died for.
-
-**The most important thing we can do is cultivate in ourselves and others a sincere desire to pursue "The Truth"—wherever it leads.** Not "my truth" or "your truth," but *the* truth. Christ didn't say "I teach the truth" or "I know the truth." He said, "I am the way, and the truth, and the life" (John 14:6). This means truth is not just a set of correct propositions—it's a Person to be encountered, known, and loved. The Church Christ founded doesn't just preserve correct doctrines—she receives His truth, guards it, and teaches it to every generation through two thousand years of unbroken apostolic succession. Christ promised His Church that the Holy Spirit will "guide you into all the truth" (John 16:13)—not each individual interpreting Scripture for themselves, but the Church He established to be the pillar and foundation of truth. When we genuinely seek truth with an open heart, willing to follow it wherever it leads, we will encounter Christ Himself. This is why the Church has nothing to fear from honest inquiry, rigorous philosophy, or scientific discovery. Truth cannot contradict truth. All genuine truth leads to Truth Himself.
-
-This is why truth is so pivotal to God's love. Without truth, love becomes manipulation. Without truth, we can't distinguish authentic love from its counterfeits. Without truth, we're defenseless against the lies that destroy us.
+**The most important thing we can do is cultivate a sincere desire to pursue *the* truth—wherever it leads.** Not "my truth" or "your truth," but *the* truth. Christ didn't say "I teach the truth." He said, "I am the truth" (John 14:6). Truth is not a set of correct propositions—it's a Person to be encountered, known, and loved. When we seek truth with an open heart, willing to follow it wherever it leads, we will encounter Christ Himself. All genuine truth leads to Truth Himself.
 
 ## Love Without Truth: The Counterfeits
 
@@ -182,9 +194,11 @@ This is why truth is so pivotal to God's love. Without truth, love becomes manip
 
 ## Truth and Authority
 
-Most people think of authority in human terms—police or government enforcing power over us, "lording it over" people (cf. Matthew 20:25). But true authority is different. It comes from God because He is the Author—and His authority flows from truth, not force.
+Most people think of authority in human terms—police, government, enforcement—"lording it over" people (cf. Matthew 20:25). But true authority is something entirely different.
 
-**You have to be the author in order to have true authority.** Just as a novelist has authority over the world he creates because he made it, God is the Author of the universe He created. He has authority over all creation because He made it. He knows its purpose, its design, its proper functioning. **His authority isn't imposed by force—it flows from truth.** He doesn't force us to obey arbitrary rules; He reveals the truth about how reality actually works, how we're actually designed, what will actually fulfill us.
+**Authority comes from the Author.** Just as a novelist has authority over the world he creates because he *made* it and knows its inner logic, God is the Author of everything that exists. His authority flows not from force but from truth—He knows reality because He is its source. He doesn't give us rules to restrict us; He reveals how things actually work, how we are actually made, what will actually fulfill us.
+
+This means that every authority any person, institution, or text possesses is *borrowed*. The Bible carries authority because it bears God's Word. Governments hold authority because God is the Author of social order (cf. Romans 13:1). Parents hold authority because God is the Author of the family. The Church holds authority because Christ—the Author made flesh—entrusted it to her. Strip God away, and all authority collapses into raw power. Power can compel. It cannot bind. It cannot command love. Only truth can do that.
 
 <div class="blockquote">
 "The sacred authority is participation in the authority of Christ, and its service to truth is a way of knowing and embracing the ultimate Truth, which is Christ Himself (cf. Jn 14:6)."
@@ -194,33 +208,17 @@ Most people think of authority in human terms—police or government enforcing p
 
 When God says "don't lie," He's not arbitrarily restricting our freedom. He's revealing the truth that lies destroy relationships, corrupt souls, and participate in the evil that crucified His Son. When God says "honor marriage," He's not imposing burdens—He's revealing the truth about how human sexuality and covenant love actually work.
 
-This is why Jesus said, "The truth will make you free" (John 8:32). God's authority liberates us because it's grounded in truth about reality. Submitting to His authority isn't slavery—it's freedom from the slavery of lies, ignorance, and self-destruction. It's like submitting to the "authority" of gravity or mathematics—you're not being oppressed, you're aligning yourself with reality.
+This is why Jesus said, "The truth will make you free" (John 8:32)—not "My power will free you." Freedom isn't the absence of authority. Freedom is aligning yourself with the Author's design. Submitting to God's authority isn't slavery—it's like submitting to the "authority" of gravity or mathematics: you're not being oppressed, you're aligning yourself with reality.
 
-Here's the beautiful paradox: **true freedom is the voluntary submission to be a slave to God's love.** St. Paul understood this deeply. He called himself "a servant of Jesus Christ" (Romans 1:1) and "a servant of God" (Titus 1:1)—a word that literally means slave. He wrote, "For you were called to freedom, brethren; only do not use your freedom as an opportunity for the flesh, but through love be servants of one another." (Galatians 5:13).
-
-Paul knew that we're always slaves to something—either to sin, which leads to death, or to God, which leads to life. "Do you not know that if you yield yourselves to any one as obedient slaves, you are slaves of the one whom you obey, either of sin, which leads to death, or of obedience, which leads to righteousness?" (Romans 6:16). The question isn't whether we'll serve—it's whom we'll serve.
+Here's the beautiful paradox: **true freedom is the voluntary submission to be a slave to God's love.** St. Paul called himself "a servant of Jesus Christ" (Romans 1:1)—a word that literally means slave. "For you were called to freedom, brethren; only do not use your freedom as an opportunity for the flesh, but through love be servants of one another" (Galatians 5:13). We are always slaves to something—either to sin, which leads to death, or to God, which leads to life. "Do you not know that if you yield yourselves to any one as obedient slaves, you are slaves of the one whom you obey, either of sin, which leads to death, or of obedience, which leads to righteousness?" (Romans 6:16). The question isn't whether we'll serve. It's *whom* we'll serve.
 
 When we voluntarily submit to God's authority—grounded in truth and expressed through love—we become slaves to Love itself. And being enslaved to perfect Love is perfect freedom, because Love wills our good, knows our nature, and leads us to our true fulfillment. This is why the saints, who were most "enslaved" to God, were also the freest people who ever lived.
 
-### Jesus Knew We Desperately Need Truth
+### Christ Shares the Author's Authority with His Church
 
-Jesus understood something crucial about human nature: we desperately need truth, and we need it to be clear, authoritative, and accessible. Without truth, we fragment into competing opinions. Without authority to preserve truth, each generation must rediscover it from scratch. Without unity in truth, the Body of Christ splinters into thousands of denominations, each claiming to follow Scripture but arriving at contradictory conclusions.
+Jesus didn't give us a book and wish us luck. He established a Church and entrusted it with His own authority—the Author's authority—so that truth would not have to be rediscovered by every generation in isolation: "All authority in heaven and on earth has been given to me. Go therefore and make disciples of all nations" (Matthew 28:18-19). "He who hears you hears me" (Luke 10:16). "When the Spirit of truth comes, he will guide you into all the truth" (John 16:13).
 
-To remain as one body—made one by the one bread, united in one communion—we need one Church with His authority to bind us together in truth.
-
-### Christ Establishes His Church with Divine Authority
-
-Jesus didn't just give us a book and wish us luck. He established a Church with His own authority:
-
-**Christ Shares His Authority with His Church:** "And Jesus came and said to them, 'All authority in heaven and on earth has been given to me. Go therefore and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, teaching them to observe all that I have commanded you'" (Matthew 28:18-20). Christ has total authority—and He shares it with His Church, commissioning her not just to write it down and let everyone interpret it themselves, but to actively teach with authority. Notice the profound significance: they are to baptize and teach "in the name of" the Trinity—meaning with His authority, by His power, as His representatives. When the Church teaches, Christ Himself teaches.
-
-**Authority Given to Peter:** "And I tell you, you are Peter, and on this rock I will build my church, and the gates of Hades shall not prevail against it. I will give you the keys of the kingdom of heaven, and whatever you bind on earth shall be bound in heaven, and whatever you loose on earth shall be loosed in heaven." (Matthew 16:18-19). In Jewish tradition, "binding and loosing" was the technical language for rabbinic authority to make authoritative interpretations of God's law.
-
-**Authority Given to the Apostles:** "He who hears you hears me, and he who rejects you rejects me, and he who rejects me rejects him who sent me" (Luke 10:16). To hear the Church is to hear Christ Himself.
-
-**The Holy Spirit's Guidance:** "When the Spirit of truth comes, he will guide you into all the truth" (John 16:13). The Church doesn't invent truth—she receives it through the Holy Spirit's ongoing guidance.
-
-Paul calls the Church "a pillar and bulwark of the truth" (1 Timothy 3:15) because Christ gave her this mission: to receive His truth, guard it, and teach it to every generation.
+Paul calls the Church "a pillar and bulwark of the truth" (1 Timothy 3:15)—not because she *creates* truth, but because she *receives* it from its Author and transmits it whole to every generation.
 
 <div class="blockquote">
 "The Church was sent by Christ to reveal and communicate the love of God to all people and nations."
@@ -228,11 +226,13 @@ Paul calls the Church "a pillar and bulwark of the truth" (1 Timothy 3:15) becau
 \hfill\small — Pope Leo XVI, Address to the Roman Curia (Nov. 21, 2025)
 </div>
 
-The Church's authority comes from God, the Author of love. The Church doesn't create truth and force it on people. She receives His truth, safeguards it, and teaches it—so people can voluntarily submit to His truth. True authority is not forced from on high, but only exists when we freely submit our will and intellect to Christ, who IS truth. And because the Church's authority serves not just truth alone but the integration of truth with justice, mercy, and sacrifice—the whole of God's love bound together—her authority is itself an expression of that love (as we saw in Chapter 5, and as Chapter 10 will reveal fully in the Eucharist).
+The Catholic faith is, at its deepest level, a voluntary submission to what is *real*. Truth, God, Love—these are not three separate things. They are one reality seen from different angles. When you submit to Truth, you submit to God. When you submit to God, you submit to Love. And when you submit to Love freely—you are finally free.
+
+The Church's authority serves not just truth alone but the integration of truth with justice, mercy, and sacrifice—the whole of God's love bound together. Her authority is itself an expression of that love (as we saw in Chapter 5, and as Chapter 10 will reveal fully in the Eucharist).
 
 ## Why Truth Matters Now More Than Ever
 
-Jesus knew that lies would always threaten His people. That's why He gave us a Church with His authority to preserve and teach truth—so that in every generation, no matter how dark the lies become, His people would have access to reality.
+The lies of our age are not new. They are the same lies Satan told in the Garden: *"You will be like God"* (Genesis 3:5). *You can define your own reality. You don't need to submit to truth—you can create your own.* These lies killed humanity's innocence in Eden. These lies killed Jesus on Calvary. These lies are killing our culture today.
 
 <div class="blockquote">
 "Every person therefore is invited to 'repent' and to 'believe' in God's merciful love."
@@ -240,13 +240,7 @@ Jesus knew that lies would always threaten His people. That's why He gave us a C
 \hfill\small — Pope Leo XVI, Address to the Roman Curia (Nov. 21, 2025)
 </div>
 
-When Jesus entrusted Himself to the "God of truth" on the Cross, He was demonstrating what we must do: in a world of lies, we must entrust ourselves to Truth Himself. We must anchor ourselves to the Church He established. We must be willing to stand for truth even when it costs us everything—because truth is worth dying for, just as Christ died to reveal it.
-
-The lies of our age are not new. They're the same lies Satan told in the Garden: "You will be like God" (Genesis 3:5). "You can define your own reality." "You don't need to submit to truth—you can create your own." These lies killed humanity's innocence in Eden. These lies killed Jesus on Calvary. These lies are killing our culture today.
-
-But truth cannot be killed. Christ rose from the dead. Truth is eternal. And every person who encounters authentic Catholic teaching—truth preserved intact for two thousand years—has the opportunity to be set free from the lies that enslave them.
-
-This is the Church's mission in every age, but especially in ours: to proclaim truth with clarity and charity, to expose lies with courage and compassion, to be a beacon of reality in a world drowning in deception. Not because we're harsh or judgmental, but because we love people too much to let them believe lies that will destroy them.
+But truth cannot be killed. Christ rose from the dead. Truth is eternal. When Jesus entrusted Himself to the "God of truth" on the Cross, He was showing us what we must do: in a world of lies, entrust yourself to Truth Himself. We must be willing to stand for truth even when it costs us everything—because truth is worth dying for, just as Christ died to reveal it.
 
 ## How Truth Combats Evil
 
@@ -286,9 +280,11 @@ Truth reveals what each person is truly owed—and **justice** is love giving wh
 - **CCC 2464-2513:** The Eighth Commandment—comprehensive teaching on truth, lies, and their effects
 - **CCC 2466-2470:** Truth as foundation of human relationships
 - **CCC 888-892:** The Magisterium's role in guarding and teaching truth
+- **CCC 31–38:** God known through natural reason from created things — the "Book of Nature" as God's first self-disclosure
 - **CCC 84-87:** The deposit of faith and its transmission
 
 ### Christian Thinkers
 - **St. Thomas Aquinas (1225-1274):** His teaching on truth as "conformity of mind to reality" in the *Summa Theologica* shows why truth is objective and discoverable
+- **The "Two Books" Tradition:** Taught by St. Augustine, St. John Chrysostom, St. Thomas Aquinas, and St. Bonaventure — that God reveals Himself through both the Book of Scripture and the Book of Nature; defined dogmatically by Vatican I in *Dei Filius* (1870), Ch. 2; affirmed in CCC 31–38 and Rom 1:20
 - **St. John Paul II (1920-2005):** His encyclical *Veritatis Splendor* (The Splendor of Truth) defends objective moral truth against relativism and shows why truth is essential to freedom
 - **Pope Benedict XVI (1927-2022):** His teaching on the "dictatorship of relativism" warns against the tyranny that results when truth is denied; his emphasis on "faith and reason" shows their necessary unity
