@@ -1,4 +1,10 @@
-# Mercy - Love Transcends Justice
+# Mercy — God Is Mercy
+
+<div class="blockquote">
+"The LORD, the LORD, a God merciful and gracious, slow to anger, and abounding in steadfast love and faithfulness."
+
+\hfill\small — Exodus 34:6
+</div>
 
 <div class="blockquote">
 "Be merciful, even as your Father is merciful."
@@ -35,8 +41,12 @@ But here's the paradox: We plead for mercy when we're the offender, but demand j
 This reveals something profound: Mercy is both gift and task. We receive it from God, yet we must learn to give it to others. We cannot keep what we refuse to share.
 
 <div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
-Mercy is love going beyond what justice requires—offering forgiveness instead of punishment, compassion instead of condemnation, restoration instead of rejection. Mercy doesn't violate justice; it fulfills it. Justice and mercy are so intertwined that neither can be authentic without the other. Mercy presupposes justice, yet mercy is more powerful than justice. We receive mercy from God, but we must also learn to give it to others. We must be merciful in order to receive mercy.
+<p><strong>Love without mercy becomes cruelty</strong> — truth and justice become weapons that define people by their worst moments and close the door on restoration.<sup>1</sup></p>
+<p><strong>Love without mercy becomes vengeance</strong> — every wrong demands permanent punishment; cycles of retaliation never end; no one can be restored.<sup>2</sup></p>
+<p><strong>Love without mercy produces despair</strong> — without the possibility of redemption, the only response to one's own sinfulness is hopelessness. The Gospel itself becomes impossible.<sup>3</sup></p>
 </div>
+
+<!-- EDITORIAL NOTE: Review this chapter to ensure all three affronts to love-without-mercy are explicitly discussed: (1) cruelty — well developed in "What Children Know" and "Mercilessness" sections, good; (2) vengeance — touched in "Mercy Toward Enemies" and Binding Check, but needs a stronger direct treatment as a named consequence of love without mercy; (3) despair — partially addressed in "When Mercy Requires a Supernatural Miracle" but needs explicit naming as the theological consequence of merciless love, grounded in CCC 2091 and Dives in Misericordia §4. -->
 
 ## What Children Know About Mercy
 
@@ -233,3 +243,11 @@ Mercy always comes at a cost—and that cost is sacrifice, the next facet of God
 - **St. Faustina Kowalska (1905-1938):** Her *Diary* records Jesus' revelations about Divine Mercy, showing mercy as the greatest attribute of God
 - **Pope St. John Paul II (1920-2005):** His encyclical *Dives in Misericordia* (Rich in Mercy) explores mercy as essential to understanding God and to Christian life
 - **St. Thomas Aquinas (1225-1274):** His teaching in the *Summa Theologica* shows how mercy is God's greatest work, transcending justice while fulfilling it
+
+---
+
+### Notes
+
+1. St. Thomas Aquinas, *Summa Theologica* II-II, q.30 (cruelty as the vice directly opposed to mercy); *Catechism of the Catholic Church*, §2447.
+2. Matthew 18:23-35 (Parable of the Unforgiving Servant); James 2:13; *Catechism of the Catholic Church*, §2303.
+3. *Catechism of the Catholic Church*, §2091; Pope John Paul II, *Dives in Misericordia* (1980), §4.

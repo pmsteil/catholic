@@ -1,4 +1,4 @@
-# Sacrifice: The Heart of Authentic Love in Action
+# Sacrifice — Love's Eternal Self-Gift
 
 <div class="blockquote">
 "By this we know love, that he laid down his life for us; and we ought to lay down our lives for the brethren."
@@ -45,8 +45,12 @@ In the previous chapter, we saw that mercy offers forgiveness, releases debts, r
 Love is **sacrificial**. Not in theory. Not in sentiment. Not in good intentions. In action. In cost. In putting another's good before our own.
 
 <div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
-Love without sacrifice is just sentiment. Love without action is just words. Love without cost is just self-interest wearing a mask. Authentic love always requires giving something up for the good of another.
+<p><strong>Love without sacrifice becomes a transaction</strong> — love lasts only as long as the benefits; when giving stops being profitable, love dissolves.<sup>1</sup></p>
+<p><strong>Love without sacrifice becomes consumerism</strong> — relationships, marriage, family, and faith are evaluated by what we receive; persons become objects of use rather than persons worthy of gift.<sup>2</sup></p>
+<p><strong>Love without sacrifice becomes lukewarmness</strong> — claiming to love God while it costs nothing; the very faith Christ warned He would spit from His mouth.<sup>3</sup></p>
 </div>
+
+<!-- EDITORIAL NOTE: Review this chapter to ensure all three affronts to love-without-sacrifice are explicitly discussed: (1) transaction — well developed in "When Love Stops Being Theory" and "Sacrifice FOR the Person" sections, good; (2) consumerism — well developed in "Sacrifice vs. Selfishness" section, good; (3) lukewarmness — the opening examples (Christian who never prays, etc.) gesture at this, but it needs explicit naming with Rev 3:16 and CCC 2094, linking sacrificeless love to the theological vice of lukewarmness/acedia. -->
 
 ## What Children Know About Sacrifice
 
@@ -297,3 +301,11 @@ For readers who want to go deeper into how the Old Testament covenants and sacri
 - **Scott Hahn, *The Lamb's Supper: The Mass as Heaven on Earth* (1999)** — Focuses specifically on how the sacrificial system of the Old Covenant—especially the Passover lamb—is not abolished but *completed* in the Eucharist. Hahn shows that the Book of Revelation is the New Testament's liturgical key, and that every Mass is the fulfillment of every Old Testament sacrifice. Transformative for understanding why the Mass is the center of Catholic life.
 
 - **Brant Pitre, *Jesus and the Jewish Roots of the Eucharist* (2011)** — A rigorous but readable biblical theology showing how Jesus' words at the Last Supper are incomprehensible apart from the Old Testament context: the Passover, the manna in the wilderness, and the new exodus. Pitre demonstrates that Jesus was not inventing something new—He was fulfilling everything the sacrificial system had been promising for centuries.
+
+---
+
+### Notes
+
+1. Vatican II, *Gaudium et Spes* (1965), §24; *Catechism of the Catholic Church*, §1822.
+2. Pope Francis, *Evangelii Gaudium* (2013), §55; Pope John Paul II, *Evangelium Vitae* (1995).
+3. Revelation 3:16; *Catechism of the Catholic Church*, §2094.

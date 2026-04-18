@@ -217,7 +217,7 @@ Jesus came to fulfill the Law (Matthew 5:17). We're called to imitate Him—to f
 
 **For Men and Women Together:**
 
-Marriage enables us to fulfill all three: **truth** (our complementary nature designed for union and fruitfulness), **justice** (giving spouse and children what they're owed—provision, security, care, honor, stability), and **mercy** (modeling forgiveness and compassion daily). The family becomes the first school of love.
+Marriage enables us to fulfill all four: **truth** (our complementary nature designed for union and fruitfulness), **justice** (giving spouse and children what they're owed—provision, security, care, honor, stability), **mercy** (modeling forgiveness and compassion daily), and **sacrifice** (laying down our preferences daily for the genuine good of the other). The family becomes the first school of love.
 
 We see this pattern across cultures, throughout history, in every civilization: husband-father who protects and provides, wife-mother who nurtures and cares, children raised by both learning love from their complementary gifts.
 
@@ -225,7 +225,7 @@ This isn't a "social construct" we can redesign at will. It's a basic truth of h
 
 When a man gives himself completely to his wife and children, he becomes more fully himself—not losing freedom but exercising it in the highest way. When a woman gives herself completely to her husband and children, she fulfills the deepest calling written on her heart. When children receive both parents' complementary gifts, they learn what authentic love looks like and are likewise prepared to give themselves in love.
 
-**This is the book's comprehensive definition made concrete:** Marriage is the sacred, sacrificial gift of covenant which binds truth, justice, and mercy into life-giving communion. In marriage, we see perfect love embodied in the most fundamental human relationship—which is why covenant love in marriage is such a powerful weapon against evil.
+**This is the book's comprehensive definition made concrete:** Marriage is the sacred, sacrificial gift of covenant which binds truth, justice, mercy, and sacrifice into life-giving communion. In marriage, we see perfect love embodied in the most fundamental human relationship—which is why covenant love in marriage is such a powerful weapon against evil.
 
 **This is the pattern for all human society.** The health of families directly reflects—and determines—the health of civilization itself. Strong covenant marriages create strong families. Strong families create strong communities. Strong communities create flourishing civilizations. When covenant love breaks down in marriage, everything downstream collapses: children suffer, communities fragment, and society unravels. This is why every civilization that has endured has protected the permanent union of husband and wife ordered toward children—not as one lifestyle choice among many, but as the essential foundation of human flourishing.
 

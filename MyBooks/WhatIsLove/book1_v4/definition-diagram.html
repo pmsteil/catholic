@@ -1,0 +1,441 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>What Is Love? — Definition Diagram</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700&family=EB+Garamond:ital,wght@0,400;0,500;1,400&display=swap" rel="stylesheet">
+    <style>
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+        
+        body {
+            background: #002b36;
+            font-family: 'Georgia', serif;
+            color: #839496;
+            padding: 48px 24px;
+            min-height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: flex-start;
+        }
+        
+        .diagram {
+            max-width: 820px;
+            width: 100%;
+        }
+        /* Definition quote */
+        
+        .definition {
+            text-align: center;
+            color: #2aa198;
+            font-style: italic;
+            font-size: 15px;
+            line-height: 1.8;
+            margin-bottom: 40px;
+            padding: 18px 28px;
+            border: 1px solid #2aa19850;
+            border-radius: 10px;
+            background: #073642;
+        }
+        /* Arrow connector */
+        
+        .arrow {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            margin: 2px 0;
+        }
+        
+        .arrow-line {
+            width: 2px;
+            height: 26px;
+            background: linear-gradient(to bottom, #2aa19860, #2aa198);
+        }
+        
+        .arrow-head {
+            width: 0;
+            height: 0;
+            border-left: 7px solid transparent;
+            border-right: 7px solid transparent;
+            border-top: 9px solid #2aa198;
+        }
+        
+        .arrow-label {
+            font-size: 10px;
+            letter-spacing: 0.12em;
+            text-transform: uppercase;
+            color: #586e75;
+            margin-top: 4px;
+        }
+        /* ── SACRED ── */
+        
+        .sacred-box {
+            background: linear-gradient(135deg, #1c0d00, #2e1a00);
+            border: 2px solid #b58900;
+            border-radius: 14px;
+            padding: 26px 36px;
+            text-align: center;
+            box-shadow: 0 0 36px rgba(181, 137, 0, 0.22);
+        }
+        
+        .sacred-box .layer-label {
+            font-size: 10px;
+            letter-spacing: 0.18em;
+            text-transform: uppercase;
+            color: #7a5c00;
+            margin-bottom: 5px;
+        }
+        
+        .sacred-box .title {
+            font-size: 28px;
+            font-weight: bold;
+            color: #b58900;
+            letter-spacing: 0.22em;
+            margin-bottom: 6px;
+        }
+        
+        .sacred-box .subtitle {
+            font-size: 13px;
+            color: #a07a00;
+            font-style: italic;
+            margin-bottom: 12px;
+        }
+        
+        .sacred-box .note {
+            font-size: 11px;
+            color: #7a5c00;
+            background: rgba(0, 0, 0, 0.3);
+            border: 1px solid #b5890030;
+            border-radius: 20px;
+            padding: 5px 16px;
+            display: inline-block;
+            letter-spacing: 0.02em;
+        }
+        /* ── COVENANT wrapper ── */
+        
+        .covenant-box {
+            background: #073642;
+            border: 2px solid #268bd2;
+            border-radius: 14px;
+            padding: 22px 22px 18px;
+            box-shadow: 0 0 24px rgba(38, 139, 210, 0.12);
+        }
+        
+        .covenant-header {
+            text-align: center;
+            margin-bottom: 18px;
+        }
+        
+        .covenant-header .layer-label {
+            font-size: 10px;
+            letter-spacing: 0.18em;
+            text-transform: uppercase;
+            color: #1a6080;
+            margin-bottom: 4px;
+        }
+        
+        .covenant-header .title {
+            font-size: 21px;
+            font-weight: bold;
+            color: #268bd2;
+            letter-spacing: 0.16em;
+        }
+        
+        .covenant-header .subtitle {
+            font-size: 12px;
+            color: #1a6080;
+            font-style: italic;
+            margin-top: 5px;
+        }
+        /* Unified threads container */
+        
+        .threads-unified {
+            position: relative;
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            grid-template-rows: auto auto;
+            border: 1.5px solid #2aa198;
+            border-radius: 10px;
+            overflow: hidden;
+            background: #002b36;
+            margin-bottom: 12px;
+        }
+        
+        .threads-overlay {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            pointer-events: none;
+            z-index: 1;
+        }
+        
+        .thread-q {
+            text-align: center;
+            display: flex;
+            flex-direction: column;
+            gap: 8px;
+            position: relative;
+            z-index: 2;
+        }
+        
+        .thread-q.tl {
+            padding: 22px 52px 52px 22px;
+            border-right: 1px solid #2aa19830;
+            border-bottom: 1px solid #2aa19830;
+        }
+        
+        .thread-q.tr {
+            padding: 22px 22px 52px 52px;
+            border-bottom: 1px solid #2aa19830;
+        }
+        
+        .thread-q.bl {
+            padding: 52px 52px 22px 22px;
+            border-right: 1px solid #2aa19830;
+        }
+        
+        .thread-q.br {
+            padding: 52px 22px 22px 52px;
+        }
+        
+        .center-hub {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            background: #073642;
+            border: 1.5px solid #2aa198;
+            border-radius: 50%;
+            width: 82px;
+            height: 82px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            text-align: center;
+            z-index: 10;
+            box-shadow: 0 0 20px rgba(42, 161, 152, 0.35);
+        }
+        
+        .hub-label {
+            font-size: 9px;
+            letter-spacing: 0.18em;
+            text-transform: uppercase;
+            color: #2aa198;
+            line-height: 1.3;
+        }
+        
+        .hub-sub {
+            font-size: 8px;
+            color: #586e75;
+            font-style: italic;
+            margin-top: 3px;
+            line-height: 1.3;
+        }
+        
+        .thread-name {
+            font-size: 13px;
+            font-weight: bold;
+            color: #2aa198;
+            letter-spacing: 0.12em;
+            text-transform: uppercase;
+        }
+        
+        .thread-role {
+            font-size: 11px;
+            color: #586e75;
+            line-height: 1.5;
+            font-style: italic;
+            flex: 1;
+        }
+        
+        .thread-absent {
+            font-size: 10px;
+            color: #cb4b16;
+            background: #1a0800;
+            border: 1px solid #cb4b1640;
+            border-radius: 5px;
+            padding: 5px 6px;
+            line-height: 1.4;
+        }
+        
+        .thread-absent-label {
+            display: block;
+            color: #7a2500;
+            font-size: 9px;
+            letter-spacing: 0.08em;
+            text-transform: uppercase;
+            margin-bottom: 2px;
+        }
+        /* Co-equal note */
+        
+        .coequal-note {
+            text-align: center;
+            font-size: 11px;
+            color: #586e75;
+            font-style: italic;
+            letter-spacing: 0.04em;
+        }
+        /* ── COMMUNION ── */
+        
+        .communion-box {
+            background: linear-gradient(135deg, #001f17, #002820);
+            border: 2px solid #2aa198;
+            border-radius: 14px;
+            padding: 26px 36px;
+            text-align: center;
+            box-shadow: 0 0 36px rgba(42, 161, 152, 0.18);
+        }
+        
+        .communion-box .layer-label {
+            font-size: 10px;
+            letter-spacing: 0.18em;
+            text-transform: uppercase;
+            color: #1a7a6a;
+            margin-bottom: 5px;
+        }
+        
+        .communion-box .title {
+            font-size: 24px;
+            font-weight: bold;
+            color: #2aa198;
+            letter-spacing: 0.16em;
+            margin-bottom: 6px;
+        }
+        
+        .communion-box .subtitle {
+            font-size: 13px;
+            color: #1a7a6a;
+            font-style: italic;
+        }
+        /* Scripture footer */
+        
+        .scripture {
+            text-align: center;
+            margin-top: 36px;
+            font-style: italic;
+            font-size: 13px;
+            color: #586e75;
+            line-height: 1.7;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="diagram">
+
+        <!-- Definition -->
+        <div class="definition">
+            "Perfect Love is the <strong>sacred</strong>, sacrificial <strong>gift of covenant</strong> which <strong>binds</strong><br>
+            <strong>truth, justice, mercy, and sacrifice</strong> into <strong>life-giving communion</strong>."
+        </div>
+
+        <!-- SACRED -->
+        <div class="sacred-box">
+            <div class="layer-label">The Divine Source — Categorical Foundation</div>
+            <div class="title">S A C R E D</div>
+            <div class="subtitle">God IS Love — 1 John 4:8, 16 &nbsp;·&nbsp; Love participates in divine nature</div>
+            <div class="note">Not one of the four threads — the source from which all four flow &nbsp;·&nbsp; Strip God away and each collapses into mere human preference</div>
+        </div>
+
+        <div class="arrow">
+            <div class="arrow-line"></div>
+            <div class="arrow-head"></div>
+            <div class="arrow-label">flows into</div>
+        </div>
+
+        <!-- COVENANT + BINDING + Four Threads -->
+        <div class="covenant-box">
+            <div class="covenant-header">
+                <div class="layer-label">The Relational Structure</div>
+                <div class="title">GIFT OF COVENANT</div>
+                <div class="subtitle">Freely given &nbsp;·&nbsp; Permanently binding &nbsp;·&nbsp; Person, not performance</div>
+            </div>
+
+            <div class="threads-unified">
+
+                <svg class="threads-overlay" xmlns="http://www.w3.org/2000/svg">
+        <defs>
+          <marker id="sp" markerWidth="5" markerHeight="5" refX="2.5" refY="2.5" orient="auto">
+            <circle cx="2.5" cy="2.5" r="2" fill="#2aa19860"/>
+          </marker>
+        </defs>
+        <!-- Dashed spokes: each quadrant center to the BINDS hub center -->
+        <line x1="25%" y1="25%" x2="50%" y2="50%" stroke="#2aa19830" stroke-width="1" stroke-dasharray="4,4" marker-end="url(#sp)"/>
+        <line x1="75%" y1="25%" x2="50%" y2="50%" stroke="#2aa19830" stroke-width="1" stroke-dasharray="4,4" marker-end="url(#sp)"/>
+        <line x1="25%" y1="75%" x2="50%" y2="50%" stroke="#2aa19830" stroke-width="1" stroke-dasharray="4,4" marker-end="url(#sp)"/>
+        <line x1="75%" y1="75%" x2="50%" y2="50%" stroke="#2aa19830" stroke-width="1" stroke-dasharray="4,4" marker-end="url(#sp)"/>
+      </svg>
+
+                <div class="thread-q tl">
+                    <div class="thread-name">Truth</div>
+                    <div class="thread-role">Saves love from loving wrongly — gives love its recognizable form</div>
+                    <div class="thread-absent">
+                        <span class="thread-absent-label">if removed →</span> love mistakes the wound for the cure
+                    </div>
+                </div>
+
+                <div class="thread-q tr">
+                    <div class="thread-name">Justice</div>
+                    <div class="thread-role">Gives love its standards — renders each person what their dignity demands</div>
+                    <div class="thread-absent">
+                        <span class="thread-absent-label">if removed →</span> love becomes favoritism or sentimentality
+                    </div>
+                </div>
+
+                <div class="thread-q bl">
+                    <div class="thread-name">Mercy</div>
+                    <div class="thread-role">Goes beyond what is due — heals, forgives, and restores what justice alone cannot</div>
+                    <div class="thread-absent">
+                        <span class="thread-absent-label">if removed →</span> love becomes a weapon
+                    </div>
+                </div>
+
+                <div class="thread-q br">
+                    <div class="thread-name">Sacrifice</div>
+                    <div class="thread-role">Makes love more than words — proves love genuine through cost and self-gift</div>
+                    <div class="thread-absent">
+                        <span class="thread-absent-label">if removed →</span> love becomes a transaction
+                    </div>
+                </div>
+
+                <div class="center-hub">
+                    <div class="hub-label">B I N D S</div>
+                    <div class="hub-sub">integrating<br>force</div>
+                </div>
+
+            </div>
+
+            <div class="coequal-note">⟵ &nbsp; No thread is prior to the others — all four are co-equal and co-constitutive &nbsp; ⟶</div>
+        </div>
+
+        <div class="arrow">
+            <div class="arrow-line"></div>
+            <div class="arrow-head"></div>
+            <div class="arrow-label">produces</div>
+        </div>
+
+        <!-- COMMUNION -->
+        <div class="communion-box">
+            <div class="layer-label">The Goal of All Love</div>
+            <div class="title">LIFE-GIVING COMMUNION</div>
+            <div class="subtitle">Union with God and neighbor &nbsp;·&nbsp; Overcomes isolation, despair, and evil &nbsp;·&nbsp; The answer to the problem of evil</div>
+        </div>
+
+        <div class="scripture">
+            "God is love, and he who abides in love abides in God, and God abides in him." &nbsp;—&nbsp; 1 John 4:16
+        </div>
+
+    </div>
+</body>
+
+</html>

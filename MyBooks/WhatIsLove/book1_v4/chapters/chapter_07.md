@@ -1,4 +1,10 @@
-# Justice - Love Gives What Is Due
+# Justice — God Is Justice
+
+<div class="blockquote">
+"For the LORD is a God of justice; blessed are all those who wait for him."
+
+\hfill\small — Isaiah 30:18
+</div>
 
 <div class="blockquote">
 "He has showed you, O man, what is good; and what does the LORD require of you but to do justice, and to love kindness, and to walk humbly with your God?"
@@ -51,8 +57,12 @@ Human attempts to author justice without God inevitably fail—not because non-b
 True justice requires a source beyond ourselves: the God who IS justice. Without God, "That's not fair!" has no more authority than "I don't like broccoli." With God, it becomes recognition of objective reality—a violation of the moral order built into creation by its Creator.
 
 <div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
-Justice is love giving each person what they are due based on their dignity as image-bearers of God. Without justice, love becomes arbitrary sentiment. With justice, love has objective content and concrete expression.
+<p><strong>Love without justice becomes favoritism</strong> — love shrinks to those useful to us; the rest are on their own.<sup>1</sup></p>
+<p><strong>Love without justice abandons the vulnerable</strong> — without standards of what is owed, the poor, the unborn, and the abused have no advocate.<sup>2</sup></p>
+<p><strong>Love without justice becomes presumption</strong> — a god who tolerates evil, demands nothing of sinners, and transforms no one.<sup>3</sup></p>
 </div>
+
+<!-- EDITORIAL NOTE: Review this chapter to ensure all three affronts to love-without-justice are explicitly discussed: (1) favoritism/partiality — developed in the "Justice vs. Partiality" section, good; (2) abandonment of the vulnerable — touched on but may need stronger direct treatment; (3) presumption (CCC 2091) — currently underdeveloped; needs a passage that names and explains it. -->
 
 ## What Children Know About Justice
 
@@ -265,3 +275,11 @@ The *Compendium of the Social Doctrine of the Church* (Pontifical Council for Ju
 - **CCC 2443-2449:** Love for the poor
 - **CCC 2464-2470:** Truthfulness in speech (the Eighth Commandment’s opening on the moral demands of truth)
 - **CCC 2534-2557:** The Tenth Commandment—detachment and poverty of heart
+
+---
+
+### Notes
+
+1. Pope Benedict XVI, *Caritas in Veritate* (2009), §6.
+2. Amos 5:21-24; *Catechism of the Catholic Church*, §2448.
+3. *Catechism of the Catholic Church*, §2091; Pope John Paul II, *Dives in Misericordia* (1980), §12.

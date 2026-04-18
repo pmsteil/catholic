@@ -115,7 +115,7 @@ How do we practice this binding in daily life? The moment you feel the urge to s
 
 And when you demand justice—when you insist on consequences, on accountability, on the debt being paid—ask the hardest question: "Am I binding this justice with compassion, or am I using justice as revenge?" Because justice without compassion is just cruelty dressed in the language of fairness.
 
-The goal isn't balance—splitting the difference between virtues. That's not integration; that's compromise, and compromise always leaves someone wounded. The goal is integration—letting love hold them together fully so each serves the others. Truth that heals. Mercy that transforms. Justice that restores. All at once. All in one act.
+The goal isn't balance—splitting the difference between virtues. That's not integration; that's compromise, and compromise always leaves someone wounded. The goal is integration—letting love hold them together fully so each serves the others. Truth that heals. Justice that restores. Mercy that transforms. Sacrifice that makes it real. All at once. All in one act.
 
 ## Healing the Deformation
 
@@ -129,7 +129,7 @@ This is the hope catechists carry: that in teaching authentic love, they partici
 
 ## The Bridge to Truth
 
-Love binds together all the elements of authentic relationship—but what ensures that what we're binding together is real? Without **truth**, love has nothing solid to bind.
+Love binds together all the elements of authentic relationship—truth, justice, mercy, and sacrifice working as one. But this raises a crucial question: what ensures that what we're binding together is real? Without **truth**, love has no objective grounding.
 
 ---
 
