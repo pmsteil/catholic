@@ -45,9 +45,9 @@ In the previous chapter, we saw that mercy offers forgiveness, releases debts, r
 Love is **sacrificial**. Not in theory. Not in sentiment. Not in good intentions. In action. In cost. In putting another's good before our own.
 
 <div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
-<p><strong>Love without sacrifice becomes a transaction</strong> — love lasts only as long as the benefits; when giving stops being profitable, love dissolves.<sup>1</sup></p>
-<p><strong>Love without sacrifice becomes consumerism</strong> — relationships, marriage, family, and faith are evaluated by what we receive; persons become objects of use rather than persons worthy of gift.<sup>2</sup></p>
-<p><strong>Love without sacrifice becomes lukewarmness</strong> — claiming to love God while it costs nothing; the very faith Christ warned He would spit from His mouth.<sup>3</sup></p>
+<p><strong>Love without sacrifice becomes self-seeking</strong> — we exchange covenant for contract, giving only as long as we receive.<sup>1</sup></p>
+<p><strong>Love without sacrifice becomes fruitless</strong> — the grain that will not die remains alone, unable to generate new life or draw anyone into communion.<sup>2</sup></p>
+<p><strong>Love without sacrifice becomes lukewarm</strong> — claiming to love God while it costs nothing; the very faith Christ warned He would spit from His mouth.<sup>3</sup></p>
 </div>
 
 <!-- EDITORIAL NOTE: Review this chapter to ensure all three affronts to love-without-sacrifice are explicitly discussed: (1) transaction — well developed in "When Love Stops Being Theory" and "Sacrifice FOR the Person" sections, good; (2) consumerism — well developed in "Sacrifice vs. Selfishness" section, good; (3) lukewarmness — the opening examples (Christian who never prays, etc.) gesture at this, but it needs explicit naming with Rev 3:16 and CCC 2094, linking sacrificeless love to the theological vice of lukewarmness/acedia. -->
@@ -306,6 +306,6 @@ For readers who want to go deeper into how the Old Testament covenants and sacri
 
 ### Notes
 
-1. Vatican II, *Gaudium et Spes* (1965), §24; *Catechism of the Catholic Church*, §1822.
-2. Pope Francis, *Evangelii Gaudium* (2013), §55; Pope John Paul II, *Evangelium Vitae* (1995).
+1. Philippians 2:3; Vatican II, *Gaudium et Spes* (1965), §24 ("Man cannot fully find himself except through a sincere gift of himself").
+2. John 12:24; John 15:5.
 3. Revelation 3:16; *Catechism of the Catholic Church*, §2094.

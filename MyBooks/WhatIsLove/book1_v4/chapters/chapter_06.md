@@ -42,6 +42,8 @@ This is what happens when love is separated from truth. Without truth, "love" be
 <p><strong>Love without truth becomes idolatry</strong> — you worship a god of your own construction, not the God who is both Love and Truth.<sup>3</sup></p>
 </div>
 
+<!-- EDITORIAL NOTE: Review this chapter to ensure all three affronts to love-without-truth are explicitly discussed: (1) sentimentality and manipulation — well developed in the opening section, good; (2) relativism — well developed in "Truth in a World of Lies" and "Counterfeits" sections, good; (3) idolatry — not explicitly developed anywhere; the chapter gestures at the unity of Truth, God, and Love (line 214) but never names idolatry as the theological consequence of love without truth, never cites CCC 2113, and never shows how self-constructed love (political identity, sexual identity, therapeutic deism) is idolatry in the classical sense. Needs a dedicated passage. -->
+
 ## What Children Know About Truth
 
 A child stands in the kitchen, certain of what she just heard. Then:
