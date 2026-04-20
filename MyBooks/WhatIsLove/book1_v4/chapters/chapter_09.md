@@ -10,7 +10,6 @@
 "Greater love has no man than this, that a man lay down his life for his friends."
 
 \hfill\small — John 15:13
-
 </div>
 
 <div class="blockquote">
@@ -24,7 +23,6 @@
 
 \hfill\small — Romans 12:1
 </div>
-
 
 ---
 
@@ -64,11 +62,11 @@ When sacrifice becomes ammunition—"After all I've sacrificed for you!"—the c
 
 Consider the difference:
 
-**Authentic sacrifice:** "I chose to give my time, my energy, my dreams because you are worth it. Because loving you is my joy. Because this is what love does."
+**Authentic sacrifice:** *"I chose to give my time, my energy, my dreams because you are worth it. Because loving you is my joy."*
 
 **Weaponized sacrifice:** "I gave up my career, my freedom, my life for you—and this is how you repay me? You owe me."
 
-The first makes the child feel treasured. The second makes them feel like a bill collector is demanding payment.
+The first makes the child feel treasured. The second makes them feel like a bill collector has arrived at the door.
 
 Children know they should be gifts, not debts. They know sacrifice should come with joy, not resentment. They know the parent who truly loves them doesn't keep a running tally of what they're owed. When sacrifice is weaponized—when it becomes a tool for manipulation rather than an expression of love—the child feels the violation. They may not have words for it, but they know: this isn't how love is supposed to work.
 
@@ -196,25 +194,17 @@ A wife who stays with an abusive husband isn't practicing sacrificial love—she
 
 ## Sacrifice vs. Selfishness: The Destruction of the Family
 
-Our culture claims to champion "self-love," "self-care," and "authenticity." But here's what we need to understand: **Modern culture is actually selfish—the very opposite of the sacrificial love that creates and sustains families.**
+Our culture claims to champion *self-love* and *authenticity*, but beneath those words a harder reality is often at work: much of what is sold today as psychological maturity is the refusal to sacrifice, and the family is where that refusal lands hardest. Sacrifice gives of self for the good of another; selfishness takes from others for the good of self. Sacrifice builds families; selfishness dissolves them.
 
-Sacrifice gives of self for the good of another. Selfishness takes from others for the good of self. Sacrifice builds families. Selfishness destroys them.
+Scripture speaks plainly: *"Do nothing from selfishness or conceit, but in humility count others better than yourselves. Let each of you look not only to his own interests, but also to the interests of others"* (Philippians 2:3–4). Where our moment has inverted this counsel, it has often done so by renaming it. Genuine self-care and healthy boundaries are real and good things — we bear God's image and must not hate the image in ourselves. But a counterfeit version of each has arisen that rebrands ordinary selfishness as maturity, and families are cracking under the weight of the counterfeit. Consider three places it strikes most visibly.
 
-Scripture explicitly condemns selfishness: "Do nothing from selfishness or conceit, but in humility count others better than yourselves. Let each of you look not only to his own interests, but also to the interests of others." (Philippians 2:3-4). Why? Because selfishness is directly opposed to love— it chooses our good at the expense of others.
+**Attacks on presence.** A culture of instant gratification teaches us to refuse any costly delay — spouse and children become interruptions rather than the life we chose. Parents scroll while their children beg for attention; covenant obligations are quietly reframed as optional. Radical individualism insists *"I don't owe anyone anything"* — and the family, which exists precisely *because* we owe one another, is the first thing it loosens.
 
-**Here's the deception:** Modern culture doesn't call it selfishness—it calls it "self-care," "setting boundaries," "living your truth," "prioritizing mental health." It makes vice sound like virtue. It rebrands the refusal to sacrifice as psychological health.
+**Attacks on life.** Abortion and contraceptive culture reject the life-giving purpose of marital union itself — a sacrifice of the child, or of fruitfulness, in exchange for convenience, career, or lifestyle. A family cannot begin where its fruit is treated as optional or disposable.
 
-Consider what this looks like in practice, and how it directly threatens the family:
+**Attacks on permanence.** Divorce culture treats *"I'm not happy"* as sufficient reason to break covenant; hookup culture and pornography use other bodies for pleasure without giving self. Both teach the heart that love is conditional — on feelings, on performance, on continued pleasure — which is the exact opposite of what covenant love is.
 
-**Attacks on Presence:** "Self-care" and instant gratification culture that demands "I deserve to be happy and comfortable NOW"—refusing any sacrifice or delayed gratification, justifying abandonment of spouse and children for "my needs." Technology addiction where parents scroll through phones while children beg for attention, choosing digital dopamine over presence to family. Childlessness by choice that refuses the sacrifice of parenthood—"I want to travel, sleep in, have nice things"—choosing sterile comfort over life-giving fruitfulness. Radical individualism that insists "I don't owe anyone anything," destroying family obligations, rejecting duty and responsibility, treating covenant as optional.
-
-**Attacks on Life:** Abortion and contraception kill the child or reject the life-giving purpose of marriage, destroying the family before it begins, sacrificing children for convenience, career, or lifestyle.
-
-**Attacks on Permanence:** Divorce culture where "I'm not happy" becomes sufficient reason to break covenant, refusing to sacrifice for spouse's good or children's stability, treating marriage as conditional on feelings rather than permanent commitment. Hookup culture and pornography use others' bodies for pleasure without giving self, destroying the capacity for sacrificial marital intimacy, demanding sexual gratification without responsibility or commitment.
-
-This is selfishness masquerading as health. It creates a culture where families cannot form (abortion, contraception, hookup culture), cannot last (divorce culture, "self-care" justifying abandonment), and cannot flourish (technology addiction, childlessness by choice, radical individualism). It shows the self-centered spirit that Christ explicitly condemned: "If any man would come after me, let him deny himself and take up his cross and follow me. For whoever would save his life will lose it, and whoever loses his life for my sake will find it." (Matthew 16:24-25).
-
-**Here's the beautiful irony:** When we sacrifice for others, we experience joy, meaning, and fulfillment—the very things selfishness promises but never delivers. Work yourself to exhaustion serving a stranger on a mission trip, and you feel like you've done something real in the world. Sacrifice sleep for your infant, and you discover a depth of love you never knew existed. Give up career advancement to care for aging parents, and you find purpose that no promotion could provide. This is the paradox Christ taught: those who lose their life find it. Sacrifice doesn't diminish us—it completes us. Selfishness promises happiness but delivers emptiness. Sacrifice promises nothing but delivers joy.
+Christ's answer is not a program of cultural critique. It is a single sentence spoken to anyone who wants to follow Him: *"If any man would come after me, let him deny himself and take up his cross and follow me. For whoever would save his life will lose it, and whoever loses his life for my sake will find it"* (Matthew 16:24–25). This is the paradox at the center of the Gospel and of every lasting family: when we sacrifice for others, we receive the joy, meaning, and fulfillment that selfishness promises but never delivers. Work yourself to exhaustion serving a stranger, and you feel you have done something real in the world. Sacrifice sleep for your infant, and you discover a depth of love you never knew existed. Give up career advancement to care for aging parents, and you find a purpose no promotion could have given you. Sacrifice does not diminish us; it completes us. Selfishness promises happiness and delivers emptiness. Sacrifice promises nothing and delivers joy.
 
 ## The Grain That Refuses to Fall: Barrenness and Betrayal
 
