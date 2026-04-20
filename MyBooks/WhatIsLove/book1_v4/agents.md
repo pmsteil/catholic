@@ -1,98 +1,98 @@
 # Agents.md
 
-This file provides guidance when working with code in this repository.
-
-## Project Overview
-
-The project is to create a Catholic devotional book titled "What Is Love?, God's Perfect Love" - a comprehensive exploration of authentic love as the Catholic answer to the problem of evil. The project is structured as a multi-part book covering various facets of love, virtues, and spiritual development from a Catholic perspective.
-
-## Project Status
-
-The book has been written and is undergoing final editing.
-
-## Project Structure
-
-- **Main Directory**: The current folder contains the current version of the book project
-- **Chapter Files**: Individual chapter markdown files (e.g., `chapters/chapter_01.md`)
-- **Reference Materials**:
-  - `write-book-prompt-v3.md` - Master writing guidelines and workflow
-  - `book1-blogpost-for-catholics.md` - Written by the author - writing style reference
-  - `Ruthless Editing Checklist–No Mercy.md` - Final editing prompt already used
-
-## Book Development Workflow
-
-The book follows a systematic phased approach:
-
-1. **Part Summaries**: Create overview summaries for each book part in `/outlines/` directory
-2. **Chapter Outlines**: Generate detailed chapter outlines following the structure defined in `write-book-prompt-v3.md`
-3. **Chapter Drafts**: Expand outlines into full chapters (2,000-2,500 words each)
-
-
-## Catholic Identity and Intended Audience
-
-**This book is unapologetically Catholic.** It does not hedge, soften, or qualify Catholic teaching to accommodate non-Catholic sensibilities. Catholic doctrine, sources (CCC, Papal encyclicals, Church Fathers, councils), and Catholic theological categories (Natural Law, Sacred Tradition, apostolic succession, the Magisterium) should be used freely and confidently without apology.
-
-**Non-Catholic readers are explicitly welcomed in the introduction** with an invitation to approach the book with an open mind. When writing or editing, assume the non-Catholic reader who has made it this far is NOT vehemently opposed to Catholic authority — they are simply someone who was raised in a Protestant or secular tradition by default, not by active conviction. Most Protestants today are Protestant by upbringing and habit, not because they have studied and consciously rejected Catholic claims. They hold "Bible alone" as a default, not a hard-won doctrinal position they will die defending.
-
-**Do not write defensively toward Protestant objections.** The book does not need to pre-emptively argue against sola scriptura or justify every Catholic source citation. Introduce Catholic concepts naturally and confidently. An open reader will follow; a hostile reader would not have picked up the book.
-
-But very importantly, we also do not want to be antagonistic to our Protestant readers nor constantly defend or attack the principles of Protestantism. Period. we want them to see the beauty of the church's teaching about God's love and wow, hopefully after reading this book come running to our Lord through his church.
-
-## Central Book Themes
-
-**Core Definition of Love**: "Perfect Love is the sacred, sacrificial gift of covenant which binds truth, justice, mercy and sacrifice into life-giving communion."
-
-**Target Audience**: Everyday Catholics seeking to deepen their understanding and practice of authentic love
-
-**Book Purpose**: Provide a Catholic answer to the problem of evil by exploring comprehensive, authentic love as revealed through Catholic teaching
+Guidance for any agent working on this book project. Read this file in full before touching any chapter.
 
 ---
 
-## Full Book Premise (Critical Context for Evaluating Any Chapter)
+## 1. Project
 
-**IMPORTANT**: Every chapter must be read and evaluated in light of the chapters the reader has already consumed. Do NOT evaluate a sentence, claim, or argument in a single chapter as if it stands alone without the accumulated context the reader carries.
+**Title:** *What Is Love? God's Perfect Love*
 
-### The Problem–Solution Architecture
+**Genre:** A Catholic devotionally-apologetic book — written for daily reading, but structured as a sustained argument about the nature of love and evil.
 
-The book's argument runs: **moral evil exists → its root is a failure to love → the complete solution is God's Perfect Love → therefore we must understand what Perfect Love actually is.** Chapters 1–2 establish this fully. Every subsequent chapter explores one facet of the solution.
+**Status:** The book is written (Part 1 through Ch. 16). It is now in **final editing**. Do not treat this as drafting-from-scratch work; treat it as surgical editing against a fully formed manuscript.
 
-### The Core Definition — Word by Word
+**Book Purpose:** A Catholic answer to the problem of evil — *moral evil exists → its root is a failure to love → the complete solution is God's Perfect Love.* Every chapter unpacks one facet of that solution.
 
-> **"Perfect Love is the sacred, sacrificial gift of covenant which binds truth, justice, mercy, and sacrifice into life-giving communion."**
+---
 
-Each word is load-bearing and is unpacked in a dedicated chapter:
+## 2. Core Definition (canonical — every chapter serves this)
 
-| Word / Phrase | Chapter | What It Means |
+> **"God's Perfect Love is the sacred, sacrificial gift of covenant which binds truth, justice, mercy, and sacrifice into life-giving communion."**
+
+Every word is load-bearing. Each phrase is unpacked in a dedicated chapter (see Chapter Map below). Whenever this definition is quoted inside a chapter, it should be **word-for-word** unless there is an explicit reason to vary.
+
+---
+
+## 3. Audience & Tone
+
+### Primary audience
+**Everyday Catholics** seeking to deepen authentic love of God and neighbor.
+
+### Secondary audience (also explicitly welcomed)
+- Lukewarm / cultural Catholics drifting toward easy-believism
+- Protestants raised in tradition-by-default, not tradition-by-active-conviction
+- Orthodox, secular, and spiritually curious readers
+
+**Working assumption about non-Catholic readers:** a reader who has picked this book up is *not* vehemently opposed to Catholic authority. They are most likely someone whose current tradition is inherited rather than chosen, who holds *sola scriptura* (or none at all) as a default rather than a hard-won doctrinal position. Write for the open reader; the hostile reader would never have reached page one.
+
+### Tone rules
+- **Unapologetically Catholic.** Use Catholic doctrine, CCC, papal encyclicals, Fathers, councils, Sacred Tradition, Magisterium, apostolic succession, Natural Law freely and confidently, without qualification.
+- **Confident, not combative.** Introduce Catholic concepts positively and naturally. Do not hedge or soften.
+- **Never defensive.** Do not pre-emptively argue against *sola scriptura* or justify every Catholic citation. State the fullness; let it speak.
+- **Never antagonistic.** Do not attack Protestantism, its figures, or its principles directly. The goal is for non-Catholic readers to see the beauty of the Church's teaching and be drawn *into* her — not to feel battered. Beauty converts; argument alone rarely does.
+- **Pastoral and invitational.** The book hands the reader a framework sharp enough to see for themselves where love has been reduced in their tradition, and where the fullness has been preserved.
+- **Personal, direct, relatable, evangelistic.** Use "bite-sized theology" — substantial but accessible.
+
+### Minor tone notes
+- When a Methodist or other non-Catholic source happens to be right (e.g., Wesley's *"moving on toward perfection"*), you may use the *concept* but avoid quoting them by name. Prefer Catholic sources (Matthew 5–7, Philippians 3, saints, popes) for the same point.
+
+---
+
+## 4. The Four Pillars of Perfect Love
+
+The core threads — **Truth, Justice, Mercy, Sacrifice** — are the *interior anatomy* of love:
+
+- **Truth** — ensures love is real, not illusion or manipulation. Love is objective because it is truth.
+- **Justice** — gives love objective standards and protects the vulnerable.
+- **Mercy** — gives love its healing, forgiving, restoring power; the only objective path to restoration.
+- **Sacrifice** — makes love costly, real, and trustworthy; proves love real by cost.
+
+### Binding — the most important concept in the entire book
+
+- **Binding = the integration of the four threads into one inseparable whole.** They are not four virtues that happen to coexist. They are the *constituent threads* that make love what it is. Pull one out and the ball of yarn unravels into something that is no longer love.
+- **No thread is metaphysically prior to any other.** Truth does not "ground" justice. Justice does not "ground" mercy. They are co-constitutive. Each requires all the others to function as love.
+- **What happens when threads are separated** (established in Ch. 5):
+  - Truth without mercy → Pharisees stoning the adulteress
+  - Mercy without truth → enabling addiction
+  - Justice without mercy → endless retaliation
+  - Mercy without justice → the abuser goes unchecked
+  - Sacrifice without the others → manipulation or self-destruction
+- **The Cross is the supreme example of binding** — Christ's Passion integrates all four threads simultaneously in one act. That is what Perfect Love looks like.
+
+### Diagnostic use (book-wide)
+**Every vice, sin, and counterfeit love in the book is diagnosed by which pillar(s) it removes or distorts.** This is the interpretive key for Chs. 13, 14, and 15 especially.
+
+---
+
+## 5. Word-by-Word Chapter Mapping
+
+| Word / Phrase | Chapter | What it means |
 |---|---|---|
 | **Sacred** | Ch. 3 | Love participates in God's own divine nature; it is holy, not merely human sentiment |
 | **Gift of Covenant** | Ch. 4 | Love is freely given AND covenantally binding — a permanent, chosen commitment, not a transaction |
-| **Binds** | Ch. 5 | Love is the *integrating force* that holds truth, justice, mercy, and sacrifice together as one whole |
-| **Truth** | Ch. 6 | Love cannot be authentic if it is separated from reality; truth is what prevents love from becoming manipulation |
+| **Binds** | Ch. 5 | Love is the *integrating force* that holds the four pillars together as one whole |
+| **Truth** | Ch. 6 | Love cannot be authentic if separated from reality; love is objective because it is truth |
 | **Justice** | Ch. 7 | Love gives each person what they are due; it has objective standards |
-| **Mercy** | Ch. 8 | Love goes beyond what is strictly due; it heals, forgives, and restores |
+| **Mercy** | Ch. 8 | Love goes beyond what is strictly due; it heals, forgives, restores — the only objective path to restoration |
 | **Sacrifice** | Ch. 9 | Love is proven and made real by cost; it holds nothing back |
-| **Life-Giving Communion** | Ch. 10 | Love creates, unifies, and sustains life — it draws persons into genuine union |
+| **Life-Giving Communion** | Ch. 10 | Love creates, unifies, and sustains life — it draws persons into genuine union with God and neighbor |
 
-### The Meaning of "Binding" — Most Important Concept for Reading Any Chapter
+---
 
-By the time a reader reaches Chapter 6 and beyond, **"binding" has been thoroughly defined in Chapter 5.** The reader understands:
+## 6. Chapter Maps
 
-- **Binding = the integration of truth, justice, mercy, and sacrifice into one inseparable whole.** These are not four separate virtues that happen to coexist — they are the *constituent threads* that make love what it is. Pull any one out and the ball of yarn unravels into something that is no longer love.
-- **No thread is metaphysically prior to the others.** Truth does not "ground" justice; justice does not "ground" mercy. They are co-constitutive. Each one requires all the others to function as love.
-- **What happens when threads are separated** (from Ch. 5): Truth without mercy → Pharisees stoning the adulteress. Mercy without truth → enabling addiction. Justice without mercy → endless retaliation. Mercy without justice → the abuser goes unchecked. Sacrifice without the others → manipulation or self-destruction.
-- **The Cross is the supreme example of binding**: Christ's Passion integrates all four threads simultaneously in a single act. That is what perfect love looks like.
-
-### How Chapter 6 Frames Truth — And the Pattern for Chapters 6–9
-
-Chapter 6's opening question is: *"How do we recognize love for what it is — and see its counterfeits for what they are?"* The chapter's answer is truth — but this is an **epistemological/phenomenological claim, not a metaphysical priority claim.** Chapter 5 already settled that no thread is metaphysically prior to the others.
-
-What Chapter 6 argues is this: truth is the shared existential floor that every human being already stands on before theology begins — the brute facts that *I exist, I am a person, I need love, I feel injustice, I long for mercy, I recognize sacrifice.* These are pre-theological and universal; the atheist and the Catholic share this ground equally. **Truth, in this chapter's sense, is simply "what is actually real."** Without it, love has no floor — it becomes unrecognizable, a word anyone can pour any meaning into, and therefore a tool of manipulation.
-
-The "Fundamental Truths of Human Existence" section expands these brute facts before building toward Christ as Truth Incarnate. The contemplative move the chapter invites is: *where do all these brute facts come from?* They point toward a personal God.
-
-**Pattern for Chapters 6–9:** Each chapter asks a parallel epistemological question — *what does removing THIS thread do to love's recognizability and integrity?* None of the four threads ranks above the others. Each chapter examines what love becomes when its particular thread is severed: Truth removed → love becomes manipulation. Justice removed → love becomes favoritism or sentimentality. Mercy removed → love becomes a weapon. Sacrifice removed → love becomes a transaction. This framing must be consistent across all four chapters.
-
-### Chapter Map — Part 1: The Nature of Perfect Love (Chapters 1–10)
+### Part 1 — The Nature of Perfect Love (Chs. 1–10)
 
 | Chapter | Title | Facet |
 |---|---|---|
@@ -101,72 +101,200 @@ The "Fundamental Truths of Human Existence" section expands these brute facts be
 | Ch. 3 | Sacred | Love participates in divine nature |
 | Ch. 4 | Gift of Covenant | Love is freely given and permanently binding |
 | Ch. 5 | Binding | Love integrates all four threads into one whole |
-| Ch. 6 | Truth | Love requires objective reality; without truth, love becomes manipulation |
+| Ch. 6 | Truth | Without truth, love is disconnected from reality |
 | Ch. 7 | Justice | Love gives each person what they are due |
 | Ch. 8 | Mercy | Love goes beyond what is due to heal and restore |
 | Ch. 9 | Sacrifice | Love is proven real by cost and self-gift |
 | Ch. 10 | Life-Giving Communion | Love creates unity and new life |
 
-### Chapter Map — Part 2 & Beyond
+### Part 2 and Beyond (Chs. 11–16)
 
 | Chapter | Title | Theme |
 |---|---|---|
 | Ch. 11 | The New Law Requires a Lawgiver | Each facet reveals objective moral truth requiring a divine source |
 | Ch. 12 | Virtues: Faith Working Through Love | Every virtue upholds all four pillars; faith is covenantal exchange |
 | Ch. 13 | Sin — The Failure to Love | Sin = denying one or more pillars of love |
-| Ch. 14 | Counterfeit Love | 23 counterfeits diagnosed by which pillar(s) they eliminate |
+| Ch. 14 | Counterfeit Love | Counterfeits diagnosed by which pillar(s) they eliminate |
 | Ch. 15 | For the Love of Children | Ultimate test: what does each counterfeit do to children? |
 | Ch. 16 | The Gospel: Perfect Love Incarnate | Jesus embodies every component of the definition perfectly |
 
-### The Four Pillars Working Together
+---
 
-The four core threads — **Truth, Justice, Mercy, Sacrifice** — are the interior structure of love:
-- **Truth** ensures love is real, not illusion or manipulation
-- **Justice** gives love objective standards and protects the vulnerable
-- **Mercy** gives love its healing and forgiving power
-- **Sacrifice** makes love costly, real, and trustworthy
+## 7. Interpretive Key: The Pattern for Chapters 6–9
 
-**Every vice, sin, and counterfeit love in the book is diagnosed by which pillar it removes or distorts.**
+Chs. 6–9 each treat one of the four pillars. They share a **consistent two-part structure** that any agent editing them must honor.
+
+**Part A — Open by naming the cardinal sin against that pillar.**
+The cardinal sin gives the reader a diagnostic tool by its proper name. This is a recovery of classical moral vocabulary that modern catechesis has largely lost. See Section 8 #2 below for the full cardinal-sin map.
+
+**Part B — The body of the chapter proves why this sin destroys love**, by exploring the pillar positively (what it is, how Scripture and the Church describe it, what it looks like in practice) and negatively (what love becomes when the thread is cut).
+
+**Part C — Close with the end-state diagnostic:** *"Here is where this leads when the thread is cut."* Truth removed → manipulation. Justice removed → favoritism / sentimentality. Mercy removed → weapon. Sacrifice removed → transaction.
+
+**Crucial framing note for Ch. 6 (Truth):** Ch. 6's opening question — *"How do we recognize love for what it is and see its counterfeits?"* — is an **epistemological/phenomenological claim, not a metaphysical priority claim.** Ch. 5 already settled that no thread is metaphysically prior to the others. Truth is simply the shared existential floor every human being already stands on before theology begins: *I exist. I am a person. I need love. I feel injustice. I long for mercy. I recognize sacrifice.* These are pre-theological and universal; atheist and Catholic share this ground equally. Without truth, love has no floor — it becomes unrecognizable, a word anyone can pour any meaning into, and therefore a tool of manipulation. The contemplative move Ch. 6 invites is: *where do all these brute facts come from?* They point toward a personal God.
 
 ---
 
-## Chapter Structure Requirements
+## 8. The Undercurrent of the Whole Book (author's deeper purpose)
 
-Each chapter follows a specific structure:
-- Opening (Key Scripture Verse, Key CCC References)
-- Biblical and Church Teaching
-- Vices associated with the virtue
-- When Counterfeit Love Fails (contemporary distortions)
-- Three Questions to Ask
-- Practical Application
-- Closing (Chapter Takeaway, Test Questions, Reflection Question)
-- Additional Study (Scripture, Catechism, Papal Encyclicals)
-- Prayer Practice
+Every chapter should be read and evaluated against this underlying argument. It is not preached overtly at the reader, but it is the thread that ties every chapter together. The reader who follows Part 1 faithfully should arrive at Part 2 primed to receive this. **Read a sentence, claim, or argument in any single chapter only in light of the accumulated context the reader carries from earlier chapters.**
 
-## Writing Guidelines
+### 1. Love has objective structure — it is not a feeling, slogan, or sentiment.
+The four pillars are the *anatomy* of love. Collapse love into any one of them and it becomes a counterfeit. Modern slogans like *"love is love,"* *"just love everybody,"* or *"love your neighbor — why are you confused?"* are reductions of love into sentimental mercy alone, stripped of truth and justice. They are not the Gospel; they are sentimentality wearing Gospel clothing.
 
-- **Length**: 2,000-2,500 words per chapter
-- **Tone**: Personal, direct, relatable, evangelistic/apologetic
-- **Style Reference**: Use `book1-blogpost-for-catholics.md` as style guide
-- **Scripture**: Always use RSV translation
-- **Citations**: Include CCC references, quotes from saints, popes, and theologians
-- **Approach**: "Bite-sized theology" - substantial but accessible content
+### 2. Sin has objective structure too — and it mirrors love's structure.
+Every sin attacks one or more pillars. The **cardinal sin per pillar** gives the reader a diagnostic tool for the rest of their life:
 
-## File Management
+- **Truth → Lying** (and the modern lie: *"there is no objective truth"*)
+- **Justice toward God → Idolatry** (*"all religions lead to the same God"* is functional idolatry)
+- **Justice toward neighbor → Abortion and exploitation of the vulnerable**
+- **Mercy → Vengeance** (and its cousin, unforgiveness)
+- **Sacrifice → Sloth / lukewarmness** (Sunday-only Catholicism; *"I love God but it costs me nothing"*)
 
-- Individual chapter files use naming convention: `##_Chapter_##.md`
-- Outline files use naming convention: `##_part_##_chapter.md` in `/outlines/` directory
-- Part summaries use naming convention: `##_part_00.md` in `/outlines/` directory
-- Always reference the master outline file `book1_v3_outline.md` for overall structure
+### 3. No sin is ever "personal" — every sin is ecclesial and cosmic.
+*Every sin wounds the Body of Christ.* Every venial sin is a tiny vote for the lie. Every grave sin is a public betrayal of the Bride. The communion of saints works in reverse — we are bound to one another in sin as well as in grace. This undercuts the modern reader's assumption that their "private" sins are their own business. This insight is what easy-believist, middle-class American Christianity has forgotten.
 
-## Quality Standards
+### 4. Christian division is itself a sin against truth.
+*"Catholic, Protestant, Orthodox — doesn't really matter, we all worship the same God"* is not humility. It is:
+- a sin against **truth** — Christ established ONE Church, ONE body, ONE faith (Eph 4:5)
+- a sin against **justice to God** — denying Him the worship He asks for *on His terms*
+- a public **witness to the lie** that truth itself is divisible — the lie the world wants to believe
+- a contradiction of **Christ's own prayer** that we would be one *so that the world may believe* (John 17:21)
 
+A divided Church preaches a divisible Christ; a divisible Christ preaches a divisible truth; a divisible truth is the world's favorite lie.
+
+### 5. Faith alone is insufficient unless we ask: *faith in what, and for what?*
+Faith in God's Perfect Love — which by definition requires truth, justice, mercy, and sacrifice. A "faith" that does not produce truth-telling, justice-doing, mercy-showing, sacrifice-making disciples is not faith in Christ; it is faith in a feeling *about* Christ. Paul and James are not in tension — both point at *faith working through love* (Gal 5:6).
+
+### 6. Virtue is not Pelagian — it is the shape of our response to being loved first.
+We do not become virtuous to earn heaven. We become virtuous because we have *already been loved first*, and participation in Christ's love *looks like* truth, justice, mercy, and sacrifice. The virtues are not tickets; they are the shape of love alive in us. Confession is where we begin again — *"perfect as our Heavenly Father is perfect"* — and then we try again tomorrow to love more fully. Matthew 5–7 and Philippians 3 call us to this lifelong movement toward perfection.
+
+### 7. Submitting to the Magisterium is submitting to Christ's love.
+Not to a human institution. Not to tribalism. Not to Rome for Rome's sake. But to **Christ's own teaching authority**, preserved across 2,000 years by the Holy Spirit working through faithful Catholics generation after generation. The Church is the vessel by which Christ has chosen to keep His love from being reduced, diluted, privatized, or politicized. *"The gates of hell shall not prevail against her"* (Matt 16:18) is a promise, not a slogan — and history has proven it. Every soul that submits more fully to the Church submits more fully to Christ, and every such submission moves the world one step closer to the unified holy communion Jesus came to usher in.
+
+### 8. The Catholic Church alone holds all four pillars bound across time.
+This is the book's quiet conclusion, never argued bluntly but structurally implied:
+
+- A tradition that collapses love into mercy alone cannot speak truth to the sinner.
+- A tradition that collapses it into truth alone cannot heal the broken.
+- A tradition that has thrown off authoritative teaching has no way to guarantee the binding holds from generation to generation.
+- Only a Church that **finds its origin in God as love does**, looks at the **fullness of truth in all of God's revelation** as love does, is willing to **define what justice requires** for us to love God and neighbor as love teaches, **actually invests significant resources — human and material — in dispensing God's mercy through each of the sacraments (especially Confession)**, and **continually teaches us to sacrifice at every single Mass** — is the Church that has actually preserved the fullness of love Christ taught. This is the Catholic Church, with its **Magisterium, Sacred Tradition, Scripture, and the sacraments working together** as Christ established.
+
+Submitting fully to the Church's teaching is submitting fully to Christ, and this makes all of Scripture most true, most cohesive, and most comprehensive — elevating Scripture to the very authority *sola scriptura* claims for it but cannot actually sustain on its own. Scripture is a pillar and foundation of truth, but the Holy Bible objectively does not contain *all* revealed truth about God's Perfect Love. Only a living Magisterium that takes her responsibilities seriously can hold the whole deposit.
+
+### 9. The pastoral tone throughout
+The book is not written to argue, shame, or debate the reader — Catholic or Protestant or secular. It is written to **hand the reader a framework sharp enough that they see for themselves** where their current understanding of love has been reduced, and where the fullness has been preserved. The invitation is never *"become Catholic because I said so"* — it is *"look at love clearly, and follow where the fullness actually lives,"* and voluntarily, humbly, submit to Her.
+
+### Summary in one line
+*The book is a devotional on love that quietly makes the case that only the Catholic Church preserves the whole shape of Perfect Love — truth, justice, mercy, and sacrifice bound together in covenant — and that every sin against any pillar, however small, is a participation in the world's disintegration of love and a wound on the Body of Christ.*
+
+---
+
+## 9. Chapter Structure (what chapters actually look like)
+
+Chapters are not rigidly templated. They follow a **loose convention** that has evolved through drafting. Honor the convention where it exists; do not force a chapter into a shape that would break its natural flow.
+
+### Required elements (every chapter has these)
+
+1. **H1 title** — `# Chapter Title`
+2. **Opening blockquote(s)** — one or more Scripture verses (RSV) using the blockquote pattern:
+   ```
+   <div class="blockquote">
+   "Verse text here."
+
+   \hfill\small — Reference
+   </div>
+   ```
+3. **`---` divider** between opening quotes and body
+4. **Body** — multiple `##` sections with chapter-specific, flowing titles (not templated labels). Each chapter's narrative determines its section headings. Titles are evocative and thematic (e.g., *"What Children Know About Binding,"* *"Truth in a World of Lies,"* *"The Cry for Mercy"*) — never generic labels like *"Practical Application"* or *"Three Questions to Ask."*
+5. **`## The Bridge to [Next Facet]`** — always the final body section. A short, explicit hand-off to the next chapter. This is a firm convention.
+6. **`---` divider** between body and back matter
+7. **`## Further Study`** — always the final top-level section, containing at minimum:
+   - `### Scripture`
+   - `### Catechism of the Catholic Church`
+   - `### Christian Thinkers`
+
+### Optional / evolving conventions
+
+- **`## What Children Know About [Facet]`** — a recurring motif in Chs. 3, 4, 5, 6. Uses the child's moral intuition to reveal the pillar phenomenologically. Should continue in Chs. 7, 8, 9, 10 where it fits naturally.
+- **`## Binding Check`** — a late-chapter diagnostic section, new in Ch. 6. Useful in the pillar chapters (6–9) to verify the facet is being held in proper binding with the others.
+- **Callouts** — teal `<div class="callout">` blocks for emphasis. Used for key theses, summaries, or warnings. Use sparingly.
+- **`## Opening / Cardinal-Sin Callout` (Chs. 6–9 only, per restructure)** — near the top of the chapter, a callout naming the cardinal sin against that pillar.
+- **`## End-State Diagnostic Callout` (Chs. 6–9 only, per restructure)** — near the end, a callout listing what love becomes when the thread is cut ("becomes manipulation / favoritism / weapon / transaction").
+- **Sub-themed `### ` sections under Further Study** — Ch. 4 groups further-reading items under thematic sub-headings (*"The New Covenant: Law Written on Hearts,"* etc.) before the Scripture/CCC/Thinkers blocks. Use when the material warrants it.
+- **`### Notes` at the very end of Further Study** — footnotes (see Section 10 below).
+
+### What's NOT in the chapters anymore
+
+Earlier drafting templates called for *"Three Questions to Ask,"* *"Practical Application,"* *"Chapter Takeaway,"* *"Test Questions,"* *"Reflection Question,"* *"Prayer Practice,"* and *"Vices associated with the virtue"* as required sections. **These have been removed from the actual manuscript** in favor of letting each chapter flow as sustained narrative argument. Do not reintroduce them unless the author requests it.
+
+---
+
+## 10. Footnotes
+
+Footnotes are used sparingly for:
+- Attribution of specific citations that would clutter body text
+- Supplementary nuance (historical context, scholarly grounding) that would distract inline
+- Explicit scope-limiting disclaimers (e.g., Ch. 7 footnote 4 on "life, liberty, pursuit of happiness")
+
+### Pattern (as established in Ch. 6 and Ch. 7)
+
+**In-body marker:** `<sup>N</sup>` placed immediately after the word or phrase it annotates, where `N` is the note number (1, 2, 3, ...).
+
+**Notes block:** a `### Notes` subsection at the very end of the chapter, inside `## Further Study`, formatted as a numbered list:
+
+```
+### Notes
+
+1. First note content, with full citation (e.g., Pope Benedict XVI, *Caritas in Veritate* (2009), §6).
+2. Second note content.
+3. Third note content.
+```
+
+### Rules
+
+- **Numbering restarts at 1 in each chapter.**
+- **Notes must be ordered sequentially** — note 1 appears before note 2 in the body.
+- **Keep footnotes short** — one to three sentences is ideal. If a footnote wants to run long (as with Ch. 7 note 4), that is acceptable when scholarly grounding requires it.
+- **Do not use footnotes for routine Scripture or CCC citations** — those go inline in parentheses (e.g., `(Matt 5:48)` or `(CCC 1718)`).
+- **Reserve footnotes for:** (a) longer patristic/papal/saintly citations where the full reference is useful but would interrupt prose, (b) scope-limiting disclaimers, (c) scholarly context readers may want but don't need.
+
+---
+
+## 11. Writing Guidelines
+
+- **Length:** 2,000–2,500 words per chapter
+- **Scripture:** RSV translation, always
+- **Citations:** CCC references, quotes from saints, popes, theologians; Catholic sources preferred
+- **Doctrinal accuracy:** always faithful to Catholic teaching
+- **Style reference:** `book1-blogpost-for-catholics.md` (written by the author)
+- **Voice:** personal, direct, relatable, evangelistic, apologetic — never academic, never cold
+
+### Doctrinal quality standards
 - Maintain doctrinal accuracy to Catholic teaching
 - Address contemporary cultural challenges and counterfeits to authentic love
 - Include practical applications for daily Catholic life
-- Integrate comprehensive coverage of virtues, vices, and spiritual development
-- Ensure narrative flow and cohesion across chapters while allowing each to stand alone
+- Integrate coverage of virtues, vices, and spiritual development
+- Ensure narrative flow across chapters while allowing each to stand alone
 
-Bible Translation: always use RSV.
+---
 
-The bottom line is we want to teach Catholics how to love God through their church as Jesus wants us to love him through the church. And we want to show non-Catholics the completeness and wholeness of the church's teaching on God's love. So they will run to his church.
+## 12. File & Path Conventions
+
+- **Chapter files:** `chapters/chapter_##.md` (e.g., `chapters/chapter_01.md`)
+- **Archived outlines/plans:** `archive/planning/`
+- **Build profiles:** `build/`
+- **Scripts:** `bin/`
+- **Working todos:** `todos.md` in the book root
+- **Style reference:** `book1-blogpost-for-catholics.md`
+- **Ruthless editing checklist (already used):** `prompts/Ruthless Editing Checklist–No Mercy.md`
+
+---
+
+## 13. Source Rules (directive, not stylistic)
+
+These quotes are from Pope Leo XVI's Address to the Roman Curia (Nov. 21, 2025) and are legitimate and author-sourced, though not in most models' training data:
+
+> *"The sacred authority is participation in the authority of Christ, and its service to truth is a way of knowing and embracing the ultimate Truth, which is Christ Himself (cf. Jn 14:6)."* — Pope Leo XVI, Address to the Roman Curia (Nov. 21, 2025)
+
+> *"Every person therefore is invited to 'repent' and to 'believe' in God's merciful love."* — Pope Leo XVI, Address to the Roman Curia (Nov. 21, 2025)

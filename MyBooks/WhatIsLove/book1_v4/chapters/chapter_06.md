@@ -42,8 +42,6 @@ This is what happens when love is separated from truth. Without truth, "love" be
 <p><strong>Love without truth becomes idolatry</strong> — you worship a god of your own construction, not the God who is both Love and Truth.<sup>3</sup></p>
 </div>
 
-<!-- EDITORIAL NOTE: Review this chapter to ensure all three affronts to love-without-truth are explicitly discussed: (1) sentimentality and manipulation — well developed in the opening section, good; (2) relativism — well developed in "Truth in a World of Lies" and "Counterfeits" sections, good; (3) idolatry — not explicitly developed anywhere; the chapter gestures at the unity of Truth, God, and Love (line 214) but never names idolatry as the theological consequence of love without truth, never cites CCC 2113, and never shows how self-constructed love (political identity, sexual identity, therapeutic deism) is idolatry in the classical sense. Needs a dedicated passage. -->
-
 ## What Children Know About Truth
 
 A child stands in the kitchen, certain of what she just heard. Then:
@@ -80,7 +78,7 @@ God hasn't left us in darkness. He reveals truth through a threefold path that e
 
 **Through Divine Revelation and His Church:** God has not left us to guess at Him from a distance. He broke into human history through prophets, psalmists, and apostles — men and women who surrendered themselves so fully to God's will that His truth could flow through them. "No prophecy ever came by the impulse of man, but men moved by the Holy Spirit spoke from God" (2 Pet 1:21). And then, when the fullness of time had come, God did not send another prophet. He came Himself.
 
-And to ensure that His truth would reach every generation intact, He established His Church — a holy governing assembly charged with one sacred task: to receive, guard, and hand on everything He had taught them (cf. Matt 28:19–20; 2 Tim 1:14) — the pillar and foundation of truth (1 Tim 3:15) and promised the Holy Spirit to guide her into all truth (John 16:13).
+And to ensure that His truth would reach every generation intact, He established His Church. What is the Church? It is a holy governing assembly charged with one sacred task: to receive, guard, and hand on everything He had taught them (cf. Matt 28:19–20; 2 Tim 1:14). She is the pillar and foundation of truth (1 Tim 3:15), and Christ promised the Holy Spirit to guide her into all truth (John 16:13).
 
 ## The Biblical Concept of Truth (Emet)
 
@@ -147,7 +145,7 @@ And lies are still deadly today—destroying marriages, families, communities, n
 
 ## How Truth Is Woven Into Every Facet of Love
 
-Truth is woven into every other facet of love — not above them, but inseparable from them. Each requires the others: you cannot have authentic justice, mercy, sacrifice, or covenant without truth — and truth without love, justice, and mercy is merely cold fact.
+Truth is woven into every other facet of love — not above them, but inseparable from them. Each requires the others: you cannot have authentic justice, mercy, sacrifice, or covenant without truth.
 
 **Truth Protects from Deception:** You can't truly love someone you're deceiving or who's deceiving you. Real relationship requires knowing and being known. "Rather, speaking the truth in love, we are to grow up in every way into him who is the head, into Christ" (Ephesians 4:15).
 
@@ -167,17 +165,29 @@ Our culture has embraced a quiet poison: relativism—"your truth" vs. "my truth
 
 The Eighth Commandment—*"You shall not bear false witness against your neighbor"* (Exodus 20:16)—goes far deeper than a rule against perjury. God was warning an entire civilization about what lies do to a *society*. A people who cannot trust what they are told cannot make sound decisions, form authentic relationships, raise children grounded in reality, or orient their lives toward God. Lies do not merely harm individuals—they dissolve the shared world of meaning that makes civilization possible. We are watching this destruction unfold in real time. God saw it coming. That is why He forbade it. The Eighth Commandment prohibits not only direct lying but "every kind of act contrary to justice and truth" (CCC 2476). **Lying is the foundational destroyer of love because love cannot exist without truth.**
 
-But here's what's remarkable: **the very fullness of these lies is driving people back to truth.** When lies become so blatant, so destructive, so obviously contrary to reality, people start waking up. *What is actually true? Who can I trust? Where can I find reality?* And many are finding their way back to the Church—the pillar and foundation of truth, standing as a lighthouse in the storm. **The most important thing we can do is cultivate a sincere desire to pursue *the* truth—wherever it leads.** Not "my truth" or "your truth," but *the* truth. Truth is not a set of correct propositions—it's a Person to be encountered, known, and loved. Christ didn't say "I teach the truth." He said, "I am the truth" (John 14:6). When we seek truth with an open heart, willing to follow it wherever it leads, we will encounter Christ Himself.
+But here's what's remarkable: **the very fullness of the lies of our time seems to be driving people back to truth.** When lies become so blatant, so destructive, so obviously contrary to reality, people start waking up. *What is actually true? Who can I trust? Where can I find reality?* And many are finding their way back to the Church—the pillar and foundation of truth, standing as a lighthouse in the storm. **The most important thing we can do is cultivate a sincere desire to pursue *the* truth—wherever it leads.** Not "my truth" or "your truth," but *the* truth. Truth is not a set of correct propositions—it's a Person to be encountered, known, and loved. Christ didn't say "I teach the truth." He said, "I am the truth" (John 14:6). When we seek truth with an open heart, willing to follow it wherever it leads, we will encounter Christ Himself.
 
 ## Love Without Truth: The Counterfeits
 
-**"Love Means Accepting Everything":** This sounds compassionate but is actually cruel. A doctor who "accepts" his patient's cancer isn't loving—he's negligent. Love requires truth about what harms and what heals.
+**"Love Means Accepting me as I Am":** This sounds compassionate but is actually cruel. A doctor who "accepts" his patient's cancer isn't loving—he's negligent. Love requires truth about what harms and what heals.
 
 **"Love Never Judges":** This confuses judging persons with judging actions. Love requires discernment. "Do not judge by appearances, but judge with right judgment" (John 7:24).
 
 **"Love Means Letting People Define Their Own Reality":** This denies objective truth about human nature. If words mean anything we want, reality means nothing, and love has no content.
 
 **"Love Means Inclusion and Equality at All Costs":** This sounds compassionate but denies the truth that different things have different natures and purposes. True love honors the truth about what each person is and needs, not the lie that all distinctions are arbitrary or oppressive. Equality of dignity doesn't mean sameness of nature or role.
+
+Why does all of this add up to idolatry? Because **love is never free-floating — it is always directed at something.** You cannot love in the abstract; you love *a person*, *a thing*, *a god*. And whatever you love most — whatever you treat as the final reference point for your life — is functionally your god. Jesus made this explicit: *"No one can serve two masters... You cannot serve God and mammon"* (Matthew 6:24). The question is never *whether* we will worship. The question is *what*.
+
+Now follow the logic. If love must be directed at something real in order to be love at all, then the moment love is severed from truth, two things happen at once. **First**, the real God — who *is* truth (John 14:6) — can no longer be its object, because you cannot love what you refuse to know as it actually is. **Second**, love doesn't simply evaporate; it re-attaches itself to a substitute — an image, a feeling, a desire, a cause, a self. That substitute is now receiving the devotion that belongs to God alone. Scripture has a precise word for this: a *graven image*. *"You shall not make for yourself a graven image... you shall not bow down to them or serve them"* (Exodus 20:4-5). The graven image does not have to be carved from wood or stone. It can be carved from our own preferences — a god shaped to approve of us rather than transform us, a love defined by what we want rather than what is real.
+
+This is why *"love is love"* — love without any reference to truth — is not a neutral slogan. It is a creed. It declares that my experience of love is self-authenticating, answerable to nothing outside itself. But a love answerable to nothing outside itself is a love that has taken God's place. It has become the ultimate authority — which is the very definition of an idol. Love itself — when detached from the Truth who is its source — becomes one more creature elevated to God's throne.
+
+This is why idolatry is the sin God addresses first. *"You shall have no other gods before me"* (Exodus 20:3) is not merely the opening rule of the Decalogue; it is the foundation of every commandment that follows. The Greatest Commandment — *"You shall love the Lord your God with all your heart, and with all your soul, and with all your mind"* (Matthew 22:37) — is the positive form of the same absolute claim. God is not asking to be first among many loves. He is asking to be the source from which all other loves properly flow.
+
+Look at the commandments that follow and you will see each one is the First Commandment applied to a specific idol: don't commit adultery — don't make sex your god; don't steal — don't make material possessions your god; don't murder — don't make power or rage your god; don't bear false witness — don't make your reputation your god; don't covet — don't make desire itself your god. Every commandment is, at its root, the same commandment. When God is truly first, nothing else can usurp His place. When He is not, something always will.
+
+The Catechism names this with breathtaking precision: *"Idolatry not only refers to false pagan worship. It remains a constant temptation to faith. Idolatry consists in divinizing what is not God. Man commits idolatry whenever he honours and reveres a creature in place of God — whether this be gods or demons... power, pleasure, race, ancestors, the state, money... Idolatry rejects the unique Lordship of God; it is therefore incompatible with communion with God"* (CCC 2113). This is not ancient history. When sexual desire becomes the ultimate truth about who you are, the body displaces God as your definer. When money, comfort, and security become the goal all love serves, mammon is the god Jesus warned we cannot serve alongside Him (Matthew 6:24). When therapeutic self-acceptance becomes the highest love, the self is the god. When fame — followers, influence, being seen and admired — becomes the measure of a person's worth, the crowd is the god. When the desire for political power — winning, dominating the opposition, bending the culture to our will — becomes the measure of what love requires, political power is the god. These are not merely philosophical errors — they are acts of worship directed at something other than the God who is both Love and Truth.
 
 ## Truth and Authority
 
@@ -229,15 +239,15 @@ The lies of our age are not new. They are the same lies Satan told in the Garden
 
 But truth cannot be killed. Christ rose from the dead. Truth combats deception by exposing lies. Truth combats moral confusion by providing objective standards that protect the vulnerable. Truth combats despair by providing foundation—reality we can build on, meaning we can trust. Truth combats division by creating the possibility of genuine agreement and authentic unity, not the tribalism of "your truth" vs. "my truth." Truth is the antidote to the poison of relativism. Truth is the solid ground beneath our feet when everything else is shifting sand. We must be willing to stand for truth even when it costs us everything—because truth is worth dying for, just as Christ died to reveal it. The Church's commitment to truth isn't opposed to love—it's an expression of love. Because real love requires real truth.
 
+And that pursuit begins not in argument but in encounter. Truth is not a position to be defended — it is a Person to be met. Every time you choose truth over comfort, honesty over convenience, reality over illusion, you take a step toward Christ. Each step toward truth is a step toward the God who IS truth, love, and justice — inseparably one — who cannot deceive and cannot be deceived, who loves you enough to tell you what is real even when it cost Him everything. Once you have tasted truth not as rules and restrictions but as the living God who knows your name, nothing else satisfies. And truth, once sincerely pursued, will not let you stop. It has a logic of its own — it keeps opening, keeps revealing, keeps drawing you toward its own fullness, which is not a set of propositions but a God who is Love. The idols of this world — the desires, the approval, the politics — become hollow. And you discover that the One who said *"I am the way, and the truth, and the life"* has been waiting at the end of every true thing you have ever loved — and that loving Him with all your heart, your mind, your soul, and your strength is not where the search for truth ends. It is where it deepens.
+
 ## Binding Check
 
 What happens to truth when it's cut off from the other pillars?
 
-- **Truth without Justice** becomes a spectator sport. You can know what's right, name what's wrong, and never move a muscle to defend anyone.
-- **Truth without Mercy** becomes a weapon. The Pharisees were factually correct about the adulteress — and they were about to kill her with that correctness.
-- **Truth without Sacrifice** becomes opinion. Truth you won't pay for is truth you don't actually believe.
+Truth without justice becomes a spectator sport — you can know what's right, name what's wrong, and never move a muscle to defend anyone. Truth without mercy becomes a weapon; the Pharisees were factually correct about the adulteress, and they were about to kill her with that correctness. And truth without sacrifice becomes mere opinion — truth you won't pay for is truth you don't actually believe.
 
-Every pillar needs the others. Love binds them all.
+Every pillar needs the others. Gods' Perfect Love binds them all.
 
 ## The Bridge to Justice
 

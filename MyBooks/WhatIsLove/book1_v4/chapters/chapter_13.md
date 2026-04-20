@@ -300,7 +300,7 @@ The matrix above shows which pillars each deadly sin offends. Here's what each l
 - **Pride** → Idolatry, selfishness, ingratitude, disobedience, presumption, contempt for others, spiritual blindness, all the other sins
 - **Greed** → Exploitation, fraud, theft, hardness of heart toward the needy
 - **Lust** → Adultery, fornication, pornography, exploitation, broken families
-- **Wrath** → Murder, war, violence, hatred, revenge, broken relationships
+- **Wrath** → Murder, war, violence, hatred, **vengeance** (the perversion of sacrifice itself—spending one's own time, peace, and resources to inflict harm rather than give life), broken relationships. *"Vengeance is mine, I will repay, says the Lord"* (Romans 12:19)—God reserves it to Himself because no creature can wield it without being consumed by it.
 - **Sloth** → Despair, abandonment of duties, neglect of prayer, spiritual lukewarmness
 - **Envy** → Jealousy, hatred, slander, detraction, joy at another's misfortune, division
 - **Gluttony** → Addiction, drunkenness, neglect of others, health problems, spiritual dullness
