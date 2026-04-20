@@ -34,12 +34,12 @@ The cult leader says it while demanding absolute obedience and cutting members o
 
 In each case, "love" is the justification for control, manipulation, and harm. And the victims often accept it because they've been taught that questioning someone who claims to love you is itself unloving.
 
-This is what happens when love is separated from truth. Without truth, "love" becomes whatever the powerful say it is. Without truth, we can't distinguish authentic love from its counterfeits. Without truth, love becomes the ultimate tool of manipulation. Lying is a foundational sin that destroys love at its source. "Lying lips are an abomination to the LORD, but those who act faithfully are his delight" (Proverbs 12:22).
+This is what happens when love is separated from truth. Without truth, "love" becomes whatever the powerful say it is. Without truth, we can't distinguish authentic love from its counterfeits. Without truth, love becomes the ultimate tool of manipulation. And behind every one of these counterfeits stands a single root offense:
 
 <div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
-<p><strong>Love without truth becomes sentimentality and manipulation</strong> — an empty shell anyone can fill with any meaning.<sup>1</sup></p>
-<p><strong>Love without truth becomes relativism</strong> — a world where whoever holds power defines what love is.<sup>2</sup></p>
-<p><strong>Love without truth becomes idolatry</strong> — you worship a god of your own construction, not the God who is both Love and Truth.<sup>3</sup></p>
+<p><strong>The sin directly opposite to truth is lying.</strong></p>
+<p>Every corruption of love downstream from here begins with a lie — a lie about God, a lie about the human person, or a lie about love itself. <em>"Lying lips are an abomination to the LORD, but those who act faithfully are his delight"</em> (Proverbs 12:22). Satan is called <em>"the father of lies"</em> (John 8:44) because every sin traces back to some falsehood believed or spoken. Lying is not merely one sin among many — it is the foundational sin that makes every other sin possible.</p>
+<p>This chapter will show why truth is the floor love must stand on — and why pulling that floor out collapses everything built above it.</p>
 </div>
 
 ## What Children Know About Truth
@@ -247,11 +247,21 @@ What happens to truth when it's cut off from the other pillars?
 
 Truth without justice becomes a spectator sport — you can know what's right, name what's wrong, and never move a muscle to defend anyone. Truth without mercy becomes a weapon; the Pharisees were factually correct about the adulteress, and they were about to kill her with that correctness. And truth without sacrifice becomes mere opinion — truth you won't pay for is truth you don't actually believe.
 
-Every pillar needs the others. Gods' Perfect Love binds them all.
+Every pillar needs the others. God's Perfect Love binds them all.
+
+## When the Thread Is Cut
+
+We opened this chapter by naming lying as the sin directly opposite to truth. What follows are three of the gravest consequences the Church has long recognized — not an exhaustive list, but the principal distortions — when the thread of truth is pulled out of love entirely:
+
+<div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
+<p><strong>Love without truth becomes sentimentality and manipulation</strong> — an empty shell anyone can fill with any meaning.<sup>1</sup></p>
+<p><strong>Love without truth becomes relativism</strong> — a world where whoever holds power defines what love is.<sup>2</sup></p>
+<p><strong>Love without truth becomes idolatry</strong> — you worship a god of your own construction, not the God who is both Love and Truth.<sup>3</sup></p>
+</div>
 
 ## The Bridge to Justice
 
-Truth reveals what each person is truly owed—and **justice** is love giving what truth reveals is due.
+Truth reveals what each person is truly owed—and **justice** is love giving what truth reveals is due. In Chapter 7, we turn to justice: how love renders to God and neighbor what is rightly theirs, and what happens when that rendering is withheld or perverted.
 
 ---
 

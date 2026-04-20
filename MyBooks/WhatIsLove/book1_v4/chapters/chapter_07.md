@@ -54,15 +54,14 @@ This isn't just philosophy—it's the foundation of every fight for justice you'
 
 Human attempts to author justice without God inevitably fail—not because non-believers can't recognize justice (natural law allows this), but because they can't justify *why* their sense of justice should be authoritative. They replace the only source of objective justice with human preference serving self-interest. As we explored in Chapter 4, morality authored by humans must be imposed through force because it has no inherent authority.
 
-True justice requires a source beyond ourselves: the God who IS justice. Without God, "That's not fair!" has no more authority than "I don't like broccoli." With God, it becomes recognition of objective reality—a violation of the moral order built into creation by its Creator.
+True justice requires a source beyond ourselves: the God who IS justice. Without God, "That's not fair!" has no more authority than "I don't like broccoli." With God, "That's not fair!" is no longer a complaint about personal preference — it names a real violation of the moral order built into creation by its Creator. And the corruption of justice, when it comes, never comes from nowhere. It always comes from one of two specific failures:
 
 <div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
-<p><strong>Love without justice becomes favoritism</strong> — love shrinks to those useful to us; the rest are on their own.<sup>1</sup></p>
-<p><strong>Love without justice abandons the vulnerable</strong> — without standards of what is owed, the poor, the unborn, and the abused have no advocate.<sup>2</sup></p>
-<p><strong>Love without justice becomes presumption</strong> — a god who tolerates evil, demands nothing of sinners, and transforms no one.<sup>3</sup></p>
+<p><strong>Justice has two directions — and the sin directly opposite to each has a name.</strong></p>
+<p><strong>Against God, the opposing sin is idolatry.</strong> Justice owes God worship on His terms — not on ours. <em>"You shall have no other gods before me. You shall not make for yourself a graven image... you shall not bow down to them or serve them"</em> (Exodus 20:3–5). Whenever a creature is elevated to the throne that belongs to God alone — money, sex, politics, the nation, the self, even a sincere but false conception of god — justice has been withheld from its first and greatest object.</p>
+<p><strong>Against neighbor, the contrary sin is the exploitation of the vulnerable</strong> — above all, the deliberate taking of innocent life in the womb. <em>"Learn to do good; seek justice, correct oppression; defend the fatherless, plead for the widow"</em> (Isaiah 1:17). Whenever the strong use the weak — through abortion, human trafficking, wage theft, elder abandonment, predatory lending, or simple indifference to suffering — what the weak are owed by virtue of bearing God's image has been violently denied them.</p>
+<p>This chapter will show why justice is what love owes — to God and to neighbor — and why its denial, in either direction, is the root corruption of love's structure.</p>
 </div>
-
-<!-- EDITORIAL NOTE: Review this chapter to ensure all three affronts to love-without-justice are explicitly discussed: (1) favoritism/partiality — developed in the "Justice vs. Partiality" section, good; (2) abandonment of the vulnerable — touched on but may need stronger direct treatment; (3) presumption (CCC 2091) — currently underdeveloped; needs a passage that names and explains it. -->
 
 ## What Children Know About Justice
 
@@ -174,6 +173,12 @@ Justice combats exploitation by protecting the vulnerable. It exposes systemic o
 Justice is one of the four essential elements that God's perfect love binds together. Without justice, love becomes arbitrary sentiment. With justice, love has objective content: giving each person what they are truly owed as image-bearers of God.
 </div>
 
+## Justice Denied: Abandonment and Presumption
+
+When justice is withheld from the vulnerable, it does not merely look away — it *abandons* them. The unborn child crushed in the womb, the elderly parent left alone to die, the trafficked woman sold from city to city, the worker robbed of his wages (James 5:4), the prisoner forgotten behind iron — each is a person owed what Scripture calls *their due*, and each has been handed over to harm. *"He who oppresses a poor man insults his Maker"* (Proverbs 14:31). Abandonment is not a lesser sin than open exploitation; it is exploitation's quieter twin — the refusal to spend ourselves on those who cannot protect themselves. The Catechism is blunt: *"Not to enable the poor to share in our goods is to steal from them and deprive them of life. The goods we possess are not ours, but theirs"* (CCC 2446, quoting St. John Chrysostom). A love that will not defend the defenseless is not love; it is a comfort that has priced the vulnerable out of its circle.
+
+There is another distortion the Church has long named, subtler than open exploitation but no less corrosive: **presumption.** The presumptuous soul expects God's mercy without rendering God what is due — without repentance, without worship, without the obedience owed to a Father. He grants himself salvation on his own terms. The Catechism names it precisely: *"There are two kinds of presumption. Either man presumes upon his own capacities (hoping to be able to save himself without help from on high), or he presumes upon God's almighty power or his mercy (hoping to obtain his forgiveness without conversion and glory without merit)"* (CCC 2092). St. John Paul II warned that a "mercy" detached from the demands of justice and repentance collapses into mere sentiment, incapable of healing anyone (*Dives in Misericordia* §12). Presumption is the sin of demanding heaven while refusing the narrow gate; of claiming God as ours without becoming His. Where abandonment robs the neighbor of what is owed him, presumption robs God of what is owed Him — and both collapse love because both strip justice out of it.
+
 ## Justice and the Common Good
 
 Justice isn't just individual—it's social. The common good means the conditions that allow all people to flourish—peace, order, opportunity, protection of rights, promotion of virtue.
@@ -229,11 +234,21 @@ What happens to justice when it's cut off from the other pillars?
 - **Justice without Mercy** becomes vengeance. Debts are never forgiven, and retribution never ends.
 - **Justice without Sacrifice** becomes bureaucratic. Just laws mean nothing if no one will pay the cost to uphold them.
 
-Every pillar needs the others. Love binds them all.
+Every pillar needs the others. God's Perfect Love binds them all.
+
+## When the Thread Is Cut
+
+We opened this chapter by naming idolatry and the exploitation of the vulnerable as the sins directly opposite to justice. What follows are three of the gravest consequences the Church has long recognized — not an exhaustive list, but the principal distortions — when the thread of justice is pulled out of love entirely:
+
+<div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
+<p><strong>Love without justice becomes favoritism</strong> — love shrinks to those useful to us; the rest are on their own.<sup>1</sup></p>
+<p><strong>Love without justice abandons the vulnerable</strong> — without standards of what is owed, the poor, the unborn, and the abused have no advocate.<sup>2</sup></p>
+<p><strong>Love without justice becomes presumption</strong> — a god who tolerates evil, demands nothing of sinners, and transforms no one.<sup>3</sup></p>
+</div>
 
 ## The Bridge to Mercy
 
-Justice gives each person what they're due—but what about when giving what's strictly owed would crush rather than heal? This is where **mercy** becomes crucial: not violating justice, but fulfilling it.
+Justice gives each person what they're due—but what about when giving what's strictly owed would crush rather than heal? In Chapter 8, we turn to mercy: the power of love that goes beyond what justice requires to heal, forgive, and restore.
 
 ---
 

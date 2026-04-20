@@ -122,14 +122,34 @@ The core threads — **Truth, Justice, Mercy, Sacrifice** — are the *interior 
 
 ## 7. Interpretive Key: The Pattern for Chapters 6–9
 
-Chs. 6–9 each treat one of the four pillars. They share a **consistent two-part structure** that any agent editing them must honor.
+Chs. 6–9 each treat one of the four pillars. They share a **consistent four-part structure** (A–D below) that any agent editing them must honor. Ch. 6 is the reference implementation.
 
-**Part A — Open by naming the cardinal sin against that pillar.**
-The cardinal sin gives the reader a diagnostic tool by its proper name. This is a recovery of classical moral vocabulary that modern catechesis has largely lost. See Section 8 #2 below for the full cardinal-sin map.
+**Part A — Open by naming the sin directly opposite to that pillar.**
+Immediately after the chapter's opening prose (the "hook"), insert a callout that names the opposing sin, grounds it in Scripture, and signals that the chapter will prove why the sin destroys love. This gives the reader a diagnostic tool by its proper name — a recovery of classical moral vocabulary that modern catechesis has largely lost. See Section 8 #2 below for the full opposing-sin map.
+
+**Terminology note — avoid "cardinal sin."** The Church's established vocabulary reserves *cardinal* for the four cardinal virtues and *capital* for the seven capital sins (*peccata capitalia* — pride, greed, lust, envy, gluttony, wrath, sloth). To avoid any confusion with those categories, this book uses one of four interchangeable phrasings for the sin that stands as the direct opposite of a pillar:
+
+  1. **"the sin directly opposite to X"** — default, plainest English, clearest for a general reader
+  2. **"the opposing sin against X"** — slightly more formal, good for variation
+  3. **"the contrary sin against X"** — Thomistic echo (Aquinas's *vitium contrarium*, the "contrary vice")
+  4. **"the antithesis of X"** — philosophical, most formal; changes sentence shape (virtue becomes direct object)
+
+Rotate these across and within chapters to avoid repetition. Never use *cardinal sin*, *capital sin*, or *mortal sin* in this diagnostic sense — those carry Church-specific meanings that do not match what we are naming here.
 
 **Part B — The body of the chapter proves why this sin destroys love**, by exploring the pillar positively (what it is, how Scripture and the Church describe it, what it looks like in practice) and negatively (what love becomes when the thread is cut).
 
-**Part C — Close with the end-state diagnostic:** *"Here is where this leads when the thread is cut."* Truth removed → manipulation. Justice removed → favoritism / sentimentality. Mercy removed → weapon. Sacrifice removed → transaction.
+**Part C — Close with the end-state diagnostic** under a dedicated `## When the Thread Is Cut` section, placed **after `## Binding Check`** and **before `## The Bridge to [Next Facet]`**. Inside this section:
+  1. **Callback sentence.** Name the opposing sin again (calling back to Part A) and make clear that what follows is *illustrative, not exhaustive* — the principal distortions the Church has long recognized, not a complete catalogue. Use something like (but not formulaicly so...):
+     > *"We opened this chapter by naming [opposing sin] as the sin directly opposite to [pillar]. What follows are three of the gravest consequences the Church has long recognized — not an exhaustive list, but the principal distortions — when the thread of [pillar] is pulled out of love entirely:"*
+  2. **End-state callout.** Three bullets naming the gravest end-states. Current working map:
+     - Truth removed → manipulation / relativism / idolatry
+     - Justice removed → favoritism / abandonment of the vulnerable / presumption
+     - Mercy removed → cruelty / vengeance / despair
+     - Sacrifice removed → transaction / lukewarmness / betrayal
+
+  These are the working end-state nominations per pillar; each chapter can refine them where it produces sharper Church-recognized language. The callback sentence's *"not an exhaustive list"* framing is load-bearing — it signals the reader that these are the principal, Church-recognized distortions, not the only ones.
+
+**Part D — The Bridge must explicitly name the next chapter and preview its theme.** Not just *"justice is love giving what truth reveals is due"* — say *"In Chapter 7, we turn to justice: how love renders to God and neighbor what is rightly theirs, and what happens when that rendering is withheld or perverted."* The Bridge is the hand-off; it should leave no ambiguity about what comes next.
 
 **Crucial framing note for Ch. 6 (Truth):** Ch. 6's opening question — *"How do we recognize love for what it is and see its counterfeits?"* — is an **epistemological/phenomenological claim, not a metaphysical priority claim.** Ch. 5 already settled that no thread is metaphysically prior to the others. Truth is simply the shared existential floor every human being already stands on before theology begins: *I exist. I am a person. I need love. I feel injustice. I long for mercy. I recognize sacrifice.* These are pre-theological and universal; atheist and Catholic share this ground equally. Without truth, love has no floor — it becomes unrecognizable, a word anyone can pour any meaning into, and therefore a tool of manipulation. The contemplative move Ch. 6 invites is: *where do all these brute facts come from?* They point toward a personal God.
 
@@ -143,7 +163,7 @@ Every chapter should be read and evaluated against this underlying argument. It 
 The four pillars are the *anatomy* of love. Collapse love into any one of them and it becomes a counterfeit. Modern slogans like *"love is love,"* *"just love everybody,"* or *"love your neighbor — why are you confused?"* are reductions of love into sentimental mercy alone, stripped of truth and justice. They are not the Gospel; they are sentimentality wearing Gospel clothing.
 
 ### 2. Sin has objective structure too — and it mirrors love's structure.
-Every sin attacks one or more pillars. The **cardinal sin per pillar** gives the reader a diagnostic tool for the rest of their life:
+Every sin attacks one or more pillars. The **sin directly opposite to each pillar** gives the reader a diagnostic tool for the rest of their life:
 
 - **Truth → Lying** (and the modern lie: *"there is no objective truth"*)
 - **Justice toward God → Idolatry** (*"all religions lead to the same God"* is functional idolatry)
@@ -207,7 +227,7 @@ Chapters are not rigidly templated. They follow a **loose convention** that has 
    ```
 3. **`---` divider** between opening quotes and body
 4. **Body** — multiple `##` sections with chapter-specific, flowing titles (not templated labels). Each chapter's narrative determines its section headings. Titles are evocative and thematic (e.g., *"What Children Know About Binding,"* *"Truth in a World of Lies,"* *"The Cry for Mercy"*) — never generic labels like *"Practical Application"* or *"Three Questions to Ask."*
-5. **`## The Bridge to [Next Facet]`** — always the final body section. A short, explicit hand-off to the next chapter. This is a firm convention.
+5. **`## The Bridge to [Next Facet]`** — always the final body section. A short, explicit hand-off to the next chapter. Must **name the next chapter by number** and **preview its theme** in one or two sentences. This is a firm convention.
 6. **`---` divider** between body and back matter
 7. **`## Further Study`** — always the final top-level section, containing at minimum:
    - `### Scripture`
@@ -217,10 +237,9 @@ Chapters are not rigidly templated. They follow a **loose convention** that has 
 ### Optional / evolving conventions
 
 - **`## What Children Know About [Facet]`** — a recurring motif in Chs. 3, 4, 5, 6. Uses the child's moral intuition to reveal the pillar phenomenologically. Should continue in Chs. 7, 8, 9, 10 where it fits naturally.
-- **`## Binding Check`** — a late-chapter diagnostic section, new in Ch. 6. Useful in the pillar chapters (6–9) to verify the facet is being held in proper binding with the others.
-- **Callouts** — teal `<div class="callout">` blocks for emphasis. Used for key theses, summaries, or warnings. Use sparingly.
-- **`## Opening / Cardinal-Sin Callout` (Chs. 6–9 only, per restructure)** — near the top of the chapter, a callout naming the cardinal sin against that pillar.
-- **`## End-State Diagnostic Callout` (Chs. 6–9 only, per restructure)** — near the end, a callout listing what love becomes when the thread is cut ("becomes manipulation / favoritism / weapon / transaction").
+- **`## Binding Check`** — a late-chapter diagnostic section. **Required in the pillar chapters (6–9)** to verify the facet is being held in proper binding with the others. Optional elsewhere.
+- **`## When the Thread Is Cut`** — **required in Chs. 6–9.** The end-state diagnostic section. Sits after `## Binding Check` and before `## The Bridge to [Next]`. See Section 7, Part C for full pattern.
+- **Callouts** — teal `<div class="callout">` blocks for emphasis. Used for key theses, summaries, or warnings. Use sparingly. **Chs. 6–9 always have two:** the opposing-sin callout at the top (inside the opening section) and the end-state callout inside `## When the Thread Is Cut`.
 - **Sub-themed `### ` sections under Further Study** — Ch. 4 groups further-reading items under thematic sub-headings (*"The New Covenant: Law Written on Hearts,"* etc.) before the Scripture/CCC/Thinkers blocks. Use when the material warrants it.
 - **`### Notes` at the very end of Further Study** — footnotes (see Section 10 below).
 
@@ -298,3 +317,31 @@ These quotes are from Pope Leo XVI's Address to the Roman Curia (Nov. 21, 2025) 
 > *"The sacred authority is participation in the authority of Christ, and its service to truth is a way of knowing and embracing the ultimate Truth, which is Christ Himself (cf. Jn 14:6)."* — Pope Leo XVI, Address to the Roman Curia (Nov. 21, 2025)
 
 > *"Every person therefore is invited to 'repent' and to 'believe' in God's merciful love."* — Pope Leo XVI, Address to the Roman Curia (Nov. 21, 2025)
+
+---
+
+## 14. When to Update This File
+
+`AGENTS.md` is the contract between the author and every future agent. Keeping it accurate is part of every task. **Propose updates to the author (do not silently edit) whenever one of the following happens:**
+
+### Always propose an update
+
+1. **A new convention is established.** If you and the author agree on a pattern that will apply to more than one chapter (a new section heading, a new callout type, a new terminology rule, a new editing discipline) — capture it here so the next agent in the next session inherits it. Ch. 6 establishing `## When the Thread Is Cut` is the canonical example.
+2. **An existing convention is changed or refined.** If the author modifies a pattern mid-task (e.g., "use 'sin directly opposite to' instead of 'cardinal sin'"), update the relevant section immediately so the rule does not drift.
+3. **A factual claim in `AGENTS.md` is contradicted by the current manuscript.** If Section 9 says chapters contain *X*, and you find they actually contain *Y*, the file is stale — propose the correction. Truth in the manuscript overrides what the file happens to say.
+4. **A new chapter-specific framing note is discovered** that future agents will need (like the Ch. 6 epistemological-vs-metaphysical note in Section 7). Capture it as a "framing note for Ch. N" under the appropriate section.
+5. **A stale reference is found** — a filename that moved, a path that no longer exists, a script that was renamed, or a workflow that was retired.
+
+### Do NOT update for
+
+- One-off editorial decisions that apply only to a single sentence or paragraph
+- Author preferences expressed as personal taste rather than as a rule for the book
+- Your own stylistic opinions — `AGENTS.md` captures the author's voice and choices, not the agent's
+
+### How to propose an update
+
+1. State clearly: *"I'd like to update `AGENTS.md` to reflect [the new convention / the correction]."*
+2. Show the exact before/after of the proposed edit.
+3. Wait for author approval before writing.
+4. If the update affects multiple chapters, flag whether back-edits to earlier chapters are needed or whether the new rule applies forward only.
+

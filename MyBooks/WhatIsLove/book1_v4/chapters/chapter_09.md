@@ -42,15 +42,13 @@ Here love stops being theory and becomes reality. This is where the rubber meets
 
 In the previous chapter, we saw that mercy offers forgiveness, releases debts, restores relationships. But at what cost? Who pays the price? Mercy isn't free—someone must bear the cost. That cost is sacrifice. This is why sacrifice follows mercy in our exploration of love's facets.
 
-Love is **sacrificial**. Not in theory. Not in sentiment. Not in good intentions. In action. In cost. In putting another's good before our own.
+Love is **sacrificial**. Not in theory. Not in sentiment. Not in good intentions. In action. In cost. In putting another's good before our own. And the refusal to pay — the quiet refusal most of us make most of the time — has an old name:
 
 <div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
-<p><strong>Love without sacrifice becomes self-seeking</strong> — we exchange covenant for contract, giving only as long as we receive.<sup>1</sup></p>
-<p><strong>Love without sacrifice becomes fruitless</strong> — the grain that will not die remains alone, unable to generate new life or draw anyone into communion.<sup>2</sup></p>
-<p><strong>Love without sacrifice becomes lukewarm</strong> — claiming to love God while it costs nothing; the very faith Christ warned He would spit from His mouth.<sup>3</sup></p>
+<p><strong>The antithesis of sacrifice is sloth</strong> — what Christ Himself named <em>lukewarmness.</em></p>
+<p>Sacrifice is the costly self-gift that makes love real; sloth is the refusal to pay. Not the inability, but the refusal. The Christian who loves God "in his heart" but will not rise early to pray, will not give to the poor, will not tell an inconvenient truth, will not miss a game for Mass — this is not love, however much it feels like love. It is love theorized and never performed. Christ's verdict is fierce: <em>"So, because you are lukewarm, and neither cold nor hot, I will spew you out of my mouth"</em> (Revelation 3:16). The Church's classical tradition names this sin <em>acedia</em> — the spiritual sorrow that shrinks from the demands of divine love. Aquinas identifies it as the vice directly opposed to charity itself (<em>Summa Theologica</em> II-II, q.35).</p>
+<p>This chapter will show why love that costs nothing proves nothing — and why sloth is not harmless laziness but a quiet betrayal of the God who held nothing back from us.</p>
 </div>
-
-<!-- EDITORIAL NOTE: Review this chapter to ensure all three affronts to love-without-sacrifice are explicitly discussed: (1) transaction — well developed in "When Love Stops Being Theory" and "Sacrifice FOR the Person" sections, good; (2) consumerism — well developed in "Sacrifice vs. Selfishness" section, good; (3) lukewarmness — the opening examples (Christian who never prays, etc.) gesture at this, but it needs explicit naming with Rev 3:16 and CCC 2094, linking sacrificeless love to the theological vice of lukewarmness/acedia. -->
 
 ## What Children Know About Sacrifice
 
@@ -218,6 +216,12 @@ This is selfishness masquerading as health. It creates a culture where families 
 
 **Here's the beautiful irony:** When we sacrifice for others, we experience joy, meaning, and fulfillment—the very things selfishness promises but never delivers. Work yourself to exhaustion serving a stranger on a mission trip, and you feel like you've done something real in the world. Sacrifice sleep for your infant, and you discover a depth of love you never knew existed. Give up career advancement to care for aging parents, and you find purpose that no promotion could provide. This is the paradox Christ taught: those who lose their life find it. Sacrifice doesn't diminish us—it completes us. Selfishness promises happiness but delivers emptiness. Sacrifice promises nothing but delivers joy.
 
+## The Grain That Refuses to Fall: Barrenness and Betrayal
+
+Christ tells us precisely what happens when love refuses the cost: *"Truly, truly, I say to you, unless a grain of wheat falls into the earth and dies, it remains alone; but if it dies, it bears much fruit"* (John 12:24). A seed clutched in the hand produces nothing. It keeps its shape, its integrity, its "safety" — and stays forever alone. This is **barrenness**, the first fruit of love that will not pay. The Christian who wants a rich interior life but will not kneel, the marriage that wants intimacy without vulnerability, the parish that wants growth without tithe or time — each is a grain that refuses to fall. Jesus tightens the image a few chapters later: *"I am the vine, you are the branches. He who abides in me, and I in him, he it is that bears much fruit, for apart from me you can do nothing"* (John 15:5). Abiding costs. A branch that will not surrender its life-blood to the vine does not produce less fruit; it produces no fruit. Sacrificeless love is not slow love or weak love — it is infertile love. Nothing is born of it.
+
+And there is a second, darker fruit. When the cost finally comes due — and it always does — the one who has never paid *cannot* pay, and love that should have endured turns into its opposite. This is **betrayal.** Scripture's clearest portrait of it is not Judas but Peter, who swore at the Last Supper, *"Even if I must die with you, I will not deny you"* (Matthew 26:35). Hours later, at the fire in the courtyard, warming himself while his Lord was beaten inside, three times he said, *"I do not know the man"* (Mark 14:66–72). Peter's betrayal was not malice; it was the inevitable collapse of a love that had never been tested by real sacrifice. He had loved Jesus at the table. He could not love Him at the fire. Every husband who is pleasant over coffee but absent through his wife's cancer, every Catholic who loves the Mass until it conflicts with Sunday travel, every friend who is loyal until loyalty becomes expensive, stands at that same fire. Peter wept bitterly when he heard the cock crow — and that weeping was mercy's door opened even for betrayers — but the betrayal itself was real, and it was the direct fruit of a love that had practiced no sacrifice. Sloth does not merely refuse to pay; it guarantees that when the moment of payment arrives, we will deny the one we said we loved.
+
 ## Sacrificing FOR the Person, Not FOR Benefits
 
 Here's where sacrifice reveals whether our love is authentic or counterfeit: **Do we sacrifice for WHO the person is, or for WHAT they give us?**
@@ -265,9 +269,19 @@ Think of the parent who gives everything — every evening, every dollar, every 
 
 Sacrifice untethered is not heroism. It is a weight placed on the one you love. The other pillars are what make it a gift instead of a burden.
 
-## The Bridge to Life-Giving
+## When the Thread Is Cut
 
-Sacrifice is never the "end" or goal—it is always the beginning of something new. The next chapter explores where sacrifice leads: life-giving communion.
+We opened this chapter by naming sloth — lukewarmness, the refusal to pay what love costs — as the sin directly opposite to sacrifice. What follows are three of the gravest consequences the Church has long recognized — not an exhaustive list, but the principal distortions — when the thread of sacrifice is pulled out of love entirely:
+
+<div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
+<p><strong>Love without sacrifice becomes transaction</strong> — covenant shrinks to contract; we give only so long as we receive, treating the beloved as a vendor of benefits rather than a person of infinite worth.<sup>1</sup></p>
+<p><strong>Love without sacrifice becomes barren</strong> — the grain that will not fall into the earth and die remains alone, unable to generate new life or draw anyone into communion.<sup>2</sup></p>
+<p><strong>Love without sacrifice becomes betrayal</strong> — when the cost finally comes due, the one who never paid abandons the beloved, just as Peter, who had sworn to die with Christ, denied Him three times at the fire.<sup>3</sup></p>
+</div>
+
+## The Bridge to Life-Giving Communion
+
+Sacrifice is never the end or the goal — it is always the beginning of something new. In Chapter 10, we turn to life-giving communion: the fruit of the four threads woven together, the communion with God and neighbor we were made for, and what our whole unpacking of Perfect Love has been aiming at all along.
 
 ---
 
@@ -306,6 +320,6 @@ For readers who want to go deeper into how the Old Testament covenants and sacri
 
 ### Notes
 
-1. Philippians 2:3; Vatican II, *Gaudium et Spes* (1965), §24 ("Man cannot fully find himself except through a sincere gift of himself").
+1. Philippians 2:3; Vatican II, *Gaudium et Spes* (1965), §24 ("Man cannot fully find himself except through a sincere gift of himself"); *Catechism of the Catholic Church*, §1601 (marriage as covenant, not contract).
 2. John 12:24; John 15:5.
-3. Revelation 3:16; *Catechism of the Catholic Church*, §2094.
+3. Mark 14:29–31, 66–72 (Peter's boast and denial at the fire); 1 John 3:18 ("let us not love in word or speech but in deed and in truth").

@@ -38,15 +38,13 @@ In the previous chapter, we saw that justice gives each person what they're due 
 
 But here's the paradox: We plead for mercy when we're the offender, but demand justice when we're the offended. We want our sins forgiven while holding grudges for decades. We want second chances while refusing to give them. We want God's mercy while showing none to our neighbor.
 
-This reveals something profound: Mercy is both gift and task. We receive it from God, yet we must learn to give it to others. We cannot keep what we refuse to share.
+This reveals something profound: Mercy is both gift and task. We receive it from God, yet we must learn to give it to others. We cannot keep what we refuse to share. And the refusal has a name:
 
 <div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
-<p><strong>Love without mercy becomes cruelty</strong> — truth and justice become weapons that define people by their worst moments and close the door on restoration.<sup>1</sup></p>
-<p><strong>Love without mercy becomes vengeance</strong> — every wrong demands permanent punishment; cycles of retaliation never end; no one can be restored.<sup>2</sup></p>
-<p><strong>Love without mercy produces despair</strong> — without the possibility of redemption, the only response to one's own sinfulness is hopelessness. The Gospel itself becomes impossible.<sup>3</sup></p>
+<p><strong>The contrary sin against mercy is unforgiveness</strong> — what Scripture calls <em>hardness of heart.</em></p>
+<p>Justice says: <em>pay what you owe.</em> Mercy goes beyond and says: <em>the debt is released.</em> Unforgiveness does the opposite — it clutches the debt, rehearses the wound, and keeps the ledger open forever. The heart hardens around the grievance until no grace can pass through it. Jesus is blunt about what this costs: <em>"If you do not forgive men their trespasses, neither will your Father forgive your trespasses"</em> (Matthew 6:15). His parable of the Unforgiving Servant (Matthew 18:23–35) is the stark warning — what happens when we receive mercy and refuse to extend it.</p>
+<p>This chapter will show why mercy is the only objective path to restoration — and why a heart hardened against forgiveness traps the wounded and the wrongdoer alike in permanent ruin.</p>
 </div>
-
-<!-- EDITORIAL NOTE: Review this chapter to ensure all three affronts to love-without-mercy are explicitly discussed: (1) cruelty — well developed in "What Children Know" and "Mercilessness" sections, good; (2) vengeance — touched in "Mercy Toward Enemies" and Binding Check, but needs a stronger direct treatment as a named consequence of love without mercy; (3) despair — partially addressed in "When Mercy Requires a Supernatural Miracle" but needs explicit naming as the theological consequence of merciless love, grounded in CCC 2091 and Dives in Misericordia §4. -->
 
 ## What Children Know About Mercy
 
@@ -203,6 +201,16 @@ Mercy combats hardness of heart by breaking cycles of revenge and revealing the 
 
 Every time we repent of our sin and turn back to God, we prevent future consequences of our sin. When we repent and turn toward God's truth, justice, and mercy, we no longer participate in creating evil in the world, but rather good. When the people of God choose to truly love one another, good triumphs over evil.
 
+## The Two Shadows: Vengeance and Despair
+
+Two consequences follow when mercy is cut out of love, and both belong to the Church's oldest vocabulary for moral failure.
+
+**Vengeance** is what justice becomes when mercy is not allowed to complete it. The wound is real and the debt is real — but the heart refuses release. Every offense must be paid back with interest. Every slight is rehearsed. Every memory is kept sharp for the next blow. Christ breaks the ancient logic at its root: *"You have heard that it was said, 'An eye for an eye and a tooth for a tooth.' But I say to you, Do not resist one who is evil"* (Matthew 5:38–39). St. Paul names the reason: *"Beloved, never avenge yourselves, but leave it to the wrath of God... Do not be overcome by evil, but overcome evil with good"* (Romans 12:19, 21). Vengeance usurps what belongs to God alone and perpetuates the very evil it claims to punish. This is why the Parable of the Unforgiving Servant ends in torment (Matthew 18:34): the servant who refused mercy did not merely fail to love his brother — he placed himself outside the reach of the very mercy he had already received.
+
+**Despair** is the other end-state, and in some ways it is the more dangerous. If mercy does not exist, then the sinner has no way back. The Catechism names the sin directly: *"By despair, man ceases to hope for his personal salvation from God, for help in attaining it or for the forgiveness of his sins. Despair is contrary to God's goodness, to his justice — for the Lord is faithful to his promises — and to his mercy"* (CCC 2091). St. John Paul II went further: a world that has forgotten mercy is a world that teaches its people to despair — a mentality that *"tends also to eliminate from life and to remove from the human heart the very idea of mercy"* (*Dives in Misericordia* §2; cf. §4). Remove mercy, and the Gospel itself becomes unintelligible. There is nothing to repent *toward*. There is only the ledger and the verdict.
+
+Vengeance and despair are the twin faces of a love that will not forgive — one turned outward against the neighbor, one turned inward against the self. Mercy is the only force strong enough to heal either.
+
 ## Binding Check
 
 Mercy is the pillar most often mistaken for the whole of love — which means its distortions are the most common, and the hardest to see. Listen for these:
@@ -215,9 +223,19 @@ Mercy is the pillar most often mistaken for the whole of love — which means it
 
 Mercy untethered from the other pillars isn't gentleness. It is a form of abandonment dressed as love.
 
+## When the Thread Is Cut
+
+We opened this chapter by naming unforgiveness — the hardening of the heart against mercy — as the sin directly opposite to mercy. What follows are three of the gravest consequences the Church has long recognized — not an exhaustive list, but the principal distortions — when the thread of mercy is pulled out of love entirely:
+
+<div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
+<p><strong>Love without mercy becomes cruelty</strong> — truth and justice become weapons that define people by their worst moments and close the door on restoration.<sup>1</sup></p>
+<p><strong>Love without mercy becomes vengeance</strong> — every wrong demands permanent punishment; cycles of retaliation never end; no one can be restored.<sup>2</sup></p>
+<p><strong>Love without mercy produces despair</strong> — without the possibility of redemption, the only response to one's own sinfulness is hopelessness. The Gospel itself becomes impossible.<sup>3</sup></p>
+</div>
+
 ## The Bridge to Sacrifice
 
-Mercy always comes at a cost—and that cost is sacrifice, the next facet of God's perfect love.
+Mercy always comes at a cost — and that cost is sacrifice. In Chapter 9, we turn to sacrifice: the costly self-gift that proves love is real, and what happens when love tries to exist without paying the price it demands.
 
 ---
 
