@@ -97,6 +97,18 @@ Aquinas distinguished three types of justice that help us understand how love op
 
 A contemporary secular understanding of justice often means punishment, equality of outcomes, or rights without responsibilities. Biblical justice means giving each person what they're truly owed based on their value and dignity as image-bearers of God—and restoring right relationships when they're broken.
 
+## Justice Toward God: The Virtue of Religion
+
+Before we trace justice through its many relationships, we must settle the first and deepest direction it owes. St. Thomas Aquinas places the **virtue of religion** — the giving of God what is due to Him — under the cardinal virtue of justice, not as a separate virtue of its own (*Summa Theologica* II-II, q.81). The Catechism teaches the same: *"The virtue of religion disposes us to have this attitude"* of giving God *"what we as creatures owe him in all justice"* (CCC 2095; cf. 2096). To render God worship, gratitude, and obedience is not a preference piled on top of justice — it *is* the highest act of justice a creature can make.
+
+This reframes the Decalogue itself. Read in order, the Ten Commandments are not a random list of prohibitions; they are justice applied first to God and then to neighbor. *"You shall have no other gods before me. You shall not make for yourself a graven image... you shall not bow down to them or serve them"* (Exodus 20:3–5). Every commandment that follows is the First Commandment applied to a specific idol: do not commit adultery — do not make sex your god; do not steal — do not make possessions your god; do not murder — do not make rage or power your god; do not bear false witness — do not make reputation your god; do not covet — do not make desire itself your god. When God is truly first, nothing else can usurp His place. When He is not, something always will.
+
+The Catechism names the danger with precision: *"Idolatry not only refers to false pagan worship. It remains a constant temptation to faith. Idolatry consists in divinizing what is not God. Man commits idolatry whenever he honours and reveres a creature in place of God — whether this be gods or demons... power, pleasure, race, ancestors, the state, money... Idolatry rejects the unique Lordship of God; it is therefore incompatible with communion with God"* (CCC 2113). This is not ancient history. When sexual desire becomes the ultimate truth about who one is, the body has displaced God. When money, comfort, and security become the goal every love serves, mammon is the god Jesus warned we cannot serve alongside Him (Matthew 6:24). When therapeutic self-acceptance becomes the highest love, the self is the god. When followers, influence, and being seen and admired become the measure of a life's worth, the crowd is the god. When winning, dominating the opposition, and bending the culture to one's will become the measure of what love requires, political power is the god. Each of these is *injustice toward God* — the refusal to render Him the worship He is owed — dressed as something else.
+
+The counterfeits extend beyond the obvious idols. *Sacrilege* — worship on our own terms rather than God's — dishonors what is holy (Aquinas, *Summa Theologica* II-II, q.99; CCC 2120). *Functional atheism* — a life that behaves as if God is owed nothing — is practical denial of His Lordship (CCC 2128). *Syncretism* — *"all religions lead to the same God"* — denies God His specificity and the self-revelation He has actually given (CCC 2114; *Dominus Iesus* §§21–22). Each is the Godward direction of justice cut out of love.
+
+Chapter 6 named idolatry as the final collapse of love severed from truth. Here we see the deeper root: idolatry is first and foremost an *injustice* — the withholding of worship from the only one to whom it is owed.
+
 ## Justice Grounded in Imago Dei
 
 Why does every person deserve justice? Because they're made in God's image: "So God created man in his own image, in the image of God he created him; male and female he created them" (Genesis 1:27).
@@ -167,63 +179,50 @@ Justice toward the common good requires subsidiarity (solving problems at the mo
 
 These principles—subsidiarity, solidarity, the preferential option for the poor, human dignity, the common good—form the foundation of Catholic social teaching. The Church has developed a rich body of wisdom on how justice applies to economic life, political structures, family relationships, and international relations. This chapter can only introduce these concepts. I encourage you to dive deeper—see the *Catholic Social Teaching References* section at the end of this chapter for key documents, encyclicals, and Catechism passages. Understanding how justice applies to every dimension of human life is profitable for living authentic love in the world.
 
-## The Sacrament of Reconciliation: Justice and Mercy United in Truth
+## The Sacrament of Reconciliation: A Preview
 
-The Catholic Sacrament of Reconciliation perfectly demonstrates how justice and mercy work together. Justice requires acknowledging sin (confession), accepting consequences (penance), making amends (restitution). Mercy offers forgiveness (absolution), restoration (grace), healing (reconciliation).
-
-The sacrament doesn't choose between justice and mercy—it integrates both. Notice how the structure honors both, grounded in truth about human nature:
-
-1. **We must face the TRUTH (Examination).** We stop hiding behind excuses and align our minds with the reality of our sin.
-2. **We must acknowledge the demands of JUSTICE (Confession).** By speaking our sins aloud, we admit we have violated the covenant and owe a debt to God and neighbor.
-3. **We must open ourselves to MERCY (Contrition).** We turn away from our pride and ask God to forgive a debt we cannot pay.
-4. **We must offer a SACRIFICE to make amends (Penance).** We feel the deep need to "make up" for what we've done, so we offer a sacrificial act to participate in healing the wound and restoring the balance.
-
-The sacrament honors this truth about how we're made. God offers complete forgiveness—mercy transcending what justice requires. We commit to change—justice and mercy together leading to transformation.
-
-This is love in action—truth about sin, justice requiring acknowledgment, mercy offering forgiveness, all working together to heal and restore. The sacrament shows us that authentic love never chooses between truth, justice, and mercy; it holds them in perfect harmony, each making the others more powerful.
+Justice and mercy meet sacramentally in the Sacrament of Reconciliation. Justice requires it because sin is a real violation that must be named, owned, and addressed rather than ignored — confession names what is owed, contrition acknowledges the debt, and penance offers to repair what was broken. Absolution and restoration, which complete the sacrament, are acts of mercy; Confession is mercy's natural home, and we will see its full four-part shape in the next chapter.
 
 ## Do You Want True Justice?
 
-If you've read this far, you've felt it—that deep hunger for justice. You know in your bones that some things are wrong and must be made right. You've cried out "That's not fair!" and meant it with every fiber of your being.
+If you have read this far, you have felt it — the deep hunger that makes every human heart cry *"That's not fair!"* and mean it. But the question underneath your hunger is this: **do you want human justice, or God's justice?**
 
-But here's the question: **Do you want human justice or God's justice?**
+Human justice, even at its best, can only punish wrongdoing. It cannot heal the wound, restore what was broken, or transform the wrongdoer. God's justice is different. It is perfect because it flows from perfect love. It is powerful because it does not only punish — it *restores, heals, and transforms.* It turns enemies into children, criminals into saints, the broken into the whole. It does not collapse into mercy; it opens the door to mercy, while still honoring what is owed.
 
-Human justice is always incomplete. It's tainted by self-interest, limited by ignorance, corrupted by power, and ultimately imposed by force. Even at its best, human justice can only punish wrongdoing—it cannot heal the wound, restore what was broken, or transform the wrongdoer.
+This is the justice your heart has been crying out for all along — not only the punishment of evil, but the restoration of good; not only consequences for wrongdoing, but healing for the wounded.
 
-**God's justice is different.** It's perfect because it flows from perfect love. It's complete because it integrates truth, mercy, and sacrifice. It's powerful because it doesn't just punish—it restores, heals, and transforms.
+So the question is not whether you believe in justice. You already do — you cannot help it, because it is written on your heart. The question is: **will you accept the only justice that can actually heal the world — the justice of God?**
 
-God's justice says: "Yes, this was wrong. Yes, there are consequences. Yes, restitution must be made." But it doesn't stop there. God's justice opens the door to mercy. It makes room for repentance. It offers the possibility of redemption. It transforms enemies into children, criminals into saints, the broken into the whole.
-
-This is the justice your heart has been crying out for all along—not just the punishment of evil, but the restoration of good. Not just consequences for wrongdoing, but healing for the wounded. Not just accountability for the guilty, but transformation for all.
-
-**If you want true justice—the kind that actually works, that actually heals, that actually restores—you need God.** Not as an add-on to your own sense of fairness. Not as a rubber stamp for your preferences. But as the source, the standard, and the authority that makes real justice possible.
-
-This means submitting your understanding of justice to His. It means accepting that His ways are higher than your ways (Isaiah 55:9). It means trusting that the God who IS justice knows better than you do what justice requires.
-
-And here's the beautiful paradox: When you submit to God's justice, you discover it's not a burden but a gift. His justice doesn't crush you—it liberates you. It doesn't condemn you—it transforms you. Because God's justice is always integrated with God's mercy, and both flow from God's perfect love. This is where true freedom comes from—justice teaches us how to pursue what is truly good for ourselves, our family, and society. It teaches us how to create covenantal communion in the light of the truth of justice, rather than destroying communion through inflicting pain and suffering on ourselves, our family, or society.
-
-**So the question isn't whether you believe in justice.** You do—you can't help it, because it's written on your heart. The question is: Will you accept the only justice that's real, objective, and powerful enough to actually heal the world? Will you accept God's justice?
-
-If your answer is yes, then you're ready for the next step. Because God's justice, as perfect as it is, points beyond itself to something even more astonishing: God's mercy.
+If your answer is yes, you are ready for the next step. Because God's justice, as perfect as it is, points beyond itself to something even more astonishing: God's mercy.
 
 ## Binding Check
 
 What happens to justice when it's cut off from the other pillars?
 
-- **Justice without Truth** becomes a mob. Every lynch mob believed it was pursuing justice.
-- **Justice without Mercy** becomes vengeance. Debts are never forgiven, and retribution never ends.
-- **Justice without Sacrifice** becomes bureaucratic. Just laws mean nothing if no one will pay the cost to uphold them.
+- **Justice without Truth** becomes a mob. Every lynch mob believed it was pursuing justice; so does every online pile-on. Much of what now parades as "social justice" — the cancel campaign, the trial by viral clip, the verdict rendered before a single fact is checked — is the lynch mob dressed in better clothes.
+- **Justice without Mercy** becomes vengeance — and vengeance never ends. It is the family grudge passed down three generations, the siblings who have not spoken since the will was read, and, at its worst, whole nations locked in retaliation for centuries. The wound keeps bleeding through every generation that inherits it.
+- **Justice without Sacrifice** becomes a slogan. Just laws and right teachings mean nothing if no one will pay the cost to uphold them. It is the Catholic who can quote *Evangelium Vitae* cold on the dignity of every human life — and has never shown up at a pregnancy resource center, never written a letter, never cast a vote at cost to himself. Worse still is the one who affirms the teaching in public and, in the privacy of the voting booth, quietly supports its opposite.
 
 Every pillar needs the others. God's Perfect Love binds them all.
 
 ## When the Thread Is Cut
 
-We opened this chapter by naming idolatry and the exploitation of the vulnerable as the sins directly opposite to justice. What follows are three of the gravest consequences the Church has long recognized — not an exhaustive list, but the principal distortions — when the thread of justice is pulled out of love entirely:
+We opened this chapter by naming **two** opposing sins — **idolatry** (the withholding of worship from God) and **the exploitation of the vulnerable** (the withholding of dignity from neighbor). Justice is uniquely bi-directional: its failures look different depending on whether the object is God or neighbor. What follows are not exhaustive lists, but the principal distortions the Church has long recognized when the thread of justice is pulled out of love — first toward God, then toward neighbor.
 
 <div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
-<p><strong>Love without justice becomes utilitarian</strong> — persons shrink to their usefulness to us.<sup>2</sup></p>
-<p><strong>Love without justice abandons the vulnerable</strong> — without standards of what is owed, the poor, the unborn, and the abused have no advocate.<sup>3</sup></p>
-<p><strong>Love without justice becomes presumption</strong> — a god who tolerates evil, demands nothing of sinners, and transforms no one.<sup>4</sup></p>
+<p><strong>Sub-callout A — When justice toward God is severed:</strong></p>
+<p><strong>Idolatry</strong> — making gods of creatures (money, sex, nation, self, a false conception of god) in place of the living God (CCC 2113; Exodus 20:3–5).</p>
+<p><strong>Sacrilege and profanation of the sacred</strong> — worship on our terms rather than God's; dishonoring what is holy (CCC 2120; Aquinas, <em>Summa Theologica</em> II-II, q.99).</p>
+<p><strong>Functional atheism</strong> — a life that behaves as if God is owed nothing; practical denial of His Lordship (CCC 2128).</p>
+<p><strong>Syncretism</strong> — <em>"all religions lead to the same God"</em>; denying God His specificity and His self-revelation (CCC 2114; <em>Dominus Iesus</em> §§21–22).</p>
+<p><strong>Presumption</strong> — demanding God's mercy while refusing God's due of repentance, worship, and obedience (CCC 2091–2092; John Paul II, <em>Dives in Misericordia</em> §12).</p>
+</div>
+
+<div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
+<p><strong>Sub-callout B — When justice toward neighbor is severed:</strong></p>
+<p><strong>Abandonment of the vulnerable</strong> — the poor, the unborn, the abused, and the forgotten have no advocate (Isaiah 1:17; CCC 2446, quoting St. John Chrysostom; James 5:4).</p>
+<p><strong>Utilitarian reduction</strong> — persons shrink to their usefulness to us; ends become means (Benedict XVI, <em>Caritas in Veritate</em> §6; Vatican II, <em>Gaudium et Spes</em> §24).</p>
+<p><strong>Dehumanization</strong> — treating image-bearers as non-persons through exploitation, trafficking, racism, abortion, or disposable-labor culture (CCC 1700, 1934–1938; John Paul II, <em>Evangelium Vitae</em>).</p>
 </div>
 
 ## The Bridge to Mercy
@@ -276,6 +275,3 @@ The *Compendium of the Social Doctrine of the Church* (Pontifical Council for Ju
 ### Notes
 
 1. The triad "life, liberty, and the pursuit of happiness" comes from the American Declaration of Independence (1776), but the underlying principle is far older and belongs to no single nation. It draws on the classical natural-law tradition running through Aristotle, Cicero, Aquinas, and the Scholastics, for whom "happiness" (Greek *eudaimonia*, Latin *beatitudo*) meant not pleasure or emotional satisfaction but the flourishing proper to a rational creature ordered toward its ultimate end. For the Catholic tradition, that end is God Himself: "The Beatitudes respond to the natural desire for happiness. This desire is of divine origin: God has placed it in the human heart in order to draw man to the One who alone can fulfill it" (CCC 1718; cf. CCC 1703, 27). Whatever any individual political author may have personally meant by the word *happiness*, the concept itself — a rightful human pursuit owed the protection of justice — only makes full sense when grounded in the truth that we are made for God.
-2. Pope Benedict XVI, *Caritas in Veritate* (2009), §6.
-3. Amos 5:21-24; *Catechism of the Catholic Church*, §2448.
-4. *Catechism of the Catholic Church*, §2091; Pope John Paul II, *Dives in Misericordia* (1980), §12.

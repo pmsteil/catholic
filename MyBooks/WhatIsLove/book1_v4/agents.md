@@ -136,16 +136,18 @@ Immediately after the chapter's opening prose (the "hook"), insert a callout tha
 
 Rotate these across and within chapters to avoid repetition. Never use *cardinal sin*, *capital sin*, or *mortal sin* in this diagnostic sense — those carry Church-specific meanings that do not match what we are naming here.
 
+**Framing note for Ch. 7 (Justice):** Justice is the one pillar whose opposing sin divides by direction. Toward God, the opposing sin is **idolatry** (the withholding of owed worship). Toward neighbor, it is the **exploitation of the vulnerable** (the withholding of owed dignity). Both are named in the opening callout; both are unpacked in the chapter body. This is the deliberate exception to the "one opposing sin" rule in Part A. Sins that travel cleanly across both directions — lying, hardness of heart, sloth — do not require this split; idolatry and exploitation do.
+
 **Part B — The body of the chapter proves why this sin destroys love**, by exploring the pillar positively (what it is, how Scripture and the Church describe it, what it looks like in practice) and negatively (what love becomes when the thread is cut).
 
 **Part C — Close with the end-state diagnostic** under a dedicated `## When the Thread Is Cut` section, placed **after `## Binding Check`** and **before `## The Bridge to [Next Facet]`**. Inside this section:
   1. **Callback sentence.** Name the opposing sin again (calling back to Part A) and make clear that what follows is *illustrative, not exhaustive* — the principal distortions the Church has long recognized, not a complete catalogue. Use something like (but not formulaicly so...):
      > *"We opened this chapter by naming [opposing sin] as the sin directly opposite to [pillar]. What follows are three of the gravest consequences the Church has long recognized — not an exhaustive list, but the principal distortions — when the thread of [pillar] is pulled out of love entirely:"*
   2. **End-state callout.** Three bullets naming the gravest end-states. Current working map:
-     - Truth removed → manipulation / relativism / idolatry
-     - Justice removed → favoritism / abandonment of the vulnerable / presumption
+     - Truth removed → manipulation / relativism / idolatry (idolatry's full unpacking belongs to Ch. 7 under justice; Ch. 6 names it as downstream fruit)
+     - Justice removed → **two sub-callouts** (Ch. 7 exception): Sub-callout A (God-ward) — idolatry / sacrilege / functional atheism / syncretism / presumption; Sub-callout B (neighbor-ward) — abandonment of the vulnerable / utilitarian reduction / dehumanization
      - Mercy removed → cruelty / vengeance / despair
-     - Sacrifice removed → transaction / lukewarmness / betrayal
+     - Sacrifice removed → transaction / barrenness / betrayal
 
   These are the working end-state nominations per pillar; each chapter can refine them where it produces sharper Church-recognized language. The callback sentence's *"not an exhaustive list"* framing is load-bearing — it signals the reader that these are the principal, Church-recognized distortions, not the only ones.
 
@@ -239,7 +241,7 @@ Chapters are not rigidly templated. They follow a **loose convention** that has 
 - **`## What Children Know About [Facet]`** — a recurring motif in Chs. 3, 4, 5, 6. Uses the child's moral intuition to reveal the pillar phenomenologically. Should continue in Chs. 7, 8, 9, 10 where it fits naturally.
 - **`## Binding Check`** — a late-chapter diagnostic section. **Required in the pillar chapters (6–9)** to verify the facet is being held in proper binding with the others. Optional elsewhere.
 - **`## When the Thread Is Cut`** — **required in Chs. 6–9.** The end-state diagnostic section. Sits after `## Binding Check` and before `## The Bridge to [Next]`. See Section 7, Part C for full pattern.
-- **Callouts** — teal `<div class="callout">` blocks for emphasis. Used for key theses, summaries, or warnings. Use sparingly. **Chs. 6–9 always have two:** the opposing-sin callout at the top (inside the opening section) and the end-state callout inside `## When the Thread Is Cut`.
+- **Callouts** — teal `<div class="callout">` blocks for emphasis. Used for key theses, summaries, or warnings. Use sparingly. **Chs. 6–9 always have at least two:** the opposing-sin callout at the top (inside the opening section) and the end-state callout inside `## When the Thread Is Cut`. Additional callouts are permitted where they carry a major theological claim (e.g., Ch. 9's two mid-chapter callouts on the mysteries of the Cross; Ch. 7's *two* end-state sub-callouts replacing the usual single one, per the bi-directional exception).
 - **Sub-themed `### ` sections under Further Study** — Ch. 4 groups further-reading items under thematic sub-headings (*"The New Covenant: Law Written on Hearts,"* etc.) before the Scripture/CCC/Thinkers blocks. Use when the material warrants it.
 - **`### Notes` at the very end of Further Study** — footnotes (see Section 10 below).
 
