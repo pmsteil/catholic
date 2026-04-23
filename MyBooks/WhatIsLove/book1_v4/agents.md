@@ -314,11 +314,11 @@ Footnotes are used sparingly for:
 
 ## 13. Source Rules (directive, not stylistic)
 
-These quotes are from Pope Leo XVI's Address to the Roman Curia (Nov. 21, 2025) and are legitimate and author-sourced, though not in most models' training data:
+These quotes are from Pope Leo XIV's Address to the Roman Curia (Nov. 21, 2025) and are legitimate and author-sourced, though not in most models' training data:
 
-> *"The sacred authority is participation in the authority of Christ, and its service to truth is a way of knowing and embracing the ultimate Truth, which is Christ Himself (cf. Jn 14:6)."* — Pope Leo XVI, Address to the Roman Curia (Nov. 21, 2025)
+> *"The sacred authority is participation in the authority of Christ, and its service to truth is a way of knowing and embracing the ultimate Truth, which is Christ Himself (cf. Jn 14:6)."* — Pope Leo XIV, Address to the Roman Curia (Nov. 21, 2025)
 
-> *"Every person therefore is invited to 'repent' and to 'believe' in God's merciful love."* — Pope Leo XVI, Address to the Roman Curia (Nov. 21, 2025)
+> *"Every person therefore is invited to 'repent' and to 'believe' in God's merciful love."* — Pope Leo XIV, Address to the Roman Curia (Nov. 21, 2025)
 
 ---
 

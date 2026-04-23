@@ -164,7 +164,7 @@ This is the scandal of the Gospel: God's mercy is greater than any sin. "Where s
 <div class="blockquote">
 "Every person therefore is invited to 'repent' and to 'believe' in God's merciful love."
 
-\hfill\small — Pope Leo XVI, Address to the Roman Curia (Nov. 21, 2025)
+\hfill\small — Pope Leo XIV, Address to the Roman Curia (Nov. 21, 2025)
 </div>
 
 This is why the Sacrament of Reconciliation is so powerful for those who have committed grave evil. It's not just human forgiveness—it's God's own mercy, made present through Christ's Church that He gave authority to forgive sins (see John 20:21-23; Acts 2:38), offering what no human could offer: complete forgiveness, total restoration, supernatural healing. The priest speaks Christ's own words: "I absolve you from your sins." And the person who thought themselves beyond redemption discovers that God's mercy is greater than their sin.
