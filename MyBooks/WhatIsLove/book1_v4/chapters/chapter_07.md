@@ -28,7 +28,7 @@
 
 ## The Universal Cry
 
-Chapter 6 showed us that truth is the foundation of love—without truth, we can't know reality, and without knowing reality, we can't love what's real. But truth reveals something specific that love must honor: what each person is *owed* by virtue of their dignity. This is justice.
+Chapter 6 showed us that truth is the ground of love—without truth, we can't know reality, and without knowing reality, we can't love what's real. But truth reveals something specific that love must honor: what each person is *owed* by virtue of their dignity. This is justice.
 
 "That's not fair!"
 
@@ -42,7 +42,17 @@ But here's a critical question: **How can we recognize injustice unless there's 
 
 When you say "That's not fair!" you're appealing to a higher standard—saying this situation falls short of how things *should* be. But where does that "should" come from? If justice is just whatever humans make up, your claim is meaningless—no more authoritative than someone else's opposite opinion.
 
-Consider what happens when people detach justice from God: They call abortion "reproductive justice," assisted suicide "death with dignity," and redefining marriage to deny children a mother or father "marriage equality." Without an objective standard, there is only power: whoever is strongest imposes their preferences on everyone else.
+Consider what happens when people detach justice from God: They call abortion "reproductive justice," assisted suicide "death with dignity," and redefining marriage to deny children a mother or father "marriage equality." Without an objective standard, substitutes rush in — sentiment, majority opinion, utility, personal authenticity — each feeling like a standard until two of them collide. Then there is no arbiter left except power. This is precisely the *dictatorship of relativism* we named in Chapter 5: whoever is strongest (the state, the courts, the mob, the market) imposes their preferences on everyone else, and calls it justice.
+
+And once power has taken justice's seat, it cannot leave God's actual justice standing — because the contrast would expose the counterfeit. So the counterfeit must invert the standard itself. God's justice gets renamed *bigotry*, *hatred*, *oppression*; the very evils God names get rebranded as *rights*, *progress*, *liberation*. The prophet saw this coming twenty-seven centuries ago:
+
+<div class="blockquote">
+"Woe to those who call evil good and good evil, who put darkness for light and light for darkness, who put bitter for sweet and sweet for bitter! Woe to those who are wise in their own eyes, and shrewd in their own sight!"
+
+\hfill\small — Isaiah 5:20-21
+</div>
+
+This is not a slogan; it is a diagnosis. Isaiah is describing the precise mechanism of a culture that has detached justice from God: not the open denial of justice (which would be too obvious), but the deliberate *inversion* of it. The unborn child becomes a "clump of cells" while the act that ends her life becomes "healthcare." The faithful spouse becomes a "repressive bigot" while serial infidelity becomes "authentic self-expression." The parent who insists on truth becomes "abusive" while the institution that hides reality from the child becomes "affirming." Every inversion follows the same pattern: God's justice is renamed evil so that evil can be renamed justice. St. Paul names the same dynamic in Romans 1:32 — a culture that not only commits evil but "approves those who practice them," because to admit they were evil would be to admit God was right.
 
 **But we all know—deep down—that some things are objectively unjust.** Child abuse is wrong even if a society approves it. Slavery is wrong even if it's legal. Genocide is wrong even if the majority supports it. These aren't opinions. They're facts about reality.
 

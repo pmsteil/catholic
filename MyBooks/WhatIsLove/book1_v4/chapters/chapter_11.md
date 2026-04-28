@@ -44,6 +44,24 @@ Without God, morality gets reduced to some non-moral explanation: brain chemistr
 
 Without God, every attempt to ground objective morality fails. As we explored in Chapter 3, this is why the Enlightenment's attempt to build morality on human reason *divorced from God* collapsed—each philosopher rejecting divine authority and replacing it with human preference. The problem wasn't reason itself (natural law is reason-based), but reason cut off from its transcendent source.
 
+This is the full philosophical weight of what we called the *dictatorship of relativism* in Chapter 5 and traced through each pillar in Chapters 6–9. On the eve of his election, Cardinal Ratzinger named the endpoint with precision:
+
+<div class="blockquote">
+"We are moving toward a dictatorship of relativism which does not recognize anything as definitive and whose ultimate goal consists solely of one's own ego and desires."
+
+\hfill\small — Cardinal Joseph Ratzinger, Homily, *Pro Eligendo Romano Pontifice* (April 18, 2005)
+</div>
+
+Benedict's point is not a mood but a logical claim: once objective moral truth is denied, no principled line can be drawn against tyranny. Sentiment, consensus, and utility can all *feel* like standards, but when they conflict — and they always do — nothing arbitrates except force. Relativism is not the absence of a ruler; it is the ruler's disguise. St. John Paul II traced the same line, and named its cost, a decade earlier:
+
+<div class="blockquote">
+"When the sense of God is lost, the sense of man is also threatened… any reference to common values and to a truth absolutely binding on everyone is lost, and social life ventures onto the shifting sands of complete relativism. Everything is negotiable, everything is open to bargaining: even the first of the fundamental rights, the right to life."
+
+\hfill\small — St. John Paul II, *Evangelium Vitae* §20 (1995)
+</div>
+
+Notice what both Popes are arguing. They are not saying relativists are wicked; most are not. They are saying relativism is *unstable* — it cannot bear the weight of the moral claims its own adherents continue to make. The relativist who insists "nothing is objectively wrong" still protests injustice, still mourns betrayal, still weeps at cruelty toward children. Those reactions are not preferences dressed up; they are the voice of the moral law the relativist's theory denies but their heart cannot silence. Premise 2 is simply the refusal to pretend that voice is not real.
+
 ### Premise 2: Objective Moral Values and Duties Do Exist
 
 Our definition of love provides powerful evidence. Love requires:

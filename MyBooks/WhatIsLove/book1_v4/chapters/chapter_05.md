@@ -26,6 +26,22 @@ These are fragmented virtues. Isolated from each other, truth becomes cruelty, j
 This is why our definition of perfect love includes the word "binds"—love holds truth, justice, mercy, and sacrifice together in life-giving communion. Without authentic love to integrate them, these virtues fragment and become distorted. With authentic love, they work together as one harmonious whole. Holy, you could say.
 </div>
 
+## When a Civilization Breaks the Binding: The Dictatorship of Relativism
+
+What happens inside a single heart when the threads come apart also happens inside a civilization. When a society no longer agrees that truth, justice, mercy, and sacrifice are objectively real — when each is reduced to "my truth," "my idea of fairness," "my feelings," "my preferences" — the threads have nothing to hold them together. Substitutes rush in to fill the vacuum: sentiment, majority opinion, utility, personal authenticity. Each *feels* like a standard, until two of them collide. Then there is no arbiter left except power — whoever is strongest (the state, the mob, the market, the algorithm) imposes their preferences on everyone else.
+
+On the eve of his election, Cardinal Joseph Ratzinger — soon to be Pope Benedict XVI — gave this disintegration its exact name:
+
+<div class="blockquote">
+"We are moving toward a dictatorship of relativism which does not recognize anything as definitive and whose ultimate goal consists solely of one's own ego and desires."
+
+\hfill\small — Cardinal Joseph Ratzinger, Homily, *Pro Eligendo Romano Pontifice* (April 18, 2005)
+</div>
+
+He did not call relativism a *dictatorship* because relativists are tyrants by temperament. He called it that because relativism has no principled stopping point against tyranny. Scripture diagnosed the same disease long before Benedict gave it a modern name. The book of Judges closes with the refrain: *"In those days there was no king in Israel; every man did what was right in his own eyes"* (Judges 21:25) — a line repeated four times (Judges 17:6; 18:1; 19:1; 21:25) as the structural indictment of a people without a binding authority to tell them what God's love actually required. Why this mattered — and why Christ's answer in the New Covenant is the establishment of His own authoritative Church — belongs fully to Chapter 6. Here it is enough to name the pattern: when no authority binds a people to God's love, every person becomes his own authority, and the dictatorship of relativism is already at the door. St. John Paul II made the same diagnosis in *Evangelium Vitae*: *"When the sense of God is lost, the sense of man is also threatened… any reference to common values and to a truth absolutely binding on everyone is lost, and social life ventures onto the shifting sands of complete relativism. Everything is negotiable… Even the first of the fundamental rights, the right to life"* (§20).
+
+This is the civilizational version of the fragmentation we just named. When the binding breaks in a heart, that person's love deforms. When the binding breaks in a culture, the culture's loves deform — and the weakest pay first: the unborn, the elderly, the poor, the child caught between two houses, the conscience shouted down in the public square. Every chapter that follows — truth, justice, mercy, sacrifice — is, among other things, a refusal of the dictatorship of relativism, one thread at a time.
+
 ## What Children Know About Binding
 
 Chapter 4 showed us that covenant love—grounded in God's faithfulness and imaged in marriage—is what holds families together. It revealed that love requires binding: truth, justice, mercy, and sacrifice integrated into one life-giving whole. But what happens when that binding breaks? What happens when the covenant that should hold a family together shatters?

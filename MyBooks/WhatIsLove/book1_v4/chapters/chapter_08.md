@@ -74,7 +74,7 @@ This is why mercy is essential to covenant love—the "gift of covenant" in our 
 
 This is a crucial distinction: when Christ forgives, He *bears* our sin onto Himself—He is our substitute, taking what we deserved (Isaiah 53:4-5; 1 Peter 2:24). But when *we* extend mercy to someone who has sinned against us, we are not substitutes. We don't carry their sin. What happens is different: God's mercy, flowing *through* us, absorbs the sin and its pain—making reconciliation possible where our own strength never could. We are conduits, not substitutes. This is why forgiveness beyond a certain depth is genuinely supernatural. You cannot manufacture it. You can only receive it from God and let it pass through you.
 
-Modern "mercy" often means ignoring sin, avoiding consequences, or enabling destructive behavior. Biblical mercy means acknowledging the wrong (truth), recognizing what's owed (justice), and then choosing to offer more than what's owed (mercy)—not by ignoring the debt but by releasing it through God's mercy rather than demanding it be paid.
+Modern "mercy" often means ignoring sin, avoiding consequences, or enabling destructive behavior. This is the *dictatorship of relativism* (Chapter 5) wearing mercy's face: if nothing is objectively wrong, then every desire is sacred, every correction is cruelty, and "mercy" collapses into sentimental permission. Biblical mercy means acknowledging the wrong (truth), recognizing what's owed (justice), and then choosing to offer more than what's owed (mercy)—not by ignoring the debt but by releasing it through God's mercy rather than demanding it be paid.
 
 ## Mercy vs. Mercilessness: The Culture of Condemnation
 
