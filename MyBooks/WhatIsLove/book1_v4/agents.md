@@ -75,6 +75,80 @@ The core threads — **Truth, Justice, Mercy, Sacrifice** — are the *interior 
 
 ---
 
+## 4a. The Free Will Principle (foundational to every chapter)
+
+God's love is perfect, but it is never coerced — into us or out of us. This is not a limitation on God's power; it is the *shape* of love itself. A love forced into a closed hand is not a gift; a "yes" extracted from an unwilling will is not love returned. So when God created us in His image, He did so by a free act, and He created us *with* free will — the very faculty by which alone love can be given and received.
+
+This is why every chapter of this book holds two truths together that the modern reader often pulls apart:
+
+- **Free will is a gift of God, not a possession independent of God.** Our capacity to choose is itself His grace. *"For it is God who is at work in you, both to will and to work for his good pleasure"* (Philippians 2:13). We do not generate our own freedom; He sustains it in us moment by moment.
+- **The same freedom that empowers love empowers refusal.** God did not make us puppets that automatically return His love; He made us persons who *can*. The cost of that gift is real — it is what makes evil possible — and it is also what makes love possible. There is no third option.
+
+**The whole Christian life is the moment-by-moment, voluntary, willing return of that gift to its Giver** — not as a wage we earn, but as the door we consent to open. Each free yes to truth, to justice, to mercy, to sacrifice is *His* love borrowed for a moment and set down in a hand that finally consented to be open. *"Beloved, if God so loved us, we also ought to love one another. No man has ever seen God; if we love one another, God abides in us and his love is perfected in us"* (1 John 4:11–12). His love is *perfected in us* precisely through our free return of it.
+
+### Editing implications
+- Never write as if grace acts on a passive recipient. Always preserve the active "yes."
+- Never write as if our cooperation adds anything to God; always preserve that the initiative and the empowerment are entirely His.
+- When describing sin, name it as a *free choice of something less than God* — never as accident, weakness, or fate.
+- When describing virtue or sacrifice, name it as a *free return* — never as performance, debt-payment, or earning.
+- The phrasing **"freely, willingly, voluntarily"** (or any pairing of those) is the book's signal that this principle is in view; use it where the moment-by-moment character of discipleship is being named.
+
+### Necessary, not causal *(added during Ch. 9 editing)*
+
+Our free yes is *necessary*, but it is not the *cause* of our salvation. God is the sole **efficient cause** — He creates us, sustains us, redeems us. Our consent is the *condition without which* (Latin: *causa sine qua non*) the gift cannot land. **The yes is the door, not the engine.** This is the precise distinction the Council of Trent drew (Session VI, *Decree on Justification*) against both Pelagianism (*we cooperate ourselves into salvation*) and the radical Reformation (*we contribute nothing at all*). St. Augustine's formula captures it in one line: *"He who created you without you will not save you without you."*
+
+When a chapter touches on faith, grace, salvation, or merit, never write in a way that lets the reader collapse one side of this distinction into the other. CCC 1993, 1996–2005, 2002, and 2008 are the canonical references; Galatians 5:6 (*"faith working through love"*) is the Pauline anchor; James 2:14–26 and 1 Corinthians 13:1–3 say the same thing in different keys.
+
+### The three-voice pattern of free consent *(added during Ch. 9 editing)*
+
+Whenever a chapter names the free yes of love, three Scriptural moments are available as the canonical pattern, and the book should treat them as such:
+
+- **Mary's *Fiat* at the Annunciation** — *"Let it be to me according to your word"* (Luke 1:38). Even the Incarnation waited on a free human consent.
+- **Christ in Gethsemane** — *"Not my will, but thine, be done"* (Luke 22:42). The Son's human will, in perfect freedom, returns itself entirely to the Father.
+- **The *Our Father*** — *"Thy will be done"* (Matthew 6:10). The same prayer placed on the lips of every Christian, every day.
+
+The same prayer in three voices: a creaturely will, in perfect freedom, returning itself to the One who gave it. The Church builds this same free-consent into every sacrament — explicitly in Marriage (CCC 1625), Holy Orders (CCC 1578), and the adult sacraments of initiation; by ratification at the age of reason for those baptized as infants. This sacramental architecture is not incidental; it is the Free Will Principle institutionalized in the stones of Catholic worship. Reach for the three-voice pattern wherever a chapter calls the reader to a free yes.
+
+---
+
+## 4b. Honoring the Old Covenant *(added during Ch. 9 editing)*
+
+The book's argument depends on Christ *fulfilling* the Old Covenant — the seven sacrifices, the Law, the Prophets, the Temple. But **fulfillment is not replacement, and the worship of Israel was not an empty rehearsal.** The Israelite who laid his hand on the head of the lamb and confessed his sin was truly meeting the living God; the love and obedience offered in those rites was real love and real obedience, received by the One to whom it was given. *"The gifts and the call of God are irrevocable"* (Romans 11:29; cf. Vatican II, *Nostra Aetate* §4; CCC 121, 839).
+
+### Editing implications
+- **Avoid language that frames Old Covenant worship as merely deficient.** Phrases like *"could only,"* *"in pieces,"* *"gesture toward,"* and *"shadows that…"* are weak defaults; they reduce the worship of Israel to a placeholder. Prefer language that honors what was real and shows how Christ *gathers, completes, and perfects* what was already true.
+- **Preferred verbs:** *fulfills, completes, perfects, gathers, brings to fullness, reveals the One the [altar/lamb/temple] was always for, speaks in full what the [offering/prophet/Law] spoke truly of.*
+- **Pastoral test:** would a devout Jewish reader recognize that this book honors the faith of his fathers — even as it claims that the Messiah they were waiting for has come? If the answer is no, soften the framing. The Cross does not say the Temple was wrong; the Cross says the Temple was right, and reveals the One the Temple was always for.
+- **Hebrews-language caution.** Hebrews 10:4 (*"the blood of bulls and goats"* could not take away sins) and similar passages are Scripture and may be quoted directly. Avoid paraphrasing them in our own voice as a verdict on Israel's worship; let the Apostolic text say it as Apostolic text.
+
+This same principle of *fulfillment, not replacement* applies wherever the book touches the Law, the Prophets, the patriarchs, or Jewish liturgical life.
+
+---
+
+## 4c. The Shema as Scripture's Hermeneutical Key *(added during Ch. 9 editing)*
+
+Christ Himself names the Shema (Deut 6:4–5), joined to love of neighbor (Lev 19:18), as the interpretive key for *all* of Scripture: *"On these two commandments depend all the law and the prophets"* (Matt 22:40). Whenever this book touches the Law, obedience, the relation between faith and works, or what Christ asks of a disciple, the Shema is in the room — and must be unfolded, not merely name-checked.
+
+### The three Shema passages every chapter should know
+
+- **Deuteronomy 6:4–5** — *"Hear, O Israel: the Lord our God is one Lord; and you shall love the Lord your God with all your heart, and with all your soul, and with all your might."* The source text. Israel's daily prayer. The bedrock both Covenants are built on. The Hebrew verb *shama* ("hear / listen") is also the etymological root of biblical *obedience* — to obey is to listen toward someone (cf. Latin *oboedire* = *ob-audire*, "to listen toward"; Greek *hypakouō* = "to hear under"). Obedience to God is therefore irreducibly relational at its root — one cannot *listen* to a rulebook the way one listens to a person.
+- **Mark 12:29–31 / Matthew 22:34–40** — Christ's answer to *"which commandment is the greatest?"* He recites the Shema, joins love of neighbor to it, and names the *interpretive principle:* *"On these two commandments depend all the law and the prophets"* (Matt 22:40). Every commandment, every prophet, every parable, every Apostolic word hangs from these two hooks.
+- **Luke 10:25–28** — A lawyer asks Jesus directly, *"Teacher, what shall I do to inherit eternal life?"* He recites the Shema joined to love of neighbor. Christ replies: *"You have answered right; **do this, and you will live**"* (Luke 10:28). **This is the most explicit New Testament tie between the Shema and salvation, and it is non-negotiable wherever the book discusses faith, salvation, eternal life, or the relation between faith and works.** Christ Himself, in His own words, made *doing* the Shema the condition for inheriting eternal life.
+
+### Editing implications
+
+- **Always cite Luke 10:25–28 alongside Mark 12 / Matt 22** when the Shema is discussed in any context touching salvation, eternal life, or faith-and-works. Mark 12 gives the *hermeneutical principle*; Luke 10 gives the *soteriological condition*. Both are needed for the complete biblical case.
+- **Pair with Matthew 5:17** (*"I have come not to abolish but to fulfill"*) when showing that the Law is the Shema embodied — the law was love's first sketch, awaiting the One who would complete it by living it. (This echoes §4b: fulfillment, not replacement.)
+- **The Pauline witness is the same in another key.** Galatians 5:6 (*"faith working through love"*), James 2:14–26, and 1 Corinthians 13:1–3 are the apostolic re-statements of *"do this, and you will live."* Use them together when the case is being made; they are mutually reinforcing, not in tension.
+- **Never treat the Shema as ornamental.** Unfold it. Quote it. Show how Christ Himself reads all of Scripture through it.
+- **Never pit the Shema against grace.** Christ's *"do this, and you will live"* is spoken inside the New Covenant of grace, not against it. Grace is what makes obedience to the Shema possible — see §4a, especially *"Necessary, not causal."*
+
+### Pastoral test
+
+Would a devout Jewish reader recognize that this book honors the Shema as the heart of his fathers' faith? And would a Protestant reader, reading the relevant passages, see that Christ Himself made *doing* the Shema a condition of salvation, in His own words — not as a Catholic interpolation? If either answer is no, the framing needs work.
+
+---
+
 ## 5. Word-by-Word Chapter Mapping
 
 | Word / Phrase | Chapter | What it means |

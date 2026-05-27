@@ -305,6 +305,20 @@ The matrix above shows which pillars each deadly sin offends. Here's what each l
 - **Envy** → Jealousy, hatred, slander, detraction, joy at another's misfortune, division
 - **Gluttony** → Addiction, drunkenness, neglect of others, health problems, spiritual dullness
 
+### **What Heals Each Deadly Sin:**
+
+If each deadly sin unravels love by pulling threads out of it, then each is healed when love is rebound — when truth, justice, mercy, and sacrifice are restored together. The Church has long named the virtues that stand opposite each capital vice, and each of those virtues is simply the four pillars of love at work on that particular wound:
+
+- **Pride** — healed by **humility**: truth sees the self as creature and God as the source of every gift; justice renders God the glory pride tries to steal; mercy softens the hardened heart toward others; sacrifice lifts them rather than self.
+- **Greed** — healed by **generosity**: truth sees possessions as gifts held in stewardship; justice gives each person what they are owed; mercy answers the need of the poor; sacrifice releases what was never truly ours to keep.
+- **Lust** — healed by **chastity**: truth honors the body as temple and the other as a whole person; justice refuses to use anyone as a means; mercy protects the vulnerable; sacrifice orders desire toward the beloved's good rather than one's own appetite.
+- **Wrath** — healed by **patience**: truth sees even the offender as an image-bearer; justice entrusts vengeance to God (*"Vengeance is mine, I will repay, says the Lord,"* Romans 12:19); mercy bears the cost of forgiveness; sacrifice pays what wrath would have extracted.
+- **Sloth** — healed by **diligence**: truth sees what love actually requires; justice renders each person their due of time and attention; mercy rises for the brother still hungry; sacrifice pays the daily cost of presence and service.
+- **Envy** — healed by **kindness**: truth sees another's good as a gift of God, not a theft from me; justice honors what rightly belongs to them; mercy *"rejoices with those who rejoice"* (Romans 12:15); sacrifice spends itself for their flourishing rather than their diminishment.
+- **Gluttony** — healed by **temperance**: truth sees food and drink as gifts and not gods; justice orders appetite so others may eat; mercy is moved by those who hunger; sacrifice restrains desire so there is more to give.
+
+In each case the healing follows the pattern established in Chapter 5: no single pillar heals the soul alone. Love is one thing — four threads bound together — and only the whole binding, restored, lifts the soul out of the vice that unraveled it. This is why Christ's Cross is not one remedy among many but *the* remedy: in His one sacrifice, truth, justice, mercy, and sacrifice act together in one act of perfect love, and every deadly sin meets its complete undoing there.
+
 ### **The Progressive Nature of Deadly Sin:**
 
 The deadly sins typically follow this pattern:

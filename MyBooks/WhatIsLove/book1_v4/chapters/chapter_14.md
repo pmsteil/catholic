@@ -196,6 +196,37 @@ Various atheistic philosophies propose alternative "highest goods," but each col
 
 **How Good Overcomes Evil:** God's Perfect Love calls us to live in objective truth that liberates us from the slavery of sin. "If you continue in my word, you are truly my disciples, and you will know the truth, and the truth will make you free" (John 8:32). Only truth grounded in reality—His Word, which encompasses all of creation, all of His revelation, and the truth of who He is written on our hearts—enables authentic justice, mercy, and communion.
 
+### Self-Actualization: "Be All You Can Be"
+
+NOTE: make sure we emphasize that perfect love calls us to take care of ourself, but FOR the good of others...
+
+**The Appeal:** Self-actualization promises that the highest goal of life is to become the fullest, most authentic version of yourself — to discover your potential, follow your dreams, love yourself first, and live your best life. *"Be all you can be."* *"You can be anything you put your mind to."* *"Put on your own oxygen mask first."* *"Self-care is self-love."* It echoes a real and good intuition: that you are a soul of intrinsic worth, entrusted to your own stewardship, and meant to flourish.
+
+**Diagnostic Analysis:**
+
+| Component | Self-Actualization | God's Perfect Love |
+|-----------|-------------------|-------------------|
+| Sacred | ✗ | ✓ |
+| Covenant | ✗ | ✓ |
+| Truth | Partial¹ | ✓ |
+| Justice | ✗ | ✓ |
+| Mercy | Partial² | ✓ |
+| Sacrifice | ✗ | ✓ |
+| Life-giving Communion | ✗ | ✓ |
+
+¹Recognizes that the self has worth and must be cared for, but lies about *what the self is for*.
+²Turns mercy inward as "self-compassion" while cutting it off the moment it costs us outwardly.
+
+**What's Missing:** Self-actualization keeps the *nugget* of self-love and discards everything that orders it. Genuine love of self is **instrumental** — the soul is cared for as a charge entrusted by God so that it can be poured out in love of God and neighbor. Counterfeit self-love is **terminal** — the self becomes the destination of love rather than its steward. Every outward thread of Perfect Love is then quietly severed: sacrifice ("Why should I pay a cost for someone else's good?"), justice ("I don't owe anyone anything"), the sacred image-of-God anthropology (replaced by the "authentic self" you supposedly create), and finally communion itself — a self that terminates in itself cannot enter communion with anyone.
+
+**Why It Fails:** This counterfeit shows up everywhere precisely because it sounds like wisdom. Recruiters say *"Be all you can be."* Parents say *"You can be anything you put your mind to."* Therapists, influencers, and self-help books all teach the same liturgy: discover yourself, prioritize yourself, fulfill yourself. But the human person was never built to terminate in himself. Three failures follow inevitably:
+
+- **It lies to children about reality.** *"You can be anything you put your mind to"* is not encouragement; it is a metaphysical falsehood. We are not pure will. We are embodied creatures with given gifts, limits, vocations, and a Creator who has already willed us *for* something specific. When a child raised on this slogan collides with reality — a talent they don't have, a body they cannot redesign, a vocation they did not choose — the result is not resilience but despair, because the slogan offered the wrong measure of worth. Worth was never about *becoming anything*; it was always about *being the image of God you already are*.
+- **It dissolves covenant.** A self that exists to fulfill itself cannot bind itself to anything that would cost it future fulfillment. Marriage, parenthood, vocation, parish, friendship — every covenant becomes provisional, kept only while it serves the self's "growth." *"I have to be true to myself"* becomes the universal solvent of every promise.
+- **It produces the loneliest culture in human history.** A society of self-actualizers has no one left to actualize *for*. Anxiety, depression, and loneliness rise in lockstep with self-focus, because we were made for self-gift, not self-construction. The cup that pours itself for itself never fills.
+
+**How Good Overcomes Evil:** God's Perfect Love recovers self-love as the *measure* of neighbor-love, not its replacement. *"You shall love your neighbor as yourself"* (Mark 12:31) presumes you already love yourself rightly — with the same attentive, ordered care a good parent gives a child entrusted to them. *"Life and physical health are precious gifts entrusted to us by God. We must take reasonable care of them..."* (CCC 2288). The body is a temple of the Holy Spirit (1 Cor 6:19); the soul bears His image. Both have been *placed* in your care — and the whole point of that care is that you might have a self capable of pouring itself out for God and neighbor in love. Christ did not say *"be all you can be"*; He said *"whoever loses his life for my sake will find it"* (Matthew 16:25). The self is found by being given, not by being built. *"It is no longer I who live, but Christ who lives in me"* (Galatians 2:20). That is what authentic flourishing actually looks like — not a curated self displayed, but a soul transparent to Christ, poured through into a world that desperately needs Him.
+
 ---
 
 ## Section 2: Relationship Counterfeits

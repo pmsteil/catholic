@@ -62,6 +62,19 @@ They learn that love is transactional—conditional on obedience, revocable at w
 
 The wound creates harm. The fragmentation that follows corrupts. This is what happens when love's binding force is broken—not just pain, but the distortion of the very virtues that humanize us.
 
+## What Aquinas Already Saw
+
+The classical definition of love is St. Thomas Aquinas's, drawn from St. Augustine: *amor est velle alicui bonum* — **"to love is to will the good of another"** (*Summa Theologica* I-II, q.26, a.4). It is a definition the whole Christian tradition has held for nearly eight hundred years, and it is exactly right. But it is dense. Unpack it, and the four threads of this book are already inside it.
+
+Aquinas's formula has two halves. **"The good"** — *bonum* — names *what* love wills. **"For another"** — *alicui* — names *that* it is willed for them, not for me. Pull those halves apart and the four pillars stand exposed:
+
+- **The good willed** is **truth, justice, and mercy.** Not whatever I happen to *feel* is good for you. Not what is comfortable for me to *call* your good. Your real good — what is *truly* (truth) *owed to your dignity as a person* (justice) and *what would restore you where you have fallen* (mercy). Strip any one of these and "your good" collapses back into my preference for you, which is no longer your good at all.
+- **The willing-it-for-you, at cost to me,** is **sacrifice.** Wanting your good in the abstract is not yet love; wanting it enough to *pay* for it is. Sacrifice is what proves the *for you* is real and not disguised self-interest. A love that costs nothing has not yet shown that it is for the other at all.
+
+This is why the four threads are co-constitutive rather than ranked. They are not four additions to Aquinas's definition — they are its interior anatomy. Truth, justice, and mercy specify the *good*; sacrifice specifies the *for another*. Take any one of them out and you have not pared love down to essentials; you have stopped describing love.
+
+Calvary is Aquinas's definition at full volume. *The good willed*: our salvation — the truth about our condition spoken without flinching, the justice of God satisfied, mercy poured out without limit. *Willed for us*: *"for us men and for our salvation"* — at the cost of everything. Truth, justice, mercy, and sacrifice, bound in one act. **That is what binding looks like.**
+
 ## How Love Binds Truth, Justice, Mercy, and Sacrifice
 
 Consider how different each virtue becomes when love binds it to the others. Truth without love becomes harsh and condemning—"You're a sinner and you're going to hell"—technically accurate, perhaps, but destroying rather than healing. Yet when love binds truth, it becomes medicine: "You're caught in sin, and it's destroying you. Let me help you find freedom." Justice without love becomes cold retribution—"You broke the law, so you must be punished"—with no path to restoration. But love transforms justice into something restorative: "There are consequences, but they're meant to heal you, not just punish you." Mercy without love becomes enabling weakness—"I'll forgive you no matter what you do"—allowing evil to continue and victims to suffer. Yet love ensures mercy serves transformation: "I forgive you, but you must stop. I'll help you change, but I won't enable your sin."
