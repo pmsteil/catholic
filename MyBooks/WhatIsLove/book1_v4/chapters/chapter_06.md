@@ -236,6 +236,8 @@ The logic follows: if we accept that Jesus established His authority through the
 
 Paul calls the Church "a pillar and bulwark of the truth" (1 Timothy 3:15)—not because she *creates* truth, but because she *receives* it from its Author and transmits it whole to every generation — guided by the Holy Spirit whom Christ promised would *"guide you into all the truth"* (John 16:13), and sustained by His own pledge: *"I am with you always, to the close of the age"* (Matt 28:20).
 
+This is why, every Sunday at Mass, the Church recites the Creed together — not as a private opinion or denominational distinctive, but as the deposit of truth Christ entrusted to His apostles and which the Church He founded then defined and handed on through the bishops in apostolic succession (most famously at Nicaea in A.D. 325 and Constantinople in A.D. 381). To stand and confess the Creed is to confess two truths at once: *what* we believe, and that Christ founded the Church to whom He gave the authority to declare it.
+
 <div class="blockquote">
 "The Church was sent by Christ to reveal and communicate the love of God to all people and nations."
 

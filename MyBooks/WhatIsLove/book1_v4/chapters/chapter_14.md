@@ -20,7 +20,7 @@ In the previous chapter, we saw that sin is fundamentally a failure to love—a 
 
 Modern culture floods us with competing definitions of love. "Love is love." "Love wins." "Love means acceptance." How do you distinguish authentic from counterfeit?
 
-We now have a diagnostic tool. Just as a jeweler tests gold against a standard, we can test any claim about love against our definition: **God's Perfect Love is the sacred gift of covenant binding truth, justice, mercy and sacrifice into life-giving communion.** If any component is missing or distorted, it's counterfeit—and counterfeits always cause harm.
+We now have a diagnostic tool. Just as a jeweler tests gold against a standard, we can test any claim about love against our definition: **God's Perfect Love is the sacred gift of covenant which binds truth, justice, mercy and sacrifice into life-giving communion.** If any component is missing or distorted, it's counterfeit—and counterfeits always cause harm.
 
 This chapter applies this diagnostic tool to twelve modern counterfeits, showing precisely what each eliminates or distorts, why it fails, and how God's Perfect Love provides the authentic good these counterfeits promise but cannot deliver. **Incomplete love isn't love at all**—it's a distortion that creates the very evils it claims to solve.
 

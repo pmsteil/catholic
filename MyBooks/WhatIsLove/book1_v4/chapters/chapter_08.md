@@ -176,7 +176,25 @@ This is the scandal of the Gospel: God's mercy is greater than any sin. "Where s
 
 This is why the Sacrament of Reconciliation is so powerful for those who have committed grave evil. It's not just human forgiveness—it's God's own mercy, made present through Christ's Church that He gave authority to forgive sins (see John 20:21-23; Acts 2:38), offering what no human could offer: complete forgiveness, total restoration, supernatural healing through the priest speaking in the person of Christ: "I absolve you from your sins in the name of the Father, and of the Son, and of the Holy Spirit." And the person who thought themselves beyond redemption discovers that God's mercy is greater than their sin.
 
-This doesn't minimize the gravity of the sin. It magnifies the power of God's mercy. It reveals that no one is beyond forgivness and redemption if they truly repent. And it shows why the Cross is the ultimate answer to evil—because only infinite mercy can heal infinite wounds.
+This doesn't minimize the gravity of the sin. It magnifies the power of God's mercy. It reveals that no one is beyond forgiveness and redemption if they truly repent. And it shows why the Cross is the ultimate answer to evil—because only infinite mercy can heal infinite wounds.
+
+## More Than Acquittal: The Mercy That Heals
+
+Hear this carefully, because much of the modern world has forgotten it: God's mercy is not a stamp on a file that reads *"forgiven"* while leaving you the same person you were before. That is the world's counterfeit — a cheap pardon that releases the debt and walks away, never touching the wound underneath. The God of the Cross does not work that way. **He does not merely declare you forgiven; He sets His own heart to healing yours.**
+
+This is the difference between *acquittal* and *mercy*. An acquittal closes a case. Mercy enters a heart. An acquittal can be issued by a judge who has never met you; mercy can only be given by Someone who has loved you the whole time you were running — who watched the wounds form, who knows by name the people you have harmed and the people who have harmed you, and who *wants the wound healed, not merely covered.* When God forgives you, He is not crossing a name off a list. He is opening His own pierced side and pouring His life into the place where yours is bleeding.
+
+And His mercy is not content to heal you alone. He is the God of *communion* — Father, Son, and Holy Spirit in eternal self-gift — and He cannot bless a forgiveness that leaves His Body in fragments. So His mercy reaches outward from the forgiven heart toward every soul that heart has wounded, and toward every soul that has wounded it. **He desires real reconciliation.** Not pretending the harm did not happen — that is a lie. Not skipping over what justice owed — that is injustice. But the slow, true, costly work of two souls being knit back together by the same Love that made them. Where one party is dead, or unreachable, or unwilling, He receives that work into His own heart and finishes there what cannot be finished here. *Nothing surrendered to His mercy is wasted.*
+
+This is true even in the most vile sins — and *especially* there. The abortion doctor, the abuser, the betrayer, the addict who shattered a family, the violent man, the cruel parent, the soul who carries a guilt the world insists is unforgivable: God's mercy does not stop at telling them the verdict has been changed. He reaches into the crushed heart and *heals* it. And He reaches toward the ones they harmed — sometimes through the long road of confession, restitution, and repaired relationship in this life; sometimes through the longer road of intercession and entrustment when that road is closed. He gathers to His own heart the children lost to abortion, the children harmed by abuse, the spouses betrayed, the friends destroyed by gossip, the souls scarred by every sin too large for human repair — and to the repentant heart He offers a real path back into communion with them: in this life as far as it is possible, and in the next where nothing prevents it.
+
+If you carry a sin you cannot speak out loud — even one the world calls unforgivable — hear this without flinching: **He is not waiting to acquit you. He is waiting to heal you, and through you to begin healing the ones you wounded.** And if you carry a wound someone else inflicted — even one too vile to name — hear this also: **He is not asking you to pretend it did not happen. He is offering to heal what was broken in you, and, in His time and His way, to do what only He can do for the one who broke it.** This is the mercy of God: a Heart that does not close its case until every wounded heart inside it is whole again.
+
+## Divine Mercy: A Modern Witness to an Ancient Truth
+
+The 20th century — drenched in more innocent blood than any century before it — was given by God a particular gift for our time: the **Divine Mercy devotion** through St. Maria Faustina Kowalska (1905–1938), a Polish nun who recorded in her *Diary* the words she received from Christ Himself: *"The greater the sinner, the greater the right he has to My mercy."* The image Christ gave her — His Sacred Heart with red and pale rays streaming from the wound in His side, and the inscription *Jesus, I trust in You* — is the same mercy this chapter has been describing, now given a face and a refrain for an age that needed it desperately.
+
+St. John Paul II, who lived through Auschwitz and the Soviet occupation of his own country, knew Faustina's writings intimately. He canonized her in 2000 and on the same day established **Divine Mercy Sunday** as the universal feast of the Church on the Sunday after Easter — placing this devotion at the very center of the Church's calendar, immediately after the Resurrection itself. The **Divine Mercy Chaplet**, prayed on rosary beads, pleads in every decade: *"For the sake of His sorrowful Passion, have mercy on us and on the whole world."* It has become one of the most prayed devotions of the modern Church. It is not a novelty added to the Gospel; it is the Gospel sharpened to a single point for a generation that had nearly forgotten it: *no sin is greater than His mercy, and the door is open right now.*
 
 ## The Sacrament of Reconciliation
 
@@ -189,6 +207,40 @@ This is according to Jesus' own plan. On the evening of His resurrection, He app
 This is why confession is so powerful. It's encountering divine mercy in concrete, sacramental form—hearing the priest speak the words of absolution: "God, the Father of mercies, through the death and resurrection of his Son has reconciled the world to himself and sent the Holy Spirit among us for the forgiveness of sins; through the ministry of the Church may God give you pardon and peace, and I absolve you from your sins in the name of the Father, and of the Son, and of the Holy Spirit" (Rite of Penance). You know, with His divine truth, in the way He designed it, that you are forgiven.
 
 And this is where the whole chapter comes full circle. The blight of sin and unforgiveness that once clouded the soul is lifted; the bricks of wound and resentment that walled us off from God and neighbor become, by His grace, the very bricks of a bridge back into communion. Restored in His forgiveness, we no longer approach others from behind a barrier. We can now live His truth without fear, uphold His justice without cruelty, extend His mercy without condition, and offer ourselves in sacrificial love—because the love we pour out is no longer our own meager supply but the overflow of the Perfect Love that has first been poured into us.
+
+## The Sacrament of the Sick: Mercy at the Final Threshold
+
+Mercy does not abandon us when our strength fails. When serious illness, frailty of age, or the approach of death threatens body and soul, the Church offers the **Sacrament of the Anointing of the Sick** (CCC 1499–1532), instituted by Christ Himself and named explicitly by the Apostle James: *"Is any among you sick? Let him call for the elders of the church, and let them pray over him, anointing him with oil in the name of the Lord; and the prayer of faith will save the sick man, and the Lord will raise him up; and if he has committed sins, he will be forgiven"* (James 5:14–15).
+
+This is the bedside mercy of Christ — His own hand reaching the sick and dying through the priest's anointing. The sacrament forgives sins not yet confessed when confession is no longer possible, strengthens the soul against final temptation, unites the sufferer's pain to Christ's Passion so that nothing of it is wasted, and, when God wills, restores health to the body. To it the Church joins the Eucharist as *Viaticum* — *"food for the journey"* — and final absolution. **A Catholic does not die alone.** Through the priest, the Church sits beside the deathbed and pours mercy into the wound that life has finally opened all the way through, so that her children cross the last threshold already in His arms.
+
+This is one of the most pastorally devastating losses in the traditions that severed themselves from the Church. There is no bedside sacrament, no anointing, no absolution, no Viaticum — only words and presence, however well-meant. The God of mercy did not leave us without comfort at the moment we need it most. Through His Church, He is *bodily* there for the sick and the dying.
+
+## What Mercy Actually Does: The Works of Mercy
+
+The Church has never let mercy float as an abstract feeling. From the earliest centuries — drawing on Scripture, especially Matthew 25:31–46 (the Last Judgment) and Tobit 1:17, and on Sacred Tradition lived by the saints — Christians have organized mercy into **fourteen concrete works**, taught by the Catechism as binding on every Christian (CCC 2447):
+
+**The Seven Corporal Works of Mercy** — mercy toward the body:
+
+- Feed the hungry
+- Give drink to the thirsty
+- Clothe the naked
+- Shelter the homeless
+- Visit the sick
+- Visit the imprisoned (or ransom the captive)
+- Bury the dead
+
+**The Seven Spiritual Works of Mercy** — mercy toward the soul:
+
+- Instruct the ignorant
+- Counsel the doubtful
+- Admonish sinners
+- Bear wrongs patiently
+- Forgive offenses willingly
+- Comfort the afflicted
+- Pray for the living and the dead
+
+These are not a checklist for the spiritually ambitious. They are the *ordinary* shape of mercy in any Christian life — and the criteria, in fact, by which Christ Himself said He will judge the world: *"Truly, I say to you, as you did it to one of the least of these my brethren, you did it to me"* (Matthew 25:40). Two thousand years of Catholic hospitals, orphanages, food kitchens, schools, prison ministries, hospices, missions, and burial societies are nothing other than the Church doing these fourteen things — on a scale and across a span of history no other institution has matched. Mercy is not what we feel about the suffering; it is what we do for them.
 
 ## Binding Check
 

@@ -109,7 +109,7 @@ Through years of prayer, study, and living out love as husband, father, and teac
 Through careful study of Scripture and the Church's teaching on love, we can see that perfect love cannot be reduced to a single dimension. It must integrate all the essential elements that Scripture and the Church reveal about love's nature. Here is the definition that will guide our entire journey:
 
 <div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 23px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
-<strong>God's Perfect Love is the sacred gift of covenant - binding truth, justice, mercy and sacrifice into life-giving communion.</strong>
+<strong>God's Perfect Love is the sacred gift of covenant which binds truth, justice, mercy and sacrifice into life-giving communion.</strong>
 </div>
 
 "Perfect" means these four facets exist as inseparable aspects of God's one nature. In God, truth *is* justice *is* mercy *is* sacrifice—distinct in our understanding but unified in His being. Our problem is dividing what God unites: truth without justice, justice without mercy, mercy without sacrifice, sacrifice without truth. In God's Perfect Love, they exist as one harmonious whole. They are "Holy" (wholly).

@@ -28,17 +28,17 @@
 
 ## A Society Torn Apart by Lies
 
-Our society is fracturing. Families divided. Churches splitting. The nation polarized. This isn't political disagreement or cultural tension—it's a fundamental breakdown of shared reality.
+Our society is fractured. Families divided. Churches split. The nation polarized. This isn't political disagreement or cultural tension—it's a fundamental breakdown of shared reality.
 
 Everyone claims their own "truth." Gender ideology insists that biological sex is a social construct. Abortion advocates call the killing of the unborn "healthcare." Marriage has been redefined to mean whatever we want it to mean. Children, we're told, don't need both a mother and a father. Each group has its own "truth," and anyone who disagrees is labeled hateful, bigoted, or worse.
 
 The problem isn't that we disagree. The problem is that we've abandoned THE Truth—the "whole truth," the "Holy Truth" that alone can bind us together.
 
-As we saw in Chapter 6, Jesus IS Truth incarnate. And it was lies that killed Him. False witnesses testified against Him. Religious leaders accused Him falsely. Pilate knew He was innocent but condemned Him anyway. The crowd chose Barabbas, a murderer, over Jesus, the Truth. Even His own disciples abandoned Him.
+As we saw in Chapter 6, Jesus IS Truth incarnate — and it was lies that killed Him. False witnesses, a judge who knew better, a manipulated crowd, friends who fled: every institution meant to guard the truth chose the lie instead.
 
 Truth Incarnate was murdered by a world built on lies. And those same lies are killing us now—destroying marriages, fracturing families, tearing apart communities, and leaving souls isolated and alone.
 
-**[EDITORIAL NOTE: RESOLVE THIS SECTION LATER - Need to explicitly show how the Cross resolves the lies we tell ourselves. Specifically: (1) How Christ's death on the Cross is the answer to the lies that killed Him, not just their exposure; (2) How His sinlessness and sacrifice address our fundamental human limitation—we cannot be sinless like God, but He was, and His death becomes the resolution to our human condition of sin and falsehood; (3) The connection between human limitation and the need for redemption through the Cross. This completes the loop from Ch. 6's passage about Jesus surrounded by lies and trusting the Father.]**
+But the lies don't have the final word — **not in His story, and not in ours.** The Truth they killed on Friday walked out of the tomb on Sunday, and His victory there is the only force strong enough to break the lies that are killing us now. The way back from a fractured world is not a better argument or a better politics. It is a return to Him — and to the communion He restores in His Body, the Church.
 
 We need to return to the origin of love: One, Holy, all-loving God—and the communion He alone can restore. What we are losing is not just truth or civility or common ground. What we are losing is communion itself—the life-giving union with God and each other that we were made for. Only the Whole Truth can heal our fractured society. Only Holy Truth can restore what we were made for—communion with God, with each other, and with our true selves.
 
@@ -178,8 +178,6 @@ Not everyone is called to physical procreation, but all are called to spiritual 
 
 ### Sacramental: The Eucharist—Perfect Binding Made Real
 
-**[EDITORIAL NOTE: REVIEW NEEDED - Incorporate the two liturgies of the Mass: In the Liturgy of the Word, Christ through the Church feeds the heart and mind; in the Liturgy of the Eucharist, He feeds the body and soul. Together, they enable us to love the Lord our God with all our heart, mind, soul, and strength, and become one body. This theological connection should be woven into the Eucharist section to show how the complete Mass structure fulfills the greatest commandment.]**
-
 "I am the living bread which came down from heaven; if any one eats of this bread, he will live for ever." (John 6:51). Christ gives us His own Body and Blood as food. Not symbolically. Not metaphorically. Really, truly, substantially.
 
 The Eucharist is the supreme example of love's binding power—and it begins with binding truth, justice, mercy, and sacrifice into one saving act. In the Eucharist, we encounter the truth of our sin laid bare before God, the justice of His law that we've violated, the mercy of reconciliation freely offered, and the sacrifice of Christ that makes it all possible. These four facets aren't held in tension but perfectly integrated, each serving the others.
@@ -233,6 +231,42 @@ The Eucharist is where God's Perfect Love becomes REAL—body, heart, mind, and 
 
 The Church has known this all along. Sacred Tradition has preserved this truth for 2,000 years. We simply need to humble ourselves enough to learn it.
 
+### The Whole Mass: Where the Four Pillars Are Bound Together Each Week
+
+If the Eucharist is the *summit*, the Mass that surrounds it is the *climb* — and every step of the climb binds the four pillars together. The Mass is the Church's two-thousand-year liturgical answer to everything we have traced across the last four chapters. Every Sunday, in every Catholic church on earth — and in countless weekday Masses across every time zone — Christ assembles His Body and walks her through the integration of truth, justice, mercy, and sacrifice in living form. What this book has argued in words, the Church has been *enacting* at the altar since the apostles. The Mass is the two-liturgy whole of His self-gift: in the **Liturgy of the Word**, Christ feeds our **heart and mind** with His truth; in the **Liturgy of the Eucharist**, He feeds our **body and soul** with His very self — so that we love Him with all four together (Mark 12:30) and become His one Body in the world.
+
+**Penitential Rite — Confiteor — Kyrie.** The Mass begins with truth and mercy bound together. *"I confess to almighty God and to you, my brothers and sisters, that I have greatly sinned"* — the Confiteor is the soul stating the truth about itself in the presence of God and His Body. Then immediately, *"Kyrie eleison, Christe eleison, Kyrie eleison" — "Lord have mercy, Christ have mercy, Lord have mercy."* No one approaches the altar except through that gate.
+
+**Liturgy of the Word.** The Old Testament reading, the Psalm, the New Testament letter, the Gospel proclaimed, and the homily that breaks open the readings — this is Christ feeding our **heart and mind** with His truth. Two thousand years of God's self-revelation flow through the Church into the assembly in this single hour. Every Sunday a Catholic hears more Scripture in one Mass than most people read in a month — by design.
+
+**The Creed.** The whole assembly stands and confesses together the deposit of truth Christ entrusted to His apostles. To say *"I believe"* with the Church is to be sanctified in the truth Jesus prayed for in John 17.
+
+**Prayer of the Faithful.** Justice for the world: the Body asks the Father for what each of His children is owed. We intercede for the Pope and bishops, for civil authorities, for the suffering, the sick, the persecuted, and the dead.
+
+**Offertory.** Bread and wine — the fruit of human work — are placed on the altar, and with them the priest places *us*: our week, our sorrows, our small sacrifices, signified by a single drop of water joined to the infinite blood of Christ. We bring everything we have and lay it on the altar with Christ's offering.
+
+**Eucharistic Prayer and Consecration.** Sacrifice fulfilled. The priest, *in persona Christi*, speaks the words Jesus spoke at the Last Supper, and the one sacrifice of Calvary becomes present on the altar. Heaven opens. Past, present, and future converge. The Lamb who was slain is *here*.
+
+**The Our Father.** Mercy: *"forgive us our trespasses, **as we forgive** those who trespass against us."* Christ Himself placed the condition of mercy at the very center of His Church's central prayer — spoken at the very threshold of Communion.
+
+**Sign of Peace and Agnus Dei.** *"Lamb of God, who takes away the sins of the world, have mercy on us… grant us peace."* Mercy, and the peace it produces, just before we receive Him.
+
+**"Lord, I am not worthy that you should enter under my roof…"** The Centurion's words (Matthew 8:8) — truth and mercy and recognition of God's infinite power to heal us, spoken by those who are called to the supper of the Lamb who takes away the sins of the world.
+
+**Holy Communion.** Life-giving communion. The whole arc of the Mass arrives here: truth confessed, justice rendered, mercy received, sacrifice united — the four threads woven into the one Body we are about to become.
+
+**Ite, missa est.** *"Go forth; the Mass is ended."* The Latin *missa* — from which we get the very word *Mass* — literally means **sent**. We are sent into the world to live what we have just received. The four pillars do not stay at the altar; they walk out the doors in us.
+
+### The Mass Is How the Church Reads Her Bible
+
+And there is one more thing the Mass is — perhaps the least appreciated of all: **the Mass is the Church handing down *how* to read the Bible.** Most modern Christians think of the Mass as something separate from Scripture — a ritual layered on top of the Word, or even competing with it. The opposite is the truth. The liturgy is the *original interpretive home* of the Scriptures — the living dictionary in which Christians have always read them. The Old Testament reading, the responsorial Psalm, the Epistle, the Gospel proclaimed last and standing, the homily that breaks them open, the prayers and postures and silences that surround them: this whole *order* is itself a teaching. **Every page of Scripture finds its center in Christ, and every Christ-centered reading finds its summit at the altar where He gives Himself.**
+
+Layered over the weekly Mass is the **liturgical calendar** — Advent and Christmas, Lent and the Triduum and Easter, Pentecost and Ordinary Time — whose basic shape was already in place by the early fourth century and which, year after year, walks the assembly through the entire arc of salvation history with Christ as its key. And beyond the Mass, the **Catechism, the ecumenical councils, the encyclicals, and the teaching office of the bishops in apostolic succession** (the *Magisterium*) extend that same hermeneutic outward into every question of faith and life.
+
+This is the dictionary the apostles gave to their churches. The same Scriptures that, in the hands of a private reader untethered from the Body, can be twisted into ten thousand contradictory shapes — *"there are some things in them hard to understand, which the ignorant and unstable twist to their own destruction"* (2 Peter 3:16) — were always meant to be read *inside this Mass*, *with this calendar*, *within this Tradition*, *under this teaching authority*. To go to Mass is to be handed back the very lens through which the Church has always read her Bible: that **Jesus Christ is the outpouring of God's Perfect Love** — that every page of Scripture points to Him, and that every reader truly shaped by these words is being shaped *by* Him and *into* Him.
+
+This is what the Church has done every single Sunday, in every century, on every continent, under every regime — even her persecutors, even her martyrdoms — for two thousand years. The integration this book argues for in words has been enacted by the Church in liturgy since the apostles. We do not invent the Christian life; we walk into a rhythm Christ Himself authored and His Church has carried unbroken across the ages. **To go to Mass is to step into the only place on earth where all four pillars of God's Perfect Love are held together in a single hour, week after week, until our souls are shaped by them.**
+
 
 ### Ecclesial: Church as Body of Christ
 
@@ -251,6 +285,12 @@ This is why practicing truth, justice, mercy, and sacrifice isn't just about bei
 But when we live these virtues sacrificially, we're weaving ourselves into the Body of Christ. Our souls connect to other souls in deep, meaningful ways. We're not isolated individuals but members of a living body, dependent on each other, strengthening each other, loving each other with Christ's own love flowing through us.
 
 This is what it means to be a Christian society, a covenant people—souls bound together in life-giving communion, each serving their purpose as part of the entire Body. When one member suffers, all suffer. When one rejoices, all rejoice (1 Corinthians 12:26). We are truly one through the Holy Spirit binding our souls together in love.
+
+### Mary: Mother of Mercy, the First and Highest *Yes*
+
+No reflection on life-giving communion is complete without the woman whose *Fiat* opened the door to all of it. *"Behold, I am the handmaid of the Lord; let it be to me according to your word"* (Luke 1:38) — and the Word became flesh in her womb. The communion God offers the world entered through the consent of a single creature, and that consent has shaped every communion that has come after it. Mary did not stop at the Annunciation: she carried Him, raised Him, followed Him, and stood beneath the Cross when nearly every apostle had fled — *"standing by the cross of Jesus were his mother…"* (John 19:25). There she heard her dying Son entrust her to the disciple John, and through John, to the whole Church: *"Behold, your mother"* (John 19:27). The Mother of God became, by His own gift, the Mother of every Christian.
+
+This is why the Church has called her, from her earliest centuries, **Mother of Mercy** and **Refuge of Sinners**. Her sacrificial love at Calvary was the supreme human participation in Christ's one sacrifice — a soul pierced by the same sword that pierced His side (cf. Luke 2:35). She is the first and highest disciple, the model of every *yes* every Christian is called to give, the one human creature in whom all four pillars — truth, justice, mercy, sacrifice — were perfectly received and perfectly returned. Today she intercedes for the Church, prays for sinners, and accompanies every Christian who turns to her, doing for each what every mother does: pointing past herself to her Son. *"Do whatever he tells you"* (John 2:5) — her words at Cana, and her instruction to the Church in every age.
 
 ### Eternal: Covenant Communion of Saints
 
@@ -314,7 +354,7 @@ The world desperately needs saints. The next generation needs you to be a saint.
 
 ## The Journey Continues
 
-We've now unpacked the complete definition: God's Perfect Love is the sacred gift of covenant which binds truth, justice, mercy, and sacrifice into life-giving communion.
+We've now unpacked the complete definition: God's Perfect Love is the sacred gift of covenant which binds truth, justice, mercy and sacrifice into life-giving communion.
 
 - **Truth** (Ch 6): The foundation—objective reality, Jesus IS truth
 - **Justice** (Ch 7): Giving what is due according to truth

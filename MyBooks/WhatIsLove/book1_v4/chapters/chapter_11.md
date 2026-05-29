@@ -16,7 +16,7 @@
 
 ## The Question That Won't Go Away
 
-We've spent ten chapters unpacking what God's perfect love is: the sacred gift of covenant binding truth, justice, mercy and sacrifice into life-giving communion. We've seen how each facet combats specific forms of evil. We've explored how this love creates authentic relationships and transforms human hearts. Chapter 10 ended with a call to become saints—to let God's perfect love transform us so completely that others encounter Christ through our witness.
+We've spent ten chapters unpacking what God's perfect love is: the sacred gift of covenant which binds truth, justice, mercy and sacrifice into life-giving communion. We've seen how each facet combats specific forms of evil. We've explored how this love creates authentic relationships and transforms human hearts. Chapter 10 ended with a call to become saints—to let God's perfect love transform us so completely that others encounter Christ through our witness.
 
 Before we go further, we need to pause and check the ground beneath our feet.
 
@@ -180,6 +180,33 @@ The Catechism teaches that the Law of the Gospel is "the grace of the Holy Spiri
 
 The Law of the Gospel calls us to an interior transformation that enables us to love as God loves—with truth, justice, mercy, and sacrifice perfectly integrated and for perfect communion with God and each other.
 
+## The Beatitudes: The Heart of the New Law
+
+But what does this interior transformation actually look like? Jesus did not leave us guessing. He climbed a mountain, sat down as a teacher in Israel, and painted the portrait Himself. The Beatitudes are not eight unrelated slogans for nice people; the Catechism calls them "the heart of Jesus' preaching" (CCC 1716), the charter of the New Law that the whole Sermon on the Mount unfolds.
+
+<div class="blockquote">
+"Blessed are the poor in spirit, for theirs is the kingdom of heaven. Blessed are those who mourn, for they shall be comforted. Blessed are the meek, for they shall inherit the earth. Blessed are those who hunger and thirst for righteousness, for they shall be satisfied. Blessed are the merciful, for they shall obtain mercy. Blessed are the pure in heart, for they shall see God. Blessed are the peacemakers, for they shall be called sons of God. Blessed are those who are persecuted for righteousness' sake, for theirs is the kingdom of heaven."
+
+\hfill\small — Matthew 5:3-10
+</div>
+
+Read them slowly and something becomes clear: this is not a checklist of separate virtues to accumulate. It is one face seen from eight angles. As Pope Benedict XVI observed, the Beatitudes are "a sort of veiled interior biography of Jesus, a portrait of his figure"—they describe Christ before they describe us, because they are simply what perfect love looks like when it walks. To live the Beatitudes is not to perform eight tasks but to be conformed to one Person.
+
+And when we look closely, the four facets of perfect love we have been tracing are all here—not bolted together, but radiating from a single life:
+
+- **Truth** — *"Blessed are the poor in spirit"* and *"the pure in heart, for they shall see God."* Poverty of spirit is the truth about ourselves spoken without flinching: we are creatures, not gods; everything we have is gift. Purity of heart is the undivided gaze that wants one thing only—and so finally sees what is real. Truth begins in humility and ends in vision.
+- **Justice** — *"Blessed are those who hunger and thirst for righteousness."* The word Matthew uses, *dikaiosynē*, means both righteousness and justice. Notice the verbs Jesus chose: *hunger* and *thirst*. He doesn't bless those who merely think justice is a good idea; He blesses those who crave it the way a starving person craves bread—who *ache* to see every person given their due and every wrong set right, as God Himself does.
+- **Mercy** — *"Blessed are the merciful, for they shall obtain mercy"*; *"Blessed are those who mourn, for they shall be comforted."* Here love bends toward the wounded—grieving with those who suffer, forgiving those who fail, refusing to leave anyone in their brokenness. And mercy given is mercy received: the measure we use is measured back to us (cf. Matthew 7:2).
+- **Sacrifice** — *"Blessed are the meek"* and *"those who are persecuted for righteousness' sake."* Meekness is not weakness; it is strength laid down, the refusal to grasp and dominate. And the willingness to be persecuted for what is right is sacrifice in its starkest form—love that costs everything and pays it anyway. This is the road that ends at the Cross.
+
+The peacemaker—*"they shall be called sons of God"*—is the one in whom all four have become one, for peace is not the absence of conflict but the fruit of truth, justice, mercy, and sacrifice held together. This is *shalom*: the communion the whole book has been pointing toward.
+
+Then Jesus presses further still. He shifts from speaking *about* the blessed to speaking directly *to* them: *"Blessed are you when men revile you and persecute you and utter all kinds of evil against you falsely on my account. Rejoice and be glad, for your reward is great in heaven"* (Matthew 5:11-12). The persecution beatitude widens into something deeply personal—no longer only suffering *for righteousness* but suffering *for Christ Himself*—and the response He commands is not grim endurance but joy. This is love so certain of its reward that it can sing in the fire.
+
+And here is what makes the whole sermon so startling: the Beatitudes are the exact inverse of what our culture calls blessed. The world says *blessed are the rich, for they can buy whatever they want; blessed are the powerful, for they bend others to their will; blessed are the comfortable, the admired, the self-sufficient*—the ones who never have to mourn, never have to hunger, never have to forgive. Jesus turns the whole scoreboard upside down. Every counterfeit love this book will go on to diagnose runs on the world's version of blessedness—and every one of them leaves the heart emptier than it found it. The Beatitudes are not a harder road to the same happiness the world promises; they are the only road to a happiness the world can neither give nor take away.
+
+Notice, too, what every Beatitude promises. *Theirs is the kingdom. They shall see God. They shall be called sons of God.* The reward is not a prize stacked on top of the virtue; the reward *is* communion with God Himself. This is why the Church teaches that the Beatitudes answer "the natural desire for happiness" that "God has placed in the human heart in order to draw man to the One who alone can fulfill it" (CCC 1718). The very word *blessed*—*beatus*, the root of *beatitude*—means the deep happiness we were made for. Jesus is not loading burdens onto us. He is telling us where joy actually lives, and the path runs straight through the kind of love this book has been describing all along. This is the "be perfect, as your heavenly Father is perfect" (Matthew 5:48) of the previous chapter, now given flesh: not flawless performance, but a heart so conformed to Christ that His own blessedness - His own love - radiates through us.
+
 ## Your Mission: Help Others Recognize the Law Written on Their Hearts
 
 If you've recognized the Law of the Gospel in your own life—if you've experienced the freedom that comes from conforming to God's love—you have a mission: **help others recognize what's already written on their hearts.**
@@ -210,6 +237,7 @@ If God's nature is love, then growing in virtue means conforming our lives to th
 - **Romans 8:2:** "For the law of the Spirit of life in Christ Jesus has set me free from the law of sin and death" - the Law of the Gospel as interior liberation
 - **Galatians 6:2:** "Bear one another's burdens, and so fulfil the law of Christ" - the Law of the Gospel as mutual love
 - **John 13:34:** "A new commandment I give to you, that you love one another; even as I have loved you" - Jesus establishes the New Law
+- **Matthew 5:3-12:** The Beatitudes - the charter of the New Law and the portrait of Christ Himself; the path to the beatitude (blessedness) we were made for
 - **Jeremiah 31:33:** "I will put my law within them, and I will write it upon their hearts" - prophecy of the Law of the Gospel
 - **Romans 1:18-20:** God's invisible nature clearly perceived through creation; humanity's suppression of truth
 - **Romans 2:14-15:** Natural law written on human hearts; Gentiles doing by nature what the law requires
@@ -220,6 +248,7 @@ If God's nature is love, then growing in virtue means conforming our lives to th
 ### Catechism of the Catholic Church
 - **CCC 27-43:** The desire for God and humanity's capacity to know God through reason and creation
 - **CCC 1965-1974:** The Law of the Gospel as the New Law; the grace of the Holy Spirit received by faith in Christ
+- **CCC 1716-1729:** The Beatitudes - at the heart of Jesus' preaching, depicting the countenance of Christ and answering the desire for happiness God placed in the human heart
 - **CCC 1972:** The New Law is the grace of the Holy Spirit given through faith in Christ, operating through charity
 - **CCC 1954-1960:** Natural law as participation in God's wisdom; moral law written on human hearts
 - **CCC 1776-1794:** Conscience as the voice of God within; moral judgment and formation of conscience

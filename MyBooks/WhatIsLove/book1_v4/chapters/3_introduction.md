@@ -112,8 +112,8 @@ It sounds so simple, doesn't it? Yet, getting this wrong has devastating consequ
 
 Here is the definition I have come to believe is the heart of God's love and our human nature:
 
-**God's Perfect love is the sacred gift of covenant**
-— *binding truth, justice, mercy and sacrifice* —
+**God's Perfect Love is the sacred gift of covenant**
+— *which binds truth, justice, mercy and sacrifice* —
 — *into life-giving communion* —
 
 That's a mouthful, I know! It's dense, and each word carries significant weight and meaning. We'll unpack every piece of that definition—sacred, sacrifice, covenant, truth, justice, mercy, communion—throughout this book.

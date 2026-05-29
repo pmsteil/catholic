@@ -18,7 +18,7 @@ Guidance for any agent working on this book project. Read this file in full befo
 
 ## 2. Core Definition (canonical — every chapter serves this)
 
-> **"God's Perfect Love is the sacred, sacrificial gift of covenant which binds truth, justice, mercy, and sacrifice into life-giving communion."**
+> **"God's Perfect Love is the sacred gift of covenant which binds truth, justice, mercy and sacrifice into life-giving communion."**
 
 Every word is load-bearing. Each phrase is unpacked in a dedicated chapter (see Chapter Map below). Whenever this definition is quoted inside a chapter, it should be **word-for-word** unless there is an explicit reason to vary.
 

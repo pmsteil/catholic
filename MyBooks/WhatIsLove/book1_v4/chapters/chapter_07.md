@@ -198,7 +198,11 @@ Justice isn't just individual—it's social. The common good means the condition
 
 Justice toward the common good requires subsidiarity (solving problems at the most local level), solidarity (the strong helping the weak), and respect for human dignity in every policy and law. It also requires protecting the family as the fundamental unit of society, because the family bound together in truth, justice, and mercy is the first and most important teacher of love. And it requires safeguarding religious freedom — the right to worship according to conscience — because no society is just that forbids its people to render God what is owed Him. The common good is what allows all people to live in true covenantal communion.
 
-These principles—subsidiarity, solidarity, the preferential option for the poor, human dignity, the common good—form the foundation of Catholic social teaching. The Church has developed a rich body of wisdom on how justice applies to economic life, political structures, family relationships, and international relations. This chapter can only introduce these concepts. I encourage you to dive deeper—see the *Catholic Social Teaching References* section at the end of this chapter for key documents, encyclicals, and Catechism passages. Understanding how justice applies to every dimension of human life is profitable for living authentic love in the world.
+These principles—subsidiarity, solidarity, the preferential option for the poor, human dignity, the common good—form the foundation of **Catholic social teaching**, the Church's two-thousand-year tradition of applying justice to every dimension of human life: economic, political, familial, and international.
+
+And the Church has not left these principles abstract. For two millennia she has applied them concretely: in *Rerum Novarum*'s defense of the worker against industrial exploitation; in *Pacem in Terris*'s account of the rights and duties between nations; in her unwavering defense of innocent human life from conception to natural death — so that abortion, euthanasia, and the death penalty are answered by the same principle (CCC 2258–2330; 2267 on capital punishment); in her developed teaching on just war (CCC 2309); in her teaching on immigration, on the just wage, on the universal destination of goods, on care for creation, on the rights of the family. No other body of thought in human history has worked out the demands of justice across so many domains with such concrete guidance. To be Catholic is to inherit a treasury of moral reasoning no individual conscience, however well-meaning, could ever construct alone — and a *humility* about that treasury: the diligent layman is right to read the encyclicals and the *Compendium* before forming his own opinion on a question the Church has already labored over for centuries.
+
+This chapter can only open the door. The *Catholic Social Teaching References* section at the end of this chapter lists the key documents, encyclicals, and Catechism passages that go deeper — and I urge you to actually read them. Understanding how justice applies to every dimension of human life is essential to living authentic love in the world.
 
 ## The Sacrament of Reconciliation: A Preview
 
@@ -280,13 +284,24 @@ Justice gives each person what they're due—but what about when giving what's s
 
 The Church's social teaching is a rich treasury of wisdom on how justice applies to every dimension of human life. The following are essential starting points for deeper study:
 
-#### Papal Encyclicals
+#### Papal Encyclicals and Foundational Documents
 - ***Rerum Novarum*** **(Pope Leo XIII, 1891):** The founding document of modern Catholic social teaching—on the rights of workers, private property, and the role of the state
 - ***Quadragesimo Anno*** **(Pope Pius XI, 1931):** Develops subsidiarity and the social order forty years after *Rerum Novarum*
+- ***Pacem in Terris*** **(Pope John XXIII, 1963):** The rights and duties between persons, between citizens and the state, and between nations — a charter of just relations at every level
+- ***Gaudium et Spes*** **(Vatican II, 1965):** The Church in the modern world; the dignity of the human person; marriage and family; economic and political life
 - ***Populorum Progressio*** **(Pope Paul VI, 1967):** Integral human development and global solidarity, especially in the face of poverty and inequality
+- ***Evangelium Vitae*** **(Pope John Paul II, 1995):** The Gospel of Life — the defense of innocent human life against abortion, euthanasia, and the death penalty; the most important pro-life document of the modern era
 - ***Centesimus Annus*** **(Pope John Paul II, 1991):** Reflects on capitalism, socialism, and the human person after the fall of communism
 - ***Caritas in Veritate*** **(Pope Benedict XVI, 2009):** Integral human development and justice in a globalized world
 - ***Laudato Si'*** **(Pope Francis, 2015):** Care for creation as a dimension of justice toward the poor and future generations
+- ***Fratelli Tutti*** **(Pope Francis, 2020):** Fraternity and social friendship; migrants, the marginalized, and a politics ordered to the common good
+
+#### Concrete Applications of Justice (CCC)
+- **CCC 2258–2330:** The Fifth Commandment — life, abortion, euthanasia, suicide, defense of life, war and peace, capital punishment (the Church's developed teaching at 2267)
+- **CCC 2302–2317:** Safeguarding peace and the principles of just war
+- **CCC 2401–2463:** The Seventh Commandment — property, the just wage, the universal destination of goods, economic life, and care for the poor
+- **CCC 2419–2425:** The Church's social doctrine and her competence to teach on it
+- **CCC 2241:** The rights and duties of nations and immigrants
 
 #### Compendium of the Social Doctrine of the Church
 The *Compendium of the Social Doctrine of the Church* (Pontifical Council for Justice and Peace, 2004) is the most comprehensive single-volume summary of Catholic social teaching available. It covers human dignity, the family, work, economic life, the political community, the international community, and care for the environment—all through the lens of justice and love. **It is freely available online at the Vatican's website: [vatican.va](https://www.vatican.va)**
