@@ -152,7 +152,7 @@ Yet some still don't believe—not because the evidence is insufficient, but bec
 
 Theism is simpler: Objective moral truth exists because God exists. Love has objective requirements because God is love.
 
-This isn't an intellectual exercise—it's an invitation to encounter the God we've been exploring for eleven chapters. Every time you recognize authentic love, you're encountering God. Every time you feel the pull of moral obligation, you're hearing God's voice. Every time you sacrifice for another, you're participating in God's nature.
+This isn't an intellectual exercise—it's an invitation to encounter the God we've been exploring throughout this book. Every time you recognize authentic love, you're encountering God. Every time you feel the pull of moral obligation, you're hearing God's voice. Every time you sacrifice for another, you're participating in God's nature.
 
 The question isn't just "Does God exist?" but "Does love exist at all?" If love is truly a law—as universal as gravity—then like every law, it requires a lawgiver. This law flows from God's nature, is freely recognized as true, is written on our hearts by the Holy Spirit, and liberates us to become who we were created to be. As Jesus promised, "If you continue in my word, you are truly my disciples, and you will know the truth, and the truth will make you free" (John 8:31-32).
 

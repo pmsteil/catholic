@@ -22,7 +22,7 @@ Adults debate autonomy, equality, personal authenticity, and happiness. They cra
 
 This isn't about ideas—it's about children experiencing real suffering. These wounds compound across generations, creating cascading destruction that threatens civilization itself.
 
-If God is love, and as Christians we are called to love one another, then our love should pass a most important test: **Does it give children what they need to flourish?** The previous chapter examined twelve counterfeits through the diagnostic matrix. This chapter applies the ultimate test—What do they do to children?—and extends the analysis to fifteen counterfeits, adding three that affect children most acutely through family structure: cohabitation, no-fault divorce, and hookup culture. The answer is devastating: every counterfeit harms children because it lacks essential components of God's Perfect Love.
+If God is love, and as Christians we are called to love one another, then our love should pass a most important test: **Does it give children what they need to flourish?** The previous chapter examined these counterfeit loves through the diagnostic matrix. This chapter applies the ultimate test—What do they do to children?—regrouping them by the kind of damage they inflict and adding several that strike children most directly through family structure and moral formation: cohabitation, no-fault divorce, hookup culture, and scientism. The answer is devastating: every counterfeit harms children because it lacks essential components of God's Perfect Love.
 
 Jesus' words are uncompromising: causing little ones to stumble merits the harshest judgment. Their angels behold the Father's face. They are not collateral damage. They are the ones who suffer the most.
 
@@ -34,22 +34,24 @@ Children from broken homes aren't doomed. God's grace can redeem any situation. 
 
 ## What Children Need to Flourish
 
-God's Perfect Love provides six essential components children need for life-giving communion:
+God's Perfect Love provides seven essential components children need for life-giving communion:
 
-**1. Truth - Knowing Reality:** Children need to understand reality. "Train up a child in the way he should go, and when he is old he will not depart from it" (Proverbs 22:6). Confusion creates anxiety and inability to navigate life. God's Perfect Love provides objective truth grounded in God's design. Is it any wonder that anxiety is rampant among the young today?
+**1. Sacred - Children as Image-Bearers:** Every child has infinite dignity from conception—not a commodity, not a burden, not a choice, but a person made in God's image (Genesis 1:27; Psalm 139:13-16). Without this recognition, children are valued only conditionally. God's Perfect Love receives every child as a sacred gift to be welcomed and protected.
 
-**2. Justice - Security and Protection:** Children need to know they have rights, dignity, and protection. "Give justice to the weak and the fatherless; maintain the right of the afflicted and the destitute" (Psalm 82:3). Without justice, children are vulnerable to exploitation. God's Perfect Love provides recognition of sacred dignity, rights to mother and father, and protection through covenant.
+**2. Truth - Knowing Reality:** Children need to understand reality. "Train up a child in the way he should go, and when he is old he will not depart from it" (Proverbs 22:6). Confusion creates anxiety and inability to navigate life. God's Perfect Love provides objective truth grounded in God's design. Is it any wonder that anxiety is rampant among the young today?
 
-**3. Mercy - Healing When Things Go Wrong:** Children need forgiveness, second chances, and restoration. "The steadfast love of the Lord never ceases, his mercies never come to an end" (Lamentations 3:22). Without mercy, children carry wounds that never heal. God's Perfect Love provides compassionate forgiveness that calls to conversion and healing.
+**3. Justice - Security and Protection:** Children need to know they have rights, dignity, and protection. "Give justice to the weak and the fatherless; maintain the right of the afflicted and the destitute" (Psalm 82:3). Without justice, children are vulnerable to exploitation. God's Perfect Love provides recognition of sacred dignity, rights to mother and father, and protection through covenant.
 
-**4. Sacrifice - Adults Who Put Children First:** Children need parents willing to give up personal desires for their good. "Do nothing from selfishness or conceit, but in humility count others better than yourselves" (Philippians 2:3). Without sacrifice, children get abandoned when the 'cost' seems too high. God's Perfect Love encourages self-giving love that prioritizes children's needs over adult desires—and through the tradition of handing down God's love from one generation to the next, it gives every possible guarantee that children's needs will be prioritized.
+**4. Mercy - Healing When Things Go Wrong:** Children need forgiveness, second chances, and restoration. "The steadfast love of the Lord never ceases, his mercies never come to an end" (Lamentations 3:22). Without mercy, children carry wounds that never heal. God's Perfect Love provides compassionate forgiveness that calls to conversion and healing.
 
-**5. Covenant - Stable, Permanent Relationships:** Children need to know their family won't dissolve, that promises are kept. "Has he not made them one, with a portion of the Spirit in their union? And what was the one God seeking? Godly offspring" (Malachi 2:15). Without covenant, children live in constant insecurity. God's Perfect Love provides binding promises that create safety.
+**5. Sacrifice - Adults Who Put Children First:** Children need parents willing to give up personal desires for their good. "Do nothing from selfishness or conceit, but in humility count others better than yourselves" (Philippians 2:3). Without sacrifice, children get abandoned when the 'cost' seems too high. God's Perfect Love encourages self-giving love that prioritizes children's needs over adult desires—and through the tradition of handing down God's love from one generation to the next, it gives every possible guarantee that children's needs will be prioritized.
 
-**6. Life-Giving Communion - Belonging to Family and Community:** Children need to be part of something larger than themselves. The family is the domestic church (Ephesians 6:1-4). Without communion, children are isolated. God's Perfect Love provides generational bonds, extended family, and Church community.
+**6. Covenant - Stable, Permanent Relationships:** Children need to know their family won't dissolve, that promises are kept. "Has he not made them one, with a portion of the Spirit in their union? And what was the one God seeking? Godly offspring" (Malachi 2:15). Without covenant, children live in constant insecurity. God's Perfect Love provides binding promises that create safety.
+
+**7. Life-Giving Communion - Belonging to Family and Community:** Children need to be part of something larger than themselves. The family is the domestic church (Ephesians 6:1-4). Without communion, children are isolated. God's Perfect Love provides generational bonds, extended family, and Church community.
 
 <div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
-Children need ALL six components working together. Remove any one, and children suffer. This is why counterfeit love always harms children—it's missing essential components.
+Children need ALL seven components working together. Remove any one, and children suffer. This is why counterfeit love always harms children—it's missing essential components.
 </div>
 
 ---
@@ -167,7 +169,7 @@ Marxism channels children's natural impulse to sacrifice for others toward viole
 
 There is only one form of love that gives children everything they need to flourish: God's Perfect Love. Here's why.
 
-**The Complete Package: All Six Components Working Together**
+**The Complete Package: All Seven Components Working Together**
 
 1. **Sacred - Children as Image-Bearers:** Every child has infinite dignity from conception. Not commodities, not burdens, not choices—persons made in God's image (Genesis 1:27; Psalm 139:13-16). Result: Children protected, welcomed, valued.
 
@@ -180,6 +182,8 @@ There is only one form of love that gives children everything they need to flour
 5. **Mercy - Healing and Restoration:** When parents fail, mercy offers forgiveness and healing. Children learn to extend mercy to others (Lamentations 3:22-23, Luke 15:11-32). Result: Children not trapped by wounds, can be restored.
 
 6. **Sacrifice - Adults Who Put Children First:** Parents willing to give up personal desires for children's good. Community supports families through sacrifice (Philippians 2:3-4, 1 John 3:16-18). Result: Children prioritized, not abandoned when costly.
+
+7. **Life-Giving Communion - Belonging to Family and Community:** Children belong to something larger than themselves—family, Church, and the communion of generations (Ephesians 6:1-4, John 17:21). Result: Children rooted in belonging, never isolated or alone.
 
 **The Generational Blessing: How God's Perfect Love Builds Flourishing Across Generations**
 

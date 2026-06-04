@@ -47,6 +47,16 @@ Every word is load-bearing. Each phrase is unpacked in a dedicated chapter (see 
 ### Minor tone notes
 - When a Methodist or other non-Catholic source happens to be right (e.g., Wesley's *"moving on toward perfection"*), you may use the *concept* but avoid quoting them by name. Prefer Catholic sources (Matthew 5–7, Philippians 3, saints, popes) for the same point.
 
+### Plain language — no unexplained jargon (book-wide)
+
+**Write for the nominal Catholic, not the seminarian.** The target reader is an everyday, often lukewarm or under-catechized Catholic who may not know — or may have forgotten — what insider Church vocabulary actually means. Never assume the reader carries theological, Latin, or technical Church terms in their working vocabulary. Confident Catholic content (per the tone rules above) does **not** mean dense Catholic *jargon*. Be unapologetically Catholic in *substance*, plain and concrete in *language*.
+
+- **Explain every term of art the first time it appears in a chapter.** Words like *grace*, *efficient cause*, *sine qua non*, *concupiscence*, *hypostatic union*, *ex opere operato*, *Magisterium*, *Paschal Mystery*, *eschatology*, *propitiation*, *sanctifying grace* — and even quieter ones like *covenant*, *communion*, *sacrament*, *justification* — must be unpacked in plain English at first use, ideally inside the sentence itself, not in a footnote the reader will skip.
+- **Prefer the concrete to the abstract.** Show the idea before naming it. Give a picture, a person, a moment the reader can see (the father waiting on the road, the hand laid on the lamb, the friend who tells you the hard truth) — *then* attach the term. Abstraction follows image; it never leads.
+- **Latin is a seasoning, not the meal.** A Latin phrase may appear for precision or beauty, but always with its plain-English meaning right beside it. Never let a Latin or Greek term carry a load-bearing idea by itself.
+- **Test every paragraph against the reader.** Ask: *would a Catholic who goes to Mass on Christmas and Easter understand this sentence on the first read, without a dictionary or a catechism?* If not, simplify — without dumbing down the truth. The goal is *bite-sized theology*: substantial, but immediately graspable.
+- **Simple is not shallow.** Plain language is a discipline, not a dilution. The deepest truths of the faith can be said in words a child grasps; that is the standard. Clarity is a form of charity to the reader.
+
 ---
 
 ## 4. The Four Pillars of Perfect Love

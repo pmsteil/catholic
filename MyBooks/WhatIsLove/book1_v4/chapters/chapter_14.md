@@ -1,4 +1,4 @@
-# Chapter 14: Counterfeit Love in the Modern World
+# Counterfeit Love in the Modern World
 
 <div class="blockquote">
 "Beloved, do not believe every spirit, but test the spirits to see whether they are of God; for many false prophets have gone out into the world."
@@ -22,7 +22,7 @@ Modern culture floods us with competing definitions of love. "Love is love." "Lo
 
 We now have a diagnostic tool. Just as a jeweler tests gold against a standard, we can test any claim about love against our definition: **God's Perfect Love is the sacred gift of covenant which binds truth, justice, mercy and sacrifice into life-giving communion.** If any component is missing or distorted, it's counterfeit—and counterfeits always cause harm.
 
-This chapter applies this diagnostic tool to twelve modern counterfeits, showing precisely what each eliminates or distorts, why it fails, and how God's Perfect Love provides the authentic good these counterfeits promise but cannot deliver. **Incomplete love isn't love at all**—it's a distortion that creates the very evils it claims to solve.
+This chapter applies this diagnostic tool to thirteen modern counterfeits, showing precisely what each eliminates or distorts, why it fails, and how God's Perfect Love provides the authentic good these counterfeits promise but cannot deliver. **Incomplete love isn't love at all**—it's a distortion that creates the very evils it claims to solve.
 
 ---
 
@@ -197,8 +197,6 @@ Various atheistic philosophies propose alternative "highest goods," but each col
 **How Good Overcomes Evil:** God's Perfect Love calls us to live in objective truth that liberates us from the slavery of sin. "If you continue in my word, you are truly my disciples, and you will know the truth, and the truth will make you free" (John 8:32). Only truth grounded in reality—His Word, which encompasses all of creation, all of His revelation, and the truth of who He is written on our hearts—enables authentic justice, mercy, and communion.
 
 ### Self-Actualization: "Be All You Can Be"
-
-NOTE: make sure we emphasize that perfect love calls us to take care of ourself, but FOR the good of others...
 
 **The Appeal:** Self-actualization promises that the highest goal of life is to become the fullest, most authentic version of yourself — to discover your potential, follow your dreams, love yourself first, and live your best life. *"Be all you can be."* *"You can be anything you put your mind to."* *"Put on your own oxygen mask first."* *"Self-care is self-love."* It echoes a real and good intuition: that you are a soul of intrinsic worth, entrusted to your own stewardship, and meant to flourish.
 

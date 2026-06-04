@@ -49,7 +49,6 @@ The matrix below shows which facets of love each virtue actively engages when pr
 | Justice | ✓ | ✓ | | ✓ |
 | Fortitude | ✓ | ✓ | | ✓ |
 | Temperance | ✓ | ✓ | | ✓ |
-| Wisdom | ✓ | ✓ | ✓ | ✓ |
 | **Capital Virtues** |
 | Humility | ✓ | ✓ | ✓ | ✓ |
 | Generosity | ✓ | ✓ | ✓ | ✓ |
@@ -68,6 +67,7 @@ The matrix below shows which facets of love each virtue actively engages when pr
 | Gentleness | ✓ | ✓ | ✓ | ✓ |
 | Perseverance | ✓ | ✓ | ✓ | ✓ |
 | Zeal | ✓ | ✓ | ✓ | ✓ |
+| Wisdom | ✓ | ✓ | ✓ | ✓ |
 
 **Why Some Virtues Relate to All Four Pillars:**
 

@@ -1,4 +1,4 @@
-# Chapter 13: Sin—The Failure to Love
+# Sin—The Failure to Love
 
 <div class="blockquote">
 "If any one sees his brother committing what is not a mortal sin, he will ask, and God will give him life for those whose sin is not mortal. There is sin which is mortal; I do not say that one is to pray for that. All wrongdoing is sin, but there is sin which is not mortal."
@@ -329,7 +329,7 @@ The deadly sins typically follow this pattern:
 4. **Hardening:** The conscience becomes dulled, making repentance harder
 5. **Spiritual Death:** Complete separation from God if unrepented
 
-**This is why we must resist these vices at the earliest stages.** What begins as a small giving-in can grow into a deadly habit that destroys our souls. This is precisely why St. Paul distinguishes between mortal and venial sin: it honors the truth of human dignity both for the offender and the offended. To equate a momentary lustful glance with the sin of murder is unjust and unmerciful—which makes it untrue. None of these conditions could arise from a God who is all truth and mercy.
+**This is why we must resist these vices at the earliest stages.** What begins as a small giving-in can grow into a deadly habit that destroys our souls. This is precisely why St. John distinguishes between mortal and venial sin (1 John 5:16-17): it honors the truth of human dignity both for the offender and the offended. To equate a momentary lustful glance with the sin of murder is unjust and unmerciful—which makes it untrue. None of these conditions could arise from a God who is all truth and mercy.
 
 ---
 
@@ -506,7 +506,7 @@ When all three conditions are present, the sin is mortal—it severs our relatio
 - Have I used God's name irreverently or blasphemed?
 - Have I broken vows or oaths made in God's name?
 - Have I misrepresented God or His teachings?
-- Have I gave a witness as a Christian who treated others with injustice, cruelty, or contempt?
+- Have I given poor witness as a Christian by treating others with injustice, cruelty, or contempt?
 
 *See Also: Exodus 20:7; CCC 2142-2167*
 
