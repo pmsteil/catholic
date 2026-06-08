@@ -28,13 +28,13 @@
 
 ## A Society Torn Apart by Lies
 
-Our society is fractured. Families divided. Churches split. The nation polarized. This isn't merely political disagreement or cultural tension—it's a fundamental breakdown of the very communion we were made for. Everyone now claims their own "truth": that biological sex is a social construct, that the killing of the unborn is "healthcare," that marriage means whatever we want it to mean, that children don't need both a mother and a father. Anyone who disagrees is labeled hateful, bigoted, or worse.
+Our society is fractured. Families divided. Churches split. The nation polarized. This isn't merely political disagreement or cultural tension—it's a fundamental breakdown of communion on a societal scale. Everyone now claims their own "truth": that biological sex is a social construct, that the killing of the unborn is "healthcare," that marriage means whatever we want it to mean, that children don't need both a mother and a father. Anyone who disagrees is labeled hateful, bigoted, or worse.
 
 But notice what is actually being lost. It is not merely truth or civility or common ground; it is **communion itself**—the life-giving union with God and one another that we were made for. The lies fracturing our world are leaving souls isolated and alone, severed from the very thing they most deeply need. Only Holy (the whole, complete, perfect) Truth can heal a fractured society and restore us to communion with God, with each other, and with our true selves.
 
 As we saw in Chapter 6, Jesus IS Truth incarnate—and it was lies that killed Him: false witnesses, a judge who knew better, a manipulated crowd, friends who fled. Truth Incarnate was murdered by a world built on lies, and those same lies are killing us now. But the lies don't have the final word—**not in His story, and not in ours.** The Truth they killed on Friday walked out of the tomb on Sunday, and the way back from a fractured world is not a better argument or a better politics. It is a return to Him—for communion with God is communion with His Body, the Church, where truth is kept whole and we are drawn into Holy Communion with Him in the Eucharist.
 
-In the previous chapter, we saw that sacrifice is love made visible—the costly self-gift that proves love is real. But sacrifice isn't an end in itself; it's the means by which love creates something new: **communion.** This chapter shows how God's Perfect Love draws us into that life-giving union, the union that makes us fully alive—because love was never about being nice or feeling good, but about true, just, merciful, sacrificial communion.
+In the previous chapter, we saw that sacrifice is love made visible—the costly self-gift that proves love is real. But sacrifice isn't an end in itself; it's the means by which love creates something: **communion.** This chapter shows how God's Perfect Love draws us into that life-giving union, the union that makes us fully alive—because love was never about being nice or feeling good, but about true, just, merciful, sacrificial communion.
 
 
 ## God IS Communion
@@ -51,11 +51,11 @@ This is *perichoresis*—mutual indwelling. The Father is in the Son, the Son in
 
 **Mutual Self-Gift:** Each Person gives Himself completely to the others. Their mutual love IS the Holy Spirit—the bond of communion between them.
 
-**Eternal Joy:** This communion is perfect happiness. God created not out of need but out of the overflow of love—love that must give, must create, must multiply.
+**Eternal Joy:** This communion is perfect happiness. God created not out of need but out of the overflow of love—love that must give, must create, must multiply. Love that gives out of overflow, not obligation.
 
 This is what we're invited into: "That they may all be one; even as thou, Father, art in me, and I in thee, that they also may be in us" (John 17:20-21). Jesus is praying that those who believe would be united together in the one love of the Trinity—not just imitating Trinitarian communion from a distance, but actually participating in it. The unity He prays for is the same unity that exists between the Father and the Son. God invites us into His own life, His own communion, His own joy.
 
-Our definition reveals this clearly: "God's Perfect Love is the sacred gift of covenant which binds truth, justice, mercy and sacrifice into life-giving **communion**." Notice the final word: **communion**. Not virtue for its own sake. Not self-fulfillment. But the self-giving of sacrifice creates communion. This is the true end of love—the goal toward which everything else points. You don't become good for your own sake; you live a life that's good so your communion with God flows through you to others.
+Our definition reveals this clearly: "God's Perfect Love is the sacred gift of covenant which binds truth, justice, mercy and sacrifice into life-giving **communion**." Notice the final word: **communion**. Not virtue for its own sake. Not self-fulfillment. But the self-giving of sacrifice creates communion. This is the true end of love—the goal toward which everything else points. You don't become good for your own sake; you live a life that's good so your communion with God overflows from you to others.
 
 <div class="blockquote">
 "It is love which not only creates the good, but also grants participation in the very life of God: Father, Son and Holy Spirit. For he who loves desires to give himself."
