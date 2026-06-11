@@ -287,19 +287,9 @@ What His Church has carried into every age is not a theory of sacrifice but a wa
 
 ## The Hierarchy of Sacrifice
 
-Not all sacrifices are equal. This reflects the ancient Church teaching of the *Ordo Amoris* (OR-doh ah-MOH-ris), or "Order of Love." St. Augustine and St. Thomas Aquinas taught that love must be ordered correctly to be virtuous. As Aquinas explains in the *Summa Theologica* (II-II, q.26), the order of charity (*ordo caritatis*) directs us to love God first, then ourselves, then our neighbor—with specific priorities within each category.
+Not all sacrifices are equal. There is an order to love: we are bound to God first, then to our own soul, then to spouse and children, then to wider family and community, then to neighbor and stranger, and finally even to our enemies. We sacrifice our *comfort* for others, but never our *souls* — we can never choose sin to "help" another, no matter how noble the intention seems, because the one thing we may never lay on the altar is the image of God within us.
 
-Where does love of self fit in? Right after God. Aquinas teaches that we must love our own souls next, because we cannot love our neighbor "as ourselves" if we do not first cherish the image of God within us. We sacrifice our *comfort* for others, but never our *souls*. We can never sin to "help" another—no matter how noble the intention seems.
-
-Following this, the order of sacrifice reflects our covenant obligations:
-1.  **God:** The foundation. We sacrifice everything for Him.
-2.  **Our Own Soul:** Never sacrificed. We give our *comfort*, our time, our preferences, even our lives — but never the image of God within us by choosing sin to "help" another.
-3.  **Spouse and Children:** The primary human covenant.
-4.  **Extended Family and Community:** Parents, siblings, the Church.
-5.  **Neighbors and Strangers:** Those we encounter in daily life.
-6.  **Enemies:** The most difficult, requiring the most grace.
-
-This hierarchy isn't arbitrary; it is what the four pillars require when they work together. **Truth** acknowledges the actual shape of our lives — that we stand in real relationships of marriage, parenthood, kinship, and community, not in some abstract universal that loves everyone equally and therefore loves no one in particular. **Justice** names what each person is owed, and a spouse, a child, and a stranger are not owed the same things from us; treating them as if they were is not generosity but a refusal of justice. **Mercy** stretches love outward toward those whose claim on us is weaker — the stranger, the enemy — but mercy that strips a parent's children to clothe a stranger has ceased to be mercy and become injustice in disguise. **Sacrifice** is finite; we have one body, one life, one measure of time and strength, and love must be ordered wisely or it will exhaust itself on disordered fronts and abandon those God Himself has placed in our care. Get the order wrong, and love becomes distorted. Put enemies before family, and you destroy your primary obligations. Put self-will before God, and you make an idol of yourself.
+This ordering of love — the ancient *Ordo Amoris* (OR-doh ah-MOH-ris), or "order of love," taught by St. Augustine and St. Thomas Aquinas (*Summa Theologica* II-II, q.26) — turns out to be the very engine of practical wisdom. We take it up in full in Chapter 11, where we ask not only *that* love sacrifices but *how* it discerns whom to sacrifice for when our finite strength cannot reach everyone at once.
 
 ## How Sacrifice Combats Evil
 
