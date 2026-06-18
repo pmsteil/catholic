@@ -1,0 +1,1218 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>What Is Love? — Editorial Memory Map</title>
+<style>
+  :root {
+    --gold: #c9a84c;
+    --dark: #1a1a2e;
+    --darker: #16162a;
+    --card: #1e1e36;
+    --text: #e0ddd5;
+    --muted: #9a978f;
+    --accent: #4a90d9;
+    --red: #d9534f;
+    --green: #5cb85c;
+    --teal: #45b7aa;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: 'Georgia', 'Times New Roman', serif;
+    background: var(--dark);
+    color: var(--text);
+    line-height: 1.7;
+    padding: 2rem;
+    max-width: 1100px;
+    margin: 0 auto;
+  }
+  h1 {
+    font-size: 2.2rem;
+    color: var(--gold);
+    border-bottom: 2px solid var(--gold);
+    padding-bottom: 0.5rem;
+    margin-bottom: 0.5rem;
+  }
+  h1 small {
+    display: block;
+    font-size: 0.9rem;
+    color: var(--muted);
+    font-weight: normal;
+    margin-top: 0.3rem;
+  }
+  h2 {
+    font-size: 1.5rem;
+    color: var(--gold);
+    margin-top: 2.5rem;
+    margin-bottom: 1rem;
+    border-left: 4px solid var(--gold);
+    padding-left: 0.8rem;
+  }
+  h3 {
+    font-size: 1.15rem;
+    color: var(--teal);
+    margin-top: 1.5rem;
+    margin-bottom: 0.5rem;
+  }
+  h4 {
+    font-size: 1rem;
+    color: var(--accent);
+    margin-top: 1rem;
+    margin-bottom: 0.3rem;
+  }
+  p, li { margin-bottom: 0.5rem; }
+  ul, ol { padding-left: 1.5rem; }
+  .card {
+    background: var(--card);
+    border-radius: 8px;
+    padding: 1.2rem 1.5rem;
+    margin: 1rem 0;
+    border-left: 3px solid var(--gold);
+  }
+  .card.decision { border-left-color: var(--teal); }
+  .card.voice { border-left-color: var(--accent); }
+  .card.theology { border-left-color: var(--gold); }
+  .card.rejected { border-left-color: var(--red); }
+  .card.research { border-left-color: var(--green); }
+  blockquote {
+    border-left: 3px solid var(--muted);
+    padding: 0.5rem 1rem;
+    margin: 0.8rem 0;
+    color: var(--muted);
+    font-style: italic;
+    background: rgba(255,255,255,0.03);
+  }
+  blockquote strong { color: var(--text); }
+  code {
+    background: rgba(255,255,255,0.08);
+    padding: 0.15rem 0.4rem;
+    border-radius: 3px;
+    font-size: 0.9em;
+    font-family: 'Menlo', monospace;
+  }
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 1rem 0;
+  }
+  th, td {
+    padding: 0.6rem 0.8rem;
+    text-align: left;
+    border-bottom: 1px solid rgba(255,255,255,0.1);
+  }
+  th {
+    color: var(--gold);
+    font-size: 0.85rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+  }
+  .tag {
+    display: inline-block;
+    font-size: 0.75rem;
+    padding: 0.15rem 0.5rem;
+    border-radius: 3px;
+    margin-right: 0.3rem;
+    font-family: 'Menlo', monospace;
+  }
+  .tag-ch6 { background: #2d4a7a; color: #8ab4f8; }
+  .tag-ch7 { background: #4a2d7a; color: #b48af8; }
+  .tag-ch8 { background: #2d7a4a; color: #8af8b4; }
+  .tag-ch9 { background: #7a4a2d; color: #f8b48a; }
+  .tag-ch10 { background: #7a2d4a; color: #f88ab4; }
+  .tag-book { background: #5a5a2d; color: #f8f88a; }
+  .tag-voice { background: #2d5a5a; color: #8af8f8; }
+  .toc {
+    background: var(--card);
+    padding: 1.5rem;
+    border-radius: 8px;
+    margin: 1.5rem 0;
+  }
+  .toc a {
+    color: var(--accent);
+    text-decoration: none;
+  }
+  .toc a:hover { text-decoration: underline; }
+  .toc ol { counter-reset: toc-counter; list-style: none; padding-left: 0; }
+  .toc li { counter-increment: toc-counter; margin: 0.3rem 0; }
+  .toc li::before {
+    content: counter(toc-counter) ". ";
+    color: var(--gold);
+    font-weight: bold;
+  }
+  .stat-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 1rem;
+    margin: 1rem 0;
+  }
+  .stat-box {
+    background: var(--card);
+    padding: 1rem;
+    border-radius: 8px;
+    text-align: center;
+  }
+  .stat-box .num {
+    font-size: 2rem;
+    color: var(--gold);
+    font-weight: bold;
+  }
+  .stat-box .label {
+    font-size: 0.8rem;
+    color: var(--muted);
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+  }
+  hr {
+    border: none;
+    border-top: 1px solid rgba(255,255,255,0.1);
+    margin: 2rem 0;
+  }
+</style>
+</head>
+<body>
+
+<h1>What Is Love? — Editorial Memory Map
+  <small>Extracted from 43 Windsurf Cascade trajectory files + 1 edit decisions document &bull; June 2026</small>
+</h1>
+
+<div class="stat-grid">
+  <div class="stat-box"><div class="num">43</div><div class="label">Cascade Sessions</div></div>
+  <div class="stat-box"><div class="num">1.2 MB</div><div class="label">Total Conversation</div></div>
+  <div class="stat-box"><div class="num">10</div><div class="label">Major Edit Decisions</div></div>
+  <div class="stat-box"><div class="num">5</div><div class="label">Chapters Deeply Edited</div></div>
+</div>
+
+<div class="toc">
+  <strong style="color:var(--gold);">Contents</strong>
+  <ol>
+    <li><a href="#canonical">Canonical Definitions &amp; Standing Rules</a> (incl. Dictionary Problem premise)</li>
+    <li><a href="#voice">Patrick's Voice &amp; Style</a></li>
+    <li><a href="#theology">Theological Positions Settled</a></li>
+    <li><a href="#ch5">Chapter 5 Decisions</a></li>
+    <li><a href="#ch6">Chapter 6 (Truth) Decisions</a></li>
+    <li><a href="#ch7">Chapter 7 (Justice) Decisions</a></li>
+    <li><a href="#ch8">Chapter 8 (Mercy) Decisions</a></li>
+    <li><a href="#ch9">Chapter 9 (Sacrifice) Decisions</a></li>
+    <li><a href="#ch10">Chapter 10 (Communion/Eucharist) Decisions</a></li>
+    <li><a href="#cross">Cross-Chapter Decisions (Apr 20 Review)</a></li>
+    <li><a href="#structure">Book Structure, Rules &amp; Foundational Principles</a> (maps, undercurrent, ch 6-9 pattern, tone, Free Will, Shema, Old Covenant, file paths)</li>
+    <li><a href="#research">Research &amp; Scripture Citations</a></li>
+    <li><a href="#rejected">Rejected Approaches</a></li>
+    <li><a href="#apologetics">Apologetics Approach</a></li>
+    <li><a href="#future">Future Work &amp; Todos</a></li>
+    <li><a href="#sources">Source File Index</a></li>
+    <li><a href="#todos">Open Work Items &amp; Todos</a></li>
+  </ol>
+</div>
+
+<!-- ============================================================ -->
+<h2 id="canonical">1. Canonical Definitions &amp; Standing Rules</h2>
+
+<div class="card theology">
+  <h3>Why This Book Exists — The Dictionary Problem</h3>
+  <p>A major premise of the entire book — and the reason it is called <em>"What Is Love?"</em> — is that the deeper Patrick studies apologetics, the more he sees that <strong>Christians disagree not because they disagree on Scripture, but because they disagree on what words mean.</strong> Catholics and Protestants are often reading the same verses but carrying different dictionaries. The most important word to define is <strong>love</strong>. Once that definition is settled — with its four pillars intact — most of the other disagreements (faith/works, grace/merit, sacraments, authority) begin to fall into place. The book is, at bottom, a dictionary entry for the most important word in the Christian vocabulary.</p>
+</div>
+
+<div class="card theology">
+  <h3>The Canonical Definition of Love</h3>
+  <blockquote><strong>"God's Perfect Love is the sacred gift of covenant which binds truth, justice, mercy, and sacrifice into life-giving communion."</strong></blockquote>
+  <p>Word-for-word, no variation. Note: without "sacrificial" — Patrick's deliberate choice. The four pillars (Truth, Justice, Mercy, Sacrifice) are co-constitutive. <strong>No pillar is metaphysically prior to any other.</strong></p>
+</div>
+
+<div class="card theology">
+  <h3>The Aquinas Integration (Patrick's Key Insight)</h3>
+  <blockquote><strong>"In Augustine's definition of love being willing the good of the other, I think the good in that definition is the truth, justice and mercy. And the willing it for the other is the sacrifice part."</strong></blockquote>
+  <p><code>amor est velle alicui bonum</code> — <strong>the good</strong> (bonum) = Truth + Justice + Mercy; <strong>willing it for another</strong> (velle alicui) = Sacrifice. The four pillars are not four additions to the definition — they are its interior anatomy.</p>
+  <p>Cross-test: Calvary = Aquinas at full volume. <em>Bonum</em> = truth about our condition + justice satisfied + mercy poured; <em>velle alicui</em> = "for us men and for our salvation" at the cost of everything.</p>
+</div>
+
+<div class="card">
+  <h3>Standing Rules (Never Violate)</h3>
+  <ul>
+    <li><strong>RSV translation required</strong> for all Scripture quotations</li>
+    <li><strong>Matt 28 must always include v.18</strong> (Christ's authority) — never just 28:19-20</li>
+    <li><strong>Never use:</strong> <code>performed</code>, <code>earned</code>, <code>transaction</code>, <code>payment plan</code>, <code>checklist</code>, <code>debt-payment</code>, <code>unmercy</code> (for sacrifice/faith context)</li>
+    <li><strong>Never name Protestant traditions directly</strong> — always positive Catholic framing, never defensive or polemical</li>
+    <li><strong>Pillar interplay goes in Binding Check only</strong> — don't cross-pollinate pillar arguments in body sections</li>
+    <li><strong>OT sacrifices "spoke truly of" fulfillment</strong> — never "merely foreshadowed" or diminished</li>
+    <li><strong>"Sacrifice completes"</strong> is acceptable; <strong>"sacrifice carries the others"</strong> is NOT (implies priority)</li>
+    <li><strong>No Oxford comma in the canonical pillar list:</strong> "truth, justice, mercy and sacrifice"</li>
+    <li><strong>Prefer prose over bullets</strong> — convert bullet lists to flowing narrative paragraphs</li>
+    <li><strong>Gender-neutral language</strong> where applicable (e.g., "the person" not "he" for generic references)</li>
+    <li><strong>Each example must be placed under the correct pillar</strong> — a pundit's hypocrisy is truth-without-sacrifice, not truth-without-justice; use the framework precisely</li>
+  </ul>
+</div>
+
+<!-- ============================================================ -->
+<h2 id="voice">2. Patrick's Voice &amp; Style</h2>
+
+<div class="card voice">
+  <h3>How Patrick Writes &amp; Edits</h3>
+  <ul>
+    <li><strong>Concrete over abstract</strong> — when a proposed phrase is too conceptual, he'll say it outright: <em>"just a whole bunch of words that don't have much meaning."</em></li>
+    <li><strong>Favors parallel grammatical structures</strong> — tracks asymmetries closely (notices "two clauses with 'giving,' two without").</li>
+    <li><strong>Thinks theologically by talking through it</strong> — long voice-dictated paragraphs reveal his reasoning; then asks the AI to capture and compress what he just said.</li>
+    <li><strong>Things said once, in the right place</strong> — frequently asks "is this already covered elsewhere?" before adding content.</li>
+    <li><strong>Steelmans opponents without naming them</strong> — repeatedly insists on positive Catholic framing without polemical posture.</li>
+    <li><strong>Tight syllogisms over extended arguments</strong> — prefers a sharp 3-sentence sequence over a paragraph of explanation.</li>
+    <li><strong>Uses "vibe" / "feel" language first</strong> to describe what he wants a passage to convey emotionally, then gets into content specifics.</li>
+    <li><strong>Short approvals for drafts</strong> — "y", "b", "option a" — reviews entire proposed drafts, then simply confirms or adjusts.</li>
+    <li><strong>Catches his own imprecision</strong> — "But wait, is that example truth without justice?" — will push back on his own edits when the theology drifts.</li>
+    <li><strong>"I'm not asking you to add these exact words... I just want the theology to be deeply felt."</strong></li>
+  </ul>
+</div>
+
+<div class="card voice">
+  <h3>Signature Phrases &amp; Motifs Patrick Returns To</h3>
+  <ol>
+    <li><strong>"The open hand / closed fist"</strong> — central controlling metaphor for sacrifice; can be extended, even temporarily broken, but must return to it</li>
+    <li><strong>"Our love is never oriented inward. It's always oriented outward."</strong> — personal conviction from his conversion</li>
+    <li><strong>"We sacrifice because He first sacrificed"</strong> — echo of 1 John 4:19 grammar</li>
+    <li><strong>"Faith leads to love. Love grows faith. Round and round."</strong> — spiral image of sanctification</li>
+    <li><strong>"A future filled with good Catholics"</strong> — his missional vision</li>
+    <li><strong>"His perfect love is what saves the world"</strong> — chapter-close thesis phrase</li>
+    <li><strong>"To love is to be someone who sacrificially wills the truth, justice, and mercy of God for another"</strong> — working definition, recited with reader at key moments</li>
+    <li><strong>"The only difference is the preposition"</strong> — refers to the theological distinction "not <em>alongside</em> but <em>into</em>" (our sacrifice united <em>into</em> Christ's one sacrifice, not running parallel to it); the italicized preposition carries the whole theological weight</li>
+    <li><strong>"As we forgive"</strong> — Our Father clause, returned to repeatedly as the practical binding of mercy and sacrifice</li>
+    <li><strong>Augustine's restless heart</strong> — <em>Confessions</em> 1.1.1, reached for multiple times</li>
+    <li><strong>Irenaeus "man fully alive"</strong> — <em>Against Heresies</em> 4.20.7, brought up unprompted twice</li>
+  </ol>
+</div>
+
+<!-- ============================================================ -->
+<h2 id="theology">3. Theological Positions Settled</h2>
+
+<div class="card theology">
+  <h3>On Faith and Works (The Positive Case)</h3>
+  <ul>
+    <li><strong>Gal 5:6</strong> as central anchor: "faith working through love" — not faith <em>plus</em> love, not faith <em>and then</em> love — one organic reality</li>
+    <li><strong>"Faith working through love is faith sacrificing for the other"</strong> — Patrick's own formulation</li>
+    <li><strong>Phil 2:12-13</strong> as synthesis verse: "work out your own salvation... for God is at work in you" — we work out because God is at work</li>
+    <li>The spiral: <em>"Faith leads us to love. Love grows us in faith. Round and round — not as a treadmill, but as the very spiral of life itself"</em></li>
+    <li><strong>Never defensive against Protestant readings</strong> — never set up and rebut; simply state the fullness</li>
+    <li>Steelman the Protestant concern: <em>"they are guarding something precious — that what saves us is what Christ did, not what we do"</em></li>
+    <li>But: <strong>rejected "finished work" language</strong> — <em>"I don't want to give ground on his finished work because I think they have a completely wrong interpretation of that"</em></li>
+    <li>Revised steelman: <em>"our hope rests on His Cross, not on our offerings"</em></li>
+  </ul>
+</div>
+
+<div class="card theology">
+  <h3>James 2 — Patrick's Outward-Facing Reading</h3>
+  <blockquote><strong>"I've been thinking about these verses for years... every Protestant argues this from the standpoint of what this verse is saying about me and my salvation. But what James is pointing out here is what I have been saying since I came back to the Catholic faith, that our love is never oriented inward. It's always oriented outward."</strong></blockquote>
+  <p>The question is not <em>"am I really saved?"</em> — it is <em>"did anyone get fed? The brother is still hungry."</em></p>
+  <p>James 2:14-17 unpacked as a four-pillars X-ray: "Be warmed and filled" without action fails on all four at once — not seeing (truth), not giving what's owed (justice), heart unmoved (mercy), no cost paid (sacrifice).</p>
+</div>
+
+<div class="card theology">
+  <h3>On Sacrifice: Co-constitutive, Not Primary</h3>
+  <ul>
+    <li><strong>"No thread is metaphysically prior"</strong> — AGENTS.md §4 rule, repeatedly honored</li>
+    <li>Found and fixed: "carries the other three into actual effect" → <em>"makes truth, justice, and mercy actual rather than admired from a safe distance"</em></li>
+    <li>The closed-fist posture is the <strong>prior reality</strong> from which none of the four pillars can operate — neutral on will-vs-intellect debate (lets Thomists and Augustinians both read correctly)</li>
+    <li><strong>"We do not sacrifice alongside His one sacrifice but into it"</strong> — the preposition <em>into</em> is load-bearing</li>
+  </ul>
+</div>
+
+<div class="card theology">
+  <h3>On Divine Mercy / Universal Offer</h3>
+  <ul>
+    <li>The offer is universal (no sin beyond reach, CCC 605)</li>
+    <li>Reception is free (the free "yes" preserved)</li>
+    <li>NOT universalism — explicitly: <em>"for the soul who freely turns and asks for it"</em></li>
+    <li>God will never abandon us; but love, to be love, leaves us free to abandon Him</li>
+    <li>Three outcomes when mercy is extended: acceptance, rejection, <strong>or enablement</strong> (mercy that avoids accountability is not mercy)</li>
+    <li>Assurance is real — we can have assurance that God will always hold up His end; we trust Him. We just don't trust ourselves to hold up ours. <em>"The assurance of a beloved who stays, not the guarantee of a contract I can't break."</em></li>
+  </ul>
+</div>
+
+
+<div class="card theology">
+  <h3>On <em>Incurvatus in Se</em> &amp; the Closed Fist</h3>
+  <p>Augustine's term for the soul curved in on itself. Patrick linked it directly to the closed-fist metaphor: <em>"The closed fist is incurvatus in se made visible."</em> Sacrifice liberates from this prison of self.</p>
+  <p>The seven deadly sins analysis: NOT primarily a refusal of sacrifice (Patrick checked this). The right framing is the closed-fist posture as the prior reality from which none of the four pillars can operate.</p>
+</div>
+
+<div class="card theology">
+  <h3>On the Book's Hidden Thesis</h3>
+  <blockquote><strong>"Only a church that finds its origin in God as love does, and is willing to look at the fullness of truth in all of God's revelation as love does, and is willing to define what justice requires... is the church that has actually preserved the fullness of love that Christ has taught."</strong></blockquote>
+  <p>Submission to the Magisterium = submission to God's love (not to a human institution). No sin is ever merely personal — every sin is ecclesial and cosmic.</p>
+</div>
+
+<!-- ============================================================ -->
+<h2 id="ch5">4. Chapter 5 Decisions</h2>
+
+<div class="card decision">
+  <h3><span class="tag tag-book">CH 5</span> "What Aquinas Already Saw" Section Added</h3>
+  <p>New section inserted between the fragmentation diagnosis and binding section, establishing the four-pillars-as-interior-anatomy-of-Aquinas's-definition framework. This is where the <code>amor est velle alicui bonum</code> connection lives.</p>
+  <p>Opening sentence references Benedict XVI's "dictatorship of relativism" — Patrick chose this anchor deliberately.</p>
+</div>
+
+<!-- ============================================================ -->
+<h2 id="ch6">5. Chapter 6 (Truth) Decisions</h2>
+
+<div class="card decision">
+  <h3><span class="tag tag-ch6">CH 6</span> Natural Law Framing</h3>
+  <p>Truth chapter establishes natural law — the order of creation implies an Orderer. The "two books" framing (book of nature, book of Scripture) was <strong>rejected</strong> as too neat. Instead: order-implies-Orderer argument.</p>
+</div>
+
+<div class="card decision">
+  <h3><span class="tag tag-ch6">CH 6</span> "Word of God" Is a Person</h3>
+  <p>Established distinction: the Word of God is Christ Himself (John 1:1-14), not primarily the Bible. Scripture is the written witness to the Word. This shapes how the chapter frames Scripture, Tradition, and Magisterium.</p>
+</div>
+
+<div class="card decision">
+  <h3><span class="tag tag-ch6">CH 6</span> <em>El Emet</em> = "God of Truth" (Not "The Truth")</h3>
+  <p>Hebrew precision: <em>El Emet</em> in Deut 32:4 means "God of Truth" — the genitive construction matters. God doesn't just tell the truth; He IS truth. Added Deut 32:4 to the God-is-Truth scriptural chain.</p>
+</div>
+
+<div class="card decision">
+  <h3><span class="tag tag-ch6">CH 6</span> Canon History (Honest Version)</h3>
+  <p>The canon was "received and ratified" by the Church, not "discerned" — this is the language of the CCC and the Church's own self-understanding (the Church did not create the canon; she received it). The Mass is older than the compiled Gospels — the liturgy provided the hermeneutical key, not the other way around.</p>
+</div>
+
+<div class="card decision">
+  <h3><span class="tag tag-ch6">CH 6</span> Yields Idolatry to Ch. 7</h3>
+  <p>Ch. 6 names idolatry as the downstream fruit of severing love from truth, but the full structural unpacking (Decalogue exposition, CCC 2113, modern-idols inventory) migrates to Ch. 7 where Aquinas classifies the virtue of religion under justice (ST II-II q.81). Ch. 6 keeps the <em>mechanism</em> sentence: love detached from truth re-attaches to a substitute.</p>
+</div>
+
+<div class="card decision">
+  <h3><span class="tag tag-ch6">CH 6</span> Counterfeit-Love Bullets → Idolatry Bridge</h3>
+  <p>Four counterfeits kept: "Love means accepting me as I am," "Love never judges," "Love means letting people define their own reality," "Love means inclusion and equality at all costs." The move: these share a single root — idolatry. Love is always directed at something; sever truth and love re-attaches to a substitute.</p>
+</div>
+
+<div class="card decision">
+  <h3><span class="tag tag-ch6">CH 6</span> Pundit Example Placement</h3>
+  <p>The pundit who reports truth selectively for ratings/advertisers = truth-without-justice (withholding from the public what they are owed). The pundit embroiled in adultery = truth-without-sacrifice (proclaiming truth you won't bleed for). Patrick caught the misplacement himself and corrected it.</p>
+</div>
+
+<div class="card decision">
+  <h3><span class="tag tag-ch6">CH 6</span> Kingdom Capstone + Holy Spirit Closing</h3>
+  <p>Matt 6:10 ("Thy kingdom come, thy will be done") added as capstone. Chapter closes with Holy Spirit / Matt 28:20 ("I am with you always") — connecting Christ's promise to the ongoing work of truth in the Church.</p>
+</div>
+
+<div class="card decision">
+  <h3><span class="tag tag-ch6">CH 6</span> Col 1:15 Insertion</h3>
+  <p>"He is the image of the invisible God" — added to the Truth chapter's Christological foundation.</p>
+</div>
+
+<!-- ============================================================ -->
+<h2 id="ch7">6. Chapter 7 (Justice) Decisions</h2>
+
+<div class="card decision">
+  <h3><span class="tag tag-ch7">CH 7</span> Two Opposing Sins (Recognized Exception)</h3>
+  <p>Justice is uniquely bi-directional. Toward God: <strong>idolatry</strong> (withholding owed worship). Toward neighbor: <strong>exploitation of the vulnerable</strong> (withholding owed dignity). Ch. 7 is the deliberate exception to the one-opposing-sin rule.</p>
+</div>
+
+<div class="card decision">
+  <h3><span class="tag tag-ch7">CH 7</span> "When the Thread Is Cut" — Two Sub-Callouts</h3>
+  <p><strong>Sub-callout A — Justice toward God severed (5 bullets):</strong> Idolatry, Sacrilege, Functional atheism, Syncretism, Presumption — each with inline Church citations.</p>
+  <p><strong>Sub-callout B — Justice toward neighbor severed (3 bullets):</strong> Abandonment of the vulnerable, Utilitarian reduction, Dehumanization — each with inline Church citations.</p>
+</div>
+
+<div class="card decision">
+  <h3><span class="tag tag-ch7">CH 7</span> Sacrament of Reconciliation → Preview Only</h3>
+  <p>Full treatment moved to Ch. 8 (Mercy is Confession's natural home). Ch. 7 keeps only a single-paragraph preview: <em>"Justice and mercy meet sacramentally in the Sacrament of Reconciliation — we will see its full shape in the next chapter."</em></p>
+</div>
+
+<div class="card decision">
+  <h3><span class="tag tag-ch7">CH 7</span> "Do You Want True Justice?" — Tightened to Half</h3>
+  <p>Four sequential sections felt like endings. The altar-call section kept but cut from ~20+ lines to ~8-12. Preserved: opening "Do you want human justice or God's justice?" framing; one paragraph on how God's justice differs; closing altar-call question.</p>
+</div>
+
+<div class="card decision">
+  <h3><span class="tag tag-ch7">CH 7</span> Closing Structure: Accept → Submit → Learn → Champion</h3>
+  <p>Chapter closing moves through this four-step sequence — Patrick's deliberate progression for the reader's response to justice.</p>
+</div>
+
+<div class="card decision">
+  <h3><span class="tag tag-ch7">CH 7</span> Catholic Social Teaching Paragraph Added</h3>
+  <p>One paragraph naming concrete applications: <em>Rerum Novarum</em>, <em>Pacem in Terris</em>, <em>Evangelium Vitae</em>, just war, capital punishment, immigration, just wage, care for creation. With humility note: the layman should read the encyclicals first.</p>
+</div>
+
+<div class="card decision">
+  <h3><span class="tag tag-ch7">CH 7</span> "Power Steals the Word Justice"</h3>
+  <p>Isaiah 5:20-21 anchor: calling evil good and good evil. The chapter addresses how political/cultural forces co-opt the word "justice" for their own ends. Patrick wanted this addressed directly.</p>
+</div>
+
+<div class="card decision">
+  <h3><span class="tag tag-ch7">CH 7</span> Apologetics: Bigotry Accusation</h3>
+  <p>Patrick wanted the chapter to preemptively address the accusation that Catholic moral teaching = bigotry. Approach: never defensive; simply show that justice requires truth, and rendering what is owed to a person includes telling them the truth about what is good for them.</p>
+</div>
+
+<div class="card decision">
+  <h3><span class="tag tag-ch7">CH 7</span> Declaration of Independence Quote</h3>
+  <p>Already in Ch. 7. Patrick approved expanding it but keeping it universal (no country named — the principle applied to any just government). Footnote on "pursuit of happiness": accurately attributes to 1776 Declaration; does NOT claim Jefferson personally meant <em>beatitudo</em>; traces concept through Aristotle → Cicero → Aquinas → CCC 1718.</p>
+</div>
+
+<!-- ============================================================ -->
+<h2 id="ch8">7. Chapter 8 (Mercy) Decisions</h2>
+
+<div class="card decision">
+  <h3><span class="tag tag-ch8">CH 8</span> "Three Shadows" Deleted</h3>
+  <p>Ch. 8 had both "The Three Shadows: Cruelty, Vengeance, and Despair" AND "When the Thread Is Cut" naming the same three end-states. <strong>Deleted "Three Shadows" entirely.</strong> "When the Thread Is Cut" stands alone, matching the pattern across Chs. 6-9.</p>
+</div>
+
+<div class="card decision">
+  <h3><span class="tag tag-ch8">CH 8</span> Forgiveness Section Reorder</h3>
+  <p>"Forgiveness and Reconciliation" promoted to sit right after "The Condition: We Must Forgive to Be Forgiven." "How Mercy Heals and Connects Souls" <strong>deleted</strong> — its best insight salvaged: <em>"every hardened heart is a fracture in the Body of Christ; forgiveness knits the Body back together."</em></p>
+</div>
+
+<div class="card decision">
+  <h3><span class="tag tag-ch8">CH 8</span> Full Reconciliation Treatment Owned Here</h3>
+  <p>Ch. 8 now owns the complete four-part unpacking of the Sacrament of Reconciliation: Confession = truth; Contrition/Penance = justice; Absolution = mercy; Restoration = grace united with Christ's sacrifice.</p>
+</div>
+
+<div class="card decision">
+  <h3><span class="tag tag-ch8">CH 8</span> Problem-Before-Cure Pattern</h3>
+  <p>Patrick's editorial instinct: always establish the wound before offering the healing. The reader needs to feel the weight of mercilessness before mercy is offered. Cancel culture framed as <strong>condemnation without hope of restoration</strong> — justice severed from mercy.</p>
+</div>
+
+<div class="card decision">
+  <h3><span class="tag tag-ch8">CH 8</span> "Restoration IS the Gospel" (2 Cor 5:18-19)</h3>
+  <p>Patrick's key move: the ministry of reconciliation is not an appendix to the Gospel — it IS the Gospel. 2 Cor 5:18-19 as anchor text.</p>
+</div>
+
+<div class="card decision">
+  <h3><span class="tag tag-ch8">CH 8</span> Major Sections Added</h3>
+  <ul>
+    <li><strong>"Why Mercy of This Magnitude Is Possible"</strong> — pastoral; concrete examples (abortion doctor, abuser, betrayer)</li>
+    <li><strong>"Divine Mercy: A Modern Witness to an Ancient Truth"</strong> — St. Faustina, the Image, JPII's Divine Mercy Sunday, the Chaplet</li>
+    <li><strong>"The Sacrament of the Sick"</strong> — James 5:14-15, Viaticum, CCC 1499-1532. Patrick: <em>"This is something vastly missing from Protestantism. There is no bedside spiritual send-off for the sick and dying."</em></li>
+    <li><strong>"What Mercy Actually Does: The Works of Mercy"</strong> — seven corporal + seven spiritual, Matthew 25, CCC 2447</li>
+  </ul>
+</div>
+
+<div class="card decision">
+  <h3><span class="tag tag-ch8">CH 8</span> Matthew 18 Parable Engagement</h3>
+  <p>After the opening callout, added an invitation for the reader to pause and read Matthew 18:23-35 directly from their Bible. Framed not as a threat but as a mirror. Then checked the rest of the chapter for ripple effects.</p>
+</div>
+
+<div class="card decision">
+  <h3><span class="tag tag-ch8">CH 8</span> Justice and Mercy in One Divine Nature</h3>
+  <p>Not two competing attributes but one divine nature expressing itself. The Cross doesn't soften justice — mercy flows <em>through</em> a justice that has been completely paid. The chapter must never pit them against each other.</p>
+</div>
+
+<!-- ============================================================ -->
+<h2 id="ch9">8. Chapter 9 (Sacrifice) Decisions</h2>
+
+<div class="card decision">
+  <h3><span class="tag tag-ch9">CH 9</span> Closed-Fist Passage Rewrite (The Central Change)</h3>
+  <p>Original four clauses pointed to like-for-like (refuse mercy → can't receive mercy). Patrick diagnosed the transactional problem. Final form capitalizes abstractions to become persons of Christ:</p>
+  <blockquote><strong>"A heart clenched against giving mercy cannot be embraced by the Mercy who comes to find it. A heart clenched against the truth cannot be known by the Truth who stands in front of it... A heart clenched against sacrifice cannot be held by the Love that bore every cost for it."</strong></blockquote>
+  <p>Binding sentence: <em>"Each refusal is not a refusal of a virtue. It is a refusal of the covenant — of the One Beloved in whom truth, justice, mercy, and sacrifice are not four gifts but one undivided Self."</em></p>
+</div>
+
+<div class="card decision">
+  <h3><span class="tag tag-ch9">CH 9</span> "What Children Know" Pivot</h3>
+  <p>Ch. 7 and Ch. 9 used the same "weaponized parental debt" example. <strong>Ch. 9 rewritten</strong> to pivot to: the parent more interested in career/self-fulfillment than in sacrificing for children — where divorce becomes an option before sacrifice. The child feels the wound of being less important than the parent's comfort.</p>
+</div>
+
+<div class="card decision">
+  <h3><span class="tag tag-ch9">CH 9</span> "WHO not WHAT" Callout Deleted</h3>
+  <p>Lines 246-248 removed. The paragraph above already carries the point. Net: Ch. 9 goes from 5 callouts to 4.</p>
+</div>
+
+<div class="card decision">
+  <h3><span class="tag tag-ch9">CH 9</span> Structural Arc</h3>
+  <p>OT seven sacrifices → Cross (perfect sacrifice) → Last Supper institution → Mass for 2,000 years → Body of Christ sent from altar into every sphere → eschatological gathering.</p>
+  <p>The veil interpretation: dropped the negative argument ("does not announce end of priesthood") because it isn't directly scriptural. Replaced with purely positive Hebrews 10:19-21 and 9:24.</p>
+</div>
+
+<div class="card decision">
+  <h3><span class="tag tag-ch9">CH 9</span> Open Hand Section — All Four Pillars</h3>
+  <p>The Open Hand passage explicitly covers all four pillars opening, not just mercy. Patrick confirmed: the hand opens by giving — different people come to God through different doors (reading, an extraordinary display of justice or mercy, an act of sacrifice). This is sanctification.</p>
+  <p><strong>Fiat / Gethsemane / Our Father</strong> = three voices of consent to sacrifice: Mary's <em>fiat</em>, Christ's <em>"not my will but thine"</em>, and our daily <em>"thy will be done."</em></p>
+</div>
+
+<div class="card decision">
+  <h3><span class="tag tag-ch9">CH 9</span> Missional Close Added</h3>
+  <p>Body of Christ sent from altar into world. <em>"Ite, missa est = Go, the Mass is ended; missa itself means sent."</em> Patrick's exact phrases preserved: <em>"a future filled with good Catholics"</em> and <em>"His perfect love is what saves the world."</em></p>
+</div>
+
+<div class="card decision">
+  <h3><span class="tag tag-ch9">CH 9</span> "The Disciple at the Teacher's Feet" Section</h3>
+  <p>Addresses counterfeit sacrifice (Pharisee critique). Three examples: Matt 23:23 (tithing mint/neglecting justice), Mark 7:9-12 (Corban), Luke 18:10-14 (Pharisee praying to mirror). Pattern: truth bent into self-display, justice used as weapon, mercy stays back at home.</p>
+  <blockquote><strong>"The religious leaders Christ confronted were not cartoon villains. They were the most observant, most conscientious, most respected believers of their day. They were the ones doing it right — by the visible measure. Christ's diagnosis is a warning addressed to us."</strong></blockquote>
+</div>
+
+<div class="card decision">
+  <h3><span class="tag tag-ch9">CH 9</span> Seven Deadly Sins → Ch. 13</h3>
+  <p>Moved from Ch. 9 to Ch. 13 (its natural home). The closed-fist posture is the prior reality; no need to analyze all seven within the sacrifice chapter.</p>
+</div>
+
+<div class="card decision">
+  <h3><span class="tag tag-ch9">CH 9</span> Martyrdom + Liturgical Year Section</h3>
+  <p>Stephen, Polycarp, Ignatius, Maximilian Kolbe, 21 Coptic martyrs of Libya. Tertullian: <em>"the blood of the martyrs is the seed of the Church."</em> Liturgical year as 2,000-year school of sacrifice.</p>
+</div>
+
+<div class="card decision">
+  <h3><span class="tag tag-ch9">CH 9</span> Romans 12:21 as Mechanism</h3>
+  <p>"Do not be overcome by evil, but overcome evil with good" — used as the mechanism of sacrifice (sacrifice is how good overcomes evil).</p>
+</div>
+
+<!-- ============================================================ -->
+<h2 id="ch10">9. Chapter 10 (Communion/Eucharist) Decisions</h2>
+
+<div class="card decision">
+  <h3><span class="tag tag-ch10">CH 10</span> Full Restructure — Five Movements</h3>
+  <ol>
+    <li><strong>The vision:</strong> what communion is (condense "Society Torn Apart by Lies" 40%, pivot to communion faster)</li>
+    <li><strong>The wound and the call:</strong> exile + <em>teleios</em> + birth scene</li>
+    <li><strong>How love creates communion:</strong> Physical → Spiritual → Sacramental (Eucharist, Whole Mass) → Ecclesial → Mary → Eternal</li>
+    <li><strong>What communion demands:</strong> Unity Requires Submission + Scandal of Division</li>
+    <li><strong>The call and the bridge:</strong> Call to Sainthood: FOR THE CHILDREN → Ch. 11 bridge</li>
+  </ol>
+</div>
+
+<div class="card decision">
+  <h3><span class="tag tag-ch10">CH 10</span> Distractions Identified &amp; Fixed</h3>
+  <ul>
+    <li><strong>Opening too truth-heavy</strong> — reprises Ch. 6 for 5 paragraphs before reaching communion. Fixed: pivot to communion by paragraph 2-3.</li>
+    <li><strong>"The Mass Is How the Church Reads Her Bible"</strong> — hermeneutics tangent condensed to one tight paragraph.</li>
+    <li><strong>John 17:21 repeated 4 times</strong> — reduced to single fullest use.</li>
+    <li><strong>"Remove one thread and it unravels" stated 3 times</strong> — Unity section keeps it; removed from Eucharist block and recap.</li>
+    <li><strong>"Source and summit" explained multiple times</strong> — de-duplicated.</li>
+  </ul>
+</div>
+
+<div class="card decision">
+  <h3><span class="tag tag-ch10">CH 10</span> Mass Walkthrough Section Added</h3>
+  <p><strong>"The Whole Mass: Where the Four Pillars Are Bound Together Each Week"</strong> — full liturgy from Penitential/Kyrie through <em>Ite missa est</em>, each part tagged with its pillar. This is the chapter's beating heart.</p>
+</div>
+
+<div class="card decision">
+  <h3><span class="tag tag-ch10">CH 10</span> Eucharistic Theology</h3>
+  <ul>
+    <li>Lamb slain yet standing (Rev 5) — makes this real, not metaphorical</li>
+    <li>"Amen" at Communion = wedding vow — the personal "yes"</li>
+    <li>The Eucharist constitutes the Church: <em>"He pours Himself into the Eucharist; the Eucharist pours Him into us; we, made one Body by what we receive, pour Him out into the world where the brother is still hungry."</em></li>
+    <li>Altar before Bible — the Mass provided the hermeneutical key</li>
+  </ul>
+</div>
+
+<div class="card decision">
+  <h3><span class="tag tag-ch10">CH 10</span> Mary Section</h3>
+  <p><em>Fiat</em>, foot of the Cross (John 19:25-27), Mother of Mercy, Cana ("Do whatever he tells you").</p>
+</div>
+
+<div class="card decision">
+  <h3><span class="tag tag-ch10">CH 10</span> Bridge Editorial Note</h3>
+  <p>Resolved: <em>"The Cross is not only the place where Truth was murdered; it is the place where Truth answered"</em> — eventually compressed after Patrick said it was too wordy. Final form: short, concrete, image-based — Friday/Sunday, the tomb as pivot.</p>
+</div>
+
+<!-- ============================================================ -->
+<h2 id="cross">10. Cross-Chapter Decisions (April 20 Review)</h2>
+
+<p><em>From <code>WIL_26-04-20_1111-CH6-9_EDIT_DECISIONS.md</code> — 10 major decisions consolidated from a cross-chapter review. See sections above for where each landed. The file also documents:</em></p>
+
+<div class="card decision">
+  <h3>Items Left As-Is (Decision 10)</h3>
+  <ul>
+    <li><strong>Opening Scripture blockquote counts</strong> — Ch. 6 (3), Ch. 7 (4), Ch. 8 (3), Ch. 9 (4). Each earned its count.</li>
+    <li><strong>Matt 5:48 in both Ch. 6 and Ch. 8</strong> — Ch. 6's reference is brief; Ch. 8 owns the full <em>teleios</em> exegesis. Not a repetition problem.</li>
+  </ul>
+</div>
+
+<div class="card decision">
+  <h3>Outstanding Minor Issues (from Apr 20 review)</h3>
+  <ul>
+    <li><strong>Ch. 9 length</strong> — held pending other edits; re-measure after all decisions land</li>
+    <li><strong>John 7:24</strong> ("judge with right judgment") — appears in Ch. 6 and Ch. 8; both brief, probably fine</li>
+    <li><strong>Ch. 7 blockquote Matt 23:23</strong> — if chapter runs long after sub-callout expansion, consider moving to Further Study</li>
+    <li><strong>All CCC and encyclical citations in Decision 5</strong> — stated from memory, need verification before publication</li>
+  </ul>
+</div>
+
+<!-- ============================================================ -->
+<h2 id="structure">11. Book Structure, Rules &amp; Foundational Principles</h2>
+
+<div class="card">
+  <h3>Word-by-Word Definition Mapping</h3>
+  <table>
+    <tr><th>Word / Phrase</th><th>Chapter</th><th>What it means</th></tr>
+    <tr><td><strong>Sacred</strong></td><td>Ch. 3</td><td>Love participates in God's own divine nature; it is holy, not merely human sentiment</td></tr>
+    <tr><td><strong>Gift of Covenant</strong></td><td>Ch. 4</td><td>Love is freely given AND covenantally binding — a permanent, chosen commitment, not a transaction</td></tr>
+    <tr><td><strong>Binds</strong></td><td>Ch. 5</td><td>Love is the <em>integrating force</em> that holds the four pillars together as one whole</td></tr>
+    <tr><td><strong>Truth</strong></td><td>Ch. 6</td><td>Love cannot be authentic if separated from reality; love is objective because it is truth</td></tr>
+    <tr><td><strong>Justice</strong></td><td>Ch. 7</td><td>Love gives each person what they are due; it has objective standards</td></tr>
+    <tr><td><strong>Mercy</strong></td><td>Ch. 8</td><td>Love goes beyond what is strictly due; it heals, forgives, restores</td></tr>
+    <tr><td><strong>Sacrifice</strong></td><td>Ch. 9</td><td>Love is proven and made real by cost; it holds nothing back</td></tr>
+    <tr><td><strong>Life-Giving Communion</strong></td><td>Ch. 10</td><td>Love creates, unifies, and sustains life — draws persons into genuine union with God and neighbor</td></tr>
+  </table>
+</div>
+
+<div class="card">
+  <h3>Chapter Map — Part 1: The Nature of Perfect Love (Chs. 1–10)</h3>
+  <table>
+    <tr><th>Ch.</th><th>Title</th><th>Facet</th></tr>
+    <tr><td>1</td><td>The Problem of Evil</td><td>Evil originates in hearts that reject love</td></tr>
+    <tr><td>2</td><td>The Answer Is Love</td><td>God's Perfect Love is the only complete solution</td></tr>
+    <tr><td>3</td><td>Sacred</td><td>Love participates in divine nature</td></tr>
+    <tr><td>4</td><td>Gift of Covenant</td><td>Love is freely given and permanently binding</td></tr>
+    <tr><td>5</td><td>Binding</td><td>Love integrates all four threads into one whole</td></tr>
+    <tr><td>6</td><td>Truth</td><td>Without truth, love is disconnected from reality</td></tr>
+    <tr><td>7</td><td>Justice</td><td>Love gives each person what they are due</td></tr>
+    <tr><td>8</td><td>Mercy</td><td>Love goes beyond what is due to heal and restore</td></tr>
+    <tr><td>9</td><td>Sacrifice</td><td>Love is proven real by cost and self-gift</td></tr>
+    <tr><td>10</td><td>Life-Giving Communion</td><td>Love creates unity and new life</td></tr>
+  </table>
+</div>
+
+<div class="card">
+  <h3>Chapter Map — Part 2 and Beyond (Chs. 11–16)</h3>
+  <table>
+    <tr><th>Ch.</th><th>Title</th><th>Theme</th></tr>
+    <tr><td>11</td><td>The New Law Requires a Lawgiver</td><td>Each facet reveals objective moral truth requiring a divine source</td></tr>
+    <tr><td>12</td><td>Virtues: Faith Working Through Love</td><td>Every virtue upholds all four pillars; faith is covenantal exchange</td></tr>
+    <tr><td>13</td><td>Sin — The Failure to Love</td><td>Sin = denying one or more pillars of love</td></tr>
+    <tr><td>14</td><td>Counterfeit Love</td><td>Counterfeits diagnosed by which pillar(s) they eliminate</td></tr>
+    <tr><td>15</td><td>For the Love of Children</td><td>Ultimate test: what does each counterfeit do to children?</td></tr>
+    <tr><td>16</td><td>The Gospel: Perfect Love Incarnate</td><td>Jesus embodies every component of the definition perfectly</td></tr>
+  </table>
+</div>
+
+<div class="card">
+  <h3>The Undercurrent of the Whole Book (Author's Deeper Purpose)</h3>
+  <p>Every chapter should be read and evaluated against this underlying argument. It is not preached overtly at the reader, but it is the thread that ties every chapter together. <strong>Read a sentence, claim, or argument in any single chapter only in light of the accumulated context the reader carries from earlier chapters.</strong></p>
+  <ol>
+    <li><strong>Love has objective structure</strong> — it is not a feeling, slogan, or sentiment. The four pillars are the <em>anatomy</em> of love. Modern slogans like <em>"love is love"</em> are reductions of love into sentimental mercy alone, stripped of truth and justice.</li>
+    <li><strong>Sin has objective structure too</strong> — and it mirrors love's structure. Every sin attacks one or more pillars.</li>
+    <li><strong>No sin is ever "personal"</strong> — every sin is ecclesial and cosmic. Every sin wounds the Body of Christ. This undercuts the assumption that "private" sins are their own business.</li>
+    <li><strong>Christian division is itself a sin against truth.</strong> <em>"Catholic, Protestant, Orthodox — doesn't really matter"</em> is not humility. It is a sin against truth (Eph 4:5), justice to God, and Christ's own prayer (John 17:21). A divided Church preaches a divisible Christ; a divisible truth is the world's favorite lie.</li>
+    <li><strong>Faith alone is insufficient unless we ask: <em>faith in what, and for what?</em></strong> A "faith" that does not produce truth-telling, justice-doing, mercy-showing, sacrifice-making disciples is faith in a feeling <em>about</em> Christ. Paul and James both point at <em>faith working through love</em> (Gal 5:6).</li>
+    <li><strong>Virtue is not Pelagian</strong> — it is the shape of our response to being loved first. We become virtuous because we have <em>already been loved first</em>. The virtues are the shape of love alive in us, not tickets. Matthew 5–7 and Philippians 3 call us to lifelong movement toward perfection.</li>
+    <li><strong>Submitting to the Magisterium is submitting to Christ's love</strong> — not to a human institution, but to Christ's own teaching authority, preserved across 2,000 years. <em>"The gates of hell shall not prevail against her"</em> (Matt 16:18).</li>
+    <li><strong>The Catholic Church alone holds all four pillars bound across time.</strong> The book's quiet conclusion, never argued bluntly but structurally implied. Only a Church with Magisterium, Sacred Tradition, Scripture, and the sacraments working together can hold the whole deposit. Submitting fully to the Church's teaching makes all of Scripture most true, most cohesive, and most comprehensive.</li>
+    <li><strong>The pastoral tone throughout.</strong> The book hands the reader a framework sharp enough that they see for themselves. The invitation is <em>"look at love clearly, and follow where the fullness actually lives,"</em> and voluntarily, humbly, submit to Her.</li>
+  </ol>
+  <p><strong>Summary in one line:</strong> <em>The book is a devotional on love that quietly makes the case that only the Catholic Church preserves the whole shape of Perfect Love — truth, justice, mercy, and sacrifice bound together in covenant — and that every sin against any pillar, however small, is a participation in the world's disintegration of love and a wound on the Body of Christ.</em></p>
+</div>
+
+<div class="card">
+  <h3>Chapter Structure (What Chapters Actually Look Like)</h3>
+  <p>Chapters follow a <strong>loose convention</strong> that has evolved through drafting. Honor the convention; do not force a chapter into a shape that breaks its natural flow.</p>
+  <h4>Required Elements (every chapter)</h4>
+  <ol>
+    <li><strong>H1 title</strong> — <code># Chapter Title</code></li>
+    <li><strong>Opening blockquote(s)</strong> — Scripture (RSV) using <code>&lt;div class="blockquote"&gt;</code> pattern with <code>\hfill\small — Reference</code></li>
+    <li><strong><code>---</code> divider</strong> between opening quotes and body</li>
+    <li><strong>Body</strong> — <code>##</code> sections with chapter-specific, evocative titles (never generic labels like "Practical Application")</li>
+    <li><strong><code>## The Bridge to [Next Facet]</code></strong> — must name the next chapter by number and preview its theme</li>
+    <li><strong><code>---</code> divider</strong> between body and back matter</li>
+    <li><strong><code>## Further Study</code></strong> with <code>### Scripture</code>, <code>### Catechism of the Catholic Church</code>, <code>### Christian Thinkers</code></li>
+  </ol>
+  <h4>Optional / Evolving Conventions</h4>
+  <ul>
+    <li><strong><code>## What Children Know About [Facet]</code></strong> — recurring motif in Chs. 3–6; continue where it fits</li>
+    <li><strong><code>## Binding Check</code></strong> — <strong>required in Chs. 6–9</strong>; optional elsewhere</li>
+    <li><strong><code>## When the Thread Is Cut</code></strong> — <strong>required in Chs. 6–9</strong>; sits after Binding Check, before Bridge</li>
+    <li><strong>Callouts</strong> — <code>&lt;div class="callout"&gt;</code> blocks, sparingly. Chs. 6–9 always have at least two: opposing-sin at top and end-state inside "When the Thread Is Cut"</li>
+    <li><strong><code>### Notes</code></strong> — footnotes at end of Further Study</li>
+  </ul>
+  <h4>Removed from Template (No Longer Used)</h4>
+  <p>Three Questions to Ask, Practical Application, Chapter Takeaway, Test Questions, Reflection Question, Prayer Practice, Vices associated with the virtue — <strong>all removed</strong> in favor of sustained narrative argument.</p>
+</div>
+
+<div class="card">
+  <h3>The Four-Part Pattern for Chapters 6–9</h3>
+  <p>Chs. 6–9 each treat one pillar. They share a <strong>consistent four-part structure</strong> (A–D). Ch. 6 is the reference implementation.</p>
+  <p><strong>Part A — Open by naming the sin directly opposite to that pillar.</strong> After the opening prose, insert a callout naming the opposing sin, grounded in Scripture. <strong>Terminology note:</strong> avoid "cardinal sin." Use: (1) "the sin directly opposite to X" (default), (2) "the opposing sin against X," (3) "the contrary sin against X" (Thomistic), or (4) "the antithesis of X" (most formal). Never use <em>cardinal sin</em>, <em>capital sin</em>, or <em>mortal sin</em> in this diagnostic sense.</p>
+  <p><strong>Framing note for Ch. 7 (Justice):</strong> Justice is the one pillar whose opposing sin divides by direction. Toward God: <strong>idolatry</strong>. Toward neighbor: <strong>exploitation of the vulnerable</strong>. This is the deliberate exception to the one-opposing-sin rule.</p>
+  <p><strong>Part B — The body proves why this sin destroys love</strong>, exploring the pillar positively and negatively.</p>
+  <p><strong>Part C — Close with the end-state diagnostic</strong> under <code>## When the Thread Is Cut</code>, placed after <code>## Binding Check</code> and before <code>## The Bridge</code>. Callback sentence naming the opposing sin again; make clear the list is <em>illustrative, not exhaustive</em>. End-state callout with three bullets:</p>
+  <ul>
+    <li>Truth removed → manipulation / relativism / idolatry</li>
+    <li>Justice removed → <strong>two sub-callouts</strong>: God-ward (idolatry / sacrilege / functional atheism / syncretism / presumption) and neighbor-ward (abandonment / utilitarian reduction / dehumanization)</li>
+    <li>Mercy removed → cruelty / vengeance / despair</li>
+    <li>Sacrifice removed → transaction / barrenness / betrayal</li>
+  </ul>
+  <p><strong>Part D — The Bridge must explicitly name the next chapter and preview its theme.</strong> Not vague — say <em>"In Chapter 7, we turn to justice…"</em></p>
+  <p><strong>Crucial framing note for Ch. 6 (Truth):</strong> Ch. 6's opening question is an <strong>epistemological/phenomenological claim, not a metaphysical priority claim.</strong> Ch. 5 already settled that no thread is metaphysically prior. Truth is the shared existential floor every human being stands on before theology begins.</p>
+</div>
+
+<div class="card">
+  <h3>Cardinal-Sin Framework for Chs. 6-9</h3>
+  <table>
+    <tr><th>Pillar</th><th>Cardinal Sin</th><th>Reasoning</th></tr>
+    <tr><td>Truth</td><td><strong>Lying</strong></td><td>Direct falsification of the medium of communion; foundational because every sin involves a lie</td></tr>
+    <tr><td>Justice → God</td><td><strong>Idolatry</strong></td><td>First debt of justice is worship owed to Creator; refusing/redirecting it is foundational injustice</td></tr>
+    <tr><td>Justice → Neighbor</td><td><strong>Abortion / exploitation</strong></td><td>Maximum vulnerability; maximum injustice; denial of life itself; CCC 1867 "sins that cry to heaven"</td></tr>
+    <tr><td>Mercy</td><td><strong>Vengeance</strong></td><td>Patrick's insight: <em>"Not only are you not willing to forgive but you're actively pursuing — you're actually sacrificing something to inflict harm"</em></td></tr>
+    <tr><td>Sacrifice</td><td><strong>Sloth / Lukewarmness</strong></td><td>Refusal of self-gift; Rev 3:16; CCC 2094</td></tr>
+  </table>
+  <p><strong>Pattern:</strong> Each primary sin attacks not just its own pillar but also corrupts another. Lying makes justice impossible. Idolatry denies truth about God. Abortion weaponizes a perverted sacrifice. Vengeance hijacks sacrifice to deny mercy.</p>
+</div>
+
+<div class="card">
+  <h3>Chapter Pattern (Chs. 6-9)</h3>
+  <ul>
+    <li><strong>Part A:</strong> Cardinal sin opening callout</li>
+    <li><strong>Part B:</strong> Body proves the pillar</li>
+    <li><strong>Part C:</strong> End-state closing ("When the Thread Is Cut")</li>
+  </ul>
+  <p>Required elements: H1, opening Scripture blockquote (<code>&lt;div class="blockquote"&gt;</code>), <code>---</code> divider, body <code>##</code> sections, <code>## Binding Check</code>, <code>## When the Thread Is Cut</code>, <code>## The Bridge to [Next Chapter]</code>, <code>---</code>, <code>## Further Study</code> with <code>### Scripture</code>, <code>### Catechism</code>, <code>### Christian Thinkers</code>.</p>
+  <p>Removed from template (no longer used): Three Questions, Practical Application, Chapter Takeaway, Prayer Practice, Vices section.</p>
+</div>
+
+<div class="card">
+  <h3>Audience</h3>
+  <ul>
+    <li><strong>Primary:</strong> Everyday Catholics seeking to deepen authentic love of God and neighbor</li>
+    <li><strong>Secondary:</strong> Lukewarm/cultural Catholics drifting toward easy-believism; Protestants raised in tradition-by-default; Orthodox, secular, and spiritually curious readers</li>
+  </ul>
+  <p><strong>Working assumption about non-Catholic readers:</strong> a reader who picked this book up is <em>not</em> vehemently opposed to Catholic authority. They are most likely someone whose current tradition is inherited rather than chosen, who holds <em>sola scriptura</em> (or none at all) as a default. Write for the open reader; the hostile reader would never have reached page one.</p>
+</div>
+
+<div class="card">
+  <h3>Tone Rules</h3>
+  <ul>
+    <li><strong>Unapologetically Catholic.</strong> Use Catholic doctrine, CCC, encyclicals, Fathers, councils, Sacred Tradition, Magisterium, Natural Law freely and confidently, without qualification.</li>
+    <li><strong>Confident, not combative.</strong> Introduce Catholic concepts positively and naturally. Do not hedge or soften.</li>
+    <li><strong>Never defensive.</strong> Do not pre-emptively argue against <em>sola scriptura</em> or justify every Catholic citation. State the fullness; let it speak.</li>
+    <li><strong>Never antagonistic.</strong> Do not attack Protestantism, its figures, or its principles directly. Beauty converts; argument alone rarely does.</li>
+    <li><strong>Never name Protestant traditions directly.</strong> Always steelman the concern they are guarding.</li>
+    <li><strong>Pastoral and invitational.</strong> Hand the reader a framework sharp enough to see for themselves where love has been reduced, and where the fullness has been preserved.</li>
+    <li><strong>Personal, direct, relatable, evangelistic.</strong> Use "bite-sized theology" — substantial but accessible.</li>
+  </ul>
+  <p><strong>Minor note:</strong> When a non-Catholic source happens to be right (e.g., Wesley's <em>"moving on toward perfection"</em>), use the <em>concept</em> but avoid quoting them by name. Prefer Catholic sources for the same point.</p>
+</div>
+
+<div class="card theology">
+  <h3>The Free Will Principle (Foundational to Every Chapter)</h3>
+  <p>God's love is perfect but never coerced. Free will is a gift of God, not a possession independent of God (Phil 2:13). The same freedom that empowers love empowers refusal — there is no third option. <strong>The whole Christian life is the moment-by-moment, voluntary, willing return of that gift to its Giver.</strong></p>
+  <p><strong>Necessary, not causal:</strong> Our free yes is <em>necessary</em> but not the <em>cause</em> of salvation. God is sole efficient cause; our consent is the <em>causa sine qua non</em> — the door, not the engine. Council of Trent Session VI; Augustine: <em>"He who created you without you will not save you without you."</em></p>
+  <p><strong>Three-voice pattern of free consent:</strong> Mary's <em>fiat</em> (Luke 1:38), Christ in Gethsemane (Luke 22:42), the Our Father (Matt 6:10). The same prayer in three voices: a creaturely will returning itself to the One who gave it.</p>
+  <p><strong>Editing rules:</strong> Never write grace acting on a passive recipient. Never write cooperation adding anything to God. Name sin as free choice, virtue as free return. The phrase <em>"freely, willingly, voluntarily"</em> is the book's signal for this principle.</p>
+</div>
+
+<div class="card theology">
+  <h3>The Shema as Scripture's Hermeneutical Key</h3>
+  <p>Christ names the Shema (Deut 6:4-5) joined to love of neighbor (Lev 19:18) as the interpretive key for <em>all</em> of Scripture: <em>"On these two commandments depend all the law and the prophets"</em> (Matt 22:40).</p>
+  <p><strong>Three Shema passages:</strong> Deut 6:4-5 (source text), Mark 12:29-31/Matt 22:34-40 (hermeneutical principle), Luke 10:25-28 (<strong>soteriological condition</strong> — <em>"do this, and you will live"</em>). Luke 10 is non-negotiable wherever the book discusses faith, salvation, or faith-and-works.</p>
+  <p>Hebrew <em>shama</em> ("hear/listen") = etymological root of biblical obedience. Obedience is irreducibly relational — one listens to a person, not a rulebook.</p>
+</div>
+
+<div class="card theology">
+  <h3>Honoring the Old Covenant</h3>
+  <p>Fulfillment is not replacement. OT worship was not empty rehearsal — the Israelite who laid his hand on the lamb was truly meeting God. <strong>Preferred verbs:</strong> fulfills, completes, perfects, gathers, brings to fullness. <strong>Avoid:</strong> "could only," "in pieces," "gesture toward," "shadows that..." Never diminish Israel's worship to a placeholder.</p>
+  <p>Pastoral test: would a devout Jewish reader recognize that this book honors the faith of his fathers? The Cross does not say the Temple was wrong; the Cross says the Temple was right, and reveals the One the Temple was always for.</p>
+</div>
+
+<div class="card">
+  <h3>Plain Language Rule (Book-Wide)</h3>
+  <p><strong>Write for the nominal Catholic, not the seminarian.</strong> Explain every term of art at first use, in plain English, inside the sentence. Prefer concrete over abstract — show the idea before naming it. Latin is seasoning, not the meal. Test: would a Christmas-and-Easter Catholic understand this on first read?</p>
+</div>
+
+<div class="card">
+  <h3>Writing Guidelines</h3>
+  <ul>
+    <li><strong>Length:</strong> 2,000–2,500 words per chapter</li>
+    <li><strong>Scripture:</strong> RSV translation, always</li>
+    <li><strong>Voice:</strong> personal, direct, relatable, evangelistic, apologetic — never academic</li>
+    <li><strong>Status:</strong> Book is written (Part 1 through Ch. 16), now in <strong>final editing</strong> — surgical editing, not drafting from scratch</li>
+    <li><strong>Pope Leo XIV quotes</strong> (Nov 21, 2025 Address to Roman Curia) are legitimate, author-sourced, though not in most AI training data</li>
+  </ul>
+</div>
+
+<div class="card">
+  <h3>Footnote Convention</h3>
+  <p>In-body <code>&lt;sup&gt;N&lt;/sup&gt;</code> marker; <code>### Notes</code> at end of Further Study; restart numbering per chapter; keep short (1–3 sentences). Do not use footnotes for routine Scripture or CCC citations — those go inline in parentheses. Reserve for: patristic/papal citations, scope disclaimers, scholarly context.</p>
+</div>
+
+<div class="card">
+  <h3>File &amp; Path Conventions</h3>
+  <ul>
+    <li><strong>Chapter files:</strong> <code>chapters/chapter_##.md</code></li>
+    <li><strong>Editorial Memory Map:</strong> <code>memory.html</code> (this file)</li>
+    <li><strong>Archived outlines/plans:</strong> <code>archive/planning/</code></li>
+    <li><strong>Build profiles:</strong> <code>build/</code></li>
+    <li><strong>Scripts:</strong> <code>bin/</code></li>
+    <li><strong>Working todos:</strong> <code>todos.md</code></li>
+    <li><strong>Style reference:</strong> <code>book1-blogpost-for-catholics.md</code></li>
+    <li><strong>Ruthless editing checklist:</strong> <code>prompts/Ruthless Editing Checklist–No Mercy.md</code></li>
+  </ul>
+</div>
+
+<div class="card">
+  <h3>Source Rules (Directive, Not Stylistic)</h3>
+  <p>These quotes are from Pope Leo XIV's Address to the Roman Curia (Nov. 21, 2025) and are legitimate and author-sourced, though not in most AI training data:</p>
+  <blockquote><strong>"The sacred authority is participation in the authority of Christ, and its service to truth is a way of knowing and embracing the ultimate Truth, which is Christ Himself (cf. Jn 14:6)."</strong> — Pope Leo XIV, Address to the Roman Curia (Nov. 21, 2025)</blockquote>
+  <blockquote><strong>"Every person therefore is invited to 'repent' and to 'believe' in God's merciful love."</strong> — Pope Leo XIV, Address to the Roman Curia (Nov. 21, 2025)</blockquote>
+</div>
+
+<div class="card">
+  <h3>When to Update This File</h3>
+  <p>This memory map is the contract between the author and every future agent. <strong>Propose updates to the author (do not silently edit) whenever:</strong></p>
+  <ol>
+    <li>A new convention is established that applies to more than one chapter</li>
+    <li>An existing convention is changed or refined</li>
+    <li>A factual claim is contradicted by the current manuscript</li>
+    <li>A new chapter-specific framing note is discovered that future agents will need</li>
+    <li>A stale reference is found</li>
+  </ol>
+  <p><strong>Do NOT update for:</strong> one-off editorial decisions for a single sentence, personal taste, or agent opinions. This file captures the author's voice and choices.</p>
+</div>
+
+<!-- ============================================================ -->
+<h2 id="research">12. Research &amp; Scripture Citations</h2>
+
+<div class="card research">
+  <h3>Key Scriptural Anchors by Chapter</h3>
+
+  <h4>Chapter 6 (Truth)</h4>
+  <ul>
+    <li>John 14:6 — "I am the way, and the truth, and the life"</li>
+    <li>John 1:1-14 — Word of God is a Person</li>
+    <li>Col 1:15 — "He is the image of the invisible God"</li>
+    <li>Deut 32:4 — <em>El Emet</em>, God of Truth</li>
+    <li>Matt 6:10 — Kingdom capstone</li>
+  </ul>
+
+  <h4>Chapter 7 (Justice)</h4>
+  <ul>
+    <li>Isaiah 5:20-21 — calling evil good and good evil</li>
+    <li>Isaiah 1:17 — defend the vulnerable</li>
+    <li>CCC 2113, 2120, 2128, 2091-2092 — idolatry, sacrilege, atheism, presumption</li>
+    <li>Aquinas ST II-II q.62 — restitution</li>
+    <li>Aquinas ST II-II q.81 — virtue of religion under justice</li>
+  </ul>
+
+  <h4>Chapter 8 (Mercy)</h4>
+  <ul>
+    <li>Matt 18:23-35 — Unforgiving Servant (primary parable)</li>
+    <li>2 Cor 5:18-19 — ministry of reconciliation</li>
+    <li>Matt 25 — Works of Mercy</li>
+    <li>CCC 982 — no offense the Church cannot forgive</li>
+    <li>CCC 1499-1532 — Anointing of the Sick</li>
+    <li>James 5:14-15 — anointing the sick</li>
+  </ul>
+
+  <h4>Chapter 9 (Sacrifice)</h4>
+  <ul>
+    <li>Heb 10:19-21 and 9:24 — torn veil / Christ's priesthood</li>
+    <li>John 18:37 — "for this I was born... to bear witness to the truth"</li>
+    <li>Ps 85:10 — "righteousness and peace will kiss"</li>
+    <li>Luke 23:42-43 — Good thief, first canonized saint of New Covenant</li>
+    <li>Gal 5:6 — "faith working through love"</li>
+    <li>Phil 2:12-13 — synthesis verse</li>
+    <li>James 2:14-17 — outward-facing reading</li>
+    <li>Rom 12:21 — overcome evil with good</li>
+    <li>Matt 23:23, Mark 7:9-12, Luke 18:10-14 — Pharisee examples</li>
+    <li>CCC 1366-1367 — Mass as one sacrifice</li>
+  </ul>
+
+  <h4>Chapter 10 (Communion)</h4>
+  <ul>
+    <li>John 17:21 — "that they may all be one" (single use, not repeated)</li>
+    <li>Rev 5 — Lamb slain yet standing</li>
+    <li>2 Cor 3:18 — beholding → becoming (flagged for further development)</li>
+    <li>John 19:25-27 — Mary at the Cross</li>
+    <li>John 2:5 — "Do whatever he tells you"</li>
+  </ul>
+</div>
+
+<div class="card research">
+  <h3>Patristic &amp; Magisterial Sources</h3>
+  <ul>
+    <li><strong>Augustine:</strong> <em>Confessions</em> 1.1.1 (restless heart); <em>City of God</em> XIV.13 (pride); <em>incurvatus in se</em></li>
+    <li><strong>Aquinas:</strong> <em>ST</em> I-II q.26 a.4 (<em>amor est velle alicui bonum</em>); II-II q.26 (Ordo Amoris); II-II q.47-56 (Prudence); II-II q.62 (Restitution); II-II q.81 (Religion under Justice); II-II q.99 (Sacrilege)</li>
+    <li><strong>Irenaeus:</strong> <em>Against Heresies</em> 4.20.7 (glory of God = man fully alive)</li>
+    <li><strong>Tertullian:</strong> blood of the martyrs = seed of the Church</li>
+    <li><strong>Pope Benedict XVI:</strong> <em>Spe Salvi</em> §44 (God's justice as hope for victims); <em>Caritas in Veritate</em>; "dictatorship of relativism"</li>
+    <li><strong>John Paul II:</strong> <em>Dives in Misericordia</em>; <em>Evangelium Vitae</em>; <em>Christifideles Laici</em>; Divine Mercy Sunday</li>
+    <li><strong>Trent:</strong> Session 22 ch.1 (priesthood and sacrifice)</li>
+    <li><strong>Vatican II:</strong> <em>Gaudium et Spes</em> §24; <em>Apostolicam Actuositatem</em></li>
+    <li><strong>CCC:</strong> 605, 982, 1040, 1366-1367, 1477, 1499-1532, 1544-1547, 1700, 1718, 1867, 1934-1938, 2094, 2095-2096, 2113, 2120, 2128, 2447</li>
+  </ul>
+</div>
+
+<!-- ============================================================ -->
+<h2 id="rejected">13. Rejected Approaches</h2>
+
+<div class="card rejected">
+  <h3>Language / Phrasing Rejections</h3>
+  <ul>
+    <li><code>"taste the love"</code> — "Taste of love is not working for me here" (borrowed from Ps 34, doesn't earn its keep)</li>
+    <li><code>"cost of love"</code> — preferred plain word "sacrifice"</li>
+    <li><code>"performed"</code> — "we don't love out of performance" → changed to "lived"</li>
+    <li><code>"letting him have his way with us"</code> — "sounds too manipulative" → fiat/Our Father language</li>
+    <li><code>"steps into no real rescue"</code> — "clunky" → replaced with John 10 shepherd/hireling echo</li>
+    <li><code>"when it lands on it"</code> — "isn't landing" (too abstract)</li>
+    <li><code>"That fear is right to fear that"</code> — "does not read well" → "And they are right to guard it"</li>
+    <li><code>"unmercy"</code> — not a word; never use it</li>
+  </ul>
+</div>
+
+<div class="card rejected">
+  <h3>Theological / Structural Rejections</h3>
+  <ul>
+    <li><strong>Negative argument about torn veil</strong> — can't substantiate from Scripture that it does NOT announce end of priesthood. Go purely positive with Hebrews.</li>
+    <li><strong>"Carries the other three into effect"</strong> — implies metaphysical priority of sacrifice; violates AGENTS.md §4.</li>
+    <li><strong>"Two books" framing</strong> (book of nature, book of Scripture) — too neat; rejected in favor of order-implies-Orderer.</li>
+    <li><strong>"Finished work" language</strong> — Patrick: "I think they have a completely wrong interpretation of that." Never concede this framing.</li>
+    <li><strong>Using "child rapist" as concrete example</strong> — "Let's not use a child rapist."</li>
+    <li><strong>Adding Matt 5:7 to mercy paragraph close</strong> — "maybe we don't need that last bit because we're trying to speak about the power of Jesus' sacrifice, not our requirements for it."</li>
+    <li><strong>Partiality-paragraph in Ch. 7</strong> — rejected (unclear why; noted as rejected approach).</li>
+    <li><strong>Cross-chapter repetition of pillar arguments</strong> — each chapter must make its own pillar-specific argument, not restate what another chapter proved.</li>
+  </ul>
+</div>
+
+<!-- ============================================================ -->
+<h2 id="apologetics">14. Apologetics Approach</h2>
+
+<div class="card">
+  <h3>Protestant Engagement Rules</h3>
+  <ul>
+    <li><strong>Never name Protestant traditions directly.</strong></li>
+    <li><strong>Always steelman the concern</strong> they are guarding: <em>"our hope rests on His Cross, not on our offerings."</em></li>
+    <li><strong>State the Catholic positive case</strong> so thoroughly it "trounces the faith-alone half-truth" without ever naming it.</li>
+    <li><strong>Matt 28:18</strong> — always include v.18 (Christ's authority); note who is in the room (the eleven Apostles, not a generalized crowd).</li>
+    <li>The spiral of faith and love: <em>"Faith leads us to love. Love grows us in faith."</em> Not faith <em>plus</em> works. One organic reality.</li>
+  </ul>
+</div>
+
+<div class="card">
+  <h3>Patrick's Catholic Salvation Sequence</h3>
+  <blockquote><strong>He loves us first → we come to trust Him in faith → in that trust we learn His ways of love → and we obediently live them out in sacrificial love.</strong></blockquote>
+  <p>No boasting, no earning. Every step is grace. But precisely because it's a living relationship: <em>"Every single day I can choose to stop listening."</em></p>
+</div>
+
+
+<!-- ============================================================ -->
+<h2 id="future">15. Future Work &amp; Todos</h2>
+
+<div class="card">
+  <h3>New Chapter 11: Prudence — How to Love</h3>
+  <p>Patrick's insight: <em>"One thing I don't think we have is a chapter that is like a practical application of how we actually discern what God's perfect love requires in any situation."</em></p>
+  <p>Positioned between current Ch. 10 (Communion) and Ch. 11 (Law Requires a Lawgiver). Ten-section outline exists in todos.md. Ordo Amoris from Ch. 9 flagged as candidate to move here. Aquinas ST II-II qq.47-56 as foundation.</p>
+</div>
+
+<div class="card">
+  <h3>Future Book Idea</h3>
+  <p><strong>"What is a Church?"</strong> — Patrick's future book project answering the authority questions: is the Bible alone our authority, or does the Catholic Church hold that role? Material from the God-is-Truth scriptural chain work could seed this.</p>
+</div>
+
+<div class="card">
+  <h3>Pending Verifications</h3>
+  <ul>
+    <li>All CCC numbers in Ch. 7 Decision 5 sub-callouts — stated from memory</li>
+    <li>Exact section numbers for <em>Dominus Iesus</em>, <em>Dives in Misericordia</em>, <em>Caritas in Veritate</em>, <em>Evangelium Vitae</em></li>
+    <li>Aquinas ST references (q.81 for religion, q.99 for sacrilege)</li>
+    <li>St. John Chrysostom Hom. 88 on Matthew — flagged for fact-check</li>
+    <li>St. Leo the Great, Sermon on the Passion — flagged for fact-check</li>
+    <li>Ch. 14 self-actualization content — verify current state</li>
+    <li>Ch. 10 cross-reference resolution and unity theme gaps — two pending editorial notes</li>
+  </ul>
+</div>
+
+<!-- ============================================================ -->
+<h2 id="sources">16. Source File Index</h2>
+
+<div class="card">
+  <h3>43 Trajectory Files Processed</h3>
+  <table>
+    <tr><th>File</th><th>Size</th><th>Primary Content</th></tr>
+    <tr><td>Refining Sacrifice Chapter.md</td><td>219K</td><td>Ch. 9 closed-fist rewrite, faith/works, Aquinas integration</td></tr>
+    <tr><td>Shema and Obedience in Chapter 9.md</td><td>168K</td><td>Ch. 9 Shema, James 2, veil, Eucharistic bridge</td></tr>
+    <tr><td>Refining Chapter 10 Unity.md</td><td>114K</td><td>Cross-chapter review Chs. 6-10, Mass walkthrough, Mary</td></tr>
+    <tr><td>Sins Against Love's Pillars.md</td><td>98K</td><td>Cardinal-sin framework, AGENTS.md overhaul, undercurrent thesis</td></tr>
+    <tr><td>Refine Chapter 9 Introduction.md</td><td>71K</td><td>Ch. 9 introduction, Open Hand, OT transition</td></tr>
+    <tr><td>Ready to edit 'What is Love'!.md</td><td>65K</td><td>Initial editing session setup, voice calibration</td></tr>
+    <tr><td>Reviewing Agent Instructions.md</td><td>61K</td><td>AGENTS.md review and refinement</td></tr>
+    <tr><td>Scriptural Passages on Mercy.md</td><td>56K</td><td>Ch. 8 Matt 18 parable, mercy research</td></tr>
+    <tr><td>Refining Justice Chapter Language.md</td><td>49K</td><td>Ch. 7 language, callouts, interplay</td></tr>
+    <tr><td>Deflate Chapter 9 Descent.md</td><td>43K</td><td>Ch. 9 structural tightening</td></tr>
+    <tr><td>Chapter 10: Full Restructure.md</td><td>42K</td><td>Ch. 10 five-movement restructure</td></tr>
+    <tr><td>Refactor Justice Chapter Interplay.md</td><td>38K</td><td>Ch. 7 pillar interplay, Binding Check</td></tr>
+    <tr><td>Refining Divine Attributes.md</td><td>19K</td><td>Divine simplicity, mercy toward enemies, Passion</td></tr>
+    <tr><td>Chapter 9 Old Covenant Transition.md</td><td>13K</td><td>OC pedagogy, John 10:27-29 grip passage</td></tr>
+    <tr><td>Critiquing Salvation Teaching.md</td><td>13K</td><td>Catholic salvation theology, Protestant apologetics</td></tr>
+    <tr><td>Refining Truth's Revelation.md</td><td>13K</td><td>El emet, order-implies-Orderer, "two books" rejected</td></tr>
+    <tr><td>Biblical References for 'God is Truth'.md</td><td>9.2K</td><td>God-is-Truth scriptural chain</td></tr>
+    <tr><td>Refining Mercy Section.md</td><td>9.1K</td><td>Ch. 8 cancel culture, condemnation vs. restoration</td></tr>
+    <tr><td>Theology of Human Cooperation.md</td><td>8.3K</td><td>Grace + cooperation, canon history, Mass older than Gospels</td></tr>
+    <tr><td>Investigating Build Process.md</td><td>7.7K</td><td>Build system, posttitle at line 76</td></tr>
+    <tr><td>Review Chapter 6 Flow.md</td><td>7.1K</td><td>Ch. 6 tangent map, flow fixes</td></tr>
+    <tr><td>Refining Catholic Devotional Book.md</td><td>6.4K</td><td>Apr 20 edit decisions implementation log</td></tr>
+    <tr><td>Refining Justice Chapter Opening.md</td><td>5.6K</td><td>Ch. 7 opening, bi-directional exception</td></tr>
+    <tr><td>Verify Chapter 10 Cross-Reference.md</td><td>5.4K</td><td>Ch. 10 editorial note on Cross-resolves-lies</td></tr>
+    <tr><td>Unity and God's Perfect Love.md</td><td>4.5K</td><td>Unity-requires-submission insight</td></tr>
+    <tr><td>Refining Chapter 6 Introduction.md</td><td>3.9K</td><td>Truth opening, counterfeit-love → idolatry bridge</td></tr>
+    <tr><td>Embellish Pundit's Backstory.md</td><td>3.8K</td><td>Pundit example placement under correct pillar</td></tr>
+    <tr><td>Roman Numeral Clarification.md</td><td>2.7K</td><td>Pope Leo XVI numeral</td></tr>
+    <tr><td>Refactor Chapter 7 Callouts.md</td><td>2.6K</td><td>WTIC callout titles, idolatry framing</td></tr>
+    <tr><td>Refining Chapter Opening.md</td><td>2.5K</td><td>Chapter opening refinement</td></tr>
+    <tr><td>Clarifying Justice Definitions.md</td><td>2.5K</td><td>Aquinas on justice definitions</td></tr>
+    <tr><td>Adding to Chapter 6.md</td><td>2.3K</td><td>Matt 6:10 capstone, Holy Spirit closing</td></tr>
+    <tr><td>Chapter 7 Justice and Relativism.md</td><td>2.3K</td><td>No cross-chapter repetition rule</td></tr>
+    <tr><td>Refining Chapter 6 Sentence.md</td><td>2.2K</td><td>Sentence-level refinement</td></tr>
+    <tr><td>Update Scripture Reference.md</td><td>2.0K</td><td>Scripture reference correction</td></tr>
+    <tr><td>Refining Justice Paragraph.md</td><td>1.6K</td><td>Aquinas restitution, justice's two halves</td></tr>
+    <tr><td>Refining Mercy's Consequences.md</td><td>1.5K</td><td>Mercy-enablement as third outcome</td></tr>
+    <tr><td>Transition to Authority Discussion.md</td><td>1.4K</td><td>Truth/authority bridge</td></tr>
+    <tr><td>Refining Chapter 5 Sentence.md</td><td>1.3K</td><td>Dictatorship of relativism in Ch. 5</td></tr>
+    <tr><td>Clarifying Hebrew Translation.md</td><td>1.2K</td><td>El emet precision</td></tr>
+    <tr><td>Clarify Church Definition.md</td><td>1.0K</td><td>Church definition Q&A format</td></tr>
+    <tr><td>Remove Callout Text.md</td><td>871B</td><td>Formatting: unwrap callout div to markdown</td></tr>
+    <tr><td>Refactor Bulleted List.md</td><td>780B</td><td>Bullets → prose narrative</td></tr>
+  </table>
+</div>
+
+<div class="card">
+  <h3>Additional Source</h3>
+  <p><strong><code>WIL_26-04-20_1111-CH6-9_EDIT_DECISIONS.md</code></strong> — 10 major cross-chapter editorial decisions from April 20, 2026 read-aloud session. Includes implementation order and outstanding issues.</p>
+</div>
+
+<!-- ============================================================ -->
+<h2 id="todos">17. Open Work Items &amp; Todos</h2>
+
+<p><em>Migrated from <code>todos.md</code> on June 18, 2026. Oldest items at bottom, newest at top.</em></p>
+
+<h3>In Progress</h3>
+
+<div class="card decision">
+  <h3>Full-Book Pass: TJMS as One, Not Four</h3>
+  <p>After all chapter edits are complete, do a final pass through the entire book (Chs. 1–16) to ensure no wording portrays Truth, Justice, Mercy, and Sacrifice as four separate things that must be added together, bound together, or combined. They must always read as <strong>the one undivided life of God's Perfect Love</strong>, seen through four facets.</p>
+  <p>Anchor framing established in Ch. 9 L115/L125/L128: <em>God is not three things added together. God is truth, God is justice, God is mercy, God is love — one undivided life.</em></p>
+  <p><strong>Distinction to preserve:</strong> in <em>human</em> moral life, the four genuinely must be integrated/woven (we lack divine simplicity), so "binding"/"weaving" language remains correct when describing how <em>we</em> love — but never when describing what <em>God is</em> or what the <em>Cross reveals.</em></p>
+  <p>Watch especially: Ch. 5 (Binding), Ch. 6–9 thread closings, Ch. 10 (Life-Giving Communion), Ch. 12 (Virtues), Ch. 16 (Gospel).</p>
+</div>
+
+<div class="card decision">
+  <h3>NEW Ch. 11: "Prudence — How to Love" <span class="tag tag-book">DRAFTED</span></h3>
+  <p><strong>Placement rationale:</strong> the reader has just finished the full explication of the definition of perfect love (Ch. 1–10, ending with Life-Giving Communion). Before turning to the apologetic (lawgiver), character (virtues), and failure-modes (sin, counterfeits, consequences) arcs, the reader needs the practical hinge: <em>how do I actually apply this in a real situation?</em> Prudence is the cardinal virtue of application — the charioteer of the other virtues — and without it, the four pillars remain beautiful in theory and paralyzing in practice.</p>
+  <p>Inserted as the new Ch. 11 between Ch. 10 and the old Ch. 11 (Law Requires a Lawgiver → becomes Ch. 12). Full renumbering: Ch. 12→13, 13→14, 14→15, 15→16, 16→17.</p>
+  <p><strong>Full drafting outline (LOCKED):</strong> see <code>chapters/chapter_11_prudence_outline.md</code> — spine = Prodigal Son (Luke 15) as icon of Perfect Love's third way; 4 case studies locked (adult child→Truth, euthanasia→Justice, therapeutic divorce→Sacrifice, repentant grave sinner→Mercy climax) + rapid-fire (homeless man, murky work request).</p>
+  <p><strong>Length target:</strong> ~Ch. 12's length (~210 lines). Not exhaustive; establishes the framework and hands off the comprehensive treatment to Book 2.</p>
+  <h4>Outline (rough, 10 sections):</h4>
+  <ol>
+    <li><strong>The Problem of Application</strong> — knowing the four pillars ≠ knowing how to apply them. James 1:22, CCC 25.</li>
+    <li><strong>Prudence: The Cardinal Virtue of Application</strong> — Aquinas: <em>recta ratio agibilium</em>. CCC 1806. Charioteer of the virtues. The <em>intelligence of love.</em></li>
+    <li><strong>The Four Pillars Only Seem to Conflict</strong> — when they seem to pull apart, we are misreading one. They always converge on one integrated answer.</li>
+    <li><strong>The Order of Love (<em>Ordo Amoris</em>)</strong> — plan to move from Ch. 9 to here. God → soul → spouse/children → extended family → neighbor → enemy. Not affection but obligation. We are not God — finite resources.</li>
+    <li><strong>Case Studies: Discernment in Action</strong> — hardest cases to prove the framework works. Patrick's thinking: <em>"What about the abortion doctor who comes to his senses? What about the Mother who realizes what she has done? What about the 'transgender' child? Maybe we need to look at each social ill we have been hinting about… need to figure this out before writing this section."</em></li>
+    <li><strong>The Formation of Prudence</strong> — conscience formation, Sacraments (esp. Confession/Eucharist), prayer (examen, lectio divina, Holy Spirit), spiritual direction, the saints, community of the Church.</li>
+    <li><strong>The Holy Spirit's Gift of Counsel (<em>Consilium</em>)</strong> — Isaiah 11:2. Discernment of spirits (Ignatius). Supernatural dimension of prudence.</li>
+    <li><strong>When Prudence Fails</strong> — occasion for Confession and humility that deepens prudence. Hand-off to Sin chapter (new Ch. 14).</li>
+    <li><strong>Toward Book 2 (handoff)</strong> — comprehensive practical treatment reserved for <em>Book 2: Practicing Perfect Love.</em></li>
+    <li><strong>Bridge to Ch. 12 (Law Requires a Lawgiver)</strong> — what grounds the moral order we have been discerning?</li>
+  </ol>
+  <h4>Follow-on tasks once finalized:</h4>
+  <ol>
+    <li>Decide whether to move the Ch. 9 <em>Ordo Amoris</em> section into Ch. 11, leaving a brief pointer in Ch. 9. Leaning yes — <em>Ordo Amoris</em> is a four-pillars-application doctrine, not sacrifice-specific.</li>
+    <li>Renumber all later chapters (12–17) and update cross-references throughout the book — especially Ch. 16 (Gospel).</li>
+    <li>Update the TOC and any summary/outline documents.</li>
+    <li>Seed the Book 2 concept file — <em>Practicing Perfect Love: The Discernment of God's Will in Every Situation.</em></li>
+  </ol>
+</div>
+
+<div class="card decision">
+  <h3>Add Cross-Chapter Deuterocanonical Citations</h3>
+  <p>Evaluate every chapter for opportunities to cite Wisdom, Sirach, Tobit, Judith, Baruch, 1–2 Maccabees, and additions to Daniel/Esther — to show Catholic ideas come straight from Scripture and demonstrate why these books are necessary.</p>
+</div>
+
+<div class="card decision">
+  <h3>Review "Do You Want True Justice?" Section (Ch. 7)</h3>
+  <p>Decide whether to keep this section and add similar sections in Chs. 6, 8, and 9.</p>
+</div>
+
+<div class="card decision">
+  <h3>Fix Part 2 Chapter Range in Introduction</h3>
+  <p><code>3_introduction.md</code> L137 reads <strong>"PART 2: THE TEST OF LOVE (Chapters 11-14)"</strong> but then gives summaries for Chapters 11–16 with no Part 3 header. <strong>Address AFTER the new Ch. 11 is added and all chapters are renumbered.</strong></p>
+  <p>Also reconcile the Journey-Ahead chapter titles to the actual chapter H1s (they currently differ):</p>
+  <ul>
+    <li>Intro says "Ch 11: The New Law requires a Lawgiver" but H1 is "The Law of Love Requires a Lawgiver"</li>
+    <li>"Ch 12: Virtues: Faith Working Through Love" vs H1 "The Nature of Virtues—Faith Working Through Love"</li>
+    <li>"Ch 14: Counterfeit Love: The False Promise of Relativism" vs H1 "Counterfeit Love in the Modern World"</li>
+    <li>"Ch 15: For the Love of Children" vs H1 "The Generational Consequences: How Counterfeit Love Destroys Children"</li>
+    <li>"Ch 16: The Gospel: Perfect Love Incarnate" vs H1 "The Gospel - God's Perfect Love Revealed in Christ"</li>
+  </ul>
+  <p>Decide which direction is canonical (TOC label vs chapter heading) and make them match.</p>
+</div>
+
+<div class="card decision">
+  <h3>Misc. In-Progress Items</h3>
+  <ul>
+    <li>Ch. 16: make clear the Mass is Jesus' invitation to respond to His Gospel — He <em>is</em> the Gospel, and the Mass celebrates TJMS of Christ within it.</li>
+    <li>Definition must not make TJMS read as things we must do to <em>get</em> God's Perfect Love — they are intrinsic to what Love <em>is.</em></li>
+    <li><strong>Sanctification as the Progressive Opening of the Hand — Graft into Ch. 12.</strong> Ch. 12 already covers sanctification theology (Trent L110-114, cooperation L116, faith through love L124-126, Augustine "crowns His own gifts" L128, grace enabling cooperation L134). Graft 1–2 paragraphs near L126 with two points: (1) <strong>Objective unity of the gift</strong> (callback Ch. 9 L123) — He is one undivided Self; TJMS are facets of the one Beloved, not four products on a shelf. (2) <strong>Phenomenological multiplicity of reception</strong> (callback Ch. 9 L129) — grace meets humans through whichever door is open first: beauty of truth (Aquinas), unexpected mercy (Vianney), stunning sacrifice (Kolbe), quiet justice (Joseph) — and pries the others open. The fully sanctified hand has been opened through all four doors and receives the whole undivided Beloved. Makes explicit that "faith working through love" <em>is</em> the hand opening, sanctification <em>is</em> the progressive prying-open.</li>
+    <li>Matt 5:8 ("Blessed are the pure in heart…") — consider adding in the communion chapter.</li>
+    <li>Consider making all of Jesus' words red letter and first for each chapter.</li>
+    <li>Work on an actual name for the four facets/angles/realities/components of love.</li>
+  </ul>
+</div>
+
+<div class="card decision">
+  <h3><span class="tag tag-book">DONE</span> Unity as Submission to the Authority of Perfect Love (2026-05-31)</h3>
+  <p>Added as <code>## Unity Requires Submission to the Authority of His Perfect Love</code> in <code>chapter_10.md</code>.</p>
+</div>
+
+<div class="card decision">
+  <h3><span class="tag tag-book">DONE</span> Beholding → Becoming: The Ecce Agnus Dei Moment (2026-05-31)</h3>
+  <p>Added as <code>### We Become What We Behold</code> in <code>chapter_10.md</code>.</p>
+</div>
+
+<h3>Future Tasks</h3>
+
+<div class="card">
+  <h3>Full-Book Review Against the Undercurrent</h3>
+  <p>Once the cardinal-sin restructure is complete, do a full-pass review of every chapter (1–16) against the nine-point undercurrent documented in <code>AGENTS.md</code>. For each chapter, check:</p>
+  <ol>
+    <li>Does it honor love's objective structure (four pillars)?</li>
+    <li>Does it name sin by proper vocabulary when sin appears?</li>
+    <li>Does it respect the ecclesial dimension (no sin is private)?</li>
+    <li>Does it avoid endorsing the "all religions are the same" reduction?</li>
+    <li>Does it frame faith as <em>faith working through love</em>, not faith alone in isolation?</li>
+    <li>Does it frame virtue as response to being loved first, not as earning?</li>
+    <li>Does it treat the Magisterium as Christ's love preserved, not as institutional tribalism?</li>
+    <li>Does it structurally support the conclusion that only the Catholic Church holds all four pillars bound?</li>
+    <li>Does it maintain the pastoral, invitational tone (never argumentative, never shaming)?</li>
+  </ol>
+  <p>Produce a per-chapter report: what lands, what's missing, what could be strengthened with small edits.</p>
+</div>
+
+<div class="card">
+  <h3>Magisterial Argument Placement</h3>
+  <p>Decide where the explicit magisterial argument lands:</p>
+  <ul>
+    <li><strong>Option A:</strong> Epilogue / personal closing after Ch. 16 ("Why I Am Catholic" / "A Word to My Fellow Christians" / "One Body, One Love")</li>
+    <li><strong>Option B:</strong> Woven into Ch. 11 (Law Requires a Lawgiver → extended to show the Lawgiver also protects a Law-keeper)</li>
+    <li><strong>Option C:</strong> Both — brief argument in/after Ch. 11 + personal epilogue</li>
+  </ul>
+  <p>Recommendation from prior discussion: <strong>Option C (both).</strong></p>
+</div>
+
+<div class="card">
+  <h3>Book Reviewers</h3>
+  <ul>
+    <li>Catholic Apologist</li>
+    <li>Catholic Theologian</li>
+    <li>Jewish / Hebrew Scholar — to review all uses of Hebrew and Old Covenant sacrifices</li>
+  </ul>
+</div>
+
+<div class="card">
+  <h3>Capture the "Why Catholic" Personal Voice</h3>
+  <p>The author's long message on April 20, 2026 contains the raw material for the epilogue — journey through Methodism, exposure to Protestantism, arrival at Catholicism. When ready, draft as <code>chapters/epilogue.md</code> in first-person voice. The undercurrent in <code>AGENTS.md</code> is the theological skeleton; the epilogue is the personal-testimony flesh.</p>
+</div>
+
+<h3>Completed</h3>
+
+<div class="card">
+  <ul>
+    <li>Added "Undercurrent of the Whole Book" section to <code>AGENTS.md</code> (2026-04-20)</li>
+    <li>Added vengeance as perversion of sacrifice to Wrath entry in Ch. 13 (2026-04-19)</li>
+    <li>Added "life, liberty, pursuit of happiness" illustration + footnote 4 to Ch. 7 (2026-04-19)</li>
+  </ul>
+</div>
+
+<hr>
+
+<p style="color:var(--muted); text-align:center; font-size:0.85rem; margin-top:2rem;">
+  Generated from 43 Windsurf Cascade trajectory exports + 1 edit decisions document.<br>
+  Compiled June 17, 2026 for MuninnDB memory population. Todos merged June 18, 2026.
+</p>
+
+</body>
+</html>
