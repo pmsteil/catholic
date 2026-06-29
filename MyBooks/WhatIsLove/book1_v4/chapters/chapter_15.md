@@ -344,7 +344,7 @@ It is worth pausing to recognize what this reveals about the nature of sin itsel
 
 **Why It Fails:** Scripture explicitly contradicts it: "You see that a man is justified by works and not by faith alone" (James 2:24). Faith that doesn't transform the whole person and bear fruit in acts of justice, mercy, and sacrifice is not authentic faith.
 
-**A Note on Ecumenical Dialogue:** The 1999 *Joint Declaration on the Doctrine of Justification* between the Catholic Church and the Lutheran World Federation achieved significant consensus on justification, affirming that "by grace alone, in faith in Christ's saving work and not because of any merit on our part, we are accepted by God." Catholics and many Protestants agree that saving faith necessarily produces good works. The counterfeit addressed here is the more extreme position that separates faith entirely from its fruits—a position that even many Protestant traditions reject.
+**A Note on Charitable Reading:** Some Christians who speak of being saved by "faith alone" do not mean a faith stripped of works; they readily affirm that saving faith necessarily bears fruit in love. The counterfeit addressed here is the more extreme claim that separates faith entirely from its fruits—a claim that most who use the phrase would themselves reject.
 
 **The Larger Context:** Grace is God's Perfect Love poured into our hearts. Christ's saving work is the perfect integration of truth, justice, mercy, and sacrifice displayed on the Cross. Justification exists within this larger reality—God's grace to justify is not a time-stamped event but an aspect of His Perfect Love that begins with Him as Author of Love and ends with Him as our eternal Communion.
 
@@ -447,7 +447,6 @@ Twelve counterfeits. Twelve failures of this test. Only God's Perfect Love passe
 - **CCC 1730-1748:** Freedom and responsibility—authentic human freedom
 
 ### Christian Thinkers
-- **C.S. Lewis:** *The Abolition of Man*—Objective values vs. relativism
 - **Pope John Paul II:** *Veritatis Splendor*—The splendor of truth in moral theology
 - **Pope Benedict XVI:** *Deus Caritas Est*—God is love, authentic vs. counterfeit
 - **Peter Kreeft:** *Making Sense Out of Suffering*—The problem of evil and love's answer

@@ -176,7 +176,6 @@ The problem is clear—but what is the answer? The next chapter reveals it.
 ### Christian Thinkers
 - **St. Augustine of Hippo (354-430):** Bishop and Doctor of the Church whose *Confessions* and *City of God* provide foundational understanding of evil as privation of good and the role of free will in human sin
 - **Pope John Paul II (1920-2005):** His encyclical *Reconciliatio et Paenitentia* offers profound insights into the nature of sin and reconciliation in the modern world
-- **C.S. Lewis (1898-1963):** Anglican scholar whose *The Problem of Pain* and *Mere Christianity* provide accessible explanations of why God permits evil and how Christianity addresses it
 
 ### Further Reading on Natural Law
 

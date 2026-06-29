@@ -13,7 +13,7 @@
 
 ## Editing Workflow
 
-**Always show proposed edits before applying them, as an inline word-level redline (track-changes style).** Show the affected sentence(s) once, in place, with the removed words struck through (red) and the inserted words shown inline (green) — so the author reads the text as it actually flows, not as separate before/after blocks. Then wait for the author's approval (a short "y"/"b" is his usual yes) before writing the change to disk.
+**Always show proposed edits before applying them, as an inline word-level redline (track-changes style).** Show the affected sentence(s) once, in place, with the removed words struck through (red) and the inserted words shown inline (green) — so the author reads the text as it actually flows, not as separate before/after blocks. Then wait for the author's approval (a short "y" is his usual yes; "n" is no) before writing the change to disk.
 
 - Diff at word/phrase granularity: leave unchanged text plain and mark only what truly changes.
 - If your environment can render HTML, render the redline as styled inline HTML (book prose in a serif face so it reads like the page; removed = red strikethrough on a light-red ground, added = green on a light-green ground; a header with the file name and the section/intent of the edit). If it cannot, approximate the same inline redline in whatever markup is available — the rule is inline track-changes, never a horizontally-scrolling code diff and never a separate before/after pair.

@@ -18,7 +18,7 @@
 
 Everyone talks about "the Gospel". Few can define it fully.
 
-Chapter 16 asked where God's Perfect Love comes from. The answer is not a philosophy or a program—it's a Person.
+Chapter 16 ended by asking where God's Perfect Love comes from. This chapter gives the full answer.
 
 Ask ten Christians "What is the Gospel?" and you'll get ten different answers—each capturing part of the truth: "Jesus died for your sins." "God loves you." "Believe and be saved." But the Gospel is more comprehensive than any single slogan.
 
@@ -327,5 +327,4 @@ Pray this prayer today—and whenever you need to surrender again.
 - **St. Athanasius:** *On the Incarnation*—"God became man so that man might become god"
 - **St. Anselm:** *Cur Deus Homo*—Why God became man; necessity of Incarnation
 - **Pope Benedict XVI:** *Jesus of Nazareth* trilogy—Comprehensive treatment of Christ's life
-- **N.T. Wright:** *The Day the Revolution Began*—Fresh look at the meaning of the Cross
 - **Hans Urs von Balthasar:** *Theo-Drama*—Christ as center of salvation history
