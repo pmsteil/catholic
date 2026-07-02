@@ -287,9 +287,9 @@ What His Church has carried into every age is not a theory of sacrifice but a wa
 
 ## The Hierarchy of Sacrifice
 
-Not all sacrifices are equal. There is an order to love: we are bound to God first, then to our own soul, then to spouse and children, then to wider family and community, then to neighbor and stranger, and finally even to our enemies. We sacrifice our *comfort* for others, but never our *souls* — we can never choose sin to "help" another, no matter how noble the intention seems, because the one thing we may never lay on the altar is the image of God within us.
+Not all sacrifices are equal. There is an order to love — we are bound to God first, then to our own soul, then to spouse and children, then outward to family, neighbor, and even enemy — and that ordering turns out to be the very engine of practical wisdom. We sacrifice our *comfort* for others, but never our *souls*: we can never choose sin to "help" another, however noble the intention seems, because the one thing we may never lay on the altar is the image of God within us.
 
-This ordering of love — the ancient *Ordo Amoris* (OR-doh ah-MOH-ris), or "order of love," taught by St. Augustine and St. Thomas Aquinas (*Summa Theologica* II-II, q.26) — turns out to be the very engine of practical wisdom. We take it up in full in Chapter 11, where we ask not only *that* love sacrifices but *how* it discerns whom to sacrifice for when our finite strength cannot reach everyone at once.
+This *order of love* — its ancient name, its sources in Augustine and Aquinas, and how it discerns *whom* to sacrifice for when our finite strength cannot reach everyone at once — we take up in full in Chapter 11.
 
 ## How Sacrifice Combats Evil
 
@@ -362,6 +362,18 @@ When we sacrifice for the person rather than for benefits, we're loving as God l
 <div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
 Authentic sacrifice loves the person for WHO they are (imago Dei), not WHAT they provide. This is covenant love—grounded in personhood, not performance.
 </div>
+
+## Do You Want Love Worth Dying For?
+
+Your life will be spent on something. Most pour it out — for a person, a cause, a career, a hope. Others clutch it and spend it on themselves alone, the center of their own small universe. Either way, it is spent. So the question Sacrifice asks is never *whether* your life will be poured out, but **for what — and for whom.**
+
+For Sacrifice is not a fourth principle beside truth, justice, and mercy. It is the cost that makes them *real* — the difference between a truth you hold and a truth you will bleed for, a justice you admire and a justice you defend at a price, a mercy you feel and a mercy that reaches the one in the dark. So a life can be poured out completely and still be wasted, even ruinous, when it is spent for a lie, an injustice, or a counterfeit mercy. Even a man who knows nothing of God can lay down his life — *"greater love has no man than this"* (John 15:13) — and the Cross is exactly that: costly love bound, with nothing held back, to all that is true, just, and merciful.
+
+**Will you let your self-gift be bound to what is authentically true, truly just, and truly merciful — poured out as Christ poured His out on the Cross — or spent on a counterfeit that costs you everything and builds nothing?**
+
+Then **give** yourself for the person in front of you, not the benefit you collect; **bind** every sacrifice to what is true, just, and merciful, so it heals instead of harms; **learn** the easy yoke that keeps self-gift from curdling into waste; and **lay** your life down where He has placed you — never seeking martyrdom nor courting harm, yet ready to give even your life if truth and justice require it — for the spouse, the child, the friend, the stranger He gives you to love.
+
+This is the call to the fullness of God's love — to pour out your life for all that is authentically true, just, and merciful, as He poured out His.
 
 ## Binding Check
 

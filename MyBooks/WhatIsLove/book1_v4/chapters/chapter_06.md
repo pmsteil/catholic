@@ -250,6 +250,18 @@ And this is why the division of Christians into rival communions is itself a wou
 
 The Church's authority, then, serves not truth alone but the integration of truth with justice, mercy, and sacrifice — the whole of God's love bound together. Her authority is itself an expression of that love (as we saw in Chapter 5, and as Chapter 10 will reveal fully in the Eucharist).
 
+## Do You Want the Truth?
+
+Think of the worst lie ever told to you — the one you believed, and built on, before you found out. When it broke, what you felt was not only hurt; it was your heart insisting it had a *right* to what was real. That insistence hides a question: **do you want human truth, or God's truth?**
+
+Human truth, even at its sharpest, can name facts, expose lies, and map the world — but it cannot, of itself, reach the realities your whole life rests on: who God is, who you are, and what you were made for. God's Truth is not a proposition you master; it is a Person you kneel before and give yourself to — and who heals you as He reveals Himself.
+
+**Will you accept the Truth who is bound inseparably to justice, mercy, and sacrifice — or settle for facts you can possess and still die clutching?**
+
+Then **receive** Him, **submit** your own judgments to His, **learn** Him until you can tell truth from its counterfeits at sight, and **speak** Him — without flinching and without cruelty — into every room you enter.
+
+This is the call to the fullness of God's love — to seek the wisdom of His truth and to live in it.
+
 ## Binding Check
 
 What happens to truth when it is cut off from the other pillars?

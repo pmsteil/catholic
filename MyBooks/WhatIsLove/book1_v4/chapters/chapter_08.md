@@ -242,6 +242,18 @@ The Church has never let mercy float as an abstract feeling. From the earliest c
 
 These are not a checklist for the spiritually ambitious. They are the *ordinary* shape of mercy in any Christian life — and the criteria, in fact, by which Christ Himself said He will judge the world: *"Truly, I say to you, as you did it to one of the least of these my brethren, you did it to me"* (Matthew 25:40). Two thousand years of Catholic hospitals, orphanages, food kitchens, schools, prison ministries, hospices, missions, and burial societies are nothing other than the Church doing these fourteen things — on a scale and across a span of history no other institution has matched. Mercy is not what we feel about the suffering; it is what we do for them.
 
+## Do You Want Mercy?
+
+Every guilty conscience makes the same cry in the dark — not to be excused, but to be *forgiven*. Follow that cry down to its root and you reach a question: **do you want human mercy, or God's mercy?**
+
+Human mercy, even at its kindest, can overlook, tolerate, and let the matter drop — but it cannot wash a conscience clean or raise a dead heart to life. God's mercy does not merely acquit; it heals the wound, restores the communion, and makes the sinner new.
+
+**Will you accept the Mercy that cost God everything and heals the very thing it forgives — or settle for being tolerated and never transformed?**
+
+Then **receive** it where you have fallen, **confess** what justice has named, **forgive** as freely as you have been forgiven, and **carry** it to the next person waiting in the dark for someone to go beyond what is owed.
+
+This is the call to the fullness of God's love — to receive His mercy and to become it.
+
 ## Binding Check
 
 Mercy is the pillar most often mistaken for the whole of love — which means its distortions are the most common, and the hardest to see. Listen for these:

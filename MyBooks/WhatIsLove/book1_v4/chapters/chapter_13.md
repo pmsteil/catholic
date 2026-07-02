@@ -32,54 +32,69 @@ Consider a mother who stays up all night with a sick child. In that single act, 
 
 And that's exactly what we discover across all the virtues. They aren't arbitrary rules imposed from outside—they're the natural expression of God's law written on our hearts. Each virtue flows from and serves these four pillars, showing us how to live according to God's nature as Love.
 
-The matrix below shows which facets of love each virtue actively engages when practicing the virtue. A "✓" indicates the virtue primarily upholds that facet.
+The matrix below shows which facets of love each virtue actively engages when practiced. Each row first states the virtue's defining act—the definition its marks are read from. A "✓" indicates a facet the virtue upholds; a "★" marks its *primary*—the facet the virtue leads with, the one its definition cannot be stated without.
 
 ---
 
 ## All Virtues: Primary Relationship to Truth, Justice, Mercy, and Sacrifice
 
-| Virtue | Truth | Justice | Mercy | Sacrifice |
-|--------|-------|---------|-------|-----------|
+| Virtue | The defining act | Truth | Justice | Mercy | Sacrifice |
+|--------|------------------|:-----:|:-------:|:-----:|:---------:|
 | **Theological Virtues** |
-| Faith | ✓ | ✓ | | ✓ |
-| Hope | ✓ | | ✓ | ✓ |
-| Charity/Love | ✓ | ✓ | ✓ | ✓ |
+| Faith | Assent owed to God as First Truth—believing all He has revealed | ★ | ✓ | | ✓ |
+| Hope | Trusting expectation of eternal life, resting on God's promises | ✓ | | | ★ |
+| Charity/Love | Love itself—willing the good of God and neighbor with God's own love | ★ | ★ | ★ | ★ |
 | **Cardinal Virtues** |
-| Prudence | ✓ | ✓ | ✓ | ✓ |
-| Justice | ✓ | ✓ | | ✓ |
-| Fortitude | ✓ | ✓ | | ✓ |
-| Temperance | ✓ | ✓ | | ✓ |
+| Prudence | Right judgment of what love must do here and now | ★ | ✓ | ✓ | ✓ |
+| Justice | The constant will to render God and neighbor their due | ✓ | ★ | | ✓ |
+| Fortitude | Firmness in rendering what is owed when it costs—even life | ✓ | ✓ | | ★ |
+| Temperance | Governing appetite so the body God bought is kept in trust | ✓ | ✓ | | ★ |
 | **Capital Virtues** |
-| Humility | ✓ | ✓ | ✓ | ✓ |
-| Generosity | ✓ | ✓ | ✓ | ✓ |
-| Chastity | ✓ | ✓ | | ✓ |
-| Patience | ✓ | ✓ | ✓ | ✓ |
-| Diligence | ✓ | ✓ | | ✓ |
-| Kindness | ✓ | ✓ | ✓ | ✓ |
-| Contentment | ✓ | ✓ | ✓ | ✓ |
+| Humility | Owning the truth of what we are—giving God His rightful place | ★ | ✓ | | ✓ |
+| Generosity | Giving freely beyond obligation from goods held in trust for the needy | ✓ | ✓ | ★ | ✓ |
+| Chastity | Keeping the body's self-gift true to its covenant | ✓ | ★ | | ✓ |
+| Patience | Bearing evils calmly—leaving to God what is His, sparing the offender | ✓ | ✓ | ✓ | ★ |
+| Diligence | Faithful labor with the time and talents entrusted to us | ✓ | ★ | | ✓ |
+| Kindness | Active goodwill toward the neighbor—love's standing debt, given beyond it | ✓ | ✓ | ★ | ✓ |
+| Contentment | Resting satisfied with God's allotment, honoring the Giver in the gift | ✓ | ★ | | ✓ |
 | **Additional Virtues** |
-| Obedience | ✓ | ✓ | | ✓ |
-| Faithfulness | ✓ | ✓ | ✓ | ✓ |
-| Gratitude | ✓ | ✓ | ✓ | ✓ |
-| Honesty | ✓ | ✓ | ✓ | ✓ |
-| Meekness | ✓ | ✓ | ✓ | ✓ |
-| Piety | ✓ | ✓ | ✓ | ✓ |
-| Gentleness | ✓ | ✓ | ✓ | ✓ |
-| Perseverance | ✓ | ✓ | ✓ | ✓ |
-| Zeal | ✓ | ✓ | ✓ | ✓ |
-| Wisdom | ✓ | ✓ | ✓ | ✓ |
+| Obedience | Submitting the will to lawful authority as owed to God's order | ✓ | ★ | | ✓ |
+| Faithfulness | Keeping covenant promises through time, whatever comes | ✓ | ★ | | ✓ |
+| Gratitude | Rendering the thanks owed for gifts received | ✓ | ★ | | ✓ |
+| Honesty | Speaking and living the truth owed to one's neighbor | ★ | ✓ | | ✓ |
+| Meekness | Restraining anger to what is just—and sparing beyond that | ✓ | ✓ | ★ | ✓ |
+| Piety | Due reverence to God, and honor to parents and homeland | ✓ | ★ | | ✓ |
+| Gentleness | Tender handling of the weak—honoring their dignity, sparing their wounds | ✓ | ✓ | ★ | ✓ |
+| Perseverance | Holding the course of good to the end, as pledged | ✓ | ✓ | | ★ |
+| Zeal | Ardent labor for God's glory and the salvation of souls | ✓ | ✓ | ★ | ✓ |
+| Wisdom | Seeing all things as God sees them and ordering life accordingly | ★ | ✓ | ✓ | ✓ |
+
+**How each checkmark is determined.** Every cell answers the same question: does this pillar belong to the virtue's *definition*—to what the virtue does by its own nature—not merely to what it touches, requires, or receives? Two pillars are built into the definition of virtue itself. A virtue is a firm habit of doing *good*—and the good is not whatever we imagine it to be, but what God reveals to be really so. A "virtue" that ignored the truth would not be a virtue; it would be a well-practiced mistake. And every virtue gives something away—time, comfort, appetite, self-will. A "virtue" that cost nothing and gave nothing would be a preference, not a habit of love. So **Truth** and **Sacrifice** are marked in every row—not by our decision, but by what the word *virtue* means. The other two pillars appear only in the definitions of particular virtues, and so they are what distinguish one virtue from another. **Justice:** does the virtue's definition include rendering something *due*—a debt, duty, or covenant obligation—to God or neighbor? This includes the stewardship of our own body and soul, held in covenant trust—"you are not your own; you were bought with a price" (1 Corinthians 6:19-20). This is why even temperance and chastity render God His due. **Mercy:** does its definition include *extending* relief to another's suffering, fault, or need *beyond* what is owed—given outward, not merely received? This is why Faith and Hope, which *receive* God's mercy, carry no mark under Mercy—receiving mercy is not extending it. And it is why Hope alone lacks Justice: Faith's assent is the submission owed to God as First Truth, but hope's act is trusting expectation. Justice keeps our side of the covenant; hope rests on His. Relying is not rendering. Three virtues—**Charity**, **Prudence**, and **Wisdom**—carry all four marks because their definitions take in the whole of love: charity *is* love itself; prudence judges what love must do in each moment; wisdom sees what love is doing in all things. What they govern is rightly counted as theirs. One mark remains. Within each row, a star names the *primary* pillar—the one the defining act cannot be stated without. Take the truth out of faith and nothing remains. Take the cost out of fortitude and it is mere confidence. Take the free gift out of generosity and it is taxpaying. Charity alone carries four stars, because charity is not one facet leading—it is the whole.
 
 **Why Some Virtues Relate to All Four Pillars:**
 
 *Every* virtue ultimately relates to all four pillars—since every virtue is an expression of love, and love is God, who is perfectly simple and undivided. This is true in the deepest sense. However, the matrix highlights where each virtue *primarily operates*—its most direct and immediate relationship to the pillars. Think of it as asking: "When I practice this virtue, which pillars am I most consciously engaging?"
 
-Certain virtues—Charity/Love, Prudence, Wisdom, Humility—have checkmarks across all four pillars. These virtues interpenetrate one another; they are integrated. They are, in the deepest sense, wholly undivided, participating in the very simplicity of God who is Love.
+Certain virtues—Charity/Love, Prudence, Wisdom—have checkmarks across all four pillars; they are the architectonic virtues that govern and integrate every other virtue. A second group—Generosity, Kindness, Patience, Meekness, Gentleness, and Zeal—also reaches all four, because the defining act of each extends mercy outward to others. They are, in the deepest sense, wholly undivided, participating in the very simplicity of God who is Love. And read the stars by column: the virtues sort into four families.
 
-Charity (caritas in Latin, agape in Greek) is the supreme virtue. St. Paul commands: *"And above all these put on love, which binds everything together in perfect harmony"* (Colossians 3:14, RSVCE). As the Catechism teaches: "The practice of all the virtues is animated and inspired by charity, which 'binds everything together in perfect harmony' (Colossians 3:14); it is the form of the virtues; it articulates and orders them among themselves; it is the source and the goal of their Christian practice" (CCC 1827). You cannot truly love without truth, justice, mercy, and sacrifice. Prudence requires truth to see reality clearly, justice to discern what's owed, mercy to temper judgment, and sacrifice to choose the good even when costly. Wisdom sees how all things fit together in God's plan, requiring all four pillars.
+| The virtues of Truth | The virtues of Justice | The virtues of Mercy | The virtues of Sacrifice |
+|----------------------|----------------------|----------------------|----------------------|
+| Faith | Justice | Generosity | Hope |
+| Prudence | Chastity | Kindness | Fortitude |
+| Humility | Diligence | Meekness | Temperance |
+| Honesty | Contentment | Gentleness | Patience |
+| Wisdom | Obedience | Zeal | Perseverance |
+|  | Faithfulness |  |  |
+|  | Gratitude |  |  |
+|  | Piety |  |  |
+
+Charity heads no column because it fills all four—every family flows from love and returns to it. And the families are a mirror. Read down each column and ask: which of these virtues come easily to me, and which feel foreign? The column where you are strong is the door through which God's love already enters your life. The column you avoid is the door still closed—and now you know exactly where to knock. Later in this chapter, four saints will show what each door looks like from the inside. Every virtue is love leading with one facet. Charity is love leading with all of them.
+
+Charity (caritas in Latin, agape in Greek) is the supreme virtue. St. Paul commands: *"And above all these put on love, which binds everything together in perfect harmony"* (Colossians 3:14). As the Catechism teaches: "The practice of all the virtues is animated and inspired by charity, which 'binds everything together in perfect harmony' (Colossians 3:14); it is the form of the virtues; it articulates and orders them among themselves; it is the source and the goal of their Christian practice" (CCC 1827). You cannot truly love without truth, justice, mercy, and sacrifice. Prudence requires truth to see reality clearly, justice to discern what's owed, mercy to temper judgment, and sacrifice to choose the good even when costly. Wisdom sees how all things fit together in God's plan, requiring all four pillars.
 
 **Why doesn't Faith have a checkmark under Mercy?** Faith is primarily about *assent to truth* (believing what God has revealed) and *trust in God's promises*. Yes, faith receives God's mercy—we trust in His merciful love toward us. But the matrix asks: which pillars does practicing this virtue *actively engage toward others*? Faith receives mercy; charity *extends* mercy. When you forgive your enemy, that's charity at work. When you trust that God will forgive you, that's faith. The checkmarks indicate where each virtue *primarily operates outward*, not what it receives.
 
-**Virtues also serve covenant and communion.** Faithfulness, chastity, and obedience preserve covenant bonds. Kindness, generosity, and patience build life-giving communion with others. Every virtue, rightly understood, serves the complete definition of God's perfect love.
+**Virtues also serve covenant and communion.** Notice what kind of acts fill this matrix: every one is freely given. No one can be forced into faith, coerced into generosity, or compelled into patience. And no one starts from zero. Every person you have ever met already practices some of these virtues—the patient grandmother, the brave stranger, the honest neighbor who never darkens a church door—because what the law of love requires "is written on their hearts" (Romans 2:15). What grace gives the Christian is not a different list but the fullness of the same one: the highest form of each virtue, seen in Christ, with the power to live it. So every act sets the same free choice before every person: virtue or vice. Each virtue is a small vow kept—to God, to neighbor, to the self held in covenant trust—and each vice is that vow broken. Faithfulness, chastity, and obedience preserve covenant bonds. Kindness, generosity, and patience build communion with others. And this is where the definition's last words come true: choose the virtues and communion follows—with God, in the home, at the altar, among friends. Choose the vices and disunity follows—the flip side we turn to next. Every virtue, rightly understood, serves the complete definition of God's perfect love: the sacred gift of covenant, freely entered and freely kept, bearing its fruit of life-giving communion.
 
 The pattern reveals: **The more comprehensive and integrative a virtue is, the more it engages all four pillars of perfect love.** This confirms that our definition captures the essence of authentic Christian virtue.
 
@@ -119,7 +134,7 @@ Consider what Scripture itself says about "faith alone." The phrase appears exac
 
 The Council of Trent named what Scripture had already revealed: "If anyone says that the sinner is justified by faith alone, meaning that nothing else is required to cooperate in order to obtain the grace of justification... let him be anathema" (Session 6, Canon 9). The Church was not adding to Scripture; she was defending it.
 
-**But doesn't requiring works undermine grace?** This is the heart of the Protestant objection. Catholicism *agrees*: salvation is entirely by grace. We cannot earn our way to heaven by our own efforts apart from God. The Council of Trent affirms this: "none of those things which precede justification—whether faith or works—merit the grace itself of justification" (Session 6, Chapter 8). But here's the crucial point: God's love is *whole*—holy. It cannot be divided into isolated parts. Grace, faith, hope, charity, and works are not separate ingredients we mix together; they are aspects of one integrated response to the God who IS Love.
+**But doesn't requiring works undermine grace?** This is the heart of the objection. Catholicism *agrees*: salvation is entirely by grace. We cannot earn our way to heaven by our own efforts apart from God. The Council of Trent affirms this: "none of those things which precede justification—whether faith or works—merit the grace itself of justification" (Session 6, Chapter 8). But here's the crucial point: God's love is *whole*—holy. It cannot be divided into isolated parts. Grace, faith, hope, charity, and works are not separate ingredients we mix together; they are aspects of one integrated response to the God who IS Love.
 
 Why the distinction? Because grace *is* God's perfect love acting on us. And when perfect love acts on us, we love Him back. This is the key: **faith in Love requires loving**. If God is Love (1 John 4:8), then to truly believe in Him means to become like Him—to love as He loves. A "faith" that produces no love is not faith in the God who IS Love. It's faith in something else—perhaps a theological idea, perhaps a get-out-of-hell card—but not faith in the living God.
 
@@ -163,10 +178,7 @@ This is the summary of everything we've explored in this chapter. To love God wi
 
 Loving your neighbor as yourself is where virtue becomes visible. Every virtue in the matrix above is simply an expression of this twofold love—love of God and love of neighbor, integrated and inseparable.
 
-Virtue is not merely intellectual assent—it engages body, mind, and soul:
-- **Body:** Virtues form habits of action. The patient person doesn't just think patient thoughts; their body learns to pause, breathe, and respond calmly.
-- **Mind:** Virtues shape how we perceive reality. The just person sees situations clearly, recognizing what is owed.
-- **Soul:** Virtues orient us toward God. The charitable person's soul is drawn toward love as its natural end.
+Virtue is not merely intellectual assent—it engages body, mind, and soul. In the body, virtues form habits of action; the patient person doesn't just think patient thoughts; their body learns to pause, breathe, and respond calmly. In the mind, they shape how we perceive reality—the just person sees situations clearly, recognizing what is owed. And in the soul, they orient us toward God—the charitable person's soul is drawn toward love as its natural end.
 
 This integration is why virtue cannot be reduced to following rules. The Pharisees followed rules meticulously yet lacked love—Jesus called them whitewashed tombs (Matthew 23:27). Virtue is not mere compliance; it's becoming a person whose entire being is aligned with God's love, ready to love Him and neighbor with everything you have.
 

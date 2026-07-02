@@ -35,48 +35,71 @@ Just as love has degrees of perfection, **sin has degrees of gravity**—from mi
 <div class="audio-only">
 Every vice rejects or distorts the four pillars of perfect love, often collapsing the entire structure.
 
-**Pride** offends against **Truth** (denying dependence on God), **Justice** (stealing God's glory), **Mercy** (judging others), and **Sacrifice** (refusing to serve). **Lust** distorts the **Truth** of the body, violates **Justice** by using persons as objects, and refuses **Mercy** by prioritizing pleasure over another's good.
+**Pride** offends against **Truth** (denying dependence on God), **Justice** (stealing God's glory), **Mercy** (judging others), and **Sacrifice** (refusing to serve). **Lust** distorts the **Truth** of the body, violates **Justice** by using persons as objects, and refuses **Sacrifice** by indulging disordered desire rather than ordering it to another's good.
 
 Sin breaks the bonds of communion that love creates.
 </div>
 
 <div class="print-only">
-The following matrix shows which pillar(s) each vice primarily offends against. A "✗" indicates the vice primarily offends against that pillar.
+The following matrix shows which pillars each vice offends against. Each row first states the vice's defining offense—the definition its marks are read from. A "✗" indicates a pillar the vice offends; a "★" marks its *primary target*—the pillar its defining offense cannot be stated without.
 
-| Vice | Truth | Justice | Mercy | Sacrifice |
-|------|-------|---------|-------|-----------|
+| Vice | The defining offense | Truth | Justice | Mercy | Sacrifice |
+|------|----------------------|:-----:|:-------:|:-----:|:---------:|
 | **Opposing Theological Virtues** |
-| Unbelief/Infidelity | ✗ | ✗ | | ✗ |
-| Despair/Presumption | ✗ | | ✗ | ✗ |
-| Hatred/Indifference | ✗ | ✗ | ✗ | ✗ |
+| Unbelief/Infidelity | Refusing assent to what God has revealed | ★ | ✗ | | ✗ |
+| Despair/Presumption | Refusing to rest on God's promises—quitting them, or presuming without surrender | ✗ | | | ★ |
+| Hatred/Indifference | Love itself refused—willing evil to another, or willing nothing at all | ★ | ★ | ★ | ★ |
 | **Opposing Cardinal Virtues** |
-| Imprudence/Rashness | ✗ | ✗ | ✗ | |
-| Injustice | ✗ | ✗ | | |
-| Cowardice/Recklessness | ✗ | ✗ | | ✗ |
-| Intemperance | ✗ | ✗ | | ✗ |
-| Foolishness | ✗ | ✗ | ✗ | ✗ |
+| Imprudence/Rashness | Acting without asking what love requires here and now | ★ | ✗ | | ✗ |
+| Injustice | Withholding from God or neighbor what is theirs by right | ✗ | ★ | | ✗ |
+| Cowardice/Recklessness | Deserting what is owed when it costs—or spending life for nothing | ✗ | ✗ | | ★ |
+| Intemperance | Letting appetite rule the body held in trust | ✗ | ✗ | | ★ |
+| Foolishness | Ordering life as if God's view of things did not exist | ★ | ✗ | | ✗ |
 | **Seven Deadly Sins** |
-| Pride | ✗ | ✗ | ✗ | ✗ |
-| Greed/Avarice | ✗ | ✗ | ✗ | ✗ |
-| Lust | ✗ | ✗ | | ✗ |
-| Wrath/Anger | ✗ | ✗ | ✗ | ✗ |
-| Sloth | ✗ | ✗ | | ✗ |
-| Envy | ✗ | ✗ | ✗ | ✗ |
-| Gluttony | ✗ | ✗ | ✗ | ✗ |
+| Pride | Denying we are creatures—seizing God's place and glory | ★ | ✗ | ✗ | ✗ |
+| Greed/Avarice | Hoarding as one's own what was entrusted for the needy | ✗ | ✗ | ★ | ✗ |
+| Lust | Using a person as an object for appetite | ✗ | ★ | | ✗ |
+| Wrath/Anger | Vengeance—spending oneself to inflict harm: sacrifice perverted | ✗ | ✗ | ✗ | ★ |
+| Sloth | Refusing the labor love owes—duty, prayer, presence | ✗ | ★ | | ✗ |
+| Envy | Sorrow at another's good, willing their diminishment | ✗ | ✗ | ★ | ✗ |
+| Gluttony | Making food and drink gods—consuming past the body's trust | ✗ | ✗ | | ★ |
 | **Additional Vices** |
-| Disobedience/Rebellion | ✗ | ✗ | | ✗ |
-| Infidelity/Betrayal | ✗ | ✗ | ✗ | ✗ |
-| Ingratitude | ✗ | ✗ | ✗ | ✗ |
-| Dishonesty/Lying | ✗ | ✗ | ✗ | ✗ |
-| Harshness/Cruelty | ✗ | ✗ | ✗ | ✗ |
-| Impiety/Irreverence | ✗ | ✗ | ✗ | ✗ |
-| Violence | ✗ | ✗ | ✗ | ✗ |
-| Inconstancy/Fickleness | ✗ | ✗ | ✗ | ✗ |
-| Lukewarmness | ✗ | ✗ | ✗ | ✗ |
+| Disobedience/Rebellion | Refusing the submission owed to God's order | ✗ | ★ | | ✗ |
+| Infidelity/Betrayal | Breaking the covenant promise—the vow abandoned | ✗ | ★ | | ✗ |
+| Ingratitude | Withholding the thanks owed for gifts received | ✗ | ★ | | ✗ |
+| Dishonesty/Lying | Speaking against the truth owed to one's neighbor | ★ | ✗ | | ✗ |
+| Harshness/Cruelty | Wounding the weak where care was needed | ✗ | ✗ | ★ | ✗ |
+| Impiety/Irreverence | Refusing due reverence to God and what is holy | ✗ | ★ | | ✗ |
+| Violence | Force against the person—seizing by harm what was never ours | ✗ | ★ | ✗ | ✗ |
+| Inconstancy/Fickleness | Quitting the pledged course when holding fast grows hard | ✗ | ✗ | | ★ |
+| Lukewarmness | Conviction cooled into vagueness—truth unnamed, undefended, unlived | ★ | ✗ | | ✗ |
 </div>
 
 <div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
 Notice that every vice violates truth. This is not coincidental—<strong>every sin necessarily involves believing or speaking a lie.</strong> Whether we lie to ourselves about what will truly fulfill us, lie to others about our intentions, or deny the truth about God's nature and commands, sin cannot exist without falsehood. This is why lying is the foundational sin. As Jesus said of Satan: "When he lies, he speaks according to his own nature, for he is a liar and the father of lies" (John 8:44).
+</div>
+
+**How the matrix is determined.** The same test as Chapter 13, run in reverse: each cell asks whether the pillar belongs to the vice's *defining offense*—what the sin does by its own nature, not what it merely touches. Because every vice is the privation of some virtue, the two matrices largely mirror each other—but the vice's own name governs, not the virtue's. Truth and Sacrifice are offended in every row for the same reason they are upheld in every row of Chapter 13: every sin believes or speaks a lie, and every sin withholds a gift love would have given. Justice is offended everywhere except in despair and presumption, which (like the hope they oppose) concern only what we receive from God. Mercy is the telling column: a vice offends it only when its defining offense turns against the neighbor. A star names each vice's *primary target*—the pillar its defining offense cannot be stated without—and **hatred** alone carries four, because hatred is not one pillar attacked but love itself refused. Three rows show why the vice's name decides, not the mirror. **Pride**, the root of all sin, offends all four though humility does not extend mercy—pride destroys the humility from which mercy flows, leaving only condescension. **Imprudence** and **foolishness** offend fewer pillars than prudence and wisdom engage: those virtues name the summit of right judgment, while their vice-names denote ordinary lapses. And **lukewarmness** strikes Truth first though zeal leads with mercy: a community can stay warm toward people while going cold on truth—the kindness continues, but with nothing left to guide it.
+
+<div class="audio-only">
+Read by their primary targets, the vices sort into four families. Against Truth: unbelief, imprudence, foolishness, pride, dishonesty, and lukewarmness. Against Justice: injustice, lust, sloth, disobedience, betrayal, ingratitude, impiety, and violence. Against Mercy: greed, envy, and cruelty. Against Sacrifice: despair, cowardice, intemperance, wrath, gluttony, and inconstancy. Hatred attacks all four at once. This grouping, too, is a mirror. Think back over your last several confessions: the family where your sins cluster names the pillar you have stopped loving, and the matching family of virtues names what heals it.
+</div>
+
+<div class="print-only">
+And the same stars, read by column, sort the vices into four families:
+
+| Vices against Truth | Vices against Justice | Vices against Mercy | Vices against Sacrifice |
+|---------------------|---------------------|---------------------|---------------------|
+| Unbelief/Infidelity | Injustice | Greed/Avarice | Despair/Presumption |
+| Imprudence/Rashness | Lust | Envy | Cowardice/Recklessness |
+| Foolishness | Sloth | Harshness/Cruelty | Intemperance |
+| Pride | Disobedience/Rebellion |  | Wrath/Anger |
+| Dishonesty/Lying | Infidelity/Betrayal |  | Gluttony |
+| Lukewarmness | Ingratitude |  | Inconstancy/Fickleness |
+|  | Impiety/Irreverence |  |  |
+|  | Violence |  |  |
+
+Hatred belongs to no single family because it attacks all four at once. This table, too, is a mirror. Bring your last several confessions to it: the column where your sins cluster names the pillar you have stopped loving, and the matching family in Chapter 13 names the virtues that heal it. The remedies for the seven deadly sins below walk through exactly this healing.
 </div>
 
 ---
@@ -203,7 +226,6 @@ Two examples will illustrate how the same vice can manifest at different levels 
 **The Nature of Lying:**
 - **Truth (✗):** Directly denies truth by speaking falsehood
 - **Justice (✗):** Withholds truth that others have a right to know
-- **Mercy (✗):** Can harm others through deception
 - **Sacrifice (✗):** Refuses the cost of telling difficult truths
 
 **Venial Lying:**
@@ -247,7 +269,6 @@ The same pattern applies to **anger** (brief irritation vs. nursing hatred), **g
 **The Nature of Lust:**
 - **Truth (✗):** Distorts truth of sexuality's purpose
 - **Justice (✗):** Uses persons as objects
-- **Mercy (✗):** Exploits others for pleasure
 - **Sacrifice (✗):** Indulges disordered desires
 
 **Venial Lust:**
