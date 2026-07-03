@@ -57,19 +57,37 @@ The matrix below shows which facets of love each virtue actively engages when pr
 | Diligence | Faithful labor with the time and talents entrusted to us | ✓ | ★ | | ✓ |
 | Kindness | Active goodwill toward the neighbor—love's standing debt, given beyond it | ✓ | ✓ | ★ | ✓ |
 | Contentment | Resting satisfied with God's allotment, honoring the Giver in the gift | ✓ | ★ | | ✓ |
-| **Additional Virtues** |
-| Obedience | Submitting the will to lawful authority as owed to God's order | ✓ | ★ | | ✓ |
+| **Additional Virtues — Truth** |
+| Studiousness | Moderating the desire to know, seeking truth for God rather than idle curiosity | ★ | ✓ | | ✓ |
+| Honesty | Speaking and living the truth owed to one's neighbor | ★ | ✓ | | ✓ |
+| Wisdom | Seeing all things as God sees them and ordering life accordingly | ★ | ✓ | ✓ | ✓ |
+| **Additional Virtues — Justice** |
+| Religion/Latria | Rendering God the worship, prayer, and sacrifice owed Him as Creator | ✓ | ★ | | ✓ |
+| Penance/Repentance | Grieving for sin committed, with the purpose of turning from it and amending one's life | ✓ | ★ | | ✓ |
+| Piety | Due honor and support owed to parents and homeland, as secondary principles of one's being | ✓ | ★ | | ✓ |
+| Dulia | Rendering the honor due to another's real excellence or dignity, apart from parents or country | ✓ | ★ | | ✓ |
+| Obedience | Submitting the will to rightful authority—God's above all, and any human authority that stands under Him | ✓ | ★ | | ✓ |
 | Faithfulness | Keeping covenant promises through time, whatever comes | ✓ | ★ | | ✓ |
 | Gratitude | Rendering the thanks owed for gifts received | ✓ | ★ | | ✓ |
-| Honesty | Speaking and living the truth owed to one's neighbor | ★ | ✓ | | ✓ |
+| **Additional Virtues — Mercy** |
+| Mercy | Being moved to relieve another's misery, fault, or need as one's own | ✓ | | ★ | ✓ |
 | Meekness | Restraining anger to what is just—and sparing beyond that | ✓ | ✓ | ★ | ✓ |
-| Piety | Due reverence to God, and honor to parents and homeland | ✓ | ★ | | ✓ |
 | Gentleness | Tender handling of the weak—honoring their dignity, sparing their wounds | ✓ | ✓ | ★ | ✓ |
-| Perseverance | Holding the course of good to the end, as pledged | ✓ | ✓ | | ★ |
 | Zeal | Ardent labor for God's glory and the salvation of souls | ✓ | ✓ | ★ | ✓ |
-| Wisdom | Seeing all things as God sees them and ordering life accordingly | ★ | ✓ | ✓ | ✓ |
+| **Additional Virtues — Sacrifice** |
+| Magnanimity | Stretching the soul toward great, arduous good for God's glory, undeterred by fear | ✓ | ✓ | | ★ |
+| Perseverance | Holding the course of good to the end, as pledged | ✓ | ✓ | | ★ |
+| Eutrapelia | Governing play and rest so leisure itself stays fitting, never excessive | ✓ | ✓ | | ★ |
 
-**How each checkmark is determined.** Every cell answers the same question: does this pillar belong to the virtue's *definition*—to what the virtue does by its own nature—not merely to what it touches, requires, or receives? Two pillars are built into the definition of virtue itself. A virtue is a firm habit of doing *good*—and the good is not whatever we imagine it to be, but what God reveals to be really so. A "virtue" that ignored the truth would not be a virtue; it would be a well-practiced mistake. And every virtue gives something away—time, comfort, appetite, self-will. A "virtue" that cost nothing and gave nothing would be a preference, not a habit of love. So **Truth** and **Sacrifice** are marked in every row—not by our decision, but by what the word *virtue* means. The other two pillars appear only in the definitions of particular virtues, and so they are what distinguish one virtue from another. **Justice:** does the virtue's definition include rendering something *due*—a debt, duty, or covenant obligation—to God or neighbor? This includes the stewardship of our own body and soul, held in covenant trust—"you are not your own; you were bought with a price" (1 Corinthians 6:19-20). This is why even temperance and chastity render God His due. **Mercy:** does its definition include *extending* relief to another's suffering, fault, or need *beyond* what is owed—given outward, not merely received? This is why Faith and Hope, which *receive* God's mercy, carry no mark under Mercy—receiving mercy is not extending it. And it is why Hope alone lacks Justice: Faith's assent is the submission owed to God as First Truth, but hope's act is trusting expectation. Justice keeps our side of the covenant; hope rests on His. Relying is not rendering. Three virtues—**Charity**, **Prudence**, and **Wisdom**—carry all four marks because their definitions take in the whole of love: charity *is* love itself; prudence judges what love must do in each moment; wisdom sees what love is doing in all things. What they govern is rightly counted as theirs. One mark remains. Within each row, a star names the *primary* pillar—the one the defining act cannot be stated without. Take the truth out of faith and nothing remains. Take the cost out of fortitude and it is mere confidence. Take the free gift out of generosity and it is taxpaying. Charity alone carries four stars, because charity is not one facet leading—it is the whole.
+**How each checkmark is determined.** Every cell answers the same question: does this pillar belong to the virtue's *definition*—to what the virtue does by its own nature—not merely to what it touches, requires, or receives?
+
+Two pillars are built into the definition of virtue itself. A virtue is a firm habit of doing *good*—and the good is not whatever we imagine it to be, but what God reveals to be really so. A "virtue" that ignored the truth would not be a virtue; it would be a well-practiced mistake. And every virtue gives something away—time, comfort, appetite, self-will. A "virtue" that cost nothing and gave nothing would be a preference, not a habit of love. So **Truth** and **Sacrifice** are marked in every row—not by our decision, but by what the word *virtue* means. The other two pillars appear only in the definitions of particular virtues, and so they are what distinguish one virtue from another.
+
+**Justice:** does the virtue's definition include rendering something *due*—a debt, duty, or covenant obligation—to God or neighbor? This includes the stewardship of our own body and soul, held in covenant trust—"you are not your own; you were bought with a price" (1 Corinthians 6:19-20). This is why even temperance and chastity render God His due.
+
+**Mercy:** does its definition include *extending* relief to another's suffering, fault, or need *beyond* what is owed—given outward, not merely received? This is why Faith and Hope, which *receive* God's mercy, carry no mark under Mercy—receiving mercy is not extending it. And it is why Hope alone lacks Justice: Faith's assent is the submission owed to God as First Truth, but hope's act is trusting expectation. Justice keeps our side of the covenant; hope rests on His. Relying is not rendering.
+
+Three virtues—**Charity**, **Prudence**, and **Wisdom**—carry all four marks because their definitions take in the whole of love: charity *is* love itself; prudence judges what love must do in each moment; wisdom sees what love is doing in all things. What they govern is rightly counted as theirs. One mark remains. Within each row, a star names the *primary* pillar—the one the defining act cannot be stated without. Take the truth out of faith and nothing remains. Take the cost out of fortitude and it is mere confidence. Take the free gift out of generosity and it is taxpaying. Charity alone carries four stars, because charity is not one facet leading—it is the whole.
 
 **Why Some Virtues Relate to All Four Pillars:**
 
@@ -79,14 +97,17 @@ Certain virtues—Charity/Love, Prudence, Wisdom—have checkmarks across all fo
 
 | The virtues of Truth | The virtues of Justice | The virtues of Mercy | The virtues of Sacrifice |
 |----------------------|----------------------|----------------------|----------------------|
-| Faith | Justice | Generosity | Hope |
-| Prudence | Chastity | Kindness | Fortitude |
-| Humility | Diligence | Meekness | Temperance |
-| Honesty | Contentment | Gentleness | Patience |
-| Wisdom | Obedience | Zeal | Perseverance |
-|  | Faithfulness |  |  |
-|  | Gratitude |  |  |
+| Faith | Justice | Mercy | Hope |
+| Prudence | Chastity | Generosity | Fortitude |
+| Humility | Diligence | Kindness | Temperance |
+| Honesty | Contentment | Meekness | Patience |
+| Wisdom | Obedience | Gentleness | Perseverance |
+| Studiousness | Faithfulness | Zeal | Magnanimity |
+|  | Gratitude |  | Eutrapelia |
 |  | Piety |  |  |
+|  | Religion/Latria |  |  |
+|  | Penance/Repentance |  |  |
+|  | Dulia |  |  |
 
 Charity heads no column because it fills all four—every family flows from love and returns to it. And the families are a mirror. Read down each column and ask: which of these virtues come easily to me, and which feel foreign? The column where you are strong is the door through which God's love already enters your life. The column you avoid is the door still closed—and now you know exactly where to knock. Later in this chapter, four saints will show what each door looks like from the inside. Every virtue is love leading with one facet. Charity is love leading with all of them.
 
@@ -104,14 +125,6 @@ This is what it means to love God with all your heart, soul, mind, and strength�
 
 ---
 
-## The Flip Side: Vice as the Denial of Love
-
-Just as every virtue upholds the four pillars, **every vice denies or distorts them.** Pride denies the truth of our dependence on God. Greed violates justice by hoarding what others need. Wrath refuses mercy. Sloth rejects sacrifice. The next chapter examines vices in detail, showing how sin is fundamentally a failure to love—and how God's mercy provides the path to restoration.
-
-**Virtue and vice are not arbitrary categories.** They flow from the same source—our relationship to God's perfect love. When we embrace the four pillars, we grow in our love for Christ. When we reject them, we reject Christ.
-
----
-
 ## The Integration of Faith and Love
 
 St. Paul warns: **"if I have all faith, so as to remove mountains, but have not love, I am nothing"** (1 Corinthians 13:2). St. James agrees: **"faith by itself, if it has no works, is dead"** (James 2:17). **Even faith requires sacrifice to be authentic—faith without love is dead.**
@@ -120,23 +133,21 @@ St. Paul warns: **"if I have all faith, so as to remove mountains, but have not 
 
 Notice the word: *justification*. It shares the same root as *justice*—the Latin *iustus*, meaning "right" or "just." To be justified is to be **made right with God**—restored to the relationship of love for which we were created.
 
-Think of what this means in a family. A father discovers his teenage son is addicted to drugs. The son is destroying himself—lying, stealing, hurting everyone who loves him. Now imagine the father simply says: "I declare you clean. I will overlook everything you've done and pretend it never happened." He changes nothing. He confronts nothing. He demands nothing. He just covers it up. Is that love? Is that mercy? Is that justice? No—it is a failure of all three. The son's addiction continues. The destruction deepens. The father's "forgiveness" has become an accomplice to the very sin it claimed to forgive. A parent who truly loves does not merely *declare* the child well—he *pursues* the child's healing, even when it is painful, even when the child resists, because love demands the truth of what the child actually needs. **This is what God does.** He does not stamp "ACQUITTED" on our file and leave us in our sin. He enters our disorder, heals it from within, and makes us actually righteous—because anything less would not be love. It would not be mercy. It would not be justice. It would be abandonment dressed up as grace.
-
-One popular understanding of justification treats it as primarily a legal declaration—God pronouncing us "not guilty" while we remain essentially unchanged, like a judge stamping "ACQUITTED" on a criminal's file while the criminal walks out the same person he walked in. But the father in our analogy shows why this falls short. A merely forensic verdict doesn't heal the son. It doesn't restore the family. It doesn't address what love actually demands.
+Think of what this means in a family. A father discovers his teenage son is addicted to drugs. The son is destroying himself—lying, stealing, hurting everyone who loves him. Now imagine the father simply says: "I love you and forgive you. I will overlook everything you've done and pretend it never happened." He changes nothing. He confronts nothing. He demands nothing. He just covers it up. Is that love? Is that mercy? Is that justice? No—it is a failure of all three. The son's addiction continues. The destruction deepens. The father's "forgiveness" has become an accomplice to the very sin it claimed to forgive. A parent who truly loves does not merely *declare* his love and forgiveness—he *pursues* the child's healing, even when it is painful, even when the child resists, because love demands the truth of what the child actually needs. **This is what God does.** He does not stamp "ACQUITTED" on our file and leave us in our sin. He enters our disorder, heals it from within, and makes us actually righteous. He teaches us what love truly is, so that we are restored to the justice for which He made us—and saved from the destruction our sin and disorder were working in us. Because anything less would not be love. It would not be mercy. It would not be justice. It would be abandonment dressed up as grace.
 
 Sacred Scripture and the Catholic Church teach something far more beautiful. Justification is "not only the remission of sins, but also the sanctification and renewal of the interior man" (Council of Trent, Session 6, Chapter 7). God doesn't just *declare* us righteous—He actually *makes* us righteous. He transforms us from within, healing our disordered desires so we can love as He loves.
 
-**This is why justification is inseparable from justice.** God's justice isn't about punishment—it's about *right relationship*. He created us for perfect love, and sin breaks that relationship. Justification is God restoring us to what we were meant to be: people who genuinely live in "holy communion" with Him—because grace has transformed our hearts.
+**This is why justification is inseparable from justice.** God's justice isn't about punishment—it's about *right relationship*. He created us for perfect love, and sin breaks that relationship. Justification is God restoring us to what we were meant to be: people who genuinely live in "holy communion" with Him—because grace—God's own perfect love, poured into our souls—has transformed our hearts.
 
-This transformation begins at Baptism but continues throughout our lives. As St. Paul commands: **"Work out your own salvation with fear and trembling"** (Philippians 2:12). We cooperate with grace through faith, hope, charity, and the sacraments—not earning our salvation, but allowing God to complete the work He began in us.
+This transformation begins at Baptism but continues throughout our lives. As St. Paul commands: **"Work out your own salvation with fear and trembling"** (Philippians 2:12).
 
-Consider what Scripture itself says about "faith alone." The phrase appears exactly *once* in the entire Bible: **"You see that a man is justified by works and not by faith alone"** (James 2:24). The only time Scripture uses that phrase, it explicitly *denies* it. This isn't a Catholic invention—it is the plain testimony of the text.
+Because He is Love, and loved us first (1 John 4:8, 19), our answer is total: it is Charity, loving Him with all our heart, mind, and soul, and our neighbor as ourselves. It is also fear and trembling—not dread, but the fear of the Lord that is the beginning of wisdom (Proverbs 9:10), the same fear Scripture calls "hatred of evil" (Proverbs 8:13). Made concrete, this fear looks like Humility, which owns the truth of what we are before Him; Religion, which renders Him the worship only He is due; Obedience, which submits our will to His; Temperance, which governs every appetite pulling us toward the world instead of Him; Penance, which grieves our sin and turns from it; and Fortitude and Perseverance, which deny ourselves, take up our cross, and follow Him daily, whatever it costs. Truth, justice, mercy, and sacrifice become, in this way, the ordinary shape of a life.
 
-The Council of Trent named what Scripture had already revealed: "If anyone says that the sinner is justified by faith alone, meaning that nothing else is required to cooperate in order to obtain the grace of justification... let him be anathema" (Session 6, Canon 9). The Church was not adding to Scripture; she was defending it.
+None of this is instantaneous. Working it out is the labor of a lifetime: growing from this fear into Prudence, right judgment of what love must do here and now, and at last into Wisdom, which sees all things as God sees them and orders life accordingly. His love takes a lifetime to work out in us.
 
-**But doesn't requiring works undermine grace?** This is the heart of the objection. Catholicism *agrees*: salvation is entirely by grace. We cannot earn our way to heaven by our own efforts apart from God. The Council of Trent affirms this: "none of those things which precede justification—whether faith or works—merit the grace itself of justification" (Session 6, Chapter 8). But here's the crucial point: God's love is *whole*—holy. It cannot be divided into isolated parts. Grace, faith, hope, charity, and works are not separate ingredients we mix together; they are aspects of one integrated response to the God who IS Love.
+We are not saved by anything we earn. God loves us first, before we have done anything at all: "In this is love, not that we loved God but that he loved us" (1 John 4:10). His love always comes first, and everything good in us is simply that love answered. So when Scripture speaks of our *works*, it does not mean wages we collect from God. A crowd once asked Jesus exactly this—"What must we do, to be doing the works of God?"—and He answered, "This is the work of God, that you believe in him whom he has sent" (John 6:28-29). Our one work is to love Him back in faith. And faith and love grow together: the more we trust Him, the more we love Him; and the more we love Him, the more we trust Him. They are not separate ingredients stirred together but one response to the God who *is* Love—as whole and undivided as He is.
 
-Why the distinction? Because grace *is* God's perfect love acting on us. And when perfect love acts on us, we love Him back. This is the key: **faith in Love requires loving**. If God is Love (1 John 4:8), then to truly believe in Him means to become like Him—to love as He loves. A "faith" that produces no love is not faith in the God who IS Love. It's faith in something else—perhaps a theological idea, perhaps a get-out-of-hell card—but not faith in the living God.
+This is why His love and our loving cannot be pulled apart. His perfect love is not something handed to us from a distance; it is Himself at work within us—and when that love acts on us, we love Him back. To truly believe in a God who *is* Love (1 John 4:8) is to begin to love as He loves. A "faith" that produces no love is not really faith in Him at all. It is faith in something else—an idea about God, perhaps, or a ticket out of hell—but not trust in the living God.
 
 This is what St. Paul teaches in the verse that opens this chapter: **"faith working through love"** (Galatians 5:6). Not faith standing alone. Not faith plus works added externally. But faith *working through* love—faith that is alive, active, expressing itself in concrete acts of truth, justice, mercy, and sacrifice. The works that justify are themselves gifts of grace—God's love producing love in return.
 
@@ -144,17 +155,13 @@ And here is the mystery of how this works in real lives. God Himself is one undi
 
 This is what sanctification *is*. Not a single moment of decision but the slow, daily prying-open of the closed fist by grace, until every finger has been opened through every door, and what we receive is no longer four gifts but Him. "Faith working through love" is the hand opening. Each act of truth, justice, mercy, or sacrifice—*given*—pries one more finger loose, and more of Him floods in. The hand does not produce what fills it; it simply consents, one degree at a time, to stop refusing.
 
-As St. Augustine taught: "When God crowns our merits, He crowns His own gifts." We don't earn salvation by our works; rather, God's grace working *in* us produces the works that flow from genuine faith. This is how God saves us—not just from punishment, but from our own "curved-in-ness" (*incurvatus in se*), our self-absorption that cuts us off from God and neighbor. The closed fist is *incurvatus in se* made visible—the body's confession of a soul curved in on itself, hoarding what little it holds, refusing to receive because receiving would mean opening, and opening would mean trusting Someone besides itself. Grace straightens what sin has bent: the soul curved inward, and the hand clenched around its own emptiness. Every act of love we offer is grace bending us back outward, one finger and one degree at a time, until the soul stands upright and the hand opens wide enough to hold the One who has been there all along.
+As St. Augustine taught: "When God crowns our merits, He crowns His own gifts." We don't earn salvation; His love working in us produces the very love we offer back. And this is how God saves us—not only from punishment, but from ourselves: from what the old writers called being *curved in on ourselves* (*incurvatus in se*), the soul hoarding what little it holds, too afraid to open because opening would mean trusting Someone besides itself. That closed fist is what sin looks like from the inside. His love is what straightens it—bending us back outward, one finger and one degree at a time, until the hand opens wide enough to hold the One who was there all along.
 
-The alternative—a "faith" that produces no transformation—is not saving faith at all. If faith hasn't transformed us, then what were we saved from? As St. James bluntly states: "Even the demons believe—and shudder" (James 2:19). The demons have perfect theological knowledge. They know Jesus is the Son of God—they confessed it before the apostles did (Mark 1:24). If mere belief were enough, Satan himself would be saved. But mere intellectual assent without love is demonic, not Christian.
+The alternative—a "faith" that produces no transformation—is not saving faith at all. If faith hasn't transformed us, then what were we saved from? As St. James bluntly states: "Even the demons believe—and shudder" (James 2:19). The demons have perfect theological knowledge. They know Jesus is the Son of God—they confessed it before the apostles did (Mark 1:24). If mere belief were enough, Satan himself would be saved. What the demons lack is not knowledge but love—and love is what makes faith alive.
 
-And consider Jesus' own teaching about the final judgment. In Matthew 25, when the Son of Man separates the sheep from the goats, what is the criterion? Not "Did you believe the right doctrines?" but "Did you feed the hungry, clothe the naked, visit the imprisoned?" Those who *did* these works of mercy inherit the kingdom. Those who *did not* depart into eternal fire. **"Truly, I say to you, as you did it to one of the least of these my brethren, you did it to me"** (Matthew 25:40). Faith that doesn't love the least of these is not faith in the One who *is* the least of these.
+And consider Jesus' own teaching about the final judgment. In Matthew 25, when the Son of Man separates the sheep from the goats, what is the criterion? Not "Did you believe the right doctrines?" but "Did you feed the hungry, clothe the naked, visit the imprisoned?" Those who *did* these works of mercy inherit the kingdom. Those who *did not* depart into eternal fire. **"Truly, I say to you, as you did it to one of the least of these my brethren, you did it to me"** (Matthew 25:40). Faith that doesn't love the least of these does not truly love God—for He counts whatever we do for them as done to Him.
 
-Grace doesn't excuse us from cooperation; grace *enables* our cooperation—for the salvation of our own souls and the world.
-
-The prophet Micah summarized what God requires: **"He has told you, O man, what is good; and what does the Lord require of you but to do justice, and to love mercy, and to walk humbly with your God"** (Micah 6:8). And Jesus made the cost clear: **"If any man would come after me, let him deny himself and take up his cross daily and follow me"** (Luke 9:23). Justification is not a one-time event—it's God actually saving you, transforming you into someone capable of perfect love. And that transformation requires your daily cooperation.
-
-Jesus commands us: **"You, therefore, must be perfect, as your heavenly Father is perfect"** (Matthew 5:48). The Cross reveals what this perfection looks like: Truth ("I am the way, and the truth, and the life"—John 14:6), Justice (satisfaction for sin), Mercy (forgiveness freely offered), and Sacrifice (total self-gift unto death). When we embrace these four pillars, we participate in God's saving work.
+Jesus commands us: **"You, therefore, must be perfect, as your heavenly Father is perfect"** (Matthew 5:48). We saw in Chapter 10 what He meant: not *flawless* or *sinless*, but *whole*—the Greek *teleios*, complete and undivided, a heart that keeps no corner back from love. This chapter has shown the concrete way there. A life of virtue is how we grow, day by day, into that wholeness—each act of charity, truth, justice, mercy, and sacrifice conforming us a little more to the Father who loves this way. This is what it means to live in a state of grace: to order our whole life around charity and the virtues that flow from it, our sins washed away by His mercy, until we are free to be fully loved by God and to love Him and one another in return.
 
 **"For God so loved the world that he gave his only Son, that whoever believes in him should not perish but have eternal life"** (John 3:16). But what does "believing" mean? Jesus answers just a few verses later:
 
@@ -176,11 +183,7 @@ Notice what happened: When asked directly **"What must I do to inherit eternal l
 
 This is the summary of everything we've explored in this chapter. To love God with all your **heart** is to desire truth, justice, mercy, and sacrifice. To love Him with all your **soul** is to orient your entire being toward communion with Him. To love Him with all your **mind** is to embrace the truth He has revealed. To love Him with all your **strength** is to sacrifice—to act, to serve, to give yourself completely.
 
-Loving your neighbor as yourself is where virtue becomes visible. Every virtue in the matrix above is simply an expression of this twofold love—love of God and love of neighbor, integrated and inseparable.
-
-Virtue is not merely intellectual assent—it engages body, mind, and soul. In the body, virtues form habits of action; the patient person doesn't just think patient thoughts; their body learns to pause, breathe, and respond calmly. In the mind, they shape how we perceive reality—the just person sees situations clearly, recognizing what is owed. And in the soul, they orient us toward God—the charitable person's soul is drawn toward love as its natural end.
-
-This integration is why virtue cannot be reduced to following rules. The Pharisees followed rules meticulously yet lacked love—Jesus called them whitewashed tombs (Matthew 23:27). Virtue is not mere compliance; it's becoming a person whose entire being is aligned with God's love, ready to love Him and neighbor with everything you have.
+This is why virtue cannot be reduced to following rules. The Pharisees followed rules meticulously yet lacked love—Jesus called them whitewashed tombs (Matthew 23:27). Virtue is not mere compliance; it's becoming a person whose entire being is aligned with God's love, ready to love Him and neighbor with everything you have.
 
 ### The Bridge to Sin
 
@@ -194,7 +197,7 @@ Examine your life through the lens of the four pillars:
 - **Mercy:** Whom have I refused to forgive? Where is my heart hardened?
 - **Sacrifice:** Where am I choosing comfort over what is right?
 
-Identify one virtue to focus on. Ask: Which pillar does it serve? How can I practice it concretely? What Scripture, saint, or Church writing can help me understand and love this virtue more fully? Choose the area where you felt the most conviction—that discomfort often signals where God is calling you to grow.
+Wherever those questions stung most, follow the conviction—that discomfort often signals where God is calling you to grow. Return to the four families of virtue earlier in this chapter—the virtues of Truth, of Justice, of Mercy, and of Sacrifice—and read slowly down each column, asking honestly: which of these are already alive in me, and which are weak or missing? Then choose one that needs work and make it your focus. Ask the Holy Spirit to teach you this virtue more deeply. Study what the Bible says about it, and seek out what the Church—her saints, councils, and teachers—has said about it over the centuries. And ask: How can I practice it concretely?
 
 **This is what it means to become a saint: to love the Lord your God with all your heart, soul, mind, and strength—and your neighbor as yourself. It means letting God's perfect love transform you completely, so that every thought, word, and deed flows from and returns to perfect love.**
 
