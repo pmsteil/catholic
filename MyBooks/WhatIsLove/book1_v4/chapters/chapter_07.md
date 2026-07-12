@@ -92,6 +92,8 @@ When a parent weaponizes their care—"After everything I've done for you, this 
 
 This is what happens when justice is violated within the family: the child learns that love comes with a bill, that nothing is given freely, that even the most basic care will be used as leverage. This shapes how they understand all love and all relationships.
 
+This same justice runs sideways, not just up and down a family tree. St. Paul tells the Romans that mutual honor is a mark of authentic love in any community: "Let love be genuine; hate what is evil, hold fast to what is good; love one another with brotherly affection; outdo one another in showing honor" (Romans 12:9-10). Honor isn't only owed upward, from child to parent—rendering it at all, in any direction, is itself an act of justice: giving another their due dignity. Among equals, love competes to give it away. The Church has a name for this virtue: *Dulia*, honor rendered to another's real excellence or dignity, apart from parents or country (see Chapter 13 for a fuller discussion).
+
 ## What Justice Actually Means
 
 Our culture has confused justice with revenge, fairness with equality, rights with desires. We need to recover the true meaning.
@@ -107,6 +109,10 @@ Aquinas distinguished three *parts* of justice — not the whole of it, but a fr
 - **Legal Justice:** What individuals owe to the community — contributing to the common good, obeying just laws, and repairing the social fabric when it is torn.
 
 These are parts of a larger whole. Aquinas also treats justice's integral acts — **restitution, truth-telling, gratitude, honor, and reconciliation** — as essential to what the virtue actually requires (*ST* II-II, qq.61–80). Justice, rightly understood, is never content with bare equilibrium; it presses toward the restored communion that *tsedeqah* names. Which is why a contemporary secular understanding of justice — punishment, equality of outcomes, or rights without responsibilities — falls short. Biblical justice gives each person what they're truly owed based on their value and dignity as image-bearers of God, *and* labors to restore right relationships when they're broken. Punishment without restoration is not yet justice; it is only its first half.
+
+Legal justice—what we owe the common good—has a concrete shape in Scripture. St. Paul spells it out directly: "Let every person be subject to the governing authorities. For there is no authority except from God, and those that exist have been instituted by God... Pay all of them their dues, taxes to whom taxes are due, revenue to whom revenue is due, respect to whom respect is due, honor to whom honor is due" (Romans 13:1-7). This is legal justice in one breath: authority is owed obedience, and the state is owed its due, because governing authority itself borrows its standing from God, not from itself.
+
+Then, in the very next line, Paul names the one debt that never closes: "Owe no one anything, except to love one another; for he who loves his neighbor has fulfilled the law. The commandments, 'You shall not commit adultery, You shall not kill, You shall not steal, You shall not covet,' and any other commandment, are summed up in this sentence, 'You shall love your neighbor as yourself.' Love does no wrong to a neighbor; therefore love is the fulfilling of the law" (Romans 13:8-10). Every other debt of justice—taxes, respect, obedience, honor—has a ceiling. This one does not. Paul is doing here, in his own words, exactly what Christ does when He names the Law and the Prophets as hanging on a single command to love God and neighbor (Matthew 22:40)—the same hermeneutical key this book returns to again and again.
 
 ## Justice Toward God: The Virtue of Religion
 

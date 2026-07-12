@@ -20,11 +20,11 @@
 
 ---
 
-## Introduction: Sin as Rejection of Perfect Love
+## Sin as Rejection of Perfect Love
 
 In the previous chapter, we saw that **every virtue upholds and flows from the four pillars of perfect love: Truth, Justice, Mercy, and Sacrifice.** Now we examine the opposite reality: **every vice denies or distorts these same four pillars.**
 
-Sin is not merely "breaking rules"—it is fundamentally **a failure to love.** When we sin, we act contrary to our nature as beings created for love, rejecting the law God has written on our hearts. We deny truth, violate justice, refuse mercy, or reject sacrifice.
+Sin is not merely "breaking rules"—it is fundamentally **a failure to love.** When we sin, we act contrary to our nature as beings created - in his image - for love, rejecting the law God has written on our hearts. In some way we deny truth, violate justice, refuse mercy, or reject sacrifice.
 
 Just as love has degrees of perfection, **sin has degrees of gravity**—from minor faults to mortal sins that kill our relationship with God. Understanding these degrees is essential for growing in holiness.
 
@@ -32,60 +32,49 @@ Just as love has degrees of perfection, **sin has degrees of gravity**—from mi
 
 ## All Vices Offend Against Love
 
-<div class="audio-only">
-Every vice rejects or distorts the four pillars of perfect love, often collapsing the entire structure.
-
-**Pride** offends against **Truth** (denying dependence on God), **Justice** (stealing God's glory), **Mercy** (judging others), and **Sacrifice** (refusing to serve). **Lust** distorts the **Truth** of the body, violates **Justice** by using persons as objects, and refuses **Sacrifice** by indulging disordered desire rather than ordering it to another's good.
-
-Sin breaks the bonds of communion that love creates.
-</div>
-
-<div class="print-only">
-The following matrix shows which pillars each vice offends against. Each row first states the vice's defining offense—the definition its marks are read from. A "✗" indicates a pillar the vice offends; a "★" marks its *primary target*—the pillar its defining offense cannot be stated without.
+The following matrix shows which pillars each vice offends against. Each row first states the vice's defining offense. An "✗" indicates a pillar the vice offends; a "★" marks its *primary target*—the pillar its defining offense cannot be stated without. As Chapter 1 showed with St. Augustine, evil is not a substance but a *privation*—a good corrupted or missing. So each vice is the privation of a particular virtue, named in italics at the close of its defining offense.
 
 | Vice | The defining offense | Truth | Justice | Mercy | Sacrifice |
 |------|----------------------|:-----:|:-------:|:-----:|:---------:|
 | **Opposing Theological Virtues** |
-| Unbelief/Infidelity | Refusing assent to what God has revealed | ★ | ✗ | | ✗ |
-| Despair/Presumption | Refusing to rest on God's promises—quitting them, or presuming without surrender | ✗ | | | ★ |
-| Hatred/Indifference | Love itself refused—willing evil to another, or willing nothing at all | ★ | ★ | ★ | ★ |
+| Unbelief/Infidelity | Refusing assent to what God has revealed (privation of *faith*) | ★ | ✗ | | ✗ |
+| Despair/Presumption | Refusing to rest on God's promises—quitting them, or presuming without surrender (privation of *hope*) | ✗ | | | ★ |
+| Hatred/Indifference | Love itself refused—willing evil to another, or willing nothing at all (privation of *charity*) | ★ | ★ | ★ | ★ |
 | **Opposing Cardinal Virtues** |
-| Imprudence/Rashness | Acting without asking what love requires here and now | ★ | ✗ | | ✗ |
-| Injustice | Withholding from God or neighbor what is theirs by right | ✗ | ★ | | ✗ |
-| Cowardice/Recklessness | Deserting what is owed when it costs—or spending life for nothing | ✗ | ✗ | | ★ |
-| Intemperance | Letting appetite rule the body held in trust | ✗ | ✗ | | ★ |
-| Foolishness | Ordering life as if God's view of things did not exist | ★ | ✗ | | ✗ |
+| Imprudence/Rashness | Acting without asking what love requires here and now (privation of *prudence*) | ★ | ✗ | | ✗ |
+| Injustice | Withholding from God or neighbor what they are due (privation of *justice*) | ✗ | ★ | | ✗ |
+| Cowardice/Recklessness | Deserting what is owed when it costs—or spending life for nothing (privation of *fortitude*) | ✗ | ✗ | | ★ |
+| Intemperance | Letting appetite rule the body held in trust (privation of *temperance*) | ✗ | ✗ | | ★ |
+| Foolishness | Ordering life as if God's view of things did not exist (privation of *wisdom*) | ★ | ✗ | | ✗ |
 | **Seven Deadly Sins** |
-| Pride | Denying we are creatures—seizing God's place and glory | ★ | ✗ | ✗ | ✗ |
-| Greed/Avarice | Hoarding as one's own what was entrusted for the needy | ✗ | ✗ | ★ | ✗ |
-| Lust | Using a person as an object for appetite | ✗ | ★ | | ✗ |
-| Wrath/Anger | Vengeance—spending oneself to inflict harm: sacrifice perverted | ✗ | ✗ | ✗ | ★ |
-| Sloth | Refusing the labor love owes—duty, prayer, presence | ✗ | ★ | | ✗ |
-| Envy | Sorrow at another's good, willing their diminishment | ✗ | ✗ | ★ | ✗ |
-| Gluttony | Making food and drink gods—consuming past the body's trust | ✗ | ✗ | | ★ |
+| Pride | Denying we are creatures—seizing God's place and glory (privation of *humility*) | ★ | ★ | ✗ | ✗ |
+| Greed/Avarice | Hoarding as one's own what was entrusted for the needy (privation of *generosity*) | ✗ | ✗ | ★ | ✗ |
+| Lust | Using a person as an object for appetite (privation of *chastity*) | ✗ | ★ | | ✗ |
+| Wrath/Anger | Seizing the vengeance owed to God alone—willing harm to one who bears His image (privation of *patience*) | ★ | ★ | ★ | ✗ |
+| Sloth | Refusing the labor love owes—duty, prayer, presence (privation of *diligence*) | ✗ | ★ | | ★ |
+| Envy | Sorrow at another's good, willing their diminishment (privation of *kindness*) | ✗ | ✗ | ★ | ✗ |
+| Gluttony | Making food and drink gods—consuming past the body's trust (privation of *temperance*) | ✗ | ✗ | | ★ |
 | **Additional Vices** |
-| Disobedience/Rebellion | Refusing the submission owed to God's order | ✗ | ★ | | ✗ |
-| Infidelity/Betrayal | Breaking the covenant promise—the vow abandoned | ✗ | ★ | | ✗ |
-| Ingratitude | Withholding the thanks owed for gifts received | ✗ | ★ | | ✗ |
-| Dishonesty/Lying | Speaking against the truth owed to one's neighbor | ★ | ✗ | | ✗ |
-| Harshness/Cruelty | Wounding the weak where care was needed | ✗ | ✗ | ★ | ✗ |
-| Impiety/Irreverence | Refusing due reverence to God and what is holy | ✗ | ★ | | ✗ |
-| Violence | Force against the person—seizing by harm what was never ours | ✗ | ★ | ✗ | ✗ |
-| Inconstancy/Fickleness | Quitting the pledged course when holding fast grows hard | ✗ | ✗ | | ★ |
-| Lukewarmness | Conviction cooled into vagueness—truth unnamed, undefended, unlived | ★ | ✗ | | ✗ |
-</div>
+| Disobedience/Rebellion | Refusing the submission owed to God's order (privation of *obedience*) | ✗ | ★ | | ✗ |
+| Infidelity/Betrayal | Breaking the covenant promise—the vow abandoned (privation of *faithfulness*) | ✗ | ★ | | ✗ |
+| Ingratitude | Withholding the thanks owed for gifts received (privation of *gratitude*) | ✗ | ★ | | ✗ |
+| Dishonesty/Lying | Speaking against the truth owed to one's neighbor (privation of *honesty*) | ★ | ✗ | | ✗ |
+| Harshness/Cruelty | Wounding the weak where care was needed (privation of *gentleness*) | ✗ | ✗ | ★ | ✗ |
+| Impiety/Irreverence | Refusing due reverence to God and what is holy (privation of *religion*) | ✗ | ★ | | ✗ |
+| Violence | Force against the person—seizing by harm what was never ours (privation of *meekness*) | ✗ | ★ | ★ | ✗ |
+| Inconstancy/Fickleness | Quitting the pledged course when holding fast grows hard (privation of *perseverance*) | ✗ | ✗ | | ★ |
+| Lukewarmness | Conviction cooled into vagueness—truth unnamed, undefended, unlived (privation of *zeal*) | ★ | ✗ | | ✗ |
 
 <div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
 Notice that every vice violates truth. This is not coincidental—<strong>every sin necessarily involves believing or speaking a lie.</strong> Whether we lie to ourselves about what will truly fulfill us, lie to others about our intentions, or deny the truth about God's nature and commands, sin cannot exist without falsehood. This is why lying is the foundational sin. As Jesus said of Satan: "When he lies, he speaks according to his own nature, for he is a liar and the father of lies" (John 8:44).
 </div>
 
-**How the matrix is determined.** The same test as Chapter 13, run in reverse: each cell asks whether the pillar belongs to the vice's *defining offense*—what the sin does by its own nature, not what it merely touches. Because every vice is the privation of some virtue, the two matrices largely mirror each other—but the vice's own name governs, not the virtue's. Truth and Sacrifice are offended in every row for the same reason they are upheld in every row of Chapter 13: every sin believes or speaks a lie, and every sin withholds a gift love would have given. Justice is offended everywhere except in despair and presumption, which (like the hope they oppose) concern only what we receive from God. Mercy is the telling column: a vice offends it only when its defining offense turns against the neighbor. A star names each vice's *primary target*—the pillar its defining offense cannot be stated without—and **hatred** alone carries four, because hatred is not one pillar attacked but love itself refused. Three rows show why the vice's name decides, not the mirror. **Pride**, the root of all sin, offends all four though humility does not extend mercy—pride destroys the humility from which mercy flows, leaving only condescension. **Imprudence** and **foolishness** offend fewer pillars than prudence and wisdom engage: those virtues name the summit of right judgment, while their vice-names denote ordinary lapses. And **lukewarmness** strikes Truth first though zeal leads with mercy: a community can stay warm toward people while going cold on truth—the kindness continues, but with nothing left to guide it.
+**How the matrix is determined.** The same test as Chapter 13, run in reverse: each cell asks whether the pillar belongs to the vice's *defining offense*—what the sin does by its own nature, not what it merely touches. Because every vice is the privation of some virtue, the two matrices largely mirror each other—but the vice's own name governs, not the virtue's.
 
-<div class="audio-only">
-Read by their primary targets, the vices sort into four families. Against Truth: unbelief, imprudence, foolishness, pride, dishonesty, and lukewarmness. Against Justice: injustice, lust, sloth, disobedience, betrayal, ingratitude, impiety, and violence. Against Mercy: greed, envy, and cruelty. Against Sacrifice: despair, cowardice, intemperance, wrath, gluttony, and inconstancy. Hatred attacks all four at once. This grouping, too, is a mirror. Think back over your last several confessions: the family where your sins cluster names the pillar you have stopped loving, and the matching family of virtues names what heals it.
-</div>
+Truth and Sacrifice are offended in every row for the same reason they are upheld in every row of Chapter 13: every sin believes or speaks a lie, and every sin withholds the gift love would have given—or pours it out on the wrong altar. Justice is offended everywhere except in despair and presumption, which (like the hope they oppose) concern only what we receive from God. Mercy is the telling column: a vice offends it only when its defining offense turns against the neighbor. One or more stars name each vice's *primary target(s)*—the pillar (or pillars) its defining offense cannot be stated without—and **hatred** alone carries all four, because hatred is not one pillar attacked but love itself refused.
 
-<div class="print-only">
+Three rows show why the vice's name decides, not the mirror. **Pride**, the root of all sin, offends all four though humility does not extend mercy—pride destroys the humility from which mercy flows, leaving only condescension. **Imprudence** and **foolishness** offend fewer pillars than prudence and wisdom engage: those virtues name the summit of right judgment, while their vice-names denote ordinary lapses. And **lukewarmness** strikes Truth first though zeal leads with mercy: a community can stay warm toward people while going cold on truth—the kindness continues, but with nothing left to guide it.
+
 And the same stars, read by column, sort the vices into four families:
 
 | Vices against Truth | Vices against Justice | Vices against Mercy | Vices against Sacrifice |
@@ -93,34 +82,19 @@ And the same stars, read by column, sort the vices into four families:
 | Unbelief/Infidelity | Injustice | Greed/Avarice | Despair/Presumption |
 | Imprudence/Rashness | Lust | Envy | Cowardice/Recklessness |
 | Foolishness | Sloth | Harshness/Cruelty | Intemperance |
-| Pride | Disobedience/Rebellion |  | Wrath/Anger |
-| Dishonesty/Lying | Infidelity/Betrayal |  | Gluttony |
-| Lukewarmness | Ingratitude |  | Inconstancy/Fickleness |
-|  | Impiety/Irreverence |  |  |
+| Pride | Disobedience/Rebellion | Wrath/Anger | Gluttony |
+| Dishonesty/Lying | Infidelity/Betrayal | Violence | Inconstancy/Fickleness |
+| Lukewarmness | Ingratitude |  | Sloth |
+| Wrath/Anger | Impiety/Irreverence |  |  |
 |  | Violence |  |  |
+|  | Wrath/Anger |  |  |
+|  | Pride |  |  |
 
-Hatred belongs to no single family because it attacks all four at once. This table, too, is a mirror. Bring your last several confessions to it: the column where your sins cluster names the pillar you have stopped loving, and the matching family in Chapter 13 names the virtues that heal it. The remedies for the seven deadly sins below walk through exactly this healing.
-</div>
+Hatred belongs to no single family because it attacks all four at once; wrath, violence, pride, and sloth likewise span more than one. This table, too, is a mirror. Bring your last several confessions to it: the column where your sins cluster names the pillar you have stopped loving, and the matching family in Chapter 13 names the virtues that heal it. The remedies for the seven deadly sins below walk through exactly this healing.
 
 ---
 
-## How Vices Offend Against the Four Pillars
-
-How vices offend against each pillar:
-
-### **Offenses Against Truth:**
-When we sin, we deny reality: the truth about God, ourselves, others, and objective moral law.
-
-### **Offenses Against Justice:**
-When we sin, we violate what is owed: failing to give God His due, failing to give others their due, taking what doesn't belong to us.
-
-### **Offenses Against Mercy:**
-When we sin, we harden our hearts: refusing to forgive, showing no compassion, judging harshly, exploiting the vulnerable.
-
-### **Offenses Against Sacrifice:**
-When we sin, we choose selfishness: refusing to give of ourselves, seeking our own pleasure at others' expense, avoiding the cost of doing what is right.
-
-**The degree to which we offend against these pillars helps us understand the nature and seriousness of each vice.** However, whether any particular instance is mortal or venial depends on three specific conditions: grave matter, full knowledge, and deliberate consent (explained in detail below). This framework shows us which pillars each vice offends against, but the three conditions determine the actual gravity of any specific sin.
+**The degree to which we offend against these pillars helps us understand the nature and seriousness of each vice.**
 
 ---
 
@@ -134,9 +108,9 @@ Those who claim all sin is equal often cite James 2:10 ("whoever fails in one po
 
 ### **Jesus Himself Teaches We Can Choose Good:**
 
-When a scholar asked Jesus what he must do to inherit eternal life, Jesus responded: **"You shall love the Lord your God with all your heart, and with all your soul, and with all your strength, and with all your mind; and your neighbor as yourself"** (Luke 10:27). Then Jesus said: **"Do this and you will live"** (Luke 10:28).
+Jesus commands us: **"You, therefore, must be perfect, as your heavenly Father is perfect"** (Matthew 5:48).
 
-**Jesus would not command us to do something impossible.** If we were trapped in perpetual mortal sin with no ability to choose good, Jesus' command would be cruel mockery. But He commands us to love because **we can love**—we have the freedom and grace to choose good over evil.
+**Jesus would not command us to do something impossible.** If we were trapped in perpetual mortal sin with no ability to choose good, Jesus' command would be cruel mockery. But He commands us to love because **we can love**—we have the freedom, by His grace, to choose good over evil.
 
 St. Paul reinforces this: **"Do not be overcome by evil, but overcome evil with good"** (Romans 12:21). Paul wouldn't tell us to "conquer evil" if we were powerless to do so. We have real agency, real freedom, and real grace to choose good and overcome sin.
 
@@ -146,13 +120,13 @@ St. Paul reinforces this: **"Do not be overcome by evil, but overcome evil with 
 - **Mercy:** When we choose sin, God offers forgiveness through Christ's sacrifice on the Cross and in the Sacrament of Reconciliation
 - **Sacrifice:** God bore the cost of our sin Himself so we could be restored
 
-This is the beauty of Catholic teaching: **We are free to sin, but we are also free to repent and be restored.** We can avoid mortal sin through God's grace. We can grow in holiness. We can become saints. Jesus wouldn't command us, "You, therefore, must be perfect, as your heavenly Father is perfect." (Matthew 5:48) if it were impossible.
+This is the beauty of Catholic teaching: we are never trapped in our sin. Free to fall, we are just as **free to repent and be restored.** We can avoid mortal sin through God's grace. We can grow in holiness. We can become saints.
 
 ### **But Scripture Clearly Distinguishes Degrees of Sin:**
 
 **God's Justice** requires that different offenses receive proportional judgment. A small lie is not the same as murder. Brief impatience is not the same as nursing hatred. To claim otherwise would be unjust—and God is perfectly just.
 
-**God's Mercy** provides the possibility of restoration after grave sin through the Sacrament of Reconciliation. If all sins were equally deadly, there would be no hope of recovery—we would be perpetually damned. But God distinguishes between sins that wound our relationship with Him (venial) and sins that kill it (mortal), offering us the grace to be restored.
+**God's Mercy** does not weigh every fault the same. If a moment's impatience carried the full weight of murder, that would be no mercy at all—it would crush us under a standard no human being could bear. God sees us in truth: we are creatures, unable to obey with His own perfection. So He distinguishes between sins that wound our relationship with Him (venial) and sins that kill it (mortal)—and when we fall, He keeps the way back to Him short, through the Sacrament of Reconciliation.
 
 ### **Scripture Clearly Teaches This Distinction:**
 
@@ -160,7 +134,11 @@ St. John writes: **"There is sin which is mortal; I do not say that one is to pr
 
 St. Paul warns that certain sins exclude from the Kingdom: **"Do you not know that the unrighteous will not inherit the kingdom of God? Do not be deceived; neither the immoral, nor idolaters, nor adulterers, nor sexual perverts, nor thieves, nor the greedy, nor drunkards, nor revilers, nor robbers will inherit the kingdom of God"** (1 Corinthians 6:9-10).
 
-These are **mortal sins**—they kill our relationship with God, neighbor, and self. But not all sins have this deadly effect. The Church, guided by the Holy Spirit, has preserved and clarified this biblical teaching for our salvation.
+These are **mortal sins**—they kill our relationship with God, neighbor, and self. But not all sins have this deadly effect.
+
+The Church, guided by the Holy Spirit into all truth, has preserved this biblical teaching and made it precise—drawing out exactly what makes a sin mortal, so that no soul need live in confusion about the state of its own heart. This clarity is distinctly Catholic: not an invention, but an inheritance guarded and sharpened over centuries.
+
+It is a great gift, and it is the only way the call of Jesus can be lived: **"Be perfect, as your heavenly Father is perfect"** would be an unbearable command if every stumble were fatal. Because the Church distinguishes the wound from the death-blow, holiness becomes a road we can actually walk: we fall into venial sin without falling out of grace, we rise, and we grow. The Church sees us clearly, and in seeing clearly hands us a map for the very perfection Christ desires.
 
 ---
 
@@ -176,7 +154,7 @@ The act itself must be seriously wrong—a grave violation of God's law. The Ten
 - Adultery, fornication, pornography, masturbation (Sixth Commandment)
 - Theft of significant value, fraud, exploitation (Seventh Commandment)
 - Perjury, serious slander, betrayal of secrets (Eighth Commandment)
-- Apostasy, heresy, schism, sacrilege (First Commandment)
+- Apostasy (walking away from the faith), heresy (knowingly rejecting a truth of the faith), schism (breaking from the unity of the Church), sacrilege (violating what is sacred) — First Commandment
 
 **Not all instances of these vices are automatically mortal**—the other two conditions must also be present.
 
@@ -217,9 +195,41 @@ If any one of these conditions is absent or significantly diminished, the sin ma
 
 ---
 
+## Mitigating and Aggravating Factors
+
+### **Mitigating Factors (Reduce Culpability):**
+
+The factors that reduce knowledge and freedom are the same ones named under the three conditions above. What matters when weighing culpability:
+- These factors **reduce** culpability; they don't necessarily **eliminate** it
+- We remain responsible for forming our consciences and seeking help for addictions and compulsions
+- Culpable ignorance (choosing not to learn) doesn't excuse, and deliberately getting drunk to "excuse" sin doesn't reduce culpability
+
+### **Aggravating Factors (Increase Gravity):**
+
+**Factors that increase offense against truth:** Hypocrisy, scandal, sacrilege.
+
+**Factors that increase offense against justice:** Abuse of authority, violating sacred trust, harming the vulnerable.
+
+**Factors that increase offense against mercy:** Cruelty, malice, refusing to repent.
+
+**Factors that increase offense against sacrifice:** Premeditation, persistence, leading others into sin.
+
+### **The Role of Circumstances:**
+
+The same grave act grows heavier when a circumstance adds a second offense:
+
+- Stealing $100 from a coworker's desk is theft; stealing the same from the collection basket adds *sacrilege*.
+- Adultery is already mortal; committed by a priest it adds *sacrilege* and public *scandal*.
+
+The matter was grave to begin with—the circumstance is what deepens it.
+
+**The Church's wisdom** in distinguishing these factors helps us understand the true gravity of our sins and form our consciences properly.
+
+---
+
 ## Detailed Examples: The Same Vice at Different Levels
 
-Two examples will illustrate how the same vice can manifest at different levels of gravity. The pattern applies to all vices: the three conditions (grave matter, full knowledge, deliberate consent) determine whether a particular act is mortal or venial.
+Two examples will illustrate how the same vice can manifest at different levels of gravity. The pattern applies to every vice.
 
 ### **Example 1: Lying (Dishonesty)**
 
@@ -260,7 +270,7 @@ Two examples will illustrate how the same vice can manifest at different levels 
 - Whether it violates a sacred trust or oath
 - The intention and circumstances
 
-The same pattern applies to **anger** (brief irritation vs. nursing hatred), **greed** (wanting more vs. exploiting workers), and every other vice. The three conditions always determine whether a particular act is mortal or venial.
+The same pattern applies to **anger** (brief irritation vs. nursing hatred), **greed** (wanting more vs. exploiting workers), and every other vice.
 
 ---
 
@@ -321,26 +331,26 @@ The matrix above shows which pillars each deadly sin offends. Here's what each l
 - **Pride** → Idolatry, selfishness, ingratitude, disobedience, presumption, contempt for others, spiritual blindness, all the other sins
 - **Greed** → Exploitation, fraud, theft, hardness of heart toward the needy
 - **Lust** → Adultery, fornication, pornography, exploitation, broken families
-- **Wrath** → Murder, war, violence, hatred, **vengeance** (the perversion of sacrifice itself—spending one's own time, peace, and resources to inflict harm rather than give life), broken relationships. *"Vengeance is mine, I will repay, says the Lord"* (Romans 12:19)—God reserves it to Himself because no creature can wield it without being consumed by it.
+- **Wrath** → Murder, war, violence, hatred, **vengeance** (the theft of what God reserves to Himself—seizing the repayment owed to Him alone, and spending one's own peace and resources to inflict harm rather than give life), broken relationships. *"Vengeance is mine, I will repay, says the Lord"* (Romans 12:19)—God reserves it to Himself because no creature can wield it without being consumed by it.
 - **Sloth** → Despair, abandonment of duties, neglect of prayer, spiritual lukewarmness
 - **Envy** → Jealousy, hatred, slander, detraction, joy at another's misfortune, division
 - **Gluttony** → Addiction, drunkenness, neglect of others, health problems, spiritual dullness
 
 ### **What Heals Each Deadly Sin:**
 
-If each deadly sin unravels love by pulling threads out of it, then each is healed when love is rebound — when truth, justice, mercy, and sacrifice are restored together. The Church has long named the virtues that stand opposite each capital vice, and each of those virtues is simply the four pillars of love at work on that particular wound:
+If each deadly sin unravels love by pulling threads out of it, then each is healed when love is rebound — when truth, justice, mercy, and sacrifice are restored together. The Church has long named the virtues that stand opposite each capital vice:
 
-- **Pride** — healed by **humility**: truth sees the self as creature and God as the source of every gift; justice renders God the glory pride tries to steal; mercy softens the hardened heart toward others; sacrifice lifts them rather than self.
-- **Greed** — healed by **generosity**: truth sees possessions as gifts held in stewardship; justice gives each person what they are owed; mercy answers the need of the poor; sacrifice releases what was never truly ours to keep.
-- **Lust** — healed by **chastity**: truth honors the body as temple and the other as a whole person; justice refuses to use anyone as a means; mercy protects the vulnerable; sacrifice orders desire toward the beloved's good rather than one's own appetite.
-- **Wrath** — healed by **patience**: truth sees even the offender as an image-bearer; justice entrusts vengeance to God (*"Vengeance is mine, I will repay, says the Lord,"* Romans 12:19); mercy bears the cost of forgiveness; sacrifice pays what wrath would have extracted.
-- **Sloth** — healed by **diligence**: truth sees what love actually requires; justice renders each person their due of time and attention; mercy rises for the brother still hungry; sacrifice pays the daily cost of presence and service.
-- **Envy** — healed by **kindness**: truth sees another's good as a gift of God, not a theft from me; justice honors what rightly belongs to them; mercy *"rejoices with those who rejoice"* (Romans 12:15); sacrifice spends itself for their flourishing rather than their diminishment.
-- **Gluttony** — healed by **temperance**: truth sees food and drink as gifts and not gods; justice orders appetite so others may eat; mercy is moved by those who hunger; sacrifice restrains desire so there is more to give.
+- **Pride** — healed by **humility**: the self seen as creature, and God given back the glory pride tried to steal.
+- **Greed** — healed by **generosity**: possessions held in stewardship, released to the need of the poor.
+- **Lust** — healed by **chastity**: the body honored as temple, the other loved as a person, never used.
+- **Wrath** — healed by **patience**: vengeance entrusted to God, as above (Romans 12:19), the cost of forgiveness borne instead.
+- **Sloth** — healed by **diligence**: the daily cost of presence and service paid to the brother in need.
+- **Envy** — healed by **kindness**: another's good received as God's gift, not a theft—heeding the call to *"rejoice with those who rejoice"* (Romans 12:15).
+- **Gluttony** — healed by **temperance**: food and drink received as gifts, not masters, appetite restrained so there is more to give.
 
-In each case the healing follows the pattern established in Chapter 5: no single pillar heals the soul alone. Love is one thing — four threads bound together — and only the whole binding, restored, lifts the soul out of the vice that unraveled it. This is why Christ's Cross is not one remedy among many but *the* remedy: in His one sacrifice, truth, justice, mercy, and sacrifice act together in one act of perfect love, and every deadly sin meets its complete undoing there.
+In each case the healing follows the same binding we traced in Chapter 5: no single pillar heals the soul alone. Love is one thing — four threads bound together — and only the whole binding, restored, lifts the soul out of the vice that unraveled it. This is why Christ's Cross is not one remedy among many but *the* remedy: in His one sacrifice, truth, justice, mercy, and sacrifice act together in one act of perfect love, and every deadly sin meets its complete undoing there.
 
-### **The Progressive Nature of Deadly Sin:**
+### **The Progression of Deadly Sin:**
 
 The deadly sins typically follow this pattern:
 
@@ -350,52 +360,29 @@ The deadly sins typically follow this pattern:
 4. **Hardening:** The conscience becomes dulled, making repentance harder
 5. **Spiritual Death:** Complete separation from God if unrepented
 
-**This is why we must resist these vices at the earliest stages.** What begins as a small giving-in can grow into a deadly habit that destroys our souls. This is precisely why St. John distinguishes between mortal and venial sin (1 John 5:16-17): it honors the truth of human dignity both for the offender and the offended. To equate a momentary lustful glance with the sin of murder is unjust and unmerciful—which makes it untrue. None of these conditions could arise from a God who is all truth and mercy.
+**This is why we must resist these vices at the earliest stages.** What begins as a small giving-in can grow into a deadly habit that destroys our souls. This is precisely why St. John distinguishes between mortal and venial sin (1 John 5:16-17): it honors the truth of human dignity both for the offender and the offended. To equate a momentary lustful glance with the sin of murder is unjust and unmerciful—which makes it untrue. Such an equation could never come from a God who is all truth and mercy.
 
 ---
 
-## Mitigating and Aggravating Factors
+## Our Sin Is Never Ours Alone
 
-Various factors can reduce culpability or increase gravity of grave matter.
+We have a habit—so common we scarcely notice it—of treating the whole drama of sin as if it happened inside one soul alone. Is my conscience clear? Is my salvation secure? Even our examinations of conscience can shrink into a private audit of a private account. This distortion comes naturally to us—it plays into our default pull toward selfishness, and it runs through much of how we teach and talk about the faith: we speak of salvation as if its only implication were whether I, on my own, end up in heaven or hell. But that is not all it means. God does not merely reach down and rescue an isolated individual. It is His Church that draws us in and teaches us about the faith and by baptism makes us part of His covenant family—the Body of Christ. We are not left on our own; we are not saved on our own, and we are not saved for our own. *"None of us lives to himself, and none of us dies to himself"* (Romans 14:7). We are saved by the Body of Christ, for the Body of Christ.
 
-### **Mitigating Factors (Reduce Culpability):**
+The point is that most sins are things we do *to* other people. Lying, cheating, stealing—these are not private stumbles; each one is done to someone. A lie leaves a real person deceived. Theft takes what another needed; cheating robs someone of what they were owed; cruelty leaves a wound that outlasts the moment. Long before my sin sets a bad example, it has already inflicted a real injury—there is a heart on the other side of it. This is why justice and mercy are never abstractions: they are owed to the particular person my sin has harmed.
 
-**Factors that reduce knowledge:** Invincible ignorance, poor formation, confusion from false teachers, mental impairment.
+But the damage does not stop with the person directly wronged. Because we are one body, no sin is ever wholly private. *"If one member suffers, all suffer together"* (1 Corinthians 12:26). It travels the threads of communion and wounds the whole. The anger I nurse hardens the room I walk into. The lust I feed teaches others to see persons as objects. The despair I indulge quietly gives everyone near me permission to stop hoping. Our actions are always teaching. Those who look to us—children most of all—learn far more from what we do than from what we say, absorbing from our lives what love is and what a person may become.
 
-**Factors that reduce freedom:** Grave fear, strong passion, addiction, habit, psychological compulsion, immaturity.
+And some sins have long lasting effects: the adultery that shatters a marriage teaches the children of that home what love and fidelity are worth—a fracture they often carry into families of their own, the generational ripple Chapter 1 traced. Vice is contagious, and its first victims are usually the people closest to us—the very ones we were given to love.
 
-**Important distinctions:**
-- These factors **reduce** culpability; they don't necessarily **eliminate** it
-- We remain responsible for forming our consciences and seeking help for addictions/compulsions
-- Culpable ignorance (choosing not to learn) doesn't excuse
-- Deliberately getting drunk to "excuse" sin doesn't reduce culpability
+And vice loves company: sin shared feels like sin sanctioned, as though enough witnesses could turn a wrong into a permission slip. But another's participation proves nothing except that two consciences are now dulled instead of one—it is a false testimony we give ourselves, not a defense.
 
-### **Aggravating Factors (Increase Gravity):**
+This is why Scripture treats leading others into sin as something uniquely grave. Christ, so gentle with the sinner, reserves one of His hardest words for those who corrupt the innocent: *"Whoever causes one of these little ones who believe in me to sin, it would be better for him to have a great millstone fastened round his neck and to be drowned in the depth of the sea"* (Matthew 18:6). To sin is to wound myself; to draw another into sin—by my example, my pressure, my mockery of the good—is to reach into their salvation and pull. We hand our neighbor peace or we hand them pain. We make holiness look beautiful, or we make it look impossible.
 
-**Factors that increase offense against truth:** Hypocrisy, scandal, sacrilege.
+So the question sin really asks is larger than "Is my soul safe?" It is: *what am I doing to the family I was baptized into?*
 
-**Factors that increase offense against justice:** Abuse of authority, violating sacred trust, harming the vulnerable.
+And it reaches wider still. My sin does not stop at the walls of the Church—it touches those who stand outside it too. When the one who sins is known to be a Christian, that failure becomes evidence in a case already being made: that the Church is full of hypocrites, that the faith is a performance and not a life. This is one of the most common reasons people leave the Church—not a doctrine they rejected, but a wound inflicted by someone who claimed to follow Christ. And for those still outside, watching, the evil committed by believers is often not a footnote to their doubt but its strongest argument: the problem of evil made personal, a Christian's own hypocrisy standing in for every philosophical case ever made against God.
 
-**Factors that increase offense against mercy:** Cruelty, malice, refusing to repent.
-
-**Factors that increase offense against sacrifice:** Premeditation, persistence, leading others into sin.
-
-### **The Role of Circumstances:**
-
-Circumstances affect gravity:
-
-**Example: Taking what isn't yours**
-- Taking a pen from work without asking = minor appropriation (venial, easily returned)
-- Stealing $100 from a coworker's desk = theft (mortal, grave matter)
-- Stealing from the collection basket = theft + sacrilege (mortal, gravely aggravated)
-
-**Example: Sexual sin**
-- Impure thought briefly entertained = venial (lesser consent)
-- Deliberate pornography use = mortal (grave matter, full consent)
-- Adultery = mortal (grave matter + violation of covenant + scandal to family)
-- Adultery by a priest = mortal + sacrilege + scandal (gravely aggravated)
-
-**The Church's wisdom** in distinguishing these factors helps us understand the true gravity of our sins and form our consciences properly.
+Our faith was never a possession to be clutched to the chest and guarded. It was given to be spent—poured outward into the communion of the whole Body of Christ, for their salvation as much as our own.
 
 ---
 
@@ -405,253 +392,79 @@ Circumstances affect gravity:
 
 ### **What Mortal Sin Does—and What Confession Restores:**
 
-Mortal sin **kills** our relationship with God: it destroys sanctifying grace, breaks communion with the Trinity and the Church, renders us unable to receive Communion worthily, and—if unrepented at death—leads to eternal separation from God.
+Mortal sin **kills** our relationship with God. It destroys sanctifying grace—God's perfect love, *"poured into our hearts through the Holy Spirit"* (Romans 5:5): the love that makes us whole and holy, that heals us, sustains us, and makes the heart beat again. Mortal sin stops that heart. And the wound is not God's alone: sin turns us in on ourselves, and the guilt and shame it leaves behind dim our capacity to love ourselves and our neighbor as we should. It also breaks communion with the Trinity and the Church, renders us unable to receive Communion worthily, and—if unrepented at death—leads to eternal separation from God.
 
-But here is the great mercy: through the Sacrament of Reconciliation, sanctifying grace is restored and we are brought back to life spiritually. Our communion with God is reestablished, our relationship with the Church is restored, we can receive Communion worthily again, and we receive grace to avoid sin in the future.
+But this is not the end: through the Sacrament of Reconciliation, sanctifying grace is restored and we are brought back to life spiritually. Our communion with God is reestablished, our relationship with the Church is restored, we can receive Communion worthily again, and we receive grace to avoid sin in the future.
 
-### **The Three Acts of the Penitent:**
-
-1. **Contrition:** Sorrow for sin and a firm resolve to turn away from it
-   - Perfect contrition: Sorrow because we offended God whom we love
-   - Imperfect contrition: Sorrow because we fear hell or loss of heaven
-   - Both are valid, but perfect contrition is more meritorious
-
-2. **Confession:** Telling our sins to the priest
-   - Must confess all mortal sins by number and kind
-   - Should confess venial sins for spiritual growth
-   - The priest acts *in persona Christi* (in the person of Christ), with the authority given by Christ to the disciples in John 20:21–23—absolving sins in the name and authority of the Trinity, not by his own power
-
-3. **Satisfaction:** Doing the penance assigned
-   - Makes reparation for harm done
-   - Helps form habits of virtue
-   - Usually prayer, fasting, almsgiving, or acts of mercy
-
-### **The Seal of Confession:**
-
-The priest is **absolutely bound** never to reveal what is confessed, under pain of excommunication. This seal is inviolable because:
-- **Truth:** Protects the truth shared in confidence
-- **Justice:** Ensures the penitent's right to privacy
-- **Mercy:** Allows us to confess without fear of exposure
-- **Sacrifice:** The priest sacrifices the liberty to use any knowledge gained for the sake of the penitent's salvation
-
-### **When to Go to Confession:**
-
-**Required:**
-- Before receiving Communion if you're aware of mortal sin
-- At least once a year (Church precept)
-- Before marriage (if you haven't been to confession recently)
-
-**Recommended:**
-- Monthly or more frequently for spiritual growth
-- When you've committed venial sins you want to confess
-- When you need spiritual direction and counsel
-- During Advent and Lent as preparation
-
-**The Gift of Frequent Confession:**
-Even if we have no mortal sins, frequent confession:
-- Increases self-knowledge
-- Strengthens us against temptation
-- Provides spiritual direction
-- Increases humility
-- Deepens our relationship with God
-- Helps us grow in virtue and decrease in vice
+**Confession is simple in practice:** you tell your sins to the priest, who absolves you in Christ's name and authority (John 20:21–23), and you carry out whatever penance he assigns to help make things right and grow in virtue. The priest is bound never to reveal what he hears, under pain of excommunication — you can speak freely. If it has been a long time, or you have never been, don't let that stop you: tell the priest so, and he will walk you through it. Your parish's OCIA program is also a good resource if you want to understand the sacrament more fully before you go.
 
 ---
 
-## Examination of Conscience: Using the Four Pillars
+## Examination of Conscience: Toward Communion
 
-The four pillars of perfect love provide a powerful framework for examining our conscience and assessing the gravity of our sins.
+*"God's Perfect Love is the sacred gift of covenant which binds truth, justice, mercy and sacrifice into life-giving communion."* That whole definition, not merely the four pillars at its center, is the standard for examining conscience. Ask only whether truth, justice, mercy, and sacrifice were honored, and you can still miss a love that quietly stopped being sacred, stopped being gift, or forgot the covenant it was made inside—and above all you can miss the point of the whole exercise, which is not scorekeeping but *communion*: restoring the very thing sin breaks. A better examen starts where that breaking actually shows itself: in pain.
 
-### **Questions to Ask:**
+### Four Steps to Examine Your Conscience
 
-**Regarding Truth:**
-- Have I denied truth, lied, or misled others?
-- Have I refused to learn Church teaching?
-- Have I spread falsehoods about God, others, or myself?
-- **Gravity:** How serious? Who was harmed? Under oath?
+**1. Start with the pain—it is where communion is missing.** Where do you feel restless, guilty, resentful, or ashamed—and notice where you have left pain in someone else: the silence after an argument, the hurt in a child's eyes, the friend who has quietly pulled away, the distance you feel from God in prayer. Communion is what love is *for*; pain is usually the first sign that it has broken somewhere. Sin is almost always something done *to* someone, so the wound is often the fastest way back to its cause. Follow the pain and ask: *what did love fail to do here?*
 
-**Regarding Justice:**
-- Have I failed to give God His due worship, obedience, and gratitude?
-- Have I violated the rights of others or withheld what I owe them?
-- Have I stolen, cheated, or exploited anyone?
-- Have I neglected my duties to family, Church, employer, or community?
-- **Gravity:** How serious was the injustice? Who was harmed? Were they vulnerable?
+**2. Locate it in the covenant order of love.** Each rung below is a real bond God has placed you in, not an abstraction: God first, then our own soul, then spouse and children, then extended family and community, then neighbors and strangers, then enemies. Whose claim does this pain touch? And—taken as a pattern over weeks and months, not one busy day—is that person still actually receiving what they are owed, or has a lesser love quietly displaced a greater one? A finite person will have honest seasons where a genuine good claims more time for a while—a week of Vacation Bible School prep, a sick relative needing care. That is not a violation, so long as the greater love is tended to once the season passes. It becomes a violation only when "no time" quietly becomes permanent.
 
-**Regarding Mercy:**
-- Have I refused to forgive those who wronged me?
-- Have I shown cruelty, harshness, or indifference to those who suffer?
-- Have I judged others harshly rather than showing compassion?
-- Have I ignored the poor, the sick, or the marginalized?
-- **Gravity:** How serious was the lack of mercy? Did I cause suffering? Did I refuse reconciliation?
+**3. Name what broke—starting with what kind of love failed.** Before the four pillars, ask what the definition asks first: did I treat this person, or God, as *sacred*—or as useful, an obstacle, a means to something else? Did I love as *gift*, freely given—or did I make it conditional, a trade: I give only if I get? Then ask all four pillar questions of the same moment together:
+- **Truth:** Did I speak and act truthfully here—or lie, mislead, or refuse to face what was real?
+- **Justice:** Did I give what was actually owed—time, honesty, respect, their due?
+- **Mercy:** Did I meet them with compassion—or with harshness, indifference, or judgment?
+- **Sacrifice:** Did I give of myself for their good—or choose my own comfort instead?
 
-**Regarding Sacrifice:**
-- Have I refused to give of myself for others' good?
-- Have I chosen my own comfort, pleasure, or advantage over doing what's right?
-- Have I avoided the cost of discipleship?
-- Have I indulged disordered desires rather than practicing self-control?
-- **Gravity:** How serious was the selfishness? What good did I refuse to do? What harm resulted?
+A single failure often answers more than one question at once: the lie you told a coworker to avoid an awkward conversation was untrue, unjust to what he was owed, unmerciful in withholding the harder honest word, and unwilling to pay the small cost that love required. Naming all four together shows the sin as it actually is—one failure to love, not four unrelated infractions.
 
-### **Assessing Gravity:**
+**4. Weigh it the way God does.** Not every wound is the same size, and treating them as if they were would be neither just nor merciful, as we saw earlier in this chapter. Return to the three conditions that determine gravity: **grave matter**—is this seriously wrong, not merely a lesser fault? **Full knowledge**—did I know it was gravely wrong? **Deliberate consent**—did I freely choose it, or was my freedom reduced? When all three are fully present, the sin is mortal—it severs our relationship with God and calls for confession before receiving Communion. When any is absent or diminished, the sin is venial—it wounds but does not kill, though it is still worth bringing to confession for healing and growth.
 
-For each sin identified, ask:
+**5. Name the vice, aim at the virtue.** Once you can name what broke, find it in the matrix at the start of this chapter—every vice there is paired with the virtue it privates: lying is the privation of honesty, sloth of diligence, wrath of patience. Naming the vice tells you which counterfeit you chose; naming its virtue tells you what to actually grow toward next. If the pattern lands on one of the seven deadly sins, the remedies named earlier in this chapter point the way forward concretely.
 
-1. **Is this grave matter?**
-   - Does it violate one of the Ten Commandments seriously?
-   - Does it cause serious harm to myself, others, or my relationship with God?
-   - Has the Church identified this as grave matter?
+This is the whole point of examining conscience this way: not to manufacture guilt over every small thing, and not to excuse what is grave, but to see your sin the way God does—truthfully named, justly weighed, and already met by a mercy bigger than the wound. Follow the pain to its root, find where love broke down and for whom, name it honestly—vice and virtue both—and bring it, sized rightly, neither minimized nor magnified, to the confessional described above.
 
-2. **Did I have full knowledge?**
-   - Did I know this was seriously sinful?
-   - Was I aware of what I was doing?
-   - Or was I ignorant through no fault of my own?
+And hold all this with the right kind of patience—not a patience that excuses lingering in known sin, but the patience God shows a creature still becoming what grace is making of her. Grave sin is never something to ease into abandoning: the moment you see it clearly, the call is to renounce it now, in full, through confession—not to nurse it while inching toward improvement. The gradual work belongs to what remains after that: the daily wrestling with weakness, habit, and venial failure that no one outgrows this side of heaven.
 
-3. **Did I give deliberate consent?**
-   - Did I freely choose to do this?
-   - Or was I coerced, overcome by passion, or acting compulsively?
-   - Did I have full freedom of will?
+The Church has a name for what should be happening in your heart through all of this: **contrition**—"sorrow of the soul and detestation for the sin committed, together with the resolution not to sin again" (CCC 1451). Not all contrition is equal. Sorrow born of fear—dread of punishment, of hell, of being found out—is a real grace (the Church calls it *imperfect contrition*, or attrition), but by itself it cannot forgive grave sin; it only opens the door toward confession. Sorrow born of love—grieving that you have wounded the God who gave everything for you, wanting His will more than you want to escape a penalty—is *perfect contrition*, and it is this deeper sorrow the examen is meant to form in you. That is a converted heart choosing Christ's will over its own, wanting the good to overcome the evil even when the wanting is still imperfect.
 
-When all three conditions are present, the sin is mortal—it severs our relationship with God, and we must go to confession before receiving Communion. When any condition is absent or significantly diminished, the sin is venial—it wounds but does not kill our relationship with God. Venial sins should still be brought to confession for spiritual growth and healing.
+The Church puts both motives in the very prayer you speak in the confessional, naming the lesser reason before reaching for the greater one:
 
-### **A Simple Examination Based on the Ten Commandments:**
+<div class="blockquote">
+"O my God, I am heartily sorry for having offended you, and I detest all my sins because of your just punishments, but most of all because they offend you, my God, who are all good and deserving of all my love. I firmly resolve, with the help of your grace, to sin no more and to avoid the near occasions of sin."
 
-**First Commandment (No other gods):** *(Violates: Truth about God's primacy, Justice owed to God, Sacrifice of total devotion)*
-- Have I made idols of money, pleasure, power, or created things?
-- Have I practiced superstition, divination, or occult activities?
-- Have I denied my faith or been ashamed of being Catholic?
+\hfill\small — Act of Contrition
+</div>
 
-*Idolatry and apostasy, heresy, and schism are the gravest offenses against this commandment.*
+Pray it slowly sometime and notice the turn in the middle: fear named honestly, then set aside for something larger. That turn is the whole aim of this examen.
 
-*See Also: Exodus 20:2-6; CCC 2084-2141*
+And where your sin has wronged another person, not only God, contrition is not finished with feeling sorry. Justice asks what can still be repaired: an apology actually spoken, a debt actually paid, a reputation actually restored, wherever that is possible (CCC 1459). Interior sorrow and concrete repair are not alternatives; love does both.
 
-**Second Commandment (Don't take God's name in vain):** *(Violates: Truth about God's holiness, Justice owed to God's name)*
-- Have I used God's name irreverently or blasphemed?
-- Have I broken vows or oaths made in God's name?
-- Have I misrepresented God or His teachings?
-- Have I given poor witness as a Christian by treating others with injustice, cruelty, or contempt?
+Scrupulosity, the anxious habit of treating every imperfection as a crisis, is none of this; it is mistrust of God's mercy dressed up as rigor. You are a finite creature, not yet glorified—God does not demand a finished sinlessness you cannot yet give Him. He asks for a heart that has actually turned, and keeps turning.
 
-*See Also: Exodus 20:7; CCC 2142-2167*
-
-**Third Commandment (Keep holy the Sabbath):** *(Violates: Truth about worship, Justice owed to God, Sacrifice of time)*
-- Have I missed Mass on Sunday or Holy Days without serious reason or permission from my parish priest?
-- Have I done unnecessary work on Sunday that prevented rest, worship, and building of family relationships?
-- Have I treated Sunday as just another work day?
-
-*See Also: Exodus 20:8-11; CCC 2168-2195*
-
-**Fourth Commandment (Honor father and mother):** *(Violates: Truth about family covenant, Justice owed to parents/children, Mercy toward family)*
-- Have I disobeyed or disrespected my parents?
-- Have I neglected my duties to my children or family?
-- Have I failed to care for elderly parents?
-
-*See Also: Exodus 20:12; CCC 2196-2257*
-
-**Fifth Commandment (Don't murder):** *(Violates: Truth about human dignity, Justice owed to life, Mercy toward the vulnerable)*
-- Have I murdered, assaulted, or seriously harmed anyone?
-- Have I supported or procured abortion?
-- Have I been cruel, violent, or abusive?
-- Have I harbored hatred or wished harm on others?
-
-*See Also: Exodus 20:13; CCC 2258-2330*
-
-**Sixth Commandment (Don't commit adultery):** *(Violates: Truth about sexuality, Justice owed to spouse/self/children, Sacrifice of self-control)*
-- Have I engaged in the marital act outside of the sacrament of marriage?
-- Have I used pornography or engaged in masturbation?
-- Have I entertained impure thoughts deliberately?
-- Have I been immodest or led others into sexual sin?
-
-*See Also: Exodus 20:14; CCC 2331-2400*
-
-**Ninth Commandment (Don't covet your neighbor's wife):** *(Violates: Truth about purity of heart, Justice owed to marriage, Sacrifice of self-control)*
-- Have I entertained lustful desires for someone other than my spouse?
-- Have I deliberately fostered impure thoughts or fantasies?
-- Have I failed to guard my heart and eyes from occasions of lust?
-
-*See Also: Exodus 20:17; CCC 2514-2533*
-
-**Seventh Commandment (Don't steal):** *(Violates: Truth about ownership, Justice owed to others, Mercy toward the poor)*
-- Have I stolen or cheated?
-- Have I damaged others' property?
-- Have I failed to pay just wages or debts?
-- Have I failed to make restitution for what I have stolen?
-
-*See Also: Exodus 20:15; CCC 2401-2463*
-
-**Eighth Commandment (Don't bear false witness):** *(Violates: Truth itself, Justice owed to reputation, Mercy toward the accused)*
-- Have I lied?
-- Have I withheld the truth when I had a duty to speak it?
-- Have I committed perjury?
-- Have I slandered or detracted from others' reputation?
-- Have I betrayed confidences?
-
-*See Also: Exodus 20:16; CCC 2464-2513*
-
-**Tenth Commandment (Don't covet your neighbor's goods):** *(Violates: Truth about contentment, Justice owed to others, Mercy toward the poor)*
-- Have I been greedy or envious of others' possessions?
-- Have I desired to acquire wealth unjustly?
-- Have I been discontent with what God has provided?
-- Have I harbored resentment toward those who have more than I do?
-
-*See Also: Exodus 20:17; CCC 2534-2557*
+That is what this whole examen has been reaching for from the first step: not a scorecard, but the return of what love was always for—life-giving communion with God, with your neighbor, and within your own soul.
 
 ---
 
-## Growing in Holiness: The Path Forward
+## Growing in Holiness: The Mercy and Justice of God
 
 Understanding the distinction between mortal and venial sin is not meant to make us scrupulous or fearful, but to **empower us to grow in holiness.**
 
-### **The Good News:**
+**Here is the good news:** this distinction is God's own view of sin—how it wounds us, and how He saves us—so that we can live a holy life in a state of grace, and know clearly when we have damaged our relationship with Him or with others. This chapter reveals the profound mercy and justice of God:
 
-We cannot be sinless as Christ was, but by learning and sacrificially submitting to God's perfect love—Grace—we can avoid mortal sin and become saints. St. Paul testifies: **"Not that I have already obtained this or am already perfect; but I press on to make it my own, because Christ Jesus has made me his own"** (Philippians 3:12).
-
-### **The Saints Prove It's Possible:**
-
-Heroic virtue is possible—not through our own power, but through God's grace:
-- St. Mary Magdalene: From grave sinner to great saint
-- St. Augustine: From dissolute life to Doctor of the Church
-- St. Francis of Assisi: From worldly pleasure to perfect poverty
-- St. Ignatius of Loyola: From vainglory to humble service
-- St. Paul: From persecutor to apostle
-
-The same perfect love that transformed them is available to you—for the salvation of your soul, your family, and as the Body of Christ, the entire world.
-
-### **Practical Steps:**
-
-1. **Learn Church teaching** on morality (truth)
-2. **Examine conscience regularly** using the four pillars
-3. **Go to confession frequently** (monthly or more)
-4. **Receive Communion worthily** in state of grace
-5. **Pray daily** for grace to avoid sin
-6. **Practice virtue** actively (don't just avoid vice)
-7. **Avoid occasions of sin** (people, places, situations that lead to temptation)
-8. **Seek spiritual direction** from a wise confessor
-9. **Be patient with yourself** while striving for holiness
-10. **Trust in God's mercy** while taking responsibility for growth
-
-### **The Goal:**
-
-This is what it means to "work out your own salvation with fear and trembling" (Philippians 2:12)—to progressively integrate truth, justice, mercy, and sacrifice more perfectly into every aspect of our lives until we become saints.
-
-**We are not condemned to perpetual sin.** We are called to perpetual growth in love. The distinction between mortal and venial sin is a gift that helps us understand where we are, where we need to grow, and how to cooperate with God's grace in becoming the saints He created us to be. We become saints who love God so deeply that we are intimately connected to Him. This transformation is the fruit of true salvation.
-
----
-
-## Conclusion: The Mercy and Justice of God
-
-This chapter reveals the profound mercy and justice of God:
-
-**His Justice:** Different sins receive proportional judgment—a small lie differs from murder.
+**His Justice:** Different sins receive proportional judgment—a moment's lie and a murder cannot weigh the same.
 
 **His Mercy:** He distinguishes between sins that wound (venial) and sins that kill (mortal), providing Reconciliation to restore us.
 
-**His Wisdom:** He gave us the Church to teach us what constitutes grave matter, so we can avoid mortal sin. This is wise.
+**His Wisdom:** He gave us the Church to teach us what constitutes grave matter, so we can avoid mortal sin.
 
-**His Love:** He gives us grace to grow in holiness, avoid sin, and become saints.
+**His Love:** He gives us grace to grow in holiness and become saints. We cannot be sinless as Christ was, but by learning and sacrificially submitting to God's perfect love—Grace—we can avoid mortal sin and press on toward sanctity. St. Paul testifies: **"Not that I have already obtained this or am already perfect; but I press on to make it my own, because Christ Jesus has made me his own"** (Philippians 3:12). This is what it means to "work out your own salvation with fear and trembling" (Philippians 2:12)—to progressively integrate truth, justice, mercy, and sacrifice more perfectly into every aspect of our lives.
 
 When we live the four pillars—truth, justice, mercy, sacrifice—we grow in sanctity. When we deny them, we separate ourselves from the love of Christ.
 
 **Sin also breaks covenant and destroys communion.** Every mortal sin ruptures our covenant relationship with God—the sacred bond established in Baptism. It severs us from life-giving communion with the Trinity, with the Church, and even with our true selves. This is why the Sacrament of Reconciliation is so essential: it restores the covenant and rebuilds the communion that sin has destroyed.
 
-**May this understanding lead us not to fear, but to hope**—hope that by God's grace, we can grow in holiness, avoid mortal sin, reduce venial sin, and become the saints God created us to be.
+**We are not condemned to perpetual sin. We are called to perpetual growth in love.** The distinction between mortal and venial sin is a gift that helps us understand where we are, where we need to grow, and how to cooperate with God's grace in becoming the saints He created us to be—the transformation that is the fruit of true salvation.
 
 **"For freedom Christ has set us free; stand fast therefore, and do not submit again to a yoke of slavery"** (Galatians 5:1). We are free to choose good. We are free to grow in love. We are free to become saints.
 
@@ -685,6 +498,7 @@ Personal sin, when it is systematized into ideologies and cultural norms, become
 
 **Classical Works:**
 - St. Thomas Aquinas, *Summa Theologica*, I-II, Q. 72-89 (On Sin)
+- St. Gregory the Great, *Moralia in Job* (On the Seven Deadly Sins)
 - St. Alphonsus Liguori, *The Practice of the Love of Jesus Christ*
 - St. Francis de Sales, *Introduction to the Devout Life*
 - St. John Vianney (Curé of Ars), Sermons on Sin and Confession
