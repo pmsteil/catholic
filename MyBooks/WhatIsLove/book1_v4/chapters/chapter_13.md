@@ -50,7 +50,7 @@ The matrix below shows which facets of love each virtue actively engages when pr
 |--------|------------------|:-----:|:-------:|:-----:|:---------:|
 | **Theological Virtues** |
 | Faith | Assent owed to God as First Truth—believing all He has revealed | ★ | ✓ | | ✓ |
-| Hope | Trusting expectation of eternal life, resting on God's promises | ✓ | | | ★ |
+| Hope | Trusting expectation of eternal life, resting on the truth of God's promises | ★ | | | ✓ |
 | Charity/Love | Love itself—willing the good of God and neighbor with God's own love | ★ | ★ | ★ | ★ |
 | **Cardinal Virtues** |
 | Prudence | Right judgment of what love must do here and now | ★ | ✓ | ✓ | ✓ |
@@ -64,28 +64,28 @@ The matrix below shows which facets of love each virtue actively engages when pr
 | Patience | Bearing evils calmly—leaving to God what is His, sparing the offender | ✓ | ✓ | ✓ | ★ |
 | Diligence | Faithful labor with the time and talents entrusted to us | ✓ | ★ | | ★ |
 | Kindness | Active goodwill toward the neighbor—love's standing debt, given beyond it | ✓ | ✓ | ★ | ✓ |
-| Contentment | Resting satisfied with God's allotment, honoring the Giver in the gift | ✓ | ★ | | ✓ |
+| Contentment | Rendering God due gratitude for His allotment, desiring nothing beyond it | ✓ | ★ | | ✓ |
 | **Additional Virtues — Truth** |
 | Studiousness | Moderating the desire to know, seeking truth for God rather than idle curiosity | ★ | ✓ | | ✓ |
 | Honesty | Speaking and living the truth owed to one's neighbor | ★ | ✓ | | ✓ |
-| Wisdom | Seeing all things as God sees them and ordering life accordingly | ★ | ✓ | ✓ | ✓ |
+| Wisdom | Seeing all things as God sees them and ordering love accordingly | ★ | ✓ | ✓ | ✓ |
 | **Additional Virtues — Justice** |
 | Religion/Latria | Rendering God the worship, prayer, and sacrifice owed Him as Creator | ✓ | ★ | | ✓ |
-| Penance/Repentance | Grieving for sin committed, with the purpose of turning from it and amending one's life | ✓ | ★ | | ✓ |
+| Penance/Repentance | Rendering to God the debt sin left unpaid—grief for the wrong, repair of what it broke, and an amended life | ✓ | ★ | | ✓ |
 | Piety | Due honor and support owed to parents and homeland, as secondary principles of one's being | ✓ | ★ | | ✓ |
 | Dulia | Rendering the honor due to another's real excellence or dignity, apart from parents or country | ✓ | ★ | | ✓ |
-| Obedience | Submitting the will to rightful authority—God's above all, and any human authority that stands under Him | ✓ | ★ | | ✓ |
+| Obedience | Rendering the submission owed to rightful authority—God's above all, and any human authority that stands under Him | ✓ | ★ | | ✓ |
 | Faithfulness | Keeping covenant promises through time, whatever comes | ✓ | ★ | | ✓ |
 | Gratitude | Rendering the thanks owed for gifts received | ✓ | ★ | | ✓ |
 | **Additional Virtues — Mercy** |
 | Mercy | Being moved to relieve another's misery, fault, or need as one's own | ✓ | | ★ | ✓ |
 | Meekness | Restraining anger to what is just—and sparing beyond that | ✓ | ✓ | ★ | ✓ |
 | Gentleness | Tender handling of the weak—honoring their dignity, sparing their wounds | ✓ | ✓ | ★ | ✓ |
-| Zeal | Ardent labor for God's glory and the salvation of souls | ✓ | ✓ | ★ | ✓ |
+| Zeal | Ardent labor to render God the glory owed Him, spent for the duty to win souls back from ruin | ✓ | ✓ | ★ | ✓ |
 | **Additional Virtues — Sacrifice** |
 | Magnanimity | Stretching the soul toward great, arduous good for God's glory, undeterred by fear | ✓ | ✓ | | ★ |
-| Perseverance | Holding the course of good to the end, as pledged | ✓ | ✓ | | ★ |
-| Eutrapelia | Governing play and rest so leisure itself stays fitting, never excessive | ✓ | ✓ | | ★ |
+| Perseverance | Holding the course of good to the end, through life's trials and tribulations, as pledged | ✓ | ✓ | | ★ |
+| Eutrapelia | Rendering the body its due measure of rest and play—kept in trust, so it remains fit to serve every other virtue | ✓ | ★ | | ✓ |
 
 **How each checkmark is determined.** Every cell answers the same question: does this pillar belong to the virtue's *definition*—to what the virtue does by its own nature—not merely to what it touches, requires, or receives?
 
@@ -95,6 +95,8 @@ Two pillars are built into the definition of virtue itself. A virtue is a firm h
 
 **Mercy:** does its definition include *extending* relief to another's suffering, fault, or need *beyond* what is owed—given outward, not merely received? This is why Faith and Hope, which *receive* God's mercy, carry no mark under Mercy—receiving mercy is not extending it. And it is why Hope alone lacks Justice: Faith's assent is the submission owed to God as First Truth, but hope's act is trusting expectation. Justice keeps our side of the covenant; hope rests on His. Relying is not rendering.
 
+Hope's own claim runs the other way. To hope is to hold as certain what has not yet arrived, trusting the character of the One who promised it—an act of truth, not yet the fulfillment received. This is why Hope leads with Truth alongside Faith: both are the mind's assent to God's word, one to what He has already revealed, the other to what He has promised still to come. Both carry Sacrifice as well, but only as a ✓—believing against pressure, or waiting without giving up, still costs something, but that cost serves the believing and the waiting; it does not define them. Only Charity carries Sacrifice as a ★, because only Charity takes what Faith and Hope receive and spends it outward, at a cost, for another. This is the shape of the verse that opened this chapter: *"faith, hope, love abide, these three; but the greatest of these is love"* (1 Corinthians 13:13). Faith and Hope receive the gift; Charity is what gives it away.
+
 Three virtues—**Charity**, **Prudence**, and **Wisdom**—carry all four marks because their definitions take in the whole of love: charity *is* love itself; prudence judges what love must do in each moment; wisdom sees what love is doing in all things. What they govern is rightly counted as theirs. One thing remains to mark. Within each row, one or more stars name the *primary* pillar(s)—the one(s) the defining act cannot be stated without. Take the truth out of faith and nothing remains. Take the cost out of fortitude and it is mere confidence. Take the free gift out of generosity and it is taxpaying. Charity alone carries four stars, because charity is not one facet leading—it is the whole.
 
 **A note on humility.** Alone among the created virtues, humility leads with three pillars—and every one of them faces God: the truth of what we are, the rightful place we render Him, and the whole self we hand over. It reaches for no fourth star only because it never turns outward to the neighbor in mercy; it is the pure vertical gift, the creature emptying itself before its Creator. This is why humility arrives with faith—perhaps even before it. Faith is the mind's assent to what God has revealed, but the mind cannot bow to a truth it did not author until the self has first knelt. The proud cannot be taught; only the humble can receive. And this is precisely what it means to be Catholic: to surrender the whole self to God who made us in His image, wrote His law on our hearts, and founded a Church clothed in His authority, so that we would know what love is. Strip humility away and none of it can be received. It is not one virtue among the rest—it is the door they all walk through.
@@ -103,18 +105,19 @@ In the deepest sense, *every* virtue touches all four pillars—since every virt
 
 | The virtues of Truth | The virtues of Justice | The virtues of Mercy | The virtues of Sacrifice |
 |----------------------|----------------------|----------------------|----------------------|
-| Faith | Justice | Mercy | Hope |
-| Prudence | Chastity | Generosity | Fortitude |
-| Humility | Diligence | Kindness | Temperance |
-| Honesty | Contentment | Meekness | Patience |
-| Wisdom | Obedience | Gentleness | Perseverance |
-| Studiousness | Faithfulness | Zeal | Magnanimity |
-|  | Gratitude |  | Eutrapelia |
-|  | Piety |  | Humility |
-|  | Religion/Latria |  | Diligence |
+| Faith | Justice | Mercy | Fortitude |
+| Prudence | Chastity | Generosity | Temperance |
+| Humility | Diligence | Kindness | Patience |
+| Honesty | Contentment | Meekness | Perseverance |
+| Wisdom | Obedience | Gentleness | Magnanimity |
+| Studiousness | Faithfulness | Zeal | Humility |
+| Hope | Gratitude |  | Diligence |
+|  | Piety |  |  |
+|  | Religion/Latria |  |  |
 |  | Penance/Repentance |  |  |
 |  | Dulia |  |  |
 |  | Humility |  |  |
+|  | Eutrapelia |  |  |
 
 Charity heads no column because it fills all four—every family flows from love and returns to it. And the families are a mirror. Read down each column and ask: which of these virtues come easily to me, and which feel foreign? The column where you are strong is the door through which God's love already enters your life. The column you avoid is the door still closed—and now you know exactly where to knock. Later in this chapter, four saints will show what each door looks like from the inside. Nearly every virtue is love leading with a single facet—diligence leads with two, humility with three. Charity is love leading with all four, the neighbor included.
 

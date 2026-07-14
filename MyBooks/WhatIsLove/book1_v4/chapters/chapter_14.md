@@ -38,28 +38,28 @@ The following matrix shows which pillars each vice offends against. Each row fir
 |------|----------------------|:-----:|:-------:|:-----:|:---------:|
 | **Opposing Theological Virtues** |
 | Unbelief/Infidelity | Refusing assent to what God has revealed (privation of *faith*) | ★ | ✗ | | ✗ |
-| Despair/Presumption | Refusing to rest on God's promises—quitting them, or presuming without surrender (privation of *hope*) | ✗ | | | ★ |
+| Despair/Presumption | Refusing to rest on God's promises—quitting them, or presuming without surrender (privation of *hope*) | ✗ | ✗ | ★ | ★ |
 | Hatred/Indifference | Love itself refused—willing evil to another, or willing nothing at all (privation of *charity*) | ★ | ★ | ★ | ★ |
 | **Opposing Cardinal Virtues** |
 | Imprudence/Rashness | Acting without asking what love requires here and now (privation of *prudence*) | ★ | ✗ | | ✗ |
 | Injustice | Withholding from God or neighbor what they are due (privation of *justice*) | ✗ | ★ | | ✗ |
 | Cowardice/Recklessness | Deserting what is owed when it costs—or spending life for nothing (privation of *fortitude*) | ✗ | ✗ | | ★ |
 | Intemperance | Letting appetite rule the body held in trust (privation of *temperance*) | ✗ | ✗ | | ★ |
-| Foolishness | Ordering life as if God's view of things did not exist (privation of *wisdom*) | ★ | ✗ | | ✗ |
+| Foolishness | Ordering life as if God's view of things did not exist (privation of *wisdom*) | ★ | ★ | | ✗ |
 | **Seven Deadly Sins** |
 | Pride | Denying we are creatures—seizing God's place and glory (privation of *humility*) | ★ | ★ | ✗ | ✗ |
-| Greed/Avarice | Hoarding as one's own what was entrusted for the needy (privation of *generosity*) | ✗ | ✗ | ★ | ✗ |
+| Greed/Avarice | Hoarding as one's own what was entrusted for the needy (privation of *generosity*) | ✗ | ★ | ★ | ✗ |
 | Lust | Using a person as an object for appetite (privation of *chastity*) | ✗ | ★ | | ✗ |
-| Wrath/Anger | Seizing the vengeance owed to God alone—willing harm to one who bears His image (privation of *patience*) | ★ | ★ | ★ | ✗ |
+| Wrath/Anger | Denying that the one struck bears God's image—seizing the vengeance owed to God alone and willing harm to Him in them (privation of *patience*) | ★ | ★ | ★ | ✗ |
 | Sloth | Refusing the labor love owes—duty, prayer, presence (privation of *diligence*) | ✗ | ★ | | ★ |
 | Envy | Sorrow at another's good, willing their diminishment (privation of *kindness*) | ✗ | ✗ | ★ | ✗ |
-| Gluttony | Making food and drink gods—consuming past the body's trust (privation of *temperance*) | ✗ | ✗ | | ★ |
+| Gluttony | Making food and drink gods—consuming past the body's trust (privation of *temperance*) | ✗ | ★ | | ★ |
 | **Additional Vices** |
 | Disobedience/Rebellion | Refusing the submission owed to God's order (privation of *obedience*) | ✗ | ★ | | ✗ |
 | Infidelity/Betrayal | Breaking the covenant promise—the vow abandoned (privation of *faithfulness*) | ✗ | ★ | | ✗ |
 | Ingratitude | Withholding the thanks owed for gifts received (privation of *gratitude*) | ✗ | ★ | | ✗ |
 | Dishonesty/Lying | Speaking against the truth owed to one's neighbor (privation of *honesty*) | ★ | ✗ | | ✗ |
-| Harshness/Cruelty | Wounding the weak where care was needed (privation of *gentleness*) | ✗ | ✗ | ★ | ✗ |
+| Harshness/Cruelty | Wounding the weak where care was needed (privation of *gentleness*) | ✗ | ★ | ★ | ✗ |
 | Impiety/Irreverence | Refusing due reverence to God and what is holy (privation of *religion*) | ✗ | ★ | | ✗ |
 | Violence | Force against the person—seizing by harm what was never ours (privation of *meekness*) | ✗ | ★ | ★ | ✗ |
 | Inconstancy/Fickleness | Quitting the pledged course when holding fast grows hard (privation of *perseverance*) | ✗ | ✗ | | ★ |
@@ -71,9 +71,9 @@ Notice that every vice violates truth. This is not coincidental—<strong>every 
 
 **How the matrix is determined.** The same test as Chapter 13, run in reverse: each cell asks whether the pillar belongs to the vice's *defining offense*—what the sin does by its own nature, not what it merely touches. Because every vice is the privation of some virtue, the two matrices largely mirror each other—but the vice's own name governs, not the virtue's.
 
-Truth and Sacrifice are offended in every row for the same reason they are upheld in every row of Chapter 13: every sin believes or speaks a lie, and every sin withholds the gift love would have given—or pours it out on the wrong altar. Justice is offended everywhere except in despair and presumption, which (like the hope they oppose) concern only what we receive from God. Mercy is the telling column: a vice offends it only when its defining offense turns against the neighbor. One or more stars name each vice's *primary target(s)*—the pillar (or pillars) its defining offense cannot be stated without—and **hatred** alone carries all four, because hatred is not one pillar attacked but love itself refused.
+Truth, Justice, and Sacrifice are offended in every row for the same reason they are upheld in every row of Chapter 13: every sin believes or speaks a lie, withholds something owed to God or neighbor, and withholds the gift love would have given—or pours it out on the wrong altar. Even despair and presumption, which primarily concern what we receive from God rather than what we owe Him, touch justice at the presumption half: to demand God's mercy while refusing the repentance, worship, and obedience owed Him is itself an injustice (see Chapter 7). Mercy is the telling column: a vice offends it only when its defining offense turns against the neighbor. One or more stars name each vice's *primary target(s)*—the pillar (or pillars) its defining offense cannot be stated without—and **hatred** alone carries all four, because hatred is not one pillar attacked but love itself refused.
 
-Three rows show why the vice's name decides, not the mirror. **Pride**, the root of all sin, offends all four though humility does not extend mercy—pride destroys the humility from which mercy flows, leaving only condescension. **Imprudence** and **foolishness** offend fewer pillars than prudence and wisdom engage: those virtues name the summit of right judgment, while their vice-names denote ordinary lapses. And **lukewarmness** strikes Truth first though zeal leads with mercy: a community can stay warm toward people while going cold on truth—the kindness continues, but with nothing left to guide it.
+Five rows show why the vice's name decides, not the mirror. **Pride**, the root of all sin, offends all four though humility does not extend mercy—pride destroys the humility from which mercy flows, leaving only condescension. **Imprudence** offends fewer pillars than prudence engages: prudence names the summit of right judgment, while imprudence denotes an ordinary lapse. **Foolishness**, by contrast, is not a mere lapse but Scripture's functional atheism—ordering life as if God's claim on it did not exist—so it carries Justice alongside Truth as a second primary target. And **wrath** targets truth, justice, and mercy rather than the sacrifice its own virtue, patience, leads with—the wrathful spend themselves freely, going to great lengths to seize a vengeance that belongs to God alone; what they refuse is not the cost, but the truth that the one they strike still bears God's image, the vengeance that is God's due, and the mercy that truth would have required. And **lukewarmness** strikes Truth first though zeal leads with mercy: a community can stay warm toward people while going cold on truth—the kindness continues, but with nothing left to guide it.
 
 And the same stars, read by column, sort the vices into four families:
 
@@ -84,13 +84,17 @@ And the same stars, read by column, sort the vices into four families:
 | Foolishness | Sloth | Harshness/Cruelty | Intemperance |
 | Pride | Disobedience/Rebellion | Wrath/Anger | Gluttony |
 | Dishonesty/Lying | Infidelity/Betrayal | Violence | Inconstancy/Fickleness |
-| Lukewarmness | Ingratitude |  | Sloth |
+| Lukewarmness | Ingratitude | Despair/Presumption | Sloth |
 | Wrath/Anger | Impiety/Irreverence |  |  |
 |  | Violence |  |  |
 |  | Wrath/Anger |  |  |
 |  | Pride |  |  |
+|  | Foolishness |  |  |
+|  | Greed/Avarice |  |  |
+|  | Gluttony |  |  |
+|  | Harshness/Cruelty |  |  |
 
-Hatred belongs to no single family because it attacks all four at once; wrath, violence, pride, and sloth likewise span more than one. This table, too, is a mirror. Bring your last several confessions to it: the column where your sins cluster names the pillar you have stopped loving, and the matching family in Chapter 13 names the virtues that heal it. The remedies for the seven deadly sins below walk through exactly this healing.
+Hatred belongs to no single family because it attacks all four at once; wrath, violence, pride, and sloth likewise span more than one — joined now by despair/presumption, foolishness, greed, gluttony, and harshness/cruelty. This table, too, is a mirror. Bring your last several confessions to it: the column where your sins cluster names the pillar you have stopped loving, and the matching family in Chapter 13 names the virtues that heal it. The remedies for the seven deadly sins below walk through exactly this healing.
 
 ---
 
