@@ -22,7 +22,7 @@ Modern culture floods us with competing definitions of love. "Love is love." "Lo
 
 We now have a diagnostic tool. Just as a jeweler tests gold against a standard, we can test any claim about love against our definition: **God's Perfect Love is the sacred gift of covenant which binds truth, justice, mercy and sacrifice into life-giving communion.** If any component is missing or distorted, it's counterfeit—and counterfeits always cause harm.
 
-This chapter applies this diagnostic tool to thirteen modern counterfeits, showing precisely what each eliminates or distorts, why it fails, and how God's Perfect Love provides the authentic good these counterfeits promise but cannot deliver. **Incomplete love isn't love at all**—it's a distortion that creates the very evils it claims to solve.
+This chapter applies this diagnostic tool to twelve modern counterfeits, showing precisely what each eliminates or distorts, why it fails, and how God's Perfect Love provides the authentic good these counterfeits promise but cannot deliver. **Incomplete love isn't love at all**—it's a distortion that creates the very evils it claims to solve.
 
 ---
 
@@ -36,13 +36,13 @@ The counterfeits we'll examine fall into three categories: **ideological** (worl
 
 ## Section 1: Ideological Counterfeits
 
-### Postmodernism: "There Is No Objective Truth"
+### Postmodernism & Relativism: "There Is No Objective Truth" / "Live Your Truth"
 
-**The Appeal:** Postmodernism promises liberation from the 'oppressive' truth claims of 'religion' and the church, allowing each person to create their own meaning.
+**The Appeal:** These twin counterfeits promise liberation from "oppressive" truth claims and the freedom to create your own meaning. Postmodernism makes the systemic claim—that truth itself is only a mask for power. Relativism makes it personal—"live your truth," as though each of us authored our own reality.
 
 **Diagnostic Analysis:**
 
-| Component | Postmodernism | God's Perfect Love |
+| Component | Postmodernism & Relativism | God's Perfect Love |
 |-----------|---------------|-------------------|
 | Sacred | ✗ | ✓ |
 | Covenant | ✗ | ✓ |
@@ -52,11 +52,11 @@ The counterfeits we'll examine fall into three categories: **ideological** (worl
 | Sacrifice | ✗ | ✓ |
 | Life-giving Communion | ✗ | ✓ |
 
-**What's Missing:** Postmodernism denies objective truth even exists, reducing all moral claims to power struggles. Without truth, justice lacks objective standards, mercy has no wrongs to forgive, and communion has no shared reality. It's self-refuting: claiming "there is no objective truth" as an objective truth.
+**What's Missing:** Both deny that objective truth exists—and everything else collapses with it. Without truth, justice lacks any standard to appeal to, mercy has no real wrongs to forgive, and communion has no shared reality to rest on. Both are self-refuting: postmodernism asserts "there is no objective truth" as though that were an objective truth, and relativism appeals to "my truth" even though truth, by definition, must correspond to reality outside the self. Multiple contradictory "truths" about the same thing don't multiply truth; they prove there is none.
 
-**Why It Fails:** Moral paralysis. If truth is socially constructed, nothing is truly wrong. Love becomes mere preference with no way to resolve conflicts.
+**Why It Fails:** Moral paralysis and social fragmentation. If truth is merely constructed—whether by power or by preference—then nothing is truly wrong, love becomes arbitrary, and conflict can be settled only by force. A society needs a shared reality it did not invent; strip that away and communities splinter into competing subjective claims.
 
-**How Good Overcomes Evil:** God's Perfect Love is rooted in Truth—the eternal Logos who became flesh (John 1:14). Objective truth liberates us from subjective opinion, enabling authentic justice, mercy, and communion. "If you continue in my word, you are truly my disciples, and you will know the truth, and the truth will make you free" (John 8:32).
+**How Good Overcomes Evil:** God's Perfect Love is rooted in Truth—the eternal Logos who became flesh (John 1:14). Objective truth, grounded in reality—His Word, which encompasses all of creation, all of His revelation, and the truth of who He is written on our hearts—liberates us from the slavery of subjective opinion and enables authentic justice, mercy, and communion. "If you continue in my word, you are truly my disciples, and you will know the truth, and the truth will make you free" (John 8:32).
 
 ### Marxism: "Love Is Class Solidarity"
 
@@ -79,7 +79,7 @@ The counterfeits we'll examine fall into three categories: **ideological** (worl
 ³Sacrifice misdirected toward violent revolution
 ⁴Communion through division and hatred of "oppressors"
 
-**What's Missing:** Marxism recognizes injustice but eliminates mercy—no forgiveness for enemies, distorts sacrifice (channeling it toward violence), and destroys communion (creating division through class/gender/race/identity-based hatred). It appeals to envy rather than building authentic solidarity.
+**What's Missing:** Marxism recognizes injustice but eliminates mercy—no forgiveness for enemies, distorts sacrifice (channeling it toward violence), and destroys communion (creating division through hatred organized around class, gender, race, and identity). It appeals to envy rather than building authentic solidarity.
 
 **Why It Fails:** Tens of millions dead in the 20th century under Marxist regimes. Marxism creates resentment, not solidarity; violence, not peace; totalitarianism, not justice.
 
@@ -116,7 +116,7 @@ Wokeism also inverts virtue itself. Instead of costly sacrifice that transforms 
 
 **How Good Overcomes Evil:** God's Perfect Love addresses the actual source of evil: the individual human heart. It speaks truth to each person—affirming their infinite dignity as image-bearers while calling them to conversion. It offers real mercy: not affirmation of sin, but forgiveness of sin and power to change. It demands real sacrifice: not blaming others, but taking responsibility for one's own heart first. "Why do you see the speck that is in your brother's eye, but do not notice the log that is in your own eye?" (Matthew 7:3).
 
-This is why the Gospel transforms cultures while ideologies only rearrange oppressors. Christ doesn't redistribute guilt—He removes it. He doesn't create new victim classes—He heals all who come to Him. The Church has been the greatest force for justice in history precisely because it addresses hearts one at a time, building communion through covenant rather than coercion. "Rather, speaking the truth in love, we are to grow up in every way into him who is the head, into Christ" (Ephesians 4:15).
+This is why the Gospel transforms cultures while ideologies only rearrange oppressors. Christ doesn't redistribute guilt—He removes it. He doesn't create new victim classes—He heals all who come to Him. The Church has been the greatest force for justice in history precisely because it addresses hearts one at a time, healing them through covenant rather than assigning collective guilt. "Rather, speaking the truth in love, we are to grow up in every way into him who is the head, into Christ" (Ephesians 4:15).
 
 ### Gender Ideology: "Love Means Affirming Gender Identity"
 
@@ -173,28 +173,6 @@ This is why the Gospel transforms cultures while ideologies only rearrange oppre
 Various atheistic philosophies propose alternative "highest goods," but each collapses: Nietzschean will-to-power confuses domination with greatness; utilitarianism reduces goodness to feelings and cannot explain sacrificial love; nihilism rejects intrinsic human worth, obliterating the possibility of love or justice. Each fails because it denies essential components of God's Perfect Love.
 
 **How Good Overcomes Evil:** God's Perfect Love recognizes our need for truth, justice, mercy, and sacrifice—and provides the only coherent explanation: because God IS love in His very nature, and we are made in His image. Our deepest longings can only be fulfilled in Him. "God is love, and he who abides in love abides in God, and God abides in him" (1 John 4:16).
-
-### Relativism: "Live Your Truth"
-
-**The Appeal:** Relativism promises freedom from moral constraints, allowing each person to create their own truth.
-
-**Diagnostic Analysis:**
-
-| Component | Relativism | God's Perfect Love |
-|-----------|-----------|-------------------|
-| Sacred | ✗ | ✓ |
-| Covenant | ✗ | ✓ |
-| Truth | ✗ | ✓ |
-| Justice | ✗ | ✓ |
-| Mercy | ✗ | ✓ |
-| Sacrifice | ✗ | ✓ |
-| Life-giving Communion | ✗ | ✓ |
-
-**What's Missing:** Relativism claims each person creates truth—destroying justice, truth itself, and communion. It's self-refuting: if there is no objective truth, then "my truth" is meaningless since truth by definition must correspond to reality. And multiple contradictory "truths" about the same thing prove there is no truth at all.
-
-**Why It Fails:** Society requires shared reality. Relativism makes love arbitrary and fragments communities into competing subjective preferences.
-
-**How Good Overcomes Evil:** God's Perfect Love calls us to live in objective truth that liberates us from the slavery of sin. "If you continue in my word, you are truly my disciples, and you will know the truth, and the truth will make you free" (John 8:32). Only truth grounded in reality—His Word, which encompasses all of creation, all of His revelation, and the truth of who He is written on our hearts—enables authentic justice, mercy, and communion.
 
 ### Self-Actualization: "Be All You Can Be"
 
@@ -278,7 +256,7 @@ Various atheistic philosophies propose alternative "highest goods," but each col
 
 But the statistics hide the personal devastation. The woman who chose abortion in the name of her own autonomy did not gain freedom—she lost something irreplaceable inside herself. She sought to be the author of her own story, but the act of ending her child's life wrote a chapter she cannot unwrite. The grief that follows is unlike ordinary grief: it cannot be spoken easily, because to name the loss is to name what was lost—a person, her child. Many women carry this wound for decades in silence: the anniversary dates, the wondering, the dreams. Psychologists call it post-abortion syndrome; the Church calls it what it is—a wound to the soul that touches the deepest place a human being can be wounded, the place where love and life and communion meet.
 
-This is the bitter irony of counterfeit autonomy: in the act of asserting absolute control over her own body, she exercised absolute and irreversible power over another person's existence—and in doing so, destroyed a part of herself. The individual autonomy she sought became the instrument of her own interior destruction. She did not become more free. She became bound—to guilt, to grief, to a secret that reshapes every relationship that follows.
+This is the bitter irony of counterfeit autonomy: in the act of asserting absolute control over her own body, she exercised absolute and irreversible power over another person's existence—and in doing so, destroyed a part of herself. The self-determination she sought became the instrument of her own interior destruction. She did not become more free. She became bound—to guilt, to grief, to a secret that reshapes every relationship that follows.
 
 No therapist, no political movement, no amount of cultural affirmation can reach this wound. "No Regrets" is a slogan, not a healing. Only One who is both perfectly just and perfectly merciful can forgive what no human court can try and heal what no human hand can reach. Jesus Christ, who said "Come to me, all you who are weary and burdened, and I will give you rest" (Matthew 11:28), is the only answer to this particular darkness. His mercy is not cheap—it does not pretend the child did not exist—but it is real, and it is offered. The Church's *Project Rachel* ministry exists precisely because the wound is real and the healing is possible, but only through Him.
 
@@ -288,7 +266,7 @@ It is worth pausing to recognize what this reveals about the nature of sin itsel
 
 ### Same-Sex "Marriage": "Love Is Love"
 
-**The Appeal:** Same-sex "marriage" promises equality with the idea of traditional marriage and the creation of a family.
+**The Appeal:** Same-sex "marriage" promises equal access to marriage and the recognition of a family.
 
 **Diagnostic Analysis:**
 
@@ -318,7 +296,7 @@ It is worth pausing to recognize what this reveals about the nature of sin itsel
 
 ## Section 3: Religious Counterfeits
 
-### "Faith Alone": Belief Without the necessity of "Works"
+### "Faith Alone": Belief Without Works
 
 **The Appeal:** "Faith alone" promises salvation without the cost of sacrificial obedience.
 
@@ -410,10 +388,10 @@ It is worth pausing to recognize what this reveals about the nature of sin itsel
 ## The Pattern Revealed
 
 <div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
-Every counterfeit is identifiable by what it's missing. Partial love isn't love at all—it's a distortion that causes harm. Only God's Perfect Love has all seven components working together, which is why only it can answer the problem of evil completely.
+Every counterfeit is identifiable by what it's missing. Partial love does not merely fall short of love; it curdles into the very thing it claims to oppose. Only God's Perfect Love has all seven components working together, which is why only it can answer the problem of evil completely.
 </div>
 
-**Every counterfeit eliminates or distorts essential components** of God's Perfect Love, creating the very evils it claims to solve.
+**Every counterfeit eliminates or distorts essential components** of God's Perfect Love, producing exactly the harm it set out to defeat.
 
 **Ideological counterfeits** eliminate God as source, reducing love to preference or power.
 
