@@ -34,17 +34,17 @@ Children from broken homes aren't doomed. God's grace can redeem any situation. 
 
 ## What Children Need to Flourish
 
-Every child needs seven things to truly flourish. Here they are, in plain terms—the full theology comes later in this chapter.
+It turns out, the seven facets of God's Perfect Love are exactly what the children need. Let's quickly examine why children need them.
 
-**1. Sacred:** Every child needs to know, deep down, that they were wanted—not because they're useful, not because they arrived at a convenient time, not because they turned out a certain way, but simply because they exist. That's what teaches a child, in turn, to love others without conditions—because they were loved that way first.
+**1. Sacred:** Every child needs to know, deep down, that they are wanted and a gift from God—not because they're useful, not because they arrived at a convenient time, not because they turned out a certain way, but simply because they exist. That's what teaches a child, in turn, to love others without conditions—because they were loved that way first.
 
-**2. Covenant:** Kids need to wake up in the same house, with the same two parents, for their whole childhood—a promise they can set their watch to. Watching a promise hold is what teaches a child how to keep their own promises later, instead of leaving when love gets hard.
+**2. Covenant:** Ideally kids need to wake up in the same house, with the same two parents, for their whole childhood—a promise they can set their watch to. Watching a promise hold is what teaches a child how to keep their own promises later, instead of leaving when love gets hard.
 
 **3. Truth:** Kids need at least one place—home—where the truth about their bodies, their origins, and right and wrong doesn't shift depending on who's talking. We can't control what they hear everywhere else, but a home that never lies to them teaches them that love and honesty belong together—that the people who love you most are the ones who'll tell you the truth.
 
 **4. Justice:** Kids need a mother and a father who show up for them specifically—who know their teacher's name, notice when something's wrong, and would stand between them and anyone who tried to take advantage of them. Watching someone fight for you teaches you, eventually, how to fight for someone else.
 
-**5. Mercy:** Kids need to mess up—break a rule, lie, lose their temper—and find out the relationship survives it. Not that the rule didn't matter, but that they weren't traded in for a better-behaved kid. A child who's been forgiven like that learns how to forgive; mercy received becomes mercy they know how to give.
+**5. Mercy:** Kids need to mess up—break a rule, lie, lose their temper—and find out the relationship survives it. Not that the rules don't matter, but that they weren't traded in or discarded for a better-behaved kid. A child who's been forgiven like that learns how to forgive; mercy received becomes mercy given.
 
 **6. Sacrifice:** Kids need parents who miss the concert, skip the promotion, and sit up at 3 a.m.—sacrifices a child can actually see. A child who watches someone give up something real for them learns that love costs something, and grows up willing to pay it for someone else.
 
@@ -71,7 +71,7 @@ We can map exactly what's missing from each counterfeit—and see precisely how 
 
 **The Generational Impact:**
 
-These two counterfeits represent the ultimate harm to children: denying their very existence or their future ability to exist. Adults debate autonomy and identity while children suffer death or sterilization.
+These two counterfeits represent the ultimate harm to children: denying their very existence, or ending their capacity to ever bring the next generation into existence. Adults debate autonomy and identity while children suffer death or sterilization.
 
 Abortion eliminates 60+ million children in America alone—entire bloodlines ended, families that will never exist, grandchildren never born. The child's right to life—the most fundamental justice—is denied completely. Adults avoid the cost of parenthood through the ultimate sacrifice: the child's life—child sacrifice, echoing the ancient horrors God condemned (Leviticus 18:21). This is the exact inversion of Christ's love: instead of the strong voluntarily sacrificing for the weak, the weak are involuntarily sacrificed for the convenience of the strong.
 
@@ -87,10 +87,10 @@ Both deny truth, violate justice, pervert mercy, and sacrifice children for adul
 
 | Counterfeit | Distorts Truth | Distorts Justice | Distorts Mercy | Distorts Sacrifice | Result for Children |
 |-------------|----------------|------------------|----------------|-------------------|---------------------|
-| **Cohabitation** | Pretends commitment unnecessary | Denies children's right to covenant security | No healing of instability | Adults avoid cost of binding vows | Instability, abandonment, insecurity |
-| **No-Fault Divorce** | "Happiness" trumps covenant permanence | Denies children's right to intact family | No perseverance through difficulty | Adults escape when costly | Devastating loss, profound grief |
-| **Divorce with Children** | Ignores children's need for both parents | Violates children's right to mother AND father | Forces children to "choose" sides | Adults prioritize desires over children | Torn loyalties, lifelong wounds |
-| **Same-Sex "Marriage"** | Denies complementarity is necessary | Intentionally deprives child of mother or father | Treats child as commodity | Adults prioritize desires over children's rights | Denied complementary formation |
+| **Cohabitation** | Looks committed, stays optional | Denies children's right to covenant security | No healing of instability | Adults avoid cost of binding vows | Instability, abandonment, insecurity |
+| **No-Fault Divorce** | "Happiness" trumps covenant permanence | Denies children's right to intact family | Gives up instead of persevering | Adults escape when costly | Devastating loss, profound grief |
+| **Divorce with Children** | Ignores children's need for both parents | Breaks by choice what only death should end | Forces children to "choose" sides | Adults prioritize desires over children | Torn loyalties, lifelong wounds |
+| **Same-Sex "Marriage"** | Denies complementarity is necessary | Intentionally deprives child of mother or father | Treats child as commodity | Adults prioritize desires over children's rights | Denied complementary formation and sacred covenantal family |
 
 **The Generational Impact:**
 
@@ -100,11 +100,11 @@ Cohabitation refuses binding promises, leaving children vulnerable to abandonmen
 
 Divorce breaks the covenant children depend upon, forcing them to shuttle between homes with torn loyalties and lifelong wounds. "Mom's house" and "Dad's house" replace "home." Holidays often become hostile negotiations. Children feel responsible for the breakup, guilty for loving both parents, anxious about the future. The adults who promised "till death do us part" broke that promise, teaching children that no promise can be trusted.
 
-Same-sex "marriage" intentionally deprives children of either mother or father. Children are purchased through surrogacy or artificial insemination, separated from biological parents, denied the complementary love that only the union of man and woman provides. Society claims "love is love" (an empty and meaningless phrase) while children pay the price — growing up without a mother, or without a father, by design.
+Same-sex "marriage" intentionally deprives children of either mother or father. Children are purchased through surrogacy or artificial insemination, separated from biological parents, denied the complementary love that only the union of man and woman provides. Society claims "love is love" (an empty and meaningless phrase) while children pay the price — growing up without a mother, or without a father.
 
 All four distort truth, violate justice, pervert mercy, and sacrifice children's security for adult "freedom."
 
-**Generational impact:** Children who never learn covenant fidelity repeat the pattern, creating cascading family breakdown across generations. The domestic church—the first school of love—is shattered, leaving children damaged in their ability to form their own stable families.
+**Generational impact:** Children who never learned covenant fidelity often repeat the pattern—having been taught only how to break it—creating cascading family breakdown across generations. The domestic church—the first school of love—is shattered, leaving children damaged in their ability to form their own stable families.
 
 ### Category 3: Counterfeits That Damage Parents' Ability to Love
 
@@ -113,7 +113,7 @@ All four distort truth, violate justice, pervert mercy, and sacrifice children's
 | Counterfeit | Distorts Truth | Distorts Justice | Distorts Mercy | Distorts Sacrifice | Result for Children |
 |-------------|----------------|------------------|----------------|-------------------|---------------------|
 | **Pornography** | Treats persons as objects for consumption | Denies dignity of persons used | No healing, only exploitation | Adults pursue pleasure over family bonds | Emotional absence, broken marriages, addiction passed down |
-| **Hookup Culture** | Pretends sex without commitment is harmless | Denies children's right to committed parents | No healing from exploitation | Adults avoid cost of permanent bonds | Born into instability, no models of authentic love |
+| **Hookup Culture** | Pretends sex without commitment is harmless | Denies children's right to committed parents | Pleasure is the goal, not relationship | A child's future is sacrificed for pleasure | Born into instability, no models of authentic love |
 
 **The Generational Impact:**
 
@@ -123,7 +123,7 @@ Pornography addicts people to fantasy, creating emotional absence, broken marria
 
 Hookup culture leaves children born into instability without committed fathers, raised by mothers damaged by repeated exploitation, inheriting a culture that has forgotten how to form lasting families. The child conceived in a hookup is often unwanted, sometimes aborted, occasionally born into a single-parent home where the mother struggles alone. The father is absent—never committed, never bound by covenant, never willing to sacrifice for his child. The child grows up without models of authentic love, without witnessing covenant fidelity, without learning how to form a stable family.
 
-Both distort truth (treating persons as objects, pretending sex without commitment is harmless), violate justice (denying dignity and children's rights), pervert mercy (exploitation instead of healing), and leave children vulnerable to sacrificing their security for adult pleasure.
+Both distort truth (treating persons as objects, pretending sex without commitment is harmless), violate justice (denying dignity and children's rights), pervert mercy (exploitation instead of healing), and leave children vulnerable to having their security sacrificed for pleasure.
 
 **Generational impact:** Addiction and brokenness passed down, children unable to form healthy families because they never witnessed authentic love. The cycle repeats, each generation more damaged than the last.
 
@@ -139,11 +139,11 @@ Both distort truth (treating persons as objects, pretending sex without commitme
 
 **The Generational Impact:**
 
-When teachers inform children "there is no objective truth, only perspectives," children lose the ability to call anything truly wrong. Bullying and murder become mere perspectives. Children are left morally paralyzed.
+When teachers inform children "there is no objective truth," children lose the ability to call anything truly wrong. Bullying and murder become mere perspectives. Children are left morally paralyzed.
 
 Wokeism forces children to affirm what they know is false—told that a boy who identifies as a girl IS a girl, that to question this is 'violence'. They learn to claim victim status rather than develop virtue.
 
-Relativism's "my truth" leaves children without moral compass. "Your truth" says marriage is between man and woman. "My truth" says otherwise. Both can't be true, but relativism forbids choosing. Children cannot build their lives on any foundation. All three distort truth, violate justice, pervert mercy, and sacrifice children's grasp on reality for adult comfort.
+Relativism's "my truth" leaves children without moral compass. "Your truth" says marriage is between man and woman. "My truth" says otherwise. Both can't be true, but relativism forbids choosing. Children cannot build their lives on any foundation. All three distort truth, violate justice, pervert mercy, and sacrifice children's grasp on reality for adult opinions on what is true.
 
 **Generational impact:** Society requires shared reality. Children inherit anxiety, confusion, and inability to build civilization on foundation of sand.
 
@@ -153,17 +153,17 @@ Relativism's "my truth" leaves children without moral compass. "Your truth" says
 
 | Counterfeit | Distorts Truth | Distorts Justice | Distorts Mercy | Distorts Sacrifice | Result for Children |
 |-------------|----------------|------------------|----------------|-------------------|---------------------|
-| **Atheism** | No God exists | No divine source for morality | No hope for eternal communion | Complete autonomy from transcendent authority | Cannot explain why truth, justice, mercy matter |
-| **Scientism** | Only material reality exists | No transcendent basis for dignity | No eternal hope | No purpose beyond biology | No transcendent meaning, nihilism, despair |
-| **Marxism** | Reduces reality to class struggle | Justice becomes vengeance on "oppressors" | No forgiveness for enemies | Misdirects sacrifice toward violent revolution | Taught hatred, division over unity, resentment over solidarity |
+| **Atheism** | No God exists | No objective source for morality | No hope for healing if nothing is true | Autonomy over authority, at humanity's cost | Cannot explain why truth, justice, mercy are real |
+| **Scientism** | Only material reality exists, cannot explain the "why" behind truth, justice and mercy | No transcendent basis for human dignity | No eternal hope | No purpose beyond biology | No transcendent meaning, nihilism, despair |
+| **Marxism** | Reduces reality to class struggle | Justice becomes vengeance on "oppressors" | No forgiveness for enemies | Misdirects sacrifice toward violent revolution | Taught division over unity, resentment over communion |
 
 **The Generational Impact:**
 
-Scientism and atheism leave children with no purpose beyond biology. If humans are just matter, why does truth even matter? Children experience moral intuitions without foundation for them.
+Scientism and atheism leave children with no purpose beyond biology. If humans are just matter, why does truth even matter? Why be just? Why show mercy? Children experience moral intuitions without foundation for them.
 
-Marxism channels children's natural impulse to sacrifice for others toward violence and resentment. They're taught to see the world through division by class or economic status, to hate rather than forgive, to seek revenge rather than restoration. All three distort truth, corrupt justice, foreclose mercy, and sacrifice children's hope of meaning for adult autonomy.
+Marxism channels children's natural impulse to sacrifice for others toward violence and resentment. They're taught to see the world through division by class or economic status, to hate rather than forgive, to seek revenge rather than restoration. All three distort truth, corrupt justice, forsake mercy, and sacrifice children's hope of meaning for adult autonomy.
 
-**Generational impact:** Nihilism, despair, inability to explain why truth, justice, and mercy matter. A generation adrift, unable to find meaning or purpose.
+**Generational impact:** Anxiety, nihilism, and despair — still fighting for incomplete, secular versions of truth, justice, and mercy without any way to explain why they matter. A generation adrift, unable to find meaning or purpose.
 
 ---
 
@@ -177,15 +177,15 @@ There is only one form of love that gives children everything they need to flour
 
 2. **Covenant - Permanent, Binding Promises:** Marriage vows create security for children. "Until death" means children never fear abandonment (Malachi 2:15, Matthew 19:6). Result: Children grow in safety, can be vulnerable, trust relationships.
 
-3. **Truth - Reality as Foundation:** Children taught to see world as it actually is. Bodies, gender, biology, morality grounded in objective reality (John 8:31-32, Proverbs 22:6). Result: Children confident in navigating life, not confused or anxious.
+3. **Truth - Reality as Foundation:** Children taught to see the world as it actually is. Bodies, gender, biology, morality grounded in objective reality (John 8:31-32, Proverbs 22:6). Result: Children confident in navigating life, not confused or anxious.
 
-4. **Justice - Rights and Protection:** Children have right to mother and father. Sacred dignity means protection from exploitation (Psalm 82:3-4, Matthew 18:6). Result: Children secure in their rights, protected from harm.
+4. **Justice - Rights and Protection:** Children have right to mother and father. Sacred dignity means protection from exploitation (Psalm 82:3-4, Matthew 18:6). Result: Children secure in their rights, protected from harm and taught to fight for what is true and good.
 
-5. **Mercy - Healing and Restoration:** When parents fail, mercy offers forgiveness and healing. Children learn to extend mercy to others (Lamentations 3:22-23, Luke 15:11-32). Result: Children not trapped by wounds, can be restored.
+5. **Mercy - Healing and Restoration:** When parents fail, mercy offers forgiveness and healing. Children learn to extend mercy to others (Lamentations 3:22-23, Luke 15:11-32). Result: Children taught to be merciful, restore relationships instead of destroy them.
 
 6. **Sacrifice - Adults Who Put Children First:** Parents willing to give up personal desires for children's good. Community supports families through sacrifice (Philippians 2:3-4, 1 John 3:16-18). Result: Children prioritized, not abandoned when costly.
 
-7. **Life-Giving Communion - Belonging to Family and Community:** Children belong to something larger than themselves—family, Church, and the communion of generations (Ephesians 6:1-4, John 17:21). Result: Children rooted in belonging, never isolated or alone.
+7. **Life-Giving Communion - Belonging to Family and Community:** Children belong to something larger than themselves—family, parish, and the communion of generations (Ephesians 6:1-4, John 17:21). Result: Children rooted in belonging, never isolated or alone.
 
 **The Generational Blessing: How God's Perfect Love Builds Flourishing Across Generations**
 
@@ -193,39 +193,11 @@ There is only one form of love that gives children everything they need to flour
 
 **Second Generation:** First generation children become parents who know how to love. Pass on authentic love to their children. Build strong families that strengthen community. Result: Virtuous cycle of flourishing families.
 
-**Third Generation and Beyond:** Multiple generations of strong families transform society. Common good built through countless acts of sacrificial love. Culture that protects children, honors families, seeks truth. Consider the Kolbe family. St. Maximilian's parents modeled sacrificial faith — his father Julius died fighting for Poland's independence, and his mother Maria served the poor as a midwife before both entered religious life. Their son gave his life for a stranger at Auschwitz, and his witness has inspired countless families since to embrace heroic love. Result: Civilization of love.
+**Third Generation and Beyond:** Multiple generations of strong families transform society. Common good built through countless acts of sacrificial love. Culture that protects children, honors families, seeks truth. Consider the Kolbe family. St. Maximilian's parents modeled sacrificial faith — his father Julius died fighting for Poland's independence, and his mother Maria served the poor as a midwife before both entered religious life. Their son Maximilian gave his life for a stranger at Auschwitz, and his witness has inspired countless families since to embrace heroic love. Result: Civilization of love.
 
 <div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
 Counterfeit love creates generational destruction. God's Perfect Love creates generational flourishing.
 </div>
-
----
-
-## The Choice Before Us
-
-**The Two Paths:**
-
-**Path 1: Counterfeit Love** - Prioritizes adult autonomy, ideology, personal desires. Ignores children's suffering. Creates generational destruction. Result: Broken children → broken families → broken society → civilization collapse.
-
-**Path 2: God's Perfect Love** - Prioritizes children's needs through sacrificial love. Protects the vulnerable. Creates generational flourishing. Result: Flourishing children → strong families → healthy society → civilization of love.
-
-**The Test:**
-
-Any "love" must pass this test: Does it give children what they need to flourish? Does it protect the most vulnerable? Does it build up the next generation or tear it down?
-
-**The Evidence:**
-
-Many counterfeits, many failures of the test. Only God's Perfect Love passes—because only it has ALL the components children need.
-
-**The Stakes:**
-
-We're not just debating ideas. We're determining whether the next generation will flourish or suffer. Whether our grandchildren will inherit blessing or curse. Whether civilization will be renewed or collapse.
-
-**The Call:**
-
-Choose God's Perfect Love—not because it's easier or popular, but because it alone gives children what they need to flourish. Because it's true. Because it works. Because it's what love actually is.
-
-God's Perfect Love is not just the answer to the problem of evil in theory. It is the answer in practice—the only foundation that gives children what they need to flourish across generations and actually fight against evil. For their sake, for the sake of civilization itself, we must choose authentic love over its counterfeits. We must choose life.
 
 ---
 
