@@ -202,6 +202,8 @@ Where abandonment robs the neighbor of what is owed him, presumption robs God of
 
 ## Justice and the Common Good
 
+Jesus said this Himself. Standing in the synagogue at Nazareth, He named His own mission in the very language of justice: *"The Spirit of the Lord is upon me… He has sent me to proclaim release to the captives and recovering of sight to the blind, to set at liberty those who are oppressed"* (Luke 4:18–19). He did not describe a private virtue for individual souls to cultivate quietly. He announced a mission aimed outward—at captives, at the blind, at the oppressed—the whole of a world in need of what only God can render.
+
 Justice isn't just individual—it's social. The common good means the conditions that allow all people to flourish—peace, order, opportunity, protection of rights, promotion of virtue.
 
 Justice toward the common good requires subsidiarity (solving problems at the most local level), solidarity (the strong helping the weak), and respect for human dignity in every policy and law. It also requires protecting the family as the fundamental unit of society, because the family bound together in truth, justice, and mercy is the first and most important teacher of love. And it requires safeguarding religious freedom — the right to worship according to conscience — because no society is just that forbids its people to render God what is owed Him. The common good is what allows all people to live in true covenantal communion.

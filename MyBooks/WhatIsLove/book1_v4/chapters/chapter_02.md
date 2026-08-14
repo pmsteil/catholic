@@ -150,6 +150,8 @@ In the chapters ahead, we'll explore each element—what makes love **sacred**, 
 
 But someone might object: "If love is the answer, why has two thousand years of Christianity not eliminated evil?" Well, the "west" has conquered much evil, but still has much to do. The answer is simple but profound: *knowing* the answer and *living* the answer are two different things. This definition gives us the map; the rest of this book shows how to walk the path. The Church has always taught that grace must be received and cooperated with—and that's precisely what we'll learn to do.
 
+Christ Himself said as much—and He said it before the Cross, not after: *"In the world you have tribulation; but be of good cheer, I have overcome the world"* (John 16:33). The victory is His to give—and ours to carry out. The rest of this book traces that plan from its origin in God to its outworking in you, for the salvation of the world He came to win.
+
 We begin with the first word of our definition: **sacred**. Why start there? Because if love doesn't come from God—if it's merely a human invention or evolutionary adaptation—then everything else collapses. The sacred nature of love is what makes all four facets possible — strip God away, and each one collapses into mere human preference.
 
 **Let's begin.**

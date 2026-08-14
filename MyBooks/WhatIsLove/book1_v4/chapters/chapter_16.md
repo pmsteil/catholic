@@ -26,12 +26,6 @@ If God is love, and as Christians we are called to love one another, then our lo
 
 Jesus' words are uncompromising: causing little ones to stumble merits the harshest judgment. Their angels behold the Father's face. They are not collateral damage. They are the ones who suffer the most.
 
-## A Word of Hope
-
-Children from broken homes aren't doomed. God's grace can redeem any situation. Many saints came from terrible backgrounds. A faithful grandparent, a good priest, the sacraments, the Holy Spirit—God has a thousand ways to reach a wounded child. The point is that we should never *deliberately* deprive children of what they need. When we fail—and we will—God's mercy remains. But we can't use His mercy as an excuse to embrace counterfeits.
-
----
-
 ## What Children Need to Flourish
 
 It turns out, the seven facets of God's Perfect Love are exactly what the children need. Let's quickly examine why children need them.
@@ -164,6 +158,14 @@ Scientism and atheism leave children with no purpose beyond biology. If humans a
 Marxism channels children's natural impulse to sacrifice for others toward violence and resentment. They're taught to see the world through division by class or economic status, to hate rather than forgive, to seek revenge rather than restoration. All three distort truth, corrupt justice, forsake mercy, and sacrifice children's hope of meaning for adult autonomy.
 
 **Generational impact:** Anxiety, nihilism, and despair — still fighting for incomplete, secular versions of truth, justice, and mercy without any way to explain why they matter. A generation adrift, unable to find meaning or purpose.
+
+---
+
+## A Word of Hope
+
+Christ's own words to children were not warning but welcome: *"Let the children come to me, and do not hinder them; for to such belongs the kingdom of heaven"* (Matthew 19:14). If you were once a child no one brought to Him—hurt, dismissed, left to fend for yourself—that invitation was never withdrawn. He is still saying it: to the child you were, and to the person you are now.
+
+Children from broken homes aren't doomed. God's grace can redeem any situation. Many saints came from terrible backgrounds. A faithful grandparent, a good priest, the sacraments, the Holy Spirit, or someone who was once that wounded child themselves and let Christ heal them—God has a thousand ways to reach a wounded child, and one of them may be you. The point is that we should never *deliberately* deprive children of what they need. When we fail—and we will—God's mercy remains. But we can't use His mercy as an excuse to embrace counterfeits.
 
 ---
 
