@@ -81,7 +81,7 @@ The matrix below shows which facets of love each virtue actively engages when pr
 | Mercy | Being moved to relieve another's misery, fault, or need as one's own | ✓ | | ★ | ✓ |
 | Meekness | Restraining anger to what is just—and sparing beyond that | ✓ | ✓ | ★ | ✓ |
 | Gentleness | Tender handling of the weak—honoring their dignity, sparing their wounds | ✓ | ✓ | ★ | ✓ |
-| Zeal | Ardent labor to render God the glory owed Him, spent for the duty to win souls back from ruin | ✓ | ✓ | ★ | ✓ |
+| Zeal | Ardent labor to render God the glory owed Him, spent going out to win back every soul in ruin | ✓ | ✓ | ★ | ✓ |
 | **Additional Virtues — Sacrifice** |
 | Magnanimity | Stretching the soul toward great, arduous good for God's glory, undeterred by fear | ✓ | ✓ | | ★ |
 | Perseverance | Holding the course of good to the end, through life's trials and tribulations, as pledged | ✓ | ✓ | | ★ |

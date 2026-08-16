@@ -325,6 +325,6 @@ Mercy always comes at a cost — and that cost is sacrifice. In Chapter 9, we tu
 
 ### Notes
 
-1. St. Thomas Aquinas, *Summa Theologica* II-II, q.30 (cruelty as the vice directly opposed to mercy); *Catechism of the Catholic Church*, §2447.
+1. St. Thomas Aquinas, *Summa Theologica* II-II, q.159 (cruelty as the vice directly opposed to mercy); *Catechism of the Catholic Church*, §2447.
 2. Matthew 18:23-35 (Parable of the Unforgiving Servant); James 2:13; *Catechism of the Catholic Church*, §2303.
 3. *Catechism of the Catholic Church*, §2091; Pope John Paul II, *Dives in Misericordia* (1980), §4.
