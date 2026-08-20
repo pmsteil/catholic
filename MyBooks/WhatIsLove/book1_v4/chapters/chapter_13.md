@@ -32,19 +32,19 @@ Having established that love is not merely subjective sentiment but the law of t
 
 **A virtue is a habitual and firm disposition to do good.** It's not just knowing what's right—it's having trained yourself through repeated practice to consistently choose the good. Virtues are like spiritual muscles: the more you exercise them, the stronger they become. The Catechism teaches that "Human virtues are firm attitudes, stable dispositions, habitual perfections of intellect and will that govern our actions, order our passions, and guide our conduct according to reason and faith" (CCC 1804). And love itself is not one virtue standing beside the rest—it is what every other virtue is made of. As the Catechism teaches, charity "is the form of the virtues" (CCC 1827): this is how we do love.
 
-If virtues are habits that align us with God's nature as Love, then **every virtue should uphold and flow from the four pillars of perfect love (Truth, Justice, Mercy, and Sacrifice).**
+If virtues are habits that align us with God's nature as Love, then **every virtue should uphold and flow from the four pillars of perfect love (Truth, Justice, Mercy and Sacrifice).**
 
 Consider a mother who stays up all night with a sick child. In that single act, she embodies truth (acknowledging her child's real need), justice (fulfilling her duty as a parent), mercy (responding with compassion rather than irritation), and sacrifice (giving up her own rest for another's good). This is virtue in action—the four pillars integrated in a concrete act of love.
 
 And that's exactly what we discover across all the virtues. They aren't arbitrary rules imposed from outside—they're the natural expression of God's law written on our hearts.
 
-We already said love is the form every virtue takes—Aquinas's teaching. So this is the test: whatever love actually is should be findable inside the virtues the Church has already named and lived by for two thousand years—the theological virtues, the cardinal virtues, the capital virtues, and every virtue besides. If our definition is right—that God's love is truth, justice, mercy, and sacrifice bound into covenant—every virtue the Tradition has ever named should trace back to one or more of these four pillars. We offer what follows humbly—not as a dogmatic classification where every mark is beyond dispute, but as a demonstration close enough to make the real point: love is not a vague sentiment, but something concrete and traceable. Here is that check, virtue by virtue.
+We already said love is the form every virtue takes—Aquinas's teaching. So this is the test: whatever love actually is should be findable inside the virtues the Church has already named and lived by for two thousand years—the theological virtues, the cardinal virtues, the capital virtues, and every virtue besides. If our definition is right—that God's love is truth, justice, mercy and sacrifice bound into covenant—every virtue the Tradition has ever named should trace back to one or more of these four pillars. We offer what follows humbly—not as a dogmatic classification where every mark is beyond dispute, but as a demonstration close enough to make the real point: love is not a vague sentiment, but something concrete and traceable. Here is that check, virtue by virtue.
 
 The matrix below shows which facets of love each virtue actively engages when practiced. Each row first states the virtue's defining act—the definition its marks are read from. A "✓" indicates a facet the virtue upholds; a "★" marks a *primary* facet—one the virtue leads with, that its definition cannot be stated without (most virtues lead with one; a few lead with more).
 
 ---
 
-## All Virtues: Primary Relationship to Truth, Justice, Mercy, and Sacrifice
+## All Virtues: Primary Relationship to Truth, Justice, Mercy and Sacrifice
 
 | Virtue | The defining act | Truth | Justice | Mercy | Sacrifice |
 |--------|------------------|:-----:|:-------:|:-----:|:---------:|
@@ -77,6 +77,7 @@ The matrix below shows which facets of love each virtue actively engages when pr
 | Obedience | Rendering the submission owed to rightful authority—God's above all, and any human authority that stands under Him | ✓ | ★ | | ✓ |
 | Faithfulness | Keeping covenant promises through time, whatever comes | ✓ | ★ | | ✓ |
 | Gratitude | Rendering the thanks owed for gifts received | ✓ | ★ | | ✓ |
+| Eutrapelia | Rendering the body its due measure of rest and play—kept in trust, so it remains fit to serve every other virtue | ✓ | ★ | | ✓ |
 | **Additional Virtues — Mercy** |
 | Mercy | Being moved to relieve another's misery, fault, or need as one's own | ✓ | | ★ | ✓ |
 | Meekness | Restraining anger to what is just—and sparing beyond that | ✓ | ✓ | ★ | ✓ |
@@ -85,7 +86,6 @@ The matrix below shows which facets of love each virtue actively engages when pr
 | **Additional Virtues — Sacrifice** |
 | Magnanimity | Stretching the soul toward great, arduous good for God's glory, undeterred by fear | ✓ | ✓ | | ★ |
 | Perseverance | Holding the course of good to the end, through life's trials and tribulations, as pledged | ✓ | ✓ | | ★ |
-| Eutrapelia | Rendering the body its due measure of rest and play—kept in trust, so it remains fit to serve every other virtue | ✓ | ★ | | ✓ |
 
 **How each checkmark is determined.** Every cell answers the same question: does this pillar belong to the virtue's *definition*—to what the virtue does by its own nature—not merely to what it touches, requires, or receives?
 
@@ -119,10 +119,9 @@ In the deepest sense, *every* virtue touches all four pillars—since every virt
 |  | Humility |  |  |
 |  | Eutrapelia |  |  |
 
-Charity heads no column because it fills all four—every family flows from love and returns to it. And the families are a mirror. Read down each column and ask: which of these virtues come easily to me, and which feel foreign? The column where you are strong is the door through which God's love already enters your life. The column you avoid is the door still closed—and now you know exactly where to knock. Later in this chapter, four saints will show what each door looks like from the inside. Nearly every virtue is love leading with a single facet—diligence leads with two, humility with three. Charity is love leading with all four, the neighbor included.
+Charity heads no column because it fills all four—every family flows from love and returns to it. And the families are a mirror. Read down each column and ask: which of these virtues come easily to me, and which feel foreign? The column where you are strong is the door through which God's love already enters your life. The column you avoid is the door still closed—and now you know exactly where to knock. Later in this chapter, one saint's own life will show what it looks like to walk through a door from the inside. Nearly every virtue is love leading with a single facet—diligence leads with two, humility with three. Charity is love leading with all four, the neighbor included.
 
-Charity (caritas in Latin, agape in Greek) is the supreme virtue. St. Paul commands: *"And above all these put on love, which binds everything together in perfect harmony"* (Colossians 3:14). This is the same truth the Catechism affirms in calling charity the form of the virtues. You cannot truly love without truth, justice, mercy, and sacrifice.
-
+Charity (caritas in Latin, agape in Greek) is the supreme virtue. St. Paul commands: *"And above all these put on love, which binds everything together in perfect harmony"* (Colossians 3:14). This is the same truth the Catechism affirms in calling charity the form of the virtues. You cannot truly love without truth, justice, mercy and sacrifice.
 
 **Virtues also serve covenant and communion.** Notice what kind of acts fill this matrix: every one is freely given. No one can be forced into faith, coerced into generosity, or compelled into patience.
 
@@ -135,7 +134,7 @@ And this is where the definition's last words come true: choose the virtues and 
 The pattern reveals: **The more comprehensive and integrative a virtue is, the more it engages all four pillars of perfect love.** This confirms that our definition captures the essence of authentic Christian virtue.
 
 <div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
-This is what it means to love God with all your heart, soul, mind, and strength, and your neighbor as yourself: not a burden added to human nature, but human nature reaching what it was always built for. God placed this capacity in us from the beginning; Christ's own life, and the whole of Scripture, shows us how to live it out in truth, justice, mercy, and sacrifice. This is what it means to be *perfect*—whole, undivided—and what it means to be saved: healed of the disorder sin left in us, until love is finally our nature fulfilled, not strained against.
+This is what it means to love God with all your heart, soul, mind, and strength, and your neighbor as yourself: not a burden added to human nature, but human nature reaching what it was always built for. God placed this capacity in us from the beginning; Christ's own life, and the whole of Scripture, shows us how to live it out in truth, justice, mercy and sacrifice. This is what it means to be *perfect*—whole, undivided—and what it means to be saved: healed of the disorder sin left in us, until love is finally our nature fulfilled, not strained against.
 </div>
 
 ---
@@ -148,13 +147,13 @@ St. Paul warns: **"if I have all faith, so as to remove mountains, but have not 
 
 Faith working through love does something to us: it justifies us. Consider the word—it shares the same root as *justice*: the Latin *iustus*, meaning "right" or "just." To be justified is to be **made right with God**—restored to the relationship of love for which we were created. Sacred Scripture and the Catholic Church teach that this restoration is real, not merely declared: justification is "not only the remission of sins, but also the sanctification and renewal of the interior man" (Council of Trent, Session 6, Chapter 7). God doesn't just *declare* us righteous—He **forms** us into righteousness, one virtue at a time.
 
-Because He is Love, and loved us first (1 John 4:8, 19), our answer is total: it is Charity, loving Him with all our heart, mind, and soul, and our neighbor as ourselves. It is also fear and trembling—not dread, but the fear of the Lord that is the beginning of wisdom (Proverbs 9:10), the same fear Scripture calls "hatred of evil" (Proverbs 8:13). Made concrete, this fear looks like Humility, which owns the truth of what we are before Him; Religion, which renders Him the worship only He is due; Obedience, which submits our will to His; Temperance, which governs every appetite pulling us toward the world instead of Him; Penance, which grieves our sin and turns from it; and Fortitude and Perseverance, which deny ourselves, take up our cross, and follow Him daily, whatever it costs. Truth, justice, mercy, and sacrifice become, in this way, the ordinary shape of a life.
+Because He is Love, and loved us first (1 John 4:8, 19), our answer is total: it is Charity, loving Him with all our heart, mind, and soul, and our neighbor as ourselves. It is also fear and trembling—not dread, but the fear of the Lord that is the beginning of wisdom (Proverbs 9:10), the same fear Scripture calls "hatred of evil" (Proverbs 8:13). Made concrete, this fear looks like Humility, which owns the truth of what we are before Him; Religion, which renders Him the worship only He is due; Obedience, which submits our will to His; Temperance, which governs every appetite pulling us toward the world instead of Him; Penance, which grieves our sin and turns from it; and Fortitude and Perseverance, which deny ourselves, take up our cross, and follow Him daily, whatever it costs. Truth, justice, mercy and sacrifice become, in this way, the ordinary shape of a life.
 
 None of this is instantaneous. Working it out is the labor of a lifetime: growing from this fear into Prudence, right judgment of what love must do here and now, and at last into Wisdom, which sees all things as God sees them and orders life accordingly. His love takes a lifetime to work out in us.
 
 This is what St. Paul teaches in the verse that opens this chapter: **"faith working through love"** (Galatians 5:6)—not faith standing alone, but faith alive and active. The virtues named above are what that active love is called when it takes a particular shape: Prudence, when it must judge; Fortitude, when it must endure; Mercy, when another is in need. This is what faith working through love looks like when it meets an actual moment, an actual neighbor, an actual cost.
 
-Jesus commands us: **"You, therefore, must be perfect, as your heavenly Father is perfect"** (Matthew 5:48). We saw in Chapter 10 what He meant: not *flawless* or *sinless*, but *whole*—the Greek *teleios*, complete and undivided, a heart that keeps no corner back from love. This chapter has shown the concrete way there. A life of virtue is how we grow, day by day, into that wholeness—each act of charity, truth, justice, mercy, and sacrifice conforming us a little more to the Father who loves this way. This is what it means to live in a state of grace: to order our whole life around charity and the virtues that flow from it, our sins washed away by His mercy, until we are free to be fully loved by God and to love Him and one another in return.
+Jesus commands us: **"You, therefore, must be perfect, as your heavenly Father is perfect"** (Matthew 5:48). We saw in Chapter 10 what He meant: not *flawless* or *sinless*, but *whole*—the Greek *teleios*, complete and undivided, a heart that keeps no corner back from love. This chapter has shown the concrete way there. A life of virtue is how we grow, day by day, into that wholeness—each act of charity, truth, justice, mercy and sacrifice conforming us a little more to the Father who loves this way. This is what it means to live in a state of grace: to order our whole life around charity and the virtues that flow from it, our sins washed away by His mercy, until we are free to be fully loved by God and to love Him and one another in return.
 
 **We cannot separate faith from works, love from sacrifice, or virtue from the Cross.** Authentic Christian life requires the integration of all four pillars of perfect love.
 
@@ -162,7 +161,7 @@ Jesus commands us: **"You, therefore, must be perfect, as your heavenly Father i
 
 We already watched this exchange in Chapter 9: a lawyer asks Jesus, **"Teacher, what shall I do to inherit eternal life?"** and answers his own question with the Shema joined to love of neighbor—**"love the Lord your God with all your heart, and with all your soul, and with all your strength, and with all your mind; and your neighbor as yourself."** Jesus tells him: **"You have answered right; do this, and you will live"** (Luke 10:25-28).
 
-This is the summary of everything we've explored in this chapter. To love God with all your **heart** is to desire truth, justice, mercy, and sacrifice. To love Him with all your **soul** is to orient your entire being toward communion with Him. To love Him with all your **mind** is to embrace the truth He has revealed. To love Him with all your **strength** is to sacrifice—to act, to serve, to give yourself completely.
+This is the summary of everything we've explored in this chapter. To love God with all your **heart** is to desire truth, justice, mercy and sacrifice. To love Him with all your **soul** is to orient your entire being toward communion with Him. To love Him with all your **mind** is to embrace the truth He has revealed. To love Him with all your **strength** is to sacrifice—to act, to serve, to give yourself completely.
 
 This is the same hermeneutical key this book has been using from the start. Chapter 9 called the Shema "the grand hermeneutical key Christ Himself gave us for reading all of Scripture." It is the same key Paul named at the opening of this chapter (1 Timothy 1:5), and the same one the Catechism names as well (CCC 25). Christ, Paul, and the Church are not three separate teachings that happen to agree—they are three witnesses communicating the same foundational truth: that God is love, and everything He has revealed exists to teach us how to love as He loves.
 
@@ -174,42 +173,38 @@ If this chapter shows what it looks like to love well, the next shows what happe
 
 ### Practical Application
 
-Examine your life through the lens of the four pillars:
-- **Truth:** Where am I deceiving myself or others?
-- **Justice:** What duties am I neglecting? What do I owe God, family, neighbor?
-- **Mercy:** Whom have I refused to forgive? Where is my heart hardened?
-- **Sacrifice:** Where am I choosing comfort over what is right?
+Examine your life through the lens of the four pillars. Ask where you are deceiving yourself or others—that is truth. Ask what duties you are neglecting, what you owe God, family, and neighbor—that is justice. Ask whom you have refused to forgive, where your heart has hardened—that is mercy. Ask where you are choosing comfort over what is right—that is sacrifice.
 
 Wherever those questions stung most, follow the conviction—that discomfort often signals where God is calling you to grow. Return to the four families of virtue earlier in this chapter—the virtues of Truth, of Justice, of Mercy, and of Sacrifice—and read slowly down each column, asking honestly: which of these are already alive in me, and which are weak or missing? Then choose one that needs work and make it your focus. Ask the Holy Spirit to teach you this virtue more deeply. Study what the Bible says about it, and seek out what the Church—her saints, councils, and teachers—has said about it over the centuries. And ask: How can I practice it concretely?
 
 **This is what it means to become a saint: to love the Lord your God with all your heart, soul, mind, and strength—and your neighbor as yourself. It means letting God's perfect love transform you completely, so that every thought, word, and deed flows from and returns to perfect love. And in this, you will be set free—free to live the abundant life Jesus promised.**
 
-### **The Saints Prove It's Possible:**
-Heroic virtue is possible—not through our own power, but through God's grace:
-- St. Mary Magdalene: From grave sinner to great saint
-- St. Augustine: From dissolute life to Doctor of the Church
-- St. Francis of Assisi: From worldly pleasure to perfect poverty
-- St. Ignatius of Loyola: From vainglory to humble service
-- St. Paul: From persecutor to apostle
+### Augustine: A Great Mind Wasted, Then Found
 
-The same perfect love that transformed them is available to you—for the salvation of your soul, your family, and as the Body of Christ, the entire world.
+Heroic virtue is possible—not by our own power, but by God's grace. One saint's own life shows what it costs, and what it's worth: he kept a door shut for years, in both his mind and his body, and knew it while he did it.
 
-### **Practical Steps:**
+**St. Augustine had one of the finest minds of the ancient world**—trained as a rhetorician, brilliant enough to argue any side of any question—and for most of two decades he spent that mind building elaborate justifications for a life he half-suspected was a lie. First it served the Manichees' tidy cosmic dualism, which let him blame his sins on a foreign nature rather than his own will; then a fashionable skepticism, which let him avoid ever committing to a truth he'd have to live by. The dishonesty wasn't only intellectual: he kept a concubine for over a decade and fathered a son by her, and gave himself over so completely to what he later called "a cauldron of unholy loves" that when he finally saw where his own arguments were leading, he prayed the most honest dishonest prayer in Christian literature—"Grant me chastity and continence, but not yet." His mother Monica wept and prayed through all of it, for years, without a visible answer.
 
-1. **Learn Church teaching** on morality (truth)
-2. **Examine conscience regularly** using the four pillars
-3. **Go to confession frequently** (monthly or more)
-4. **Receive Communion worthily** in state of grace
-5. **Pray daily** for grace to avoid sin
-6. **Practice virtue** actively (don't just avoid vice)
-7. **Avoid occasions of sin** (people, places, situations that lead to temptation)
-8. **Seek spiritual direction** from a wise confessor
-9. **Be patient with yourself** while striving for holiness
-10. **Trust in God's mercy** while taking responsibility for growth
+The door opened at last in a garden in Milan, at a child's voice chanting *tolle, lege*—"take up and read." He picked up the Scriptures, read Paul's words on putting off the flesh and its desires (Romans 13:13-14), and could no longer lie to himself, in either direction. The mind that had spent twenty years defending falsehood spent the next forty defending the truth, turned finally toward its proper object: he became the Church's fiercest advocate for grace, the architect of her doctrine of original sin and justification, and the man who gave Western Christianity much of its own language for the interior life—the God who is closer to the soul than the soul is to itself, the heart that is "restless until it rests in" Him. A book like this one, arguing that love is not sentiment but something real, structured, and sacred, is written in a vocabulary Augustine did more than almost anyone to build. Twenty years of a brilliant mind spent lying to itself; forty years of the same mind, converted, still shaping how Christians understand love sixteen centuries later.
+
+The same perfect love that transformed him is available to you—for the salvation of your soul, your family, and the whole Body of Christ.
+
+### Walking Through the Door
+
+That door you found closed a few pages ago doesn't open on willpower alone. Start where it actually is: learn what the Church teaches about that virtue, in Scripture and in the Catechism, so you know what you're walking toward rather than guessing. Bring your conscience back to the four pillars regularly, not only when guilt finally catches up with you, and bring what you find there to confession—not as a once-a-year obligation but as often as the grace is needed, because the same mercy that reached Augustine in that Milan garden is dispensed there, not merely described. Receive Communion in a state of grace, because the Eucharist is not a reward for virtue already achieved but the food that makes the walking possible in the first place. Pray daily for the grace to walk through this door specifically—not virtue in general, but this one, by name. Then practice it: not just the avoidance of its opposite vice, but the active, repeated choosing of the good—the same patient labor that turned twenty years of Augustine's brilliance from defending lies into defending the truth. Know your own occasions of sin—the people, places, and situations that keep this particular door swinging shut before you can walk through it—and remove yourself from them rather than testing your resolve against them for sport. Find a confessor or spiritual director who knows you well enough to tell you the truth about your own progress, since self-assessment in matters of the soul is notoriously unreliable. And be patient with yourself while you do all of this: it took even Augustine years, and his mother a lifetime of prayer, to see that door open. Trust God's mercy while you take responsibility for the walking—both are required, and neither excuses the other. And if your own door is one of the other three, the saints named below have already walked that door — two for each — and are waiting to show you how.
 
 ---
 
 ## For Further Study
+
+### Saints of Each Door
+
+Here are two saints for each of the four doors, for readers who want to keep going:
+
+- **Truth:** St. Thomas Aquinas — a mind consecrated to God as First Truth from boyhood, whose own family tried to buy him out of his vocation with worldly honor; St. Edith Stein (Teresa Benedicta of the Cross) — an atheist philosopher who followed the truth into the Church and then into Auschwitz.
+- **Justice:** St. Thomas More — "the King's good servant, but God's first," beheaded for refusing to render Caesar what belonged to God; St. Ignatius of Loyola — from thirty years of vainglory to a life vowed in obedience under Christ the King.
+- **Mercy:** St. Francis of Assisi — the man who could not bear to look at a leper learned to kiss one; St. Faustina Kowalska — apostle of Divine Mercy.
+- **Sacrifice:** St. Paul — from persecutor to a life poured out for the Gospel, ending under a Roman sword; St. Maximilian Kolbe — gave his own life in a Nazi death camp so a stranger could live.
 
 **Catechism of the Catholic Church:**
 - CCC 1803-1845: The Virtues

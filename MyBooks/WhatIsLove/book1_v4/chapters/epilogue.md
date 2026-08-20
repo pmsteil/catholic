@@ -13,17 +13,19 @@ That is the passage that changed my entire life — the one I read on a retreat 
 
 It took thirty-seven years — as a husband, father, and teacher of the faith — and my return to the Catholic Church, whom the Holy Spirit has led into all truth, before I could finally put it into the words you are reading now.
 
-I am thankful to my Lord Jesus, who instituted His Church so that, generation after generation for two thousand years, she could hand down to you and to me exactly what it means to love Him with our whole heart, mind, soul, and strength, and to truly love our neighbor and ourselves in all truth, justice, mercy, and sacrifice.
+I am thankful to my Lord Jesus, who instituted His Church so that, generation after generation for two thousand years, she could hand down to you and to me exactly what it means to love Him with our whole heart, mind, soul, and strength, and to truly love our neighbor and ourselves in all truth, justice, mercy and sacrifice.
+
+She did not invent any of it. To teach what is real is to teach truth; to teach truth is to teach love; and to teach love, in the end, is only ever to teach God.
 
 That is what Jesus asks of us — "You, therefore, must be perfect, as your heavenly Father is perfect" (Matthew 5:48) — not just to say that we love, but to be perfected by His love.
 
-Now that you understand what love actually is, my prayer is that even more of your life will come into focus — the Mass you attend, the Scriptures you read, the ordinary moments where Christ's love has been reaching for you all along. This book is not the final chapter of your faith — only the beginning of it. You now hold a fuller framework for what love actually is. Use it: may the Mass make even more sense to you, may every Scripture read a little clearer still, and may your discernment of what is good, right, and beautiful sharpen day by day, as the aim becomes a little clearer.
+Now that you understand what love actually is, my prayer is that even more of your life will come into focus — the Mass you attend, the Scriptures you read, the ordinary moments where Christ's love has been reaching for you all along. This book is not the final chapter of your faith — only the beginning of it. You now hold a fuller framework for what love actually is. Use it — but more than that, live it.
+
+Let your life become its own testimony to what God's love means in the ordinary, costly moments, and let the fullness of that love be your desire and your motivation. "Do not be overcome by evil, but overcome evil with good" (Romans 12:21). The atheist's strongest argument against God has always been the existence of evil. Let's answer it — not with a cleverer argument, but with the sacred love we have learned from our Lord.
 
 And do not keep this to yourself. Teach it to your children, the way the faith was handed to you — not as rules to memorize, but as the truth your whole life is built on. Teach it to others as well, so they too can be made whole and carry God's love into whatever vocation is theirs. This is how Jesus saves the world, one loving soul at a time.
 
-We were made by love, and we were made for love.
-
-My prayer for you is that you will continue to learn what it means that God is love, and love Him with your whole heart, mind, soul, and strength. And then, humbly and sacrificially, give to others — and to your own children most of all — so that they might also experience the love of Christ.
+We were made by love, and we were made for love. Stand back for a moment and simply behold it: not a theory you've studied, but a grandeur you now get to see — sacred, whole, and nothing less than reality itself. He is its author. And this book, like the whole of Catholicism, has only ever tried to do one thing: help you know exactly how to love Him fully, and to love your neighbor as yourself — because to live a life of love is to be in Holy Communion.
 
 <div class="blockquote">
 
