@@ -120,6 +120,8 @@ For example, if you decide to write a novel, as the author, you have the authori
 God's "authority" comes from being the "author" of all Creation and the laws of love specifically—He designed how love works. His "laws" aren't arbitrary commands but the blueprint for authentic love. Authority is only truly active when WE FREELY SUBMIT our will to His laws since he is the Author.
 </div>
 
+This is where the word *gift* in our definition is doing real philosophical work, not just poetic work. A gift, by its very nature, cannot be forced on someone and remain a gift—the moment it's coerced, it becomes something else: a tax, a seizure, an imposition. If God's Perfect Love truly is a *gift*, as we established in Chapter 2, then it must be capable of being freely received or freely refused. This settles a real and long-running argument among Christians over whether we actually have free will, or whether grace simply overrides the will. The very structure of *gift* answers it: love that could not be refused would not be a gift at all, and a God who is love could not have made us any other way without contradicting His own nature.
+
 **The Critical Distinction: Two Kinds of Authority**
 
 This is the key to understanding covenant love: **When humans try to author morality without God, they must impose it through force. But God's authority is always an invitation that human hearts freely recognize and accept.**
@@ -293,4 +295,4 @@ Covenant creates permanent relationship—but how do we hold together what seems
 ### Christian Thinkers
 - **Pope Saint John Paul II (1920-2005):** His Theology of the Body explains marriage as covenant imaging the Trinity; his teaching on the "language of the body" shows how covenant love is written into our very nature
 - **Pope Benedict XVI (1927-2022):** His encyclical *Deus Caritas Est* explores how covenant love (agape) transforms and perfects human love (eros)
-- **Scott Hahn (1957-present):** Protestant convert and biblical scholar whose work on covenant theology shows how the entire Bible is structured around God's covenant relationships with His people
+- **Scott Hahn (1957-present):** a former Presbyterian minister who converted to Catholicism in 1986, now a leading Catholic biblical scholar whose work on covenant theology shows how the entire Bible is structured around God's covenant relationships with His people

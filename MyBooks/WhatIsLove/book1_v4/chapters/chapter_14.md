@@ -22,9 +22,9 @@
 
 ## Sin as Rejection of Perfect Love
 
-In the previous chapter, we saw that **every virtue upholds and flows from the four pillars of perfect love: Truth, Justice, Mercy, and Sacrifice.** Now we examine the opposite reality: **every vice denies or distorts these same four pillars.**
+In the previous chapter, we saw that **every virtue upholds and flows from the four pillars of perfect love: Truth, Justice, Mercy and Sacrifice.** Now we examine the opposite reality: **every vice denies or distorts these same four pillars.**
 
-Sin is not merely "breaking rules"—it is fundamentally **a failure to love.** When we sin, we act contrary to our nature as beings created - in his image - for love, rejecting the law God has written on our hearts. In some way we deny truth, violate justice, refuse mercy, or reject sacrifice.
+Sin is not merely "breaking rules"—it is fundamentally **a failure to love.** When we sin, we act contrary to our nature as beings created - in His image - for love, rejecting the law God has written on our hearts. In some way we deny truth, violate justice, refuse mercy, or reject sacrifice.
 
 Just as love has degrees of perfection, **sin has degrees of gravity**—from minor faults to mortal sins that kill our relationship with God. Understanding these degrees is essential for growing in holiness.
 
@@ -220,7 +220,7 @@ The matrix above shows which pillars each deadly sin offends; left unchecked, ea
 
 If each deadly sin unravels love by pulling threads out of it, then each is healed when love is rebound — when truth, justice, mercy and sacrifice are restored together. The Church has long named the virtue that stands opposite each capital vice. **Pride** is healed by **humility**: the self seen again as creature, and God given back the glory pride tried to steal. **Greed** is healed by **generosity**: possessions held in stewardship and released to the need of the poor. **Lust** is healed by **chastity**: the body honored as a temple, the other loved as a person and never used. **Wrath** is healed by **patience**: vengeance entrusted to God, as above, and the cost of forgiveness borne instead. **Sloth** is healed by **diligence**: the daily cost of presence and service paid to the brother in need. **Envy** is healed by **kindness**: another's good received as God's gift rather than a theft, heeding the call to *"rejoice with those who rejoice"* (Romans 12:15). And **gluttony** is healed by **temperance**: food and drink received as gifts rather than masters, appetite restrained so there is more left to give.
 
-In each case the healing follows the same binding we traced in Chapter 5: no single pillar heals the soul alone. Love is one thing — four threads bound together — and only the whole binding, restored, lifts the soul out of the vice that unraveled it. This is why Christ's Cross is not one remedy among many but *the* remedy: in His one sacrifice, truth, justice, mercy, and sacrifice act together in one act of perfect love, and every deadly sin meets its complete undoing there.
+In each case the healing follows the same binding we traced in Chapter 5: no single pillar heals the soul alone. Love is one thing — four threads bound together — and only the whole binding, restored, lifts the soul out of the vice that unraveled it. This is why Christ's Cross is not one remedy among many but *the* remedy: in His one sacrifice, truth, justice, mercy and sacrifice act together in one act of perfect love, and every deadly sin meets its complete undoing there.
 
 ### **The Progression of Deadly Sin:**
 
@@ -268,7 +268,7 @@ But this is not the end: through the Sacrament of Reconciliation, sanctifying gr
 
 ## Examination of Conscience: Toward Communion
 
-*"God's Perfect Love is the sacred gift of covenant which binds truth, justice, mercy and sacrifice into life-giving communion."* That whole definition, not merely the four pillars at its center, is the standard for examining conscience. Ask only whether truth, justice, mercy, and sacrifice were honored, and you can still miss a love that quietly stopped being sacred, stopped being gift, or forgot the covenant it was made inside—and above all you can miss the point of the whole exercise, which is not scorekeeping but *communion*: restoring the very thing sin breaks. A better examen starts where that breaking actually shows itself: in pain.
+*"God's Perfect Love is the sacred gift of covenant which binds truth, justice, mercy and sacrifice into life-giving communion."* That whole definition, not merely the four pillars at its center, is the standard for examining conscience. Ask only whether truth, justice, mercy and sacrifice were honored, and you can still miss a love that quietly stopped being sacred, stopped being gift, or forgot the covenant it was made inside—and above all you can miss the point of the whole exercise, which is not scorekeeping but *communion*: restoring the very thing sin breaks. A better examen starts where that breaking actually shows itself: in pain.
 
 ### Five Steps to Examine Your Conscience
 
@@ -322,7 +322,7 @@ Understanding the distinction between mortal and venial sin is not meant to make
 
 **His Sacrifice:** He gives us grace to grow in holiness and become saints—grace made possible only because He bore the cost of our sin Himself. And that gift does not leave us only receiving: He invites us to offer ourselves back, to "present your bodies as a living sacrifice, holy and acceptable to God" (Romans 12:1), so that giving ourselves the way He gave Himself is how we come to know what His love actually is, not merely what it says. We cannot be sinless as Christ was, but by learning and submitting to God's perfect love—Grace—we can avoid mortal sin and press on toward sanctity. St. Paul testifies: **"Not that I have already obtained this or am already perfect; but I press on to make it my own, because Christ Jesus has made me his own"** (Philippians 3:12). This is what it means to "work out your own salvation with fear and trembling" (Philippians 2:12)—to progressively integrate truth, justice, mercy and sacrifice more perfectly into every aspect of our lives.
 
-When we live the four pillars—truth, justice, mercy, sacrifice—we grow in sanctity. When we deny them, we separate ourselves from the love of Christ.
+When we live the four pillars—truth, justice, mercy and sacrifice—we grow in sanctity. When we deny them, we separate ourselves from the love of Christ.
 
 **Sin also breaks covenant and destroys communion.** Every mortal sin ruptures our covenant relationship with God—the sacred bond established in Baptism. It severs us from life-giving communion with the Trinity, with the Church, and even with our true selves. This is why the Sacrament of Reconciliation is so essential: it restores the covenant and rebuilds the communion that sin has destroyed.
 

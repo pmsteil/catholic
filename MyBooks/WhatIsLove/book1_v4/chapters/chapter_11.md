@@ -34,7 +34,7 @@ And then the phone rings.
 
 It is your closest friend, and through tears she tells you she has been having an affair. Or it is your son, who has called to announce that he is moving in with his girlfriend and expects you to be happy for them. Or it is your aging father, frightened and in pain, asking whether it might be time to "let him go." Or it is the man at the stoplight with the cardboard sign, and the light is about to turn green.
 
-In that moment, knowing the four facets of love is not the same as knowing what to *do.* You know love must be truthful, just, merciful, and sacrificial. But which word do you say first? Do you speak the hard truth, or do you simply hold her while she cries? Do you give the man the five dollars, or will it buy the very thing destroying him? The pillars are clear; the moment is not.
+In that moment, knowing the four facets of love is not the same as knowing what to *do.* You know love must be truthful, just, merciful and sacrificial. But which word do you say first? Do you speak the hard truth, or do you simply hold her while she cries? Do you give the man the five dollars, or will it buy the very thing destroying him? The pillars are clear; the moment is not.
 
 This is the gap every honest Christian eventually falls into: the distance between the principle and the person in front of you. St. James names the danger exactly: *"But be doers of the word, and not hearers only, deceiving yourselves"* (James 1:22). It is possible to admire the architecture of love from a safe distance and never once live in the house. The Catechism is direct: everything the Christian faith teaches *"must be directed to the love that never ends"* (*CCC* 25).
 
@@ -78,7 +78,7 @@ We usually read this parable as a story about mercy, and it is. But look closer,
 
 Look first at how the story *begins.* The father lets the boy go. He does not chain him to the porch; he does not coerce a love the son will not give. This is the free-will principle we have seen in every chapter — love cannot be forced into a closed hand. The father pays the terrible price of freedom: he lets his son be free even to destroy himself.
 
-And notice what freedom *is* here, because the far country is about to lie about it. The son believes freedom means *I am my own* — no father, no rules, no one to answer to. But that is not freedom; that is the road to the pigsty. We settled what freedom truly is back in Chapter 4, on covenant: as St. John Paul II taught, *"freedom exists for love, not for autonomy"* — true freedom is not the absence of every bond but the capacity to give yourself away, to align your life with the truth of how you were made. Remember the piano: its design was never a cage but the very thing that made music possible. The son discovers in the far country that *"I am my own"* is not liberation but starvation. Real freedom was waiting for him at home all along. Hold onto that, because nearly every hard case in this chapter is somebody mistaking the pigsty for freedom — and prudence is, in the end, the art of keeping the true freedom in view: the freedom that exists *for* love.
+And notice what freedom *is* here, because the far country is about to lie about it. The son believes freedom means *I am my own* — no father, no rules, no one to answer to. But that is not freedom; that is the road to the pigsty. We settled what freedom truly is back in Chapter 4, on covenant: as St. John Paul II taught, *"freedom exists for the sake of love"* (*Theology of the Body*)—not for mere autonomy — true freedom is not the absence of every bond but the capacity to give yourself away, to align your life with the truth of how you were made. Remember the piano: its design was never a cage but the very thing that made music possible. The son discovers in the far country that *"I am my own"* is not liberation but starvation. Real freedom was waiting for him at home all along. Hold onto that, because nearly every hard case in this chapter is somebody mistaking the pigsty for freedom — and prudence is, in the end, the art of keeping the true freedom in view: the freedom that exists *for* love.
 
 Now watch what the father does *not* do while the boy is in the far country. He does not send a servant with a fattened calf to celebrate the son's new life among the pigs. He does not write to say, *"I support your journey of self-discovery."* He grieves. He watches the road — for Scripture tells us he saw the boy *"while he was yet at a distance,"* which means he had been watching that road every single day. He holds the truth of what has happened without pretending it away, and he holds the door open without chasing his son into the mud to validate the mud.
 
@@ -277,6 +277,19 @@ For now, it is enough to have seen *how* love acts. But that raises a deeper que
 
 ---
 
+## Prayer Practice: The Examen of Love
+
+Each evening, walk slowly back through your day in the presence of God, and ask of the moments that mattered:
+
+- **Truth:** Where did I see clearly today? Where did I let myself believe a comfortable lie?
+- **Justice:** What did I owe the people in front of me — and did I give it?
+- **Mercy:** Where was I hard when I could have been tender? Whom do I need to run toward?
+- **Sacrifice:** Where did I count the cost and pay it? Where did I keep my hand closed?
+
+Then ask the one question that holds them together: *In the hardest moment of this day, was I the father — or one of the two sons?* End by asking the Holy Spirit for the gift of counsel, that tomorrow you would see what love requires, and have the courage to do it.
+
+---
+
 ## Further Study
 
 ### Scripture
@@ -290,7 +303,7 @@ For now, it is enough to have seen *how* love acts. But that raises a deeper que
 - **Philippians 2:3-4** — Counting others more significant than ourselves
 - **1 John 4:7-8** — "He who loves is born of God and knows God; for God is love"
 - **Proverbs 3:5-6** — "Trust in the LORD with all your heart, and do not rely on your own insight"
-- **Proverbs 14:15** — "The prudent man looks where he is going" (cited in CCC 1806)
+- **Proverbs 14:15** — "the prudent looks where he is going" (cited in CCC 1806)
 - **1 Kings 3:9** — Solomon's prayer for "an understanding mind... to discern between good and evil"
 - **James 1:5** — "If any of you lacks wisdom, let him ask God, who gives generously"
 - **Romans 3:8** — We may never "do evil that good may come"
@@ -326,16 +339,3 @@ For now, it is enough to have seen *how* love acts. But that raises a deeper que
 - **Pope St. John Paul II, *Evangelium Vitae*** (The Gospel of Life) — on the dignity of every human life, from conception to natural death
 - **Pope Benedict XVI, *Deus Caritas Est*** (God Is Love) — on the nature of Christian love
 - **Pope Benedict XVI, *Spe Salvi*** (Saved in Hope) — on the theological virtue of hope
-
----
-
-## Prayer Practice: The Examen of Love
-
-Each evening, walk slowly back through your day in the presence of God, and ask of the moments that mattered:
-
-- **Truth:** Where did I see clearly today? Where did I let myself believe a comfortable lie?
-- **Justice:** What did I owe the people in front of me — and did I give it?
-- **Mercy:** Where was I hard when I could have been tender? Whom do I need to run toward?
-- **Sacrifice:** Where did I count the cost and pay it? Where did I keep my hand closed?
-
-Then ask the one question that holds them together: *In the hardest moment of this day, was I the father — or one of the two sons?* End by asking the Holy Spirit for the gift of counsel, that tomorrow you would see what love requires, and have the courage to do it.

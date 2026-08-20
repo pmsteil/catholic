@@ -23,12 +23,12 @@ Truth without mercy becomes the Pharisees demanding the adulteress be stoned. Me
 These are fragmented virtues. Isolated from each other, truth becomes cruelty, justice becomes vengeance, and mercy becomes weakness. Even sacrifice, when isolated, can become a weapon of manipulation or a path to self-destruction. When our understanding of God's love is incomplete or lopsided, we inevitably distort how we practice virtue. An overly justice-oriented view of God's love makes us judgmental and harsh. An overly mercy-oriented view makes us enablers of sin. Both are wrong because neither reflects the full picture of God's love. Choosing one facet over the others inevitably leads to a distorted, incomplete, and ultimately harmful version of love.
 
 <div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
-This is why our definition of perfect love includes the word "binds"—love holds truth, justice, mercy, and sacrifice together in life-giving communion. Without authentic love to integrate them, these virtues fragment and become distorted. With authentic love, they work together as one harmonious whole. Holy, you could say.
+This is why our definition of perfect love includes the word "binds"—love holds truth, justice, mercy and sacrifice together in life-giving communion. Without authentic love to integrate them, these virtues fragment and become distorted. With authentic love, they work together as one harmonious whole. Holy, you could say.
 </div>
 
 ## When a Civilization Breaks the Binding: The Dictatorship of Relativism
 
-What happens inside a single heart when the threads come apart also happens inside a civilization. When a society no longer agrees that truth, justice, mercy, and sacrifice are objectively real — when each is reduced to "my truth," "my idea of fairness," "my feelings," "my preferences" — the threads have nothing to hold them together. Substitutes rush in to fill the vacuum: sentiment, majority opinion, utility, personal authenticity. Each *feels* like a standard, until two of them collide. Then there is no arbiter left except power — whoever is loudest, most convincing or strongest (the state, the mob, the market, the algorithm) imposes their preferences on everyone else.
+What happens inside a single heart when the threads come apart also happens inside a civilization. When a society no longer agrees that truth, justice, mercy and sacrifice are objectively real — when each is reduced to "my truth," "my idea of fairness," "my feelings," "my preferences" — the threads have nothing to hold them together. Substitutes rush in to fill the vacuum: sentiment, majority opinion, utility, personal authenticity. Each *feels* like a standard, until two of them collide. Then there is no arbiter left except power — whoever is loudest, most convincing or strongest (the state, the mob, the market, the algorithm) imposes their preferences on everyone else.
 
 On the eve of his election, Cardinal Joseph Ratzinger — soon to be Pope Benedict XVI — gave this disintegration its exact name:
 
@@ -44,7 +44,7 @@ This is the civilizational version of the fragmentation we just named. When the 
 
 ## What Children Know About Binding
 
-Chapter 4 showed us that covenant love—grounded in God's faithfulness and imaged in marriage—is what holds families together. It revealed that love requires binding: truth, justice, mercy, and sacrifice integrated into one life-giving whole. But what happens when that binding breaks? What happens when the covenant that should hold a family together shatters?
+Chapter 4 showed us that covenant love—grounded in God's faithfulness and imaged in marriage—is what holds families together. It revealed that love requires binding: truth, justice, mercy and sacrifice integrated into one life-giving whole. But what happens when that binding breaks? What happens when the covenant that should hold a family together shatters?
 
 Consider the child in a fractured home:
 
@@ -64,18 +64,17 @@ The wound creates harm. The fragmentation that follows corrupts. This is what ha
 
 ## What Aquinas Already Saw
 
-The classical definition of love is St. Thomas Aquinas's, drawn from St. Augustine: *amor est velle alicui bonum* — **"to love is to will the good of another"** (*Summa Theologica* I-II, q.26, a.4). It is a definition the whole Christian tradition has held for nearly eight hundred years, and it is exactly right. But it is dense. Unpack it, and the four threads of this book are already inside it.
+The classical definition of love is St. Thomas Aquinas's: *amor est velle alicui bonum* — **"to love is to will the good of another"** (*Summa Theologica* I-II, q.26, a.4). It is a definition the whole Christian tradition has held for nearly eight hundred years, and it is exactly right. But it is dense. Unpack it, and the four threads of this book are already inside it.
 
 Aquinas's formula has two halves. **"The good"** — *bonum* — names *what* love wills. **"For another"** — *alicui* — names *that* it is willed for them, not for me. Pull those halves apart and the four pillars stand exposed:
 
-- **The good willed** is **truth, justice, and mercy.** Not whatever I happen to *feel* is good for you. Not what is comfortable for me to *call* your good. Your real good — what is *truly* (truth) *owed to your dignity as a person* (justice) and *what would restore you where you have fallen* (mercy). Strip any one of these and "your good" collapses back into my preference for you, which is no longer your good at all.
-- **The willing-it-for-you, at cost to me,** is **sacrifice.** Wanting your good in the abstract is not yet love; wanting it enough to *pay* for it is. Sacrifice is what proves the *for you* is real and not disguised self-interest. A love that costs nothing has not yet shown that it is for the other at all.
+**The good willed** is **truth, justice, and mercy.** Not whatever I happen to *feel* is good for you, and not what is comfortable for me to *call* your good, but your real good — what is objectively true about you (truth), owed to your dignity as a person (justice), and what would restore you where you have fallen (mercy). Strip any one of these and "your good" collapses back into my preference for you, which is no longer your good at all. And **the willing-it-for-you, at cost to me,** is **sacrifice.** Wanting your good in the abstract is not yet love; wanting it enough to *pay* for it is — sacrifice is what proves the *for you* is real and not disguised self-interest, and a love that costs nothing has not yet shown that it is for the other at all.
 
 This is why the four threads are co-constitutive rather than ranked. They are not four additions to Aquinas's definition — they are its interior anatomy. Truth, justice, and mercy specify the *good*; sacrifice specifies the *for another*. Take any one of them out and you have not pared love down to essentials; you have stopped describing love.
 
-Calvary is Aquinas's definition at full volume. *The good willed*: our salvation — the truth about our condition spoken without flinching, the justice of God satisfied, mercy poured out without limit. *Willed for us*: *"for us men and for our salvation"* — at the cost of everything. Truth, justice, mercy, and sacrifice, bound in one act. **That is what binding looks like.**
+Calvary is Aquinas's definition at full volume. *The good willed*: our salvation — the truth about our condition spoken without flinching, the justice of God satisfied, mercy poured out without limit. *Willed for us*: *"for us men and for our salvation"* — at the cost of everything. Truth, justice, mercy and sacrifice, bound in one act. **That is what binding looks like.**
 
-## How Love Binds Truth, Justice, Mercy, and Sacrifice
+## How Love Binds Truth, Justice, Mercy and Sacrifice
 
 Consider how different each virtue becomes when love binds it to the others. Truth without love becomes harsh and condemning—"You're a sinner and you're going to hell"—technically accurate, perhaps, but destroying rather than healing. Yet when love binds truth, it becomes medicine: "You're caught in sin, and it's destroying you. Let me help you find freedom." Justice without love becomes cold retribution—"You broke the law, so you must be punished"—with no path to restoration. But love transforms justice into something restorative: "There are consequences, but they're meant to heal you, not just punish you." Mercy without love becomes enabling weakness—"I'll forgive you no matter what you do"—allowing evil to continue and victims to suffer. Yet love ensures mercy serves transformation: "I forgive you, but you must stop. I'll help you change, but I won't enable your sin."
 
@@ -93,10 +92,7 @@ He does not deny her sin—He acknowledges the truth of it. He does not undermin
 
 Look at what each fragment alone would have produced:
 
-- **Truth without mercy:** The stones fly. The Law is satisfied. Nothing is healed.
-- **Mercy without truth:** "Don't worry about it." She walks away unchanged. The wound festers.
-- **Justice without compassion:** Execution. The accusers are vindicated. The woman is erased.
-- **Compassion without justice:** The Law collapses. Future victims lose their protection.
+Truth without mercy sends the stones flying—the Law is satisfied, but nothing is healed. Mercy without truth says only "don't worry about it"—she walks away unchanged, and the wound festers. Justice without compassion means execution—the accusers are vindicated, and the woman is erased. And compassion without justice lets the Law collapse—future victims lose their protection.
 
 Instead, Jesus binds them. Truth is spoken *through* mercy. Justice is upheld *through* compassion. Mercy is granted *through* the call to conversion. Sacrifice is made *through* the willingness to bear the cost of standing with her. Every facet serves the others. None is discarded. The woman is not destroyed and not excused—she is *restored*.
 
@@ -116,9 +112,9 @@ The Catechism continues: "The practice of the moral life animated by charity giv
 
 This is why our works - if separated from God's love and turned inward toward ourselves - cannot save us. Even "faith alone" becomes a trap when it's reduced to "how do *I* get to heaven?" rather than "how does God's love pour out through me?" Without the sacrificial aspect of love—the willingness to pour yourself out as Christ did—faith becomes merely transactional: a personal insurance policy rather than participation in God's self-giving love.
 
-When we speak of truth, justice, mercy, and sacrifice as the essential facets of love, we are not replacing the other virtues. The theological virtues, the cardinal virtues, the human virtues—all remain a cohesive whole. After all, God is "simple" (not made of parts) and "one" and so is His love (CCC 202, 253).
+When we speak of truth, justice, mercy and sacrifice as the essential facets of love, we are not replacing the other virtues. The theological virtues, the cardinal virtues, the human virtues—all remain a cohesive whole. After all, God is "simple" (not made of parts) and "one" and so is His love (CCC 202, 253).
 
-Rather, truth, justice, mercy, and sacrifice are the human words we use to explain the *dimensions* through which all virtues express themselves. Prudence for example operates through truth and justice—seeing reality as it is (truth) and choosing what is genuinely due (justice). Fortitude expresses itself through sacrifice—the courage to bear the cost of love (its truth and justice). Patience is mercy extended through sacrifice—refusing to abandon others and allowing God's love to transform them in His time rather than our own. Humility is truth about ourselves before God—recognizing his infinite goodness and thus sacrificing our pride. Every virtue is an aspect of charity, expressing itself through some combination of these four dimensions. Chapter 13 will prove this in exquisite detail.
+Rather, truth, justice, mercy and sacrifice are the human words we use to explain the *dimensions* through which all virtues express themselves. Prudence for example operates through truth and justice—seeing reality as it is (truth) and choosing what is genuinely due (justice). Fortitude expresses itself through sacrifice—the courage to bear the cost of love (its truth and justice). Patience is mercy extended through sacrifice—refusing to abandon others and allowing God's love to transform them in His time rather than our own. Humility is truth about ourselves before God—recognizing his infinite goodness and thus sacrificing our pride. Every virtue is an aspect of charity, expressing itself through some combination of these four dimensions. Chapter 13 will prove this in exquisite detail.
 
 ## Binding Souls Together in the Body of Christ
 
@@ -134,7 +130,7 @@ This is why sin is so devastating—it severs the bonds of communion, isolating 
 
 But practicing virtue weaves your soul more deeply into the fabric of Christ's Body. Each act of love is like a thread binding you to others. Over time, these threads become unbreakable bonds. You discover you're part of something infinitely larger than yourself, a living organism where every member matters, where your flourishing depends on others and theirs depends on you.
 
-This is why Jesus instituted the Eucharist—the supreme act of binding. When you receive Holy Communion, you're not just receiving a symbol or a spiritual memory. You're receiving Christ Himself, who binds truth, justice, mercy, and sacrifice into one saving act. His Body becomes your food. His Blood becomes your drink. Two become one flesh. As Jesus promised: "He who eats my flesh and drinks my blood abides in me, and I in him" (John 6:56). This is why we call it "Holy Communion"—it is the sacrament of binding, where Christ Himself weaves your soul into His Body and binds you to every other soul receiving Him. In that moment, you're united not just with Christ but with every believer across time and space who has ever received Him. The Eucharist is love's binding power made visible, made real, made flesh.
+This is why Jesus instituted the Eucharist—the supreme act of binding. When you receive Holy Communion, you're not just receiving a symbol or a spiritual memory. You're receiving Christ Himself, who binds truth, justice, mercy and sacrifice into one saving act. His Body becomes your food. His Blood becomes your drink. Two become one flesh. As Jesus promised: "He who eats my flesh and drinks my blood abides in me, and I in him" (John 6:56). This is why we call it "Holy Communion"—it is the sacrament of binding, where Christ Himself weaves your soul into His Body and binds you to every other soul receiving Him. In that moment, you're united not just with Christ but with every believer across time and space who has ever received Him. The Eucharist is love's binding power made visible, made real, made flesh.
 
 This is what it means to be a Christian society, a covenant people—souls bound together in life-giving communion, each serving their purpose as part of the entire Body. As St. Paul writes: "If one member suffers, all suffer together; if one member is honored, all rejoice together" (1 Corinthians 12:26). We are truly one through the Holy Spirit binding our souls together in love.
 
@@ -158,7 +154,7 @@ This is the hope catechists carry: that in teaching authentic love, they partici
 
 ## The Bridge to Truth
 
-Love binds together all the elements of authentic relationship—truth, justice, mercy, and sacrifice working as one. But this raises a crucial question: what ensures that what we're binding together is real? Without **truth**, love has no objective grounding.
+Love binds together all the elements of authentic relationship—truth, justice, mercy and sacrifice working as one. But this raises a crucial question: what ensures that what we're binding together is real? Without **truth**, love has no objective grounding.
 
 ---
 

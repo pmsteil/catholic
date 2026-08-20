@@ -191,11 +191,11 @@ There is only one form of love that gives children everything they need to flour
 
 **The Generational Blessing: How God's Perfect Love Builds Flourishing Across Generations**
 
-**First Generation:** Children raised in truth, justice, mercy, covenant. Learn authentic love from parents who model it. Formed in virtue through family as domestic church. Result: Healthy, whole persons ready to build their own families.
+**First Generation:** Children raised in truth, justice, mercy and sacrifice, within a covenant family. Learn authentic love from parents who model it. Formed in virtue through family as domestic church. Result: Healthy, whole persons ready to build their own families.
 
 **Second Generation:** First generation children become parents who know how to love. Pass on authentic love to their children. Build strong families that strengthen community. Result: Virtuous cycle of flourishing families.
 
-**Third Generation and Beyond:** Multiple generations of strong families transform society. Common good built through countless acts of sacrificial love. Culture that protects children, honors families, seeks truth. Consider the Kolbe family. St. Maximilian's parents modeled sacrificial faith — his father Julius died fighting for Poland's independence, and his mother Maria served the poor as a midwife before both entered religious life. Their son Maximilian gave his life for a stranger at Auschwitz, and his witness has inspired countless families since to embrace heroic love. Result: Civilization of love.
+**Third Generation and Beyond:** Multiple generations of strong families transform society. Common good built through countless acts of sacrificial love. Culture that protects children, honors families, seeks truth. Consider the Kolbe family. St. Maximilian's parents modeled sacrificial faith: Julius and Maria had both hoped to enter religious life as young people, but their families arranged their marriage instead; the couple raised their sons as Franciscan tertiaries, and the religious vocation the parents gave up was fulfilled through their sons — all three of whom became friars. Their son Maximilian gave his life for a stranger at Auschwitz, and his witness has inspired countless families since to embrace heroic love. Result: Civilization of love.
 
 <div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
 Counterfeit love creates generational destruction. God's Perfect Love creates generational flourishing.

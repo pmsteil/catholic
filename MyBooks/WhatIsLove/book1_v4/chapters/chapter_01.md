@@ -22,7 +22,7 @@ A young woman aborts her third child. She's exhausted, already stretched thin be
 
 A school counselor meets a thirteen-year-old girl who is miserable, isolated, and hinting at self-harm. The counselor has been trained that gender confusion is real, that affirmation saves lives, and that unsupportive parents are a danger—not a resource. He genuinely believes he is protecting this child. So he affirms the girl's new identity and keeps it from her parents. He is not malicious. He is following a framework that has convinced an entire generation of professionals that dismantling the parent-child bond is compassion. The child goes home with a secret her family isn't allowed to share.
 
-A community organizer has watched her neighborhood hollowed out for decades—unemployment, bad schools, kids with no future. She has seen real racism. She has buried real victims. When she points to systemic oppression as the cause, she isn't making excuses—she's fighting for people she loves within the framework she knows. But that framework never names fatherlessness. It never asks why sixty percent of Black children are growing up without a father in the home.⁴ It never challenges the policies that made single motherhood financially rational and marriage economically punishing. She is fighting hard for her community—with a map that leaves out half the terrain.
+A community organizer has watched her neighborhood hollowed out for decades—unemployment, bad schools, kids with no future. She has seen real racism. She has buried real victims. When she points to systemic oppression as the cause, she isn't making excuses—she's fighting for people she loves within the framework she knows. But that framework never names fatherlessness. It never asks why 47 to 50 percent of Black children are growing up without a father in the home.⁴ It never challenges the policies that made single motherhood financially rational and marriage economically punishing. She is fighting hard for her community—with a map that leaves out half the terrain.
 
 These aren't statistics—they're souls crying out in the darkness. Truth has become flimsy and negotiable and a matter of personal preference.
 
@@ -120,7 +120,7 @@ Sin never stays contained. Every sinful choice ripples outward for generations.
 Sin never stays private—it ripples through families, communities, and generations.
 </div>
 
-The Church takes sin seriously not because God is harsh, or judgemental, but because sin destroys what we're made for—communion with God and neighbor. Sin damages us. It causes pain. It causes suffering. It causes death. And as we now see plainly, the further we get away from these truths, the worse it gets.
+The Church takes sin seriously not because God is harsh, or judgmental, but because sin destroys what we're made for—communion with God and neighbor. Sin damages us. It causes pain. It causes suffering. It causes death. And as we now see plainly, the further we get away from these truths, the worse it gets.
 
 <div class="blockquote">
 "Sin is before all else an offense against God, a rupture of communion with him. At the same time it damages communion with the Church."

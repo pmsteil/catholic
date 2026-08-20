@@ -138,7 +138,7 @@ We'll journey together through these chapters:
 
 "Test everything; hold fast what is good." (1 Thessalonians 5:21)
 
-**Chapter 11: Prudence — How to Love** - Knowing the four facets of love is not yet knowing what to *do* when a real person stands in front of you; prudence is the cardinal virtue of application—the "charioteer of the virtues" that holds truth, justice, mercy, and sacrifice together as a single act—modeled on the father of the Prodigal Son, who neither affirms the far country nor bolts the door, and learned not by our own cleverness but received on our knees as a gift of the Holy Spirit.
+**Chapter 11: Prudence — How to Love** - Knowing the four facets of love is not yet knowing what to *do* when a real person stands in front of you; prudence is the cardinal virtue of application—the "charioteer of the virtues" that holds truth, justice, mercy and sacrifice together as a single act—modeled on the father of the Prodigal Son, who neither affirms the far country nor bolts the door, and learned not by our own cleverness but received on our knees as a gift of the Holy Spirit.
 
 **Chapter 12: The Law of Love Requires a Lawgiver** - Each facet of love reveals objective moral truth that cannot be reduced to evolutionary programming or cultural convention; demonstrates that if love exists as an objective law with universality, binding force, and perfect integration, it requires a lawgiver. This section of the book shows how the definition of love is true through different ways of proving it.
 

@@ -248,7 +248,7 @@ The Catholic faith is, at its deepest level, a voluntary submission to what is *
 
 And this is why the division of Christians into rival communions is itself a wound against truth. On the night before He died, Christ did not pray that His disciples would agree to disagree. He prayed *"that they may all be one... so that the world may believe that thou hast sent me"* (John 17:21). Unity in truth is not institutional tidiness; it is the sign Christ Himself chose to give the world that He was sent by the Father. A divided Christianity preaches a divisible Christ; a divisible Christ preaches a divisible truth; and a divisible truth is precisely the lie the evil one and the world most wants to believe. Submitting to the one Church Christ founded is not tribalism and it is not mere preference — it is obedience to the prayer of Jesus, and it is how the world is drawn toward its salvation. Every Christian who submits more fully to the truth Christ entrusted to His Church participates in that answer to His prayer; every refusal to do so, however well-intentioned, extends the wound. The unity of those sanctified in truth is not a program the Church runs — it is the visible shape of salvation in a watching world.
 
-The Church's authority, then, serves not truth alone but the integration of truth with justice, mercy, and sacrifice — the whole of God's love bound together. Her authority is itself an expression of that love (as we saw in Chapter 5, and as Chapter 10 will reveal fully in the Eucharist).
+The Church's authority, then, serves not truth alone but the integration of truth with justice, mercy and sacrifice — the whole of God's love bound together. Her authority is itself an expression of that love (as we saw in Chapter 5, and as Chapter 10 will reveal fully in the Eucharist).
 
 ## Do You Want the Truth?
 
@@ -256,7 +256,7 @@ Think of the worst lie ever told to you — the one you believed, and built on, 
 
 Human truth, even at its sharpest, can name facts, expose lies, and map the world — but it cannot, of itself, reach the realities your whole life rests on: who God is, who you are, and what you were made for. God's Truth is not a proposition you master; it is a Person you kneel before and give yourself to — and who heals you as He reveals Himself.
 
-**Will you accept the Truth who is bound inseparably to justice, mercy, and sacrifice — or settle for facts you can possess and still die clutching?**
+**Will you accept the Truth who is bound inseparably to justice, mercy and sacrifice — or settle for facts you can possess and still die clutching?**
 
 Then **receive** Him, **submit** your own judgments to His, **learn** Him until you can tell truth from its counterfeits at sight, and **speak** Him — without flinching and without cruelty — into every room you enter.
 

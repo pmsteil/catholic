@@ -118,7 +118,7 @@ The Catechism teaches: "God is eternal blessedness, undying life, unfading light
 The Trinity reveals that love is not something God does—it's who God is. From all eternity, God exists as perfect self-giving communion. All authentic human love is participation in this eternal divine exchange.
 </div>
 
-This is why love is sacred—and why it has the characteristics it does. Love requires sacrifice (complete self-gift) because the Trinity is eternal self-giving. Love creates covenant (permanent relationship) because the Father, Son, and Spirit are eternally bound in perfect communion. Love binds together (truth, justice, mercy, and sacrifice held as one) because the Father's justice, the Son's sacrifice, and the Spirit's mercy are not in tension — in the Trinity, distinct roles exist in eternal, undivided unity. Love generates communion (the Spirit as fruit of love) because divine love is eternally fruitful. These aren't arbitrary requirements we impose on love—they reflect how love exists eternally in God's own nature.
+This is why love is sacred—and why it has the characteristics it does. Love requires sacrifice (complete self-gift) because the Trinity is eternal self-giving. Love creates covenant (permanent relationship) because the Father, Son, and Spirit are eternally bound in perfect communion. Love binds together (truth, justice, mercy and sacrifice held as one) because the Father's justice, the Son's sacrifice, and the Spirit's mercy are not in tension — in the Trinity, distinct roles exist in eternal, undivided unity. Love generates communion (the Spirit as fruit of love) because divine love is eternally fruitful. These aren't arbitrary requirements we impose on love—they reflect how love exists eternally in God's own nature.
 
 Love is sacred because it participates in the eternal life of the Trinity—the perfect communion of Father, Son, and Holy Spirit. When we love authentically, we're not just performing a human action. We're sharing in God's own life, touching the eternal, acting in harmony with the deepest structure of reality itself.
 
@@ -132,13 +132,7 @@ Notice the precision of Scripture's language. It doesn't say "God loves" or "God
 When Scripture declares "God is love," it's not saying God has love or does love—it's revealing that love is the very essence of God's being. Every act of authentic love participates in the divine nature itself.
 </div>
 
-This changes everything. If God IS love, then His Perfect Love:
-
-- preceded the universe—it is not a product of evolution
-- is eternal and unchanging—it is not subject to cultural shifts
-- has objective content—not whatever we decide it means
-- is personal—flowing from a Person, not an impersonal force
-- is the ultimate reality—more fundamental than matter, energy, or time
+This changes everything. If God IS love, then His Perfect Love preceded the universe—it is not a product of evolution. It is eternal and unchanging—not subject to cultural shifts. It has objective content—not whatever we decide it means. It is personal, flowing from a Person, not an impersonal force. And it is the ultimate reality—more fundamental than matter, energy, or time.
 
 When we love authentically, we're not just being nice or following social norms. We're participating in the very life of God.
 
