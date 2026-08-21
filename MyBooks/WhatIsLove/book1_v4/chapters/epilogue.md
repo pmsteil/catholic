@@ -11,9 +11,11 @@ Beloved, let us love one another; for love is of God, and he who loves is born o
 
 That is the passage that changed my entire life — the one I read on a retreat in Panama, at nineteen. I knew immediately it was true. I didn't know exactly what it meant. So I prayed that God would teach me.
 
-It took thirty-seven years — as a husband, father, and teacher of the faith — and my return to the Catholic Church, whom the Holy Spirit has led into all truth, before I could finally put it into the words you are reading now.
+It took thirty-seven years — as a husband, father, and teacher of the faith — and my return to the Catholic Church, before I could finally put it into the words you are reading now.
 
 I am thankful to my Lord Jesus, who instituted His Church so that, generation after generation for two thousand years, she could hand down to you and to me exactly what it means to love Him with our whole heart, mind, soul, and strength, and to truly love our neighbor and ourselves in all truth, justice, mercy and sacrifice.
+
+And He did more than give us a Church. On the night before He died, He made her a promise: "When the Spirit of truth comes, he will guide you into all the truth" (John 16:13) — all of it, not only the portion that would one day be bound between the covers of a book. He has not broken that promise. Century after century, her saints, doctors, and councils have wrestled with what "God is love" means and what it asks of us, and she has not drifted from His love — she has been led deeper into it. She even tells you, at the very front door of her Catechism, what the whole of it is for — the love that never ends (CCC 25). Every doctrine, every commandment, every page of salvation history aims at love, because every one of them comes from Love. We know His love more deeply today than any generation before us, not because we are wiser, but because He is faithful. Everything this book teaches is drawn from that well.
 
 She did not invent any of it. To teach what is real is to teach truth; to teach truth is to teach love; and to teach love, in the end, is only ever to teach God.
 
