@@ -66,7 +66,7 @@ Every form of evil assaults what we're made for—and sin is its root.
 
 Here you might rightly ask: "If God is all-good and all-powerful, why does He allow so much evil?" This is the oldest question in theology—and the Church does not flinch from it.
 
-**God permits evil because He will not create slaves.** The Catechism is direct: "God willed to leave man 'in the hand of his own counsel' (Sirach 15:14), so that he might of his own accord seek his Creator and freely attain his full and blessed perfection by cleaving to him" (CCC 311). Freedom is not a bug in God's design—it is the entire point. Love that is coerced is not love. Obedience extracted by force is not virtue. God wanted sons and daughters, not robots.
+**God permits evil because He will not create slaves.** The Catechism is direct: "God willed that man should be 'left in the hand of his own counsel,' so that he might of his own accord seek his Creator and freely attain his full and blessed perfection by cleaving to him" (CCC 1730, citing Sirach 15:14). Freedom is not a bug in God's design—it is the entire point. Love that is coerced is not love. Obedience extracted by force is not virtue. God wanted sons and daughters, not robots.
 
 **And here is the logic the skeptic refuses to face:** There is no freedom to choose good without the freedom to choose evil. You cannot have one without the other. The moment God creates a being capable of genuine love, He creates a being capable of genuine rejection. To demand a world without evil is to demand a world without freedom—which is to demand a world without love.
 
@@ -76,7 +76,7 @@ Here you might rightly ask: "If God is all-good and all-powerful, why does He al
 
 St. Augustine saw this clearly: "Almighty God... because he is supremely good, would never allow any evil whatsoever to exist in his works if he were not so all-powerful and good as to cause good to emerge even from evil" (CCC 311). God's permission of evil is not weakness or indifference—it is the confidence of a Father who can redeem everything. The Cross is the proof: God did not prevent the greatest evil in history (the murder of His innocent Son) precisely because through it He accomplished the greatest good (the salvation of the world).
 
-This doesn't make evil good. It doesn't minimize suffering. But it exposes the complaint as incoherent: you cannot demand God eliminate evil while preserving freedom. And here's the uncomfortable truth: the one who shakes his fist at God over the existence of evil and even suffering need look no further than his own heart to find its source—and its solution. Before we blame God for the state of the world, perhaps the better question is: how have *I* abused the freedom I have been given?
+This doesn't make evil good. It doesn't minimize suffering. But it exposes the complaint as incoherent: you cannot demand God eliminate evil while preserving freedom. And here's the uncomfortable truth: the one who shakes his fist at God over the evil men do need look no further than the human heart—his own included—to find its source, and its solution. Before we blame God for the state of the world, perhaps the better question is: how have *I* abused the freedom I have been given? (The suffering no human choice explains—the illness, the accident, the child's disease—is another matter, and Chapter 2 will face it honestly.)
 
 ## Sin: The Root of All Evil
 

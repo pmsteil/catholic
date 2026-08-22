@@ -24,7 +24,7 @@ Everything we've explored—love's objectivity, its binding demands, its sacred 
 
 *How do we know God exists?* If love is truly a law—as universal and binding as the law of gravity—how do we know it's not just evolutionary programming or cultural convention?
 
-It's a fair question. And here is the remarkable answer: the very definition of love we've been exploring *provides the proof*. This chapter presents the **moral argument**: if love exists as an objective law with the characteristics we've discovered, it requires a lawgiver. We don't have to assume God to begin—we can reason our way to God from the reality of love itself.
+It's a fair question. And here is the remarkable answer: the very definition of love we've been exploring *provides the argument*. This chapter presents the **moral argument**: if love exists as an objective law with the characteristics we've discovered, it requires a lawgiver. We don't have to assume God to begin—we can reason our way to God from the reality of love itself.
 
 ## The Moral Argument: Classic Form
 
@@ -40,19 +40,11 @@ Let's examine each premise.
 
 Without God, morality becomes subjective—a matter of personal preference, cultural convention, or evolutionary accident.
 
-Without God, morality gets reduced to some non-moral explanation: brain chemistry (**materialism**), adaptive instincts (**evolutionary psychology**), tribal convention (**cultural relativism**), or outcome-calculation (**utilitarianism**). Each can explain why we *feel* moral pressure, but none can make moral obligations objectively real—and each can be, and has been, used to justify atrocities if “the program,” “the tribe,” “the majority,” or “the powerful” demands it.
+Without God, morality gets reduced to some non-moral explanation: brain chemistry (**materialism**), adaptive instincts (**evolutionary psychology**), tribal convention (**cultural relativism**), or outcome-calculation (**utilitarianism**). Each can explain why we *feel* moral pressure, but none can make moral obligations objectively real—and each can be, and has been, used to justify atrocities if “the program,” “the tribe,” “the majority,” or “the powerful” demands it. And the evolutionary storyteller faces a mirror he rarely checks: the brain telling that story was built by the same blind process he says cannot be trusted about right and wrong. The trust he keeps for his reasoning and withdraws from his conscience is a choice, not a finding.
 
 Without God, every attempt to ground objective morality fails. This is why every attempt to build morality on human reason *divorced from God* collapses—reason was never the problem (natural law is reason-based), but reason cut off from its transcendent source has nothing to stand on.
 
-This is the full philosophical weight of what we called the *dictatorship of relativism* in Chapter 5 and traced through each pillar in Chapters 6–9. On the eve of the election of Pope Benedict XVI, Cardinal Ratzinger named the endpoint with precision:
-
-<div class="blockquote">
-"We are moving toward a dictatorship of relativism which does not recognize anything as definitive and whose ultimate goal consists solely of one's own ego and desires."
-
-\hfill\small — Cardinal Joseph Ratzinger, Homily, *Pro Eligendo Romano Pontifice* (April 18, 2005)
-</div>
-
-Benedict's point is not a mood but a logical claim: once objective moral truth is denied, no principled line can be drawn against tyranny. Sentiment, consensus, and utility can all *feel* like standards, but when they conflict — and they always do — nothing arbitrates except force. Relativism is not the absence of a ruler; it is the ruler's disguise. St. John Paul II traced the same line, and named its cost, a decade earlier:
+This is the full philosophical weight of what we called the *dictatorship of relativism* in Chapter 5 and traced through each pillar in Chapters 6–9—Cardinal Ratzinger's warning, on the eve of his election as Benedict XVI, of a relativism "which does not recognize anything as definitive and whose ultimate goal consists solely of one's own ego and desires" (the homily Chapter 5 quotes in full). His point is not a mood but a logical claim: once objective moral truth is denied, no principled line can be drawn against tyranny. Sentiment, consensus, and utility can all *feel* like standards, but when they conflict — and they always do — nothing arbitrates except force. Relativism is not the absence of a ruler; it is the ruler's disguise. St. John Paul II traced the same line, and named its cost, a decade earlier:
 
 <div class="blockquote">
 "When the sense of God is lost, the sense of man is also threatened… any reference to common values and to a truth absolutely binding on everyone is lost, and social life ventures onto the shifting sands of complete relativism. Everything is negotiable, everything is open to bargaining: even the first of the fundamental rights, the right to life."
@@ -82,7 +74,7 @@ The comprehensive nature of authentic love—requiring truth, justice, mercy, sa
 
 Every facet of love reveals objective moral truth.
 
-The crucial question: If these facets are built into us—if even atheists cannot deny their pull—how did they get there? We didn't invent them. We discovered them. You can't have objective moral truth written on human hearts without an 'author' who did the writing. You can't have a law without a lawgiver.
+The crucial question: If these facets are built into us—if even atheists cannot deny their pull—how did they get there? We did not invent them. We discovered them—the way we discovered the laws that hold the stars together and the mathematics our minds are uncannily fitted to read: already there, already binding, waiting to be found. And the moral law does not stand alone. It is one layer of a law-laden universe, and to refuse the Lawgiver you must explain away every layer of that order at once; to recognize Him is to find that all of it, together, finally makes sense. Then notice what this last layer adds that the others cannot. Gravity binds bodies, and mathematics binds quantities—and neither ever asked our consent. But look at what *this* law holds out to us: truth spoken, justice rendered, mercy extended, sacrifice paid. It is not imposed the way gravity is imposed; it is a gift—a law that becomes real in us only when it is freely and humbly received. Every clause of it is something only a person can do, and only for a person—and a gift can only come from a Giver. An impersonal ground might explain a law of things; it cannot explain a law whose entire content is love.
 
 ### Conclusion: Therefore, God Exists
 
@@ -100,13 +92,13 @@ Love flows from God's nature—not arbitrary commands but the blueprint of reali
 
 Only God can ground the objective moral order we've discovered. Love requires a personal source—only a personal God grounds personal obligations. It needs an eternal foundation—only an eternal God grounds eternal truths. It demands infinite authority—only an infinite God creates universal obligations. It requires perfect integration and a sacred origin—which only God can source.
 
-The comprehensive nature of authentic love—its integration of multiple objective requirements, its universal binding force, its eternal truth, its sacred character—points unmistakably to God as its source.
+The comprehensive nature of authentic love—its integration of multiple objective requirements, its universal binding force, its eternal truth, its sacred character—points to God as its source, and to nothing else that can bear the weight.
 
-And here St. Thomas Aquinas hands us one more treasure, in a single sentence: our love "is not the cause of the goodness of things... whereas the love of God infuses and creates goodness" (*Summa Theologiae* I, q.20, a.2). Read that again. Your love responds to goodness—you love your child because she is precious. God's love *creates* goodness—your child is precious because His love called her into being and holds her in being right now. Her dignity is truly her own, woven into what she is: rational, free, made for communion with Him. And it is truly a gift, because what she is, is His gift. This is why the Church can teach that every person's dignity "is not conferred subsequently... it is prior to any recognition, and it cannot be lost" (*Dignitas Infinita*, 15). No one bestowed it on her—not her parents, not the state, not even her own achievements—and so no one can revoke it. The Love that grounds her worth is not anyone's opinion of her. It is the creative Love that is the reason there is a *her* at all.
+And here St. Thomas Aquinas hands us one more treasure, in a single sentence: our love "is not the cause of the goodness of things... whereas the love of God infuses and creates goodness" (*Summa Theologiae* I, q.20, a.2). Read that again. Your love responds to goodness—you love your child because she is precious. God's love *creates* goodness—your child is precious because His love called her into being and holds her in being right now. His love is not an opinion about her that could have been otherwise; it is the act by which there is a *her* at all. Creatures confer value on what they find; the Creator's love is why there is anything to find. Her dignity is truly her own, woven into what she is: rational, free, made for communion with Him. And it is truly a gift, because what she is, is His gift. This is why the Church can teach that every person's dignity "is not conferred subsequently... it is prior to any recognition, and it cannot be lost" (*Dignitas Infinita*, 15). No one bestowed it on her—not her parents, not the state, not even her own achievements—and so no one can revoke it. The Love that grounds her worth is not anyone's opinion of her. It is the creative Love that is the reason there is a *her* at all.
 
 ## The Atheist's Dilemma
 
-Atheists face three options: (1) Deny objective morality outright—a position almost no one can hold consistently, since the same person who denies it still cries "That's not fair!" the moment he is wronged; (2) Affirm objective morality without God—incoherent, wanting the fruit without the root; (3) Redefine morality—explaining why we *believe* things are right or wrong without showing they actually *are*.
+Atheists face three options: (1) Deny objective morality outright—but the denial refutes itself in the speaking, for this skeptic tells us we *ought* not to believe in oughts; and the same man who denies the moral law still cries "That's not fair!" the moment he is wronged—not because his theory slipped, but because the law he denies is written deeper than his theory; (2) Affirm objective morality without God—incoherent, wanting the fruit without the root; (3) Redefine morality—explaining why we *believe* things are right or wrong without showing they actually *are*. The noblest of these attempts deserves naming: it argues that whoever values anything must value the human capacity for valuing itself. And it proves something real—that we cannot help *treating* ourselves as precious. But a necessity of our practice is not yet a truth about the world; only a ground outside the practice can close that gap.
 
 Every time an atheist says "That's wrong!" they're providing evidence for God's existence—appealing to an objective moral standard they can't ground.
 
@@ -128,7 +120,7 @@ The way love integrates truth, justice, mercy, sacrifice, covenant, life-giving,
 
 ## From Moral Argument to Personal Encounter
 
-For those who live authentically—experiencing love's objective requirements and perfect integration—God's existence becomes undeniable. As St. Paul writes, God's "invisible nature, namely, his eternal power and deity, has been clearly perceived in the things that have been made" (Romans 1:20).
+For those who live authentically—experiencing love's objective requirements and perfect integration—God stops looking like a hypothesis and starts looking like the ground they have been standing on all along. As St. Paul writes, God's "invisible nature, namely, his eternal power and deity, has been clearly perceived in the things that have been made" (Romans 1:20).
 
 Yet some still don't believe—not because the evidence is insufficient, but because "they suppress the truth" (Romans 1:18). Atheism requires us to believe that objective moral truth emerged from mindless matter, that universal obligations arose from evolutionary accidents. When you weigh it honestly, that takes far more faith than belief in God ever could—faith placed in something with no power to explain the very thing it asks us to accept.
 

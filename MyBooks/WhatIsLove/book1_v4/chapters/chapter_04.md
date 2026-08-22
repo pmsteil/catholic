@@ -46,7 +46,7 @@ No words need to follow. The action itself speaks louder than anything that coul
 
 Consider what a child *assumes* about family before anyone teaches them anything. A child doesn't hope their parents will stay together—they assume it. Mother and father together isn't a wish or a preference—it's the default, the given, the foundation upon which their entire world is built. It would never occur to a child that parents could separate—unless society has already normalized it, unless they've seen it happen to friends, unless the unthinkable has become thinkable.
 
-This is remarkable: children instinctively know that their parents' union is permanent. No one teaches them this. They don't learn it from books or conversations. They know it because covenant permanence is written on the human heart. They know it because their parents—united in one flesh—are meant to image God's own covenant love. They know it because it is intertwined with the most basic truth that their existence originated through Mommy and Daddy. Breaking the marriage rips out this most fundamental ground and origin of their existence.
+This is remarkable: children instinctively assume that their parents' union is permanent. No one teaches them this. They don't learn it from books or conversations. It is the same witness we met in Chapter 3—not a proof, but a testimony—and what it testifies to is covenant permanence written on the human heart. They know it because their parents—united in one flesh—are meant to image God's own covenant love. They know it because it is intertwined with the most basic truth that their existence originated through Mommy and Daddy. Breaking the marriage rips out this most fundamental ground and origin of their existence.
 
 And when that covenant breaks? When the unthinkable becomes real? The child's world doesn't just change—it crumbles. The foundation they stood on gives way beneath their feet.
 
@@ -68,9 +68,9 @@ This isn't oppression—it's freedom. The freedom of knowing someone is committe
 
 But what IS freedom? Our culture has it backwards.
 
-Pope Saint John Paul II taught that **"freedom exists for love, not for autonomy."** Our culture says freedom means no commitments, no obligations. "I can do whatever I want". But that's isolation, not freedom. Culture says freedom begins and ends with me. "I" can do whatever "I" want. What is important is me.
+Karol Wojtyła—the future Pope Saint John Paul II—taught that **"freedom exists for the sake of love"** (*Love and Responsibility*), not for autonomy. Our culture says freedom means no commitments, no obligations. "I can do whatever I want". But that's isolation, not freedom. Culture says freedom begins and ends with me. "I" can do whatever "I" want. What is important is me.
 
-True freedom is the capacity to give yourself totally to another. As John Paul II wrote, "Man cannot fully find himself except through a sincere gift of himself." Covenant doesn't restrict freedom—it fulfills it.
+True freedom is the capacity to give yourself totally to another. As the Second Vatican Council taught—in a line John Paul II never tired of quoting—man "cannot fully find himself except through a sincere gift of himself" (*Gaudium et Spes* 24). Covenant doesn't restrict freedom—it fulfills it.
 
 ## The Biblical Pattern: God's Covenant Love
 
@@ -134,7 +134,9 @@ If humans are the source of morality, which humans decide? Ancient Rome thought 
 
 And imposed morality inevitably escalates. First come laws, then coercion, then elimination of dissenters—because if there's no transcendent truth, only power determines who's right, and power must silence opposition to maintain control.
 
-This is why the regimes that set out to ground morality in human power rather than divine truth drowned the last century in blood. Soviet communism: 20 million dead. Chinese communism: 45 million. And Nazi Germany—which dethroned the living God to enthrone race and state—11 million more. The gulags and killing fields are what happens when humans fabricate justice without God's authority.
+This is why the regimes that set out to ground morality in human power rather than divine truth drowned the last century in blood. Soviet communism: 20 million dead. Chinese communism: 45 million. And Nazi Germany—which dethroned the living God to enthrone race and state—11 million more.[^2] The gulags and killing fields are what happens when humans fabricate justice without God's authority.
+
+[^2]: Soviet figure: Stéphane Courtois et al., *The Black Book of Communism* (Harvard University Press, 1999). Chinese figure: Frank Dikötter, *Mao's Great Famine* (Bloomsbury, 2010) — some 45 million deaths in the Great Leap Forward alone, a deliberately conservative anchor since it counts a single campaign. Nazi figure: United States Holocaust Memorial Museum — six million Jews and some five million other victims of systematic killing.
 
 The wages of sin truly are death.
 
@@ -144,7 +146,7 @@ By contrast, God reveals truth about reality and human flourishing. When we volu
 
 Think about a parent telling a toddler not to touch the hot stove. The parent's authority flows from genuine knowledge of what's good for the child. God's authority works the same way—infinitely more so. **True authority wants what's genuinely good for us and invites free submission. False authority wants what's good for those in power and demands forced compliance.** Our age has lost this distinction by melding two words it now treats as one: *authoritative* and *authoritarian*. They are in fact opposites. Authority that is *authoritative* earns our recognition because it is true and wills our good, and so it invites our submission rather than compelling it; authority that is merely *authoritarian*, having no truth of its own to win the heart, can only compel the body by force—precisely because it cannot win the soul.
 
-**This is why authentic Christian movements have never *needed* to impose morality through force.** The earliest saints gave their lives as witness, showing that true freedom comes from voluntarily aligning with divine truth. True authority liberates. False authority enslaves. Christianity can never be forced upon someone because that goes against the nature of God's gift of covenant love.
+**This is why the Gospel has never *needed* force.** The earliest saints gave their lives as witness, showing that true freedom comes from voluntarily aligning with divine truth. And where Christians themselves have reached for the sword to impose what can only be freely received—and across twenty centuries, at times, they have—they were sinning against this very truth, not applying it. The Gospel's founding witnesses bled rather than making others bleed; every departure from that pattern is a departure from Christ. True authority liberates. False authority enslaves. Christianity can never be forced upon someone, because force is contrary to the very nature of God's gift of covenant love.
 
 **The Piano Analogy:**
 

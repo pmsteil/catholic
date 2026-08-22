@@ -171,7 +171,7 @@ This is the scandal of the Gospel: God's mercy is greater than any sin. "Where s
 <div class="blockquote">
 "Every person therefore is invited to 'repent' and to 'believe' in God's merciful love."
 
-\hfill\small — Pope Leo XIV, Address to the Roman Curia (Nov. 21, 2025)
+\hfill\small — St. John Paul II<sup>1</sup>
 </div>
 
 This is why the Sacrament of Reconciliation is so powerful for those who have committed grave evil. It's not just human forgiveness—it's God's own mercy, made present through Christ's Church that He gave authority to forgive sins (see John 20:21-23; Acts 2:38), offering what no human could offer: complete forgiveness, total restoration, supernatural healing through the priest speaking in the person of Christ: "I absolve you from your sins in the name of the Father, and of the Son, and of the Holy Spirit." And the person who thought themselves beyond redemption discovers that God's mercy is greater than their sin.
@@ -274,7 +274,7 @@ The Church has long read these torturers in two registers at once. At the final 
 
 So this is not merely a warning about damnation at the end of time. It is a diagnosis of a wound already underway. Mercy taken for granted is mercy revoked, and into the vacated space three occupants arrive almost without announcement. A soul rarely notices them at first; they feel, for a while, like *righteousness*, like *strength*, like *realism*. They are none of those things. They are the torturers — cruelty, vengeance, and despair — and each belongs to the Church's oldest vocabulary for moral failure. They take up residence so quietly that the person harboring them is often the last to know.
 
-**Cruelty** is what love becomes when a heart hardens around a grievance. Aquinas named it as the vice directly opposed to mercy (*Summa Theologiae* II-II, q.159) — not mere anger or error, but the deliberate refusal to be moved by another's suffering. Cruelty takes what truth and justice have rightly revealed and turns them into weapons: it defines a person by their worst moment, closes every door to restoration, and calls the closing righteous. It is the spirit of the unforgiving servant after his master had just released him from an unpayable debt — seizing a fellow servant by the throat for a handful of pennies (Matthew 18:28). Where mercy would have recognized a fellow debtor, cruelty sees only a target.
+**Cruelty** is what love becomes when a heart hardens around a grievance. Aquinas named it as the vice opposed to clemency, mercy's sister virtue<sup>2</sup> — not mere anger or error, but the deliberate refusal to be moved by another's suffering. Cruelty takes what truth and justice have rightly revealed and turns them into weapons: it defines a person by their worst moment, closes every door to restoration, and calls the closing righteous. It is the spirit of the unforgiving servant after his master had just released him from an unpayable debt — seizing a fellow servant by the throat for a handful of pennies (Matthew 18:28). Where mercy would have recognized a fellow debtor, cruelty sees only a target.
 
 **Vengeance** is what justice becomes when mercy is not allowed to complete it. The wound is real and the debt is real — but the heart refuses release. Every offense must be paid back with interest. Every slight is rehearsed. Every memory is kept sharp for the next blow. Christ breaks the ancient logic at its root: *"You have heard that it was said, 'An eye for an eye and a tooth for a tooth.' But I say to you, Do not resist one who is evil"* (Matthew 5:38–39). St. Paul names the reason: *"Beloved, never avenge yourselves, but leave it to the wrath of God... Do not be overcome by evil, but overcome evil with good"* (Romans 12:19, 21). Vengeance usurps what belongs to God alone and perpetuates the very evil it claims to punish. This is why the Parable of the Unforgiving Servant ends in torment (Matthew 18:34): the servant who refused mercy did not merely fail to love his brother — he placed himself outside the reach of the very mercy he had already received.
 
@@ -283,9 +283,9 @@ So this is not merely a warning about damnation at the end of time. It is a diag
 Cruelty, vengeance, and despair are the three faces of a love that will not forgive — one hardened against the neighbor, one armed against him, and one turned inward against the self. They are the torturers Christ named. And once they take up residence, they do not stay contained within the one heart that harbors them. The cruel man wounds his children. The vengeful woman poisons her friendships. The despairing soul pulls others into the darkness it can no longer escape on its own. This is how the evil of our unforgiveness permeates the world: not usually through dramatic acts of wickedness, but through the quiet, daily radiation of a heart that has refused the mercy it was given and now carries its own small hell wherever it goes.
 
 <div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
-<p><strong>Love without mercy becomes cruelty</strong> — truth and justice become weapons that define people by their worst moments and close the door on restoration.<sup>1</sup></p>
-<p><strong>Love without mercy becomes vengeance</strong> — every wrong demands permanent punishment; cycles of retaliation never end; no one can be restored.<sup>2</sup></p>
-<p><strong>Love without mercy produces despair</strong> — without the possibility of redemption, the only response to one's own sinfulness is hopelessness. The Gospel itself becomes impossible.<sup>3</sup></p>
+<p><strong>Love without mercy becomes cruelty</strong> — truth and justice become weapons that define people by their worst moments and close the door on restoration.<sup>2</sup></p>
+<p><strong>Love without mercy becomes vengeance</strong> — every wrong demands permanent punishment; cycles of retaliation never end; no one can be restored.<sup>3</sup></p>
+<p><strong>Love without mercy produces despair</strong> — without the possibility of redemption, the only response to one's own sinfulness is hopelessness. The Gospel itself becomes impossible.<sup>4</sup></p>
 </div>
 
 The only way to evict the torturers is the way the unforgiving servant refused: to extend, from a grateful heart, the mercy we ourselves have already received. **Mercy kept is mercy revoked; mercy given away is mercy kept.** Every time we receive it and pass it on, we choose communion over condemnation — and good triumphs, quietly and steadily, over the evil within us before it can keep spreading into the world around us.
@@ -325,6 +325,7 @@ Mercy always comes at a cost — and that cost is sacrifice. In Chapter 9, we tu
 
 ### Notes
 
-1. St. Thomas Aquinas, *Summa Theologiae* II-II, q.159 (cruelty as the vice directly opposed to mercy); *Catechism of the Catholic Church*, §2447.
-2. Matthew 18:23-35 (Parable of the Unforgiving Servant); James 2:13; *Catechism of the Catholic Church*, §2303.
-3. *Catechism of the Catholic Church*, §2091; Pope John Paul II, *Dives in Misericordia* (1980), §4.
+1. St. John Paul II, *Redemptoris Missio* (1990), §13.
+2. St. Thomas Aquinas, *Summa Theologiae* II-II, q.159 (cruelty as the vice opposed to clemency, the virtue that tempers punishment as mercy tempers judgment); *Catechism of the Catholic Church*, §2447.
+3. Matthew 18:23-35 (Parable of the Unforgiving Servant); James 2:13; *Catechism of the Catholic Church*, §2303.
+4. *Catechism of the Catholic Church*, §2091; Pope John Paul II, *Dives in Misericordia* (1980), §4.

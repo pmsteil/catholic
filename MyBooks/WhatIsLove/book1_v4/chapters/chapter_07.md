@@ -253,7 +253,7 @@ We opened this chapter by naming **two** opposing sins — **idolatry** (the wit
 <p><strong>Idolatry</strong> — making gods of creatures (money, sex, nation, self, a false conception of god) in place of the living God (CCC 2113; Exodus 20:3–5).</p>
 <p><strong>Sacrilege and profanation of the sacred</strong> — worship on our terms rather than God's; dishonoring what is holy (CCC 2120; Aquinas, <em>Summa Theologiae</em> II-II, q.99).</p>
 <p><strong>Functional atheism</strong> — a life that behaves as if God is owed nothing; practical denial of the ordered creation that testifies to Him at every turn (CCC 2128; Romans 1:20).</p>
-<p><strong>Syncretism</strong> — <em>"all religions worship the same God"</em>; denying God His specificity and His self-revelation (CCC 2114; <em>Dominus Iesus</em> §§21–22).</p>
+<p><strong>Indifferentism</strong> — <em>"every religion is as good a path as any other"</em>; treating God's own self-revelation as optional — the shrug that flattens the One who revealed Himself into every idea anyone has ever had of Him (CCC 2114; <em>Dominus Iesus</em> §§21–22).</p>
 <p><strong>Presumption</strong> — demanding God's mercy while refusing God's due of repentance, worship, and obedience (CCC 2091–2092; John Paul II, <em>Dives in Misericordia</em> §12).</p>
 </div>
 

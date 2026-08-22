@@ -66,7 +66,7 @@ This isn't naivety—it's moral clarity. Children recognize what adults often fo
 
 When we teach children that love is just a feeling, or that marriage is just a contract you can break, or that commitment is optional—we're not enlightening them. We're corrupting their natural understanding of love's sacred nature. We're teaching them to desecrate what they instinctively knew was holy.
 
-Let me be honest about what this witness proves, though. By itself, nothing—yet. The materialist can re-describe everything in this section in the language of attachment and bonding, and a child's tears do not refute him. What the child gives us is not a proof but a testimony: a piece of evidence that any honest account of love must either explain or explain away. Either the child's instinct sees truly—love really is inviolable—or love merely matters the way food and shelter matter: conditionally, until it stops. And notice that the child refuses precisely that middle ground: "I love you when you're good" is the one thing no child will accept. The child cannot settle who is right. Reason must test it—and where reason reaches its limit, God has spoken for Himself. So let us make the argument.
+Let me be honest about what this witness proves, though. By itself, nothing—yet. The materialist can re-describe everything in this section in the language of attachment and bonding, and a child's tears do not refute him. What the child gives us is not a proof but a testimony: a piece of evidence that any honest account of love must either explain or explain away. Either the child's instinct sees truly—love really is inviolable—or love merely matters the way food and shelter matter: conditionally, until it stops. And notice the middle ground the child's heart was made to refuse: "I love you when you're good." A wounded child can be forced to live under that sentence—can even come to blame himself for it, which is exactly why the wound goes so deep—but no child ever receives it as love. The child cannot settle who is right. Reason must test it—and where reason reaches its limit, God has spoken for Himself. So let us make the argument.
 
 ## Why Love Requires a Transcendent Source
 
@@ -121,6 +121,8 @@ But this raises a profound question: How can God be love if love requires relati
 This is where we discover something astonishing: God is not a solitary being at all as we alluded to earlier.
 
 The Church teaches that God is one God in three Persons—Father, Son, and Holy Spirit—in perfect, self-giving love (CCC 232-267). This isn't three gods but one God whose very being is an eternal exchange of perfect love. From all eternity, the Father, Son, and Holy Spirit exist in perfect communion, each Person completely giving Himself to the others.
+
+And see what this means: a God who is love *before anything exists* must have a Beloved before anything exists. Either love is eternal in God—and God is eternally a communion of Persons—or love began only when creation finally gave Him something to love, and "God is love" would name something He became rather than who He is. The Trinity is not a puzzle bolted onto the Gospel; it is the only way "God IS love" can be true from all eternity.
 
 The Catechism teaches: "God is eternal blessedness, undying life, unfading light. God is love: Father, Son and Holy Spirit. God freely wills to communicate the glory of his blessed life" (CCC 257).
 

@@ -46,7 +46,7 @@ What reality meets all five criteria?
 
 Ask anyone across cultures and eras: what makes life worth living? What is the highest human good? The answer is always the same: **Love.**
 
-Not wealth. Not power. Not pleasure. Not even fame—the four false gods that St. Thomas Aquinas warned lead us away from true happiness. When pressed, every human being points to love: love of family, love of friends, love of beauty, love of truth, love of something or someone beyond ourselves. From Aristotle's *philia* to the Stoics' universal benevolence to Confucius's *ren* (benevolence) and the Buddha's *metta* (loving-kindness)—philosophers across cultures have recognized this truth. We all know, deep in our bones, that love is what we're made for.
+Not wealth. Not honor. Not fame. Not power. Not health or beauty. Not pleasure. Not even the goods of our own soul—nor any created good at all. These are the eight limited goods St. Thomas Aquinas examined one by one, asking whether each could bear the weight of human happiness, and found every one of them wanting (*Summa Theologiae* I-II, q.2). When pressed, every human being points to love: love of family, love of friends, love of beauty, love of truth, love of something or someone beyond ourselves. From Aristotle's *philia* to the Stoics' universal benevolence to Confucius's *ren* (benevolence) and the Buddha's *metta* (loving-kindness)—philosophers across cultures have recognized this truth. We all know, deep in our bones, that love is what we're made for.
 
 The Church calls this the *summum bonum*—the "highest good" that all human beings seek, whether they know it or not. St. Thomas Aquinas demonstrated what reason discovers: all human action aims at some good, and no created good can satisfy completely—only union with God. And revelation confirms who that God is: Love itself. As St. Augustine expressed: our hearts are restless until they rest in God.
 
@@ -54,7 +54,7 @@ The Catechism affirms this: "The desire for God is written in the human heart, b
 
 **This is why love—specifically, love that leads to communion with God—is the ultimate good, and therefore the complete answer to evil.**
 
-And if evil is, at its core, the absence or rejection of the good, then the highest good—love—must be evil's true opposite and its only cure. This follows not from doctrine but from the very logic of privation: where love is lacking, evil takes root; where love is given, evil is undone.
+And if evil is, at its core, the absence of a good that ought to be there, then the cure for evil is the restoration of the very good that is missing. Chapter 1 showed what is missing in every sphere of evil—personal, relational, social: each one is a communion broken. The absent good is love. This follows from the very logic of privation: where love is lacking, evil takes root; where love is given, evil is undone.
 
 But does love meet our five criteria for an adequate solution?
 
@@ -70,7 +70,7 @@ But does love meet our five criteria for an adequate solution?
 
 **Love is the only reality in human experience that meets all five criteria.**
 
-This is why we can say with philosophical confidence, not just religious faith: **The answer to evil is love.** Of course we haven't yet defined what love is. We will do that shortly, but I hope to show that this conclusion is not merely a religious claim but a logical necessity.
+This is why we can say with philosophical confidence, not just religious faith: **The answer to evil is love.** Of course we haven't yet defined what love is. We will do that shortly. But notice what we have just done: we lined up the answers the world proposes—politics, education, knowledge, power, pleasure—and tested each against what a solution to evil must actually do. Love is the last one standing. That is not a theorem; it is a verdict—the kind of certainty a jury reaches, and the kind a life can be staked on.
 
 ## Scripture Confirms What Reason Discovers
 
@@ -112,7 +112,7 @@ Through careful study of Scripture and the Church's teaching on love, we can see
 <strong>God's Perfect Love is the sacred gift of covenant which binds truth, justice, mercy and sacrifice into life-giving communion.</strong>
 </div>
 
-"Perfect" means these four facets exist as inseparable aspects of God's one nature. In God, truth *is* justice *is* mercy *is* sacrifice—distinct in our understanding but unified in His being. Our problem is dividing what God unites: truth without justice, justice without mercy, mercy without sacrifice, sacrifice without truth. In God's Perfect Love, they exist as one harmonious whole. They are "Holy" (wholly).
+"Perfect" means these four facets exist as inseparable aspects of God's one nature. In God, truth *is* justice *is* mercy *is* self-giving love—distinct in our understanding but unified in His being; and when that eternal self-gift enters a fallen world, it takes the form of sacrifice: the Cross. Our problem is dividing what God unites: truth without justice, justice without mercy, mercy without sacrifice, sacrifice without truth. In God's Perfect Love, they exist as one harmonious whole. They are "Holy" (wholly).
 
 Every word in this definition matters:
 
@@ -158,11 +158,11 @@ We begin with the first word of our definition: **sacred**. Why start there? Bec
 
 ## A Note on Natural Evil
 
-Our focus in this book is on *moral* evil—the evil that comes from human hearts choosing against good (because this is evil that we can choose to avoid). But what about *natural* evil—suffering, disease, death, decay? I've found that as I've thought deeply about God's Perfect Love and its power against moral evil, the objections about natural evil seem to fade away as they are seen in their proper context. Once you see how truth, justice, mercy and sacrifice transform moral evil, you begin to see natural evil differently—not as an argument against God's love, but as the very context that makes authentic love possible and proves it real.
+Our focus in this book is on *moral* evil—the evil that comes from human hearts choosing against good (because this is evil that we can choose to avoid). But what about *natural* evil—suffering, disease, death, decay? Let me be honest with you the way the Church is honest: she has never claimed to hold a formula that dissolves the mystery of suffering. "Only Christian faith as a whole constitutes the answer" (CCC 309)—not one argument within it, but the whole of it, lived. What I can offer you is not a solution but a testimony: as I have thought deeply about God's Perfect Love and its power against moral evil, suffering has stopped looking to me like the disproof of love and has begun to look like its arena—the place where love is most needed, most costly, and most unmistakably real. And the Church holds more than a testimony: she holds a Person who entered the suffering Himself and came out the other side.
 
-The four facets transform even natural suffering: **Truth** reveals that suffering has meaning when united to Christ. **Justice** demands we fight preventable suffering. **Mercy** teaches us to accept with compassion what cannot be changed, offering hope beyond this life. **Sacrifice** transforms suffering from meaningless pain into redemptive love—without suffering, there could be no sacrifice; without mortality, no appreciation for life's gift. These four work together: truth reveals suffering's meaning, justice moves us to fight what can be fought, mercy carries what cannot be changed, and sacrifice transforms pain into self-gift.
+The four facets transform even natural suffering: **Truth** reveals that suffering has meaning when united to Christ. **Justice** demands we fight preventable suffering. **Mercy** teaches us to accept with compassion what cannot be changed, offering hope beyond this life. **Sacrifice** transforms suffering from meaningless pain into redemptive love—united to Christ's Cross, no suffering is wasted. These four work together: truth reveals suffering's meaning, justice moves us to fight what can be fought, mercy carries what cannot be changed, and sacrifice transforms pain into self-gift.
 
-My hope is that as you journey through this book and encounter the depth of God's Perfect Love, the problem of natural evil will similarly recede for you, seen in its proper context as the stage on which authentic love proves itself real. God's Perfect Love doesn't promise to eliminate natural suffering in this life, but it gives suffering ultimate meaning and promises final victory in the resurrection of the body and the life of the world to come.
+My hope is that as you journey through this book and encounter the depth of God's Perfect Love, you will find what I found: not an answer that silences the question, but a Love strong enough to be trusted inside it. God's Perfect Love doesn't promise to eliminate natural suffering in this life, but it gives suffering ultimate meaning and promises final victory in the resurrection of the body and the life of the world to come.
 
 ## The Bridge to Sacred
 

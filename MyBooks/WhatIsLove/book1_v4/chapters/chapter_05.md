@@ -14,7 +14,7 @@
 
 ---
 
-Consider the Lord's Passion. In a single act, every element of the teaching and mission of Jesus comes together. Christ offers truth (our sin creates a debt only God can pay), justice (the debt paid in full), mercy (forgiveness freely offered), and sacrifice (the gift of Himself, holding nothing back). None cancels the others. All serve the others. That is what binding looks like—and Chapter 10 will dwell there fully. For now, hold the image: perfect integration, nothing left out, nothing distorted. Then consider what happens when any one piece is removed.
+Consider the Lord's Passion. In a single act, every element of the teaching and mission of Jesus comes together. Christ offers truth (our sin creates a debt only God can pay), justice (the debt paid in full), mercy (forgiveness freely offered), and sacrifice (the gift of Himself, holding nothing back). None cancels the others. All serve the others. That is what binding looks like—and Chapter 9 will dwell there fully, at the foot of the Cross. For now, hold the image: perfect integration, nothing left out, nothing distorted. Then consider what happens when any one piece is removed.
 
 ## The Problem of Fragmentation
 
@@ -38,7 +38,7 @@ On the eve of his election, Cardinal Joseph Ratzinger — soon to be Pope Benedi
 \hfill\small — Cardinal Joseph Ratzinger, Homily, *Pro Eligendo Romano Pontifice* (April 18, 2005)
 </div>
 
-He did not call relativism a *dictatorship* because relativists are tyrants by temperament. He called it that because relativism has no principled stopping point against tyranny. Scripture diagnosed the same disease long before Benedict gave it a modern name. The book of Judges closes with the refrain: *"In those days there was no king in Israel; every man did what was right in his own eyes"* (Judges 21:25) — a line repeated four times (Judges 17:6; 18:1; 19:1; 21:25) as the structural indictment of a people without a binding authority to tell them what God's love actually required. Why this mattered — and why Christ's answer in the New Covenant is the establishment of His own authoritative Church — belongs fully to Chapter 6. Here it is enough to name the pattern: when no authority binds a people to God's love, every person becomes his own authority, and the dictatorship of relativism is already at the door. St. John Paul II made the same diagnosis in *Evangelium Vitae*: *"When the sense of God is lost, the sense of man is also threatened… any reference to common values and to a truth absolutely binding on everyone is lost, and social life ventures onto the shifting sands of complete relativism. Everything is negotiable… Even the first of the fundamental rights, the right to life"* (§20).
+He did not call relativism a *dictatorship* because relativists are tyrants by temperament. He called it that because relativism has no principled stopping point against tyranny. Scripture diagnosed the same disease long before Benedict gave it a modern name. The book of Judges closes with the refrain: *"In those days there was no king in Israel; every man did what was right in his own eyes"* (Judges 21:25) — a refrain sounded four times<sup>1</sup> as the structural indictment of a people without a binding authority to tell them what God's love actually required. Why this mattered — and why Christ's answer in the New Covenant is the establishment of His own authoritative Church — belongs fully to Chapter 6. Here it is enough to name the pattern: when no authority binds a people to God's love, every person becomes his own authority, and the dictatorship of relativism is already at the door. St. John Paul II made the same diagnosis in *Evangelium Vitae*: lose the sense of God, and social life ventures "onto the shifting sands of complete relativism," where everything becomes negotiable—even the first of the fundamental rights, the right to life (§20; quoted in full in Chapter 12).
 
 This is the civilizational version of the fragmentation we just named. When the binding breaks in a heart, that person's love deforms. When the binding breaks in a culture, the culture's loves deform — and the weakest pay first: the unborn, the elderly, the poor, the child caught between two houses, the conscience shouted down in the public square. Each chapter that follows takes up one of the threads — truth, justice, mercy, sacrifice — and, among other things, refuses the dictatorship of relativism one thread at a time.
 
@@ -177,3 +177,9 @@ Love binds together all the elements of authentic relationship—truth, justice,
 - **St. Thomas Aquinas (1225-1274):** His teaching on love as "the form of all virtues" in the *Summa Theologiae* shows how love shapes and directs all other virtues into an integrated whole; his treatment of divine simplicity explains why God's love, like God Himself, is perfectly one
 - **St. Augustine of Hippo (354-430):** His principle "Love God and do what you will" reveals how love integrates all moral action when properly ordered
 - **Pope St. John Paul II (1920-2005):** His teaching on the "unity of life" shows how faith must integrate all aspects of human existence—personal, social, political, economic—into one coherent whole
+
+---
+
+### Notes
+
+1. Twice in full (Judges 17:6; 21:25); twice in its opening clause, "In those days there was no king in Israel" (18:1; 19:1).
