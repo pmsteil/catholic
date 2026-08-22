@@ -48,7 +48,7 @@ Ask anyone across cultures and eras: what makes life worth living? What is the h
 
 Not wealth. Not power. Not pleasure. Not even fame—the four false gods that St. Thomas Aquinas warned lead us away from true happiness. When pressed, every human being points to love: love of family, love of friends, love of beauty, love of truth, love of something or someone beyond ourselves. From Aristotle's *philia* to the Stoics' universal benevolence to Confucius's *ren* (benevolence) and the Buddha's *metta* (loving-kindness)—philosophers across cultures have recognized this truth. We all know, deep in our bones, that love is what we're made for.
 
-The Church calls this the *summum bonum*—the "highest good" that all human beings seek, whether they know it or not. St. Thomas Aquinas demonstrated what reason discovers and revelation confirms: all human action aims at some good, but only one good can satisfy completely—union with God, who is Love itself. As St. Augustine expressed: our hearts are restless until they rest in God.
+The Church calls this the *summum bonum*—the "highest good" that all human beings seek, whether they know it or not. St. Thomas Aquinas demonstrated what reason discovers: all human action aims at some good, and no created good can satisfy completely—only union with God. And revelation confirms who that God is: Love itself. As St. Augustine expressed: our hearts are restless until they rest in God.
 
 The Catechism affirms this: "The desire for God is written in the human heart, because man is created by God and for God; and God never ceases to draw man to himself. Only in God will he find the truth and happiness he never stops searching for" (CCC 27).
 
@@ -186,5 +186,5 @@ Every facet of love rests on a single foundation: love must be **sacred**—or i
 
 ### Christian Thinkers
 - **St. Augustine of Hippo (354-430):** Bishop and Doctor of the Church whose teaching that "Love God, and do what you will" reveals love as the ordering principle of all virtue; his *Confessions* shows the restless heart that finds peace only in God
-- **St. Thomas Aquinas (1225-1274):** Dominican friar and Doctor of the Church who defined love as "willing the good of another" and showed how love is the form of all virtues in his *Summa Theologica*
+- **St. Thomas Aquinas (1225-1274):** Dominican friar and Doctor of the Church who defined love as "willing the good of another" and showed how love is the form of all virtues in his *Summa Theologiae*
 - **Pope St. John Paul II (1920-2005):** The pope of the family who taught the world about the Theology of the Body and authentic human love; his *Redemptor Hominis* explains that man cannot live without love

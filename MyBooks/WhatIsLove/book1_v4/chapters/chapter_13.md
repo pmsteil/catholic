@@ -223,5 +223,5 @@ Here are two saints for each of the four doors, for readers who want to keep goi
 - Pope Francis, *Gaudete et Exsultate* (Rejoice and Be Glad - On the Call to Holiness)
 
 **Classical Works:**
-- St. Thomas Aquinas, *Summa Theologica*, I-II, Questions 55-70 (On the Virtues)
+- St. Thomas Aquinas, *Summa Theologiae*, I-II, Questions 55-70 (On the Virtues)
 - St. Augustine, *On the Morals of the Catholic Church*

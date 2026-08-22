@@ -359,7 +359,7 @@ Personal sin, when it is systematized into ideologies and cultural norms, become
 - Pope Benedict XVI, *Sacramentum Caritatis* (On the Eucharist and Penance)
 
 **Classical Works:**
-- St. Thomas Aquinas, *Summa Theologica*, I-II, Q. 72-89 (On Sin)
+- St. Thomas Aquinas, *Summa Theologiae*, I-II, Q. 72-89 (On Sin)
 - St. Gregory the Great, *Moralia in Job* (On the Seven Deadly Sins)
 - St. Alphonsus Liguori, *The Practice of the Love of Jesus Christ*
 - St. Francis de Sales, *Introduction to the Devout Life*

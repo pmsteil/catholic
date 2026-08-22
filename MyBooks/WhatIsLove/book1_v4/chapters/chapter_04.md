@@ -134,7 +134,7 @@ If humans are the source of morality, which humans decide? Ancient Rome thought 
 
 And imposed morality inevitably escalates. First come laws, then coercion, then elimination of dissenters—because if there's no transcendent truth, only power determines who's right, and power must silence opposition to maintain control.
 
-This is why atheistic regimes always end in mass murder—the inevitable result of grounding morality in human power rather than divine truth. Nazi fascism: 11 million dead. Soviet communism: 20 million. Chinese communism: 45 million. The gulags and killing fields are what happens when humans fabricate justice without God's authority.
+This is why the regimes that set out to ground morality in human power rather than divine truth drowned the last century in blood. Soviet communism: 20 million dead. Chinese communism: 45 million. And Nazi Germany—which dethroned the living God to enthrone race and state—11 million more. The gulags and killing fields are what happens when humans fabricate justice without God's authority.
 
 The wages of sin truly are death.
 

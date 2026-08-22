@@ -46,7 +46,7 @@ Love is **sacrificial**. Not in ideas. Not in theory. Not in good intentions. In
 
 <div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
 <p><strong>The antithesis of sacrifice is sloth</strong> — what Christ Himself named <em>lukewarmness.</em></p>
-<p>Sacrifice is the costly self-gift that makes love real; sloth is the refusal to pay. Not the inability, but the refusal. The Christian who loves God "in his heart" but will not rise early to pray, will not give to the poor, will not tell an inconvenient truth, will not miss a game for Mass — this is not love, however much it feels like love. It is love theorized and seldom lived. Christ's verdict is fierce: <em>"So, because you are lukewarm, and neither cold nor hot, I will spew you out of my mouth"</em> (Revelation 3:16). Church tradition names this sin <em>acedia</em> (ah-SEE-dee-ah) — the spiritual sorrow that shrinks from the demands of divine love. Aquinas identifies it as the vice directly opposed to charity itself (<em>Summa Theologica</em> II-II, q.35).</p>
+<p>Sacrifice is the costly self-gift that makes love real; sloth is the refusal to pay. Not the inability, but the refusal. The Christian who loves God "in his heart" but will not rise early to pray, will not give to the poor, will not tell an inconvenient truth, will not miss a game for Mass — this is not love, however much it feels like love. It is love theorized and seldom lived. Christ's verdict is fierce: <em>"So, because you are lukewarm, and neither cold nor hot, I will spew you out of my mouth"</em> (Revelation 3:16). Church tradition names this sin <em>acedia</em> (ah-SEE-dee-ah) — the spiritual sorrow that shrinks from the demands of divine love. Aquinas identifies it as the vice directly opposed to charity itself (<em>Summa Theologiae</em> II-II, q.35).</p>
 <p>This chapter will show why love that costs nothing does nothing — and why sloth is not harmless laziness but a quiet betrayal of the God who held nothing back from us.</p>
 </div>
 
@@ -422,7 +422,7 @@ Sacrifice is never the end or the goal — it is always the beginning of somethi
 
 ### Christian Thinkers
 - **St. Anselm of Canterbury (1033-1109):** His *Cur Deus Homo* (Why God Became Man) explains the necessity of Christ's sacrifice to satisfy justice while offering mercy
-- **St. Thomas Aquinas (1225-1274):** His treatment of sacrifice in the *Summa Theologica* shows how Christ's sacrifice is both expiatory and oblative, satisfying justice while offering mercy
+- **St. Thomas Aquinas (1225-1274):** His treatment of sacrifice in the *Summa Theologiae* shows how Christ's sacrifice is both expiatory and oblative, satisfying justice while offering mercy
 - **Pope Pius XII (1876-1958):** His encyclical *Mystici Corporis* explains how our sufferings, united with Christ's, participate in His redemptive work for the Church
 
 ### Recommended Reading: The Old Covenants and the Fullness of the New

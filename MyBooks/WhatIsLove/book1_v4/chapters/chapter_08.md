@@ -274,7 +274,7 @@ The Church has long read these torturers in two registers at once. At the final 
 
 So this is not merely a warning about damnation at the end of time. It is a diagnosis of a wound already underway. Mercy taken for granted is mercy revoked, and into the vacated space three occupants arrive almost without announcement. A soul rarely notices them at first; they feel, for a while, like *righteousness*, like *strength*, like *realism*. They are none of those things. They are the torturers — cruelty, vengeance, and despair — and each belongs to the Church's oldest vocabulary for moral failure. They take up residence so quietly that the person harboring them is often the last to know.
 
-**Cruelty** is what love becomes when a heart hardens around a grievance. Aquinas named it as the vice directly opposed to mercy (*Summa Theologica* II-II, q.159) — not mere anger or error, but the deliberate refusal to be moved by another's suffering. Cruelty takes what truth and justice have rightly revealed and turns them into weapons: it defines a person by their worst moment, closes every door to restoration, and calls the closing righteous. It is the spirit of the unforgiving servant after his master had just released him from an unpayable debt — seizing a fellow servant by the throat for a handful of pennies (Matthew 18:28). Where mercy would have recognized a fellow debtor, cruelty sees only a target.
+**Cruelty** is what love becomes when a heart hardens around a grievance. Aquinas named it as the vice directly opposed to mercy (*Summa Theologiae* II-II, q.159) — not mere anger or error, but the deliberate refusal to be moved by another's suffering. Cruelty takes what truth and justice have rightly revealed and turns them into weapons: it defines a person by their worst moment, closes every door to restoration, and calls the closing righteous. It is the spirit of the unforgiving servant after his master had just released him from an unpayable debt — seizing a fellow servant by the throat for a handful of pennies (Matthew 18:28). Where mercy would have recognized a fellow debtor, cruelty sees only a target.
 
 **Vengeance** is what justice becomes when mercy is not allowed to complete it. The wound is real and the debt is real — but the heart refuses release. Every offense must be paid back with interest. Every slight is rehearsed. Every memory is kept sharp for the next blow. Christ breaks the ancient logic at its root: *"You have heard that it was said, 'An eye for an eye and a tooth for a tooth.' But I say to you, Do not resist one who is evil"* (Matthew 5:38–39). St. Paul names the reason: *"Beloved, never avenge yourselves, but leave it to the wrath of God... Do not be overcome by evil, but overcome evil with good"* (Romans 12:19, 21). Vengeance usurps what belongs to God alone and perpetuates the very evil it claims to punish. This is why the Parable of the Unforgiving Servant ends in torment (Matthew 18:34): the servant who refused mercy did not merely fail to love his brother — he placed himself outside the reach of the very mercy he had already received.
 
@@ -319,12 +319,12 @@ Mercy always comes at a cost — and that cost is sacrifice. In Chapter 9, we tu
 ### Christian Thinkers
 - **St. Faustina Kowalska (1905-1938):** Her *Diary* records Jesus' revelations about Divine Mercy, showing mercy as the greatest attribute of God
 - **Pope St. John Paul II (1920-2005):** His encyclical *Dives in Misericordia* (Rich in Mercy) explores mercy as essential to understanding God and to Christian life
-- **St. Thomas Aquinas (1225-1274):** His teaching in the *Summa Theologica* shows how mercy is God's greatest work, transcending justice while fulfilling it
+- **St. Thomas Aquinas (1225-1274):** His teaching in the *Summa Theologiae* shows how mercy is God's greatest work, transcending justice while fulfilling it
 
 ---
 
 ### Notes
 
-1. St. Thomas Aquinas, *Summa Theologica* II-II, q.159 (cruelty as the vice directly opposed to mercy); *Catechism of the Catholic Church*, §2447.
+1. St. Thomas Aquinas, *Summa Theologiae* II-II, q.159 (cruelty as the vice directly opposed to mercy); *Catechism of the Catholic Church*, §2447.
 2. Matthew 18:23-35 (Parable of the Unforgiving Servant); James 2:13; *Catechism of the Catholic Church*, §2303.
 3. *Catechism of the Catholic Church*, §2091; Pope John Paul II, *Dives in Misericordia* (1980), §4.

@@ -50,7 +50,7 @@ This confirms what the Church affirms: creation, conscience, and covenant all po
 
 ## Where Sin Creates Evil
 
-Moral evil results from free choices to reject good. As St. Augustine recognized, "Evil is not a substance or a nature; it is rather a privation or absence of good. Evil has no positive existence of its own; it exists only as a corruption or distortion of good" (*Confessions*).
+Moral evil results from free choices to reject good. As St. Augustine recognized when he went searching for where evil comes from: "So long, therefore, as they are, they are good; therefore whatsoever is, is good. That evil, then, which I sought whence it was, is not any substance; for were it a substance, it should be good" (*Confessions* VII, 12, 18). Evil has no existence of its own—it is a privation, an absence and corruption of the good.
 
 The Church recognizes sin has both personal and social dimensions (CCC 1869, 1440). Our sinful choices create evil in three spheres:
 

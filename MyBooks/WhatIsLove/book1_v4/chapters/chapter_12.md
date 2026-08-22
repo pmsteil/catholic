@@ -42,7 +42,7 @@ Without God, morality becomes subjective—a matter of personal preference, cult
 
 Without God, morality gets reduced to some non-moral explanation: brain chemistry (**materialism**), adaptive instincts (**evolutionary psychology**), tribal convention (**cultural relativism**), or outcome-calculation (**utilitarianism**). Each can explain why we *feel* moral pressure, but none can make moral obligations objectively real—and each can be, and has been, used to justify atrocities if “the program,” “the tribe,” “the majority,” or “the powerful” demands it.
 
-Without God, every attempt to ground objective morality fails. As we explored in Chapter 3, this is why the Enlightenment's attempt to build morality on human reason *divorced from God* collapsed—each philosopher rejecting divine authority and replacing it with human preference. The problem wasn't reason itself (natural law is reason-based), but reason cut off from its transcendent source.
+Without God, every attempt to ground objective morality fails. This is why every attempt to build morality on human reason *divorced from God* collapses—reason was never the problem (natural law is reason-based), but reason cut off from its transcendent source has nothing to stand on.
 
 This is the full philosophical weight of what we called the *dictatorship of relativism* in Chapter 5 and traced through each pillar in Chapters 6–9. On the eve of the election of Pope Benedict XVI, Cardinal Ratzinger named the endpoint with precision:
 
@@ -90,27 +90,7 @@ If objective moral values exist (premise 2), and if they can only exist if God e
 
 ## The Divine Command Theory Problem
 
-But wait. There's a famous objection to this argument, going back to Plato's *Euthyphro* dialogue: "Is something good because God commands it, or does God command it because it's good?"
-
-This seems like a dilemma. **If good is whatever God commands** (Divine Command Theory), then morality seems arbitrary. God could have commanded cruelty and made it good. Morality becomes God's arbitrary will, not objective truth.
-
-**If God commands what's good because it's independently good**, then goodness exists independently of God. God isn't the source of morality—He's just reporting on it. This seems to make God unnecessary for grounding morality.
-
-This dilemma has troubled Christian philosophers for centuries. But our definition of love points toward a solution.
-
-## The Solution: God's Nature as Love
-
-God doesn't arbitrarily command what's good. God commands what flows from His nature. And His nature is love. "God is love" (1 John 4:8, 16). Not "God loves" or "God is loving"—God *is* love. Love is God's very nature, His essence, what He fundamentally is.
-
-And because love is the covenant that binds truth, justice, mercy and sacrifice into one undivided whole, to say "God is love" is to say that God *is* truth, God *is* justice, God *is* mercy—and, in the eternal self-giving of the Father, Son, and Holy Spirit, self-gift itself. These are not four attributes God happens to possess, nor a standard above Him that He consults; they are the one undivided life He eternally is.
-
-This is why love isn't arbitrary commands but the revelation of God's own nature. When the Holy Spirit writes this law on our hearts (as we saw in Chapter 4), we're not being forced to obey external rules. We're being transformed to freely choose what flows from God's nature as Love.
-
-This means:
-
-Love flows necessarily from God's unchanging nature: not arbitrary (God cannot command cruelty, because cruelty contradicts His nature; God cannot deny Himself—2 Timothy 2:13), not independent (grounded in His essence, not in a standard above Him), and not mutable (He is love eternally).
-
-This solves the Euthyphro dilemma by revealing a third option the ancient Greeks didn't consider: Good is neither arbitrary command nor independent standard—it flows necessarily from God's eternal, unchanging nature. God's commands reveal His nature, and His nature is love.
+There's a famous objection to this argument, going back to Plato's *Euthyphro* dialogue: is something good because God commands it, or does God command it because it's good? Chapter 3 already answered it: goodness is neither a standard above God nor an invention of His will. It is His own unchanging nature. God's commands do not create the good; they reveal the Good that He eternally is.
 
 <div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
 Love flows from God's nature—not arbitrary commands but the blueprint of reality itself. This grounds objective morality in God's unchanging nature while preserving human freedom, because we freely recognize and accept what is true, good, and beautiful.
@@ -122,9 +102,11 @@ Only God can ground the objective moral order we've discovered. Love requires a 
 
 The comprehensive nature of authentic love—its integration of multiple objective requirements, its universal binding force, its eternal truth, its sacred character—points unmistakably to God as its source.
 
+And here St. Thomas Aquinas hands us one more treasure, in a single sentence: our love "is not the cause of the goodness of things... whereas the love of God infuses and creates goodness" (*Summa Theologiae* I, q.20, a.2). Read that again. Your love responds to goodness—you love your child because she is precious. God's love *creates* goodness—your child is precious because His love called her into being and holds her in being right now. Her dignity is truly her own, woven into what she is: rational, free, made for communion with Him. And it is truly a gift, because what she is, is His gift. This is why the Church can teach that every person's dignity "is not conferred subsequently... it is prior to any recognition, and it cannot be lost" (*Dignitas Infinita*, 15). No one bestowed it on her—not her parents, not the state, not even her own achievements—and so no one can revoke it. The Love that grounds her worth is not anyone's opinion of her. It is the creative Love that is the reason there is a *her* at all.
+
 ## The Atheist's Dilemma
 
-Atheists face three options: (1) Deny objective morality—intellectually honest but practically unlivable; (2) Affirm objective morality without God—incoherent, wanting the fruit without the root; (3) Redefine morality—explaining why we *believe* things are right or wrong without showing they actually *are*.
+Atheists face three options: (1) Deny objective morality outright—a position almost no one can hold consistently, since the same person who denies it still cries "That's not fair!" the moment he is wronged; (2) Affirm objective morality without God—incoherent, wanting the fruit without the root; (3) Redefine morality—explaining why we *believe* things are right or wrong without showing they actually *are*.
 
 Every time an atheist says "That's wrong!" they're providing evidence for God's existence—appealing to an objective moral standard they can't ground.
 
@@ -258,5 +240,5 @@ If God's nature is love, then growing in virtue means conforming our lives to th
 - **CCC 1950-1953:** The moral law as God's fatherly instruction; various expressions of moral law
 
 ### Christian Thinkers
-- **St. Thomas Aquinas (1225-1274):** His *Summa Theologica* presents the classical arguments for God's existence and explains natural law as participation in God's eternal law; his treatment of the virtues shows how they align us with God's nature
+- **St. Thomas Aquinas (1225-1274):** His *Summa Theologiae* presents the classical arguments for God's existence and explains natural law as participation in God's eternal law; his treatment of the virtues shows how they align us with God's nature
 - **Peter Kreeft (1937-present):** His *A Refutation of Moral Relativism* presents the moral argument through Socratic dialogue, making it accessible to modern readers

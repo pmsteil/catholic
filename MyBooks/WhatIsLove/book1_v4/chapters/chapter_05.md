@@ -64,7 +64,7 @@ The wound creates harm. The fragmentation that follows corrupts. This is what ha
 
 ## What Aquinas Already Saw
 
-The classical definition of love is St. Thomas Aquinas's: *amor est velle alicui bonum* — **"to love is to will the good of another"** (*Summa Theologica* I-II, q.26, a.4). It is a definition the whole Christian tradition has held for nearly eight hundred years, and it is exactly right. But it is dense. Unpack it, and the four threads of this book are already inside it.
+The classical definition of love is St. Thomas Aquinas's: *amor est velle alicui bonum* — **"to love is to will the good of another"** (*Summa Theologiae* I-II, q.26, a.4). It is a definition the whole Christian tradition has held for nearly eight hundred years, and it is exactly right. But it is dense. Unpack it, and the four threads of this book are already inside it.
 
 Aquinas's formula has two halves. **"The good"** — *bonum* — names *what* love wills. **"For another"** — *alicui* — names *that* it is willed for them, not for me. Pull those halves apart and the four pillars stand exposed:
 
@@ -174,6 +174,6 @@ Love binds together all the elements of authentic relationship—truth, justice,
 - **CCC 813-822:** The unity of the Church as reflection of Trinitarian unity
 
 ### Christian Thinkers
-- **St. Thomas Aquinas (1225-1274):** His teaching on love as "the form of all virtues" in the *Summa Theologica* shows how love shapes and directs all other virtues into an integrated whole; his treatment of divine simplicity explains why God's love, like God Himself, is perfectly one
+- **St. Thomas Aquinas (1225-1274):** His teaching on love as "the form of all virtues" in the *Summa Theologiae* shows how love shapes and directs all other virtues into an integrated whole; his treatment of divine simplicity explains why God's love, like God Himself, is perfectly one
 - **St. Augustine of Hippo (354-430):** His principle "Love God and do what you will" reveals how love integrates all moral action when properly ordered
 - **Pope St. John Paul II (1920-2005):** His teaching on the "unity of life" shows how faith must integrate all aspects of human existence—personal, social, political, economic—into one coherent whole
