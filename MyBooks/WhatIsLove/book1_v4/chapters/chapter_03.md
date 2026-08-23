@@ -122,7 +122,7 @@ This is where we discover something astonishing: God is not a solitary being at 
 
 The Church teaches that God is one God in three Persons—Father, Son, and Holy Spirit—in perfect, self-giving love (CCC 232-267). This isn't three gods but one God whose very being is an eternal exchange of perfect love. From all eternity, the Father, Son, and Holy Spirit exist in perfect communion, each Person completely giving Himself to the others.
 
-And see what this means: a God who is love *before anything exists* must have a Beloved before anything exists. Either love is eternal in God—and God is eternally a communion of Persons—or love began only when creation finally gave Him something to love, and "God is love" would name something He became rather than who He is. The Trinity is not a puzzle bolted onto the Gospel; it is the only way "God IS love" can be true from all eternity.
+And see what this means: a God who is love *before anything exists* must have a Beloved before anything exists. Either love is eternal in God—and God is eternally a communion of Persons—or love began only when creation finally gave Him something to love, and "God is love" would name something He became rather than who He is. The Trinity is not a puzzle bolted onto the Gospel; it is the only way we can see how "God IS love" can be true from all eternity.
 
 The Catechism teaches: "God is eternal blessedness, undying life, unfading light. God is love: Father, Son and Holy Spirit. God freely wills to communicate the glory of his blessed life" (CCC 257).
 

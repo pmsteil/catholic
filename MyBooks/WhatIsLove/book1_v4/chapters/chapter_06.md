@@ -195,7 +195,7 @@ This means that any authority claimed by a person or institution is *borrowed*. 
 
 When God says "don't lie," He's not arbitrarily restricting our freedom. He's revealing the truth that lies destroy relationships, corrupt souls, and participate in the evil that crucified His Son. When God says "honor marriage," He's not imposing burdens—He's revealing the truth about how human sexuality and covenant love actually work.
 
-This is why Jesus said, "The truth will make you free" (John 8:32)—not "My power will free you." Freedom isn't the absence of authority. Freedom is aligning yourself with the Author's design. Submitting to God's authority isn't slavery—it's like submitting to the "authority" of gravity or mathematics: you're not being oppressed, you're aligning yourself with reality.
+This is why Jesus said, "The truth will make you free" (John 8:32)—not "My power will free you." Freedom isn't the absence of authority. Freedom is aligning yourself with the Author's design. Submitting to God's authority isn't slavery—it's like submitting to the "authority" of gravity or mathematics: you're not being oppressed, you're aligning yourself with reality. But there is one difference, and Chapter 12 will build on it: gravity never asks your consent. Love does.
 
 Here's the beautiful paradox: **true freedom is the voluntary submission to be a slave to God's love.** St. Paul called himself "a servant of Jesus Christ" (Romans 1:1)—a word that literally means slave. "For you were called to freedom, brethren; only do not use your freedom as an opportunity for the flesh, but through love be servants of one another" (Galatians 5:13). We are always slaves to something—either to sin, which leads to death, or to God, which leads to life. "Do you not know that if you yield yourselves to any one as obedient slaves, you are slaves of the one whom you obey, either of sin, which leads to death, or of obedience, which leads to righteousness?" (Romans 6:16). The question isn't whether we'll serve. It's *whom* we'll serve.
 
@@ -312,6 +312,7 @@ Truth reveals what each person is truly owed—and **justice** is love giving wh
 - **The "Two Books" Tradition:** Taught by St. Augustine, St. John Chrysostom, St. Thomas Aquinas, and St. Bonaventure — that God reveals Himself through both the Book of Scripture and the Book of Nature; defined dogmatically by Vatican I in *Dei Filius* (1870), Ch. 2; affirmed in CCC 31–38 and Rom 1:20
 - **St. John Paul II (1920-2005):** His encyclical *Veritatis Splendor* (The Splendor of Truth) defends objective moral truth against relativism and shows why truth is essential to freedom
 - **Pope Benedict XVI (1927-2022):** His teaching on the "dictatorship of relativism" warns against the tyranny that results when truth is denied; his emphasis on "faith and reason" shows their necessary unity
+- **Brant Pitre (1975–present):** *The Case for Jesus* — the historical case for the Gospels and the Resurrection, for the reader who grants a personal God and asks why Christ's revelation, and not another's, commands his assent
 
 ---
 

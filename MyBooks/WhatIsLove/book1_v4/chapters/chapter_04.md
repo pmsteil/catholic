@@ -136,7 +136,7 @@ And imposed morality inevitably escalates. First come laws, then coercion, then 
 
 This is why the regimes that set out to ground morality in human power rather than divine truth drowned the last century in blood. Soviet communism: 20 million dead. Chinese communism: 45 million. And Nazi Germany—which dethroned the living God to enthrone race and state—11 million more.[^2] The gulags and killing fields are what happens when humans fabricate justice without God's authority.
 
-[^2]: Soviet figure: Stéphane Courtois et al., *The Black Book of Communism* (Harvard University Press, 1999). Chinese figure: Frank Dikötter, *Mao's Great Famine* (Bloomsbury, 2010) — some 45 million deaths in the Great Leap Forward alone, a deliberately conservative anchor since it counts a single campaign. Nazi figure: United States Holocaust Memorial Museum — six million Jews and some five million other victims of systematic killing.
+[^2]: Soviet figure: Stéphane Courtois et al., *The Black Book of Communism* (Harvard University Press, 1999). Chinese figure: Frank Dikötter, *Mao's Great Famine* (Bloomsbury, 2010) — some 45 million deaths in the Great Leap Forward alone, a deliberately conservative anchor since it counts a single campaign. Nazi figure: United States Holocaust Memorial Museum — six million Jews, and beyond the Shoah: some 3.3 million Soviet prisoners of war, 1.8 million non-Jewish Polish civilians, and hundreds of thousands more — Serbs, Roma, and people with disabilities — all victims of systematic killing.
 
 The wages of sin truly are death.
 

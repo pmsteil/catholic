@@ -106,7 +106,7 @@ But love in the real world runs into a wall the catechumens of every age have ha
 
 ## The Order of Love
 
-Not every claim on our love is equal, and pretending otherwise is not generosity — it is a refusal to think. We first met this principle in the chapter on sacrifice, where we saw that not all sacrifices are equal; here it becomes a tool of discernment. The ancient Church gave it a name: the *ordo amoris* (OR-doh ah-MOH-ris), the **order of love.** St. Augustine and St. Thomas Aquinas both taught that love must be rightly *ordered* to be virtuous. As Aquinas explains in the *Summa Theologica* (II-II, q.26), charity directs us to love God first, then our own soul, then those nearest to us, in widening circles outward.
+Not every claim on our love is equal, and pretending otherwise is not generosity — it is a refusal to think. We first met this principle in the chapter on sacrifice, where we saw that not all sacrifices are equal; here it becomes a tool of discernment. The ancient Church gave it a name: the *ordo amoris* (OR-doh ah-MOH-ris), the **order of love.** St. Augustine and St. Thomas Aquinas both taught that love must be rightly *ordered* to be virtuous. As Aquinas explains in the *Summa Theologiae* (II-II, q.26), charity directs us to love God first, then our own soul, then those nearest to us, in widening circles outward.
 
 The order runs like this:
 

@@ -186,7 +186,7 @@ And that pursuit does not stay cosmic or abstract. The communion God has sought 
 
 **The Eucharist is WHERE the entire definition becomes REAL in body, heart, mind, and soul:**
 
-**Body:** We physically consume Christ's Body and Blood—not spiritual metaphor but physical reality. Your body receives His Body. Your life is united with His life. This is the most intimate union possible—God entering into you, becoming one with you in a way that transcends mere physical contact.
+**Body:** We truly consume Christ's Body and Blood—not spiritual metaphor but substantial reality. Your body receives His Body. Your life is united with His life. This is the most intimate union possible—God entering into you, becoming one with you in a way that transcends mere physical contact.
 
 **Heart:** Our love is taken up into His. Your heart, which so often loves poorly and selfishly, is united with the Sacred Heart that loves perfectly. His love becomes your love. His desires become your desires.
 
@@ -283,7 +283,7 @@ This is what we're made for. This is where love leads. This is the end—perfect
 
 We have seen that God IS communion and that the Eucharist creates it. But we must now name directly the principle running beneath all of it: **unity—with God, with one another, and within a society—happens only when we submit together to the authority of His Perfect Love.** Unity is not something we manufacture by negotiation or willpower. It is what *occurs* when many wills bend toward the one Love that is God.
 
-Look once more at the Trinity. The Father, Son, and Holy Spirit are perfectly one—"one will, one purpose, one love"—not because uniformity is imposed upon them, but because each Person eternally gives Himself to the others in love. The Son does only what He sees the Father doing (John 5:19) and came "not to do my own will, but the will of him who sent me" (John 6:38); the Spirit speaks not on His own authority but takes what is the Son's and declares it (John 16:13-15). The eternal communion of God is, in its very structure, self-gift ordered in love. This is the pattern of all true unity: not the erasure of persons, but persons freely ordered to the one Love.
+Look once more at the Trinity. The Father, Son, and Holy Spirit are perfectly one—"one will, one purpose, one love"—not because uniformity is imposed upon them, but because each Person eternally gives Himself to the others in love. The Son does only what He sees the Father doing (John 5:19) and came "not to do my own will, but the will of him who sent me" (John 6:38); the Spirit speaks not on His own authority but takes what is the Son's and declares it (John 16:13-15). These are not two divine wills bending to a third — God has one will — but the Son's mission showing us in time what He is in eternity: the Son who eternally receives all He is from the Father, as the Spirit receives from both. The eternal communion of God is, in its very structure, self-gift ordered in love. This is the pattern of all true unity: not the erasure of persons, but persons freely ordered to the one Love.
 
 This is why Jesus, praying for our unity, grounds it entirely in God Himself: "that they may all be one; even as thou, Father, art in me, and I in thee, that they also may be in us" (John 17:21). He does not pray that we would merely agree with one another, or like one another, or organize ourselves efficiently. He prays that we would be drawn into the one love of the Trinity. Our unity with each other is the *fruit* of our shared submission to Him. Two people do not become one by staring at each other; they become one by both surrendering to the same Lord. As St. Paul writes, there is "one body and one Spirit... one Lord, one faith, one baptism, one God and Father of all" (Ephesians 4:4-6)—the unity of the Church is built on the oneness of God, received rather than invented (CCC 813-822).
 
@@ -363,7 +363,7 @@ This is where Part 2 begins—applying this definition to key Christian question
 
 ### A Turn Toward the Source
 
-We have spent ten chapters defining the absolute necessity and profound beauty of God's Perfect Love. But you might be asking: *How do we know this isn't just a beautiful theory? If love is truly a universal law, how do we know the Lawgiver actually exists?* This is not merely an academic question; it is the foundation upon which everything we've discussed rests. In the next chapter, we will shift our focus from defining the nature of love to defending the existence of its Author, exploring why the very reality of love we've just defined points undeniably to the reality of God.
+We have spent ten chapters defining the absolute necessity and profound beauty of God's Perfect Love. But you might be asking: *How do we know this isn't just a beautiful theory? If love is truly a universal law, how do we know the Lawgiver actually exists?* This is not merely an academic question; it is the foundation upon which everything we've discussed rests. In the next chapter, we will shift our focus from defining the nature of love to defending the existence of its Author, exploring why the very reality of love we've just defined points to the reality of God.
 
 ---
 

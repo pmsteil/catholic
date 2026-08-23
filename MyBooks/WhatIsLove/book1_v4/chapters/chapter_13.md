@@ -202,7 +202,7 @@ That door you found closed a few pages ago doesn't open on willpower alone. Star
 Here are two saints for each of the four doors, for readers who want to keep going:
 
 - **Truth:** St. Thomas Aquinas — a mind consecrated to God as First Truth from boyhood, whose own family tried to buy him out of his vocation with worldly honor; St. Edith Stein (Teresa Benedicta of the Cross) — an atheist philosopher who followed the truth into the Church and then into Auschwitz.
-- **Justice:** St. Thomas More — "the King's good servant, but God's first," beheaded for refusing to render Caesar what belonged to God; St. Ignatius of Loyola — from thirty years of vainglory to a life vowed in obedience under Christ the King.
+- **Justice:** St. Thomas More — "the King's good servant, and God's first," beheaded for refusing to render Caesar what belonged to God; St. Ignatius of Loyola — from thirty years of vainglory to a life vowed in obedience under Christ the King.
 - **Mercy:** St. Francis of Assisi — the man who could not bear to look at a leper learned to kiss one; St. Faustina Kowalska — apostle of Divine Mercy.
 - **Sacrifice:** St. Paul — from persecutor to a life poured out for the Gospel, ending under a Roman sword; St. Maximilian Kolbe — gave his own life in a Nazi death camp so a stranger could live.
 

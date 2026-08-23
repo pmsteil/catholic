@@ -40,7 +40,7 @@ The faith I'm sharing didn't come to me in a vacuum. I came to know, love, and s
 
 ---
 
-The author of this book is the Holy Spirit working through the Church. I am not claiming any semblance of "divine revelation" here—any more than I see my entire life, and yours, as "super-natural"!
+The author of this book is the Holy Spirit working through the Church. I am not claiming any semblance of "divine revelation" here—only the same grace that makes my entire life, and yours, "super-natural"!
 
 Through the Holy Spirit, I am simply gathering the wisdom of our Creator that has been revealed through Sacred Scripture, the Catechism, the saints, and the Church's 2,000-year tradition—hoping to present it in a way that is meaningful to all Christians.
 

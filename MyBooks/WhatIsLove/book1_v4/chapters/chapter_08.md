@@ -198,7 +198,7 @@ St. John Paul II, who lived through Auschwitz and the Soviet occupation of his o
 
 ## The Sacrament of Reconciliation
 
-The Catholic Sacrament of Reconciliation embodies mercy in concrete form. Notice how all four elements integrate: Confession (speaking the truth about our sins — truth), Contrition (genuine sorrow for having offended God — justice), Penance (making amends, accepting consequences — justice), Absolution (God's forgiveness through the priest — mercy made possible by Christ's sacrifice), Restoration (grace to avoid sin and grow in holiness — truth/justice/mercy/sacrifice).
+The Catholic Sacrament of Reconciliation embodies mercy in concrete form. Notice how all four facets integrate across its five parts: Confession (speaking the truth about our sins — truth), Contrition (genuine sorrow for having offended God — justice), Penance (making amends, accepting consequences — justice), Absolution (God's forgiveness through the priest — mercy made possible by Christ's sacrifice), Restoration (grace to avoid sin and grow in holiness — truth/justice/mercy/sacrifice).
 
 The sacrament doesn't choose between truth, justice, mercy and sacrifice—it integrates all four. Truth names the sin as real. Justice honors that consequences matter. Mercy offers forgiveness. And sacrifice is what makes that mercy possible—not by ignoring the debt, but by Christ having paid it on the Cross.
 
