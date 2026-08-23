@@ -103,7 +103,7 @@ But first, we must understand that mercy requires sacrifice. Mercy requires that
 
 Consider what this means in practice:
 
-**A spouse commits adultery.** The sin creates real consequences—broken trust, wounded hearts, damaged covenant. These consequences cannot be magically removed. Love requires the offending spouse to repent—a firm turning away from the sin. Then sacrificial mercy requires the offended spouse to forgo the just punishment (divorce) in order to save the relationship. The marriage can be restored, but only through repentance united with mercy.
+**A spouse commits adultery.** The sin creates real consequences—broken trust, wounded hearts, damaged covenant. These consequences cannot be magically removed. Love requires the offending spouse to repent—a firm turning away from the sin. The innocent spouse could justly step back from the common life—the Church herself recognizes that separation can be legitimate after so grave a wound (CCC 2383)—but sacrificial mercy chooses instead to bear the cost of rebuilding what the sin tore down. The marriage can be restored, but only through repentance united with mercy.
 
 **A parent's harsh words wound a child.** The damage to the child's soul is real. Justice demands acknowledgment and amends. Mercy doesn't erase what was said, but when the parent genuinely repents and the child extends forgiveness, healing becomes possible. The relationship is restored not by ignoring the wound but by truth, repentance, and merciful forgiveness working together.
 
