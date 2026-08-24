@@ -134,13 +134,13 @@ We'll journey together through these chapters:
 
 **Chapters 3-10** explore each facet of the definition of God's Perfect Love: Sacred (Chapter 3), Gift of Covenant (Chapter 4), Binding (Chapter 5), Truth (Chapter 6), Justice (Chapter 7), Mercy (Chapter 8), Sacrifice (Chapter 9), and Life-Giving Communion (Chapter 10).
 
-**PART 2: THE TEST OF LOVE (Chapters 11-15)**
+**PART 2: THE TEST OF LOVE (Chapters 11-17)**
 
 "Test everything; hold fast what is good." (1 Thessalonians 5:21)
 
 **Chapter 11: Prudence — How to Love** - Knowing the four facets of love is not yet knowing what to *do* when a real person stands in front of you; prudence is the cardinal virtue of application—the "charioteer of the virtues" that holds truth, justice, mercy and sacrifice together as a single act—modeled on the father of the Prodigal Son, who neither affirms the far country nor bolts the door, and learned not by our own cleverness but received on our knees as a gift of the Holy Spirit.
 
-**Chapter 12: The Law of Love Requires a Lawgiver** - Each facet of love reveals objective moral truth that cannot be reduced to evolutionary programming or cultural convention; demonstrates that if love exists as an objective law with universality, binding force, and perfect integration, it requires a lawgiver. This section of the book shows how the definition of love is true through different ways of proving it.
+**Chapter 12: The Law of Love Requires a Lawgiver** - Each facet of love reveals objective moral truth that cannot be reduced to evolutionary programming or cultural convention; demonstrates that if love exists as an objective law with universality, binding force, and perfect integration, it requires a lawgiver. This section of the book shows how the definition of love holds true under every test we can put to it.
 
 **Chapter 13: The Nature of Virtues—Faith Working Through Love** - Comprehensive matrix demonstrates every virtue upholds and flows from the four pillars (truth, justice, mercy and sacrifice) while every vice denies or distorts them; shows that charity is the form of all the virtues—faith working through love—and that justification is an ongoing, transformative process—not a single moment, but a lifelong participation in God's life of love.
 

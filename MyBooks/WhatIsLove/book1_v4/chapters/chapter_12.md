@@ -44,7 +44,7 @@ Without God, morality gets reduced to some non-moral explanation: brain chemistr
 
 Without God, every attempt to ground objective morality fails. This is why every attempt to build morality on human reason *divorced from God* collapses—reason was never the problem (natural law is reason-based), but reason cut off from its transcendent source has nothing to stand on.
 
-This is the full philosophical weight of what we called the *dictatorship of relativism* in Chapter 5 and traced through each pillar in Chapters 6–9—Cardinal Ratzinger's warning, on the eve of his election as Benedict XVI, of a relativism "which does not recognize anything as definitive and whose ultimate goal consists solely of one's own ego and desires" (quoted in Chapter 5). His point is not a mood but a logical claim: once objective moral truth is denied, no principled line can be drawn against tyranny. Sentiment, consensus, and utility can all *feel* like standards, but when they conflict — and they always do — nothing arbitrates except force. Relativism is not the absence of a ruler; it is the ruler's disguise. St. John Paul II traced the same line, and named its cost, a decade earlier:
+This is the full philosophical weight of what we called the *dictatorship of relativism* in Chapter 5 and traced through each pillar in Chapters 6–9—Cardinal Ratzinger's warning, on the eve of his election as Benedict XVI, of a relativism "that does not recognize anything as definitive and whose ultimate goal consists solely of one's own ego and desires" (quoted in Chapter 5). His point is not a mood but a logical claim: once objective moral truth is denied, no principled line can be drawn against tyranny. Sentiment, consensus, and utility can all *feel* like standards, but when they conflict — and they always do — nothing arbitrates except force. Relativism is not the absence of a ruler; it is the ruler's disguise. St. John Paul II traced the same line, and named its cost, a decade earlier:
 
 <div class="blockquote">
 "When the sense of God is lost, the sense of man is also threatened… any reference to common values and to a truth absolutely binding on everyone is lost, and social life ventures onto the shifting sands of complete relativism. Everything is negotiable, everything is open to bargaining: even the first of the fundamental rights, the right to life."
@@ -69,7 +69,7 @@ Our definition of love provides powerful evidence. Love requires:
 **Covenant, Life-giving, and Communion:** Broken vows and broken promises aren’t just “sounds.” They wound because we know we were meant to be bound in faithful, life-giving communion.
 
 <div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
-The comprehensive nature of authentic love—requiring truth, justice, mercy, sacrifice, covenant, life-giving, and communion—cannot be reduced to evolutionary programming, cultural convention, or personal preference. These are objective requirements that point to an objective moral order.
+The comprehensive nature of authentic love—a sacred gift of covenant binding truth, justice, mercy and sacrifice into life-giving communion—cannot be reduced to evolutionary programming, cultural convention, or personal preference. These are objective requirements that point to an objective moral order.
 </div>
 
 Every facet of love reveals objective moral truth.
@@ -101,6 +101,8 @@ And here St. Thomas Aquinas hands us one more treasure, in a single sentence: ou
 Atheists face three options: (1) Deny objective morality outright—but the denial refutes itself in the speaking, for this skeptic tells us we *ought* not to believe in oughts; and the same man who denies the moral law still cries "That's not fair!" the moment he is wronged—not because his theory slipped, but because the law he denies is written deeper than his theory; (2) Affirm objective morality without God—incoherent, wanting the fruit without the root; (3) Redefine morality—explaining why we *believe* things are right or wrong without showing they actually *are*. The noblest of these attempts deserves naming: it argues that whoever values anything must value the human capacity for valuing itself. And it proves something real—that we cannot help *treating* ourselves as precious. But a necessity of our practice is not yet a truth about the world; only a ground outside the practice can close that gap.
 
 One last skeptic remains: the one who says rules can bind without a rule-giver — after all, "follow the evidence" binds every honest thinker, and no one seems to stand behind it. But notice what he just did: he told you what you *ought* to do. If nothing needs to stand behind an ought, then nothing stands behind his, and we may politely set it aside. If something must, then his needs it too. Either way he has conceded the point: an ought is a claim laid on a person — and no *thing* — no rock, no rule, no equation — has ever laid a claim on anyone. Only a Someone can.
+
+And let us be honest about the shape of this argument, for honesty is a debt truth collects everywhere: every account of morality stops somewhere. The atheist's stops at moral facts that simply exist—uncommanded, unexplained, hanging in mid-air. Ours stops at God. The question is which stopping point explains more, and a personal Good explains at one stroke the three things an impersonal fact never touches: why the law obligates, why breaking it leaves us guilty rather than merely mistaken, and why it calls each of us by name.
 
 Every time an atheist says "That's wrong!" they're providing evidence for God's existence—appealing to an objective moral standard they can't ground.
 
@@ -166,7 +168,7 @@ But what does this interior transformation actually look like? Jesus did not lea
 \hfill\small — Matthew 5:3-10
 </div>
 
-Read them slowly and something becomes clear: this is not a list of separate virtues to accumulate. It is one face seen from eight angles. As Pope Benedict XVI observed, the Beatitudes are "a sort of veiled interior biography of Jesus, a portrait of his figure"—they describe Christ before they describe us, because they are simply what perfect love looks like when it walks. To live the Beatitudes is not to perform eight tasks but to be conformed to one Person.
+Read them slowly and something becomes clear: this is not a list of separate virtues to accumulate. It is one face seen from eight angles. As Pope Benedict XVI observed, the Beatitudes are "a sort of veiled interior biography of Jesus, a kind of portrait of his figure" (*Jesus of Nazareth*, 2007)—they describe Christ before they describe us, because they are simply what perfect love looks like when it walks. To live the Beatitudes is not to perform eight tasks but to be conformed to one Person.
 
 And when we look closely, the four facets of perfect love we have been tracing are all here—not bolted together, but radiating from a single life:
 

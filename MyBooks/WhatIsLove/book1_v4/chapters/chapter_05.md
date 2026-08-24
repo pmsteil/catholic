@@ -33,7 +33,7 @@ What happens inside a single heart when the threads come apart also happens insi
 On the eve of his election, Cardinal Joseph Ratzinger — soon to be Pope Benedict XVI — gave this disintegration its exact name:
 
 <div class="blockquote">
-"We are moving toward a dictatorship of relativism which does not recognize anything as definitive and whose ultimate goal consists solely of one's own ego and desires."
+"We are building a dictatorship of relativism that does not recognize anything as definitive and whose ultimate goal consists solely of one's own ego and desires."
 
 \hfill\small — Cardinal Joseph Ratzinger, Homily, *Pro Eligendo Romano Pontifice* (April 18, 2005)
 </div>
@@ -66,11 +66,11 @@ The wound creates harm. The fragmentation that follows corrupts. This is what ha
 
 The classical definition of love is St. Thomas Aquinas's: *amor est velle alicui bonum* — **"to love is to will the good of another"** (*Summa Theologiae* I-II, q.26, a.4). It is a definition the whole Christian tradition has held for nearly eight hundred years, and it is exactly right. But it is dense. Unpack it, and the four threads of this book are already inside it.
 
-Aquinas's formula has two halves. **"The good"** — *bonum* — names *what* love wills. **"For another"** — *alicui* — names *that* it is willed for them, not for me. Pull those halves apart and the four pillars stand exposed:
+Aquinas's formula has two halves. **"The good"** — *bonum* — names *what* love wills. **"For another"** — *alicui* — names *that* it is willed for them, not for me. Aquinas did not spell out what follows—but pull those two halves apart in the light of this book's definition, and the four pillars appear inside them:
 
 **The good willed** is **truth, justice, and mercy.** Not whatever I happen to *feel* is good for you, and not what is comfortable for me to *call* your good, but your real good — what is objectively true about you (truth), owed to your dignity as a person (justice), and what would restore you where you have fallen (mercy). Strip any one of these and "your good" collapses back into my preference for you, which is no longer your good at all. And **the willing-it-for-you, at cost to me,** is **sacrifice.** Wanting your good in the abstract is not yet love; wanting it enough to *pay* for it is — sacrifice is what proves the *for you* is real and not disguised self-interest, and a love that costs nothing has not yet shown that it is for the other at all.
 
-This is why the four threads are co-constitutive rather than ranked. They are not four additions to Aquinas's definition — they are its interior anatomy. Truth, justice, and mercy specify the *good*; sacrifice specifies the *for another*. Take any one of them out and you have not pared love down to essentials; you have stopped describing love.
+This is why the four threads are co-constitutive rather than ranked. They are not four additions bolted onto Aquinas's definition — they are, I am convinced, its interior anatomy. Truth, justice, and mercy specify the *good*; sacrifice specifies the *for another*. Take any one of them out and you have not pared love down to essentials; you have stopped describing love.
 
 Calvary is Aquinas's definition at full volume. *The good willed*: our salvation — the truth about our condition spoken without flinching, the justice of God satisfied, mercy poured out without limit. *Willed for us*: *"for us men and for our salvation"* — at the cost of everything. Truth, justice, mercy and sacrifice, bound in one act. **That is what binding looks like.**
 
@@ -88,7 +88,7 @@ The scribes and Pharisees drag a woman before Jesus in the Temple courts. She ha
 
 Jesus refuses the choice. He binds them.
 
-He does not deny her sin—He acknowledges the truth of it. He does not undermine the Law—He upholds its authority while exposing the accusers' own guilt ("Let the one among you who is without sin be the first to throw a stone"). He does not excuse her—He demands real transformation ("Go, and from now on do not sin any more"). And He does not abandon her—He kneels in the dust beside a condemned woman and becomes her advocate at the cost of His own standing.
+He does not deny her sin—He acknowledges the truth of it. He does not undermine the Law—He upholds its authority while exposing the accusers' own guilt ("Let him who is without sin among you be the first to throw a stone at her"). He does not excuse her—He demands real transformation ("go, and do not sin again"). And He does not abandon her—He kneels in the dust beside a condemned woman and becomes her advocate at the cost of His own standing.
 
 Look at what each fragment alone would have produced:
 

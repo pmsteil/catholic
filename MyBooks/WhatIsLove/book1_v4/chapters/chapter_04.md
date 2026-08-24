@@ -44,7 +44,7 @@ Love requires covenant, not contract. Contracts are conditional and temporary—
 
 No words need to follow. The action itself speaks louder than anything that could be said. The covenant is being broken.
 
-Consider what a child *assumes* about family before anyone teaches them anything. A child doesn't hope their parents will stay together—they assume it. Mother and father together isn't a wish or a preference—it's the default, the given, the foundation upon which their entire world is built. It would never occur to a child that parents could separate—unless society has already normalized it, unless they've seen it happen to friends, unless the unthinkable has become thinkable.
+Consider what a child *assumes* about family before anyone teaches them anything. A child doesn't hope their parents will stay together—they assume it. Mother and father together isn't a wish or a preference—it's the default, the given, the foundation upon which their entire world is built. It would never occur to a child that parents could separate—unless society has already normalized it, unless they've seen it happen to friends, unless the unthinkable has become thinkable. And notice what normalization actually changes: the child's belief, never the child's wound. A child can be taught to expect divorce; no child has ever been taught to stop grieving one. The constancy of the wound—in every culture, under every arrangement—is the witness.
 
 This is remarkable: children instinctively assume that their parents' union is permanent. No one teaches them this. They don't learn it from books or conversations. It is the same witness we met in Chapter 3—not a proof, but a testimony—and what it testifies to is covenant permanence written on the human heart. They know it because their parents—united in one flesh—are meant to image God's own covenant love. They know it because it is intertwined with the most basic truth that their existence originated through Mommy and Daddy. Breaking the marriage rips out this most fundamental ground and origin of their existence.
 
@@ -134,7 +134,7 @@ If humans are the source of morality, which humans decide? Ancient Rome thought 
 
 And imposed morality inevitably escalates. First come laws, then coercion, then elimination of dissenters—because if there's no transcendent truth, only power determines who's right, and power must silence opposition to maintain control.
 
-This is why the regimes that set out to ground morality in human power rather than divine truth drowned the last century in blood. Soviet communism: 20 million dead. Chinese communism: 45 million. And Nazi Germany—which dethroned the living God to enthrone race and state—11 million more.[^2] The gulags and killing fields are what happens when humans fabricate justice without God's authority.
+This is why the regimes that set out to ground morality in human power rather than divine truth drowned the last century in blood. Soviet communism: 20 million dead. Chinese communism: 45 million. And Nazi Germany—which dethroned the living God to enthrone race and state—11 million more.[^2] The gulags and killing fields are what happens when humans fabricate justice without God's authority. None of this is a slander on the honest unbeliever—the law written on his heart is exactly why he can still see and do real justice, as Chapter 7 will gladly affirm. The indictment falls on something else: justice whose final ground is human power.
 
 [^2]: Soviet figure: Stéphane Courtois et al., *The Black Book of Communism* (Harvard University Press, 1999). Chinese figure: Frank Dikötter, *Mao's Great Famine* (Bloomsbury, 2010) — some 45 million deaths in the Great Leap Forward alone, a deliberately conservative anchor since it counts a single campaign. Nazi figure: United States Holocaust Memorial Museum — six million Jews, and beyond the Shoah: some 3.3 million Soviet prisoners of war, 1.8 million non-Jewish Polish civilians, and hundreds of thousands more — Serbs, Roma, and people with disabilities — all victims of systematic killing.
 
@@ -168,7 +168,7 @@ This is where Pope Saint John Paul II's teaching becomes concrete: "I take you" 
 
 **The Sacrament of Marriage** makes this even more profound. In Catholic teaching, marriage isn't just a human agreement—it's a participation in Christ's covenant with the Church. The husband and wife become living icons of Christ's sacrificial, permanent, faithful love for His bride. The marriage covenant is a direct mirror of our covenant with God—we submit our lives to our spouse and children as we submit to Him. Marriage most fully fulfills our covenant with God in the domestic church - the family.
 
-This is why the Church insists marriage is indissoluble (CCC 1644-1651). You can't dissolve God's covenant with His people. You can't dissolve Christ's union with the Church. And you can't dissolve a valid marriage, because it participates in that same divine reality.
+This is why the Church insists marriage is indissoluble (CCC 1644-1651). You can't dissolve God's covenant with His people. You can't dissolve Christ's union with the Church. And you can't dissolve a valid sacramental marriage that has been consummated—two baptized Christians made one flesh—because it participates in that same divine reality.
 
 Note: The Church's annulment process doesn't "dissolve" marriages—it recognizes that a valid sacramental bond never existed in the first place due to lack of consent, capacity, or form.
 
@@ -223,7 +223,7 @@ Jesus came to fulfill the Law (Matthew 5:17). We're called to imitate Him—to f
 
 Marriage enables us to fulfill all four: **truth** (our complementary nature designed for union and fruitfulness), **justice** (giving spouse and children what they're owed—provision, security, care, honor, stability), **mercy** (modeling forgiveness and compassion daily), and **sacrifice** (laying down our preferences daily for the genuine good of the other). The family becomes the first school of love.
 
-We see this pattern across cultures, throughout history, in every civilization: husband-father who protects and provides, wife-mother who nurtures and cares, children raised by both learning love from their complementary gifts.
+We see this pattern across cultures and throughout history: husband-father who protects and provides, wife-mother who nurtures and cares, children raised by both learning love from their complementary gifts.
 
 This isn't a "social construct" we can redesign at will. It's a basic truth of human nature—written into our bodies, psychology, and deepest longings. **Marriage between man and woman, ordered toward children, is what most fully fulfills both our desire to love and our desire to be loved.**
 
@@ -231,7 +231,7 @@ When a man gives himself completely to his wife and children, he becomes more fu
 
 **This is the book's comprehensive definition made concrete:** Marriage is the sacred gift of covenant which binds truth, justice, mercy and sacrifice into life-giving communion. In marriage, we see perfect love embodied in the most fundamental human relationship—which is why covenant love in marriage is such a powerful weapon against evil.
 
-**This is the pattern for all human society.** The health of families directly reflects—and determines—the health of civilization itself. Strong covenant marriages create strong families. Strong families create strong communities. Strong communities create flourishing civilizations. When covenant love breaks down in marriage, everything downstream collapses: children suffer, communities fragment, and society unravels. This is why every civilization that has endured has protected the permanent union of husband and wife ordered toward children—not as one lifestyle choice among many, but as the essential foundation of human flourishing.
+**This is the pattern for all human society.** The health of families directly reflects—and determines—the health of civilization itself. Strong covenant marriages create strong families. Strong families create strong communities. Strong communities create flourishing civilizations. When covenant love breaks down in marriage, everything downstream collapses: children suffer, communities fragment, and society unravels. This is why every civilization that has endured has built itself on the union of husband and wife ordered toward children—and has flourished in the measure it held that union sacred and stable—not as one lifestyle choice among many, but as the essential foundation of human flourishing.
 
 ## How Covenant Combats Evil
 

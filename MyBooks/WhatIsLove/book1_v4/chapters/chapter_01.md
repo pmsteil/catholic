@@ -30,7 +30,7 @@ The rampant evil in our world demands we ask: "What has gone so terribly wrong w
 
 ## The Crisis That Forces the Question
 
-The lies have become so extreme that people are waking up. Maybe that's you. Maybe you watched abortion get rebranded as "healthcare" while the body count climbed past 600,000 a year. Maybe you saw a school counselor secretly affirm your child's "gender identity" while your parental rights vanished. Maybe you watched fatherlessness destroy entire communities while leaders blamed the wrong cause. You looked at what we're being told and thought: *something is deeply wrong here.* Maybe you're searching for what's real and true.
+The lies have become so extreme that people are waking up. Maybe that's you. Maybe you watched abortion get rebranded as "healthcare" while the body count climbed past a million a year.⁵ Maybe you saw a school counselor secretly affirm your child's "gender identity" while your parental rights vanished. Maybe you watched fatherlessness destroy entire communities while leaders blamed the wrong cause. You looked at what we're being told and thought: *something is deeply wrong here.* Maybe you're searching for what's real and true.
 
 The problem is **we have disconnected society from God Himself.** Without involving our Creator, we have no objective standard for truth, no basis for morality and no ground for human dignity.
 
@@ -68,9 +68,11 @@ Here you might rightly ask: "If God is all-good and all-powerful, why does He al
 
 **God permits evil because He will not create slaves.** The Catechism is direct: "God willed that man should be 'left in the hand of his own counsel,' so that he might of his own accord seek his Creator and freely attain his full and blessed perfection by cleaving to him" (CCC 1730, citing Sirach 15:14). Freedom is not a bug in God's design—it is the entire point. Love that is coerced is not love. Obedience extracted by force is not virtue. God wanted sons and daughters, not robots.
 
-**And here is the logic the skeptic refuses to face:** There is no freedom to choose good without the freedom to choose evil. You cannot have one without the other. The moment God creates a being capable of genuine love, He creates a being capable of genuine rejection. To demand a world without evil is to demand a world without freedom—which is to demand a world without love.
+**And here is the logic at the heart of freedom:** There is no freedom to choose good without the freedom to choose evil. You cannot have one without the other. The moment God creates a being capable of genuine love, He creates a being capable of genuine rejection. To demand a world without evil is to demand a world without freedom—which is to demand a world without love.
 
-**The very fact that you recognize evil proves the existence of good.** Evil has no substance of its own—it is the *absence* of good, the corruption of what should be. You cannot have darkness without light. You cannot call something evil unless you already know what good it is missing. The atheist who rages against evil borrows from a moral order he claims doesn't exist or grounds morality in personal opinion or some other "perceived good".
+And if you are already thinking of heaven—where the saints are perfectly free and sin no more—you have seen the point exactly. The freedom of the blessed is not freedom taken away but freedom fulfilled: a heart so filled with God that it no longer wants anything less. That fullness cannot be installed at the start, because it is the fruit of a love freely given and freely kept, day after day, until it is complete. The road of freedom must be walked for the arrival to be an arrival.
+
+**The very fact that you recognize evil bears witness to the existence of good.** Evil has no substance of its own—it is the *absence* of good, the corruption of what should be. You cannot have darkness without light. You cannot call something evil unless you already know what good it is missing. The atheist who rages against evil borrows from a moral order he claims doesn't exist or grounds morality in personal opinion or some other "perceived good".
 
 **And God has not left us helpless.** He gives us everything we need to live rightly: conscience to know the good, grace to pursue it, the sacraments to heal us when we fail, the Church to guide us, Scripture to instruct us, a heart to "know" Him who is good, and the Saints to show us it can be done. The problem is not that God withheld the tools—the problem is that we refuse to use them.
 
@@ -99,7 +101,7 @@ Consider "the good" versus "a perceived good." A parent giving unlimited screen 
 Every evil begins with this fatal move: The heart says to God, "No thanks. I know better." This is pride—the root sin. It's the serpent's lie to Eve: "You will be like God, knowing good and evil" (Genesis 3:5). From this delusion flows abortion, family breakdown, and cultural chaos.
 
 <div class="blockquote">
-"Original sin is the 'reverse side' of the Good News that Jesus is the Savior of all men, that all need salvation and that salvation is offered to all through Christ."
+"The doctrine of original sin is, so to speak, the 'reverse side' of the Good News that Jesus is the Savior of all men, that all need salvation and that salvation is offered to all through Christ."
 
 \hfill\small — Catechism of the Catholic Church 389
 </div>
@@ -198,3 +200,7 @@ The problem is clear—but what is the answer? The next chapter reveals it.
 - U.S. Census Bureau. *Current Population Survey: Families and Living Arrangements, Historical Tables* (2023). Via OJJDP Statistical Briefing Book, released March 2024. https://www.ojjdp.gov/ojstatbb/population/qa01202.asp?qaDate=2023. (Approximately 47–50% of Black children live without a resident father.)
 - Annie E. Casey Foundation. "Child Well-Being in Single-Parent Families." *KIDS COUNT Data Center*. Updated December 2025. Data from U.S. Census Bureau, American Community Survey. https://datacenter.aecf.org/data/tables/107-children-in-single-parent-families-by-race-and-ethnicity. (64% of Black children live in single-parent families.)
 - Hamilton, B.E., Martin, J.A., Osterman, M.J.K., and Rossen, L.M. *Births: Provisional Data for 2018.* National Center for Health Statistics, CDC. Vital Statistics Rapid Release Report No. 7, May 2019. (69.4% of Black births were to unmarried mothers.)
+
+**⁵ U.S. Abortion Counts**
+- Guttmacher Institute. *Monthly Abortion Provision Study*: approximately 1,037,000 clinician-provided abortions in 2023 and 1,038,100 in 2024 — counts that include only the formal health-care system, in states without total bans. https://www.guttmacher.org
+- U.S. Centers for Disease Control and Prevention. *Abortion Surveillance*: reports a lower annual figure (roughly 600,000) because several states — including California — do not report to it.
