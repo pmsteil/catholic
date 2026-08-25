@@ -22,7 +22,7 @@ A young woman aborts her third child. She's exhausted, already stretched thin be
 
 A school counselor meets a thirteen-year-old girl who is miserable, isolated, and hinting at self-harm. The counselor has been trained that gender confusion is real, that affirmation saves lives, and that unsupportive parents are a danger—not a resource. He genuinely believes he is protecting this child. So he affirms the girl's new identity and keeps it from her parents. He is not malicious. He is following a framework that has convinced an entire generation of professionals that dismantling the parent-child bond is compassion. The child goes home with a secret her family isn't allowed to share.
 
-A community organizer has watched her neighborhood hollowed out for decades—unemployment, bad schools, kids with no future. She has seen real racism. She has buried real victims. When she points to systemic oppression as the cause, she isn't making excuses—she's fighting for people she loves within the framework she knows. But that framework never names fatherlessness. It never asks why 47 to 50 percent of Black children are growing up without a father in the home.⁴ It never challenges the policies that made single motherhood financially rational and marriage economically punishing. She is fighting hard for her community—with a map that leaves out half the terrain.
+A community organizer has watched her neighborhood hollowed out for decades—unemployment, bad schools, kids with no future. She has seen real racism. She has buried real victims. When she points to systemic oppression as the cause, she isn't making excuses—she's fighting for people she loves within the framework she knows. But that framework never names fatherlessness. It never asks why 47 to 50 percent of Black children are growing up without a father in the home.<sup>1</sup> It never challenges the policies that made single motherhood financially rational and marriage economically punishing. She is fighting hard for her community—with a map that leaves out half the terrain.
 
 These aren't statistics—they're souls crying out in the darkness. Truth has become flimsy and negotiable and a matter of personal preference.
 
@@ -30,7 +30,7 @@ The rampant evil in our world demands we ask: "What has gone so terribly wrong w
 
 ## The Crisis That Forces the Question
 
-The lies have become so extreme that people are waking up. Maybe that's you. Maybe you watched abortion get rebranded as "healthcare" while the body count climbed past a million a year.⁵ Maybe you saw a school counselor secretly affirm your child's "gender identity" while your parental rights vanished. Maybe you watched fatherlessness destroy entire communities while leaders blamed the wrong cause. You looked at what we're being told and thought: *something is deeply wrong here.* Maybe you're searching for what's real and true.
+The lies have become so extreme that people are waking up. Maybe that's you. Maybe you watched abortion get rebranded as "healthcare" while the body count climbed past a million a year.<sup>2</sup> Maybe you saw a school counselor secretly affirm your child's "gender identity" while your parental rights vanished. Maybe you watched fatherlessness destroy entire communities while leaders blamed the wrong cause. You looked at what we're being told and thought: *something is deeply wrong here.* Maybe you're searching for what's real and true.
 
 The problem is **we have disconnected society from God Himself.** Without involving our Creator, we have no objective standard for truth, no basis for morality and no ground for human dignity.
 
@@ -42,9 +42,9 @@ The crisis isn't just political or cultural—it's theological. We preach "accep
 
 She knows—not because someone taught her, but because it's written in her heart. This reflects the **natural law written on every human heart** (Romans 2:15). As Vatican II teaches, deep within our conscience we discover a law we have not laid upon ourselves but must obey (*Gaudium et Spes* 16).
 
-Across every culture, anthropologists find consistent moral prohibitions: killing the innocent, breaking trust, exploiting the vulnerable, stealing, violating family stability. Every society affirms honesty, loyalty, fairness, and keeping one's word.¹ These aren't "social constructs"—they reflect universal human nature made in God's image. As Saint Paul teaches, "what the law requires is written on their hearts" (Romans 2:15).³
+Across every culture, anthropologists find consistent moral prohibitions: killing the innocent, breaking trust, exploiting the vulnerable, stealing, violating family stability. Every society affirms honesty, loyalty, fairness, and keeping one's word.<sup>3</sup> These aren't "social constructs"—they reflect universal human nature made in God's image. As Saint Paul teaches, "what the law requires is written on their hearts" (Romans 2:15).<sup>4</sup>
 
-This confirms what the Church affirms: creation, conscience, and covenant all point to one moral Author.² In fact, there is one Author of all truth—the one who said, *"I am the way, and the truth, and the life"* (John 14:6).
+This confirms what the Church affirms: creation, conscience, and covenant all point to one moral Author.<sup>5</sup> In fact, there is one Author of all truth—the one who said, *"I am the way, and the truth, and the life"* (John 14:6).
 
 **Yet here is the tragedy:** We have deep intuitions about what's good and true, yet we still choose evil. This is the mystery of sin—not mere ignorance, but a heart that rebels against what it knows is right.
 
@@ -179,28 +179,10 @@ The problem is clear—but what is the answer? The next chapter reveals it.
 - **St. Augustine of Hippo (354-430):** Bishop and Doctor of the Church whose *Confessions* and *City of God* provide foundational understanding of evil as privation of good and the role of free will in human sin
 - **Pope John Paul II (1920-2005):** His encyclical *Reconciliatio et Paenitentia* offers profound insights into the nature of sin and reconciliation in the modern world
 
-### Further Reading on Natural Law
+### Notes
 
-**¹ Universals in Ethical Intuition Across Cultures**
-- Brown, Donald E. *Human Universals*. New York: McGraw-Hill, 1991.
-- Lévi-Strauss, Claude. *The Elementary Structures of Kinship*. Boston: Beacon Press, 1969.
-- Fiske, Alan Page. *Structures of Social Life*. Free Press, 1991.
-
-**² Theological Anthropology & Natural Law**
-- Catechism of the Catholic Church: §§27–30, 33, 1776–1780, 1954–1960.
-- *Gaudium et Spes* (Vatican II), §16.
-- Smith, Christian. *Moral, Believing Animals*. Oxford University Press, 2003.
-
-**³ Cognitive and Moral Universals (Psychology & Anthropology)**
-- Haidt, Jonathan, and Craig Joseph. "Intuitive Ethics." *Daedalus* 133 (2004): 55–66.
-- Rosch, Eleanor. "Principles of Categorization." In *Cognition and Categorization*, 1978.
-- Henrich, Joseph. *The Secret of Our Success*. Princeton University Press, 2016.
-
-**⁴ Father Absence Among Black Children**
-- U.S. Census Bureau. *Current Population Survey: Families and Living Arrangements, Historical Tables* (2023). Via OJJDP Statistical Briefing Book, released March 2024. https://www.ojjdp.gov/ojstatbb/population/qa01202.asp?qaDate=2023. (Approximately 47–50% of Black children live without a resident father.)
-- Annie E. Casey Foundation. "Child Well-Being in Single-Parent Families." *KIDS COUNT Data Center*. Updated December 2025. Data from U.S. Census Bureau, American Community Survey. https://datacenter.aecf.org/data/tables/107-children-in-single-parent-families-by-race-and-ethnicity. (64% of Black children live in single-parent families.)
-- Hamilton, B.E., Martin, J.A., Osterman, M.J.K., and Rossen, L.M. *Births: Provisional Data for 2018.* National Center for Health Statistics, CDC. Vital Statistics Rapid Release Report No. 7, May 2019. (69.4% of Black births were to unmarried mothers.)
-
-**⁵ U.S. Abortion Counts**
-- Guttmacher Institute. *Monthly Abortion Provision Study*: approximately 1,037,000 clinician-provided abortions in 2023 and 1,038,100 in 2024 — counts that include only the formal health-care system, in states without total bans. https://www.guttmacher.org
-- U.S. Centers for Disease Control and Prevention. *Abortion Surveillance*: reports a lower annual figure (roughly 600,000) because several states — including California — do not report to it.
+1. U.S. Census Bureau, *Current Population Survey: Families and Living Arrangements* (2023, via OJJDP); Annie E. Casey Foundation, *KIDS COUNT Data Center* (2025) — approximately 47–50% of Black children live without a resident father; 64% live in single-parent households.
+2. Guttmacher Institute, *Monthly Abortion Provision Study*: approximately 1,037,000 abortions in 2023 and 1,038,100 in 2024, counts limited to the formal health-care system. The CDC's *Abortion Surveillance* reports a lower figure (roughly 600,000) because several states, including California, do not report to it.
+3. Brown, *Human Universals* (1991); Lévi-Strauss, *The Elementary Structures of Kinship* (1969); Fiske, *Structures of Social Life* (1991) — anthropological surveys finding the same moral prohibitions, against killing the innocent, breaking trust, and exploiting the vulnerable, recurring across every studied culture.
+4. Haidt and Joseph, "Intuitive Ethics," *Daedalus* 133 (2004); Henrich, *The Secret of Our Success* (2016) — cross-cultural and cognitive research supporting a shared moral intuition beneath surface-level cultural variation.
+5. *Catechism of the Catholic Church*, §§27–30, 33, 1776–1780, 1954–1960; *Gaudium et Spes* (Vatican II), §16; Smith, *Moral, Believing Animals* (2003).

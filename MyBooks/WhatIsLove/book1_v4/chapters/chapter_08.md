@@ -284,8 +284,8 @@ Cruelty, vengeance, and despair are the three faces of a love that will not forg
 
 <div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
 <p><strong>Love without mercy becomes cruelty</strong> — truth and justice become weapons that define people by their worst moments and close the door on restoration.<sup>2</sup></p>
-<p><strong>Love without mercy becomes vengeance</strong> — every wrong demands permanent punishment; cycles of retaliation never end; no one can be restored.<sup>3</sup></p>
-<p><strong>Love without mercy produces despair</strong> — without the possibility of redemption, the only response to one's own sinfulness is hopelessness. The Gospel itself becomes impossible.<sup>4</sup></p>
+<p><strong>Love without mercy becomes vengeance</strong> — every wrong demands permanent punishment; cycles of retaliation never end; no one can be restored (Matt 18:23–35; James 2:13; CCC 2303).</p>
+<p><strong>Love without mercy produces despair</strong> — without the possibility of redemption, the only response to one's own sinfulness is hopelessness. The Gospel itself becomes impossible.<sup>3</sup></p>
 </div>
 
 The only way to evict the torturers is the way the unforgiving servant refused: to extend, from a grateful heart, the mercy we ourselves have already received. **Mercy kept is mercy revoked; mercy given away is mercy kept.** Every time we receive it and pass it on, we choose communion over condemnation — and good triumphs, quietly and steadily, over the evil within us before it can keep spreading into the world around us.
@@ -327,5 +327,4 @@ Mercy always comes at a cost — and that cost is sacrifice. In Chapter 9, we tu
 
 1. St. John Paul II, *Redemptoris Missio* (1990), §13.
 2. St. Thomas Aquinas, *Summa Theologiae* II-II, q.159 (cruelty as the vice opposed to clemency, the virtue that tempers punishment as mercy tempers judgment); *Catechism of the Catholic Church*, §2447.
-3. Matthew 18:23-35 (Parable of the Unforgiving Servant); James 2:13; *Catechism of the Catholic Church*, §2303.
-4. *Catechism of the Catholic Church*, §2091; Pope John Paul II, *Dives in Misericordia* (1980), §4.
+3. *Catechism of the Catholic Church*, §2091; Pope John Paul II, *Dives in Misericordia* (1980), §4.

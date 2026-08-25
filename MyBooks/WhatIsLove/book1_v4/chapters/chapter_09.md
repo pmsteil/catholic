@@ -380,8 +380,8 @@ We opened this chapter by naming sloth — lukewarmness, the refusal to pay what
 
 <div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
 <p><strong>Love without sacrifice becomes transaction</strong> — covenant shrinks to contract; we give only so long as we receive, treating the beloved as a vendor of benefits rather than a person of infinite worth.<sup>1</sup></p>
-<p><strong>Love without sacrifice becomes barren</strong> — the grain that will not fall into the earth and die remains alone, unable to generate new life or draw anyone into communion.<sup>2</sup></p>
-<p><strong>Love without sacrifice becomes betrayal</strong> — when the cost finally comes due, the one who never paid abandons the beloved, just as Peter, who had sworn to die with Christ, denied Him three times at the fire.<sup>3</sup></p>
+<p><strong>Love without sacrifice becomes barren</strong> — the grain that will not fall into the earth and die remains alone, unable to generate new life or draw anyone into communion (John 12:24; John 15:5).</p>
+<p><strong>Love without sacrifice becomes betrayal</strong> — when the cost finally comes due, the one who never paid abandons the beloved, just as Peter, who had sworn to die with Christ, denied Him three times at the fire (Mark 14:29–31, 66–72; 1 John 3:18).</p>
 </div>
 
 ## The Bridge to Life-Giving Communion
@@ -426,5 +426,3 @@ For readers who want to go deeper into how the Old Testament covenants and sacri
 ### Notes
 
 1. Philippians 2:3; Vatican II, *Gaudium et Spes* (1965), §24 ("Man cannot fully find himself except through a sincere gift of himself"); *Catechism of the Catholic Church*, §1601 (marriage as covenant, not contract).
-2. John 12:24; John 15:5.
-3. Mark 14:29–31, 66–72 (Peter's boast and denial at the fire); 1 John 3:18 ("let us not love in word or speech but in deed and in truth").

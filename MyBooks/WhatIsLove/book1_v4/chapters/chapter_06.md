@@ -281,7 +281,7 @@ We opened this chapter by naming lying as the sin directly opposite to truth. Wh
 <div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
 <p><strong>Love without truth becomes sentimentality and manipulation</strong> — an empty shell anyone can fill with any meaning.<sup>5</sup></p>
 <p><strong>Love without truth becomes relativism</strong> — a world where whoever holds power defines what love is.<sup>6</sup></p>
-<p><strong>Love without truth becomes idolatry</strong> — you worship a god of your own construction, not the God who is both Love and Truth.<sup>7</sup></p>
+<p><strong>Love without truth becomes idolatry</strong> — you worship a god of your own construction, not the God who is both Love and Truth (CCC 2113).</p>
 </div>
 
 ## The Bridge to Justice
@@ -325,4 +325,3 @@ Truth reveals what each person is truly owed—and **justice** is love giving wh
 4. St. John Paul II, *Redemptoris Missio* (1990), §31, quoting Vatican II, *Ad Gentes* 10.
 5. Pope Benedict XVI, *Caritas in Veritate* (2009), §3.
 6. Pope Benedict XVI, Homily for the Mass of Election of the Supreme Pontiff, April 18, 2005.
-7. *Catechism of the Catholic Church*, §2113.
