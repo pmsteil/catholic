@@ -49,27 +49,23 @@ Quotations from papal encyclicals, apostolic exhortations, and other magisterial
 
 ### Published by
 
-[Publisher Name]
-[Publisher Address]
-[Publisher Website]
-
-ISBN: [To be assigned]
-
-First Edition 2026
-
-Printed in the United States of America
+Not yet finalized. This printing is a manuscript prepared for theological review, prior to submission to the Bishop for ecclesiastical approval.
 
 ---
 
+\clearpage
+
 ### Dedication
 
-For my six sons and all the children God's Love wants to save
+For my love, my six sons, and our baby in Heaven; for our grandchildren, great-grandchildren, and every child yet to come. Teach them all: God is Love.
+
+\clearpage
 
 ---
 
 ### Nihil Obstat and Imprimatur
 
-[To be obtained]
+Not yet obtained. This manuscript has not been reviewed or approved by ecclesiastical authority. It is being circulated privately to trusted priests and theologians for feedback before formal submission to the Bishop.
 
 ---
 

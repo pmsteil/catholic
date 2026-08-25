@@ -1,4 +1,4 @@
-# The Generational Consequences: How Counterfeit Love Destroys Children
+# What Counterfeit Love Costs the Children
 
 <div class="blockquote">
 "Whoever receives one such child in my name receives me; but whoever causes one of these little ones who believe in me to sin, it would be better for him to have a great millstone fastened round his neck and to be drowned in the depth of the sea."

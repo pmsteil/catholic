@@ -44,3 +44,9 @@ If anything in this book is true, its author is the Holy Spirit working through 
 
 Through the Holy Spirit, I am simply gathering the wisdom of our Creator that has been revealed through Sacred Scripture, the Catechism, the saints, and the Church's 2,000-year tradition—hoping to present it in a way that is meaningful to all Christians.
 
+---
+
+A note on how this book was written: this is the fourth full version of this manuscript, refined over about a year of writing after 37 years of prayer and study. Throughout that year, I used AI tools—Claude and ChatGPT—to help research, organize, and edit these words, especially in tracing the connections between Scripture, the Catechism, and the saints. But this book was not written by AI. I directed every word based on what God has revealed to me through His Scripture and His Church. No AI can know the depths of the human heart, or the depths of God's love—it only helped me say more clearly what I already knew to be true.
+
+To God be the glory.
+

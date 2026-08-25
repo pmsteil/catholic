@@ -365,6 +365,7 @@ def preprocess_files(files: List[str], profile: Optional[str] = None) -> List[st
         out_files.append(str(frontmatter_file))
 
     mainmatter_inserted = False
+    backmatter_inserted = False
     appendix_started = False
     toc_inserted = False
 
@@ -463,12 +464,25 @@ def preprocess_files(files: List[str], profile: Optional[str] = None) -> List[st
                 print(f"[build] inserted TOC before {name_only}")
 
         # When we reach the first numbered chapter file, switch to main matter via a raw TeX block in Markdown
-        if insert_tex_markers and not mainmatter_inserted and (name == "chapter_01.md" or name.startswith("chapter_01.")):
+        if insert_tex_markers and not mainmatter_inserted and (name == "chapter_01.md" or name.startswith("chapter_01.") or name == "part_1.md"):
             mainmatter_file = Path(tmpdir) / "01__mainmatter.md"
             with open(mainmatter_file, "w", encoding="utf-8") as mf:
                 mf.write("\\mainmatter\n\\thispagestyle{empty}\n")
             out_files.append(str(mainmatter_file))
             mainmatter_inserted = True
+
+        # When we reach the epilogue, switch to back matter so it (and anything
+        # after it) renders as an unnumbered chapter, just like the frontmatter —
+        # our \if@mainmatter-gated chapter titleformat hides the Roman numeral
+        # and titlesec drops the number from the TOC/bookmark entry too, so
+        # "Epilogue" reads as a distinct closing section instead of continuing
+        # the numbered chapter sequence (it previously rendered as "XVIII.").
+        if insert_tex_markers and not backmatter_inserted and name == "epilogue.md":
+            backmatter_file = Path(tmpdir) / "97__backmatter.md"
+            with open(backmatter_file, "w", encoding="utf-8") as bf:
+                bf.write("\\backmatter\n")
+            out_files.append(str(backmatter_file))
+            backmatter_inserted = True
 
         # When we reach the first appendix file, switch to appendix mode so chapters
         # are lettered (A, B, C, …) and sections are numbered as A.1, A.2, …

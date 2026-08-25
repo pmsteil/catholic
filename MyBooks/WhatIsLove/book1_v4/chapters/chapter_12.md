@@ -90,7 +90,9 @@ Love flows from God's nature—not arbitrary commands but the blueprint of reali
 
 ## Why Only God Can Ground Love
 
-Only God can ground the objective moral order we've discovered. Love requires a personal source—only a personal God grounds personal obligations. It needs an eternal foundation—only an eternal God grounds eternal truths. It demands infinite authority—only an infinite God creates universal obligations. It requires perfect integration and a sacred origin—which only God can source.
+Only God can ground the objective moral order we've discovered. Love requires a personal source—only a personal God grounds personal obligations. It needs an eternal foundation—only an eternal God grounds eternal truths. It carries an authority we don't invent—only an infinite God is what we're already moving toward. It requires perfect integration and a sacred origin—which only God can source.
+
+And notice: we don't recognize this authority by argument, the way we might infer some distant lawgiver to explain a law. We live inside it. Chapter 1 already named the pattern — even sin is "choosing a perceived good for ourselves at the expense of others," never a choice of no good at all. The addict, the adulterer, the man who cheats his neighbor: each is reaching for something he believes, in that moment, is worth having. We have been living this pull our whole lives, pursuing what looks like good in every act, faithful or fallen — following a light without yet knowing its name. To recognize, then, that the source of that pull has a name is not the conclusion of an argument. It is finally learning the name of the light we have been following all along.
 
 The comprehensive nature of authentic love—its integration of multiple objective requirements, its universal binding force, its eternal truth, its sacred character—points to God as its source, and to nothing else that can bear the weight.
 

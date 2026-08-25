@@ -1,10 +1,10 @@
 title: What Is Love?
 subtitle: God's Perfect Love is the sacred gift of covenant binding truth, justice, mercy and sacrifice into life-giving communion.
 author: Patrick Steil, St. John Paul II University Parish, Denton TX
-edition: Revision 5 (Chapters 1-5) - April 12, 2026
+edition: Draft for Theological Review — Not for Publication — August 2026
 lang: en-US
 documentclass: book
-classoption: [twoside, openany]
+classoption: [twoside, openright]
 numbersections: true
 secnumdepth: 0
 toc-depth: 3
@@ -26,8 +26,13 @@ header-includes:
     \providecommand{\xmark}{\ding{55}}
   - |
     \usepackage{xcolor}
-    \definecolor{crimsontext}{HTML}{541e23}
+    \definecolor{crimsontext}{HTML}{8a2323}
     \definecolor{goldframe}{HTML}{be985c}
+    \definecolor{pagecream}{HTML}{f8f6f0}
+    \pagecolor{pagecream}
+  - |
+    \usepackage{fontspec}
+    \input{build/fontsetup.tex}
   - |
     \usepackage{quoting}
     \quotingsetup{vskip=6pt,leftmargin=1em,rightmargin=1em,font=\itshape\color{crimsontext}}
@@ -42,6 +47,8 @@ header-includes:
       \renewcommand{\cftchapaftersnum}{\hspace{0.75em}}
       \renewcommand{\cftsecaftersnum}{\hspace{0.75em}}
       \renewcommand{\cftsubsecaftersnum}{\hspace{0.75em}}
+      \renewcommand{\cftpartfont}{\headerfont\color{crimsontext}\large\scshape}
+      \renewcommand{\cftpartpagefont}{\headerfont\color{crimsontext}\large\scshape}
     }
   - |
     \usepackage{fancyhdr}
@@ -52,28 +59,27 @@ header-includes:
     \renewcommand{\chaptermark}[1]{%
       \def\temparg{#1}%
       \def\prefacetext{Preface}%
+      \def\introtext{Introduction}%
+      \def\titletext{What is Love?}%
       \ifx\temparg\prefacetext
-        \markboth{Preface}{}%
+        \markboth{Preface}{Preface}%
+      \else\ifx\temparg\introtext
+        \markboth{Introduction}{Introduction}%
+      \else\ifx\temparg\titletext
+        \markboth{}{}%
       \else
-        \begingroup
-        \def\checkintro##1Why I wrote this book##2\relax{%
-          \ifx\relax##2\relax
-            \markboth{\@chapapp\ \thechapter\enspace #1}{}%
-          \else
-            \markboth{Introduction}{}%
-          \fi
-        }%
-        \expandafter\checkintro\temparg Why I wrote this book\relax
-        \endgroup
-      \fi
+        \markboth{\@chapapp\ \thechapter}{#1}%
+      \fi\fi\fi
     }
     \makeatother
-    \fancyhead[LE,RO]{\footnotesize \leftmark}
-    \fancyfoot[CE,CO]{\thepage}
+    \renewcommand{\sectionmark}[1]{}
+    \fancyhead[LE]{\footnotesize\color{crimsontext} \leftmark}
+    \fancyhead[RO]{\footnotesize\color{crimsontext} \rightmark}
+    \fancyfoot[CE,CO]{\color{crimsontext}\thepage}
   - |
     \usepackage{titling}
-    \pretitle{\begin{center}\LARGE\bfseries}
-    \posttitle{\par\vskip 0.5em\large\textit\textmd{Revision 5 (Chapters 1-5) - April 12, 2026}\end{center}\vskip 1em}
+    \pretitle{\begin{center}\headerfont\LARGE\bfseries}
+    \posttitle{\par\vskip 0.5em\large\textit\textmd{Draft for Theological Review --- Not for Publication --- August 2026}\end{center}\vskip 1em}
   - |
     \definecolor{lightcream}{HTML}{f8f6f0}
     \newenvironment{blockquote}{%
@@ -124,6 +130,29 @@ header-includes:
     }{%
       \end{tcolorbox}
     }
+  - |
+    \usepackage{titlesec}
+    \makeatletter
+    \titleformat{\chapter}{\headerfont\color{crimsontext}\Huge\scshape}{\if@mainmatter\Roman{chapter}.\ \fi}{0pt}{}
+    \titlespacing*{\chapter}{0pt}{40pt}{30pt}
+    \AtBeginDocument{%
+      \renewcommand{\tableofcontents}{%
+        \if@twocolumn\@restonecoltrue\onecolumn\else\@restonecolfalse\fi
+        \if@openright\cleardoublepage\else\clearpage\fi
+        \thispagestyle{plain}%
+        \global\@topnum\z@
+        \@afterindenttrue
+        {\parindent\z@\raggedright\headerfont\color{crimsontext}\Huge\scshape\contentsname\par\nobreak\vskip 30\p@}%
+        \@mkboth{\MakeUppercase\contentsname}{\MakeUppercase\contentsname}%
+        \@starttoc{toc}%
+        \if@restonecol\twocolumn\fi
+      }%
+    }
+    \makeatother
+    \titleformat{\section}{\headerfont\color{crimsontext}\scshape\large}{}{0pt}{}
+    \titleformat{\subsection}{\headerfont\color{crimsontext}\itshape\normalsize}{}{0pt}{}
+    \titleformat{\part}[display]{\headerfont}{\begin{center}\strut{\color{goldframe}\rule{2in}{0.8pt}}\\[0.6em]{\color{crimsontext}\Large\scshape\partname\ \Roman{part}}\\[0.6em]\strut{\color{goldframe}\rule{2in}{0.8pt}}\end{center}}{1.2em}{\centering\color{crimsontext}\Huge\scshape}
+    \titlespacing*{\part}{0pt}{0.3\textheight}{0.2\textheight}
 geometry:
   - paperwidth=6in
   - paperheight=9in
@@ -134,11 +163,14 @@ geometry:
   - bindingoffset=0.25in
 chapters:
   - 0_cover.md
+  - 0b_giftplate.md
   - 1_frontmatter.md
   - 2_preface.md
   - 3_introduction.md
+  - part_1.md
   - chapter_01.md
   - chapter_02.md
+  - part_2.md
   - chapter_03.md
   - chapter_04.md
   - chapter_05.md
@@ -147,12 +179,13 @@ chapters:
   - chapter_08.md
   - chapter_09.md
   - chapter_10.md
+  - part_3.md
   - chapter_11.md
   - chapter_12.md
   - chapter_13.md
   - chapter_14.md
   - chapter_15.md
   - chapter_16.md
+  - part_4.md
   - chapter_17.md
   - epilogue.md
-  - z_authors_note.md
