@@ -1,4 +1,4 @@
-# The Law of Love Requires a Lawgiver
+# The Lawgiver Is Love
 
 <div class="blockquote">
 "Ever since the creation of the world his invisible nature, namely, his eternal power and deity, has been clearly perceived in the things that have been made."

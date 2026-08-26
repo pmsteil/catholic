@@ -1,4 +1,4 @@
-# Prudence — How to Love
+# Prudence: How to Love
 
 <div class="blockquote">
 "Behold, I send you out as sheep in the midst of wolves; so be wise as serpents and innocent as doves."

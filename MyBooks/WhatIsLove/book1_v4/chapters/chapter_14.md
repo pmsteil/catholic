@@ -1,4 +1,4 @@
-# Sin and Vice — The Failure to Love
+# Sin and Vice: The Failure to Love
 
 <div class="blockquote">
 "If any one sees his brother committing what is not a mortal sin, he will ask, and God will give him life for those whose sin is not mortal. There is sin which is mortal; I do not say that one is to pray for that. All wrongdoing is sin, but there is sin which is not mortal."

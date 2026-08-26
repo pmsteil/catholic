@@ -1,4 +1,4 @@
-# The Gospel - God's Perfect Love Revealed in Christ
+# The Gospel — Perfect Love Revealed in Christ
 
 <div class="blockquote">
 "And the Word became flesh and dwelt among us, full of grace and truth; we have beheld his glory, glory as of the only Son from the Father."

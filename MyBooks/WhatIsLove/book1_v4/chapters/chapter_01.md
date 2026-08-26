@@ -152,7 +152,7 @@ The answer to the question of this book—*What is love?*—is the only answer t
 
 Before continuing, pause. Ask yourself: *Where have I contributed to this brokenness? Where have I chosen a perceived good over the true good?* This is not a book for spectators. If we want to understand love, we must be willing to be transformed by it.
 
-## The Bridge to The Answer is Love
+## The Bridge to The Answer Is Love
 
 The word you'll encounter throughout this journey is **communion**—this is what evil destroys, and what love restores.
 

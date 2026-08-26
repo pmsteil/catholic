@@ -1,4 +1,4 @@
-# Mercy — God Is Mercy
+# Mercy: God Is Mercy
 
 <div class="blockquote">
 "The LORD, the LORD, a God merciful and gracious, slow to anger, and abounding in steadfast love and faithfulness."

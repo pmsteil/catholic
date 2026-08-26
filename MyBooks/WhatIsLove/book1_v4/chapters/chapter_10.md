@@ -1,4 +1,4 @@
-# Life-Giving Communion — Love's Goal
+# Life-Giving Communion: Love's Goal
 
 <div class="blockquote">
 "I came that they may have life, and have it abundantly."

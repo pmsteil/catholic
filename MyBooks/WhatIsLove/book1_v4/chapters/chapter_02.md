@@ -1,4 +1,4 @@
-# The Answer is Love
+# The Answer Is Love
 
 <div class="blockquote">
 "So we know and believe the love God has for us. God is love, and he who abides in love abides in God, and God abides in him."

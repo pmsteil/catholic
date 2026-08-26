@@ -1,4 +1,4 @@
-# Truth — God Is Truth
+# Truth: God Is Truth
 
 <div class="blockquote">
 "Jesus said to him, 'I am the way, and the truth, and the life; no one comes to the Father, but by me.'"

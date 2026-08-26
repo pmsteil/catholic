@@ -146,9 +146,10 @@ header-includes:
       \end{tcolorbox}
     }
   - |
+    \usepackage{scalefnt}
     \usepackage{titlesec}
     \makeatletter
-    \titleformat{\chapter}{\headerfont\color{crimsontext}\Huge\scshape\hyphenpenalty=10000\exhyphenpenalty=10000}{\if@mainmatter\Roman{chapter}.\ \fi}{0pt}{}
+    \titleformat{\chapter}{\headerfont\color{crimsontext}\linespread{0.85}\Huge\scalefont{0.95}\addfontfeature{LetterSpace=-5}\scshape\hyphenpenalty=10000\exhyphenpenalty=10000}{\if@mainmatter\Roman{chapter}.\ \fi}{0pt}{}
     \titlespacing*{\chapter}{0pt}{38pt}{30pt}
     \AtBeginDocument{%
       \renewcommand{\tableofcontents}{%

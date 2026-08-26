@@ -1,4 +1,4 @@
-# The Nature of Virtues—Faith Working Through Love
+# Faith Works Through Love
 
 <div class="blockquote">
 "So faith, hope, love abide, these three; but the greatest of these is love."

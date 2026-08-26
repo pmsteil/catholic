@@ -1,4 +1,4 @@
-# Binding - How love unites
+# Binding: What Love Unites
 
 <div class="blockquote">
 "If I . . . have not charity," says the Apostle, "I am nothing." Whatever my privilege, service, or even virtue, "if I . . . have not charity, I gain nothing." Charity is superior to all the virtues. It is the first of the theological virtues: "So faith, hope, charity abide, these three. But the greatest of these is charity. (1 Corinthians 13:1-3,13)"

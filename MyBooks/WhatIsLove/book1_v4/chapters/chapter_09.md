@@ -1,4 +1,4 @@
-# Sacrifice — Love's Eternal Self-Gift
+# Sacrifice: Love's Eternal Self-Gift
 
 <div class="blockquote">
 "By this we know love, that he laid down his life for us; and we ought to lay down our lives for the brethren."

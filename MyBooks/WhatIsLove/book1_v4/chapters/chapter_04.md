@@ -1,4 +1,4 @@
-# Gift of Covenant - Permanent Love Through Voluntary Authority
+# Gift of Covenant: Love's Willing Submission
 
 <div class="blockquote">
 "And I will establish my covenant between me and you and your descendants after you throughout their generations for an everlasting covenant, to be God to you and to your descendants after you."

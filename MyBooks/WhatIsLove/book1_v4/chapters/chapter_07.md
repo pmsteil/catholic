@@ -1,4 +1,4 @@
-# Justice — God Is Justice
+# Justice: God Is Justice
 
 <div class="blockquote">
 "For the LORD is a God of justice; blessed are all those who wait for him."
