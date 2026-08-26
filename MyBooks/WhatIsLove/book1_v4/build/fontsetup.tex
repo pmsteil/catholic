@@ -1,0 +1,33 @@
+% Font setup for What Is Love? — kept in its own file because pandoc's
+% markdown parser mangles literal [ ] and * characters when they appear
+% inline inside YAML header-includes (raw-tex escaping bug). \input-ing
+% this file bypasses pandoc's parser entirely, so the brackets/wildcards
+% below reach XeTeX untouched.
+% Font files are bundled in fonts/ (EB Garamond: SIL Open Font License;
+% Latin Modern: GUST Font License — both free to redistribute), so this
+% works identically on any machine with no system font install required.
+% Body font is the current Google Fonts "EB Garamond" release (static
+% weight instances cut from its variable font), not the older optical-size
+% "EB Garamond 12" apt package — that older build's Bold weight is missing
+% the em dash and curly-quote glyphs, which silently dropped those
+% characters wherever bold text used them.
+% (Referencing "Latin Modern Roman" by OS-level name broke on tectonic,
+% which doesn't register TeX's bundled fonts with the system font
+% manager — bundling the actual files sidesteps that entirely.)
+\setmainfont{EBGaramond}[
+  Path = fonts/,
+  Extension = .ttf,
+  UprightFont = *-Regular,
+  BoldFont = *-Bold,
+  ItalicFont = *-Italic,
+  BoldItalicFont = *-BoldItalic
+]
+\newfontfamily\headerfont{lmroman10}[
+  Path = fonts/,
+  Extension = .otf,
+  UprightFont = *-regular,
+  BoldFont = *-bold,
+  ItalicFont = *-italic,
+  BoldItalicFont = *-bolditalic,
+  SmallCapsFont = lmromancaps10-regular
+]

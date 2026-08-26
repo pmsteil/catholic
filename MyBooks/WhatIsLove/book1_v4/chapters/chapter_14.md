@@ -107,11 +107,11 @@ Hatred belongs to no single family because it attacks all four at once; wrath, v
 
 God does not treat all sins the same. Some Christians claim "all sin is equal" and "we're always equally guilty before God." But this denies both God's justice and His mercy.
 
-### **A Common Misinterpretation of Scripture:**
+### A Common Misinterpretation of Scripture:
 
 Those who claim all sin is equal often cite James 2:10 ("whoever fails in one point has become guilty of all") or Romans 3:23 ("all have sinned"). But context reveals their true meaning: James argues against *selective* obedience, not equal gravity—breaking the speed limit and murder both make you a lawbreaker, but the gravity differs vastly. Paul teaches that all need redemption, not that all remain in mortal sin—he later calls us to "walk in newness of life" (Romans 6:4). And when John warns "if we say we have no sin, we deceive ourselves" (1 John 1:8), he immediately adds that confession brings forgiveness (1 John 1:9)—and explicitly distinguishes between deadly and non-deadly sin (1 John 5:16-17).
 
-### **Jesus Himself Teaches We Can Choose Good:**
+### Jesus Himself Teaches We Can Choose Good:
 
 Jesus commands us: **"You, therefore, must be perfect, as your heavenly Father is perfect"** (Matthew 5:48).
 
@@ -123,13 +123,13 @@ God's perfect love integrates truth, justice, mercy and sacrifice even here: in 
 
 This is the beauty of Catholic teaching: we are never trapped in our sin. Free to fall, we are just as **free to repent and be restored.** We can avoid mortal sin through God's grace. We can grow in holiness. We can become saints.
 
-### **But Scripture Clearly Distinguishes Degrees of Sin:**
+### But Scripture Clearly Distinguishes Degrees of Sin:
 
 **God's Justice** requires that different offenses receive proportional judgment. A small lie is not the same as murder. Brief impatience is not the same as nursing hatred. To claim otherwise would be unjust—and God is perfectly just.
 
 **God's Mercy** does not weigh every fault the same. If a moment's impatience carried the full weight of murder, that would be no mercy at all—it would crush us under a standard no human being could bear. God sees us in truth: we are creatures, unable to obey with His own perfection. So He distinguishes between sins that wound our relationship with Him (venial) and sins that kill it (mortal)—and when we fall, He keeps the way back to Him short, through the Sacrament of Reconciliation.
 
-### **Scripture Clearly Teaches This Distinction:**
+### Scripture Clearly Teaches This Distinction:
 
 St. John writes: **"There is sin which is mortal; I do not say that one is to pray for that. All wrongdoing is sin, but there is sin which is not mortal"** (1 John 5:16-17).
 
@@ -149,16 +149,16 @@ This is also why the distinction fits so naturally here—not because two paths 
 
 The Catechism teaches that for a sin to be mortal, **all three** of the following conditions must be present (CCC 1857-1859):
 
-### **1. Grave Matter**
+### 1. Grave Matter
 The act itself must be seriously wrong—a grave violation of God's law. The Ten Commandments identify the most serious areas: idolatry, blasphemy, murder, adultery, theft, false witness, coveting. The Church's moral teaching clarifies what constitutes grave matter in various circumstances: under the Fifth Commandment, murder, abortion, and euthanasia; under the Sixth, adultery, fornication, pornography, and masturbation; under the Seventh, theft of significant value, fraud, and exploitation; under the Eighth, perjury, serious slander, and betrayal of secrets; and under the First, apostasy (walking away from the faith), heresy (knowingly rejecting a truth of the faith), schism (breaking from the unity of the Church), and sacrilege (violating what is sacred). But not all instances of these vices are automatically mortal—the other two conditions must also be present.
 
-### **2. Full Knowledge**
+### 2. Full Knowledge
 The person must know that the act is seriously sinful—knowing it violates God's law, understanding it is grave matter and not just a minor fault, and being aware of what one is actually doing rather than acting in ignorance. Several things can reduce that knowledge: invincible ignorance (genuinely not knowing it's wrong, through no fault of one's own), a lack of proper formation in the faith, mental impairment or confusion, or being misled by false teaching. But culpable ignorance—choosing not to learn what the Church teaches—does not excuse; we have a duty to form our consciences according to truth.
 
-### **3. Deliberate Consent**
+### 3. Deliberate Consent
 The person must freely choose to commit the act—acting with full freedom of will, giving complete consent rather than merely being tempted, and choosing the sin despite knowing it's wrong. That freedom, too, can be reduced: by grave fear or coercion, by strong passions that cloud judgment without eliminating responsibility, by addiction or compulsion, which reduces but does not eliminate culpability, or by a habit formed over time, which makes resistance harder without removing freedom entirely.
 
-### **All Three Must Be Present:**
+### All Three Must Be Present:
 
 If any one of these conditions is absent or significantly diminished, the sin is venial rather than mortal instead: grave matter with full knowledge but only partial consent is venial (or less grave); grave matter with partial knowledge but full consent is venial (or less grave); and lesser matter, even with full knowledge and full consent, is venial. **This is why the same vice can be either mortal or venial depending on circumstances.** The matrix above shows the nature of each vice—which pillars it offends against—but whether any particular instance is mortal depends on these three conditions together.
 
@@ -166,15 +166,15 @@ If any one of these conditions is absent or significantly diminished, the sin is
 
 ## Mitigating and Aggravating Factors
 
-### **Mitigating Factors (Reduce Culpability):**
+### Mitigating Factors (Reduce Culpability):
 
 The factors that reduce knowledge and freedom are the same ones named under the three conditions above. What matters when weighing culpability is that these factors reduce culpability without necessarily eliminating it: we remain responsible for forming our consciences and seeking help for addictions and compulsions, culpable ignorance (choosing not to learn) still doesn't excuse, and deliberately getting drunk to "excuse" a sin doesn't reduce culpability either.
 
-### **Aggravating Factors (Increase Gravity):**
+### Aggravating Factors (Increase Gravity):
 
 Other factors work the opposite way, deepening a sin's gravity along the same four pillars. Against truth: hypocrisy, scandal, sacrilege. Against justice: abuse of authority, violating a sacred trust, harming the vulnerable. Against mercy: cruelty, malice, refusing to repent. Against sacrifice: premeditation, persistence, leading others into sin.
 
-### **The Role of Circumstances:**
+### The Role of Circumstances:
 
 The same grave act grows heavier when a circumstance adds a second offense to it. Stealing a hundred dollars from a coworker's desk is theft; stealing the same amount from the collection basket adds *sacrilege*. Adultery is already mortal; committed by a priest, it adds *sacrilege* and public *scandal*. The matter was grave to begin with—the circumstance is what deepens it. **The Church's wisdom** in distinguishing these factors helps us understand the true gravity of our sins and form our consciences properly.
 
@@ -184,7 +184,7 @@ The same grave act grows heavier when a circumstance adds a second offense to it
 
 Two examples will illustrate how the same vice can manifest at different levels of gravity. The pattern applies to every vice.
 
-### **Example 1: Lying (Dishonesty)**
+### Example 1: Lying (Dishonesty)
 
 Lying directly denies truth by speaking falsehood, withholds from others what they have a right to know, and refuses the cost that telling a difficult truth would have required.
 
@@ -196,7 +196,7 @@ What separates the two ends is the gravity of the harm caused, the degree of inj
 
 ---
 
-### **Example 2: Lust**
+### Example 2: Lust
 
 Lust distorts the truth of what sexuality is for, treats persons as objects rather than as ends in themselves, and indulges disordered desire rather than paying the cost chastity asks.
 
@@ -212,17 +212,17 @@ What separates the two ends is whether the thought or desire is consented to or 
 
 The Seven Deadly Sins (Capital Vices) are called "deadly" because they are *root sources* (capita = head) from which other sins spring—spiritual diseases that progressively destroy our relationship with God, neighbor, and self. When fully embraced, they become idolatry; they spawn families of related sins; and they progressively harden the heart, making mortal sin more likely.
 
-### **What Each Deadly Sin Leads To:**
+### What Each Deadly Sin Leads To:
 
 The matrix above shows which pillars each deadly sin offends; left unchecked, each also leads somewhere specific. **Pride**, unchecked, leads to idolatry, selfishness, ingratitude, disobedience, presumption, contempt for others, and spiritual blindness—the root from which all the other sins spring. **Greed** leads to exploitation, fraud, theft, and a hardness of heart toward the needy. **Lust** leads to adultery, fornication, pornography, exploitation, and broken families. **Wrath** leads to murder, war, violence, hatred, and vengeance—the theft of what God reserves to Himself, seizing the repayment owed to Him alone and spending one's own peace and resources to inflict harm rather than give life—and broken relationships; *"Vengeance is mine, I will repay, says the Lord"* (Romans 12:19)—God reserves it to Himself because no creature can wield it without being consumed by it. **Sloth** leads to despair, abandonment of duties, neglect of prayer, and spiritual lukewarmness. **Envy** leads to jealousy, hatred, slander, detraction, joy at another's misfortune, and division. **Gluttony** leads to addiction, drunkenness, neglect of others, health problems, and spiritual dullness.
 
-### **What Heals Each Deadly Sin:**
+### What Heals Each Deadly Sin:
 
 If each deadly sin unravels love by pulling threads out of it, then each is healed when love is rebound — when truth, justice, mercy and sacrifice are restored together. The Church has long named the virtue that stands opposite each capital vice. **Pride** is healed by **humility**: the self seen again as creature, and God given back the glory pride tried to steal. **Greed** is healed by **generosity**: possessions held in stewardship and released to the need of the poor. **Lust** is healed by **chastity**: the body honored as a temple, the other loved as a person and never used. **Wrath** is healed by **patience**: vengeance entrusted to God, as above, and the cost of forgiveness borne instead. **Sloth** is healed by **diligence**: the daily cost of presence and service paid to the brother in need. **Envy** is healed by **kindness**: another's good received as God's gift rather than a theft, heeding the call to *"rejoice with those who rejoice"* (Romans 12:15). And **gluttony** is healed by **temperance**: food and drink received as gifts rather than masters, appetite restrained so there is more left to give.
 
 In each case the healing follows the same binding we traced in Chapter 5: no single pillar heals the soul alone. Love is one thing — four threads bound together — and only the whole binding, restored, lifts the soul out of the vice that unraveled it. This is why Christ's Cross is not one remedy among many but *the* remedy: in His one sacrifice, truth, justice, mercy and sacrifice act together in one act of perfect love, and every deadly sin meets its complete undoing there.
 
-### **The Progression of Deadly Sin:**
+### The Progression of Deadly Sin:
 
 The deadly sins typically follow the same pattern. It begins with **temptation**, the initial attraction to the vice—not yet sin—then **consent**, giving in to that temptation; this is sin, and if the matter is grave, it is mortal from this moment. Left unaddressed, consent hardens into **habit**, as repeated acts deepen the vice, and habit dulls the conscience into a settled **hardening** that makes repentance harder, until what remains, if never repented, is **spiritual death**—complete separation from God.
 
@@ -256,7 +256,7 @@ Our faith was never a possession to be clutched to the chest and guarded. It was
 
 **Here is the great mercy:** God has given us the Sacrament of Reconciliation (Confession) so that we can be absolved of mortal sins and restored to a state of grace.
 
-### **What Mortal Sin Does—and What Confession Restores:**
+### What Mortal Sin Does—and What Confession Restores:
 
 Mortal sin **kills** our relationship with God. It destroys sanctifying grace—God's perfect love, *"poured into our hearts through the Holy Spirit"* (Romans 5:5): the love that makes us whole and holy, that heals us, sustains us, and makes the heart beat again. Mortal sin stops that heart. And the wound is not God's alone: sin turns us in on ourselves, and the guilt and shame it leaves behind dim our capacity to love ourselves and our neighbor as we should. It also breaks communion with the Trinity and the Church, renders us unable to receive Communion worthily, and—if unrepented at death—leads to eternal separation from God.
 
