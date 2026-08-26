@@ -361,7 +361,7 @@ def preprocess_files(files: List[str], profile: Optional[str] = None) -> List[st
         # Insert front matter toggle as Markdown (raw TeX) so pandoc still uses its LaTeX template
         frontmatter_file = Path(tmpdir) / "00__frontmatter.md"
         with open(frontmatter_file, "w", encoding="utf-8") as f:
-            f.write("\\frontmatter\n")
+            f.write("\\pagestyle{empty}\n\\mbox{}\n\\clearpage\n\\frontmatter\n\\pagestyle{fancy}\n")
         out_files.append(str(frontmatter_file))
 
     mainmatter_inserted = False
@@ -480,7 +480,15 @@ def preprocess_files(files: List[str], profile: Optional[str] = None) -> List[st
         if insert_tex_markers and not backmatter_inserted and name == "epilogue.md":
             backmatter_file = Path(tmpdir) / "97__backmatter.md"
             with open(backmatter_file, "w", encoding="utf-8") as bf:
-                bf.write("\\backmatter\n")
+                # Pandoc's own LaTeX template auto-inserts \backmatter again
+                # right after our content (whenever it detects front matter,
+                # which our \frontmatter marker triggers). That second call is
+                # harmless when openright is off, but with openright on,
+                # \backmatter forces \cleardoublepage — so pandoc's redundant
+                # trailing call was padding the book with a wasted blank final
+                # page. We only want the switch to fire once, here, so we
+                # neutralize \backmatter immediately after using it.
+                bf.write("\\backmatter\n\\renewcommand{\\backmatter}{}\n")
             out_files.append(str(backmatter_file))
             backmatter_inserted = True
 

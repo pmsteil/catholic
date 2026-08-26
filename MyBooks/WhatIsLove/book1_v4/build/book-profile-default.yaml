@@ -77,9 +77,7 @@ header-includes:
     \fancyhead[RO]{\footnotesize\color{crimsontext} \rightmark}
     \fancyfoot[CE,CO]{\color{crimsontext}\thepage}
   - |
-    \usepackage{titling}
-    \pretitle{\begin{center}\headerfont\LARGE\bfseries}
-    \posttitle{\par\vskip 0.5em\large\textit\textmd{Draft for Theological Review --- Not for Publication --- August 2026}\end{center}\vskip 1em}
+    \renewcommand{\maketitle}{}
   - |
     \definecolor{lightcream}{HTML}{f8f6f0}
     \newenvironment{blockquote}{%

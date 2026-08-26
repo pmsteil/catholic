@@ -1,5 +1,11 @@
 \clearpage
 
+### Nihil Obstat and Imprimatur
+
+Not yet obtained. This manuscript has not been reviewed or approved by ecclesiastical authority. It is being circulated privately to trusted priests and theologians for feedback before formal submission to the Bishop.
+
+\clearpage
+
 ### Copyright and Permissions
 
 Copyright © 2026 by Patrick Michael Steil
@@ -22,7 +28,9 @@ To view the full license, visit: http://creativecommons.org/licenses/by-nc-nd/4.
 
 **Voluntary Support:** While this work is freely available, if you find it valuable and wish to support the Campus Ministry of John Paul II University Parish in Denton, Texas, the author gratefully welcomes voluntary donations of $1 per book distributed (or any amount you feel led to give). Donations can be made at https://jp2denton.org/whatislove. Please note: donations are entirely voluntary and not required for use of this work.
 
----
+### Published by
+
+Not yet finalized. This printing is a manuscript prepared for theological review, prior to submission to the Bishop for ecclesiastical approval.
 
 ### Scripture Quotations
 
@@ -30,43 +38,20 @@ Unless otherwise noted, Scripture quotations are from the Revised Standard Versi
 
 Some Scripture quotations have been adapted or shortened for readability; all are based on the Revised Standard Version, Second Catholic Edition (RSV-2CE) unless otherwise noted.
 
----
-
 ### Catechism References
 
 Excerpts from the English translation of the Catechism of the Catholic Church for use in the United States of America Copyright © 1994, United States Catholic Conference, Inc. -- Libreria Editrice Vaticana. Used with Permission. English translation of the Catechism of the Catholic Church: Modifications from the Editio Typica copyright © 1997, United States Conference of Catholic Bishops—Libreria Editrice Vaticana.”
 
 All quotations are taken verbatim from the approved English translation. Some excerpts consist of short selections from longer paragraphs, cited by paragraph number.
 
-
----
-
 ### Papal and Magisterial Documents
 
 Quotations from papal encyclicals, apostolic exhortations, and other magisterial documents are © Libreria Editrice Vaticana. All rights reserved.
-
----
-
-### Published by
-
-Not yet finalized. This printing is a manuscript prepared for theological review, prior to submission to the Bishop for ecclesiastical approval.
-
----
 
 \clearpage
 
 ### Dedication
 
 For my love, my six sons, and our baby in Heaven; for our grandchildren, great-grandchildren, and every child yet to come. Teach them all: God is Love.
-
-\clearpage
-
----
-
-### Nihil Obstat and Imprimatur
-
-Not yet obtained. This manuscript has not been reviewed or approved by ecclesiastical authority. It is being circulated privately to trusted priests and theologians for feedback before formal submission to the Bishop.
-
----
 
 \clearpage
