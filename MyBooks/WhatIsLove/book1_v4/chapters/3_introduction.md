@@ -1,4 +1,5 @@
-# Introduction
+\chapter*{Introduction}
+\chaptermark{Introduction}
 
 Our world feels like it's coming apart at the seams. Constant cries for justice, equity, inclusion, "transgender rights," and "reproductive rights." People are desperately searching for something, often calling it "love," but like the 1980 Johnny Lee song says, they're often "looking for love in all the wrong places." It's a deep ache in the heart of humanity, a longing for connection, meaning, purpose, and peace that seems increasingly elusive.
 

@@ -361,7 +361,7 @@ def preprocess_files(files: List[str], profile: Optional[str] = None) -> List[st
         # Insert front matter toggle as Markdown (raw TeX) so pandoc still uses its LaTeX template
         frontmatter_file = Path(tmpdir) / "00__frontmatter.md"
         with open(frontmatter_file, "w", encoding="utf-8") as f:
-            f.write("\\pagestyle{empty}\n\\mbox{}\n\\clearpage\n\\frontmatter\n\\pagestyle{fancy}\n")
+            f.write("\\pagestyle{empty}\n\\mbox{}\n\\clearpage\n\\frontmatter\n\\renewcommand{\\frontmatter}{}\n\\pagestyle{empty}\n")
         out_files.append(str(frontmatter_file))
 
     mainmatter_inserted = False
@@ -457,7 +457,7 @@ def preprocess_files(files: List[str], profile: Optional[str] = None) -> List[st
         if insert_tex_markers and not toc_inserted and name == "2_preface.md":
             toc_file = Path(tmpdir) / "01__toc.md"
             with open(toc_file, "w", encoding="utf-8") as tf:
-                tf.write("\\tableofcontents\n\\clearpage\n")
+                tf.write("\\tableofcontents\n\\clearpage\n\\pagestyle{fancy}\n")
             out_files.append(str(toc_file))
             toc_inserted = True
             if debug_log:

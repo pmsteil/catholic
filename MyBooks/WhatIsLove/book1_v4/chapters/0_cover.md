@@ -1,4 +1,4 @@
-# What is Love?
+\chapter*{What is Love?}
 
 ## The Law of the Gospel: Love Perfected in Christ
 
