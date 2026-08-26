@@ -34,36 +34,45 @@ Just as love has degrees of perfection, **sin has degrees of gravity**—from mi
 
 The following matrix shows which pillars each vice offends against. Each row first states the vice's defining offense. An "✗" indicates a pillar the vice offends; a "★" marks its *primary target*—the pillar its defining offense cannot be stated without. As Chapter 1 showed with St. Augustine, evil is not a substance but a *privation*—a good corrupted or missing. So each vice is the privation of a particular virtue, named in italics at the close of its defining offense.
 
-| Vice | The defining offense | Truth | Justice | Mercy | Sacrifice |
-|------|----------------------|:-----:|:-------:|:-----:|:---------:|
-| **Opposing Theological Virtues** |
-| Unbelief/Infidelity | Refusing assent to what God has revealed (privation of *faith*) | ★ | ✗ | | ✗ |
-| Despair/Presumption | Refusing the mercy God extends to the self—quitting on it in despair, or presuming on it while refusing the repentance, worship, and obedience owed Him (privation of *hope*) | ✗ | ★ | ★ | ★ |
-| Hatred/Indifference | Love itself refused—willing evil to another, or willing nothing at all (privation of *charity*) | ★ | ★ | ★ | ★ |
-| **Opposing Cardinal Virtues** |
-| Imprudence/Rashness | Acting without asking what love requires here and now (privation of *prudence*) | ★ | ✗ | | ✗ |
-| Injustice | Withholding from God or neighbor what they are due (privation of *justice*) | ✗ | ★ | | ✗ |
-| Cowardice/Recklessness | Deserting what is owed when it costs—or spending life for nothing (privation of *fortitude*) | ✗ | ✗ | | ★ |
-| Intemperance | Letting appetite rule the body held in trust (privation of *temperance*) | ✗ | ✗ | | ★ |
-| Foolishness | Ordering life as if God's view of things did not exist (privation of *wisdom*) | ★ | ★ | | ✗ |
-| **Seven Deadly Sins** |
-| Pride | Denying we are creatures—seizing God's place and glory (privation of *humility*) | ★ | ★ | ✗ | ✗ |
-| Greed/Avarice | Hoarding as one's own what was entrusted for the needy (privation of *generosity*) | ✗ | ★ | ★ | ✗ |
-| Lust | Using a person as an object for appetite (privation of *chastity*) | ✗ | ★ | | ✗ |
-| Wrath/Anger | Denying that the one struck bears God's image—seizing the vengeance owed to God alone and willing harm to Him in them (privation of *patience*) | ★ | ★ | ★ | ✗ |
-| Sloth | Refusing the labor love owes—duty, prayer, presence (privation of *diligence*) | ✗ | ★ | | ★ |
-| Envy | Sorrow at another's good, willing their diminishment (privation of *kindness*) | ✗ | ✗ | ★ | ✗ |
-| Gluttony | Making food and drink gods—consuming past the body's trust (privation of *temperance*) | ✗ | ★ | | ★ |
-| **Additional Vices** |
-| Disobedience/Rebellion | Refusing the submission owed to God's order (privation of *obedience*) | ✗ | ★ | | ✗ |
-| Infidelity/Betrayal | Breaking the covenant promise—the vow abandoned (privation of *faithfulness*) | ✗ | ★ | | ✗ |
-| Ingratitude | Withholding the thanks owed for gifts received (privation of *gratitude*) | ✗ | ★ | | ✗ |
-| Dishonesty/Lying | Speaking against the truth owed to one's neighbor (privation of *honesty*) | ★ | ✗ | | ✗ |
-| Harshness/Cruelty | Wounding the weak where care was needed (privation of *gentleness*) | ✗ | ★ | ★ | ✗ |
-| Impiety/Irreverence | Refusing due reverence to God and what is holy (privation of *religion*) | ✗ | ★ | | ✗ |
-| Violence | Force against the person—seizing by harm what was never ours (privation of *meekness*) | ✗ | ★ | ★ | ✗ |
-| Inconstancy/Fickleness | Quitting the pledged course when holding fast grows hard (privation of *perseverance*) | ✗ | ✗ | | ★ |
-| Lukewarmness | Conviction cooled into vagueness—truth unnamed, undefended, unlived (privation of *zeal*) | ★ | ✗ | | ✗ |
+\begingroup
+\footnotesize
+\renewcommand{\arraystretch}{1.15}
+\begin{longtable}{@{}p{0.19\linewidth}p{0.53\linewidth}*{4}{>{\centering\arraybackslash}p{0.045\linewidth}}@{}}
+\toprule
+\textbf{Vice} & \textbf{The defining offense} & \textbf{Truth} & \textbf{Justice} & \textbf{Mercy} & \textbf{Sacrifice} \\
+\midrule
+\endhead
+\multicolumn{6}{@{}l}{\textbf{Opposing Theological Virtues}} \\[2pt]
+Unbelief/Infidelity & Refusing assent to what God has revealed (privation of \textit{faith}) & \starmark & \xmark &  & \xmark \\
+Despair/Presumption & Refusing the mercy God extends to the self—quitting on it in despair, or presuming on it while refusing the repentance, worship, and obedience owed Him (privation of \textit{hope}) & \xmark & \starmark & \starmark & \starmark \\
+Hatred/Indifference & Love itself refused—willing evil to another, or willing nothing at all (privation of \textit{charity}) & \starmark & \starmark & \starmark & \starmark \\
+\multicolumn{6}{@{}l}{\textbf{Opposing Cardinal Virtues}} \\[2pt]
+Imprudence & Acting without asking what love requires here and now (privation of \textit{prudence}) & \starmark & \xmark &  & \xmark \\
+Injustice & Withholding from God or neighbor what they are due (privation of \textit{justice}) & \xmark & \starmark &  & \xmark \\
+Cowardice & Deserting what is owed when it costs—or spending life for nothing (privation of \textit{fortitude}) & \xmark & \xmark &  & \starmark \\
+Intemperance & Letting appetite rule the body held in trust (privation of \textit{temperance}) & \xmark & \xmark &  & \starmark \\
+Foolishness & Ordering life as if God's view of things did not exist (privation of \textit{wisdom}) & \starmark & \starmark &  & \xmark \\
+\multicolumn{6}{@{}l}{\textbf{Seven Deadly Sins}} \\[2pt]
+Pride & Denying we are creatures—seizing God's place and glory (privation of \textit{humility}) & \starmark & \starmark & \xmark & \xmark \\
+Greed/Avarice & Hoarding as one's own what was entrusted for the needy (privation of \textit{generosity}) & \xmark & \starmark & \starmark & \xmark \\
+Lust & Using a person as an object for appetite (privation of \textit{chastity}) & \xmark & \starmark &  & \xmark \\
+Wrath/Anger & Denying that the one struck bears God's image—seizing the vengeance owed to God alone and willing harm to Him in them (privation of \textit{patience}) & \starmark & \starmark & \starmark & \xmark \\
+Sloth & Refusing the labor love owes—duty, prayer, presence (privation of \textit{diligence}) & \xmark & \starmark &  & \starmark \\
+Envy & Sorrow at another's good, willing their diminishment (privation of \textit{kindness}) & \xmark & \xmark & \starmark & \xmark \\
+Gluttony & Making food and drink gods—consuming past the body's trust (privation of \textit{temperance}) & \xmark & \starmark &  & \starmark \\
+\multicolumn{6}{@{}l}{\textbf{Additional Vices}} \\[2pt]
+Disobedience & Refusing the submission owed to God's order (privation of \textit{obedience}) & \xmark & \starmark &  & \xmark \\
+Infidelity/Betrayal & Breaking the covenant promise—the vow abandoned (privation of \textit{faithfulness}) & \xmark & \starmark &  & \xmark \\
+Ingratitude & Withholding the thanks owed for gifts received (privation of \textit{gratitude}) & \xmark & \starmark &  & \xmark \\
+Dishonesty/Lying & Speaking against the truth owed to one's neighbor (privation of \textit{honesty}) & \starmark & \xmark &  & \xmark \\
+Harshness/Cruelty & Wounding the weak where care was needed (privation of \textit{gentleness}) & \xmark & \starmark & \starmark & \xmark \\
+Impiety/Irreverence & Refusing due reverence to God and what is holy (privation of \textit{religion}) & \xmark & \starmark &  & \xmark \\
+Violence & Force against the person—seizing by harm what was never ours (privation of \textit{meekness}) & \xmark & \starmark & \starmark & \xmark \\
+Inconstancy & Quitting the pledged course when holding fast grows hard (privation of \textit{perseverance}) & \xmark & \xmark &  & \starmark \\
+Lukewarmness & Conviction cooled into vagueness—truth unnamed, undefended, unlived (privation of \textit{zeal}) & \starmark & \xmark &  & \xmark \\
+\bottomrule
+\end{longtable}
+\endgroup
 
 <div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
 Notice that every vice violates truth. This is not coincidental—<strong>every sin necessarily involves believing or speaking a lie.</strong> Whether we lie to ourselves about what will truly fulfill us, lie to others about our intentions, or deny the truth about God's nature and commands, sin cannot exist without falsehood. This is why lying is the foundational sin. As Jesus said of Satan: "When he lies, he speaks according to his own nature, for he is a liar and the father of lies" (John 8:44).
@@ -80,10 +89,10 @@ And the same stars, read by column, sort the vices into four families:
 | Vices against Truth | Vices against Justice | Vices against Mercy | Vices against Sacrifice |
 |---------------------|---------------------|---------------------|---------------------|
 | Unbelief/Infidelity | Injustice | Greed/Avarice | Despair/Presumption |
-| Imprudence/Rashness | Lust | Envy | Cowardice/Recklessness |
+| Imprudence | Lust | Envy | Cowardice |
 | Foolishness | Sloth | Harshness/Cruelty | Intemperance |
-| Pride | Disobedience/Rebellion | Wrath/Anger | Gluttony |
-| Dishonesty/Lying | Infidelity/Betrayal | Violence | Inconstancy/Fickleness |
+| Pride | Disobedience | Wrath/Anger | Gluttony |
+| Dishonesty/Lying | Infidelity/Betrayal | Violence | Inconstancy |
 | Lukewarmness | Ingratitude | Despair/Presumption | Sloth |
 | Wrath/Anger | Impiety/Irreverence |  |  |
 |  | Violence |  |  |

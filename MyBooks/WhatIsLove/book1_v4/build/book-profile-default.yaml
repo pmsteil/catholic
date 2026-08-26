@@ -24,6 +24,7 @@ header-includes:
     \usepackage{pifont}
     \providecommand{\cmark}{\ding{51}}
     \providecommand{\xmark}{\ding{55}}
+    \providecommand{\starmark}{\ding{72}}
   - |
     \usepackage{xcolor}
     \definecolor{crimsontext}{HTML}{8a2323}

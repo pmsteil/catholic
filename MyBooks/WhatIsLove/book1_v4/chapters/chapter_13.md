@@ -70,8 +70,8 @@ The matrix below shows which facets of love each virtue actively engages when pr
 | Honesty | Speaking and living the truth owed to one's neighbor | ★ | ✓ | | ✓ |
 | Wisdom | Seeing all things as God sees them and ordering love accordingly | ★ | ✓ | ✓ | ✓ |
 | **Additional Virtues — Justice** |
-| Religion/Latria | Rendering God the worship, prayer, and sacrifice owed Him as Creator | ✓ | ★ | | ✓ |
-| Penance/Repentance | Rendering to God the debt sin left unpaid—grief for the wrong, repair of what it broke, and an amended life | ✓ | ★ | | ✓ |
+| Religion | Rendering God the worship, prayer, and sacrifice owed Him as Creator | ✓ | ★ | | ✓ |
+| Penance | Rendering to God the debt sin left unpaid—grief for the wrong, repair of what it broke, and an amended life | ✓ | ★ | | ✓ |
 | Piety | Due honor and support owed to parents and homeland, as secondary principles of one's being | ✓ | ★ | | ✓ |
 | Dulia | Rendering the honor due to another's real excellence or dignity, apart from parents or country | ✓ | ★ | | ✓ |
 | Obedience | Rendering the submission owed to rightful authority—God's above all, and any human authority that stands under Him | ✓ | ★ | | ✓ |
@@ -113,8 +113,8 @@ In the deepest sense, *every* virtue touches all four pillars—since every virt
 | Studiousness | Faithfulness | Zeal | Humility |
 | Hope | Gratitude |  | Diligence |
 |  | Piety |  |  |
-|  | Religion/Latria |  |  |
-|  | Penance/Repentance |  |  |
+|  | Religion |  |  |
+|  | Penance |  |  |
 |  | Dulia |  |  |
 |  | Humility |  |  |
 |  | Eutrapelia |  |  |

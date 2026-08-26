@@ -319,9 +319,10 @@ def convert_symbols_for_profile(text: str, profile: Optional[str]) -> str:
     is_audio = profile and "audio" in profile
     if is_audio:
         return text
-    # Replace common checkmark/cross symbols with macros
+    # Replace common checkmark/cross/star symbols with macros
     text = text.replace("✓", "\\cmark")
     text = text.replace("✗", "\\xmark")
+    text = text.replace("★", "\\starmark")
     return text
 
 
