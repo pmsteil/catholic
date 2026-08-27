@@ -28,7 +28,7 @@ Not yet obtained. This manuscript has not been reviewed or approved by ecclesias
 
 ### Dedication
 
-For my love, my six sons, and our baby in Heaven; for our grandchildren, great-grandchildren, and every child yet to come. Teach them all: God is Love.
+For my love, our six sons, and our baby in Heaven; for our grandchildren, great-grandchildren, and every child yet to come. Teach them all: God is Love.
 
 Patrick Steil, St. John Paul II University Parish of the Catholic Church, Denton TX
 August 30, 2026

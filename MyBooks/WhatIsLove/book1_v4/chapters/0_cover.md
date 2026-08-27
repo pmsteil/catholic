@@ -6,6 +6,6 @@
 
 \vspace{2em}
 
-*Draft for Theological Review --- Not for Publication --- August 2026*
+*Draft for Theological Review --- Not for Publication --- August 30, 2026*
 
 Patrick Steil, St. John Paul II University Parish, Denton TX

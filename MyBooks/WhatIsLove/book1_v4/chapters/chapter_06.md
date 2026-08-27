@@ -319,9 +319,13 @@ Truth reveals what each person is truly owed—and **justice** is love giving wh
 
 ### Notes
 
+\footnotesize
+
 1. Bishop Robert Barron, *"Bridging a False Divide,"* *First Things*, April 2014.
 2. Pope Leo XIV, Address to Participants in the International Course Promoted by the Tribunal of the Roman Rota, Nov. 21, 2025.
 3. In full again at Judges 17:6; in its opening clause at 18:1 and 19:1.
 4. St. John Paul II, *Redemptoris Missio* (1990), §31, quoting Vatican II, *Ad Gentes* 10.
 5. Pope Benedict XVI, *Caritas in Veritate* (2009), §3.
 6. Pope Benedict XVI, Homily for the Mass of Election of the Supreme Pontiff, April 18, 2005.
+
+\normalsize

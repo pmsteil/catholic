@@ -425,4 +425,8 @@ For readers who want to go deeper into how the Old Testament covenants and sacri
 
 ### Notes
 
+\footnotesize
+
 1. Philippians 2:3; Vatican II, *Gaudium et Spes* (1965), §24 ("Man cannot fully find himself except through a sincere gift of himself"); *Catechism of the Catholic Church*, §1601 (marriage as covenant, not contract).
+
+\normalsize

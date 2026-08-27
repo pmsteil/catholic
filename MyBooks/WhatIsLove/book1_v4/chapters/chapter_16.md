@@ -54,7 +54,7 @@ Children need ALL seven components working together. Remove any one, and childre
 
 We can map exactly what's missing from each counterfeit—and see precisely how children suffer as a result.
 
-### Category 1: Counterfeits That Kill or Sterilize Children
+### Counterfeit 1: Kill or Sterilize Children
 
 **The Ultimate Harm - Denying Life Itself**
 
@@ -75,7 +75,7 @@ Both deny truth, violate justice, pervert mercy, and sacrifice children for adul
 
 **Generational impact:** Entire bloodlines end before they begin—no children, no grandchildren, no future generations to inherit faith, family, or love at all. Where other counterfeits wound the next generation, these two prevent it from ever existing.
 
-### Category 2: Counterfeits That Destroy Family Structure
+### Counterfeit 2: Destroy Family Structure
 
 **Breaking the Bonds That Protect Children**
 
@@ -100,7 +100,7 @@ All four distort truth, violate justice, pervert mercy, and sacrifice children's
 
 **Generational impact:** Children who never learned covenant fidelity often repeat the pattern—having been taught only how to break it—creating cascading family breakdown across generations. The domestic church—the first school of love—is shattered, leaving children damaged in their ability to form their own stable families.
 
-### Category 3: Counterfeits That Damage Parents' Ability to Love
+### Counterfeit 3: Damage Parents' Ability to Love
 
 **Poisoning the Source**
 
@@ -121,7 +121,7 @@ Both distort truth (treating persons as objects, pretending sex without commitme
 
 **Generational impact:** Addiction and brokenness passed down, children unable to form healthy families because they never witnessed authentic love. The cycle repeats, each generation more damaged than the last.
 
-### Category 4: Counterfeits That Destroy Children's Grasp of Truth
+### Counterfeit 4: Distort Children's Grasp of Truth
 
 **Reality Denied, Children Confused**
 
@@ -141,7 +141,7 @@ Relativism's "my truth" leaves children without moral compass. "Your truth" says
 
 **Generational impact:** Society requires shared reality. Children inherit anxiety, confusion, and inability to build civilization on foundation of sand.
 
-### Category 5: Counterfeits That Destroy Children's Moral Formation
+### Counterfeit 5: Undermine Moral Formation
 
 **No Foundation for Virtue**
 

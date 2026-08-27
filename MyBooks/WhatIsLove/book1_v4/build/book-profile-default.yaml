@@ -114,7 +114,7 @@ header-includes:
         after skip=1em,
         boxsep=0pt
       ]
-      \itshape\color{crimsontext}
+      \itshape\color{crimsontext}\fontsize{11}{13.2}\selectfont
     }{%
       \end{tcolorbox}
     }
@@ -137,12 +137,12 @@ header-includes:
         boxrule=0pt,
         left=12pt,
         right=12pt,
-        top=8pt,
-        bottom=8pt,
+        top=10pt,
+        bottom=10pt,
         before skip=1.5em,
         after skip=1.5em
       ]
-      \color{crimsontext}\itshape
+      \color{crimsontext}\itshape\linespread{1.3}\selectfont
     }{%
       \end{tcolorbox}
     }

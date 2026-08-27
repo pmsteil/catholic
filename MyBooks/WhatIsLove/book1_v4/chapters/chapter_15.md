@@ -399,4 +399,8 @@ Twelve counterfeits. Twelve failures of this test. Only God's Perfect Love passe
 
 ### Notes
 
+\footnotesize
+
 1. Cumulative U.S. abortions since *Roe v. Wade* (1973), from Guttmacher Institute counts and estimates — well past 60 million by the mid-2020s. For current annual figures, see Chapter 1, note 2.
+
+\normalsize

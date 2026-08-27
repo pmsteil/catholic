@@ -325,6 +325,10 @@ Mercy always comes at a cost — and that cost is sacrifice. In Chapter 9, we tu
 
 ### Notes
 
+\footnotesize
+
 1. St. John Paul II, *Redemptoris Missio* (1990), §13.
 2. St. Thomas Aquinas, *Summa Theologiae* II-II, q.159 (cruelty as the vice opposed to clemency, the virtue that tempers punishment as mercy tempers judgment); *Catechism of the Catholic Church*, §2447.
 3. *Catechism of the Catholic Church*, §2091; Pope John Paul II, *Dives in Misericordia* (1980), §4.
+
+\normalsize

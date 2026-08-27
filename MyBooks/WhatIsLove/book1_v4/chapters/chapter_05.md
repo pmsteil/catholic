@@ -182,4 +182,8 @@ Love binds together all the elements of authentic relationship—truth, justice,
 
 ### Notes
 
+\footnotesize
+
 1. Twice in full (Judges 17:6; 21:25); twice in its opening clause, "In those days there was no king in Israel" (18:1; 19:1).
+
+\normalsize

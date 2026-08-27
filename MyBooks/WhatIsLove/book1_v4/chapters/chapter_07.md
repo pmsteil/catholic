@@ -324,6 +324,10 @@ The *Compendium of the Social Doctrine of the Church* (Pontifical Council for Ju
 
 ### Notes
 
+\footnotesize
+
 1. The triad "life, liberty, and the pursuit of happiness" comes from the American Declaration of Independence (1776), but the underlying principle is far older and belongs to no single nation. It draws on the classical natural-law tradition running through Aristotle, Cicero, Aquinas, and the Scholastics, for whom "happiness" (Greek *eudaimonia*, Latin *beatitudo*) meant not pleasure or emotional satisfaction but the flourishing proper to a rational creature ordered toward its ultimate end. For the Catholic tradition, that end is God Himself: "The Beatitudes respond to the natural desire for happiness. This desire is of divine origin: God has placed it in the human heart in order to draw man to the One who alone can fulfill it" (CCC 1718; cf. CCC 1703, 27). Whatever any individual political author may have personally meant by the word *happiness*, the concept itself — a rightful human pursuit owed the protection of justice — only makes full sense when grounded in the truth that we are made *by* God and *for* God — who is Love itself.
 
 2. St. John Paul II, General Audience of February 20, 1980 (*Theology of the Body* 19:4).
+
+\normalsize

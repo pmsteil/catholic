@@ -181,8 +181,12 @@ The problem is clear—but what is the answer? The next chapter reveals it.
 
 ### Notes
 
+\footnotesize
+
 1. U.S. Census Bureau, *Current Population Survey: Families and Living Arrangements* (2023, via OJJDP); Annie E. Casey Foundation, *KIDS COUNT Data Center* (2025) — approximately 47–50% of Black children live without a resident father; 64% live in single-parent households.
 2. Guttmacher Institute, *Monthly Abortion Provision Study*: approximately 1,037,000 abortions in 2023 and 1,038,100 in 2024, counts limited to the formal health-care system. The CDC's *Abortion Surveillance* reports a lower figure (roughly 600,000) because several states, including California, do not report to it.
 3. Brown, *Human Universals* (1991); Lévi-Strauss, *The Elementary Structures of Kinship* (1969); Fiske, *Structures of Social Life* (1991) — anthropological surveys finding the same moral prohibitions, against killing the innocent, breaking trust, and exploiting the vulnerable, recurring across every studied culture.
 4. Haidt and Joseph, "Intuitive Ethics," *Daedalus* 133 (2004); Henrich, *The Secret of Our Success* (2016) — cross-cultural and cognitive research supporting a shared moral intuition beneath surface-level cultural variation.
 5. *Catechism of the Catholic Church*, §§27–30, 33, 1776–1780, 1954–1960; *Gaudium et Spes* (Vatican II), §16; Smith, *Moral, Believing Animals* (2003).
+
+\normalsize
