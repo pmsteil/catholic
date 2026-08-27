@@ -1,0 +1,636 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>What Is Love? — Catholic &amp; Editorial Readiness Audit</title>
+  <style>
+    :root {
+      --ink:#17201f; --muted:#5b6765; --paper:#fffdf8; --cream:#f5f0e5;
+      --line:#d8d0c1; --red:#9e2f2f; --red-bg:#fff0ee; --amber:#8a5a0a;
+      --amber-bg:#fff7df; --green:#245f48; --green-bg:#edf8f1; --blue:#274f70;
+      --blue-bg:#eef5fa; --shadow:0 14px 42px rgba(41,33,22,.10);
+    }
+    *{box-sizing:border-box}
+    html{scroll-behavior:smooth}
+    body{margin:0;color:var(--ink);background:#ebe6dc;font:16px/1.58 Georgia,"Times New Roman",serif}
+    a{color:var(--blue);text-underline-offset:2px}
+    a:hover{color:#17354d}
+    header{background:linear-gradient(135deg,#183f35 0%,#285b4d 58%,#8b6a2d 100%);color:#fff;padding:58px 24px 52px}
+    .wrap{max-width:1180px;margin:auto}
+    .eyebrow{font:700 .78rem/1.2 system-ui,sans-serif;letter-spacing:.14em;text-transform:uppercase;color:#d9eadf}
+    h1{font-size:clamp(2.2rem,5vw,4.6rem);line-height:1.02;margin:.28em 0 .2em;max-width:930px}
+    .subtitle{font-size:1.2rem;max-width:850px;color:#edf5f0}
+    .meta{font:600 .84rem/1.5 system-ui,sans-serif;color:#d6e5dd;margin-top:24px}
+    main{max-width:1180px;margin:-26px auto 70px;padding:0 22px}
+    section,.panel{background:var(--paper);border:1px solid var(--line);border-radius:16px;box-shadow:var(--shadow);margin:22px 0;padding:34px}
+    section section{box-shadow:none;margin:18px 0;padding:24px;border-radius:12px}
+    h2,h3,h4{line-height:1.18;color:#173f35}
+    h2{font-size:1.85rem;margin:0 0 18px}
+    h3{font-size:1.28rem;margin:26px 0 10px}
+    h4{font:700 1rem/1.25 system-ui,sans-serif;margin:21px 0 7px;color:#294f45}
+    p{margin:.6em 0 1em}
+    .lede{font-size:1.12rem;line-height:1.65}
+    .verdict{border-left:8px solid var(--red);background:var(--red-bg)}
+    .verdict h2{color:var(--red)}
+    .callout{padding:16px 18px;border-radius:10px;background:var(--blue-bg);border-left:5px solid var(--blue);margin:18px 0}
+    .callout.good{background:var(--green-bg);border-color:var(--green)}
+    .callout.warn{background:var(--amber-bg);border-color:var(--amber)}
+    .callout.stop{background:var(--red-bg);border-color:var(--red)}
+    .grid{display:grid;grid-template-columns:repeat(4,1fr);gap:14px;margin:18px 0}
+    .metric{background:var(--cream);border:1px solid var(--line);border-radius:11px;padding:18px}
+    .metric strong{display:block;font:800 1.75rem/1 system-ui,sans-serif;color:#173f35}
+    .metric span{display:block;font:600 .78rem/1.35 system-ui,sans-serif;color:var(--muted);margin-top:8px;text-transform:uppercase;letter-spacing:.045em}
+    .toc{columns:2;column-gap:36px;margin:0;padding-left:22px}
+    .toc li{break-inside:avoid;margin:.25em 0}
+    .severity{display:inline-block;border-radius:999px;padding:3px 9px;font:800 .7rem/1.3 system-ui,sans-serif;letter-spacing:.04em;text-transform:uppercase;vertical-align:1px;margin-right:5px}
+    .s0{color:#fff;background:var(--red)} .s1{color:#fff;background:var(--amber)} .s2{color:#fff;background:var(--blue)} .ok{color:#fff;background:var(--green)}
+    ul,ol{padding-left:1.45em}
+    li{margin:.52em 0}
+    li::marker{color:#6b5840}
+    code{font:600 .85em/1.4 ui-monospace,SFMono-Regular,Menlo,monospace;background:#f1eee7;padding:.12em .34em;border-radius:4px;color:#4d3a2c}
+    table{width:100%;border-collapse:collapse;margin:15px 0 24px;font-size:.94rem}
+    th{background:#173f35;color:#fff;text-align:left;font:700 .76rem/1.35 system-ui,sans-serif;text-transform:uppercase;letter-spacing:.045em;padding:11px 10px}
+    td{border-bottom:1px solid var(--line);vertical-align:top;padding:11px 10px}
+    tr:nth-child(even) td{background:#faf7f0}
+    .num{text-align:right;font-variant-numeric:tabular-nums;white-space:nowrap}
+    .chapter{scroll-margin-top:18px}
+    .chapter h3{margin-top:0;font-size:1.5rem}
+    .chapter-meta{font:650 .8rem/1.4 system-ui,sans-serif;color:var(--muted);margin-top:-5px}
+    .issue{border-top:1px solid #e4ddd1;padding-top:10px;margin-top:12px}
+    .issue:first-of-type{border-top:0}
+    .issue strong{color:#2e443f}
+    .ref{font:600 .77rem/1.3 system-ui,sans-serif;color:var(--muted)}
+    .source-list li{margin:.78em 0}
+    .small{font-size:.9rem;color:var(--muted)}
+    .avoid-break{break-inside:avoid}
+    footer{max-width:1180px;margin:0 auto 55px;padding:0 22px;color:#56615e;font-size:.88rem}
+    @media(max-width:820px){.grid{grid-template-columns:repeat(2,1fr)}.toc{columns:1}section,.panel{padding:23px}header{padding-top:42px}}
+    @media(max-width:520px){
+      .grid{grid-template-columns:1fr}main{padding:0 10px}section{min-width:0;overflow-wrap:anywhere}
+      table{display:block;width:100%;max-width:100%;overflow-x:auto;-webkit-overflow-scrolling:touch;font-size:.82rem}
+      code{white-space:normal;overflow-wrap:anywhere}
+    }
+    @media print{
+      body{background:#fff;font-size:10.5pt}header{background:#fff!important;color:#000;padding:18pt 0;border-bottom:2pt solid #173f35}.eyebrow,.subtitle,.meta{color:#333}
+      main{max-width:none;margin:0;padding:0}section,.panel{box-shadow:none;border:0;border-radius:0;padding:16pt 0;margin:0;page-break-inside:auto}
+      .chapter{page-break-before:always}.grid{grid-template-columns:repeat(4,1fr)}a{color:#000;text-decoration:none}.toc{columns:2}
+    }
+  </style>
+</head>
+<body>
+<header>
+  <div class="wrap">
+    <div class="eyebrow">Pre-censor manuscript audit</div>
+    <h1><em>What Is Love? God’s Perfect Love</em></h1>
+    <div class="subtitle">Catholic doctrinal, scriptural, sacramental, pastoral, logical, editorial, and production-readiness report</div>
+    <div class="meta">Manuscript state reviewed: August 26, 2026 · 17 chapters plus front and back matter · RSV project standard</div>
+  </div>
+</header>
+
+<main>
+  <section class="verdict" id="verdict">
+    <h2>Verdict: not ready yet for final episcopal review</h2>
+    <p class="lede">The manuscript is unmistakably Catholic in intention, strongly Christ-centered, sacramental, pro-life, pro-marriage, and committed to the teaching authority of the Church. Its governing insight—that love binds truth, justice, mercy, and sacrificial self-gift into communion—has genuine catechetical promise. But the present text repeatedly presents that private synthesis as the exhaustive content of the Gospel and as a universal theological test. It then uses the synthesis to make claims that are inaccurate or materially incomplete in Trinitarian theology, Christology, grace and justification, sacramental theology, moral theology, ecclesiology, and interreligious or ecumenical judgment.</p>
+    <p>Several passages are also likely to cause pastoral harm, especially to women after abortion, children of divorce, single parents, people experiencing same-sex attraction or gender distress, infertile couples, abuse victims, and persons with scrupulosity. Chapters 15 and 16 require reconstruction, not a light copyedit. The book also contains unresolved permissions, sourcing, cross-reference, and markup problems.</p>
+    <div class="callout stop"><strong>Submission recommendation.</strong> Do not send this version as a “final” draft. Resolve the stop-ship items below, obtain review by a qualified dogmatic/sacramental theologian and a moral/pastoral theologian, complete source and permissions verification, then submit the revised text through the diocese’s preferred process. Canon 827 §3 recommends that writings especially concerning religion or morals be submitted to the local ordinary; canon 830 describes review by a censor and the ordinary’s judgment.</div>
+  </section>
+
+  <section id="scope">
+    <h2>Scope, method, and limits</h2>
+    <p>This audit read the current reader-facing manuscript from cover through the Author’s Note and checked its controlling claims against primary Catholic sources, chiefly the <em>Catechism of the Catholic Church</em>, conciliar documents, papal texts, and the Code of Canon Law. It also assessed internal logic, Scripture use, factual and historical overclaims, pastoral consequences, prose, formatting, purposeful progression, unnecessary repetition, citations, and production readiness.</p>
+    <p>This is an editorial and theological risk audit, not a canonical <em>nihil obstat</em>, <em>imprimatur</em>, or judgment in the name of the Church. Final doctrinal judgment belongs to the competent ecclesiastical authority and the censor or experts he appoints. Line numbers refer to the files as reviewed on August 26, 2026 and will drift after revision.</p>
+    <div class="grid">
+      <div class="metric"><strong>1</strong><span>Volume, by authorial decision</span></div>
+      <div class="metric"><strong>17</strong><span>Chapters reviewed in full</span></div>
+      <div class="metric"><strong>0</strong><span>Numerical chapter limits</span></div>
+      <div class="metric"><strong>1 test</strong><span>Does each passage earn its place?</span></div>
+    </div>
+    <div class="callout good"><strong>Established structural direction.</strong> The book will remain one volume, and no numerical word-count target governs its chapters. Editorial review should instead ask whether each chapter is robust enough for its purpose and whether repeated material advances the argument, deepens the theology, adds a necessary example, or serves a deliberate rhetorical motif.</div>
+  </section>
+
+  <section id="contents">
+    <h2>Report map</h2>
+    <ol class="toc">
+      <li><a href="#strengths">What is already strong</a></li>
+      <li><a href="#stopship">Stop-ship doctrinal themes</a></li>
+      <li><a href="#exact">High-risk passages at a glance</a></li>
+      <li><a href="#robustness">Robustness and repetition audit</a></li>
+      <li><a href="#chapter-audit">Chapter-by-chapter findings</a></li>
+      <li><a href="#pastoral">Pastoral and reputational risks</a></li>
+      <li><a href="#editorial">Grammar, logic, citations, production</a></li>
+      <li><a href="#verified">Items verified or cleared</a></li>
+      <li><a href="#sequence">Recommended revision sequence</a></li>
+      <li><a href="#sources">Controlling Catholic sources</a></li>
+    </ol>
+  </section>
+
+  <section id="strengths">
+    <h2>What is already strong</h2>
+    <ul>
+      <li><strong>The intention is ecclesial rather than revisionist.</strong> The author wants to receive, explain, and defend Catholic teaching, and explicitly seeks correction from the Church.</li>
+      <li><strong>The manuscript keeps Christ, covenant, the Cross, sacraments, virtue, and communion together.</strong> That integrated instinct is more Catholic than a merely sentimental definition of love.</li>
+      <li><strong>Truth and mercy are repeatedly held together.</strong> The book rightly rejects both truthless permissiveness and loveless condemnation.</li>
+      <li><strong>The Eucharistic and ecclesial vision is ambitious.</strong> Even where formulas need correction, the text aims at real presence, sacrificial worship, communion of saints, and sacramental transformation rather than individualistic spirituality.</li>
+      <li><strong>The work takes mortal sin, confession, human dignity, protection of life, marriage, children, and the works of mercy seriously.</strong></li>
+      <li><strong>The prose often has memorable images and strong pastoral momentum.</strong> The best portions translate doctrine into lived decisions without flattening it.</li>
+      <li><strong>The exact project definition is consistently recognizable:</strong> “God’s Perfect Love is the sacred gift of covenant which binds truth, justice, mercy and sacrifice into life-giving communion.” The problem is not the sentence as a proposed synthesis; it is the authority and universal explanatory burden later assigned to it.</li>
+    </ul>
+  </section>
+
+  <section id="stopship">
+    <h2>Stop-ship doctrinal themes</h2>
+    <p>These are the recurring issues most likely to concern a diocesan reviewer. They should be corrected globally before sentence-level polishing.</p>
+
+    <div class="issue"><span class="severity s0">Stop-ship 1</span> <strong>A private synthesis is repeatedly treated as the Church’s exhaustive definition of love and as the Gospel itself.</strong>
+      <p>The four-facet formula may be offered as a fallible catechetical lens. It cannot be presented as “the interpretive key we’ve been missing,” the test that proves every virtue and sacrament, the complete answer to evil, or the full content of revelation. Christ and the apostolic kerygma—not an author-created matrix—are the norm. Explicitly subordinate the framework to Scripture, Tradition, and the Magisterium, and allow it to be corrected by the Church.</p></div>
+
+    <div class="issue"><span class="severity s0">Stop-ship 2</span> <strong>“Sacrifice” is treated as an eternal co-constitutive attribute of the divine essence.</strong>
+      <p>The manuscript regularly moves without distinction among eternal Trinitarian self-gift, the Son’s Incarnation, suffering, loss, payment, and death. God’s divine nature is impassible; Christ suffers and dies in his assumed human nature. Eternal divine self-gift can be named as the source and analogue of sacrificial love, but sacrifice in the strict sense of cost, privation, suffering, or death belongs to the economy of creation and redemption. “Sacrifice incarnate” and claims that sacrifice eternally “costs God” should be removed or carefully reformulated.</p></div>
+
+    <div class="issue"><span class="severity s0">Stop-ship 3</span> <strong>Grace, justification, sanctification, charity, and natural virtue are repeatedly collapsed.</strong>
+      <p>Initial justification is a gratuitous real transition—ordinarily in Baptism—followed by lifelong growth in grace and holiness. Sanctifying grace is a created habitual gift and participation in divine life; actual grace is divine help; the Holy Spirit is the uncreated Gift. Authentic natural love and acquired virtue can exist without infused charity. Faith without charity is dead or unformed but remains real faith unless faith itself is lost. The current formulas blur or deny these distinctions.</p></div>
+
+    <div class="issue"><span class="severity s0">Stop-ship 4</span> <strong>Eucharistic formulas contain material errors and omit necessary safeguards.</strong>
+      <p>Correct “source and summit of our faith” to “source and summit of the Christian life.” God does not become bread; the substance of bread is changed into Christ’s Body while the appearances remain. The Eucharist is not merely symbolic, but it is truly a sacramental sign. A Host is not “divided infinitely.” Baptism incorporates a person into the Church; Eucharist deepens and builds ecclesial communion. Extended invitations to receive must state the requirement of sacramental confession before Communion when conscious of mortal sin, as well as faith, ecclesial communion, and the Eucharistic fast.</p></div>
+
+    <div class="issue"><span class="severity s0">Stop-ship 5</span> <strong>Several moral-theology rules are inaccurate and may form consciences badly.</strong>
+      <p>Rejected temptation is not venial sin. If voluntariness is absent, there may be no personal sin rather than automatically a venial sin. The number of boxes in a private vice matrix does not determine gravity. Sin is not always a perceived good taken at another person’s expense, nor is lying the foundational dynamic of every sin. Legitimate authority can impose retributive punishment ordered to justice and the common good; punishment is not exclusively therapeutic. Mercy is never “owed” in strict justice.</p></div>
+
+    <div class="issue"><span class="severity s0">Stop-ship 6</span> <strong>Authority, freedom, covenant, and baptismal identity are overstated or reduced.</strong>
+      <p>Authority does not exist only when voluntarily accepted; legitimate authority participates in God’s ordering of the common good and may bind a resisting subject. Freedom is perfected by adherence to the good; the ability to choose evil is not constitutive of perfect freedom. Mortal sin destroys charity and sanctifying grace but does not erase Baptism’s indelible character or simply terminate ecclesial incorporation. Covenant is graciously initiated by God and is not always a negotiated, consciously accepted relation—infant Baptism is an obvious counterexample.</p></div>
+
+    <div class="issue"><span class="severity s0">Stop-ship 7</span> <strong>The Gospel and Church are reduced to the framework.</strong>
+      <p>The Gospel is the good news of Jesus Christ and the Kingdom—his Incarnation, life, death for sins, burial, Resurrection, exaltation, gift of the Spirit, Church, judgment, and promised consummation. Love is its heart and fulfillment, but the four facets cannot replace the apostolic kerygma. The Church is the seed, beginning, and sacrament of the Kingdom, not simply the Kingdom in its eschatological fullness.</p></div>
+
+    <div class="issue"><span class="severity s0">Stop-ship 8</span> <strong>Chapters 15–16 use categorical culture-war rhetoric where precise doctrine and pastoral care are required.</strong>
+      <p>The defense of life, marriage, sexual integrity, and embodied personhood should remain unequivocal. But the current text often attributes one selfish motive to entire groups, denies authentic natural goods outside explicit Catholic faith, generalizes disputed medical or social claims, caricatures separated Christians, and predicts deterministic damage to children. These chapters would be high-risk in a bishop’s hands even if every underlying moral conclusion were retained.</p></div>
+
+    <div class="issue"><span class="severity s0">Stop-ship 9</span> <strong>Claims of divine “revelation” or “inspiration” to the author are unsafe.</strong>
+      <p>The Preface and Author’s Note can sound as though the Holy Spirit authored or guaranteed the manuscript. Reserve “inspired” in the technical sense for Sacred Scripture. Describe prayer, grace, study, and fallible discernment; explicitly submit every original synthesis to the Church. AI tools cannot “ensure faithfulness.”</p></div>
+
+    <div class="issue"><span class="severity s0">Stop-ship 10</span> <strong>Source, permissions, and production status are not submission-ready.</strong>
+      <p>The front matter asserts “Used with Permission” for RSV-2CE and Catechism material, but no supporting license or permission documentation was located in the project area checked. It also says some quotations were “adapted,” which means they should not be presented as exact quotations from a named edition. The manuscript has an obsolete chapter bridge, a malformed HTML block, extensive raw TeX, inconsistent metadata, and incomplete source support for historical, medical, statistical, and patristic claims.</p></div>
+  </section>
+
+  <section id="exact">
+    <h2>High-risk passages at a glance</h2>
+    <table>
+      <thead><tr><th>Location</th><th>Current proposition</th><th>Why it must change</th></tr></thead>
+      <tbody>
+        <tr><td><a href="../chapter_01.md"><code>chapter_01.md:69–73</code></a></td><td>No freedom to choose good without freedom to choose evil.</td><td>False as a universal account of freedom. God and the blessed are perfectly free and cannot sin; freedom becomes more perfect as it adheres to the good (CCC 1733).</td></tr>
+        <tr><td><a href="../chapter_03.md"><code>chapter_03.md:123–135</code></a> and throughout</td><td>Sacrifice is eternally co-constitutive of divine love.</td><td>Requires a controlling distinction between eternal divine self-gift and sacrifice involving created cost, suffering, privation, or death. Christ suffers in his humanity, not in the divine nature.</td></tr>
+        <tr><td><a href="../chapter_04.md"><code>chapter_04.md:45–57</code></a></td><td>Authority exists only when voluntarily accepted.</td><td>Confuses authority with persuasive influence. Legitimate authority can bind even when resisted; its moral legitimacy depends on origin, end, and conformity to moral order.</td></tr>
+        <tr><td><a href="../chapter_07.md"><code>chapter_07.md:133–135</code></a></td><td>Malformed callout markup.</td><td>The opening <code>&lt;p&gt;</code> is never closed before <code>&lt;/div&gt;</code>; Pandoc warns that the Div remains unclosed until much later. This can corrupt HTML/EPUB layout.</td></tr>
+        <tr><td><a href="../chapter_08.md"><code>chapter_08.md:214–228</code></a></td><td>Penance has five constituent parts including “Restoration.”</td><td>The penitent’s acts are contrition, confession, and satisfaction; priestly absolution is essential to the sacrament. Restoration is an effect/goal, not a fifth canonical constituent.</td></tr>
+        <tr><td><a href="../chapter_09.md"><code>chapter_09.md:171–179</code></a></td><td>Dead faith is “no faith at all.”</td><td>Faith without charity is dead/unformed and does not fully unite to Christ, but remains real faith unless lost by a sin directly against faith (CCC 1815).</td></tr>
+        <tr><td><a href="../chapter_10.md"><code>chapter_10.md:177–203</code></a></td><td>Eucharist is source and summit “of our faith”; “God becomes bread.”</td><td>The received formula is “source and summit of the Christian life.” In transubstantiation bread’s substance becomes Christ’s Body; God is not changed into bread.</td></tr>
+        <tr><td><a href="../chapter_10.md"><code>chapter_10.md:199–215</code></a></td><td>Broad invitation to receive after wandering, without disposition warning.</td><td>A Catholic conscious of mortal sin must receive sacramental absolution before Communion except under the narrow conditions in canon law/CCC 1457; the book’s invitation needs this safeguard.</td></tr>
+        <tr><td><a href="../chapter_10.md"><code>chapter_10.md:354–366</code></a></td><td>The “next chapter” will prove the Lawgiver.</td><td>Current Chapter 11 is Prudence; the Lawgiver is Chapter 12. This is an obsolete transition.</td></tr>
+        <tr><td><a href="../chapter_14.md"><code>chapter_14.md:208–216</code></a></td><td>An immediately rejected impure thought or glance is venial sin.</td><td>Temptation without consent is not sin. The present language is likely to intensify scrupulosity.</td></tr>
+        <tr><td><a href="../chapter_15.md"><code>chapter_15.md:229–254</code></a></td><td>Post-abortion grief cannot be healed by a therapist; abortion manifests all seven deadly sins.</td><td>Pastorally harmful, psychologically overbroad, and morally reductive. <em>Evangelium Vitae</em> 99 names pressures and wounds while offering forgiveness, hope, and competent help.</td></tr>
+        <tr><td><a href="../chapter_16.md"><code>chapter_16.md:208–214</code></a></td><td>A “counterfeit-love” child is unhealthy and prone to evil; a “Perfect Love” child flourishes.</td><td>Deterministic, shaming, and contrary to grace, freedom, and lived reality. It should be removed, not softened.</td></tr>
+        <tr><td><a href="../chapter_17.md"><code>chapter_17.md:75–81</code></a></td><td>In the Incarnation God “BECOMES love”; salvation gives humanity what it is owed.</td><td>God eternally is Love; the Son becomes flesh without change in divinity. Incarnation, forgiveness, and adoption are gratuitous gifts, not strict human dues.</td></tr>
+        <tr><td><a href="../chapter_17.md"><code>chapter_17.md:315–317</code></a></td><td>Do not receive if not in a “state of perfect love”; every inquirer proceeds to Baptism.</td><td>The criterion is consciousness of grave sin/state of grace, not achieved perfection. Validly baptized candidates are not rebaptized.</td></tr>
+      </tbody>
+    </table>
+  </section>
+
+  <section id="robustness">
+    <h2>Robustness and repetition audit</h2>
+    <p>Chapter scale is not itself a defect. The governing editorial question is functional: does each passage perform necessary work, or does it repeat a conclusion the reader has already received without adding doctrinal precision, a new step in the argument, a necessary example, pastoral application, or deliberate rhetorical force?</p>
+    <table>
+      <thead><tr><th>Recurring pattern</th><th>Risk</th><th>Revision test</th></tr></thead>
+      <tbody>
+        <tr><td>Full recaps of the four-facet framework</td><td>Later chapters can pause to re-prove the framework instead of using it to reach a new conclusion.</td><td>Keep the shortest callback that orients the reader; retain a longer recap only when it changes the application or resolves a new objection.</td></tr>
+        <tr><td>Sacrificial cost, payment, debt, and transaction imagery</td><td>Repeated metaphors can flatten Catholic atonement, grace, and sacramental distinctions while making adjacent sections sound interchangeable.</td><td>Assign each image one doctrinal job, integrate complementary Catholic models, and remove repetitions that do not add a distinct truth.</td></tr>
+        <tr><td>Culture-war catalogues and universal claims</td><td>Multiple examples may increase heat without increasing precision, evidence, or pastoral usefulness.</td><td>Use the fewest examples needed to establish the moral principle; define the act or proposition precisely and source empirical claims.</td></tr>
+        <tr><td>Repeated altar-call conclusions and rhetorical questions</td><td>Frequent climaxes can compete with the book’s intended Gospel culmination.</td><td>Preserve deliberate invitations, but let each chapter own a distinct response rather than repeating the same emotional cadence.</td></tr>
+        <tr><td>Scripture or doctrine revisited across chapters</td><td>Repetition can be either cumulative theology or needless restatement.</td><td>Retain it when the later use develops a new dimension; otherwise use a concise cross-reference to the chapter that owns the full treatment.</td></tr>
+      </tbody>
+    </table>
+  </section>
+
+  <section id="chapter-audit">
+    <h2>Chapter-by-chapter findings</h2>
+    <p>The entries below consolidate recurring instances; they are not proposed redlines. “Major” means the claim can materially mislead a reader or a reviewer and should be revised before submission. “Review” means it requires clarification, evidence, or specialist verification.</p>
+
+    <section class="chapter" id="front">
+      <h3>Front matter, Preface, and Introduction</h3>
+      <div class="chapter-meta"><a href="../2_preface.md">2_preface.md</a> · <a href="../3_introduction.md">3_introduction.md</a></div>
+      <ul>
+        <li><span class="severity s0">Major</span> <code>Introduction:90–106</code> calls the private definition the missing interpretive key that “unlocks everything.” Present it instead as a proposed pastoral synthesis under the deposit of faith. Christ is the definitive Word; the Church’s rule of faith is not generated by the framework.</li>
+        <li><span class="severity s0">Major</span> <code>Introduction:104–106</code> calls divine childhood humanity’s “birthright.” Every person has created dignity and is called to communion; supernatural adoptive filiation is a gift of grace, ordinarily conferred in Baptism.</li>
+        <li><span class="severity s0">Major</span> <code>Introduction:146–150</code> says justification is ongoing “not a single moment,” every virtue contains all four facets, and incomplete love is not love. Distinguish initial justification from growth in sanctification; align the virtue claim with Chapter 13’s contrary matrix; acknowledge real but imperfect natural love.</li>
+        <li><span class="severity s1">Pastoral</span> The opening catalogue of BLM, “wokeism,” gender transition, abortion, Marxism, and “modern Christianity” is loaded, under-sourced, and front-loads partisan conflict before the positive theological case. Name precise propositions and distinguish persons, movements, moral objects, and empirical claims.</li>
+        <li><span class="severity s1">Voice</span> <code>Preface:44–50</code> says whatever is true has the Holy Spirit as “author” and that God “revealed” the insight. Together with the Author’s Note this can imply inspiration or private revelation. Recast as prayerful, fallible reflection submitted to the Church.</li>
+        <li><span class="severity s1">Sources</span> The permissions page says RSV-2CE and Catechism material are “Used with Permission,” yet also says quotations were adapted. Verify every license and quotation; paraphrases and shortened composites must not appear as exact quotations from a named edition.</li>
+        <li><span class="severity s2">Copy</span> Title capitalization varies; “Denton TX” needs punctuation; several sentences are ungrammatical (“what God is Love means”), fragmented, or burdened by double spaces and catalogue-length syntax. “We specifically chose” also obscures authorship in a single-author book. The August 30 date is intentional and is not an audit issue.</li>
+      </ul>
+    </section>
+
+    <section class="chapter" id="ch1">
+      <h3>Chapter 1 — The Problem of Evil</h3>
+      <div class="chapter-meta"><a href="../chapter_01.md">chapter_01.md</a></div>
+      <ul>
+        <li><span class="severity s0">Major</span> <code>69–73</code> makes the capacity for evil necessary to freedom. Replace the good/evil symmetry with the Catholic account that finite freedom can be abused and becomes more perfect as it adheres to God and the good.</li>
+        <li><span class="severity s0">Major</span> <code>91–101</code> defines every sin as taking a perceived good for oneself at another’s expense. Sin is first offense against God and failure in genuine love; interior sins, omissions, sins against oneself, and directly Godward sins exceed this formula.</li>
+        <li><span class="severity s1">Argument</span> <code>75–81</code> offers a false atheist dilemma and declares protest against evil incoherent without answering natural evil or particular divine permissions. It risks turning a sufferer’s lament into an accusation against the sufferer. Use a modest free-will defense and the Cross/resurrection/providence account.</li>
+        <li><span class="severity s1">Precision</span> “Each generation inherits brokenness as birthright” can imply inherited personal guilt or determinism. Distinguish original sin’s wounded condition and social consequences from personal culpability.</li>
+        <li><span class="severity s1">Evidence</span> Claims about school secrecy, abortion totals, father absence, pornography, anthropological universals, and policy incentives need current primary data and correlation/causation discipline. Do not turn a Black organizer vignette into a racialized single-cause diagnosis.</li>
+        <li><span class="severity s2">Logic/copy</span> Law can educate; science can study proximate causes; “we refuse to use the tools” neglects wounded nature, ignorance, trauma, constraints, concupiscence, and grace. Correct subject–verb errors, comma splices, repeated Romans 2:15, and inconsistent heading style.</li>
+      </ul>
+    </section>
+
+    <section class="chapter" id="ch2">
+      <h3>Chapter 2 — The Answer Is Love</h3>
+      <div class="chapter-meta"><a href="../chapter_02.md">chapter_02.md</a></div>
+      <ul>
+        <li><span class="severity s0">Major</span> <code>47–57</code> identifies the <em>summum bonum</em> simply as love and asserts that every culture and person reaches that answer. The objective supreme good and final end is the Triune God/beatific communion; charity is the greatest virtue uniting us to Him.</li>
+        <li><span class="severity s0">Major</span> <code>51, 75–86</code> says reason discovers and Scripture confirms that “God is love.” Natural reason can know God and attributes; the Trinitarian fullness of “God is love” is revealed.</li>
+        <li><span class="severity s1">Argument</span> Five author-selected criteria are used to prove that love is the only reality satisfying them. Privation theory concerns a due good, not necessarily an immediate absence of “love.” The present reasoning is circular unless charity’s integrating role is independently demonstrated.</li>
+        <li><span class="severity s0">Major</span> <code>119, 155–169</code> makes every authentic act of love supernatural participation in divine life and says love must be explicitly sacred or be nothing. Preserve natural moral knowledge, natural virtue, and genuine natural love while locating their ultimate source and supernatural elevation in God.</li>
+        <li><span class="severity s1">Precision</span> Covenant is not every permanent human relation; justice renders God as well as neighbor his due; mercy and justice cannot be pictured as rival forces; “sacrifice proves love” is too absolute. “The West conquered much evil” is undefined and triumphalist.</li>
+        <li><span class="severity s2">Cleared</span> “Infinite dignity” should <em>not</em> be flagged merely because the adjective is strong: the Dicastery’s 2024 declaration is titled <em>Dignitas Infinita</em> and deliberately applies the expression to human dignity. The surrounding metaphysical claims still require precision.</li>
+        <li><span class="severity s2">Copy</span> The “four Greek words for love” account and holy/whole wordplay are popular simplifications, not etymological or theological proof. Fix agreement, punctuation, capitalization, and spacing.</li>
+      </ul>
+    </section>
+
+    <section class="chapter" id="ch3">
+      <h3>Chapter 3 — Sacred: God Is the Source of Love</h3>
+      <div class="chapter-meta"><a href="../chapter_03.md">chapter_03.md</a></div>
+      <ul>
+        <li><span class="severity s0">Major</span> <code>123–135</code> is the main systematic fault line: it makes “sacrifice” eternal in God without distinguishing divine self-gift from suffering, privation, cost, and death in the economy of salvation.</li>
+        <li><span class="severity s0">Major</span> <code>130–183</code> repeatedly says every authentic human love participates in the divine nature. Natural love images or reflects divine goodness; infused charity in sanctifying grace supernaturally participates in divine life.</li>
+        <li><span class="severity s0">Trinity</span> “Eternal exchange,” each Person giving to “the others,” and the Spirit as “fruit” need the guardrails of one essence, intellect, will, and operation, with real relations of origin. The Spirit is a consubstantial Person proceeding as Love/Gift, not the product of a prior communal process.</li>
+        <li><span class="severity s1">Argument</span> “A law requires a lawgiver” is asserted as a decisive refutation of non-theistic moral realism. A Thomistic argument must connect being, goodness, finality, rational nature, eternal law, and providence; the selected four categories cannot prove their own divine source.</li>
+        <li><span class="severity s1">Precision</span> Human dignity is ontologically grounded in rational nature, creation in God’s image, and divine vocation—not simply in being valued by another. “Sacrilege” is also too broad for every exploitation of a person; reserve its technical meaning.</li>
+        <li><span class="severity s1">Evidence/pastoral</span> Childhood attachment is not uniformly secure or unconditional, solitude is not itself a violation of nature, and evolutionary biology need not explain why the universe exists. Do not straw-man scientific or secular explanations when making the metaphysical case.</li>
+        <li><span class="severity s2">Copy</span> Holy does not derive from whole; a broken “pinky promise” is not automatically an offense against humanity. Long paragraphs and universal statements obscure the strongest theology.</li>
+      </ul>
+    </section>
+
+    <section class="chapter" id="ch4">
+      <h3>Chapter 4 — Gift of Covenant: Love’s Willing Submission</h3>
+      <div class="chapter-meta"><a href="../chapter_04.md">chapter_04.md</a></div>
+      <ul>
+        <li><span class="severity s0">Major</span> <code>115–149</code> says authority inheres only in an author and is active only when freely accepted. Parents, Church, and civil rulers exercise participated authority ordered to the common good; legitimate commands bind even when resisted.</li>
+        <li><span class="severity s0">Major</span> Contracts are caricatured as temporary/selfish and covenants as unconditional and unbreakable even though Scripture speaks of covenant violation. Divine fidelity does not erase covenant commands, conditions, sanctions, or human breach.</li>
+        <li><span class="severity s0">Safety</span> “I’m yours, no matter what,” “no escape clause,” and the broken-vow discussion need explicit teaching on separation for grave danger and permissible civil divorce to secure legal protection while a valid bond endures.</li>
+        <li><span class="severity s0">Vocation</span> Marriage does not most fully fulfill every baptismal covenant and is not a “sacred necessity.” Consecrated virginity/celibacy for the Kingdom has a distinct evangelical preeminence; widowhood, singleness, and infertility do not frustrate personal fulfillment in God.</li>
+        <li><span class="severity s1">Creation</span> Parents procreate; God alone immediately creates each spiritual soul. Do not call parents authors/creators in a way that confuses creaturely cooperation with divine creation.</li>
+        <li><span class="severity s1">History/logic</span> Human law is not necessarily fabricated morality enforced by raw power. Rome, medieval kingdoms, slavery, Nazism, and communism require precise historical causation and sources, not a single inevitable “morality without God” sequence.</li>
+        <li><span class="severity s1">Marriage</span> Clarify validity, sacramentality, ratification/consummation, nullity, and the fact that earthly marriage ends at death. Avoid equating submission to spouse or children with submission owed to God.</li>
+      </ul>
+    </section>
+
+    <section class="chapter" id="ch5">
+      <h3>Chapter 5 — Binding: What Love Unites</h3>
+      <div class="chapter-meta"><a href="../chapter_05.md">chapter_05.md</a></div>
+      <ul>
+        <li><span class="severity s0">Major</span> Genuine truth, justice, and mercy do not become cruelty, vengeance, or enabling. Counterfeits and partial claims masquerading as virtues can do so. Preserve the reality of acquired natural virtue and the supernatural informing role of charity.</li>
+        <li><span class="severity s0">Major</span> Aquinas’s account of <em>bonum</em> is not exhausted by truth + justice + mercy, and <em>alicui</em> does not semantically mean sacrifice/cost. Label this as the author’s analogy rather than Thomas’s hidden anatomy.</li>
+        <li><span class="severity s1">Atonement</span> “Debt only God can pay” and “paid in full” reduce Catholic soteriology if isolated. Integrate loving obedience, expiation, satisfaction, merit, victory, reconciliation, and participation.</li>
+        <li><span class="severity s0">Scripture</span> John 8 does not show true Mosaic justice demanding the woman’s execution until mercy interrupts. The missing man, witness/procedure requirements, trap, and Christ’s call from sin matter. Manipulation of law is not “truth without mercy.”</li>
+        <li><span class="severity s0">Judgment</span> “You are going to hell” is never technically accurate as a judgment about a living person’s final destiny. Warn of grave danger without presuming damnation.</li>
+        <li><span class="severity s1">Sacraments</span> Distinguish Christ’s glorified Body, Eucharistic Body, and Mystical Body; Baptismal incorporation and Eucharistic communion; venial wounds and mortal loss of charity; forgiveness, reconciliation, trust, and safety.</li>
+        <li><span class="severity s1">Pastoral</span> Divorce does not deterministically deform every future relationship. Justified separation exists, and catechesis is not a substitute for trauma-informed clinical help.</li>
+      </ul>
+    </section>
+
+    <section class="chapter" id="ch6">
+      <h3>Chapter 6 — Truth: God Is Truth</h3>
+      <div class="chapter-meta"><a href="../chapter_06.md">chapter_06.md</a></div>
+      <ul>
+        <li><span class="severity s0">Major</span> Lying is not “the foundational sin that makes every other sin possible.” A false practical judgment accompanies sin, but lying is a specific offense; pride/disobedience are the traditional root dynamics.</li>
+        <li><span class="severity s0">Inspiration</span> Prophets and apostles did not become inspired because they surrendered so completely that truth flowed through them. God is Scripture’s author while true human authors used their faculties; holiness is not the criterion of inspiration.</li>
+        <li><span class="severity s0">Christology</span> “The sin that killed God” and “the priesthood failed Him” need Chalcedonian and anti-Judaism safeguards. The divine Person truly died in his human nature; the divine nature is impassible. Responsibility for the Passion rests on sinners universally, not a people or priesthood as such.</li>
+        <li><span class="severity s0">Authority</span> The chapter repeats the error that authority becomes real only through acceptance. Obedience remains rational and bounded by moral law, but refusal does not extinguish legitimate authority.</li>
+        <li><span class="severity s1">Church/history</span> Apostolic-see founder/date/succession claims, canon formation, the relative chronology of liturgy and Gospels, and “Bible born at the altar” language need historical qualification. The Church discerned the canon; God authored inspired Scripture.</li>
+        <li><span class="severity s1">Anthropology</span> Biological sex is bodily and significant, but “every cell” and “half the organs” are scientifically crude. State the whole-person sexual differentiation without relying on false cellular absolutes.</li>
+        <li><span class="severity s1">Truth</span> A personal encounter with Christ does not make propositional truth dispensable; willingness to suffer authenticates witness but does not constitute truth. Avoid “human truth” versus “God’s truth” as rival species.</li>
+        <li><span class="severity s2">Sources/copy</span> Mark/John dates are estimates; the “Two Books” schema conflicts with the project’s recorded decision; one sentence implies apostles wrote after their own deaths. The chapter also has long paragraphs and extensive dash/quotation inconsistency.</li>
+      </ul>
+    </section>
+
+    <section class="chapter" id="ch7">
+      <h3>Chapter 7 — Justice: God Is Justice</h3>
+      <div class="chapter-meta"><a href="../chapter_07.md">chapter_07.md</a></div>
+      <ul>
+        <li><span class="severity s0">Major</span> An offender has rights to dignity, due process, and humane treatment, but not a strict justice-right to mercy precisely as mercy. Mercy exceeds strict due even when Christians are commanded to show it.</li>
+        <li><span class="severity s0">Justice</span> Punishment is not just only when it restores a person or relationship. Catholic teaching includes retributive redress, protection, deterrence, and medicinal aims. Restitution restores due equality, not automatically reconciliation.</li>
+        <li><span class="severity s0">Marriage</span> Betrayal can justify separation and protection but does not make the valid bond bind the innocent “less.” Avoid any implication that grave fault frees a spouse to remarry.</li>
+        <li><span class="severity s0">Life ethics</span> Abortion/euthanasia are intrinsically evil direct killings of innocents. The death penalty has a different moral history; the current CCC calls it inadmissible. Do not present all three as though the Church always classified them identically.</li>
+        <li><span class="severity s1">Taxonomy</span> The injustice/idolatry/exploitation scheme and use of <em>dulia</em> as generic reciprocal honor are not received Catholic classifications. Aquinas’s parts of justice and annexed virtues require exact scholarly sourcing.</li>
+        <li><span class="severity s1">Rights/politics</span> Religious freedom is immunity from coercion within just limits, not an unlimited right to act on conscience. Voting/cooperation with evil cannot be reduced to a single candidate test without intention, kind of cooperation, proportionate reasons, and prudence.</li>
+        <li><span class="severity s1">Pastoral</span> Precisely distinguish dysphoria, pornography, prostitution, surrogacy, worship, idolatry, prejudice, and particular “equity” or “anti-racism” proposals; do not group unlike persons or moral objects under elastic labels.</li>
+        <li><span class="severity s2">Production</span> Fix the unclosed HTML callout at <code>133–135</code>, Hebrew transliteration, CCC cross-references, quotation punctuation, and raw TeX/dash inconsistencies.</li>
+      </ul>
+    </section>
+
+    <section class="chapter" id="ch8">
+      <h3>Chapter 8 — Mercy: God Is Mercy</h3>
+      <div class="chapter-meta"><a href="../chapter_08.md">chapter_08.md</a></div>
+      <ul>
+        <li><span class="severity s0">Major</span> “Mercy has no purchase where there is no repentance” contradicts the later correct distinction: victims may forgive unilaterally, renounce revenge, pray, and keep merciful boundaries; repentance is required for absolution, fruitful reception, restored trust, and reconciliation.</li>
+        <li><span class="severity s0">Grace</span> A hardened heart can resist grace, but “no grace can pass through it” is false; converting grace can soften it. Later grave refusal does not retroactively “revoke” previously absolved sins.</li>
+        <li><span class="severity s0">Justice</span> Mercy does not maintain what true justice would destroy, and no one may “sacrifice” justice owed to victims or the common good. One may relinquish a personal claim while preserving public duties and protection.</li>
+        <li><span class="severity s0">Penance</span> Contrition, confession, and satisfaction are the penitent’s acts; priestly absolution is essential. “Restoration” is an effect, not a fifth component. Do not promise total instantaneous psychological or relational healing.</li>
+        <li><span class="severity s0">Atonement</span> “Substitute taking what we deserved,” “paid debt,” and “mercy absorbs sin” need the fuller Catholic synthesis of free loving obedience, representation, sacrifice, expiation, satisfaction, merit, reconciliation, and victory.</li>
+        <li><span class="severity s0">Culpability</span> Christ’s “they know not” prayer cannot be universalized so that every sinner lacks full knowledge. Mortal guilt can include grave matter, full knowledge, and deliberate consent.</li>
+        <li><span class="severity s1">Safety</span> Forgiveness is not a guaranteed technique that makes trauma lift. Explicitly reject self-harm in the abortion-doctor vignette and direct distressed readers toward confession, emergency help, and competent clinical care.</li>
+        <li><span class="severity s1">Anointing/private revelation</span> Anointing, Penance, Apostolic Pardon, Viaticum, and conditions for forgiveness must be distinguished. “A Catholic does not die alone” is not a factual promise. Add CCC 67’s status of private revelation to Faustina material and explain “mercy as greatest attribute” as greatest in effects toward creatures.</li>
+        <li><span class="severity s2">Verified</span> The “Every person therefore is invited to repent…” quotation and note are correctly attributed to St. John Paul II, <em>Redemptoris Missio</em> 13. Do not change it to Pope Leo XIV.</li>
+      </ul>
+    </section>
+
+    <section class="chapter" id="ch9">
+      <h3>Chapter 9 — Sacrifice: Love’s Eternal Self-Gift</h3>
+      <div class="chapter-meta"><a href="../chapter_09.md">chapter_09.md</a></div>
+      <ul>
+        <li><span class="severity s0">Major</span> The chapter’s title and controlling claim conflate eternal Trinitarian self-gift with strict sacrifice. Cost, suffering, blood, privation, and death do not belong to the divine nature; Christ’s sacrifice is of infinite value because of the divine Person who offers in his humanity.</li>
+        <li><span class="severity s0">Faith</span> Faith and obedience are not identical, and unformed/dead faith is not “no faith.” Faith is a supernatural gift and intellectual assent moved by the will under grace; charity gives it living form and salvific union.</li>
+        <li><span class="severity s0">Love</span> Love need not always be outward in a way that excludes ordered self-love, contemplation, rest, or duties to self. Christian hope for one’s own salvation is virtuous, not selfish. Sacrifice is not the measure of every love in every moment.</li>
+        <li><span class="severity s0">Atonement</span> Dense price, debt, payment, punishment, exchange, and tribunal language narrows the Paschal mystery. “Not a tribunal but a Father” is also a false dichotomy: Scripture and Tradition use filial, judicial, cultic, covenantal, victorious, and medicinal images in an integrated way.</li>
+        <li><span class="severity s0">Grace</span> Images in which grace waits until the sinner opens a hand by doing can imply semi-Pelagian initiative. God’s prevenient grace awakens, enables, and accompanies the very opening and every meritorious response.</li>
+        <li><span class="severity s0">Mass</span> The Mass is the sacramental re-presentation of the one sacrifice, not a repeated sacrifice or literal “time travel.” The offertory, water/wine symbolism, *missa*, and scriptural offering taxonomy need to follow the rite and Catholic sources rather than invented meanings.</li>
+        <li><span class="severity s0">Sacraments</span> Personal conscious consent is not a universal condition of sacramental covenant: infant Baptism is decisive. Sacramental fruit also depends on disposition; grace is not mechanical.</li>
+        <li><span class="severity s1">Scripture/history</span> The Old Testament offering system, James 2, sloth/lukewarmness, *teleios*, Peter’s denial, martyrs’ biographies, Tertullian, and the attribution of <em>incurvatus in se</em> to Augustine all need source correction or qualification.</li>
+        <li><span class="severity s1">Family</span> Contraception frustrates the procreative meaning of intercourse but does not “sacrifice the child.” A marriage already forms a family; infertile spouses can be fruitful. Do not make visible cost a test that shames exhausted parents or caregivers.</li>
+        <li><span class="severity s1">Structure</span> The chapter repeats themes, quotations, and examples often enough that important distinctions can blur. Preserve its depth, but organize it around one doctrinally controlled thesis and consolidate historical typology or applications when they repeat work already completed.</li>
+      </ul>
+    </section>
+
+    <section class="chapter" id="ch10">
+      <h3>Chapter 10 — Life-Giving Communion: Love’s Goal</h3>
+      <div class="chapter-meta"><a href="../chapter_10.md">chapter_10.md</a></div>
+      <ul>
+        <li><span class="severity s0">Trinity</span> <code>40–56</code> first denies divine need, then says love “must create, must multiply.” God creates freely, not by necessity. The Spirit is a consubstantial Person proceeding as Love/Gift, not simply the mutual relationship of Father and Son.</li>
+        <li><span class="severity s0">Trinity</span> <code>282–304</code> uses the Son’s human/economic obedience to support eternal “submission” within God. The three Persons possess one divine will; distinguish relations of origin, mission, and the Son’s assumed human obedience.</li>
+        <li><span class="severity s0">Eucharist</span> Correct “source and summit of our faith” and “God becomes bread.” Use transubstantiation’s received language and acknowledge the Eucharist as effective sacramental sign—not merely symbol—while affirming real, true, substantial presence.</li>
+        <li><span class="severity s0">Reception</span> Add confession before Communion for conscious grave sin, Eucharistic faith, ecclesial communion, and fast. The Penitential Act does not remit mortal sin. Do not promise automatic perfect communion or transformed desires irrespective of disposition.</li>
+        <li><span class="severity s0">Eucharistic detail</span> Seeing the Host is not the Beatific Vision; a Host is not infinitely divisible; the water is not humanity “lost” in divinity; Baptism first incorporates into the Church; Christ’s Eucharistic Body and Mystical Body are related but not identical.</li>
+        <li><span class="severity s1">Marriage/family</span> Marriage has both inseparable goods of spouses and procreation/education; it does not exist only for children. A birth scene cannot be made a universal Trinity replica, and family unity is analogical rather than “the same” as divine consubstantial unity.</li>
+        <li><span class="severity s1">Liturgy</span> Creed/readings differ by day; *missa* denotes dismissal and supports a sending interpretation but does not literally mean “sent”; offertory, consecration, intercessions, and mission claims need rite-based wording.</li>
+        <li><span class="severity s1">Ecumenism/eschatology</span> Division is a wound, but separated Christians possess real gifts and Catholics share responsibility. Saints intercede; Scripture does not show them as spectators, and reunion cannot be promised indiscriminately with every deceased acquaintance.</li>
+        <li><span class="severity s0">Production</span> <code>354–366</code> points to the Lawgiver as the next chapter, but Chapter 11 is Prudence. Replace the obsolete bridge.</li>
+      </ul>
+    </section>
+
+    <section class="chapter" id="ch11">
+      <h3>Chapter 11 — The Mind of Love: Prudence</h3>
+      <div class="chapter-meta"><a href="../chapter_11.md">chapter_11.md</a></div>
+      <ul>
+        <li><span class="severity s0">Method</span> The father/sons parable and four facets are made a definitive answer for every prudential case. Catholic moral discernment also requires moral object, intention, circumstances, precepts, virtues, gifts, vocation, counsel, competence, and consequences. Keep the framework heuristic, not exhaustive.</li>
+        <li><span class="severity s0">Sacrifice</span> God’s “infinite sacrifice” and pouring out without depletion repeat the eternal-sacrifice category problem.</li>
+        <li><span class="severity s1">Providence</span> The claim that God assigns each person a family/community set so “the whole Body is covered” is an unsupported system and can excuse needs that fall outside kinship networks.</li>
+        <li><span class="severity s0">Dignity/soul</span> God is a greater good than any created soul, and murder destroys bodily life—not the immortal soul. “Your soul, which is to say, the truth” is a category error.</li>
+        <li><span class="severity s1">Pastoral</span> The gender/same-sex/cohabitation scenario needs respect, compassion, no unjust discrimination, no rash judgment, and case-specific counsel while retaining moral truth.</li>
+        <li><span class="severity s1">Happiness</span> “Happiness is the purpose of life” is not simply a lie. Distinguish passing satisfaction from beatitude, the human final end in God.</li>
+        <li><span class="severity s1">Life/end of life</span> Abortion is gravely evil but not safely labeled “the worst thing a person can do.” “Never end life” must mean never intentionally kill; withdrawing disproportionate treatment and proportionate analgesia require CCC 2278–2279 precision.</li>
+        <li><span class="severity s0">Soteriology</span> A self-written “book that saves you and the world” makes praxis sound salvific in itself. Christ alone saves; grace-enabled prudence and charity are our cooperation.</li>
+      </ul>
+    </section>
+
+    <section class="chapter" id="ch12">
+      <h3>Chapter 12 — The Lawgiver Is Love</h3>
+      <div class="chapter-meta"><a href="../chapter_12.md">chapter_12.md</a></div>
+      <ul>
+        <li><span class="severity s0">Argument</span> “Laws require lawgivers” equivocates among physical regularities, abstract moral norms, and promulgated civil laws. It is one contested cumulative argument, not a self-evident proof that refutes all secular moral realism.</li>
+        <li><span class="severity s1">Tone</span> Claims that atheist reasoning self-destructs, unbelievers merely suppress sufficient evidence, and all non-theistic accounts collapse diagnose motives and culpability the author cannot know.</li>
+        <li><span class="severity s0">Revelation</span> Natural theology can know God exists and infer perfections; it does not deduce the revealed Triune mystery or the full Johannine affirmation “God is love” merely from the four-part framework.</li>
+        <li><span class="severity s0">Law/grace</span> Natural law written on hearts is not the New Law, which is principally the grace of the Holy Spirit. Human response is moved by prevenient grace, not unaided voluntary recognition.</li>
+        <li><span class="severity s1">Fear/salvation</span> Servile fear is imperfect, but fear of the Lord is a gift and fear of punishment can begin conversion. For salvation outside visible Church boundaries, state all <em>Lumen Gentium</em> 16 conditions and that every salvation comes through Christ and is related to the Church.</li>
+        <li><span class="severity s1">Exegesis</span> The Beatitudes-to-four-facets map and heart/soul/mind/strength maps are devotional applications, not lexical or Magisterial anatomy. Label them as such.</li>
+        <li><span class="severity s1">Internal logic</span> The chapter again says every virtue contains all four pillars, contradicting the matrices that follow. The framework cannot serve as evidence for intelligent design when its categories were selected by the author.</li>
+      </ul>
+    </section>
+
+    <section class="chapter" id="ch13">
+      <h3>Chapter 13 — Faith Works Through Love</h3>
+      <div class="chapter-meta"><a href="../chapter_13.md">chapter_13.md</a></div>
+      <ul>
+        <li><span class="severity s0">Virtue</span> Charity as the “form of the virtues” does not mean every natural/acquired virtue is made of charity. Infused charity orders the Christian’s infused virtues and acts to supernatural life and merit.</li>
+        <li><span class="severity s0">Grace/habit</span> Repeated practice acquires moral habits but does not infuse faith, hope, or charity. The theological virtues are God-given with sanctifying grace and then exercised/cooperated with.</li>
+        <li><span class="severity s0">Matrix</span> The tables define virtues to fit selected boxes and then use the fit to prove the framework. Sacrifice/cost is not definitional of every virtue, and stable virtue can act promptly and joyfully. Present, at most, as a tentative devotional aid after expert review.</li>
+        <li><span class="severity s0">Definitions</span> Hope resides in the will as confident desire/expectation; <em>dulia</em> is technical veneration, not generic honor; penance is not paying an unpaid divine bill; zeal can be disordered; the “capital virtues” list is not a fixed Magisterial taxonomy.</li>
+        <li><span class="severity s0">Humility</span> Humility is not uniquely “created,” purely vertical, prior to faith, or the definition of Catholic identity. It concerns truthful self-estimation under God and has direct neighbor-facing effects.</li>
+        <li><span class="severity s0">Justification</span> Initial justification remits sin and gives sanctifying grace and the infused virtues; it is not merely God forming one virtue at a time. Subsequent growth is lifelong. State of grace is not simply a fully ordered lifestyle.</li>
+        <li><span class="severity s0">Faith</span> Faith without charity is unformed/dead but remains faith. Avoid saying it becomes inauthentic or nonexistent.</li>
+        <li><span class="severity s1">History/pastoral</span> Avoid a blanket Pharisee caricature. Correct Augustine’s chronology, garden account, concubinage context, and inflated titles; Reconciliation forgives/reconciles and is not merely a lens scrubber.</li>
+      </ul>
+    </section>
+
+    <section class="chapter" id="ch14">
+      <h3>Chapter 14 — Sin and Vice: The Failure to Love</h3>
+      <div class="chapter-meta"><a href="../chapter_14.md">chapter_14.md</a></div>
+      <ul>
+        <li><span class="severity s0">Matrix</span> The star/cross system is not a Catholic classification of sin, and the number of facets violated does not determine gravity. Use moral object, intention, circumstances, grave matter, full knowledge, and deliberate consent.</li>
+        <li><span class="severity s0">Root sin</span> Every sin need not involve believing or telling a lie. Pride/disobedience are root dynamics; a person can knowingly choose a recognized evil from weakness or malice.</li>
+        <li><span class="severity s0">Definitions</span> Unlearned unbelief is not automatically infidelity; despair and presumption are distinct; anger can be righteous; legitimate force is not inherently “violence”; disobedience to unjust commands may be required; mercy is not owed.</li>
+        <li><span class="severity s0">Punishment</span> Private revenge is forbidden, but public authority may impose proportionate punishment including retributive redress. Forgiveness does not cancel public justice.</li>
+        <li><span class="severity s0">Culpability</span> If voluntariness is absent there may be no personal sin, not automatically venial sin. Habits may diminish freedom but deliberately cultivated habits can increase responsibility.</li>
+        <li><span class="severity s0">Baptism</span> Mortal sin destroys charity and sanctifying grace but not the baptismal character or incorporation. Reconciliation restores grace; it is not literally a second Baptism.</li>
+        <li><span class="severity s0">Scrupulosity</span> <code>208–216</code> labels immediately rejected impure thoughts/glances venial sin. Rejected temptation is not sin. This is one of the most pastorally urgent corrections.</li>
+        <li><span class="severity s1">Confession</span> An examination should begin with God’s grace and objective commandments, not raw emotional “pain.” Perfect contrition includes firm resolution to confess as soon as possible. No one has ordinary certainty from introspection alone that the heart is perfectly ordered.</li>
+      </ul>
+    </section>
+
+    <section class="chapter" id="ch15">
+      <h3>Chapter 15 — Counterfeit Love in the Modern World</h3>
+      <div class="chapter-meta"><a href="../chapter_15.md">chapter_15.md</a></div>
+      <ul>
+        <li><span class="severity s0">Structure</span> This chapter is a major submission risk. It piles loosely defined “isms,” moral objects, social movements, disputed empirical claims, and separated Christian communities into one prosecution. Rebuild around precise propositions, Catholic sources, distinctions, and remedies.</li>
+        <li><span class="severity s0">Natural good</span> Atheists and non-Catholics can know and perform real natural goods; secular persons are not thereby incapable of love, sacrifice, marriage, or virtue. Their ultimate good is fulfilled in God, but natural law and actual grace are not erased.</li>
+        <li><span class="severity s0">Social doctrine</span> The Church rejects atheistic collectivism and class hatred, but also teaches that sinful social structures and “structures of sin” require institutional reform. “Only hearts, never structures” is not Catholic social doctrine.</li>
+        <li><span class="severity s0">Gender/sexuality</span> Retain the created unity of body and soul and sexual difference, but distinguish persons, inclinations, acts, diagnoses, and interventions. State respect, compassion, and prohibition of unjust discrimination. Replace undefined “wokeism” and current medical claims with exact sourced claims.</li>
+        <li><span class="severity s0">Abortion/pastoral</span> Remove “easy way out,” “cannot love,” the seven-deadly-sins mapping, “no therapist can heal,” and categorical motive assignment. State objective gravity while following <em>Evangelium Vitae</em> 99’s acknowledgment of pressure, coercion, fear, wounds, forgiveness, hope, sacramental reconciliation, and expert help.</li>
+        <li><span class="severity s0">Mental health</span> “Post-abortion syndrome” is not a universally recognized diagnosis; grief and mental-health outcomes vary. Do not displace licensed care or imply therapy competes with Christ. Spiritual and clinical care can cooperate.</li>
+        <li><span class="severity s0">Ecumenism</span> The “faith alone,” “Bible alone,” denomination-count, and once-saved-always-saved passages caricature diverse traditions. Vatican II requires acknowledging shared guilt for division and real sanctifying elements outside visible Catholic boundaries. Benedict XVI explicitly explained a Catholic sense in which “faith alone” can be true when not opposed to charity.</li>
+        <li><span class="severity s1">History</span> Holocaust, eugenics, totalitarianism, racism, and modern ideology are multicausal. Do not present them as the automatic consequence of one philosophical premise or claim the Church never used force or always led every justice reform.</li>
+        <li><span class="severity s2">Copy</span> Correct “object truth” to “objective truth”; define every technical or political label; remove repeated catalogues and unsupported superlatives.</li>
+      </ul>
+    </section>
+
+    <section class="chapter" id="ch16">
+      <h3>Chapter 16 — What Counterfeit Love Costs the Children</h3>
+      <div class="chapter-meta"><a href="../chapter_16.md">chapter_16.md</a></div>
+      <ul>
+        <li><span class="severity s0">Thesis</span> Children are not the “ultimate test” of every adult moral choice, and the four facets do not mechanically predict child outcomes. Children are persons to love, not diagnostic instruments for proving the framework.</li>
+        <li><span class="severity s0">Determinism</span> Stable marriage/family is a profound good and major protective factor, not a guarantee. Wounded families can form saints; devout intact families can fail. Grace, freedom, temperament, abuse, community, and many conditions intervene.</li>
+        <li><span class="severity s0">Medicine</span> “Gender ideology sterilizes children” collapses social identification, blockers, hormones, and surgeries. Effects, availability, age, jurisdiction, and evidence differ. State Catholic anthropology and ethical objections with current primary medical data.</li>
+        <li><span class="severity s0">Abortion/divorce</span> Do not make every abortion a convenience sacrifice or every divorce selfish abandonment. Distinguish objective acts, motives, coercion, culpability, separation, nullity, civil protection, and valid bond.</li>
+        <li><span class="severity s0">Families</span> Same-sex households do not all arise through purchased surrogacy; cohabiting homes do not all disappear tomorrow; pornography users are not all addicted fathers. Name moral concerns without denying natural affection, real stability, dignity, conversion, or varied facts.</li>
+        <li><span class="severity s0">Dignity</span> Remove the single-mother stereotype and the two-child chart that makes one child confused/prone to evil and the other secure/virtuous. Origins do not determine moral worth or destiny.</li>
+        <li><span class="severity s1">Evidence</span> Education, anxiety, secular upbringing, family outcomes, pornography, and multi-generation formulas require reliable studies and probabilistic language. Proverbs 22:6 is wisdom, not an unconditional outcome guarantee.</li>
+      </ul>
+    </section>
+
+    <section class="chapter" id="ch17">
+      <h3>Chapter 17 — The Gospel: Perfect Love Revealed in Christ</h3>
+      <div class="chapter-meta"><a href="../chapter_17.md">chapter_17.md</a></div>
+      <ul>
+        <li><span class="severity s0">Gospel</span> The chapter identifies the Gospel with the author’s definition. Restore the apostolic kerygma—Christ’s person, Kingdom, Incarnation, death for sins, burial, Resurrection, exaltation, Spirit, Church, judgment, and consummation—and present the framework as one meditation on its love.</li>
+        <li><span class="severity s0">Grace/faith</span> Grace is not identical with the definition. Preserve created sanctifying grace, actual grace, and the uncreated Gift; initial justification and growth; adult cooperation moved by grace and infant Baptism; dead/unformed faith that remains faith.</li>
+        <li><span class="severity s0">Incarnation</span> God does not “become love”; God eternally is Love and the Son becomes flesh without change in divinity. Mind is a faculty of the rational soul, not a third substance beside body and soul.</li>
+        <li><span class="severity s0">Gift/justice</span> Humanity is not owed Incarnation, forgiveness, adoption, or salvation. They are gratuitous mercy. Children owe appropriate honor/obedience even though dignity is not earned and they are not financial debts.</li>
+        <li><span class="severity s0">Covenant/Church</span> Infant Baptism disproves a universally negotiated covenant. The Adam–Noah–Abraham–Moses–David social-expansion scheme is a popular synthesis requiring attribution. The Church is seed and beginning of the Kingdom, not the Kingdom’s full eschatological identity.</li>
+        <li><span class="severity s0">Paschal mystery</span> Label the “Fourth Cup” as a debated typology, not established biblical fact. At death Christ’s human soul separated from his body while both remained united to the divine Person. Psalm 85’s four-term Calvary map is devotional, not an explicit prophecy.</li>
+        <li><span class="severity s0">Eucharist</span> Repeat the Chapter 10 corrections: not merely symbolic; Baptism incorporates; Eucharist deepens unity; Host not infinitely divisible; confession before Communion if conscious of mortal sin; faith, ecclesial communion, and fast.</li>
+        <li><span class="severity s0">Salvation/pastoral</span> Concern for one’s salvation is the virtue of hope, not selfishness. Do not deny rays of truth and holiness in other religions or assign culpability to all who “reject Christ.” State that all salvation is through Christ and related to his Church while respecting invincible ignorance.</li>
+        <li><span class="severity s0">Initiation</span> “State of perfect love” is not the Communion criterion. Validly baptized candidates in OCIA are not rebaptized; initiation depends on canonical status and pastoral discernment.</li>
+        <li><span class="severity s1">Language</span> Remove “sacrifice incarnate,” infertility as “sterility,” deterministic child-wholeness promises, every-sin-kills language, and total temporal-healing promises.</li>
+      </ul>
+    </section>
+
+    <section class="chapter" id="back">
+      <h3>Epilogue and Author’s Note</h3>
+      <div class="chapter-meta"><a href="../epilogue.md">epilogue.md</a> · <a href="../z_authors_note.md">z_authors_note.md</a></div>
+      <ul>
+        <li><span class="severity s0">Development</span> “We know His love more deeply today than any generation” is false and triumphalist. Doctrine develops without replacing the apostolic deposit; no age can rank itself above Mary, apostles, Fathers, Doctors, and saints in lived knowledge of divine love.</li>
+        <li><span class="severity s0">Authority</span> “Everything this book teaches” comes from the Church’s well and “now you understand what love actually is” overstate a private synthesis that still contains errors. End with explicit submission to ecclesial judgment.</li>
+        <li><span class="severity s0">Salvation</span> Jesus does not save merely “one loving soul at a time.” He saves by the once-for-all Paschal mystery and grace; transformed witnesses cooperate in his ecclesial mission.</li>
+        <li><span class="severity s1">Terminology</span> “Holy Communion” normally means the Eucharist, not generic harmonious life. Use communion with God and neighbor or explicitly connect the phrase to Eucharistic communion and disposition.</li>
+        <li><span class="severity s0">Author’s Note</span> Replace “revealed to me,” “Holy Spirit’s inspiration,” and AI “ensured faithfulness” with prayer, grace, study, fallible discernment, tool assistance, independent source checking, and the author’s full responsibility.</li>
+        <li><span class="severity s1">Church/order</span> Christ founded the Church and entrusted it to the apostles; bishops succeed the apostles, priests are coworkers, and deacons share ordained ministry. Use “apostles,” “disciples,” and “offices” precisely.</li>
+        <li><span class="severity s2">Copy</span> Standardize 2,000/2000, Cross/cross, age formats, and “version that I have written”; remove the double space and unsupported “atheist’s strongest argument always” superlative.</li>
+      </ul>
+    </section>
+  </section>
+  <section id="pastoral">
+    <h2>Pastoral and reputational risks</h2>
+    <p>A bishop will assess not only whether a proposition can be defended in the abstract, but whether the book forms consciences truthfully and speaks as a shepherd to wounded people. These are the main high-risk patterns.</p>
+    <table>
+      <thead><tr><th>Audience or issue</th><th>Present risk</th><th>Required pastoral standard</th></tr></thead>
+      <tbody>
+        <tr><td>Women and men affected by abortion</td><td>“Easy way out,” total motive assignment, inability to love, all seven deadly sins, disputed syndrome language, therapy dismissed.</td><td>State objective gravity without minimizing coercion, fear, poverty, abuse, culpability distinctions, forgiveness, sacramental healing, hope, and competent assistance. Follow <em>Evangelium Vitae</em> 99.</td></tr>
+        <tr><td>Abuse victims and separated spouses</td><td>“No escape clause,” unconditional physical staying, ambiguous claim that broken vows bind differently.</td><td>Clearly affirm immediate safety, legitimate separation, possible civil divorce for rights/children, boundaries, public justice, and the distinct question of the valid bond.</td></tr>
+        <tr><td>Children of divorce or wounded homes</td><td>Origins treated as destiny; children predicted to be confused, unhealthy, distrustful, or prone to evil.</td><td>Name real risk factors probabilistically while affirming each child’s freedom, grace, dignity, resilience, access to healing, and capacity for sanctity.</td></tr>
+        <tr><td>Single parents and children conceived outside marriage</td><td>Stereotypes of exploited mothers, absent fathers, and broken children.</td><td>Retain moral teaching on sex and marriage while recognizing heroic fidelity, conversion, natural bonds, practical burdens, and the equal dignity of every parent and child.</td></tr>
+        <tr><td>Infertile couples and unmarried vocations</td><td>Marriage/children treated as necessary fulfillment; sterility used as a metaphor for spiritual death.</td><td>Teach marriage’s procreative orientation and dual goods while honoring infertility, adoption, spiritual fruitfulness, consecrated celibacy, widowhood, and faithful singleness.</td></tr>
+        <tr><td>People with same-sex attraction or gender distress</td><td>Persons, inclinations, acts, ideologies, diagnoses, and interventions grouped together; natural affection and goods denied.</td><td>Preserve Catholic anthropology and sexual morality while explicitly requiring respect, compassion, avoidance of unjust discrimination, exact moral-object distinctions, and attentive accompaniment.</td></tr>
+        <tr><td>People with scrupulosity</td><td>Rejected temptation called venial sin; conscience examined through emotional pain; “perfect love” used as Communion criterion.</td><td>Teach consent and culpability precisely, distinguish temptation from sin, ground examination in God’s mercy and objective norms, and use “state of grace/conscious grave sin” for Communion.</td></tr>
+        <tr><td>People with trauma, depression, addiction, or grief</td><td>Spiritual actions promise felt relief; clinical care is dismissed; vice labels are attached to conditions without distinction.</td><td>Do not promise immediate affective cure. Distinguish moral responsibility from illness and impairment; encourage sacramental, pastoral, medical, and psychological help as complementary.</td></tr>
+        <tr><td>Separated Christians and nonbelievers</td><td>Strawmen, motive diagnosis, “faith alone” caricature, denial of real virtue, denomination blame, other religions reduced to rejection of love.</td><td>Make the positive Catholic case; acknowledge shared Christian gifts and shared responsibility for division; recognize natural law, natural virtue, rays of truth/holiness, invincible ignorance, and that all salvation is through Christ.</td></tr>
+        <tr><td>Jewish readers</td><td>“Pharisees,” priesthood, Law, and Passion language can imply collective failure or opposition between Jewish justice and Christian mercy.</td><td>Follow <em>Nostra Aetate</em> 4 and CCC 597–598: no collective Jewish guilt, all sinners implicated, continuity and fulfillment rather than caricature, and precise historical actors.</td></tr>
+      </tbody>
+    </table>
+  </section>
+
+  <section id="editorial">
+    <h2>Grammar, clarity, logic, citations, and production</h2>
+
+    <h3>1. Source and quotation control</h3>
+    <ul>
+      <li><strong>Translation conflict:</strong> the project instruction says Scripture must always be RSV, while the front matter identifies RSV-2CE. Choose the actual licensed edition, then make every quotation and permissions line match it. RSV and RSV-2CE are not interchangeable labels.</li>
+      <li><strong>“Adapted quotations”:</strong> an adapted or composite sentence is a paraphrase, not an exact quotation. Use quotation marks only for verified text; show ellipses and brackets honestly; identify verse numbering differences.</li>
+      <li><strong>Permissions:</strong> no supporting permission/license file was found in the nearby project folders searched. That does not prove permission is absent, but the claim “Used with Permission” should not remain without documentary support and the exact licensor-required notice.</li>
+      <li><strong>Primary sources:</strong> replace popular summaries and secondary quotations with exact CCC, council, papal, liturgical, biblical, patristic, Thomistic, and canon-law references. Technical claims about Aquinas, Greek/Hebrew, covenant typology, martyrs, canon history, and the Mass need page/article/section-level citations.</li>
+      <li><strong>Empirical sources:</strong> medical, psychological, sociological, crime, divorce, family, abortion, education, race, pornography, and historical death-toll claims need dated, methodologically appropriate sources. Do not treat anecdotes or correlation as universal causal proof.</li>
+      <li><strong>Bibliography:</strong> create one authoritative source ledger that records exact edition, URL/publication data, page or paragraph, quote status, permission status, and manuscript locations. Current endnotes are not sufficient for a bishop-facing scholarly audit trail.</li>
+    </ul>
+
+    <h3>2. Argument and exposition</h3>
+    <ul>
+      <li><strong>Reduce universal quantifiers.</strong> “Always,” “only,” “every,” “no one,” “nothing,” “must,” “guarantees,” and “cannot” cause many of the book’s errors. Use them only when doctrine or evidence actually supports universality.</li>
+      <li><strong>Separate levels of claim.</strong> Mark whether a statement is dogma, authoritative doctrine, common theological opinion, disputed hypothesis, devotional meditation, prudential judgment, empirical generalization, or personal testimony.</li>
+      <li><strong>Do not prove the framework with categories created by the framework.</strong> The virtue/vice matrices and five-criterion argument repeatedly assume what they claim to demonstrate.</li>
+      <li><strong>Avoid false binaries.</strong> Justice/mercy, tribunal/Father, symbol/reality, reason/revelation, spiritual/clinical help, hearts/structures, marriage/celibacy, and truth/person are Catholic both-and distinctions, not mutually exclusive alternatives.</li>
+      <li><strong>Distinguish analogy from identity.</strong> Human family, marriage, covenant, social unity, body imagery, and sacrificial love can image divine mysteries without being the same kind of unity, causality, procession, or gift as the Trinity and sacraments.</li>
+      <li><strong>Use the conclusion the argument earns.</strong> Several chapters claim decisive proofs against atheism or a complete answer to evil after offering only one plausible cumulative consideration.</li>
+    </ul>
+
+    <h3>3. Prose and house style</h3>
+    <ul>
+      <li>The manuscript relies heavily on sentence fragments, all-caps emphasis, one-sentence paragraphs, rhetorical questions, repeated callouts, em-dash chains, and altar-call conclusions. These are effective in moderation but presently make portions of the book feel more repetitive and polemical than their content requires.</li>
+      <li>Automated preflight found at least 37 double-space occurrences across six reader files and 63 spaced-hyphen patterns across eleven. Some occur in tables or deliberate typography, but all need normalization under one house style.</li>
+      <li>Recurring copy defects include subject–verb agreement, missing articles, comma splices, quotation punctuation, title capitalization, straight/curly quote mixing, inconsistent capitalization of Church/Cross/Gospel, singular/plural drift, ungrammatical “what God is Love means,” “object truth,” and “privates” where “deprives” appears intended.</li>
+      <li>False or misleading wordplay should be removed: <em>holy</em> does not derive from <em>whole</em>; <em>missa</em> is not literally “sent”; <em>ekklesia</em> etymology cannot prove ecclesiology; <em>alicui</em> does not contain sacrifice.</li>
+      <li>The core definition should remain word-for-word when quoted as the project’s definition. Paraphrases should be identified as paraphrases rather than silently altering the canonical line.</li>
+    </ul>
+
+    <h3>4. File and layout preflight</h3>
+    <ul>
+      <li><strong>Malformed HTML:</strong> <code>chapter_07.md:133–135</code> opens a paragraph inside a Div but closes only the Div. Pandoc reports the Div as unclosed until much later.</li>
+      <li><strong>Raw TeX:</strong> approximately 131 raw TeX lines occur across 20 manuscript files, often <code>\hfill\small</code> inside Markdown/HTML. These require the actual print/EPUB build pipeline; they will not port reliably to ordinary HTML or EPUB.</li>
+      <li><strong>Cross-reference:</strong> <code>chapter_10.md:354–366</code> points to the Lawgiver as the next chapter, but Chapter 11 is Prudence and Chapter 12 is the Lawgiver.</li>
+      <li><strong>Metadata:</strong> standardize title casing, author line, location, version/date, Scripture edition, copyright notices, and front/back matter order.</li>
+      <li><strong>Build gate:</strong> render the entire final manuscript to the exact PDF and EPUB formats intended for submission, inspect every page, table, callout, note, hyperlink, orphan/widow, heading, and quotation, then run spelling and link checks on the rendered output.</li>
+    </ul>
+  </section>
+
+  <section id="verified">
+    <h2>Items verified or cleared</h2>
+    <div class="callout good"><strong>These should not be “fixed” as errors.</strong> The audit deliberately records cleared items because prior project notes or first impressions could otherwise lead to incorrect changes.</div>
+    <ul>
+      <li><span class="severity ok">Verified</span> Chapter 6’s “sacred authority is participation in the authority of Christ…” quotation is authentic Pope Leo XIV. The manuscript’s source—his November 21, 2025 address to participants in the international course promoted by the Tribunal of the Roman Rota—is correct. Calling it generically an “Address to the Roman Curia” would be less accurate.</li>
+      <li><span class="severity ok">Verified</span> Chapter 8’s “Every person therefore is invited to ‘repent’ and to ‘believe’ in God’s merciful love” is correctly attributed to St. John Paul II, <em>Redemptoris Missio</em> 13. It is not a Pope Leo XIV sentence.</li>
+      <li><span class="severity ok">Verified</span> The St. John Paul II wording that the body “and it alone” can make visible the invisible is authentic from the February 20, 1980 general audience. Its context must still be respected: it supports the sacramental meaning of the body, not a body–mind–soul three-substance anthropology.</li>
+      <li><span class="severity ok">Cleared</span> “Infinite dignity” is legitimate Catholic wording in light of the 2024 declaration <em>Dignitas Infinita</em>. Surrounding claims may need explanation, but the adjective is not itself heterodox.</li>
+      <li><span class="severity ok">Strong</span> The exact core definition is internally stable and can remain as the author’s proposed synthesis, provided the book consistently identifies it as fallible, analogical, non-exhaustive, and subordinate to the Church’s received faith.</li>
+    </ul>
+  </section>
+
+  <section id="sequence">
+    <h2>Recommended revision sequence</h2>
+    <ol>
+      <li><strong>Freeze cosmetic copyediting.</strong> Sentence polish will be wasted while central theological structures are changing.</li>
+      <li><strong>Write a one-page doctrinal control sheet.</strong> It should define the framework’s limited status and set binding distinctions for divine self-gift/sacrifice, divine nature/human suffering, natural virtue/infused charity, grace types, initial justification/growth, faith/formed faith, Baptismal incorporation/Eucharistic communion, forgiveness/reconciliation, and justice/mercy.</li>
+      <li><strong>Correct global doctrinal language.</strong> Start with Chapters 3, 9, 10, 13, 14, and 17; then harmonize Introduction, Epilogue, and Author’s Note.</li>
+      <li><strong>Rebuild Chapters 15 and 16.</strong> Use primary Church teaching, precise moral objects, current evidence, pastoral safeguards, and concrete paths of repentance/healing. Remove deterministic child profiles and caricatures.</li>
+      <li><strong>Perform a source-and-permissions pass.</strong> Verify every direct quotation, Scripture edition, CCC paragraph, papal/council document, historical claim, medical statistic, etymology, and license notice.</li>
+      <li><strong>Perform a robustness-and-repetition pass while preserving the one-volume design.</strong> Give each chapter the space its argument requires, but consolidate any passage that merely restates an established conclusion without adding doctrinal precision, a new argumentative step, a necessary example, pastoral application, or deliberate rhetorical force.</li>
+      <li><strong>Commission two human reviews.</strong> At minimum: (a) a dogmatic/sacramental theologian for Trinity, Christology, grace, Church, Eucharist, and atonement; (b) a moral/pastoral theologian, preferably with trauma-informed clinical consultation, for sin, culpability, marriage, abortion, sexuality, abuse, and vulnerable readers. A Scripture scholar should review recurring exegesis and Jewish-Christian language.</li>
+      <li><strong>Copyedit and production-preflight only after content approval.</strong> Repair grammar, markup, citations, cross-references, typography, metadata, PDF, and EPUB.</li>
+      <li><strong>Submit as a revised review draft, not as presumptively final.</strong> Ask the diocese what form, supporting source ledger, permissions proof, and censor workflow it prefers under canons 827–830.</li>
+    </ol>
+    <div class="callout good"><strong>Readiness gate.</strong> The manuscript is ready to send when every stop-ship theme has an approved controlling formulation, Chapters 15–16 have been pastorally rebuilt, every quote/permission is documented, unnecessary repetition has been resolved without sacrificing needed depth, two qualified Catholic reviewers have signed off on their domains, and the final PDF/EPUB passes visual preflight.</div>
+  </section>
+  <section id="sources">
+    <h2>Controlling Catholic sources</h2>
+    <p>Primary official sources used for the doctrinal checks in this report. Paragraph references indicate the especially relevant portions; surrounding context should be read before revision.</p>
+    <ol class="source-list">
+      <li><a href="https://www.vatican.va/archive/cod-iuris-canonici/eng/documents/cic_lib3-cann822-833_en.html"><strong>Code of Canon Law, canons 822–833</strong></a> — publications, religious/moral writings, local ordinary, censor, permission; especially 825, 827–830.</li>
+      <li><a href="https://www.vatican.va/content/catechism/en/part_three/section_one/chapter_one/article_3/i_freedom_and_responsibility.html"><strong>CCC 1730–1738: freedom and responsibility</strong></a> — freedom is perfected in adherence to God and the good; evil is an abuse of freedom.</li>
+      <li><a href="https://www.vatican.va/content/catechism/en/part_three/section_one/chapter_one/article_8/ii_the_definition_of_sin.html"><strong>CCC 1849–1851: definition of sin</strong></a> — offense against reason, truth, right conscience, genuine love, and God.</li>
+      <li><a href="https://www.vatican.va/content/catechism/en/part_three/section_one/chapter_one/article_8/iv_the_gravity_of_sin_mortal_and_venial_sin.html"><strong>CCC 1854–1864: mortal and venial sin</strong></a> — gravity, grave matter, full knowledge, deliberate consent, loss of charity.</li>
+      <li><a href="https://www.vatican.va/content/catechism/en/part_three/section_one/chapter_one/article_7/ii_the_theological_virtues.html"><strong>CCC 1812–1829: theological virtues</strong></a> — faith, hope, charity; unformed faith at 1815; charity as form of virtues.</li>
+      <li><a href="https://www.vatican.va/content/catechism/en/part_three/section_one/chapter_three/article_2/grace_and_justification.html"><strong>CCC 1987–2029: grace and justification</strong></a> — initial justification, grace-enabled cooperation, merit, sanctification.</li>
+      <li><a href="https://www.vatican.va/content/catechism/en/part_three/section_one/chapter_three/article_2/ii_grace.html"><strong>CCC 1996–2005: grace</strong></a> — sanctifying/habitual grace, participation in divine life, actual graces, created gift.</li>
+      <li><a href="https://www.vatican.va/content/catechism/en/part_two/section_two/chapter_one/article_1/vii_the_grace_of_baptism.html"><strong>CCC 1262–1274: grace and character of Baptism</strong></a> — new birth, justification, incorporation, indelible seal.</li>
+      <li><a href="https://www.vatican.va/content/catechism/en/part_two/section_two/chapter_one/article_1/iv_who_can_receive_baptism.html"><strong>CCC 1246–1255: who can receive Baptism</strong></a> — adult preparation and infant Baptism.</li>
+      <li><a href="https://www.vatican.va/archive/compendium_ccc/documents/archive_2005_compendium-ccc_en.html"><strong>Compendium of the CCC 271–294: Eucharist</strong></a> — one sacrifice, transubstantiation, real presence, sacramental sign, fruits and reception.</li>
+      <li><a href="https://www.vatican.va/content/catechism/en/part_two/section_two/chapter_one/article_3/vi_the_paschal_banquet.html"><strong>CCC 1382–1401: Paschal Banquet</strong></a> — worthy reception, confession when conscious of mortal sin, ecclesial communion, fruits.</li>
+      <li><a href="https://www.vatican.va/content/catechism/en/part_two/section_two/chapter_two/article_4/vii_the_acts_of_the_penitent.html"><strong>CCC 1450–1460: acts of the penitent</strong></a> — contrition, confession, satisfaction; perfect contrition and resolve to confess.</li>
+      <li><a href="https://www.vatican.va/content/catechism/en/part_two/section_two/chapter_three/article_7/v_the_goods_and_requirements_of_conjugal_love.html"><strong>CCC 1643–1654: goods and requirements of conjugal love</strong></a> — unity, indissolubility, fidelity, openness to fertility, separation.</li>
+      <li><a href="https://www.vatican.va/content/catechism/en/part_three/section_two/chapter_two/article_6/vi_the_sixth_commandment.html"><strong>CCC 2382–2386: divorce and separation</strong></a> — civil divorce may be tolerated for legal rights, children, or inheritance; culpability distinctions.</li>
+      <li><a href="https://www.vatican.va/content/catechism/en/part_three/section_one/chapter_two/article_2/participation_in_social_life.html"><strong>CCC 1897–1904: authority</strong></a> — participated authority, common good, moral legitimacy and limits.</li>
+      <li><a href="https://www.vatican.va/content/catechism/en/part_three/section_two/chapter_two/article_5/i_respect_for_human_life.html"><strong>CCC 2258–2267: respect for human life</strong></a> — murder, self-defense, punishment, current death-penalty teaching.</li>
+      <li><a href="https://www.vatican.va/content/catechism/en/part_three/section_one/chapter_two/article_1/ii_conversion_and_society.html"><strong>CCC 1886–1889: conversion and society</strong></a> — personal conversion and reform of institutions/structures.</li>
+      <li><a href="https://www.vatican.va/content/catechism/en/part_one/section_one/chapter_two/article_1/iii_christ_jesus_mediator_and_fullness_of_all_revelation.index.html"><strong>CCC 65–67: Christ, fullness of revelation</strong></a> — no new public revelation; status and limits of private revelations.</li>
+      <li><a href="https://www.vatican.va/content/catechism/en/part_one/section_two/chapter_one/article_1/paragraph_2_the_father.html"><strong>CCC 232–267: the Trinity</strong></a> — one divine nature in three consubstantial Persons, real relations, inseparable operations and missions.</li>
+      <li><a href="https://www.vatican.va/content/catechism/en/part_one/section_two/chapter_two/article_3/paragraph_1_the_son_of_god_became_man.html"><strong>CCC 456–483: the Son of God became man</strong></a> — one divine Person in two natures, without confusion or change; true divine and human knowledge/will.</li>
+      <li><a href="https://www.vatican.va/content/catechism/en/part_one/section_two/chapter_one/article_1/paragraph_4_the_creator.html"><strong>CCC 293–301, 317: the Creator</strong></a> — God creates freely, in wisdom and love, for his glory; creation is not necessary to God.</li>
+      <li><a href="https://www.vatican.va/content/catechism/en/part_one/section_two/chapter_one/article_1/paragraph_6_man.html"><strong>CCC 355–368: the human person</strong></a> — image of God, body-soul unity, sexual difference; mind is not a third constituent substance.</li>
+      <li><a href="https://www.vatican.va/content/catechism/en/part_one/section_two/chapter_two/article_4/paragraph_2_jesus_died_crucified.html"><strong>CCC 595–623: Jesus died crucified</strong></a> — responsibility for the Passion, universal sin, free self-offering, sacrifice, satisfaction.</li>
+      <li><a href="https://www.vatican.va/content/catechism/en/part_one/section_two/chapter_two/article_4/paragraph_3_jesus_christ_was_buried.html"><strong>CCC 624–630: Christ was buried</strong></a> — real death, body/soul separation, divine Person remaining united to both.</li>
+      <li><a href="https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_en.html"><strong>Second Vatican Council, <em>Dei Verbum</em></strong></a> — revelation in Christ, Tradition and Scripture, Magisterium serving the Word, inspiration and true human authors; especially 2, 7–12.</li>
+      <li><a href="https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html"><strong>Second Vatican Council, <em>Lumen Gentium</em></strong></a> — Kingdom/Church relation (5), Eucharist (11), salvation and the Church (14–16).</li>
+      <li><a href="https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651028_nostra-aetate_en.html"><strong>Second Vatican Council, <em>Nostra Aetate</em></strong></a> — truth and holiness in other religions (2); Jewish-Christian relations and rejection of collective guilt (4).</li>
+      <li><a href="https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19641121_unitatis-redintegratio_en.html"><strong>Second Vatican Council, <em>Unitatis Redintegratio</em></strong></a> — division, shared responsibility, real ecclesial elements and sanctification among separated Christians; especially 3–4.</li>
+      <li><a href="https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240402_dignitas-infinita_en.html"><strong>Dicastery for the Doctrine of the Faith, <em>Dignitas Infinita</em></strong></a> — infinite/inviolable dignity; sexual difference and gender theory; respect and unjust discrimination; especially 1, 55–60.</li>
+      <li><a href="https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_25031995_evangelium-vitae.html"><strong>St. John Paul II, <em>Evangelium Vitae</em></strong></a> — life ethics, death penalty’s prior formulation (56), women after abortion and the Church’s path of mercy/hope/help (99).</li>
+      <li><a href="https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_07121990_redemptoris-missio.html"><strong>St. John Paul II, <em>Redemptoris Missio</em> 13</strong></a> — verified Chapter 8 repentance/merciful-love quotation.</li>
+      <li><a href="https://www.vatican.va/content/leo-xiv/en/speeches/2025/november/documents/20251121-rota-romana.html"><strong>Pope Leo XIV, address to the Roman Rota course, November 21, 2025</strong></a> — verified Chapter 6 sacred-authority quotation.</li>
+      <li><a href="https://www.vatican.va/content/john-paul-ii/en/audiences/1980/documents/hf_jp-ii_aud_19800220.html"><strong>St. John Paul II, General Audience, February 20, 1980</strong></a> — verified “body … makes visible the invisible” quotation and context.</li>
+      <li><a href="https://www.vatican.va/content/benedict-xvi/en/audiences/2008/documents/hf_ben-xvi_aud_20081119.html"><strong>Pope Benedict XVI, General Audience, November 19, 2008</strong></a> — justification, grace, and the qualified Catholic sense of “faith alone” when faith is not opposed to charity.</li>
+    </ol>
+    <p class="small">External links were checked against official Vatican-hosted texts during this audit. Source availability and web addresses should be checked again at final production.</p>
+  </section>
+</main>
+
+<footer>
+  <p>Prepared as an independent manuscript-readiness audit. It does not represent an ecclesiastical decree, <em>nihil obstat</em>, or <em>imprimatur</em>. Findings apply to the manuscript state reviewed on August 26, 2026.</p>
+</footer>
+</body>
+</html>
