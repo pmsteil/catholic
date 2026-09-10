@@ -10,7 +10,7 @@ Not yet finalized — a manuscript prepared for theological review, prior to sub
 
 ### Scripture Quotations
 
-Unless otherwise noted, Scripture quotations are from the Revised Standard Version, Second Catholic Edition (RSV-2CE), © 2006 by the National Council of the Churches of Christ in the U.S.A., published by Ignatius Press. All rights reserved. Some quotations have been adapted or shortened for readability.
+Unless otherwise noted, Scripture quotations are from the Revised Standard Version of the Bible, copyright © 1946, 1952, and 1971 the Division of Christian Education of the National Council of the Churches of Christ in the United States of America. Used by permission. All rights reserved.
 
 ### Catechism References
 
