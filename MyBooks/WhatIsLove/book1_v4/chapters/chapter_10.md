@@ -357,13 +357,9 @@ We've now unpacked the complete definition: God's Perfect Love is the sacred gif
 
 Each facet is essential. Remove any one, and love becomes something less than love. Together, they form the complete answer to the problem of evil we identified in Chapter 1.
 
-But understanding the definition is just the beginning. Now we need to see how this love has been revealed, how it's made accessible, how it transforms us, and how it calls all Christians to unity.
+We have spent ten chapters defining the profound beauty of God's Perfect Love. But understanding the definition is just the beginning. Now we need to see how this love has been revealed, how it's made accessible, how it transforms us, and how it calls all Christians to unity.
 
-This is where Part 2 begins—applying this definition to key Christian questions and showing how it unlocks the deepest truths of our faith.
-
-### A Turn Toward the Source
-
-We have spent ten chapters defining the absolute necessity and profound beauty of God's Perfect Love. But you might be asking: *How do we know this isn't just a beautiful theory? If love is truly a universal law, how do we know the Lawgiver actually exists?* This is not merely an academic question; it is the foundation upon which everything we've discussed rests. In the next chapter, we will shift our focus from defining the nature of love to defending the existence of its Author, exploring why the very reality of love we've just defined points to the reality of God.
+This is where Part III begins—applying this definition to key Christian questions and showing how it unlocks the deepest truths of our faith.
 
 ---
 

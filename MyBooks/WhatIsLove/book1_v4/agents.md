@@ -8,7 +8,7 @@
 - **Status:** Final editing (Part 1 through Ch. 16 written). Surgical editing, not drafting.
 - **Core Definition:** *"God's Perfect Love is the sacred gift of covenant which binds truth, justice, mercy and sacrifice into life-giving communion."* — word-for-word, no variation.
 - **Scripture:** RSV translation, always.
-- **Length:** 2,000–2,500 words per chapter.
+- **Length:** No target and no ceiling. A chapter runs as long as its argument requires. Judge it by robustness, proportion to its purpose, and freedom from repetition that adds nothing — never by word count. (See `memory.html` §1, Writing Guidelines.)
 - **Chapter files:** `chapters/chapter_##.md`
 
 ## Editing Workflow

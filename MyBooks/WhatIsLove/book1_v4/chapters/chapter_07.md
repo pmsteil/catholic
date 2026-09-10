@@ -131,7 +131,7 @@ This is the foundation of all human rights: Because every person is made in God'
 But here's a crucial distinction our culture has lost: **A right is always ordered toward the good.** There is no "right" to do evil. We don't have a "right" to murder the innocent, a "right" to lie, or a "right" to exploit our neighbor. We may have the *freedom* to choose evil—free will is real—but freedom to choose is not the same as a right to choose wrongly.
 
 <div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
-<p><strong>We never have the "right" to act falsely, unjustly, or unmercifully.</strong>
+<p><strong>We never have the "right" to act falsely, unjustly, or unmercifully.</strong></p>
 </div>
 
 We cannot understand how we are "endowed by our Creator with certain unalienable rights" unless we first understand that rights flow from duties. Consider the rights most often named in this tradition — *life, liberty, and the pursuit of happiness.*<sup>1</sup> Each is a debt of justice owed to every person: life, because every person is willed into being by Love itself; liberty, because love requires freedom (a coerced gift is no gift); and the pursuit of happiness, because every person is made for the good and cannot be prevented from seeking it. Strip these rights from their Source and they collapse into mere preferences that the strong impose on the weak. No government *grants* these rights; a just government only *recognizes* what God has already given. Justice means honoring this reality. Injustice means denying it.

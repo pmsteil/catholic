@@ -214,7 +214,7 @@ Mercy does not abandon us when our strength fails. When serious illness, frailty
 
 This is the bedside mercy of Christ — His own hand reaching the sick and dying through the priest's anointing. The sacrament forgives sins not yet confessed when confession is no longer possible, strengthens the soul against final temptation, unites the sufferer's pain to Christ's Passion so that nothing of it is wasted, and, when God wills, restores health to the body. To it the Church joins the Eucharist as *Viaticum* — *"food for the journey"* — and final absolution. **A Catholic does not die alone.** Through the priest, the Church sits beside the deathbed and pours mercy into the wound that life has finally opened all the way through, so that her children cross the last threshold already in His arms.
 
-This is one of the most pastorally devastating losses in most all of the communities born of the Reformation — and certainly in the modern "evangelical" movement. There is no bedside sacrament, no anointing, no absolution, no Viaticum — only words and presence, however well-meant. The God of mercy did not leave us without comfort at the moment we need it most. Through His Church, He is *bodily* there for the sick and the dying.
+Not every Christian community kept this. Where the bedside sacraments were let go, what remains at the deathbed is words and presence, offered in real love but not the thing itself: no anointing, no absolution, no Viaticum. The God of mercy did not leave us without comfort at the moment we need it most. Through His Church, He is *bodily* there for the sick and the dying.
 
 ## What Mercy Actually Does: The Works of Mercy
 
