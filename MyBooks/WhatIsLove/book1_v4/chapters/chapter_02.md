@@ -16,7 +16,7 @@
 
 ## The Question That Demands an Answer
 
-In Chapter 1, we stared into the abyss of evil—abortion as contraception, children mutilated by gender ideology, media lies destroying truth, families shattered by fatherlessness. We saw how evil erupts from human hearts that choose selfishness over good. We discovered that human solutions fail because they address symptoms, not the source—the human heart itself.
+In Chapter 1, we stared into the abyss of evil—a mother who aborts her third child and is told from every direction that this is love, a counselor who keeps a thirteen-year-old's secret from her parents and believes he is protecting her, an organizer fighting for her neighborhood with a map that never names fatherlessness. None of them believed they were choosing evil; we saw how evil erupts all the same, from hearts that choose against the good. We discovered that human solutions fail because they address symptoms, not the source—the human heart itself.
 
 The central premise of this book is: **If we truly want to fight against evil, we must know what is truly good. We must understand love.**
 
@@ -52,9 +52,9 @@ The Church calls this the *summum bonum*—the "highest good" that all human bei
 
 The Catechism affirms this: "The desire for God is written in the human heart, because man is created by God and for God; and God never ceases to draw man to himself. Only in God will he find the truth and happiness he never stops searching for" (CCC 27).
 
-**This is why love—specifically, love that leads to communion with God—is the ultimate good, and therefore the complete answer to evil.**
+**This is why communion with God is the ultimate good—and why love, which alone leads there, is the complete answer to evil.**
 
-And if evil is, at its core, the absence of a good that ought to be there, then the cure for evil is the restoration of the very good that is missing. Chapter 1 showed what is missing in every sphere of evil—personal, relational, social: each one is a communion broken. The absent good is love. This follows from the very logic of privation: where love is lacking, evil takes root; where love is given, evil is undone.
+And if evil is, at its core, the absence of a good that ought to be there, then the cure for evil is the restoration of the very good that is missing. Which good is missing depends on what has been lost. This book is concerned with moral evil—the evil we choose—and Chapter 1 showed the same absence in every sphere of it, personal, relational, social: each one is a communion broken. There the absent good is love: where love is owed and withheld, evil takes root; where love is given, evil is undone.
 
 But does love meet our five criteria for an adequate solution?
 
@@ -72,9 +72,9 @@ But does love meet our five criteria for an adequate solution?
 
 This is why we can say with philosophical confidence, not just religious faith: **The answer to evil is love.** Of course we haven't yet defined what love is. We will do that shortly. But notice what we have just done: we lined up the answers the world proposes—politics, education, knowledge, power, pleasure—and tested each against what a solution to evil must actually do. Love is the last one standing. That is not a theorem; it is a verdict—the kind of certainty a jury reaches, and the kind a life can be staked on.
 
-## Scripture Confirms What Reason Discovers
+## What Reason Reaches, Revelation Completes
 
-The conclusion we've reached through reason aligns perfectly with Scripture. The Bible reveals that **"God is love"** (1 John 4:8)—not merely something God does, but who God is. Since love is the ultimate good and God is Love, God's Love is the ultimate good and therefore the answer to evil.
+The conclusion we've reached through reason aligns perfectly with Scripture. The Bible reveals that **"God is love"** (1 John 4:8)—not merely something God does, but who God is. Since communion with God is the ultimate good and God is Love, that communion is union with Love itself—and therefore the answer to evil.
 
 This teaching runs from the Old Testament to the New. When Moses gave Israel the greatest commandment, he said: "Hear, O Israel: The LORD our God is one LORD; and you shall love the LORD your God with all your heart, and with all your soul, and with all your might" (Deuteronomy 6:4-5). Centuries later, when a scholar of the law asked Jesus, "Teacher, what must I do to inherit eternal life?"—essentially asking, "What is the ultimate good? What conquers evil and death itself?"—the lawyer himself gave the answer, and Jesus sealed it: "You have answered right; do this, and you will live" (Luke 10:28). And the answer was exactly what human reason discovers and what Moses taught:
 
@@ -83,7 +83,7 @@ This teaching runs from the Old Testament to the New. When Moses gave Israel the
 Scripture's consistent message is clear: **Love is the apex of biblical teaching.** Not rules for their own sake. Not ritual divorced from relationship. Not knowledge without transformation. But love—authentic, complete, perfect love—as the path to eternal life and the answer to every form of evil.
 
 <div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
-What reason discovers, Scripture confirms: God is love. Love is the path to eternal life and the answer to evil.
+Reason can reach the highest good; only revelation names Him: God is love. Love is the path to eternal life and the answer to evil.
 </div>
 
 ## The Crisis: We've Lost the Definition
@@ -94,15 +94,15 @@ Because we've lost clarity about what love actually *is*, using the same word fo
 
 **This is why we desperately need a precise definition.** Not just to win arguments or satisfy intellectual curiosity, but because societies depend on it. Families depend on it. Children depend on it. We need it. If we get this wrong, we'll keep fighting evil with counterfeits that only make things worse. And we will never truly "know" God.
 
-## Why Love is So Hard to Define
+## Why Love Is So Hard to Define
 
 This universal longing for love is written into our very nature because we are made in the image of God: "So God created man in his own image, in the image of God he created him; male and female he created them." (Genesis 1:27) We are designed for relationship with God and others, which is why every human heart cries out for love.
 
 Yet defining love has proven remarkably difficult.
 
-Throughout history, philosophers and saints have offered profound insights—the Greek language's four distinct words for love—eros, philia, storge, and agape—each naming a different facet; Augustine's teaching that love is the ordering principle of all virtue; Aquinas's definition that "to love is to will the good of another" and that love gives "form" to all other virtues. Each captured essential truths about love's nature. Yet defining love comprehensively has remained challenging. Why? Because love has many different facets—as even the Catechism acknowledges when it says "all the works of perfect Christian virtue spring from love" (CCC 25).
+Throughout history, philosophers and saints have offered profound insights—four of the Greek words for love—eros, philia, storge, and agape—each naming a different facet; Augustine's teaching that love is the ordering principle of all virtue; Aquinas's definition that "to love is to will the good of another" and that love gives "form" to all other virtues. Every one of these is true, and we see by their light; everything that follows in this book is in their debt. Love is simply larger than the words we find for it—a many-splendored thing, in Francis Thompson's phrase: intricate, inexhaustible, and always more than we have said. Even the Catechism does not narrow love but widens it: "all the works of perfect Christian virtue spring from love" (CCC 25).
 
-Through years of prayer, study, and living out love as husband, father, and teacher, I have noticed a pattern: all the virtues integrate and converge into **four essential facets of love: truth, justice, mercy and sacrifice.** These four are the pillars that seem to support everything else. This explains the centuries-long challenge—each thinker grasped important truths, but seeing how all the virtues simultaneously integrate into this multi-faceted "crazy little thing called love" requires understanding how these four facets work together.
+Through years of prayer, study, and living out love as husband, father, and teacher, I have noticed a pattern: all the virtues integrate and converge into **four essential facets of love: truth, justice, mercy and sacrifice.** These four are the pillars that seem to support everything else. I offer it as one more window onto what the tradition has always been looking at—a way of holding together four things that are easier to consider one at a time. Love will exceed this definition as it exceeds every other. If it helps you see a little more deeply, it has done its work.
 
 ## God's Perfect Love: The Definition
 
@@ -116,7 +116,7 @@ Through careful study of Scripture and the Church's teaching on love, we can see
 
 Every word in this definition matters:
 
-**Sacred:** Love participates in the divine nature (1 John 4:8). Because every person is created in God's image, love is never merely emotion but participation in God's life.
+**Sacred:** Love comes from God, who is Love (1 John 4:8). Because every person is created in God's image, love is never merely emotion—the pull toward it is written into the soul and cannot be escaped. And when we turn to its Source, He draws us into His own life, where our loving becomes a real sharing in His.
 
 **Gift:** Love is freely given, never coerced or earned. **We love persons for WHO they are—image-bearers with infinite dignity.** This distinction shapes everything.
 
@@ -126,11 +126,11 @@ Every word in this definition matters:
 
 **Truth:** Love requires truth (John 14:6). We cannot truly love someone we deceive or whose dignity we deny.
 
-**Justice:** Love gives each person what they are due based on their dignity. It provides objective standards, preventing love from becoming mere sentiment.
+**Justice:** Love gives each person what they are due based on their dignity—and gives God the worship that is His. It provides objective standards, preventing love from becoming mere sentiment.
 
 **Mercy:** Love goes beyond what is due, offering forgiveness when justice alone would crush.
 
-**Sacrifice:** Love proves itself through action—putting another's wellbeing before our preferences. "Greater love has no man than this, that a man lay down his life for his friends" (John 15:13).
+**Sacrifice:** Love shows itself through action—putting another's wellbeing before our preferences. "Greater love has no man than this, that a man lay down his life for his friends" (John 15:13).
 
 **Life-giving:** Love creates relationship, community, and life—building up, uniting, generating hope.
 
@@ -148,25 +148,27 @@ This definition meets every criterion: it transforms hearts (sacred, sacrificial
 
 In the chapters ahead, we'll explore each element—what makes love **sacred**, how **covenant** creates permanent bonds, why **truth** is what saves love from loving wrongly, how **justice** and **mercy** work together, how **sacrifice** makes love concrete, and why **communion** is the ultimate goal.
 
-But someone might object: "If love is the answer, why has two thousand years of Christianity not eliminated evil?" Well, the "west" has conquered much evil, but still has much to do. The answer is simple but profound: *knowing* the answer and *living* the answer are two different things. This definition gives us the map; the rest of this book shows how to walk the path. The Church has always taught that grace must be received and cooperated with—and that's precisely what we'll learn to do.
+But someone might object: "If love is the answer, why has two thousand years of Christianity not eliminated evil?"
+
+Part of the answer is that it has overcome more than we remember. The hospital began as a work of mercy: the earliest one serving the general public for which real evidence survives was built by Basil of Caesarea around the year 372, housing and feeding the sick and caring for lepers no one else would touch. The universities of Bologna and Paris grew out of the Church's own schools, on the conviction that the pursuit of truth is a debt owed to God. Centuries before anyone worked out that an economy cannot function without honest dealing, the theologians of Salamanca were teaching just price, honest exchange and the duty of restitution as matters of justice. And when the totalitarian states of the last century set out to put race and the State in God's place, an encyclical condemning "the myth of race and blood" was smuggled into Germany and read from Catholic pulpits on Palm Sunday of 1937.<sup>1</sup> None of this is a ledger that balances—Christians have also done grave evil, and this book will not pretend otherwise. But the objection assumes a record of failure that the history does not support.
+
+Where evil remains, the answer is simple but profound: *knowing* the answer and *living* the answer are two different things. This definition gives us the map; the rest of this book shows how to walk the path. The Church has always taught that God's love must be received and lived—and that's precisely what we'll learn to do.
 
 Christ Himself said as much—and He said it before the Cross, not after: *"In the world you have tribulation; but be of good cheer, I have overcome the world"* (John 16:33). The victory is His to give—and ours to carry out. The rest of this book traces that plan from its origin in God to its outworking in you, for the salvation of the world He came to win.
-
-We begin with the first word of our definition: **sacred**. Why start there? Because if love doesn't come from God—if it's merely a human invention or evolutionary adaptation—then everything else collapses. The sacred nature of love is what makes all four facets possible — strip God away, and each one collapses into mere human preference.
-
-**Let's begin.**
 
 ## A Note on Natural Evil
 
 Our focus in this book is on *moral* evil—the evil that comes from human hearts choosing against good (because this is evil that we can choose to avoid). But what about *natural* evil—suffering, disease, death, decay? Let me be honest with you the way the Church is honest: she has never claimed to hold a formula that dissolves the mystery of suffering. "Only Christian faith as a whole constitutes the answer" (CCC 309)—not one argument within it, but the whole of it, lived. What I can offer you is not a solution but a testimony: as I have thought deeply about God's Perfect Love and its power against moral evil, suffering has stopped looking to me like the disproof of love and has begun to look like its arena—the place where love is most needed, most costly, and most unmistakably real. And the Church holds more than a testimony: she holds a Person who entered the suffering Himself and came out the other side.
 
-The four facets transform even natural suffering: **Truth** reveals that suffering has meaning when united to Christ. **Justice** demands we fight preventable suffering. **Mercy** teaches us to accept with compassion what cannot be changed, offering hope beyond this life. **Sacrifice** transforms suffering from meaningless pain into redemptive love—united to Christ's Cross, no suffering is wasted. These four work together: truth reveals suffering's meaning, justice moves us to fight what can be fought, mercy carries what cannot be changed, and sacrifice transforms pain into self-gift.
+The four facets transform even natural suffering: **Truth** reveals that suffering has meaning when united to Christ. **Justice** demands we fight preventable suffering. **Mercy** teaches us to accept with compassion what cannot be changed, offering hope beyond this life. **Sacrifice** transforms suffering from meaningless pain into redemptive love—united to Christ's Cross, no suffering is wasted.
 
-My hope is that as you journey through this book and encounter the depth of God's Perfect Love, you will find what I found: not an answer that silences the question, but a Love strong enough to be trusted inside it. God's Perfect Love doesn't promise to eliminate natural suffering in this life, but it gives suffering ultimate meaning and promises final victory in the resurrection of the body and the life of the world to come.
+My hope is that as you journey through this book and encounter the depth of God's Perfect Love, you will find what I found: a Love that will transform you. And a Love that outlasts everything that can hurt you: the resurrection of the body, and the life of the world to come.
 
 ## The Bridge to Sacred
 
-Every facet of love rests on a single foundation: love must be **sacred**—or it is nothing at all.
+We begin with the first word of our definition: **sacred**. Why start there? Because every facet of love rests on that one foundation. Love comes from God—whether or not the one who loves knows it—and if it does not, if it is merely a human invention or an evolutionary adaptation, then each facet collapses into mere human preference.
+
+**Let's begin.**
 
 ---
 
@@ -188,3 +190,11 @@ Every facet of love rests on a single foundation: love must be **sacred**—or i
 - **St. Augustine of Hippo (354-430):** Bishop and Doctor of the Church whose teaching that "Love God, and do what you will" reveals love as the ordering principle of all virtue; his *Confessions* shows the restless heart that finds peace only in God
 - **St. Thomas Aquinas (1225-1274):** Dominican friar and Doctor of the Church who defined love as "willing the good of another" and showed how love is the form of all virtues in his *Summa Theologiae*
 - **Pope St. John Paul II (1920-2005):** The pope of the family who taught the world about the Theology of the Body and authentic human love; his *Redemptor Hominis* explains that man cannot live without love
+
+### Notes
+
+\footnotesize
+
+1. The Basiliad, begun by Basil of Caesarea outside Caesarea in Cappadocia around 372 on land given by the Emperor Valens; scholars differ over whether to call it the first hospital, but it is the earliest serving the wider public for which substantial evidence survives. Bologna is conventionally dated to 1088 and Paris to the middle of the twelfth century, both grown from cathedral and monastic schools. On exchange and restitution, the School of Salamanca in the sixteenth century — Domingo de Soto, Martín de Azpilcueta, Luis de Molina — treated market value, currency exchange and just price as questions of justice before they were questions of economics. The encyclical is *Mit brennender Sorge*, issued by Pius XI on 10 March 1937 and read from German pulpits on Palm Sunday, 21 March; it condemned the idolizing of race and State, though it named neither Hitler nor the Nazi Party directly.
+
+\normalsize
