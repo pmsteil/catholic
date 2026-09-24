@@ -1,0 +1,808 @@
+<!doctype html>
+<html lang="en" class="love love--red love--light">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Sweep Items 2 &amp; 3 — Redline</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" media="print" onload="this.media='all'" href="https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@400;700&family=Cinzel:wght@400;600&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Inter:wght@400;500;600&display=swap">
+<noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@400;700&family=Cinzel:wght@400;600&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Inter:wght@400;500;600&display=swap"></noscript>
+<style>
+/* ═══════════════════════════════════════════════════════════════════════
+   THE LOVE BRAND v1.0 — reference implementation
+   Two variants (red · blue) × two modes (light · dark) = four palettes.
+   Root classes:  .love .love--red|--blue  .love--light|--dark
+   ═══════════════════════════════════════════════════════════════════════ */
+
+/* ── 1. COLOUR TOKENS ─────────────────────────────────────────────────── */
+.love--red.love--light {
+  --surface: #f7f0e4;                 /* Page background */
+  --raised: #efe4cf;                  /* Cards, callouts, stripes */
+  --sunken: #e6d9c2;                  /* Wells, code, inset */
+  --border: #d3bd93;                  /* Hairlines, table rules */
+  --border-strong: #8f7134;           /* Informational borders (≥3:1) */
+  --ink-strong: #2a0e11;              /* Headings */
+  --ink: #3c1418;                     /* Body copy */
+  --ink-muted: #6b5540;               /* Secondary prose */
+  --ink-subtle: #7d6a52;              /* Meta, captions, folios */
+  --quote: #5c4030;                   /* Quotations, scripture */
+  --accent: #8a6520;                  /* Labels — TEXT-SAFE in every variant */
+  --ornament: #be985c;                /* Rules and fills — NEVER text on light */
+  --link: #7d2229;                    /* Hyperlinks */
+  --accent-ink: #f7f0e4;              /* Text on an accent fill */
+  --danger: #8a2323;                  /* Deletions, warnings */
+  --success: #1f5238;                 /* Insertions, confirmations */
+  --p-truth: #255a7a;                 /* Pillar: truth */
+  --p-justice: #6b5518;               /* Pillar: justice */
+  --p-mercy: #1f6045;                 /* Pillar: mercy */
+  --p-sacrifice: #7d2f33;             /* Pillar: sacrifice */
+  --focus: #2a0e11;                 /* Focus ring — neutral by design, so it can never be confused with the error colour */
+  --accent-hover: #6b4d18;          /* Pressed/hover state for accent fills and accent text */
+  --ink-disabled: #665c4b;          /* Text inside a disabled control */
+  --danger-ink: #f7f0e4;            /* Text on a danger fill */
+  --success-ink: #f7f0e4;           /* Text on a success fill */
+  --info: #255a7a;                  /* Informational state (alerts, hints) */
+  --warn: #6b5518;                  /* Caution state (alerts, badges) */
+  --danger-hover: #6e1a1a;       /* Pressed state for danger fills */
+}
+.love--red.love--dark {
+  --surface: #3a1418;                 /* Page background */
+  --raised: #541e23;                  /* Cards, callouts, stripes */
+  --sunken: #2a0e11;                  /* Wells, code, inset */
+  --border: #7a4a3a;                  /* Hairlines, table rules */
+  --border-strong: #a1704f;           /* Informational borders (≥3:1) */
+  --ink-strong: #f9f2e4;              /* Headings */
+  --ink: #efe4d0;                     /* Body copy */
+  --ink-muted: #c9a97a;               /* Secondary prose */
+  --ink-subtle: #b08f68;              /* Meta, captions, folios */
+  --quote: #e2cfa8;                   /* Quotations, scripture */
+  --accent: #be985c;                  /* Labels — TEXT-SAFE in every variant */
+  --ornament: #be985c;                /* Rules and fills — NEVER text on light */
+  --link: #e0b978;                    /* Hyperlinks */
+  --accent-ink: #3a1418;              /* Text on an accent fill */
+  --danger: #e39b96;                  /* Deletions, warnings */
+  --success: #9fd3a0;                 /* Insertions, confirmations */
+  --p-truth: #7fb0d0;                 /* Pillar: truth */
+  --p-justice: #d0b870;               /* Pillar: justice */
+  --p-mercy: #8fd0aa;                 /* Pillar: mercy */
+  --p-sacrifice: #d08f92;             /* Pillar: sacrifice */
+  --focus: #f9f2e4;                 /* Focus ring — neutral by design, so it can never be confused with the error colour */
+  --accent-hover: #d4b075;          /* Pressed/hover state for accent fills and accent text */
+  --ink-disabled: #9a8465;          /* Text inside a disabled control */
+  --danger-ink: #3a1418;            /* Text on a danger fill */
+  --success-ink: #3a1418;           /* Text on a success fill */
+  --info: #7fb0d0;                  /* Informational state (alerts, hints) */
+  --warn: #d0b870;                  /* Caution state (alerts, badges) */
+  --danger-hover: #f0b6b1;       /* Pressed state for danger fills */
+}
+.love--blue.love--light {
+  --surface: #f0f2f7;                 /* Page background */
+  --raised: #e3e8f2;                  /* Cards, callouts, stripes */
+  --sunken: #d7deec;                  /* Wells, code, inset */
+  --border: #b0bbd4;                  /* Hairlines, table rules */
+  --border-strong: #5f6f95;           /* Informational borders (≥3:1) */
+  --ink-strong: #121b33;              /* Headings */
+  --ink: #1e2a47;                     /* Body copy */
+  --ink-muted: #4a5470;               /* Secondary prose */
+  --ink-subtle: #5a6480;              /* Meta, captions, folios */
+  --quote: #3b4763;                   /* Quotations, scripture */
+  --accent: #795a16;                  /* Labels — TEXT-SAFE in every variant */
+  --ornament: #be985c;                /* Rules and fills — NEVER text on light */
+  --link: #1f4a8f;                    /* Hyperlinks */
+  --accent-ink: #f0f2f7;              /* Text on an accent fill */
+  --danger: #8a2323;                  /* Deletions, warnings */
+  --success: #1f5238;                 /* Insertions, confirmations */
+  --p-truth: #1f4a8f;                 /* Pillar: truth */
+  --p-justice: #6b5518;               /* Pillar: justice */
+  --p-mercy: #1f6045;                 /* Pillar: mercy */
+  --p-sacrifice: #7d2f33;             /* Pillar: sacrifice */
+  --focus: #121b33;                 /* Focus ring — neutral by design, so it can never be confused with the error colour */
+  --accent-hover: #5e4611;          /* Pressed/hover state for accent fills and accent text */
+  --ink-disabled: #5b6172;          /* Text inside a disabled control */
+  --danger-ink: #f0f2f7;            /* Text on a danger fill */
+  --success-ink: #f0f2f7;           /* Text on a success fill */
+  --info: #1f4a8f;                  /* Informational state (alerts, hints) */
+  --warn: #6b5518;                  /* Caution state (alerts, badges) */
+  --danger-hover: #6e1a1a;       /* Pressed state for danger fills */
+}
+.love--blue.love--dark {
+  --surface: #16223d;                 /* Page background */
+  --raised: #20305a;                  /* Cards, callouts, stripes */
+  --sunken: #0f1830;                  /* Wells, code, inset */
+  --border: #3c4f80;                  /* Hairlines, table rules */
+  --border-strong: #6c83bb;           /* Informational borders (≥3:1) */
+  --ink-strong: #f6f2e6;              /* Headings */
+  --ink: #e6e2d4;                     /* Body copy */
+  --ink-muted: #c4b995;               /* Secondary prose */
+  --ink-subtle: #a89e7e;              /* Meta, captions, folios */
+  --quote: #ddd3b8;                   /* Quotations, scripture */
+  --accent: #cfa961;                  /* Labels — TEXT-SAFE in every variant */
+  --ornament: #be985c;                /* Rules and fills — NEVER text on light */
+  --link: #e2bd80;                    /* Hyperlinks */
+  --accent-ink: #16223d;              /* Text on an accent fill */
+  --danger: #f0a09a;                  /* Deletions, warnings */
+  --success: #9fd3a0;                 /* Insertions, confirmations */
+  --p-truth: #8fc0e0;                 /* Pillar: truth */
+  --p-justice: #d8c07a;               /* Pillar: justice */
+  --p-mercy: #8fd0aa;                 /* Pillar: mercy */
+  --p-sacrifice: #eda49e;             /* Pillar: sacrifice */
+  --focus: #f6f2e6;                 /* Focus ring — neutral by design, so it can never be confused with the error colour */
+  --accent-hover: #dcbb7c;          /* Pressed/hover state for accent fills and accent text */
+  --ink-disabled: #7b8299;          /* Text inside a disabled control */
+  --danger-ink: #16223d;            /* Text on a danger fill */
+  --success-ink: #16223d;           /* Text on a success fill */
+  --info: #8fc0e0;                  /* Informational state (alerts, hints) */
+  --warn: #d8c07a;                  /* Caution state (alerts, badges) */
+  --danger-hover: #f6bcb6;       /* Pressed state for danger fills */
+}
+
+/* ── 2. NON-COLOUR TOKENS ─────────────────────────────────────────────── */
+.love {
+  --font-display:'Cinzel Decorative','Cinzel',Georgia,serif;
+  --font-title:'Cinzel',Georgia,serif;
+  --font-body:'Libre Baskerville',Georgia,'Times New Roman',serif;
+  --font-ui:'Inter',system-ui,-apple-system,sans-serif;
+  --font-mono:ui-monospace,'Menlo',monospace;
+  --size-2xs:.6875rem; --size-xs:.78rem;  --size-sm:.875rem; --size-md:1rem;
+  --size-lg:1.125rem;  --size-xl:1.4rem;  --size-2xl:1.75rem; --size-3xl:2.2rem; --size-4xl:2.75rem;
+  --leading-tight:1.2; --leading-normal:1.5; --leading-prose:1.8;
+  --tracking-display:.01em; --tracking-eyebrow:.22em; --tracking-label:.14em;
+  --space-1:.25rem; --space-2:.5rem; --space-3:.75rem; --space-4:1rem;
+  --space-5:1.5rem; --space-6:2rem;  --space-7:3rem;  --space-8:4rem;
+  --measure:68ch; --radius:3px; --rule:1px; --rule-strong:2px;
+  --focus-width:2px; --focus-offset:2px;
+  --measure-form:26rem;      /* narrow column for forms and auth panels */
+  --control-h:2.5rem;        /* standard control height */
+  --control-h-sm:2rem;
+  --z-sticky:100; --z-dropdown:200;   /* native <dialog> uses the browser top layer,
+                                         so no modal/toast rung is needed */
+  --appbar-h:3.5rem;
+}
+
+/* ── 3. BASE ──────────────────────────────────────────────────────────── */
+*,*::before,*::after{box-sizing:border-box}
+.love{background:var(--surface);color:var(--ink);font-family:var(--font-body);
+  font-size:var(--size-md);line-height:var(--leading-prose);-webkit-font-smoothing:antialiased}
+.love body{margin:0;background:var(--surface);color:var(--ink)}
+.love :focus-visible{outline:var(--focus-width) solid var(--focus);outline-offset:var(--focus-offset)}
+.love ::selection{background:var(--ornament);color:var(--accent-ink)}
+
+/* ── 4. HEADINGS ──────────────────────────────────────────────────────── */
+.love h1,.love h2,.love h3,.love h4,.love h5,.love h6{
+  color:var(--ink-strong);line-height:var(--leading-tight);
+  margin:var(--space-6) 0 var(--space-3);text-wrap:balance}
+.love h1{font-family:var(--font-display);font-size:var(--size-4xl);font-weight:700;
+  letter-spacing:var(--tracking-display);margin-top:0}
+.love h2{font-family:var(--font-display);font-size:var(--size-3xl);font-weight:700;
+  letter-spacing:var(--tracking-display)}
+.love h3{font-family:var(--font-title);font-size:var(--size-2xl);font-weight:600}
+.love h4{font-family:var(--font-title);font-size:var(--size-xl);font-weight:600}
+.love h5{font-family:var(--font-title);font-size:var(--size-lg);font-weight:500}
+.love h6{font-family:var(--font-ui);font-size:var(--size-2xs);font-weight:600;
+  letter-spacing:var(--tracking-eyebrow);text-transform:uppercase;color:var(--accent)}
+.love h1+p,.love h2+p,.love h3+p,.love h4+p{margin-top:0}
+.love :is(h1,h2,h3,h4,h5,h6)>small{display:block;font-size:var(--size-sm);
+  font-family:var(--font-ui);font-weight:400;color:var(--ink-subtle);
+  letter-spacing:.04em;margin-top:var(--space-2);text-transform:none}
+
+/* ── 5. TEXT-LEVEL ────────────────────────────────────────────────────── */
+.love p{margin:0 0 var(--space-4);max-width:var(--measure)}
+.love a{color:var(--link);text-decoration:underline;text-decoration-thickness:1px;
+  text-underline-offset:2px}
+.love a:hover{text-decoration-thickness:2px}
+.love strong,.love b{font-weight:700;color:var(--ink-strong)}
+.love em,.love i{font-style:italic}
+.love small{font-size:var(--size-xs);color:var(--ink-subtle)}
+.love mark{background:color-mix(in srgb,var(--ornament) 34%,transparent);
+  color:var(--ink-strong);padding:0 .15em;border-radius:2px}
+.love del,.love s{color:var(--danger);text-decoration:line-through;text-decoration-thickness:1px}
+.love ins,.love u{color:var(--success);text-decoration:none;
+  border-bottom:1px dotted var(--success)}
+.love abbr[title]{text-decoration:underline dotted;text-underline-offset:3px;cursor:help}
+.love cite{font-style:italic;color:var(--ink-muted)}
+.love q{quotes:"\201C" "\201D" "\2018" "\2019";font-style:italic;color:var(--quote)}
+.love sub,.love sup{font-size:.7em;line-height:0;position:relative}
+.love sup{top:-.5em} .love sub{bottom:-.25em}
+.love time{font-variant-numeric:tabular-nums;color:var(--ink-muted)}
+.love address{font-style:normal;color:var(--ink-muted);margin:0 0 var(--space-4)}
+.love .lede{font-size:var(--size-lg);color:var(--ink-muted)}
+.love .meta{font-family:var(--font-ui);font-size:var(--size-2xs);
+  letter-spacing:var(--tracking-label);text-transform:uppercase;color:var(--ink-subtle)}
+.love .eyebrow{font-family:var(--font-title);font-size:var(--size-2xs);
+  letter-spacing:var(--tracking-eyebrow);text-transform:uppercase;color:var(--accent);
+  margin:0 0 var(--space-2)}
+.love .dropcap::first-letter{float:left;font-family:var(--font-title);font-size:3.2em;
+  line-height:.82;padding:.06em .12em 0 0;color:var(--accent)}
+.love .citation{font-family:var(--font-ui);font-size:var(--size-xs);color:var(--ink-subtle)}
+
+/* ── 6. QUOTATIONS ────────────────────────────────────────────────────── */
+.love blockquote{margin:var(--space-5) 0;padding:var(--space-2) 0 var(--space-2) var(--space-4);
+  border-left:var(--rule-strong) solid var(--ornament);
+  font-style:italic;color:var(--quote);max-width:var(--measure)}
+.love blockquote p:last-child{margin-bottom:0}
+.love blockquote cite,.love blockquote footer{display:block;font-style:normal;
+  font-family:var(--font-ui);font-size:var(--size-2xs);letter-spacing:var(--tracking-label);
+  text-transform:uppercase;color:var(--accent);margin-top:var(--space-2)}
+
+/* ── 7. LISTS ─────────────────────────────────────────────────────────── */
+.love ul,.love ol{margin:0 0 var(--space-4);padding-left:1.4rem;max-width:var(--measure)}
+.love li{margin-bottom:var(--space-2)}
+.love li::marker{color:var(--accent)}
+.love ul ul,.love ol ol,.love ul ol,.love ol ul{margin-top:var(--space-2);margin-bottom:0}
+.love dl{margin:0 0 var(--space-4);max-width:var(--measure)}
+.love dt{font-family:var(--font-ui);font-size:var(--size-2xs);letter-spacing:var(--tracking-label);
+  text-transform:uppercase;color:var(--accent);margin-top:var(--space-3)}
+.love dd{margin:var(--space-1) 0 0}
+
+/* ── 8. RULES & MEDIA ─────────────────────────────────────────────────── */
+.love hr{border:0;border-top:var(--rule) solid var(--border);margin:var(--space-6) 0}
+.love figure{margin:var(--space-5) 0}
+.love figure img,.love img,.love video{max-width:100%;height:auto;border-radius:var(--radius)}
+.love figcaption{font-family:var(--font-ui);font-size:var(--size-xs);color:var(--ink-subtle);
+  margin-top:var(--space-2);text-align:center}
+
+/* ── 9. TABLES ────────────────────────────────────────────────────────── */
+.love table{width:100%;border-collapse:collapse;margin:var(--space-4) 0;font-size:var(--size-sm)}
+.love caption{caption-side:bottom;font-family:var(--font-ui);font-size:var(--size-xs);
+  color:var(--ink-subtle);padding-top:var(--space-2);text-align:left}
+.love th{text-align:left;font-family:var(--font-ui);font-size:var(--size-2xs);font-weight:600;
+  letter-spacing:var(--tracking-label);text-transform:uppercase;color:var(--accent);
+  border-bottom:var(--rule-strong) solid var(--border-strong);padding:var(--space-2) var(--space-3)}
+.love td{padding:var(--space-2) var(--space-3);border-bottom:var(--rule) solid var(--border);
+  vertical-align:top}
+.love tbody tr:nth-child(even){background:color-mix(in srgb,var(--raised) 55%,transparent)}
+.love tfoot td{font-weight:700;color:var(--ink-strong);border-top:var(--rule-strong) solid var(--border-strong)}
+
+/* ── 10. CODE ─────────────────────────────────────────────────────────── */
+.love code,.love kbd,.love samp,.love var{font-family:var(--font-mono);font-size:.86em}
+.love code{background:var(--sunken);padding:.1rem .35rem;border-radius:var(--radius)}
+.love pre{background:var(--sunken);border:var(--rule) solid var(--border);border-radius:var(--radius);
+  padding:var(--space-4);overflow-x:auto;line-height:1.65;color:var(--ink-muted);margin:var(--space-4) 0}
+.love pre code{background:none;padding:0}
+.love pre b{color:var(--ink-strong);font-weight:600}
+.love kbd{background:var(--raised);border:var(--rule) solid var(--border-strong);
+  border-bottom-width:2px;border-radius:var(--radius);padding:.1rem .35rem;color:var(--ink-strong)}
+.love var{font-style:italic;color:var(--accent)}
+
+/* ── 11. INTERACTIVE ──────────────────────────────────────────────────── */
+.love details{background:var(--raised);border-radius:var(--radius);
+  border-left:var(--rule-strong) solid var(--ornament);padding:var(--space-3) var(--space-4);
+  margin:var(--space-4) 0}
+.love summary{cursor:pointer;font-family:var(--font-ui);font-size:var(--size-sm);
+  font-weight:600;color:var(--ink-strong)}
+.love summary::marker{color:var(--accent)}
+.love details[open] summary{margin-bottom:var(--space-3)}
+.love button,.love .btn{font-family:var(--font-ui);font-size:var(--size-xs);cursor:pointer;
+  background:transparent;color:var(--accent);border:var(--rule) solid var(--border-strong);
+  padding:.4rem .85rem;border-radius:var(--radius)}
+.love button:hover,.love .btn:hover{background:var(--sunken)}
+.love button[aria-pressed="true"],.love .btn.is-on{background:var(--accent);color:var(--accent-ink);
+  border-color:var(--accent)}
+.love label{display:block;font-family:var(--font-ui);font-size:var(--size-2xs);
+  letter-spacing:var(--tracking-label);text-transform:uppercase;color:var(--accent);
+  margin-bottom:var(--space-1)}
+.love input,.love textarea,.love select{font-family:var(--font-body);font-size:var(--size-sm);
+  background:var(--surface);color:var(--ink);border:var(--rule) solid var(--border-strong);
+  border-radius:var(--radius);padding:var(--space-2) var(--space-3);width:100%}
+.love input::placeholder,.love textarea::placeholder{color:var(--ink-subtle)}
+.love fieldset{border:var(--rule) solid var(--border);border-radius:var(--radius);
+  padding:var(--space-4);margin:var(--space-4) 0}
+.love legend{font-family:var(--font-ui);font-size:var(--size-2xs);
+  letter-spacing:var(--tracking-label);text-transform:uppercase;color:var(--accent);padding:0 var(--space-2)}
+.love progress{width:100%;height:6px;accent-color:var(--accent)}
+
+/* ── 12. LAYOUT HELPERS ───────────────────────────────────────────────── */
+.page{max-width:1080px;margin:0 auto;padding:var(--space-7) var(--space-5) var(--space-8)}
+.prose{max-width:var(--measure)}
+.spread{display:grid;grid-template-columns:1fr;gap:var(--space-5)}
+@media(min-width:860px){.spread{grid-template-columns:1.15fr .85fr}}
+.stack>*+*{margin-top:var(--space-4)}
+
+/* ── 13. ORNAMENT ─────────────────────────────────────────────────────── */
+.rule--short{width:64px;border-top:var(--rule-strong) solid var(--ornament);margin:var(--space-4) 0}
+.rule--center{margin-left:auto;margin-right:auto}
+.fleuron{text-align:center;color:var(--ornament);letter-spacing:.5em;
+  font-size:var(--size-lg);margin:var(--space-6) 0}
+
+/* ── 14. THE DEFINITION ───────────────────────────────────────────────── */
+.definition{background:var(--raised);border:var(--rule) solid var(--border);
+  border-left:var(--rule-strong) solid var(--ornament);padding:var(--space-4) var(--space-5);
+  border-radius:var(--radius);margin:var(--space-5) 0}
+.definition__label{font-family:var(--font-ui);font-size:var(--size-2xs);
+  letter-spacing:var(--tracking-label);text-transform:uppercase;color:var(--accent);
+  margin-bottom:var(--space-2)}
+.definition__text{line-height:var(--leading-normal);color:var(--ink)}
+.definition--hero{text-align:center;padding:var(--space-6) var(--space-5)}
+.definition--hero .definition__text{font-size:var(--size-xl);line-height:var(--leading-tight)}
+
+/* ── 15. SCRIPTURE ────────────────────────────────────────────────────── */
+.scripture{border-left:0;border-top:var(--rule) solid var(--border);
+  border-bottom:var(--rule) solid var(--border);padding:var(--space-3) 0;margin:var(--space-5) 0}
+.scripture--bar{border-top:0;border-bottom:0;
+  border-left:var(--rule-strong) solid var(--ornament);padding:var(--space-2) 0 var(--space-2) var(--space-4)}
+.scripture__cite{display:block;font-style:normal;font-family:var(--font-ui);
+  font-size:var(--size-2xs);letter-spacing:var(--tracking-label);text-transform:uppercase;
+  color:var(--accent);margin-top:var(--space-2)}
+
+/* ── 16. PILLARS ──────────────────────────────────────────────────────── */
+.pillars{display:flex;flex-wrap:wrap;gap:var(--space-2);margin:var(--space-4) 0;padding:0;list-style:none}
+.pillar{flex:1 1 96px;text-align:center;padding:var(--space-2) var(--space-1);margin:0;
+  background:var(--raised);border:var(--rule) solid var(--border);border-radius:var(--radius);
+  font-family:var(--font-ui);font-size:var(--size-2xs);letter-spacing:var(--tracking-label);
+  text-transform:uppercase}
+.pillar--truth{color:var(--p-truth);border-top:var(--rule-strong) solid var(--p-truth)}
+.pillar--justice{color:var(--p-justice);border-top:var(--rule-strong) solid var(--p-justice)}
+.pillar--mercy{color:var(--p-mercy);border-top:var(--rule-strong) solid var(--p-mercy)}
+.pillar--sacrifice{color:var(--p-sacrifice);border-top:var(--rule-strong) solid var(--p-sacrifice)}
+.pillar-strip{display:flex;height:4px;border-radius:2px;overflow:hidden;margin:var(--space-4) 0}
+.pillar-strip>*{flex:1}
+
+/* ── 17. CARDS ────────────────────────────────────────────────────────── */
+.card{background:var(--raised);border-radius:var(--radius);
+  border-left:var(--rule-strong) solid var(--ornament);
+  padding:var(--space-4) var(--space-5);margin:var(--space-4) 0}
+.card__label{font-family:var(--font-ui);font-size:var(--size-2xs);
+  letter-spacing:var(--tracking-label);text-transform:uppercase;color:var(--accent);
+  margin-bottom:var(--space-2)}
+.card--decision{border-left-color:var(--p-truth)}
+.card--theology{border-left-color:var(--ornament)}
+.card--voice{border-left-color:var(--p-mercy)}
+.card--rejected{border-left-color:var(--danger)}
+.card--research{border-left-color:var(--p-justice)}
+
+/* ── 18. REDLINE ──────────────────────────────────────────────────────── */
+.redline{background:var(--raised);border-left:var(--rule-strong) solid var(--danger);
+  padding:var(--space-3) var(--space-4);margin:var(--space-4) 0;border-radius:var(--radius)}
+.redline__label{font-family:var(--font-ui);font-size:var(--size-2xs);
+  letter-spacing:var(--tracking-label);text-transform:uppercase;color:var(--danger);
+  margin-bottom:var(--space-2)}
+.redline del::before{content:"− "} .redline ins::before{content:"+ "}
+.redline ins{border-bottom:0}
+
+/* ── 19. BADGES, TAGS, STATS, TOC ─────────────────────────────────────── */
+.badge,.tag{display:inline-block;font-family:var(--font-ui);font-size:var(--size-2xs);
+  letter-spacing:.06em;padding:.1rem .45rem;border-radius:var(--radius);
+  border:var(--rule) solid var(--border-strong);color:var(--ink-muted)}
+.badge.ok{color:var(--success);border-color:var(--success)}
+.badge.warn{color:var(--warn);border-color:var(--warn)}
+.badge.bad{color:var(--danger);border-color:var(--danger)}
+.num{font-variant-numeric:tabular-nums;text-align:right}
+.mono{font-family:var(--font-mono);font-size:.85em}
+.stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));
+  gap:var(--space-3);margin:var(--space-4) 0}
+.stat{background:var(--raised);border-radius:var(--radius);padding:var(--space-3);text-align:center}
+.stat__num{font-family:var(--font-title);font-size:var(--size-2xl);color:var(--accent);display:block}
+.stat__label{font-family:var(--font-ui);font-size:var(--size-2xs);
+  letter-spacing:var(--tracking-label);text-transform:uppercase;color:var(--ink-subtle)}
+.toc{background:var(--raised);border-radius:var(--radius);padding:var(--space-4) var(--space-5);
+  margin:var(--space-5) 0}
+.toc ol{counter-reset:toc;list-style:none;padding:0;margin:0}
+.toc li{counter-increment:toc}
+.toc li::before{content:counter(toc) ". ";color:var(--accent);font-family:var(--font-title)}
+
+/* ── 20. PRINT ────────────────────────────────────────────────────────── */
+@media print{
+  .love{--surface:#fff;--raised:#f4efe4;--sunken:#f0eade;--ink:#1a1a1a;--ink-strong:#000;
+    --ink-muted:#333;--ink-subtle:#555;--border:#bbb;--border-strong:#888;
+    --accent:#6b4d14;--ornament:#8a6520;--quote:#333}
+  .no-print{display:none!important}
+  .card,.definition,.redline,blockquote,figure,table{break-inside:avoid}
+  .love a::after{content:" (" attr(href) ")";font-size:.8em;color:#555}
+}
+/* ── 21. MOTION ───────────────────────────────────────────────────────── */
+@media(prefers-reduced-motion:reduce){
+  *,*::before,*::after{animation-duration:.01ms!important;transition-duration:.01ms!important}
+}
+
+/* ═══════════════════════════════════════════════════════════════════════
+   PRODUCT LAYER — application UI
+   Everything above this line is the document system. Everything below is
+   for things a user *operates* rather than reads. Same tokens, same rules.
+   ═══════════════════════════════════════════════════════════════════════ */
+
+/* ── 22. FORM CONTROL BASE (corrected) ────────────────────────────────── */
+/* Width is scoped: checkboxes and radios must not stretch. */
+.love input:not([type=checkbox]):not([type=radio]):not([type=range]):not([type=file]),
+.love textarea, .love select {
+  width:100%; min-height:var(--control-h);
+  font-family:var(--font-body); font-size:var(--size-sm);
+  background:var(--surface); color:var(--ink);
+  border:var(--rule) solid var(--border-strong); border-radius:var(--radius);
+  padding:var(--space-2) var(--space-3);
+}
+.love input[type=checkbox], .love input[type=radio]{
+  width:auto; min-height:0; accent-color:var(--accent); margin:0}
+.love textarea{min-height:calc(var(--control-h) * 2.4); line-height:var(--leading-normal)}
+
+/* ── 23. DISABLED & READONLY ──────────────────────────────────────────── */
+/* Colour alone never carries state, so disabled controls should also be
+   explained in adjacent text — see .field__hint. */
+.love :is(a,button,input,select,textarea,.btn)[disabled],
+.love :is(a,button,input,select,textarea,.btn)[aria-disabled="true"]{
+  background:var(--sunken); color:var(--ink-disabled); border-color:var(--border);
+  cursor:not-allowed; opacity:1}
+.love :is(input,textarea)[readonly]{background:var(--sunken); color:var(--ink-muted)}
+
+/* ── 24. BUTTON HIERARCHY ─────────────────────────────────────────────── */
+/* .btn is the outlined default. --primary is the one dominant action per
+   view. .is-on stays reserved for toggles so aria-pressed keeps its meaning. */
+.love .btn, .love button{
+  display:inline-flex; align-items:center; justify-content:center; gap:var(--space-2);
+  min-height:var(--control-h); padding:var(--space-2) var(--space-4);
+  font-family:var(--font-ui); font-size:var(--size-xs); font-weight:600;
+  letter-spacing:var(--tracking-label); text-transform:uppercase;
+  background:transparent; color:var(--accent);
+  border:var(--rule) solid var(--border-strong); border-radius:var(--radius);
+  cursor:pointer; text-decoration:none}
+.love .btn:hover, .love button:hover{background:var(--sunken); color:var(--accent-hover)}
+.love .btn--primary{background:var(--accent); color:var(--accent-ink); border-color:var(--accent)}
+.love .btn--primary:hover{background:var(--accent-hover); border-color:var(--accent-hover); color:var(--accent-ink)}
+.love .btn--danger{background:var(--danger); color:var(--danger-ink); border-color:var(--danger)}
+.love .btn--ghost{border-color:transparent; background:transparent}
+.love .btn--ghost:hover{background:var(--sunken)}
+.love .btn--sm{min-height:var(--control-h-sm); padding:var(--space-1) var(--space-3); font-size:var(--size-2xs)}
+.love .btn--block{width:100%}
+.love .btn[aria-busy="true"]::before{content:"◌ "}   /* non-colour pending cue */
+.love .btn-row{display:flex; gap:var(--space-3); flex-wrap:wrap; align-items:center}
+
+/* ── 25. FIELDS & VALIDATION ──────────────────────────────────────────── */
+.love .field{margin-bottom:var(--space-4)}
+.love .field__label, .love label{
+  display:block; font-family:var(--font-ui); font-size:var(--size-2xs);
+  letter-spacing:var(--tracking-label); text-transform:uppercase;
+  color:var(--accent); margin-bottom:var(--space-1)}
+.love .field__label .req{color:var(--danger)}
+.love .field__hint{font-family:var(--font-ui); font-size:var(--size-2xs);
+  color:var(--ink-subtle); margin-top:var(--space-1)}
+.love .field__error{font-family:var(--font-ui); font-size:var(--size-2xs);
+  color:var(--danger); margin-top:var(--space-1)}
+.love .field__error::before{content:"! "; font-weight:700}   /* non-colour cue */
+/* Error is signalled three ways — colour, a thicker stroke, and the glyph above —
+   so it survives colour blindness and greyscale. */
+.love .field--error :is(input,textarea,select){
+  border-color:var(--danger); border-width:var(--rule-strong)}
+.love :is(input,textarea,select)[aria-invalid="true"]{
+  border-color:var(--danger); border-width:var(--rule-strong)}
+/* Inline choice: checkbox or radio beside sentence-case text. */
+.love .choice{display:flex; align-items:flex-start; gap:var(--space-2);
+  font-family:var(--font-body); font-size:var(--size-sm); text-transform:none;
+  letter-spacing:normal; color:var(--ink); margin-bottom:var(--space-2)}
+.love .choice input{margin-top:.3em}
+.love .field-row{display:grid; gap:var(--space-4)}
+@media(min-width:640px){.love .field-row--2{grid-template-columns:1fr 1fr}}
+
+/* ── 26. PANEL — neutral container (no category, no colour bar) ───────── */
+.love .panel{background:var(--raised); border:var(--rule) solid var(--border);
+  border-radius:var(--radius); padding:var(--space-5)}
+.love .panel--form{max-width:var(--measure-form); margin-inline:auto}
+.love .panel__header{display:flex; justify-content:space-between; align-items:baseline;
+  gap:var(--space-3); border-bottom:var(--rule) solid var(--border);
+  padding-bottom:var(--space-3); margin-bottom:var(--space-4)}
+.love .panel__title{font-family:var(--font-title); font-size:var(--size-lg);
+  color:var(--ink-strong); margin:0}
+
+/* ── 27. APP SHELL & NAVIGATION ───────────────────────────────────────── */
+.love .appbar{position:sticky; top:0; z-index:var(--z-sticky);
+  background:var(--raised); border-bottom:var(--rule) solid var(--border)}
+.love .appbar__inner{max-width:1080px; margin:0 auto; display:flex;
+  align-items:center; gap:var(--space-5); padding:var(--space-3) var(--space-5)}
+.love .appbar__spacer{flex:1}
+/* .appbar__inner wraps on narrow/long content (a long chapter title can by
+   itself claim most of the first line — see below), which knocks the button
+   group onto a line of its own. flex:1 on the spacer only pushes within a
+   line; once the buttons are alone on their own line, browsers left-align by
+   default and the spacer (with nothing left to push against on that line)
+   does nothing. margin-left:auto pushes the button group to the right edge
+   of whichever line it lands on, wrapped or not. */
+.love .appbar__inner .btn-row{margin-left:auto}
+.love .nav{display:flex; gap:var(--space-4); list-style:none; margin:0; padding:0}
+.love .nav a{font-family:var(--font-ui); font-size:var(--size-2xs);
+  letter-spacing:var(--tracking-label); text-transform:uppercase;
+  color:var(--ink-muted); text-decoration:none; padding-bottom:var(--space-1);
+  border-bottom:var(--rule-strong) solid transparent}
+.love .nav a:hover{color:var(--ink-strong)}
+/* Current page is marked by colour AND an underline — never colour alone.
+   The underline uses --border-strong, not --ornament: gold cannot reach the
+   3:1 non-text threshold on a light ground, and this carries information. */
+.love .nav a[aria-current="page"]{color:var(--ink-strong); border-bottom-color:var(--border-strong)}
+.love .shell{display:grid; grid-template-columns:1fr; gap:var(--space-6);
+  max-width:1080px; margin:0 auto; padding:var(--space-6) var(--space-5)}
+@media(min-width:900px){.love .shell--sidebar{grid-template-columns:220px 1fr}}
+.love .sidebar{border-right:0}
+@media(min-width:900px){.love .sidebar{border-right:var(--rule) solid var(--border);
+  padding-right:var(--space-5)}}
+.love .sidebar .nav{flex-direction:column; gap:var(--space-2)}
+.love .sidebar .nav a{border-bottom:0; border-left:var(--rule-strong) solid transparent;
+  padding:var(--space-1) 0 var(--space-1) var(--space-3)}
+.love .sidebar .nav a[aria-current="page"]{border-left-color:var(--border-strong)}
+.love .breadcrumb{display:flex; flex-wrap:wrap; gap:var(--space-2); list-style:none;
+  margin:0 0 var(--space-4); padding:0; font-family:var(--font-ui); font-size:var(--size-2xs);
+  letter-spacing:var(--tracking-label); text-transform:uppercase; color:var(--ink-subtle)}
+.love .breadcrumb li+li::before{content:"/ "; color:var(--border-strong)}
+
+/* ── 28. LOCKUP & AVATAR ──────────────────────────────────────────────── */
+/* The mark's letter is text, so it takes --accent, never --ornament. */
+.love .lockup{display:inline-flex; align-items:center; gap:var(--space-3); text-decoration:none}
+.love .lockup__mark{width:2.125rem; height:2.125rem; flex:none; display:grid; place-items:center;
+  border:var(--rule-strong) solid var(--ornament); border-radius:var(--radius);
+  font-family:var(--font-title); font-size:var(--size-lg); color:var(--accent)}
+.love .lockup__word{font-family:var(--font-title); font-size:var(--size-lg);
+  color:var(--ink-strong); letter-spacing:var(--tracking-display); line-height:1.1}
+/* Cinzel Decorative is illegible below 1.4rem, so a header-scale wordmark uses
+   --font-title. Reserve --font-display for lockups at --size-2xl and above. */
+.love .lockup--lg .lockup__word{font-family:var(--font-display); font-size:var(--size-2xl)}
+.love .lockup--lg .lockup__mark{width:3rem; height:3rem; font-size:var(--size-xl)}
+.love .lockup__sub{display:block; font-family:var(--font-ui); font-size:var(--size-2xs);
+  letter-spacing:var(--tracking-eyebrow); text-transform:uppercase; color:var(--ink-subtle)}
+/* Avatars are square at --radius, not round — the 3px cap is deliberate.
+   Identity is never carried by colour, so no per-user tinting. */
+.love .avatar{width:2rem; height:2rem; flex:none; display:grid; place-items:center;
+  background:var(--sunken); border:var(--rule) solid var(--border-strong);
+  border-radius:var(--radius); font-family:var(--font-ui); font-size:var(--size-2xs);
+  font-weight:600; color:var(--ink-strong); overflow:hidden}
+.love .avatar img{width:100%; height:100%; object-fit:cover; border-radius:0}
+.love .avatar--sm{width:1.5rem; height:1.5rem}
+.love .avatar--lg{width:2.5rem; height:2.5rem; font-size:var(--size-xs)}
+
+/* ── 29. ALERTS ───────────────────────────────────────────────────────── */
+/* Each variant carries a glyph as well as a colour. */
+.love .alert{display:flex; gap:var(--space-3); background:var(--raised);
+  border:var(--rule) solid var(--border); border-left:var(--rule-strong) solid var(--info);
+  border-radius:var(--radius); padding:var(--space-3) var(--space-4); margin:var(--space-4) 0;
+  font-size:var(--size-sm)}
+.love .alert::before{font-weight:700; color:var(--info); content:"i"}
+.love .alert--success{border-left-color:var(--success)}
+.love .alert--success::before{content:"✓"; color:var(--success)}
+.love .alert--warn{border-left-color:var(--warn)}
+.love .alert--warn::before{content:"!"; color:var(--warn)}
+.love .alert--danger{border-left-color:var(--danger)}
+.love .alert--danger::before{content:"×"; color:var(--danger)}
+.love .alert__title{font-family:var(--font-ui); font-size:var(--size-2xs); font-weight:600;
+  letter-spacing:var(--tracking-label); text-transform:uppercase; margin-bottom:var(--space-1)}
+
+/* ── 30. TABS ─────────────────────────────────────────────────────────── */
+.love .tabs{display:flex; gap:var(--space-4); list-style:none; margin:0 0 var(--space-4);
+  padding:0; border-bottom:var(--rule) solid var(--border)}
+.love .tabs button, .love .tabs a{background:none; border:0; border-radius:0;
+  border-bottom:var(--rule-strong) solid transparent; padding:var(--space-2) 0;
+  color:var(--ink-muted); text-transform:uppercase; text-decoration:none;
+  font-family:var(--font-ui); font-size:var(--size-2xs); letter-spacing:var(--tracking-label)}
+.love .tabs [aria-selected="true"]{color:var(--ink-strong); border-bottom-color:var(--border-strong)}
+
+/* ── 31. DIALOG / MODAL ───────────────────────────────────────────────── */
+.love dialog{background:var(--surface); color:var(--ink); border:var(--rule) solid var(--border-strong);
+  border-radius:var(--radius); padding:var(--space-5); max-width:var(--measure-form)}
+.love dialog::backdrop{background:rgba(0,0,0,.55)}
+
+/* ── 32. MENU / DROPDOWN ──────────────────────────────────────────────── */
+/* .menu is an in-flow list. To use it as a dropdown, wrap the trigger and the
+   menu in .menu-anchor and add .menu--pop — z-index does nothing without position. */
+.love .menu{list-style:none; margin:0; padding:var(--space-1); background:var(--raised);
+  border:var(--rule) solid var(--border-strong); border-radius:var(--radius); min-width:12rem}
+.love .menu-anchor{position:relative; display:inline-block}
+.love .menu--pop{position:absolute; top:calc(100% + var(--space-1)); right:0;
+  z-index:var(--z-dropdown)}
+.love .menu a, .love .menu button{display:block; width:100%; text-align:left;
+  background:none; border:0; border-radius:var(--radius); text-transform:none;
+  letter-spacing:normal; font-family:var(--font-ui); font-size:var(--size-sm);
+  color:var(--ink); padding:var(--space-2) var(--space-3); text-decoration:none}
+.love .menu a:hover, .love .menu button:hover{background:var(--sunken)}
+
+/* ── 33. EMPTY & LOADING STATES ───────────────────────────────────────── */
+.love .empty{text-align:center; padding:var(--space-7) var(--space-5); color:var(--ink-muted);
+  border:var(--rule) dashed var(--border-strong); border-radius:var(--radius)}
+.love .empty__title{font-family:var(--font-title); font-size:var(--size-lg);
+  color:var(--ink-strong); margin-bottom:var(--space-2)}
+.love .spinner{display:inline-block; width:1em; height:1em; border:2px solid var(--border-strong);
+  border-top-color:var(--accent); border-radius:50%; animation:love-spin .8s linear infinite}
+@keyframes love-spin{to{transform:rotate(360deg)}}
+/* Motion is not the only signal — pair a spinner with text such as "Loading…". */
+@media(prefers-reduced-motion:reduce){.love .spinner{animation:none; border-top-color:var(--border-strong)}}
+
+/* ── 34. DATA TABLE ADDITIONS ─────────────────────────────────────────── */
+.love .table--data tbody tr:hover{background:var(--sunken)}
+.love .table--data th[aria-sort]{cursor:pointer}
+.love .table--data th[aria-sort="ascending"]::after{content:" ▲"}
+.love .table--data th[aria-sort="descending"]::after{content:" ▼"}
+/* Offset by the appbar so a sticky header does not slide underneath it. */
+.love .table--sticky thead th{position:sticky; top:var(--appbar-h);
+  background:var(--surface); z-index:calc(var(--z-sticky) - 1)}
+
+/* ── 35. ICONS ────────────────────────────────────────────────────────── */
+/* There is no icon font. Use inline SVG with fill/stroke set to currentColor so
+   icons inherit the token colour of their context, and give every standalone
+   icon control an aria-label — an icon is never the only label. */
+.love .icon{width:1em; height:1em; flex:none; fill:none; stroke:currentColor;
+  stroke-width:1.75; vertical-align:-.125em}
+
+/* ── 36. SMALL UTILITIES ──────────────────────────────────────────────── */
+/* Kept deliberately few. Resist growing this into a utility framework —
+   if you need three of these on one element, the component is missing. */
+.love .center{text-align:center}
+.love .center .btn-row{justify-content:center}
+/* Divider with a label, for "or" between a primary and an alternative path. */
+.love .or{display:flex; align-items:center; gap:var(--space-3); margin:var(--space-4) 0;
+  font-family:var(--font-ui); font-size:var(--size-2xs);
+  letter-spacing:var(--tracking-label); text-transform:uppercase; color:var(--ink-subtle)}
+.love .or::before, .love .or::after{content:""; flex:1;
+  border-top:var(--rule) solid var(--border)}
+
+/* ── 37. PRODUCT LAYER, PART 2 ────────────────────────────────────────── */
+
+/* Danger buttons need their own hover, or the generic .btn:hover turns a
+   destructive control gold mid-click. */
+.love .btn--danger:hover{background:var(--danger-hover); border-color:var(--danger-hover);
+  color:var(--danger-ink)}
+
+/* A <button> that is not a Button. Sort headers, row links, tab strips and
+   menu items are all semantically buttons and visually not. Build on this
+   rather than un-styling the base rule by hand each time. */
+.love .btn--bare, .love .tabs button, .love .menu button{
+  display:inline; min-height:0; padding:0; border:0; background:none;
+  font:inherit; color:inherit; text-transform:none; letter-spacing:normal}
+.love .btn--bare:hover{background:none}
+/* Square control for a single icon. */
+/* Icons inside buttons. There is no icon font — these are inline SVG with
+   stroke="currentColor", so they inherit the button's token in every palette
+   and in the hover and pressed states without a second rule. flex:none stops
+   a long label from squashing the glyph. An icon never travels alone: every
+   .btn that has one also has its text. */
+.love .btn > svg, .love button > svg{width:15px; height:15px; flex:none}
+.love .btn--sm > svg, .love button.btn--sm > svg{width:13px; height:13px}
+
+.love .btn--icon{width:var(--control-h); height:var(--control-h); min-height:0; padding:0}
+.love .btn--icon.btn--sm{width:var(--control-h-sm); height:var(--control-h-sm)}
+
+/* Toolbar — search, filters and a primary action on one line. */
+.love .toolbar{display:flex; flex-wrap:wrap; gap:var(--space-3); align-items:flex-end;
+  margin-bottom:var(--space-4)}
+.love .toolbar .field{margin-bottom:0}
+.love .toolbar__grow{flex:1 1 18rem}
+.love .toolbar__end{margin-left:auto}
+/* Opts a field out of full-width + bottom margin, for toolbars and table cells. */
+.love .field--inline{margin-bottom:0; display:inline-flex; flex-direction:column}
+.love .field--inline :is(input,select,textarea){width:auto}
+
+/* Panel footer — mirror of .panel__header, bleeds to the panel edges. */
+.love .panel__footer{display:flex; gap:var(--space-3); align-items:center;
+  border-top:var(--rule) solid var(--border);
+  padding-top:var(--space-3); margin-top:var(--space-4)}
+.love .panel__footer--sticky{position:sticky; bottom:0; background:var(--raised);
+  margin:var(--space-4) calc(-1 * var(--space-5)) calc(-1 * var(--space-5));
+  padding:var(--space-3) var(--space-5)}
+
+/* Pagination. Pair a disabled control with a hint saying why. */
+.love .pagination{display:flex; align-items:center; gap:var(--space-3); flex-wrap:wrap;
+  margin-top:var(--space-4); font-family:var(--font-ui); font-size:var(--size-2xs);
+  letter-spacing:var(--tracking-label); text-transform:uppercase; color:var(--ink-subtle)}
+.love .pagination__spacer{flex:1}
+
+/* Data-table helpers: horizontal scroll container, selection column, bulk bar. */
+.love .table-scroll{overflow-x:auto; margin:var(--space-4) 0}
+.love .table-scroll table{margin:0}
+.love .col-select{width:2.5rem; text-align:center}
+.love .col-select input{margin:0}
+.love .bulkbar{display:flex; align-items:center; gap:var(--space-3); flex-wrap:wrap;
+  background:var(--sunken); border:var(--rule) solid var(--border-strong);
+  border-radius:var(--radius); padding:var(--space-2) var(--space-3);
+  margin-bottom:var(--space-3); font-family:var(--font-ui); font-size:var(--size-xs)}
+
+/* Four-way status badges, wired to the categorical accent set. */
+.love .badge--p1{color:var(--p-truth); border-color:var(--p-truth)}
+.love .badge--p2{color:var(--p-justice); border-color:var(--p-justice)}
+.love .badge--p3{color:var(--p-mercy); border-color:var(--p-mercy)}
+.love .badge--p4{color:var(--p-sacrifice); border-color:var(--p-sacrifice)}
+/* .tag is a label on a thing; .badge is a state of a thing. Tags are quieter. */
+.love .tag{border-style:dashed; color:var(--ink-subtle)}
+
+/* Tab panels. */
+.love .tabs [aria-selected="true"]{border-bottom-color:var(--border-strong)}
+.love .tabpanel{padding-top:var(--space-2)}
+.love .tabpanel[hidden]{display:none}
+
+/* Screen-reader-only. Load-bearing: it is how a selection checkbox, an
+   icon-only control, or an inert nav item gets a text alternative. */
+.love .visually-hidden{position:absolute; width:1px; height:1px; padding:0; margin:-1px;
+  overflow:hidden; clip:rect(0 0 0 0); clip-path:inset(50%); white-space:nowrap; border:0}
+
+/* A heading focused programmatically after a view change should not draw a ring;
+   :focus-visible still applies for real keyboard focus. */
+.love [data-focus-target]:focus{outline:none}
+
+/* Appbar wraps rather than overflowing on narrow viewports. */
+.love .appbar__inner{flex-wrap:wrap; row-gap:var(--space-2); min-height:var(--appbar-h)}
+
+</style>
+</head>
+<body>
+<div class="page">
+
+<header class="stack">
+  <p class="eyebrow">Global sweep &middot; redline round 3 &mdash; final</p>
+  <h1>Sweep Items 2 &amp; 3</h1>
+  <p class="lede">Changes 2, 4 and 5 are closed. Two drafts left for a y &mdash; both written to your direction, both new prose you haven&rsquo;t seen.</p>
+  <p class="meta">Round 2 rulings: keep the &ldquo;ten chapters&rdquo; sentence as a summary of Part 1 &middot; recast line 17 around lived experience, study, and society coming apart &middot; all others approved.</p>
+</header>
+
+<hr>
+
+<div class="prose stack">
+
+<h2 id="c1">Change 1 &middot; the sentence stays, the section goes</h2>
+
+<p class="meta"><span class="mono">chapter_10.md</span> &middot; &sect; The Journey Continues &middot; <span class="badge bad">Awaiting y/n</span></p>
+
+<p>Keeping your sentence solved the placement problem for me. It doesn&rsquo;t want its own section &mdash; it wants to be the retrospective clause that the next sentence already answers. Look at what happens when it sits directly in front of &ldquo;But understanding the definition is just the beginning&rdquo;: that <em>But</em> finally has something to push against. Right now it has no antecedent.</p>
+
+<p>So the sentence moves up into the closing sequence, and the heading and the Lawgiver material come out.</p>
+
+<div class="redline">
+  <div class="redline__label">chapter_10.md &middot; &sect; The Journey Continues &mdash; final three paragraphs</div>
+  <p style="font-family:Georgia,'Libre Baskerville',serif">Each facet is essential. Remove any one, and love becomes something less than love. Together, they form the complete answer to the problem of evil we identified in Chapter 1.</p>
+  <p style="font-family:Georgia,'Libre Baskerville',serif"><ins>We have spent ten chapters defining the absolute necessity and profound beauty of God&rsquo;s Perfect Love.</ins> But understanding the definition is just the beginning. Now we need to see how this love has been revealed, how it&rsquo;s made accessible, how it transforms us, and how it calls all Christians to unity.</p>
+  <p style="font-family:Georgia,'Libre Baskerville',serif">This is where Part 2 begins&mdash;applying this definition to key Christian questions and showing how it unlocks the deepest truths of our faith.</p>
+  <p style="font-family:Georgia,'Libre Baskerville',serif"><del>### A Turn Toward the Source</del></p>
+  <p style="font-family:Georgia,'Libre Baskerville',serif"><del>We have spent ten chapters defining the absolute necessity and profound beauty of God&rsquo;s Perfect Love. But you might be asking: <em>How do we know this isn&rsquo;t just a beautiful theory? If love is truly a universal law, how do we know the Lawgiver actually exists?</em> This is not merely an academic question; it is the foundation upon which everything we&rsquo;ve discussed rests. In the next chapter, we will shift our focus from defining the nature of love to defending the existence of its Author, exploring why the very reality of love we&rsquo;ve just defined points to the reality of God.</del></p>
+</div>
+
+<p>Net effect: your sentence is kept and given a better job, Part 1 closes on a summary as you asked, and the chapter no longer promises a chapter that is two away. Chapter 12 still makes the Lawgiver argument in full.</p>
+
+<h2 id="c3">Change 3 &middot; line 17 recast</h2>
+
+<p class="meta"><span class="mono">z_authors_note.md</span> &middot; line 17 &middot; <span class="badge bad">Awaiting y/n</span></p>
+
+<p>This is the better sentence, and not only because it clears the revelation problem. &ldquo;What God has been revealing to me&rdquo; asks the reader to take your word for something private. Lived experience, years of study, and a society visibly coming apart are things the reader can weigh &mdash; and the third one is the book&rsquo;s actual argument in miniature.</p>
+
+<div class="redline">
+  <div class="redline__label">z_authors_note.md &middot; &para;17 &mdash; primary draft</div>
+  <p style="font-family:Georgia,'Libre Baskerville',serif">I never would have been able to complete this book without using AI to help me do the research. But fear not, this book was not &ldquo;written by AI.&rdquo; I was the one who directed every word<del>&nbsp;based on what God has been revealing to me through His Scripture and Church over the years</del><ins> &mdash; based on living out God&rsquo;s love in my own life, on years of study in His Scripture and His Church, and on watching our society come apart and seeing more clearly every year that His love is the antidote</ins>.</p>
+</div>
+
+<p>An alternative if you want it shorter and harder-hitting:</p>
+
+<blockquote>
+<p>I was the one who directed every word &mdash; out of living God&rsquo;s love in my own life, out of years in His Scripture and His Church, and out of watching a society come apart and seeing what it is starving for.</p>
+</blockquote>
+
+<p>I&rsquo;d take the primary. &ldquo;Antidote&rdquo; is your word and it&rsquo;s the more concrete image; the alternative trades it for cadence and loses the diagnosis.</p>
+
+<hr>
+
+<h2 id="closed">Closed this round</h2>
+
+<div class="redline">
+  <div class="redline__label">z_authors_note.md &middot; &para;9 &mdash; applied</div>
+  <p style="font-family:Georgia,'Libre Baskerville',serif">I am thankful and indebted to the <del>Disciples</del><ins>Apostles</ins> who passed on the offices of Bishop, Priest and Deacon so that we here 2<ins>,</ins>000 years later might know anything about the love of Jesus.<del>&nbsp;</del> And thus all the saints, the doctors of the Church, and the faithful who have lived out this truth in their lives and have passed it down through the generations.</p>
+</div>
+
+<hr>
+
+<h2 id="disposition">Disposition index</h2>
+
+<table>
+  <caption>Full sweep, items 1&ndash;3 of the global queue.</caption>
+  <thead><tr><th>#</th><th>File</th><th>Change</th><th>Status</th></tr></thead>
+  <tbody>
+    <tr><td class="num">&mdash;</td><td class="mono">chapter_07.md</td><td>Unclosed <code>&lt;p&gt;</code> in the rights callout</td><td><span class="badge ok">Applied</span></td></tr>
+    <tr><td class="num">1</td><td class="mono">chapter_10.md</td><td>&ldquo;Ten chapters&rdquo; moved up; <em>A Turn Toward the Source</em> deleted</td><td><span class="badge bad">Awaiting y/n</span></td></tr>
+    <tr><td class="num">2</td><td class="mono">z_authors_note.md</td><td>Inspiration and &ldquo;ensure&rdquo; removed; models recredited</td><td><span class="badge ok">Applied</span></td></tr>
+    <tr><td class="num">3</td><td class="mono">z_authors_note.md</td><td>Line 17 recast on life, study, and society</td><td><span class="badge bad">Awaiting y/n</span></td></tr>
+    <tr><td class="num">4</td><td class="mono">z_authors_note.md</td><td>Disciples &rarr; Apostles; 2,000; double space</td><td><span class="badge ok">Applied</span></td></tr>
+    <tr><td class="num">5</td><td class="mono">z_authors_note.md</td><td>Line 5 &ldquo;revealed to me&rdquo; &mdash; left as written</td><td><span class="badge ok">Closed</span></td></tr>
+  </tbody>
+</table>
+
+<h3>What&rsquo;s left in the global queue after these</h3>
+
+<p>Only the Chapter 8 passage naming the Reformation, which you&rsquo;ve said waits for its own full redline. After that the sweep is done and the per-chapter review documents begin.</p>
+
+<hr>
+
+<p class="citation">Sweep items 2 and 3, round 3 &middot; 29 August 2026 &middot; changes 1 and 3 not yet written to disk.</p>
+
+</div>
+</div>
+
+</body>
+</html>
