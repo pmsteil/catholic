@@ -1,0 +1,56 @@
+Bishop-readiness revision of Chapter 8 ("Mercy: God Is Mercy") of *What Is Love? God's Perfect Love*. Use the `wil-review-chapter` skill. Same process as Ch. 6 and Ch. 7; Ch. 7 finished 2026-09-26 (memory.html §18, entries 59–68).
+
+HOW I WORK WITH YOU
+- Don't hand me a triage to rule on. Go straight to a redline of your best improvements; I approve with "y" or correct you. When I ask for options, give options first.
+- Before every write: dry-run the edits on a scratch copy, confirm every anchor matches exactly once, render a word-level redline (colored text, no white background), send it as an HTML file, and wait for "y".
+- Every redline block names the section it sits in ("Section: <## heading> › <### heading> · line N"). prompts/redline-tools/redline.py already does this.
+- No word counts, anywhere.
+- After each write: confirm the chapter is identical to the dry-run output, check <sup> numbers against the Notes list, and add a "Completed" card to memory.html §18 right after <h3>Completed</h3>, divs balanced. Next entry number: 69 (entries and Future Tasks share one numbering; 61 and 67 are todos).
+- Group related fixes into one redline. On anything doctrinal, give me the reasoning in two or three lines, and correct me plainly when I'm wrong. Keep additions short; I will tell you when something is a tangent.
+
+FILES AND TOOLS
+- Source of truth: chapters/chapter_08.md in book1_v4. The review HTML is disposable; I declined one for Ch. 7 and probably will here.
+- Before the first write, back up the chapter and memory.html to archive/ch08-pre-<date>/.
+- Redline tools: prompts/redline-tools/ (dry.py, redline.py, tpl.html with %%TITLE%% / %%NOTE%% / %%BODY%%, and an example edits.py). Copy them to a work folder in the VM home (the device's /tmp isn't writable). Each round: write editsN.py as E=[(group, line, old, new)], then
+    sed 's/from edits import E/from editsN import E/' dry.py > dryN.py   (same for redline.py)
+    python3 dryN.py before.md after.md
+    python3 redlineN.py <workdir> before.md chapters/reports/ch08-redlineN-<date>.html tplN.html
+  Write step: cmp before.md with the chapter, run dryN.py on the chapter in place, cmp with after.md.
+  Known quirks: tpl.html's eyebrow/sub line are hard-coded for an older chapter, so set them per round; raw <div class="blockquote"> and \hfill\small in an inserted block render as escaped text in the redline, so post-process them into styled spans before sending; an edit whose old text spans several lines is supported.
+- Scripture checks: biblestudytools.com/rsv plus christianity.com/bible/rsv or studylight.org worked as two independent sources. Bible Gateway rate-limits; don't rely on it. CCC: vatican.va and scborromeo.org. Summa: newadvent.org.
+
+FORMATTING THAT MUST SURVIVE (baseline 2026-09-27)
+- 4 <div class="blockquote"> with 4 \hfill\small attributions (3 opening + 1 in the body); 2 callouts; divs 6/6.
+- Footnotes are raw <sup>N</sup> with a hand-built ### Notes list between \footnotesize and \normalsize. Never [^N]. Now: markers 1, 2, 2, 3 against notes 1–3 (1 = Redemptoris Missio §13; 2 = Aquinas ST II-II q.159, cruelty/clemency; 3 = CCC 2091 + Dives in Misericordia §4). Note 2 is marked twice (the cruelty paragraph and the callout). Decide whether that is intended before renumbering anything.
+- No Greek or Hebrew script; transliterate.
+
+STANDING RULES
+- Verify every factual claim, quotation, and CCC / encyclical / Summa number against two independent sources (vatican.va first). Leave out any detail the sources disagree on. Never truncate a quotation without seeing the whole sentence.
+- Scripture is RSV Catholic Edition, quoted whole: a whole verse or none; otherwise cite with "cf." No "· RSV" tag. Never verify against a downloaded "open" RSV.
+- Show the good a reader reached for; never charge a motive. No polemic against Protestants. "Threads" is the book's word.
+- A capital He means God only; name a saint at the head of a paragraph. *Author* is reserved for God. Always "St. John Paul II" (never "Pope John Paul II" or "Pope St."). "The marital act," never "sex act". Never: performed, earned, transaction, payment plan, debt-payment, unmercy, imputed/imputation.
+- The canonical definition of love is fixed word for word.
+- Free will: grace moves first and the heart freely answers; never grace on a passive recipient, never cooperation adding anything to God.
+- Ch. 8 follows the four-part pattern for Chs. 6–9; Ch. 6 is the reference implementation, Ch. 7 the most recent.
+- Don't reopen rejected items: memory.html §14 "Theological / Structural Rejections"; the Ch. 5/6 rejections (John 8 as truth-without-mercy anywhere, "warring, not the leaving", the abuser line); entry 46's John 8 ruling.
+
+SETTLED DESIGN TO KEEP (memory.html §7, "Chapter 8 (Mercy) Decisions")
+- "Three Shadows" was deleted; "When the Thread Is Cut" stands alone. Forgiveness and Reconciliation sits right after "The Condition". Ch. 8 owns the full four-part Sacrament of Reconciliation (truth / justice / mercy / grace with Christ's sacrifice); Ch. 7 keeps only a one-paragraph preview. Problem before cure. 2 Cor 5:18–19: restoration IS the Gospel. The Divine Mercy, Anointing of the Sick and Works of Mercy sections stay. The Matthew 18:23–35 read-it-yourself invitation stays. Justice and mercy are one divine nature, never pitted against each other.
+- The opposing sin is unforgiveness / hardness of heart (CCC 1864; Matt 6:15; Matt 18:23–35); vengeance is its fruit, not the root.
+
+KNOWN ITEMS FOR CH. 8
+1. Scripture whole-verse check. Exodus 34:6 (first opening quote) looks partial: the RSV verse begins "The LORD passed before him, and proclaimed, …". Check every quotation in the chapter the same way.
+2. Opening quotations: 3 now. Isaiah 30:18 ("the LORD waits to be gracious to you … the LORD is a God of justice") left Ch. 7's opening on 2026-09-26 because its weight falls on mercy, "Ch. 8's subject". Consider it here; don't go past four.
+3. St. John Paul II naming: note 3 says "Pope John Paul II"; Christian Thinkers says "Pope St. John Paul II". Fix both and sweep the chapter.
+4. Alignment with what Ch. 7 now says, so the two chapters don't contradict or repeat:
+   - Ch. 7's gratitude passage: we stand in "a debt we can never repay," and "God never asks us to repay it" (St. Bernard, CCC 2007). Ch. 8's opening callout says "Justice says: pay what you owe. Mercy … the debt is released." Make sure the two read as one teaching.
+   - Ch. 7 now quotes Dives in Misericordia §14 ("In no passage of the Gospel message does forgiveness … mean indulgence towards evil") and CCC 2092 (presumption). Don't duplicate them; cross-reference if needed. Check whether Ch. 8's own DiM citations (note 3: §4) are accurate.
+   - Ch. 7's "When the Ideal Was Not Kept Toward You" now says separation may be permitted for adultery or grave danger while the bond remains (CCC 1649; cann. 1152–1153), and "Where reconciliation with the wrongdoer is possible, we seek it." Ch. 8's forgiveness sections must not imply forgiveness requires staying in harm's way or ending a marriage.
+   - Ch. 7 ends its body on "Do You Want True Justice?"; Ch. 8's "Do You Want Mercy?" was deliberately made shorter and facet-specific (entry near line 1674 of memory.html). Keep it shorter.
+5. Divine simplicity (todo 61, opened 2026-09-25). Ch. 8 is where it bites hardest. Check that mercy in God is never an emotion or a changing feeling (ST I q.21 a.3); that justice and mercy are never two "parts" of God balancing each other (CCC 271: "In God, power, essence, will, intellect, wisdom, and justice are all identical", now Ch. 7's last opening quote); and how Christian Thinkers frames St. Faustina's "mercy as the greatest attribute of God" (her words, fine to report; don't let the book's own voice rank attributes in God). The §7 phrase "mercy flows through a justice that has been completely paid" also needs care: "paid" sits close to the banned payment language.
+6. The "torturers" paragraph in When the Thread Is Cut (Matt 18:34; Remigius in the Catena Aurea; CCC 1033, 2840): verify the Catena Aurea attribution and every CCC number; make sure it reads as the Church's teaching, not speculation.
+7. The "Why Mercy of This Magnitude Is Possible" lists (abortion doctor, abuser, betrayer, and so on): check against the Ch. 5 "abuser line" rejection before touching; don't reopen it, only make sure nothing here reintroduces what was rejected.
+8. Pending verifications in memory.html §16 that may live in this chapter; check. (St. John Chrysostom and St. Leo the Great are cited in Chs. 7 and 16, not 8.)
+9. Before calling the chapter done: the read-aloud pass (and a second listen to anything added after it), and a check that the Bridge names Ch. 9 and previews sacrifice.
+
+Start by reading AGENTS.md, memory.html (§1, §7 "Chapter 8 (Mercy) Decisions", §12 four-part pattern, §14, §16, §18 entries 59–68 and todos 44, 61) and the chapter, then send me your first redline.
