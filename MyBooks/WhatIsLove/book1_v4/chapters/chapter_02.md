@@ -100,7 +100,7 @@ This universal longing for love is written into our very nature because we are m
 
 Yet defining love has proven remarkably difficult.
 
-Throughout history, philosophers and saints have offered profound insights—four of the Greek words for love—eros, philia, storge, and agape—each naming a different facet; Augustine's teaching that love is the ordering principle of all virtue; Aquinas's definition that "to love is to will the good of another" and that love gives "form" to all other virtues. Every one of these is true, and we see by their light; everything that follows in this book is in their debt. Love is simply larger than the words we find for it—a many-splendored thing, in Francis Thompson's phrase: intricate, inexhaustible, and always more than we have said. Even the Catechism does not narrow love but widens it: "all the works of perfect Christian virtue spring from love" (CCC 25).
+Throughout history, philosophers and saints have offered profound insights—four of the Greek words for love—eros, philia, storge, and agape—each naming a different facet; Augustine's teaching that love is the ordering principle of all virtue; Aquinas's definition that "to love is to will the good for another" and that love gives "form" to all other virtues. (Aquinas's Latin is precise: *amare est velle alicui bonum*. *Alicui* means *for someone*; the good is not only admired in another but willed for them. Chapter 5 shows how much that small word carries.) Every one of these is true, and we see by their light; everything that follows in this book is in their debt. Love is simply larger than the words we find for it—a many-splendored thing, in Francis Thompson's phrase: intricate, inexhaustible, and always more than we have said. Even the Catechism does not narrow love but widens it: "all the works of perfect Christian virtue spring from love" (CCC 25).
 
 Through years of prayer, study, and living out love as husband, father, and teacher, I have noticed a pattern: all the virtues integrate and converge into **four essential facets of love: truth, justice, mercy and sacrifice.** These four are the pillars that seem to support everything else. I offer it as one more window onto what the tradition has always been looking at—a way of holding together four things that are easier to consider one at a time. Love will exceed this definition as it exceeds every other. If it helps you see a little more deeply, it has done its work.
 
@@ -188,7 +188,7 @@ We begin with the first word of our definition: **sacred**. Why start there? Bec
 
 ### Christian Thinkers
 - **St. Augustine of Hippo (354-430):** Bishop and Doctor of the Church whose teaching that "Love God, and do what you will" reveals love as the ordering principle of all virtue; his *Confessions* shows the restless heart that finds peace only in God
-- **St. Thomas Aquinas (1225-1274):** Dominican friar and Doctor of the Church who defined love as "willing the good of another" and showed how love is the form of all virtues in his *Summa Theologiae*
+- **St. Thomas Aquinas (1225-1274):** Dominican friar and Doctor of the Church who defined love as "willing the good for another" and showed how love is the form of all virtues in his *Summa Theologiae*
 - **Pope St. John Paul II (1920-2005):** The pope of the family who taught the world about the Theology of the Body and authentic human love; his *Redemptor Hominis* explains that man cannot live without love
 
 ### Notes

@@ -64,7 +64,7 @@ The wound creates harm. The fragmentation that follows corrupts. This is what ha
 
 ## What Aquinas Already Saw
 
-The classical definition of love is St. Thomas Aquinas's: *amor est velle alicui bonum* — **"to love is to will the good of another"** (*Summa Theologiae* I-II, q.26, a.4). It is a definition the whole Christian tradition has held for nearly eight hundred years, and it is exactly right. But it is dense. Unpack it, and the four threads of this book are already inside it.
+The classical definition of love, as St. Thomas Aquinas gives it, is *amare est velle alicui bonum* — **"to love is to will the good for another"** (*Summa Theologiae* I-II, q.26, a.4). It is a definition the whole Christian tradition has held for nearly eight hundred years, and it is exactly right. But it is dense. Unpack it, and the four threads of this book are already inside it.
 
 Aquinas's formula has two halves. **"The good"** — *bonum* — names *what* love wills. **"For another"** — *alicui* — names *that* it is willed for them, not for me. Aquinas did not spell out what follows—but pull those two halves apart in the light of this book's definition, and the four pillars appear inside them:
 

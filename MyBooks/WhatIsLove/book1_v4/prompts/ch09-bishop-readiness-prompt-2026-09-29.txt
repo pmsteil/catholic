@@ -1,0 +1,61 @@
+Bishop-readiness revision of Chapter 9 ("Sacrifice: Love's Eternal Self-Gift") of *What Is Love? God's Perfect Love*. Use the `wil-review-chapter` skill. Same process as Chs. 6–8; Ch. 8 finished 2026-09-29 (memory.html §18, entries 69–82).
+
+HOW I WORK WITH YOU
+- Don't hand me a triage to rule on. Go straight to a redline of your best improvements; I approve with "y" or correct you. When I ask for options, give options first.
+- Before every write: dry-run the edits on a scratch copy, confirm every anchor matches exactly once, render a word-level redline (colored text, no white background), send it as an HTML file, and wait for "y". Simple plain redline only; no rich-html review document unless I ask.
+- Every redline block names the section it sits in ("Section: <## heading> › <### heading> · line N"). A short note at the top of each redline gives the reasoning.
+- No word counts, anywhere.
+- After each write: confirm the chapter is identical to the dry-run output, check <sup> numbers against the Notes list, and add a "Completed" card to memory.html §18 right after <h3>Completed</h3>, divs balanced. Next entry number: 83 (entries and Future Tasks share one numbering).
+- Group related fixes into one redline. On anything doctrinal, give me the reasoning in two or three lines, and correct me plainly when I'm wrong. Keep additions short; I will tell you when something is a tangent.
+
+FILES AND TOOLS
+- Source of truth: chapters/chapter_09.md in book1_v4. The review HTML is disposable.
+- Before the first write, back up the chapter, chapter_08.md (item 2 touches it) and memory.html to archive/ch09-pre-<date>/.
+- Redline tools: prompts/redline-tools/ (dry.py, redline.py, tpl.html, example edits.py). Copy them to a work folder in the VM home (the device's /tmp isn't writable). Each round: write editsN.py as E=[(group, line, old, new)], then
+    sed 's/from edits import E/from editsN import E/' dry.py > dryN.py   (same for redline.py)
+    python3 dryN.py before.md after.md
+    python3 redlineN.py <workdir> before.md chapters/reports/ch09-redlineN-<date>.html tplN.html
+  Write step: cmp before.md with the chapter, copy after.md over the chapter, cmp again.
+  Known quirks: set tpl.html's title, eyebrow, sub line and note per round; redline.py escapes raw HTML (<sup>, <div class="blockquote">, \hfill\small, <strong>), so un-escape or restyle before sending; an edit whose old text starts with "\n\n" crashes redline.py (render from a display-only edits file); long device_bash commands fail with E2BIG (write files with heredocs).
+- Quote cache: use the `bible-catechism-quote-cache` skill. Read references/cache/ (INDEX.md) before fetching; save every passage once it is verified.
+- Fetching: the device network is blocked, so use WebFetch from the cloud. Its summarizer can drop words or truncate a paragraph, so read long CCC paragraphs whole in the built-in browser. Scripture: biblestudytools.com/rsv plus christianity.com/bible/rsv or studylight.org. CCC: vatican.va, scborromeo.org. Summa: newadvent.org, aquinas.cc; Latin at corpusthomisticum.org.
+
+FORMATTING THAT MUST SURVIVE (baseline measured 2026-09-29)
+- 4 <div class="blockquote"> with 4 \hfill\small attributions; 5 callouts (memory.html §8 says the "WHO not WHAT" deletion left 4; check which is right before touching any); divs 9/9.
+- Footnotes are raw <sup>N</sup> with a hand-built ### Notes list between \footnotesize and \normalsize. Never [^N]. Now: one marker, 1, against note 1 (Phil 2:3; Gaudium et Spes §24; CCC 1601).
+- No Greek or Hebrew script; transliterate.
+
+STANDING RULES
+- Verify every factual claim, quotation, and CCC / encyclical / Summa number. Anything from vatican.va is authoritative on its own; otherwise two independent sources. Leave out any detail the sources disagree on. Never truncate a quotation without seeing the whole sentence.
+- Scripture is RSV Catholic Edition, quoted whole: a whole verse or none; otherwise cite with "cf." No "· RSV" tag. Never verify against a downloaded "open" RSV.
+- Show the good a reader reached for; never charge a motive. No polemic against Protestants. "Threads" is the book's word.
+- A capital He means God only; name a saint at the head of a paragraph. *Author* is reserved for God. Always "St. John Paul II". "The marital act," never "sex act". Never: performed, earned, transaction, payment plan, debt-payment, unmercy, imputed/imputation.
+- The canonical definition of love is fixed word for word ("sacrifice," never "sacrificial").
+- Free will: grace moves first and the heart freely answers; never grace on a passive recipient, never cooperation adding anything to God.
+- Ch. 9 follows the four-part pattern for Chs. 6–9; Ch. 6 is the reference implementation, Ch. 8 the most recent.
+- Don't reopen rejected items: memory.html §14 "Theological / Structural Rejections"; the Ch. 5/6 rejections (John 8 as truth-without-mercy anywhere, "warring, not the leaving", the abuser line); entry 46's John 8 ruling; todo 30's rejected hyphen-for-em-dash swap.
+
+SETTLED DESIGN TO KEEP (memory.html §8, "Chapter 9 (Sacrifice) Decisions")
+- The closed-fist passage (abstractions capitalized into the Persons of Christ) and its binding sentence, "one undivided Self."
+- "What Children Know": the parent who puts career or self-fulfillment before sacrificing for the children.
+- The structural arc: OT sacrifices → the Cross → the Last Supper → the Mass → the Body sent into the world → the eschatological gathering. The veil is argued only positively (Heb 10:19–21; 9:24).
+- The Open Hand covers all four pillars. Three voices of consent: Mary's fiat, Gethsemane, "thy will be done." Matthew 19:16–22 (the rich young man) sits in the Open Hand section.
+- The missional close ("Ite, missa est"), with my phrases kept: "a future filled with good Catholics" and "His perfect love is what saves the world."
+- "The Disciple at the Teacher's Feet": the Pharisees were "not cartoon villains."
+- The Seven Deadly Sins moved to Ch. 13. The Ordo Amoris is a pointer to Ch. 11 (decision 2a). Romans 12:21 is the mechanism of sacrifice.
+
+KNOWN ITEMS FOR CH. 9
+1. Payment language. Ch. 9 is where it is thickest: "paid" ×20, "pay" ×9, "debt" ×7, "transaction" ×3, "payment" ×2, "performed" ×2 (a banned word). Read each in context; some say what sacrifice is *not*. Ch. 8 now states the Cross as satisfaction that love gives its power (CCC 615–616), as expiation and oblation (CCC 433, 614), and ties it to the Day of Atonement and the mercy seat (Lev 16:14–16; Rom 3:25). Align with that. Cross-reference it; don't repeat it. Line 131, "And every bit of it is paid," is the first test.
+2. The Ch. 8 Bridge (chapter_08.md:311) still says sacrifice "proves love is real" and "paying the price it demands." Fix both: payment language, and the proves/shows question settled in Ch. 2 (Ch. 9:71 has the same "proves love real"). This is the one edit in chapter_08.md; it goes in the same pass.
+3. Todo 43: chapter_09.md:43 inherits the Aquinas overreach fixed in Ch. 5 ("sacrifice is what makes it *for another*, willed at cost to me"); *alicui* carries no notion of cost. Todos 45 (the retranslation "to will good to another") and 44 (sacrifice vs. self-gift) touch the same sentence. Fix line 43 to match Ch. 5 now. For 44 and 45, tell me what Ch. 9 needs and whether the book-wide decision should be settled here, before we edit.
+4. Divine simplicity (todo 61), caution 1. Sacrifice is not said of the divine essence the way truth, justice and mercy are. In the Trinity there is total self-gift without loss; sacrifice is what that self-gift becomes in a fallen world, supremely at the Cross (Ch. 3:133). Test the title's "Eternal Self-Gift" and every sentence about sacrifice *in God* against that. Don't overcorrect into "sacrifice is God's essence."
+5. The Mass. "Why We Have Mass" must say plainly that the Mass makes present the one sacrifice of the Cross and does not repeat it (CCC 1366–1367; Trent XXII). Ch. 10 carries the Eucharist as communion; don't pre-empt it.
+6. Martyrs section. Verify every fact: Stephen; Polycarp; Ignatius; Maximilian Kolbe; the 21 Coptic martyrs of Libya (2015; entered in the Roman Martyrology in 2023). Tertullian's "the blood of the martyrs is the seed of the Church" is the traditional paraphrase of *Apologeticum* 50 ("semen est sanguis Christianorum"). Present it as such.
+7. Marriage and family sections ("What Children Know," "Sacrifice vs. Selfishness: The Destruction of the Family," "The Grain That Refuses to Fall: Barrenness and Betrayal," "The Difference Between Sacrifice and Self-Destruction"). They must match Chs. 7–8: separation may be permitted for grave danger or adultery while the bond remains (CCC 1649; can. 1151–1153, in the cache). Sacrifice never means staying in harm's way. Never charge a motive, and remember the parent reading it (entry 42). Nothing may imply that a couple with infertility is barren in love (CCC 1654).
+8. Alignment with Ch. 8, so the chapters don't repeat. Ch. 8 now uses Rom 12:21 in the Divine Mercy Chaplet paragraph. Ch. 8's counterfeit-mercy and empathy passage now cites Leo XIV and Barron ("To love is to will the good of the other"). Ch. 8's "When the Thread Is Cut" has "Mercy without sacrifice." Ch. 7's Binding Check closes on Matt 23:23, which Ch. 9's "Disciple at the Teacher's Feet" also uses. Keep each chapter's use distinct.
+9. Robustness and progression (open since the April 20 review). Ch. 9 has 24 ## sections. Check whether each does distinct work and where repeated treatment can be joined without weakening the chapter. Propose, don't cut, and keep my phrases.
+10. Footnotes. Only one note. Every quotation from a magisterial document, a saint or a modern author gets a numbered note, as in Chs. 7–8.
+11. Em-dashes (todo 30). Ch. 9 is the book's worst case (319). After the doctrinal redlines are written, one redline per the todo's method: convert roughly a third to a half, keeping the dash where it marks a real interruption, and never swap in hyphens.
+12. Before calling the chapter done: the read-aloud pass (and a second listen to anything added after it), and a check that the Bridge names Ch. 10 and previews life-giving communion.
+
+Start by reading AGENTS.md, memory.html (§1, §8 "Chapter 9 (Sacrifice) Decisions", §12 four-part pattern, §14, §16, §18 entries 69–82 and todos 30, 43, 44, 45, 61) and the chapter, then send me your first redline.
