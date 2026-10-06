@@ -1,0 +1,150 @@
+{
+  "order-of-mass-24": {
+    "text": "By the mystery of this water and wine may we come to share in the divinity of Christ who humbled himself to share in our humanity.",
+    "status": "verified",
+    "sources": [
+      {
+        "url": "https://www.liturgies.net/Liturgies/Catholic/roman_missal/roman_missal_order_of_mass.htm",
+        "date": "2026-09-29"
+      },
+      {
+        "url": "https://adoremus.org/2021/08/the-quiet-that-speaks-per-huius-aquae-et-vini-mysterium-by-the-mystery-of-this-water-and-wine/",
+        "date": "2026-09-29"
+      }
+    ],
+    "notes": "St. Cyprian: the water is the people joined to Christ."
+  },
+  "order-of-mass-144": {
+    "text": "Go forth, the Mass is ended.",
+    "status": "verified",
+    "sources": [
+      {
+        "url": "https://www.liturgies.net/Liturgies/Catholic/roman_missal/roman_missal_order_of_mass.htm",
+        "date": "2026-09-29"
+      },
+      {
+        "url": "https://www.magisterium.com/widgets/order-of-mass",
+        "date": "2026-10-05"
+      },
+      {
+        "url": "https://www.catholictv.org/resources/Catholic-Mass-Responses.pdf",
+        "date": "2026-10-05"
+      }
+    ],
+    "notes": "first of four dismissal formulas"
+  },
+  "order-of-mass-132": {
+    "text": "Behold the Lamb of God, behold him who takes away the sins of the world. Blessed are those called to the supper of the Lamb.",
+    "status": "verified",
+    "sources": [
+      {
+        "url": "https://www.liturgies.net/Liturgies/Catholic/roman_missal/roman_missal_order_of_mass.htm",
+        "date": "2026-10-01"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Ecce_Agnus_Dei",
+        "date": "2026-10-01"
+      }
+    ],
+    "notes": "Latin: Beati qui ad cenam Agni vocati sunt. 'supper', not 'marriage supper' (that is Rev 19:9)."
+  },
+  "order-of-mass-132-response": {
+    "text": "Lord, I am not worthy that you should enter under my roof, but only say the word and my soul shall be healed.",
+    "status": "verified",
+    "sources": [
+      {
+        "url": "https://www.liturgies.net/Liturgies/Catholic/roman_missal/roman_missal_order_of_mass.htm",
+        "date": "2026-10-01"
+      },
+      {
+        "url": "https://stedparish.org/order-of-mass",
+        "date": "2026-10-05"
+      },
+      {
+        "url": "https://www.magisterium.com/widgets/order-of-mass",
+        "date": "2026-10-05"
+      }
+    ],
+    "notes": "Adapted from Matt 8:8."
+  },
+  "kyrie": {
+    "text": "Lord, have mercy. / Christ, have mercy. / Lord, have mercy.",
+    "status": "single-source",
+    "sources": [
+      {
+        "url": "https://www.liturgies.net/Liturgies/Catholic/roman_missal/roman_missal_order_of_mass.htm",
+        "date": "2026-10-01"
+      }
+    ],
+    "notes": ""
+  },
+  "confiteor-opening": {
+    "text": "I confess to almighty God and to you, my brothers and sisters, that I have greatly sinned,",
+    "status": "single-source",
+    "sources": [
+      {
+        "url": "https://www.liturgies.net/Liturgies/Catholic/roman_missal/roman_missal_order_of_mass.htm",
+        "date": "2026-10-01"
+      }
+    ],
+    "notes": ""
+  },
+  "ep1-nobis-quoque-saints": {
+    "text": "John the Baptist, Stephen, Matthias, Barnabas, (Ignatius, Alexander, Marcellinus, Peter, Felicity, Perpetua, Agatha, Lucy, Agnes, Cecilia, Anastasia)",
+    "status": "single-source",
+    "sources": [
+      {
+        "url": "https://www.liturgies.net/Liturgies/Catholic/roman_missal/roman_missal_order_of_mass.htm",
+        "date": "2026-10-03"
+      }
+    ],
+    "notes": "Eucharistic Prayer I, 'To us, also, your servants'. Names in parentheses may be omitted per the rubrics."
+  },
+  "ep3-opening": {
+    "text": "You are indeed Holy, O Lord, and all you have created rightly gives you praise, for through your Son our Lord Jesus Christ, by the power and working of the Holy Spirit, you give life to all things and make them holy, and you never cease to gather a people to yourself, so that from the rising of the sun to its setting a pure sacrifice may be offered to your name.",
+    "status": "verified",
+    "sources": [
+      {
+        "url": "https://stthomaswestspringfield.org/eucharistic-prayer-iii",
+        "date": "2026-10-05"
+      },
+      {
+        "url": "https://etcatholic.org/2023/08/a-closer-look-at-eucharistic-prayer-iii/",
+        "date": "2026-10-05",
+        "scope": "the 'so that from the rising...' clause; notes it echoes Malachi 1:11"
+      }
+    ],
+    "notes": "Roman Missal 2011 English (ICEL), Eucharistic Prayer III, post-Sanctus. Used Ch 10 line 221."
+  },
+  "mystery-of-faith-3": {
+    "text": "Save us, Savior of the world, for by your Cross and Resurrection you have set us free.",
+    "status": "verified",
+    "sources": [
+      {
+        "url": "https://www.magisterium.com/widgets/order-of-mass",
+        "date": "2026-10-05"
+      },
+      {
+        "url": "https://stedparish.org/order-of-mass",
+        "date": "2026-10-05",
+        "note": "capitalizes 'Your' / 'You'"
+      }
+    ],
+    "notes": "Roman Missal 2011, Order of Mass 91, the third of three memorial acclamations, after the priest says 'The mystery of faith.' Ch 10 line 233."
+  },
+  "dismissal-glorifying": {
+    "text": "Go in peace, glorifying the Lord by your life.",
+    "status": "verified",
+    "sources": [
+      {
+        "url": "https://www.magisterium.com/widgets/order-of-mass",
+        "date": "2026-10-05"
+      },
+      {
+        "url": "https://www.catholictv.org/resources/Catholic-Mass-Responses.pdf",
+        "date": "2026-10-05"
+      }
+    ],
+    "notes": "Roman Missal 2011, Order of Mass 144, one of four dismissal formulas (the others: 'Go forth, the Mass is ended.' / 'Go and announce the Gospel of the Lord.' / 'Go in peace.'). Ch 10, Ite, missa est entry."
+  }
+}

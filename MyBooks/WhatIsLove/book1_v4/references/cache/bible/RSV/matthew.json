@@ -1,0 +1,804 @@
+{
+  "5:7": {
+    "text": "Blessed are the merciful, for they shall obtain mercy.",
+    "status": "verified",
+    "sources": [
+      {
+        "url": "https://www.biblestudytools.com/rsv/matthew/5.html",
+        "date": "2026-09-27"
+      },
+      {
+        "url": "https://www.christianity.com/bible/rsv/matthew/5",
+        "date": "2026-09-27"
+      }
+    ]
+  },
+  "5:38": {
+    "text": "You have heard that it was said, 'An eye for an eye and a tooth for a tooth.'",
+    "status": "verified",
+    "sources": [
+      {
+        "url": "https://www.biblestudytools.com/rsv/matthew/5.html",
+        "date": "2026-09-27"
+      },
+      {
+        "url": "https://www.christianity.com/bible/rsv/matthew/5",
+        "date": "2026-09-27"
+      }
+    ]
+  },
+  "5:39": {
+    "text": "But I say to you, Do not resist one who is evil. But if any one strikes you on the right cheek, turn to him the other also;",
+    "status": "verified",
+    "sources": [
+      {
+        "url": "https://www.biblestudytools.com/rsv/matthew/5.html",
+        "date": "2026-09-27"
+      },
+      {
+        "url": "https://www.christianity.com/bible/rsv/matthew/5",
+        "date": "2026-09-27"
+      }
+    ]
+  },
+  "5:45": {
+    "text": "so that you may be sons of your Father who is in heaven; for he makes his sun rise on the evil and on the good, and sends rain on the just and on the unjust.",
+    "status": "verified",
+    "sources": [
+      {
+        "url": "https://www.biblestudytools.com/rsv/matthew/5.html",
+        "date": "2026-09-27"
+      },
+      {
+        "url": "https://www.christianity.com/bible/rsv/matthew/5",
+        "date": "2026-09-27"
+      }
+    ]
+  },
+  "5:48": {
+    "text": "You, therefore, must be perfect, as your heavenly Father is perfect.",
+    "status": "verified",
+    "sources": [
+      {
+        "url": "https://www.biblestudytools.com/rsv/matthew/5.html",
+        "date": "2026-09-27"
+      },
+      {
+        "url": "https://www.christianity.com/bible/rsv/matthew/5",
+        "date": "2026-09-27"
+      }
+    ]
+  },
+  "6:12": {
+    "text": "And forgive us our debts, As we also have forgiven our debtors;",
+    "status": "verified",
+    "sources": [
+      {
+        "url": "https://www.biblestudytools.com/rsv/matthew/6.html",
+        "date": "2026-09-27"
+      },
+      {
+        "url": "https://www.christianity.com/bible/rsv/matthew/6",
+        "date": "2026-09-27"
+      }
+    ],
+    "notes": "RSV prints the Lord's Prayer as verse lines, hence the capital 'As'."
+  },
+  "6:14": {
+    "text": "For if you forgive men their trespasses, your heavenly Father also will forgive you;",
+    "status": "verified",
+    "sources": [
+      {
+        "url": "https://www.biblestudytools.com/rsv/matthew/6.html",
+        "date": "2026-09-29"
+      },
+      {
+        "url": "https://www.christianity.com/bible/rsv/matthew/6",
+        "date": "2026-09-29"
+      }
+    ],
+    "notes": ""
+  },
+  "6:15": {
+    "text": "but if you do not forgive men their trespasses, neither will your Father forgive your trespasses.",
+    "status": "verified",
+    "sources": [
+      {
+        "url": "https://www.biblestudytools.com/rsv/matthew/6.html",
+        "date": "2026-09-27"
+      },
+      {
+        "url": "https://www.christianity.com/bible/rsv/matthew/6",
+        "date": "2026-09-27"
+      }
+    ]
+  },
+  "7:1": {
+    "text": "Judge not, that you be not judged.",
+    "status": "verified",
+    "sources": [
+      {
+        "url": "https://www.biblestudytools.com/rsv/matthew/7.html",
+        "date": "2026-09-27"
+      },
+      {
+        "url": "https://www.christianity.com/bible/rsv/matthew/7",
+        "date": "2026-09-27"
+      }
+    ]
+  },
+  "7:2": {
+    "text": "For with the judgment you pronounce you will be judged, and the measure you give will be the measure you get.",
+    "status": "verified",
+    "sources": [
+      {
+        "url": "https://www.biblestudytools.com/rsv/matthew/7.html",
+        "date": "2026-09-27"
+      },
+      {
+        "url": "https://www.christianity.com/bible/rsv/matthew/7",
+        "date": "2026-09-27"
+      }
+    ]
+  },
+  "18:21": {
+    "text": "Then Peter came up and said to him, \"Lord, how often shall my brother sin against me, and I forgive him? As many as seven times?\"",
+    "status": "single-source",
+    "sources": [
+      {
+        "url": "https://www.biblestudytools.com/rsv/matthew/18.html",
+        "date": "2026-09-27"
+      }
+    ]
+  },
+  "18:22": {
+    "text": "Jesus said to him, \"I do not say to you seven times, but seventy times seven.",
+    "status": "verified",
+    "sources": [
+      {
+        "url": "https://www.biblestudytools.com/rsv/matthew/18.html",
+        "date": "2026-09-27"
+      },
+      {
+        "url": "https://www.christianity.com/bible/rsv/matthew/18",
+        "date": "2026-09-27"
+      }
+    ],
+    "notes": "The christianity.com fetch dropped 'Jesus said to him,' (summarizer error); biblestudytools has it. The inner quotation continues into v. 23 in the RSV."
+  },
+  "18:28": {
+    "text": "But that same servant, as he went out, came upon one of his fellow servants who owed him a hundred denarii; and seizing him by the throat he said, 'Pay what you owe.'",
+    "status": "single-source",
+    "sources": [
+      {
+        "url": "https://www.biblestudytools.com/rsv/matthew/18.html",
+        "date": "2026-09-27"
+      }
+    ],
+    "notes": "'Pay what you owe' is the unforgiving servant's line; removed from the Ch. 8 callout's mouth of justice for that reason (entry 69)."
+  },
+  "18:34": {
+    "text": "And in anger his lord delivered him to the jailers, till he should pay all his debt.",
+    "status": "verified",
+    "sources": [
+      {
+        "url": "https://www.biblestudytools.com/rsv/matthew/18.html",
+        "date": "2026-09-27"
+      },
+      {
+        "url": "https://www.christianity.com/bible/rsv/matthew/18",
+        "date": "2026-09-27"
+      }
+    ],
+    "notes": "RSV renders basanistais 'jailers' (literally 'torturers'). Ch. 8 says both (entry 69)."
+  },
+  "18:35": {
+    "text": "So also my heavenly Father will do to every one of you, if you do not forgive your brother from your heart.",
+    "status": "verified",
+    "sources": [
+      {
+        "url": "https://www.biblestudytools.com/rsv/matthew/18.html",
+        "date": "2026-09-27"
+      },
+      {
+        "url": "https://www.christianity.com/bible/rsv/matthew/18",
+        "date": "2026-09-27"
+      }
+    ]
+  },
+  "25:40": {
+    "text": "And the King will answer them, 'Truly, I say to you, as you did it to one of the least of these my brethren, you did it to me.'",
+    "status": "verified",
+    "sources": [
+      {
+        "url": "https://www.biblestudytools.com/rsv/matthew/25.html",
+        "date": "2026-09-27"
+      },
+      {
+        "url": "https://www.christianity.com/bible/rsv/matthew/25",
+        "date": "2026-09-27"
+      }
+    ]
+  },
+  "28:18": {
+    "text": "And Jesus came and said to them, \"All authority in heaven and on earth has been given to me.",
+    "status": "verified",
+    "sources": [
+      {
+        "url": "https://www.biblestudytools.com/rsv/matthew/28.html",
+        "date": "2026-09-29"
+      },
+      {
+        "url": "https://www.christianity.com/bible/rsv/matthew/28",
+        "date": "2026-09-29"
+      }
+    ],
+    "notes": ""
+  },
+  "5:17": {
+    "text": "\"Think not that I have come to abolish the law and the prophets; I have come not to abolish them but to fulfil them.",
+    "status": "verified",
+    "sources": [
+      {
+        "url": "https://www.biblestudytools.com/rsv/matthew/5.html",
+        "date": "2026-09-29"
+      },
+      {
+        "url": "https://www.christianity.com/bible/rsv/matthew/5",
+        "date": "2026-09-29"
+      }
+    ],
+    "notes": "RSV spelling 'fulfil' (one l)."
+  },
+  "27:51": {
+    "text": "And behold, the curtain of the temple was torn in two, from top to bottom; and the earth shook, and the rocks were split;",
+    "status": "verified",
+    "sources": [
+      {
+        "url": "https://www.biblestudytools.com/rsv/matthew/27.html",
+        "date": "2026-09-29"
+      },
+      {
+        "url": "https://www.christianity.com/bible/rsv/matthew/27",
+        "date": "2026-09-29"
+      }
+    ],
+    "notes": ""
+  },
+  "19:16": {
+    "text": "And behold, one came up to him, saying, \"Teacher, what good deed must I do, to have eternal life?\"",
+    "status": "verified",
+    "sources": [
+      {
+        "url": "https://www.biblestudytools.com/rsv/matthew/19.html",
+        "date": "2026-09-29"
+      },
+      {
+        "url": "https://www.christianity.com/bible/rsv/matthew/19",
+        "date": "2026-09-29"
+      }
+    ],
+    "notes": ""
+  },
+  "19:17": {
+    "text": "And he said to him, \"Why do you ask me about what is good? One there is who is good. If you would enter life, keep the commandments.\"",
+    "status": "verified",
+    "sources": [
+      {
+        "url": "https://www.biblestudytools.com/rsv/matthew/19.html",
+        "date": "2026-09-29"
+      },
+      {
+        "url": "https://www.christianity.com/bible/rsv/matthew/19",
+        "date": "2026-09-29"
+      }
+    ],
+    "notes": ""
+  },
+  "19:18": {
+    "text": "He said to him, \"Which?\" And Jesus said, \"You shall not kill, You shall not commit adultery, You shall not steal, You shall not bear false witness,",
+    "status": "verified",
+    "sources": [
+      {
+        "url": "https://www.biblestudytools.com/rsv/matthew/19.html",
+        "date": "2026-09-29"
+      },
+      {
+        "url": "https://www.christianity.com/bible/rsv/matthew/19",
+        "date": "2026-09-29"
+      }
+    ],
+    "notes": ""
+  },
+  "19:19": {
+    "text": "Honor your father and mother, and, You shall love your neighbor as yourself.\"",
+    "status": "verified",
+    "sources": [
+      {
+        "url": "https://www.biblestudytools.com/rsv/matthew/19.html",
+        "date": "2026-09-29"
+      },
+      {
+        "url": "https://www.christianity.com/bible/rsv/matthew/19",
+        "date": "2026-09-29"
+      }
+    ],
+    "notes": ""
+  },
+  "19:20": {
+    "text": "The young man said to him, \"All these I have observed; what do I still lack?\"",
+    "status": "verified",
+    "sources": [
+      {
+        "url": "https://www.biblestudytools.com/rsv/matthew/19.html",
+        "date": "2026-09-29"
+      },
+      {
+        "url": "https://www.christianity.com/bible/rsv/matthew/19",
+        "date": "2026-09-29"
+      }
+    ],
+    "notes": ""
+  },
+  "19:21": {
+    "text": "Jesus said to him, \"If you would be perfect, go, sell what you possess and give to the poor, and you will have treasure in heaven; and come, follow me.\"",
+    "status": "verified",
+    "sources": [
+      {
+        "url": "https://www.biblestudytools.com/rsv/matthew/19.html",
+        "date": "2026-09-29"
+      },
+      {
+        "url": "https://www.christianity.com/bible/rsv/matthew/19",
+        "date": "2026-09-29"
+      }
+    ],
+    "notes": ""
+  },
+  "19:22": {
+    "text": "When the young man heard this he went away sorrowful; for he had great possessions.",
+    "status": "verified",
+    "sources": [
+      {
+        "url": "https://www.biblestudytools.com/rsv/matthew/19.html",
+        "date": "2026-09-29"
+      },
+      {
+        "url": "https://www.christianity.com/bible/rsv/matthew/19",
+        "date": "2026-09-29"
+      }
+    ],
+    "notes": ""
+  },
+  "19:23": {
+    "text": "And Jesus said to his disciples, \"Truly, I say to you, it will be hard for a rich man to enter the kingdom of heaven.",
+    "status": "verified",
+    "sources": [
+      {
+        "url": "https://www.biblestudytools.com/rsv/matthew/19.html",
+        "date": "2026-09-29"
+      },
+      {
+        "url": "https://www.christianity.com/bible/rsv/matthew/19",
+        "date": "2026-09-29"
+      }
+    ],
+    "notes": ""
+  },
+  "19:24": {
+    "text": "Again I tell you, it is easier for a camel to go through the eye of a needle than for a rich man to enter the kingdom of God.\"",
+    "status": "verified",
+    "sources": [
+      {
+        "url": "https://www.biblestudytools.com/rsv/matthew/19.html",
+        "date": "2026-09-29"
+      },
+      {
+        "url": "https://www.christianity.com/bible/rsv/matthew/19",
+        "date": "2026-09-29"
+      }
+    ],
+    "notes": ""
+  },
+  "19:25": {
+    "text": "When the disciples heard this they were greatly astonished, saying, \"Who then can be saved?\"",
+    "status": "verified",
+    "sources": [
+      {
+        "url": "https://www.biblestudytools.com/rsv/matthew/19.html",
+        "date": "2026-09-29"
+      },
+      {
+        "url": "https://www.christianity.com/bible/rsv/matthew/19",
+        "date": "2026-09-29"
+      }
+    ],
+    "notes": ""
+  },
+  "19:26": {
+    "text": "But Jesus looked at them and said to them, \"With men this is impossible, but with God all things are possible.\"",
+    "status": "verified",
+    "sources": [
+      {
+        "url": "https://www.biblestudytools.com/rsv/matthew/19.html",
+        "date": "2026-09-29"
+      },
+      {
+        "url": "https://www.christianity.com/bible/rsv/matthew/19",
+        "date": "2026-09-29"
+      }
+    ],
+    "notes": ""
+  },
+  "19:27": {
+    "text": "Then Peter said in reply, \"Lo, we have left everything and followed you. What then shall we have?\"",
+    "status": "verified",
+    "sources": [
+      {
+        "url": "https://www.biblestudytools.com/rsv/matthew/19.html",
+        "date": "2026-09-29"
+      },
+      {
+        "url": "https://www.christianity.com/bible/rsv/matthew/19",
+        "date": "2026-09-29"
+      }
+    ],
+    "notes": ""
+  },
+  "19:28": {
+    "text": "Jesus said to them, \"Truly, I say to you, in the new world, when the Son of man shall sit on his glorious throne, you who have followed me will also sit on twelve thrones, judging the twelve tribes of Israel.",
+    "status": "verified",
+    "sources": [
+      {
+        "url": "https://www.biblestudytools.com/rsv/matthew/19.html",
+        "date": "2026-09-29"
+      },
+      {
+        "url": "https://www.christianity.com/bible/rsv/matthew/19",
+        "date": "2026-09-29"
+      }
+    ],
+    "notes": ""
+  },
+  "19:29": {
+    "text": "And every one who has left houses or brothers or sisters or father or mother or children or lands, for my name's sake, will receive a hundredfold, and inherit eternal life.",
+    "status": "verified",
+    "sources": [
+      {
+        "url": "https://www.biblestudytools.com/rsv/matthew/19.html",
+        "date": "2026-09-29"
+      },
+      {
+        "url": "https://www.christianity.com/bible/rsv/matthew/19",
+        "date": "2026-09-29"
+      }
+    ],
+    "notes": ""
+  },
+  "19:30": {
+    "text": "But many that are first will be last, and the last first.",
+    "status": "verified",
+    "sources": [
+      {
+        "url": "https://www.biblestudytools.com/rsv/matthew/19.html",
+        "date": "2026-09-29"
+      },
+      {
+        "url": "https://www.christianity.com/bible/rsv/matthew/19",
+        "date": "2026-09-29"
+      }
+    ],
+    "notes": ""
+  },
+  "6:1": {
+    "text": "\"Beware of practicing your piety before men in order to be seen by them; for then you will have no reward from your Father who is in heaven.",
+    "status": "verified",
+    "sources": [
+      {
+        "url": "https://www.biblestudytools.com/rsv/matthew/6.html",
+        "date": "2026-09-29"
+      },
+      {
+        "url": "https://www.christianity.com/bible/rsv/matthew/6",
+        "date": "2026-09-29"
+      }
+    ],
+    "notes": ""
+  },
+  "6:10": {
+    "text": "Thy kingdom come. Thy will be done, On earth as it is in heaven.",
+    "status": "verified",
+    "sources": [
+      {
+        "url": "https://www.biblestudytools.com/rsv/matthew/6.html",
+        "date": "2026-09-29"
+      },
+      {
+        "url": "https://www.christianity.com/bible/rsv/matthew/6",
+        "date": "2026-09-29"
+      }
+    ],
+    "notes": ""
+  },
+  "22:40": {
+    "text": "On these two commandments depend all the law and the prophets.\"",
+    "status": "verified",
+    "sources": [
+      {
+        "url": "https://www.biblestudytools.com/rsv/matthew/22.html",
+        "date": "2026-09-29"
+      },
+      {
+        "url": "https://www.christianity.com/bible/rsv/matthew/22",
+        "date": "2026-09-29"
+      }
+    ],
+    "notes": ""
+  },
+  "7:21": {
+    "text": "\"Not every one who says to me, 'Lord, Lord,' shall enter the kingdom of heaven, but he who does the will of my Father who is in heaven.",
+    "status": "verified",
+    "sources": [
+      {
+        "url": "https://www.biblestudytools.com/rsv/matthew/7.html",
+        "date": "2026-09-29"
+      },
+      {
+        "url": "https://www.christianity.com/bible/rsv/matthew/7",
+        "date": "2026-09-29"
+      }
+    ],
+    "notes": ""
+  },
+  "20:26": {
+    "text": "It shall not be so among you; but whoever would be great among you must be your servant,",
+    "status": "verified",
+    "sources": [
+      {
+        "url": "https://www.biblestudytools.com/rsv/matthew/20.html",
+        "date": "2026-09-29"
+      },
+      {
+        "url": "https://www.christianity.com/bible/rsv/matthew/20",
+        "date": "2026-09-29"
+      }
+    ],
+    "notes": ""
+  },
+  "23:23": {
+    "text": "\"Woe to you, scribes and Pharisees, hypocrites! for you tithe mint and dill and cummin, and have neglected the weightier matters of the law, justice and mercy and faith; these you ought to have done, without neglecting the others.",
+    "status": "verified",
+    "sources": [
+      {
+        "url": "https://www.biblestudytools.com/rsv/matthew/23.html",
+        "date": "2026-09-29"
+      },
+      {
+        "url": "https://www.christianity.com/bible/rsv/matthew/23",
+        "date": "2026-09-29"
+      }
+    ],
+    "notes": ""
+  },
+  "23:25": {
+    "text": "\"Woe to you, scribes and Pharisees, hypocrites! for you cleanse the outside of the cup and of the plate, but inside they are full of extortion and rapacity.",
+    "status": "verified",
+    "sources": [
+      {
+        "url": "https://www.biblestudytools.com/rsv/matthew/23.html",
+        "date": "2026-09-29"
+      },
+      {
+        "url": "https://www.christianity.com/bible/rsv/matthew/23",
+        "date": "2026-09-29"
+      }
+    ],
+    "notes": ""
+  },
+  "28:19": {
+    "text": "Go therefore and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit,",
+    "status": "verified",
+    "sources": [
+      {
+        "url": "https://www.biblestudytools.com/rsv/matthew/28.html",
+        "date": "2026-09-29"
+      },
+      {
+        "url": "https://www.christianity.com/bible/rsv/matthew/28",
+        "date": "2026-09-29"
+      }
+    ],
+    "notes": ""
+  },
+  "28:20": {
+    "text": "teaching them to observe all that I have commanded you; and lo, I am with you always, to the close of the age.\"",
+    "status": "verified",
+    "sources": [
+      {
+        "url": "https://www.biblestudytools.com/rsv/matthew/28.html",
+        "date": "2026-09-29"
+      },
+      {
+        "url": "https://www.christianity.com/bible/rsv/matthew/28",
+        "date": "2026-09-29"
+      }
+    ],
+    "notes": ""
+  },
+  "16:24": {
+    "text": "Then Jesus told his disciples, \"If any man would come after me, let him deny himself and take up his cross and follow me.",
+    "status": "verified",
+    "sources": [
+      {
+        "url": "https://www.biblestudytools.com/rsv/matthew/16.html",
+        "date": "2026-09-29"
+      },
+      {
+        "url": "https://www.christianity.com/bible/rsv/matthew/16",
+        "date": "2026-09-29"
+      }
+    ],
+    "notes": ""
+  },
+  "16:25": {
+    "text": "For whoever would save his life will lose it, and whoever loses his life for my sake will find it.",
+    "status": "verified",
+    "sources": [
+      {
+        "url": "https://www.biblestudytools.com/rsv/matthew/16.html",
+        "date": "2026-09-29"
+      },
+      {
+        "url": "https://www.christianity.com/bible/rsv/matthew/16",
+        "date": "2026-09-29"
+      }
+    ],
+    "notes": ""
+  },
+  "26:35": {
+    "text": "Peter said to him, \"Even if I must die with you, I will not deny you.\" And so said all the disciples.",
+    "status": "verified",
+    "sources": [
+      {
+        "url": "https://www.biblestudytools.com/rsv/matthew/26.html",
+        "date": "2026-09-29"
+      },
+      {
+        "url": "https://www.christianity.com/bible/rsv/matthew/26",
+        "date": "2026-09-29"
+      }
+    ],
+    "notes": ""
+  },
+  "26:75": {
+    "text": "And Peter remembered the saying of Jesus, \"Before the cock crows, you will deny me three times.\" And he went out and wept bitterly.",
+    "status": "verified",
+    "sources": [
+      {
+        "url": "https://www.biblestudytools.com/rsv/matthew/26.html",
+        "date": "2026-09-29"
+      },
+      {
+        "url": "https://www.christianity.com/bible/rsv/matthew/26",
+        "date": "2026-09-29"
+      }
+    ],
+    "notes": ""
+  },
+  "26:72": {
+    "text": "And again he denied it with an oath, \"I do not know the man.\"",
+    "status": "verified",
+    "sources": [
+      {
+        "url": "https://www.biblestudytools.com/rsv/matthew/26.html",
+        "date": "2026-09-29"
+      },
+      {
+        "url": "https://www.christianity.com/bible/rsv/matthew/26",
+        "date": "2026-09-29"
+      }
+    ],
+    "notes": ""
+  },
+  "15:8": {
+    "text": "'This people honors me with their lips, but their heart is far from me;",
+    "status": "single-source",
+    "sources": [
+      {
+        "url": "https://www.biblestudytools.com/rsv/matthew/15.html",
+        "date": "2026-09-29"
+      }
+    ],
+    "notes": ""
+  },
+  "26:74": {
+    "text": "Then he began to invoke a curse on himself and to swear, \"I do not know the man.\" And immediately the cock crowed.",
+    "status": "verified",
+    "sources": [
+      {
+        "url": "https://www.biblestudytools.com/rsv/matthew/26.html",
+        "date": "2026-09-29"
+      },
+      {
+        "url": "https://www.christianity.com/bible/rsv/matthew/26",
+        "date": "2026-09-29"
+      }
+    ],
+    "notes": ""
+  },
+  "11:30": {
+    "text": "For my yoke is easy, and my burden is light.\"",
+    "status": "verified",
+    "sources": [
+      {
+        "url": "https://www.biblestudytools.com/rsv/matthew/11.html",
+        "date": "2026-09-29"
+      },
+      {
+        "url": "https://www.christianity.com/bible/rsv/matthew/11",
+        "date": "2026-09-29"
+      }
+    ],
+    "notes": ""
+  },
+  "7:24": {
+    "text": "Every one then who hears these words of mine and does them will be like a wise man who built his house upon the rock;",
+    "status": "verified",
+    "sources": [
+      {
+        "url": "https://www.biblegateway.com/passage/?search=Matthew+7%3A24&version=RSVCE",
+        "date": "2026-09-30"
+      },
+      {
+        "url": "https://www.biblestudytools.com/rsv/matthew/7.html",
+        "date": "2026-09-30"
+      }
+    ],
+    "notes": ""
+  },
+  "26:42": {
+    "text": "Again, for the second time, he went away and prayed, 'My Father, if this cannot pass unless I drink it, thy will be done.'",
+    "status": "verified",
+    "sources": [
+      {
+        "url": "https://www.biblegateway.com/passage/?search=Matthew+26%3A42%3BLuke+1%3A38&version=RSVCE",
+        "date": "2026-09-30"
+      },
+      {
+        "url": "https://www.biblestudytools.com/rsv/matthew/26.html",
+        "date": "2026-09-30"
+      }
+    ],
+    "notes": ""
+  },
+  "5:8": {
+    "text": "Blessed are the pure in heart, for they shall see God.",
+    "status": "verified",
+    "sources": [
+      {
+        "url": "https://www.biblestudytools.com/rsv/matthew/5.html",
+        "date": "2026-10-01"
+      },
+      {
+        "url": "https://www.christianity.com/bible/rsv/matthew/5",
+        "date": "2026-10-01"
+      }
+    ],
+    "notes": "Ch. 10 bishop-readiness pass."
+  },
+  "8:8": {
+    "text": "But the centurion answered him, \"Lord, I am not worthy to have you come under my roof; but only say the word, and my servant will be healed.",
+    "status": "verified",
+    "sources": [
+      {
+        "url": "https://www.biblestudytools.com/rsv/matthew/8.html",
+        "date": "2026-10-01"
+      },
+      {
+        "url": "https://www.christianity.com/bible/rsv/matthew/8",
+        "date": "2026-10-01"
+      }
+    ],
+    "notes": "Ch. 10 bishop-readiness pass."
+  }
+}

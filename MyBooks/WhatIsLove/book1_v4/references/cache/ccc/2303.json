@@ -1,0 +1,13 @@
+{
+  "2303": {
+    "text": "Deliberate hatred is contrary to charity. Hatred of the neighbor is a sin when one deliberately wishes him evil.",
+    "status": "single-source",
+    "sources": [
+      {
+        "url": "https://www.scborromeo.org/ccc/para/2303.htm",
+        "date": "2026-09-27"
+      }
+    ],
+    "notes": "PARTIAL: only the quoted part was returned verbatim by the fetch. scborromeo.org mirror of the Vatican text; one vatican.va fetch makes it canonical."
+  }
+}

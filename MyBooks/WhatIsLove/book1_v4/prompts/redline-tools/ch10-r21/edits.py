@@ -1,0 +1,3 @@
+G="How old the Roman Canon is"
+E=[(G,217,'in the Roman Canon, the oldest Eucharistic Prayer of the Roman Rite. Sacred Tradition','in the Roman Canon, the oldest Eucharistic Prayer of the Roman Rite, which, St. Paul VI tells us, "took on an unchangeable form during the fourth and fifth centuries."<sup>3</sup> The prayer is ancient, but the truth it guards is older still, as old as the Upper Room. Sacred Tradition'),
+(G,"Notes","2. St. Polycarp of Smyrna, *Letter to the Philippians* 9, 13, in *Ante-Nicene Fathers*, vol. 1.\n","2. St. Polycarp of Smyrna, *Letter to the Philippians* 9, 13, in *Ante-Nicene Fathers*, vol. 1.\n3. St. Paul VI, Apostolic Constitution *Missale Romanum* (1969).\n")]

@@ -1,0 +1,2 @@
+G="One, and catholic: whole and complete"
+E=[(G,175,"Held together, they give us the Church as Christ intended her: His Bride, His Body, one and indivisible.","Held together, they give us the Church as Christ intended her: His Bride, His Body, one and indivisible. She is one, and she is catholic, a word that means \"according to the totality\" or \"in keeping with the whole\" (CCC 830): whole, complete, entrusted with the whole truth.")]

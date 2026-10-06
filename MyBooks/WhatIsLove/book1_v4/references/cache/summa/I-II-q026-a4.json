@@ -1,0 +1,17 @@
+{
+  "respondeo-opening": {
+    "text": "Respondeo dicendum quod, sicut philosophus dicit in II Rhetoric., amare est velle alicui bonum. Sic ergo motus amoris in duo tendit, scilicet in bonum quod quis vult alicui, vel sibi vel alii; et in illud cui vult bonum. | EN (Benziger): As the Philosopher says (Rhet. ii, 4), 'to love is to wish good to someone.' Hence the movement of love has a twofold tendency: towards the good which a man wishes to someone (to himself or to another) and towards that to which he wishes some good.",
+    "status": "verified",
+    "sources": [
+      {
+        "url": "https://aquinas.cc/la/en/~ST.I-II.Q26.A4",
+        "date": "2026-09-29"
+      },
+      {
+        "url": "https://www.newadvent.org/summa/2026.htm",
+        "date": "2026-09-29"
+      }
+    ],
+    "notes": "Aquinas attributes the definition to Aristotle ('the Philosopher'), Rhetoric II.4. Latin is amare, not amor (Ch. 5 had amor until 2026-09-29)."
+  }
+}

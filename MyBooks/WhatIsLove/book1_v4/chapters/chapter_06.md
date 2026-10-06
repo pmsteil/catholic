@@ -140,7 +140,7 @@ Look at what Jesus reveals in His final prayer before the Cross. He doesn't ask 
 
 Then He goes deeper still. He prays that His disciples may be one "even as thou, Father, art in me, and I in thee"—drawn into the unity of the Trinity itself. The Father and Son are one because they share one divine nature, one divine truth, one divine love. Jesus is asking that we be drawn into communion with that love. And the proof to the world that God loves us will not be miracles or armies—it will be the unity of those who are sanctified in truth: "that the world may know that thou hast sent me and hast loved them even as thou hast loved me" (John 17:23). This is how deep God's truth runs: it is the living current that pulls us into communion with the Trinity and makes divine love visible to a watching world.
 
-Submitting to His truth is part of what Jesus meant when He commanded: "Be perfect, as your heavenly Father is perfect" (Matt 5:48). The perfection He calls us to is not moral achievement wrung out by our own effort — it is the wholeness of living in communion with God, our will conformed to His truth.
+Submitting to His truth is part of the call Jesus gave when He commanded: "You, therefore, must be perfect, as your heavenly Father is perfect" (Matt 5:48). The perfection He calls us to is not moral achievement wrung out by our own effort — it is the wholeness of living in communion with God, our will conformed to His truth.
 
 ### Truth Died Because of Lies
 

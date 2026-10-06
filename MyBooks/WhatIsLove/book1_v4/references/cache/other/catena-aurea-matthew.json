@@ -1,0 +1,13 @@
+{
+  "18:34 Remigius": {
+    "text": "Torturers are intended for the daemons, who are always ready to take up lost souls, and torture them in the pangs of eternal punishment.",
+    "status": "single-source",
+    "sources": [
+      {
+        "url": "https://www.ccel.org/ccel/aquinas/catena1.ii.xviii.html",
+        "date": "2026-09-27"
+      }
+    ],
+    "notes": "Newman (1841) translation, as returned by the fetch; not re-checked character by character. Paraphrased, not quoted, in Ch. 8. Remigius of Auxerre (9th c.) is not a Church Father."
+  }
+}

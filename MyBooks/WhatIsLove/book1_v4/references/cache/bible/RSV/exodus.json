@@ -1,0 +1,49 @@
+{
+  "34:6": {
+    "text": "The LORD passed before him, and proclaimed, \"The LORD, the LORD, a God merciful and gracious, slow to anger, and abounding in steadfast love and faithfulness,",
+    "status": "verified",
+    "sources": [
+      {
+        "url": "https://www.biblestudytools.com/rsv/exodus/34.html",
+        "date": "2026-09-27"
+      },
+      {
+        "url": "https://www.christianity.com/bible/rsv/exodus/34",
+        "date": "2026-09-27"
+      }
+    ],
+    "notes": "Verse ends in a comma; the proclamation runs into v. 7. Ch. 8 opening quotation (whole verse, closed with a period)."
+  },
+  "34:7": {
+    "text": "keeping steadfast love for thousands, forgiving iniquity and transgression and sin, but who will by no means clear the guilty, visiting the iniquity of the fathers upon the children and the children's children, to the third and the fourth generation.\"",
+    "status": "single-source",
+    "sources": [
+      {
+        "url": "https://www.biblestudytools.com/rsv/exodus/34.html",
+        "date": "2026-09-27"
+      }
+    ]
+  },
+  "12:15": {
+    "text": "Seven days you shall eat unleavened bread; on the first day you shall put away leaven out of your houses, for if any one eats what is leavened, from the first day until the seventh day, that person shall be cut off from Israel.",
+    "status": "single-source",
+    "sources": [
+      {
+        "url": "https://www.biblestudytools.com/rsv/exodus/12.html",
+        "date": "2026-09-29"
+      }
+    ],
+    "notes": ""
+  },
+  "12:19": {
+    "text": "For seven days no leaven shall be found in your houses; for if any one eats what is leavened, that person shall be cut off from the congregation of Israel, whether he is a sojourner or a native of the land.",
+    "status": "single-source",
+    "sources": [
+      {
+        "url": "https://www.biblestudytools.com/rsv/exodus/12.html",
+        "date": "2026-09-29"
+      }
+    ],
+    "notes": ""
+  }
+}

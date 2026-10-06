@@ -1,0 +1,92 @@
+{
+  "3:16": {
+    "text": "So, because you are lukewarm, and neither cold nor hot, I will spew you out of my mouth.",
+    "status": "verified",
+    "sources": [
+      {
+        "url": "https://www.biblestudytools.com/rsv/revelation/3.html",
+        "date": "2026-09-29"
+      },
+      {
+        "url": "https://www.christianity.com/bible/rsv/revelation/3",
+        "date": "2026-09-29"
+      }
+    ],
+    "notes": ""
+  },
+  "5:6": {
+    "text": "And between the throne and the four living creatures and among the elders, I saw a Lamb standing, as though it had been slain, with seven horns and with seven eyes, which are the seven spirits of God sent out into all the earth;",
+    "status": "verified",
+    "sources": [
+      {
+        "url": "https://www.biblestudytools.com/rsv/revelation/5.html",
+        "date": "2026-09-29"
+      },
+      {
+        "url": "https://www.christianity.com/bible/rsv/revelation/5",
+        "date": "2026-09-29"
+      }
+    ],
+    "notes": ""
+  },
+  "5:12": {
+    "text": "saying with a loud voice, \"Worthy is the Lamb who was slain, to receive power and wealth and wisdom and might and honor and glory and blessing!\"",
+    "status": "verified",
+    "sources": [
+      {
+        "url": "https://www.biblestudytools.com/rsv/revelation/5.html",
+        "date": "2026-09-29"
+      },
+      {
+        "url": "https://www.christianity.com/bible/rsv/revelation/5",
+        "date": "2026-09-29"
+      }
+    ],
+    "notes": ""
+  },
+  "19:9": {
+    "text": "And the angel said to me, \"Write this: Blessed are those who are invited to the marriage supper of the Lamb.\" And he said to me, \"These are true words of God.\"",
+    "status": "verified",
+    "sources": [
+      {
+        "url": "https://www.biblestudytools.com/rsv/revelation/19.html",
+        "date": "2026-10-01"
+      },
+      {
+        "url": "https://www.christianity.com/bible/rsv/revelation/19",
+        "date": "2026-10-01"
+      }
+    ],
+    "notes": "Ch. 10 bishop-readiness pass."
+  },
+  "21:3": {
+    "text": "and I heard a loud voice from the throne saying, \"Behold, the dwelling of God is with men. He will dwell with them, and they shall be his people, and God himself will be with them;",
+    "status": "disputed",
+    "sources": [
+      {
+        "url": "https://www.biblestudytools.com/rsv/revelation/21.html",
+        "date": "2026-10-01"
+      },
+      {
+        "url": "https://www.christianity.com/bible/rsv/revelation/21",
+        "date": "2026-10-01"
+      }
+    ],
+    "notes": "\"loud voice\" (not \"great\"). Ch. 10 once had a non-RSV wording (\"God's dwelling is with the human race\"). Ch. 10 bishop-readiness pass. | 2026-10-01: RSVCE on Bible Gateway (1966 Catholic Edition) reads \"a great voice\"; biblestudytools/christianity.com (plain RSV, 1971 NT text) read \"a loud voice\". Awaiting Patrick's own RSV-CE printing (his printing follows the 1971 text at Luke 23:42). bible-history.com/rsvce also reads \"great voice\". Settled 2026-10-02: the book uses the RSVCE \"great voice\" (bible/RSVCE/revelation.json)."
+  },
+  "21:5": {
+    "text": "And he who sat upon the throne said, \"Behold, I make all things new.\" Also he said, \"Write this, for these words are trustworthy and true.\"",
+    "status": "verified",
+    "sources": [
+      {
+        "url": "https://www.biblestudytools.com/rsv/revelation/21.html",
+        "date": "2026-10-01"
+      },
+      {
+        "url": "https://www.christianity.com/bible/rsv/revelation/21",
+        "date": "2026-10-01"
+      }
+    ],
+    "notes": "Ch. 10 bishop-readiness pass."
+  }
+}

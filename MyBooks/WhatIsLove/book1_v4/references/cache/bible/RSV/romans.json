@@ -1,0 +1,127 @@
+{
+  "3:24": {
+    "text": "they are justified by his grace as a gift, through the redemption which is in Christ Jesus,",
+    "status": "single-source",
+    "sources": [
+      {
+        "url": "https://www.biblestudytools.com/rsv/romans/3.html",
+        "date": "2026-09-27"
+      }
+    ]
+  },
+  "3:25": {
+    "text": "whom God put forward as an expiation by his blood, to be received by faith. This was to show God's righteousness, because in his divine forbearance he had passed over former sins;",
+    "status": "single-source",
+    "sources": [
+      {
+        "url": "https://www.biblestudytools.com/rsv/romans/3.html",
+        "date": "2026-09-27"
+      }
+    ],
+    "notes": "'Expiation' is the RSV word, cited with cf. in Ch. 8 (entry 70); CCC 433 reads it against the mercy seat."
+  },
+  "3:26": {
+    "text": "it was to prove at the present time that he himself is righteous and that he justifies him who has faith in Jesus.",
+    "status": "single-source",
+    "sources": [
+      {
+        "url": "https://www.biblestudytools.com/rsv/romans/3.html",
+        "date": "2026-09-27"
+      }
+    ]
+  },
+  "5:20": {
+    "text": "Law came in, to increase the trespass; but where sin increased, grace abounded all the more,",
+    "status": "single-source",
+    "sources": [
+      {
+        "url": "https://www.biblestudytools.com/rsv/romans/5.html",
+        "date": "2026-09-27"
+      }
+    ]
+  },
+  "12:19": {
+    "text": "Beloved, never avenge yourselves, but leave it to the wrath of God; for it is written, \"Vengeance is mine, I will repay, says the Lord.\"",
+    "status": "verified",
+    "sources": [
+      {
+        "url": "https://www.biblestudytools.com/rsv/romans/12.html",
+        "date": "2026-09-27"
+      },
+      {
+        "url": "https://www.christianity.com/bible/rsv/romans/12",
+        "date": "2026-09-27"
+      }
+    ],
+    "notes": "christianity.com fetch truncated mid-verse but agreed as far as it went."
+  },
+  "12:20": {
+    "text": "No, \"if your enemy is hungry, feed him; if he is thirsty, give him drink; for by so doing you will heap burning coals upon his head.\"",
+    "status": "single-source",
+    "sources": [
+      {
+        "url": "https://www.biblestudytools.com/rsv/romans/12.html",
+        "date": "2026-09-27"
+      }
+    ]
+  },
+  "12:21": {
+    "text": "Do not be overcome by evil, but overcome evil with good.",
+    "status": "verified",
+    "sources": [
+      {
+        "url": "https://www.biblestudytools.com/rsv/romans/12.html",
+        "date": "2026-09-27"
+      },
+      {
+        "url": "https://www.christianity.com/bible/rsv/romans/12",
+        "date": "2026-09-27"
+      }
+    ]
+  },
+  "11:29": {
+    "text": "For the gifts and the call of God are irrevocable.",
+    "status": "verified",
+    "sources": [
+      {
+        "url": "https://www.biblestudytools.com/rsv/romans/11.html",
+        "date": "2026-09-29"
+      },
+      {
+        "url": "https://www.christianity.com/bible/rsv/romans/11",
+        "date": "2026-09-29"
+      }
+    ],
+    "notes": ""
+  },
+  "12:1": {
+    "text": "I appeal to you therefore, brethren, by the mercies of God, to present your bodies as a living sacrifice, holy and acceptable to God, which is your spiritual worship.",
+    "status": "verified",
+    "sources": [
+      {
+        "url": "https://www.biblestudytools.com/rsv/romans/12.html",
+        "date": "2026-09-29"
+      },
+      {
+        "url": "https://www.christianity.com/bible/rsv/romans/12",
+        "date": "2026-09-29"
+      }
+    ],
+    "notes": ""
+  },
+  "5:8": {
+    "text": "But God shows his love for us in that while we were yet sinners Christ died for us.",
+    "status": "verified",
+    "sources": [
+      {
+        "url": "https://www.biblegateway.com/passage/?search=Romans+5%3A8&version=RSVCE",
+        "date": "2026-09-30"
+      },
+      {
+        "url": "https://www.biblestudytools.com/rsv/romans/5.html",
+        "date": "2026-09-30"
+      }
+    ],
+    "notes": ""
+  }
+}

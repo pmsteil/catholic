@@ -1,0 +1,32 @@
+{
+  "9": {
+    "text": "I exhort you all, therefore, to yield obedience to the word of righteousness, and to exercise all patience, such as you have seen [set] before your eyes, not only in the case of the blessed Ignatius, and Zosimus, and Rufus, but also in others among yourselves, and in Paul himself, and the rest of the apostles. [...]",
+    "status": "verified",
+    "sources": [
+      {
+        "url": "https://www.newadvent.org/fathers/0136.htm",
+        "date": "2026-10-03"
+      },
+      {
+        "url": "https://ccel.org/ccel/schaff/anf01.iv.ii.ix.html",
+        "date": "2026-10-03"
+      }
+    ],
+    "notes": "ANF 1. CCEL confirms the phrase 'the blessed Ignatius'."
+  },
+  "13": {
+    "text": "Both you and Ignatius wrote to me, that if any one went [from this] into Syria, he should carry your letter with him; which request I will attend to if I find a fitting opportunity, either personally, or through some other acting for me, that your desire may be fulfilled. The Epistles of Ignatius written by him to us, and all the rest [of his Epistles] which we have by us, we have sent to you, as you requested. They are subjoined to this Epistle, and by them you may be greatly profited; for they treat of faith and patience, and all things that tend to edification in our Lord. [...]",
+    "status": "single-source",
+    "sources": [
+      {
+        "url": "https://www.newadvent.org/fathers/0136.htm",
+        "date": "2026-10-03"
+      },
+      {
+        "url": "https://ccel.org/ccel/schaff/anf01.iv.ii.xiii.html",
+        "date": "2026-10-03"
+      }
+    ],
+    "notes": "ANF 1, from the Latin. CCEL fetch gave a matching summary only (would not quote in full). Ch. 10 paraphrases, does not quote."
+  }
+}

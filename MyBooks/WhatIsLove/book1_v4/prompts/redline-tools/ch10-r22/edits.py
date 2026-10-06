@@ -1,0 +1,3 @@
+G="How old the Roman Canon is"
+E=[(G,217,'the oldest Eucharistic Prayer of the Roman Rite, which, St. Paul VI tells us, "took on an unchangeable form during the fourth and fifth centuries."<sup>3</sup>','the oldest Eucharistic Prayer of the Roman Rite, which took its fixed form in the fourth and fifth centuries.<sup>3</sup>'),
+(G,"Notes","3. St. Paul VI, Apostolic Constitution *Missale Romanum* (1969).\n",'3. In promulgating the new Roman Missal, St. Paul VI wrote that the Roman Canon "took on an unchangeable form during the fourth and fifth centuries." St. Paul VI, Apostolic Constitution *Missale Romanum* (1969).\n')]

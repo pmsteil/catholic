@@ -1,0 +1,35 @@
+{
+  "4:4": {
+    "text": "There is one body and one Spirit, just as you were called to the one hope that belongs to your call,",
+    "status": "single-source",
+    "sources": [
+      {
+        "url": "https://bible-history.com/rsvce/ephesians-4",
+        "date": "2026-10-01"
+      }
+    ],
+    "notes": "Agrees with the RSV cache entry unless noted."
+  },
+  "4:5": {
+    "text": "one Lord, one faith, one baptism,",
+    "status": "single-source",
+    "sources": [
+      {
+        "url": "https://bible-history.com/rsvce/ephesians-4",
+        "date": "2026-10-01"
+      }
+    ],
+    "notes": "Agrees with the RSV cache entry unless noted."
+  },
+  "4:6": {
+    "text": "one God and Father of us all, who is above all and through all and in all.",
+    "status": "single-source",
+    "sources": [
+      {
+        "url": "https://bible-history.com/rsvce/ephesians-4",
+        "date": "2026-10-01"
+      }
+    ],
+    "notes": "Agrees with the RSV cache entry unless noted."
+  }
+}

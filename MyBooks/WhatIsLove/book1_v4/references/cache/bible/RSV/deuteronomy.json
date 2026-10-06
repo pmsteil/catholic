@@ -1,0 +1,32 @@
+{
+  "6:4": {
+    "text": "\"Hear, O Israel: The LORD our God is one LORD;",
+    "status": "verified",
+    "sources": [
+      {
+        "url": "https://www.biblestudytools.com/rsv/deuteronomy/6.html",
+        "date": "2026-09-29"
+      },
+      {
+        "url": "https://www.christianity.com/bible/rsv/deuteronomy/6",
+        "date": "2026-09-29"
+      }
+    ],
+    "notes": "LORD in small capitals in print; christianity.com shows 'Lord'."
+  },
+  "6:5": {
+    "text": "and you shall love the LORD your God with all your heart, and with all your soul, and with all your might.",
+    "status": "verified",
+    "sources": [
+      {
+        "url": "https://www.biblestudytools.com/rsv/deuteronomy/6.html",
+        "date": "2026-09-29"
+      },
+      {
+        "url": "https://www.christianity.com/bible/rsv/deuteronomy/6",
+        "date": "2026-09-29"
+      }
+    ],
+    "notes": ""
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "19:9": {
+    "text": "And the angel said to me, \"Write this: Blessed are those who are invited to the marriage supper of the Lamb.\" And he said to me, \"These are true words of God.\"",
+    "status": "single-source",
+    "sources": [
+      {
+        "url": "https://bible-history.com/rsvce/revelation-19",
+        "date": "2026-10-01"
+      }
+    ],
+    "notes": "Agrees with the RSV cache entry unless noted."
+  },
+  "21:3": {
+    "text": "and I heard a great voice from the throne saying, \"Behold, the dwelling of God is with men. He will dwell with them, and they shall be his people, and God himself will be with them;",
+    "status": "verified",
+    "sources": [
+      {
+        "url": "https://bible-history.com/rsvce/revelation-21",
+        "date": "2026-10-01"
+      },
+      {
+        "url": "https://www.biblegateway.com/passage/?search=Revelation+21%3A3-5&version=RSVCE",
+        "date": "2026-10-01"
+      },
+      {
+        "url": "https://www.biblegateway.com/passage/?search=Revelation+21%3A3&version=RSVCE",
+        "date": "2026-10-02"
+      }
+    ],
+    "notes": "\"great voice\" in RSVCE; the plain RSV (1971) reads \"loud voice\". Awaiting Patrick's printing. Re-checked 2026-10-02: Bible Gateway RSVCE and bible-history.com RSVCE both \"great voice\"; Bible Gateway RSV \"loud voice\" (with footnotes: \"peoples\"; \"and be their God\"). Book follows RSVCE \"great voice\" (Patrick approved 2026-10-02)."
+  },
+  "21:5": {
+    "text": "And he who sat upon the throne said, \"Behold, I make all things new.\" Also he said, \"Write this, for these words are trustworthy and true.\"",
+    "status": "verified",
+    "sources": [
+      {
+        "url": "https://bible-history.com/rsvce/revelation-21",
+        "date": "2026-10-01"
+      },
+      {
+        "url": "https://www.biblegateway.com/passage/?search=Revelation+21%3A3-5&version=RSVCE",
+        "date": "2026-10-01"
+      }
+    ],
+    "notes": "Agrees with the RSV cache entry unless noted."
+  }
+}

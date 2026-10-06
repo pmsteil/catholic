@@ -1,0 +1,24 @@
+{
+  "1:35": {
+    "text": "And the angel said to her, \"The Holy Spirit will come upon you, and the power of the Most High will overshadow you; therefore the child to be born will be called holy, the Son of God.",
+    "status": "single-source",
+    "sources": [
+      {
+        "url": "https://www.biblegateway.com/passage/?search=Luke+1%3A28-38&version=RSVCE",
+        "date": "2026-10-01"
+      }
+    ],
+    "notes": "Agrees with the RSV cache entry unless noted."
+  },
+  "23:42": {
+    "text": "And he said, \"Jesus, remember me when you come in your kingly power.\"",
+    "status": "single-source",
+    "sources": [
+      {
+        "url": "https://bible-history.com/rsvce/luke-23",
+        "date": "2026-10-01"
+      }
+    ],
+    "notes": "RSVCE (1966) reading. Patrick's own printing reads \"into your kingdom\" (the 1971 RSV wording) and the book follows his printing."
+  }
+}

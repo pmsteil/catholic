@@ -1,0 +1,333 @@
+# Quote cache — index
+
+reference · status · date
+
+- CIC 1983 can. 1151 · canonical · 2026-09-27
+- CIC 1983 can. 1152 §§1–3 · canonical · 2026-09-27
+- CIC 1983 can. 1153 §§1–2 · canonical · 2026-09-27
+- RSV Exodus 34:6 · verified · 2026-09-27
+- RSV Exodus 34:7 · single-source · 2026-09-27
+- RSV Isaiah 30:18 · verified · 2026-09-27
+- RSV Matthew 5:7 · verified · 2026-09-27
+- RSV Matthew 5:38 · verified · 2026-09-27
+- RSV Matthew 5:39 · verified · 2026-09-27
+- RSV Matthew 5:45 · verified · 2026-09-27
+- RSV Matthew 5:48 · verified · 2026-09-27
+- RSV Matthew 6:12 · verified · 2026-09-27
+- RSV Matthew 6:14 · single-source · 2026-09-27
+- RSV Matthew 6:15 · verified · 2026-09-27
+- RSV Matthew 7:1 · verified · 2026-09-27
+- RSV Matthew 7:2 · verified · 2026-09-27
+- RSV Matthew 18:21 · single-source · 2026-09-27
+- RSV Matthew 18:22 · verified · 2026-09-27
+- RSV Matthew 18:28 · single-source · 2026-09-27
+- RSV Matthew 18:34 · verified · 2026-09-27
+- RSV Matthew 18:35 · verified · 2026-09-27
+- RSV Matthew 25:40 · verified · 2026-09-27
+- RSV Luke 6:27 · verified · 2026-09-27
+- RSV Luke 6:28 · verified · 2026-09-27
+- RSV Luke 6:36 · verified · 2026-09-27
+- RSV Luke 6:37 · verified · 2026-09-27
+- RSV Luke 23:34 · verified · 2026-09-27
+- RSV John 7:24 · verified · 2026-09-27
+- RSV John 20:21 · verified · 2026-09-27
+- RSV John 20:22 · verified · 2026-09-27
+- RSV John 20:23 · verified · 2026-09-27
+- RSV Romans 3:24 · single-source · 2026-09-27
+- RSV Romans 3:25 · single-source · 2026-09-27
+- RSV Romans 3:26 · single-source · 2026-09-27
+- RSV Romans 5:20 · single-source · 2026-09-27
+- RSV Romans 12:19 · verified · 2026-09-27
+- RSV Romans 12:20 · single-source · 2026-09-27
+- RSV Romans 12:21 · verified · 2026-09-27
+- RSV 2 Corinthians 5:18 · verified · 2026-09-27
+- RSV 2 Corinthians 5:19 · single-source · 2026-09-27
+- RSV Ephesians 2:4 · single-source · 2026-09-27
+- RSV Ephesians 2:5 · single-source · 2026-09-27
+- RSV James 2:13 · single-source · 2026-09-27
+- RSV James 4:12 · single-source · 2026-09-27
+- RSV James 5:14 · single-source · 2026-09-27
+- RSV James 5:15 · single-source · 2026-09-27
+- CCC 433 · single-source · 2026-09-27
+- CCC 614 · single-source · 2026-09-27
+- CCC 615 · single-source · 2026-09-27
+- CCC 616 (partial) · single-source · 2026-09-27
+- CCC 1261 (partial) · single-source · 2026-09-27
+- CCC 1444 · single-source · 2026-09-27
+- CCC 1448 · canonical · 2026-09-27
+- CCC 1461 (partial) · single-source · 2026-09-27
+- CCC 1649 · single-source · 2026-09-27
+- CCC 1855 (partial) · single-source · 2026-09-27
+- CCC 1860 (partial) · single-source · 2026-09-27
+- CCC 2091 · single-source · 2026-09-27
+- CCC 2302 (partial) · single-source · 2026-09-27
+- CCC 2303 (partial) · single-source · 2026-09-27
+- CCC 2383 (partial) · single-source · 2026-09-27
+- CCC 2447 (partial) · single-source · 2026-09-27
+- CCC 2840 · single-source · 2026-09-27
+- CCC 2843 · single-source · 2026-09-27
+- ST I-q021-a3 respondeo · verified · 2026-09-27
+- ST I-q021-a3 ad2 · verified · 2026-09-27
+- ST I-q021-a4 respondeo-opening · single-source · 2026-09-27
+- ST I-q013-a4 respondeo-opening · single-source · 2026-09-27
+- ST II-II-q030-a4 respondeo · single-source · 2026-09-27
+- ST II-II-q159-a1 respondeo · single-source · 2026-09-27
+- ST III-q046-a1 ad3-opening · single-source · 2026-09-27
+- Dives in Misericordia §2, §13 (one sentence each), §14 (whole) · canonical · 2026-09-27
+- Redemptoris Missio §13 · canonical · 2026-09-27
+- St. John Paul II, homily 30 April 2000 §4 · canonical · 2026-09-27
+- Order of Penance (2023 US), formula of absolution · verified · 2026-09-27
+- Catena Aurea, Matt 18:34 (Remigius) · single-source · 2026-09-27
+- Faustina, Diary 723 · verified · 2026-09-27
+- Faustina, Diary 300/301 'greatest attribute' · disputed (number only) · 2026-09-27
+- Pope Leo XIV, address 11 May 2026 (compassion and empathy) · canonical · 2026-09-27
+- Bishop Barron, Word on Fire Show 543 (17:14–17:40, auto-captions) · single-source · 2026-09-27
+- CCC 1241 · single-source · 2026-09-27
+- CCC 1421 · single-source · 2026-09-27
+- CCC 1441, 1442 · canonical · 2026-09-27
+- RSV Mark 2:7 · single-source · 2026-09-27
+- RSV Matthew 28:18 · single-source · 2026-09-27
+- Fides Catholic Church Statistics 2025 (data 31 Dec 2023) · canonical · 2026-09-27
+
+- ccc/1766.json — CCC 1766 "To love is to will the good of another" (single-source, 2026-09-29)
+- RSV Revelation 3:16 · verified · 2026-09-29
+- RSV Romans 11:29 · verified · 2026-09-29
+- RSV Romans 12:1 · verified · 2026-09-29
+- RSV Matthew 5:17 · verified · 2026-09-29
+- RSV Matthew 27:51 · verified · 2026-09-29
+- RSV Matthew 19:16 · verified · 2026-09-29
+- RSV Matthew 19:17 · verified · 2026-09-29
+- RSV Matthew 19:18 · verified · 2026-09-29
+- RSV Matthew 19:19 · verified · 2026-09-29
+- RSV Matthew 19:20 · verified · 2026-09-29
+- RSV Matthew 19:21 · verified · 2026-09-29
+- RSV Matthew 19:22 · verified · 2026-09-29
+- RSV Matthew 19:23 · verified · 2026-09-29
+- RSV Matthew 19:24 · verified · 2026-09-29
+- RSV Matthew 19:25 · verified · 2026-09-29
+- RSV Matthew 19:26 · verified · 2026-09-29
+- RSV Matthew 19:27 · verified · 2026-09-29
+- RSV Matthew 19:28 · verified · 2026-09-29
+- RSV Matthew 19:29 · verified · 2026-09-29
+- RSV Matthew 19:30 · verified · 2026-09-29
+- RSV Matthew 6:1 · verified · 2026-09-29
+- RSV Matthew 6:10 · verified · 2026-09-29
+- RSV Matthew 6:14 · verified · 2026-09-29
+- RSV Matthew 22:40 · verified · 2026-09-29
+- RSV Matthew 7:21 · verified · 2026-09-29
+- RSV Matthew 20:26 · verified · 2026-09-29
+- RSV Matthew 23:23 · verified · 2026-09-29
+- RSV Matthew 23:25 · verified · 2026-09-29
+- RSV Matthew 28:18 · verified · 2026-09-29
+- RSV Matthew 28:19 · verified · 2026-09-29
+- RSV Matthew 28:20 · verified · 2026-09-29
+- RSV Matthew 16:24 · verified · 2026-09-29
+- RSV Matthew 16:25 · verified · 2026-09-29
+- RSV Matthew 26:35 · verified · 2026-09-29
+- RSV Matthew 26:75 · verified · 2026-09-29
+- RSV Luke 23:42 · verified · 2026-09-29
+- RSV Luke 23:43 · verified · 2026-09-29
+- RSV Luke 23:46 · verified · 2026-09-29
+- RSV Luke 22:19 · verified · 2026-09-29
+- RSV Luke 22:20 · verified · 2026-09-29
+- RSV Luke 22:42 · verified · 2026-09-29
+- RSV Luke 6:38 · verified · 2026-09-29
+- RSV Luke 10:25 · verified · 2026-09-29
+- RSV Luke 10:26 · verified · 2026-09-29
+- RSV Luke 10:27 · verified · 2026-09-29
+- RSV Luke 10:28 · verified · 2026-09-29
+- RSV Luke 18:10 · verified · 2026-09-29
+- RSV Luke 18:11 · verified · 2026-09-29
+- RSV Luke 18:12 · verified · 2026-09-29
+- RSV Luke 18:13 · verified · 2026-09-29
+- RSV Luke 18:14 · verified · 2026-09-29
+- RSV Luke 1:38 · verified · 2026-09-29
+- RSV 1 John 2:2 · verified · 2026-09-29
+- RSV 1 John 3:16 · verified · 2026-09-29
+- RSV 1 John 3:18 · verified · 2026-09-29
+- RSV 1 John 4:19 · verified · 2026-09-29
+- RSV Hebrews 9:12 · verified · 2026-09-29
+- RSV Hebrews 9:24 · verified · 2026-09-29
+- RSV Hebrews 13:11 · verified · 2026-09-29
+- RSV Hebrews 13:12 · verified · 2026-09-29
+- RSV Hebrews 10:14 · verified · 2026-09-29
+- RSV Hebrews 10:19 · verified · 2026-09-29
+- RSV Hebrews 10:20 · verified · 2026-09-29
+- RSV Hebrews 10:21 · verified · 2026-09-29
+- RSV John 18:37 · verified · 2026-09-29
+- RSV John 3:16 · verified · 2026-09-29
+- RSV John 14:6 · verified · 2026-09-29
+- RSV John 14:15 · verified · 2026-09-29
+- RSV John 10:10 · verified · 2026-09-29
+- RSV John 10:28 · verified · 2026-09-29
+- RSV John 10:29 · verified · 2026-09-29
+- RSV John 13:34 · verified · 2026-09-29
+- RSV John 13:35 · verified · 2026-09-29
+- RSV John 6:51 · verified · 2026-09-29
+- RSV John 12:24 · verified · 2026-09-29
+- RSV John 15:2 · verified · 2026-09-29
+- RSV John 15:5 · verified · 2026-09-29
+- RSV John 15:13 · verified · 2026-09-29
+- RSV Psalms 85:10 · verified · 2026-09-29
+- RSV Isaiah 1:18 · verified · 2026-09-29
+- RSV Malachi 1:11 · verified · 2026-09-29
+- RSV Deuteronomy 6:4 · verified · 2026-09-29
+- RSV Deuteronomy 6:5 · verified · 2026-09-29
+- RSV Mark 12:29 · verified · 2026-09-29
+- RSV Mark 12:30 · verified · 2026-09-29
+- RSV Mark 12:31 · verified · 2026-09-29
+- RSV Mark 7:9 · verified · 2026-09-29
+- RSV Mark 7:10 · verified · 2026-09-29
+- RSV Mark 7:11 · verified · 2026-09-29
+- RSV Mark 7:12 · verified · 2026-09-29
+- RSV Mark 7:13 · verified · 2026-09-29
+- RSV James 2:14 · verified · 2026-09-29
+- RSV James 2:15 · verified · 2026-09-29
+- RSV James 2:16 · verified · 2026-09-29
+- RSV James 2:17 · verified · 2026-09-29
+- RSV James 2:26 · verified · 2026-09-29
+- RSV Galatians 5:6 · verified · 2026-09-29
+- RSV Philippians 2:3 · verified · 2026-09-29
+- RSV Philippians 2:4 · verified · 2026-09-29
+- RSV Philippians 2:5 · verified · 2026-09-29
+- RSV Philippians 2:6 · verified · 2026-09-29
+- RSV Philippians 2:7 · verified · 2026-09-29
+- RSV Philippians 2:8 · verified · 2026-09-29
+- RSV Philippians 2:12 · verified · 2026-09-29
+- RSV Philippians 2:13 · verified · 2026-09-29
+- RSV Colossians 1:24 · verified · 2026-09-29
+- RSV 1 Corinthians 10:16 · verified · 2026-09-29
+- RSV 1 Corinthians 12:27 · verified · 2026-09-29
+- RSV 1 Corinthians 13:1 · verified · 2026-09-29
+- RSV 1 Corinthians 13:2 · verified · 2026-09-29
+- RSV 1 Corinthians 13:3 · verified · 2026-09-29
+- RSV Ephesians 2:8 · verified · 2026-09-29
+- RSV Ephesians 2:9 · verified · 2026-09-29
+- RSV Ephesians 2:10 · verified · 2026-09-29
+- RSV 2 Corinthians 5:21 · single-source · 2026-09-29
+- RSV Isaiah 53:10 · single-source · 2026-09-29
+- RSV Isaiah 53:12 · single-source · 2026-09-29
+- RSV Leviticus 16:21 · single-source · 2026-09-29
+- RSV Leviticus 16:22 · single-source · 2026-09-29
+- RSV Leviticus 16:27 · single-source · 2026-09-29
+- RSV Leviticus 6:5 · single-source · 2026-09-29
+- RSV 1 Corinthians 5:7 · single-source · 2026-09-29
+- RSV Hebrews 9:13 · single-source · 2026-09-29
+- RSV Hebrews 9:14 · single-source · 2026-09-29
+- RSV Hebrews 10:4 · single-source · 2026-09-29
+- RSV Ephesians 1:23 · single-source · 2026-09-29
+- RSV Revelation 5:6 · single-source · 2026-09-29
+- RSV Revelation 5:12 · single-source · 2026-09-29
+- RSV Mark 14:71 · single-source · 2026-09-29
+- RSV Matthew 26:72 · single-source · 2026-09-29
+- RSV Matthew 15:8 · single-source · 2026-09-29
+- CCC 30 · canonical · 2026-09-29
+- CCC 153 · canonical · 2026-09-29
+- CCC 154 · canonical · 2026-09-29
+- CCC 155 · canonical · 2026-09-29
+- CCC 294 · canonical · 2026-09-29
+- CCC 615 · canonical · 2026-09-29
+- CCC 616 · canonical · 2026-09-29
+- CCC 982 · canonical · 2026-09-29
+- CCC 1040 · canonical · 2026-09-29
+- CCC 1085 · canonical · 2026-09-29
+- CCC 1332 · canonical · 2026-09-29
+- CCC 1363 · canonical · 2026-09-29
+- CCC 1366 · canonical · 2026-09-29
+- CCC 1367 · canonical · 2026-09-29
+- CCC 1368 · canonical · 2026-09-29
+- CCC 1626 · canonical · 2026-09-29
+- CCC 1654 · canonical · 2026-09-29
+- CCC 1847 · canonical · 2026-09-29
+- CCC 2008 · canonical · 2026-09-29
+- CCC 2094 · canonical · 2026-09-29
+- CIC 1983 can. 1026 · canonical · 2026-09-29
+- CIC 1983 can. 1250 · canonical · 2026-09-29
+- CIC 1983 can. 1251 · canonical · 2026-09-29
+- Gaudium et Spes §24 (closing sentence) · canonical · 2026-09-29
+- Sacramentum Caritatis §51 · canonical · 2026-09-29
+- Francis, meeting with Tawadros II, 11 May 2023 (21 martyrs, Roman Martyrology) · canonical · 2026-09-29
+- Tertullian, Apology 50 (ANF) · verified · 2026-09-29
+- Martyrdom of Polycarp 9 (ANF) · verified · 2026-09-29
+- Ignatius, Romans 4 (ANF) · verified · 2026-09-29
+- Roman Missal 2011: water-and-wine prayer · verified; dismissal · single-source · 2026-09-29
+- ST II-II q.35 a.3 respondeo-opening · single-source · 2026-09-29
+- ST III q.48 a.2 respondeo · single-source · 2026-09-29
+- RSV Luke 23:39 · verified · 2026-09-29
+- RSV Luke 23:40 · verified · 2026-09-29
+- RSV Luke 23:41 · verified · 2026-09-29
+- RSV Revelation 5:6 · verified · 2026-09-29
+- RSV Revelation 5:12 · verified · 2026-09-29
+- RSV Matthew 26:72 · verified · 2026-09-29
+- RSV Matthew 26:74 · verified · 2026-09-29
+- RSV Matthew 11:30 · verified · 2026-09-29
+- RSV John 1:29 · verified · 2026-09-29
+- RSV Isaiah 53:10 · verified · 2026-09-29
+- RSV 2 Corinthians 5:21 · verified · 2026-09-29
+- RSV 1 Corinthians 5:7 · verified · 2026-09-29
+- RSV Ephesians 1:23 · verified · 2026-09-29
+- RSV Hebrews 9:13 · verified · 2026-09-29
+- RSV Hebrews 9:14 · verified · 2026-09-29
+- RSV Leviticus 6:26 · single-source · 2026-09-29
+- RSV Leviticus 7:15 · single-source · 2026-09-29
+- RSV John 6:35 · disputed (opening words) · 2026-09-29
+- ST II-II q.35 a.3 and III q.48 a.2 upgraded to verified (aquinas.cc) · 2026-09-29
+- ST I-II q.26 a.4 respondeo-opening · verified · 2026-09-29
+- Aristotle, Rhetoric II.4 1380b35 (definition of philein) · verified · 2026-09-29
+- RSV Luke 24:26 · verified · 2026-09-29
+- RSV Luke 24:27 · verified · 2026-09-29
+- RSV Luke 24:44 · verified · 2026-09-29
+- RSV Luke 24:45 · verified · 2026-09-29
+- CCC 1364 · canonical · 2026-09-29
+- CCC 1382 · canonical · 2026-09-29
+- RSV Hebrews 9:25, 9:26 · single-source · 2026-09-29
+- CCC 1330 (partial) · canonical · 2026-09-29
+- CCC 1340 · canonical · 2026-09-29
+- RSV 1 Corinthians 5:6, 5:8 · verified · 2026-09-29
+- RSV 1 Corinthians 5:1; Exodus 12:15, 12:19 · single-source · 2026-09-29
+- RSV Ephesians 2:13,14,16; Leviticus 7:11,12,15 · verified · 2026-09-29
+- RSV Colossians 1:20 · single-source · 2026-09-29
+- CCC 1328 (partial) · vatican.va · 2026-09-29
+- RSV John 19:30; Ephesians 5:25 · verified · 2026-09-29
+- Nova Vulgata John 19:30 · vatican.va · 2026-09-29
+- CCC 1548, 1617 · vatican.va · 2026-09-29
+- CIC can. 1061 · vatican.va · 2026-09-29
+- RSV 1 Corinthians 15:3–4 · verified · 2026-09-29
+- CCC 619 · vatican.va · 2026-09-29
+- CCC 1, 516, 517 · vatican.va · 2026-09-29
+- CCC 518 · vatican.va · 2026-09-29
+- CCC 1394 · vatican.va · 2026-09-29
+- RSV John 6:56, 6:57 · verified · 2026-09-29
+- RSV Luke 23:38, 42, 43 · verified · 2026-09-29
+- RSV-CE Luke 23:42 (kingly power) · verified · 2026-09-29
+- Luke 23:42 · into your kingdom per Patrick's RSV-CE · 2026-09-29
+- RSV Romans 5:8 · verified · 2026-09-30
+- CCC 143, 144, 155 · vatican.va · 2026-09-30
+- RSV Matthew 7:24 · verified · 2026-09-30
+- RSV 1 Corinthians 1:31 · verified · 2026-09-30
+- RSV Matthew 26:42; Luke 1:38 · verified · 2026-09-30
+- CCC 1789 · vatican.va · 2026-10-01
+- RSVCE 1 John 4:18; 1 Peter 5:7 · single-source · 2026-10-01
+- CCC 2384 · vatican.va · 2026-10-01
+- RSV John 6:38, 53–55; 15:5–6, 16; 17:17, 20–23; 19:25–27, 34; 11:25–26; 2:5; 5:19; Matt 5:8, 8:8; Lev 19:2; 1 Cor 10:17, 12:12, 12:26, 13:12; Rev 19:9, 21:3, 21:5; Gen 2:18, 11:4; Luke 1:35; Eph 4:4–6, 5:31–32; 1 Tim 3:15; 2 Macc 12:44–45 · verified · 2026-10-01
+- CCC 253, 260, 295, 1324, 1377, 1385, 1396, 1601, 2363, 2366 · vatican.va · 2026-10-01
+- Unitatis Redintegratio 1; Dei Verbum 21; Redemptoris Missio 7; Dives in Misericordia 7 · vatican.va · 2026-10-01
+- Trent Sess. VI can. 23 · verified · Augustine Confessions VII.10.16 · verified · City of God XIV.28 · single-source · 2026-10-01
+- Roman Missal: Ecce Agnus Dei (verified); Domine non sum dignus, Kyrie, Confiteor opening (single-source) · 2026-10-01
+- RSV Rev 21:3 · disputed (loud/great voice: RSV 1971 vs RSVCE 1966) · Ch. 10 verses checked against RSVCE on Bible Gateway: John 6:51-56, 17:17-23, 19:25-27, 11:25-26, 15:16, 2:5, 10:10, 6:38; Matt 28:18-20; Gen 2:18; Luke 1:35 match · 2026-10-01
+- New folder bible/RSVCE/ (2026-10-01): Ch. 10 verses checked against RSVCE (bible-history.com/rsvce, Bible Gateway RSVCE); all agree with RSV except Rev 21:3 (great/loud voice, pending Patrick's printing) and Luke 23:42 (RSVCE kingly power; Patrick's printing into your kingdom)
+- RSVCE Rev 21:3 "great voice" · verified · settled for the book 2026-10-02
+- CCC 2367 (first two sentences) · vatican.va · 2026-10-02
+- CCC 2205 (first sentence) · vatican.va · 2026-10-03
+- CCC 825, 827, 830 (single sentences) · vatican.va · 2026-10-03
+- Ignatius, Ephesians 20 (ANF) · verified · 2026-10-03
+- Benedict XVI, General Audience 14 Mar 2007 (Ignatius, martyred 107) · vatican.va · 2026-10-03
+- Polycarp, Philippians 9 (verified), 13 (single-source); Roman Canon Nobis quoque saints (single-source) · 2026-10-03
+- St. Paul VI, Missale Romanum (1969), Roman Canon fixed 4th-5th c. · vatican.va · 2026-10-03
+- Malachi 1:11 (RSVCE) · verified · 2026-10-05
+- Roman Missal 2011, Eucharistic Prayer III opening · verified · 2026-10-05
+- CCC 2759 (Lord's Prayer text), 2770, 2792, 2837, 2840 · canonical · 2026-10-05
+- Roman Missal 2011: 'Lord, I am not worthy' (now verified); Mystery of Faith 'Save us, Savior of the world' · verified · 2026-10-05
+- Roman Missal 2011 dismissals: 'Go forth, the Mass is ended.' (now verified); 'Go in peace, glorifying the Lord by your life.' · verified · 2026-10-05
+- Lumen Gentium 26 (Leo: transformed into that which we consume) · canonical · 2026-10-05
+- John 3:30 (RSVCE) · verified · 2026-10-05

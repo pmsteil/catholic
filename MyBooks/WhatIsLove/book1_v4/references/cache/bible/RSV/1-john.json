@@ -1,0 +1,73 @@
+{
+  "2:2": {
+    "text": "and he is the expiation for our sins, and not for ours only but also for the sins of the whole world.",
+    "status": "verified",
+    "sources": [
+      {
+        "url": "https://www.biblestudytools.com/rsv/1-john/2.html",
+        "date": "2026-09-29"
+      },
+      {
+        "url": "https://www.christianity.com/bible/rsv/1-john/2",
+        "date": "2026-09-29"
+      }
+    ],
+    "notes": ""
+  },
+  "3:16": {
+    "text": "By this we know love, that he laid down his life for us; and we ought to lay down our lives for the brethren.",
+    "status": "verified",
+    "sources": [
+      {
+        "url": "https://www.biblestudytools.com/rsv/1-john/3.html",
+        "date": "2026-09-29"
+      },
+      {
+        "url": "https://www.christianity.com/bible/rsv/1-john/3",
+        "date": "2026-09-29"
+      }
+    ],
+    "notes": ""
+  },
+  "3:18": {
+    "text": "Little children, let us not love in word or speech but in deed and in truth.",
+    "status": "verified",
+    "sources": [
+      {
+        "url": "https://www.biblestudytools.com/rsv/1-john/3.html",
+        "date": "2026-09-29"
+      },
+      {
+        "url": "https://www.christianity.com/bible/rsv/1-john/3",
+        "date": "2026-09-29"
+      }
+    ],
+    "notes": ""
+  },
+  "4:19": {
+    "text": "We love, because he first loved us.",
+    "status": "verified",
+    "sources": [
+      {
+        "url": "https://www.biblestudytools.com/rsv/1-john/4.html",
+        "date": "2026-09-29"
+      },
+      {
+        "url": "https://www.christianity.com/bible/rsv/1-john/4",
+        "date": "2026-09-29"
+      }
+    ],
+    "notes": ""
+  },
+  "4:18": {
+    "text": "There is no fear in love, but perfect love casts out fear. For fear has to do with punishment, and he who fears is not perfected in love.",
+    "status": "single-source",
+    "sources": [
+      {
+        "url": "https://www.biblegateway.com/passage/?search=1+John+4%3A18&version=RSVCE",
+        "date": "2026-10-01"
+      }
+    ],
+    "notes": "RSVCE"
+  }
+}

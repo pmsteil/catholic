@@ -1,0 +1,24 @@
+{
+  "12:12": {
+    "text": "For just as the body is one and has many members, and all the members of the body, though many, are one body, so it is with Christ.",
+    "status": "single-source",
+    "sources": [
+      {
+        "url": "https://bible-history.com/rsvce/1-corinthians-12",
+        "date": "2026-10-01"
+      }
+    ],
+    "notes": "Agrees with the RSV cache entry unless noted."
+  },
+  "12:26": {
+    "text": "If one member suffers, all suffer together; if one member is honored, all rejoice together.",
+    "status": "single-source",
+    "sources": [
+      {
+        "url": "https://bible-history.com/rsvce/1-corinthians-12",
+        "date": "2026-10-01"
+      }
+    ],
+    "notes": "Agrees with the RSV cache entry unless noted."
+  }
+}

@@ -1,0 +1,2 @@
+G="Why He prays for our unity: so that the world may believe"
+E=[(G,288,"He prays that we would be drawn into the one love of the Trinity. Our unity","He prays that we would be drawn into the one love of the Trinity. And He tells us why: \"so that the world may believe that thou hast sent me.\" United in the one love of God, we become His witness, a unity no human effort could produce, which points the world to the Father who sent His Son. Our unity")]

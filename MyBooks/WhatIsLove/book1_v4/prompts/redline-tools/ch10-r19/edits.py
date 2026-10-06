@@ -1,0 +1,4 @@
+G="Ignatius in history"
+E=[(G,217,'live for ever in Jesus Christ."<sup>1</sup> Sacred Tradition','live for ever in Jesus Christ."<sup>1</sup> We know him from more than his own letters. His friend St. Polycarp, bishop of Smyrna, gathered those letters and sent them on to the church at Philippi, holding up "the blessed Ignatius" as an example of patience.<sup>2</sup> And the Church still names him among the martyrs in the Roman Canon, the oldest Eucharistic Prayer of the Roman Rite. Sacred Tradition'),
+(G,"Notes","1. St. Ignatius of Antioch, *Letter to the Ephesians* 20, in *Ante-Nicene Fathers*, vol. 1.\n","1. St. Ignatius of Antioch, *Letter to the Ephesians* 20, in *Ante-Nicene Fathers*, vol. 1.\n2. St. Polycarp of Smyrna, *Letter to the Philippians* 9, 13, in *Ante-Nicene Fathers*, vol. 1.\n"),
+]

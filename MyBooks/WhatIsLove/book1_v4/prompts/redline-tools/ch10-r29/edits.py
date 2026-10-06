@@ -1,0 +1,2 @@
+G="Transformed into what we receive"
+E=[(G,249,'week after week, until they remake us into His likeness.**','week after week, until they remake us into His likeness.** The Second Vatican Council, quoting Pope St. Leo the Great, puts it plainly: "the partaking of the body and blood of Christ does nothing other than make us be transformed into that which we consume" (*Lumen Gentium* 26). Fed at the table of His Word and His Body, we become less of our old selves and more of Him: "He must increase, but I must decrease" (John 3:30).')]
