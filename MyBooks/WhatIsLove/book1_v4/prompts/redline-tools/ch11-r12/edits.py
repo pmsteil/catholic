@@ -1,0 +1,1 @@
+E=[('Redline 12 · enemies', 120, '6. **Enemies** — the hardest, requiring the most grace.', '6. **Enemies** — the hardest, requiring the most grace, and yet Christ requires it of everyone who follows Him (cf. Matthew 5:44).')]

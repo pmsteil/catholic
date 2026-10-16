@@ -1,217 +1,382 @@
 {
-  "2:4": {
-    "text": "But God, who is rich in mercy, out of the great love with which he loved us,",
-    "status": "single-source",
-    "sources": [
-      {
-        "url": "https://www.biblestudytools.com/rsv/ephesians/2.html",
-        "date": "2026-09-27"
-      }
-    ]
-  },
-  "2:5": {
-    "text": "even when we were dead through our trespasses, made us alive together with Christ (by grace you have been saved),",
-    "status": "single-source",
-    "sources": [
-      {
-        "url": "https://www.biblestudytools.com/rsv/ephesians/2.html",
-        "date": "2026-09-27"
-      }
-    ]
-  },
-  "2:8": {
-    "text": "For by grace you have been saved through faith; and this is not your own doing, it is the gift of God--",
-    "status": "verified",
-    "sources": [
-      {
-        "url": "https://www.biblestudytools.com/rsv/ephesians/2.html",
-        "date": "2026-09-29"
-      },
-      {
-        "url": "https://www.christianity.com/bible/rsv/ephesians/2",
-        "date": "2026-09-29"
-      }
-    ],
-    "notes": ""
-  },
-  "2:9": {
-    "text": "not because of works, lest any man should boast.",
-    "status": "verified",
-    "sources": [
-      {
-        "url": "https://www.biblestudytools.com/rsv/ephesians/2.html",
-        "date": "2026-09-29"
-      },
-      {
-        "url": "https://www.christianity.com/bible/rsv/ephesians/2",
-        "date": "2026-09-29"
-      }
-    ],
-    "notes": ""
-  },
-  "2:10": {
-    "text": "For we are his workmanship, created in Christ Jesus for good works, which God prepared beforehand, that we should walk in them.",
-    "status": "verified",
-    "sources": [
-      {
-        "url": "https://www.biblestudytools.com/rsv/ephesians/2.html",
-        "date": "2026-09-29"
-      },
-      {
-        "url": "https://www.christianity.com/bible/rsv/ephesians/2",
-        "date": "2026-09-29"
-      }
-    ],
-    "notes": ""
-  },
-  "1:23": {
-    "text": "which is his body, the fulness of him who fills all in all.",
-    "status": "verified",
-    "sources": [
-      {
-        "url": "https://www.biblestudytools.com/rsv/ephesians/1.html",
-        "date": "2026-09-29"
-      },
-      {
-        "url": "https://www.christianity.com/bible/rsv/ephesians/1",
-        "date": "2026-09-29"
-      }
-    ],
-    "notes": ""
-  },
-  "2:13": {
-    "text": "But now in Christ Jesus you who once were far off have been brought near in the blood of Christ.",
-    "status": "verified",
-    "sources": [
-      {
-        "url": "https://www.biblestudytools.com/rsv/ephesians/2.html",
-        "date": "2026-09-29"
-      },
-      {
-        "url": "https://www.christianity.com/bible/rsv/ephesians/2",
-        "date": "2026-09-29"
-      }
-    ],
-    "notes": ""
-  },
-  "2:14": {
-    "text": "For he is our peace, who has made us both one, and has broken down the dividing wall of hostility,",
-    "status": "verified",
-    "sources": [
-      {
-        "url": "https://www.biblestudytools.com/rsv/ephesians/2.html",
-        "date": "2026-09-29"
-      },
-      {
-        "url": "https://www.christianity.com/bible/rsv/ephesians/2",
-        "date": "2026-09-29"
-      }
-    ],
-    "notes": ""
-  },
-  "2:16": {
-    "text": "and might reconcile us both to God in one body through the cross, thereby bringing the hostility to an end.",
-    "status": "verified",
-    "sources": [
-      {
-        "url": "https://www.biblestudytools.com/rsv/ephesians/2.html",
-        "date": "2026-09-29"
-      },
-      {
-        "url": "https://www.christianity.com/bible/rsv/ephesians/2",
-        "date": "2026-09-29"
-      }
-    ],
-    "notes": ""
-  },
-  "5:25": {
-    "text": "Husbands, love your wives, as Christ loved the church and gave himself up for her,",
-    "status": "verified",
-    "sources": [
-      {
-        "url": "https://www.biblestudytools.com/rsv/ephesians/5.html",
-        "date": "2026-09-29"
-      },
-      {
-        "url": "https://www.christianity.com/bible/rsv/ephesians/5",
-        "date": "2026-09-29"
-      }
-    ],
-    "notes": ""
-  },
-  "4:4": {
-    "text": "There is one body and one Spirit, just as you were called to the one hope that belongs to your call,",
-    "status": "verified",
-    "sources": [
-      {
-        "url": "https://www.biblestudytools.com/rsv/ephesians/4.html",
-        "date": "2026-10-01"
-      },
-      {
-        "url": "https://www.christianity.com/bible/rsv/ephesians/4",
-        "date": "2026-10-01"
-      }
-    ],
-    "notes": "Ch. 10 bishop-readiness pass."
-  },
-  "4:5": {
-    "text": "one Lord, one faith, one baptism,",
-    "status": "verified",
-    "sources": [
-      {
-        "url": "https://www.biblestudytools.com/rsv/ephesians/4.html",
-        "date": "2026-10-01"
-      },
-      {
-        "url": "https://www.christianity.com/bible/rsv/ephesians/4",
-        "date": "2026-10-01"
-      }
-    ],
-    "notes": "Ch. 10 bishop-readiness pass."
-  },
-  "4:6": {
-    "text": "one God and Father of us all, who is above all and through all and in all.",
-    "status": "verified",
-    "sources": [
-      {
-        "url": "https://www.biblestudytools.com/rsv/ephesians/4.html",
-        "date": "2026-10-01"
-      },
-      {
-        "url": "https://www.christianity.com/bible/rsv/ephesians/4",
-        "date": "2026-10-01"
-      }
-    ],
-    "notes": "\"Father of us all\" (Ch. 10 had \"Father of all\"). Ch. 10 bishop-readiness pass."
-  },
-  "5:31": {
-    "text": "For this reason a man shall leave his father and mother and be joined to his wife, and the two shall become one flesh.",
-    "status": "verified",
-    "sources": [
-      {
-        "url": "https://www.biblestudytools.com/rsv/ephesians/5.html",
-        "date": "2026-10-01"
-      },
-      {
-        "url": "https://www.christianity.com/bible/rsv/ephesians/5",
-        "date": "2026-10-01"
-      }
-    ],
-    "notes": "Ch. 10 bishop-readiness pass."
-  },
-  "5:32": {
-    "text": "This mystery is a profound one, and I am saying that it refers to Christ and the church;",
-    "status": "verified",
-    "sources": [
-      {
-        "url": "https://www.biblestudytools.com/rsv/ephesians/5.html",
-        "date": "2026-10-01"
-      },
-      {
-        "url": "https://www.christianity.com/bible/rsv/ephesians/5",
-        "date": "2026-10-01"
-      }
-    ],
-    "notes": "Ch. 10 bishop-readiness pass."
-  }
+ "2:4": {
+  "text": "But God, who is rich in mercy, out of the great love with which he loved us,",
+  "status": "single-source",
+  "sources": [
+   {
+    "url": "https://www.biblestudytools.com/rsv/ephesians/2.html",
+    "date": "2026-09-27"
+   }
+  ]
+ },
+ "2:5": {
+  "text": "even when we were dead through our trespasses, made us alive together with Christ (by grace you have been saved),",
+  "status": "single-source",
+  "sources": [
+   {
+    "url": "https://www.biblestudytools.com/rsv/ephesians/2.html",
+    "date": "2026-09-27"
+   }
+  ]
+ },
+ "2:8": {
+  "text": "For by grace you have been saved through faith; and this is not your own doing, it is the gift of God--",
+  "status": "verified",
+  "sources": [
+   {
+    "url": "https://www.biblestudytools.com/rsv/ephesians/2.html",
+    "date": "2026-09-29"
+   },
+   {
+    "url": "https://www.christianity.com/bible/rsv/ephesians/2",
+    "date": "2026-09-29"
+   }
+  ],
+  "notes": ""
+ },
+ "2:9": {
+  "text": "not because of works, lest any man should boast.",
+  "status": "verified",
+  "sources": [
+   {
+    "url": "https://www.biblestudytools.com/rsv/ephesians/2.html",
+    "date": "2026-09-29"
+   },
+   {
+    "url": "https://www.christianity.com/bible/rsv/ephesians/2",
+    "date": "2026-09-29"
+   }
+  ],
+  "notes": ""
+ },
+ "2:10": {
+  "text": "For we are his workmanship, created in Christ Jesus for good works, which God prepared beforehand, that we should walk in them.",
+  "status": "verified",
+  "sources": [
+   {
+    "url": "https://www.biblestudytools.com/rsv/ephesians/2.html",
+    "date": "2026-09-29"
+   },
+   {
+    "url": "https://www.christianity.com/bible/rsv/ephesians/2",
+    "date": "2026-09-29"
+   }
+  ],
+  "notes": ""
+ },
+ "1:23": {
+  "text": "which is his body, the fulness of him who fills all in all.",
+  "status": "verified",
+  "sources": [
+   {
+    "url": "https://www.biblestudytools.com/rsv/ephesians/1.html",
+    "date": "2026-09-29"
+   },
+   {
+    "url": "https://www.christianity.com/bible/rsv/ephesians/1",
+    "date": "2026-09-29"
+   }
+  ],
+  "notes": ""
+ },
+ "2:13": {
+  "text": "But now in Christ Jesus you who once were far off have been brought near in the blood of Christ.",
+  "status": "verified",
+  "sources": [
+   {
+    "url": "https://www.biblestudytools.com/rsv/ephesians/2.html",
+    "date": "2026-09-29"
+   },
+   {
+    "url": "https://www.christianity.com/bible/rsv/ephesians/2",
+    "date": "2026-09-29"
+   }
+  ],
+  "notes": ""
+ },
+ "2:14": {
+  "text": "For he is our peace, who has made us both one, and has broken down the dividing wall of hostility,",
+  "status": "verified",
+  "sources": [
+   {
+    "url": "https://www.biblestudytools.com/rsv/ephesians/2.html",
+    "date": "2026-09-29"
+   },
+   {
+    "url": "https://www.christianity.com/bible/rsv/ephesians/2",
+    "date": "2026-09-29"
+   }
+  ],
+  "notes": ""
+ },
+ "2:16": {
+  "text": "and might reconcile us both to God in one body through the cross, thereby bringing the hostility to an end.",
+  "status": "verified",
+  "sources": [
+   {
+    "url": "https://www.biblestudytools.com/rsv/ephesians/2.html",
+    "date": "2026-09-29"
+   },
+   {
+    "url": "https://www.christianity.com/bible/rsv/ephesians/2",
+    "date": "2026-09-29"
+   }
+  ],
+  "notes": ""
+ },
+ "5:25": {
+  "text": "Husbands, love your wives, as Christ loved the church and gave himself up for her,",
+  "status": "verified",
+  "sources": [
+   {
+    "url": "https://www.biblestudytools.com/rsv/ephesians/5.html",
+    "date": "2026-09-29"
+   },
+   {
+    "url": "https://www.christianity.com/bible/rsv/ephesians/5",
+    "date": "2026-09-29"
+   }
+  ],
+  "notes": ""
+ },
+ "4:4": {
+  "text": "There is one body and one Spirit, just as you were called to the one hope that belongs to your call,",
+  "status": "verified",
+  "sources": [
+   {
+    "url": "https://www.biblestudytools.com/rsv/ephesians/4.html",
+    "date": "2026-10-01"
+   },
+   {
+    "url": "https://www.christianity.com/bible/rsv/ephesians/4",
+    "date": "2026-10-01"
+   }
+  ],
+  "notes": "Ch. 10 bishop-readiness pass."
+ },
+ "4:5": {
+  "text": "one Lord, one faith, one baptism,",
+  "status": "verified",
+  "sources": [
+   {
+    "url": "https://www.biblestudytools.com/rsv/ephesians/4.html",
+    "date": "2026-10-01"
+   },
+   {
+    "url": "https://www.christianity.com/bible/rsv/ephesians/4",
+    "date": "2026-10-01"
+   }
+  ],
+  "notes": "Ch. 10 bishop-readiness pass."
+ },
+ "4:6": {
+  "text": "one God and Father of us all, who is above all and through all and in all.",
+  "status": "verified",
+  "sources": [
+   {
+    "url": "https://www.biblestudytools.com/rsv/ephesians/4.html",
+    "date": "2026-10-01"
+   },
+   {
+    "url": "https://www.christianity.com/bible/rsv/ephesians/4",
+    "date": "2026-10-01"
+   }
+  ],
+  "notes": "\"Father of us all\" (Ch. 10 had \"Father of all\"). Ch. 10 bishop-readiness pass."
+ },
+ "5:31": {
+  "text": "For this reason a man shall leave his father and mother and be joined to his wife, and the two shall become one flesh.",
+  "status": "verified",
+  "sources": [
+   {
+    "url": "https://www.biblestudytools.com/rsv/ephesians/5.html",
+    "date": "2026-10-01"
+   },
+   {
+    "url": "https://www.christianity.com/bible/rsv/ephesians/5",
+    "date": "2026-10-01"
+   }
+  ],
+  "notes": "Ch. 10 bishop-readiness pass."
+ },
+ "5:32": {
+  "text": "This mystery is a profound one, and I am saying that it refers to Christ and the church;",
+  "status": "verified",
+  "sources": [
+   {
+    "url": "https://www.biblestudytools.com/rsv/ephesians/5.html",
+    "date": "2026-10-01"
+   },
+   {
+    "url": "https://www.christianity.com/bible/rsv/ephesians/5",
+    "date": "2026-10-01"
+   }
+  ],
+  "notes": "Ch. 10 bishop-readiness pass."
+ },
+ "3:10": {
+  "text": "that through the church the manifold wisdom of God might now be made known to the principalities and powers in the heavenly places.",
+  "status": "verified",
+  "sources": [
+   {
+    "url": "https://www.biblestudytools.com/rsv/ephesians/3.html",
+    "date": "2026-10-15"
+   }
+  ],
+  "notes": "Fetched 2026-10-15 in both RSVCE (bible-history.com) and RSV; they agree. Fetch gave it in two pieces."
+ },
+ "3:11": {
+  "text": "This was according to the eternal purpose which he has realized in Christ Jesus our Lord,",
+  "status": "verified",
+  "sources": [
+   {
+    "url": "https://www.biblestudytools.com/rsv/ephesians/3.html",
+    "date": "2026-10-15"
+   }
+  ],
+  "notes": "Fetched 2026-10-15 in both RSVCE (bible-history.com) and RSV; they agree."
+ },
+ "3:12": {
+  "text": "in whom we have boldness and confidence of access through our faith in him.",
+  "status": "verified",
+  "sources": [
+   {
+    "url": "https://www.biblestudytools.com/rsv/ephesians/3.html",
+    "date": "2026-10-15"
+   }
+  ],
+  "notes": "Fetched 2026-10-15 in both RSVCE (bible-history.com) and RSV; they agree."
+ },
+ "3:14": {
+  "text": "For this reason I bow my knees before the Father,",
+  "status": "verified",
+  "sources": [
+   {
+    "url": "https://www.biblestudytools.com/rsv/ephesians/3.html",
+    "date": "2026-10-15"
+   }
+  ],
+  "notes": "Fetched 2026-10-15 in both RSVCE (bible-history.com) and RSV; they agree."
+ },
+ "3:15": {
+  "text": "from whom every family in heaven and on earth is named,",
+  "status": "verified",
+  "sources": [
+   {
+    "url": "https://www.biblestudytools.com/rsv/ephesians/3.html",
+    "date": "2026-10-15"
+   }
+  ],
+  "notes": "Fetched 2026-10-15 in both RSVCE (bible-history.com) and RSV; they agree."
+ },
+ "3:16": {
+  "text": "that according to the riches of his glory he may grant you to be strengthened with might through his Spirit in the inner man,",
+  "status": "verified",
+  "sources": [
+   {
+    "url": "https://www.biblestudytools.com/rsv/ephesians/3.html",
+    "date": "2026-10-15"
+   }
+  ],
+  "notes": "Fetched 2026-10-15 in both RSVCE (bible-history.com) and RSV; they agree."
+ },
+ "3:17": {
+  "text": "and that Christ may dwell in your hearts through faith; that you, being rooted and grounded in love,",
+  "status": "verified",
+  "sources": [
+   {
+    "url": "https://www.biblestudytools.com/rsv/ephesians/3.html",
+    "date": "2026-10-15"
+   }
+  ],
+  "notes": "Fetched 2026-10-15 in both RSVCE (bible-history.com) and RSV; they agree."
+ },
+ "3:18": {
+  "text": "may have power to comprehend with all the saints what is the breadth and length and height and depth,",
+  "status": "verified",
+  "sources": [
+   {
+    "url": "https://www.biblestudytools.com/rsv/ephesians/3.html",
+    "date": "2026-10-15"
+   }
+  ],
+  "notes": "Fetched 2026-10-15 in both RSVCE (bible-history.com) and RSV; they agree."
+ },
+ "3:19": {
+  "text": "and to know the love of Christ which surpasses knowledge, that you may be filled with all the fulness of God.",
+  "status": "verified",
+  "sources": [
+   {
+    "url": "https://www.biblestudytools.com/rsv/ephesians/3.html",
+    "date": "2026-10-15"
+   }
+  ],
+  "notes": "Fetched 2026-10-15 in both RSVCE (bible-history.com) and RSV; they agree."
+ },
+ "3:20": {
+  "text": "Now to him who by the power at work within us is able to do far more abundantly than all that we ask or think,",
+  "status": "verified",
+  "sources": [
+   {
+    "url": "https://www.biblestudytools.com/rsv/ephesians/3.html",
+    "date": "2026-10-15"
+   }
+  ],
+  "notes": "Fetched 2026-10-15 in both RSVCE (bible-history.com) and RSV; they agree."
+ },
+ "3:21": {
+  "text": "to him be glory in the church and in Christ Jesus to all generations, for ever and ever. Amen.",
+  "status": "verified",
+  "sources": [
+   {
+    "url": "https://www.biblestudytools.com/rsv/ephesians/3.html",
+    "date": "2026-10-15"
+   }
+  ],
+  "notes": "Fetched 2026-10-15 in both RSVCE (bible-history.com) and RSV; they agree."
+ },
+ "4:11": {
+  "text": "And his gifts were that some should be apostles, some prophets, some evangelists, some pastors and teachers,",
+  "status": "verified",
+  "sources": [
+   {
+    "url": "https://www.biblestudytools.com/rsv/ephesians/4.html",
+    "date": "2026-10-15"
+   }
+  ],
+  "notes": "Fetched 2026-10-15 in both RSVCE (bible-history.com) and RSV; they agree."
+ },
+ "4:13": {
+  "text": "until we all attain to the unity of the faith and of the knowledge of the Son of God, to mature manhood, to the measure of the stature of the fulness of Christ;",
+  "status": "verified",
+  "sources": [
+   {
+    "url": "https://www.biblestudytools.com/rsv/ephesians/4.html",
+    "date": "2026-10-15"
+   }
+  ],
+  "notes": "Fetched 2026-10-15 in both RSVCE (bible-history.com) and RSV; they agree."
+ },
+ "4:14": {
+  "text": "so that we may no longer be children, tossed to and fro and carried about with every wind of doctrine, by the cunning of men, by their craftiness in deceitful wiles.",
+  "status": "verified",
+  "sources": [
+   {
+    "url": "https://www.biblestudytools.com/rsv/ephesians/4.html",
+    "date": "2026-10-15"
+   }
+  ],
+  "notes": "Fetched 2026-10-15 in both RSVCE (bible-history.com) and RSV; they agree."
+ },
+ "4:12": {
+  "text": "to equip the saints for the work of ministry, for building up the body of Christ,",
+  "status": "disputed",
+  "sources": [
+   {
+    "url": "https://www.biblestudytools.com/rsv/ephesians/4.html",
+    "date": "2026-10-15"
+   }
+  ],
+  "notes": "RSVCE: \"for the equipment of the saints, for the work of ministry\"; RSV 1971: \"to equip the saints for the work of ministry\". Ask Patrick for his printing before quoting."
+ }
 }

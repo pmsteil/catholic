@@ -1,35 +1,128 @@
 {
-  "28:18": {
-    "text": "And Jesus came and said to them, \"All authority in heaven and on earth has been given to me.",
-    "status": "single-source",
-    "sources": [
-      {
-        "url": "https://www.biblegateway.com/passage/?search=Matthew+28%3A18-20&version=RSVCE",
-        "date": "2026-10-01"
-      }
-    ],
-    "notes": "Agrees with the RSV cache entry unless noted."
-  },
-  "28:19": {
-    "text": "Go therefore and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit,",
-    "status": "single-source",
-    "sources": [
-      {
-        "url": "https://www.biblegateway.com/passage/?search=Matthew+28%3A18-20&version=RSVCE",
-        "date": "2026-10-01"
-      }
-    ],
-    "notes": "Agrees with the RSV cache entry unless noted."
-  },
-  "28:20": {
-    "text": "teaching them to observe all that I have commanded you; and lo, I am with you always, to the close of the age.\"",
-    "status": "single-source",
-    "sources": [
-      {
-        "url": "https://www.biblegateway.com/passage/?search=Matthew+28%3A18-20&version=RSVCE",
-        "date": "2026-10-01"
-      }
-    ],
-    "notes": "Agrees with the RSV cache entry unless noted."
-  }
+ "28:18": {
+  "text": "And Jesus came and said to them, \"All authority in heaven and on earth has been given to me.",
+  "status": "single-source",
+  "sources": [
+   {
+    "url": "https://www.biblegateway.com/passage/?search=Matthew+28%3A18-20&version=RSVCE",
+    "date": "2026-10-01"
+   }
+  ],
+  "notes": "Agrees with the RSV cache entry unless noted."
+ },
+ "28:19": {
+  "text": "Go therefore and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit,",
+  "status": "single-source",
+  "sources": [
+   {
+    "url": "https://www.biblegateway.com/passage/?search=Matthew+28%3A18-20&version=RSVCE",
+    "date": "2026-10-01"
+   }
+  ],
+  "notes": "Agrees with the RSV cache entry unless noted."
+ },
+ "28:20": {
+  "text": "teaching them to observe all that I have commanded you; and lo, I am with you always, to the close of the age.\"",
+  "status": "single-source",
+  "sources": [
+   {
+    "url": "https://www.biblegateway.com/passage/?search=Matthew+28%3A18-20&version=RSVCE",
+    "date": "2026-10-01"
+   }
+  ],
+  "notes": "Agrees with the RSV cache entry unless noted."
+ },
+ "10:16": {
+  "text": "Behold, I send you out as sheep in the midst of wolves; so be wise as serpents and innocent as doves.",
+  "status": "verified",
+  "sources": [
+   {
+    "url": "https://bible-history.com/rsvce/matthew-10",
+    "date": "2026-10-06"
+   },
+   {
+    "url": "https://www.biblestudytools.com/rsv/matthew/10.html",
+    "date": "2026-10-06"
+   }
+  ],
+  "notes": "Checked for Ch. 11 (2026-10-06)."
+ },
+ "16:24": {
+  "text": "Then Jesus told his disciples, \"If any man would come after me, let him deny himself and take up his cross and follow me.",
+  "status": "verified",
+  "sources": [
+   {
+    "url": "https://bible-history.com/rsvce/matthew-16",
+    "date": "2026-10-06"
+   },
+   {
+    "url": "RSV cache entry (verified 2026-09-27/29)",
+    "date": "2026-10-06"
+   }
+  ],
+  "notes": "Checked for Ch. 11 (2026-10-06)."
+ },
+ "16:25": {
+  "text": "For whoever would save his life will lose it, and whoever loses his life for my sake will find it.",
+  "status": "verified",
+  "sources": [
+   {
+    "url": "https://bible-history.com/rsvce/matthew-16",
+    "date": "2026-10-06"
+   },
+   {
+    "url": "RSV cache entry (verified 2026-09-27/29)",
+    "date": "2026-10-06"
+   }
+  ],
+  "notes": "Checked for Ch. 11 (2026-10-06)."
+ },
+ "22:37": {
+  "text": "You shall love the Lord your God with all your heart, and with all your soul, and with all your mind.",
+  "status": "verified",
+  "sources": [
+   {
+    "url": "https://bible-history.com/rsvce/matthew-22",
+    "date": "2026-10-15"
+   }
+  ],
+  "notes": "Fetched 2026-10-15 in both RSVCE (bible-history.com) and RSV; they agree."
+ },
+ "22:38": {
+  "text": "This is the great and first commandment.",
+  "status": "verified",
+  "sources": [
+   {
+    "url": "https://bible-history.com/rsvce/matthew-22",
+    "date": "2026-10-15"
+   }
+  ],
+  "notes": "Fetched 2026-10-15 in both RSVCE (bible-history.com) and RSV; they agree."
+ },
+ "22:39": {
+  "text": "And a second is like it, You shall love your neighbor as yourself.",
+  "status": "verified",
+  "sources": [
+   {
+    "url": "https://bible-history.com/rsvce/matthew-22",
+    "date": "2026-10-15"
+   }
+  ],
+  "notes": "Fetched 2026-10-15 in both RSVCE (bible-history.com) and RSV; they agree."
+ },
+ "16:18": {
+  "text": "And I tell you, you are Peter, and on this rock I will build my church, and the powers of death shall not prevail against it.",
+  "status": "verified",
+  "sources": [
+   {
+    "url": "https://bible-history.com/rsvce/matthew-16",
+    "date": "2026-10-15"
+   },
+   {
+    "url": "https://www.biblestudytools.com/rsv/matthew/16.html",
+    "date": "2026-10-15"
+   }
+  ],
+  "notes": "RSVCE and plain RSV agree word for word (fetched 2026-10-15 for the Ch. 6 'start my own church' sentence). Already quoted in Ch. 6 at 16:18-19; the new sentence only echoes it."
+ }
 }

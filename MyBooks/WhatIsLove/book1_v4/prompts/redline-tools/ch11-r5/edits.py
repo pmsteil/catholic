@@ -1,0 +1,1 @@
+E=[('Redline 5 · love is a gift', 79, 'This is the free-will principle we have seen in every chapter — love cannot be forced on a heart that refuses it.', 'This is the free-will principle we have seen throughout this book: love is a gift, and a gift cannot be forced on a heart that refuses it.')]

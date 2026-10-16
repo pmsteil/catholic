@@ -331,3 +331,22 @@ reference · status · date
 - Roman Missal 2011 dismissals: 'Go forth, the Mass is ended.' (now verified); 'Go in peace, glorifying the Lord by your life.' · verified · 2026-10-05
 - Lumen Gentium 26 (Leo: transformed into that which we consume) · canonical · 2026-10-05
 - John 3:30 (RSVCE) · verified · 2026-10-05
+- RSVCE Matthew 10:16; James 1:5, 1:22; Luke 15:17, 15:20, 15:24, 23:43; 1 John 4:7-8; 1 Kings 3:9-10; Isaiah 11:2; 2 Corinthians 5:17; Proverbs 3:5-6; Genesis 1:27; Romans 3:8; Wisdom 8:7, 9:13, 9:14, 9:17 · verified (RSVCE + RSV) · 2026-10-06 (Ch. 11)
+- RSVCE Matthew 16:24-25, Isaiah 1:18, Romans 12:21 · verified · 2026-10-06
+- RSVCE Wisdom 7:7, Proverbs 14:15 · single-source · 2026-10-06
+- CCC 25, 1783, 1784, 1785, 1805, 1806, 1817, 1818, 1830, 1831, 1849, 2277, 2278, 2279, 2358 · canonical · 2026-10-06 (Ch. 11)
+- magisterium/dignitas-infinita.json §1 · canonical · 2026-10-06
+- magisterium/veritatis-splendor.json §81 · single-source · 2026-10-06
+- other/wojtyla-love-and-responsibility.json ch. II p. 135 · verified · 2026-10-06
+- other/augustine-city-of-god.json XV.22 · single-source · 2026-10-06
+- summa II-II q.26, q.47 a.8, q.48, q.51 a.4, q.52 a.2 · single-source · 2026-10-06
+- RSV (plain) copies of the Ch. 11 verses: Matthew 10:16; James 1:5, 1:22; Luke 15:17, 15:20, 15:24; 1 John 4:7-8; 1 Kings 3:9-10; Isaiah 11:2; 2 Corinthians 5:17; Proverbs 3:5-6; Genesis 1:27; Romans 3:8; Wisdom 8:7, 9:13, 9:14, 9:17 · single-source (RSV), each agreeing with its verified RSVCE entry · 2026-10-06
+- CCC 811 (second sentence) · canonical · 2026-10-06 (four marks of love)
+- magisterium/rosarium-virginis-mariae.json §1 · canonical · 2026-10-09
+- ccc/1423-1424.json (five names, openings only) · canonical · 2026-10-09
+- bible/RSVCE/romans.json 5:5 (opening clause only) · verified · 2026-10-15
+- bible/RSV/romans.json 5:5 (opening clause only) · single-source · 2026-10-15
+- ccc/108.json · canonical · 2026-10-15
+- 2026-10-15 (Ch. 11 Further Study check), RSVCE + RSV, verified: Matthew 22:37-39; Proverbs 2:3-6, 14:15 (upgraded); Wisdom 7:7 (upgraded), 7:8, 9:15-16; Philippians 2:3-4; Ephesians 3:10-12, 3:14-21, 4:11, 4:13-14; Colossians 1:9-10 · Ephesians 4:12 disputed (RSVCE "for the equipment of the saints" / RSV "to equip the saints")
+- bible/RSVCE/matthew.json 16:18 · verified · 2026-10-15
+- bible/RSV/matthew.json 16:18 · single-source · 2026-10-15

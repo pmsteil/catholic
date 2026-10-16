@@ -1,0 +1,1 @@
+E=[("Redline 13 · God's love is infinite", 124, "God's truth, justice, mercy and sacrifice are infinite; He can pour Himself out for all without running dry.", "God's love is infinite; He can pour Himself out for all without running dry.")]

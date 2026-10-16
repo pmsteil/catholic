@@ -1,0 +1,1 @@
+E=[('Redline 11 · our own soul, and our own life', 116, 'by *choosing sin* to "help" someone else.', 'by *choosing sin* to "help" someone else. Nor may we treat our own life as cheap, putting ourselves in harm\'s way carelessly or without a just reason: "We are stewards, not owners, of the life God has entrusted to us" (*CCC* 2280).')]

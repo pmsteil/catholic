@@ -1,0 +1,1 @@
+E=[('Redline 3 · every facet of love in the opening', 37, 'You know love must be truthful, just, merciful and sacrificial.', 'You know love is sacred, that it is a gift of covenant, that it must be truthful, just, merciful and sacrificial all at once, and that it must give life.')]

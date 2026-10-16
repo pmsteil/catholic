@@ -1,0 +1,1 @@
+E=[('Redline 8 · the father and the mother', 103, 'A father often leans toward justice, and his temptation is to become the elder brother; a mother often leans toward mercy, and hers is to throw the party in the far country.', 'A father often leans toward justice; a mother often leans toward mercy.')]

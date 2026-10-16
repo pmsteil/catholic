@@ -1,122 +1,130 @@
 {
-  "2:3": {
-    "text": "Do nothing from selfishness or conceit, but in humility count others better than yourselves.",
-    "status": "verified",
-    "sources": [
-      {
-        "url": "https://www.biblestudytools.com/rsv/philippians/2.html",
-        "date": "2026-09-29"
-      },
-      {
-        "url": "https://www.christianity.com/bible/rsv/philippians/2",
-        "date": "2026-09-29"
-      }
-    ],
-    "notes": ""
-  },
-  "2:4": {
-    "text": "Let each of you look not only to his own interests, but also to the interests of others.",
-    "status": "verified",
-    "sources": [
-      {
-        "url": "https://www.biblestudytools.com/rsv/philippians/2.html",
-        "date": "2026-09-29"
-      },
-      {
-        "url": "https://www.christianity.com/bible/rsv/philippians/2",
-        "date": "2026-09-29"
-      }
-    ],
-    "notes": ""
-  },
-  "2:5": {
-    "text": "Have this mind among yourselves, which is yours in Christ Jesus,",
-    "status": "verified",
-    "sources": [
-      {
-        "url": "https://www.biblestudytools.com/rsv/philippians/2.html",
-        "date": "2026-09-29"
-      },
-      {
-        "url": "https://www.christianity.com/bible/rsv/philippians/2",
-        "date": "2026-09-29"
-      }
-    ],
-    "notes": ""
-  },
-  "2:6": {
-    "text": "who, though he was in the form of God, did not count equality with God a thing to be grasped,",
-    "status": "verified",
-    "sources": [
-      {
-        "url": "https://www.biblestudytools.com/rsv/philippians/2.html",
-        "date": "2026-09-29"
-      },
-      {
-        "url": "https://www.christianity.com/bible/rsv/philippians/2",
-        "date": "2026-09-29"
-      }
-    ],
-    "notes": ""
-  },
-  "2:7": {
-    "text": "but emptied himself, taking the form of a servant, being born in the likeness of men.",
-    "status": "verified",
-    "sources": [
-      {
-        "url": "https://www.biblestudytools.com/rsv/philippians/2.html",
-        "date": "2026-09-29"
-      },
-      {
-        "url": "https://www.christianity.com/bible/rsv/philippians/2",
-        "date": "2026-09-29"
-      }
-    ],
-    "notes": ""
-  },
-  "2:8": {
-    "text": "And being found in human form he humbled himself and became obedient unto death, even death on a cross.",
-    "status": "verified",
-    "sources": [
-      {
-        "url": "https://www.biblestudytools.com/rsv/philippians/2.html",
-        "date": "2026-09-29"
-      },
-      {
-        "url": "https://www.christianity.com/bible/rsv/philippians/2",
-        "date": "2026-09-29"
-      }
-    ],
-    "notes": ""
-  },
-  "2:12": {
-    "text": "Therefore, my beloved, as you have always obeyed, so now, not only as in my presence but much more in my absence, work out your own salvation with fear and trembling;",
-    "status": "verified",
-    "sources": [
-      {
-        "url": "https://www.biblestudytools.com/rsv/philippians/2.html",
-        "date": "2026-09-29"
-      },
-      {
-        "url": "https://www.christianity.com/bible/rsv/philippians/2",
-        "date": "2026-09-29"
-      }
-    ],
-    "notes": ""
-  },
-  "2:13": {
-    "text": "for God is at work in you, both to will and to work for his good pleasure.",
-    "status": "verified",
-    "sources": [
-      {
-        "url": "https://www.biblestudytools.com/rsv/philippians/2.html",
-        "date": "2026-09-29"
-      },
-      {
-        "url": "https://www.christianity.com/bible/rsv/philippians/2",
-        "date": "2026-09-29"
-      }
-    ],
-    "notes": ""
-  }
+ "2:3": {
+  "text": "Do nothing from selfishness or conceit, but in humility count others better than yourselves.",
+  "status": "verified",
+  "sources": [
+   {
+    "url": "https://www.biblestudytools.com/rsv/philippians/2.html",
+    "date": "2026-09-29"
+   },
+   {
+    "url": "https://www.christianity.com/bible/rsv/philippians/2",
+    "date": "2026-09-29"
+   },
+   {
+    "url": "https://www.biblestudytools.com/rsv/philippians/2.html",
+    "date": "2026-10-15"
+   }
+  ],
+  "notes": "Fetched 2026-10-15 in both RSVCE (bible-history.com) and RSV; they agree. Ch. 11 Further Study had wrongly said \"more significant\" (not RSV wording); fixed in Redline 24."
+ },
+ "2:4": {
+  "text": "Let each of you look not only to his own interests, but also to the interests of others.",
+  "status": "verified",
+  "sources": [
+   {
+    "url": "https://www.biblestudytools.com/rsv/philippians/2.html",
+    "date": "2026-09-29"
+   },
+   {
+    "url": "https://www.christianity.com/bible/rsv/philippians/2",
+    "date": "2026-09-29"
+   },
+   {
+    "url": "https://www.biblestudytools.com/rsv/philippians/2.html",
+    "date": "2026-10-15"
+   }
+  ],
+  "notes": "Fetched 2026-10-15 in both RSVCE (bible-history.com) and RSV; they agree. Ch. 11 Further Study had wrongly said \"more significant\" (not RSV wording); fixed in Redline 24."
+ },
+ "2:5": {
+  "text": "Have this mind among yourselves, which is yours in Christ Jesus,",
+  "status": "verified",
+  "sources": [
+   {
+    "url": "https://www.biblestudytools.com/rsv/philippians/2.html",
+    "date": "2026-09-29"
+   },
+   {
+    "url": "https://www.christianity.com/bible/rsv/philippians/2",
+    "date": "2026-09-29"
+   }
+  ],
+  "notes": ""
+ },
+ "2:6": {
+  "text": "who, though he was in the form of God, did not count equality with God a thing to be grasped,",
+  "status": "verified",
+  "sources": [
+   {
+    "url": "https://www.biblestudytools.com/rsv/philippians/2.html",
+    "date": "2026-09-29"
+   },
+   {
+    "url": "https://www.christianity.com/bible/rsv/philippians/2",
+    "date": "2026-09-29"
+   }
+  ],
+  "notes": ""
+ },
+ "2:7": {
+  "text": "but emptied himself, taking the form of a servant, being born in the likeness of men.",
+  "status": "verified",
+  "sources": [
+   {
+    "url": "https://www.biblestudytools.com/rsv/philippians/2.html",
+    "date": "2026-09-29"
+   },
+   {
+    "url": "https://www.christianity.com/bible/rsv/philippians/2",
+    "date": "2026-09-29"
+   }
+  ],
+  "notes": ""
+ },
+ "2:8": {
+  "text": "And being found in human form he humbled himself and became obedient unto death, even death on a cross.",
+  "status": "verified",
+  "sources": [
+   {
+    "url": "https://www.biblestudytools.com/rsv/philippians/2.html",
+    "date": "2026-09-29"
+   },
+   {
+    "url": "https://www.christianity.com/bible/rsv/philippians/2",
+    "date": "2026-09-29"
+   }
+  ],
+  "notes": ""
+ },
+ "2:12": {
+  "text": "Therefore, my beloved, as you have always obeyed, so now, not only as in my presence but much more in my absence, work out your own salvation with fear and trembling;",
+  "status": "verified",
+  "sources": [
+   {
+    "url": "https://www.biblestudytools.com/rsv/philippians/2.html",
+    "date": "2026-09-29"
+   },
+   {
+    "url": "https://www.christianity.com/bible/rsv/philippians/2",
+    "date": "2026-09-29"
+   }
+  ],
+  "notes": ""
+ },
+ "2:13": {
+  "text": "for God is at work in you, both to will and to work for his good pleasure.",
+  "status": "verified",
+  "sources": [
+   {
+    "url": "https://www.biblestudytools.com/rsv/philippians/2.html",
+    "date": "2026-09-29"
+   },
+   {
+    "url": "https://www.christianity.com/bible/rsv/philippians/2",
+    "date": "2026-09-29"
+   }
+  ],
+  "notes": ""
+ }
 }

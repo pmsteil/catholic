@@ -1,58 +1,69 @@
 {
-  "30:18": {
-    "text": "Therefore the LORD waits to be gracious to you; therefore he exalts himself to show mercy to you. For the LORD is a God of justice; blessed are all those who wait for him.",
-    "status": "verified",
-    "sources": [
-      {
-        "url": "https://www.biblestudytools.com/rsv/isaiah/30.html",
-        "date": "2026-09-27"
-      },
-      {
-        "url": "https://www.christianity.com/bible/rsv/isaiah/30",
-        "date": "2026-09-27"
-      }
-    ],
-    "notes": "Second source for the full verse: Ch. 7 pass, memory.html entry 60 (christianity.com, studylight.org). Ch. 8 opening quotation."
-  },
-  "1:18": {
-    "text": "\"Come now, let us reason together, says the LORD: though your sins are like scarlet, they shall be as white as snow; though they are red like crimson, they shall become like wool.",
-    "status": "verified",
-    "sources": [
-      {
-        "url": "https://www.biblestudytools.com/rsv/isaiah/1.html",
-        "date": "2026-09-29"
-      },
-      {
-        "url": "https://www.christianity.com/bible/rsv/isaiah/1",
-        "date": "2026-09-29"
-      }
-    ],
-    "notes": "christianity.com shows 'Lord'; print is LORD (small caps)."
-  },
-  "53:10": {
-    "text": "Yet it was the will of the LORD to bruise him; he has put him to grief; when he makes himself an offering for sin, he shall see his offspring, he shall prolong his days; the will of the LORD shall prosper in his hand;",
-    "status": "verified",
-    "sources": [
-      {
-        "url": "https://www.biblestudytools.com/rsv/isaiah/53.html",
-        "date": "2026-09-29"
-      },
-      {
-        "url": "https://www.christianity.com/bible/rsv/isaiah/53",
-        "date": "2026-09-29"
-      }
-    ],
-    "notes": ""
-  },
-  "53:12": {
-    "text": "Therefore I will divide him a portion with the great, and he shall divide the spoil with the strong; because he poured out his soul to death, and was numbered with the transgressors; yet he bore the sin of many, and made intercession for the transgressors.",
-    "status": "single-source",
-    "sources": [
-      {
-        "url": "https://www.biblestudytools.com/rsv/isaiah/53.html",
-        "date": "2026-09-29"
-      }
-    ],
-    "notes": ""
-  }
+ "30:18": {
+  "text": "Therefore the LORD waits to be gracious to you; therefore he exalts himself to show mercy to you. For the LORD is a God of justice; blessed are all those who wait for him.",
+  "status": "verified",
+  "sources": [
+   {
+    "url": "https://www.biblestudytools.com/rsv/isaiah/30.html",
+    "date": "2026-09-27"
+   },
+   {
+    "url": "https://www.christianity.com/bible/rsv/isaiah/30",
+    "date": "2026-09-27"
+   }
+  ],
+  "notes": "Second source for the full verse: Ch. 7 pass, memory.html entry 60 (christianity.com, studylight.org). Ch. 8 opening quotation."
+ },
+ "1:18": {
+  "text": "\"Come now, let us reason together, says the LORD: though your sins are like scarlet, they shall be as white as snow; though they are red like crimson, they shall become like wool.",
+  "status": "verified",
+  "sources": [
+   {
+    "url": "https://www.biblestudytools.com/rsv/isaiah/1.html",
+    "date": "2026-09-29"
+   },
+   {
+    "url": "https://www.christianity.com/bible/rsv/isaiah/1",
+    "date": "2026-09-29"
+   }
+  ],
+  "notes": "christianity.com shows 'Lord'; print is LORD (small caps)."
+ },
+ "53:10": {
+  "text": "Yet it was the will of the LORD to bruise him; he has put him to grief; when he makes himself an offering for sin, he shall see his offspring, he shall prolong his days; the will of the LORD shall prosper in his hand;",
+  "status": "verified",
+  "sources": [
+   {
+    "url": "https://www.biblestudytools.com/rsv/isaiah/53.html",
+    "date": "2026-09-29"
+   },
+   {
+    "url": "https://www.christianity.com/bible/rsv/isaiah/53",
+    "date": "2026-09-29"
+   }
+  ],
+  "notes": ""
+ },
+ "53:12": {
+  "text": "Therefore I will divide him a portion with the great, and he shall divide the spoil with the strong; because he poured out his soul to death, and was numbered with the transgressors; yet he bore the sin of many, and made intercession for the transgressors.",
+  "status": "single-source",
+  "sources": [
+   {
+    "url": "https://www.biblestudytools.com/rsv/isaiah/53.html",
+    "date": "2026-09-29"
+   }
+  ],
+  "notes": ""
+ },
+ "11:2": {
+  "text": "And the Spirit of the LORD shall rest upon him, the spirit of wisdom and understanding, the spirit of counsel and might, the spirit of knowledge and the fear of the LORD.",
+  "status": "single-source",
+  "sources": [
+   {
+    "url": "https://www.biblestudytools.com/rsv/isaiah/11.html",
+    "date": "2026-10-06"
+   }
+  ],
+  "notes": "Agrees word for word with the RSVCE entry (bible-history.com). Ch. 11, 2026-10-06."
+ }
 }

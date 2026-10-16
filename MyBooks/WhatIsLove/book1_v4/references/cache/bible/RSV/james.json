@@ -1,117 +1,139 @@
 {
-  "2:13": {
-    "text": "For judgment is without mercy to one who has shown no mercy; yet mercy triumphs over judgment.",
-    "status": "single-source",
-    "sources": [
-      {
-        "url": "https://www.biblestudytools.com/rsv/james/2.html",
-        "date": "2026-09-27"
-      }
-    ]
-  },
-  "4:12": {
-    "text": "There is one lawgiver and judge, he who is able to save and to destroy. But who are you that you judge your neighbor?",
-    "status": "single-source",
-    "sources": [
-      {
-        "url": "https://www.biblestudytools.com/rsv/james/4.html",
-        "date": "2026-09-27"
-      }
-    ]
-  },
-  "5:14": {
-    "text": "Is any among you sick? Let him call for the elders of the church, and let them pray over him, anointing him with oil in the name of the Lord;",
-    "status": "single-source",
-    "sources": [
-      {
-        "url": "https://www.biblestudytools.com/rsv/james/5.html",
-        "date": "2026-09-27"
-      }
-    ]
-  },
-  "5:15": {
-    "text": "and the prayer of faith will save the sick man, and the Lord will raise him up; and if he has committed sins, he will be forgiven.",
-    "status": "single-source",
-    "sources": [
-      {
-        "url": "https://www.biblestudytools.com/rsv/james/5.html",
-        "date": "2026-09-27"
-      }
-    ]
-  },
-  "2:14": {
-    "text": "What does it profit, my brethren, if a man says he has faith but has not works? Can his faith save him?",
-    "status": "verified",
-    "sources": [
-      {
-        "url": "https://www.biblestudytools.com/rsv/james/2.html",
-        "date": "2026-09-29"
-      },
-      {
-        "url": "https://www.christianity.com/bible/rsv/james/2",
-        "date": "2026-09-29"
-      }
-    ],
-    "notes": ""
-  },
-  "2:15": {
-    "text": "If a brother or sister is ill-clad and in lack of daily food,",
-    "status": "verified",
-    "sources": [
-      {
-        "url": "https://www.biblestudytools.com/rsv/james/2.html",
-        "date": "2026-09-29"
-      },
-      {
-        "url": "https://www.christianity.com/bible/rsv/james/2",
-        "date": "2026-09-29"
-      }
-    ],
-    "notes": ""
-  },
-  "2:16": {
-    "text": "and one of you says to them, \"Go in peace, be warmed and filled,\" without giving them the things needed for the body, what does it profit?",
-    "status": "verified",
-    "sources": [
-      {
-        "url": "https://www.biblestudytools.com/rsv/james/2.html",
-        "date": "2026-09-29"
-      },
-      {
-        "url": "https://www.christianity.com/bible/rsv/james/2",
-        "date": "2026-09-29"
-      }
-    ],
-    "notes": ""
-  },
-  "2:17": {
-    "text": "So faith by itself, if it has no works, is dead.",
-    "status": "verified",
-    "sources": [
-      {
-        "url": "https://www.biblestudytools.com/rsv/james/2.html",
-        "date": "2026-09-29"
-      },
-      {
-        "url": "https://www.christianity.com/bible/rsv/james/2",
-        "date": "2026-09-29"
-      }
-    ],
-    "notes": ""
-  },
-  "2:26": {
-    "text": "For as the body apart from the spirit is dead, so faith apart from works is dead.",
-    "status": "verified",
-    "sources": [
-      {
-        "url": "https://www.biblestudytools.com/rsv/james/2.html",
-        "date": "2026-09-29"
-      },
-      {
-        "url": "https://www.christianity.com/bible/rsv/james/2",
-        "date": "2026-09-29"
-      }
-    ],
-    "notes": ""
-  }
+ "2:13": {
+  "text": "For judgment is without mercy to one who has shown no mercy; yet mercy triumphs over judgment.",
+  "status": "single-source",
+  "sources": [
+   {
+    "url": "https://www.biblestudytools.com/rsv/james/2.html",
+    "date": "2026-09-27"
+   }
+  ]
+ },
+ "4:12": {
+  "text": "There is one lawgiver and judge, he who is able to save and to destroy. But who are you that you judge your neighbor?",
+  "status": "single-source",
+  "sources": [
+   {
+    "url": "https://www.biblestudytools.com/rsv/james/4.html",
+    "date": "2026-09-27"
+   }
+  ]
+ },
+ "5:14": {
+  "text": "Is any among you sick? Let him call for the elders of the church, and let them pray over him, anointing him with oil in the name of the Lord;",
+  "status": "single-source",
+  "sources": [
+   {
+    "url": "https://www.biblestudytools.com/rsv/james/5.html",
+    "date": "2026-09-27"
+   }
+  ]
+ },
+ "5:15": {
+  "text": "and the prayer of faith will save the sick man, and the Lord will raise him up; and if he has committed sins, he will be forgiven.",
+  "status": "single-source",
+  "sources": [
+   {
+    "url": "https://www.biblestudytools.com/rsv/james/5.html",
+    "date": "2026-09-27"
+   }
+  ]
+ },
+ "2:14": {
+  "text": "What does it profit, my brethren, if a man says he has faith but has not works? Can his faith save him?",
+  "status": "verified",
+  "sources": [
+   {
+    "url": "https://www.biblestudytools.com/rsv/james/2.html",
+    "date": "2026-09-29"
+   },
+   {
+    "url": "https://www.christianity.com/bible/rsv/james/2",
+    "date": "2026-09-29"
+   }
+  ],
+  "notes": ""
+ },
+ "2:15": {
+  "text": "If a brother or sister is ill-clad and in lack of daily food,",
+  "status": "verified",
+  "sources": [
+   {
+    "url": "https://www.biblestudytools.com/rsv/james/2.html",
+    "date": "2026-09-29"
+   },
+   {
+    "url": "https://www.christianity.com/bible/rsv/james/2",
+    "date": "2026-09-29"
+   }
+  ],
+  "notes": ""
+ },
+ "2:16": {
+  "text": "and one of you says to them, \"Go in peace, be warmed and filled,\" without giving them the things needed for the body, what does it profit?",
+  "status": "verified",
+  "sources": [
+   {
+    "url": "https://www.biblestudytools.com/rsv/james/2.html",
+    "date": "2026-09-29"
+   },
+   {
+    "url": "https://www.christianity.com/bible/rsv/james/2",
+    "date": "2026-09-29"
+   }
+  ],
+  "notes": ""
+ },
+ "2:17": {
+  "text": "So faith by itself, if it has no works, is dead.",
+  "status": "verified",
+  "sources": [
+   {
+    "url": "https://www.biblestudytools.com/rsv/james/2.html",
+    "date": "2026-09-29"
+   },
+   {
+    "url": "https://www.christianity.com/bible/rsv/james/2",
+    "date": "2026-09-29"
+   }
+  ],
+  "notes": ""
+ },
+ "2:26": {
+  "text": "For as the body apart from the spirit is dead, so faith apart from works is dead.",
+  "status": "verified",
+  "sources": [
+   {
+    "url": "https://www.biblestudytools.com/rsv/james/2.html",
+    "date": "2026-09-29"
+   },
+   {
+    "url": "https://www.christianity.com/bible/rsv/james/2",
+    "date": "2026-09-29"
+   }
+  ],
+  "notes": ""
+ },
+ "1:5": {
+  "text": "If any of you lacks wisdom, let him ask God, who gives to all men generously and without reproaching, and it will be given him.",
+  "status": "single-source",
+  "sources": [
+   {
+    "url": "https://www.biblestudytools.com/rsv/james/1.html",
+    "date": "2026-10-06"
+   }
+  ],
+  "notes": "Agrees word for word with the RSVCE entry (bible-history.com). Ch. 11, 2026-10-06."
+ },
+ "1:22": {
+  "text": "But be doers of the word, and not hearers only, deceiving yourselves.",
+  "status": "single-source",
+  "sources": [
+   {
+    "url": "https://www.biblestudytools.com/rsv/james/1.html",
+    "date": "2026-10-06"
+   }
+  ],
+  "notes": "Agrees word for word with the RSVCE entry (bible-history.com). Ch. 11, 2026-10-06."
+ }
 }

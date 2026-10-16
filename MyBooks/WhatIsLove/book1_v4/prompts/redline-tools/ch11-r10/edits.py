@@ -1,0 +1,1 @@
+E=[('Redline 10 · a refusal to submit to what is true', 111, 'pretending otherwise is not generosity — it is a refusal to think.', 'pretending otherwise is not generosity — it is a refusal to submit to what is true.')]

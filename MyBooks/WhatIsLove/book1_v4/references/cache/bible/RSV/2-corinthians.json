@@ -1,41 +1,52 @@
 {
-  "5:18": {
-    "text": "All this is from God, who through Christ reconciled us to himself and gave us the ministry of reconciliation;",
-    "status": "verified",
-    "sources": [
-      {
-        "url": "https://www.biblestudytools.com/rsv/2-corinthians/5.html",
-        "date": "2026-09-27"
-      },
-      {
-        "url": "https://www.christianity.com/bible/rsv/2-corinthians/5",
-        "date": "2026-09-27"
-      }
-    ]
-  },
-  "5:19": {
-    "text": "that is, in Christ God was reconciling the world to himself, not counting their trespasses against them, and entrusting to us the message of reconciliation.",
-    "status": "single-source",
-    "sources": [
-      {
-        "url": "https://www.biblestudytools.com/rsv/2-corinthians/5.html",
-        "date": "2026-09-27"
-      }
-    ]
-  },
-  "5:21": {
-    "text": "For our sake he made him to be sin who knew no sin, so that in him we might become the righteousness of God.",
-    "status": "verified",
-    "sources": [
-      {
-        "url": "https://www.biblestudytools.com/rsv/2-corinthians/5.html",
-        "date": "2026-09-29"
-      },
-      {
-        "url": "https://www.christianity.com/bible/rsv/2-corinthians/5",
-        "date": "2026-09-29"
-      }
-    ],
-    "notes": ""
-  }
+ "5:18": {
+  "text": "All this is from God, who through Christ reconciled us to himself and gave us the ministry of reconciliation;",
+  "status": "verified",
+  "sources": [
+   {
+    "url": "https://www.biblestudytools.com/rsv/2-corinthians/5.html",
+    "date": "2026-09-27"
+   },
+   {
+    "url": "https://www.christianity.com/bible/rsv/2-corinthians/5",
+    "date": "2026-09-27"
+   }
+  ]
+ },
+ "5:19": {
+  "text": "that is, in Christ God was reconciling the world to himself, not counting their trespasses against them, and entrusting to us the message of reconciliation.",
+  "status": "single-source",
+  "sources": [
+   {
+    "url": "https://www.biblestudytools.com/rsv/2-corinthians/5.html",
+    "date": "2026-09-27"
+   }
+  ]
+ },
+ "5:21": {
+  "text": "For our sake he made him to be sin who knew no sin, so that in him we might become the righteousness of God.",
+  "status": "verified",
+  "sources": [
+   {
+    "url": "https://www.biblestudytools.com/rsv/2-corinthians/5.html",
+    "date": "2026-09-29"
+   },
+   {
+    "url": "https://www.christianity.com/bible/rsv/2-corinthians/5",
+    "date": "2026-09-29"
+   }
+  ],
+  "notes": ""
+ },
+ "5:17": {
+  "text": "Therefore, if any one is in Christ, he is a new creation; the old has passed away, behold, the new has come.",
+  "status": "single-source",
+  "sources": [
+   {
+    "url": "https://www.biblestudytools.com/rsv/2-corinthians/5.html",
+    "date": "2026-10-06"
+   }
+  ],
+  "notes": "Agrees word for word with the RSVCE entry (bible-history.com). Ch. 11, 2026-10-06."
+ }
 }
