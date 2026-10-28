@@ -1,0 +1,24 @@
+{
+ "20": {
+  "text": "In this way, any reference to common values and to a truth absolutely binding on everyone is lost, and social life ventures on to the shifting sands of complete relativism. At that point, everything is negotiable, everything is open to bargaining: even the first of the fundamental rights, the right to life.",
+  "status": "canonical",
+  "sources": [
+   {
+    "url": "https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_25031995_evangelium-vitae.html",
+    "date": "2026-10-16"
+   }
+  ],
+  "notes": "Two consecutive sentences of EV 20. Ch. 12 blockquote had spliced EV 22's opening onto these with an ellipsis and printed 'ventures onto' and 'Everything' (capital, without 'At that point,')."
+ },
+ "22": {
+  "text": "Consequently, when the sense of God is lost, the sense of man is also threatened and poisoned, as the Second Vatican Council concisely states:",
+  "status": "canonical",
+  "sources": [
+   {
+    "url": "https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_25031995_evangelium-vitae.html",
+    "date": "2026-10-16"
+   }
+  ],
+  "notes": "Opening of EV 22 (not 21). Ch. 12 had cut 'and poisoned'. EV 21 has a different sentence: 'when the sense of God is lost, there is also a tendency to lose the sense of man, of his dignity and his life'."
+ }
+}

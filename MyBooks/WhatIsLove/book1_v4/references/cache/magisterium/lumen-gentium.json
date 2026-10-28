@@ -1,13 +1,35 @@
 {
-  "26-leo": {
-    "text": "For \"the partaking of the body and blood of Christ does nothing other than make us be transformed into that which we consume\".",
-    "status": "canonical",
-    "sources": [
-      {
-        "url": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html",
-        "date": "2026-10-05"
-      }
-    ],
-    "notes": "LG 26, footnote 55: Pope St. Leo the Great, Sermon 63.7. Ch 10 line 249."
-  }
+ "26-leo": {
+  "text": "For \"the partaking of the body and blood of Christ does nothing other than make us be transformed into that which we consume\".",
+  "status": "canonical",
+  "sources": [
+   {
+    "url": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html",
+    "date": "2026-10-05"
+   }
+  ],
+  "notes": "LG 26, footnote 55: Pope St. Leo the Great, Sermon 63.7. Ch 10 line 249."
+ },
+ "16-salvation": {
+  "text": "Those also can attain to salvation who through no fault of their own do not know the Gospel of Christ or His Church, yet sincerely seek God and moved by grace strive by their deeds to do His will as it is known to them through the dictates of conscience.",
+  "status": "canonical",
+  "sources": [
+   {
+    "url": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html",
+    "date": "2026-10-16"
+   }
+  ],
+  "notes": "LG 16. Section also: those not yet at explicit knowledge of God; good and truth among them a preparation for the Gospel. Ch. 12 line 121."
+ },
+ "16-warning": {
+  "text": "But often men, deceived by the Evil One, have become vain in their reasonings and have exchanged the truth of God for a lie, serving the creature rather than the Creator.",
+  "status": "canonical",
+  "sources": [
+   {
+    "url": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html",
+    "date": "2026-10-16"
+   }
+  ],
+  "notes": "LG 16, followed by the mandate for the missions."
+ }
 }

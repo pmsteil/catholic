@@ -1,0 +1,200 @@
+# Binding: What Love Unites
+
+<div class="blockquote">
+"If I . . . have not charity," says the Apostle, "I am nothing." Whatever my privilege, service, or even virtue, "if I . . . have not charity, I gain nothing." Charity is superior to all the virtues. It is the first of the theological virtues: "So faith, hope, charity abide, these three. But the greatest of these is charity. (1 Corinthians 13:1-3,13)"
+
+\hfill\small — CCC 1826
+</div>
+
+<div class="blockquote">
+"The practice of all the virtues is animated and inspired by charity, which 'binds everything together in perfect harmony' (Col 3:14); it is the form of the virtues; it articulates and orders them among themselves; it is the source and the goal of their Christian practice. Charity upholds and purifies our human ability to love, and raises it to the supernatural perfection of divine love."
+
+\hfill\small — CCC 1827
+</div>
+
+---
+
+Consider the Lord's Passion—the suffering and death He freely accepted for us, from Gethsemane to the Cross. In a single act, every element of the teaching and mission of Jesus comes together. Christ offers truth (our sin creates a debt only God can pay), justice (the debt paid in full—not because God is a harsh creditor, but because the debt was real), mercy (forgiveness freely offered), and sacrifice (the gift of Himself, holding nothing back). What makes that payment redemptive is the love behind it: it is "love 'to the end' that confers on Christ's sacrifice its value as redemption and reparation" (CCC 616). None cancels the others. All serve the others. That is what binding looks like—and Chapter 9 will dwell there fully, at the foot of the Cross. For now, hold the image: perfect integration, nothing left out, nothing distorted. Then consider what happens when any one piece is removed.
+
+## The Problem of Fragmentation
+
+Truth without mercy becomes the father who is never wrong. Justice without mercy becomes the parent who disciplines without teaching. Mercy without truth becomes the parent who pays for a child's addiction rather than insisting on treatment. Sacrifice without justice becomes the parent who gives up everything for a child until the gift turns into a debt the child can never repay. In every one of these, the parent was reaching for something good, and missed one thread.
+
+These are fragmented virtues. Isolated from each other they go thin, and counterfeits move in to take their names: harshness calls itself truth, retribution calls itself justice, enabling calls itself mercy, and a gift with strings attached calls itself sacrifice. The virtue has not turned into the vice; it has been left without the love that would have completed it, and something else is wearing its clothes. When our understanding of God's love is incomplete or lopsided, we inevitably distort how we practice virtue. An overly justice-oriented view of God's love makes us judgmental and harsh. An overly mercy-oriented view makes us enablers of sin. Both are wrong because neither reflects the full picture of God's love. Choosing one facet over the others inevitably leads to a distorted, incomplete, and ultimately harmful version of love.
+
+<div class="callout" style="background-color: #073642; padding: 26px 34px; margin: 34px 0; border-radius: 14px; font-size: 18px; line-height: 1.45; color: #2aa198; border-top: 4px solid #2aa198; border-bottom: 4px solid #2aa198; box-shadow: 0 0 18px rgba(42, 161, 152, 0.12);">
+This is why our definition of perfect love includes the word "binds"—love holds truth, justice, mercy and sacrifice together in life-giving communion. Without authentic love to integrate them, these virtues fragment and become distorted. With authentic love, they work together as one harmonious whole. Holy, you could say.
+</div>
+
+## When a Civilization Breaks the Binding: The Dictatorship of Relativism
+
+What happens inside a single heart when the threads come apart also happens inside a civilization. When a society no longer agrees that truth, justice, mercy and sacrifice are objectively real — when each is reduced to "my truth," "my idea of fairness," "my feelings," "my preferences" — the threads have nothing to hold them together. Substitutes rush in to fill the vacuum: sentiment, majority opinion, utility, personal authenticity. Each *feels* like a standard, until two of them collide. Then there is no arbiter left except power — whoever is loudest, most convincing or strongest (the state, the mob, the market, the algorithm) imposes their preferences on everyone else.
+
+On the eve of his election, Cardinal Joseph Ratzinger — soon to be Pope Benedict XVI — gave this disintegration its exact name:
+
+<div class="blockquote">
+"We are building a dictatorship of relativism that does not recognize anything as definitive and whose ultimate goal consists solely of one's own ego and desires."
+
+\hfill\small — Cardinal Joseph Ratzinger, Homily, *Pro Eligendo Romano Pontifice* (April 18, 2005)
+</div>
+
+He did not call relativism a *dictatorship* because relativists are tyrants by temperament. He called it that because relativism has no principled stopping point against tyranny. Scripture diagnosed the same disease long before Benedict gave it a modern name. The book of Judges closes with the refrain: *"In those days there was no king in Israel; every man did what was right in his own eyes"* (Judges 21:25) — a refrain sounded four times<sup>1</sup> as the structural indictment of a people without a binding authority to tell them what God's love actually required. Why this mattered — and why Christ's answer in the New Covenant is the establishment of His own authoritative Church — belongs fully to Chapter 6. Here it is enough to name the pattern: when no authority binds a people to God's love, every person becomes his own authority, and the dictatorship of relativism is already at the door. St. John Paul II made the same diagnosis in *Evangelium Vitae*: lose the sense of God, and social life ventures "onto the shifting sands of complete relativism," where everything becomes negotiable—even the first of the fundamental rights, the right to life (§20; quoted in full in Chapter 12).
+
+This is the civilizational version of the fragmentation we just named. When the binding breaks in a heart, that person's love deforms. When the binding breaks in a culture, the culture's loves deform — and the weakest pay first: the unborn, the elderly, the poor, the child caught between two houses, the conscience shouted down in the public square. Each chapter that follows takes up one of the threads — truth, justice, mercy, sacrifice — and, among other things, refuses the dictatorship of relativism one thread at a time.
+
+## What Children Know About Binding
+
+Chapter 4 showed us that covenant love—grounded in God's faithfulness and imaged in marriage—is what holds families together. It revealed that love requires binding: truth, justice, mercy and sacrifice integrated into one life-giving whole. But what happens when that binding breaks? What happens when the covenant that should hold a family together shatters?
+
+Consider the child in a fractured home:
+
+*"Tell your mother I said..."*
+
+*"Your father doesn't really love you—I'm the one who loves you."*
+
+*"Which parent do you want to live with?"*
+
+Two houses. Two sets of rules. Two warring factions. The child isn't just hurt—they're *torn*. And here is the most tragic consequence: fragmentation like this does not only wound a child; it can *deform* their capacity for authentic love.
+
+Watch what happens. The child learns to play one parent against the other: "If you don't let me do what I want, I'll go live with Dad." In a unified family, both parents present a unified front—truth, justice, and mercy work together because the parents themselves are bound in love. When that binding breaks, the child discovers that factions can be manipulated.
+
+They learn that love is transactional—conditional on obedience, revocable at will. They learn that loyalty itself is a weapon: the threat of abandonment becomes their primary tool for getting what they want. They learn that authority exists not to protect them but to be circumvented. They learn that commitment is a lie adults tell before they change their minds. And most devastatingly, they learn that they themselves are not worth binding to—that the most sacred covenant imaginable can be dissolved when it becomes inconvenient. They can carry these discoveries into the relationships that follow: unity is naive, authority can be exploited, commitments can be leveraged, and love is just another transaction waiting to be broken.
+
+The wound creates harm. The fragmentation that follows corrupts. This is what happens when love's binding force is broken—not just pain, but the distortion of the very virtues that humanize us.
+
+## What Aquinas Already Saw
+
+The classical definition of love is St. Thomas Aquinas's: *amor est velle alicui bonum* — **"to love is to will the good of another"** (*Summa Theologiae* I-II, q.26, a.4). It is a definition the whole Christian tradition has held for nearly eight hundred years, and it is exactly right. But it is dense. Unpack it, and the four threads of this book are already inside it.
+
+Aquinas's formula has two halves. **"The good"** — *bonum* — names *what* love wills. **"For another"** — *alicui* — names *that* it is willed for them, not for me. Aquinas did not spell out what follows—but pull those two halves apart in the light of this book's definition, and the four pillars appear inside them:
+
+**The good willed** is **truth, justice, and mercy.** Not whatever I happen to *feel* is good for you, and not what is comfortable for me to *call* your good, but your real good — what is objectively true about you (truth), owed to your dignity as a person (justice), and what would restore you where you have fallen (mercy). Strip any one of these and "your good" collapses back into my preference for you, which is no longer your good at all. And **the willing-it-for-you** is where **sacrifice** enters. The Latin says only *for someone*; but willing a real good for someone who is not me will cost me, and that cost is sacrifice. Wanting your good in the abstract is not yet love; wanting it enough to *pay* for it is — sacrifice is what proves the *for you* is real and not disguised self-interest, and a love that costs nothing has not yet shown that it is for the other at all.
+
+This is why the four threads are co-constitutive rather than ranked. They are not four additions bolted onto Aquinas's definition — they are, I am convinced, its interior anatomy. Truth, justice, and mercy specify the *good*; sacrifice is the price of the *for another*. Take any one of them out and you have not pared love down to essentials; you have stopped describing love.
+
+Calvary is Aquinas's definition at full volume. *The good willed*: our salvation — the truth about our condition spoken without flinching, the justice of God satisfied, mercy poured out without limit. *Willed for us*: *"for us men and for our salvation"* — at the cost of everything. Truth, justice, mercy and sacrifice, bound in one act. **That is what binding looks like.**
+
+## How Love Binds Truth, Justice, Mercy and Sacrifice
+
+Consider how different each virtue becomes when love binds it to the others. Truth without love becomes harsh and condemning—"What you're doing is grave sin, and you know it"—accurate, and still capable of destroying rather than healing. Grave danger can be named truthfully; a soul's final destiny cannot, and the Church, which has named thousands of saints, has never named a single person damned. Yet when love binds truth, it becomes medicine: "You're caught in sin, and it's destroying you. Let me help you find freedom." Justice without love becomes cold retribution—"You broke the law, so you must be punished"—with no path to restoration. But love transforms justice into something restorative: "There are consequences, but they're meant to heal you, not just punish you." Mercy without love becomes enabling weakness—"I'll forgive you no matter what you do"—allowing evil to continue and victims to suffer. Yet love ensures mercy serves transformation: "I forgive you, but you must stop. I'll help you change, but I won't enable your sin."
+
+Love doesn't choose between these virtues—it binds them together. Truth serves justice. Justice enables mercy. Mercy upholds truth. Sacrifice makes it all real.
+
+## A Cell in Rebibbia: Perfect Integration
+
+If you want to see binding in a single scene, go to a prison cell in Rome, two days after Christmas, 1983.
+
+On 13 May 1981, in St. Peter's Square, Mehmet Ali Ağca opened fire on Pope John Paul II. Two bullets struck him. He nearly died, and it took hours of surgery to save him. That July an Italian court sentenced Ağca to life imprisonment.
+
+Four days after the shooting, from his hospital bed, the Holy Father had already given his answer: "I pray for the brother who wounded me, whom I have sincerely forgiven." And here the threads begin to pull apart. If the forgiveness is real, is the crime not being made small? If the sentence stands, what has the forgiveness actually changed? It looks like a choice that has to be made: mercy *or* justice, compassion *or* truth.
+
+St. John Paul II refused the choice. The love of Christ, which he knew deeply and personally, bound them in him.
+
+On 27 December 1983 he walked into Rebibbia prison, and the two men talked for twenty-one minutes in a corner of Ağca's cell, out of earshot of everyone else in the room. He did not minimize what had been done—he came as the man who had been shot, to the man who had shot him. He did not bring the sentence to an end; Ağca went back to serving life. He did not make a show of it—the cameras could see the two men but not hear them. And he did not keep his distance; he sat close enough to take Ağca's hands in his own. Afterward he said only this: "I spoke with him as one speaks with a brother, whom I have forgiven and who enjoys my trust. What we said to each other is a secret between him and me."
+
+Look at what each thread alone would have produced:
+
+Truth without mercy keeps the record and never visits—the crime stays accurately named forever, and no one is changed. Mercy without truth waves it off as nothing—and a man who tried to commit murder is told his act had no weight. Justice without compassion lets the cell door do all the speaking—the sentence is served, and nothing in the man is reached. And compassion without justice empties the prison—a private forgiveness is treated as if it had settled a public crime, and the law that protects the next victim quietly disappears.
+
+Instead, Christ's love bound them. Truth was kept: the crime was named by the plain fact of who had come to that cell, and why. Justice was kept: the sentence stood for nineteen years. Only then, in the Jubilee Year 2000 and with the Pope's own support, did Italy grant a pardon—and Ağca was extradited to Turkey to serve the sentence he had escaped for murdering a journalist in 1979. Mercy was given—not as a statement but as a visit, in person, at arm's length. And sacrifice made it real: the man doing the forgiving was the man carrying the scars, and no one could do that part for him. Every facet served the others. None was discarded.
+
+Look at who was served. The public was served by a sentence that stood. St. John Paul II was served by a truth he never had to pretend away, and a mercy he was free to give. Ağca's mother was served, when she came to the Vatican unannounced in 1987 to ask forgiveness for her son and was told it had already been given. And Ağca was served by all of it. A man who has done something grave knows it, somewhere, whatever he says; a just punishment tells him the truth about his act in a language he cannot argue with, and it can become a mercy to him. The Church teaches exactly this: punishment "has a medicinal scope," and "when his punishment is voluntarily accepted by the offender, it takes on the value of expiation" (CCC 2266). And where it is not received as mercy, justice is still a teacher of truth. Years later, in his last book, St. John Paul II said a little more about that conversation: what troubled Ağca most was how the shot could have failed, and he wanted to know about Fatima. The Pope believed Ağca had begun to see that there is a power greater than the power to shoot and kill—and had begun to look for it. What happened in Ağca only he and God know. We know that thirty-one years to the day after that visit—not the shooting, the visit—he came to the Vatican and laid white flowers on the tomb of St. John Paul II.
+
+When love is bound as it should be, there is truth, justice and mercy enough to go around to everyone in the room, because someone was willing to bear the cost of all three. That is the power of love—and its own witness that it is real.
+
+And notice where this came from. He was shot on the thirteenth of May, the anniversary of Our Lady's first appearance at Fatima, and he attributed his survival to her intercession. A man does not manufacture this out of strength of will. He receives it, and then he does it.
+
+This is what binding does. This is why binding is so critical to our understanding of what love is.
+
+## Love as the Form of All Virtues
+
+What does it mean for charity to be the "form" of the virtues?
+
+We can only fully understand the Cross if we understand the binding power of God's love. The Passion is not a collection of separate acts—judgment and forgiveness, justice and mercy, sacrifice and restoration—happening to occur at the same moment. Rather, it is the perfect integration of all these elements into a single act of love. The Cross reveals what binding looks like when God Himself becomes the binding force.
+
+Return to CCC 1826-1827, which opened this chapter. Notice what the Church is teaching: charity is not merely *one* virtue among many—it is "superior to all the virtues," the "first of the theological virtues," and the very *form* that animates and inspires the practice of all the others. As St. Paul writes, love "binds everything together in perfect harmony" (Col 3:14). This integration isn't just about balancing opposing ideas—it changes the very nature of virtue itself. In philosophical terms, form is what makes a thing what it is—the form of a chair makes wood and nails into something you can sit on. Without charity as their form, the virtues remain raw moral material—potentially good, but not yet ordered toward their true purpose. CCC 1827 tells us that charity "articulates and orders them among themselves," *binding* them into a coherent whole that both finds God as its source and its goal.
+
+This is why Paul insists, in the opening of 1 Corinthians chapter 13, that without charity, "I am nothing" and "I gain nothing." You can have brilliant faith—but without charity, it's mere intellectual assent. You can have burning hope—but without charity, it's self-interested calculation. You can exercise careful prudence—but without charity, it's cunning manipulation. You can practice perfect justice—but without charity, it's cold retribution. You can display heroic courage—but without charity, it's recklessness or pride.
+
+The Catechism continues: "The practice of the moral life animated by charity gives to the Christian the spiritual freedom of the children of God. He no longer stands before God as a slave, in servile fear, or as a mercenary looking for wages, but as a son responding to the love of him who 'first loved us'" (CCC 1828). This is why mere rule-following fails. The Pharisees stood before God as slaves to the Law rather than sons responding to love. Without charity to bind the virtues together, even perfect external compliance becomes dead legalism.
+
+This is why our works - if separated from God's love and turned inward toward ourselves - cannot save us. Even "faith alone" becomes a trap when it's reduced to "how do *I* get to heaven?" rather than "how does God's love pour out through me?" Without the sacrificial aspect of love—the willingness to pour yourself out as Christ did—faith becomes merely transactional: a personal insurance policy rather than participation in God's self-giving love.
+
+When we speak of truth, justice, mercy and sacrifice as the essential facets of love, we are not replacing the other virtues. The theological virtues, the cardinal virtues, the human virtues—all remain a cohesive whole. After all, God is "simple" (not made of parts) and "one" and so is His love (CCC 202, 253).
+
+Rather, truth, justice, mercy and sacrifice are the human words we use to explain the *dimensions* through which all virtues express themselves. Prudence for example operates through truth and justice—seeing reality as it is (truth) and choosing what is genuinely due (justice). Fortitude expresses itself through sacrifice—the courage to bear the cost of love (its truth and justice). Patience is mercy extended through sacrifice—refusing to abandon others and allowing God's love to transform them in His time rather than our own. Humility is truth about ourselves before God—recognizing his perfect goodness and thus sacrificing our pride. Every virtue is an aspect of charity, expressing itself through some combination of these four dimensions. Chapter 13 will trace this in exquisite detail.
+
+## Binding Souls Together in the Body of Christ
+
+This binding of these four dimensions of love is exactly why the Church's sacred authority—culminating in the Pope—is so profound and essential: Christ Himself instituted this hierarchy so that we might know the fullness of the truth of His love definitively, and through that shared truth, unite as one Body of Christ in the one bread and the one baptism, generation after generation. As St. Paul reveals: "Because there is one bread, we who are many are one body" (1 Corinthians 10:17). Paul's point is not that the Bread and the Body are the same thing, but that the one makes the other: the Bread is Christ Himself, and it is by receiving Him that the many become one Body. Take away the Bread and the Body has nothing to make it one. The Eucharist, the Church, the Bride united to her Bridegroom, and the four dimensions of love that bind us all make sense only when held together. Chapter 10 will explore this profound unity fully.
+
+This binding power of love doesn't just integrate virtues within us—it binds our very souls to one another. When we live truth, justice, and mercy sacrificially, we become more deeply connected to every other soul in the Body of Christ and of course to Christ Himself. Thus the greatest commandment: love God with all your heart, and love your neighbor as yourself. Authentic love enables deeper love, drawing us into ever-greater communion; deformed love hinders it, creating distance and isolation where communion should flourish.
+
+This isn't evolutionary herding for protection, nor merely spiritual fellowship or shared beliefs—it is participation in Christ's own life through the sacraments, making us genuinely one Body as Jesus desired for us in John 6:56 and John 17:20-23. This is the reality of our human nature—our souls are actually dependent on being connected to one another for our flourishing (CCC 1878-1885). Just as the Trinity exists in eternal communion, we were created for soul-to-soul communion. When you practice authentic love toward your neighbor, you're strengthening the bonds that connect your soul to theirs, to the whole Body, and to Christ the Head.
+
+Think about what happens when you truly forgive someone. You feel the weight lift. The barrier dissolves. That's not just psychological—it's spiritual. Your soul is reconnecting to theirs through the love that flows from Christ. When you speak truth in love, you feel the connection deepen. That's your soul binding to theirs through shared reality.
+
+This is why no sin is merely private: "every sin harms this communion" (CCC 953). When you lie, you create distance. When you're unjust, you break trust. When you're merciless, you build walls. When you refuse to sacrifice, you remain trapped in selfishness. Venial sin frays the bond: it "allows charity to subsist, even though it offends and wounds it." Mortal sin—grave sin, knowingly and freely chosen—severs it: it "destroys charity in the heart of man" (CCC 1855). And for the severed thread, Christ gave His Church a sacrament to tie it back.
+
+But practicing virtue weaves your soul more deeply into the fabric of Christ's Body. Each act of love is like a thread binding you to others. Over time, these threads become unbreakable bonds. You discover you're part of something far greater than yourself, a living organism where every member matters, where your flourishing depends on others and theirs depends on you.
+
+This is why Jesus instituted the Eucharist—the supreme act of binding. When you receive Holy Communion, you're not just receiving a symbol or a spiritual memory. You're receiving Christ Himself, who binds truth, justice, mercy and sacrifice into one saving act. His Body becomes your food. His Blood becomes your drink. Two become one flesh. As Jesus promised: "He who eats my flesh and drinks my blood abides in me, and I in him" (John 6:56). This is why we call it "Holy Communion"—it is the sacrament of binding, where Christ Himself weaves your soul into His Body and binds you to every other soul receiving Him. In that moment, you're united not just with Christ but with every believer across time and space who has ever received Him. The Eucharist is love's binding power made visible, made real, made flesh.
+
+This is what it means to be a Christian society, a covenant people—souls bound together in life-giving communion, each serving their purpose as part of the entire Body. As St. Paul writes: "If one member suffers, all suffer together; if one member is honored, all rejoice together" (1 Corinthians 12:26). We are truly one through the Holy Spirit binding our souls together in love.
+
+## Living the Integration
+
+How do we practice this binding in daily life? The moment you feel the urge to speak a hard truth, pause. Your words are accurate—but are they merciful? You're about to correct someone, expose a lie, name a sin. The truth is real. But if you speak it without mercy, you become a weapon, not a healer. Ask yourself: "Am I binding this truth with mercy, or am I using truth as a club?" The answer changes everything. Conversely, when you want to show mercy by overlooking sin, by pretending the wrong didn't happen, by absorbing the hurt to keep the peace—stop. Your compassion is real. But if you show mercy without truth, you enable the sin to continue. You become complicit. Ask: "Am I binding this mercy with truth, or am I abandoning the person I claim to love to their own destruction?"
+
+And when you demand justice—when you insist on consequences, on accountability, on the debt being paid—ask the hardest question: "Am I binding this justice with compassion, or am I using justice as revenge?" Because justice without compassion is just cruelty dressed in the language of fairness.
+
+The goal isn't balance—splitting the difference between virtues. That's not integration; that's compromise, and compromise always leaves someone wounded. The goal is integration—letting love hold them together fully so each serves the others. Truth that heals. Justice that restores. Mercy that transforms. Sacrifice that makes it real. All at once. All in one act.
+
+## Healing the Deformation
+
+But what of the child who has learned, through bitter experience, that love is conditional, that authority is exploitable, that commitment is leverage? They carry deformed patterns of love—habits of manipulation, distrust, and self-protection learned in the very place that should have taught them covenant love. And many of our adult readers will recognize themselves in this description as well, carrying these same wounds and deformations into every relationship—with spouses, children, friends, colleagues, and God.
+
+This is where proper formation becomes redemptive work. When a catechist teaches authentic love—truth bound with mercy, justice bound with compassion, sacrifice bound with hope—they are not merely transmitting doctrine. They are actively *healing* the deformations caused by fragmentation. Each lesson of the Church is an invitation to unlearn the false gospel the child absorbed at home. Each experience of being loved truthfully, justly, and mercifully by a catechist who holds all these virtues together begins to rewire the child's deepest assumptions about what love is. As the Catechism reminds us in CCC 25: "The whole concern of doctrine and its teaching must be directed to the love that never ends."
+
+The wounds remain real. The patterns run deep. But they are not permanent. God's grace, working through proper formation, can restore what fragmentation damaged. A child who learned that love is manipulation can learn that love is sacrifice. A child who learned that truth is a weapon can learn that truth is medicine. A child who learned that mercy enables sin can learn that mercy calls us to reconciliation. This transformation doesn't happen overnight—formation is the work of years—but it happens. The deformed conscience can be reformed. The wounded child can be healed. And formation is not the only help God provides. Some wounds—especially those left by violence or by years of fear—need a skilled counselor as well as a good catechist. Grace works through competence too, and a catechist serves the child by knowing where his own work ends.
+
+This is the hope catechists carry: that in teaching authentic love, they participate in God's own healing work. They are not just educators. They are physicians of the soul, restoring children to the fullness of what love is meant to be.
+
+## The Bridge to Truth
+
+Love binds together all the elements of authentic relationship—truth, justice, mercy and sacrifice working as one. But this raises a crucial question: what ensures that what we're binding together is real? Without **truth**, love has no objective grounding.
+
+---
+
+## Further Study
+
+### Scripture
+- **Colossians 3:14:** Love as the bond of perfection that holds all virtues together
+- **1 Corinthians 12:12-27:** The Body of Christ as model of unity in diversity
+- **John 17:20-23:** Jesus' prayer for unity reflecting Trinitarian communion
+- **Ephesians 4:1-6:** The unity of the Spirit in the bond of peace
+- **Matthew 5:38-48:** Love of enemies—the command a visit to a prison cell obeys
+
+### Catechism of the Catholic Church
+- **CCC 1827:** Love as the form of all virtues, giving them their true character
+- **CCC 1878-1885:** The human person needs social life—we're made for communion
+- **CCC 1396-1401:** The Eucharist as source and summit of unity
+- **CCC 813-822:** The unity of the Church as reflection of Trinitarian unity
+- **CCC 615-617:** Christ's obedience and love "to the end" as what makes His sacrifice redemptive
+- **CCC 1855:** Mortal and venial sin—charity destroyed, and charity wounded
+- **CCC 2266:** Punishment as medicine for the offender, and expiation when it is accepted
+
+### Christian Thinkers
+- **St. Thomas Aquinas (1225-1274):** His teaching on love as "the form of all virtues" in the *Summa Theologiae* shows how love shapes and directs all other virtues into an integrated whole; his treatment of divine simplicity explains why God's love, like God Himself, is perfectly one
+- **St. Augustine of Hippo (354-430):** His principle "Love God and do what you will" reveals how love integrates all moral action when properly ordered
+- **Pope St. John Paul II (1920-2005):** His teaching on the "unity of life" shows how faith must integrate all aspects of human existence—personal, social, political, economic—into one coherent whole
+
+---
+
+### Notes
+
+\footnotesize
+
+1. Twice in full (Judges 17:6; 21:25); twice in its opening clause, "In those days there was no king in Israel" (18:1; 19:1).
+
+\normalsize

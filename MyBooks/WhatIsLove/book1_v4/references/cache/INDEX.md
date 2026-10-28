@@ -350,3 +350,23 @@ reference · status · date
 - 2026-10-15 (Ch. 11 Further Study check), RSVCE + RSV, verified: Matthew 22:37-39; Proverbs 2:3-6, 14:15 (upgraded); Wisdom 7:7 (upgraded), 7:8, 9:15-16; Philippians 2:3-4; Ephesians 3:10-12, 3:14-21, 4:11, 4:13-14; Colossians 1:9-10 · Ephesians 4:12 disputed (RSVCE "for the equipment of the saints" / RSV "to equip the saints")
 - bible/RSVCE/matthew.json 16:18 · verified · 2026-10-15
 - bible/RSV/matthew.json 16:18 · single-source · 2026-10-15
+
+## 2026-10-16 · Ch. 12 bishop-readiness pass
+- RSVCE+RSV Romans 1:18, 1:20, 2:14, 2:15, 8:2 · verified · 2026-10-16
+- RSVCE+RSV Matthew 5:3–12 · verified · 2026-10-16
+- RSVCE+RSV John 8:31, 8:32 · verified · 2026-10-16
+- RSVCE John 10:10, 13:34 · verified (with RSV cache) · 2026-10-16
+- RSVCE+RSV 1 John 4:16, 4:18 · verified · 2026-10-16
+- RSVCE+RSV Galatians 6:2 · verified · 2026-10-16
+- RSVCE+RSV Jeremiah 31:33 · verified · 2026-10-16
+- RSVCE+RSV Psalm 19:1 · verified · 2026-10-16
+- CCC 31, 35, 36, 846, 847, 848, 1257, 1260, 1716, 1718, 1954, 1956, 1960, 1965, 1966, 1972, 1983 (quoted sentence only) · canonical · 2026-10-16
+- Evangelium Vitae 20, 22 · canonical · 2026-10-16
+- Lumen Gentium 16 (two sentences) · canonical · 2026-10-16
+- Dignitas Infinita 15 · canonical · 2026-10-16
+- Card. Ratzinger, homily Pro Eligendo Romano Pontifice, 18 Apr 2005 · canonical · 2026-10-16
+- summa I q.20 a.2; I-II q.91 a.2 · verified · 2026-10-16
+- summa I-II q.93 a.1 · single-source · 2026-10-16
+- Benedict XVI, Jesus of Nazareth ch. 4 (fragment; full sentence not seen) · verified · 2026-10-16
+- RSVCE John 14:6 · verified · 2026-10-16
+- CCC 1260 first sentence (GS 22) · canonical · 2026-10-16

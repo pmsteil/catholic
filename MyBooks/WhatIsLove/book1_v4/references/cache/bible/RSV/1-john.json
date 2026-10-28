@@ -61,14 +61,22 @@
  },
  "4:18": {
   "text": "There is no fear in love, but perfect love casts out fear. For fear has to do with punishment, and he who fears is not perfected in love.",
-  "status": "single-source",
+  "status": "verified",
   "sources": [
    {
     "url": "https://www.biblegateway.com/passage/?search=1+John+4%3A18&version=RSVCE",
     "date": "2026-10-01"
+   },
+   {
+    "url": "https://bible-history.com/rsvce/1-john-4",
+    "date": "2026-10-16"
+   },
+   {
+    "url": "https://www.biblestudytools.com/rsv/1-john/4.html",
+    "date": "2026-10-16"
    }
   ],
-  "notes": "RSVCE"
+  "notes": "RSVCE | Ch. 12 line 153 (cf.)."
  },
  "4:7": {
   "text": "Beloved, let us love one another; for love is of God, and he who loves is born of God and knows God.",
@@ -91,5 +99,19 @@
    }
   ],
   "notes": "Agrees word for word with the RSVCE entry (bible-history.com). Ch. 11, 2026-10-06."
+ },
+ "4:16": {
+  "text": "So we know and believe the love God has for us. God is love, and he who abides in love abides in God, and God abides in him.",
+  "status": "verified",
+  "sources": [
+   {
+    "url": "https://bible-history.com/rsvce/1-john-4",
+    "date": "2026-10-16"
+   },
+   {
+    "url": "https://www.biblestudytools.com/rsv/1-john/4.html",
+    "date": "2026-10-16"
+   }
+  ]
  }
 }

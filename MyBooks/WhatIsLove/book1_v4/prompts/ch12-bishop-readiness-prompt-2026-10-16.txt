@@ -1,0 +1,50 @@
+Bishop-readiness revision of Chapter 12 ("The Lawgiver Is Love") of *What Is Love? God's Perfect Love*. Use the `wil-review-chapter` skill. Same process as Chs. 9–11; Ch. 11 finished 2026-10-15 (memory.html §18, entries 168–195).
+
+HOW I WORK WITH YOU
+- Don't hand me a triage to rule on. Go straight to a redline of your best improvements; I approve with "y" or correct you. When I ask for options, give options first.
+- The FIRST redline for the whole chapter is a rich-html review document (rich-html-doc skill + brand-love), so I can mark it up and export notes. Every follow-up redline is a plain word-level redline.
+- Before every write: dry-run the edits on a scratch copy, confirm every anchor matches exactly once, render a word-level redline (colored text, no white background), send it as an HTML file, and wait for "y".
+- Every redline block names its section ("Section: <## heading> › <### heading> · line N"). A short note at the top of each redline gives the reasoning.
+- No word counts, anywhere.
+- After each write: confirm the chapter is identical to the dry-run output (re-stage and cmp), check <sup> numbers against the Notes list, check divs are balanced, archive the pre-write copy in archive/ch12-pre-<date>/, and add a "Completed" card to memory.html §18 right after <h3>Completed</h3>, divs balanced. Next entry number: 196 (entries and Future Tasks share one numbering). Record declined edits in the card so no later session re-proposes them.
+- memory.html: other sessions also write it. Re-stage it before every card, commit from a uniquely named copy (memory-NNN.html) with the mtime guard, then re-stage and md5.
+- Group related fixes into one redline. On anything doctrinal, give me the reasoning in two or three lines, and correct me plainly when I'm wrong. When I ask a question, answer it honestly first, then redline the fix. When I ask whether the Church backs something, say plainly if she doesn't. Keep additions short; ask yourself "what's the minimum we need?" before adding.
+
+FILES AND TOOLS
+- Source of truth: chapters/chapter_12.md in book1_v4. The review HTML is disposable.
+- Redline tools: prompts/redline-tools/ (dry.py, redline.py, tpl.html). Give each redline its own ch12-rN folder; save its edits.py there. E=[(group, line, old, new)].
+- If the device shell is down: stage, dry-run in the cloud workspace, write back with device_commit_files using the mtime guard, then re-stage and cmp.
+
+QUOTE CACHE — IMPORTANT
+- Every Scripture verification goes through the quote cache (references/cache, `bible-catechism-quote-cache` skill). Check the cache FIRST; fetch only what is missing or single-source; write every fetch back to the cache and INDEX.md in the same turn. This applies to every verse quoted, cited with "cf." or described, including the Further Study list.
+- Scripture is the RSVCE as my printing reads. Check every verse against an RSVCE source (bible-history.com/rsvce) and a plain RSV source (biblestudytools.com/rsv; /rsva for the deuterocanon). Where they differ, ask me. Quote the WHOLE verse or use "cf."; no partial quotes or ellipses in quotation marks, in the body or in Further Study. No "· RSV" tag.
+- Magisterial texts: vatican.va is authoritative alone; otherwise two sources. Never truncate a quotation without seeing the whole sentence.
+
+STANDING RULES
+- The canonical definition, word for word: "God's Perfect Love is the sacred gift of covenant which binds truth, justice, mercy and sacrifice into life-giving communion." List form "truth, justice, mercy and sacrifice" (no Oxford comma).
+- Facets, one image only: love is one diamond seen from every side. Truth, justice, mercy and sacrifice are facets too, never a separate class. Never "pillars" or "threads"; avoid "the four facets" (name the four, or say "the facets of love"). Where a sentence sums up what love is, name every facet. Don't stretch the diamond image.
+- Chapter references say what the chapter was about ("Chapter 5, on how love binds"), not just the number (Future Task 178).
+- Banned words: performed/performance, earned/unearned, transaction, payment plan, debt-payment, checklist, unmercy, destiny, imputed/imputation. No debt/payment framing of the Cross; prefer Christ's self-offering in love.
+- Say "the marital act", "St. John Paul II", "Pope St. Paul VI", "Our Lady", "the Sacrament of Reconciliation" (everyday "go to Confession" is fine). Sacrifice and self-gift are interchangeable. Give every thinker their proper title (todo 127).
+- *Author* is reserved for God. Grace first; no new open/closed/empty-hand imagery (todo 129). Only God is the summum bonum. The Church on earth is never "perfect". No "what Jesus really meant" framing.
+- Catholics are not "people of the book": "the Christian faith is not a 'religion of the book'" (CCC 108). Scripture is God's word of love, given to be lived.
+- No polemic against Protestants; no Protestant thinkers as authority. No Greek or Hebrew script. Plain words; define churchy terms at first use. No metaphor that hides the meaning. Don't start sentences with "So." Don't overclaim. Examples must be everyday and fit the claim. Counterfeits are counterfeits of love, never people.
+- Footnotes are raw <sup>N</sup> plus a "### Notes" list. Ch. 12 has none now; Ch. 11 kept none. Tell me if Ch. 12 needs them before adding any.
+- Don't reopen rejected items (memory.html §14) or settled items in §3 and §11.
+
+KNOWN ITEMS FOR CH. 12 (baseline 2026-10-16: 8/8 divs, 5 \hfill\small, 0 <sup>, ~60 em-dashes)
+1. The devil's-advocate fix plan (chapters/reports/wil-fix-plan.html, v2 locked) lists per-chapter redlines for Chs. 1, 2, 3, 4, 11 and 12. Read its Ch. 12 items first and fold them into the first redline.
+2. Facets and pillars: "pillar" ×3 (e.g. line 47, "traced through each pillar"); "the four facets" at line 175. Fix both per the rule.
+3. Banned words: "not to perform eight tasks" (173) and "not flawless performance" (191); "honesty is a debt truth collects" (107). Rewrite each.
+4. Chapter references without their subject (e.g. line 47, "Chapter 5"; line 191, "Chapter 10"). Add the subject.
+5. The moral argument (Premises 1–2, Conclusion; Euthyphro; the Atheist's Dilemma). Verify every claim and attribution. Answer Euthyphro the Catholic way: the good is grounded in God's own nature, not in arbitrary command (divine simplicity, todo 61; CCC 1954–1955; Summa I-II q.91–94). Make sure the argument is presented as reason's witness, not as proof that replaces faith (CCC 31–36). Don't present a Protestant philosopher's formulation as authority.
+6. Line 47: the Ratzinger quotation on the "dictatorship of relativism" (Mass for the election of the Roman Pontiff, 18 April 2005). Verify on vatican.va, cache it, and give the title properly.
+7. Line 121: the Buddhist/atheist question. It must match the Church exactly: CCC 847–848 and Lumen Gentium 16 (salvation possible for those who, through no fault of their own, do not know Christ, moved by grace), without implying salvation apart from Christ or that the Church is unnecessary (CCC 846). Quote her words.
+8. Natural law and the New Law: check CCC 1954–1960, 1965–1974 (1972 especially) against what the chapter says; Romans 2:14–15 and Jeremiah 31:33 whole or with "cf.".
+9. The Beatitudes section: verify the Pope Benedict XVI quotation at line 173 (cite the work, e.g. *Jesus of Nazareth*, and the page or chapter) and every Beatitude against the cache. Keep "one face seen from eight angles" only if it serves the facets image without competing with it.
+10. Further Study: remove partial Scripture quotes and "..." ellipses (1 John 4:7–8, 16 has one); turn them into descriptions or whole verses. Give Peter Kreeft his proper description (Catholic philosopher, Boston College) and St. Thomas his title. Add entries for every source the chapter cites.
+11. The Bridge: "The Bridge to Virtues" must lead into Ch. 13, "Faith Works Through Love," and say what that chapter is about. Match the H1 (the H1 wins).
+12. Overlap with Ch. 11's Bridge ("A Law of Love this real requires a Lawgiver… the Lawgiver is Love"). Ch. 12's opening should pick that up, not repeat it.
+13. Before calling the chapter done: a full read-aloud pass (hard-to-say sentences, undefined words, rule breaks), then a concision pass that cuts only what the chapter says twice. Propose, don't cut my phrases.
+
+Start by reading AGENTS.md, memory.html (§1, §3, §11, §12, §14, §16, §18 entries 168–195 and Future Tasks 167 and 178), chapters/reports/wil-fix-plan.html, Chapter 11 (its Bridge), and Chapter 12, then send me your first redline.

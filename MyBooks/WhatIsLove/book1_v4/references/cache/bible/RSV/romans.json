@@ -145,5 +145,79 @@
    }
   ],
   "notes": "Opening clause only; agrees with RSVCE. Ch. 11 line 262 cites with cf. (Redline 20). Merge into the device copy of RSV/romans.json if one exists."
+ },
+ "1:18": {
+  "text": "For the wrath of God is revealed from heaven against all ungodliness and wickedness of men who by their wickedness suppress the truth.",
+  "status": "verified",
+  "sources": [
+   {
+    "url": "https://bible-history.com/rsvce/romans-1",
+    "date": "2026-10-16"
+   },
+   {
+    "url": "https://www.biblestudytools.com/rsv/romans/1.html",
+    "date": "2026-10-16"
+   }
+  ],
+  "notes": "Ch. 12 line 131 (cf.)."
+ },
+ "1:20": {
+  "text": "Ever since the creation of the world his invisible nature, namely, his eternal power and deity, has been clearly perceived in the things that have been made. So they are without excuse;",
+  "status": "verified",
+  "sources": [
+   {
+    "url": "https://bible-history.com/rsvce/romans-1",
+    "date": "2026-10-16"
+   },
+   {
+    "url": "https://www.biblestudytools.com/rsv/romans/1.html",
+    "date": "2026-10-16"
+   }
+  ],
+  "notes": "Verse ends with 'So they are without excuse;'. Ch. 12 epigraph and line 129 had quoted only the first sentence."
+ },
+ "2:14": {
+  "text": "When Gentiles who have not the law do by nature what the law requires, they are a law to themselves, even though they do not have the law.",
+  "status": "verified",
+  "sources": [
+   {
+    "url": "https://bible-history.com/rsvce/romans-2",
+    "date": "2026-10-16"
+   },
+   {
+    "url": "https://www.biblestudytools.com/rsv/romans/2.html",
+    "date": "2026-10-16"
+   }
+  ]
+ },
+ "2:15": {
+  "text": "They show that what the law requires is written on their hearts, while their conscience also bears witness and their conflicting thoughts accuse or perhaps excuse them",
+  "status": "verified",
+  "sources": [
+   {
+    "url": "https://bible-history.com/rsvce/romans-2",
+    "date": "2026-10-16"
+   },
+   {
+    "url": "https://www.biblestudytools.com/rsv/romans/2.html",
+    "date": "2026-10-16"
+   }
+  ],
+  "notes": "No final punctuation: the sentence runs into v. 16. Ch. 12 line 115 had stopped at 'bears witness'."
+ },
+ "8:2": {
+  "text": "For the law of the Spirit of life in Christ Jesus has set me free from the law of sin and death.",
+  "status": "verified",
+  "sources": [
+   {
+    "url": "https://bible-history.com/rsvce/romans-8",
+    "date": "2026-10-16"
+   },
+   {
+    "url": "https://www.biblestudytools.com/rsv/romans/8.html",
+    "date": "2026-10-16"
+   }
+  ],
+  "notes": "Ch. 12 blockquote and Further Study."
  }
 }

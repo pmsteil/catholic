@@ -1,0 +1,45 @@
+# Round 2 synthesis — v2 against 11 schools (2026-10-18)
+
+**Scores, v2 as written (repaired):** Realist 7 (8) · Debunker 7 (8.5) · Aristotelian 7 (8) · Kantian 7 (8.5) · Contractualist 6 (8) · Utilitarian 7 (8.5) · Expressivist 6 (8) · Nietzschean 7 (8) · Buddhist 6 (8) · Confucian 7 (8) · Evil 6 (8). **Mean 6.6** (Round 1: 5.6). **No Fatal objection from any school.** Every school logged at least one **Serious** objection against v2 as written; every school reported **NONE** (Fatal/Serious) after its own repairs. The stop condition (no sound objection against the version *as written*) is not yet met.
+
+## What v2 fixed
+W1 is no longer a deduction ("not laid by any human, so laid by Someone" is gone); A3 no longer confuses forgiving with making right; the A heading no longer overclaims; C now names all the main rivals; evil has a real paragraph. All 11 reports confirm these.
+
+## The faults v2 introduced (consensus first)
+
+1. **W1(1) contradicts A3 — 11 of 11 schools.** A3: no one forgives in the victim's place. W1(1): God forgives the dead victim's wrong. Ivan Karamazov's objection. *Repair (Catholic teaching, not a retreat):* God forgives the offense against Himself (CCC 1850); He does **not** forgive in her place (CCC 1459: forgiveness does not remove what is owed her). He keeps her: He can raise her, so that she is there to be answered to and to forgive in her own name. *Spe Salvi* 42–44 (verified on vatican.va by the expressivist agent): grace "does not make wrong into right"; the question of justice is "the essential argument, or in any case the strongest argument" for eternal life. W1(1) must be marked a **clue** (same weight as W3), not a proof; resurrection is the hope, not a premise. The dead-victim case points first to "either the debt died with her, or she is still someone," and only then, through W1(2), to God. The kinless dead (no one to remember them) — Isaiah 49:15.
+
+2. **W1(2) "unearned and unconferred, so received" is the old invalid step — 7 schools.** Rivals: worth *had* by being what one is (kind-membership explains belonging fully — Aristotelian); everything is "received" from conditions (Buddhist); Mou Zongsan: ours by being the infinite (Confucian). *Repair:* (a) kind explains belonging, not why what belongs may never be spent; (b) worth follows being, and being is given — here the moral question and the question of creation meet (ST I q.20 a.2); (c) an order gives a nature to every member of a kind; it does not *want* any one of them — the worth in A4 is the worth of *this* child, best explained if she was wanted for her own sake (GS 24). Equal call → equal worth (GS 29).
+
+3. **W1(3) Anscombe's fork — 6 schools.** Misstates Anscombe (she did not argue to God; she said drop the moral ought; her account of promising is naturalistic); the fork has third roads (Kant's law of reason, contractualist joint lawgivers, Neo-Confucian *tianli*, karma); a two-party debt does not entail a third party. *Repair:* Anscombe frames W1 as a question, not a reason. The real test (Buddhist): **is guilt owed to someone, or does it only ripen?**
+
+4. **C straw-mans or misdescribes — Expressivist, Kantian, Aristotelian, Confucian, Buddhist, Realist, Nietzschean.** "Feeling" line misstates at first order (the quasi-realist does say "her worth is there"); Kant row attacks a Kant who never existed (autonomy is reason's law, not a choice; use the made-or-found dilemma, and Kant's own *Religion* 6:98–99 on a moral ruler who knows hearts); Aristotle has corrective justice (debt), lacks forgiveness; sacred-order row wrong three ways ("no problem of evil" false for Mencian Heaven and Stoics; "indifferent" false for Zhu Xi; "reach for personal words" reverses the history); karma wrong four ways (not sacred; karma *is* a theodicy; not indifferent; personal words go to buddhas) — karma needs its own row; realists unify too; Nietzsche row used genealogy against him. **Fairness rule adopted:** never use a genealogy against an opponent that we refuse to let him use against us.
+
+5. **The evil paragraph — Evil, Aristotelian, Expressivist, Buddhist, Debunker, Utilitarian.** Miscites CCC 311–312 as "only because ... a greater good" (that phrase is Augustine / CCC 412 on the Incarnation); as written it makes God a greater-good trader, contradicting A6. Correct texts: CCC 324 (a good *from that very evil*), 312 (evil never becomes good), 306 and 310 (a world in a state of journeying; creatures given the dignity of being causes). Privation answers only the evil god, not Draper's or Hume's *indifferent* source. "Seeing a love vs not seeing a reason" compares our data with our ignorance; Draper's pattern is untouched — concede it as weight. The Cross is not an independent reason; it is what the God being weighed is. Teleology adds weight (the wolf lives by the fawn; ST I q.19 a.9, q.48 a.2). "Removes hope for evil's victims" is false of Buddhism. Name hell (CCC 1033, 1037). Skeptical theism must be narrowed (general goods we see; particular permissions we would not expect to see) or it disarms W2.
+
+6. **A-list loaded clauses — Aristotelian, Realist, Utilitarian, Expressivist, Debunker.** A1's "not merely wrong for creatures shaped like us" is W2's thesis — move it. A4's "signed away when life grows hard" builds in the euthanasia verdict — say "not lost." A2's "every serious tradition, guilt or shame" overclaims. A3's consent clause should be limited to the gravest wrongs (a friend can release a promise as a gift). A5's "inclination we did not give ourselves" reopens is/ought and cannot separate ordered from disordered desires — the ought lives in reason's grasp of the good (ST I-II q.94 a.2); cite q.94, not q.91, inside a premise.
+
+7. **W2 — Aristotelian, Debunker, Expressivist, Realist.** "Could have been otherwise" cuts the Thomist too: the real question is **accident or wisdom**. Thomism concedes much of the law is fitted to our kind; the core is not. A7 must be aimed at the *norm* of truth, not at reliable faculties. The pattern of moral error (it follows self-interest) is predicted by the Church (ST I-II q.77 a.4); the engine of correction is consistency — A7 again. Credit the rival's one-nature answer; ask why minds made to read an order that holds for any rational mind arose. Say where necessity lives (divine ideas, ST I q.15). Scope: W2 answers the realist and debunker; against the quasi-realist the question is C's.
+
+8. **W3 — Buddhist, Aristotelian, Confucian, Debunker, Evil.** Still reasons from craving ("hold us forever"); omits equanimity; nirvana is not "no one" — say "knows and loves no one"; Nussbaum's "transcending humanity" needs an answer (the hope is not more of the same years, CCC 1024); restore the relational-self clause; credit Pieper; 1 Cor 13:12 (known in full only at the end). Hiddenness: LG 16 answers salvation, not present relationship; God makes Himself known mostly through persons (CCC 848); own the cost; "every child is loved" is false as a universal — make it an analogy; the Buddhist contemplatives' testimony belongs on the scale.
+
+## Deep standoffs now openly at parity (not defects)
+Whether a nature binds simply because it is ours (Aristotelian); whether guilt toward the dead is a debt to someone or a fitting remorse owed to no one (Aristotelian, Expressivist, Debunker); whether persons are real at the ground of things (Madhyamaka); whether worth lives in the victim or the shape of justice (Aristotelian); the error theorist's coherent "nothing binds" (Moorean reply plus A7 makes him pay in his own coin); Draper's pattern and lifelong non-resistant non-belief (owned weight).
+
+## Lines worth keeping (chosen from all 11)
+- "He does not forgive in her place. He keeps her."
+- "Grace does not make wrong into right." (*Spe Salvi* 44)
+- "Either the debt died with her, or she is still someone."
+- "A ripening debt is owed to no one."
+- "Being human explains why the newborn belongs. It does not explain why what belongs may never be spent."
+- "Heaven and Earth give life to things. God wanted *you*."
+- "Our love answers worth; God's love gives it."
+- "The question is not whether our nature could have been otherwise, but whether it is an accident or a wisdom."
+- "No one is the price of someone else's good, not even in God's hands."
+- "A will that lacks nothing has nothing to grasp at."
+- "Both say grasping must die. We part over what is left."
+- "What he feels then is not the source of her worth. It is his answer to it."
+- "Shame says I am less; guilt says I wronged her; only guilt goes looking for her."
+
+## To verify before anything enters the book
+All non-magisterial material is paraphrase. Highest priority: *Spe Salvi* 42–44 wording (cache it); CCC 306, 310, 312, 324, 1033, 1037, 1459, 1850, 2104; GS 24, 29; ST I q.15, q.19 a.9, q.20 a.2, q.48 a.2, q.49 a.3, I-II q.77 a.4, q.94 a.2; Anscombe 1958 (paraphrase her accurately); Kant *Religion* 6:98–99; Hume *Enquiry* §3 and *Dialogues* XI; Darwin *Descent* ch. 3/4; Maria Goretti's forgiveness; Pieper's "it is good that you exist"; Zhu Xi *Yulei* 1; SN 36.21; Ud 8.3; MN 72.
