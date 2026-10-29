@@ -78,7 +78,7 @@ Guidelines for writing new content and for double-checking important concepts. T
 - **Link every file or chapter you mention**, so Patrick can open it. After multi-file edits, give one link per file.
 - **Move finished items** from "In Progress" to "Completed" in this file without asking.
 - **When you report todos,** print the exact todo text first, then your comment.
-- **Record why** each decision was made, not only what was decided.
+- **Log only new rules for the whole book.** Do not record individual chapter edits here. Record a decision only when it sets a new rule for the entire book, and give the reason (why, not only what).
 - **Stay in scope.** Log off-topic findings as a todo. Do not fix them. A kickoff prompt for a new session says "stay on topic", omits unrelated or already-flagged items, points to existing files instead of restating them, and carries no content from the previous chapter.
 - **Read-aloud review method.** Read the whole chapter first. Rate each finding HIGH, MEDIUM, LOW or NOTE. Give the exact line, a quote, and a before and after. Never propose cutting load-bearing doctrine or Scripture for length. Write a styled HTML report in `chapters/reports/` with a summary table. Make no edits. Then walk through the findings one at a time.
 
