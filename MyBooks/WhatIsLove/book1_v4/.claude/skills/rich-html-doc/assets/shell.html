@@ -1,0 +1,96 @@
+
+<body>
+
+<header class="appbar">
+  <div class="appbar__inner">
+    <span class="lockup">
+      <span class="lockup__mark" aria-hidden="true">L</span>
+      <span class="lockup__word">__TITLE__<span class="lockup__sub">__SUBTITLE__</span></span>
+    </span>
+    <span class="appbar__spacer"></span>
+    <div class="btn-row">
+      <button class="btn btn--sm btn--icon" id="prevNoteBtn" type="button" title="Previous note"
+        aria-label="Go to the previous note" hidden><svg viewBox="0 0 16 16" fill="none"
+        stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"
+        aria-hidden="true" focusable="false"><path d="M10 3 5 8l5 5"/></svg></button>
+      <button class="btn btn--sm btn--icon" id="nextNoteBtn" type="button" title="Next note"
+        aria-label="Go to the next note" hidden><svg viewBox="0 0 16 16" fill="none"
+        stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"
+        aria-hidden="true" focusable="false"><path d="M6 3l5 5-5 5"/></svg></button>
+      <button class="btn btn--sm" id="focusBtn" type="button" aria-pressed="false">Focus</button>
+      <button class="btn btn--sm" id="modeBtn" type="button" aria-pressed="false">Dark</button>
+    </div>
+  </div>
+</header>
+
+<div class="rev-shell">
+  <nav class="rev-toc" aria-label="Chapter sections">
+    <p class="meta">Sections</p>
+    <ol>__TOC__</ol>
+  </nav>
+
+  <main>
+    <p class="eyebrow">__EYEBROW__</p>
+    <h1 class="hblk" id="doc-title" data-ref="Title" data-path="" data-plain="__TITLE__"><span
+      class="hblk__text">__TITLE__</span><button class="btn btn--sm btn--icon hblk__add"
+      type="button" title="Suggest an edit to the title"
+      aria-label="Suggest an edit to the document title">✎</button></h1>
+    <div class="blk__notes"><div class="note-slot" data-for="doc-title"></div></div>
+    <hr class="rule--short">
+
+    <div class="unplaced-panel" id="unplacedPanel" hidden>
+      <p class="unplaced-panel__title">Notes from a previous pass whose passage changed <span id="unplacedCount"></span></p>
+      <p class="unplaced-panel__hint">These were written against text that's since changed — most often because the suggested edit was applied. Compare each note against the new prose, then clear it.</p>
+      <ol id="unplacedList"></ol>
+    </div>
+
+    __BODY__
+    <p class="colophon">__COLOPHON__</p>
+  </main>
+</div>
+
+<button class="btn btn--sm focus-exit" id="focusExit" type="button" hidden>Exit focus <kbd>Esc</kbd></button>
+
+<div class="flash" id="flash" role="status" aria-live="polite" aria-atomic="true"></div>
+
+<div class="recover" id="recover" role="status" hidden>
+  <span id="recoverMsg"></span>
+  <span class="btn-row">
+    <button class="btn btn--primary btn--sm" id="recoverYes" type="button">Bring them over</button>
+    <button class="btn btn--sm" id="recoverNo" type="button">Not now</button>
+  </span>
+</div>
+
+<div class="rev-bar">
+  <div class="rev-bar__inner">
+    <span class="rev-count" id="count">No notes yet</span>
+    <span class="spacer"></span>
+    <button class="btn btn--sm" id="clearBtn" type="button" hidden>Clear</button>
+    <button class="btn btn--sm" id="reviewBtn" type="button" aria-label="View review notes" hidden><svg viewBox="0 0 16 16" fill="none"
+      stroke="currentColor" stroke-width="1.4" stroke-linecap="round" aria-hidden="true"
+      focusable="false"><path d="M1 8s2.5-4.5 7-4.5S15 8 15 8s-2.5 4.5-7 4.5S1 8 1 8Z"/><circle
+      cx="8" cy="8" r="2"/></svg><span class="btn__label">View</span></button>
+    <button class="btn btn--primary btn--sm" id="copyBtn" type="button" aria-label="Copy review notes" hidden><svg viewBox="0 0 16 16"
+      fill="none" stroke="currentColor" stroke-width="1.4" stroke-linejoin="round"
+      aria-hidden="true" focusable="false"><rect x="5.25" y="5.25" width="9" height="9"
+      rx="1.5"/><path d="M11 3.25A1.5 1.5 0 0 0 9.5 1.75h-6a1.5 1.5 0 0 0-1.5 1.5v6A1.5 1.5 0 0 0
+      3.5 10.75"/></svg><span class="btn__label">Copy</span></button>
+  </div>
+</div>
+
+<dialog id="exportDlg" class="wide">
+  <h2 class="panel__title">Review notes</h2>
+  <p class="field__hint">Markdown. Each entry names the paragraph, the section it sits in, and quotes its opening so it can be located in the source.</p>
+  <div class="field"><label class="field__label" for="exportBox">Review notes</label>
+  <textarea id="exportBox" readonly></textarea></div>
+  <div class="btn-row"><button class="btn" id="dlgClose" type="button" autofocus>Close</button>
+  <button class="btn btn--primary" id="dlgCopy" type="button">Copy to clipboard</button></div>
+</dialog>
+
+<dialog id="clearDlg">
+  <h2 class="panel__title">Clear every note?</h2>
+  <p>This removes all 0 paragraphs' notes from this browser. It cannot be undone.</p>
+  <div class="btn-row"><button class="btn" id="clearCancel" type="button" autofocus>Cancel</button>
+  <button class="btn btn--danger" id="clearYes" type="button">Clear all notes</button></div>
+</dialog>
+

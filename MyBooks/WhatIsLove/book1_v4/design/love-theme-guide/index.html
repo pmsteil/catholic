@@ -1,0 +1,731 @@
+<!DOCTYPE html>
+<script type="application/json" id="cowork-artifact-meta">
+{
+  "name": "Love Theme Guide",
+  "schemaVersion": 1,
+  "description": "The Love Theme — brand and stylesheet specification for \"What Is Love?\". Colour tokens for light and dark, measured WCAG contrast table, typography scale, live components, complete class inventory, and standing rules. Rendered in the theme itself with a mode toggle.",
+  "mcpTools": [],
+  "mcpServerNames": []
+}
+</script>
+<html lang="en" class="love love--red love--light">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>The Love Theme — Brand &amp; Stylesheet Guide</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600;700&family=Cinzel+Decorative:wght@400;700&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+/* ═══════════════════════════════════════════════════════════════════════
+   THE LOVE THEME v2.0 — reference implementation
+   Two variants (red · blue) × two modes (light · dark) = four palettes.
+   Root classes:  .love .love--red|--blue  .love--light|--dark
+   ═══════════════════════════════════════════════════════════════════════ */
+
+/* ── 1. COLOUR TOKENS ─────────────────────────────────────────────────── */
+.love--red.love--light {
+  --surface: #f7f0e4;                 /* Page background */
+  --raised: #efe4cf;                  /* Cards, callouts, stripes */
+  --sunken: #e6d9c2;                  /* Wells, code, inset */
+  --border: #d3bd93;                  /* Hairlines, table rules */
+  --border-strong: #8f7134;           /* Informational borders (≥3:1) */
+  --ink-strong: #2a0e11;              /* Headings */
+  --ink: #3c1418;                     /* Body copy */
+  --ink-muted: #6b5540;               /* Secondary prose */
+  --ink-subtle: #7d6a52;              /* Meta, captions, folios */
+  --quote: #5c4030;                   /* Quotations, scripture */
+  --accent: #8a6520;                  /* Labels — TEXT-SAFE in every variant */
+  --ornament: #be985c;                /* Rules and fills — NEVER text on light */
+  --link: #7d2229;                    /* Hyperlinks */
+  --accent-ink: #f7f0e4;              /* Text on an accent fill */
+  --focus: #8a2323;                   /* Focus ring */
+  --danger: #8a2323;                  /* Deletions, warnings */
+  --success: #1f5238;                 /* Insertions, confirmations */
+  --p-truth: #255a7a;                 /* Pillar: truth */
+  --p-justice: #6b5518;               /* Pillar: justice */
+  --p-mercy: #1f6045;                 /* Pillar: mercy */
+  --p-sacrifice: #7d2f33;             /* Pillar: sacrifice */
+}
+.love--red.love--dark {
+  --surface: #3a1418;                 /* Page background */
+  --raised: #541e23;                  /* Cards, callouts, stripes */
+  --sunken: #2a0e11;                  /* Wells, code, inset */
+  --border: #7a4a3a;                  /* Hairlines, table rules */
+  --border-strong: #a1704f;           /* Informational borders (≥3:1) */
+  --ink-strong: #f9f2e4;              /* Headings */
+  --ink: #efe4d0;                     /* Body copy */
+  --ink-muted: #c9a97a;               /* Secondary prose */
+  --ink-subtle: #b08f68;              /* Meta, captions, folios */
+  --quote: #e2cfa8;                   /* Quotations, scripture */
+  --accent: #be985c;                  /* Labels — TEXT-SAFE in every variant */
+  --ornament: #be985c;                /* Rules and fills — NEVER text on light */
+  --link: #e0b978;                    /* Hyperlinks */
+  --accent-ink: #3a1418;              /* Text on an accent fill */
+  --focus: #be985c;                   /* Focus ring */
+  --danger: #e39b96;                  /* Deletions, warnings */
+  --success: #9fd3a0;                 /* Insertions, confirmations */
+  --p-truth: #7fb0d0;                 /* Pillar: truth */
+  --p-justice: #d0b870;               /* Pillar: justice */
+  --p-mercy: #8fd0aa;                 /* Pillar: mercy */
+  --p-sacrifice: #d08f92;             /* Pillar: sacrifice */
+}
+.love--blue.love--light {
+  --surface: #f0f2f7;                 /* Page background */
+  --raised: #e3e8f2;                  /* Cards, callouts, stripes */
+  --sunken: #d7deec;                  /* Wells, code, inset */
+  --border: #b0bbd4;                  /* Hairlines, table rules */
+  --border-strong: #5f6f95;           /* Informational borders (≥3:1) */
+  --ink-strong: #121b33;              /* Headings */
+  --ink: #1e2a47;                     /* Body copy */
+  --ink-muted: #4a5470;               /* Secondary prose */
+  --ink-subtle: #5a6480;              /* Meta, captions, folios */
+  --quote: #3b4763;                   /* Quotations, scripture */
+  --accent: #795a16;                  /* Labels — TEXT-SAFE in every variant */
+  --ornament: #be985c;                /* Rules and fills — NEVER text on light */
+  --link: #1f4a8f;                    /* Hyperlinks */
+  --accent-ink: #f0f2f7;              /* Text on an accent fill */
+  --focus: #1f4a8f;                   /* Focus ring */
+  --danger: #8a2323;                  /* Deletions, warnings */
+  --success: #1f5238;                 /* Insertions, confirmations */
+  --p-truth: #1f4a8f;                 /* Pillar: truth */
+  --p-justice: #6b5518;               /* Pillar: justice */
+  --p-mercy: #1f6045;                 /* Pillar: mercy */
+  --p-sacrifice: #7d2f33;             /* Pillar: sacrifice */
+}
+.love--blue.love--dark {
+  --surface: #16223d;                 /* Page background */
+  --raised: #20305a;                  /* Cards, callouts, stripes */
+  --sunken: #0f1830;                  /* Wells, code, inset */
+  --border: #3c4f80;                  /* Hairlines, table rules */
+  --border-strong: #6c83bb;           /* Informational borders (≥3:1) */
+  --ink-strong: #f6f2e6;              /* Headings */
+  --ink: #e6e2d4;                     /* Body copy */
+  --ink-muted: #c4b995;               /* Secondary prose */
+  --ink-subtle: #a89e7e;              /* Meta, captions, folios */
+  --quote: #ddd3b8;                   /* Quotations, scripture */
+  --accent: #cfa961;                  /* Labels — TEXT-SAFE in every variant */
+  --ornament: #be985c;                /* Rules and fills — NEVER text on light */
+  --link: #e2bd80;                    /* Hyperlinks */
+  --accent-ink: #16223d;              /* Text on an accent fill */
+  --focus: #cfa961;                   /* Focus ring */
+  --danger: #f0a09a;                  /* Deletions, warnings */
+  --success: #9fd3a0;                 /* Insertions, confirmations */
+  --p-truth: #8fc0e0;                 /* Pillar: truth */
+  --p-justice: #d8c07a;               /* Pillar: justice */
+  --p-mercy: #8fd0aa;                 /* Pillar: mercy */
+  --p-sacrifice: #eda49e;             /* Pillar: sacrifice */
+}
+
+/* ── 2. NON-COLOUR TOKENS ─────────────────────────────────────────────── */
+.love {
+  --font-display:'Cinzel Decorative','Cinzel',Georgia,serif;
+  --font-title:'Cinzel',Georgia,serif;
+  --font-body:'Libre Baskerville',Georgia,'Times New Roman',serif;
+  --font-ui:'Inter',system-ui,-apple-system,sans-serif;
+  --font-mono:ui-monospace,'Menlo',monospace;
+  --size-2xs:.6875rem; --size-xs:.78rem;  --size-sm:.875rem; --size-md:1rem;
+  --size-lg:1.125rem;  --size-xl:1.4rem;  --size-2xl:1.75rem; --size-3xl:2.2rem; --size-4xl:2.75rem;
+  --leading-tight:1.2; --leading-normal:1.5; --leading-prose:1.8;
+  --tracking-display:.01em; --tracking-eyebrow:.22em; --tracking-label:.14em;
+  --space-1:.25rem; --space-2:.5rem; --space-3:.75rem; --space-4:1rem;
+  --space-5:1.5rem; --space-6:2rem;  --space-7:3rem;  --space-8:4rem;
+  --measure:68ch; --radius:3px; --rule:1px; --rule-strong:2px;
+  --focus-width:2px; --focus-offset:2px;
+}
+
+/* ── 3. BASE ──────────────────────────────────────────────────────────── */
+*,*::before,*::after{box-sizing:border-box}
+.love{background:var(--surface);color:var(--ink);font-family:var(--font-body);
+  font-size:var(--size-md);line-height:var(--leading-prose);-webkit-font-smoothing:antialiased}
+.love body{margin:0;background:var(--surface);color:var(--ink)}
+.love :focus-visible{outline:var(--focus-width) solid var(--focus);outline-offset:var(--focus-offset)}
+.love ::selection{background:var(--ornament);color:var(--accent-ink)}
+
+/* ── 4. HEADINGS ──────────────────────────────────────────────────────── */
+.love h1,.love h2,.love h3,.love h4,.love h5,.love h6{
+  color:var(--ink-strong);line-height:var(--leading-tight);
+  margin:var(--space-6) 0 var(--space-3);text-wrap:balance}
+.love h1{font-family:var(--font-display);font-size:var(--size-4xl);font-weight:700;
+  letter-spacing:var(--tracking-display);margin-top:0}
+.love h2{font-family:var(--font-display);font-size:var(--size-3xl);font-weight:700;
+  letter-spacing:var(--tracking-display)}
+.love h3{font-family:var(--font-title);font-size:var(--size-2xl);font-weight:600}
+.love h4{font-family:var(--font-title);font-size:var(--size-xl);font-weight:600}
+.love h5{font-family:var(--font-title);font-size:var(--size-lg);font-weight:500}
+.love h6{font-family:var(--font-ui);font-size:var(--size-2xs);font-weight:600;
+  letter-spacing:var(--tracking-eyebrow);text-transform:uppercase;color:var(--accent)}
+.love h1+p,.love h2+p,.love h3+p,.love h4+p{margin-top:0}
+.love :is(h1,h2,h3,h4,h5,h6)>small{display:block;font-size:var(--size-sm);
+  font-family:var(--font-ui);font-weight:400;color:var(--ink-subtle);
+  letter-spacing:.04em;margin-top:var(--space-2);text-transform:none}
+
+/* ── 5. TEXT-LEVEL ────────────────────────────────────────────────────── */
+.love p{margin:0 0 var(--space-4);max-width:var(--measure)}
+.love a{color:var(--link);text-decoration:underline;text-decoration-thickness:1px;
+  text-underline-offset:2px}
+.love a:hover{text-decoration-thickness:2px}
+.love strong,.love b{font-weight:700;color:var(--ink-strong)}
+.love em,.love i{font-style:italic}
+.love small{font-size:var(--size-xs);color:var(--ink-subtle)}
+.love mark{background:color-mix(in srgb,var(--ornament) 34%,transparent);
+  color:var(--ink-strong);padding:0 .15em;border-radius:2px}
+.love del,.love s{color:var(--danger);text-decoration:line-through;text-decoration-thickness:1px}
+.love ins,.love u{color:var(--success);text-decoration:none;
+  border-bottom:1px dotted var(--success)}
+.love abbr[title]{text-decoration:underline dotted;text-underline-offset:3px;cursor:help}
+.love cite{font-style:italic;color:var(--ink-muted)}
+.love q{quotes:"\201C" "\201D" "\2018" "\2019";font-style:italic;color:var(--quote)}
+.love sub,.love sup{font-size:.7em;line-height:0;position:relative}
+.love sup{top:-.5em} .love sub{bottom:-.25em}
+.love time{font-variant-numeric:tabular-nums;color:var(--ink-muted)}
+.love address{font-style:normal;color:var(--ink-muted);margin:0 0 var(--space-4)}
+.love .lede{font-size:var(--size-lg);color:var(--ink-muted)}
+.love .meta{font-family:var(--font-ui);font-size:var(--size-2xs);
+  letter-spacing:var(--tracking-label);text-transform:uppercase;color:var(--ink-subtle)}
+.love .eyebrow{font-family:var(--font-title);font-size:var(--size-2xs);
+  letter-spacing:var(--tracking-eyebrow);text-transform:uppercase;color:var(--accent);
+  margin:0 0 var(--space-2)}
+.love .dropcap::first-letter{float:left;font-family:var(--font-title);font-size:3.2em;
+  line-height:.82;padding:.06em .12em 0 0;color:var(--accent)}
+.love .citation{font-family:var(--font-ui);font-size:var(--size-xs);color:var(--ink-subtle)}
+
+/* ── 6. QUOTATIONS ────────────────────────────────────────────────────── */
+.love blockquote{margin:var(--space-5) 0;padding:var(--space-2) 0 var(--space-2) var(--space-4);
+  border-left:var(--rule-strong) solid var(--ornament);
+  font-style:italic;color:var(--quote);max-width:var(--measure)}
+.love blockquote p:last-child{margin-bottom:0}
+.love blockquote cite,.love blockquote footer{display:block;font-style:normal;
+  font-family:var(--font-ui);font-size:var(--size-2xs);letter-spacing:var(--tracking-label);
+  text-transform:uppercase;color:var(--accent);margin-top:var(--space-2)}
+
+/* ── 7. LISTS ─────────────────────────────────────────────────────────── */
+.love ul,.love ol{margin:0 0 var(--space-4);padding-left:1.4rem;max-width:var(--measure)}
+.love li{margin-bottom:var(--space-2)}
+.love li::marker{color:var(--accent)}
+.love ul ul,.love ol ol,.love ul ol,.love ol ul{margin-top:var(--space-2);margin-bottom:0}
+.love dl{margin:0 0 var(--space-4);max-width:var(--measure)}
+.love dt{font-family:var(--font-ui);font-size:var(--size-2xs);letter-spacing:var(--tracking-label);
+  text-transform:uppercase;color:var(--accent);margin-top:var(--space-3)}
+.love dd{margin:var(--space-1) 0 0}
+
+/* ── 8. RULES & MEDIA ─────────────────────────────────────────────────── */
+.love hr{border:0;border-top:var(--rule) solid var(--border);margin:var(--space-6) 0}
+.love figure{margin:var(--space-5) 0}
+.love figure img,.love img,.love video{max-width:100%;height:auto;border-radius:var(--radius)}
+.love figcaption{font-family:var(--font-ui);font-size:var(--size-xs);color:var(--ink-subtle);
+  margin-top:var(--space-2);text-align:center}
+
+/* ── 9. TABLES ────────────────────────────────────────────────────────── */
+.love table{width:100%;border-collapse:collapse;margin:var(--space-4) 0;font-size:var(--size-sm)}
+.love caption{caption-side:bottom;font-family:var(--font-ui);font-size:var(--size-xs);
+  color:var(--ink-subtle);padding-top:var(--space-2);text-align:left}
+.love th{text-align:left;font-family:var(--font-ui);font-size:var(--size-2xs);font-weight:600;
+  letter-spacing:var(--tracking-label);text-transform:uppercase;color:var(--accent);
+  border-bottom:var(--rule-strong) solid var(--border-strong);padding:var(--space-2) var(--space-3)}
+.love td{padding:var(--space-2) var(--space-3);border-bottom:var(--rule) solid var(--border);
+  vertical-align:top}
+.love tbody tr:nth-child(even){background:color-mix(in srgb,var(--raised) 55%,transparent)}
+.love tfoot td{font-weight:700;color:var(--ink-strong);border-top:var(--rule-strong) solid var(--border-strong)}
+
+/* ── 10. CODE ─────────────────────────────────────────────────────────── */
+.love code,.love kbd,.love samp,.love var{font-family:var(--font-mono);font-size:.86em}
+.love code{background:var(--sunken);padding:.1rem .35rem;border-radius:var(--radius)}
+.love pre{background:var(--sunken);border:var(--rule) solid var(--border);border-radius:var(--radius);
+  padding:var(--space-4);overflow-x:auto;line-height:1.65;color:var(--ink-muted);margin:var(--space-4) 0}
+.love pre code{background:none;padding:0}
+.love pre b{color:var(--ink-strong);font-weight:600}
+.love kbd{background:var(--raised);border:var(--rule) solid var(--border-strong);
+  border-bottom-width:2px;border-radius:var(--radius);padding:.1rem .35rem;color:var(--ink-strong)}
+.love var{font-style:italic;color:var(--accent)}
+
+/* ── 11. INTERACTIVE ──────────────────────────────────────────────────── */
+.love details{background:var(--raised);border-radius:var(--radius);
+  border-left:var(--rule-strong) solid var(--ornament);padding:var(--space-3) var(--space-4);
+  margin:var(--space-4) 0}
+.love summary{cursor:pointer;font-family:var(--font-ui);font-size:var(--size-sm);
+  font-weight:600;color:var(--ink-strong)}
+.love summary::marker{color:var(--accent)}
+.love details[open] summary{margin-bottom:var(--space-3)}
+.love button,.love .btn{font-family:var(--font-ui);font-size:var(--size-xs);cursor:pointer;
+  background:transparent;color:var(--accent);border:var(--rule) solid var(--border-strong);
+  padding:.4rem .85rem;border-radius:var(--radius)}
+.love button:hover,.love .btn:hover{background:var(--sunken)}
+.love button[aria-pressed="true"],.love .btn.is-on{background:var(--accent);color:var(--accent-ink);
+  border-color:var(--accent)}
+.love label{display:block;font-family:var(--font-ui);font-size:var(--size-2xs);
+  letter-spacing:var(--tracking-label);text-transform:uppercase;color:var(--accent);
+  margin-bottom:var(--space-1)}
+.love input,.love textarea,.love select{font-family:var(--font-body);font-size:var(--size-sm);
+  background:var(--surface);color:var(--ink);border:var(--rule) solid var(--border-strong);
+  border-radius:var(--radius);padding:var(--space-2) var(--space-3);width:100%}
+.love input::placeholder,.love textarea::placeholder{color:var(--ink-subtle)}
+.love fieldset{border:var(--rule) solid var(--border);border-radius:var(--radius);
+  padding:var(--space-4);margin:var(--space-4) 0}
+.love legend{font-family:var(--font-ui);font-size:var(--size-2xs);
+  letter-spacing:var(--tracking-label);text-transform:uppercase;color:var(--accent);padding:0 var(--space-2)}
+.love progress{width:100%;height:6px;accent-color:var(--accent)}
+
+/* ── 12. LAYOUT HELPERS ───────────────────────────────────────────────── */
+.page{max-width:1080px;margin:0 auto;padding:var(--space-7) var(--space-5) var(--space-8)}
+.prose{max-width:var(--measure)}
+.spread{display:grid;grid-template-columns:1fr;gap:var(--space-5)}
+@media(min-width:860px){.spread{grid-template-columns:1.15fr .85fr}}
+.stack>*+*{margin-top:var(--space-4)}
+
+/* ── 13. ORNAMENT ─────────────────────────────────────────────────────── */
+.rule--short{width:64px;border-top:var(--rule-strong) solid var(--ornament);margin:var(--space-4) 0}
+.rule--center{margin-left:auto;margin-right:auto}
+.fleuron{text-align:center;color:var(--ornament);letter-spacing:.5em;
+  font-size:var(--size-lg);margin:var(--space-6) 0}
+
+/* ── 14. THE DEFINITION ───────────────────────────────────────────────── */
+.definition{background:var(--raised);border:var(--rule) solid var(--border);
+  border-left:var(--rule-strong) solid var(--ornament);padding:var(--space-4) var(--space-5);
+  border-radius:var(--radius);margin:var(--space-5) 0}
+.definition__label{font-family:var(--font-ui);font-size:var(--size-2xs);
+  letter-spacing:var(--tracking-label);text-transform:uppercase;color:var(--accent);
+  margin-bottom:var(--space-2)}
+.definition__text{line-height:var(--leading-normal);color:var(--ink)}
+.definition--hero{text-align:center;padding:var(--space-6) var(--space-5)}
+.definition--hero .definition__text{font-size:var(--size-xl);line-height:var(--leading-tight)}
+
+/* ── 15. SCRIPTURE ────────────────────────────────────────────────────── */
+.scripture{border-left:0;border-top:var(--rule) solid var(--border);
+  border-bottom:var(--rule) solid var(--border);padding:var(--space-3) 0;margin:var(--space-5) 0}
+.scripture--bar{border-top:0;border-bottom:0;
+  border-left:var(--rule-strong) solid var(--ornament);padding:var(--space-2) 0 var(--space-2) var(--space-4)}
+.scripture__cite{display:block;font-style:normal;font-family:var(--font-ui);
+  font-size:var(--size-2xs);letter-spacing:var(--tracking-label);text-transform:uppercase;
+  color:var(--accent);margin-top:var(--space-2)}
+
+/* ── 16. PILLARS ──────────────────────────────────────────────────────── */
+.pillars{display:flex;flex-wrap:wrap;gap:var(--space-2);margin:var(--space-4) 0;padding:0;list-style:none}
+.pillar{flex:1 1 96px;text-align:center;padding:var(--space-2) var(--space-1);margin:0;
+  background:var(--raised);border:var(--rule) solid var(--border);border-radius:var(--radius);
+  font-family:var(--font-ui);font-size:var(--size-2xs);letter-spacing:var(--tracking-label);
+  text-transform:uppercase}
+.pillar--truth{color:var(--p-truth);border-top:var(--rule-strong) solid var(--p-truth)}
+.pillar--justice{color:var(--p-justice);border-top:var(--rule-strong) solid var(--p-justice)}
+.pillar--mercy{color:var(--p-mercy);border-top:var(--rule-strong) solid var(--p-mercy)}
+.pillar--sacrifice{color:var(--p-sacrifice);border-top:var(--rule-strong) solid var(--p-sacrifice)}
+.pillar-strip{display:flex;height:4px;border-radius:2px;overflow:hidden;margin:var(--space-4) 0}
+.pillar-strip>*{flex:1}
+
+/* ── 17. CARDS ────────────────────────────────────────────────────────── */
+.card{background:var(--raised);border-radius:var(--radius);
+  border-left:var(--rule-strong) solid var(--ornament);
+  padding:var(--space-4) var(--space-5);margin:var(--space-4) 0}
+.card__label{font-family:var(--font-ui);font-size:var(--size-2xs);
+  letter-spacing:var(--tracking-label);text-transform:uppercase;color:var(--accent);
+  margin-bottom:var(--space-2)}
+.card--decision{border-left-color:var(--p-truth)}
+.card--theology{border-left-color:var(--ornament)}
+.card--voice{border-left-color:var(--p-mercy)}
+.card--rejected{border-left-color:var(--danger)}
+.card--research{border-left-color:var(--p-justice)}
+
+/* ── 18. REDLINE ──────────────────────────────────────────────────────── */
+.redline{background:var(--raised);border-left:var(--rule-strong) solid var(--danger);
+  padding:var(--space-3) var(--space-4);margin:var(--space-4) 0;border-radius:var(--radius)}
+.redline__label{font-family:var(--font-ui);font-size:var(--size-2xs);
+  letter-spacing:var(--tracking-label);text-transform:uppercase;color:var(--danger);
+  margin-bottom:var(--space-2)}
+.redline del::before{content:"− "} .redline ins::before{content:"+ "}
+.redline ins{border-bottom:0}
+
+/* ── 19. BADGES, TAGS, STATS, TOC ─────────────────────────────────────── */
+.badge,.tag{display:inline-block;font-family:var(--font-ui);font-size:var(--size-2xs);
+  letter-spacing:.06em;padding:.1rem .45rem;border-radius:var(--radius);
+  border:var(--rule) solid var(--border-strong);color:var(--ink-muted)}
+.badge.ok{color:var(--success);border-color:var(--success)}
+.badge.warn{color:var(--accent);border-color:var(--accent)}
+.badge.bad{color:var(--danger);border-color:var(--danger)}
+.num{font-variant-numeric:tabular-nums;text-align:right}
+.mono{font-family:var(--font-mono);font-size:.85em}
+.stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));
+  gap:var(--space-3);margin:var(--space-4) 0}
+.stat{background:var(--raised);border-radius:var(--radius);padding:var(--space-3);text-align:center}
+.stat__num{font-family:var(--font-title);font-size:var(--size-2xl);color:var(--accent);display:block}
+.stat__label{font-family:var(--font-ui);font-size:var(--size-2xs);
+  letter-spacing:var(--tracking-label);text-transform:uppercase;color:var(--ink-subtle)}
+.toc{background:var(--raised);border-radius:var(--radius);padding:var(--space-4) var(--space-5);
+  margin:var(--space-5) 0}
+.toc ol{counter-reset:toc;list-style:none;padding:0;margin:0}
+.toc li{counter-increment:toc}
+.toc li::before{content:counter(toc) ". ";color:var(--accent);font-family:var(--font-title)}
+
+/* ── 20. PRINT ────────────────────────────────────────────────────────── */
+@media print{
+  .love{--surface:#fff;--raised:#f4efe4;--sunken:#f0eade;--ink:#1a1a1a;--ink-strong:#000;
+    --ink-muted:#333;--ink-subtle:#555;--border:#bbb;--border-strong:#888;
+    --accent:#6b4d14;--ornament:#8a6520;--quote:#333}
+  .no-print{display:none!important}
+  .card,.definition,.redline,blockquote,figure,table{break-inside:avoid}
+  .love a::after{content:" (" attr(href) ")";font-size:.8em;color:#555}
+}
+/* ── 21. MOTION ───────────────────────────────────────────────────────── */
+@media(prefers-reduced-motion:reduce){
+  *,*::before,*::after{animation-duration:.01ms!important;transition-duration:.01ms!important}
+}
+
+/* ═══ guide chrome (not part of the theme) ════════════════════════════ */
+.toolbar{position:sticky;top:0;z-index:9;display:flex;justify-content:space-between;
+  align-items:center;gap:var(--space-3);padding:var(--space-3) var(--space-5);
+  background:var(--raised);border-bottom:var(--rule) solid var(--border);flex-wrap:wrap}
+.toolbar__title{font-family:var(--font-title);font-size:var(--size-sm);
+  letter-spacing:.12em;text-transform:uppercase;color:var(--ink-muted)}
+.switcher{display:flex;gap:var(--space-2);flex-wrap:wrap}
+.tokgroup{margin-bottom:var(--space-4)}
+.tokgroup-h{font-family:var(--font-ui);font-size:var(--size-2xs);
+  letter-spacing:var(--tracking-label);text-transform:uppercase;color:var(--ink-subtle);
+  margin-bottom:var(--space-2)}
+.tokrow{display:flex;flex-wrap:wrap;gap:var(--space-2)}
+.tok{flex:1 1 128px;min-height:60px;border-radius:var(--radius);padding:var(--space-2);
+  display:flex;flex-direction:column;justify-content:flex-end;border:var(--rule) solid rgba(128,128,128,.25)}
+.tok-n{font-family:var(--font-mono);font-size:.62rem}
+.tok-v{font-family:var(--font-mono);font-size:.58rem;opacity:.75}
+.quad{display:grid;grid-template-columns:1fr;gap:var(--space-4)}
+@media(min-width:1000px){.quad{grid-template-columns:1fr 1fr}}
+.demo{border:var(--rule) solid var(--border);border-radius:var(--radius);padding:var(--space-4)}
+.demo-h{font-family:var(--font-ui);font-size:var(--size-2xs);letter-spacing:var(--tracking-label);
+  text-transform:uppercase;color:var(--ink-subtle);margin-bottom:var(--space-3)}
+.dodont{display:grid;grid-template-columns:1fr;gap:var(--space-4)}
+@media(min-width:760px){.dodont{grid-template-columns:1fr 1fr}}
+.do,.dont{border-radius:var(--radius);padding:var(--space-4);background:var(--raised);
+  border-left:var(--rule-strong) solid var(--success)}
+.dont{border-left-color:var(--danger)}
+.do h4,.dont h4{font-family:var(--font-ui);font-size:var(--size-2xs);
+  letter-spacing:var(--tracking-label);text-transform:uppercase;margin:0 0 var(--space-2);
+  color:var(--success)}
+.dont h4{color:var(--danger)}
+.do ul,.dont ul{margin:0;padding-left:1.1rem;font-size:var(--size-sm)}
+.sink{border:var(--rule) solid var(--border);border-radius:var(--radius);
+  padding:var(--space-5);margin:var(--space-4) 0}
+.wide{max-width:none}
+</style>
+</head>
+<body>
+
+<div class="toolbar no-print">
+  <span class="toolbar__title">The Love Theme · v2.0</span>
+  <div class="switcher">
+    <button type="button" class="btn is-on" data-v="red">Red</button>
+    <button type="button" class="btn" data-v="blue">Blue</button>
+    <button type="button" class="btn is-on" data-m="light">Light</button>
+    <button type="button" class="btn" data-m="dark">Dark</button>
+  </div>
+</div>
+
+<div class="page">
+
+  <p class="eyebrow">What Is Love? · Design System v2.0</p>
+  <h1>The Love Theme</h1>
+  <hr class="rule--short">
+  <p class="lede">The visual system for <em>What Is Love? God's Perfect Love</em>. Two variants — <strong>Red</strong> and <strong>Blue</strong> — each in light and dark. Four palettes, one grammar.</p>
+  <p>This document is the specification, rendered in the theme it describes. Use the switcher above to move between all four palettes; every example on the page re-renders live, so nothing here is an approximation.</p>
+
+  <hr>
+
+  <h2>One · The two variants</h2>
+  <p><strong>Red</strong> is the cover: Burnt Crimson and Gold Torch. Passion, sacrifice, the blood of the martyrs, the Cross. It is the book's primary identity and the default.</p>
+  <p><strong>Blue</strong> is the older and quieter half of the same tradition: lapis and gold, the pigment reserved for the Blessed Virgin because ultramarine cost more than gold itself. Marian blue carries fidelity, covenant, and constancy — the calm inside the same doctrine.</p>
+  <p>They are not moods to pick between at whim. Red is the default for the book proper; Blue is for Marian material, covenant chapters, liturgical-season work, and any surface that should feel adjacent to the book without competing with it. Gold is common to both, which is what makes them read as one system rather than two.</p>
+
+  <div class="card card--theology">
+    <div class="card__label">Why gold in both</div>
+    Gold is not decoration in either variant. In sacred art it signifies uncreated light — the thing that does not belong to the created palette. Holding it constant across red and blue is the visual claim that both are lit from the same source.
+  </div>
+
+  <hr>
+
+  <h2>Two · Light and dark are not mirrors</h2>
+  <p>The most important rule in the system, and the one most likely to be broken by accident.</p>
+  <p><strong>Gold cannot be text on a light ground.</strong> Gold Torch <code>#be985c</code> measures 2.44:1 on the red cream and 2.39:1 on the blue paper — far below any usable threshold. On both dark grounds it is comfortably legible. So gold's <em>role</em> changes, and the tokens encode it:</p>
+  <div class="dodont">
+    <div class="do">
+      <h4>Correct</h4>
+      <ul>
+        <li><code>--accent</code> is text-safe in all four palettes. Every label, eyebrow, small-caps run, table header.</li>
+        <li><code>--ornament</code> is always true Gold Torch. Rules, borders, fills, flourishes — surfaces with no text on them.</li>
+        <li>Ask "is this text?" If yes, <code>--accent</code>. If no, <code>--ornament</code>.</li>
+      </ul>
+    </div>
+    <div class="dont">
+      <h4>Wrong</h4>
+      <ul>
+        <li>Hard-coding <code>#be985c</code> anywhere at all.</li>
+        <li>Using <code>--ornament</code> for text because it looked right in dark mode.</li>
+        <li>Using a gold rule to carry information on a light ground — decorative only, since it cannot reach 3:1.</li>
+      </ul>
+    </div>
+  </div>
+  <p style="margin-top:var(--space-5)"><strong>Light is the default.</strong> Dark grounds cause halation — the bloom around light glyphs — which is worse for readers with astigmatism. Dark mode is offered, not assumed. Dark body ink is deliberately not white: maximum contrast is not maximum legibility, and WCAG sets a floor, not a ceiling.</p>
+
+  <hr>
+
+  <h2>Three · Colour tokens</h2>
+  <p>Semantic names only. No component may reference a raw hex. If a colour is needed that no token provides, add a token — never inline the value.</p>
+  <div class="quad">
+    <div class="demo"><div class="demo-h">Red · Light — <code>.love--red.love--light</code></div><div class="tokgroup"><div class="tokgroup-h">Surfaces</div><div class="tokrow"><div class="tok" style="background:#f7f0e4;color:#3c1418"><span class="tok-n">--surface</span><span class="tok-v">#f7f0e4</span></div><div class="tok" style="background:#efe4cf;color:#3c1418"><span class="tok-n">--raised</span><span class="tok-v">#efe4cf</span></div><div class="tok" style="background:#e6d9c2;color:#3c1418"><span class="tok-n">--sunken</span><span class="tok-v">#e6d9c2</span></div></div></div><div class="tokgroup"><div class="tokgroup-h">Borders</div><div class="tokrow"><div class="tok" style="background:#d3bd93;color:#3c1418"><span class="tok-n">--border</span><span class="tok-v">#d3bd93</span></div><div class="tok" style="background:#8f7134;color:#f7f0e4"><span class="tok-n">--border-strong</span><span class="tok-v">#8f7134</span></div></div></div><div class="tokgroup"><div class="tokgroup-h">Ink</div><div class="tokrow"><div class="tok" style="background:#2a0e11;color:#f7f0e4"><span class="tok-n">--ink-strong</span><span class="tok-v">#2a0e11</span></div><div class="tok" style="background:#3c1418;color:#f7f0e4"><span class="tok-n">--ink</span><span class="tok-v">#3c1418</span></div><div class="tok" style="background:#6b5540;color:#f7f0e4"><span class="tok-n">--ink-muted</span><span class="tok-v">#6b5540</span></div><div class="tok" style="background:#7d6a52;color:#f7f0e4"><span class="tok-n">--ink-subtle</span><span class="tok-v">#7d6a52</span></div><div class="tok" style="background:#5c4030;color:#f7f0e4"><span class="tok-n">--quote</span><span class="tok-v">#5c4030</span></div></div></div><div class="tokgroup"><div class="tokgroup-h">Accent & state</div><div class="tokrow"><div class="tok" style="background:#8a6520;color:#f7f0e4"><span class="tok-n">--accent</span><span class="tok-v">#8a6520</span></div><div class="tok" style="background:#be985c;color:#3c1418"><span class="tok-n">--ornament</span><span class="tok-v">#be985c</span></div><div class="tok" style="background:#7d2229;color:#f7f0e4"><span class="tok-n">--link</span><span class="tok-v">#7d2229</span></div><div class="tok" style="background:#8a2323;color:#f7f0e4"><span class="tok-n">--danger</span><span class="tok-v">#8a2323</span></div><div class="tok" style="background:#1f5238;color:#f7f0e4"><span class="tok-n">--success</span><span class="tok-v">#1f5238</span></div></div></div><div class="tokgroup"><div class="tokgroup-h">Pillars</div><div class="tokrow"><div class="tok" style="background:#255a7a;color:#f7f0e4"><span class="tok-n">--p-truth</span><span class="tok-v">#255a7a</span></div><div class="tok" style="background:#6b5518;color:#f7f0e4"><span class="tok-n">--p-justice</span><span class="tok-v">#6b5518</span></div><div class="tok" style="background:#1f6045;color:#f7f0e4"><span class="tok-n">--p-mercy</span><span class="tok-v">#1f6045</span></div><div class="tok" style="background:#7d2f33;color:#f7f0e4"><span class="tok-n">--p-sacrifice</span><span class="tok-v">#7d2f33</span></div></div></div></div>
+    <div class="demo"><div class="demo-h">Red · Dark — <code>.love--red.love--dark</code></div><div class="tokgroup"><div class="tokgroup-h">Surfaces</div><div class="tokrow"><div class="tok" style="background:#3a1418;color:#efe4d0"><span class="tok-n">--surface</span><span class="tok-v">#3a1418</span></div><div class="tok" style="background:#541e23;color:#efe4d0"><span class="tok-n">--raised</span><span class="tok-v">#541e23</span></div><div class="tok" style="background:#2a0e11;color:#efe4d0"><span class="tok-n">--sunken</span><span class="tok-v">#2a0e11</span></div></div></div><div class="tokgroup"><div class="tokgroup-h">Borders</div><div class="tokrow"><div class="tok" style="background:#7a4a3a;color:#efe4d0"><span class="tok-n">--border</span><span class="tok-v">#7a4a3a</span></div><div class="tok" style="background:#a1704f;color:#3a1418"><span class="tok-n">--border-strong</span><span class="tok-v">#a1704f</span></div></div></div><div class="tokgroup"><div class="tokgroup-h">Ink</div><div class="tokrow"><div class="tok" style="background:#f9f2e4;color:#3a1418"><span class="tok-n">--ink-strong</span><span class="tok-v">#f9f2e4</span></div><div class="tok" style="background:#efe4d0;color:#3a1418"><span class="tok-n">--ink</span><span class="tok-v">#efe4d0</span></div><div class="tok" style="background:#c9a97a;color:#3a1418"><span class="tok-n">--ink-muted</span><span class="tok-v">#c9a97a</span></div><div class="tok" style="background:#b08f68;color:#3a1418"><span class="tok-n">--ink-subtle</span><span class="tok-v">#b08f68</span></div><div class="tok" style="background:#e2cfa8;color:#3a1418"><span class="tok-n">--quote</span><span class="tok-v">#e2cfa8</span></div></div></div><div class="tokgroup"><div class="tokgroup-h">Accent & state</div><div class="tokrow"><div class="tok" style="background:#be985c;color:#3a1418"><span class="tok-n">--accent</span><span class="tok-v">#be985c</span></div><div class="tok" style="background:#be985c;color:#3a1418"><span class="tok-n">--ornament</span><span class="tok-v">#be985c</span></div><div class="tok" style="background:#e0b978;color:#3a1418"><span class="tok-n">--link</span><span class="tok-v">#e0b978</span></div><div class="tok" style="background:#e39b96;color:#3a1418"><span class="tok-n">--danger</span><span class="tok-v">#e39b96</span></div><div class="tok" style="background:#9fd3a0;color:#3a1418"><span class="tok-n">--success</span><span class="tok-v">#9fd3a0</span></div></div></div><div class="tokgroup"><div class="tokgroup-h">Pillars</div><div class="tokrow"><div class="tok" style="background:#7fb0d0;color:#3a1418"><span class="tok-n">--p-truth</span><span class="tok-v">#7fb0d0</span></div><div class="tok" style="background:#d0b870;color:#3a1418"><span class="tok-n">--p-justice</span><span class="tok-v">#d0b870</span></div><div class="tok" style="background:#8fd0aa;color:#3a1418"><span class="tok-n">--p-mercy</span><span class="tok-v">#8fd0aa</span></div><div class="tok" style="background:#d08f92;color:#3a1418"><span class="tok-n">--p-sacrifice</span><span class="tok-v">#d08f92</span></div></div></div></div>
+    <div class="demo"><div class="demo-h">Blue · Light — <code>.love--blue.love--light</code></div><div class="tokgroup"><div class="tokgroup-h">Surfaces</div><div class="tokrow"><div class="tok" style="background:#f0f2f7;color:#1e2a47"><span class="tok-n">--surface</span><span class="tok-v">#f0f2f7</span></div><div class="tok" style="background:#e3e8f2;color:#1e2a47"><span class="tok-n">--raised</span><span class="tok-v">#e3e8f2</span></div><div class="tok" style="background:#d7deec;color:#1e2a47"><span class="tok-n">--sunken</span><span class="tok-v">#d7deec</span></div></div></div><div class="tokgroup"><div class="tokgroup-h">Borders</div><div class="tokrow"><div class="tok" style="background:#b0bbd4;color:#1e2a47"><span class="tok-n">--border</span><span class="tok-v">#b0bbd4</span></div><div class="tok" style="background:#5f6f95;color:#f0f2f7"><span class="tok-n">--border-strong</span><span class="tok-v">#5f6f95</span></div></div></div><div class="tokgroup"><div class="tokgroup-h">Ink</div><div class="tokrow"><div class="tok" style="background:#121b33;color:#f0f2f7"><span class="tok-n">--ink-strong</span><span class="tok-v">#121b33</span></div><div class="tok" style="background:#1e2a47;color:#f0f2f7"><span class="tok-n">--ink</span><span class="tok-v">#1e2a47</span></div><div class="tok" style="background:#4a5470;color:#f0f2f7"><span class="tok-n">--ink-muted</span><span class="tok-v">#4a5470</span></div><div class="tok" style="background:#5a6480;color:#f0f2f7"><span class="tok-n">--ink-subtle</span><span class="tok-v">#5a6480</span></div><div class="tok" style="background:#3b4763;color:#f0f2f7"><span class="tok-n">--quote</span><span class="tok-v">#3b4763</span></div></div></div><div class="tokgroup"><div class="tokgroup-h">Accent & state</div><div class="tokrow"><div class="tok" style="background:#795a16;color:#f0f2f7"><span class="tok-n">--accent</span><span class="tok-v">#795a16</span></div><div class="tok" style="background:#be985c;color:#1e2a47"><span class="tok-n">--ornament</span><span class="tok-v">#be985c</span></div><div class="tok" style="background:#1f4a8f;color:#f0f2f7"><span class="tok-n">--link</span><span class="tok-v">#1f4a8f</span></div><div class="tok" style="background:#8a2323;color:#f0f2f7"><span class="tok-n">--danger</span><span class="tok-v">#8a2323</span></div><div class="tok" style="background:#1f5238;color:#f0f2f7"><span class="tok-n">--success</span><span class="tok-v">#1f5238</span></div></div></div><div class="tokgroup"><div class="tokgroup-h">Pillars</div><div class="tokrow"><div class="tok" style="background:#1f4a8f;color:#f0f2f7"><span class="tok-n">--p-truth</span><span class="tok-v">#1f4a8f</span></div><div class="tok" style="background:#6b5518;color:#f0f2f7"><span class="tok-n">--p-justice</span><span class="tok-v">#6b5518</span></div><div class="tok" style="background:#1f6045;color:#f0f2f7"><span class="tok-n">--p-mercy</span><span class="tok-v">#1f6045</span></div><div class="tok" style="background:#7d2f33;color:#f0f2f7"><span class="tok-n">--p-sacrifice</span><span class="tok-v">#7d2f33</span></div></div></div></div>
+    <div class="demo"><div class="demo-h">Blue · Dark — <code>.love--blue.love--dark</code></div><div class="tokgroup"><div class="tokgroup-h">Surfaces</div><div class="tokrow"><div class="tok" style="background:#16223d;color:#e6e2d4"><span class="tok-n">--surface</span><span class="tok-v">#16223d</span></div><div class="tok" style="background:#20305a;color:#e6e2d4"><span class="tok-n">--raised</span><span class="tok-v">#20305a</span></div><div class="tok" style="background:#0f1830;color:#e6e2d4"><span class="tok-n">--sunken</span><span class="tok-v">#0f1830</span></div></div></div><div class="tokgroup"><div class="tokgroup-h">Borders</div><div class="tokrow"><div class="tok" style="background:#3c4f80;color:#e6e2d4"><span class="tok-n">--border</span><span class="tok-v">#3c4f80</span></div><div class="tok" style="background:#6c83bb;color:#16223d"><span class="tok-n">--border-strong</span><span class="tok-v">#6c83bb</span></div></div></div><div class="tokgroup"><div class="tokgroup-h">Ink</div><div class="tokrow"><div class="tok" style="background:#f6f2e6;color:#16223d"><span class="tok-n">--ink-strong</span><span class="tok-v">#f6f2e6</span></div><div class="tok" style="background:#e6e2d4;color:#16223d"><span class="tok-n">--ink</span><span class="tok-v">#e6e2d4</span></div><div class="tok" style="background:#c4b995;color:#16223d"><span class="tok-n">--ink-muted</span><span class="tok-v">#c4b995</span></div><div class="tok" style="background:#a89e7e;color:#16223d"><span class="tok-n">--ink-subtle</span><span class="tok-v">#a89e7e</span></div><div class="tok" style="background:#ddd3b8;color:#16223d"><span class="tok-n">--quote</span><span class="tok-v">#ddd3b8</span></div></div></div><div class="tokgroup"><div class="tokgroup-h">Accent & state</div><div class="tokrow"><div class="tok" style="background:#cfa961;color:#16223d"><span class="tok-n">--accent</span><span class="tok-v">#cfa961</span></div><div class="tok" style="background:#be985c;color:#16223d"><span class="tok-n">--ornament</span><span class="tok-v">#be985c</span></div><div class="tok" style="background:#e2bd80;color:#16223d"><span class="tok-n">--link</span><span class="tok-v">#e2bd80</span></div><div class="tok" style="background:#f0a09a;color:#16223d"><span class="tok-n">--danger</span><span class="tok-v">#f0a09a</span></div><div class="tok" style="background:#9fd3a0;color:#16223d"><span class="tok-n">--success</span><span class="tok-v">#9fd3a0</span></div></div></div><div class="tokgroup"><div class="tokgroup-h">Pillars</div><div class="tokrow"><div class="tok" style="background:#8fc0e0;color:#16223d"><span class="tok-n">--p-truth</span><span class="tok-v">#8fc0e0</span></div><div class="tok" style="background:#d8c07a;color:#16223d"><span class="tok-n">--p-justice</span><span class="tok-v">#d8c07a</span></div><div class="tok" style="background:#8fd0aa;color:#16223d"><span class="tok-n">--p-mercy</span><span class="tok-v">#8fd0aa</span></div><div class="tok" style="background:#eda49e;color:#16223d"><span class="tok-n">--p-sacrifice</span><span class="tok-v">#eda49e</span></div></div></div></div>
+  </div>
+
+  <h3>Measured contrast — all four palettes</h3>
+  <p>Computed against WCAG 2.2, not estimated. Any token change must be re-checked here.</p>
+  <div style="overflow-x:auto">
+  <table class="wide">
+    <thead><tr><th rowspan="2">Pair</th><th rowspan="2">Token</th>
+      <th colspan="2">Red light</th><th colspan="2">Red dark</th>
+      <th colspan="2">Blue light</th><th colspan="2">Blue dark</th></tr>
+      <tr><th class="num">×</th><th></th><th class="num">×</th><th></th><th class="num">×</th><th></th><th class="num">×</th><th></th></tr></thead>
+    <tbody><tr><td>Body text</td><td class="mono">--ink</td><td class="num">14.2</td><td><span class="badge ok">AAA</span></td><td class="num">12.9</td><td><span class="badge ok">AAA</span></td><td class="num">12.69</td><td><span class="badge ok">AAA</span></td><td class="num">12.17</td><td><span class="badge ok">AAA</span></td></tr><tr><td>Headings</td><td class="mono">--ink-strong</td><td class="num">15.85</td><td><span class="badge ok">AAA</span></td><td class="num">14.58</td><td><span class="badge ok">AAA</span></td><td class="num">15.24</td><td><span class="badge ok">AAA</span></td><td class="num">14.1</td><td><span class="badge ok">AAA</span></td></tr><tr><td>Muted prose</td><td class="mono">--ink-muted</td><td class="num">6.18</td><td><span class="badge ok">AA</span></td><td class="num">7.3</td><td><span class="badge ok">AAA</span></td><td class="num">6.71</td><td><span class="badge ok">AA</span></td><td class="num">8.06</td><td><span class="badge ok">AAA</span></td></tr><tr><td>Meta / captions</td><td class="mono">--ink-subtle</td><td class="num">4.57</td><td><span class="badge ok">AA</span></td><td class="num">5.39</td><td><span class="badge ok">AA</span></td><td class="num">5.25</td><td><span class="badge ok">AA</span></td><td class="num">5.91</td><td><span class="badge ok">AA</span></td></tr><tr><td>Accent label</td><td class="mono">--accent</td><td class="num">4.68</td><td><span class="badge ok">AA</span></td><td class="num">6.06</td><td><span class="badge ok">AA</span></td><td class="num">5.7</td><td><span class="badge ok">AA</span></td><td class="num">7.14</td><td><span class="badge ok">AAA</span></td></tr><tr><td>Link</td><td class="mono">--link</td><td class="num">8.69</td><td><span class="badge ok">AAA</span></td><td class="num">8.8</td><td><span class="badge ok">AAA</span></td><td class="num">7.7</td><td><span class="badge ok">AAA</span></td><td class="num">8.89</td><td><span class="badge ok">AAA</span></td></tr><tr><td>Quotation</td><td class="mono">--quote</td><td class="num">8.31</td><td><span class="badge ok">AAA</span></td><td class="num">10.61</td><td><span class="badge ok">AAA</span></td><td class="num">8.27</td><td><span class="badge ok">AAA</span></td><td class="num">10.59</td><td><span class="badge ok">AAA</span></td></tr><tr><td>Body on raised</td><td class="mono">--ink</td><td class="num">12.77</td><td><span class="badge ok">AAA</span></td><td class="num">10.51</td><td><span class="badge ok">AAA</span></td><td class="num">11.57</td><td><span class="badge ok">AAA</span></td><td class="num">9.92</td><td><span class="badge ok">AAA</span></td></tr><tr><td>Deletion</td><td class="mono">--danger</td><td class="num">7.11</td><td><span class="badge ok">AAA</span></td><td class="num">5.92</td><td><span class="badge ok">AA</span></td><td class="num">7.29</td><td><span class="badge ok">AAA</span></td><td class="num">6.25</td><td><span class="badge ok">AA</span></td></tr><tr><td>Insertion</td><td class="mono">--success</td><td class="num">7.18</td><td><span class="badge ok">AAA</span></td><td class="num">7.75</td><td><span class="badge ok">AAA</span></td><td class="num">7.36</td><td><span class="badge ok">AAA</span></td><td class="num">7.54</td><td><span class="badge ok">AAA</span></td></tr><tr><td>Pillar · truth</td><td class="mono">--p-truth</td><td class="num">5.91</td><td><span class="badge ok">AA</span></td><td class="num">5.69</td><td><span class="badge ok">AA</span></td><td class="num">7.02</td><td><span class="badge ok">AAA</span></td><td class="num">6.61</td><td><span class="badge ok">AA</span></td></tr><tr><td>Pillar · justice</td><td class="mono">--p-justice</td><td class="num">5.67</td><td><span class="badge ok">AA</span></td><td class="num">6.79</td><td><span class="badge ok">AA</span></td><td class="num">5.82</td><td><span class="badge ok">AA</span></td><td class="num">7.19</td><td><span class="badge ok">AAA</span></td></tr><tr><td>Pillar · mercy</td><td class="mono">--p-mercy</td><td class="num">5.92</td><td><span class="badge ok">AA</span></td><td class="num">7.42</td><td><span class="badge ok">AAA</span></td><td class="num">6.07</td><td><span class="badge ok">AA</span></td><td class="num">7.21</td><td><span class="badge ok">AAA</span></td></tr><tr><td>Pillar · sacrifice</td><td class="mono">--p-sacrifice</td><td class="num">7.16</td><td><span class="badge ok">AAA</span></td><td class="num">5.06</td><td><span class="badge ok">AA</span></td><td class="num">7.35</td><td><span class="badge ok">AAA</span></td><td class="num">6.38</td><td><span class="badge ok">AA</span></td></tr><tr><td>Informational border</td><td class="mono">--border-strong</td><td class="num">4.05</td><td><span class="badge warn">AA lg</span></td><td class="num">3.82</td><td><span class="badge warn">AA lg</span></td><td class="num">4.47</td><td><span class="badge warn">AA lg</span></td><td class="num">4.21</td><td><span class="badge warn">AA lg</span></td></tr></tbody>
+    <caption>Body text reaches AAA in all four palettes. Every text pair clears AA. Informational borders are tested against the 3:1 non-text threshold, not 4.5:1.</caption>
+  </table>
+  </div>
+
+  <hr>
+
+  <h2>Four · Every element</h2>
+  <p>You were right that the first draft skipped this. Bare tags were unstyled, which meant any plain HTML — a pasted chapter, a Markdown conversion, anything generated by a tool — fell back to browser defaults and broke the system. Every element below is now styled by tag, so correct HTML is correctly rendered with no classes at all.</p>
+
+  <div class="card card--decision">
+    <div class="card__label">A correction to v1.0</div>
+    v1.0 said "headings are classes, not tag selectors." That was over-cautious. Tags now carry sensible defaults so plain HTML works out of the box, and the utility classes remain as <em>overrides</em> for the case where semantic level and visual size need to differ — an <code>&lt;h3&gt;</code> that must look like a chapter opener gets <code>class="chapter-title"</code>. Tags for defaults, classes for exceptions.
+  </div>
+
+  <h3>Headings</h3>
+  <div class="sink">
+    <h1>h1 · Part Title <small>Cinzel Decorative, 2.75rem</small></h1>
+    <h2>h2 · Chapter Title <small>Cinzel Decorative, 2.2rem</small></h2>
+    <h3>h3 · Section <small>Cinzel, 1.75rem</small></h3>
+    <h4>h4 · Subsection <small>Cinzel, 1.4rem</small></h4>
+    <h5>h5 · Minor heading <small>Cinzel, 1.125rem</small></h5>
+    <h6>h6 · Eyebrow / label</h6>
+  </div>
+
+  <h3>Prose and text-level semantics</h3>
+  <div class="sink">
+    <p class="dropcap">Mercy is not the softening of justice. It is what justice looks like when it is <em>free</em>. A judge who waives a debt because he cannot be bothered to collect it has not shown <strong>mercy</strong>; he has shown indifference.</p>
+    <p>Inline specimens: <a href="#four">a link</a>, <strong>strong</strong>, <em>emphasis</em>, <small>small print</small>, <mark>highlighted</mark>, <del>deleted</del>, <ins>inserted</ins>, <abbr title="Catechism of the Catholic Church">CCC</abbr> with a title, <cite>a cited work</cite>, <q>an inline quotation</q>, <code>inline code</code>, <kbd>⌘K</kbd>, H<sub>2</sub>O, E=mc<sup>2</sup>, and <time datetime="2026-07-26">26 July 2026</time>.</p>
+    <address>St. John Paul II University Parish · Denton, Texas</address>
+  </div>
+
+  <h3>Quotations</h3>
+  <div class="sink">
+    <blockquote>
+      <p>Steadfast love and faithfulness meet; righteousness and peace kiss each other.</p>
+      <cite>Psalm 85:10 · RSV</cite>
+    </blockquote>
+    <blockquote>
+      <p>Greater love has no man than this, that a man lay down his life for his friends.</p>
+      <footer>John 15:13 · RSV</footer>
+    </blockquote>
+  </div>
+
+  <h3>Lists</h3>
+  <div class="sink">
+    <ul>
+      <li>Unordered item</li>
+      <li>Nested lists inherit spacing
+        <ul><li>Second level</li><li>Second level</li></ul>
+      </li>
+    </ul>
+    <ol>
+      <li>Ordered item — markers take the accent colour</li>
+      <li>Ordered item
+        <ol><li>Nested ordered</li></ol>
+      </li>
+    </ol>
+    <dl>
+      <dt>Covenant</dt>
+      <dd>A sacred bond of family, sworn rather than contracted — the form God's love takes.</dd>
+      <dt>Communion</dt>
+      <dd>The life-giving end of that bond, not merely its warmth.</dd>
+    </dl>
+  </div>
+
+  <h3>Tables</h3>
+  <div class="sink">
+    <table>
+      <caption>Table caption sits below and is set in the UI face.</caption>
+      <thead><tr><th>Chapter</th><th>Pillar</th><th>Status</th><th class="num">Words</th></tr></thead>
+      <tbody>
+        <tr><td>07</td><td>Mercy</td><td><span class="badge ok">Final</span></td><td class="num">2,340</td></tr>
+        <tr><td>08</td><td>Justice</td><td><span class="badge warn">In review</span></td><td class="num">2,118</td></tr>
+        <tr><td>09</td><td>Sacrifice</td><td><span class="badge bad">Blocked</span></td><td class="num">1,904</td></tr>
+      </tbody>
+      <tfoot><tr><td colspan="3">Total</td><td class="num">6,362</td></tr></tfoot>
+    </table>
+  </div>
+
+  <h3>Code, figures, disclosure, forms</h3>
+  <div class="sink">
+    <pre><code>&lt;div class="<b>definition</b>"&gt;
+  &lt;div class="<b>definition__label</b>"&gt;Canonical&lt;/div&gt;
+&lt;/div&gt;</code></pre>
+    <figure>
+      <div class="pillar-strip"><div style="background:var(--p-truth)"></div><div style="background:var(--p-justice)"></div><div style="background:var(--p-mercy)"></div><div style="background:var(--p-sacrifice)"></div></div>
+      <figcaption>Figure 1 — the four pillars, held at equal weight.</figcaption>
+    </figure>
+    <details><summary>A collapsed note</summary><p>Disclosure widgets are styled as cards, so editorial asides can be folded away without leaving the system.</p></details>
+    <fieldset>
+      <legend>Form controls</legend>
+      <label for="demo-in">Chapter title</label>
+      <input id="demo-in" type="text" placeholder="The Mercy That Does Not Lie">
+      <p style="margin:var(--space-3) 0 0"><button type="button">Button</button></p>
+    </fieldset>
+    <hr>
+    <div class="fleuron">✦ ✦ ✦</div>
+  </div>
+
+  <hr>
+
+  <h2>Five · Book components</h2>
+
+  <h3>The Definition</h3>
+  <div class="definition">
+    <div class="definition__label">Canonical · do not alter</div>
+    <div class="definition__text">God's Perfect Love is the sacred gift of covenant which binds truth, justice, mercy and sacrifice into life-giving communion.</div>
+  </div>
+  <p class="citation">No Oxford comma. "sacrifice", never "sacrificial". The four are co-equal — no styling may emphasise one.</p>
+
+  <h3>Scripture blocks</h3>
+  <div class="scripture">"Steadfast love and faithfulness meet; righteousness and peace kiss each other."<span class="scripture__cite">Psalm 85:10 · RSV</span></div>
+
+  <h3>The Four Pillars</h3>
+  <ul class="pillars">
+    <li class="pillar pillar--truth">Truth</li>
+    <li class="pillar pillar--justice">Justice</li>
+    <li class="pillar pillar--mercy">Mercy</li>
+    <li class="pillar pillar--sacrifice">Sacrifice</li>
+  </ul>
+  <p class="citation">Always labelled in text. Mercy-green and sacrifice-red are indistinguishable under deuteranopia, so colour never carries meaning alone.</p>
+
+  <h3>Redline</h3>
+  <div class="redline">
+    <div class="redline__label">Redline · Ch. 7 ¶4</div>
+    <del>Mercy is love's tenderness toward the weak.</del> <ins>Mercy costs the one who gives it — which is why it can only be understood at the foot of the Cross.</ins>
+  </div>
+  <p class="citation">The − and + glyphs are injected by CSS. They are the non-colour cue that keeps redlines readable in greyscale and under red-green colour blindness. Never override them.</p>
+
+  <h3>Cards</h3>
+  <div class="card card--theology"><div class="card__label">Theology</div>Doctrine and anything load-bearing to the argument.</div>
+  <div class="card card--decision"><div class="card__label">Decision</div>A settled editorial choice and its reasoning.</div>
+  <div class="card card--voice"><div class="card__label">Voice</div>Register, phrasing, the author's ear.</div>
+  <div class="card card--research"><div class="card__label">Research</div>Sources, findings, open threads.</div>
+  <div class="card card--rejected"><div class="card__label">Rejected</div>Considered and declined — kept so it is not re-proposed.</div>
+
+  <h3>Statistics</h3>
+  <div class="stats">
+    <div class="stat"><span class="stat__num">16</span><span class="stat__label">Chapters</span></div>
+    <div class="stat"><span class="stat__num">4</span><span class="stat__label">Pillars</span></div>
+    <div class="stat"><span class="stat__num">334</span><span class="stat__label">Pages</span></div>
+  </div>
+
+  <hr>
+
+  <h2 id="four">Six · Complete inventory</h2>
+
+  <h3>Elements styled by tag</h3>
+  <p>No classes required. Plain, correct HTML renders correctly.</p>
+  <table>
+    <thead><tr><th>Group</th><th>Elements</th></tr></thead>
+    <tbody>
+      <tr><td>Headings</td><td class="mono">h1 h2 h3 h4 h5 h6 · h*&gt;small</td></tr>
+      <tr><td>Text blocks</td><td class="mono">p · blockquote (+cite, footer) · address · hr · pre</td></tr>
+      <tr><td>Inline</td><td class="mono">a · strong · b · em · i · small · mark · del · s · ins · u · abbr[title] · cite · q · sub · sup · time · code · kbd · samp · var</td></tr>
+      <tr><td>Lists</td><td class="mono">ul · ol · li · li::marker · dl · dt · dd (nesting handled)</td></tr>
+      <tr><td>Tables</td><td class="mono">table · caption · thead · tbody · tfoot · tr · th · td · even-row striping</td></tr>
+      <tr><td>Media</td><td class="mono">figure · figcaption · img · video</td></tr>
+      <tr><td>Interactive</td><td class="mono">details · summary · button · label · input · textarea · select · fieldset · legend · progress · ::placeholder</td></tr>
+      <tr><td>Global</td><td class="mono">:focus-visible · ::selection · print · prefers-reduced-motion</td></tr>
+    </tbody>
+  </table>
+
+  <h3>Classes</h3>
+  <table>
+    <thead><tr><th>Group</th><th>Classes</th></tr></thead>
+    <tbody>
+      <tr><td>Root</td><td class="mono">.love · .love--red · .love--blue · .love--light · .love--dark</td></tr>
+      <tr><td>Layout</td><td class="mono">.page · .prose · .spread · .stack · .wide</td></tr>
+      <tr><td>Type overrides</td><td class="mono">.eyebrow · .lede · .meta · .dropcap · .citation</td></tr>
+      <tr><td>Ornament</td><td class="mono">.rule--short · .rule--center · .fleuron</td></tr>
+      <tr><td>Definition</td><td class="mono">.definition · .definition--hero · .definition__label · .definition__text</td></tr>
+      <tr><td>Scripture</td><td class="mono">.scripture · .scripture--bar · .scripture__cite</td></tr>
+      <tr><td>Pillars</td><td class="mono">.pillars · .pillar · .pillar--truth · .pillar--justice · .pillar--mercy · .pillar--sacrifice · .pillar-strip</td></tr>
+      <tr><td>Cards</td><td class="mono">.card · .card__label · .card--decision · .card--theology · .card--voice · .card--rejected · .card--research</td></tr>
+      <tr><td>Redline</td><td class="mono">.redline · .redline__label</td></tr>
+      <tr><td>Data</td><td class="mono">.badge · .badge.ok · .badge.warn · .badge.bad · .tag · .num · .mono · .stats · .stat · .stat__num · .stat__label · .toc</td></tr>
+      <tr><td>Utility</td><td class="mono">.btn · .btn.is-on · .no-print</td></tr>
+    </tbody>
+  </table>
+
+  <h3>On IDs</h3>
+  <p>The system defines <strong>no styling on IDs, deliberately</strong>. IDs outrank classes in specificity, which makes them hard to override, and they cannot repeat, which makes them useless for anything reusable. They have two jobs here, both structural:</p>
+  <ul>
+    <li><strong>Anchors</strong> — <code>id="ch-07"</code>, <code>id="pillar-mercy"</code>. Lowercase, hyphenated, prefixed by kind.</li>
+    <li><strong>Accessibility wiring</strong> — <code>aria-labelledby</code>, <code>aria-describedby</code>, <code>&lt;label for&gt;</code>.</li>
+  </ul>
+  <p>Script hooks should use <code>data-</code> attributes, as the variant switcher above does.</p>
+
+  <hr>
+
+  <h2>Seven · Applying the theme</h2>
+  <pre><code>&lt;html lang="en" class="<b>love love--red love--light</b>"&gt;
+  &lt;link rel="stylesheet" href="<b>love-theme.css</b>"&gt;
+  &lt;body&gt;&lt;div class="<b>page</b>"&gt; … &lt;/div&gt;&lt;/body&gt;
+&lt;/html&gt;</code></pre>
+  <p>Both axes are independent: pick one of <code>--red</code>/<code>--blue</code> and one of <code>--light</code>/<code>--dark</code>. Write both explicitly rather than relying on a default, so a document's appearance is never ambiguous.</p>
+  <p><strong>Migration from memory.css.</strong> Card variants, tables, tags, TOC, and stats were named to match what exists there, so <code>memory.html</code> should convert by swapping the stylesheet link and adding <code>class="love love--red love--dark"</code> to the root, then removing any surviving hard-coded hexes.</p>
+
+  <hr>
+
+  <h2>Eight · Standing rules</h2>
+  <div class="dodont">
+    <div class="do">
+      <h4>Always</h4>
+      <ul>
+        <li>Reference tokens, never hex values.</li>
+        <li>Write correct semantic HTML — the tag styling assumes it.</li>
+        <li>Give every colour-coded state a text label or glyph as well.</li>
+        <li>Use <code>--accent</code> for text, <code>--ornament</code> for everything else.</li>
+        <li>Re-run the contrast table after any token change, across all four palettes.</li>
+        <li>Quote Scripture from the RSV.</li>
+        <li>Reproduce the definition verbatim, with no Oxford comma.</li>
+      </ul>
+    </div>
+    <div class="dont">
+      <h4>Never</h4>
+      <ul>
+        <li>Set type below weight 400, or track body text.</li>
+        <li>Use Cinzel Decorative below 1.4rem or for body copy.</li>
+        <li>Put long-form reading or a redline on pure white.</li>
+        <li>Let one of the four pillars read as larger, brighter, or first.</li>
+        <li>Style anything via an ID.</li>
+        <li>Add a shadow, a gradient, or a radius above 3px. This is a book.</li>
+        <li>Mix red and blue tokens in one document.</li>
+      </ul>
+    </div>
+  </div>
+
+  <hr>
+  <p class="meta">The Love Theme · v2.0 · Specification for <em>What Is Love? God's Perfect Love</em></p>
+</div>
+
+<script>
+  var root=document.documentElement;
+  document.querySelectorAll('[data-v],[data-m]').forEach(function(b){
+    b.addEventListener('click',function(){
+      var v=b.dataset.v,m=b.dataset.m;
+      if(v){root.classList.remove('love--red','love--blue');root.classList.add('love--'+v);
+        document.querySelectorAll('[data-v]').forEach(function(x){x.classList.toggle('is-on',x===b)});}
+      if(m){root.classList.remove('love--light','love--dark');root.classList.add('love--'+m);
+        document.querySelectorAll('[data-m]').forEach(function(x){x.classList.toggle('is-on',x===b)});}
+    });
+  });
+</script>
+</body>
+</html>

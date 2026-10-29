@@ -24,7 +24,7 @@ Cross-test: Calvary = Aquinas at full volume. *Bonum* = truth about our conditio
 
 - **RSV translation required** for all Scripture quotations
 - **Matt 28 must always include v.18** (Christ's authority) — never just 28:19-20
-- **Never use:** `performed`, `earned`, `transaction`, `payment plan`, `debt-payment`, `unmercy`, `destiny` (banned everywhere in the book, 2026-10-29), `imputed` / `imputation`
+- **Never use:** `performed`, `earned`, `transaction`, `payment plan`, `debt-payment`, `unmercy`, `destiny` (banned everywhere in the book, 2026-10-29, except inside verbatim quotes), `imputed` / `imputation`
 - **`checklist` is permitted** when naming the reduction we warn against — i.e., love minimized into a checklist of items stripped of its underlying obligations of truth, justice, mercy and sacrifice. Do not use it to describe authentic love itself.
 - **Use only Catholic sources for theological authority** — do not cite or quote Protestant thinkers as authorities. Frame all doctrinal support through Catholic voices (Scripture, the Catechism, the saints, Catholic thinkers). Secular sources (e.g., social science, history) may be cited as corroboration, not as theological authority — e.g., Jonathan Haidt in Ch. 15.
 - **Never frame Protestant traditions or figures polemically or defensively** — always positive, charitable framing. Naming a Protestant tradition or individual is acceptable when the reference is respectful (e.g., citing a Protestant author approvingly).
@@ -44,7 +44,8 @@ Guidelines for writing new content and for double-checking important concepts. T
 **Words and wording**
 
 - **Avoid "progressive".** Use "progression" or another word.
-- **Avoid the loaded word "grace"** and the phrase "cooperate with grace" in passages for general readers. Use "God's Perfect Love", "Jesus' Perfect Love", "the Lord's Perfect Love" or "His Perfect Love".
+- **Never change a quote from an outside source.** No rule in this file alters a quotation from Scripture, the Catechism, a Church document, or any other source. A quote stays verbatim, even when it contains a banned or discouraged word.
+- **"Grace" is a loaded word.** In each chapter, use "Perfect Love" wording at least once in your own words where the passage is for general readers: "God's Perfect Love", "Jesus' Perfect Love", "the Lord's Perfect Love" or "His Perfect Love". Not every instance must change. Technical terms such as "the law of grace" may stay.
 - **Never write that God forces His gifts on us.** Do not write "makes us righteous"; write "formed", "conformed" or "transformed". Jesus does not "master" us: we kneel and give ourselves to Him.
 - **Do not call a same-sex union a "marriage".** Name the ideal "Complementary Covenant Marriage".
 - **Never say a source teaches more than it does.** Check each claim of the form "exactly what the Church teaches".

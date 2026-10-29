@@ -5,7 +5,7 @@ Edit `memory.html`, then run `bin/split-memory.py`.
 
 | File | Size | When to read |
 |---|---|---|
-| [core.md](core.md) | 20 KB | Standing rules, writing guidelines, voice, theology, rejected approaches, apologetics. Read this first, every session. |
+| [core.md](core.md) | 21 KB | Standing rules, writing guidelines, voice, theology, rejected approaches, apologetics. Read this first, every session. |
 | [structure.md](structure.md) | 21 KB | Book structure, chapter patterns, cross-chapter decisions. Read before restructuring or writing a new chapter. |
 | [research.md](research.md) | 8 KB | Scripture and research citations, future work, source file index. Read when you cite or plan. |
 | [chapters/ch05.md](chapters/ch05.md) | 0 KB | Decisions for this chapter. Read before you edit the chapter. |

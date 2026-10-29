@@ -1,0 +1,26 @@
+/* Neutral fallback tokens — used only when no brand stylesheet is supplied.
+   Deliberately plain: warm off-white ground, dark ink, one accent. If you are
+   reading this in a finished document, a brand was not passed to the builder. */
+.rv{
+  --surface:#f6f4ef; --raised:#eceae3; --sunken:#e2dfd6;
+  --border:#cfcabd; --border-strong:#7d7768;
+  --ink-strong:#1d1b17; --ink:#2c2924; --ink-muted:#5b564c; --ink-subtle:#6d6759;
+  --quote:#4a463d;
+  --accent:#6b5a2e; --accent-hover:#54471f; --accent-ink:#f6f4ef; --ornament:#b39b62;
+  --link:#1f4a6b; --focus:#1d1b17;
+  --danger:#8a2323; --danger-ink:#f6f4ef; --danger-hover:#6e1a1a;
+  --success:#1f5238; --success-ink:#f6f4ef; --info:#1f4a6b; --warn:#6b5518;
+  --ink-disabled:#6f6a5d;
+  --font-display:Georgia,'Times New Roman',serif; --font-title:Georgia,serif;
+  --font-body:Georgia,'Times New Roman',serif;
+  --font-ui:system-ui,-apple-system,sans-serif; --font-mono:ui-monospace,Menlo,monospace;
+  --size-2xs:.6875rem; --size-xs:.78rem; --size-sm:.875rem; --size-md:1rem;
+  --size-lg:1.125rem; --size-xl:1.4rem; --size-2xl:1.75rem; --size-3xl:2.2rem; --size-4xl:2.75rem;
+  --leading-tight:1.2; --leading-normal:1.5; --leading-prose:1.8;
+  --tracking-display:.01em; --tracking-eyebrow:.22em; --tracking-label:.14em;
+  --space-1:.25rem; --space-2:.5rem; --space-3:.75rem; --space-4:1rem;
+  --space-5:1.5rem; --space-6:2rem; --space-7:3rem; --space-8:4rem;
+  --measure:68ch; --measure-form:26rem; --radius:3px; --rule:1px; --rule-strong:2px;
+  --focus-width:2px; --focus-offset:2px; --control-h:2.5rem; --control-h-sm:2rem;
+  --z-sticky:100; --z-dropdown:200; --appbar-h:3.5rem;
+}

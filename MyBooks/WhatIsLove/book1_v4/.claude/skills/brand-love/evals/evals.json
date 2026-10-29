@@ -1,0 +1,17 @@
+{
+  "skill_name": "brand-love",
+  "evals": [
+    {"id": 0, "name": "general-web-onepager",
+     "prompt": "Can you put together a one-page HTML site for my consulting practice? Just the basics — a short intro about what I do, three service areas with a sentence each, and a contact line at the bottom. Save it as consulting.html.",
+     "expected_output": "A self-contained branded HTML page using the Love Brand, no book content.",
+     "files": []},
+    {"id": 1, "name": "data-report-dark",
+     "prompt": "I need an html report summarizing our Q2 numbers for the team — revenue was 1.42M (up from 1.19M), churn 4.2%, 38 new accounts, NPS 51. Include a table and pull out the key figures so they're scannable. I'll be reading it at night so make it dark. Call it q2-report.html",
+     "expected_output": "Dark-mode branded report with stats and a table; gold used as text is acceptable in dark.",
+     "files": []},
+    {"id": 2, "name": "book-chapter-excerpt",
+     "prompt": "Make an html page with an excerpt from chapter 7 of my book about mercy — a couple paragraphs, the canonical definition of God's Perfect Love, and Psalm 85:10. Something I could send to a friend to read.",
+     "expected_output": "Branded page, light mode, definition verbatim with no Oxford comma, RSV citation.",
+     "files": []}
+  ]
+}
