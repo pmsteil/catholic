@@ -25,7 +25,7 @@ Research dates: searches ran on 29 to 31 October 2026. Every search used the web
 | R4 | Canada assisted death | Proposed: Ch. 12 Mercy | Secondary, one table open |
 | R5 | Netherlands euthanasia of children | Cut from Premise 2 | Do not use |
 | R6 | No-fault divorce and the Reagan remark | Proposed: Ch. 12 Sacrifice | Secondary, book not opened |
-| R7 | Jamel Dunn | Proposed: Ch. 12 Mercy | Secondary, usable |
+| R7 | Jamel Dunn | Proposed: Ch. 12 Mercy | Checked; no age stated |
 | R8 | St. Josephine Bakhita | Proposed: Ch. 12 Justice | Usable |
 | R9 | The Ulma family | Set aside for Ch. 12 Covenant (may fit Truth later) | One detail open |
 | R10 | Sts. Louis and Zélie Martin | Chosen: Ch. 12 Covenant | Usable |
@@ -95,7 +95,7 @@ Research dates: searches ran on 29 to 31 October 2026. Every search used the web
 
 **Finding.** Health Canada's fifth annual report, released December 2024, covers 2023. It records 19,660 requests. 15,343 people received MAID. That is about 4.7% of all deaths, nearly one in twenty. This is 15.8% above 2022, and the rise is slowing. About 96% of cases were people whose natural death was reasonably foreseeable.
 
-**Law (my own knowledge, not searched).** Canada legalized MAID in 2016 for people near death. A second track opened in March 2021 for people whose death is not reasonably foreseeable.
+**Law (checked 2026-10-31).** Canada legalized MAID in 2016 for people near death. Bill C-7 received Royal Assent on 17 March 2021. It removed the requirement that natural death be reasonably foreseeable and created two tracks of safeguards. A person whose only medical condition is a mental illness is not eligible. Source: [Library of Parliament, Legislative Summary of Bill C-7](https://lop.parl.ca/sites/PublicWebsite/default/en_CA/ResearchPublications/LegislativeSummaries/432C7E) (primary; seen in search excerpts only).
 
 **Decision (2026-10-31).** Write "By 2023 it was about one death in twenty, and the law has been widened to people whose natural death is not reasonably foreseeable."
 
@@ -136,15 +136,22 @@ Research dates: searches ran on 29 to 31 October 2026. Every search used the web
 
 ## R7. Jamel Dunn
 
-**Finding.** Jamel Dunn, 32, drowned in a retention pond in Cocoa, Florida, on 9 July 2017. Teenagers aged 14 to 16 filmed him, laughed and mocked him. None called 911. His sister, Simone Scott, said he was disabled and walked with a cane. A family friend found the video on social media and gave it to the police. His body was recovered on 14 July. Police called the conduct inhumane but not illegal. The state attorney's office said the video did not give enough evidence for prosecution under Florida law.
+**Finding.** Jamel Dunn drowned in a retention pond in Cocoa, Florida, in July 2017 (most reports say 9 July). Teenagers filmed him, laughed and mocked him. None called 911. His sister, Simone Scott, said he was disabled and walked with a cane. A family friend found the video on social media and gave it to the police. His body was recovered on 14 July.
 
-**Caution.** One station (KATV) reported a possible misdemeanor charge for failure to report a death. Other sources do not confirm it. Do not write that the teens were charged.
+**Legal outcome (checked 2026-10-31).** Cocoa Police first said no law was broken. Later the chief said a misdemeanor charge of failure to report a death under Florida Statute 406.12 "could be applicable." On 22 June 2018 State Attorney Phil Archer declined to charge four juveniles and one adult. The Associated Press reported his reason: no Florida law requires a person to give emergency aid in this case. A bill to create such a duty was proposed in 2018 and failed. The chief called the conduct "utterly inhumane and cruel."
+
+**Age.** Sources disagree. July 2017 reports say 32. CBS Miami (July 2017) and the Associated Press (June 2018) say 31. Do not state his age.
+
+**Teenagers.** Reports give ages 14 to 16 or 14 to 18, and four or five teenagers. Do not state a number.
+
+**Decision (2026-10-31).** Write "a disabled man." Say the State Attorney declined to charge anyone because no Florida law required them to help. Do not write "Police called their conduct inhumane but not illegal", because the police position changed.
 
 **Sources.**
-- [Fox 35 Orlando](https://fox35orlando.com/news/police-teens-filmed-mocked-and-laughed-while-man-slowly-drowned) (secondary)
-- [WHYY](https://whyy.org/articles/florida-teens-filmed-a-mans-drowning-death-compassion-died-that-day-too) (secondary)
-- [WSVN, man with a disability](https://wsvn.com/news/local/teens-record-mock-man-with-disability-who-drowned-in-pond/) (secondary)
-- [Yahoo News, "Oh he just died"](https://news.yahoo.com/apos-oh-just-died-apos-042015634.html) (secondary)
+- [Associated Press via Fox 4, 22 June 2018](https://www.fox4news.com/news/no-charges-for-teens-who-taunted-drowning-disabled-man) (secondary; read in full)
+- [CBS Miami, 22 July 2017](https://www.cbsnews.com/miami/news/police-pursuing-charges-against-teens-mocked-drowning-man) (secondary; read in full)
+- [Fox 35 Orlando](https://fox35orlando.com/news/police-teens-filmed-mocked-and-laughed-while-man-slowly-drowned), [WHYY](https://whyy.org/articles/florida-teens-filmed-a-mans-drowning-death-compassion-died-that-day-too), [WSVN](https://wsvn.com/news/local/teens-record-mock-man-with-disability-who-drowned-in-pond/) (secondary)
+
+**Open.** The State Attorney's own release was not found. The sa18.org press pages returned 404.
 
 ## R8. St. Josephine Bakhita
 
@@ -259,11 +266,12 @@ Research dates: searches ran on 29 to 31 October 2026. Every search used the web
 
 **Finding.**
 - A 2024 *Lancet* study (IHME Global Burden of Disease) projects that 155 of 204 countries (76%) will be below replacement fertility by 2050 and 198 (97%) by 2100. It projects global fertility of 1.83 in 2050.
-- One map page says the UN's 2024 projections count 131 of 237 countries below replacement. I did not verify this against the UN.
+- United Nations, *World Population Prospects 2024*: 131 of 237 countries and areas (55%) are below replacement fertility (2.1), home to 68% of the world's people. Checked 2026-10-31 in secondary summaries of the UN release; the UN data portal was not opened.
+- OECD (*Society at a Glance 2024* and *Pensions at a Glance*): the total fertility rate was below replacement in 2022 in every OECD country except Israel. South Korea was about 0.7 in 2023. Italy, Japan and Spain were about 1.2. Seen in search excerpts from OECD pages; the pages returned HTTP 403 when fetched.
 - An August 2026 working paper argues the world may already be below replacement. It is one paper, not a consensus.
 - Pope Francis used "demographic winter" on 26 December 2021 (Angelus: "at least here in Italy"), in May 2022 and in May 2023 at the "General States of Births" conference in Rome. Cardinal Parolin raised it in 2024. No source was found for John Paul II or Benedict XVI using the phrase.
 
-**Decision (2026-10-31).** Write "the 'demographic winter' Pope Francis has warned of", not "the Popes." Write "below replacement across most of the developed world."
+**Decision (2026-10-31).** Write "the 'demographic winter' Pope Francis has warned of", not "the Popes." "Below replacement across most of the developed world" is supported by the OECD and UN figures above. Cite the OECD and the UN in the footnote, not the *Lancet* projection.
 
 **Sources.**
 - [EWTN, half of countries below replacement (Lancet)](https://www.ewtnnews.com/world/europe/half-of-countries-have-fertility-rates-below-replacement-level-study-finds) (secondary)

@@ -28,7 +28,7 @@ The sinner and saint in every pair are ones an atheist would judge as we do, so 
 
 **Urgency.** When mercy is lost, the helpless become a burden, and a society that sees them as a burden soon finds a way to be rid of them. It starts with indifference: we film the drowning man instead of jumping in. It ends by calling death mercy. Canada legalized assisted death in 2016 for the dying. By 2023 it was about one death in twenty, and the law has been widened to people whose natural death is not reasonably foreseeable.<sup>3</sup>
 
-**Sinner.** Jamel Dunn, a 32-year-old disabled man who drowned in a Florida pond in 2017 while teenagers filmed him, laughed, and called no one. Police called their conduct inhumane but not illegal.<sup>4</sup>
+**Sinner.** Jamel Dunn, a disabled man who drowned in a Florida pond in 2017 while teenagers filmed him, laughed, and called no one. The State Attorney declined to charge anyone, because no Florida law required them to help.<sup>4</sup>
 
 **Saint.** St. Teresa of Calcutta (India, died 1997; canonized 2016). She picked the dying up off the streets so they could die loved, and took in abandoned babies, so that the unwanted were held instead of thrown away.
 
@@ -99,9 +99,9 @@ Decided 2026-10-31: the Mercy saint stays St. Teresa of Calcutta, and the Covena
 
 1. Cumulative U.S. abortions since *Roe v. Wade* (1973). No agency publishes an official cumulative total. The National Right to Life Committee estimates about 63 million, built from CDC and Guttmacher Institute annual counts. For current annual figures, see Chapter 1, note 4.
 2. International Labour Organization, Walk Free and International Organization for Migration, *Global Estimates of Modern Slavery: Forced Labour and Forced Marriage* (2022): 27.6 million people in forced labor on a given day in 2021, 6.3 million of them in forced commercial sexual exploitation. The report's total of 49.6 million also counts 22 million people in forced marriage.
-3. Health Canada, *Fifth Annual Report on Medical Assistance in Dying in Canada, 2023* (December 2024): 15,343 people received assisted death in 2023, about 4.7% of all deaths in Canada. Since 2021, people whose natural death is not reasonably foreseeable have been eligible.
-4. Police statements reported by Fox 35 Orlando and WHYY, July 2017: Jamel Dunn, 32, drowned in a retention pond in Cocoa, Florida, on 9 July 2017. The teenagers, aged 14 to 16, filmed and mocked him and called no one.
+3. Health Canada, *Fifth Annual Report on Medical Assistance in Dying in Canada, 2023* (December 2024): 15,343 people received assisted death in 2023, about 4.7% of all deaths in Canada. Bill C-7 (Royal Assent, 17 March 2021) made people whose natural death is not reasonably foreseeable eligible.
+4. Reports in Fox 35 Orlando and CBS Miami (July 2017) and the Associated Press (22 June 2018): Jamel Dunn drowned in a retention pond in Cocoa, Florida, in July 2017. Teenagers filmed and mocked him and called no one. State Attorney Phil Archer declined to charge four juveniles and one adult. He noted that no Florida law requires a person to give emergency aid, and that a bill to create such a duty failed in 2018.
 5. U.S. Census Bureau, *Current Population Survey: Families and Living Arrangements* (2023 data), about 19 million children; see Chapter 1, note 2.
 6. Michael Reagan, *Twice Adopted*, reporting his father's remark; also reported in The Washington Times, 22 September 2009.
-7. Pope Francis, Angelus address, 26 December 2021 ("the demographic winter"), and later speeches in Rome in 2022 and 2023. On fertility trends, see the 2024 *Lancet* study of the Institute for Health Metrics and Evaluation, which projects that 155 of 204 countries will be below replacement fertility by 2050.
+7. OECD, *Society at a Glance 2024*: in 2022 the total fertility rate was below the replacement level of about 2.1 in every OECD country except Israel. United Nations, *World Population Prospects 2024*: 131 of 237 countries and areas are below replacement, home to about two-thirds of the world's people. Pope Francis, Angelus address, 26 December 2021 ("the demographic winter"), and later speeches in Rome in 2022 and 2023.
 8. Estimate by the demographer Jiang Quanbao of Xi'an Jiaotong University, reported in 2021. Other studies give different figures.
