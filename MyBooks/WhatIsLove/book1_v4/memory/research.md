@@ -2,6 +2,10 @@
 
 ## 13. Research & Scripture Citations
 
+### Fact research notes
+
+Checked facts, figures, people and saints live in `research-notes.md`, with sources, cautions and where the book uses each one. Read it before you research any fact. Add each new finding to it.
+
 ### Key Scriptural Anchors by Chapter
 
 #### Chapter 6 (Truth)

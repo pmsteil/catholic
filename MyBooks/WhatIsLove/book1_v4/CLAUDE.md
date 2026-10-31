@@ -15,3 +15,5 @@ Do not read `memory.html` in full in Claude Code. It is 470 KB and most of it is
 5. Search `memory/completed-log.md` with grep. Do not read it in full.
 
 `memory.html` stays the single source of truth. Edit it, never the `memory/` files. After each edit, run `bin/split-memory.py`.
+
+`research-notes.md` holds checked facts, figures, people and saints, with sources and where the book uses them. Read it BEFORE you research any fact. Add each new finding to it.

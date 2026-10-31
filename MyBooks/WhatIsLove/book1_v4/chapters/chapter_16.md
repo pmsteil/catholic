@@ -67,7 +67,7 @@ We can map exactly what's missing from each counterfeit—and see precisely how 
 
 These two counterfeits represent the ultimate harm to children: denying their very existence, or ending their capacity to ever bring the next generation into existence. Adults debate autonomy and identity while children suffer death or sterilization.
 
-Abortion eliminates 60+ million children in America alone—entire bloodlines ended, families that will never exist, grandchildren never born. The child's right to life—the most fundamental justice—is denied completely. Adults avoid the cost of parenthood through the ultimate sacrifice: the child's life—child sacrifice, echoing the ancient horrors God condemned (Leviticus 18:21). This is the exact inversion of Christ's love: instead of the strong voluntarily sacrificing for the weak, the weak are involuntarily sacrificed for the convenience of the strong.
+Abortion eliminates 60+ million children in America alone<sup>1</sup>—entire bloodlines ended, families that will never exist, grandchildren never born. The child's right to life—the most fundamental justice—is denied completely. Adults avoid the cost of parenthood through the ultimate sacrifice: the child's life—child sacrifice, echoing the ancient horrors God condemned (Leviticus 18:21). This is the exact inversion of Christ's love: instead of the strong voluntarily sacrificing for the weak, the weak are involuntarily sacrificed for the convenience of the strong.
 
 Gender ideology sterilizes children before they can understand the permanent consequences, destroying their future as parents. Children are told their bodies are wrong, that biological reality is negotiable. They undergo irreversible medical interventions that eliminate their fertility. Adults celebrate "authenticity" while children lose the ability to create the next generation.
 
@@ -242,3 +242,11 @@ But where does this Perfect Love come from? How do we access it? The answer is n
 - **St. John Chrysostom:** *On Marriage and Family Life*—Patristic wisdom on raising children
 - **G.K. Chesterton:** *What's Wrong with the World*—Defense of family and children
 - **Mary Eberstadt:** *How the West Really Lost God*—Family breakdown and loss of faith
+
+### Notes
+
+\footnotesize
+
+1. Cumulative U.S. abortions since *Roe v. Wade* (1973). No agency publishes an official cumulative total. The National Right to Life Committee estimates about 63 million, built from CDC and Guttmacher Institute annual counts. For current annual figures, see Chapter 1, note 4.
+
+\normalsize
