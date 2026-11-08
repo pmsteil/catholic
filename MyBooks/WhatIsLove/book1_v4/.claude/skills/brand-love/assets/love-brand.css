@@ -1,5 +1,7 @@
 /* ═══════════════════════════════════════════════════════════════════════
-   THE LOVE BRAND v1.0 — reference implementation
+   THE LOVE BRAND v1.1 — reference implementation
+   v1.1 (2026-11-08): inputs are 16px on touch screens (no iOS focus zoom); color-scheme; --label, --meta, --row-link text aliases that pass 4.5:1 on every ground (th, label, small, caption,
+   hint, breadcrumb, tag, placeholder use them); sticky th inside .table-scroll; sidebar collapses under 900px; .shell column minmax(0,1fr); [hidden]; .flash.
    Two variants (red · blue) × two modes (light · dark) = four palettes.
    Root classes:  .love .love--red|--blue  .love--light|--dark
    ═══════════════════════════════════════════════════════════════════════ */
@@ -126,6 +128,13 @@
   --danger-hover: #f6bcb6;       /* Pressed state for danger fills */
 }
 
+/* ── 1b. COLOUR ALIASES AND NATIVE CONTROLS (v1.1) ───────────────────── */
+/* Aliases of existing tokens, no new hex. --ink-subtle and --accent were measured on --surface only; on --raised, --sunken and
+   zebra or hover rows they fall under 4.5:1 in red light. Text that can sit on those grounds uses these instead. */
+.love{--label:var(--accent-hover); --meta:var(--ink-muted); --row-link:var(--ink-strong); color-scheme:light}
+.love--dark{color-scheme:dark}                 /* scrollbars, <select> popups and date pickers follow the mode */
+.love [hidden]{display:none!important}         /* .btn{display:inline-flex} beats the UA's [hidden]; htmx toggles it often */
+
 /* ── 2. NON-COLOUR TOKENS ─────────────────────────────────────────────── */
 .love {
   --font-display:'Cinzel Decorative','Cinzel',Georgia,serif;
@@ -172,7 +181,7 @@
   letter-spacing:var(--tracking-eyebrow);text-transform:uppercase;color:var(--accent)}
 .love h1+p,.love h2+p,.love h3+p,.love h4+p{margin-top:0}
 .love :is(h1,h2,h3,h4,h5,h6)>small{display:block;font-size:var(--size-sm);
-  font-family:var(--font-ui);font-weight:400;color:var(--ink-subtle);
+  font-family:var(--font-ui);font-weight:400;color:var(--meta);
   letter-spacing:.04em;margin-top:var(--space-2);text-transform:none}
 
 /* ── 5. TEXT-LEVEL ────────────────────────────────────────────────────── */
@@ -182,7 +191,7 @@
 .love a:hover{text-decoration-thickness:2px}
 .love strong,.love b{font-weight:700;color:var(--ink-strong)}
 .love em,.love i{font-style:italic}
-.love small{font-size:var(--size-xs);color:var(--ink-subtle)}
+.love small{font-size:var(--size-xs);color:var(--meta)}
 .love mark{background:color-mix(in srgb,var(--ornament) 34%,transparent);
   color:var(--ink-strong);padding:0 .15em;border-radius:2px}
 .love del,.love s{color:var(--danger);text-decoration:line-through;text-decoration-thickness:1px}
@@ -197,13 +206,13 @@
 .love address{font-style:normal;color:var(--ink-muted);margin:0 0 var(--space-4)}
 .love .lede{font-size:var(--size-lg);color:var(--ink-muted)}
 .love .meta{font-family:var(--font-ui);font-size:var(--size-2xs);
-  letter-spacing:var(--tracking-label);text-transform:uppercase;color:var(--ink-subtle)}
+  letter-spacing:var(--tracking-label);text-transform:uppercase;color:var(--meta)}
 .love .eyebrow{font-family:var(--font-title);font-size:var(--size-2xs);
   letter-spacing:var(--tracking-eyebrow);text-transform:uppercase;color:var(--accent);
   margin:0 0 var(--space-2)}
 .love .dropcap::first-letter{float:left;font-family:var(--font-title);font-size:3.2em;
   line-height:.82;padding:.06em .12em 0 0;color:var(--accent)}
-.love .citation{font-family:var(--font-ui);font-size:var(--size-xs);color:var(--ink-subtle)}
+.love .citation{font-family:var(--font-ui);font-size:var(--size-xs);color:var(--meta)}
 
 /* ── 6. QUOTATIONS ────────────────────────────────────────────────────── */
 .love blockquote{margin:var(--space-5) 0;padding:var(--space-2) 0 var(--space-2) var(--space-4);
@@ -228,15 +237,15 @@
 .love hr{border:0;border-top:var(--rule) solid var(--border);margin:var(--space-6) 0}
 .love figure{margin:var(--space-5) 0}
 .love figure img,.love img,.love video{max-width:100%;height:auto;border-radius:var(--radius)}
-.love figcaption{font-family:var(--font-ui);font-size:var(--size-xs);color:var(--ink-subtle);
+.love figcaption{font-family:var(--font-ui);font-size:var(--size-xs);color:var(--meta);
   margin-top:var(--space-2);text-align:center}
 
 /* ── 9. TABLES ────────────────────────────────────────────────────────── */
 .love table{width:100%;border-collapse:collapse;margin:var(--space-4) 0;font-size:var(--size-sm)}
 .love caption{caption-side:bottom;font-family:var(--font-ui);font-size:var(--size-xs);
-  color:var(--ink-subtle);padding-top:var(--space-2);text-align:left}
+  color:var(--meta);padding-top:var(--space-2);text-align:left}
 .love th{text-align:left;font-family:var(--font-ui);font-size:var(--size-2xs);font-weight:600;
-  letter-spacing:var(--tracking-label);text-transform:uppercase;color:var(--accent);
+  letter-spacing:var(--tracking-label);text-transform:uppercase;color:var(--label);
   border-bottom:var(--rule-strong) solid var(--border-strong);padding:var(--space-2) var(--space-3)}
 .love td{padding:var(--space-2) var(--space-3);border-bottom:var(--rule) solid var(--border);
   vertical-align:top}
@@ -269,12 +278,12 @@
 .love button[aria-pressed="true"],.love .btn.is-on{background:var(--accent);color:var(--accent-ink);
   border-color:var(--accent)}
 .love label{display:block;font-family:var(--font-ui);font-size:var(--size-2xs);
-  letter-spacing:var(--tracking-label);text-transform:uppercase;color:var(--accent);
+  letter-spacing:var(--tracking-label);text-transform:uppercase;color:var(--label);
   margin-bottom:var(--space-1)}
 .love input,.love textarea,.love select{font-family:var(--font-body);font-size:var(--size-sm);
   background:var(--surface);color:var(--ink);border:var(--rule) solid var(--border-strong);
   border-radius:var(--radius);padding:var(--space-2) var(--space-3);width:100%}
-.love input::placeholder,.love textarea::placeholder{color:var(--ink-subtle)}
+.love input::placeholder,.love textarea::placeholder{color:var(--meta)}
 .love fieldset{border:var(--rule) solid var(--border);border-radius:var(--radius);
   padding:var(--space-4);margin:var(--space-4) 0}
 .love legend{font-family:var(--font-ui);font-size:var(--size-2xs);
@@ -363,7 +372,7 @@
 .stat{background:var(--raised);border-radius:var(--radius);padding:var(--space-3);text-align:center}
 .stat__num{font-family:var(--font-title);font-size:var(--size-2xl);color:var(--accent);display:block}
 .stat__label{font-family:var(--font-ui);font-size:var(--size-2xs);
-  letter-spacing:var(--tracking-label);text-transform:uppercase;color:var(--ink-subtle)}
+  letter-spacing:var(--tracking-label);text-transform:uppercase;color:var(--meta)}
 .toc{background:var(--raised);border-radius:var(--radius);padding:var(--space-4) var(--space-5);
   margin:var(--space-5) 0}
 .toc ol{counter-reset:toc;list-style:none;padding:0;margin:0}
@@ -440,10 +449,10 @@
 .love .field__label, .love label{
   display:block; font-family:var(--font-ui); font-size:var(--size-2xs);
   letter-spacing:var(--tracking-label); text-transform:uppercase;
-  color:var(--accent); margin-bottom:var(--space-1)}
+  color:var(--label); margin-bottom:var(--space-1)}
 .love .field__label .req{color:var(--danger)}
 .love .field__hint{font-family:var(--font-ui); font-size:var(--size-2xs);
-  color:var(--ink-subtle); margin-top:var(--space-1)}
+  color:var(--meta); margin-top:var(--space-1)}
 .love .field__error{font-family:var(--font-ui); font-size:var(--size-2xs);
   color:var(--danger); margin-top:var(--space-1)}
 .love .field__error::before{content:"! "; font-weight:700}   /* non-colour cue */
@@ -495,9 +504,10 @@
    The underline uses --border-strong, not --ornament: gold cannot reach the
    3:1 non-text threshold on a light ground, and this carries information. */
 .love .nav a[aria-current="page"]{color:var(--ink-strong); border-bottom-color:var(--border-strong)}
-.love .shell{display:grid; grid-template-columns:1fr; gap:var(--space-6);
+.love .shell{display:grid; grid-template-columns:minmax(0,1fr); gap:var(--space-6);
   max-width:1080px; margin:0 auto; padding:var(--space-6) var(--space-5)}
-@media(min-width:900px){.love .shell--sidebar{grid-template-columns:220px 1fr}}
+@media(min-width:900px){.love .shell--sidebar{grid-template-columns:220px minmax(0,1fr)}}
+.love .shell > *{min-width:0}                 /* one wide table or <pre> must not widen the whole page (measured: 375px phone laid out at 967px) */
 .love .sidebar{border-right:0}
 @media(min-width:900px){.love .sidebar{border-right:var(--rule) solid var(--border);
   padding-right:var(--space-5)}}
@@ -505,9 +515,15 @@
 .love .sidebar .nav a{border-bottom:0; border-left:var(--rule-strong) solid transparent;
   padding:var(--space-1) 0 var(--space-1) var(--space-3)}
 .love .sidebar .nav a[aria-current="page"]{border-left-color:var(--border-strong)}
+/* Under 900px the sidebar is a wrapping row of links, not a column of 11 stacked links (half a phone screen). */
+@media(max-width:899px){
+  .love .sidebar .nav{flex-direction:row; flex-wrap:wrap; gap:var(--space-1) var(--space-4)}
+  .love .sidebar .nav a{border-left:0; border-bottom:var(--rule-strong) solid transparent; padding:var(--space-1) 0}
+  .love .sidebar .nav a[aria-current="page"]{border-bottom-color:var(--border-strong)}
+}
 .love .breadcrumb{display:flex; flex-wrap:wrap; gap:var(--space-2); list-style:none;
   margin:0 0 var(--space-4); padding:0; font-family:var(--font-ui); font-size:var(--size-2xs);
-  letter-spacing:var(--tracking-label); text-transform:uppercase; color:var(--ink-subtle)}
+  letter-spacing:var(--tracking-label); text-transform:uppercase; color:var(--meta)}
 .love .breadcrumb li+li::before{content:"/ "; color:var(--border-strong)}
 
 /* ── 28. LOCKUP & AVATAR ──────────────────────────────────────────────── */
@@ -523,7 +539,7 @@
 .love .lockup--lg .lockup__word{font-family:var(--font-display); font-size:var(--size-2xl)}
 .love .lockup--lg .lockup__mark{width:3rem; height:3rem; font-size:var(--size-xl)}
 .love .lockup__sub{display:block; font-family:var(--font-ui); font-size:var(--size-2xs);
-  letter-spacing:var(--tracking-eyebrow); text-transform:uppercase; color:var(--ink-subtle)}
+  letter-spacing:var(--tracking-eyebrow); text-transform:uppercase; color:var(--meta)}
 /* Avatars are square at --radius, not round — the 3px cap is deliberate.
    Identity is never carried by colour, so no per-user tinting. */
 .love .avatar{width:2rem; height:2rem; flex:none; display:grid; place-items:center;
@@ -613,7 +629,7 @@
 /* Divider with a label, for "or" between a primary and an alternative path. */
 .love .or{display:flex; align-items:center; gap:var(--space-3); margin:var(--space-4) 0;
   font-family:var(--font-ui); font-size:var(--size-2xs);
-  letter-spacing:var(--tracking-label); text-transform:uppercase; color:var(--ink-subtle)}
+  letter-spacing:var(--tracking-label); text-transform:uppercase; color:var(--meta)}
 .love .or::before, .love .or::after{content:""; flex:1;
   border-top:var(--rule) solid var(--border)}
 
@@ -664,11 +680,19 @@
 /* Pagination. Pair a disabled control with a hint saying why. */
 .love .pagination{display:flex; align-items:center; gap:var(--space-3); flex-wrap:wrap;
   margin-top:var(--space-4); font-family:var(--font-ui); font-size:var(--size-2xs);
-  letter-spacing:var(--tracking-label); text-transform:uppercase; color:var(--ink-subtle)}
+  letter-spacing:var(--tracking-label); text-transform:uppercase; color:var(--meta)}
 .love .pagination__spacer{flex:1}
 
 /* Data-table helpers: horizontal scroll container, selection column, bulk bar. */
 .love .table-scroll{overflow-x:auto; margin:var(--space-4) 0}
+/* iOS Safari zooms the page when an input under 16px gets focus, and the viewport stays zoomed. On touch screens inputs are 16px.
+   The selector repeats the base rule's :not() list so it is exactly as specific and, coming later, wins. */
+@media(pointer:coarse){
+  .love input:not([type=checkbox]):not([type=radio]):not([type=range]):not([type=file]), .love textarea, .love select{font-size:max(16px,1rem)}
+}
+/* A scrolling wrapper becomes the sticky container, so a .table--sticky header never pinned inside it. Above the phone width the wrapper
+   stops scrolling; below it the table scrolls sideways and the header scrolls with it. */
+@media(min-width:700px){.love .table-scroll{overflow:visible}}
 .love .table-scroll table{margin:0}
 .love .col-select{width:2.5rem; text-align:center}
 .love .col-select input{margin:0}
@@ -683,7 +707,13 @@
 .love .badge--p3{color:var(--p-mercy); border-color:var(--p-mercy)}
 .love .badge--p4{color:var(--p-sacrifice); border-color:var(--p-sacrifice)}
 /* .tag is a label on a thing; .badge is a state of a thing. Tags are quieter. */
-.love .tag{border-style:dashed; color:var(--ink-subtle)}
+.love .tag{border-style:dashed; color:var(--meta)}
+
+/* A live region for short messages (one persistent element; its content is swapped). Fixed to the bottom, never blocks taps. */
+.love .flash{position:fixed; left:0; right:0; bottom:var(--space-4); z-index:calc(var(--z-sticky) + 2); pointer-events:none;
+  padding:0 var(--space-4)}
+.love .flash:empty{display:none}
+.love .flash .alert{pointer-events:auto; max-width:40rem; margin:var(--space-2) auto 0; background:var(--raised)}
 
 /* Tab panels. */
 .love .tabs [aria-selected="true"]{border-bottom-color:var(--border-strong)}
